@@ -1,0 +1,46 @@
+id;source;nature;groupe;enveloppes;risque;rejete;statique_2027_pts;statique_2030_pts;statique_2035_pts;statique_2030_mdeur_ech2025;dans_K1;dans_K2;dans_K3;dans_K4;dans_K5
+P-A13-001;A13;depense;REVENU_RETRAITES;PCA;eleve;oui;0.146;0.158;0.158;4.716;oui;non;non;oui;oui
+P-A13-002;A13;depense;REVENU_RETRAITES;PCA;eleve;non;0.0;0.065;0.106;1.945;oui;non;oui;oui;oui
+P-A13-003;A13;depense;AGE_DUREE;PCA;eleve;oui;0.061;0.041;0.013;1.241;oui;oui;non;oui;oui
+P-A13-004;A13;depense;AGE_DUREE;CA;eleve;non;0.0;0.0;0.363;0.0;oui;oui;oui;non;oui
+P-A13-005;A13;depense;IJ;PCA;moyen;non;0.057;0.095;0.097;2.837;oui;oui;oui;oui;oui
+P-A13-006;A13;depense;PRODUITS_SANTE;PCA;moyen;non;0.061;0.05;0.051;1.507;oui;oui;oui;oui;oui
+P-A13-007;A13;depense;RESTE_A_CHARGE;PCA;eleve;non;0.048;0.073;0.073;2.172;oui;oui;oui;oui;oui
+P-A13-008;A13;depense;CONVENTIONNEL;PCA;moyen;non;0.019;0.0;0.0;0.0;oui;oui;oui;oui;oui
+P-A13-009;A13;depense;AIDES_LOGEMENT;CA;moyen;non;0.0;0.014;0.013;0.404;oui;oui;oui;non;oui
+P-A13-010;A13;depense;MASSE_SALARIALE;PCA;moyen;non;0.124;0.124;0.124;3.723;oui;oui;oui;oui;oui
+P-A13-011;A13;depense;MASSE_SALARIALE_ENS;PCA;moyen;non;0.003;0.006;0.006;0.177;oui;oui;oui;oui;oui
+P-A13-011b;A13;depense;MASSE_SALARIALE_ENS;CA;moyen;non;0.0;0.018;0.044;0.532;oui;oui;oui;non;oui
+P-A13-012;A13;depense;EMPLOI_FORMATION;PCA;faible;non;0.057;0.068;0.068;2.039;oui;oui;oui;oui;oui
+P-A13-013;A13;PO;ALLEGEMENTS;PCA;moyen;non;0.23;0.23;0.231;6.87;non;non;non;non;non
+P-A13-014;A13;depense;AIDES_BUDGETAIRES;CA;moyen;non;0.0;0.028;0.028;0.842;oui;oui;oui;non;oui
+P-A13-015;A13;PO;CIR;CA;moyen;non;0.014;0.014;0.014;0.425;non;non;non;non;oui
+P-A13-016;A13;depense (transfert);TRANSFERTS_LOCAUX;PCA;eleve;oui;0.044;0.044;0.044;1.325;oui;oui;non;oui;oui
+P-A13-017;A13;depense (transfert);TRANSFERTS_LOCAUX;PCA;eleve;oui;0.142;0.142;0.142;4.241;oui;oui;non;oui;oui
+P-A13-018;A13;depense;OPERATEURS;CA;faible;non;0.0;0.016;0.016;0.479;oui;oui;oui;non;oui
+P-A13-019;A13;depense;CULTURE;PCA;faible;non;0.01;0.013;0.013;0.381;oui;oui;oui;oui;oui
+P-A14-001;A14;PO;"G-RETRAITES-IR ; G-LOGEMENT";PCA;eleve;oui;0.102;0.102;0.102;3.04;oui;oui;non;oui;oui
+P-A14-002;A14;PO;G-ALLEGEMENTS;PCA;moyen;non;0.124;0.124;0.124;3.72;oui;oui;oui;oui;oui
+P-A14-003;A14;PO;G-SANTE-OC;PCA;moyen;non;0.033;0.0;0.0;0.0;oui;oui;oui;oui;oui
+P-A14-004;A14;PO;G-FRAUDE;PCA;moyen;non;0.027;0.027;0.027;0.8;oui;oui;oui;oui;oui
+P-A14-005;A14;PO;G-DIVERS-PLF;PCA;moyen;non;0.057;0.057;0.057;1.7;oui;oui;oui;oui;oui
+P-A14-006;A14;PO;G-EXCEPTIONNEL;CA;moyen;non;0.047;0.0;0.0;0.0;oui;oui;oui;non;oui
+P-A14-007;A14;PO;G-IS;PCA;eleve;oui;0.189;0.189;0.189;5.66;oui;oui;non;oui;oui
+P-A14-008;A14;PO;G-CAPITAL;PCA;moyen;non;0.01;0.01;0.01;0.3;oui;oui;oui;oui;oui
+P-A14-009;A14;PO;G-RETRAITES-IR (exclusif du gel des pensions, Cour n°1);CA;eleve;oui;0.147;0.147;0.147;4.4;non;oui;non;non;non
+P-A14-010;A14;PO;G-ALLEGEMENTS;CA;eleve;oui;0.024;0.024;0.024;0.72;oui;oui;non;non;oui
+P-A14-011;A14;PO;G-TVA (exclusif de 10->13 %, Cour n°14 option 2);CA;moyen;non;0.131;0.131;0.131;3.91;oui;oui;oui;non;oui
+P-A14-012;A14;PO;G-CISAP;PCA;moyen;non;0.031;0.031;0.031;0.94;oui;oui;oui;oui;oui
+P-A14-013;A14;PO;G-TRANSMISSION;PCA;moyen;non;0.04;0.04;0.04;1.21;oui;oui;oui;oui;oui
+P-A14-014;A14;PO;G-LOGEMENT;PCA;moyen;non;0.009;0.02;0.02;0.59;oui;oui;oui;oui;oui
+P-A14-015;A14;PO;G-TRANSMISSION;CA;moyen;non;0.028;0.113;0.113;3.38;oui;oui;oui;non;oui
+P-A14-016;A14;PO;G-TRANSMISSION;A;moyen;non;0.0;0.025;0.05;0.75;non;non;non;non;oui
+P-A14-017;A14;PO;G-ALLEGEMENTS;CA;moyen;non;0.0;0.187;0.497;5.58;oui;oui;oui;non;oui
+P-A14-018;A14;PO;G-ALLEGEMENTS;CA;moyen;non;0.0;-0.033;-0.033;-1.0;oui;oui;oui;non;oui
+P-A14-019;A14;PO;G-CIR;PCA;moyen;non;0.006;0.02;0.02;0.59;oui;oui;oui;oui;oui
+P-A14-020;A14;PO;G-CAPITAL;CA;moyen;non;0.0;0.017;0.017;0.5;oui;oui;oui;non;oui
+P-A14-021;A14;PO;G-CAPITAL (exclusif d'un ISF retabli);;moyen;non;0.0;0.2;0.2;5.98;non;non;non;non;non
+P-A14-022;A14;PO;G-FRAUDE;CA;moyen;non;0.0;0.055;0.055;1.65;oui;oui;oui;non;oui
+P-A14-023;A14;PO;G-FRAUDE;CA;moyen;non;0.0;0.013;0.013;0.38;oui;oui;oui;non;oui
+P-A14-024;A14;PO;G-IR-BAREME;A;moyen;non;0.096;0.096;0.096;2.88;non;non;non;non;oui
+P-A14-027;A14;PO;G-IR-BAREME;A;moyen;non;0.0;0.15;0.15;4.5;non;non;non;non;oui

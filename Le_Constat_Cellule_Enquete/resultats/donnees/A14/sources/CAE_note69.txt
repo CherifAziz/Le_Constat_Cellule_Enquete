@@ -1,0 +1,1339 @@
+
+=== PAGE PDF 1 ===
+Cette note est publiée sous la responsabilité des auteurs et n’engage que ceux-ci.
+Clément Dherbécourta, Gabrielle Fackb, 
+Camille Landaisc et Stefanie Stantchevad
+Repenser l’héritage
+A
+près un reflux des inégalités de patrimoine et une 
+forte mobilité économique et sociale durant la 
+seconde moitié du XXe siècle, l’héritage redevient 
+un facteur déterminant dans la constitution du patrimoine 
+dans les pays industrialisés. En France, la part de la for­
+tune héritée dans le patrimoine total représente désor­
+mais 60 % contre 35 % au début des années 1970. Ce 
+retour de l’héritage, extrêmement concentré, nourrit une 
+dynamique de renfor­cement des inégalités patrimoniales 
+fondées sur la naissance et dont l’ampleur est beaucoup 
+plus élevée que les inégalités observées pour les revenus 
+du travail. C’est ce qui explique, au niveau international, le 
+regain d’intérêt porté aux politiques de redistribution du 
+flux successoral afin de promouvoir l’égalité des chances. 
+Si la France affiche des niveaux de taxation successorale 
+élevés par rapport à ses voisins, cela tient en grande partie 
+au maintien de la forte différentiation de la fiscalité entre 
+lignes directes et indirectes, en dépit des modifications pro­
+fondes des structures familiales. Le système de taxation 
+français, progressif par son barème, est cependant mité 
+par des dispositifs d’exonération ou d’exemption (assu­
+rance-vie, démembrement de propriété, transmission d’en­
+treprises familiales…) dont les justifications économiques 
+sont faibles. Nous présentons une analyse quantifiée ori­
+ginale du coût fiscal de ces exonérations et montrons 
+qu’elles bénéficient surtout aux plus grandes transmissions 
+et qu’elles réduisent très significativement la progressi­vité 
+de l’impôt tout en haut de la distribution. Le manque de fia­
+bilité du système d’information actuel de collecte de l’im­
+pôt empêche une évaluation précise de la situation. Ceci 
+est dommageable à plusieurs titres : difficulté d’évaluer les 
+politiques fiscales, contrôles fiscaux peu efficaces, informa­
+tion publique lacunaire… L’impôt sur l’héritage est d’ailleurs 
+un des impôts les moins acceptés par l’opinion publique, 
+et ce principalement du fait du manque d’information et de 
+perceptions erronées.
+Cette Note propose une réforme en profondeur de la taxa­
+tion de l’héritage s’appuyant sur quatre piliers. Le premier 
+pilier est l’amélioration du système d’information actuel, 
+sans lequel aucune réforme et aucun pilotage ne sont envi­
+sageables. Le deuxième est la mise en place d’une politique 
+de taxation sur le flux successoral total perçu par l’indi­vidu 
+tout au long de sa vie afin de réduire les inégalités de patri­
+moine issues de l’héritage. Un tel système permettrait d’éli­
+miner les distorsions quant au séquencement des transmis­
+sions et de traiter de manière identique les héritages en 
+lignes directes et indirectes. Le troisième pilier consiste en 
+une refonte de l’assiette des droits de succession : réduire 
+voire éliminer les principales exemptions ou exonérations 
+dont la justification économique est limitée. Ceci permet­
+trait d’instaurer des taux nominaux plus bas mais réel­
+lement progressifs, en particulier en haut de la distribu­
+tion des patrimoines, tout en réduisant la taxation sur les 
+classes moyennes. Enfin, pour réduire les inégalités les plus 
+extrêmes dans le bas de la distribution, la création d’une 
+garantie de capital pour tous constitue le quatrième pilier. 
+Nos simulations avec différents scénarios montrent qu’une 
+réforme élargissant l’assiette mais diminuant les taux nomi­
+naux peut réduire les droits de succession pour 99 % de la 
+population tout en apportant un surplus de recettes fiscales 
+substantiel permettant de financer des dépenses publiques 
+ou de réduire les droits de succession pour les plus petits 
+héritages ou d’autres impôts des ménages.
+a France Stratégie ; b Université Paris-Dauphine, membre du CAE ; c London School of Economics (LSE), membre du CAE ; 
+d Université de Harvard, membre du CAE.
+Les notes du conseil d’analyse économique, n° 69, Décembre 2021
+
+=== PAGE PDF 2 ===
+Repenser l’héritage
+2
+Les notes du conseil d’analyse économique, n° 69
+Le retour du patrimoine hérité, 
+et son importance dans la dynamique 
+des inégalités
+La France était à la fin de la Belle époque, du point de vue patri­
+monial, une société d’héritiers comme beaucoup d’autres pays 
+développés. Cette société, caractérisée par des niveaux d’iné­
+galités très élevés largement déterminés par la naissance, a 
+connu une réorganisation brutale au cours de la première partie 
+du XXe siècle, sous le coup d’une série de chocs économiques, 
+politiques et sociaux. La seconde partie du XXe siècle fut ainsi 
+une période de faible inégalité et de forte mobilité économique 
+et sociale. L’importance du patrimoine, et en particulier du patri­
+moine hérité, y était faible et les inégalités étaient essentiel­
+lement façonnées par les inégalités de revenus du travail.
+L’héritage est de retour
+Mais, depuis une trentaine d’années, cette société « sans héri­
+tiers » disparaît à grande vitesse. Quatre grands faits stylisés 
+permettent d’en rendre compte. Premièrement, la forte aug­
+mentation du patrimoine dans le revenu total : il représentait 
+300 % du revenu national en 1970, contre 600 % en 2020. Par 
+ailleurs, et c’est le deuxième fait important, la concentration 
+du patrimoine augmente significativement depuis une tren­
+taine d’années. Cette tendance, très marquée aux États-Unis1, 
+est également observable en France2 où la part des 1 % des 
+fortunes les plus élevées dans le patrimoine total est passée 
+de 15 à 25 % entre 1985 et 20153. Troisièmement, le flux suc­
+cessoral augmente fortement : alors que la somme des trans­
+missions patrimoniales représentait à peine 5  % du revenu 
+national en 1950, elle dépasse 15 % aujourd’hui (graphique 1). 
+En d’autres termes, si la masse de patrimoine accumulée aug­
+mente rapidement, elle n’est pas intégralement consommée 
+au cours de la vie, une partie importante étant transmise aux 
+générations futures. En conséquence, l’héritage devient à 
+nouveau un facteur déterminant dans la constitution du patri­
+moine (graphique 1) : la fortune héritée représente désormais 
+60 % du patrimoine total contre 35 % en moyenne au début des 
+années 1970. Cette tendance est commune à tous les pays 
+développés mais elle semble particulièrement forte en France.
+De retour, l’héritage a également changé de forme et de nature. 
+Tout d’abord, l’âge des héritiers a considérablement augmenté, 
+à mesure que l’espérance de vie s’est allongée. L’âge moyen 
+des héritiers est aujourd’hui d’environ 50 ans, contre 30 ans au 
+début du siècle dernier. Dans le même temps, la part des dons 
+entre vifs a également fortement cru : elle était, aux alentours de 
+1900, d’un peu plus de 10 % des transmissions, elle en repré­
+sente aujourd’hui près de la moitié. Les transmissions patrimo­
+niales sont donc plus étalées dans le temps, et beaucoup plus 
+planifiées qu’auparavant. Enfin, il est beaucoup plus rare de mou­
+rir sans conjoint ou héritiers directs qu’il y a un siècle. La part 
+des successions en ligne indirecte a donc diminué. Cependant, 
+la fiscalité française continue à traiter de manière extrêmement 
+différente ces transmissions en ligne indirecte, et ce en dépit des 
+modifications profondes des structures familiales, qui poussent 
+de plus en plus de familles à opérer de manière volontaire des 
+donations vers des beaux-enfants ou des parents collatéraux. La 
+France n’est pas la seule dans ce cas, mais elle se singularise par 
+des taux marginaux nettement plus élevés en ligne indirecte, et ce 
+même pour les petites transmissions. C’est ce qui explique qu’en 
+dépit de représenter moins de 10 % du capital transmis, les suc­
+cessions et donations en ligne indirecte rapportent plus de 50 % 
+des droits de mutation à titre gratuit (DMTG), et permettent en 
+partie de rendre compte de la forte part des DMTG dans le PIB en 
+France, par comparaison aux autres pays de l’OCDE4.
+Les auteurs remercient les membres du CAE pour leurs conseils, Kevin Parra Ramirez et Thomas Renault, Conseillers scientifiques au CAE, pour leur 
+suivi, Étienne Fize, Économiste au CAE, pour son aide dans l’élaboration de cette Note ainsi que Camille Biernat et Nicolas Grimprel pour leur contribution 
+sur l’analyse de données. Ils remercient également les différentes personnes rencontrées dans le cadre de ce travail, notamment Marc Bornhauser et 
+Laurent Martel ainsi que les différents services de la DGFiP pour les travaux d’extraction de données réalisés et les explications fournies.
+1 Saez E. et G. Zucman (2016) : « Wealth Inequality in the United States Since 1913: Evidence from Capitalized Income Tax Data », The Quarterly Journal of 
+Economics, vol. 131, n° 2, pp. 519-578. Smith M., O.M. Zidar et E. Zwick (2021) : « Top Wealth in America: New Estimates and Implications for Taxing the 
+Rich », National Bureau of Economic Research, n° w29374.
+2 Garbinti B., J. Goupille-Lebret et T. Piketty (2018) : « Income Inequality in France, 1900–2014: Evidence from Distributional National Accounts (DINA) », 
+Journal of Public Economics, n° 162, pp. 63-77.
+3 L’utilisation des données de classement de grandes fortunes (Challenges) et de certaines données fiscales permet de confirmer que cette tendance 
+à l’augmentation de la concentration du patrimoine des vivants (ainsi que celle de la concentration des patrimoines au décès) a perduré depuis 2015, 
+comme expliqué dans Biernat C., C. Dherbécourt, G. Fack, É. Fize, N. Grimprel, C. Landais et S. Stantcheva (2021) : « Repenser l’héritage : analyses 
+supplémentaires », Focus du CAE, n° 77-2021, décembre.
+4 Les droits de mutation représentent aujourd’hui environ 0,6 % du PIB, contre environ 0,3 % en moyenne dans les pays de l’OCDE. Pour plus de détails sur 
+l’ensemble de ces faits stylisés, voir parties 1 et 2 de Biernat et al. (2021).
+1. Le retour de l’héritage : flux successoral 
+dans le revenu national et part du patrimoine hérité 
+dans le patrimoine total en France (1900-2010)
+Lecture : Le flux successoral correspond à la valeur économique de 
+la somme des transmissions patrimoniales (donations et successions) 
+réalisées chaque année. Le flux successoral est ici exprimé en 
+pourcentage du revenu national. Pour une comparaison internationale, 
+voir Biernat et al. (2021).
+Sources : Piketty T. et G. Zucman (2015) : « Wealth and Inheritance 
+in the Long Run » in Handbook of Income Distribution, vol. 2, Elsevier, 
+pp. 1303-1368 ; Alvaredo F., B. Garbinti et T. Piketty (2017) : « On the 
+Share of Inheritance in Aggregate Wealth: Europe and the USA, 1900-
+2010 », Economica, vol. 84, n° 334, pp. 239-260.
+30
+100
+20
+10
+0
+80
+60
+40
+20
+0
+1900
+1940
+1920
+1960
+1980
+2000
+Flux successoral 
+(en % du revenu national)
+(échelle de droite)
+Patrimoine hérité 
+(en % du patrimoine total)
+(échelle de gauche)
+
+=== PAGE PDF 3 ===
+3
+www.cae-eco.fr
+Décembre 2021
+Héritage et inégalités des chances
+Pourquoi se préoccuper du retour de l’héritage ? Car il porte 
+en lui le risque d’un dérèglement profond de l’égalité des 
+chances, valeur cardinale des sociétés démocratiques et 
+condition de leur possibilité d’existence à long terme. Le 
+patrimoine hérité est en effet plus inégalement réparti que 
+les autres formes de transmission qui peuvent s’opérer entre 
+générations (capital humain, etc.) et joue un rôle fondamen­
+tal dans la constitution de profondes inégalités «  dynas­
+tiques » de patrimoine. Exploitant les données fiscales fran­
+çaises, nous avons tenté de mesurer la distribution au sein 
+d’une cohorte de l’ensemble des héritages et transmissions 
+patrimoniales reçus tout au long de la vie (à l’exclusion des 
+transmissions du conjoint), nets des droits de succession 
+payés. Parce que les successions sont planifiées, parce que 
+les donations entre vifs ont pris une place importante dans 
+les stratégies successorales, et parce qu’en conséquence 
+nombre d’héritiers vont toucher de multiples transmissions 
+au cours de la vie, il est primordial de cumuler toutes les 
+transmissions reçues pour avoir une idée de l’inégalité de 
+richesse héritée entre les individus d’une même génération.
+Les résultats présentés dans le Focus associé à cette Note 
+démontrent l’extrême concentration du patrimoine hérité 
+(cf.  Biernat, Dherbécourt, Fack, Fize, Grimprel, Landais et 
+Stantcheva, 2021). Au sein d’une cohorte, 50 % des individus 
+auront hérité de moins de 70 000 euros de patrimoine tout au 
+long de leur vie, et parmi ceux-là, une large fraction n’aura héri­
+té d’aucun patrimoine. En revanche moins de 10 % d’individus 
+hériteront de plus de 500 000 euros de patrimoine au cours de 
+leur vie. Au sein même de ce dernier décile, la concentration 
+est extrême : le top 1 % des héritiers d’une génération recevra 
+en moyenne plus de 4,2 millions d’euros nets de droits et le 
+top 0,1 % environ 13 millions d’euros. L’héritage moyen du top 
+0,1 % représente donc environ 180 fois l’héritage médian. Par 
+comparaison, le ratio entre le revenu du travail moyen du top 
+0,1 % et le revenu du travail médian dépasse à peine 10 au sein 
+d’une même cohorte. Le top 1 % des héritiers d’une cohorte 
+peut désormais obtenir, par une simple vie de rentier, un niveau 
+de vie supérieur à celui obtenu par le top 1 % des « travailleurs ». 
+Pour parvenir tout en haut de la distribution des niveaux de vie, 
+il devient quasiment impératif d’avoir la chance d’hériter.
+Cette extrême concentration des héritages au sein de chaque 
+cohorte risque-t-elle de se traduire par une augmentation 
+de la concentration de la richesse à long terme, réduisant la 
+mobilité sociale par la solidification d’inégalités patrimoniales 
+de type « dynastiques » ? En d’autres termes, les enfants des 
+riches d’aujourd’hui seront-ils nécessairement les riches de 
+demain ? Des travaux récents, utilisant des données adminis­
+tratives scandinaves très précises, montrent que la corrélation 
+intergénérationnelle du patrimoine est très élevée et près de 
+deux fois supérieure à la corrélation intergénérationnelle des 
+revenus du travail5. Cette corrélation est également beaucoup 
+plus élevée dans le haut de la distribution du patrimoine des 
+parents, même en contrôlant pour un large ensemble de carac­
+téristiques observables. Nekoei et Seim (2021) montrent éga­
+lement que les comportements d’offre de travail et d’épargne 
+tendent à renforcer le rôle de l’héritage dans la constitution 
+des inégalités de long terme6 : les riches héritiers ont des taux 
+de rendement plus élevés, et dépensent moins leur héritage 
+que les individus héritant de petites sommes.
+Le retour de l’héritage augure donc d’une dynamique négative 
+de renforcement des inégalités patrimoniales fondées sur la 
+naissance. Nous ne sommes pas certes revenus à la société 
+de rentiers qui prévalait avant 1914 : la concentration des héri­
+tages demeure moins forte qu’elle ne l’était alors, et le rôle du 
+« capital humain » et des revenus du travail dans la détermina­
+tion des niveaux de vie est beaucoup plus important pour une 
+grande majorité de la population7. Mais le patrimoine hérité est 
+redevenu le déterminant fondamental pour atteindre le haut de 
+la distribution des niveaux de vie. Ceci explique le regain d’inté­
+rêt porté, dans l’ensemble des pays développés, aux politiques 
+de redistribution du flux successoral comme levier pour pro­
+mouvoir l’égalité des chances. L’OCDE préconisait récemment 
+une refonte et un renforcement des droits de succession8, tout 
+comme le rapport Blanchard-Tirole en France9.
+Comment redistribuer le flux 
+successoral ?
+La fiscalité successorale comme arbitrage 
+entre équité et efficacité
+Lorsqu’il s’agit de promouvoir l’équité, les économistes, 
+fidèles au deuxième théorème de l’économie du bien-être, 
+ont toujours tendance à recommander de redistribuer les 
+« dotations initiales » plutôt que de redistribuer via des outils 
+qui distordent les incitations (comme la taxation des reve­
+nus). Il y a donc généralement un grand consensus parmi les 
+économistes sur la pertinence de redistribuer le flux succes­
+soral pour favoriser l’égalité des chances10. En pratique, le 
+5 La corrélation des rangs est d’environ 0,3 au Danemark, 0,35-0,40 en Suède. La corrélation intergénérationnelle augmente avec l’âge auquel le patrimoine 
+des enfants est observé. Boserup S.H., W. Kopczuk et C.T. Kreiner (2018) : « Born With a Silver Spoon? Danish Evidence on Wealth Inequality in Childhood », 
+The Economic Journal, vol. 128, n° 612, pp. F514-F544.
+6 Nekoei A. et D.  Seim (2021) : « How Do Inheritances Shape Wealth Inequality? Theory and Evidence from Sweden », The Review of Economic Studies, à paraître.
+7 Black S.E., P.J. Devereux, F. Landaud et K.G. Salvanes (2020) : « Where Does Wealth Come From? », National Bureau of Economic Research, n° w28239. 
+Piketty T. (2013) : Le capital au XXIe siècle, Le Seuil.
+8 OCDE (2021) : « Impôt sur les successions dans les pays de l’OCDE », Études de Politique Fiscale de l’OCDE, n° 28, Éditions OCDE.
+9 Commission internationale présidée par Olivier Blanchard et Jean Tirole, cf. Blanchard O.J. et J. Tirole (rap.) (2021) : Les grands défis économiques, juin.
+10 Lorsqu’il s’agit de mettre ces idées en pratique dans le cadre de la redistribution du flux successoral, la définition du critère normatif peut faire l’objet de 
+débats. Les motifs pour léguer son patrimoine à ses enfants sont en effet multiples (altruisme, plaisir de donner, legs involontaires…), et ont des implications 
+théoriques et normatives différentes. Voir Kopczuk W. (2013) : « Taxation of Intergenerational Transfers and Wealth » in Handbook of Public Economics, 
+vol. 5, pp. 329-390, Elsevier.
+
+=== PAGE PDF 4 ===
+Repenser l’héritage
+4
+Les notes du conseil d’analyse économique, n° 69
+monde est bien différent de celui supposé par les théorèmes 
+de l’économie du bien-être et l’impôt optimal sur les succes­
+sions peut se penser comme un arbitrage entre considéra­
+tions d’équité et d’efficience, à l’instar d’autres impôts (Piketty 
+et Saez, 2013 ; Saez et Stantcheva, 2018)11. Du point de vue 
+de l’équité, la taxation des droits de succession est avant tout 
+une politique d’égalité des chances, qui permet de réduire les 
+différences de niveaux de vie et de patrimoine liées à la nais­
+sance. Du côté de l’efficience, il faut tenir compte du fait que 
+les droits de succession peuvent entraîner des changements 
+de comportements susceptibles de réduire la base taxable et 
+d’engendrer une perte sèche. Parmi ces réponses compor­
+tementales, deux grands types méritent notre attention. Les 
+premières sont les réponses migratoires. Dans un environ­
+nement international « non coopératif », où chaque pays peut 
+essayer de concurrencer fiscalement son voisin, imposer des 
+droits de succession élevés sur les héritages peut inciter les 
+plus fortunés à changer de résidence fiscale. Dans quelle 
+mesure les comportements migratoires des plus hauts patri­
+moines imposent-ils une limite sur la progressivité des droits 
+de succession ? Le consensus, issu d’une large littérature sur 
+l’impact de la fiscalité sur la mobilité (Kleven et al., 2020)12, 
+est que la contrainte imposée par ces réponses migratoires 
+est faible13. Cette contrainte migratoire peut, en outre, être 
+contrôlée par des mesures spécifiques, comme un système 
+fondé sur la citoyenneté, ou la résidence de long terme, avec 
+de longs délais pour bénéficier d’une taxation des succes­
+sions dans un autre pays.
+Le deuxième type de réponses a trait aux comporte­
+ments d’épargne, de consommation et d’investissements. 
+L’augmentation de la taxation des successions a des effets 
+théoriquement ambigus sur l’épargne, ou l’offre de travail. 
+Cependant, nous ne savons que très peu de choses sur ces 
+réponses comportementales. Les travaux de Goupille-Lebret 
+et Infante (2018)14 dans le contexte français suggèrent néan­
+moins que les effets sur l’épargne et la consommation sont 
+a priori plutôt faibles15. Il faut également souligner que l’im­
+pact engendré par ces réponses comportementales sur l’effi­
+cience économique (la fameuse « taille du gâteau ») dépend 
+de l’utilisation du surcroît de recettes fiscales. En présence 
+de contraintes de crédit, la redistribution des recettes vers le 
+bas de la distribution des héritages peut avoir des effets posi­
+tifs en termes d’efficacité économique, en favorisant l’accès 
+à certains investissements productifs comme l’éducation16, 
+l’entrepreneuriat ou le logement. Dans le contexte français 
+par exemple, Arrondel et Masson (2011 et 2014)17 montrent 
+que, pour les ménages jeunes qui touchent un héritage, les 
+probabilités de créer une entreprise et d’acheter un logement 
+sont significativement plus élevées.
+Pour résumer, si des incertitudes demeurent sur la magnitude 
+exacte de certaines réponses comportementales, les résultats 
+robustes issus de la fiscalité optimale montrent que la taxation 
+des successions est souhaitable. Le taux de taxation optimal 
+sur l’héritage n’est donc clairement pas nul : éliminer la fisca­
+lité des successions, comme certains pays développés l’ont 
+fait, ne peut être justifié théoriquement ou empiriquement 
+par l’analyse économique, ni en termes d’équité, ni en termes 
+d’efficience. Si la taxation des patrimoines hérités ne fait pas 
+débat, la question de son intégration dans le cadre plus large 
+de la fiscalité du patrimoine et des revenus du capital peut se 
+poser. Faut-il imposer le patrimoine au moment de la transmis­
+sion, ou le faire tout au long du cycle de vie, en taxant le stock 
+de patrimoine ou les revenus qu’ils génèrent ? En pratique, la 
+taxation des héritages est complémentaire des autres formes 
+de taxation du capital. Elle cible mieux l’inégalité de patrimoine 
+liée à la naissance et offre une solution de secours pour le 
+capital ou les revenus du capital qui échappent à la taxation au 
+cours de la vie (comme les plus-values latentes, etc.). Enfin, il 
+ne faut pas oublier qu’un trop grand écart entre les taxes sur 
+le travail et le capital peut avoir des effets nocifs à court et à 
+long terme en encourageant les comportements de substitu­
+tion entre bases fiscales et d’évitement de l’impôt (Rodrik et 
+Stantcheva, 2021)18.
+Des droits de succession très mal perçus… 
+mais également très mal compris
+Si la pertinence des droits de succession fait peu débat parmi 
+les économistes (cf. Blanchard et Tirole, 2021, op. cit.), ceux-ci 
+ont mauvaise presse dans l’opinion. Un ensemble d’enquêtes 
+récentes réalisées sur large échantillon de la population nous 
+11 Piketty T. et E. Saez (2013) : « A Theory of Optimal Inheritance Taxation », Econometrica, vol. 81, n° 5, pp. 1851-1886 ; Saez E. et S. Stantcheva (2018) : 
+« A Simpler Theory of Optimal Capital Taxation », Journal of Public Economics, n° 162, pp. 120-142.
+12 Kleven H., C. Landais, M. Muñoz et S. Stantcheva (2020) : « Taxation and Migration: Evidence and Policy Implications », Journal of Economic Perspectives, 
+vol. 34, n° 2, pp. 119-42.
+13 L’élasticité de la taille de la population des plus riches vis-à-vis de leur taux de rétention fiscale (1 moins leur taux marginal d’imposition) est de l’ordre 
+de 10 %. Les études portant spécifiquement sur la taxation du capital sont plus rares, mais suggèrent une élasticité encore plus faible, voir Jakobsen K.M., 
+H. Kleven, J. Kolsrud et C. Landais (2022) : « Do The Rich Flee Wealth Taxes?: Evidence from Scandinavia » à paraître) ne trouvent aucun effet de l’abolition 
+des droits de succession en Suède sur les comportements migratoires des plus fortunés. Moretti E. et D.J. Wilson. (2020) : « Taxing Billionaires: Estate Taxes 
+and the Geographical Location of the Ultra-Wealthy », NBER Working Paper, n° 26387 trouvent une faible élasticité des choix de résidence des milliardaires 
+américains aux différentiels de droits de succession entre États.
+14 Goupille-Lebret J. et J. Infante (2018) : « Behavioral Responses to Inheritance Tax: Evidence from Notches in France », Journal of Public Economics, n° 168, 
+pp. 21-34.
+15 Les connaissances quant à l’hétérogénéité de ces réponses comportementales le long de la distribution des ressources héritées sont également limitées. 
+Une telle hétérogénéité peut néanmoins se révéler importante dans la détermination du niveau de progressivité idoine des droits de succession.
+16 Lochner, L. et A. Monge-Naranjo (2012) : « Credit Constraints in Education », The Annual Review of Economics, vol. 4, n° 1, pp. 225-256.
+17 Arrondel L. et A. Masson (2011) : « Taxer les héritages pour accroître la mobilité du patrimoine entre générations », Revue Française d’Économie, vol. 26, 
+n° 2, pp. 23-72. Arrondel L., B. Garbinti et A. Masson (2014) : « Inégalités de patrimoine entre générations : les donations aident-elles les jeunes à 
+s’installer ? », Économie et Statistique, vol. 472, n° 1, pp. 65-100.
+18 Rodrik D. et S. Stantcheva (2021) : « A Policy Matrix for Inclusive Prosperity », NBER Working Paper, n° 28736. 
+
+=== PAGE PDF 5 ===
+5
+www.cae-eco.fr
+Décembre 2021
+procure un nouvel éclairage sur ces perceptions négatives 
+(Stantcheva, 2021)19. D’abord, elles confirment que la taxa­
+tion des successions est impopulaire parmi les Français (et 
+en particulier qu’elle est plus impopulaire que l’ISF qui taxait 
+également le patrimoine). Ensuite, cette impopularité est 
+accompagnée d’une très mauvaise compréhension et d’un 
+déficit majeur d’information tant sur le fonctionnement que 
+sur l’incidence de cet impôt : une majorité de la population 
+pense, de manière erronée, que les droits de succession 
+ont un taux unique et ne sont pas progressifs, que le seuil 
+d’exemption est significativement plus bas que son niveau 
+réel, et surestime fortement les taux effectifs payés sur les 
+successions. Ces biais de perception vont systématiquement 
+dans le même sens, tendant à surestimer largement le poids 
+des droits de succession pesant sur les classes moyennes 
+(voir Biernat et al., 2021, op. cit.). Enfin, ces enquêtes 
+révèlent aussi le dilemme moral auquel font face les répon­
+dants selon qu’ils se placent du point de vue des enfants ou 
+du point de vue des parents : très peu de personnes sou­
+haitent que les enfants soient exposés à des opportunités 
+et fortunes différentes du fait de leur naissance, mais dans 
+le même temps, la majorité des parents ne souhaite pas non 
+que leurs transmissions soient taxées. Cette tension norma­
+tive, ajoutée aux biais de perception, fait que les préférences 
+redistributives sur les successions sont en fait extrêmement 
+malléables. En effet, donner (aléatoirement) de l’information 
+sur le fonctionnement et l’incidence des droits de succession 
+augmente significativement le soutien pour ce type de poli­
+tiques redistributives20. On aurait donc tort de penser que 
+les perceptions négatives des droits de succession capturent 
+une dimension structurelle et intangible des préférences. 
+Elles sont le fruit d’un manque d’information et de transpa­
+rence auquel cette Note entend en partie répondre.
+La fiscalité française des successions 
+minée par son opacité
+Un manque critique de données fiables
+Le manque de compréhension, qui mine l’acceptabilité sociale 
+des droits de succession, est malheureusement alimenté par 
+l’absence d’informations fiables de la part de l’administration 
+fiscale. Jusqu’à 2006, des enquêtes régulières issues d’un 
+échantillon de déclarations fiscales (DMTG) étaient réalisées, 
+permettant de suivre l’évolution de la distribution des succes­
+sions, donations et de leur taxation. Cependant, depuis 2006, 
+l’administration n’a produit aucune information exploitable 
+permettant de retracer les transmissions effectuées et les 
+droits payés21. Ceci semble être dû à la refonte inaboutie par 
+la Direction générale des finances publiques (DGFiP) de son 
+système d’information et de transmission des données collec­
+tées par les notaires. En l’état, l’absence d’un véritable sys­
+tème d’information relatif à la fiscalité des successions a des 
+conséquences très négatives, à la fois sur le pilotage de la poli­
+tique fiscale (impossibilité de prédire l’évolution des recettes, 
+incapacité d’évaluer des mesures budgétaires et leur effica­
+cité, risque d’insincérité budgétaire, etc.), sur l’information 
+publique relative à cette politique, et sur l’administration et le 
+contrôle fiscal. Sur ce dernier point, la faible qualité de l’infor­
+mation fiscale au regard de la multiplicité et de la complexité 
+des dispositifs d’optimisation des transmissions patrimoniales 
+(pactes Dutreil, démembrements de propriété, etc.) favorise 
+dangereusement les abus. Comme le notait déjà le rapport 
+Blanchard-Tirole, il est donc absolument impératif de refonder 
+le système d’information relatif à la fiscalité des successions. 
+Il s’agit de construire un véritable système d’information à la 
+DGFiP sur la base des déclarations des notaires et des assu­
+reurs, sur le modèle de FICOVIE (voir encadré), et de consti­
+tuer un registre de données anonymisées versées au Centre 
+d'accès sécurisé aux données (CASD), de façon à améliorer 
+la qualité de la statistique publique et permettre le développe­
+ment de recherches indépendantes sur ces données fiscales.
+Recommandation 1. Refonder l’architecture de 
+collecte et d’utilisation des données fiscales des 
+DMTG : harmoniser la collecte des données sur 
+les donations et les successions et construire un 
+système d’information à la DGFiP sur la base des 
+déclarations des notaires et des assureurs sur le 
+modèle de FICOVIE.
+Environ 40 % du patrimoine transmis échappe 
+au flux successoral appréhendé par les sources 
+fiscales
+En dépit de la faible qualité des données fiscales existantes, 
+il est possible d’appréhender le flux total des transmissions 
+de patrimoine opéré chaque année en utilisant les données 
+de la comptabilité nationale, les données démographiques 
+ainsi que des données d’enquête22. Le flux total des trans­
+missions patrimoniales annuel représente désormais plus de 
+15 % du PIB, soit 300 milliards d’euros. Une très large par­
+tie de ces transmissions échappe au regard de l’administra­
+tion fiscale : pour les dernières enquêtes DMTG disponibles 
+(1994, 2001, 2006), on constate que le total du patrimoine 
+transmis déclaré à l’administration fiscale est 35 à 40 % plus 
+faible que le flux économique effectivement transmis, même 
+une fois rehaussé des non-déclarations des petites transmis­
+19 Stantcheva S. (2021) : « Tax Policies: How Do People Reason », Quaterly Journal of Economics, vol. 136, n° 4, pp. 2309-2369.
+20 Voir Kuziemko I., M.I. Norton, E. Saez et S. Stantcheva (2015) : « How Elastic Are Preferences for Redistribution? Evidence from Randomized Survey 
+Experiments », American Economic Review, vol. 105, n° 4, pp. 1478-1508 ; Stantcheva (2021, op. cit.).
+21 La représentativité de l’échantillon de l’enquête DMTG de 2010 n’est pas établie.
+22 Le flux économique transmis Bt est en effet mesurable via l’identité comptable Bt = mt . mt Wt où Wt représente le patrimoine total, mesuré dans les chiffres 
+de la comptabilité nationale, mt est le taux de mortalité, disponible dans les données démographiques, et mt est le ratio entre le patrimoine moyen des morts 
+et celui des vivants, mesurable dans les enquêtes Patrimoine. Cette identité comptable est ensuite ajustée pour tenir compte des flux inter vivos.
+
+=== PAGE PDF 6 ===
+Repenser l’héritage
+6
+Les notes du conseil d’analyse économique, n° 69
+sions patrimoniales (Piketty, 2011)23. La raison tient à la pré­
+sence de nombreux dispositifs fiscaux avantageux et autres 
+exemptions qui favorisent des pratiques d’optimisation des 
+transmissions patrimoniales et mitent considérablement la 
+base fiscale des DMTG, atténuant au passage considéra-
+blement la progressivité de la fiscalité des successions.
+Une assiette mitée par les exemptions 
+et exonérations
+La fiscalité française sur les transmissions est caractérisée 
+par des taux maximaux élevés en comparaison internationale. 
+En dépit des réformes du barème de 2007, 2011 et 2012, les 
+taux d’imposition théoriques sur les plus grosses transmissions 
+sont demeurés stables ou en légère augmentation (voir Biernat 
+et al. 2021, op. cit.). Néanmoins l’évolution du barème seule dit 
+peu de chose sur celle du taux effectif d’imposition des grands 
+héritages (supérieurs au million d’euros). En France, comme 
+dans la quasi-totalité des pays taxant l’héritage, certains actifs 
+et certaines modalités de transmission bénéficient en effet 
+d’exonérations. Les exonérations et exemptions fiscales fran­
+çaises ont la triple particularité d’être nombreuses, très géné­
+reuses par rapport à la norme fiscale et focalisées sur les actifs 
+détenus en nombre par les individus les plus aisés. D’après les 
+simulations réalisées à partir des dernières données sur les 
+transmissions de la DGFiP, complétées au moyen des comptes 
+de patrimoines distribués, ces exonérations bénéficient sur­
+tout aux plus grandes transmissions  : les taux effectifs sur 
+l'intégralité du patrimoine hérité sont en effet remarquable­
+ment plus faibles que ceux affichés par le barème des DMTG 
+(graphique 2). Dans le haut de la distribution, le top 0,1 % de 
+chaque cohorte, qui aura reçu au cours de la vie environ 13 mil­
+lions d’euros de transmissions brutes, ne paie qu’à peine 10 % 
+de droits de succession sur l’ensemble de ce patrimoine hérité, 
+bien loin du taux marginal de 45 % affiché par le barème au-
+delà de 1,8 million d'euros transmis en ligne directe.
+L’incidence des droits de succession est en réalité assez forte 
+sur les « classes moyennes supérieures », qui forment le bas 
+du dernier décile des héritages. Le ratio de taux effectifs entre 
+le 90e percentile et le 999e millime est de l’ordre de 1 à 2 alors 
+que le ratio de leur patrimoine hérité est de 1 à 24, et que la 
+progressivité des taux nominaux du barème suggère que leur 
+taux effectif devrait être au moins de l’ordre de 1 à 5. Cette 
+situation alimente le sentiment que les DMTG taxent l’épargne 
+d’une vie de travail, et ruine leur acceptabilité sociale.
+Réaliser l’inventaire exhaustif des différentes «  niches  » fis­
+cales ou exemptions et de leurs effets sur la progressivité de 
+l’impôt étant impossible, nous nous concentrons sur les quatre 
+plus significatives : les transmissions de biens professionnels, 
+les transmissions de contrats d’assurance-vie, le démembre­
+ment de propriété et la non-taxation des plus-values latentes à 
+l’impôt sur le revenu au décès24. Les données administratives 
+collectées par la DGFiP sur les années récentes permettent 
+d’apporter un premier éclairage sur l’ampleur de ces dispo­
+sitifs fiscaux, tant en termes de coût pour le budget de l’État 
+qu’en termes redistributifs (voir encadré). Elles montrent com­
+bien ceux-ci contribuent à réduire la progressivité de l’impôt 
+(graphique 3). Notons que l’écart entre les deux courbes du 
+graphique 2 s’explique par ces quatre mécanismes fiscaux, 
+mais également par d’autres mécanismes tels que le non-rappel 
+des donations entre vifs antérieurs à 15 ans.
+23 Piketty T. (2011) : « On the Long-Run Evolution of Inheritance : France 1820-2050 », The Quarterly Journal of Economics, vol. 126, n° 3, pp. 1071-1131.
+24 Parmi les autres méthodes d'optimisation fiscale, on peut citer les exonérations sur les biens forestiers et agricoles et les monuments 
+historiques, la transmission par le biais d’une société collective immobilière ou d’une société collective patrimoniale, ou encore le non-rappel à 
+la succession des donations antérieures à 15 ans. À cela s’ajoute, en particulier sur les plus grands patrimoines, des recours à des montages 
+d’optimisation fiscale internationale ou d’« offshoring ». Du reste, l’évitement fiscal recherché par de tels montages déborde largement la seule 
+question des droits de succession et doit être traité par le renforcement des échanges d’informations entre pays et la levée du secret bancaire.
+2. Estimation des taux effectifs d’imposition 
+sur le patrimoine total hérité
+Lecture : Le graphique ordonne chaque cohorte par fractile de patrimoine 
+brut hérité tout au long de la vie. Pour chacun des fractiles, le taux moyen 
+effectif d’imposition payé est reporté sur l’ensemble du patrimoine reçu 
+(« taux effectif héritage économique ») et le taux effectif sur le patrimoine 
+hérité « taxable » est celui déclaré dans les sources fiscales. Pour plus de 
+détails sur la construction de ces estimations, voir Biernat et al. (2021).
+Source : Calculs CAE à partir des données fiscales et de comptabilité 
+nationale.
+Lecture : Le taux effectif correspond aux droits totaux payés sur les 
+transmissions (successions et donations) rapportés au patrimoine 
+économique total hérité au cours du cycle de vie. Le coût pour les 
+finances publiques de chacune des exemptions en l’absence de réponse 
+comportementale est indiqué pour chaque scénario contrefactuel.
+Source : Calculs CAE à partir des données fiscales et de comptabilité 
+nationale.
+3. Estimation de l'impact des différents dispositifs 
+fiscaux sur les taux effectifs d'imposition 
+sur le patrimoine total hérité
+Taux effectif sur patrimoine économique total hérité
+Assurance-vie intégrée au barème (5)
+Suppression des démembrements 
+de propriété (2,8)
+Exemption des patrimoines 
+professionnels à 50 % (1,4)
+Coût pour les finances publiques 
+(en milliards d'euros) :
+P0-10
+P10-20
+P20-30
+P40-50
+P50-60
+P60-70
+P70-80
+P80-90
+P90-95
+P95-99
+P99-99.5
+P99.5-99.9
+P99.9-100
+P30-40
+0
+5
+10
+15
+Taux effectif héritage fiscal déclaré
+40
+Fractiles de patrimoine hérité
+Patrimoine hérité net total (en %)
+P0-10
+P10-20
+P20-30
+P40-50
+P50-60
+P60-70
+P70-80
+P80-90
+P90-95
+P95-99
+P99-99.5
+P99.5-99.9
+P99.9-100
+P30-40
+30
+20
+10
+0
+Taux effectif héritage économique total
+Patrimoine net hérité (en milliers d'euros) :
+P0-10 : ~  0	
+P50-60 : ~ 70
+P90-95 : ~ 550	
+P99.9-100 : ~ 13 000
+
+=== PAGE PDF 7 ===
+7
+www.cae-eco.fr
+Décembre 2021
+Les quatre principaux dispositifs d'exemption ou d'exonération de la fiscalité des successions
+Les pactes Dutreil
+Depuis la fin des années 1990, à la suite d’une recommandation 
+de la Commission européenne, la France exonère la transmis­
+sion des biens professionnels via un abattement de 50 %, à 
+condition que les héritiers conservent leurs titres individuel­
+lement pendant 16 ans. En 2003, la création des pactes Dutreil 
+renforce l’exonération des biens professionnels, en augmen­
+tant l’abattement à 75 % et en réduisant la durée de conserva­
+tion des titres à 4 ans. L’abattement n’est pas plafonné et peut 
+bénéficier à toutes les entreprises, quelle que soit leur taille. 
+Les pactes Dutreil sont probablement le dispositif fiscal dont 
+les effets sont les plus concentrés dans le haut de la distribu­
+tion des héritages, du fait de l’extrême concentration des biens 
+professionnels. L’étude de Bach et al. (2021)a, portant sur un 
+appariement inédit entre données fiscales et données sur les 
+détentions de parts de sociétés cotées et non cotées en 2017, 
+montre que les biens professionnels représentent moins de 10 % 
+du patrimoine total jusqu’au seuil des 0,1 % les plus fortunés, 
+30 % au seuil des 0,01 % et plus de 60 % pour les 0,001 % les plus 
+fortunés (380 foyers fiscaux). Selon les données de la DGFiP 
+auxquelles nous avons eu accès, la valeur moyenne de l’actif 
+transmis par pacte Dutreil s’établit à environ 5 millions d’euros 
+entre 2017 et 2019. Le bénéficiaire moyen d’une donation ou 
+succession en pacte Dutreil reçoit des parts sociales d’une 
+valeur moyenne de 2 millions d’euros environ. La valeur totale 
+de l’actif transmis en Dutreil s’établit à 8 milliards d’euros en 
+2018 et en 2019. Environ 40 % de ce total concerne des pactes 
+d’une valeur supérieure à 60 millions d’euros. D’après nos esti­
+mations, le coût de ce dispositif fiscal s’établit aux alentours 
+de 2 à 3 milliards d’euros en 2018-2019. Selon la DGFiP, le 
+nombre de pactes Dutreil est en augmentation forte depuis 
+une quinzaine d’années. On comptait plus de 2 000 signa­
+tures annuelles de pactes Dutreil en 2018-2020, contre 700 
+en 2008-2009.
+L’assurance-vie
+La fiscalité des transmissions d’assurances-vie représente 
+une autre « niche » fiscale considérable, compte tenu du poids 
+macroéconomique de cet actif (un tiers du patrimoine financier 
+des ménages). Les transmissions via l’assurance-vie font l’objet 
+d’une fiscalité dérogatoire complexe. La réforme de 1999 a créé 
+des barèmes hétérogènes selon la date d’ouverture des contrats 
+et selon les âges et années auxquels ont été effectués les ver­
+sementsb de sorte que les assurances-vie ne font pas partie de 
+la successionc. Elles sont soit totalement exonérées soit taxées 
+selon un barème ad hoc qui ne dépend pas du lien de parenté. 
+Les transmissions de contrats d’assurance-vie se sont élevées à 
+44 milliards d’euros en 2019d, soit plus du double du niveau obser­
+vé en 2006. Il est difficile de déterminer avec précision comment 
+ces sommes se répartissent dans la distribution des héritages, 
+ni l’avantage fiscal qu’elles offrent aux plus grands héritiers.
+La base de données FICOVIE, créée en 2016 à des fins de 
+contrôle fiscal et qui couvre l’ensemble des contrats de plus de 
+7 500 euros (92 % du total des sommes transmises en France 
+par assurance-vie), permet cependant d’apporter un premier 
+éclairage. Cette base renseigne les sommes versées effecti­
+vement au bénéficiaire lors du décès de l’assuré, ainsi que les 
+droits prélevés à cette occasion. On en tire deux constats prin­
+cipaux. D’une part, la distribution des transmissions par assu­
+rance-vie est fortement concentrée. Sur les années 2017-2018, 
+chaque année, environ 45 000 bénéficiaires ont hérité de plus de 
+152 500 euros, pour un total de 17,5 milliards d’euros. Au sein 
+de ces bénéficiaires, 1 900 héritent de plus de 852 500 euros. 
+Ces derniers ont hérité en moyenne de 2,8 millions d’euros 
+pour un montant total de 5,5 milliards d’euros. D’autre part, le 
+coût du dispositif fiscal est considérable, même s’il est difficile 
+de le déterminer avec précision dans l’état actuel des données. 
+Selon nos estimations, en prenant comme norme fiscale l’impo­
+sition au barème de droit commun et en se limitant aux bénéfi­
+ciaires recevant au moins 152 500 euros par assurance-vie, il 
+serait de l’ordre de 4 à 5 milliards d’euros.
+Le démembrement de propriété : 
+donations en nue-propriété avec réserve d’usufruit
+La donation avec réserve d’usufruit consiste à donner unique­
+ment la « nue-propriété » d’un bien (mobilier ou immobilier), le 
+donateur conservant l’usufruit du bien, c’est-à-dire le droit de 
+l’utiliser et d’en tirer des revenus. L’avantage fiscal vient du fait 
+que le montant des droits de mutation est établi à partir de 
+la valeur de la nue-propriété, qui est considérée comme plus 
+faible que la valeur de la propriété entière, avec un barème 
+qui dépend de l’âge de l’usufruitier. Ainsi, la valeur de la nue-
+propriété va de 10 % de la valeur du bien pour un donateur 
+âgé de moins de 21 ans à 90 % pour un donateur de plus de 
+90 ans. Au décès du donateur, l’usufruit s’éteint au profit des 
+donataires qui deviennent automatiquement pleins proprié­
+taires, sans droit de mutation à acquitter en complément. La 
+valeur déclarée des biens donnés en nue-propriété représen­
+tait environ 18 milliards d’euros en 2006 – dernière année pour 
+laquelle les chiffres ont été fournis par la DGFiP – soit 45 % de la 
+valeur de l’ensemble des donationse. Nous estimons que la nue-
+propriété correspondait alors en moyenne à 60 % de la valeur 
+que ces biens auraient eue s’ils avaient été donnés en pleine 
+propriété, et qui se serait donc élevée à environ 30 milliards 
+d’eurosf. Si les biens donnés avaient tous été donnés en pleine 
+propriété, la valeur des donations taxables aurait été 30 % plus 
+élevée. Nos estimations suggèrent que leur coût en termes 
+de finances publiques est de l’ordre de 2 à 3 milliards d’euros.
+L’effacement des plus-values latentes à la succession
+Enfin, un dernier avantage fiscal mérite d’être mentionné : la 
+non-taxation des plus-values latentes en cas d’héritage ou dona­
+tion. En effet, les plus-values ne sont taxées que lorsqu’elles 
+sont réalisées, et il est donc possible de transmettre un bien de 
+génération en génération sans jamais avoir à payer l’impôt sur 
+les plus-values, même si le donataire cède l’actif par la suite. Il 
+n’existe pas à notre connaissance de chiffrage de l’ampleur de 
+cette disposition fiscale pour la France, mais on peut noter que 
+pour les États-Unis, le manque à gagner en termes de recette 
+fiscale a été estimé à 0,05 % du PIB par la Tax Foundationg.
+a Bach L., A. Bozio, A. Guillouzouic et C. Malgouyres (2021) : « Évaluer les effets de l’impôt sur la fortune et de sa suppression sur le tissu productif », 
+Rapport IPP, n° 36, octobre.
+b Cette complexité s’explique par la crainte exprimée par le gouvernement de l’époque que des mesures fiscales s’appliquant de manière rétroactive 
+aux contrats d’assurance-vie soient censurées par le Conseil constitutionnel. Cette crainte apparaît aujourd’hui infondée, comme le montre l’exemple 
+de la non-censure du relèvement du taux d’imposition sur l’ensemble des contrats d’assurance-vie en 2012.
+c Sauf pour les versements après 70 ans sur les contrats après 1991 qui sont soumis aux droits de succession (avec un abattement supplémentaire de 
+30 500 euros par succession) hors intérêts capitalisés.
+d Cf. Fédération française de l’assurance.
+e Cf. tableau 3 du rapport du Conseil des prélèvements obligatoires (CPO) (2008) : La répartition des prélèvements obligatoires entre les générations et 
+la question de l’équité intergénérationnelle, novembre.
+f Estimations obtenues à partir des données sur la répartition par âge du donataire fournies dans le tableau 14 du rapport du CPO (2008, op. cit.).
+g https://taxfoundation.org/repealing-step-up-in-basis-analysis/. Ce qui correspondrait pour la France à un coût pour les finances publiques de l’ordre 
+de 1,3 milliard d’euros par an.
+
+=== PAGE PDF 8 ===
+Repenser l’héritage
+8
+Les notes du conseil d’analyse économique, n° 69
+Les contours d’une nouvelle politique 
+de l’héritage et de l’égalité des chances
+Une nouvelle politique de l’héritage
+Pour répondre aux enjeux de l’augmentation des inégalités 
+d’accès au patrimoine hérité, de l’opacité du système actuel, 
+des inefficiences créées par les nombreuses « niches » et 
+du manque d’information qui mine l’acceptabilité sociale des 
+droits de succession, nous proposons de repenser la poli­
+tique de l’héritage, en la refondant autour de quatre piliers :
+ – la mise en place d’une politique du flux successoral 
+total perçu par les individus tout au long de la vie ;
+ – une refonte de l’assiette des droits de succession, pour 
+éliminer les dispositifs d'exonération ou d'exemption dont 
+la justification économique demeure limitée, et renforcer 
+la progressivité effective de l’imposition de l’héritage ;
+ – la garantie d’un capital pour tous pour limiter les inéga­
+lités d’opportunités les plus extrêmes ;
+ – la création d’un système d’information efficace et 
+transparent.
+Une politique du flux successoral total perçu 
+tout au long de la vie
+Les inégalités de patrimoine total hérité tout au long de la vie 
+sont extrêmes et en particulier plus fortes que les inégalités du 
+flux annuel observé des transmissions successorales. La rai­
+son tient au fait que les plus riches héritiers touchent de mul­
+tiples transmissions patrimoniales au cours de leur vie (plu­
+sieurs donations et successions, de plusieurs parents, etc.), 
+dont la valeur est fortement corrélée. Dans le système actuel 
+où chaque transmission est taxée séparément, ceci offre la 
+possibilité de bénéficier plusieurs fois de certains abattements 
+et d’optimiser le « timing » du flux de transmissions. Pour limi­
+ter les conséquences régressives de tels comportements, les 
+dernières réformes ont cherché à réduire les abattements, les 
+délais de rappel, et à afficher des taux extrêmement progres­
+sifs. Avec pour conséquences de pénaliser ceux qui touchent 
+un plus petit nombre de transmissions, ou des successions 
+plus faibles et de valeurs inégales et créer par effet d’optique 
+l’illusion d’une très forte progressivité effective du système. 
+Tout ceci mine l’acceptabilité sociale des droits de succession. 
+La mise en place d’une assiette des droits fondée sur la somme 
+des flux successoraux totaux perçus par un individu tout au long 
+de la vie permet de mieux appréhender la capacité contributive 
+des héritiers. Dans ce système, le taux d’imposition dépend 
+uniquement de la valeur des héritages reçus, quelle que soit la 
+façon dont le patrimoine a été transmis. Par exemple, un héri­
+tier ayant bénéficié de trois donations de 100 000 euros au 
+cours de sa vie, et d’un héritage de 200 000 euros de chacun 
+de ses deux parents paye le même impôt que celui qui héritera 
+de 700 000 euros d’un de ses parents uniquement. L’impôt 
+sur l’héritage au cours de la vie offre donc la possibilité d’une 
+redistribution des opportunités davantage ciblée et efficace. 
+Dans un tel système, la progressivité peut être ajustée de 
+manière plus fine, de sorte que les droits se déclenchent à des 
+niveaux d’héritage total perçu sensiblement plus élevés que 
+dans le système actuel.
+Ce système élimine également toutes les distorsions et iniquités 
+créées par le système actuel quant au séquencement des trans­
+missions patrimoniales25. Notons que les familles ont une bien 
+meilleure information quant au moment opportun pour trans­
+mettre leur patrimoine (qui a besoin d’un coup de pouce, qui a 
+subi un choc de revenu ou de santé, combien garder pour ses 
+vieux jours, etc.) que le gouvernement. La volonté de faire « cir­
+culer le capital » plus tôt, n’est pas fondée sur des preuves empi­
+riques solides de la présence d’une inefficience structurelle ou 
+comportementale (par exemple les parents s’accrochant trop à 
+leur patrimoine, ou n’ayant pas conscience des bénéfices d’une 
+transmission anticipée). Ce sont plutôt les incitations du sys­
+tème actuel, au travers des abattements qui créent des effets 
+pervers et distordent le séquencement optimal, en poussant à 
+donner de multiples fois de plus petites sommes, aux intervalles 
+correspondant aux délais de non-rappel des donations.
+En outre, un tel système présenterait l’avantage d’être neutre du 
+point de vue de la nature des liens de parenté entre donateurs 
+et héritiers : il traite de manière identique les héritages reçus 
+en ligne directe et en ligne indirecte, éliminant de ce fait les 
+fortes distorsions dans le système français actuel, distorsions 
+dont la légitimité peut être remise en cause par l’évolution des 
+structures familiales. Notons de surcroît que, tout en respectant 
+une stricte neutralité dans le traitement des transmissions, le 
+nouveau système demeure compatible avec les dispositions du 
+Code civil et du droit des contrats, telles que la réserve hérédi­
+taire, la possibilité de démembrer la propriété ainsi que le libre 
+choix du bénéficiaire des contrats d'assurance-vie.
+Les nombreux avantages d’une assiette fondée sur le flux 
+successoral total expliquent qu’elle soit une proposition 
+récurrente dans le débat public (Atkinson, 2015 et Blanchard 
+et Tirole, 2021)26. Du reste, ce système existe déjà dans 
+certains pays comme l’Irlande : les contraintes techniques 
+à son implémentation sont relativement minimes. Il néces­
+site néanmoins la mise en place d’un système d’informa­
+tion efficace pour suivre le flux successoral total par héritier 
+(cf. recommandation 1)27.
+Recommandation 2. Calculer les droits sur la base de 
+la somme des flux successoraux perçus par les indivi­
+dus tout au long de la vie.
+25 Prenons deux familles, au sein desquelles les parents effectuent une donation de leur vivant, par exemple à 70 ans. Dans la première famille, les parents 
+meurent après le délai de rappel de cette donation ; dans la seconde, un parent décède avant le délai de rappel. Est-il légitime que les héritiers de ces deux 
+familles soient traités différemment et que les héritiers ayant la malchance de perdre un parent plus jeune soient soumis à des taux plus élevés ?
+26 Atkinson A. (2015) : Inequality, What Can Be Done?, Harvard University Press, mai ; Blanchard et Tirole, 2021, op. cit.
+27 Le système peut être établi sur la base de la résidence fiscale, comme en Irlande, ou sur la base de la citoyenneté (option préférée car la plus compatible 
+avec la garantie de patrimoine pour tous).
+
+=== PAGE PDF 9 ===
+9
+www.cae-eco.fr
+Décembre 2021
+Repenser l’assiette des droits de succession
+Le traitement différencié de l’assurance-vie au titre des droits 
+de mutation n’a pas de justification économique forte et contri­
+bue nettement à la complexité du système actuel, ce qui rend 
+souhaitable l’intégration de l’assurance-vie au barème géné­
+ral des DMTG. Si la question de la vitesse de cette intégration 
+peut se poser, notons que sa rétroactivité est possible dès lors 
+que le motif d’intérêt général est démontré.
+Les démembrements de propriété ne se fondent pas non plus 
+sur une justification économique forte, si ce n’est de béné­
+ficier des exemptions dans le cadre des donations. La sup­
+pression des avantages fiscaux liés au démembrement de 
+propriété semble donc logique dans le cadre d’une réforme 
+qui taxerait le flux successoral total et serait neutre du point 
+de vue du séquencement des transmissions (ce qui condui­
+rait en pratique à taxer la réunion de l'usufruit et de la nue-
+propriété au décès du donateur).
+La justification économique des exemptions dont bénéficient les 
+patrimoines professionnels (dispositifs Dutreil) repose sur l’argu­
+ment que la taxation des transmissions d’entreprises familiales 
+peut avoir des effets négatifs sur l’investissement, l’emploi, la 
+gouvernance et la survie des entreprises. Cet argument est théo­
+riquement valide et les effets négatifs peuvent être considérables 
+en présence de contraintes de crédit, susceptibles d'affecter 
+les petites et moyennes entreprises. Néanmoins, les travaux 
+empiriques suggèrent que ces effets négatifs sont très limités 
+voire nuls en pratique. Bach et al. (2021) trouvent ainsi qu’une 
+forte réduction (de l’ordre de 10 % de leur revenu économique) 
+de l’exposition des entrepreneurs à la taxation de leur patrimoine 
+n’a pas d’effet significatif en termes d’investissement, en termes 
+d’emploi ou encore de gouvernance 2 ans après la réforme. Par 
+ailleurs, l’intérêt d’un capitalisme d’héritiers, encouragé par 
+les exemptions dont bénéficie le patrimoine professionnel, est 
+sujet à débat (Philippon, 2007)28. La littérature empirique n’a 
+pas trouvé d’indication claire qu’inciter les héritiers familiaux à 
+entrer dans la gouvernance était favorable au développement 
+des entreprises29. Le traitement privilégié, dont bénéficient les 
+biens professionnels au sein des DMTG, participe fortement à 
+la transmission des inégalités de patrimoine sans apporter de 
+gains économiques significatifs.
+A minima, il importe donc de renforcer le contrôle fiscal sur 
+les dispositifs Dutreil pour lutter contre les abus (intégration 
+de patrimoine non professionnel dans les holdings sujets à 
+un Pacte Dutreil, non-respect des délais de détention ou des 
+obligations de gouvernance, etc.), de revenir sur les disposi­
+tifs d’exception comme la réduction de droit de 50 % pour les 
+donations avant 70 ans, et de plafonner l'utilisation des dis­
+positifs Dutreil pour les très larges entreprises30.
+La solution la plus appropriée serait néanmoins une très forte 
+réduction voire la suppression des exemptions Dutreil au pro­
+fit de mécanismes de facilités de paiement directement adap­
+tés aux problèmes de contraintes de liquidité potentiellement 
+occasionnés par les paiements de droits sur les transmissions 
+d’entreprises. Des dispositifs d’étalement de droit existent, et 
+peuvent être renforcés le cas échéant. En outre, la mise en 
+place de dispositifs idoines est envisageable pour partager le 
+risque lié à la volatilité des valorisations du patrimoine profes­
+sionnel. Nos estimations suggèrent que la seule réduction des 
+exemptions Dutreil de 75 à 50 % (le taux qui prévalait au début 
+des années 2000), et l’élimination du dispositif de réduction 
+additionnelle des droits de 50  % en cas de donation avant 
+70 ans rapporterait au moins 1,5 milliard d’euros. Cette aug­
+mentation des droits, en utilisant les dispositifs d’étalement 
+sur 20 ans déjà disponibles, correspondrait à une augmen­
+tation annuelle des taux d’imposition des propriétaires d’entre­
+prises ainsi transmises équivalente à celle analysée dans Bach 
+et al. (2021) : il y a peu de raisons de craindre qu’elle pourrait 
+engendrer des effets réels très forts sur l’investissement, l’em­
+ploi ou la gouvernance des entreprises. Le maintien des exo­
+nérations de biens professionnels doit en tout état de cause 
+être conditionné à l’évaluation transparente de leurs potentiels 
+effets négatifs sur l’activité et la gouvernance des entreprises.
+Notons  que des trois réformes d’assiettes (assurance-vie, 
+démembrements et biens professionnels) discutées plus haut, 
+la réduction des taux d’exemption des biens professionnels est 
+la plus « progressive » : elle touche de manière plus ciblée le très 
+haut de la distribution des patrimoines hérités. L’intégration de 
+l’assurance-vie au barème général des DMTG est progressive 
+également, mais ses effets se font sentir un peu plus bas dans 
+la distribution des patrimoines hérités (cf. graphique 3).
+Il serait également souhaitable de revoir la règle de l’effa­cement 
+total des plus-values au moment du décès, qui introduit une dis­
+torsion de fiscalité très importante, et sans justification écono­
+mique, utilisée de manière agressive dans le haut de la distribu­
+tion des patrimoines pour éviter l’impo­sition des plus-values. La 
+taxation des plus-values normalement soumises à l’IR31 après le 
+décès, par exemple au moment de la revente de l’actif par l’héri­
+tier, comme cela existe dans certains pays développés (OCDE, 
+2021, op. cit.), permettrait une plus grande neutralité de la fisca­
+lité, notamment dans le haut de la distribution des patrimoines32.
+Les chiffrages du coût en termes de finances publiques de ces 
+divers dispositifs fiscaux ont été faits sans prendre directement 
+28 Philippon T. (2007) : Le capitalisme d’héritiers. La crise française du travail, Le Seuil, Coll. ‘La république des idées’.
+29 Bennedsen M., K. Nielsen, F. Perez-Gonzalez et D. Wolfenzon (2007)  : «  Inside the Family Firm: The Role of Families in Succession Decisions and 
+Performance », Quarterly Journal of Economics, n° 122, pp. 647-691.
+30 L'Allemagne, en 2016, a ainsi réduit les exemptions des patrimoines professionnels pour les entreprises valorisées au-dessus de 26 millions d'euros et les 
+a éliminées au-dessus de 90 millions d'euros.
+31 Il s’agit des plus-values mobilières soumises à la flat tax ou aux prélèvements sociaux et au barème de l’IR après abattement renforcé, et des plus-values 
+immobilières hors résidence principale soumises à prélèvement de 19 % plus les prélèvements sociaux. Les plus-values sur les résidences principales, 
+exonérées d’IR et de prélèvements sociaux, ne sont donc pas concernées.
+32 Faute d’information précise, nous n’avons pas pu réaliser de simulations des effets d’une telle mesure.
+
+=== PAGE PDF 10 ===
+Repenser l’héritage
+10
+Les notes du conseil d’analyse économique, n° 69
+en compte les possibles réactions comportementales occa­
+sionnées par leur suppression et leur impact sur l’assiette des 
+droits de succession. Il convient cependant de séparer, au sein 
+de ces réponses comportementales, celles qui proviennent de 
+la réallocation du patrimoine entre diverses formes d’actifs du 
+fait de différences dans le traitement de ces actifs au sens des 
+droits de succession, et celles qui proviennent d’un change­
+ment des comportements d’épargne et d’accumulation. Dans 
+un système où les distorsions dans le traitement fiscal entre 
+types d’actifs auront été éliminées, les premières deviennent 
+nulles par définition, et seules comptent les secondes qui déter­
+minent l’évolution de la base taxable. Or, comme évoqué plus 
+haut, le peu d’évidence empirique dont nous disposons suggère 
+que les réponses en termes d’épargne totale sont limitées33.
+Recommandation 3. Opérer une refonte 
+de l’assiette des droits de succession, pour 
+éliminer ou réformer les principales « niches » 
+(assurance-vie, régime des démembrements de 
+propriété et exemptions Dutreil à 75 %).
+Une telle refonte de l’assiette des droits de succession aurait 
+également l’avantage de mettre en place de taux nominaux 
+du barème plus bas mais réellement progressifs (voir les 
+résultats de nos simulations plus bas).
+L’inégalité extrême des patrimoines hérités par le simple 
+hasard de la naissance crée des problèmes d’équité mais aussi 
+d’efficacité que les autres politiques d’égalité de chances ne 
+peuvent régler. Garantir un capital pour tous permet non seule­
+ment de réduire les inégalités les plus extrêmes de patrimoine 
+dans le bas de la distribution, mais également de lever les 
+contraintes de crédit ou de liquidité qui peuvent affecter néga­
+tivement l’accès à l’éducation, à l’investissement, au logement 
+pour la très grande partie de chaque cohorte qui ne reçoit rien, 
+ou presque rien à la naissance. Ceci explique que cette propo­
+sition soit portée de manière récurrente dans le débat public 
+par les économistes (Atkinson 2015 et Blanchard et Tirole, 
+2021), et qu’elle ait même été temporairement mise en pra­
+tique au Royaume-Uni à la fin des années 2000.
+L’organisation d’un tel système pourrait se faire sur la base de la 
+citoyenneté à la naissance, et le versement pourrait être opéré 
+à 18 ans, 25 ans, ou au moment du premier transfert entre vifs 
+et héritiers. Pour pouvoir réellement atténuer les contraintes de 
+crédit ou de liquidité, le montant de la garantie en capital doit 
+être suffisamment important (cf. Balboni et al. 2021)34. Il est 
+donc préférable d’avoir un transfert en capital plutôt que des 
+annuités. Plus globalement, son versement ne devrait pas faire 
+l’objet de conditions (telles qu’une obligation de formation) : la 
+littérature récente suggère que les craintes paternalistes quant 
+aux effets négatifs sur l’offre de travail ou sur une utilisation inef­
+ficace des ressources sont à relativiser. (Banerjee et al. 2020)35.
+Recommandation 4. Garantir un capital pour 
+tous, versé à la majorité, sur la base de la 
+citoyenneté pour limiter les inégalités les plus 
+extrêmes d’opportunité.
+Réforme systémique ou approche à la carte
+Pour traiter de manière holistique et transparente la ques­
+tion de l’inégalité des chances et favoriser ainsi l’acceptabilité 
+sociale d’une telle politique, nous pensons qu’il est important 
+d’adopter une approche systémique, qui traite simultanément 
+les quatre piliers. En particulier, une garantie en capital pour 
+tous doit, selon nous, être pensée comme une composante 
+d’un système de redistribution des chances qui redistribue le 
+patrimoine hérité au même titre que les droits de succession 
+et de donations, en intégrant le flux succes­soral reçu tout au 
+long de la vie. Une telle réforme systémique pourrait être mise 
+en place au travers d’une période de transition longue (de 10 
+à 18 ans) permettant l’établissement d’un système d’informa­
+tion efficace et la prise en compte progressive de l’ensemble 
+des flux patrimoniaux reçus par les nouvelles cohortes.
+Mis à part l’instauration d’un système d’information efficace, 
+qui constitue une condition préalable indispensable à toute 
+réforme, nos recommandations peuvent être mises en place 
+de manière indépendante comme, par exemple, celle sur l’as­
+siette fiscale. L’utilisation des recettes fiscales débloquées 
+par un tel élargissement de l’assiette des droits de succes­
+sion devrait faire l’objet d’un débat fructueux : doivent-elles 
+être utilisées pour offrir une garantie en capital pour tous, 
+servir à financer d’autres politiques d’égalité des chances36, 
+ou encore réduire d’autres impôts sur les ménages ? Doivent-
+elles permettre de baisser la taxation des plus petits héritages 
+en remontant le seuil de 100 000 euros au-dessus duquel se 
+déclenche l’imposition ? Cette Note montre qu’une réforme 
+des droits de succession permet d’ouvrir ces questions.
+Simulations
+Combien rapporterait l’élargissement de l’assiette, l’aug­
+mentation de la progressivité effective ? Quel capital peut-
+on garantir à chacun ? Pour cadrer le débat, nous offrons ici, 
+33 Chetty R., J.N. Friedman, S. Leth-Petersen, T.H. Nielsen et T. Olsen, (2014) : « Active vs. Passive Decisions and Crowd-out in Retirement Savings Accounts: 
+Evidence from Denmark », The Quarterly Journal of Economics, vol. 129, n° 3, pp. 1141-1219.
+34 Balboni C., O. Bandiera, R. Burgess, M. Ghatak et A. Heil (2021) : « Why Do People Stay Poor? », NBER Working Paper, n° 29340.
+35 Banerjee A., E. Duflo et G. Sharma (2020) : « Long-Term Effects of the Targeting the Ultra Poor Program », NBER Working Paper, n° 28074.
+36 Notamment l’investissement dans des politiques éducatives ciblées. Sur l’éducation supérieure ou des réductions de taille des classes, voir Fack G. et E. 
+Huillery (2021) « Enseignement supérieur : pour un investissement plus juste et plus efficace », Note du CAE, n° 68, décembre, et Bouguen A., G. Grenet et 
+M. Gurgant (2017) : « La taille des classes influence-t-elle la réussite scolaire ? », Note IPP, n° 28. L’effet redistributif de long terme de ces politiques d’égalité 
+des chances est cependant difficile à quantifier et leur ciblage précis est parfois compliqué à effectuer.
+
+=== PAGE PDF 11 ===
+11
+www.cae-eco.fr
+Décembre 2021
+ainsi que dans le Focus associé à cette Note, un ensemble 
+de simulations qui donnent des ordres de grandeur des 
+effets des différentes mesures sur les recettes fiscales, et 
+sur les inégalités de patrimoine net hérité. Nos simulations 
+se fondent tout d’abord sur deux hypothèses différentes 
+de réforme d’assiette. La première hypothèse (assiette 1) 
+est celle d’une réforme de base intégrant la réduction des 
+exemptions Dutreil de 75 à 50 %, l’élimination du dispo­sitif de 
+réduction additionnelle des droits de 50 % en cas de donation 
+avant 70 ans, l’intégration de l’ensemble des assurances-vie 
+au barème et la taxation de l’usufruit lors de la réunification 
+avec la nue-propriété. La seconde hypothèse (assiette 2) est 
+celle d’une réforme plus ambitieuse visant à intégrer l’en­
+semble des transmissions patrimoniales reçues au cours de 
+la vie dans l’assiette, à leur valeur économique.
+La concentration des patrimoines hérités et la concentration 
+de l’utilisation des multiples dispositifs d’optimisation sont 
+telles que l’élargissement de l’assiette, quelle que soit la nou­
+velle assiette choisie, générerait une augmentation très subs­
+tantielle des recettes fiscales et de la progressivité. Le gra­
+phique 4 montre ainsi qu’avec l’assiette 1 et le barème actuel 
+(barème 1), les droits supplémentaires seraient de l’ordre 
+de 9 milliards d’euros. Il montre aussi qu’une réforme plus 
+ambitieuse de l’assiette de type assiette 2 tout en gardant 
+les mêmes taux effectifs que ceux actuellement affichés sur 
+l’actif taxable (barème 2) engendrerait des droits supplémen­
+taires de l’ordre de 19 milliards d’euros.
+Les recettes supplémentaires générées par ces réformes 
+d’assiette peuvent a priori être utilisées de nombreuses 
+façons : offrir un transfert en capital pour réduire les iné­
+galités de patrimoine hérité dans le bas de la distribution, 
+réduire les droits de succession pour certaines catégories 
+de contribuables, renforcer d’autres politiques de l’égalité 
+des chances, réduire d’autres prélèvements obligatoires, etc. 
+Nous proposons donc différentes simulations en termes de 
+barème et de transferts. La combinaison de ces différents 
+barèmes et transferts permet de visualiser les effets d’un 
+large éventail d’options en termes de niveau de prélèvement 
+et de redistribution entre différents groupes.
+Le barème 3 par exemple, représenté sur le graphique 6, 
+ajuste sensiblement à la baisse l’ensemble des taux nomi­
+naux pour compenser la réforme de l’assiette. Dans ce scé­
+nario, la baisse des taux et le relèvement des seuils d’exemp­
+tion sont tels que 99 % des héritiers gagnent à la réforme de 
+l’assiette 1, et les recettes totales des droits de succession 
+restent inchangées. Comme indiqué sur le graphique 4, une 
+réforme de type assiette 1, barème 3 correspond donc à une 
+redistribution du top 1 % des héritiers, vers les héritiers des 
+classes moyennes supérieures (P70-99), sans affecter la part 
+des DMTG dans le revenu total.
+Le barème 4, également représenté sur le graphique 6, avec 
+une exemption de 200 000 euros (deux fois supérieure à 
+l’exemption actuelle) et des taux significativement inférieurs 
+pour les héritages jusqu’à 4 millions d’euros, diminuerait 
+5. Patrimoine hérité net pour trois hypothèses 
+de transfert en capital dans le cadre d’une réforme 
+de type « assiette 2, barème 4 »
+Lecture : Le graphique ordonne chaque cohorte par fractile de 
+patrimoine brut hérité tout au long de la vie. Il représente le patrimoine 
+moyen hérité net de droits de succession pour chaque fractile dans 
+le cadre d’une réforme de type « assiette 2, barème 4 » pour trois 
+hypothèses différentes de transfert en capital.
+Source : Calculs CAE à partir des données fiscales (DMTG 2006).
+Changement d'échelle
+Patrimoine hérité net total (en millions d'euros)
+Fractiles de patrimoine total hérité
+0,0
+0,1
+0,2
+0,3
+0,4
+1,0
+5,0
+10,0
+15,0
+Système actuel
+Demogrant
+Garantie 1
+Garantie 2
+P0-10
+P10-20
+P20-30
+P40-50
+P50-60
+P60-70
+P70-80
+P80-90
+P90-95
+P95-99
+P99-99.5
+P99.5-99.9
+P99.9-100
+P30-40
+Droits supplémentaires générés (en milliards d'euros) :
+    – Assiette 1, Barème 1  (9)
+    – Assiette 2, Barème 2  (19)
+    – Assiette 1, Barème 3  (0)
+    – Assiette 2, Barème 4  (12)
+Assiette 1, Barème 1
+Assiette 2, Barème 2
+Assiette 1, Barème 3
+Assiette 2, Barème 4
+Système actuel
+4. Taux effectifs et patrimoines hérités nets 
+par fractile dans diverses simulations 
+de réforme de l’assiette et du barème
+Lecture : Le graphique reporte le taux effectif par fractile de patrimoine 
+hérité dans le système actuel, ainsi que dans quatre scénarios de 
+réforme. Dans le système actuel, les recettes sont de 15 milliards d'euros.
+Source : Calculs CAE à partir des données fiscales.
+Fractiles de patrimoine total hérité
+Taux effectif héritage économique total (en %)
+P0-10
+P10-20
+P20-30
+P40-50
+P50-60
+P60-70
+P70-80
+P80-90
+P90-95
+P95-99
+P99-99.5
+P99.5-99.9
+P99.9-100
+P30-40
+0
+10
+20
+30
+40
+
+=== PAGE PDF 12 ===
+Le Conseil d’analyse économique, créé auprès du Premier ministre, a pour mission d’éclairer, par la confrontation 
+des points de vue et des analyses de ses membres, les choix du Gouvernement en matière économique.
+Les Notes du Conseil d’analyse économique
+ISSN 2273-8525
+Directeur de la publication Philippe Martin
+Rédactrice en chef Hélène Paris
+Réalisation Christine Carl
+Contact Presse Christine Carl
+christine.carl@cae-eco.fr         Tél. : 01 42 75 77 47
+TSA 20727    75334 PARIS Cedex 07                   Téléphone : 01 42 75 76 84                   @CAEinfo                   www.cae-eco.fr
+Président délégué Philippe Martin
+Secrétaire générale Hélène Paris
+Conseillers scientifiques
+Hamza Bennani, Jean Beuve, Claudine Desrieux, 
+Kevin Parra Ramirez, Thomas Renault
+Économistes/Ch. d’études
+Étienne Fize, Madeleine Péron, 
+César Poux, Baptiste Roux
+Membres Yann Algan, Emmanuelle Auriol, 
+Anne Épaulard, Gabrielle Fack, François Fontaine, 
+Maria Guadalupe, Xavier Jaravel, Sébastien Jean, 
+Camille Landais, Philippe Martin, Isabelle Méjean, 
+Thomas Philippon, Xavier Ragot, Katheline Schubert, 
+Claudia Senik, David Sraer, Stefanie Stantcheva, 
+Jean Tirole
+Correspondants
+Dominique Bureau, Ludovic Subran
+quant à lui les droits de succession effectifs pour une immense 
+majorité des Français, tout en augmentant la progressivité au-
+delà du dernier centile de patrimoine hérité. Un scénario alter­
+natif de réforme, correspondant à l’assiette 2, barème 4, peut 
+ainsi permettre à 99 % des héritiers d’être gagnants ou non 
+impactés par la réforme, tout en apportant des recettes fis­
+cales supplémentaires substantielles (de l’ordre de plus de 
+10 milliards d’euros en état stationnaire) comme indiqué sur 
+le graphique 4.
+En utilisant les recettes fiscales supplémentaires générées 
+par la mise en place de telles réformes d’assiette et de 
+barème, quels transferts en capital pourrait-on financer ? Pour 
+y répondre, nous intégrons également dans nos simulations 
+quatre hypothèses en termes de transferts de patrimoine 
+(graphique 5). Dans le premier cas, aucun transfert n’est réa­
+lisé : les recettes additionnelles peuvent donc être utilisées 
+pour d’autres politiques publiques ou pour réduire d’autres 
+impôts ou la dette publique. Dans le deuxième cas, les recettes 
+fiscales supplémentaires sont utilisées pour verser un « capi­
+tal pour tous », d’un montant identique pour tous les indivi­
+dus d’une même cohorte (« demogrant »). Dans les deux der­
+niers cas, au lieu d’un capital pour tous, nous considérons une 
+garantie en capital (tous les enfants reçoivent au moins un cer­
+tain montant minimum, l’État verse donc la différence entre 
+cette garantie et l’ensemble des transmissions patrimoniales 
+reçues). La différence entre ces deux derniers scénarios tient 
+à la vitesse avec laquelle ce transfert garanti diminue à mesure 
+que les héritages reçus augmentent. Dans un scénario (garan­
+tie 1), le transfert diminue fortement, imposant des taux mar­
+ginaux implicites élevés sur les petits héritages. Dans l’autre 
+(garantie 2), les taux marginaux implicites sont plus faibles, 
+mais la garantie en capital l’est également.
+Dans l’hypothèse de base d’une réforme d’assiette avec modi­
+fication du barème (assiette 2, barème 4), le transfert de type 
+« demogrant » qui pourrait être versé à tous est de l’ordre de 
+10 000 euros. Évidemment, un capital pour tous plus consé­
+quent pourrait être versé en mobilisant des ressources au-
+delà des seules recettes supplémentaires générées par les 
+réformes du barème. Par ailleurs, les montants potentiels 
+d’une « garantie en capital pour tous » (c’est-à-dire un transfert 
+différentiel) peuvent être bien plus élevés que ceux d’un trans­
+fert de type « demogrant » », pouvant s’établir par exemple à 
+40 000 euros (scénario assiette 2, barème 4, garantie 1), mais 
+la question de l’ampleur des taux marginaux implicites pour 
+les petits héritages se pose. En effet, au fil des transmissions 
+reçues par l’individu, l’État récupérerait progressivement tout 
+ou partie du montant initialement distribué en garantie. Il y a 
+donc un arbitrage à opérer entre le montant de la garantie et 
+les taux marginaux implicites de taxation dans le bas de la dis­
+tribution des patrimoines hérités.
+Quel serait l’effet de ces réformes d’assiette et de barème 
+sur la concentration des héritages nets ? Dans le cas d’une 
+réforme de type assiette 1, barème 1, le ratio entre l’héritage 
+moyen du top 1 % et l’héritage médian passerait de 60 actuel­
+lement à environ 50. Dans le cas des réformes qui pourraient 
+être perçues comme les plus « ambitieuses », ce ratio serait 
+ramené à environ 40. Ces mesures vont donc dans le sens 
+d’une plus grande égalité des chances, sans pour autant trai­
+ter toutes les facettes de cette problématique complexe.   
+6. Comparaison des barèmes 3 et 4 avec le barème 
+actuel des successions directes (barème 1)
+Lecture : Pour les deux propositions de barème (barème 3 et barème 4), 
+la temporalité et le nombre de transmissions n’impactent pas le taux 
+d’imposition car il s’applique au total reçu par l’individu au cours de sa 
+vie, et sans distinction du lien de parenté avec le défunt. Ce n'est pas le 
+cas du système actuel où chaque transmission est taxée séparément et 
+avec des taux et abattements différenciés suivant le lien de parenté. Les 
+trois barèmes ne sont ainsi comparables que dans le cas où l'individu 
+hérite de tout son patrimoine, en une seule fois, en héritage de ses 
+parents pour le barème 1.
+Source : Calculs des auteurs.
+0,0
+0,4
+0,8
+2,8
+4,4
+6,0
+1,2
+50
+40
+30
+20
+10
+0
+Patrimoine fiscal déclaré hérité 
+(en millions d’euros)
+Système actuel
+Barème 3
+Barème 4
+Taux marginal sur actif fiscal déclaré 
+(en %)

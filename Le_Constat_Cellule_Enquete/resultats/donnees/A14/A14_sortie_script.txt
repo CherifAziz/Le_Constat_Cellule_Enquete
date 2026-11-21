@@ -1,0 +1,96 @@
+EMPLOI_ALLEG= 0.845 IS_PARTIEL= 0.55
+{'enveloppe': 'prudente', 'horizon': 2027, 'net_bas': 15.2, 'net_central': 18.8, 'net_haut': 22.3, 'net_central_vs_2025': 12.8, 'net_bas_vs_2025': 11.0, 'net_haut_vs_2025': 14.6, 'retour_macro_central': -5.4, 'retour_macro_fort': -10.7, 'net_apres_macro_central': 13.4, 'pts_PIB_central': 0.63}
+{'enveloppe': 'prudente', 'horizon': 2030, 'net_bas': 14.9, 'net_central': 18.6, 'net_haut': 22.1, 'net_central_vs_2025': 12.6, 'net_bas_vs_2025': 10.7, 'net_haut_vs_2025': 14.4, 'retour_macro_central': 0.0, 'retour_macro_fort': 0.0, 'net_apres_macro_central': 18.6, 'pts_PIB_central': 0.62}
+{'enveloppe': 'prudente', 'horizon': 2035, 'net_bas': 14.9, 'net_central': 18.6, 'net_haut': 22.1, 'net_central_vs_2025': 12.6, 'net_bas_vs_2025': 10.7, 'net_haut_vs_2025': 14.4, 'retour_macro_central': 0.0, 'retour_macro_fort': 0.0, 'net_apres_macro_central': 18.6, 'pts_PIB_central': 0.62}
+{'enveloppe': 'prudente', 'horizon': 2050, 'net_bas': 14.9, 'net_central': 18.6, 'net_haut': 22.1, 'net_central_vs_2025': 12.6, 'net_bas_vs_2025': 10.7, 'net_haut_vs_2025': 14.4, 'retour_macro_central': 0.0, 'retour_macro_fort': 0.0, 'net_apres_macro_central': 18.6, 'pts_PIB_central': 0.62}
+{'enveloppe': 'centrale', 'horizon': 2027, 'net_bas': 25.2, 'net_central': 30.1, 'net_haut': 34.7, 'net_central_vs_2025': 24.1, 'net_bas_vs_2025': 21.0, 'net_haut_vs_2025': 27.0, 'retour_macro_central': -8.6, 'retour_macro_fort': -17.1, 'net_apres_macro_central': 21.5, 'pts_PIB_central': 1.0}
+{'enveloppe': 'centrale', 'horizon': 2030, 'net_bas': 30.2, 'net_central': 38.1, 'net_haut': 45.4, 'net_central_vs_2025': 32.1, 'net_bas_vs_2025': 26.0, 'net_haut_vs_2025': 37.7, 'retour_macro_central': 0.0, 'retour_macro_fort': 0.0, 'net_apres_macro_central': 38.1, 'pts_PIB_central': 1.27}
+{'enveloppe': 'centrale', 'horizon': 2035, 'net_bas': 37.9, 'net_central': 47.4, 'net_haut': 55.9, 'net_central_vs_2025': 41.4, 'net_bas_vs_2025': 33.7, 'net_haut_vs_2025': 48.2, 'retour_macro_central': 0.0, 'retour_macro_fort': 0.0, 'net_apres_macro_central': 47.4, 'pts_PIB_central': 1.58}
+{'enveloppe': 'centrale', 'horizon': 2050, 'net_bas': 37.9, 'net_central': 47.4, 'net_haut': 55.9, 'net_central_vs_2025': 41.4, 'net_bas_vs_2025': 33.7, 'net_haut_vs_2025': 48.2, 'retour_macro_central': 0.0, 'retour_macro_fort': 0.0, 'net_apres_macro_central': 47.4, 'pts_PIB_central': 1.58}
+{'enveloppe': 'ambitieuse', 'horizon': 2027, 'net_bas': 27.7, 'net_central': 32.9, 'net_haut': 37.9, 'net_central_vs_2025': 27.0, 'net_bas_vs_2025': 23.5, 'net_haut_vs_2025': 30.2, 'retour_macro_central': -9.4, 'retour_macro_fort': -18.8, 'net_apres_macro_central': 23.6, 'pts_PIB_central': 1.1}
+{'enveloppe': 'ambitieuse', 'horizon': 2030, 'net_bas': 37.3, 'net_central': 46.2, 'net_haut': 54.6, 'net_central_vs_2025': 40.2, 'net_bas_vs_2025': 33.1, 'net_haut_vs_2025': 46.9, 'retour_macro_central': 0.0, 'retour_macro_fort': 0.0, 'net_apres_macro_central': 46.2, 'pts_PIB_central': 1.54}
+{'enveloppe': 'ambitieuse', 'horizon': 2035, 'net_bas': 45.5, 'net_central': 56.2, 'net_haut': 66.1, 'net_central_vs_2025': 50.3, 'net_bas_vs_2025': 41.2, 'net_haut_vs_2025': 58.4, 'retour_macro_central': 0.0, 'retour_macro_fort': 0.0, 'net_apres_macro_central': 56.2, 'pts_PIB_central': 1.88}
+{'enveloppe': 'ambitieuse', 'horizon': 2050, 'net_bas': 45.5, 'net_central': 56.2, 'net_haut': 66.1, 'net_central_vs_2025': 50.3, 'net_bas_vs_2025': 41.2, 'net_haut_vs_2025': 58.4, 'retour_macro_central': 0.0, 'retour_macro_fort': 0.0, 'net_apres_macro_central': 56.2, 'pts_PIB_central': 1.88}
+{'enveloppe': 'prudente', 'test': 'reference (central)', 'net_2027': 18.8, 'net_2030': 18.6, 'note': ''}
+{'enveloppe': 'prudente', 'test': '1. elasticites fortes des assiettes mobiles', 'net_2027': 16.0, 'net_2030': 15.6, 'note': 'capital/patrimoine/successions a 26 % (Jakobsen via CAE) ; IS a 55 % (IAG/IPP)'}
+{'enveloppe': 'prudente', 'test': '2. rendement inferieur de moitie', 'net_2027': 9.4, 'net_2030': 9.3, 'note': 'toutes mesures x 0,5'}
+{'enveloppe': 'prudente', 'test': '3. exil (marge extensive seule)', 'net_2027': 18.7, 'net_2030': 18.5, 'note': '20 centimes par euro sur les mesures de capital'}
+{'enveloppe': 'prudente', 'test': '4. effet recessif fort (m = 1,0)', 'net_2027': 8.1, 'net_2030': 18.6, 'note': 'semi-elasticite 0,57 ; dissipe en 2030'}
+{'enveloppe': 'prudente', 'test': "5. plafond d'acceptation", 'net_2027': 10.1, 'net_2030': 9.9, 'note': 'exclut 001, 007, 009, 010 (retires le 4/11/2026 ou rejetes au PLFSS 2026)'}
+{'enveloppe': 'prudente', 'test': '6. temporaires non reconduites', 'net_2027': 12.1, 'net_2030': 12.9, 'note': 'surtaxe IS non perennisee ; OC et desherence eteintes'}
+{'enveloppe': 'prudente', 'test': '7. cumul 2 + 4 + 5', 'net_2027': 2.2, 'net_2030': 4.9, 'note': 'scenario defavorable combine'}
+{'enveloppe': 'centrale', 'test': 'reference (central)', 'net_2027': 30.1, 'net_2030': 38.1, 'note': ''}
+{'enveloppe': 'centrale', 'test': '1. elasticites fortes des assiettes mobiles', 'net_2027': 26.7, 'net_2030': 32.7, 'note': 'capital/patrimoine/successions a 26 % (Jakobsen via CAE) ; IS a 55 % (IAG/IPP)'}
+{'enveloppe': 'centrale', 'test': '2. rendement inferieur de moitie', 'net_2027': 15.0, 'net_2030': 19.0, 'note': 'toutes mesures x 0,5'}
+{'enveloppe': 'centrale', 'test': '3. exil (marge extensive seule)', 'net_2027': 30.0, 'net_2030': 37.9, 'note': '20 centimes par euro sur les mesures de capital'}
+{'enveloppe': 'centrale', 'test': '4. effet recessif fort (m = 1,0)', 'net_2027': 12.9, 'net_2030': 38.1, 'note': 'semi-elasticite 0,57 ; dissipe en 2030'}
+{'enveloppe': 'centrale', 'test': "5. plafond d'acceptation", 'net_2027': 16.2, 'net_2030': 24.2, 'note': 'exclut 001, 007, 009, 010 (retires le 4/11/2026 ou rejetes au PLFSS 2026)'}
+{'enveloppe': 'centrale', 'test': '6. temporaires non reconduites', 'net_2027': 22.0, 'net_2030': 32.4, 'note': 'surtaxe IS non perennisee ; OC et desherence eteintes'}
+{'enveloppe': 'centrale', 'test': '7. cumul 2 + 4 + 5', 'net_2027': 3.5, 'net_2030': 12.1, 'note': 'scenario defavorable combine'}
+{'enveloppe': 'ambitieuse', 'test': 'reference (central)', 'net_2027': 32.9, 'net_2030': 46.2, 'note': ''}
+{'enveloppe': 'ambitieuse', 'test': '1. elasticites fortes des assiettes mobiles', 'net_2027': 29.6, 'net_2030': 40.4, 'note': 'capital/patrimoine/successions a 26 % (Jakobsen via CAE) ; IS a 55 % (IAG/IPP)'}
+{'enveloppe': 'ambitieuse', 'test': '2. rendement inferieur de moitie', 'net_2027': 16.5, 'net_2030': 23.1, 'note': 'toutes mesures x 0,5'}
+{'enveloppe': 'ambitieuse', 'test': '3. exil (marge extensive seule)', 'net_2027': 32.9, 'net_2030': 46.0, 'note': '20 centimes par euro sur les mesures de capital'}
+{'enveloppe': 'ambitieuse', 'test': '4. effet recessif fort (m = 1,0)', 'net_2027': 14.2, 'net_2030': 46.2, 'note': 'semi-elasticite 0,57 ; dissipe en 2030'}
+{'enveloppe': 'ambitieuse', 'test': "5. plafond d'acceptation", 'net_2027': 19.1, 'net_2030': 32.4, 'note': 'exclut 001, 007, 009, 010 (retires le 4/11/2026 ou rejetes au PLFSS 2026)'}
+{'enveloppe': 'ambitieuse', 'test': '6. temporaires non reconduites', 'net_2027': 24.9, 'net_2030': 40.5, 'note': 'surtaxe IS non perennisee ; OC et desherence eteintes'}
+{'enveloppe': 'ambitieuse', 'test': '7. cumul 2 + 4 + 5', 'net_2027': 4.1, 'net_2030': 16.2, 'note': 'scenario defavorable combine'}
+{'enveloppe': 'ambitieuse + 021 (conditionnel)', 'test': 'sensibilite', 'net_2027': '', 'net_2030': 52.2, 'note': 'horizon 2030'}
+{'enveloppe': 'ambitieuse + 021 (conditionnel)', 'test': 'sensibilite', 'net_2027': '', 'net_2030': 62.2, 'note': 'horizon 2035'}
+{'enveloppe': 'P-A14-017 seule', 'test': 'SMIC +1.5 %/an', 'net_2027': '', 'net_2030': 3.5, 'note': 'rendement proportionnel a la hausse du SMIC (Cour : +2,41 % = +2,2 Md)'}
+{'enveloppe': 'P-A14-017 seule', 'test': 'SMIC +2.41 %/an', 'net_2027': '', 'net_2030': 5.6, 'note': 'rendement proportionnel a la hausse du SMIC (Cour : +2,41 % = +2,2 Md)'}
+{'enveloppe': 'P-A14-017 seule', 'test': 'SMIC +3.5 %/an', 'net_2027': '', 'net_2030': 8.1, 'note': 'rendement proportionnel a la hausse du SMIC (Cour : +2,41 % = +2,2 Md)'}
+{'enveloppe': 'prudente', 'horizon': 2027, 'reference': 'deficit 2025 (151,6 Md)', 'cible': '3 %', 'besoin_Md': '62', 'part_couverte_central': '21 %', 'part_couverte_bas_haut': '18 a 24 %'}
+{'enveloppe': 'prudente', 'horizon': 2027, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'stabilisation', 'besoin_Md': '67-87', 'part_couverte_central': '15-19 %', 'part_couverte_bas_haut': '13 a 22 %'}
+{'enveloppe': 'prudente', 'horizon': 2027, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'equilibre', 'besoin_Md': '152', 'part_couverte_central': '8 %', 'part_couverte_bas_haut': '7 a 10 %'}
+{'enveloppe': 'prudente', 'horizon': 2027, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': '3 %', 'besoin_Md': '105', 'part_couverte_central': '18 %', 'part_couverte_bas_haut': '15 a 21 %'}
+{'enveloppe': 'prudente', 'horizon': 2027, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'stabilisation', 'besoin_Md': '111-129', 'part_couverte_central': '15-17 %', 'part_couverte_bas_haut': '12 a 20 %'}
+{'enveloppe': 'prudente', 'horizon': 2027, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'equilibre', 'besoin_Md': '194', 'part_couverte_central': '10 %', 'part_couverte_bas_haut': '8 a 11 %'}
+{'enveloppe': 'prudente', 'horizon': 2030, 'reference': 'deficit 2025 (151,6 Md)', 'cible': '3 %', 'besoin_Md': '62', 'part_couverte_central': '20 %', 'part_couverte_bas_haut': '17 a 23 %'}
+{'enveloppe': 'prudente', 'horizon': 2030, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'stabilisation', 'besoin_Md': '67-87', 'part_couverte_central': '14-19 %', 'part_couverte_bas_haut': '12 a 21 %'}
+{'enveloppe': 'prudente', 'horizon': 2030, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'equilibre', 'besoin_Md': '152', 'part_couverte_central': '8 %', 'part_couverte_bas_haut': '7 a 9 %'}
+{'enveloppe': 'prudente', 'horizon': 2030, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': '3 %', 'besoin_Md': '105', 'part_couverte_central': '18 %', 'part_couverte_bas_haut': '14 a 21 %'}
+{'enveloppe': 'prudente', 'horizon': 2030, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'stabilisation', 'besoin_Md': '111-129', 'part_couverte_central': '14-17 %', 'part_couverte_bas_haut': '12 a 20 %'}
+{'enveloppe': 'prudente', 'horizon': 2030, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'equilibre', 'besoin_Md': '194', 'part_couverte_central': '10 %', 'part_couverte_bas_haut': '8 a 11 %'}
+{'enveloppe': 'prudente', 'horizon': 2035, 'reference': 'deficit 2025 (151,6 Md)', 'cible': '3 %', 'besoin_Md': '62', 'part_couverte_central': '20 %', 'part_couverte_bas_haut': '17 a 23 %'}
+{'enveloppe': 'prudente', 'horizon': 2035, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'stabilisation', 'besoin_Md': '67-87', 'part_couverte_central': '14-19 %', 'part_couverte_bas_haut': '12 a 21 %'}
+{'enveloppe': 'prudente', 'horizon': 2035, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'equilibre', 'besoin_Md': '152', 'part_couverte_central': '8 %', 'part_couverte_bas_haut': '7 a 9 %'}
+{'enveloppe': 'prudente', 'horizon': 2035, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': '3 %', 'besoin_Md': '105', 'part_couverte_central': '18 %', 'part_couverte_bas_haut': '14 a 21 %'}
+{'enveloppe': 'prudente', 'horizon': 2035, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'stabilisation', 'besoin_Md': '111-129', 'part_couverte_central': '14-17 %', 'part_couverte_bas_haut': '12 a 20 %'}
+{'enveloppe': 'prudente', 'horizon': 2035, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'equilibre', 'besoin_Md': '194', 'part_couverte_central': '10 %', 'part_couverte_bas_haut': '8 a 11 %'}
+{'enveloppe': 'centrale', 'horizon': 2027, 'reference': 'deficit 2025 (151,6 Md)', 'cible': '3 %', 'besoin_Md': '62', 'part_couverte_central': '39 %', 'part_couverte_bas_haut': '34 a 44 %'}
+{'enveloppe': 'centrale', 'horizon': 2027, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'stabilisation', 'besoin_Md': '67-87', 'part_couverte_central': '28-36 %', 'part_couverte_bas_haut': '24 a 40 %'}
+{'enveloppe': 'centrale', 'horizon': 2027, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'equilibre', 'besoin_Md': '152', 'part_couverte_central': '16 %', 'part_couverte_bas_haut': '14 a 18 %'}
+{'enveloppe': 'centrale', 'horizon': 2027, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': '3 %', 'besoin_Md': '105', 'part_couverte_central': '29 %', 'part_couverte_bas_haut': '24 a 33 %'}
+{'enveloppe': 'centrale', 'horizon': 2027, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'stabilisation', 'besoin_Md': '111-129', 'part_couverte_central': '23-27 %', 'part_couverte_bas_haut': '20 a 31 %'}
+{'enveloppe': 'centrale', 'horizon': 2027, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'equilibre', 'besoin_Md': '194', 'part_couverte_central': '15 %', 'part_couverte_bas_haut': '13 a 18 %'}
+{'enveloppe': 'centrale', 'horizon': 2030, 'reference': 'deficit 2025 (151,6 Md)', 'cible': '3 %', 'besoin_Md': '62', 'part_couverte_central': '52 %', 'part_couverte_bas_haut': '42 a 61 %'}
+{'enveloppe': 'centrale', 'horizon': 2030, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'stabilisation', 'besoin_Md': '67-87', 'part_couverte_central': '37-48 %', 'part_couverte_bas_haut': '30 a 56 %'}
+{'enveloppe': 'centrale', 'horizon': 2030, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'equilibre', 'besoin_Md': '152', 'part_couverte_central': '21 %', 'part_couverte_bas_haut': '17 a 25 %'}
+{'enveloppe': 'centrale', 'horizon': 2030, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': '3 %', 'besoin_Md': '105', 'part_couverte_central': '36 %', 'part_couverte_bas_haut': '29 a 43 %'}
+{'enveloppe': 'centrale', 'horizon': 2030, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'stabilisation', 'besoin_Md': '111-129', 'part_couverte_central': '30-34 %', 'part_couverte_bas_haut': '23 a 41 %'}
+{'enveloppe': 'centrale', 'horizon': 2030, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'equilibre', 'besoin_Md': '194', 'part_couverte_central': '20 %', 'part_couverte_bas_haut': '16 a 23 %'}
+{'enveloppe': 'centrale', 'horizon': 2035, 'reference': 'deficit 2025 (151,6 Md)', 'cible': '3 %', 'besoin_Md': '62', 'part_couverte_central': '67 %', 'part_couverte_bas_haut': '54 a 78 %'}
+{'enveloppe': 'centrale', 'horizon': 2035, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'stabilisation', 'besoin_Md': '67-87', 'part_couverte_central': '48-62 %', 'part_couverte_bas_haut': '39 a 72 %'}
+{'enveloppe': 'centrale', 'horizon': 2035, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'equilibre', 'besoin_Md': '152', 'part_couverte_central': '27 %', 'part_couverte_bas_haut': '22 a 32 %'}
+{'enveloppe': 'centrale', 'horizon': 2035, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': '3 %', 'besoin_Md': '105', 'part_couverte_central': '45 %', 'part_couverte_bas_haut': '36 a 53 %'}
+{'enveloppe': 'centrale', 'horizon': 2035, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'stabilisation', 'besoin_Md': '111-129', 'part_couverte_central': '37-43 %', 'part_couverte_bas_haut': '29 a 51 %'}
+{'enveloppe': 'centrale', 'horizon': 2035, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'equilibre', 'besoin_Md': '194', 'part_couverte_central': '24 %', 'part_couverte_bas_haut': '19 a 29 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2027, 'reference': 'deficit 2025 (151,6 Md)', 'cible': '3 %', 'besoin_Md': '62', 'part_couverte_central': '44 %', 'part_couverte_bas_haut': '38 a 49 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2027, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'stabilisation', 'besoin_Md': '67-87', 'part_couverte_central': '31-40 %', 'part_couverte_bas_haut': '27 a 45 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2027, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'equilibre', 'besoin_Md': '152', 'part_couverte_central': '18 %', 'part_couverte_bas_haut': '15 a 20 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2027, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': '3 %', 'besoin_Md': '105', 'part_couverte_central': '31 %', 'part_couverte_bas_haut': '26 a 36 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2027, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'stabilisation', 'besoin_Md': '111-129', 'part_couverte_central': '26-30 %', 'part_couverte_bas_haut': '22 a 34 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2027, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'equilibre', 'besoin_Md': '194', 'part_couverte_central': '17 %', 'part_couverte_bas_haut': '14 a 19 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2030, 'reference': 'deficit 2025 (151,6 Md)', 'cible': '3 %', 'besoin_Md': '62', 'part_couverte_central': '65 %', 'part_couverte_bas_haut': '53 a 76 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2030, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'stabilisation', 'besoin_Md': '67-87', 'part_couverte_central': '46-60 %', 'part_couverte_bas_haut': '38 a 70 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2030, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'equilibre', 'besoin_Md': '152', 'part_couverte_central': '26 %', 'part_couverte_bas_haut': '22 a 31 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2030, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': '3 %', 'besoin_Md': '105', 'part_couverte_central': '44 %', 'part_couverte_bas_haut': '36 a 52 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2030, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'stabilisation', 'besoin_Md': '111-129', 'part_couverte_central': '36-42 %', 'part_couverte_bas_haut': '29 a 49 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2030, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'equilibre', 'besoin_Md': '194', 'part_couverte_central': '24 %', 'part_couverte_bas_haut': '19 a 28 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2035, 'reference': 'deficit 2025 (151,6 Md)', 'cible': '3 %', 'besoin_Md': '62', 'part_couverte_central': '81 %', 'part_couverte_bas_haut': '66 a 94 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2035, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'stabilisation', 'besoin_Md': '67-87', 'part_couverte_central': '58-75 %', 'part_couverte_bas_haut': '47 a 87 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2035, 'reference': 'deficit 2025 (151,6 Md)', 'cible': 'equilibre', 'besoin_Md': '152', 'part_couverte_central': '33 %', 'part_couverte_bas_haut': '27 a 38 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2035, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': '3 %', 'besoin_Md': '105', 'part_couverte_central': '54 %', 'part_couverte_bas_haut': '43 a 63 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2035, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'stabilisation', 'besoin_Md': '111-129', 'part_couverte_central': '44-51 %', 'part_couverte_bas_haut': '35 a 60 %'}
+{'enveloppe': 'ambitieuse', 'horizon': 2035, 'reference': '2027 a politique inchangee (6,5 %)', 'cible': 'equilibre', 'besoin_Md': '194', 'part_couverte_central': '29 %', 'part_couverte_bas_haut': '23 a 34 %'}

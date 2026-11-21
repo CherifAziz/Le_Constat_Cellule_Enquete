@@ -1,0 +1,5652 @@
+
+=== page 1 ===
+Why Austerity?
+The Mass Politics of a Contested Policy
+ONLINE APPENDIX∗
+Kirk Bansak
+Michael M. Bechtel
+Yotam Margalit
+I.
+Data
+I. Austerity Support Survey
+This survey was ﬁelded in May 2015 to samples of the adult population in France, Greece, Italy,
+Spain, and the United Kingdom. Respondents were recruited by Respondi, an international
+survey ﬁrm. Tables A1 and A2 report the distribution of sociodemographics in the samples
+and the target populations.
+II. Austerity Conjoint Survey
+This survey was ﬁelded in January 2019 to samples of the adult population in Italy and Spain.
+Respondents were recruited by Bilendi, an international survey ﬁrm. Table A3 reports the
+distribution of sociodemographics in the samples and the target populations.
+∗Note: Supplementary Figures A1 - A24 are contained in a separate online appendix document available on
+the American Political Science Review Dataverse: https://doi.org/10.7910/DVN/JH5UU8.
+1
+
+=== page 2 ===
+Table A1: Distribution of Sociodemographics in 2015 Austerity Support Survey: Samples and
+Target Populations.
+Population Statistics taken from Eurostat (Gender, Age, Education),
+European Social Survey (Income, Ideology except Greece), and European Election Studies
+(Ideology in Greece).
+France (N = 3886)
+Population
+Sample
+Gender: Female
+51.6
+55.3
+Gender: Male
+48.4
+44.7
+Age: 18-24
+11.7
+12.5
+Age: 25-34
+17.4
+27.7
+Age: 35-44
+18.5
+17.1
+Age: 45-54
+19.6
+18.7
+Age: 55-64
+18.1
+14.4
+Age: 65+
+14.6
+9.6
+Education: Low (ISCED2011 0-2)
+24.3
+8.7
+Education: Medium (ISCED2011 3-4)
+44.2
+48.5
+Education: High (ISCED2011 5-8)
+31.5
+42.8
+Income Quintile 1
+20.0
+32.4
+Income Quintile 2
+20.0
+19.5
+Income Quintile 3
+20.0
+23.2
+Income Quintile 4
+20.0
+16.4
+Income Quintile 5
+20.0
+8.5
+Left
+33.8
+31.3
+Center
+30.0
+28.6
+Right
+36.2
+40.1
+Greece (N = 2013)
+Population
+Sample
+Gender: Female
+51.5
+56.8
+Gender: Male
+48.5
+43.2
+Age: 18-24
+9.9
+11.7
+Age: 25-34
+16.3
+35.1
+Age: 35-44
+20.8
+30.4
+Age: 45-54
+20.4
+16.3
+Age: 55-64
+17.8
+5.4
+Age: 65+
+14.6
+1.0
+Education: Low (ISCED2011 0-2)
+31.3
+2.2
+Education: Medium (ISCED2011 3-4)
+42.2
+41.0
+Education: High (ISCED2011 5-8)
+26.5
+56.8
+Income Quintile 1
+20.0
+31.7
+Income Quintile 2
+20.0
+29.6
+Income Quintile 3
+20.0
+20.9
+Income Quintile 4
+20.0
+13.3
+Income Quintile 5
+20.0
+4.5
+Left
+36.0
+41.5
+Center
+32.2
+35.1
+Right
+31.8
+23.4
+Italy (N = 3473)
+Population
+Sample
+Gender: Female
+51.4
+54.2
+Gender: Male
+48.6
+45.8
+Age: 18-24
+9.5
+8.1
+Age: 25-34
+15.3
+23.6
+Age: 35-44
+19.7
+25.4
+Age: 45-54
+22.3
+21.2
+Age: 55-64
+18.1
+17.6
+Age: 65+
+15.1
+4.1
+Education: Low (ISCED2011 0-2)
+42.5
+12.0
+Education: Medium (ISCED2011 3-4)
+41.3
+49.1
+Education: High (ISCED2011 5-8)
+16.2
+38.9
+Income Quintile 1
+20.0
+29.2
+Income Quintile 2
+20.0
+29.0
+Income Quintile 3
+20.0
+20.9
+Income Quintile 4
+20.0
+14.5
+Income Quintile 5
+20.0
+6.5
+Left
+35.0
+38.5
+Center
+23.7
+27.4
+Right
+41.2
+34.1
+2
+
+=== page 3 ===
+Table A2: Distribution of Sociodemographics in 2015 Austerity Support Survey, continued:
+Samples and Target Populations. Population Statistics taken from Eurostat (Gender, Age,
+Education) and European Social Survey (Income, Ideology).
+Spain (N = 3471)
+Population
+Sample
+Gender: Female
+50.9
+45.6
+Gender: Male
+49.1
+54.4
+Age: 18-24
+9.3
+10.4
+Age: 25-34
+16.2
+21.7
+Age: 35-44
+22.7
+26.4
+Age: 45-54
+21.5
+21.9
+Age: 55-64
+17.1
+18.8
+Age: 65+
+13.1
+0.8
+Education: Low (ISCED2011 0-2)
+44.6
+15.6
+Education: Medium (ISCED2011 3-4)
+23.6
+28.8
+Education: High (ISCED2011 5-8)
+31.8
+55.7
+Income Quintile 1
+20.0
+19.6
+Income Quintile 2
+20.0
+39.0
+Income Quintile 3
+20.0
+23.9
+Income Quintile 4
+20.0
+11.2
+Income Quintile 5
+20.0
+6.3
+Left
+44.8
+54.1
+Center
+30.1
+25.6
+Right
+25.1
+20.4
+United Kingdom (N = 2009)
+Population
+Sample
+Gender: Female
+50.7
+55.6
+Gender: Male
+49.3
+44.4
+Age: 18-24
+12.4
+5.1
+Age: 25-34
+19.2
+13.4
+Age: 35-44
+17.9
+17.8
+Age: 45-54
+19.9
+21.1
+Age: 55-64
+16.5
+25.9
+Age: 65+
+14.0
+16.7
+Education: Low (ISCED2011 0-2)
+20.4
+24.0
+Education: Medium (ISCED2011 3-4)
+40.4
+41.4
+Education: High (ISCED2011 5-8)
+39.2
+34.6
+Income Quintile 1
+20.0
+26.0
+Income Quintile 2
+20.0
+24.5
+Income Quintile 3
+20.0
+19.6
+Income Quintile 4
+20.0
+17.8
+Income Quintile 5
+20.0
+12.0
+Left
+31.9
+28.1
+Center
+41.7
+37.8
+Right
+26.4
+34.0
+3
+
+=== page 4 ===
+Table A3: Distribution of Sociodemographics in 2019 Austerity Conjoint Survey: Samples and
+Target Populations. Population Statistics taken from Eurostat (Gender, Age, Education) and
+European Social Survey (Income, Ideology).
+Italy (N = 1998)
+Population
+Sample
+Gender: Female
+51.4
+51.3
+Gender: Male
+48.6
+48.7
+Age: 18-24
+9.5
+9.5
+Age: 25-34
+15.3
+15.3
+Age: 35-44
+19.7
+19.7
+Age: 45-54
+22.3
+22.3
+Age: 55-64
+18.1
+18.1
+Age: 65+
+15.1
+15.1
+Education: Low (ISCED2011 0-2)
+42.5
+29.6
+Education: Medium (ISCED2011 3-4)
+41.3
+49.3
+Education: High (ISCED2011 5-8)
+16.2
+21.1
+Income Quintile 1
+20.0
+36.0
+Income Quintile 2
+20.0
+27.5
+Income Quintile 3
+20.0
+17.2
+Income Quintile 4
+20.0
+12.3
+Income Quintile 5
+20.0
+6.5
+Left
+33.8
+27.9
+Center
+24.0
+28.6
+Right
+42.2
+43.5
+Spain (N = 1970)
+Population
+Sample
+Gender: Female
+50.9
+50.2
+Gender: Male
+49.1
+49.8
+Age: 18-24
+9.3
+9.4
+Age: 25-34
+16.2
+16.4
+Age: 35-44
+22.7
+23.0
+Age: 45-54
+21.5
+21.8
+Age: 55-64
+17.1
+17.4
+Age: 65+
+13.1
+11.9
+Education: Low (ISCED2011 0-2)
+44.6
+28.5
+Education: Medium (ISCED2011 3-4)
+23.6
+35.2
+Education: High (ISCED2011 5-8)
+31.8
+36.2
+Income Quintile 1
+20.0
+23.6
+Income Quintile 2
+20.0
+28.0
+Income Quintile 3
+20.0
+21.5
+Income Quintile 4
+20.0
+13.1
+Income Quintile 5
+20.0
+13.6
+Left
+48.3
+45.3
+Center
+24.7
+26.3
+Right
+27.0
+28.4
+4
+
+=== page 5 ===
+II.
+Question Wording and Coding
+• Ideology: Self-reported placement on left-right ideology scale. Question wording: “In
+politics people often talk of ‘left’ and ‘right’. On this scale from 0 (left) to 10 (right),
+where would you classify your own political views?” Respondents are further categorized
+as far left (0-2), left (3-4), center (5), right (6-7), or far right (8-10).
+• Party Voted For (2019 Survey): Self-reported party that respondent voted for in the
+most recent general election.
+• Household Income: Self-reported monthly household income. Answer categories are the
+ten population household income deciles, which vary by country.
+• Employed: Self-reported employment status; binary version used in analysis with 1 in-
+dicating employment as either a paid employee or self-employed, and 0 corresponding
+to any other answer choice. Question wording: “Which of these options best describes
+your situation (in the last seven days)?” Answer categories: 1=“Paid employee (includ-
+ing temporary leave of absence due to maternity/paternity, accident, illness or vaca-
+tion)”, 2=“Self-employed (e.g. freelancer, independent contractor, or family-owned busi-
+ness)”, 3=“Student (excluding employer-sponsored education)”, 4=“Unemployed, actively
+searching for a job”, 5=“Unemployed, not actively searching”, 6=“Chronic illness or per-
+manent disability”, 7=“Retired”, 8=“Working at home, caring for children or others.”
+• Public Income: Self-reported indicator for whether a respondent’s primary income source
+is a type of public source; binary version used in analysis where 1 indicates pensions,
+unemployment/redundancy beneﬁt, or any other social beneﬁts or grants constitut-
+ing the respondent’s main source of household income, and 0 otherwise.
+Question
+wording: “Please consider the income of all household members and any income which
+may be received by the household as a whole.
+What is the main source of income
+in your household?” Answer categories: 1=“Wages or salaries”, 2=“Income from self-
+employment (excluding farming)”, 3=“Income from farming”, 4=“Pensions”, 5=“Unem-
+ployment/redundancy beneﬁt”, 6=“Any other social beneﬁts for grants”, 7=“Income from
+investments, savings, etc.”, 8=“Income from other sources.”
+• Public Job: Self-reported indicator for respondent’s past or present public sector experi-
+ence. Question wording: “Do you currently or have you ever worked for the government
+in a full-time public sector job?” Answer categories: 0=“No”, 1=“Yes.”
+• Own Stocks: Self-reported indicator for whether or not respondent has money invested.
+Question wording: “Do you currently have money invested in stocks, bonds, mutual funds,
+money market funds or other listed securities?” Answer categories: 0=“No”, 1=“Yes.”
+• Mortgage: Self-reported indicator for whether or not respondent has a mortgage. Ques-
+tion wording: “Do you have a mortgage?” Answer categories: 0=“No”, 1=“Yes.”
+5
+
+=== page 6 ===
+• Education: Self-reported level of education. Answer categories were customized to each
+country’s educational system. For the 2015 survey, answers were then mapped onto the
+International Standard Classiﬁcation of Education (ISCED) 2011 scale, which measures
+education on a scale from 0 to 8. For the 2019 survey, answers were mapped onto the
+European Social Survey version of ISCED (ES-ISCED), which measures education on a
+scale from 1 to 7. For analysis of both surveys, these scales were then mapped onto a
+set of three categories: Low (ISCED 2011 0-2), Medium (ISCED 2011 3-4), and High
+(ISCED 2011 5-8).
+• Number of Children: Self-reported number of children.
+• Voted: Self-reported indicator for whether or not the respondent voted in the most recent
+national election.
+• Union Membership (2019 Survey): Membership in a trade union or trade association,
+where 1 indicates current, 2 indicates past, and 3 indicates never.
+• Laid Oﬀ(2019 Survey): Indicator for having been laid oﬀin last 5 years.
+• Support Intervention: “Next, we would like you to think more broadly about the purposes
+of government. Where would you rate yourself on a scale of 1 to 5, where 1 means you
+think the government should do only those things necessary to provide the most basic
+government functions, and 5 means you think the government should take active steps in
+every area it can to try and improve the lives of its citizens? You may use any number
+from 1 to 5.” Answer scale: 1 (the government should do only those things necessary to
+provide the most basic government) and 5 (the government should take active steps in
+every area it can to try and improve the lives of its citizens).
+• Support Redistribution: “Some people think that the income diﬀerences between the rich
+and the poor ought to be reduced, perhaps by raising the taxes of wealthy families or
+by giving income assistance to the poor. Others think that the government should not
+concern itself with reducing this income diﬀerence between the rich and the poor. Where
+would you rate yourself on a scale of 1 to 5, where 1 means that the government should
+reduce the income diﬀerences between rich and poor, and 5 means that the government
+should not concern itself with reducing income diﬀerences? What score between 1 and
+5 comes closest to the way you feel?” Answer scale: 1 (the government should reduce
+the income diﬀerences between rich and poor) and 5 (the government should not concern
+itself with reducing income diﬀerences).
+• Empathy: Index of empathic concern that averages the responses to two questions. Word-
+ing of questions: “On a scale from 1 (does NOT describe you well) to 5 (describes you
+well) how would you rate the following statements? [1] I am often touched by the things
+that I see happen.
+[2] When I see someone being taken advantage of, I feel kind of
+protective toward them.”
+• Perceptions of Government Intentions (2019 Survey): “Generally speaking, when looking
+back over the past several decades, how much of the time do you think the government
+6
+
+=== page 7 ===
+has been trying to do the right thing for the country as a whole?” Answer scale: 1 (never)
+to 10 (always).
+• Perceptions of Government Competence (2019 Survey): “Irrespective of whether you
+believe that the government tries to do the right thing for the country as a whole, how
+much of the time do you think the government is competent in pursuing its objectives?”
+Answer scale: 1 (never) to 10 (always).
+• Knowledge (2015 Survey): Additive index of whether respondents gave the correct an-
+swers to the following questions:
+“From what you have read or heard, what is a ‘tariﬀ’?” (3 points for correct answer)
+– “A tax exemption for low earners”
+– “A tax exemption for buyers of locally produced goods”
+– “A tax imposed on imported goods and services”
+– “A tax imposed on luxury goods”
+– “Don’t know”
+“Do you happen to know if one or more of the following countries of the EU has received
+ﬁnancial bailout assistance? You can mark none, one, or multiple of these countries.”
+(+1 point for each correct selection and -1 point for each incorrect selection.)
+– Portugal
+– Ireland
+– Greece
+– Slovakia
+– France
+– The Netherlands
+• Knowledge (2019 Survey): Additive index of whether respondents gave the correct an-
+swers to the following questions:
+“From what you have read or heard, what does ‘inﬂation’ mean when used in an economic
+context?” (1 point for correct answer)
+– “increase in the general price level of goods and services within an economy”
+– “increase in the exchange rate of the national currency relative to a foreign currency”
+– “increase in the amount of imports relative to the previous year”
+– “increase in employment levels within an economy”
+– “increase in the number of overvalued stocks on the stock market”
+– “none of the above”
+7
+
+=== page 8 ===
+“What is currently the unemployment rate in COUNTRY?” (1 point for correct answer)
+– 2
+– 4
+– 6
+– 8
+– 10
+“What is the length in years of a single term of oﬃce for a member of parliament in
+COUNTRY?” (1 point for correct answer)
+– 2
+– 3
+– 4
+– 5
+– 6
+“Which of the following served a period as Prime Minister/Head of State of COUNTRY?”
+(1 point for correct answer)
+– (ﬁve answer options)
+8
+
+=== page 9 ===
+III.
+Methods: Analyzing Support for Austerity Packages
+A point of departure in our analysis is the observation that bailout packages have a wide range
+of features. In thinking about the dynamics that shape public opinion on bailout packages, we
+advance two key hypotheses:
+• Voters are highly sensitive to the speciﬁc features of the bailout package in question and
+potentially also to some interactions between features (for example, support for cuts in
+a given program might be higher when a certain important program is left untouched).
+• The sensitivities to certain features may vary across diﬀerent groups of the population
+(for example, the left may be more sensitive to certain spending cuts than the right).
+Since a principal quantity of interest for us is the expected level of support for a given
+package both at the aggregate level and among speciﬁc subgroups in the population, we need
+an estimation method that is highly ﬂexible and geared toward predictive accuracy. More
+speciﬁcally in our case, it must:
+• (a) Be able to handle a high-dimensional experimental design. In our case, we need to be
+able to assess potential sensitivities to a combination of multiple features of the bailout
+package, all of which vary on a quasi-continuous support rather than being comprised of
+a small number of discrete levels.
+• (b) Allow us to accommodate additional covariates beyond the features of the package
+in question. In our case, we need to include a host of socio-demographic characteristics
+of the respondents.
+• (c) Facilitate both (a) and (b) in conditions where the researcher does not know in
+advance what combinations of or interactions between features inﬂuence respondents’
+preferences.
+Importantly, our quantity of interest is not an estimand pertaining to any speciﬁc feature’s
+impact on support for an austerity package, nor any particular interactions. In other words, our
+goal is not to estimate particular model coeﬃcients that can then be interpreted with respect
+to certain causal eﬀect estimands. Instead, our concern is with the overall level of support for
+concrete austerity packages given its speciﬁc combination of features, and perhaps also taking
+into account certain socio-demographic characteristics of the respondents. In sum, our aim is
+not to estimate any individual coeﬃcient or interaction, but rather to model a response surface
+(or conditional response surface) as accurately as possible.
+For this reason, we employ stochastic gradient boosted trees, a machine learning method
+that achieves both the ﬂexibility we need and high levels of predictive accuracy relative to
+competing predictive methods. We can, for example, estimate the likely support for a package
+that has speciﬁc features (say, a 3% hike in income tax, a 10% cut in welfare spending, and
+no change in pensions, etc.) for each respondent, given that they have certain characteristics
+(education level, gender, income, etc.).
+Moreover, the method allows us to estimate this
+9
+
+=== page 10 ===
+outcome separately for an individual with certain characteristics but who is right-, as opposed
+to left-leaning. We can then aggregate these predictions and estimate the support for the
+speciﬁc package among any population distribution, given their characteristics (e.g., say, right
+wing voters). Finally, an important technical feature of our approach is that it allows for easy
+incorporation of a weighted block bootstrap to model uncertainty, an essential requirement for
+a meaningful prediction of this type.
+Horiuchi, Smith and Yamamoto (2018) also take a ﬂexible modeling approach to conjoint
+analysis by applying ridge regression to data from a conjoint experiment on voter preferences
+with respect to party platforms in Japan. Speciﬁcally, they model and regularize all two-way
+interactions between the conjoint attributes within a linear regression framework. In addition,
+Egami and Imai (2019) similarly propose the use of regularization, speciﬁcally through the
+employment of GASH-ANOVA, for the estimation of interactions between factorial variables,
+including in conjoint data. Ratkovic and Tingley (2017) combine Bayesian and LASSO es-
+timation to explore higher-order interaction eﬀects between conjoint attributes. For various
+reasons, these methods are not appropriate in our particular case.
+First, they are both geared toward an explicitly factorial experimental setup, where the
+attributes have a relatively small number of discrete levels, rather than being continuous or
+quasi-continuous. For both, the regularization is speciﬁcally designed to operate with respect
+to those discrete eﬀects or interaction eﬀects, rather than continuous treatment variables (not
+to mention covariates). Of course, from a purely mathematical standpoint, our setup could be
+operationalized as a factorial design. As a practical matter, however, this would be intractable
+as it would result in a 318 factorial design. In addition, adapting these other approaches to
+continuous treatment variables would also not make sense, as it would would impose linearity
+upon a response surface for which there is no reason to assume linearity. In addition, these
+approaches are also not immediately well-suited for incorporating covariates, given they are
+based on regularization of pre-speciﬁed parametric forms, which requires explicitly modeling
+in allowable interactions.
+In short, these approaches are instead well-suited to estimating particular marginal eﬀects
+and interactions of primary theoretical interest—i.e. where the interactions themselves are the
+estimands of interest—or where the structure of the response surface is known with relative
+conﬁdence. In contrast, the use of stochastic gradient boosted trees, cross-validated to opti-
+mize for out-of-sample ﬁt and evaluated to ensure for high calibrated predicted probabilities, is
+tailored to our particular setting—a high-dimensional design with quasi-continuous treatment
+variables, a desire to incorporate covariates, and the underlying objective to ﬂexibly and accu-
+rately estimate a response surface to allow for the prediction of support for particular austerity
+packages.
+The stochastic gradient boosted trees models that we train are classiﬁcation models that
+employ a bag fraction of 0.5 and a binomial deviance loss function. The tuning parameter
+values—including the interaction depth and number of boosting iterations (the early stop-
+ping point)—are selected via 5-fold cross-validation. Furthermore, given that our data contain
+multiple observations (evaluated austerity proﬁles) per respondent, we ensure that each respon-
+dent’s data are kept together within the same cross-validation fold so that the cross-validation
+performance metric (and hence model parameter tuning) is not biased by a respondent’s data
+10
+
+=== page 11 ===
+being used to help predict onto itself. Separate models are trained for the Italian sample and
+the Spanish sample, and each model predicts support for an austerity package as a function of
+the eight package dimensions (the conjoint attributes) along with respondent background char-
+acteristics, including age, gender, education, number of children, income, employment status,
+union membership, public sector experience, stock ownership, reliance on public income, hav-
+ing a mortgage, having been laid oﬀrecently, having voted in the prior election, and left-right
+ideology.
+To estimate the expected proportion of support for a particular austerity package, the
+fully trained and tuned models are ﬁrst applied to predict for each respondent his or her
+predicted probability of support for that package, as a function of the particular austerity
+attribute levels that deﬁne that package (e.g. 3% income tax increase, 10% welfare spending
+decrease, etc.) as well as the respondent’s personal background characteristics. This results in a
+predicted probability of support for that package for each respondent, separately in the Italian
+and Spanish samples. To estimate aggregate support, the proportion of individuals expected
+to support a given austerity package is then computed via an empirical simulation. In this
+simulation voters are ﬁrst randomly sampled with replacement using probabilities proportional
+to their survey weights. We then model whether or not each individual supports the package
+as a Bernoulli trial in which the personal predicted probability of support is estimated by the
+boosted trees models. The simulation is run over a large number (1000) of iterations and then
+averaged. This can be performed either for the entire sample for a particular country, or for a
+subpopulation deﬁned by particular background characteristics (e.g. left- or right-wing voters),
+and then yields an estimate of the expected proportion of support for the package within the
+voting population or sub-population.
+To estimate uncertainty, a weighted block bootstrap is implemented. For each bootstrap
+iteration, respondents are re-sampled with replacement using probabilities proportional to their
+sample weights, and all of a respondent’s conjoint data are included if that respondent is re-
+sampled. Those re-sampled data are used to ﬁt a new boosted trees model and output predicted
+probabilities of support for the speciﬁc austerity packages being evaluated for the re-sampled
+set of individuals. For each iteration, the proportion of individuals expected to support a
+given austerity package is then computed via an empirical simulation whereby whether or not
+each individual supports the package is modeled as a Bernoulli trial with their own personal
+probability.
+11
+
+=== page 12 ===
+IV.
+Supplementary Tables
+12
+
+=== page 13 ===
+Table A4: The Correlates of Austerity Support, 2015 Survey, Unweighted. The table reports coeﬃcients from a
+linear probability model. The dependent variable is an indicator variable that takes the value one if an individual prefers
+spending cuts over ﬁscal stimulus and zero otherwise. Robust standard errors reported in parentheses. ∗p < 0.05.
+France A
+France B
+France C
+Greece A
+Greece B
+Greece C
+Italy A
+Italy B
+Italy C
+Spain A
+Spain B
+Spain C
+UK A
+UK B
+UK C
+(Intercept)
+0.763∗
+0.801∗
+0.886∗
+0.631∗
+0.692∗
+0.904∗
+0.850∗
+0.907∗
+1.039∗
+0.694∗
+0.843∗
+1.091∗
+0.607∗
+0.726∗
+0.813∗
+(0.029)
+(0.033)
+(0.043)
+(0.077)
+(0.083)
+(0.101)
+(0.029)
+(0.037)
+(0.047)
+(0.032)
+(0.038)
+(0.052)
+(0.050)
+(0.052)
+(0.068)
+Age 30 - 39
+0.042∗
+0.042∗
+0.044∗
+0.060∗
+0.056
+0.071∗
+0.030
+0.033
+0.038
+−0.056∗
+−0.070∗
+−0.046
+−0.022
+−0.052
+−0.051
+(0.021)
+(0.020)
+(0.020)
+(0.030)
+(0.029)
+(0.029)
+(0.024)
+(0.024)
+(0.024)
+(0.026)
+(0.025)
+(0.025)
+(0.044)
+(0.044)
+(0.044)
+Age 40 - 49
+0.059∗
+0.061∗
+0.067∗
+0.002
+−0.000
+0.038
+0.016
+0.018
+0.029
+−0.038
+−0.057∗
+−0.003
+−0.047
+−0.043
+−0.033
+(0.021)
+(0.020)
+(0.020)
+(0.034)
+(0.034)
+(0.035)
+(0.025)
+(0.025)
+(0.025)
+(0.027)
+(0.026)
+(0.026)
+(0.042)
+(0.044)
+(0.044)
+Age 50 - 59
+0.026
+0.042
+0.054∗
+−0.026
+−0.016
+0.028
+−0.011
+−0.003
+0.023
+−0.049
+−0.045
+0.031
+−0.057
+−0.066
+−0.054
+(0.023)
+(0.022)
+(0.022)
+(0.046)
+(0.045)
+(0.045)
+(0.027)
+(0.027)
+(0.027)
+(0.029)
+(0.028)
+(0.029)
+(0.041)
+(0.042)
+(0.042)
+Age 60+
+0.097∗
+0.092∗
+0.104∗
+0.092
+0.098
+0.131
+0.036
+0.041
+0.067∗
+−0.038
+−0.029
+0.047
+0.017
+0.005
+0.017
+(0.026)
+(0.026)
+(0.026)
+(0.078)
+(0.077)
+(0.077)
+(0.032)
+(0.032)
+(0.032)
+(0.038)
+(0.037)
+(0.037)
+(0.044)
+(0.045)
+(0.045)
+Female
+0.013
+0.019
+0.014
+0.045
+0.059∗
+0.061∗
+0.012
+0.014
+0.013
+0.067∗
+0.069∗
+0.047∗
+0.021
+0.014
+0.013
+(0.013)
+(0.013)
+(0.013)
+(0.023)
+(0.023)
+(0.023)
+(0.016)
+(0.016)
+(0.016)
+(0.017)
+(0.016)
+(0.017)
+(0.023)
+(0.022)
+(0.023)
+Education Intermediate
+−0.005
+−0.011
+−0.005
+−0.051
+−0.051
+−0.038
+−0.086∗
+−0.083∗
+−0.065∗
+−0.087∗
+−0.064∗
+−0.035
+−0.015
+−0.011
+−0.012
+(0.024)
+(0.024)
+(0.024)
+(0.075)
+(0.074)
+(0.075)
+(0.022)
+(0.022)
+(0.023)
+(0.025)
+(0.025)
+(0.025)
+(0.029)
+(0.028)
+(0.027)
+Education High
+−0.038
+−0.031
+−0.016
+−0.105
+−0.101
+−0.075
+−0.146∗
+−0.139∗
+−0.116∗
+−0.144∗
+−0.113∗
+−0.070∗
+−0.022
+0.011
+0.013
+(0.025)
+(0.025)
+(0.025)
+(0.075)
+(0.074)
+(0.075)
+(0.025)
+(0.025)
+(0.025)
+(0.024)
+(0.024)
+(0.025)
+(0.032)
+(0.030)
+(0.030)
+Number of Children
+−0.000
+−0.001
+−0.002
+0.015
+0.012
+0.008
+−0.003
+−0.004
+−0.006
+0.019∗
+0.008
+0.002
+−0.010
+−0.012
+−0.011
+(0.005)
+(0.005)
+(0.005)
+(0.012)
+(0.012)
+(0.012)
+(0.008)
+(0.008)
+(0.008)
+(0.008)
+(0.008)
+(0.008)
+(0.008)
+(0.008)
+(0.008)
+Income Quintile 2
+−0.039∗
+−0.047∗
+−0.045∗
+−0.013
+−0.020
+−0.017
+−0.104∗
+−0.098∗
+−0.096∗
+−0.035
+−0.031
+−0.013
+−0.037
+−0.044
+−0.044
+(0.019)
+(0.019)
+(0.019)
+(0.029)
+(0.028)
+(0.028)
+(0.020)
+(0.020)
+(0.020)
+(0.023)
+(0.023)
+(0.022)
+(0.032)
+(0.031)
+(0.031)
+Income Quintile 3
+−0.020
+−0.023
+−0.019
+0.022
+0.019
+0.026
+−0.070∗
+−0.065∗
+−0.059∗
+−0.108∗
+−0.094∗
+−0.071∗
+0.059
+0.051
+0.044
+(0.018)
+(0.018)
+(0.018)
+(0.032)
+(0.032)
+(0.032)
+(0.022)
+(0.022)
+(0.022)
+(0.027)
+(0.026)
+(0.026)
+(0.035)
+(0.033)
+(0.033)
+Income Quintile 4
+−0.014
+−0.023
+−0.021
+−0.036
+−0.040
+−0.030
+−0.086∗
+−0.078∗
+−0.066∗
+−0.084∗
+−0.080∗
+−0.062∗
+0.034
+0.038
+0.030
+(0.021)
+(0.021)
+(0.021)
+(0.038)
+(0.038)
+(0.038)
+(0.026)
+(0.026)
+(0.026)
+(0.034)
+(0.032)
+(0.032)
+(0.037)
+(0.035)
+(0.035)
+Income Quintile 5
+−0.030
+−0.046
+−0.040
+−0.026
+−0.028
+−0.028
+−0.087∗
+−0.079∗
+−0.070∗
+−0.033
+−0.051
+−0.042
+0.036
+0.023
+0.014
+(0.028)
+(0.027)
+(0.027)
+(0.060)
+(0.058)
+(0.058)
+(0.036)
+(0.036)
+(0.036)
+(0.041)
+(0.038)
+(0.038)
+(0.043)
+(0.041)
+(0.041)
+Employed
+0.053∗
+0.046∗
+0.043∗
+0.007
+0.010
+0.014
+0.031
+0.032
+0.030
+0.038
+0.031
+0.030
+0.011
+−0.007
+−0.011
+(0.018)
+(0.017)
+(0.017)
+(0.026)
+(0.025)
+(0.025)
+(0.019)
+(0.019)
+(0.019)
+(0.021)
+(0.021)
+(0.020)
+(0.030)
+(0.028)
+(0.027)
+Public Job
+−0.069∗
+−0.056∗
+−0.056∗
+−0.066∗
+−0.070∗
+−0.072∗
+−0.016
+−0.015
+−0.021
+−0.062∗
+−0.054∗
+−0.060∗
+−0.062∗
+−0.042
+−0.038
+(0.019)
+(0.018)
+(0.018)
+(0.027)
+(0.027)
+(0.026)
+(0.021)
+(0.021)
+(0.021)
+(0.021)
+(0.020)
+(0.019)
+(0.026)
+(0.024)
+(0.024)
+Own Stocks
+−0.001
+−0.015
+−0.017
+0.016
+0.006
+−0.005
+−0.007
+−0.009
+−0.009
+0.006
+−0.022
+−0.029
+0.064∗
+0.025
+0.013
+(0.018)
+(0.018)
+(0.018)
+(0.036)
+(0.035)
+(0.035)
+(0.018)
+(0.018)
+(0.018)
+(0.022)
+(0.021)
+(0.021)
+(0.026)
+(0.025)
+(0.025)
+Public Income
+−0.008
+−0.009
+−0.008
+0.014
+0.008
+0.009
+−0.007
+−0.002
+0.004
+0.040
+0.038
+0.038
+−0.026
+−0.050
+−0.050
+(0.021)
+(0.021)
+(0.021)
+(0.029)
+(0.029)
+(0.029)
+(0.022)
+(0.022)
+(0.022)
+(0.026)
+(0.026)
+(0.026)
+(0.033)
+(0.031)
+(0.031)
+Mortgage
+−0.005
+−0.017
+−0.014
+−0.038
+−0.029
+−0.025
+−0.005
+−0.009
+−0.007
+0.052∗
+0.043∗
+0.038∗
+0.039
+0.016
+0.007
+(0.022)
+(0.021)
+(0.021)
+(0.025)
+(0.025)
+(0.025)
+(0.017)
+(0.017)
+(0.017)
+(0.018)
+(0.017)
+(0.016)
+(0.025)
+(0.024)
+(0.024)
+Voted
+0.005
+0.003
+−0.033
+−0.025
+−0.048
+−0.044
+−0.033
+−0.019
+−0.036
+−0.035
+(0.021)
+(0.021)
+(0.035)
+(0.035)
+(0.025)
+(0.025)
+(0.026)
+(0.025)
+(0.032)
+(0.032)
+Far Left
+−0.188∗
+−0.172∗
+−0.176∗
+−0.154∗
+−0.096∗
+−0.080∗
+−0.269∗
+−0.217∗
+−0.361∗
+−0.323∗
+(0.023)
+(0.023)
+(0.033)
+(0.033)
+(0.023)
+(0.023)
+(0.022)
+(0.022)
+(0.035)
+(0.036)
+Left
+0.039∗
+0.041∗
+0.073
+0.067
+−0.028
+−0.031
+0.106∗
+0.096∗
+0.065
+0.040
+(0.017)
+(0.017)
+(0.040)
+(0.040)
+(0.024)
+(0.024)
+(0.032)
+(0.031)
+(0.033)
+(0.034)
+Right
+−0.140∗
+−0.130∗
+−0.085∗
+−0.076∗
+−0.028
+−0.020
+−0.234∗
+−0.196∗
+−0.266∗
+−0.246∗
+(0.022)
+(0.022)
+(0.029)
+(0.029)
+(0.023)
+(0.023)
+(0.023)
+(0.023)
+(0.032)
+(0.033)
+Far Right
+0.036∗
+0.036∗
+0.050
+0.044
+0.017
+0.010
+0.076∗
+0.075∗
+0.126∗
+0.113∗
+(0.017)
+(0.017)
+(0.033)
+(0.034)
+(0.022)
+(0.022)
+(0.024)
+(0.024)
+(0.028)
+(0.029)
+Support Intervention
+−0.004
+−0.056
+−0.019
+−0.069∗
+−0.030
+(0.015)
+(0.032)
+(0.018)
+(0.019)
+(0.023)
+Support Redistribution
+−0.027∗
+−0.047
+−0.031
+−0.101∗
+−0.104∗
+(0.013)
+(0.024)
+(0.016)
+(0.018)
+(0.023)
+Empathy
+−0.010
+−0.028
+−0.017
+−0.018
+−0.000
+(0.008)
+(0.015)
+(0.009)
+(0.010)
+(0.013)
+Knowledge
+−0.014∗
+−0.017∗
+−0.020∗
+−0.036∗
+−0.003
+(0.003)
+(0.006)
+(0.005)
+(0.005)
+(0.006)
+R2
+0.014
+0.060
+0.066
+0.017
+0.044
+0.056
+0.022
+0.030
+0.039
+0.033
+0.121
+0.153
+0.018
+0.129
+0.140
+Adj. R2
+0.009
+0.054
+0.059
+0.009
+0.033
+0.043
+0.017
+0.024
+0.032
+0.028
+0.116
+0.146
+0.010
+0.120
+0.129
+Num. obs.
+3886
+3886
+3886
+2013
+2013
+2013
+3473
+3473
+3473
+3471
+3471
+3471
+2009
+2009
+2009
+13
+
+=== page 14 ===
+Table A5: The Correlates of Austerity Support, 2015 Survey, with Alternative Weights.
+The table reports
+coeﬃcients from a linear probability model. The dependent variable is an indicator variable that takes the value one if an
+individual prefers spending cuts over ﬁscal stimulus and zero otherwise. Alternative weights balance the sample to match
+the population margins on age, gender, education, income, and ideology. Robust standard errors reported in parentheses.
+∗p < 0.05.
+France A
+France B
+France C
+Greece A
+Greece B
+Greece C
+Italy A
+Italy B
+Italy C
+Spain A
+Spain B
+Spain C
+UK A
+UK B
+UK C
+(Intercept)
+0.764∗
+0.812∗
+0.910∗
+0.660∗
+0.684∗
+0.820∗
+0.799∗
+0.847∗
+0.951∗
+0.734∗
+0.896∗
+1.036∗
+0.530∗
+0.660∗
+0.719∗
+(0.033)
+(0.040)
+(0.051)
+(0.077)
+(0.093)
+(0.120)
+(0.037)
+(0.052)
+(0.065)
+(0.039)
+(0.047)
+(0.069)
+(0.059)
+(0.060)
+(0.081)
+Age 30 - 39
+0.062∗
+0.058∗
+0.059∗
+0.082∗
+0.079∗
+0.088∗
+0.074∗
+0.079∗
+0.080∗
+−0.056
+−0.075∗
+−0.057
+−0.010
+−0.039
+−0.037
+(0.026)
+(0.026)
+(0.026)
+(0.040)
+(0.040)
+(0.040)
+(0.034)
+(0.034)
+(0.034)
+(0.033)
+(0.032)
+(0.032)
+(0.047)
+(0.048)
+(0.048)
+Age 40 - 49
+0.068∗
+0.070∗
+0.075∗
+0.090∗
+0.075
+0.107∗
+0.053
+0.057
+0.068
+−0.050
+−0.068∗
+−0.017
+−0.059
+−0.054
+−0.047
+(0.027)
+(0.026)
+(0.026)
+(0.045)
+(0.046)
+(0.047)
+(0.036)
+(0.036)
+(0.035)
+(0.035)
+(0.034)
+(0.035)
+(0.046)
+(0.048)
+(0.048)
+Age 50 - 59
+0.035
+0.052
+0.067∗
+−0.026
+−0.022
+0.017
+0.056
+0.065
+0.095∗
+−0.060
+−0.034
+0.035
+−0.066
+−0.070
+−0.061
+(0.029)
+(0.029)
+(0.028)
+(0.060)
+(0.059)
+(0.059)
+(0.038)
+(0.038)
+(0.039)
+(0.037)
+(0.036)
+(0.036)
+(0.045)
+(0.046)
+(0.046)
+Age 60+
+0.104∗
+0.107∗
+0.121∗
+0.192∗
+0.197∗
+0.224∗
+0.076
+0.081
+0.112∗
+−0.050
+−0.040
+0.038
+−0.005
+−0.005
+0.006
+(0.032)
+(0.033)
+(0.033)
+(0.088)
+(0.086)
+(0.086)
+(0.045)
+(0.045)
+(0.046)
+(0.054)
+(0.050)
+(0.051)
+(0.048)
+(0.049)
+(0.050)
+Female
+0.007
+0.012
+0.002
+0.035
+0.054
+0.059
+0.015
+0.014
+0.009
+0.066∗
+0.063∗
+0.039
+0.044
+0.032
+0.033
+(0.017)
+(0.016)
+(0.017)
+(0.030)
+(0.030)
+(0.030)
+(0.021)
+(0.021)
+(0.022)
+(0.023)
+(0.022)
+(0.023)
+(0.026)
+(0.026)
+(0.027)
+Education Intermediate
+0.002
+−0.004
+0.001
+−0.042
+−0.057
+−0.046
+−0.081∗
+−0.078∗
+−0.059∗
+−0.078∗
+−0.058
+−0.037
+0.015
+0.015
+0.016
+(0.027)
+(0.027)
+(0.027)
+(0.076)
+(0.076)
+(0.075)
+(0.026)
+(0.026)
+(0.027)
+(0.031)
+(0.031)
+(0.031)
+(0.034)
+(0.033)
+(0.033)
+Education High
+−0.030
+−0.020
+−0.007
+−0.076
+−0.088
+−0.069
+−0.129∗
+−0.122∗
+−0.098∗
+−0.147∗
+−0.116∗
+−0.073∗
+−0.005
+0.024
+0.026
+(0.031)
+(0.031)
+(0.031)
+(0.076)
+(0.077)
+(0.076)
+(0.031)
+(0.031)
+(0.032)
+(0.031)
+(0.031)
+(0.032)
+(0.038)
+(0.036)
+(0.037)
+Number of Children
+0.003
+0.002
+0.002
+−0.011
+−0.013
+−0.015
+−0.014
+−0.015
+−0.018
+0.008
+0.001
+−0.008
+0.002
+−0.002
+−0.001
+(0.006)
+(0.006)
+(0.006)
+(0.018)
+(0.018)
+(0.018)
+(0.012)
+(0.012)
+(0.012)
+(0.011)
+(0.010)
+(0.010)
+(0.009)
+(0.009)
+(0.009)
+Income Quintile 2
+−0.043
+−0.054∗
+−0.052∗
+−0.029
+−0.031
+−0.032
+−0.105∗
+−0.102∗
+−0.097∗
+−0.031
+−0.020
+−0.002
+−0.045
+−0.047
+−0.046
+(0.024)
+(0.024)
+(0.024)
+(0.038)
+(0.038)
+(0.037)
+(0.028)
+(0.028)
+(0.028)
+(0.030)
+(0.030)
+(0.030)
+(0.036)
+(0.036)
+(0.036)
+Income Quintile 3
+−0.026
+−0.031
+−0.026
+−0.001
+−0.007
+−0.001
+−0.070∗
+−0.066∗
+−0.059
+−0.114∗
+−0.090∗
+−0.060
+0.047
+0.040
+0.035
+(0.023)
+(0.023)
+(0.023)
+(0.043)
+(0.043)
+(0.042)
+(0.031)
+(0.031)
+(0.031)
+(0.038)
+(0.036)
+(0.037)
+(0.040)
+(0.039)
+(0.039)
+Income Quintile 4
+−0.020
+−0.034
+−0.029
+−0.051
+−0.054
+−0.047
+−0.057
+−0.051
+−0.038
+−0.092∗
+−0.076
+−0.057
+0.008
+0.020
+0.015
+(0.026)
+(0.026)
+(0.026)
+(0.048)
+(0.048)
+(0.048)
+(0.031)
+(0.032)
+(0.032)
+(0.044)
+(0.042)
+(0.042)
+(0.042)
+(0.042)
+(0.042)
+Income Quintile 5
+−0.050
+−0.069∗
+−0.064
+−0.059
+−0.057
+−0.049
+−0.078
+−0.070
+−0.060
+−0.032
+−0.048
+−0.037
+0.003
+0.002
+−0.003
+(0.035)
+(0.034)
+(0.034)
+(0.069)
+(0.067)
+(0.067)
+(0.041)
+(0.042)
+(0.041)
+(0.049)
+(0.047)
+(0.048)
+(0.051)
+(0.050)
+(0.051)
+Employed
+0.026
+0.028
+0.025
+−0.013
+−0.009
+−0.008
+0.047
+0.044
+0.045
+0.051
+0.051
+0.052
+0.049
+0.027
+0.025
+(0.022)
+(0.023)
+(0.023)
+(0.036)
+(0.035)
+(0.035)
+(0.025)
+(0.025)
+(0.026)
+(0.028)
+(0.027)
+(0.027)
+(0.036)
+(0.035)
+(0.034)
+Public Job
+−0.061∗
+−0.050∗
+−0.050∗
+−0.098∗
+−0.094∗
+−0.094∗
+−0.015
+−0.015
+−0.023
+−0.062∗
+−0.051
+−0.056∗
+−0.071∗
+−0.054
+−0.048
+(0.023)
+(0.022)
+(0.022)
+(0.036)
+(0.035)
+(0.035)
+(0.028)
+(0.028)
+(0.028)
+(0.029)
+(0.028)
+(0.028)
+(0.029)
+(0.027)
+(0.028)
+Own Stocks
+−0.015
+−0.030
+−0.035
+0.035
+0.025
+0.013
+−0.029
+−0.031
+−0.029
+−0.034
+−0.069∗
+−0.080∗
+0.073∗
+0.045
+0.036
+(0.024)
+(0.023)
+(0.023)
+(0.047)
+(0.045)
+(0.045)
+(0.025)
+(0.025)
+(0.025)
+(0.032)
+(0.030)
+(0.030)
+(0.031)
+(0.030)
+(0.030)
+Public Income
+−0.016
+−0.022
+−0.020
+−0.034
+−0.037
+−0.039
+0.026
+0.033
+0.039
+0.027
+0.033
+0.027
+0.005
+−0.023
+−0.021
+(0.027)
+(0.028)
+(0.028)
+(0.042)
+(0.041)
+(0.040)
+(0.029)
+(0.029)
+(0.029)
+(0.036)
+(0.035)
+(0.036)
+(0.038)
+(0.038)
+(0.038)
+Mortgage
+−0.016
+−0.029
+−0.024
+−0.009
+0.005
+0.009
+−0.000
+−0.004
+−0.001
+0.023
+0.023
+0.019
+0.049
+0.032
+0.027
+(0.029)
+(0.028)
+(0.027)
+(0.034)
+(0.033)
+(0.033)
+(0.022)
+(0.023)
+(0.022)
+(0.024)
+(0.023)
+(0.023)
+(0.029)
+(0.028)
+(0.028)
+Voted
+−0.003
+−0.004
+0.002
+0.005
+−0.035
+−0.034
+−0.083∗
+−0.076∗
+−0.027
+−0.029
+(0.029)
+(0.029)
+(0.050)
+(0.050)
+(0.036)
+(0.035)
+(0.034)
+(0.033)
+(0.038)
+(0.038)
+Far Left
+−0.178∗
+−0.160∗
+−0.177∗
+−0.170∗
+−0.089∗
+−0.073∗
+−0.260∗
+−0.217∗
+−0.319∗
+−0.287∗
+(0.028)
+(0.028)
+(0.047)
+(0.047)
+(0.032)
+(0.032)
+(0.029)
+(0.031)
+(0.041)
+(0.043)
+Left
+0.035
+0.034
+0.105∗
+0.107∗
+−0.036
+−0.036
+0.101∗
+0.097∗
+0.031
+0.013
+(0.023)
+(0.023)
+(0.046)
+(0.046)
+(0.032)
+(0.032)
+(0.041)
+(0.042)
+(0.039)
+(0.040)
+Right
+−0.144∗
+−0.133∗
+−0.099∗
+−0.091∗
+−0.029
+−0.016
+−0.198∗
+−0.165∗
+−0.261∗
+−0.241∗
+(0.028)
+(0.028)
+(0.040)
+(0.039)
+(0.032)
+(0.031)
+(0.031)
+(0.032)
+(0.037)
+(0.037)
+Far Right
+0.051∗
+0.050∗
+0.059
+0.063
+0.012
+0.011
+0.052
+0.059
+0.091∗
+0.081∗
+(0.022)
+(0.022)
+(0.044)
+(0.043)
+(0.030)
+(0.030)
+(0.035)
+(0.034)
+(0.034)
+(0.035)
+Support Intervention
+−0.023
+−0.120∗
+−0.014
+−0.044
+−0.039
+(0.018)
+(0.040)
+(0.024)
+(0.026)
+(0.027)
+Support Redistribution
+−0.038∗
+0.012
+−0.040
+−0.083∗
+−0.078∗
+(0.017)
+(0.033)
+(0.022)
+(0.025)
+(0.028)
+Empathy
+−0.007
+−0.006
+−0.007
+0.005
+0.004
+(0.010)
+(0.020)
+(0.011)
+(0.014)
+(0.016)
+Knowledge
+−0.015∗
+−0.015
+−0.024∗
+−0.036∗
+−0.003
+(0.005)
+(0.008)
+(0.006)
+(0.007)
+(0.007)
+R2
+0.013
+0.060
+0.068
+0.032
+0.064
+0.074
+0.029
+0.036
+0.047
+0.043
+0.120
+0.145
+0.020
+0.107
+0.114
+Adj. R2
+0.009
+0.054
+0.061
+0.023
+0.053
+0.062
+0.024
+0.030
+0.040
+0.038
+0.115
+0.139
+0.012
+0.097
+0.103
+Num. obs.
+3886
+3886
+3886
+2013
+2013
+2013
+3473
+3473
+3473
+3471
+3471
+3471
+2009
+2009
+2009
+14
+
+=== page 15 ===
+Table A6: The Correlates of Austerity Support by Education, 2015 Survey, with Weights. The table reports
+coeﬃcients from a linear probability model. The dependent variable is an indicator variable that takes the value one if an
+individual prefers spending cuts over ﬁscal stimulus and zero otherwise. High education pertains to ISCED11 levels 5-8,
+while low/medium education includes all levels below. Robust standard errors reported in parentheses. ∗p < 0.05.
+France Low/Medium
+France High
+Greece Low/Medium
+Greece High
+Italy Low/Medium
+Italy High
+Spain Low/Medium
+Spain High
+United Kingdom Low/Medium
+United Kingdom High
+(Intercept)
+0.856∗
+0.895∗
+0.742∗
+0.830∗
+0.961∗
+0.902∗
+0.946∗
+1.043∗
+0.760∗
+0.719∗
+(0.056)
+(0.067)
+(0.127)
+(0.119)
+(0.066)
+(0.085)
+(0.081)
+(0.084)
+(0.089)
+(0.136)
+Age 30 - 39
+0.040
+0.060∗
+0.097
+0.102∗
+0.018
+0.048
+−0.050
+−0.078∗
+−0.024
+0.076
+(0.033)
+(0.030)
+(0.055)
+(0.039)
+(0.036)
+(0.038)
+(0.043)
+(0.033)
+(0.060)
+(0.073)
+Age 40 - 49
+0.080∗
+0.047
+0.090
+0.061
+0.026
+−0.003
+−0.013
+−0.029
+0.015
+0.001
+(0.032)
+(0.031)
+(0.063)
+(0.050)
+(0.035)
+(0.042)
+(0.042)
+(0.038)
+(0.058)
+(0.074)
+Age 50 - 59
+0.047
+0.093∗
+−0.052
+0.053
+0.042
+0.062
+0.030
+−0.009
+0.010
+−0.053
+(0.032)
+(0.039)
+(0.082)
+(0.066)
+(0.038)
+(0.050)
+(0.044)
+(0.043)
+(0.055)
+(0.079)
+Age 60+
+0.091∗
+0.134∗
+0.236
+0.103
+0.080
+0.054
+−0.011
+0.057
+0.063
+0.036
+(0.038)
+(0.044)
+(0.128)
+(0.103)
+(0.046)
+(0.064)
+(0.066)
+(0.071)
+(0.058)
+(0.088)
+Female
+0.001
+0.027
+0.057
+0.105∗
+−0.004
+0.038
+0.069∗
+0.028
+0.049
+−0.014
+(0.020)
+(0.021)
+(0.044)
+(0.038)
+(0.024)
+(0.028)
+(0.028)
+(0.026)
+(0.033)
+(0.042)
+Number of Children
+0.001
+−0.002
+−0.006
+0.005
+−0.013
+0.005
+−0.016
+0.014
+−0.007
+−0.011
+(0.007)
+(0.010)
+(0.025)
+(0.019)
+(0.013)
+(0.015)
+(0.014)
+(0.012)
+(0.010)
+(0.015)
+Income Quintile 2
+−0.048
+−0.028
+−0.020
+−0.006
+−0.110∗
+−0.058
+−0.029
+0.027
+−0.066
+0.022
+(0.028)
+(0.034)
+(0.048)
+(0.048)
+(0.029)
+(0.038)
+(0.033)
+(0.038)
+(0.039)
+(0.078)
+Income Quintile 3
+−0.019
+−0.006
+0.015
+−0.001
+−0.066
+−0.092∗
+−0.086
+−0.049
+0.102∗
+−0.049
+(0.027)
+(0.032)
+(0.058)
+(0.054)
+(0.034)
+(0.041)
+(0.044)
+(0.043)
+(0.044)
+(0.073)
+Income Quintile 4
+−0.002
+−0.021
+−0.082
+−0.042
+−0.058
+−0.012
+−0.083
+−0.055
+0.093
+−0.072
+(0.032)
+(0.034)
+(0.080)
+(0.058)
+(0.037)
+(0.044)
+(0.063)
+(0.046)
+(0.050)
+(0.076)
+Income Quintile 5
+−0.078
+−0.026
+−0.275∗
+0.083
+−0.094
+−0.038
+−0.099
+−0.050
+0.017
+−0.036
+(0.055)
+(0.040)
+(0.103)
+(0.087)
+(0.065)
+(0.055)
+(0.103)
+(0.055)
+(0.067)
+(0.079)
+Employed
+0.020
+0.067∗
+−0.010
+−0.002
+0.055∗
+0.025
+0.072∗
+0.032
+0.013
+−0.017
+(0.026)
+(0.028)
+(0.048)
+(0.042)
+(0.026)
+(0.034)
+(0.033)
+(0.031)
+(0.042)
+(0.050)
+Public Job
+−0.051
+−0.070∗
+−0.043
+−0.053
+−0.019
+−0.039
+−0.044
+−0.034
+0.011
+−0.072
+(0.028)
+(0.028)
+(0.052)
+(0.040)
+(0.031)
+(0.034)
+(0.039)
+(0.029)
+(0.036)
+(0.041)
+Own Stocks
+−0.040
+−0.019
+−0.072
+0.067
+−0.042
+0.009
+−0.058
+−0.065
+−0.011
+0.042
+(0.031)
+(0.025)
+(0.078)
+(0.051)
+(0.029)
+(0.031)
+(0.041)
+(0.034)
+(0.037)
+(0.041)
+Public Income
+−0.015
+−0.005
+−0.076
+0.037
+0.021
+−0.019
+0.046
+0.009
+0.012
+−0.041
+(0.031)
+(0.039)
+(0.053)
+(0.049)
+(0.030)
+(0.043)
+(0.040)
+(0.047)
+(0.044)
+(0.067)
+Mortgage
+−0.005
+−0.029
+0.033
+−0.064
+0.005
+−0.024
+−0.001
+0.041
+−0.006
+0.043
+(0.034)
+(0.035)
+(0.046)
+(0.039)
+(0.024)
+(0.030)
+(0.028)
+(0.026)
+(0.034)
+(0.043)
+Voted
+0.003
+0.008
+−0.011
+−0.006
+−0.015
+−0.050
+−0.022
+−0.031
+−0.107∗
+0.075
+(0.029)
+(0.037)
+(0.058)
+(0.057)
+(0.038)
+(0.048)
+(0.040)
+(0.041)
+(0.044)
+(0.061)
+Far Left
+−0.117∗
+−0.233∗
+−0.090
+−0.201∗
+−0.072∗
+−0.092∗
+−0.170∗
+−0.250∗
+−0.265∗
+−0.355∗
+(0.032)
+(0.039)
+(0.061)
+(0.056)
+(0.034)
+(0.041)
+(0.037)
+(0.037)
+(0.053)
+(0.067)
+Left
+−0.002
+0.075∗
+0.105
+0.102
+−0.049
+−0.033
+0.113∗
+0.062
+0.048
+−0.063
+(0.026)
+(0.028)
+(0.072)
+(0.058)
+(0.034)
+(0.045)
+(0.047)
+(0.052)
+(0.046)
+(0.070)
+Right
+−0.123∗
+−0.149∗
+−0.097
+−0.080
+−0.028
+−0.060
+−0.130∗
+−0.229∗
+−0.139∗
+−0.354∗
+(0.034)
+(0.034)
+(0.051)
+(0.047)
+(0.034)
+(0.040)
+(0.039)
+(0.039)
+(0.045)
+(0.060)
+Far Right
+0.031
+0.010
+0.120
+−0.029
+−0.019
+0.001
+0.054
+0.099∗
+0.089∗
+0.056
+(0.027)
+(0.029)
+(0.062)
+(0.057)
+(0.032)
+(0.041)
+(0.042)
+(0.036)
+(0.043)
+(0.052)
+Support Intervention
+−0.000
+−0.020
+−0.140∗
+−0.055
+0.016
+−0.052
+0.013
+−0.088∗
+−0.001
+−0.071
+(0.023)
+(0.022)
+(0.055)
+(0.046)
+(0.026)
+(0.031)
+(0.034)
+(0.031)
+(0.032)
+(0.042)
+Support Redistribution
+−0.015
+−0.055∗
+0.045
+−0.073
+−0.024
+−0.021
+−0.044
+−0.122∗
+−0.118∗
+−0.063
+(0.020)
+(0.023)
+(0.045)
+(0.040)
+(0.024)
+(0.030)
+(0.032)
+(0.026)
+(0.032)
+(0.046)
+Empathy
+−0.003
+−0.015
+0.012
+−0.044
+−0.015
+−0.011
+−0.007
+−0.012
+−0.011
+0.012
+(0.011)
+(0.013)
+(0.026)
+(0.023)
+(0.012)
+(0.016)
+(0.016)
+(0.017)
+(0.019)
+(0.025)
+Knowledge
+−0.011∗
+−0.017∗
+−0.023∗
+−0.008
+−0.022∗
+−0.018∗
+−0.040∗
+−0.033∗
+−0.003
+0.006
+(0.005)
+(0.005)
+(0.010)
+(0.010)
+(0.007)
+(0.008)
+(0.007)
+(0.008)
+(0.008)
+(0.011)
+R2
+0.039
+0.110
+0.089
+0.085
+0.037
+0.031
+0.121
+0.162
+0.098
+0.190
+Adj. R2
+0.028
+0.097
+0.063
+0.065
+0.026
+0.013
+0.107
+0.151
+0.081
+0.161
+Num. obs.
+2223
+1663
+869
+1144
+2123
+1350
+1538
+1933
+1314
+695
+15
+
+=== page 16 ===
+Table A7: The Correlates of Austerity Support by Knowledge, 2015 Survey, with Weights. The table reports
+coeﬃcients from a linear probability model. The dependent variable is an indicator variable that takes the value one if an
+individual prefers spending cuts over ﬁscal stimulus and zero otherwise. Robust standard errors reported in parentheses.
+∗p < 0.05.
+France Low/Medium
+France High
+Greece Low/Medium
+Greece High
+Italy Low/Medium
+Italy High
+Spain Low/Medium
+Spain High
+United Kingdom Low/Medium
+United Kingdom High
+(Intercept)
+0.772∗
+0.930∗
+0.575∗
+1.034∗
+0.898∗
+0.958∗
+0.949∗
+0.932∗
+0.669∗
+0.841∗
+(0.066)
+(0.066)
+(0.179)
+(0.124)
+(0.076)
+(0.091)
+(0.095)
+(0.090)
+(0.098)
+(0.121)
+Age 30 - 39
+0.069∗
+0.016
+0.048
+0.100∗
+−0.038
+0.069
+−0.038
+−0.099∗
+0.013
+−0.031
+(0.032)
+(0.034)
+(0.061)
+(0.042)
+(0.040)
+(0.041)
+(0.039)
+(0.040)
+(0.053)
+(0.092)
+Age 40 - 49
+0.080∗
+0.053
+−0.103
+0.113∗
+−0.021
+0.049
+−0.036
+−0.032
+0.006
+−0.046
+(0.034)
+(0.031)
+(0.079)
+(0.047)
+(0.041)
+(0.043)
+(0.046)
+(0.041)
+(0.055)
+(0.089)
+Age 50 - 59
+0.058
+0.040
+0.090
+−0.081
+−0.039
+0.079
+−0.015
+0.002
+−0.068
+−0.016
+(0.036)
+(0.034)
+(0.106)
+(0.064)
+(0.051)
+(0.045)
+(0.055)
+(0.044)
+(0.055)
+(0.088)
+Age 60+
+0.103∗
+0.071
+0.210
+0.138
+0.008
+0.107∗
+−0.086
+0.004
+0.012
+0.046
+(0.045)
+(0.039)
+(0.166)
+(0.093)
+(0.058)
+(0.053)
+(0.107)
+(0.059)
+(0.062)
+(0.091)
+Female
+0.043
+−0.015
+0.049
+0.099∗
+−0.012
+0.021
+0.098∗
+0.049
+0.022
+0.044
+(0.022)
+(0.020)
+(0.051)
+(0.035)
+(0.030)
+(0.026)
+(0.035)
+(0.025)
+(0.036)
+(0.035)
+Education Intermediate
+−0.002
+−0.012
+0.052
+−0.198∗
+−0.068∗
+−0.070∗
+−0.007
+−0.068
+−0.016
+0.025
+(0.031)
+(0.038)
+(0.106)
+(0.090)
+(0.032)
+(0.035)
+(0.039)
+(0.036)
+(0.041)
+(0.044)
+Education High
+0.003
+−0.036
+−0.049
+−0.196∗
+−0.130∗
+−0.120∗
+−0.126∗
+−0.084∗
+−0.011
+0.058
+(0.035)
+(0.040)
+(0.107)
+(0.092)
+(0.038)
+(0.039)
+(0.042)
+(0.036)
+(0.050)
+(0.044)
+Number of Children
+0.001
+0.000
+−0.017
+0.029
+−0.018
+−0.008
+−0.009
+−0.000
+−0.012
+−0.004
+(0.008)
+(0.007)
+(0.025)
+(0.018)
+(0.017)
+(0.014)
+(0.016)
+(0.013)
+(0.012)
+(0.011)
+Income Quintile 2
+−0.047
+−0.038
+0.001
+−0.007
+−0.134∗
+−0.072∗
+−0.024
+−0.030
+−0.047
+−0.030
+(0.031)
+(0.033)
+(0.057)
+(0.047)
+(0.038)
+(0.034)
+(0.039)
+(0.038)
+(0.047)
+(0.049)
+Income Quintile 3
+−0.032
+−0.002
+0.030
+0.018
+−0.115∗
+−0.036
+−0.150∗
+−0.066
+0.082
+0.004
+(0.032)
+(0.029)
+(0.066)
+(0.050)
+(0.047)
+(0.037)
+(0.059)
+(0.042)
+(0.053)
+(0.052)
+Income Quintile 4
+−0.012
+−0.014
+−0.178
+0.009
+−0.040
+−0.039
+−0.174∗
+−0.058
+0.123∗
+−0.062
+(0.036)
+(0.032)
+(0.106)
+(0.057)
+(0.047)
+(0.038)
+(0.086)
+(0.047)
+(0.056)
+(0.056)
+Income Quintile 5
+−0.014
+−0.062
+−0.264
+0.029
+−0.068
+−0.063
+−0.016
+−0.083
+0.022
+−0.007
+(0.051)
+(0.041)
+(0.151)
+(0.077)
+(0.105)
+(0.052)
+(0.130)
+(0.060)
+(0.071)
+(0.064)
+Employed
+0.057
+0.025
+0.047
+−0.059
+0.047
+0.059
+0.023
+0.071∗
+−0.018
+0.021
+(0.030)
+(0.028)
+(0.053)
+(0.041)
+(0.032)
+(0.030)
+(0.038)
+(0.033)
+(0.045)
+(0.044)
+Public Job
+−0.066∗
+−0.052∗
+−0.024
+−0.045
+−0.006
+−0.024
+−0.023
+−0.037
+0.025
+−0.064
+(0.031)
+(0.026)
+(0.060)
+(0.039)
+(0.038)
+(0.033)
+(0.048)
+(0.030)
+(0.040)
+(0.035)
+Own Stocks
+−0.054
+−0.010
+−0.082
+0.030
+−0.018
+−0.039
+−0.081
+−0.061
+0.021
+0.020
+(0.036)
+(0.025)
+(0.085)
+(0.051)
+(0.042)
+(0.029)
+(0.060)
+(0.031)
+(0.044)
+(0.038)
+Public Income
+0.010
+−0.017
+−0.077
+0.011
+−0.008
+0.019
+−0.027
+0.082∗
+0.056
+−0.078
+(0.036)
+(0.035)
+(0.063)
+(0.048)
+(0.039)
+(0.035)
+(0.047)
+(0.041)
+(0.051)
+(0.048)
+Mortgage
+−0.006
+−0.027
+−0.021
+−0.004
+0.013
+−0.013
+0.023
+0.015
+0.038
+−0.014
+(0.038)
+(0.033)
+(0.059)
+(0.037)
+(0.032)
+(0.027)
+(0.035)
+(0.025)
+(0.037)
+(0.038)
+Voted
+−0.007
+0.022
+−0.017
+−0.007
+−0.028
+0.004
+−0.046
+−0.025
+−0.052
+0.022
+(0.032)
+(0.035)
+(0.068)
+(0.051)
+(0.043)
+(0.051)
+(0.040)
+(0.043)
+(0.046)
+(0.059)
+Far Left
+−0.102∗
+−0.197∗
+−0.100
+−0.152∗
+−0.003
+−0.114∗
+−0.167∗
+−0.217∗
+−0.239∗
+−0.320∗
+(0.037)
+(0.036)
+(0.083)
+(0.050)
+(0.044)
+(0.037)
+(0.047)
+(0.036)
+(0.061)
+(0.056)
+Left
+−0.009
+0.036
+0.145
+0.052
+−0.039
+−0.063
+0.096
+0.068
+−0.074
+0.100
+(0.031)
+(0.027)
+(0.084)
+(0.057)
+(0.045)
+(0.039)
+(0.051)
+(0.052)
+(0.055)
+(0.058)
+Right
+−0.082∗
+−0.184∗
+−0.050
+−0.124∗
+0.004
+−0.064
+−0.083
+−0.202∗
+−0.164∗
+−0.273∗
+(0.035)
+(0.035)
+(0.061)
+(0.045)
+(0.047)
+(0.035)
+(0.047)
+(0.035)
+(0.050)
+(0.051)
+Far Right
+0.042
+0.002
+0.147∗
+−0.029
+0.006
+−0.037
+0.047
+0.067
+−0.013
+0.164∗
+(0.028)
+(0.030)
+(0.065)
+(0.053)
+(0.040)
+(0.038)
+(0.050)
+(0.037)
+(0.048)
+(0.043)
+Support Intervention
+0.031
+−0.043
+−0.059
+−0.166∗
+0.004
+−0.004
+0.004
+−0.047
+−0.009
+−0.064
+(0.024)
+(0.023)
+(0.058)
+(0.044)
+(0.033)
+(0.029)
+(0.039)
+(0.030)
+(0.036)
+(0.035)
+Support Redistribution
+−0.010
+−0.052∗
+0.024
+−0.059
+−0.018
+−0.033
+0.028
+−0.129∗
+−0.066
+−0.138∗
+(0.022)
+(0.022)
+(0.052)
+(0.038)
+(0.031)
+(0.028)
+(0.039)
+(0.028)
+(0.036)
+(0.038)
+Empathy
+−0.005
+−0.014
+0.029
+−0.031
+0.021
+−0.038∗
+−0.023
+−0.013
+0.012
+−0.028
+(0.013)
+(0.011)
+(0.027)
+(0.023)
+(0.016)
+(0.015)
+(0.019)
+(0.016)
+(0.020)
+(0.022)
+R2
+0.039
+0.082
+0.093
+0.100
+0.050
+0.040
+0.111
+0.118
+0.063
+0.243
+Adj. R2
+0.026
+0.071
+0.057
+0.084
+0.030
+0.029
+0.086
+0.109
+0.041
+0.222
+Num. obs.
+1784
+2102
+648
+1365
+1185
+2288
+899
+2572
+1087
+922
+16
+
+=== page 17 ===
+Table A8: The Correlates of Austerity Support, 2019 Survey, with Weights. The table
+reports coeﬃcients from a linear probability model. The dependent variable is an indicator
+variable that takes the value one if an individual prefers spending cuts over ﬁscal stimulus and
+zero otherwise. Robust standard errors reported in parentheses. ∗p < 0.05.
+Italy A
+Italy B
+Italy C
+Spain A
+Spain B
+Spain C
+(Intercept)
+0.713∗
+0.754∗
+0.871∗
+0.664∗
+0.813∗
+1.023∗
+(0.063)
+(0.068)
+(0.095)
+(0.065)
+(0.065)
+(0.100)
+Age 30 - 39
+−0.021
+−0.019
+−0.008
+−0.017
+−0.015
+−0.011
+(0.038)
+(0.038)
+(0.038)
+(0.038)
+(0.037)
+(0.037)
+Age 40 - 49
+0.001
+0.004
+0.028
+−0.048
+−0.037
+−0.029
+(0.037)
+(0.036)
+(0.037)
+(0.037)
+(0.037)
+(0.037)
+Age 50 - 59
+−0.101∗
+−0.099∗
+−0.077
+−0.053
+−0.026
+−0.016
+(0.039)
+(0.040)
+(0.041)
+(0.040)
+(0.039)
+(0.039)
+Age 60+
+−0.068
+−0.065
+−0.040
+−0.063
+−0.044
+−0.031
+(0.043)
+(0.043)
+(0.045)
+(0.045)
+(0.043)
+(0.044)
+Female
+0.049∗
+0.043
+0.051∗
+0.025
+0.022
+0.022
+(0.023)
+(0.023)
+(0.023)
+(0.023)
+(0.023)
+(0.023)
+Education Intermediate
+−0.030
+−0.029
+−0.031
+−0.041
+−0.024
+−0.020
+(0.025)
+(0.025)
+(0.025)
+(0.026)
+(0.026)
+(0.026)
+Education High
+−0.033
+−0.032
+−0.041
+−0.076∗
+−0.063∗
+−0.062∗
+(0.032)
+(0.032)
+(0.033)
+(0.029)
+(0.029)
+(0.030)
+Number of Children
+0.016
+0.017
+0.017
+0.009
+0.004
+0.003
+(0.010)
+(0.010)
+(0.010)
+(0.009)
+(0.009)
+(0.009)
+Income Quintile 2
+0.001
+0.005
+0.006
+−0.012
+0.004
+0.007
+(0.028)
+(0.028)
+(0.028)
+(0.032)
+(0.031)
+(0.031)
+Income Quintile 3
+−0.021
+−0.017
+−0.016
+0.025
+0.028
+0.035
+(0.033)
+(0.033)
+(0.033)
+(0.034)
+(0.034)
+(0.034)
+Income Quintile 4
+−0.032
+−0.029
+−0.024
+−0.092∗
+−0.066
+−0.062
+(0.040)
+(0.040)
+(0.040)
+(0.043)
+(0.042)
+(0.043)
+Income Quintile 5
+0.020
+0.025
+0.031
+−0.031
+−0.035
+−0.025
+(0.049)
+(0.049)
+(0.050)
+(0.042)
+(0.040)
+(0.041)
+Employed
+−0.027
+−0.024
+−0.024
+0.006
+−0.003
+−0.006
+(0.027)
+(0.027)
+(0.027)
+(0.030)
+(0.029)
+(0.029)
+Union Member
+0.010
+0.012
+0.016
+0.034∗
+0.018
+0.017
+(0.017)
+(0.018)
+(0.018)
+(0.017)
+(0.016)
+(0.016)
+Public Job
+0.001
+0.006
+−0.002
+−0.035
+−0.045
+−0.049
+(0.033)
+(0.033)
+(0.033)
+(0.030)
+(0.029)
+(0.029)
+Own Stocks
+0.022
+0.028
+0.022
+0.044
+0.024
+0.013
+(0.026)
+(0.027)
+(0.027)
+(0.029)
+(0.028)
+(0.028)
+Public Income
+−0.017
+−0.014
+−0.017
+0.002
+−0.006
+−0.004
+(0.031)
+(0.031)
+(0.032)
+(0.033)
+(0.032)
+(0.032)
+Mortgage
+−0.005
+−0.003
+−0.006
+0.044
+0.044
+0.044
+(0.026)
+(0.025)
+(0.025)
+(0.023)
+(0.023)
+(0.023)
+Laid Oﬀ
+−0.010
+−0.008
+−0.000
+−0.025
+−0.024
+−0.021
+(0.025)
+(0.025)
+(0.025)
+(0.025)
+(0.025)
+(0.025)
+Voted
+−0.042
+−0.037
+−0.084∗
+−0.078∗
+(0.029)
+(0.029)
+(0.026)
+(0.026)
+Far Left
+0.005
+0.015
+−0.191∗
+−0.170∗
+(0.035)
+(0.036)
+(0.033)
+(0.033)
+Left
+−0.003
+−0.003
+−0.122∗
+−0.109∗
+(0.035)
+(0.035)
+(0.032)
+(0.032)
+Right
+−0.039
+−0.049
+0.090∗
+0.081∗
+(0.031)
+(0.031)
+(0.030)
+(0.031)
+Far Right
+−0.050
+−0.051
+0.038
+0.023
+(0.031)
+(0.031)
+(0.037)
+(0.037)
+Support Intervention
+−0.018
+−0.012
+(0.010)
+(0.010)
+Support Redistribution
+−0.005
+−0.025∗
+(0.008)
+(0.009)
+Belief in Government Intentions
+0.009
+0.003
+(0.007)
+(0.008)
+Belief in Government Competence
+−0.000
+−0.008
+(0.007)
+(0.009)
+Empathy
+−0.019
+−0.005
+(0.013)
+(0.013)
+Knowledge
+−0.008
+−0.013
+(0.011)
+(0.013)
+R2
+0.015
+0.019
+0.026
+0.021
+0.076
+0.083
+Adj. R2
+0.005
+0.007
+0.011
+0.012
+0.065
+0.069
+Num. obs.
+1985
+1985
+1985
+1967
+1967
+1967
+17
+
+=== page 18 ===
+Table A9: The Correlates of Austerity Support, 2019 Survey, Unweighted. The table
+reports coeﬃcients from a linear probability model. The dependent variable is an indicator
+variable that takes the value one if an individual prefers spending cuts over ﬁscal stimulus and
+zero otherwise. Robust standard errors reported in parentheses. ∗p < 0.05.
+Italy A
+Italy B
+Italy C
+Spain A
+Spain B
+Spain C
+(Intercept)
+0.698∗
+0.740∗
+0.887∗
+0.670∗
+0.813∗
+1.041∗
+(0.063)
+(0.067)
+(0.094)
+(0.061)
+(0.062)
+(0.092)
+Age 30 - 39
+−0.033
+−0.032
+−0.020
+−0.041
+−0.036
+−0.034
+(0.037)
+(0.037)
+(0.037)
+(0.035)
+(0.035)
+(0.035)
+Age 40 - 49
+−0.009
+−0.006
+0.015
+−0.079∗
+−0.065
+−0.058
+(0.035)
+(0.035)
+(0.036)
+(0.035)
+(0.034)
+(0.034)
+Age 50 - 59
+−0.092∗
+−0.090∗
+−0.066
+−0.076∗
+−0.046
+−0.036
+(0.038)
+(0.038)
+(0.039)
+(0.036)
+(0.036)
+(0.036)
+Age 60+
+−0.093∗
+−0.090∗
+−0.064
+−0.087∗
+−0.065
+−0.051
+(0.042)
+(0.042)
+(0.043)
+(0.041)
+(0.041)
+(0.041)
+Female
+0.043
+0.037
+0.044
+0.036
+0.035
+0.036
+(0.022)
+(0.022)
+(0.022)
+(0.022)
+(0.021)
+(0.022)
+Education Intermediate
+−0.027
+−0.025
+−0.027
+−0.045
+−0.028
+−0.025
+(0.025)
+(0.025)
+(0.025)
+(0.026)
+(0.026)
+(0.026)
+Education High
+−0.029
+−0.028
+−0.038
+−0.081∗
+−0.068∗
+−0.068∗
+(0.032)
+(0.032)
+(0.032)
+(0.029)
+(0.028)
+(0.029)
+Number of Children
+0.013
+0.013
+0.014
+0.010
+0.006
+0.004
+(0.010)
+(0.010)
+(0.011)
+(0.009)
+(0.009)
+(0.009)
+Income Quintile 2
+−0.002
+0.002
+0.004
+−0.005
+0.008
+0.010
+(0.027)
+(0.027)
+(0.027)
+(0.030)
+(0.029)
+(0.029)
+Income Quintile 3
+−0.032
+−0.029
+−0.028
+0.011
+0.013
+0.020
+(0.032)
+(0.032)
+(0.033)
+(0.033)
+(0.033)
+(0.033)
+Income Quintile 4
+−0.036
+−0.032
+−0.025
+−0.091∗
+−0.069
+−0.066
+(0.038)
+(0.038)
+(0.039)
+(0.040)
+(0.040)
+(0.040)
+Income Quintile 5
+0.023
+0.026
+0.033
+−0.049
+−0.053
+−0.043
+(0.047)
+(0.047)
+(0.047)
+(0.041)
+(0.040)
+(0.040)
+Employed
+−0.020
+−0.018
+−0.019
+0.004
+−0.003
+−0.003
+(0.026)
+(0.026)
+(0.026)
+(0.027)
+(0.027)
+(0.027)
+Union Member
+0.017
+0.019
+0.022
+0.040∗
+0.023
+0.022
+(0.017)
+(0.017)
+(0.017)
+(0.016)
+(0.015)
+(0.015)
+Public Job
+0.006
+0.011
+0.002
+−0.030
+−0.038
+−0.043
+(0.032)
+(0.032)
+(0.032)
+(0.028)
+(0.027)
+(0.027)
+Own Stocks
+0.028
+0.033
+0.028
+0.072∗
+0.048
+0.035
+(0.025)
+(0.026)
+(0.026)
+(0.027)
+(0.026)
+(0.026)
+Public Income
+−0.004
+−0.002
+−0.005
+0.000
+−0.008
+−0.005
+(0.030)
+(0.030)
+(0.030)
+(0.031)
+(0.030)
+(0.030)
+Mortgage
+0.000
+0.001
+−0.002
+0.052∗
+0.049∗
+0.049∗
+(0.025)
+(0.025)
+(0.025)
+(0.022)
+(0.022)
+(0.022)
+Laid Oﬀ
+−0.008
+−0.008
+−0.000
+−0.047
+−0.046
+−0.042
+(0.025)
+(0.025)
+(0.025)
+(0.024)
+(0.023)
+(0.023)
+Voted
+−0.035
+−0.030
+−0.082∗
+−0.076∗
+(0.029)
+(0.028)
+(0.025)
+(0.026)
+Far Left
+−0.006
+0.002
+−0.194∗
+−0.169∗
+(0.035)
+(0.035)
+(0.031)
+(0.031)
+Left
+−0.015
+−0.016
+−0.121∗
+−0.106∗
+(0.034)
+(0.034)
+(0.030)
+(0.031)
+Right
+−0.047
+−0.059
+0.095∗
+0.084∗
+(0.030)
+(0.030)
+(0.029)
+(0.030)
+Far Right
+−0.050
+−0.052
+0.052
+0.033
+(0.030)
+(0.030)
+(0.034)
+(0.035)
+Support Intervention
+−0.027∗
+−0.017
+(0.009)
+(0.010)
+Support Redistribution
+−0.005
+−0.025∗
+(0.008)
+(0.009)
+Belief in Government Intentions
+0.010
+0.008
+(0.007)
+(0.008)
+Belief in Government Competence
+−0.003
+−0.011
+(0.007)
+(0.008)
+Empathy
+−0.014
+−0.003
+(0.013)
+(0.012)
+Knowledge
+−0.009
+−0.015
+(0.010)
+(0.013)
+R2
+0.013
+0.016
+0.025
+0.026
+0.083
+0.092
+Adj. R2
+0.004
+0.004
+0.010
+0.017
+0.072
+0.078
+Num. obs.
+1985
+1985
+1985
+1967
+1967
+1967
+18
+
+=== page 19 ===
+Table A10: The Correlates of Austerity Support, 2019 Survey, with Alternative
+Weights.
+The table reports coeﬃcients from a linear probability model.
+The dependent
+variable is an indicator variable that takes the value one if an individual prefers spending cuts
+over ﬁscal stimulus and zero otherwise. Robust standard errors reported. ∗p < 0.05.
+Italy A
+Italy B
+Italy C
+Spain A
+Spain B
+Spain C
+(Intercept)
+0.723∗
+0.774∗
+0.755∗
+0.689∗
+0.839∗
+1.095∗
+(0.082)
+(0.086)
+(0.136)
+(0.071)
+(0.071)
+(0.110)
+Age 30 - 39
+−0.016
+−0.016
+−0.011
+−0.027
+−0.020
+−0.016
+(0.050)
+(0.050)
+(0.050)
+(0.040)
+(0.040)
+(0.040)
+Age 40 - 49
+0.016
+0.021
+0.029
+−0.065
+−0.051
+−0.042
+(0.047)
+(0.047)
+(0.048)
+(0.040)
+(0.040)
+(0.040)
+Age 50 - 59
+−0.039
+−0.036
+−0.029
+−0.064
+−0.035
+−0.022
+(0.053)
+(0.053)
+(0.055)
+(0.043)
+(0.042)
+(0.042)
+Age 60+
+−0.011
+−0.011
+0.001
+−0.064
+−0.044
+−0.028
+(0.057)
+(0.057)
+(0.058)
+(0.049)
+(0.047)
+(0.048)
+Female
+0.053
+0.045
+0.047
+0.022
+0.019
+0.021
+(0.029)
+(0.030)
+(0.031)
+(0.026)
+(0.025)
+(0.026)
+Education Intermediate
+−0.037
+−0.039
+−0.039
+−0.043
+−0.025
+−0.021
+(0.033)
+(0.034)
+(0.034)
+(0.030)
+(0.030)
+(0.030)
+Education High
+−0.019
+−0.022
+−0.027
+−0.077∗
+−0.059
+−0.059
+(0.043)
+(0.044)
+(0.045)
+(0.034)
+(0.033)
+(0.034)
+Number of Children
+−0.006
+−0.006
+−0.004
+0.007
+0.002
+0.001
+(0.014)
+(0.014)
+(0.014)
+(0.010)
+(0.010)
+(0.010)
+Income Quintile 2
+0.002
+0.005
+0.005
+−0.018
+−0.001
+0.005
+(0.030)
+(0.031)
+(0.031)
+(0.033)
+(0.033)
+(0.033)
+Income Quintile 3
+−0.006
+−0.003
+−0.002
+0.023
+0.028
+0.039
+(0.036)
+(0.036)
+(0.037)
+(0.036)
+(0.036)
+(0.036)
+Income Quintile 4
+−0.033
+−0.031
+−0.026
+−0.108∗
+−0.081
+−0.071
+(0.045)
+(0.045)
+(0.046)
+(0.047)
+(0.047)
+(0.047)
+Income Quintile 5
+0.014
+0.019
+0.026
+−0.037
+−0.040
+−0.024
+(0.055)
+(0.056)
+(0.057)
+(0.045)
+(0.044)
+(0.044)
+Employed
+−0.019
+−0.015
+−0.012
+0.014
+0.000
+−0.003
+(0.037)
+(0.037)
+(0.036)
+(0.032)
+(0.032)
+(0.032)
+Union Member
+−0.004
+−0.001
+0.005
+0.029
+0.012
+0.010
+(0.022)
+(0.022)
+(0.023)
+(0.018)
+(0.018)
+(0.017)
+Public Job
+−0.038
+−0.027
+−0.032
+−0.048
+−0.060
+−0.064∗
+(0.044)
+(0.044)
+(0.045)
+(0.033)
+(0.032)
+(0.032)
+Own Stocks
+0.026
+0.031
+0.030
+0.037
+0.013
+−0.000
+(0.033)
+(0.033)
+(0.033)
+(0.034)
+(0.032)
+(0.032)
+Public Income
+−0.012
+−0.007
+−0.009
+−0.002
+−0.009
+−0.006
+(0.042)
+(0.042)
+(0.042)
+(0.036)
+(0.034)
+(0.034)
+Mortgage
+0.012
+0.015
+0.013
+0.039
+0.043
+0.044
+(0.032)
+(0.032)
+(0.032)
+(0.026)
+(0.025)
+(0.025)
+Laid Oﬀ
+0.028
+0.028
+0.035
+−0.023
+−0.027
+−0.025
+(0.031)
+(0.031)
+(0.031)
+(0.028)
+(0.027)
+(0.027)
+Voted
+−0.030
+−0.034
+−0.077∗
+−0.069∗
+(0.036)
+(0.037)
+(0.029)
+(0.029)
+Far Left
+−0.013
+−0.009
+−0.191∗
+−0.170∗
+(0.044)
+(0.044)
+(0.035)
+(0.036)
+Left
+−0.018
+−0.019
+−0.128∗
+−0.114∗
+(0.043)
+(0.043)
+(0.035)
+(0.035)
+Right
+−0.068
+−0.073
+0.096∗
+0.086∗
+(0.041)
+(0.041)
+(0.034)
+(0.035)
+Far Right
+−0.086∗
+−0.086∗
+0.049
+0.030
+(0.041)
+(0.041)
+(0.040)
+(0.041)
+Support Intervention
+−0.015
+−0.019
+(0.013)
+(0.011)
+Support Redistribution
+0.004
+−0.022∗
+(0.011)
+(0.010)
+Belief in Government Intentions
+0.010
+0.003
+(0.009)
+(0.009)
+Belief in Government Competence
+0.001
+−0.009
+(0.010)
+(0.009)
+Empathy
+0.003
+−0.006
+(0.018)
+(0.015)
+Knowledge
+−0.008
+−0.018
+(0.014)
+(0.015)
+R2
+0.011
+0.018
+0.022
+0.025
+0.081
+0.089
+Adj. R2
+0.002
+0.006
+0.007
+0.016
+0.069
+0.075
+Num. obs.
+1985
+1985
+1985
+1967
+1967
+1967
+19
+
+=== page 20 ===
+Table A11: The Correlates of Austerity Support by Education, 2019 Survey, with
+Weights.
+The table reports coeﬃcients from a linear probability model.
+The dependent
+variable is an indicator variable that takes the value one if an individual prefers spending
+cuts over ﬁscal stimulus and zero otherwise. High education pertains to ISCED11 levels 5-8,
+while low/medium education includes all levels below. Robust standard errors reported in
+parentheses. ∗p < 0.05.
+Italy Low/Medium
+Italy High
+Spain Low/Medium
+Spain High
+(Intercept)
+0.849∗
+0.803∗
+1.067∗
+0.786∗
+(0.105)
+(0.217)
+(0.128)
+(0.161)
+Age 30 - 39
+−0.010
+0.031
+0.002
+−0.016
+(0.044)
+(0.081)
+(0.047)
+(0.061)
+Age 40 - 49
+0.032
+0.024
+−0.042
+0.009
+(0.041)
+(0.085)
+(0.048)
+(0.059)
+Age 50 - 59
+−0.089∗
+0.054
+−0.020
+−0.000
+(0.045)
+(0.089)
+(0.049)
+(0.065)
+Age 60+
+−0.041
+−0.048
+−0.026
+−0.030
+(0.050)
+(0.099)
+(0.055)
+(0.073)
+Female
+0.045
+0.068
+0.023
+0.030
+(0.026)
+(0.052)
+(0.030)
+(0.037)
+Number of Children
+0.021
+0.012
+0.001
+0.003
+(0.012)
+(0.017)
+(0.012)
+(0.016)
+Income Quintile 2
+−0.013
+0.146∗
+0.001
+0.049
+(0.031)
+(0.072)
+(0.036)
+(0.064)
+Income Quintile 3
+−0.016
+−0.006
+0.026
+0.075
+(0.037)
+(0.076)
+(0.040)
+(0.066)
+Income Quintile 4
+−0.024
+0.029
+−0.121∗
+0.034
+(0.048)
+(0.080)
+(0.057)
+(0.071)
+Income Quintile 5
+−0.005
+0.135
+0.043
+−0.056
+(0.065)
+(0.086)
+(0.053)
+(0.069)
+Employed
+−0.018
+−0.080
+−0.011
+−0.002
+(0.030)
+(0.058)
+(0.036)
+(0.050)
+Union Member
+0.011
+0.034
+0.015
+0.021
+(0.020)
+(0.038)
+(0.021)
+(0.027)
+Public Job
+−0.031
+0.078
+−0.038
+−0.069
+(0.039)
+(0.061)
+(0.039)
+(0.043)
+Own Stocks
+0.022
+−0.001
+−0.003
+0.037
+(0.031)
+(0.055)
+(0.040)
+(0.039)
+Public Income
+−0.013
+−0.014
+−0.005
+−0.004
+(0.035)
+(0.075)
+(0.039)
+(0.060)
+Mortgage
+−0.010
+0.033
+0.040
+0.047
+(0.028)
+(0.056)
+(0.028)
+(0.038)
+Laid Oﬀ
+0.001
+−0.003
+0.003
+−0.091∗
+(0.028)
+(0.063)
+(0.030)
+(0.044)
+Voted
+−0.044
+−0.060
+−0.078∗
+−0.088
+(0.032)
+(0.071)
+(0.031)
+(0.048)
+Far Left
+0.019
+−0.023
+−0.155∗
+−0.210∗
+(0.041)
+(0.081)
+(0.040)
+(0.059)
+Left
+0.013
+−0.089
+−0.124∗
+−0.093
+(0.039)
+(0.079)
+(0.040)
+(0.056)
+Right
+−0.040
+−0.094
+0.068
+0.083
+(0.034)
+(0.072)
+(0.039)
+(0.054)
+Far Right
+−0.059
+−0.008
+0.007
+0.077
+(0.035)
+(0.066)
+(0.046)
+(0.065)
+Support Intervention
+−0.014
+−0.028
+−0.001
+−0.031∗
+(0.012)
+(0.020)
+(0.014)
+(0.015)
+Support Redistribution
+0.000
+−0.025
+−0.026∗
+−0.026
+(0.009)
+(0.020)
+(0.011)
+(0.015)
+Belief in Government Intentions
+0.006
+0.019
+−0.009
+0.036∗
+(0.007)
+(0.015)
+(0.010)
+(0.014)
+Belief in Government Competence
+0.003
+−0.016
+0.001
+−0.027
+(0.008)
+(0.016)
+(0.011)
+(0.014)
+Empathy
+−0.020
+−0.011
+−0.018
+0.032
+(0.015)
+(0.033)
+(0.016)
+(0.022)
+Knowledge
+−0.012
+0.012
+−0.018
+−0.009
+(0.012)
+(0.024)
+(0.016)
+(0.023)
+R2
+0.029
+0.063
+0.078
+0.130
+Adj. R2
+0.011
+−0.004
+0.057
+0.095
+Num. obs.
+1566
+419
+1255
+712
+20
+
+=== page 21 ===
+Table A12: The Correlates of Austerity Support by Knowledge, 2019 Survey, with
+Weights.
+The table reports coeﬃcients from a linear probability model.
+The dependent
+variable is an indicator variable that takes the value one if an individual prefers spending
+cuts over ﬁscal stimulus and zero otherwise. Robust standard errors reported in parentheses.
+∗p < 0.05.
+Italy Low/Medium
+Italy High
+Spain Low/Medium
+Spain High
+(Intercept)
+0.670∗
+1.037∗
+0.770∗
+1.086∗
+(0.121)
+(0.155)
+(0.179)
+(0.111)
+Age 30 - 39
+−0.012
+−0.006
+0.003
+−0.004
+(0.044)
+(0.077)
+(0.061)
+(0.049)
+Age 40 - 49
+0.025
+0.037
+−0.025
+−0.028
+(0.043)
+(0.073)
+(0.062)
+(0.047)
+Age 50 - 59
+−0.134∗
+0.012
+−0.019
+−0.021
+(0.049)
+(0.076)
+(0.068)
+(0.050)
+Age 60+
+−0.061
+0.002
+0.043
+−0.061
+(0.056)
+(0.079)
+(0.082)
+(0.054)
+Female
+0.065∗
+0.031
+0.024
+0.021
+(0.029)
+(0.038)
+(0.043)
+(0.028)
+Education Intermediate
+−0.008
+−0.067
+0.005
+−0.034
+(0.031)
+(0.042)
+(0.044)
+(0.033)
+Education High
+−0.009
+−0.076
+−0.073
+−0.071
+(0.042)
+(0.052)
+(0.053)
+(0.037)
+Number of Children
+0.038∗
+−0.021
+0.011
+0.002
+(0.013)
+(0.018)
+(0.014)
+(0.012)
+Income Quintile 2
+0.002
+0.023
+0.027
+−0.020
+(0.034)
+(0.051)
+(0.049)
+(0.041)
+Income Quintile 3
+−0.047
+0.036
+0.005
+0.024
+(0.044)
+(0.053)
+(0.062)
+(0.042)
+Income Quintile 4
+−0.011
+−0.014
+−0.022
+−0.087
+(0.055)
+(0.061)
+(0.085)
+(0.051)
+Income Quintile 5
+0.063
+0.032
+0.121
+−0.080
+(0.074)
+(0.069)
+(0.076)
+(0.049)
+Employed
+−0.013
+−0.041
+0.020
+−0.015
+(0.033)
+(0.047)
+(0.049)
+(0.038)
+Union Member
+0.038
+−0.010
+0.022
+0.017
+(0.024)
+(0.027)
+(0.030)
+(0.019)
+Public Job
+0.013
+−0.003
+−0.028
+−0.046
+(0.044)
+(0.050)
+(0.058)
+(0.033)
+Own Stocks
+−0.016
+0.072
+0.011
+0.020
+(0.038)
+(0.038)
+(0.055)
+(0.034)
+Public Income
+−0.003
+−0.028
+−0.007
+−0.001
+(0.040)
+(0.052)
+(0.052)
+(0.042)
+Mortgage
+0.007
+−0.011
+0.027
+0.051
+(0.033)
+(0.042)
+(0.042)
+(0.027)
+Laid Oﬀ
+−0.023
+0.047
+0.034
+−0.053
+(0.032)
+(0.043)
+(0.043)
+(0.030)
+Voted
+−0.071∗
+0.033
+−0.055
+−0.096∗
+(0.034)
+(0.054)
+(0.044)
+(0.033)
+Far Left
+0.023
+−0.016
+−0.137∗
+−0.175∗
+(0.047)
+(0.057)
+(0.062)
+(0.041)
+Left
+0.004
+−0.011
+−0.086
+−0.111∗
+(0.047)
+(0.053)
+(0.058)
+(0.040)
+Right
+−0.025
+−0.082
+−0.016
+0.117∗
+(0.038)
+(0.053)
+(0.054)
+(0.039)
+Far Right
+−0.039
+−0.086
+−0.128
+0.103∗
+(0.039)
+(0.052)
+(0.067)
+(0.045)
+Support Intervention
+0.005
+−0.049∗
+0.015
+−0.025∗
+(0.014)
+(0.014)
+(0.021)
+(0.012)
+Support Redistribution
+−0.004
+−0.001
+−0.018
+−0.025∗
+(0.011)
+(0.014)
+(0.016)
+(0.012)
+Belief in Government Intentions
+0.009
+0.012
+0.010
+0.002
+(0.008)
+(0.011)
+(0.015)
+(0.010)
+Belief in Government Competence
+0.008
+−0.014
+−0.007
+−0.006
+(0.009)
+(0.012)
+(0.015)
+(0.010)
+Empathy
+−0.021
+−0.021
+−0.011
+−0.006
+(0.017)
+(0.022)
+(0.022)
+(0.017)
+R2
+0.045
+0.039
+0.048
+0.117
+Adj. R2
+0.021
+0.004
+−0.001
+0.098
+Num. obs.
+1164
+821
+595
+1372
+21
+
+=== page 22 ===
+Table A13: The Causal Eﬀects of Justiﬁcation Strategies on Support for Austerity,
+by Country, with Weights. The table reports coeﬃcients from a linear probability model.
+The dependent variable is an indicator variable that takes the value one if an individual prefers
+spending cuts over ﬁscal stimulus and zero otherwise. The Increase Revenue condition serves
+as the reference group. Robust standard errors reported in parentheses. ∗p < 0.05.
+France
+Greece
+Italy
+Spain
+United Kingdom
+(Intercept)
+0.876∗
+0.592∗
+0.770∗
+0.670∗
+0.484∗
+(0.014)
+(0.034)
+(0.021)
+(0.022)
+(0.027)
+Conﬁdence
+−0.013
+0.032
+0.075∗
+−0.052
+−0.023
+(0.019)
+(0.049)
+(0.027)
+(0.033)
+(0.039)
+Household
+0.012
+0.055
+0.070∗
+0.025
+0.076∗
+(0.018)
+(0.048)
+(0.027)
+(0.031)
+(0.038)
+Common Sense
+−0.010
+0.035
+0.000
+0.009
+0.117∗
+(0.019)
+(0.046)
+(0.030)
+(0.031)
+(0.038)
+Morality
+0.004
+0.064
+0.033
+−0.015
+0.047
+(0.018)
+(0.045)
+(0.028)
+(0.032)
+(0.039)
+R2
+0.001
+0.002
+0.007
+0.003
+0.010
+Obs.
+3886
+2013
+3473
+3471
+2009
+22
+
+=== page 23 ===
+Table A14: The Causal Eﬀects of Justiﬁcation Strategies on Support for Austerity
+Controlling for Pre-Treatment Preferences, by Country, with Weights. The table
+reports coeﬃcients from a linear probability model. The dependent variable is an indicator
+variable that takes the value one if an individual prefers spending cuts over ﬁscal stimulus
+and zero otherwise. The Increase Revenue condition serves as the reference group. Robust
+standard errors reported in parentheses. ∗p < 0.05.
+France
+Greece
+Italy
+Spain
+UK
+(Intercept)
+0.560∗
+0.264∗
+0.442∗
+0.279∗
+0.188∗
+(0.023)
+(0.032)
+(0.027)
+(0.023)
+(0.025)
+Conﬁdence
+−0.015
+−0.011
+0.073∗
+−0.037
+−0.044
+(0.016)
+(0.042)
+(0.026)
+(0.027)
+(0.034)
+Household
+0.012
+0.045
+0.082∗
+0.031
+0.032
+(0.017)
+(0.040)
+(0.025)
+(0.026)
+(0.031)
+Common Sense
+−0.012
+0.017
+0.002
+0.004
+0.061
+(0.017)
+(0.038)
+(0.027)
+(0.026)
+(0.032)
+Morality
+−0.005
+0.048
+0.056∗
+0.005
+0.007
+(0.016)
+(0.037)
+(0.025)
+(0.025)
+(0.032)
+Pre-Treatment Pro-Austerity
+0.400∗
+0.577∗
+0.426∗
+0.602∗
+0.554∗
+(0.020)
+(0.026)
+(0.023)
+(0.019)
+(0.021)
+R2
+0.238
+0.345
+0.220
+0.378
+0.305
+Obs.
+3886
+2013
+3473
+3471
+2009
+23
+
+=== page 24 ===
+Table A15: The Causal Eﬀects of Justiﬁcation Strategies on Support for Austerity
+Controlling for Pre-Treatment Preferences (Anti/Pro), by Country, with Weights.
+The table reports coeﬃcients from a linear probability model. The dependent variable is an
+indicator variable that takes the value one if an individual prefers spending cuts over ﬁscal
+stimulus and zero otherwise. The Increase Revenue condition serves as the reference group.
+Robust standard errors reported in parentheses. ∗p < 0.05.
+France Anti
+France Pro
+Greece Anti
+Greece Pro
+Italy Anti
+Italy Pro
+Spain Anti
+Spain Pro
+UK Anti
+UK Pro
+(Intercept)
+0.570∗
+0.958∗
+0.258∗
+0.846∗
+0.389∗
+0.884∗
+0.260∗
+0.891∗
+0.189∗
+0.741∗
+(0.046)
+(0.009)
+(0.045)
+(0.037)
+(0.048)
+(0.021)
+(0.036)
+(0.020)
+(0.033)
+(0.031)
+Conﬁdence
+−0.110
+0.010
+0.029
+−0.035
+0.214∗
+0.031
+−0.050
+−0.029
+−0.026
+−0.058
+(0.064)
+(0.011)
+(0.069)
+(0.053)
+(0.068)
+(0.026)
+(0.050)
+(0.031)
+(0.050)
+(0.046)
+Household
+0.104
+−0.013
+0.062
+0.033
+0.180∗
+0.050∗
+0.105∗
+−0.010
+0.004
+0.050
+(0.061)
+(0.013)
+(0.066)
+(0.049)
+(0.067)
+(0.025)
+(0.052)
+(0.028)
+(0.048)
+(0.041)
+Common Sense
+−0.027
+−0.008
+−0.002
+0.029
+0.033
+−0.006
+0.025
+−0.007
+0.080
+0.051
+(0.066)
+(0.013)
+(0.066)
+(0.046)
+(0.067)
+(0.029)
+(0.052)
+(0.028)
+(0.054)
+(0.041)
+Morality
+−0.041
+0.003
+0.050
+0.046
+0.068
+0.057∗
+0.017
+−0.000
+−0.008
+0.017
+(0.064)
+(0.012)
+(0.062)
+(0.045)
+(0.066)
+(0.024)
+(0.052)
+(0.027)
+(0.045)
+(0.044)
+R2
+0.021
+0.002
+0.003
+0.007
+0.027
+0.008
+0.013
+0.001
+0.008
+0.008
+Obs.
+819
+3067
+830
+1183
+987
+2486
+1424
+2047
+820
+1189
+24
+
+=== page 25 ===
+Table A16: Austerity Package Proﬁles
+Italy
+Spain
+Greece
+Time frame
+2009-2014
+2009-2014
+2009-2014
+Defense Spending Cuts
+10.0
+0.0
+5.0
+Education Spending Cuts
+10.0
+5.0
+0.0
+Welfare Spending Cuts
+10.0
+5.0
+0.0
+Public Sector Job Cuts
+10.0
+5.0
+20.0
+Pension Cuts
+10.0
+5.0
+20.0
+Income Tax Increase
+0.0
+5.0
+0.0
+Sales Tax Increase
+20.0
+0.0
+20.0
+Corporate Tax Increase
+0.0
+0.0
+0.0
+Sources: “Austerity Measures in the EU – A Country by Country Table”, https://www.europeaninstitute.
+org/index.php/112-european-affairs/special-g-20-issue-on-financial-reform/
+1180-austerity-measures-in-the-eu; “EU austerity drive country by country” (BBC News, 21 May
+2012, https://www.bbc.com/news/10162176; “Fiscal Austerity in Europe Doesn’t Mean Large Spending
+Cuts” (Rugy, Veronique de, 2012, Mercatus Center–George Mason University), and Alesina et al. (2014).
+25
+
+=== page 26 ===
+Table A17: The Eﬀects of Party Endorsements by Ideological Distance from Endors-
+ing Party on Austerity Package Support, by Country. The table reports coeﬃcients
+from a linear probability model. The dependent variable is the dichotomized rating variable
+which equals one if a proposal received a score of 6 or higher on a scale from “vote deﬁnitely
+against” (1) to “vote deﬁnitely in favor (10)”. ∗p < 0.05.
+Italy
+Spain
+(Intercept)
+0.476∗
+0.443∗
+(0.035)
+(0.031)
+Distance from Endorsing Party: (0,1]
+−0.174∗
+−0.121∗
+(0.064)
+(0.038)
+Distance from Endorsing Party: (1,2]
+−0.136∗
+−0.115∗
+(0.037)
+(0.034)
+Distance from Endorsing Party: (2,3]
+−0.065
+−0.106∗
+(0.041)
+(0.034)
+Distance from Endorsing Party: (3,4]
+−0.164∗
+−0.146∗
+(0.046)
+(0.036)
+Distance from Endorsing Party: (4,7]
+−0.157∗
+−0.235∗
+(0.041)
+(0.046)
+Center
+0.034
+0.040
+(0.050)
+(0.063)
+Right
+0.140∗
+0.070
+(0.043)
+(0.048)
+Distance (0,1] * Center
+0.063
+−0.135
+(0.083)
+(0.074)
+Distance (1,2] * Center
+0.008
+0.029
+(0.055)
+(0.072)
+Distance (2,3] * Center
+−0.049
+−0.100
+(0.067)
+(0.070)
+Distance (3,4] * Center
+0.037
+−0.014
+(0.063)
+(0.076)
+Distance (4,7] * Center
+0.113
+0.067
+(0.073)
+(0.085)
+Distance (0,1] * Right
+0.022
+−0.039
+(0.073)
+(0.062)
+Distance (1,2] * Right
+−0.011
+0.028
+(0.048)
+(0.053)
+Distance (2,3] * Right
+−0.130∗
+0.047
+(0.058)
+(0.059)
+Distance (3,4] * Right
+0.034
+−0.014
+(0.058)
+(0.057)
+Distance (4,7] * Right
+−0.067
+0.014
+(0.053)
+(0.062)
+R2
+0.024
+0.023
+Adj. R2
+0.022
+0.021
+Num. obs.
+7720
+7210
+∗p < 0.05
+26
+
+=== page 27 ===
+V.
+Supplementary Figures
+Supplementary Figures A1 - A24 are contained in a separate online appendix document avail-
+able on the American Political Science Review Dataverse: https://doi.org/10.7910/DVN/
+JH5UU8.
+27
+
+=== page 28 ===
+References
+Alesina, Alberto, Omar Barbiero, Carlo Favero, Francesco Giavazzi and Matteo Paradisi. 2014.
+“Austerity in 2009-2013.”.
+Egami, Naoki and Kosuke Imai. 2019. “Causal interaction in factorial experiments.” Journal
+of the American Statistical Association 114(526):529–540.
+Horiuchi, Yusaku, Daniel M Smith and Teppei Yamamoto. 2018. “Measuring voters’ multidi-
+mensional policy preferences with conjoint analysis: Application to Japan’s 2014 election.”
+Political Analysis 26(2):190–209.
+Ratkovic, Marc and Dustin Tingley. 2017. “Sparse Estimation and Uncertainty with Applica-
+tion to Subgroup Analysis.” Political Analysis 25(1):1–40.
+28

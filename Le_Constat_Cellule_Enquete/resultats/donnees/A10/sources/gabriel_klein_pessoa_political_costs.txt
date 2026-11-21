@@ -1,0 +1,3285 @@
+
+=== page 1 ===
+ 
+ 
+
+=== page 2 ===
+ 
+
+=== page 3 ===
+The Political Costs of Austerity∗
+Ricardo Duque Gabriel†
+Mathias Klein‡
+Ana Sofia Pessoa§
+University of Bonn and NBER
+Sveriges Riksbank
+University of Bonn
+August 10, 2023
+Abstract
+Using a novel regional database covering over 200 elections in several European countries,
+this paper provides new empirical evidence on the political consequences of fiscal consoli-
+dations. To identify exogenous reductions in regional public spending, we use a Bartik-type
+instrument that combines regional sensitivities to changes in national government expendi-
+tures with narrative national consolidation episodes. Fiscal consolidations lead to a signifi-
+cant increase in extreme parties’ vote share, lower voter turnout, and a rise in political frag-
+mentation. We highlight the close relationship between detrimental economic developments
+and voters’ support for extreme parties by showing that austerity induces severe economic
+costs through lowering GDP, employment, private investment, and wages. Austerity-driven
+recessions amplify the political costs of economic downturns considerably by increasing dis-
+trust in the political environment.
+JEL classification: D72, E62, H53.
+Keywords: Fiscal policy, Austerity, Voting behavior, Political economy.
+∗We are grateful to the editor Olivier Coibion and to three anonymous referees for many valuable comments. We thank Niklas Amberg,
+Francesco Bianchi, Thiemo Fetzer, Espen Moen, Gisle Natvik, Oskar Nordstr¨om Skans, Erik ¨Oberg, Evgenia Passari, Romain Ranci`ere, Paolo
+Surico, Ulf S¨oderstr¨om, Leif Anders Thorsrud, Karl Walentin, Francesco Zanetti, Xin Zhang, and participants at seminars at Uppsala University,
+University of Bonn, University of Cyprus, University of Naples Federico II and Sveriges Riksbank, and at the 5th International Conference on The
+Political Economy of Democracy and Dictatorship and The Politics of In equality Conference for their valuable comments and discussions. We
+also thank Hyein Jeong for her excellent research assistance. We acknowledge financial support from the Fundac¸˜ao para a Ciˆencia e Tecnologia
+[projects references SFRH/BD/144581/2019 and SFRH/BD/144820/2019] the Deutsche Forschungsgemeinschaft (German Research Foundation)
+under Germany’s Excellence Strategy [EXC 2126/1 - 390838866] and under the RTG 2281 - The Macroeconomics of Inequality. The opinions
+expressed in this article are the sole responsibility of the authors and should not be interpreted as reflecting the views of Sveriges Riksbank.
+†Bonn Graduate School of Economics and Department of Economics, University of Bonn, ricardofilipeduquegabriel@gmail.com.
+‡Sveriges Riksbank, Monetary Policy Department - Research, SE-103 37 Stockholm, Sweden, mathias.klein@riksbank.se.
+§Bonn Graduate School of Economics and Department of Economics, University of Bonn, sofia.pessoa@uni-bonn.de.
+
+=== page 4 ===
+1
+Introduction
+Anti-establishment and EU-skeptic parties have gained significant support since the Great
+Recession and the subsequent European Sovereign Debt Crisis. Higher vote shares for these
+parties have increased partisan conflict and led to more fragmented parliaments. The resultant
+polarized political environment is economically significant, as political tension is generally asso-
+ciated with higher policy uncertainty and lower economic growth (Azzimonti 2011, 2018; Funke
+et al. 2020; Carozzi et al. 2022). Interestingly, the rise in support for extreme parties occurred
+in a period of significant fiscal policy interventions. In particular, several European countries
+have implemented large-scale fiscal consolidation measures to reduce high levels of public debt,
+thereby averting the risk of sovereign default. The massive reductions in public spending faced
+significant opposition and resulted in an anti-austerity movement. In this paper, we empirically
+investigate the causal link between fiscal consolidations and rising polarization and provide new
+evidence on the political costs of fiscal austerity.
+To this end, we assemble a novel regional dataset on election outcomes that provides detailed
+voting results on regional, national, and European elections. We combine data from Schakel
+(2013) with information from various national and regional sources. Our final dataset covers 124
+European regions from 8 countries and spans from 1980 to 2015. We collect data on more than 200
+elections; roughly 20 elections per region and, on average, one election every two years. Thus, our
+dataset provides considerable granular variation in election outcomes for estimating the causal
+effect of fiscal consolidations on voting behavior. We rely on party classifications by Funke et al.
+(2016) and Algan et al. (2017) to define parties at the far-right and far-left of the political spectrum.
+Our data supports the main narrative of a significant correlation between fiscal consolidations
+and extreme voting. In particular, we find a strong increase in extreme parties’ vote share across
+European regions in the years after the Great Recession and the Sovereign Debt Crisis.
+To test for the causal relationship between austerity and voting outcomes, we identify exoge-
+nous changes in regional public spending using a Bartik-type instrument (Bartik 1991) that com-
+bines regional sensitivities to changes in national government expenditures with the narrative
+1
+
+=== page 5 ===
+national consolidation measure proposed by Alesina et al. (2020). The narrative series contains
+only those changes in the national primary balance-to-GDP ratio that are motivated by a desire to
+reduce budget deficits. The identified fiscal actions represent responses to past decisions and eco-
+nomic conditions rather than to current and prospective conditions. Therefore, there should be
+no systematic correlation between the identified national fiscal actions and other developments
+that affect economic activity in the short term. This narrative approach has been used in several
+studies to gauge the economic effects of fiscal consolidations at the national level (Guajardo et al.
+2014; Jord`a and Taylor 2016; Alesina et al. 2019). In contrast to these approaches, we use the
+narrative series as the shift component in a Bartik instrument to identify exogenous reductions
+in government spending at the regional level. We further employ an instrumental variable local
+projections approach to estimate the causal effect of reductions in regional public spending on
+election outcomes. Importantly, our Bartik measure provides a strong instrument for regional
+government spending reductions, with a first-stage F-statistic well above the critical threshold,
+suggesting that weak instruments are unlikely to be a concern for our analysis.
+Our results show that fiscal consolidations are associated with significant political costs: a 1%
+reduction in regional public spending leads to an increase in extreme parties’ vote share of around
+3 percentage points. The higher vote share captured by extreme parties coincides with a fall in
+voter turnout together with an increase in the total votes for these parties. Thus, in response to
+fiscal consolidations, fewer people vote and those who do, exhibit a higher tendency to vote for ex-
+treme parties. In addition, austerity increases fragmentation, which, based on previous evidence
+on the negative economic impact of partisan conflict (Azzimonti 2011; Funke et al. 2020), suggests
+that austerity affects economic outcomes through a more polarized political environment. We use
+a forecast error variance decomposition (FEVD) exercise to quantify the magnitude of regional
+cuts in public spending in driving more extreme voting. Our results suggest that around 6% of
+the variation in extreme parties’ vote share is indeed due to fiscal consolidations, which further
+highlights the importance of austerity in understanding shifts in voters’ preferences toward the
+more extreme ends of the political spectrum.
+2
+
+=== page 6 ===
+We conduct a battery of robustness checks to verify our findings. The results still hold for
+different samples and also remain unaffected when changing the construction of the national
+austerity measure or the share variable of the Bartik instrument. Notably, the rise in extreme
+parties’ vote share to fiscal consolidations persists when dropping the Great Recession period
+and the subsequent years of the European Debt Crisis, which makes us confident that the political
+costs of austerity are not merely driven by the extreme events in the recent past but describe a
+general pattern in the data.
+When differentiating between election types and far-left and far-right parties, we find only
+mild differences in political outcomes. While austerity leads to the largest shift toward extreme
+parties for regional elections, the movement away from more traditional parties is also present for
+national and European elections. Moreover, although both extremes gain vote shares as a result of
+fiscal consolidations, far-right parties experience a slightly stronger rise in voters’ support. We
+further test for potentially important state dependencies and find that the increase in extreme
+parties’ vote share is larger when the fiscal consolidation is implemented during a recession as
+opposed to a period of expansion. In addition, the effects are somewhat stronger in rural and
+poor regions. The political costs of austerity also significantly depend on the political leaning of
+the party implementing the consolidation measure. We find that the increase in extreme voting
+is much larger when the consolidation is implemented by a centre-left government. In contrast,
+the effect is barely significant when centre-right parties cut public spending.
+To rationalize our main findings on the political consequences of austerity, we also estimate
+the economic effects of fiscal consolidations at the regional level. Austerity leads to a significant
+fall in regional output, employment, investment, durable consumption, and wages. Furthermore,
+the reduction in public spending lowers the labor income share thereby inducing a redistribution
+of income away from working households. These contractionary effects of austerity support pre-
+vious evidence on the economic impact of fiscal consolidations conducted at the national level
+(Guajardo et al. 2014; Jord`a and Taylor 2016). Moreover, these findings highlight the close rela-
+tionship between detrimental economic developments and voters’ support for extreme parties.
+3
+
+=== page 7 ===
+Finally, we try to understand whether austerity-driven recessions yield different political
+outcomes than general economic downturns do. We differentiate between recessions that co-
+incide with fiscal consolidations (“austerity recessions”) and those not related to austerity (“non-
+austerity recessions”) and estimate the response of extreme parties’ vote share in both episodes
+of economic slack. Our estimates imply that austerity recessions lead to a significantly larger
+increase in the vote share for extreme parties than other recessions. In addition, in a recession
+that coincides with a fiscal consolidation, a reduction in regional government spending implies
+a larger increase in extreme voting compared to lowering public spending in non-austerity re-
+cessions. We relate this result to a potential trust channel of fiscal consolidations by showing
+that people’s trust in the government deteriorates much more strongly during austerity reces-
+sions compared to non-austerity recessions. This might point toward a “doom loop” between
+distrust in the political system and more extreme voting following fiscal consolidations. In sum,
+austerity-driven recessions are special in the sense that they considerably amplify the political
+costs of economic downturns by creating more distrust in the political environment.
+Related literature.
+Our paper is related to several strands of literature. We mainly contribute
+to a growing body of work on the economic drivers of populism. Guriev (2018), Guiso et al.
+(2019, 2020), Berman (2021), Baccini and Sattler (2021) and Guriev and Papaioannou (2022) pro-
+vide a good overview on the causes of populism in Europe and other advanced economies by
+analyzing both demand- and supply-side explanations of populism and focusing on economic
+grievance–based explanations. Regarding right-wing populism, the usual economic explanations
+focus on how globalization and trade integration have generated discontent and division among
+citizens by making life more insecure for the working and middle classes (Colantone and Stanig
+2018; Rodrik 2020; Pastor and Veronesi 2021). On the other hand, left-wing populism seems to be
+more related to specific economic considerations coming from neoliberalism and economic poli-
+cies. In particular, the left-wing rise after the Great Recession in Europe was fueled by massive
+anti-austerity movements in Greece (Stavrakakis and Katsambekis 2014), Portugal (Accornero
+4
+
+=== page 8 ===
+and Ramos Pinto 2015), and other European countries (Calossi 2016; Della Porta et al. 2017).
+Focusing on austerity, there are several papers worth mentioning. Ponticelli and Voth (2020)
+use a panel dataset for 25 European countries covering the period 1919 to 2008 to show a clear
+link between the magnitude of expenditure cutbacks and increases in social unrest. Focusing
+on the “age of austerity” in the UK, Bray et al. (2022) show that for each £100 loss per working
+age adult, racially or religiously motivated crimes rose by approximately 5-6% between 2013 and
+2015. In contrast to both of these papers, we investigate how austerity affects voting behaviour
+and provide robust evidence that fiscal consolidations significantly increase extreme parties vote
+share.
+In addition, H¨ubscher et al. (2021b) presents survey evidence that in Germany, Spain, Portugal,
+and Italy a government’s re-election chances greatly decrease if it proposes austerity measures
+with voters objecting strongly to spending cuts, while Alesina et al. (2021) argue that an austerity
+package worth 1% of GDP reduces the vote share of the leader’s party by about 7%. These find-
+ings materialize the idea that austerity-fueled social unrest contributed to a feeling of disconnect
+from the established political parties and institutions and encouraged voters to support more ex-
+treme policy positions or engage in protest voting (Myatt 2017; Panunzi et al. 2020; H¨ubscher
+et al. 2021a). We add to this literature by testing the hypothesis on the link between austerity,
+distrust in the government, and more extreme voting. In particular, we show that trust in the
+government significantly falls in response to a fiscal consolidation and even much stronger than
+in normal economic recessions which indeed supports the idea that the trust channel is important
+to understand voters movements towards more extreme parties.
+We also contribute to the literature evaluating the economic effects of fiscal policy, and, in par-
+ticular, the effects of narratively identified austerity episodes (Devries et al. 2011; Guajardo et al.
+2014; Alesina et al. 2015; Jord`a and Taylor 2016; Alesina et al. 2018, 2020). Our main contribution
+is the evaluation of the economic costs of austerity at the regional level by combining regional
+government spending data with narratively identified spending-based austerity measures at the
+national level.
+5
+
+=== page 9 ===
+The closest related work to our study are the papers by Fetzer (2019); Galofr´e-Vil`a et al. (2021).
+Fetzer (2019) shows that austerity-induced welfare reforms in the UK led to a rise in support for
+the UK Independent Party and for Leave in the referendum on European Union membership.
+Galofr´e-Vil`a et al. (2021) study the link between fiscal austerity and Nazi electoral success and
+find that areas more affected by austerity had relatively higher vote shares for the Nazi Party.
+However, our analysis differs in several important dimensions compared to these studies. First,
+while Fetzer (2019) and Galofr´e-Vil`a et al. (2021) each focus on one single country (UK and Ger-
+many) and particular voting episodes, we provide novel evidence spanning 8 European countries
+on the severe political costs of austerity. The significant time and cross-sectional variation that
+we use enables us to investigate the relationship between extreme voting and austerity without
+relying on unique voting events like the Brexit vote or the rise of the Nazi party in the turbulent
+years before World War II and allows further quantification of the economic significance of fiscal
+consolidations in explaining extreme voting. Second, our detailed election and party classifica-
+tions permit us to undertake an in-depth analysis on potentially significant differences across
+European, national, and regional elections and between extreme parties on the left and right. Im-
+portantly, whereas Fetzer (2019) and Galofr´e-Vil`a et al. (2021) study the voting results of particular
+far right parties (UKIP and NSDAP), we find that austerity explains a larger share in the variation
+of left-extreme parties compared to right-extreme ones. Third, we also provide a thorough in-
+vestigation on the economic costs of austerity and thus highlight the close relationship between
+economic developments and voters’ support for extreme parties. Finally, we combine our election
+outcomes with detailed survey data and show that the political costs of economic downturns are
+considerably amplified during austerity-fueled recessions because electors decrease their trust
+levels towards the government.
+The remainder of the paper is organized as follows. Section 2 describes the economic and
+political data used in the analysis. Section 3 presents the empirical methodology and discusses
+the identification strategy. Section 4 shows our empirical results. Finally, Section 5 concludes.
+6
+
+=== page 10 ===
+2
+Data
+In our analysis, we draw on a broad set of annual data covering the period from 1980 to 2015
+for 124 regions in eight European countries: Austria, Finland, France, Germany, Italy, Portugal,
+Spain, and Sweden. In the following, we describe the main variables used in our analysis. Ta-
+ble A.1 in the Appendix provides more information on the regional structure and A.2 provides
+additional information regarding data definitions and sources.
+2.1
+Economic data
+To measure regional economic developments, we rely on data from the Annual Regional
+Database of the European Commission’s Directorate General for Regional and Urban Policy
+(ARDECO), which is a highly disaggregated dataset across sectoral and regional dimensions. The
+database contains several long time-series indicators for European regions at different statisti-
+cal scales and expands the Cambridge Econometrics Dataset used by much of the literature on
+European regional dynamics.
+The database provides regional measures for output (gross domestic product (GDP) and gross
+value added (GVA)), investment, earnings, hours worked, and employment for different economic
+sectors like industry, construction, financial, non-financial, and non-market services. The dataset
+is an annual panel covering the period 1980–2017 for the European Union (EU) and some Eu-
+ropean Free Trade Association (EFTA) and candidate countries. By construction, ARDECO’s
+regional data is consistent with the commonly used national accounts data.1 In particular, the
+regional ARDECO time series are constructed in such a way that the country aggregates equal
+the corresponding time series in the National Accounts reported by the annual macro-economic
+database of the European Commission’s Directorate General for Economic and Financial Affairs
+(AMECO).2
+The data are divided into NUTS (Nomenclature of Territorial Units for Statistics) regions.
+1See Lequiller and Blades (2014) for more details on the construction of the National Accounts data.
+2See Gabriel et al. (2023) and Appendix A.1 for more information.
+7
+
+=== page 11 ===
+NUTS is a geocode standard for referencing the subdivisions of countries for statistical purposes.
+The hierarchy of three NUTS levels (NUTS 1, 2, 3) is established by Eurostat in agreement with
+each member state, and for most countries the respective NUTS level corresponds to a specific
+administrative division within the country. ARDECO provides all data series at these regional
+disaggregation levels except for NUTS 3, for which it reports only population, employment, GDP,
+and GVA.
+Official data on final consumption expenditure of the general government (henceforth, gov-
+ernment spending) is not available at the European regional level. Hereinafter, in the spirit of
+Brueckner et al. (2022) and closely following Gabriel et al. (2023), we use the sum of GVA and
+intermediate consumption of the non-market sector as a proxy for government spending. GVA
+of the non-market sector is computed as the sum of compensation to employees (including social
+contributions), consumption of fixed capital (which measures the decline in the value of fixed as-
+sets owned as a result of normal wear, tear, and obsolescence), and taxes less subsidies on produc-
+tion. Because GVA of the non-market sector does not include intermediate consumption, which
+is, however, one of the main components of government spending, we use input-output (IO) ta-
+bles from the PBL EUREGIO database to calculate regional intermediate consumption shares of
+the non-market sector, which we then add to the GVA of the non-market sector.
+Our regional measure (GVA plus intermediate consumption of the non-market sector) is a
+valid proxy for government spending for several reasons. First, as previously mentioned, ARDECO’s
+regional data is consistent with the national accounts data by construction. By definition, there
+exists a close link between government spending and the GVA of the non-market sector. Con-
+sequently, almost the entire variation in the GVA of the non-market sector refers to activities
+by the general government. Second, government spending and our proxy measure show very
+similar statistical properties. Both measures are very tightly linked—regressions at the national
+and regional level suggest a strong and significant relationship between both measures with esti-
+mated coefficients close to 1. We will thus refer to our regional proxy for government spending as
+government spending throughout the paper. More details on the justification of our proxy choice
+8
+
+=== page 12 ===
+are given in Appendix A.2.
+2.2
+Narrative austerity episodes
+Our data for narrative fiscal consolidations comes from Alesina et al. (2020) and spans from
+1978 to 2014.3 Building on Devries et al. (2011) and Alesina et al. (2015), Alesina et al. (2020)
+address the potential endogeneity of shifts in fiscal variables using the “narrative” approach in
+the spirit of Romer and Romer (2010) and carefully dividing variables into spending- and tax-
+based consolidations.
+The measure is constructed by examining contemporaneous OECD policy documents that
+outline the economic situation, fiscal consolidation strategy, and major consolidation measures
+for each of the OECD member countries. The country notes in each report are used to iden-
+tify “exogenous” consolidations as they lay out the government’s rationale for pursuing fiscal
+adjustment. To be precise, it is possible to identify consolidation periods that were motivated
+by a desire for deficit reduction, meant to correct its long-run trend, or driven by other motives
+unrelated to the state of the business cycle, thus excluding adjustments connected to short-run,
+countercyclical concerns. Consolidations are measured in terms of their impact on total revenue
+and expenditure (relative to a baseline without policy intervention) and scaled by the output level
+prior to the intervention announcement.
+The main advantage of identifying fiscal consolidations via the narrative measure, compared
+to changes in the cyclically-adjusted primary balance (CAPB) as suggested by Alesina and Ardagna
+(2010), is that they are exogenous to current economic developments while changes in the CAPB
+are correlated with the business cycle. Guajardo et al. (2014) show that there is a significant
+positive correlation between GDP forecast revisions and changes in the CAPB, whereas the null
+hypothesis of no correlation between forecast revisions and the narrative measure cannot be
+rejected.
+Alesina et al. (2020) classify as spending-based consolidations all measures related to govern-
+3Data can be found here.
+9
+
+=== page 13 ===
+ment spending and investment, including expenditure on goods and services, salaries, managing
+costs of state-provided services (such as education and healthcare), and government gross fixed
+capital formation expenditures. Regarding tax-based consolidations, they account for all direct
+and indirect tax changes.
+Throughout the paper, the narratively identified austerity episodes at time t in country I (˜gI,t)
+measure only spending-based consolidations, excluding episodes driven by significant changes in
+the tax system. The regional government spending proxy used in the analysis does not include tax
+revenues and mainly encompasses the public wage bill and, to a lesser extent, the consumption of
+fixed capital and intermediate consumption. Therefore, excluding consolidation episodes driven
+by significant changes in the tax system allows for a stronger and clearer relationship between
+the narrative national austerity episodes and the regional government spending measures.4
+Following the definition in Devries et al. (2011), we construct ˜gI,t as the sum of unanticipated
+shifts in government spending at time t (gu
+I,t) and changes in spending that are implemented at
+time t but had been announced in previous periods (ga
+I,t−1,t):
+˜gI,t = gu
+I,t + ga
+I,t−1,t.
+(1)
+For our sample, we observe 90 consolidation episodes and 5 reversals of consolidation, which
+is roughly one-third of all country-year observations. The consolidation episodes are expressed
+relative to GDP. The mean (median) consolidation amounts to 0.86% (0.73%) of GDP. The largest
+intervention by 3.75% of GDP occurred in Portugal in 2012 during the Sovereign Debt Crisis. Fig-
+ure C.1 in the Appendix presents the individual austerity episodes for each country. We can see
+that there is no apparent difference in the number of episodes between European Northern (Aus-
+tria, Finland, France, Germany, and Sweden) and Southern (Italy, Portugal, and Spain) countries.
+There were 40 episodes in the South and 50 in the Northern regions of our sample.
+As described in more detail below, we combine the narrative consolidation episodes at the
+4For the identification strategy described in section 3, focusing on spending-based fiscal adjustments implies
+maximizing the link between the exogenous shift variable and the outcome variable of the first-stage regression.
+10
+
+=== page 14 ===
+country level with regional sensitivities to changes in national spending to get an instrument for
+an exogenous fall in regional government spending that varies across time and regions. We also
+show that our results are hardly affected when only considering the unexpected component of
+the fiscal consolidation measure (gu
+I,t).5
+2.3
+Election data
+One main contribution of our paper consists in assembling a new comprehensive dataset
+on regional election outcomes. This new dataset, encompassing the years from 1980 to 2015,
+includes detailed information on elections to the European and national parliaments and also
+non-nationwide (regional or local) elections. The data is harmonized such that for each election
+the dataset provides the valid votes and eligible voters as well as the number of votes for each
+party at the NUTS 2 level.
+The information on the votes cast in each election at the regional level comes from different
+sources. Part of our data comes from the “Regional Elections” project (Schakel 2013). There, we
+collect data for European, national, and regional election results disaggregated at the NUTS 2 level
+for five out of the eight countries in our sample (Austria, France, Italy, Spain, and Sweden). We
+extend this data by collecting information from national sources to include election outcomes for
+the most recent years. For the remaining countries (Finland, Portugal, and Germany), the election
+data was collected from national sources. All sources are listed in Appendix B.
+Altogether, we collected information on more than 200 elections, which results in roughly 20
+elections per region and, on average, one election every two years. The final dataset comprises a
+total of 2,890 election observations, from which 1,157 belong to national elections, 937 to regional
+elections, and 796 to European elections. For the baseline analysis, we use the full extent of the
+dataset and study the evolution of political outcomes over time and across election types. In the
+event of two or more elections in one year (e.g., in 2009, when all national, regional, and European
+elections look place in Portugal), we aggregate all elections by assigning the same weight to each
+5When using, like Alesina et al. (2020), long-term fiscal spending plans as the austerity measure, i.e., additionally
+including spending shifts announced at time t to be implemented in the future, our results only change slightly.
+11
+
+=== page 15 ===
+individual vote. Following this approach, 2,380 election observations are used in the empirical
+analysis.6
+Based on the raw election data, we then group the votes along several dimensions. The most
+important one relies on adding together votes for the far-left or the far-right. To categorize par-
+ties as far left or far right, we rely on the existing economic and political science literature and
+follow, among others, Massetti and Schakel (2015); Funke et al. (2016); Algan et al. (2017). In the
+spectrum of far-left parties, we include all parties that take up traditional Marxist-Leninist and/or
+communist positions, such as following an anti-capitalist ideology. On the far-right, we include
+parties of the “New Right” that present a moderate tone when referring to their ethnocentric and
+nationalistic views but nevertheless lie in the gray area between far-right extremism and right-
+wing populism (Funke et al. 2016). Importantly, we should emphasize that far-right parties are
+not shy about using anti-austerity narratives to capture votes (Della Porta et al. 2017). Following
+Massetti and Schakel (2015) and Algan et al. (2017), we also focus on populist parties that usually
+lie on the EU-skeptic spectrum or have strong regionalism views with suggested policies tilting
+to one of the extremes, with the latter being fundamental to keep some consistency between
+(supra-)national and regional elections. Tables B.1, B.2, and B.3 in the Appendix provide further
+details and present the list of parties that are classified as either far left or far right.
+2.4
+A first look at the data
+Figure 1 gives a first impression of the data and the relationship between vote shares for
+extreme parties and implemented fiscal consolidation programs. It shows the evolution of vote
+shares for far-left and far-right parties across all countries and election types in the sample to-
+gether with episodes of extreme austerity indicated by the gray areas.7 The figure highlights some
+important messages. First, the vote share for extreme parties is relatively volatile with an average
+of 15% across all years and countries. Second, both extreme parties’ vote shares show strong co-
+6In section ?? below, we test for different outcomes across election types.
+7Extreme austerity episodes are defined as those periods in which the narrative fiscal consolidation measure is
+above the 70th percentile.
+12
+
+=== page 16 ===
+movement with local spikes in the mid-1990s and, most recently, in the aftermaths of the Great
+Recession and Sovereign Debt Crisis. Third, the share of extreme votes generally increases during
+large-scale austerity episodes.
+Figure 2 is not only informative about the detailed regional variation that our new dataset
+on extreme voting captures, but also suggests a strong rise in political extremism after periods
+of austerity. The figure presents the regional vote shares for extreme parties for all 124 regions
+of the sample for the years 2007 and 2015, just before the start of the Great Recession and after
+the height of the Sovereign Debt Crisis. The figure shows that more extreme voting in the recent
+past is a shared phenomenon across countries and regions. Particularly strong increases in the
+vote shares of extreme parties can be observed for regions in France, Spain, and Italy. However,
+there are also significant differences across regions within the same country. For example, while
+regions in the western and southern part of Germany show lower vote shares for extreme parties,
+voters in the eastern part favor extreme parties more strongly. In our econometric analysis, we
+will make use of the large variation in voting behavior over time and across regions. While Figure
+1 is informative about the unconditional correlation between voting for extreme parties and fiscal
+consolidations, it does not provide a causal interpretation. In the rest of the paper, we conduct a
+thorough econometric analysis to investigate whether austerity causes more extreme voting.
+3
+Methodology
+In estimating the dynamic effects of austerity on regional political and economic outcomes,
+we closely follow the econometric specification by Funke et al. (2016). To that end, we use local
+projections following the method pioneered by Jord`a (2005) and estimate, for each horizon h = 0,
+…, 4, the following equation:
+zi,t+h = αi,h + δt,h + βh
+Gi,t −Gi,t−1
+Gi,t−1
++ γh(L)Xi,t−1 + ui,t+h,
+(2)
+13
+
+=== page 17 ===
+where zi,t+h is the change in the variable of interest. More specifically, when we focus on
+political outcomes, zi,t+h = Zi,t+h −Zi,t−1 is the percentage point change of the vote share for
+the far-left and far-right parties in region i between time t−1 and time t+h. The extreme parties’
+vote share is constructed as the number of all votes for far-left and far-right parties divided by
+the number of all counted votes for a given election. The change in extreme parties vote share
+is set to zero in years with no elections. The fraction of region-year observations without elec-
+tions is 47%.8
+Gi,t−Gi,t−1
+Gi,t−1
+is the growth rate in real per capita government spending in region i
+between time t −1 and t −2. (L)Xi,t−1 is a vector of lagged control variables and αi,h are region
+fixed-effects to control for region-specific (unobserved) characteristics. δt,h are time fixed-effects
+that account for aggregate trends in both voting for extreme parties and fiscal consolidation mea-
+sures. Throughout, the vector of additional control variables includes two lags of the endogenous
+variable and two lags of regional real per capita government spending and real per capita output
+growth to account for lagged dynamics in regional economic activity and public expenditures,
+respectively. When focusing on economic outcomes in Section 4.2, zi,t+h is the growth rate of the
+variable of interest, Zi,t+h−Zi,t−1
+Zi,t−1
+, for all variables except the labor share, for which we consider
+zi,t+h to be the difference in levels, Zi,t+h −Zi,t−1. The main focus of our analysis consists of
+estimating the parameter −βh, which directly yields at horizon h, the response of the variable
+of interest to a fall in regional government spending by one percent. Throughout, we cluster the
+standard errors at the regional level.
+Estimating equation (2) directly by OLS could suffer from different endogeneity concerns.
+First, variation in government spending and voting for extreme parties might potentially react to
+another third variable. For example, changes in demand or supply could affect regional fiscal bal-
+ances and thus government spending. Any estimated relationship between regional government
+spending and extreme parties vote share will then be due to other structural disturbances than fis-
+cal consolidations which biases the estimation results. Second, there might be a reverse causality
+problem as a higher vote share for extreme parties might result in governments spending more
+8The corresponding fraction of country-year observations without elections is 39%. Notably, our main qualitative
+findings are robust to focusing the main analysis on years that do have elections.
+14
+
+=== page 18 ===
+to support groups with a higher tendency to vote for extreme parties.
+To overcome these endogeneity issues, we instrument the change in regional government
+spending with a Bartik-type instrument (Bartik 1991) where we rely on the narratively identi-
+fied spending-based austerity shocks from Alesina et al. (2020) as described in Section 2.2. In
+particular, the Bartik instrument is computed as follows:
+Gi
+GI
+× ˜gI,t,
+(3)
+where ˜gI,t is the narrative national consolidation measure as described in Section 2.2 and Gi
+and GI are averages of per capita government spending in region i and country I, respectively.
+To compute these averages, we follow Nekarda and Ramey (2011) and use data from the full
+sample to control for structural changes across regions over the sample period. Intuitively, if
+Gi
+GI
+is above 1, region i spends more per capita than the national average. This implies that a
+disproportionate amount is spent in this region compared to other regions in the country. By
+interacting these regional sensitivities with narrative accounts of national fiscal consolidation
+programs, we assume that regions that rely more heavily on public spending cut back government
+expenditures more strongly when the national government implements austerity measures. Thus,
+the idea of the instrument is to scale national fiscal consolidation plans such that spending varies
+more in regions with a larger share of per capita national government spending.
+To be precise, we estimate the following first-stage regression:
+Gi,t −Gi,t−1
+Gi,t−1
+= αi + δt + ζ Gi
+GI
+× ˜gI,t + γ(L)Xi,t−1 + ϵi,t.
+(4)
+Figure C.2 in the Appendix shows a heat map depicting the share si = Gi
+GI
+for the NUTS 2 re-
+gions used in the sample. There is considerable cross-sectional variation in this measure, ranging
+from 0.72 to 1.57. We calculate the lowest shares for Norte (Portugal, 0.72), Niederbayern (Ger-
+many, 0.74), and Nieder¨osterreich (Austria, 0.75), and the highest shares for Lazio (Italy, 1.57),
+15
+
+=== page 19 ===
+Wien (Austria, 1.52), and ´Area Metropolitana de Lisboa (Portugal, 1.43). There is only small vari-
+ation in the shares over time. When calculating time-varying shares for each region, we find that
+the average standard deviation is around 0.05. This limited time variation justifies our choice of
+constant regional shares even though the results are robust when using a time-varying measure
+of the spending share.
+Our identifying assumption is that central governments do not adopt austerity measures be-
+cause regions that receive a disproportionate amount of government spending are experiencing
+certain economic and political outcomes relative to other regions. For example, the government
+does not cut expenses because a certain region is doing better economically or because political
+polarization is not rising. This is likely for two reasons. First, the data used is disaggregated at
+the NUTS 2 level. Intuitively, the main assumption might be violated when focusing on high
+aggregation levels with only few regions within a country because politically and economically
+important regions could directly influence central government decisions.9 Second, we are using
+narrative-identified austerity shocks that are by construction not driven by economic conditions
+and primarily motivated by national budgetary motives.
+Another potential concern with our estimation strategy would arise if regions receiving large
+amounts of national spending were more cyclically sensitive than other regions and therefore
+might face stronger voter turnover for extreme parties. We use the standard deviation of output
+growth to compare the cyclical sensitivity of regions that receive large and small amounts of na-
+tional spending. The standard deviations are very similar in regions with above-median national
+spending shares and in regions with below-median national spending shares (0.034 versus 0.031),
+indicating that a divergence in overall cyclical sensitivity does not bias our results. Following
+the same approach for the election data, we find that the standard deviation of the change in
+vote share of extreme parties is similar for regions with spending above and below the national
+median (0.050 and 0.042).
+9If the difference between the variation in the instrument at the NUTS 2 and NUTS 1 is small, our assumption
+might be violated because particular NUTS 1 regions like capital regions could influence national policies. However,
+in the Appendix A.3, we show that there is a significant increase in variation when moving from the NUTS 1 to the
+NUTS 2 level which supports our identifying strategy.
+16
+
+=== page 20 ===
+As pointed out by Goldsmith-Pinkham et al. (2020), our empirical strategy using the Bartik
+instrument is valid even if the spending shares are correlated with the level of the extreme parties’
+vote share. Instead, our strategy asks whether differential exposure to national fiscal consolida-
+tions leads to differential changes in the outcome. Table C.1 in the Appendix indeed shows that
+the Bartik instrument cannot be predicted by past values of several economic, geographic, and
+political variables. In particular, we regress the instrument on the one period lagged growth rates
+in GDP, employment, household income, hours worked, population and the one period lagged
+changes in the extreme parties vote share and the labor share and the lagged value of the in-
+strument itself together with region and year fixed effects. We find that none of these lagged
+covariates are statistically significant which suggests that our instrument is orthogonal to a set
+of potential (pre-determined) confounders.
+Moreover, our data do not indicate any systematic relationship between the extreme parties
+vote share and the regional spending share. If central governments generally transfer public
+money to regions that experience a large increase in extreme voting, by the construction of the
+instrument we assume that these regions are more affected by fiscal consolidations. However, the
+instrument then becomes endogenous because the high government spending share is related to
+the voting for extreme parties. Table C.2 in the Appendix provides evidence in contrast to this
+line of reasoning. When regressing the regional spending share on the average regional increase
+in extreme voting, there is no statistically significant relationship.
+Importantly, our instrument fulfills the relevance condition. The first-stage Olea and Pflueger
+(2013) F-statistic is 40 and and thus well above the threshold of 23 for a 5% critical value, implying
+that weak instruments are not a severe concern for our analysis. In addition, Figure 3 shows the
+estimated response of regional government spending to the consolidation shock. The dark and
+light shadings are, respectively, 90% and 95% confidence bands based on robust standard errors
+clustered at the regional level. The response is normalized so that spending falls by 1% in year 0.
+We find a significant and persistent fall in regional government spending following the austerity
+shock. Two years after the shock materialized, the reduction in government spending reaches its
+17
+
+=== page 21 ===
+trough with around 1.25%. Thereafter, government spending converges back to its pre-shock level
+and the response becomes insignificant four years after the shock, which shows the transitory
+impact of our identified fiscal interventions. In what follows, we will use the estimated reduction
+in regional government spending and test whether there is a causal effect of lower public spending
+on voting for extreme parties.
+Whereas our main analysis focuses on characterizing whether austerity shocks affect voting
+behavior, below we also assess the quantitative importance of this relationship. In doing so, we
+conduct a forecast error variance decomposition (FEVD) exercise. The local projection framework
+allows computing the contribution of the austerity shocks to the forecast error variance of our
+variables of interest. First, we consider the share of the variance in the vote shares that can be
+accounted for by austerity shocks from 1980 until 2014. The fraction of the variance in the vote
+shares at different horizons accounted for by austerity shocks can be recovered directly from
+the estimates of Equation (2). This measure therefore provides a metric of the extent to which
+austerity shocks are quantitatively important in driving voting dynamics.
+We closely follow Born et al. (2020), who extend the approach by Coibion et al. (2017); Gorod-
+nichenko and Lee (2020) to a panel setting. In particular, we compute the variance share of the
+regional consolidation shock at horizon h as the R2 of the following regression:
+ˆui,t+h = λ0ˆϵi,t+h + ... + λhˆϵi,t + vi,t+h.
+(5)
+where ˆui,t+h is the forecast error of the local projection (2) at horizon h and ˆϵi,t+h are the
+(horizon-specific) predicted values of the first-stage regressions (4).
+4
+Results
+In this section, we present and discuss our main empirical findings. We start by showing that
+an exogenous fall in regional government spending leads to a significant and persistent increase
+in the vote share for antiestablishment extreme parties, lower voter turnout, and more fragmen-
+18
+
+=== page 22 ===
+tation. Moreover, we conduct a FEVD exercise to evaluate the quantitative importance of the
+identified consolidation episodes in explaining variation in voting for extreme parties. Then, we
+show that our main result is robust to several modifications of the baseline model and further de-
+compose our baseline response across several dimensions: the increase in extreme-party voting
+is rather similar across election types (regional, national, European elections) and is not being
+driven by one side of the political spectrum with both the far-left and far-right vote shares rising
+in response to austerity. We also investigate the economic consequences of fiscal consolidations
+and show that the austerity-induced decrease in regional government spending has strong re-
+cessionary effects. Taken together, these findings are consistent with the idea that voters react
+to the negative economic impact of spending-based austerity episodes by shifting their vote to-
+ward more antiestablishment and extreme parties. Finally, we differentiate between economic
+recessions driven by fiscal consolidations and economic downturns that are unrelated to auster-
+ity and show that the political costs of economic downturns are considerably amplified when
+they coincide with fiscal consolidations.
+4.1
+Political Costs
+Figure 4 presents our main result regarding the response of the vote share for extreme par-
+ties following a fiscal consolidation. The reduction in regional government spending leads to a
+significant increase in the extreme parties’ vote share. A fall in public spending by 1% raises the
+extreme parties’ vote share by more than 1.5 percentage points in the year of the fiscal policy im-
+plementation. Additionally, the vote share increase is very persistent. Two years after the shock,
+extreme parties have gained more than 2 percentage points. Even four years after the consolida-
+tion was implemented, the vote share is still more than 3 percentage points above its pre-shock
+level. Thus, austerity induces large and long-lasting political costs with voters moving away from
+more traditional parties to extreme ones.
+The documented increase in extreme voting following fiscal consolidations might be due to
+two different effects. First, holding turnout constant, if more people vote for extreme parties, their
+19
+
+=== page 23 ===
+vote share increases. Second, austerity might discourage people from participating in the ballot
+and thus lower turnout. If this effect disproportionately applies for non-extreme voters, the vote
+share of extreme parties raises even without an increase in total votes for extreme parties. To test
+whether our results are driven by one of these effects or a combination of both, we re-estimate
+Equation (2) using either the change in turnout or total votes for extreme parties, respectively,
+as the dependent variable. Turnout is computed as the number of all counted votes relative to all
+eligible votes and total votes for extreme parties is constructed as the ratio between the number
+of votes for extreme parties and the number of all eligible votes.
+Figure 5 displays the estimation results, where the left panel shows the response of voter
+turnout and the middle panel presents the impact of austerity on total votes for extreme parties.
+Voter turnout significantly falls following a reduction in regional government spending. Two
+years after the fiscal intervention, turnout is reduced by more than 2 percentage points. In ad-
+dition, the total number of votes for extreme parties significantly increases, reaching a peak of
+more than 2 percentage points at the end of the forecast horizon. Therefore, in response to fiscal
+consolidations, fewer people vote and those who do exhibit a higher tendency to vote for extreme
+parties.
+We also study the impact of fiscal consolidations on fragmentation, which we construct fol-
+lowing (Laakso and Taagepera 1979). In particular, we rely on a measure of concentration taken
+from the industrial economics literature—the Herfindahl-Hirschmann concentration index—or,
+more precisely, its complement. This is known as the Effective Number of Parties, ENP, and is
+defined as:
+ENPi,t =
+n
+X
+j=1
+p2
+j,t,
+where n is the number of parties in the election and pj is party j’s share in the total votes
+(between 0% and 100%). The lower the ENP, the higher the level of fragmentation. This measure
+takes two important dimensions of fragmentation into account: the number of parties involved
+in the decision-making process (political fragmentation) and the size inequalities between the
+20
+
+=== page 24 ===
+participants (size fragmentation) (Geys 2004). When there is more than one election per year, we
+use the average across elections. We estimate the same local projection but replace the extreme
+parties’ vote share by the fragmentation variable given by (1 −ENPi,t).
+The right panel of Figure 5 presents the estimation results. Austerity implies a significant
+increase in fragmentation, which amounts to around 3 percentage points at the end of the forecast
+horizon. Based on previous evidence on negative economic consequences of higher political
+fragmentation (Azzimonti 2018; Funke et al. 2020), this finding might suggest that, besides direct
+economic effects, fiscal consolidations also shape economic outcomes indirectly by leading to a
+more polarized political environment.
+In Table 1, we report the contribution of austerity shocks to the forecast error variance of the
+vote shares for a forecast horizon up to four years, where the estimates are based on Equation
+(5). It is evident that austerity shocks account for an economically significant part of extreme
+voting, and in particular in the medium run. At the four-year horizon, austerity explains more
+than 6% of the variation in extreme parties’ vote share. We further differentiate between parties
+on the far left and far right. Interestingly, fiscal consolidations account for a larger part of voting
+for far-left parties than for far-right ones (7.7% versus 1.3% at the four-year horizon).
+In summary, our main findings show that austerity has significant political costs. Fiscal con-
+solidations lead to a strong and persistent increase in vote shares for extreme parties, lower voter
+turnout, and increased fragmentation. These findings are not only significant from an economet-
+ric point of view, but also from an economic perspective, with austerity accounting for a large
+share of voters favoring more extreme parties.
+4.1.1
+Robustness
+In this section, we demonstrate that our main result of an increase in extreme parties’ vote
+share following a fiscal consolidation is robust to several modifications of the baseline model.
+We start by modifying our aggregate narrative consolidation measure such that we only consider
+21
+
+=== page 25 ===
+the unexpected component of the austerity series, i.e., gu
+i,t from Equation (1). This rules out the
+hypothesis that our main finding could be driven by the anticipated component of the fiscal
+consolidation measure used, ga
+I,t−1. Table 2 presents the results, where the first upper panel also
+reports the baseline estimates. The estimated effects of a fiscal consolidation on the extreme
+parties’ vote share are similar when only considering the unexpected component of the austerity
+measure. For example, four years after the consolidation was implemented, both estimations
+show an increase in the vote share of around 3 percentage points. Thus, our main finding is not
+due to strong anticipated effects of the fiscal policy change.
+Jord`a and Taylor (2016) suggest another way to control for significant anticipation effects in
+the narrative consolidation measure. They regress the austerity measure on a set of lagged macro
+control variables and take the residual of that regression as the new narrative consolidation series.
+This new measure is orthogonal to past economic developments and should thus capture only un-
+expected changes in fiscal policy. We follow their strategy, first regressing our narrative measure
+on several lagged macro covariates and then using the residual as the shift component in the con-
+struction of the Bartik instrument. Motivated by the set of regressors chosen by Jord`a and Taylor
+(2016) and Klein (2017), the vector of control variables in the first regression includes country and
+time fixed-effects and lagged values of real GDP growth, real private consumption growth, the
+government debt-to-GDP ratio and real short-term interest rates.10 The estimates presented in
+Table 2 (entry “Unpredicted austerity”) show a similar finding compared to our baseline specifi-
+cation: austerity significantly increases extreme parties’ vote share, although point estimates are
+larger when relying on the unpredicted austerity measure. In sum, this last result again suggests
+that anticipated changes in fiscal policy do not significantly drive our main findings.
+Next, we verify that our result is not an artifact of the Great Recession and Sovereign Debt
+Crisis years by dropping the years 2008 and later and focusing on the pre-Great Recession sample.
+Table 2 shows that our finding is not significantly affected by this sample change. Put differently,
+the causal link between a reduction in regional public spending and an increase in extreme voting
+10Data are taken from ARDECO, the Jord`a-Schularick-Taylor Macrohistory Database (Jord`a et al. 2017), and OECD.
+22
+
+=== page 26 ===
+is by no means a result of the Great Recession and Sovereign Debt Crisis years but describes a
+general tendency in the data since the 1980s.
+In our baseline estimation, we clustered the standard errors at the regional level. To also
+take into account serial correlation and heteroskedasticity among the residuals over time, we
+rerun the baseline model using Driscoll and Kraay (1998) standard errors. As shown in Table 2,
+standard errors become slightly larger when relying on the Driscoll and Kraay (1998) adjustment,
+but statistical significance remains.
+Another interesting dimension of our main finding is whether extreme parties vote share
+increases because austerity is commonly seen as detrimental across all countries or because of
+public perception of how bad austerity is for the specific country. In other words, are our results
+driven by national or sub-national variation. To investigate this issue, we extend our baseline
+specification by including country times election fixed-effects, where the election fixed-effects
+take a value of one if for a given year at least one election takes place in the regions belonging to
+one specific country. Thus country times election fixed-effects absorb any variation that is due
+to a common public perception within one country. Table 2 shows that we still find a signifi-
+cant increase in extreme parties vote share when including country times election fixed-effects
+which implies that our main finding is driven by sub-national variation or a common view across
+European regions regarding the detrimental effects of austerity.
+As an additional check, we recalculate our Bartik instrument by using the lagged value of
+si,t instead of the average value si as used in the baseline specification. Thus, we allow for a
+time-varying regional elasticity to national public spending changes and use its lag to rule out
+any contemporaneous correlation between the national consolidation measure and the regional
+spending share. Again, as presented in Table 2, the results are very similar to the baseline es-
+timates, indicating that our finding is robust to different ways of calculating the share measure
+used in the construction of the Bartik instrument.
+Table 2 also presents the results when using the original Devries et al. (2011) consolidation
+measure, which includes both spending- and tax-based narratively identified fiscal consolidations,
+23
+
+=== page 27 ===
+instead of the adjusted Alesina et al. (2020) series. While the effect is somewhat smaller compared
+to our baseline specification, there is still a significant increase in extreme parties vote share
+following a fiscal consolidation.
+In the baseline, we express the endogenous variable as the change of the vote share for extreme
+parties in a given region. As an alternative, the outcome variable can also be measured as the
+difference relative to the country average. As shown in Table 2 our main finding is robust to this
+alternative measurement of our dependent variable.
+Finally, the last two rows of Table 2 show the results when changing the sample. First, we
+exclude capital regions given that capitals have on average a higher government spending share.
+Second, we drop all regions with the top 10% highest government spending shares. It is evident
+that both sample changes do not significantly affect our findings. We also show in the Appendix
+that our results are not driven by any particular country in the sample. When separately dropping
+one country at a time from the sample, results change only slightly (see Table C.3).
+Taken together, the results presented in this subsection provide confidence that the significant
+rise in extreme parties’ vote share following a fiscal consolidation is a robust feature of the data
+not driven by the way we construct the national austerity measure, the share variable of the
+Bartik instrument, and holds for different changes in the sample.
+In the baseline estimation, we included voting results from all election types (European, na-
+tional, regional). Next, we investigate whether there is significant heterogeneity across elections.
+In doing so, we separately restrict the sample to national, regional, or European elections. Figure
+6 presents the results of this exercise; the left panel shows the response for national elections, the
+middle panel for regional elections, and the right panel for European elections. The figure shows
+that the increase in extreme parties’ vote share following a fiscal consolidation is present for all
+election types.
+As a further check, we study whether the increase in extreme vote shares is driven by either
+far-left or far-right parties. In particular, we re-estimate our baseline model but now separately
+focus only on the far-left or far-right parties’ vote share. The obtained results are shown in Figure
+24
+
+=== page 28 ===
+7. The left panel repeats the estimates of the baseline model (the sum of far-left and far-right vote
+shares), the middle panel presents the vote share response for far-left parties, and the right panel
+for far-right parties. Austerity leads to a significant and persistent vote share increase for both
+extremes. The peak responses amount to around 1.5 percentage points. However, estimation
+uncertainty is larger for the far-right parties’ vote share, whereas the far-left parties’ vote share
+response is estimated more precisely.11
+4.2
+Economic Costs
+Our main results indicate strong political costs of fiscal austerity. We have documented that a
+reduction in public spending leads to a significant increase in the vote share for extreme parties.
+In the following, we try to answer what drives this voter movement away from more traditional
+parties toward extreme ones. A related stream of literature has shown that voter support for
+extreme parties is closely linked to economic developments. For example, Funke et al. (2016)
+find that following a financial recession, the vote share of far-right parties rises significantly
+and persistently. In addition, Guriev (2018) show that higher unemployment rates during the
+Great Recession have considerably contributed to the recent rise of antiestablishment sentiment.
+To check whether the austerity-induced increased support for extreme parties is also related
+to a worsening of regional economies, we proceed by estimating the economic costs of fiscal
+consolidations. This issue is of interest on its own because studies at the aggregate (national)
+level provide mixed evidence. Some papers estimate that fiscal consolidations cause an economic
+recession (Guajardo et al. 2014), whereas others find only mild or even expansionary effects from
+austerity (Alesina et al. 2002).
+Figure 8 presents the responses of several economic variables to the regional austerity shock
+based on Equation (2). All of them are expressed in percent changes (growth rates), with the
+exception of the labor share variable, which is presented in percentage points.
+Panel 8a of Figure 8 shows the regional output response to the fiscal consolidation. We find
+11The smaller (larger) estimation uncertainty regarding the left (right) parties’ vote share response might be related
+to the larger (smaller) variation accounted for by austerity as presented before in Table 1.
+25
+
+=== page 29 ===
+that lower public expenditures lead to a significant fall in regional output. On impact, output is
+reduced by around 0.27%, then declines further up to 0.51%, before slowly converging back to
+its equilibrium level at the end of the forecast horizon. When relating the output response to
+the extreme parties’ vote share response shown in Figure 4, our results imply that an exogenous
+reduction in government spending that lowers regional GDP by 1% triggers an increase in extreme
+parties’ vote share by around 4.5 percentage points.12
+To put these results in perspective, we can compare our GDP and vote-share estimates to the
+ones reported in Funke et al. (2016) and Jord`a et al. (2013). Funke et al. (2016) estimate that extreme
+vote shares increase by around 30% in the five years after a financial recession, and Jord`a et al.
+(2013) show that a financial recession lowers GDP by 4%. Because our results for the vote shares
+are in percentage points, a direct comparison to our baseline estimates is not directly possible.
+So, when re-estimating the model with the vote-share variable expressed in percent changes as
+in Funke et al. (2016), we find that austerity leads to an increase in the extreme parties’ vote share
+of almost 26.8% four years after the shock. Thus, our results indicate that a fiscal consolidation-
+induced recession leads to a stronger movement toward extreme parties than a financial recession.
+In particular, while both economic downturns lead to an increase of extreme parties’ vote share
+of around 30%, the reduction in GDP following austerity is much lower than the one triggered by
+a financial recession (0.5% versus 4%). Therefore, the political costs of economic downturns are
+considerably amplified when fiscal policy causes the increase in economic slack.13 Below, we will
+discuss in more detail the different impact of normal (non-austerity-driven) and austerity-induced
+recessions on extreme voting.
+As Panel 8b of Figure 8 indicates, fiscal consolidations do not only have negative real conse-
+quences, but also imply severe labor market consequences. The employment rate falls by almost
+1% two years after the austerity measure was implemented. In the Appendix, we also report the
+corresponding output and employment government spending multipliers (see Section D), where
+12Two years after the fiscal consolidation, output is lowered by 0.51% percent, whereas the vote share for extreme
+parties is up by 2.28 percentage points ( 2.28
+0.51 ≈4.5).
+13It is necessary to keep in mind that the different aggregation levels in our study and Funke et al. (2016) and Jord`a
+et al. (2013) (regional versus national) make a direct comparison somewhat more difficult.
+26
+
+=== page 30 ===
+the estimation procedure closely follows Gabriel et al. (2023); Bernardini et al. (2020). The output
+multiplier is estimated around one, whereas the employment multiplier takes a value close to
+two. These values are in the range of other estimates on regional government spending multipli-
+ers (Nakamura and Steinsson 2014; Gabriel et al. 2023; Bernardini et al. 2020).
+Panels 8c and 8d present the responses of private investment and the number of motor vehi-
+cles that we use as a proxy for durable consumption following Mian et al. (2013) and Demyanyk
+et al. (2019). Both private demand components significantly fall following the reduction in public
+expenditures. The decrease in private investment is stronger than the one in output. House-
+holds’ consumption expenditure should be closely linked to their disposable income stream in
+the sense that a lower income might well lead to lower (durable) consumption spending. Panel
+8e indeed supports this hypothesis. Here, we report the real wage response expressed as average
+real compensation per hour worked. Wages fall significantly and persistently in response to the
+fiscal consolidation. On impact, wages decline by more than 0.5% and continue to fall until the
+end of the forecast horizon. Finally, Panel 8f presents the response of the labor share, which is
+significantly reduced by the austerity measure. Thus, the reduction in public spending induces a
+redistribution of income away from working households.14
+Taken together, these last results indicate severe economic costs of fiscal consolidations and
+therefore support previous evidence on the contractionary impact of austerity at the national
+level (Guajardo et al. 2014; Jord`a and Taylor 2016). Moreover, they highlight the close relationship
+between detrimental economic developments and voters’ support for extreme parties.
+4.3
+State-Dependencies
+So far, we have assumed that the political costs of fiscal consolidations are common across
+European regions as our baseline model is estimated as a pooled regression. However, it might
+well be argued that specific economic environments amplify or dampen the impact of austerity
+14In light of the much more persistent effects on wages and the labor share compared to the ones on output and
+employment, austerity seems have more long-lived distributional consequences while the impact on real variables
+vanishes in the medium run.
+27
+
+=== page 31 ===
+on extreme voting. In the following, we investigate how the state of the business cycle, regional
+characteristics like urbanization and economic development, and the political leaning of the party
+implementing the fiscal consolidation affect our estimates.
+To test for potential state dependencies, we extend our baseline specification (2) and estimate
+for each horizon h = 0, ..., 4, the following regression:
+zi,t+h =Ii,t
+"
+βA
+h
+Gi,t −Gi,t−1
+Gi,t−1
++ γA
+h (L)Xi,t−1
+#
++ (1 −Ii,t)
+"
+βB
+h
+Gi,t −Gi,t−1
+Gi,t−1
++ γB
+h (L)Xi,t−1
+#
++ αi,h + δt,h + ui,t+h.
+(6)
+Ii,t is an indicator variable for the defined state in period t. We now instrument spending
+changes with the Bartik instrument interacted with the state indicator. βA
+h and βB
+h directly yield,
+for each horizon h and states A and B, the response of the extreme parties’ vote share.
+We start by looking at how the state of the business cycle affects the political costs of aus-
+terity. Recessions (expansions) are defined as periods in which the regional growth rate of per
+capita GDP is negative (positive). Panel A of Table 3 shows the results. We find that the in-
+crease in extreme parties’ vote share following a fiscal consolidation is generally larger during
+recessions. Four years after the consolidation was implemented, extreme parties gain 6.56 (4.29)
+percentage points when austerity is done in a period of high (low) economic slack. This result
+is closely related to a literature documenting that economic recessions considerably amplify the
+negative economic consequences of austerity (Jord`a and Taylor 2016) and again shows the close
+relationship between the state of the economy and voting behavior.
+Next, we allow for different effects between rural and urban regions. Rural and urban areas
+are defined according to regional density computed as the ratio between the population and total
+area of the region. Regions are classified as urban if density is higher than the country’s median
+28
+
+=== page 32 ===
+and classified as rural otherwise.15 We find that the effects are generally larger in rural regions
+than urban regions, although the differences are relatively small and not statically significant.
+We also compare the effects in poor and rich regions, where regions are classified as poor
+(rich) when their per capita GDP is below (above) the country’s median. For most horizons, the
+increase in extreme parties’ vote share is somewhat larger in poor regions than rich regions.
+However, we find only small differences that are estimated to be indistinguishable different from
+zero.
+Finally, we test whether the political leaning of the party implementing the fiscal consolida-
+tion significantly affects the results. Because the austerity measures are mainly decided by the
+national government, we define the leader of the national government party in office as either
+centre-left or centre-right as described in Figure B.2 in the Appendix following the Chapel Hill
+expert surveys (Jolly et al. 2022). Panel D of Table 3 shows that the increase in extreme voting is
+much larger when the consolidation is implemented by a centre-left government. In contrast, the
+effect is barely significant for most horizons when centre-right parties cut public spending. The
+differences are statically significant for all horizons considered. Thus, political preferences of the
+party in office when austerity takes place crucially determines voters’ movement towards more
+extreme parties.
+In Table C.4 in the Appendix, we further decompose the increase in votes for all extreme
+parties into the right and the left extremes. It turns out that both extreme right and extreme left
+parties significantly gain when austerity is implemented by a centre-left government, whereas the
+effect is mainly insignificant when the spending cut is undertaken by a centre-right government.
+In addition, we show that the effect is generally larger when an extreme party is part of the
+government implementing austerity. However, the latter finding should be interpreted with some
+caution because extreme parties formed part of a very limited number of governments in our
+sample as listed in Appendix B.
+15Data on the regional area at NUTS 2 was retrieved from Eurostat.
+29
+
+=== page 33 ===
+4.4
+Austerity-recessions and non-austerity recessions
+In Section 4.2, we have shown that there is a close link between the political and economic
+consequences of fiscal consolidations. Austerity leads to an increase in extreme parties’ voting
+and lowers economic activity. A related literature has also shown that vote shares of extreme
+parties rise following severe economic downturns (Funke et al. 2016; Guriev 2018). This might
+raise the question of whether our main findings are simply a reflection of economic recessions
+leading to higher vote shares for extreme parties. In other words, do austerity-driven recessions
+lead to different political outcomes than other economic downturns? In the following, we will
+show that the political costs of economic downturns are significantly amplified when recessions
+are indeed driven by fiscal consolidations.
+We extend our baseline Equation (2) and estimate for each horizon h = 0, ..., 4 the following
+regression:
+zi,t+h =Ira
+i,t
+"
+ζra
+h + βra
+h
+Gi,t −Gi,t−1
+Gi,t−1
++ γra
+h (L)Xi,t−1
+#
++ Ir
+i,t
+"
+ζr
+h + βr
+h
+Gi,t −Gi,t−1
+Gi,t−1
++ γr
+h(L)Xi,t−1
+#
++ (1 −Ira
+i,t −Ir
+i,t)
+"
+ζe
+h + βe
+h
+Gi,t −Gi,t−1
+Gi,t−1
++ γe(L)Xi,t−1
+#
++ αi,h + δt,h + ui,t+h.
+(7)
+Ira
+i,t is a dummy variable that takes a value of one in year t, when region i contemporaneously
+experiences negative per capita GDP growth and implements fiscal consolidation measures (i.e.,
+when the Bartik instrument is larger than zero). On the other hand, Ir
+i,t is a dummy variable that
+takes a value of one when the regional per capita GDP growth rate is negative and we identify no
+fiscal consolidation (when our Bartik instrument is equal to zero). Thus, Ira
+i,t captures recessions
+that coincide with austerity (“austerity-recessions”) and Ir
+i,t measures economic downturns that
+are not directly related to fiscal consolidations but can be described as a combination of differ-
+ent negative shocks that lead to lower economic activity (“non-austerity recessions”). We also
+30
+
+=== page 34 ===
+include a dummy for all remaining episodes when there is positive economic growth (economic
+expansions), 1 −Ira
+i,t −Ir
+i,t, to use the entire variation of the sample. The coefficients ζra
+h and
+ζr
+h capture the average impact of austerity recessions and non-austerity recessions, respectively,
+on the vote shares of extreme parties. In addition, βra
+h and βr
+h indicate the marginal effect of
+lowering regional government spending by 1% in austerity recessions and non-austerity reces-
+sions, respectively.16 If ζra
+h is larger (smaller) than ζr
+h, this would imply that economic downturns
+driven by fiscal consolidations lead to a larger (smaller) increase in extreme voting than other
+downturns. The same logic also applies to the marginal effect coefficients βra
+h and βa
+h.
+The first row of Figure 9 presents the estimation results, where the upper left panel shows the
+difference between ζra
+h and ζr
+h and the upper right panel shows the difference between βra
+h and
+βr
+h. The difference in the average recession effect (ζra
+h -ζr
+h) is positive and statistically significant.
+Thus, austerity recessions lead to a larger increase in the vote shares for extreme parties than non-
+austerity recessions. Furthermore, the difference in the marginal coefficients is also estimated to
+be positive and statistically significant for shorter horizons. This implies that, in recessions co-
+inciding with fiscal consolidations, a reduction in regional government spending implies a larger
+increase in extreme voting compared to lowering public spending in non-austerity recessions.
+These results suggest that austerity recessions are special in the sense that they considerably am-
+plify the political costs of economic downturns. Thus, our main results do not simply capture
+a general tendency of more voting for extreme parties during economic downturns but instead
+point toward a specific transmission mechanism underlying fiscal consolidations.
+How could such a transmission mechanism operate? One potential channel is related to trust
+in the political system and the government. If voters’ trust in the government falls more during
+austerity recessions than non-austerity recessions, the heightened skepticism about the political
+environment might lead to a stronger movement away from traditional parties to more extreme
+ones. To test this hypothesis, we use data assembled by Algan et al. (2017) and investigate the
+impact of austerity recessions and non-austerity recessions on voters’ trust in the country’s par-
+16As before, we normalize the responses such that regional government spending falls by 1% in the impact period.
+31
+
+=== page 35 ===
+liament. The trust index varies between zero and one and is based on micro data from the Euro-
+pean Social Survey (ESS). People are asked to state the level of trust in the country’s parliament
+from zero to ten, where zero means no trust at all and ten means complete trust. The survey
+is conducted biennially, from 2000 until 2014, and provides data at the NUTS 2 level for most
+of the countries in our sample, with the exception of France, Finland and Germany. The results
+are presented in the second row of Figure 9. For most horizons, both estimated differences are
+negative. Whereas the average effects is only borderline significant at the two year horizon, the
+marginal effect is statically significant for most horizons considered. Overall, these results seem
+to imply that trust in the countries’ parliament falls much more during austerity recessions than
+non-austerity recessions. Voters seem to become more skeptical about the political environment
+when the higher economic slack they experience is related to active policy interventions like
+fiscal consolidations. Given that voters might blame the government for part of the economic
+downturn, they tend to punish established parties and instead support more extreme ones.
+5
+Conclusion
+While the economic consequences of fiscal consolidations are studied extensively, the polit-
+ical costs of austerity are less well understood. In this paper, we provide new evidence on how
+reductions in government spending affect election outcomes. Using a novel regional dataset on
+election outcomes for several European countries, we find that fiscal consolidations lead to a sig-
+nificant increase in vote shares of extreme parties, raise fragmentation, and lower voter turnout.
+A reduction in regional public spending by 1% causes a rise in extreme parties’ vote share of
+around 3 percentage points. We highlight the close relationship between economic developments
+and voters’ support for extreme parties by showing that austerity induces severe economic costs
+by lowering GDP, employment, and the labor share. Importantly, we show that austerity reces-
+sions significantly amplify the political costs of economic downturns compared to non-austerity
+recessions.
+32
+
+=== page 36 ===
+References
+Accornero, G. and P. Ramos Pinto (2015). ‘Mild mannered’? Protest and mobilisation in Portugal
+under austerity, 2010–2013. West European Politics 38(3), 491–515.
+Alesina, A. and S. Ardagna (2010). Large changes in fiscal policy: taxes versus spending. Tax
+policy and the economy 24(1), 35–68.
+Alesina, A., S. Ardagna, R. Perotti, and F. Schiantarelli (2002). Fiscal Policy, Profits, and Invest-
+ment. American Economic Review 92, 571–589.
+Alesina, A., G. Azzalini, C. Favero, F. Giavazzi, and A. Miano (2018). Is it the “How” or the “When”
+that Matters in Fiscal Adjustments? IMF Economic Review 66(1), 144–188.
+Alesina, A., C. Favero, and F. Giavazzi (2015). The output effect of fiscal consolidation plans.
+Journal of International Economics 96, S19–S42.
+Alesina, A., C. Favero, and F. Giavazzi (2019). Effects of austerity: Expenditure-and tax-based
+approaches. Journal of Economic Perspectives 33(2), 141–62.
+Alesina, A., C. Favero, and F. Giavazzi (2020). Austerity: When it Works and when it Doesn’t.
+Princeton University Press.
+Alesina, A., D. Furceri, G. Ciminelli, G. Saponaro, et al. (2021). Austerity and Elections. Technical
+report, International Monetary Fund.
+Algan, Y., S. Guriev, E. Papaioannou, and E. Passari (2017). The european trust crisis and the rise
+of populism. Brookings Papers on Economic Activity 2017(2), 309–400.
+Azzimonti, M. (2011).
+Barriers to Investment in Polarized Societies.
+American Economic Re-
+view 101, 2182–2204.
+Azzimonti, M. (2018). Partisan conflict and private investment. Journal of Monetary Economics 93,
+114–131.
+Baccini, L. and T. Sattler (2021). Austerity, economic vulnerability, and populism. Available at
+SSRN 3766022.
+Bartik, T. J. (1991). Who benefits from state and local economic development policies? WE Upjohn
+Institute for Employment Research.
+Berman, S. (2021). The Causes of Populism in the West. Annual Review of Political Science 24,
+71–88.
+Bernardini, M., S. D. Schryder, and G. Peersman (2020). Heterogeneous government spending
+multipliers in the era surrounding the great recession. Review of Economics and Statistics, 1–45.
+Bernhard, L. and H. Kriesi (2019). Populism in election times: a comparative analysis of 11 coun-
+tries in Western Europe. West European Politics 42(6), 1188–1208.
+Born, B., , G. M¨uller, J. Pfeifer, and S. Wellmann (2020). Different no more: Country spreads in
+advanced and emerging economies. CEPR Discussion Papers 14392.
+Bray, K., N. Braakmann, and J. Wildman (2022). Austerity, welfare cuts and hate crime: Evidence
+from the UK’s age of austerity. Journal of Urban Economics, 103439.
+Brueckner, M., A. Valentinyi, and E. Pappa (2022). Decentralisation and Government Effective-
+33
+
+=== page 37 ===
+ness: Evidence from European Regions. Journal of Money Credit and Banking.
+Cachafeiro, M. G.-R. (2009). El nacionalismo minoritario, de la marginalidad al gobierno: la trayec-
+toria del Bloque Nacionalista Galego (1982-2007). Papers: revista de sociolog´ıa, 119–142.
+Calossi, E. (2016). Anti-austerity left parties in the European Union: competition, coordination
+and integration. Anti-Austerity Left Parties in the European Union, 1–222.
+Carozzi, F., D. Cipullo, and L. Repetto (2022). Political fragmentation and government stability.
+Evidence from local governments in Spain. American Economic Journal: Applied Economics.
+Coibion, O., Y. Gorodnichenko, L. Kueng, and J. Silvia (2017). Innocent Bystanders? Monetary
+policy and inequality. Journal of Monetary Economics 88, 70–89.
+Colantone, I. and P. Stanig (2018). The trade origins of economic nationalism: Import competition
+and voting behavior in Western Europe. American Journal of Political Science 62(4), 936–953.
+Della Porta, D., J. Fern´andez, H. Kouki, and L. Mosca (2017). Movement parties against austerity.
+John Wiley & Sons.
+Demyanyk, Y., E. Loutskina, and D. Murphy (2019). Fiscal Stimulus and Consumer Debt. The
+Review of Economics and Statistics 101, 728–741.
+Devries, P., J. Guajardo, D. Leigh, and A. Pescatori (2011). A new action-based dataset of fiscal
+consolidation. IMF working paper.
+D¨oring, H. and P. Manow (2016). Parliaments and governments database (ParlGov): Information
+on parties, elections and cabinets in modern democracies. Development version.
+Driscoll, J. and A. Kraay (1998). Consistent Covariance Matrix Estimation With Spatially Depen-
+dent Panel Data. The Review of Economics and Statistics 80, 549–560.
+Fetzer, T. (2019). Did austerity cause Brexit? American Economic Review 109(11), 3849–86.
+Funke, M., M. Schularick, and C. Trebesch (2016). Going to extremes: Politics after financial crises,
+1870–2014. European Economic Review 88, 227–260.
+Funke, M., M. Schularick, and C. Trebesch (2020). Populist Leaders and the Economy. Technical
+Report 15405, C.E.P.R. Discussion Papers.
+Gabriel, R. D., M. Klein, and A. S. Pessoa (2023). The Effects of Government Spending in the
+Eurozone. Journal of the European Economic Association 21(4), 1397–1427.
+Galofr´e-Vil`a, G., C. M. Meissner, M. McKee, and D. Stuckler (2021). Austerity and the rise of the
+nazi party. The Journal of Economic History 81(1), 81–113.
+Geys, B. (2004).
+Proportional representation, political fragmentation and political decision-
+making: An economic analysis. Mimeo.
+Goldsmith-Pinkham, P., I. Sorkin, and H. Swift (2020, August). Bartik instruments: What, when,
+why, and how. American Economic Review 110(8), 2586–2624.
+Gorodnichenko, Y. and B. Lee (2020). Forecast error variance decompositions with local projec-
+tions. Journal of Business & Economic Statistics 38(4), 921–933.
+Guajardo, J., D. Leigh, and A. Pescatori (2014). Expansionary austerity? International evidence.
+Journal of the European Economic Association 12(4), 949–968.
+34
+
+=== page 38 ===
+Guiso, L., H. Herrera, M. Morelli, and T. Sonno (2019). Global crises and populism: the role of
+Eurozone institutions. Economic Policy 34(97), 95–139.
+Guiso, L., H. Herrera, M. Morelli, and T. Sonno (2020). Economic Insecurity and the Demand of
+Populism in Europe. Mimeo.
+Guriev, S. (2018). Economic drivers of populism. In AEA Papers and Proceedings, Volume 108, pp.
+200–203.
+Guriev, S. and E. Papaioannou (2022). The Political Economy of Populism. Journal of Economic
+Literature.
+H¨ubscher, E., T. Sattler, and M. Wagner (2021a). Does Austerity Cause Polarization? Mimeo.
+H¨ubscher, E., T. Sattler, and M. Wagner (2021b). Voter responses to fiscal austerity. British Journal
+of Political Science 51(4), 1751–1760.
+Ignazi, P. (1992). The silent counter-revolution: Hypotheses on the emergence of extreme right-
+wing parties in europe. European Journal of Political Research 22(1), 3–34.
+Ignazi, P. (2003). Extreme right parties in Western Europe. Oxford University Press on Demand.
+Jolly, S., R. Bakker, L. Hooghe, G. Marks, J. Polk, J. Rovny, M. Steenbergen, and M. A. Vachudova
+(2022). Chapel hill expert survey trend file, 1999–2019. Electoral studies 75, 102420.
+Jord`a, `O. (2005). Estimation and inference of impulse responses by local projections. American
+Economic Review 95(1), 161–182.
+Jord`a, `O., M. Schularick, and A. M. Taylor (2013). When credit bites back. Journal of Money, Credit
+and Banking 45, 3–28.
+Jord`a, `O., M. Schularick, and A. M. Taylor (2017). Macrofinancial history and the new business
+cycle facts. NBER macroeconomics annual 31(1), 213–263.
+Jord`a, `O. and A. M. Taylor (2016). The time for austerity: Estimating the average treatment effect
+of fiscal policy. The Economic Journal 126(590), 219–255.
+Klein, M. (2017). Austerity and private debt. Journal of Money, Credit and Banking 49(7), 1555–
+1585.
+Laakso, M. and R. Taagepera (1979). “Effective” number of parties: a measure with application to
+West Europe. Comparative Political Studies 12(1), 3–27.
+Lequiller, F. and D. W. Blades (2014). Understanding national accounts, second edition. OECD Paris.
+March, L. (2012). Radical left parties in Europe. Routledge.
+Massetti, E. and A. H. Schakel (2015). From class to region: How regionalist parties link (and
+subsume) left-right into centre-periphery politics. Party Politics 21(6), 866–886.
+Mian, A., K. Rao, and A. Sufi (2013). Household balance sheets, consumption, and the economic
+slump. The Quarterly Journal of Economics 128(4), 1687–1726.
+Minkenberg, M. (2011). The radical right in Europe: An overview. Verlag Bertelsmann Stiftung.
+Mudde, C. (2002). The ideology of the extreme right. Manchester University Press.
+Mudde, C. (2005). Racist Extremism in Central & Eastern Europe. Routledge.
+35
+
+=== page 39 ===
+Mudde, C. (2016). The populist radical right: A reader. Taylor & Francis.
+Myatt, D. P. (2017). A theory of protest voting. The Economic Journal 127(603), 1527–1567.
+Nakamura, E. and J. Steinsson (2014). Fiscal stimulus in a monetary union: Evidence from US
+regions. American Economic Review 104(3), 753–92.
+Nekarda, C. J. and V. A. Ramey (2011). Industry evidence on the effects of government spending.
+American Economic Journal: Macroeconomics 3(1), 36–59.
+Olea, J. L. M. and C. Pflueger (2013). A robust test for weak instruments. Journal of Business &
+Economic Statistics 31(3), 358–369.
+Panunzi, F., N. Pavoni, and G. Tabellini (2020). Economic Shocks and Populism. Technical report.
+Pastor, L. and P. Veronesi (2021). Inequality Aversion, Populism, and the Backlash Against Glob-
+alization. Journal of Finance.
+Ponticelli, J. and H.-J. Voth (2020). Austerity and anarchy: Budget cuts and social unrest in Europe,
+1919–2008. Journal of Comparative Economics 48(1), 1–19.
+Rodrik, D. (2020). Why does globalization fuel populism? Economics, culture, and the rise of
+right-wing populism. Annual Review of Economics 13.
+Romer, C. D. and D. H. Romer (2010). The macroeconomic effects of tax changes: Estimates based
+on a new measure of fiscal shocks. American Economic Review 100(3), 763–801.
+Roodman, D., M. Ø. Nielsen, J. G. MacKinnon, and M. D. Webb (2019). Fast and wild: Bootstrap
+inference in stata using boottest. The Stata Journal 19(1), 4–60.
+Schakel, A. H. (2013). Congruence between regional and national elections. Comparative Political
+Studies 46(5), 631–662.
+Schakel, A. H. (2021). Regional spillover into third-order European elections. Governance 34(3),
+643–663.
+Stavrakakis, Y. and G. Katsambekis (2014). Left-wing populism in the European periphery: the
+case of SYRIZA. Journal of Political Ideologies 19(2), 119–142.
+Stiftung, B. (2010). Strategies for combating right-wing extremism in Europe. Verlag Bertelsmann
+Stiftung.
+Thissen, M., M. Lankhuizen, F. van Oort, B. Los, and D. Diodato (2018). Euregio: The construction
+of a global IO database with regional detail for europe for 2000–2010.
+36
+
+=== page 40 ===
+TABLES
+Table 1: Forecast error variance decomposition
+Horizon
+Far
+Far left
+Far right
+1
+0.3 %
+3.0 %
+1.2 %
+2
+2.4 %
+4.9 %
+0.2 %
+3
+4.3 %
+7.5 %
+0.5 %
+4
+6.1 %
+7.7 %
+1.3 %
+Notes: Forecast error variance decomposition of far, far left, and far right vote shares based on local projections (5).
+37
+
+=== page 41 ===
+Table 2: Response of extreme parties’ vote share to austerity: Robustness
+Impact
+1 Year
+2 Years
+3 Years
+4 Years
+Baseline
+1.39***
+2.28***
+2.24***
+2.26***
+3.17***
+( 0.30 )
+( 0.52 )
+( 0.54 )
+( 0.51 )
+( 0.75 )
+# Obs
+3944
+3944
+3818
+3692
+3566
+(1) Unexpected component gu
+it
+1.75***
+3.06***
+2.44***
+2.77***
+3.63***
+( 0.50 )
+( 0.91 )
+( 0.72 )
+( 0.71 )
+( 0.93 )
+# Obs
+3944
+3944
+3818
+3692
+3566
+(2) Unpredicted austerity
+1.61***
+2.74***
+2.31***
+2.40***
+4.48***
+( 0.50 )
+( 0.82 )
+( 0.67 )
+( 0.61 )
+( 1.17 )
+# Obs
+3776
+3776
+3650
+3524
+3398
+(3) Dropping Great Recession
+0.77**
+1.61***
+1.70**
+2.68***
+2.54***
+( 0.30 )
+( 0.51 )
+( 0.70 )
+( 0.83 )
+( 0.76 )
+# Obs
+3062
+2936
+2810
+2684
+2558
+(4) Baseline with DK std. errors
+1.39
+2.28*
+2.24**
+2.26*
+3.17**
+( 0.84 )
+( 1.35 )
+( 1.11 )
+( 1.27 )
+( 1.43 )
+# Obs
+3944
+3944
+3818
+3692
+3566
+(5) Including country-election FE
+0.07
+1.88***
+3.13***
+3.11***
+4.75***
+( 0.05 )
+( 0.55 )
+( 0.66 )
+( 0.68 )
+( 1.49 )
+# Obs
+3944
+3944
+3818
+3692
+3566
+(6) Lagged sit
+1.22***
+2.02***
+2.01***
+1.99***
+2.67***
+( 0.25 )
+( 0.44 )
+( 0.47 )
+( 0.44 )
+( 0.61 )
+# Obs
+3674
+3674
+3548
+3422
+3296
+(7) IMF austerity shock sit
+0.20
+1.92***
+1.39***
+1.86***
+1.91***
+( 0.15 )
+( 0.45 )
+( 0.41 )
+( 0.45 )
+( 0.50 )
+# Obs
+3944
+3944
+3818
+3692
+3566
+(8) Vote share to country average
+1.42***
+2.32***
+2.21***
+2.24***
+3.02***
+( 0.30 )
+( 0.48 )
+( 0.49 )
+( 0.46 )
+( 0.66 )
+# Obs
+3944
+3944
+3818
+3692
+3566
+(9) Excluding capitals regions
+1.46***
+2.29***
+2.19***
+2.26***
+3.16***
+( 0.27 )
+( 0.45 )
+( 0.46 )
+( 0.43 )
+( 0.67 )
+# Obs
+3731
+3731
+3612
+3493
+3374
+(10) Excluding regions in top 10% of si
+1.49***
+2.43***
+2.17***
+2.23***
+2.80***
+( 0.26 )
+( 0.45 )
+( 0.47 )
+( 0.43 )
+( 0.50 )
+# Obs
+3571
+3571
+3457
+3343
+3229
+Notes: For regression (1), the instrument is computed using only the unexpected consolidation shock gu
+i,t from Equa-
+tion 1. Estimation (2) takes into account possible anticipation effects by using as the instrument the residuals from
+regressing the austerity shock on a set of macroeconomic variables, including two lags of output and consumption
+growth, debt-to-GDP ratio, and real short- and long-term interest rates. Regression (3) drops observations since 2008,
+regression (4) presents Driscoll and Kraay standard errors, and regression (5) adds country-election fixed-effects. In
+regression (6), lagged si,t is used in the instrument construction instead of si. Regression (7) uses IMF narrative-
+identified austerity shocks instead of the baseline shocks. In regressions (8) and (9), the sample excludes regions with
+the capital cities and the regions with the largest shares si (top 10%). ∗p < 0.10, ∗∗p < 0.05, ∗∗∗p < 0.01
+38
+
+=== page 42 ===
+Table 3: Response of total far vote share: state-dependencies
+Total far vote share
+Impact
+1 Year
+2 Years
+3 Years
+4 Years
+Baseline
+1.39***
+2.28***
+2.24***
+2.26***
+3.17***
+( 0.30 )
+( 0.52 )
+( 0.54 )
+( 0.51 )
+( 0.75 )
+# Obs
+3880
+3880
+3768
+3692
+3568
+Panel A: recessions vs expansions
+Recessions
+3.48*
+4.27*
+4.15*
+3.30**
+6.56
+( 1.98 )
+( 2.50 )
+( 2.17 )
+( 1.40 )
+( 4.97 )
+Expansions
+2.03*
+3.26**
+2.90**
+2.90***
+4.29**
+( 1.08 )
+( 1.42 )
+( 1.28 )
+( 0.93 )
+( 2.16 )
+HAC Test
+0.17
+0.43
+0.28
+0.65
+0.47
+AR Test
+0.01
+0.27
+0.12
+0.64
+0.28
+Panel B: urban vs rural
+Rural
+1.54***
+2.40***
+2.34***
+2.41***
+3.40***
+( 0.37 )
+( 0.64 )
+( 0.65 )
+( 0.62 )
+( 1.00 )
+Urban
+1.22***
+2.17***
+1.97***
+1.96***
+2.74***
+( 0.38 )
+( 0.68 )
+( 0.68 )
+( 0.63 )
+( 0.93 )
+HAC Test
+0.50
+0.80
+0.66
+0.58
+0.60
+AR Test
+0.51
+0.80
+0.67
+0.58
+0.60
+Panel C: poor vs rich
+Rich
+1.27***
+2.14***
+2.19***
+2.12***
+3.28***
+( 0.44 )
+( 0.77 )
+( 0.80 )
+( 0.76 )
+( 1.16 )
+Poor
+1.46***
+2.37***
+2.25***
+2.36***
+2.99***
+( 0.33 )
+( 0.60 )
+( 0.61 )
+( 0.59 )
+( 0.79 )
+HAC Test
+0.70
+0.81
+0.94
+0.80
+0.83
+AR Test
+0.70
+0.81
+0.94
+0.80
+0.82
+Panel D: left vs right government
+Left
+2.71***
+3.90***
+3.79***
+4.69***
+6.00***
+( 0.69 )
+( 1.05 )
+( 1.11 )
+( 1.59 )
+( 1.85 )
+Right
+-0.09
+0.36
+0.67**
+0.62**
+-0.45
+( 0.20 )
+( 0.30 )
+( 0.33 )
+( 0.31 )
+( 0.49 )
+HAC Test
+0.00
+0.00
+0.01
+0.02
+0.00
+AR Test
+0.00
+0.00
+0.00
+0.00
+0.00
+Notes: In panel A, recession (expansion) is the state when the growth rate of per capita output is negative (positive).
+In panel B, observations are classified as urban if the (lagged) population density is above the country’s median for
+that year. Otherwise, the observations are in the rural state. In a similar fashion, for a given year, regions are labeled
+as poor (rich) when their per capita output is below (above) the country’s median. Finally Panel D separate the
+periods in which the incumbent government implementing the austerity measures was left leaning or right leaning.
+Table C.4 presents a further decomposition of Panel D into the response of far left and far right. The AR test presents
+the p-value of the difference between states using the Anderson and Rubin (1949) test, while the HAC test indicates
+the HAC-robust p-values of the difference between states. Clustered standard errors are presented between brackets.
+Significance levels: ∗p < 0.10, ∗∗p < 0.05, ∗∗∗p < 0.01.
+39
+
+=== page 43 ===
+FIGURES
+Figure 1: Vote share for extreme parties and austerity at the country level
+0
+5
+10
+15
+20
+25
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+2015
+Year
+Vote share far right, %
+Average vote share far parties, %
+Vote share far left, %
+Episodes of extreme austerity
+Notes: Vote shares are computed relative to total valid votes. Average vote share of extreme parties includes both
+far-left and far-right parties. Extreme austerity episodes are identified as above the 70th percentile after summing
+the shocks across countries.
+40
+
+=== page 44 ===
+Figure 2: Regional vote shares on extreme parties in 2007 and 2015
+(40,70]
+(30,40]
+(20,30]
+(15,20]
+(10,15]
+(5,10]
+[0,5]
+(a) 2007
+(40,70]
+(30,40]
+(20,30]
+(15,20]
+(10,15]
+(5,10]
+[0,5]
+(b) 2015
+Notes: Figures 2a and 2b depict, in percent, the sum of the far-left and far-right vote shares for European regions at
+the NUTS 2 level in 2007 and 2015, respectively. If elections do not take place in these specific years, the map shows
+the outcome from the previous ballot.
+41
+
+=== page 45 ===
+Figure 3: Government spending response to austerity
+−2
+−1
+0
+1
+2
+percent
+0
+1
+2
+3
+4
+Year
+Notes: The figure plots the percent change of per capita government spending in response to an austerity induced
+change in government spending by one percent. Bands are 90% (dark) and 95% (light) confidence intervals.
+42
+
+=== page 46 ===
+Figure 4: Response of extreme parties’ vote share to austerity
+0
+1
+2
+3
+4
+5
+p.p.
+0
+1
+2
+3
+4
+Year
+Notes: The figure plots the impulse response in percentage points of the vote share for the extreme parties to an
+austerity-induced change in government spending by one percent. Bands are 90% (dark) and 95% (light) confidence
+intervals.
+43
+
+=== page 47 ===
+Figure 5: Responses of voter turnout, total votes for extreme parties, and fragmentation
+−4
+−3
+−2
+−1
+0
+1
+p.p.
+0
+1
+2
+3
+4
+Year
+(a) Voter turnout
+0
+1
+2
+3
+p.p.
+0
+1
+2
+3
+4
+Year
+(b) Total votes for extremes
+0
+1
+2
+3
+4
+5
+p.p.
+0
+1
+2
+3
+4
+Year
+(c) Fragmentation
+Notes: The figure plots the impulse response in percentage point changes of the voter turnout, the total number of
+votes for extreme parties, and the political concentration to an austerity-induced change in government spending by
+one percent. Voter turnout is the ratio between valid votes and total eligible voters. “Total votes for extreme parties”
+is the sum of votes for far-left and far-right parties over total eligible voters. Political fragmentation is measured by
+one minus the Herfindahl-Hirschmann concentration index, measured using the effective number of parties. Bands
+are 90% (dark) and 95% (light) confidence intervals.
+44
+
+=== page 48 ===
+Figure 6: Response of extreme parties’ vote share to austerity by election type
+0
+1
+2
+3
+4
+5
+6
+p.p.
+0
+1
+2
+3
+4
+Year
+(a) National
+0
+1
+2
+3
+4
+5
+6
+p.p.
+0
+1
+2
+3
+4
+Year
+(b) Regional
+0
+1
+2
+3
+4
+5
+6
+p.p.
+0
+1
+2
+3
+4
+Year
+(c) European
+Notes: The figures plot by election type the impulse response in percentage points of the vote share for the extreme
+parties to an austerity-induced change in government spending by one percent. Bands are 90% (dark) and 95% (light)
+confidence intervals.
+45
+
+=== page 49 ===
+Figure 7: Response of total extreme, far-left, and far-right parties’ vote share to austerity
+0
+1
+2
+3
+4
+5
+p.p.
+0
+1
+2
+3
+4
+Year
+(a) Baseline
+0
+1
+2
+3
+4
+5
+p.p.
+0
+1
+2
+3
+4
+Year
+(b) Far Left
+0
+1
+2
+3
+4
+5
+p.p.
+0
+1
+2
+3
+4
+Year
+(c) Far Right
+Notes: The figures plot the impulse response in percentage points of the vote share for the total extreme, far-left, and
+far-right parties to an austerity-induced change in government spending by one percent. Bands are 90% (dark) and
+95% (light) confidence intervals.
+46
+
+=== page 50 ===
+Figure 8: Economic responses to austerity
+−1
+−.5
+0
+.5
+1
+1.5
+percent
+0
+1
+2
+3
+4
+Year
+(a) Output
+−1.5
+−1
+−.5
+0
+.5
+percent
+0
+1
+2
+3
+4
+Year
+(b) Employment
+−4
+−2
+0
+2
+4
+percent
+0
+1
+2
+3
+4
+Year
+(c) Investment
+−8
+−6
+−4
+−2
+0
+percent
+0
+1
+2
+3
+4
+Year
+(d) Motor Vehicles
+−3
+−2
+−1
+0
+percent
+0
+1
+2
+3
+4
+Year
+(e) Hourly Wage
+−2
+−1.5
+−1
+−.5
+0
+p.p.
+0
+1
+2
+3
+4
+Year
+(f) Labor share
+Notes: These figures plot the response of a one percent increase in government spending. All responses are expressed
+in percent changes (growth rates), with the exception of the labor share variable, which is presented as a percentage
+point change (its difference). Shaded areas are 90% (dark) and 95% (light) confidence intervals.
+47
+
+=== page 51 ===
+Figure 9: Difference in responses between austerity-recessions and non-austerity recessions
+−.4
+−.2
+0
+.2
+.4
+.6
+p.p.
+0
+1
+2
+3
+4
+Year
+(a) Far vote share: average effect (ζra
+h -ζr
+h)
+−2
+−1
+0
+1
+2
+3
+p.p.
+0
+1
+2
+3
+4
+Year
+(b) Far vote share: marginal effect (βra
+h -βr
+h)
+−2
+−1
+0
+1
+2
+p.p.
+0
+1
+2
+3
+4
+Year
+(c) Trust: average effect (ζra
+h -ζr
+h)
+−10
+−5
+0
+p.p.
+0
+1
+2
+3
+4
+Year
+(d) Trust: marginal effect (βra
+h -βr
+h)
+Notes: Panels 9a and 9b on the first row show the difference of the average and marginal effects between austerity
+recessions and normal recessions on the vote share of extreme parties estimated through Equation 7. Panels 9c and
+9d on the second row depict the equivalent for the outcome variable trust on national parliaments in levels. Bands
+are 90% (dark) and 95% (light) confidence intervals.
+48
+
+=== page 52 ===
+ONLINE APPENDIX
+Appendix A
+Data Appendix
+Table A.1: NUTS structure in final sample
+NUTS 0
+NUTS 1
+#
+NUTS 2
+#
+Austria
+Groups of states
+3
+States
+9
+(L¨ander)
+Finland
+Mainland
+1
+Large areas
+4
+(Suuralueet / Storomr˚aden)
+France
+ZEAT
+13
+Regions
+22
+Germany
+States
+16
+Government regions
+38
+(L¨ander)
+(Regierungbezirke)
+Italy
+Groups of regions
+5
+Regions
+21
+(Trentino-Alto Adige split in 2)
+Portugal
+Mainland
+1
+Coordination regions
+7
+Spain
+Groups of communities
+7
+Autonomous communities
+17
+Sweden
+Lands
+3
+National Areas
+8
+(Landsdelar)
+(Riksomr˚aden)
+Total
+44
+126
+Notes: Out of the existing 134 NUTS 2 regions, we exclude 5 extra regio French islands (Guadeloupe, Martinique,
+French Guiana, La R´eunion, Mayotte); Ceuta and Melilla (Spain); and Aland (Finland) due to the lack of consistent
+voting data.
+A.1
+ARDECO - Regional European Data
+ARDECO is the Annual Regional Database of the European Commission’s Directorate General
+for Regional and Urban Policy and is maintained and updated by the Joint Research Centre. It is
+a highly disaggregated dataset across both sectoral and sub-regional dimensions. The database
+contains a set of long time-series indicators for EU regions at various statistical scales (NUTS
+0, 1, 2, and 3 level) using the NUTS 2016 regional classification. The dataset includes data on
+demography, labor markets, capital formation and domestic product by six sectors. The six sectors
+are (1) agriculture, forestry and fishing, (2) industry excluding construction, (3) construction, (4)
+wholesale, retail, transport, accommodation, and food services, information and communication,
+(5) financial and business services, and (6) non-market services.
+ARDECO data is an annual unbalanced panel covering the period of 1980–2018 for the Euro-
+pean Union (EU) and some European Free Trade Association (EFTA) and candidate countries.
+i
+
+=== page 53 ===
+Table A.2: Variables Description
+Variable Name
+Computation
+Definition [Source]
+Far-left/far-right
+votes
+Sum of all votes cast to far-left and
+far-right parties
+Massetti and Schakel (2015); Funke et al. (2016); Algan
+et al. (2017) and their sources
+GDPpc
+GDP / population
+Regional gross domestic product per capita [ARDECO]
+Gov. Spending pc
+non-market GVA / population
+Regional gross value added of the non-market sector per
+capita [ARDECO]
+Employment
+Total employment [ARDECO]
+Investment pc
+private gross fixed capital forma-
+tion / population
+Total private (all sectors excluding non-market) In-
+vestment per capita (fixed gross capital formation)
+[ARDECO]
+Hourly Wage
+compensation of employees / total
+hours worked
+Regional average compensation per hour (all sectors)
+[ARDECO]
+Labor Share
+private
+compensation
+/
+private
+GVA
+Private (all sectors excluding non-market) compensation
+as a share of private GVA [ARDECO]
+Motor Vehicles
+# motor vehicles / population
+Stock of all motor vehicles (except trailers and motorcy-
+cles) per capita [Eurostat]
+Trust
+Index between 0 and 1 based on mi-
+cro data from the European Social
+Surveys (ESS)
+Trust in country’s parliament (Algan et al. 2017)
+Its main data source is Eurostat (the Statistical Office of the European Commission), supple-
+mented, where necessary, by other appropriate national and international sources. ARDECO is
+constructed in such a way that the country aggregates its various time series equal to the corre-
+sponding time series in the AMECO dataset referring to the National Accounts. Starting in 2002,
+Eurozone countries have published national series in EUR. National currency data for all years
+prior to the switch of the country to EUR have been converted using the irrevocably fixed EUR
+conversion rate. Cross-country comparisons and aggregations should continue to be based only
+on historical series established in ECU up to 1998 and their statistical continuation in EUR from
+1999 onward. Exchange rates and purchasing power parities have been converted in the same
+manner. We thus use the series with real variables expressed in 2015 constant price in ECU/EUR.
+A.2
+Regional government spending measure
+We now explain in detail why GVA (plus intermediate consumption of the non-market sector)
+is a valid proxy for government spending following the argument in Gabriel et al. (2023).
+First, as previously mentioned, ARDECO’s regional data is consistent with the national ac-
+counts data by construction. By definition, there exists a close link between government spending
+ii
+
+=== page 54 ===
+and the GVA of the non-market sector, however, they differ in two dimensions: actors and compo-
+sition. Regarding the first, even though the non-market sector includes other institutional units,
+the general government is the main actor responsible for changes in non-market GVA.
+In particular, the non-market sector consists of six sub-sectors: “Public administration and
+defense”, “Education”, “Human health and social work”, “Arts, entertainment and recreation”,
+“Other service activities,” and “Activities of household and extra-territorial organizations and
+bodies.” The first sub-sector, “Public administration and defense,” refers to activities by the general
+government, but not all government bodies are automatically classified under this sub-sector.
+For example, a secondary school administered by the central or local government is classified
+as “Education,” and a public hospital is allocated to “Human health and social work.” Thus, the
+two sub-sectors “Education” and “Human health and social work” are also closely linked to the
+general government in the national accounts, while the last three sub-sectors are linked only
+loosely.
+Concerning the second dimension, we now describe the compositional differences between
+non-market GVA and government spending. In the national accounts, government spending is
+defined as follows:
+Final consumption expenditure of the general government
+=Gross value added of the general government
++Intermediate inputs of the general government
++Social transfers in kind purchased market production
+-Market output and output for own final use
+-Payments for non-market output
+GVA of the general government is the major component of government spending and fully
+accounted in the GVA of the non-market sector. Country level data show that GVA of the gen-
+eral government accounts for approximately 71.1% of the final consumption expenditure of the
+general government.1 Thus, our proxy measures the single-most dominant source of government
+expenditures. However, the main difference between government spending and the GVA of the
+general government are the intermediate inputs and the social transfers in kind. When again
+looking at country level data, we find that GVA and intermediate consumption account for about
+99% of government spending.
+To include intermediate consumption in our government spending measure, we use input-
+output tables from the PBL EUREGIO database. This is the first time-series (annual, 2000–2010) of
+1According to data collected from Eurostat for the sample between 1995 and 2016.
+iii
+
+=== page 55 ===
+global IO tables with regional detail for the entire large trading bloc of the European Union. This
+database allows for a regional analysis at the NUTS 2 level consistent with our baseline method.
+The tables merge data from World Input-Output Database (the 2013 release) with regional eco-
+nomic accounts and inter-regional trade estimates developed by PBL Netherlands Environmental
+Assessment Agency and complemented with survey-based regional input-output data for a lim-
+ited number of countries. All data used are survey data, and only non-behavioral assumptions
+have been made to estimate the EUREGIO dataset. These two general rules of data construction
+allow empirical analyses focused on impacts of changes in behavior without endogenously hav-
+ing this behavior embedded already by construction. More detailed information can be found in
+Thissen et al. (2018).
+The PBL EUREGIO database provides estimates for intermediate consumption of the non-
+market sector at the NUTS 2 level from 2000–2010. Thus, we adjust regional GVA of the non-
+market sector by a region-specific time-invariant scaling factor to include intermediate consump-
+tion in our government spending measure to obtain our proxy for regional government spending.
+Second, to quantitatively assess the quality of our proxy, we study its time series proper-
+ties comparing them to the actual measure of government spending at the national level.2 In
+particular, we use intermediate consumption adjusted GVA of the non-market sector from the
+ARDECO and EUREGIO datasets at the NUTS 0 (country) level and the series on final consump-
+tion expenditures of the general government from the annual macro-economic database of the
+European Commission’s Directorate General for Economic and Financial Affairs (AMECO). The
+pooled correlation coefficients between the GVA and the government spending series (both in
+levels and logs) are about 0.99 and highly significant. Such strong positive correlations also hold
+at the individual country level as can be seen in Table A.3. With the exceptions of Italy, the
+correlation coefficients are around 0.99. Moreover, Table A.4 shows the estimation results from
+regressing government spending on our proxy in log level with and without country and year
+fixed effects. All regressions indicate a significant and strong relationship between the two vari-
+ables with coefficients close to 1.
+So far, the analysis was conducted at the national (NUTS 0) level. We go one step further
+and compare our regional (NUTS 2) proxy for government spending to the government final
+consumption expenditure series from the PBL EUREGIO database. The EUREGIO database pro-
+vides estimates of regional government spending but only for a subset of our sample (2000 to
+2010). Notwithstanding, when doing this comparison, we find that both series are highly signif-
+icantly correlated. The correlation coefficient between the two series in logs is close to 1. Table
+2Remember that, at the national level, GVA of the non-market sector, intermediate consumption, and govern-
+ment spending are available, whereas at the regional level only GVA of the non-market sector and intermediate
+consumption are available from national accounts data.
+iv
+
+=== page 56 ===
+A.5 presents the same regressions as before but now at the regional level. There is a strong and
+significant relationship between the EUREGIO estimated government spending series and our
+government spending proxy given that the coefficients are estimated to be close to 1.
+In sum, we conclude that regional GVA of the non-market sector is a valid proxy for regional
+government spending. It is closely linked to government spending in the national accounts, and
+both series share remarkably similar time series properties.
+Table A.3: Correlation Between Government Spending and our proxy by Country
+Correlation w/ AMECO Series
+Balanced panel: 1995-2015
+Unbalanced panel
+Country
+Levels
+Logs
+Levels
+Logs
+Austria
+0.990
+0.989
+0.990
+0.989
+Finland
+0.995
+0.995
+0.987
+0.991
+France
+0.995
+0.995
+0.997
+0.996
+Germany
+0.980
+0.978
+0.985
+0.983
+Italy
+0.933
+0.928
+0.933
+0.928
+Portugal
+0.975
+0.978
+0.975
+0.978
+Spain
+0.994
+0.996
+0.994
+0.996
+Sweden
+0.997
+0.996
+0.997
+0.996
+All
+0.996
+0.996
+0.997
+0.997
+Notes: This shows, by country, the correlation in levels and logs between our proxy for government spending (from
+ARDECO) with actual government spending (from AMECO). In the first column we use data 1995 to 2015 because
+it is the time period where AMECO has data for all countries, in the second column we display the estimates when
+including data extending before 1995.
+A.3
+NUTS 1 variation within NUTS 2 regions
+For our main analysis, we rely on NUTS 2 data as it provides more variation in the main
+variables relative to less disaggregated datasets, allowing us to perform more robust exercises
+and explore state dependencies. To further support this choice, the following analysis focuses
+on examining the variation within NUTS 1 regions for three key variables: the instrument, the
+outcome variable (far vote share), and the main regressor (government spending).
+We start by excluding 19 (out of 126) NUTS 2 regions that coincide with NUTS 1 regions. Then,
+for each NUTS 2 region, we compute for each variable the difference between the actual value
+of the respective variable (XNUTS2
+i,t
+) and the NUTS 1 counterfactual — the value of the respective
+variable at the NUTS 1 level (XNUTS1
+i,t
+). By construction, the value for a NUTS 1 region will be
+a weighted average of all the NUTS 2 sub-regions within a NUTS 1 region. Finally, we take the
+absolute value of the difference thus computing |XNUTS2
+i,t
+−XNUTS1
+i,t
+|.
+Figure A.1 plots the distributions of this measure for the three key variables. We can interpret
+v
+
+=== page 57 ===
+Table A.4: Proxy for Government Spending at the National Level
+log proxy
+(1)
+(2)
+(3)
+Panel A: AMECO - Balanced panel: 1995-2015
+log GovSpend
+1.00
+1.01
+0.85
+( 0.000)
+( 0.000)
+( 0.008)
+[ 0.94, 1.04]
+[ 0.64, 1.29]
+[ 0.09, 1.54]
+# Obs
+168
+168
+168
+Panel B: AMECO - Unbalanced panel
+log GovSpend
+1.01
+1.06
+0.89
+( 0.000)
+( 0.000)
+( 0.008)
+[ 0.94, 1.06]
+[ 0.70, 1.29]
+[ 0.15, 1.58]
+# Obs
+204
+204
+204
+Country FE
+No
+Yes
+Yes
+Time FE
+No
+No
+Yes
+Notes: Columns (1) to (3) show the results from regressing the log of the government spending series from AMECO
+on the log of our proxy for government spending at the national level (NUTS 0). In the first panel we use data 1995
+to 2015 because it is the time period where AMECO has data for all countries, in the second column we display the
+estimates when including data extending before 1995. We report wild bootstrap cluster p-values in parentheses and
+wild bootstrap cluster 95 percent confidence intervals in square brackets, generated using boottest command in Stata
+15 (Roodman et al. 2019) for standard errors clustered at the country level (8 clusters).
+Table A.5: Proxy for Government Spending at the Regional Level
+log proxy
+(1)
+(2)
+(3)
+log GovSpend
+1.00***
+1.07***
+0.87**
+( 0.08 )
+( 0.18 )
+( 0.38 )
+Regional FE
+No
+Yes
+Yes
+Time FE
+No
+No
+Yes
+# Obs
+1,265
+1,265
+1,265
+Notes: Columns (1) to (3) show the results from regressing the log of the regional government spending series from
+EUREGIO on the log of our proxy for government spending from ARDECO at the regional level (NUTS 2). Data
+from 2000 to 2010. Robust standard errors clustered at the region level in parentheses. ∗p < 0.10, ∗∗p < 0.05, ∗∗∗
+p < 0.01
+the graph as follows: the further away the absolute difference is from zero, the more variation
+we gain from using NUTS 2 vis-`a-vis NUTS 1 data.
+Because we take the absolute difference, we can also run a regression of the variable of interest
+on a constant and formally test the null hypothesis of the difference being equal to zero. Here,
+the hypothesis is that the variation of NUTS 2 information within a NUTS 1 region is zero. If
+vi
+
+=== page 58 ===
+Figure A.1: Distributions of the within Nuts1 variation of Nuts 2 regions
+0
+5
+10
+15
+20
+25
+Density
+0
+.5
+1
+1.5
+2
+Instrument
+0
+.2
+.4
+.6
+.8
+Density
+0
+5
+10
+15
+20
+25
+Far vote share (p.p.)
+0
+.05
+.1
+.15
+.2
+.25
+Density
+0
+20
+40
+60
+Gov. spending growth (%)
+Notes: The figures plot the within Nuts 1 variation of the key variables in this paper: the instrument, the far vote
+share, and the regional government spending growth.
+the values are the same, then using NUTS 2 information does not add value to do the analysis.
+However, if within the same NUTS 1 region, there are regions with much bigger values, and
+others with much smaller ones, there is a strong within NUTS 1 variation and it makes sense
+to use NUTS 2 data. The results presented in Table A.6 show that the estimated constants are
+statistically significant which implies that there is a substantial gain in terms of variation when
+using NUTS 2 level data.
+Table A.6: Testing distribution
+Instrument
+Far Vote Share
+Gov. Spending
+Constant
+0.08***
+1.88***
+2.84***
+T-stat
+[20.8]
+[29.9]
+[58.4]
+# Obs
+1,451
+1,980
+3,712
+Notes: This Table presents tests the null hypothesis of the difference being equal to zero, that is that the variation of
+Nuts 2 information within Nuts 1 region is zero for the instrument Gi
+GI
+×˜gI,t which is measured in % of national GDP,
+for the far vote share change which is measured in percentage points, and for the per capita regional government
+spending growth measured in percent. The number of observations differ because columns 1 and 2 only use periods
+where there is a fiscal consolidation episode or an election takes place, respectively.
+Appendix B
+Coding of Elections and their variables
+Figure B.1 provides a chronology of elections from 1975–2015 by country. Altogether, we
+identify more than 200 elections, and the final sample of coded elections includes more than 2,000
+election-region observations. We include all general elections to the European parliament (eu),
+to the national parliament (nat), and also regional elections (reg). The latter might happen in dif-
+vii
+
+=== page 59 ===
+ferent years for different regions in Spain, Italy, and Germany. For national parliament elections,
+in the case of a bicameral legislative, we only consider results from the lower legislative chamber.
+This means that we focus on the following national elections: Austria: National Council (lower
+house); Germany: Bundestag (unicameral); Spain: Congress of Deputies (lower house); Finland:
+Eduskunta (unicameral); France: National Assembly (lower house); Italy: Chamber of Deputies
+(lower house); Portugal: Assembly of the Republic (unicameral); Sweden: Riksdag (unicameral).
+Data sources for Austria, France, Italy, Spain, and Sweden are Schakel (2013, 2021) and his project
+on Regional Elections. For the other countries we relied on national sources: Finland (Statistics
+Finland), Germany (Federal Returning Officers), and Portugal (Pordata).
+Figure B.1: Elections’ data table
+Notes: The table provides a chronology of elections from 1975–2015 by country. We include all general elections
+to the European parliament (eu) and to the national parliament (nat), as well as regional elections (reg). For na-
+tional parliament elections, in the case of a bicameral legislative, we only consider results from the lower legislative
+chamber. This means that we focus on the following national elections: Austria: National Council (lower house);
+Germany: Bundestag (unicameral); Spain: Congress of Deputies (lower house); Finland: Eduskunta (unicameral);
+France: National Assembly (lower house); Italy: Chamber of Deputies (lower house); Portugal: Assembly of the
+Republic (unicameral); Sweden: Riksdag (unicameral). Data sources for Austria, France, Italy, Spain, and Sweden
+are Schakel (2013, 2021) and his project on Regional Elections [1]. For the other countries (Finland, Germany, and
+Portugal), we relied on national sources [2].
+Coding of far-right and far-left parties
+Table B.1 shows our full list of far-left and far-right
+parties in the period from 1980 to 2015. We mainly follow the classification in Funke et al. (2016);
+Algan et al. (2017) and draw on their own sources such as Ignazi (1992), Ignazi (2003), March
+(2012), Minkenberg (2011), Mudde (2002, 2005, 2016), D¨oring and Manow (2016), Bernhard and
+Kriesi (2019) as well as country reports by Stiftung (2010) and a large number of country-specific
+sources. We further supplement their classification by evaluating political parties that only con-
+test in regional elections by Massetti and Schakel (2015). Moreover, we relied on specific case
+studies to determine whether specific regionalist parties were perceived as far-winged or not, as
+the case of Galician Nationalist Bloc (Cachafeiro 2009).
+viii
+
+=== page 60 ===
+Table B.1: List of far right (R) and far left (L) parties since 1980 by country
+Country
+Party
+Party name (Code)
+Austria
+R
+Alliance for the Future of Austria (BZO); Freedom Party of Austria (FPO, FPS, FPK);
+National Democratic Party (NDP); A Heart for Natives (Herz)
+L
+Communists and Left Socialists (KB); Communist Party of Austria (KPO);
+Socialist Left Party (SLP); Radical Socialist Worker’s Party (RSA);
+Marxist–Leninist Party (ML ¨O); Left (LINKE)
+Finland
+R
+Finns Party (PS); Finish Rural Party (PS); Finnish People’s Blue-whites (SKS)
+L
+Communist Worker’s Party (KTP); Communist Party of Finland (SKP);
+Finnish People’s Democratic League (VAS); Left Alliance (VAS)
+France
+R
+Movement for France (MPF); National Front (FN); National Republican Movement (MNR);
+France Arise (DLF); Republic Arise (DLR); Alsace d’Abord (ADA); Right Radicals (RD);
+League of the South (LDS); Republican People’s Union (UPR); Nationalist League (LIN);
+Anti-replacement List (AP); Party of New Forces (PFN); French Party (PDF);
+Extreme Right (EXD); Right Union (UDN)
+L
+French Communist Party (PCF); Left Front (PG); Revolutionary Communist League (LCR);
+Worker’s Struggle (LO); Worker’s Party (MPPT); Independent Worker’s Party (POI);
+New Anticapitalist Party (NPA); Communists (COM); Extreme Left (EXG);
+Union Democratic of Bretagne (UDB); Abertzaleen Batasuna (AB); Corsica Libera (CL)
+Germany
+R
+Alternative for Germany (AfD); Freedom - Civil Rights Movement Solidarity (BFBDO);
+Law and Order Offensive (Schill); National Democratic Party of Germany (NPD);
+STATT Party; Pro Germany Citizens’ Movement (ProD); The Republicans (REP);
+Patriots for Germany (Patrioten); German People’s Union (DVU); The Right (DR);
+German Social Union (DSU); Bayernpartei (BP)
+L
+The Left (LINKE); Party of Democratic Socialism (PDS); Communist Party of Germany (KPD);
+Marxist-Leninist Party of Germany (MLPD); League of West German Communists (BWK);
+German Communist Party; Socialist Equality Party (SGP); Spartacist Workers’ Party (SpAD)
+Portugal
+R
+National Renovator Party (PNR); People’s Monarchist Party (PPM);
+New Democracy Party (PND); Christian Democratic Party (PDC,PPV,CDC)
+L
+Democratic Unitarian Coalition (CDU); Left Bloc (BE); Left Revolutionary Front (FER);
+People’s Democratic Union (UDP); People’s Socialist Front (FSP);
+Portuguese Communist Party (PCP); Portuguese Workers’ Communist Party (PCTP);
+Revolutionary Socialist Party (PSR); United People Alliance (APU);
+Re-Organized Movement of the Party of the Proletariat (MRPP);
+Workers Party of Socialist Unity (PT, POUS, MUT); Socialist Alternative Movement (MAS);
+Portuguese Labour Party (PTP); Movement of the Party of the Proletariat (MRPP);
+Internationalist Communist League (LCI); Movement of Socialist Left (MES);
+Marxist–Leninist Communist Organization (OCMLP); Revolutionary Labor Party (PRT);
+Left-wing Union for the Socialist Democracy (UEDS)
+Sweden
+R
+New Democracy (NYD); National Democrats (ND); Sweden Democrats (SD,SVD);
+National Socialist Front (NSF); Progress Party (FRA,FRP); Party of the Swedes (SVP)
+Scania Party (SKAP,SP); Nordic Resistance Movement (NMR); European Worker’s Party (EAP)
+L
+Communist Party of Sweden (SKP); Communist League Marxists-Leninists (KFML);
+Communist League Marxist–Leninists (KPMLR); Workers’ Party – The Communists (APK)
+Communists (KOM); National Communist Party (NKP); Socialist Justice Party (RS)
+The Left Party (V); Socialist Party (SOP, SOC)
+Notes: This classification is combines the classification from Massetti and Schakel (2015); Funke et al. (2016); Algan
+et al. (2017) and their sources.
+ix
+
+=== page 61 ===
+Table B.2: List of far right (R) and far left (L) parties since 1980 for Italy and Spain
+Country
+Party
+Party name (Code)
+Italy
+R
+Brothers of Italy (FDICN); Casa Pound (CAPI); Italian Social Movement (MSIDN);
+National Alliance (ANA); New Force (FNU); No Euro (NEUR);
+Piemont Autonomia Regionale (PIEAR);
+Social Alternative(ASM); The Freedomites (DF); The Right(LDES); Tricolour Flame (FT);
+Fronte Nazionale; Alternativa Sociale; Movimento Idea Sociale; Io Amo l’Italia; Io Sud;
+Wahlverband des Heimatbundes; S¨udtiroler Heimatbund; Freiheitliche Partei S¨udtirols;
+Union f¨ur S¨udtirol; S¨ud-Tiroler Freiheit; Valli Unite; L’Alto Adige nel Cuore;
+SOS Italia; Autonomie per l’Europa; Destre Unite;
+Lega d’Azione Meridionale; Noi con Salvini; Lega Sardegna;
+Nello Musumeci Presidente; Sovranita
+L
+Civil Revolution (RC); Communist Refoundation Party (PRC); Critical Left (SINC);
+Communist Worker’s Party (PCDL); Party of Italian Communists (PDCI);
+Party of Proletarian Unity for Communism (PDUP); Five Star Movement (M5S);
+Anticapitalist Left (SA); Un’Altra Regione; La Sinistra della Libert`a;
+L’Altra Europa con Tsipras; Nuova Sinistra; Democrazia Proletaria;
+Lega Socialista Rivoluzionaria; Lega Comunista Rivoluzionaria; Sardegna Natzione;
+L’Altra Europa con Tsipras; La Sinistra-L’Arcobaleno;
+Independentia Repubrica de Sardigna; Sinistra Ecologia Libert`a;
+Partito di Alternativa Comunista
+Spain
+R
+Basque Nationalists (EAJ-PNV); Falange Espa˜nola (FE); Vox; Fuerza Nueva;
+Democracia Ourensana; Democracia Nacional; Partido Familia y Vida; Identidad Espa˜nola;
+Partido Nacionalista Cantabro; Partido Democrata Espa˜nol; Plataforma per Catalunya;
+Movimiento Social Republicano; Grupo Independiente Liberal; Alternative Espa˜nola;
+Espa˜na 2000; Plataforma Espa˜na 2000; Coalicio Valenciana; Uni´o Valencia;
+Partido Nacional de los Trabajadores; Frente Nacional-MSR; Juntas Espa˜nolas;
+Movimiento Catolico Espa˜nol; Estado Nacional Europeo; Partido Union Nacional;
+Solidaridad Espa˜nola
+Notes: This classification combines the classification from Massetti and Schakel (2015); Funke et al. (2016); Algan
+et al. (2017) and their sources. Minor parties that either consistently have a small vote share or participate in very
+few elections are in Spanish/Italian.
+x
+
+=== page 62 ===
+Table B.3: List of far right (R) and far left (L) parties since 1980 for Spain
+Country
+Party
+Party name (Code)
+Spain
+L
+Communist Party of Spain (PCE); Communist Party of Spain (Marxist–Leninist) (PCEML);
+Unified Socialist Party of Catalonia (PSUC-PCE); United Left (IU); Podemos (PODEMOS);
+Galician Nationalistic Bloc (BNG); Workers’ Party of Marxist Unification (POUM);
+Esquerda Galega; Partido Socialista Galego; Izquierda de los Pueblos; En Marea;
+Frente Popular Galego; Liga Comunista Revolucionaria; P. Comunis de Galicia Mar-Rev;
+Partido Socialista de los Trabajadores; Movimiento Comunista; Assembleia Do Povo Unido;
+Coalici´on por un nuevo Partido Socialista; N´os-Unidade Popular; Partido Socialista;
+Partido Comunista Obrero Espa˜nol; Unificacion Comunista De Espa˜na; Accion Republicana;
+Mesa Para La Unidad De Los Comunistas; Partido Comunista de los pueblos de Espa˜na;
+Euskal Komunistak; Partido de los Trabajadores de Espana-Unidad Comunista;
+Naci´on Andaluza; Izquierda Andaluza; Recortes Cero; Adelante Andalucia;
+Partido Comunista Aragon´es; Unidad Popular Republicana; Coalici´on Lucha Popular;
+Coalici´on Uni´on Pueblo Canario; Frente Popular De Canarias; Awa˜nac; M´as Madrid;
+Congreso Nacional de Canarias; Izquierda Nacionalista Canaria; Iniciativa Canaria;
+Coalici´on Canaria por la Independencia; Agrupaci´on Electoral Izquierda Cantabria Unida;
+Partido Obrero Socialista Internacionalista; Izquierda Castellana; Alternativa Socialista;
+Coalici´o d’Esquerra d’Alliberament Nacional-Unitat Popular; Nacionalistes d’Esquerra;
+Partit Comunista Obrer de Catalunya; Coalici´on Unidad Comunista; Unitat Popular Socialisme;
+Partit Socialista Unificat de Catalunya; Candidatura d’Unitat Popular Alternativa d’Esquerres;
+Partido de los Obreros Revolucionarios de Espana; Partit dels Comunistes de Catalunya;
+Iniciativa Per Catalunya Verds; Lucha Internacionalista; Catalunya S´ı que es Pot;
+Partido Socialista del Pueblo de Ceuta; Liga Comunista; Plataforma de Izquierdas;
+Agrupaci´on Electores AUZOLAN; Euskadiko Ezkerra; Herri Batasuna; Partido Carlista;
+Amaiur; Union Navarra De Izquierda; Batzarre; Euskal Herritarrok; Aralar; Nafarroa Bai;
+Euskal Herria Bildu; Geroa Bai; Esquerra Nacionalista Valenciana; Bloque Popular Extremadura;
+Partit Socialista de Menorca; Partit Socialista de Mallorca; Entesa de l’Esquerra de Menorca;
+PSM-Nacionalistes de les Illes; M´es per Menorca; Ensame Nacionalista Astur; Eusko Alkartasuna;
+Partido Comunista de las Tierras Vascas; Anticapitalistas; Partido Obrero Revolucionario;
+Organizacion Revolucionaria De Los Trabajadores; Partido de los Trabajadores de Euskadi;
+Movimiento Comunista; Partit Revolucionari dels Treballadors; Partido del Trabajo de Espa˜na;
+Unid´a Nacionalista Asturiana; Candidatura De Unidad Comunista; Los Pueblos Deciden;
+Mesa Para La Unidad De Los Comunistas; Izquierda Anticapitalista Revolucionaria
+Notes: This classification combines the classification from Massetti and Schakel (2015); Funke et al. (2016); Algan
+et al. (2017) and their sources. Minor parties that either consistently have a small vote share or participate in very
+few elections are in Spanish/Italian.
+xi
+
+=== page 63 ===
+Coding parties in the government
+To classify the incumbent parties leading the government
+for each country at each point in time, we followed the Chapel Hill expert surveys (Jolly et al.
+2022). As the incumbent government may be composed of a coalition of different parties, we
+decided to take the prime-minister affiliation as the key indicator. Figure B.2 summarizes the
+classification: when the prime-minister of the incumbent government is affiliated to a left- or
+right-leaning party is displayed with the color red or blue, respectively.
+Figure B.2: Classification of incumbent into left or right-leaning
+Austria
+Finland
+France
+Germany
+Italy
+Portugal
+Spain
+Sweden
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+2015
+Notes: This figure displays which year-region observations are classified as an incumbent government being left
+(red) or right (blue) leaning when implements austerity measures.
+For the analysis in Panel C of Table C.4, we also complemented that classification with the
+above Tables to collected information on the far parties that were part of a government. They
+are as follows: Austria: BZO (2002-2005) FPO (1983-1985; 1999-2005); Finland: PS (1983-1990 and
+2015-2018); VAS (1980-1982; 1995-2002; 2011-2013); France: MPF (2002-2011); PCF (1981-1985;
+1988-1992; 1997-2001); Italy: AN (1994-1995; 2001-2005); ANA (1994-1995; 2001-2005); FN (2001-
+2005); PDCI (2006-2007); PRC (2006-2007); SEL (2013-2015).
+xii
+
+=== page 64 ===
+Appendix C
+Additional Results
+Figure C.1: Austerity by Country
+−1
+0
+1
+2
+3
+4
+Austerity (% of GDP)
+1980 1985 1990 1995 2000 2005 2010 2015
+Year
+ Austria 
+−1
+0
+1
+2
+3
+4
+Austerity (% of GDP)
+1980 1985 1990 1995 2000 2005 2010 2015
+Year
+ Finland 
+−1
+0
+1
+2
+3
+4
+Austerity (% of GDP)
+1980 1985 1990 1995 2000 2005 2010 2015
+Year
+ France 
+−1
+0
+1
+2
+3
+4
+Austerity (% of GDP)
+1980 1985 1990 1995 2000 2005 2010 2015
+Year
+ Germany 
+−1
+0
+1
+2
+3
+4
+Austerity (% of GDP)
+1980 1985 1990 1995 2000 2005 2010 2015
+Year
+ Italy 
+−1
+0
+1
+2
+3
+4
+Austerity (% of GDP)
+1980 1985 1990 1995 2000 2005 2010 2015
+Year
+ Portugal 
+−1
+0
+1
+2
+3
+4
+Austerity (% of GDP)
+1980 1985 1990 1995 2000 2005 2010 2015
+Year
+ Spain 
+−1
+0
+1
+2
+3
+4
+Austerity (% of GDP)
+1980 1985 1990 1995 2000 2005 2010 2015
+Year
+ Sweden 
+Notes: Austerity episodes are identified as spending based consolidation episodes according to Alesina et al. (2020).
+xiii
+
+=== page 65 ===
+Figure C.2: Sample regions and the share si
+(1.03,1.57]
+(.92,1.03]
+(.86,.92]
+[.72,.86]
+No data
+Notes: The figure depicts the map of European NUTS 2 regions with the share si used in Bartik instrument construc-
+tion.
+xiv
+
+=== page 66 ===
+Table C.1 presents the relationship between the instrument and lagged economic and political
+variables. All variables are expressed in growth rates computed as the change between t −2 and
+t −1 with the exception of the lagged vote share and the instrument which are expressed in
+percentage points change and absolute value in t −1, respectively.
+Table C.1: Relationship between the instrument and lagged economic and political variables
+Instrument
+T-stat
+Constant
+-0.15***
+[-5.0]
+GDP per capita
+0.00
+[0.3]
+Far vote share
+0.01
+[1.4]
+Population
+0.01
+[0.4]
+Employment
+0.02
+[0.8]
+Compensation per worker
+-0.01
+[-0.5]
+Political Fragmentation
+0.00
+[0.4]
+Hours per worker
+0.02
+[1.4]
+Labor Share
+0.01
+[0.8]
+Spending per capita
+0.00
+[0.4]
+Instrument
+0.52***
+[5.4]
+# Obs
+3,915
+R2
+0.55
+Notes: This Table presents the relationship between the instrument and lagged economic and political variables. All
+variables are expressed in growth rates computed as the change between t −2 and t −1 with the exception of the
+lagged vote share and the instrument which are expressed in percentage points change and absolute value in t −1,
+respectively. T-Stats in square brackets next to the coefficient estimate. Significance levels: ∗p < 0.10, ∗∗p < 0.05,
+∗∗∗p < 0.01
+xv
+
+=== page 67 ===
+Table C.2 presents the results of regressing the regional spending share (share part of the
+instrument) on the average regional increase in extreme voting.
+Table C.2: Relationship between the instrument and extreme parties vote share
+Average Regional Spending share Gi
+GI
+Constant
+0.98***
+T-stat
+[42.4]
+Average far vote share increase
+-0.01
+T-stat
+[-0.5]
+# Obs
+126
+Notes: This table presents the results of regressing the regional spending share (share part of the instrument) on the
+average regional increase in extreme voting. T-Stats in square brackets next to the coefficient estimate.
+xvi
+
+=== page 68 ===
+Table C.3: Response of far vote share: robustness dropping one country at the time
+Total far vote share
+Impact
+1 Year
+2 Years
+3 Years
+4 Years
+Baseline
+1.39***
+2.28***
+2.24***
+2.26***
+3.17***
+( 0.30 )
+( 0.52 )
+( 0.54 )
+( 0.51 )
+( 0.75 )
+# Obs
+3,944
+3,944
+3,818
+3,692
+3,566
+Austria
+1.48***
+2.45***
+2.44***
+2.51***
+3.53***
+( 0.30 )
+( 0.52 )
+( 0.55 )
+( 0.52 )
+( 0.77 )
+# Obs
+3,656
+3,656
+3,539
+3,422
+3,305
+Finland
+1.42***
+2.39***
+2.34***
+2.43***
+3.44***
+( 0.28 )
+( 0.49 )
+( 0.51 )
+( 0.49 )
+( 0.70 )
+# Obs
+3,816
+3,816
+3,694
+3,572
+3,450
+France
+1.42***
+2.24***
+2.69***
+2.44***
+3.78***
+( 0.33 )
+( 0.55 )
+( 0.61 )
+( 0.57 )
+( 1.01 )
+# Obs
+3,240
+3,240
+3,136
+3,032
+2,928
+Germany
+1.42***
+1.86***
+2.02***
+1.81***
+2.90**
+( 0.47 )
+( 0.71 )
+( 0.74 )
+( 0.65 )
+( 1.27 )
+# Obs
+2,816
+2,816
+2,728
+2,640
+2,552
+Italy
+0.38**
+0.60**
+0.09
+0.82**
+1.74**
+( 0.18 )
+( 0.29 )
+( 0.32 )
+( 0.35 )
+( 0.79 )
+# Obs
+3,272
+3,272
+3,167
+3,062
+2,957
+Portugal
+1.58***
+2.68***
+2.50***
+2.61***
+2.97***
+( 0.29 )
+( 0.54 )
+( 0.55 )
+( 0.54 )
+( 0.57 )
+# Obs
+3,720
+3,720
+3,601
+3,482
+3,363
+Spain
+1.98***
+3.46***
+3.31***
+3.06***
+4.19***
+( 0.49 )
+( 0.86 )
+( 0.84 )
+( 0.78 )
+( 1.26 )
+# Obs
+3,400
+3,400
+3,291
+3,182
+3,073
+Sweden
+1.30***
+2.16***
+1.99***
+2.04***
+2.76***
+( 0.29 )
+( 0.50 )
+( 0.50 )
+( 0.48 )
+( 0.65 )
+# Obs
+3,688
+3,688
+3,570
+3,452
+3,334
+Notes: This table shows the response of extreme vote share to an austerity-induced fiscal spending shock using the
+baseline specification but excluding individual countries iteratively from the base sample. ∗p < 0.10, ∗∗p < 0.05,
+∗∗∗p < 0.01
+xvii
+
+=== page 69 ===
+Table C.4: Response of total far vote share: state-dependencies
+Total far vote share
+Impact
+1 Year
+2 Years
+3 Years
+4 Years
+Baseline
+1.39***
+2.28***
+2.24***
+2.26***
+3.17***
+( 0.30 )
+( 0.52 )
+( 0.54 )
+( 0.51 )
+( 0.75 )
+# Obs
+3880
+3880
+3768
+3692
+3568
+Panel A: Far left share: centre-left vs centre-right government
+Centre-left
+2.19***
+2.37***
+2.73***
+2.35***
+2.95***
+( 0.58 )
+( 0.66 )
+( 0.78 )
+( 0.87 )
+( 1.07 )
+Centre-right
+-0.17
+0.21
+0.50**
+0.64***
+-0.09
+( 0.17 )
+( 0.19 )
+( 0.20 )
+( 0.17 )
+( 0.26 )
+HAC Test
+0.00
+0.00
+0.01
+0.07
+0.01
+AR Test
+0.00
+0.00
+0.00
+0.00
+0.00
+Panel B: Far right share: centre-left vs centre-right government
+Centre-left
+0.64**
+1.62***
+1.07*
+2.07**
+2.99***
+( 0.32 )
+( 0.53 )
+( 0.58 )
+( 0.89 )
+( 1.07 )
+Centre-right
+0.08
+0.16
+0.20
+0.02
+-0.33
+( 0.12 )
+( 0.17 )
+( 0.25 )
+( 0.19 )
+( 0.25 )
+HAC Test
+0.15
+0.01
+0.11
+0.02
+0.01
+AR Test
+0.13
+0.00
+0.10
+0.01
+0.00
+Panel C: Far party in government?
+Yes
+5.07***
+8.24***
+7.86***
+7.09**
+5.12*
+( 1.47 )
+( 2.28 )
+( 2.19 )
+( 2.96 )
+( 2.61 )
+No
+1.39***
+2.34***
+2.45***
+2.56***
+3.88***
+( 0.31 )
+( 0.55 )
+( 0.61 )
+( 0.62 )
+( 0.94 )
+HAC Test
+0.01
+0.00
+0.00
+0.08
+0.57
+AR Test
+0.00
+0.00
+0.00
+0.00
+0.50
+Notes: The first Panels separate the periods in which the incumbent government implementing the austerity mea-
+sures was left leaning or right leaning, Panel A presents the response of far left while Panel B the response of Far
+right. Panel C presents the results separating periods in which at least one far party is included in the government.
+The AR test presents the p-value of the difference between states using the Anderson and Rubin (1949) test, while
+the HAC test indicates the HAC-robust p-values of the difference between states. Clustered standard errors are pre-
+sented between brackets. Significance levels: ∗p < 0.10, ∗∗p < 0.05, ∗∗∗p < 0.01
+xviii
+
+=== page 70 ===
+Appendix D
+Output and employment multipliers
+In estimating output and employment government spending multipliers, we follow Gabriel
+et al. (2023) but use the identification strategy from the baseline analysis described in Section 3.
+We use local projections (Jord`a 2005) and estimate for each horizon h = 0, ..., 4, the following
+equation:
+h
+X
+m=0
+zi,t+m =βh
+h
+X
+m=0
+Gi,t+m −Gi,t−1
+Yi,t−1
++ γh(L)Xi,t−k + αi,h + δt,h + εi,t+m,
+(A.1)
+where zi,t+m is either the change in real per capita GDP, Yi,t+m−Yi,t−1
+Yi,t−1
+, or the change in the
+employment rate, Ei,t+m−Ei,t−1
+Ei,t−1
+, in region i between time t −1 and time t + m. (L)Xi,t−k is a
+vector of control variables with k = 2, including lags of the dependent variable and of GDP
+and government spending growth, αi,h are region fixed-effects, and δt,h are time fixed-effects.
+Figure D.1 depicts the cumulative GDP and employment multipliers, where the solid lines show
+the point estimate βh over a horizon of four years and the dark and light shadings are 90% and
+95% confidence bands, respectively. Standard errors are clustered at the regional level.
+Figure D.1: Output and employment multipliers
+−4
+−2
+0
+2
+4
+0
+1
+2
+3
+4
+Horizon
+(a) Output multiplier
+−5
+−4
+−3
+−2
+−1
+0
+0
+1
+2
+3
+4
+Horizon
+(b) Employment multiplier
+Notes: Panels D.1a and D.1b show the cumulative relative fiscal and employment multipliers estimated according to
+Equation (A.1). Shaded areas are 90% (dark) and 95% (light) confidence intervals.
+xix

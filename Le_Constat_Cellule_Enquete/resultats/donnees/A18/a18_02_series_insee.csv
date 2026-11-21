@@ -1,0 +1,59 @@
+cle;valeur;note
+annees_solde_positif_pctPIB_fig2;[1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1972, 1974];Figure 2 solde % PIB, signe + = capacité
+solde_1974_Md€;0.199;
+solde_1974_pctPIB;0.1;
+solde_1975_pctPIB;-2.9;
+solde_1975_Md€;-6.886;
+nb_annees_deficit_1975_2025;51;sur 51 exercices 1975-2025
+annees_non_negatives_1975_2025;[];
+deficit_maastricht_serie_longue_1974;0.1;convention déficit positif
+solde_2009_Md€;-142.834;
+solde_2009_pctPIB;-7.4;
+solde_2020_Md€;-207.084;
+solde_2020_pctPIB;-8.9;
+solde_2021_Md€;-165.149;
+solde_2021_pctPIB;-6.6;
+solde_2025_Md€;-151.592;
+solde_2025_pctPIB;-5.1;
+record_deficit_Md€;(2020, -207.084);
+dep_rec_1960;(35.8, 36.98);% PIB
+dep_rec_1973;(40.92, 40.85);% PIB
+dep_rec_1974;(41.34, 41.44);% PIB
+dep_rec_1975;(46.19, 43.25);% PIB
+dep_rec_1980;(48.05, 47.61);% PIB
+dep_rec_1983;(52.58, 50.01);% PIB
+dep_rec_1984;(53.57, 50.81);% PIB
+dep_rec_1985;(54.18, 51.18);% PIB
+dep_rec_1990;(51.61, 49.16);% PIB
+dep_rec_1992;(54.01, 49.37);% PIB
+dep_rec_1993;(56.54, 50.14);% PIB
+dep_rec_1994;(55.88, 50.42);% PIB
+dep_rec_1995;(56.05, 50.94);% PIB
+dep_rec_1996;(56.02, 52.12);% PIB
+dep_rec_2007;(53.63, 50.64);% PIB
+dep_rec_2019;(55.35, 52.95);% PIB
+dep_rec_2023;(56.75, 51.39);% PIB
+dep_rec_2024;(56.98, 51.22);% PIB
+dep_rec_2025;(57.31, 52.24);% PIB
+hausse_rec_1974_2025_pts;10.8;
+hausse_dep_1974_2025_pts;15.97;
+ecart_dep_moins_rec_2025;5.07;
+hausse_rec_1985_2025_pts;1.06;
+hausse_dep_1985_2025_pts;3.12;
+hausse_rec_1974_1985_pts;9.74;
+hausse_dep_1974_1993_pts;15.2;part de la hausse 1974-2025 acquise en 1993 = 95 %
+dep_moyenne_1994_2025;56.17;min 52.6 max 61.7
+rec_max_1985_2025;(2017, 54.3);
+dette_2007_pctPIB;65.5;mois de production = 7.86
+dette_2008_pctPIB;69.8;mois de production = 8.38
+dette_2012_pctPIB;91.7;mois de production = 11.00
+dette_2019_pctPIB;98.2;mois de production = 11.78
+dette_2020_pctPIB;114.9;mois de production = 13.79
+dette_2021_pctPIB;112.8;mois de production = 13.54
+dette_2022_pctPIB;111.4;mois de production = 13.37
+dette_2024_pctPIB;112.6;mois de production = 13.51
+dette_2025_pctPIB;115.7;mois de production = 13.88
+dette_2025_2024_croissance_%;4.66;
+PIB_implicite_2024_2025_Md€;(2936.1, 2990.6);dette Md€ / dette %PIB
+croissance_PIB_nominal_2025_implicite_%;1.85;
+ratio_vitesse_dette_sur_PIB_2025;2.51;

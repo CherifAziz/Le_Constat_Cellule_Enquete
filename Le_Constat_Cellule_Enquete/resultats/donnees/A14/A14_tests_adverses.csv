@@ -1,0 +1,30 @@
+enveloppe;test;net_2027;net_2030;note
+prudente;reference (central);18.8;18.6;
+prudente;1. elasticites fortes des assiettes mobiles;16.0;15.6;"capital/patrimoine/successions a 26 % (Jakobsen via CAE) ; IS a 55 % (IAG/IPP)"
+prudente;2. rendement inferieur de moitie;9.4;9.3;toutes mesures x 0,5
+prudente;3. exil (marge extensive seule);18.7;18.5;20 centimes par euro sur les mesures de capital
+prudente;4. effet recessif fort (m = 1,0);8.1;18.6;"semi-elasticite 0,57 ; dissipe en 2030"
+prudente;5. plafond d'acceptation;10.1;9.9;exclut 001, 007, 009, 010 (retires le 4/11/2026 ou rejetes au PLFSS 2026)
+prudente;6. temporaires non reconduites;12.1;12.9;"surtaxe IS non perennisee ; OC et desherence eteintes"
+prudente;7. cumul 2 + 4 + 5;2.2;4.9;scenario defavorable combine
+centrale;reference (central);30.1;38.1;
+centrale;1. elasticites fortes des assiettes mobiles;26.7;32.7;"capital/patrimoine/successions a 26 % (Jakobsen via CAE) ; IS a 55 % (IAG/IPP)"
+centrale;2. rendement inferieur de moitie;15.0;19.0;toutes mesures x 0,5
+centrale;3. exil (marge extensive seule);30.0;37.9;20 centimes par euro sur les mesures de capital
+centrale;4. effet recessif fort (m = 1,0);12.9;38.1;"semi-elasticite 0,57 ; dissipe en 2030"
+centrale;5. plafond d'acceptation;16.2;24.2;exclut 001, 007, 009, 010 (retires le 4/11/2026 ou rejetes au PLFSS 2026)
+centrale;6. temporaires non reconduites;22.0;32.4;"surtaxe IS non perennisee ; OC et desherence eteintes"
+centrale;7. cumul 2 + 4 + 5;3.5;12.1;scenario defavorable combine
+ambitieuse;reference (central);32.9;46.2;
+ambitieuse;1. elasticites fortes des assiettes mobiles;29.6;40.4;"capital/patrimoine/successions a 26 % (Jakobsen via CAE) ; IS a 55 % (IAG/IPP)"
+ambitieuse;2. rendement inferieur de moitie;16.5;23.1;toutes mesures x 0,5
+ambitieuse;3. exil (marge extensive seule);32.9;46.0;20 centimes par euro sur les mesures de capital
+ambitieuse;4. effet recessif fort (m = 1,0);14.2;46.2;"semi-elasticite 0,57 ; dissipe en 2030"
+ambitieuse;5. plafond d'acceptation;19.1;32.4;exclut 001, 007, 009, 010 (retires le 4/11/2026 ou rejetes au PLFSS 2026)
+ambitieuse;6. temporaires non reconduites;24.9;40.5;"surtaxe IS non perennisee ; OC et desherence eteintes"
+ambitieuse;7. cumul 2 + 4 + 5;4.1;16.2;scenario defavorable combine
+ambitieuse + 021 (conditionnel);sensibilite;;52.2;horizon 2030
+ambitieuse + 021 (conditionnel);sensibilite;;62.2;horizon 2035
+P-A14-017 seule;SMIC +1.5 %/an;;3.5;rendement proportionnel a la hausse du SMIC (Cour : +2,41 % = +2,2 Md)
+P-A14-017 seule;SMIC +2.41 %/an;;5.6;rendement proportionnel a la hausse du SMIC (Cour : +2,41 % = +2,2 Md)
+P-A14-017 seule;SMIC +3.5 %/an;;8.1;rendement proportionnel a la hausse du SMIC (Cour : +2,41 % = +2,2 Md)

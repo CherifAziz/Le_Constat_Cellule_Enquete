@@ -1,0 +1,127 @@
+=== 1. Prélèvements obligatoires (impôts + cotisations sociales nettes), % PIB, EU27, gov_10a_taxag
+D2_D5_D91_D61_M_D995 2023 n=27 [('FR', 45.5), ('DK', 44.9), ('BE', 44.3), ('AT', 42.9), ('FI', 42.9)] EA20 40.4 EU27 39.9
+D2_D5_D91_D61_M_D995 2024 n=27 [('BE', 45.2), ('FR', 45.1), ('DK', 44.6), ('AT', 43.3), ('LU', 42.5)] EA20 40.7 EU27 40.2
+D2_D5_D91_D61_M_D995 2025 n=27 [('FR', 46.0), ('BE', 44.7), ('DK', 44.3), ('AT', 43.9), ('IT', 43.0)] EA20 41.3 EU27 40.7
+D2_D5_D91_D61_M_D612_M_D614_M_D995 2023 n=27 [('DK', 44.7), ('FR', 43.8), ('FI', 42.9), ('AT', 42.5), ('SE', 42.4)] EA20 39.4 EU27 39.0
+D2_D5_D91_D61_M_D612_M_D614_M_D995 2024 n=27 [('DK', 44.5), ('FR', 43.4), ('AT', 42.9), ('BE', 42.8), ('FI', 42.3)] EA20 39.7 EU27 39.3
+D2_D5_D91_D61_M_D612_M_D614_M_D995 2025 n=27 [('FR', 44.3), ('DK', 44.2), ('AT', 43.6), ('IT', 42.8), ('FI', 42.5)] EA20 40.3 EU27 39.8
+=== 2. France vs zone euro 2025 (gov_10a_main, PC_GDP, base commune)
+2024 FR {'TE': 57.0, 'TR': 51.2, 'B9': -5.8, 'D41PAY': 2.0} EA20 {'TE': 49.3, 'TR': 46.2, 'B9': -3.0, 'D41PAY': 1.9} écarts FR-EA20 TE 7.70 TR 5.00 B9 -2.80
+2025 FR {'TE': 57.3, 'TR': 52.2, 'B9': -5.1, 'D41PAY': 2.2} EA20 {'TE': 49.8, 'TR': 46.8, 'B9': -3.0, 'D41PAY': 1.9} écarts FR-EA20 TE 7.50 TR 5.40 B9 -2.10
+2024 FR vs EA20 hors France (MIO_EUR / PIB nama): {'TE': (56.99, 47.43, 9.56), 'TR': (51.23, 45.03, 6.2), 'B9': (-5.76, -2.4, -3.36)}
+2025 FR vs EA20 hors France (MIO_EUR / PIB nama): {'TE': (57.31, 48.03, 9.28), 'TR': (52.24, 45.52, 6.72), 'B9': (-5.07, -2.52, -2.55)}
+=== 3. COFOG : écart FR - EA20 par division, % PIB (gov_10a_exp, base commune, PC_GDP)
+années COFOG disponibles FR : [2022, 2023, 2024]
+2024 TOTAL FR 57.3 EA20 49.2 écart 8.10
+GF01 FR 6.2 EA20 6.1 écart +0.10 part 1%
+GF02 FR 1.9 EA20 1.4 écart +0.50 part 6%
+GF03 FR 1.8 EA20 1.7 écart +0.10 part 1%
+GF04 FR 5.7 EA20 5.2 écart +0.50 part 6%
+GF05 FR 1.0 EA20 0.9 écart +0.10 part 1%
+GF06 FR 1.4 EA20 0.7 écart +0.70 part 9%
+GF07 FR 8.9 EA20 7.4 écart +1.50 part 19%
+GF08 FR 1.5 EA20 1.1 écart +0.40 part 5%
+GF09 FR 5.1 EA20 4.6 écart +0.50 part 6%
+GF10 FR 23.7 EA20 20.0 écart +3.70 part 46%
+GF10+GF07 écart 5.20 = 64% de l'écart total
+GF1001 2.9 2.8
+GF1002 13.4 10.9
+GF1003 1.4 1.6
+GF1004 2.3 1.9
+GF1005 1.7 1.3
+GF1006 0.7 0.4
+GF1007 1.2 0.9
+GF1008 0.0 0.0
+=== 4. Part des fonctions dans la dépense FR 2024
+GF1002 13.4 sur 100 € : 23.4
+GF1003 1.4 sur 100 € : 2.4
+GF07 8.9 sur 100 € : 15.5
+GF10 23.7 sur 100 € : 41.4
+GF09 5.1 sur 100 € : 8.9
+GF02 1.9 sur 100 € : 3.3
+GF03 1.8 sur 100 € : 3.1
+GF01 6.2 sur 100 € : 10.8
+GF04 5.7 sur 100 € : 9.9
+GF0107 2.0 sur 100 € : 3.5
+GF10 + GF07 sur 100 € : 56.9
+=== 4b. COFOG hors France (MIO_EUR)
+TOTAL FR 56.96 EA20horsFR 47.34 écart 9.61
+GF01 écart vs EA hors FR +0.06 part 1%
+GF02 écart vs EA hors FR +0.61 part 6%
+GF03 écart vs EA hors FR +0.11 part 1%
+GF04 écart vs EA hors FR +0.55 part 6%
+GF05 écart vs EA hors FR +0.22 part 2%
+GF06 écart vs EA hors FR +0.88 part 9%
+GF07 écart vs EA hors FR +1.80 part 19%
+GF08 écart vs EA hors FR +0.41 part 4%
+GF09 écart vs EA hors FR +0.56 part 6%
+GF10 écart vs EA hors FR +4.42 part 46%
+=== 5. Allemagne et Italie (edpt1 / main, base commune)
+items edpt1: ['AF_81L', 'B9', 'D41PAY', 'GD', 'GD_F2', 'GD_F3', 'GD_F31', 'GD_F32', 'GD_F4', 'GD_F41', 'GD_F42', 'IGL_F4_EA19', 'IGL_F4_EA20', 'IGL_F4_EA21', 'IGL_F4_EU27_2020', 'P51G']
+DE 2012 B9 -0.1 dette 79.8 mois 9.58
+DE 2013 B9 0.1 dette 77.4 mois 9.29
+DE 2014 B9 0.7 dette 74.4 mois 8.93
+DE 2015 B9 0.9 dette 71.0 mois 8.52
+DE 2016 B9 1.1 dette 68.1 mois 8.17
+DE 2017 B9 1.3 dette 63.7 mois 7.64
+DE 2018 B9 1.9 dette 60.5 mois 7.26
+DE 2019 B9 1.3 dette 58.3 mois 7.00
+DE 2020 B9 -4.3 dette 67.5 mois 8.10
+DE 2021 B9 -3.2 dette 67.4 mois 8.09
+DE 2022 B9 -1.9 dette 64.1 mois 7.69
+DE 2023 B9 -2.2 dette 61.8 mois 7.42
+DE 2024 B9 -2.7 dette 61.4 mois 7.37
+DE 2025 B9 -2.9 dette 62.8 mois 7.54
+IT 2012 B9 -3.0 dette 126.1 mois 15.13
+IT 2013 B9 -2.9 dette 132.0 mois 15.84
+IT 2014 B9 -2.8 dette 135.0 mois 16.20
+IT 2015 B9 -2.5 dette 135.0 mois 16.20
+IT 2016 B9 -2.4 dette 134.5 mois 16.14
+IT 2017 B9 -2.5 dette 134.0 mois 16.08
+IT 2018 B9 -2.2 dette 134.5 mois 16.14
+IT 2019 B9 -1.5 dette 134.2 mois 16.10
+IT 2020 B9 -9.4 dette 154.7 mois 18.56
+IT 2021 B9 -8.9 dette 146.1 mois 17.53
+IT 2022 B9 -8.1 dette 138.4 mois 16.61
+IT 2023 B9 -7.1 dette 134.0 mois 16.08
+IT 2024 B9 -3.4 dette 134.3 mois 16.12
+IT 2025 B9 -3.1 dette 136.7 mois 16.40
+FR 2012 B9 -5.2 dette 91.7 mois 11.00
+FR 2013 B9 -4.9 dette 94.6 mois 11.35
+FR 2014 B9 -4.6 dette 96.2 mois 11.54
+FR 2015 B9 -3.9 dette 97.0 mois 11.64
+FR 2016 B9 -3.8 dette 98.1 mois 11.77
+FR 2017 B9 -3.4 dette 98.8 mois 11.86
+FR 2018 B9 -2.3 dette 98.5 mois 11.82
+FR 2019 B9 -2.4 dette 98.2 mois 11.78
+FR 2020 B9 -8.9 dette 114.9 mois 13.79
+FR 2021 B9 -6.6 dette 112.8 mois 13.54
+FR 2022 B9 -4.7 dette 111.4 mois 13.37
+FR 2023 B9 -5.4 dette 109.5 mois 13.14
+FR 2024 B9 -5.8 dette 112.6 mois 13.51
+FR 2025 B9 -5.1 dette 115.7 mois 13.88
+IT 2025 B9 -3.1 D41 3.8 solde primaire 0.70
+FR 2025 B9 -5.1 D41 2.2 solde primaire -2.90
+EA20 2025 B9 -3.0 D41 1.9 solde primaire -1.10
+=== 6. Combler par l'impôt ou la dépense (2025)
+PO FR 2025 46.0 + déficit 5.1 = 51.1 ; max autre pays ('BE', 44.7)
+Dépense FR 57.3 - déficit 5.1 = 52.2 vs EA20 49.8
+=== 7. Suède
+B9 1995 -7.0
+B9 1996 -3.1
+B9 1997 -1.6
+B9 1998 0.8
+B9 1999 0.6
+B9 2000 3.1
+TE 1995 63.2
+TE 1996 61.0
+TE 1997 58.8
+TE 1998 56.5
+TE 1999 56.1
+TE 2000 53.1
+TR 1995 56.2
+TR 1996 57.9
+TR 1997 57.2
+TR 1998 57.3
+TR 1999 56.7
+TR 2000 56.2

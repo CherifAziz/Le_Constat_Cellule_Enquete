@@ -1,0 +1,39 @@
+fichier;url_origine;canal;date;octets;sha256
+afg_jep_2019.pdf;https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.33.2.141;curl : 403, page HTML d'erreur conservee (ce n'est PAS l'article);2026-11-20;5512;c6689470b03d33c29f8f2d32d3e99d9a70c6f12932a96e53a3cf81898ccd26c3
+ec_pt_201611_executive_summary.pdf;https://ec.europa.eu/dgs/economy_finance/evaluation/pdf/pt_201611_executive_summary_en.pdf;curl;2026-11-20;257731;e78f283a9edbafbdfdbc265efe91f6573adbb62cc970f63a89ff91da8574d4ef
+ec_pt_201611_executive_summary.txt;extrait local de ec_pt_201611_executive_summary.pdf;extraction locale;2026-11-20;31083;c25e7dd3d7f3453ad59ab0120caadace8dad1a3a9dcb5cb2faabc62824728a7f
+extrait_devries2011_episodes.md;extrait automatique A12 de imf_wp11128_devries_et_al_2011.txt;extraction locale;2026-11-20;32375;905b26a013ec25fa3b1440717cd01090a262cd6f27886e6d2dbcafc00aa20ccc
+imf_cr13156_greece_ex_post.pdf;https://www.imf.org/external/pubs/ft/scr/2013/cr13156.pdf;WebFetch;2026-11-20;1129870;c422b076226348390a601188504dbdd6c6d80ab425e81957352a09a76b2a16c2
+imf_cr13156_greece_ex_post.txt;extrait local de imf_cr13156_greece_ex_post.pdf;extraction locale;2026-11-20;144810;c3f77a67a0c39a149e78b149409a723064c4e6b72b9481f54e898a15ad7b8e1c
+imf_cr98124_sweden_selected_issues.pdf;https://www.imf.org/external/pubs/ft/scr/1998/cr98124.pdf;"WebFetch (curl 403) ; PDF scanne lu en images";2026-11-20;3141122;be8730044b6021756c799c32016f02ffee90a815937881203ac34d56c04e3823
+imf_wp11128_devries_et_al_2011.pdf;https://www.imf.org/external/pubs/ft/wp/2011/wp11128.pdf;WebFetch;2026-11-20;1481162;b97ad339f9b867710d6fa8d6d67fcf6569799559eb6fa0b7230d0a42afab0963
+imf_wp11128_devries_et_al_2011.txt;extrait local de imf_wp11128_devries_et_al_2011.pdf;extraction locale;2026-11-20;314571;e8417a7bcbf34a9c1929b2facbd82412baa92e6922faf86814e5bc8c9c173b2a
+imf_wp1301_blanchard_leigh_2013.pdf;https://www.imf.org/external/pubs/ft/wp/2013/wp1301.pdf;WebFetch;2026-11-20;1138368;b856675eba06f31a75ab0ce2f9871857fb735b6aa0881bd21c562116a0c08ef2
+imf_wp1301_blanchard_leigh_2013.txt;extrait local de imf_wp1301_blanchard_leigh_2013.pdf;extraction locale;2026-11-20;99819;67c676b55fce7c59d072d7f4a737e71363dc6b6c610985ec8e5982c49c287d53
+nber_w19414_jorda_taylor.pdf;https://www.nber.org/system/files/working_papers/w19414/w19414.pdf;curl;2026-11-20;367037;13d37daa335ed60496d1d7de6a8b0ec9c9f88b8cda948e6df8f00c03957c0646
+nber_w19414_jorda_taylor.txt;extrait local de nber_w19414_jorda_taylor.pdf;extraction locale;2026-11-20;124723;5ee52cb4c78e1e88bd0173b77a21a49597c8f6634ae7384c43f3e7de15d5c2c3
+oecd_PUMA_SBO_98_5_REV1.pdf;https://one.oecd.org/document/PUMA/SBO(98)5/REV1/en/pdf (lu via https://web.archive.org/web/20240224130141id_/https://one.oecd.org/document/PUMA/SBO(98)5/REV1/en/pdf);curl sur Wayback (one.oecd.org : 403 curl et WebFetch);2026-11-20;146696;ec89359ff251e954b3c23818366354349cad7620f6baaf73656dee4caf32982d
+oecd_PUMA_SBO_98_5_REV1.txt;extrait local de oecd_PUMA_SBO_98_5_REV1.pdf;extraction locale;2026-11-20;111339;53c6719245e3a483cbf1e83f3b3e0bf2abe322371c16a0e91997f1fb558bd4ac
+oecd_eo119_finpub.csv;https://sdmx.oecd.org/public/rest/data/OECD.ECO.MAD,DSD_EO@DF_EO,/.NLGQ+NLGXQ+GGFLQ+GGFLMQ+NLGQA+NLGXQA+YPGTQ+YRGTQ+UNR+IRL+GDPV_ANNPCT+GGINTPQ+IGAA.A?startPeriod=1960&format=csvfilewithlabels;curl (API SDMX OCDE);2026-11-20;4958762;a1a3eb864c23b9e61a22d2b887b51b2d56f65bf246b8ce2c0a932e6b037edbec
+oecd_eo119_interets.csv;https://sdmx.oecd.org/public/rest/data/OECD.ECO.MAD,DSD_EO@DF_EO,/.GGINTP+GGINTR+NLG.A?startPeriod=1960&format=csvfilewithlabels;curl (API SDMX OCDE);2026-11-20;1181890;d3d693e95c29127438613f7e054a06aa99403b689c9df49cf7ac805d4fdc2733
+oecd_eo119_macro.csv;https://sdmx.oecd.org/public/rest/data/OECD.ECO.MAD,DSD_EO@DF_EO,/.EXCH+XMKT+XGSV+GDP+CPI_YTYPCT+CBGDPR+IRS+PCORE_YTYPCT.A?startPeriod=1960&format=csvfilewithlabels;python urllib (a12_00);2026-11-20;4182590;04cf156898f122eed48ed7690dfb0f707a9d76ce04430f30ac5e4edc4731613a
+persson_1995_kcfed_JH95.pdf;https://www.kansascityfed.org/documents/6818/Persson_JH95.PDF;WebFetch (curl : echec de connexion);2026-11-20;23431;ad844eb11031c403f9c255bb6ac5d0dde7aa087fb55fb0afe8f57f726506eb1b
+persson_1995_kcfed_JH95.txt;extrait local de persson_1995_kcfed_JH95.pdf (pymupdf);extraction locale;2026-11-20;9073;80e0da5d5dbea82e337c6d7f12f2ab354fed10e714c9e1d019363d546074ad96
+swe_convergence_programme_1998_2001.pdf;https://regeringen.se/contentassets/bb70ca16dc184a3eaa49bccdb9d2389c/swedens-convergence-programme-1998-2001;WebFetch;2026-11-20;103822;63762451f2cb333c0ad85c202b2745cd18f86cd988cb290165c50373c02ab4e6
+swe_convergence_programme_1998_2001.txt;extrait local de swe_convergence_programme_1998_2001.pdf;extraction locale;2026-11-20;28577;af89d0a8886516c7c7d845ef6b3bd1c1cc4ac6f3c2c5b2cf66f28802653ff929
+swe_skr_2025_26_76.pdf;https://www.government.se/contentassets/afd79a1ff8954c78b7681f6a8fa6c8e1/the-fiscal-policy-framework-skr.-20252676.pdf;curl;2026-11-20;416678;20d2ea04ada630828e3c95475a1f9a21a44834c11e1385cc21e1b48602b90b4f
+swe_skr_2025_26_76.txt;extrait local de swe_skr_2025_26_76.pdf;extraction locale;2026-11-20;76265;aec562727e8cae35e8c61d6bed2249a37f2d19772114d7ed5a367216ed47baa8
+imf_pages/p001.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;84795;07e0b4a1792d9b454a42feb40472a4b65bf8136007d8aa8ec4a937758cdab4c1
+imf_pages/p002.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;134238;9cba6a593d8d5af23ca3e04960b00b23e1c468e1ec238397ac31c4805b97630c
+imf_pages/p003.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;183131;69c74e5da8513c7d7cbb68e85e685ed8867c54422da28ea2a68eaf1e0a5f11f4
+imf_pages/p004.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;75067;0dd30ffe732b9c69054e51fae4ee6325997ac3d702d7c91ac2b4b3ab9a1e33de
+imf_pages/p005.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;136880;2d6f3a6b488dd275f6d7650c5e7e77a940144e5e26f2873bf7efbc73de9cf317
+imf_pages/p006.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;187818;01410a43aa33a01374ea193d6baa9eed898d1c1290b1baf6017c45b216a742f2
+imf_pages/p007.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;349774;f0adbb183618183af6669702c244d2789d1dc2559c512921fcefadfc9236936d
+imf_pages/p008.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;373412;6ffcb1afba6d494483165df1a33d7053cd4b9898923851703aad593eab768414
+imf_pages/p009.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;158743;03343d3d89d3acf146b1386332c4b44ed457063af30c0a7f26b5f7a928865b49
+imf_pages/p010.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;174447;e28ac5ca2efe2277065c32c7c77ad4c268ee9795450978e42bd68fc19ea908fd
+imf_pages/p011.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;372844;598e2a6bc0bc2e491b39254b4c444dc274fce78d5b55da4b06420ffb5cbe92a8
+imf_pages/p012.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;107192;aa25acc3f2e5e6c1c802839481b450bc5970e7a1203d66301bff1c93fbe8d067
+imf_pages/p013.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;347120;d60a1dd56d0f2e322804cf0f3766969c6c568e08b6d1afb009e8453f5691996d
+imf_pages/p014.png;rendu local (pymupdf) d'une page de imf_cr98124_sweden_selected_issues.pdf;extraction locale;2026-11-20;293184;2d50040bd0058119bbbe41d1e4a0747c221b2a42f64306d7c04be72465ebb67b

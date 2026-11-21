@@ -1,0 +1,21 @@
+combinaison;derive;plafonnee_aux_mesures;deficit_2027_programme;deficit_2027_derive;deficit_2030_programme;deficit_2030_derive;deficit_2035_programme;deficit_2035_derive;dette_2035_programme;dette_2035_derive;dette_2035_reference
+K1 centrale, branche gel;hors crises;non;5.405;6.325;5.392;8.46;5.474;9.108;136.661;159.433;153.897
+K1 centrale, branche gel;hors crises;oui;5.405;6.01;5.392;7.188;5.474;8.635;136.661;152.822;153.897
+K1 centrale, branche gel;toutes annees;non;5.405;6.99;5.392;9.199;5.474;9.969;136.661;166.336;153.897
+K1 centrale, branche gel;toutes annees;oui;5.405;6.447;5.392;7.272;5.474;8.675;136.661;153.812;153.897
+K2 centrale, branche abattement;hors crises;non;5.404;6.324;5.452;8.52;5.598;9.232;137.209;159.983;153.897
+K2 centrale, branche abattement;hors crises;oui;5.404;6.009;5.452;7.193;5.598;8.636;137.209;152.848;153.897
+K2 centrale, branche abattement;toutes annees;non;5.404;6.989;5.452;9.259;5.598;10.093;137.209;166.885;153.897
+K2 centrale, branche abattement;toutes annees;oui;5.404;6.446;5.452;7.272;5.598;8.675;137.209;153.81;153.897
+K3 centrale gel, sans mesures rejetees;hors crises;non;5.873;6.793;6.045;9.113;6.302;9.937;142.173;164.965;153.897
+K3 centrale gel, sans mesures rejetees;hors crises;oui;5.873;6.484;6.045;7.274;6.302;8.677;142.173;153.872;153.897
+K3 centrale gel, sans mesures rejetees;toutes annees;non;5.873;7.457;6.045;9.852;6.302;10.798;142.173;171.877;153.897
+K3 centrale gel, sans mesures rejetees;toutes annees;oui;5.873;6.5;6.045;7.275;6.302;8.678;142.173;153.897;153.897
+K4 prudente;hors crises;non;5.57;6.49;5.884;8.952;6.833;10.467;142.042;164.816;153.897
+K4 prudente;hors crises;oui;5.57;6.168;5.884;7.256;6.833;8.657;142.042;153.367;153.897
+K4 prudente;toutes annees;non;5.57;7.154;5.884;9.69;6.833;11.328;142.042;171.719;153.897
+K4 prudente;toutes annees;oui;5.57;6.5;5.884;7.275;6.833;8.678;142.042;153.897;153.897
+K5 ambitieuse large;hors crises;non;5.326;6.246;5.145;8.213;5.11;8.744;134.622;157.387;153.897
+K5 ambitieuse large;hors crises;oui;5.326;5.933;5.145;7.147;5.11;8.401;134.622;152.378;153.897
+K5 ambitieuse large;toutes annees;non;5.326;6.911;5.145;8.951;5.11;9.605;134.622;164.287;153.897
+K5 ambitieuse large;toutes annees;oui;5.326;6.372;5.145;7.268;5.11;8.67;134.622;153.694;153.897

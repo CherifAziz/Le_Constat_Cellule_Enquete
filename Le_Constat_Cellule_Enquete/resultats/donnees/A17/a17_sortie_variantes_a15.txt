@@ -1,0 +1,33 @@
+=== Controle : K1 et K5 centrales, parametres d'A15 (doit redonner A15) ===
+K1: deficit 2030 5.39 2035 5.47 ; dette 2035 136.7 2040 147.0 2050 174.5 ; g_nom 2040 2.78
+K5: deficit 2030 5.14 2035 5.11 ; dette 2035 134.6 2040 143.3 2050 167.2 ; g_nom 2040 2.78
+=== V1 : seuil de rm_lt pour que la dette 2040 <= dette 2035 ===
+deflateur 1.75: K1 stabilise (2035-2040) si rm_lt <= 1.59 % ; g_nom long terme 2.78 % ; ecart admissible r-g = -1.19 pt (hypothese A15 : 4,0 - 2,77 = +1,23)
+deflateur 1.75: K5 stabilise (2035-2040) si rm_lt <= 1.95 % ; g_nom long terme 2.78 % ; ecart admissible r-g = -0.83 pt (hypothese A15 : 4,0 - 2,77 = +1,23)
+deflateur 2.0: K1 stabilise (2035-2040) si rm_lt <= 1.95 % ; g_nom long terme 3.03 % ; ecart admissible r-g = -1.08 pt (hypothese A15 : 4,0 - 2,77 = +1,23)
+deflateur 2.0: K5 stabilise (2035-2040) si rm_lt <= 2.32 % ; g_nom long terme 3.03 % ; ecart admissible r-g = -0.72 pt (hypothese A15 : 4,0 - 2,77 = +1,23)
+=== V2 : grille rm_lt x deflateur ===
+defl 1.75 rm_lt 2.8: effort stab 2030 5.01 pts ; 3 % 2030 5.26 ; ref dette 2035 151 ; K1 def 2035 4.6 dette 2035 134 2050 150 ; K5 def 2035 4.3 dette 2035 132 2040 135 2050 144
+defl 1.75 rm_lt 3.2: effort stab 2030 5.07 pts ; 3 % 2030 5.31 ; ref dette 2035 152 ; K1 def 2035 4.9 dette 2035 135 2050 158 ; K5 def 2035 4.5 dette 2035 133 2040 138 2050 151
+defl 1.75 rm_lt 3.6: effort stab 2030 5.12 pts ; 3 % 2030 5.36 ; ref dette 2035 153 ; K1 def 2035 5.2 dette 2035 136 2050 166 ; K5 def 2035 4.8 dette 2035 134 2040 141 2050 159
+defl 1.75 rm_lt 4.0: effort stab 2030 5.17 pts ; 3 % 2030 5.41 ; ref dette 2035 154 ; K1 def 2035 5.5 dette 2035 137 2050 175 ; K5 def 2035 5.1 dette 2035 135 2040 143 2050 167
+defl 1.75 rm_lt 4.4: effort stab 2030 5.22 pts ; 3 % 2030 5.46 ; ref dette 2035 155 ; K1 def 2035 5.8 dette 2035 138 2050 184 ; K5 def 2035 5.4 dette 2035 136 2040 146 2050 176
+defl 2.0 rm_lt 2.8: effort stab 2030 5.01 pts ; 3 % 2030 5.26 ; ref dette 2035 149 ; K1 def 2035 4.6 dette 2035 132 2050 144 ; K5 def 2035 4.3 dette 2035 130 2040 132 2050 138
+defl 2.0 rm_lt 3.2: effort stab 2030 5.07 pts ; 3 % 2030 5.31 ; ref dette 2035 150 ; K1 def 2035 4.9 dette 2035 133 2050 152 ; K5 def 2035 4.5 dette 2035 131 2040 135 2050 145
+defl 2.0 rm_lt 3.6: effort stab 2030 5.12 pts ; 3 % 2030 5.36 ; ref dette 2035 151 ; K1 def 2035 5.2 dette 2035 134 2050 159 ; K5 def 2035 4.8 dette 2035 132 2040 137 2050 152
+defl 2.0 rm_lt 4.0: effort stab 2030 5.17 pts ; 3 % 2030 5.41 ; ref dette 2035 152 ; K1 def 2035 5.5 dette 2035 135 2050 167 ; K5 def 2035 5.1 dette 2035 133 2040 140 2050 160
+defl 2.0 rm_lt 4.4: effort stab 2030 5.22 pts ; 3 % 2030 5.46 ; ref dette 2035 153 ; K1 def 2035 5.7 dette 2035 136 2050 176 ; K5 def 2035 5.4 dette 2035 134 2040 143 2050 169
+=== V3 : credibilite A08, part 'croissance' retiree (version plafonnee, comme R-A15-04) ===
+part 1.00 hors crises K1: mesures executees en 2030 a 0 % ; deficit 2030 5.4 -> 7.2 (ref 7.3) ; dette 2035 137 -> 153 (ref 154)
+part 1.00 hors crises K5: mesures executees en 2030 a 0 % ; deficit 2030 5.1 -> 7.1 (ref 7.3) ; dette 2035 135 -> 152 (ref 154)
+part 0.71 hors crises K1: mesures executees en 2030 a 4 % ; deficit 2030 5.4 -> 7.0 (ref 7.3) ; dette 2035 137 -> 150 (ref 154)
+part 0.71 hors crises K5: mesures executees en 2030 a 16 % ; deficit 2030 5.1 -> 6.8 (ref 7.3) ; dette 2035 135 -> 148 (ref 154)
+part 0.57 hors crises K1: mesures executees en 2030 a 23 % ; deficit 2030 5.4 -> 6.7 (ref 7.3) ; dette 2035 137 -> 147 (ref 154)
+part 0.57 hors crises K5: mesures executees en 2030 a 33 % ; deficit 2030 5.1 -> 6.5 (ref 7.3) ; dette 2035 135 -> 145 (ref 154)
+=== V4 : multiplicateurs forts et persistants ===
+K1 central               : deficit 2030 5.4 2035 5.5 ; dette 2035 137 2050 175 ; gain de dette en 2035 contre la reference 17.2 pts
+K1 forts                 : deficit 2030 5.8 2035 5.8 ; dette 2035 140 2050 180 ; gain de dette en 2035 contre la reference 14.2 pts
+K1 forts et persistants  : deficit 2030 6.3 2035 7.1 ; dette 2035 148 2050 209 ; gain de dette en 2035 contre la reference 6.1 pts
+K5 central               : deficit 2030 5.1 2035 5.1 ; dette 2035 135 2050 167 ; gain de dette en 2035 contre la reference 19.3 pts
+K5 forts                 : deficit 2030 5.6 2035 5.4 ; dette 2035 138 2050 174 ; gain de dette en 2035 contre la reference 15.9 pts
+K5 forts et persistants  : deficit 2030 6.2 2035 6.9 ; dette 2035 147 2050 206 ; gain de dette en 2035 contre la reference 6.8 pts

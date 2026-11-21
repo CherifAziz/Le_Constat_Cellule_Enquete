@@ -1,0 +1,11 @@
+Series de la base commune : ['Dette des administrations publiques (brute)2', 'Dette nette des administrations publiques3', 'Déficit au sens de Maastricht', 'Dépenses', 'Recettes', 'dont dépenses hors éléments imputés1', 'dont recettes hors éléments imputés1']
+1974 {'Dette des administrations publiques (brute)2': nan, 'Dette nette des administrations publiques3': nan, 'Déficit au sens de Maastricht': 0.1, 'Dépenses': 41.34, 'Recettes': 41.44, 'dont dépenses hors éléments imputés1': 39.9, 'dont recettes hors éléments imputés1': 39.23}
+2017 {'Dette des administrations publiques (brute)2': 98.8, 'Dette nette des administrations publiques3': 89.46, 'Déficit au sens de Maastricht': -3.4, 'Dépenses': 57.66, 'Recettes': 54.3, 'dont dépenses hors éléments imputés1': 52.91, 'dont recettes hors éléments imputés1': 50.02}
+2019 {'Dette des administrations publiques (brute)2': 98.2, 'Dette nette des administrations publiques3': 88.99, 'Déficit au sens de Maastricht': -2.4, 'Dépenses': 55.35, 'Recettes': 52.95, 'dont dépenses hors éléments imputés1': 51.65, 'dont recettes hors éléments imputés1': 48.53}
+2025 {'Dette des administrations publiques (brute)2': 115.7, 'Dette nette des administrations publiques3': 108.41, 'Déficit au sens de Maastricht': -5.1, 'Dépenses': 57.31, 'Recettes': 52.24, 'dont dépenses hors éléments imputés1': 53.78, 'dont recettes hors éléments imputés1': 48.74}
+Boule de neige cumulee 1984-1997 : 15.5 ; deficits primaires cumules 1984-1997 : 9.4
+1979-2025 : primaire 60.2 boule de neige 8.1 SFA 25.8 variation du ratio 94.1
+2015-2019 : solde primaire moyen -1.35 % ; croissance nominale moyenne 2.46 %
+2015-2019, economies d'interets cumulees (ratio de 2014 maintenu) : 46 Md€ ; amelioration cumulee du primaire contre 2014 : 121 Md€
+Solde primaire 2025 : -2.871 % ; interets 2.197 % ; dette 115.7
+Colonnes eurostat_gov_10a_main : ['freq', 'unit', 'sector', 'na_item', 'geo', 'time', 'value', 'status']

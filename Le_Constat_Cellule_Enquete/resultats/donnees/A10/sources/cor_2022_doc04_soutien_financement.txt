@@ -1,0 +1,1719 @@
+
+=== page 1 ===
+ 
+ 
+ CONSEIL D’ORIENTATION DES RETRAITES  
+Séance plénière du 24 mars 2022 à 10h00  
+« Les opinions sur les retraites »  
+ 
+ 
+ 
+ 
+ 
+Document n° 4 
+ 
+Document de travail, 
+n’engage pas le 
+Conseil 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les déterminants du soutien au financement de la protection sociale : 
+une étude sur les données du baromètre DREES  
+Version du 15 Mars 2022 – communiquée pour une séance du COR 
+Rapport préliminaire – Merci de demander aux auteurs avant de citer 
+ 
+Florian Baudouin, LIEPP 
+Elvire Guillaud, Université Paris 1 (Centre d’Economie de la Sorbonne) et 
+Sciences-Po LIEPP  
+Michaël Zemmour, Université Paris 1 (Centre d’Economie de la Sorbonne) et 
+Sciences-Po LIEPP 
+ 
+ 
+
+=== page 2 ===
+ 
+ 
+
+=== page 3 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+1 
+Les déterminants du soutien au financement de la 
+protection sociale : une étude sur les données du 
+baromètre DREES1 
+Version du 17 Mars 2022 – communiquée pour une séance du COR 
+Rapport préliminaire – Merci de demander aux auteurs avant de citer 
+ 
+Florian Baudouin, LIEPP 
+Elvire Guillaud, Université Paris 1 (Centre d’Economie de la Sorbonne) et Sciences-Po LIEPP2 
+Michaël Zemmour, Université Paris 1 (Centre d’Economie de la Sorbonne) et Sciences-Po LIEPP3 
+ 
+Résumé 
+Le baromètre d’opinion de la DREES permet de suivre l’évolution des opinions sur la protection sociale en 
+France. Nous tirons parti d’une innovation de la formulation des questions en 2020 pour mieux comprendre 
+comment interpréter les réponses, en particulier concernant le financement de la protection sociale.  D’un 
+point de vue méthodologique, il apparaît que les répondants ont un fort biais en faveur du statu quo qui les 
+conduit à se dire fréquemment opposés à une réforme quelle qu’en soit la direction (hausse ou baisse des 
+prélèvements et prestations). Il n’est pas possible de dire si ce biais reflète l’hésitation des répondants face 
+à des questions qu’ils jugent difficiles ou bien leur attachement plus profond au statu quo. En tout état de 
+cause, cette observation invite à interpréter avec prudence les niveaux de réponse aux questions concernant 
+les réformes de la protection sociale. En revanche, la confrontation de formulations différentes autour d’un 
+même sujet, ou encore l’exploitation de la variation des réponses dans le temps ou entre individus 
+permettent de mieux comprendre les déterminants du soutien au financement des prestations de 
+protection sociale, et des retraites en particulier. L’analyse montre tout d’abord qu’il n’y a pas de sentiment 
+de « révolte fiscale » concernant la protection sociale, et que le soutien au financement des retraites est 
+particulièrement fort parmi les différents risques testés. Ce soutien vis-à-vis des retraites augmente 
+sensiblement au cours des années 2010. Bien qu’il soit plus fort parmi les retraités que parmi le reste de la 
+population, la différence de soutien entre bénéficiaires et non bénéficiaires est plus faible que pour d’autres 
+risques. Cela n'implique pas de consensus dans la population pour autant : comme pour les autres branches, 
+le revenu et le diplôme déterminent clairement le soutien aux retraites, les plus aisés soutenant moins le 
+système que les plus modestes. 
+                                                        
+1 Ce document est un extrait d’un travail de recherche en cours, entamé en 2021 dans le cadre d’un 
+partenariat de recherche entre le LIEPP, l’EN3S et le Haut Conseil du Financement de la Protection Sociale 
+intitulé « Prélèvements obligatoires, services sociaux et redistribution ».  
+2 Elvire.guillaud@univ-paris1.fr 
+3 Michael.zemmour@sciences-po.fr 
+
+=== page 4 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+2 
+ 
+1. Introduction 
+Dans la période récente, le niveau des prélèvements obligatoires comme sujet de 
+revendication politique en France a été mis en évidence par une série de travaux. Les 
+travaux de Spire (2018), notamment, insistent sur l’impopularité des prélèvements 
+obligatoires. Ceux de Blavier (2021) démontrent que la question des prélèvements 
+obligatoires était très présente lors du mouvement des Gilets Jaune de 2018, dont deux 
+des revendications phare étaient l’opposition à une taxe additionnelle sur les carburants 
+et le rétablissement de l’impôt sur la fortune. La hausse de la CSG appliquée en 2018 a 
+également été particulièrement mal reçue par la population des retraités, au point de 
+connaître une importante révision en 2019 concernant les pensions modestes. 
+Cette réticence aux prélèvements obligatoires est parfois interprétée comme une limite 
+intrinsèque à la capacité du système français de protection sociale de faire face à des 
+besoins croissants, notamment en matière de retraite (COR 2021), de santé (d’Albi et 
+Cusset 2018) ou de dépendance (Libault 2019, Miron de l’Espinay et Roy 2020). 
+Le soutien à la protection sociale et à son financement est pourtant particulièrement fort 
+dans les pays comme la France, proches de l’idéal type « bismarckien », dont la protection 
+sociale repose essentiellement sur des régimes d’assurances sociales financés par des 
+prélèvements sociaux affectés : les prélèvements sociaux sont relativement bien identifiés 
+par la population (Drees, France Stratégie & HCFiPS 2018), et l’attitude vis-à-vis de ceux-
+ci ne se confond pas nécessairement avec l’attitude vis-à-vis des prélèvements 
+obligatoires génériques. Le sociologue Esping-Andersen explique ainsi la résistance au 
+changement des Etats-sociaux bismarckiens par le lien existant entre prélèvements et 
+prestations (Esping-Andersen, 1996 p.68). 
+De plus, les travaux sur les opinions soulignent que si les individus préfèrent dans l’absolu 
+payer moins de prélèvements obligatoires, les réponses varient sensiblement lorsque les 
+individus sont placés en face de l’arbitrage tel qu’il se pose réellement (Busemeyer et al. 
+2018). En France, le contexte des besoins plus dynamiques que la croissance est tel que 
+l’arbitrage se pose plutôt dans les termes suivants : maintenir le niveau des prestations 
+“The great strength of social insurance 
+is that it nurtures a sense of equity: you 
+get what you have earned and you earn 
+what you get (…) Since contributory SI 
+instils a sense of individually earned 
+contractual rights, these social security 
+systems have enjoyed unusually broad 
+public legitimacy (...) The kind of anti-
+welfare-state revolts that erupted in 
+Scandinavia, Britain, and the United 
+States are conspicuously absent, be it 
+in Germany, France or Italy”  
+(Esping-Andersen, 1996 p.68) 
+
+=== page 5 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+3 
+inchangé impliquerait une hausse des prélèvements, tandis que maintenir le niveau des 
+prélèvements inchangé engendrerait une baisse des prestations. 
+Aussi, pour mieux appréhender la soutenabilité politique du financement de la protection 
+sociale en France, nous cherchons à répondre aux questions suivantes : Y a-t-il des signes 
+précurseurs d’une « révolte fiscale » concernant la protection sociale ? Quels sont les 
+facteurs déterminants du soutien au financement de la protection sociale, à la fois 
+individuels (caractéristiques socio-économiques, exposition au risque), mais aussi 
+institutionnels (caractéristiques des prestations, des prélèvements) ? Les hausses 
+successives de prélèvements sociaux que la France a connues au cours des vingt dernières 
+années ont-elles affaibli le soutien à la protection sociale ? 
+Pour explorer ces questions, nous exploitons le baromètre DREES « Les Français et la 
+protection sociale », sans doute la meilleure source de données pour connaître l’opinion 
+des résidents français sur la protection sociale : la base est riche de plus de 20 vagues, 
+comportant chacune près de 4000 répondants, avec un très large panel de questions sur 
+la protection sociale. Parmi ces questions, certaines portent sur les opinions vis-à-vis des 
+dépenses sociales et des prélèvements obligatoires qui les financent. 
+Notre contribution est à la fois méthodologique et empirique. Sur le plan méthodologique, 
+nous montrons l’influence de la formulation des questions sur les opinions déclarées. En 
+particulier, nous relevons une forte attraction des répondants vers le statu quo, qu’elle 
+que soit la direction de la réforme proposée (hausse ou baisse des prélèvements et 
+prestations). Sans surprise, les individus sont plus réticents à soutenir une hausse des 
+prélèvements lorsqu’il est précisé qu’ils seront directement impactés. Cet effet est propre 
+à renverser la majorité des opinions concernant la nécessité d’augmenter les retraites. 
+Sur le plan empirique, les principaux résultats sont les suivants : d’une part, on n’observe 
+pas de sentiment de « révolte fiscale » concernant la protection sociale en général ; d’autre 
+part, le soutien au financement des retraites est particulièrement fort parmi les différents 
+risques testés. De plus, ce soutien a sensiblement augmenté de 2014 à 2016, pour se 
+stabiliser à un niveau élevé de 2016 à 2020. Bien qu’il soit plus fort parmi les retraités que 
+parmi le reste de la population, la différence de soutien entre bénéficiaires et non 
+bénéficiaires est plus faible que pour d’autres risques. Cela n'implique pas de consensus 
+dans la population pour autant : comme pour les autres branches, le revenu et le diplôme 
+déterminent clairement le soutien aux retraites, les plus aisés soutenant moins le système 
+que les plus modestes. 
+Le papier est organisé comme suit. La section 2 présente les données du baromètre, les 
+questions que nous exploitons dans l’étude, et explore les limites méthodologiques de 
+l’interprétation des réponses. La section 3, expose les principaux déterminants du soutien 
+au financement de la protection sociale, pour chaque grand risque social. 
+
+=== page 6 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+4 
+2. Données de sondage : le baromètre d’opinion de la Drees et 
+son usage 
+2.1. 
+Le baromètre 
+Le baromètre d’opinion de la Drees analyse l’opinion et les valeurs des français sur "la 
+santé, la famille, la protection sociale, la solidarité, la pauvreté et l’exclusion". Les 
+problématiques étudiées sont plus larges que les politiques publiques et la protection 
+sociale. Cette enquête est particulièrement intéressante de par sa profondeur historique 
+(20 enquêtes depuis 20004). D’autre part, le nombre de questions afférentes à la 
+protection sociale, à la notion de risque et à sa perception permet d’avoir un point de vue 
+multi-scalaire sur le soutien à la protection sociale.  
+Ce baromètre se distingue notamment des enquêtes internationales souvent utilisées par 
+la littérature sur les opinions et les attitudes face à la redistribution (ISSP, WVS, par 
+exemple), par la précision de ses questions : il ne s’agit pas simplement de se dire 
+favorable ou défavorable à la redistribution ou au rôle de l’Etat (au sens de puissance 
+publique), mais le baromètre permet de qualifier les attitudes vis-à-vis de prestations 
+clairement désignées (RSA, aide au logement, etc.), ou de distinguer les préférences par 
+grandes catégories de « risque social » (retraite, maladie, chômage, etc.), ce qui est 
+précieux, car on le verra l’attitude vis-à-vis des dispositifs n’est pas homogène.  
+Ce baromètre est aussi plus utile pour la question qui nous intéresse que les autres études 
+d’opinion sur les prélèvements obligatoires (Enquêtes électorales menées par le CEVIPOF, 
+ou panel ELIPSS utilisé par Spire (2018) dans son ouvrage sur l’attitude vis-à-vis des 
+prélèvements obligatoires), car il permet de mettre en lien l’attitude des individus vis-à-
+vis des prestations sociales en général et des prélèvements spécifiques finançant les 
+prestations sociales. De plus, ce baromètre présente un certain nombre de questions dans 
+les termes d’un arbitrage entre recettes et dépenses.  
+Pour autant, ce baromètre présente plusieurs limites. Tout d’abord, il ne s’agit pas d’un 
+panel, les évolutions dans le temps ne peuvent donc être analysées qu’en tendance et non 
+comme des changements d’opinion individuelle. De plus, de nombreuses questions ne 
+sont pas posées tous les ans, certains modules n’étant proposés qu’une année sur deux et 
+d’autres questions étant ajoutées au fur et à mesure des différentes vagues. Ces éléments 
+limitent l’usage du questionnaire pour développer certaines méthodes longitudinales. 
+Enfin, le baromètre n’a pas été construit spécifiquement pour étudier la question du 
+financement, et les questions relatives au financement sont donc moins précises et moins 
+nombreuses que celles relatives aux prestations.  
+Aussi, forte des atouts du baromètre mais également consciente de ses limites, la présente 
+étude tente de tirer parti le mieux possible de ces données encore relativement peu 
+exploitées pour saisir la sensibilité des opinions concernant le financement de la 
+protection sociale à différents paramètres.  
+                                                        
+4 Il n’y a pas eu d’enquête en 2003 (l’institut de sondage change entre 2002 et 2004), ce qui implique parfois 
+des ruptures de série visibles. 
+
+=== page 7 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+5 
+En effet, en dépit de sa richesse, il nous faut signaler la relativement faible utilisation des 
+données de ce baromètre. En dehors des statistiques descriptives publiées régulièrement 
+par la Drees, peu de travaux de recherche (en particulier sur des sujets de protection 
+sociale ) ont utilisé ces données. Quelques travaux peuvent cependant être cités autour de 
+notre sujet. Les articles de Papuchon (2018) et Grobon & Portela (2016) traitent de 
+l’opinion des jeunes sur l’intervention de l’État et de la protection sociale. L’article de 
+Duvoux & Papuchon (2018) utilise le baromètre pour traiter des questions de pauvreté 
+subjective. Enfin, plus proche de notre sujet, Zemmour (2015) et Françon & Zemmour 
+(2018) traitent respectivement de l’effet des exonérations de cotisations sociales sur le 
+soutien à la protection sociale et des déterminants au soutien à l’assurance chômage. Plus 
+récemment, Cavaillé (à paraître) a également exploité certaines questions du baromètre 
+dans une perspective de comparaison France/États-Unis.  
+2.2. 
+Choix des questions 
+Le module sur la protection sociale est composé de quelques questions générales sur le 
+montant des prestations ou des cotisations et sur le déficit, ainsi que de questions 
+d’opinion sur la qualité du système de protection sociale (par exemple, « le système 
+français peut-il être pris en exemple à l’international ? »). En plus de ces questions 
+générales, une question spécifique porte sur la nécessité perçue d’augmenter les moyens 
+sociaux alloués aux différents risques couverts par les assurances sociales (maladie, 
+retraite, famille, chômage) mais aussi relatifs aux prestations des systèmes dits de 
+solidarité comme celles dédiées aux personnes handicapées, ainsi que celles dédiées aux 
+personnes dépendantes, et enfin les aides aux logements. 
+Dans les vagues du baromètre, jusqu’en 2019, cette question est formulée selon un 
+arbitrage entre recettes et dépenses : 
+« Accepteriez-vous une baisse de la prestation suivante, en échange d’une baisse de vos 
+impôts ou de vos cotisations ? » 
+Dans la version 2020, de manière originale, quatre formulations différentes sont testées. 
+Le questionnaire a été divisé en quatre, la version étant attribuée aléatoirement aux 
+enquêtés. L’échantillon initial étant de 4000 individus, il y a donc 1000 répondants pour 
+chaque version de la question. Les différentes formulations sont énoncées ci-dessous : 
+• 
+Questionnaire A : Accepteriez-vous une baisse de la prestation suivante en 
+échange d’une baisse de vos impôts ou de vos cotisations ? 
+• 
+Questionnaire B : Accepteriez-vous une hausse de vos impôts ou de vos cotisations 
+pour financer l’augmentation des prestations suivantes ? 
+• 
+Questionnaire C : En contrepartie d’une baisse des impôts ou des cotisations, 
+trouveriez-vous acceptable de diminuer les prestations suivantes ? 
+• 
+Questionnaire D : Parmi les prestations suivantes, lesquelles vous semble-t-il 
+nécessaire d’augmenter, même si cela implique une augmentation des impôts ou 
+des cotisations ? 
+On peut décomposer ces changements de formulation en deux : d’une part le 
+retournement de la question qui passe d’une proposition de baisse des prestations (A et 
+
+=== page 8 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+6 
+C) à une proposition de hausse. D’autre part, un changement pur de formulation qui 
+consiste à ne pas changer la signification de la phrase mais seulement quelques mots 
+(passage de A à C) ou encore à reformuler entièrement la phrase sans en changer 
+significativement le sens (passage de B à D). 
+2.3. 
+L’influence de la formulation des questions sur la protection 
+sociale 
+Nous présentons ici les résultats concernant les risques Maladie et Retraite5.  
+On observe dans les Figures 1a et 1b que le changement important de formulation modifie 
+significativement les réponses. Le passage de la formulation « une hausse de vos impôts 
+et prélèvements » à la formulation « vous semble-t-il nécessaire (…) même si cela 
+implique une hausse des impôts et prélèvements » fait passer le soutien à la proposition 
+de 18% à 36% concernant l’assurance maladie et de 27% à 56% concernant les retraites6.  
+Cette première comparaison souligne la possible volatilité des résultats d’enquête 
+d’opinion, puisque dans le cas des retraites on observe même en apparence un 
+changement de majorité sur des questions d’apparence proches, mais dont les 
+implications et la réception ne sont pas les mêmes.  
+                                                        
+5 Pour simplifier la comparaison avec la maladie les résultats sont présentés ici en population générale, 
+mais nous présentons également en annexe les résultats des questions sur les retraites en excluant la 
+population des retraités (ce qui ne modifie pas le sens des résultats). En effet proposer aux retraités de 
+modifier conjointement leurs prélèvements pour augmenter ou diminuer leur prestations retraite a peu de 
+sens.  
+6 Pour simplifier la lecture, tous les résultats sont présentés sur les opinions exprimées, les items « non 
+concerné.e » ou « ne se prononce pas » représentant moins de 5 % des répondants.  
+
+=== page 9 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+7 
+Figure 1a. Comparaison des réponses aux questionnaires B et D, maladie 
+ 
+Lecture : à la question B « accepteriez-vous une hausse de vos impôts ou de vos cotisations pour financer 
+l’augmentation de l’assurance maladie », 52,5% des répondants (hors non concernés et non réponse) ont 
+répondu « Non pas du tout ».  
+Figure 1b. Comparaison des réponses aux questionnaires B et D, retraites 
+ 
+  
+Cependant, le changement de formulation n’a pas un effet systématique lorsque la 
+modification est faible. Les Figures 2a et 2b montrent qu’il n’y a pas de changement dans 
+la répartition des réponses des questionnaires A et C concernant la maladie. Concernant 
+les retraites, la proposition de baisse des prélèvements et prestations est légèrement 
+mieux accueillie dans la formulation « vos prélèvements et prestations » (14% favorables 
+que dans la formulation « les prélèvements et prestations » (9% favorables). Mais dans 
+les deux cas, ce qui est remarquable c’est la très forte opposition à la proposition formulée 
+
+=== page 10 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+8 
+(85% de personnes opposées à la baisse dans le cas de la maladie, 86% à 91% de 
+personnes opposées à la baisse dans le cas des retraites). 
+Figure 2a. Comparaison des réponses aux questionnaires A et C, maladie 
+ 
+Figure 2b. Comparaison des réponses aux questionnaires A et C, retraites 
+ 
+Ainsi placés dans les conditions d’un arbitrage explicite entre prélèvements sociaux et 
+niveau des prestations, les répondants ne montrent donc aucun signe d’une demande 
+latente de baisse de prélèvements, même lorsqu’il est spécifié qu’il s’agit des 
+prélèvements propres des répondants. On peut interpréter ces réponses comme une 
+illustration de la citation d’Esping-Andersen (1996) placée en exergue.  
+Pour autant, la comparaison entre la proposition de baisse (posée traditionnellement 
+dans le baromètre de la DREES) et la proposition exactement symétrique de hausse, posée 
+à titre expérimental dans la vague 2020, est riche d’enseignement (Figures 3a et 3b).  
+
+=== page 11 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+9 
+Figure 3a. Comparaison des réponses aux questionnaires A et B, maladie 
+ 
+Figure 3b.  Comparaison des réponses aux questionnaires A et B, retraites 
+ 
+Dans le cas de la maladie, 85% des répondants se disent opposés à la baisse et 82% 
+opposés à la hausse.  Dans le cas de la retraite, 86% se disent opposés à la baisse et 73% 
+à la hausse.  
+En faisant l’hypothèse (non vérifiable, car les questions n’ont pas été posées aux mêmes 
+individus) que les opinions exprimées sont non contradictoires, c’est-à-dire par exemple 
+que les personnes qui se disent favorables à une hausse ne se diraient pas également 
+favorable à une baisse on aboutit, en recoupant les questions au paysage suivant :  
+Dans le cas de la maladie, 15% des individus se déclarent favorables à une baisse conjointe 
+des prélèvements et prestations, 18% des individus sont favorables à une hausse 
+conjointe des prélèvements et prestations et 67% des individus soutiennent une position 
+de statu quo.  Dans le cas des retraites 14% seraient favorables à une baisse, 26% à une 
+
+=== page 12 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+10 
+hausse et 60% favorables au maintien du statu quo.  Ainsi, dans le cas des retraites, le 
+soutien à la hausse est sensiblement plus fort que le soutien à la baisse (dans le cas de la 
+maladie, les deux niveaux sont proches), mais dans les deux cas une nette majorité des 
+répondants se dit opposée aux deux options proposées.  
+Il faut cependant rester prudent sur ce niveau de soutien au statu quo, qui semble 
+particulièrement sensible à la formulation de la question : si à la place de comparer les 
+réponses entre A et B on compare les réponses entre les questions A et D, on obtient un 
+soutien au statu quo beaucoup plus faible et un soutien beaucoup plus net à 
+l’augmentation des prélèvements et prestations, dès lors qu’on ne précise plus « vos 
+prélèvements et prestations », ce qui n’est pas très surprenant. 
+De plus, comme on va le voir plus bas, il est difficile de dire si cette attraction vers le statu 
+quo des répondants procède d’un effet de questionnaire ou révèle une opinion 
+profondément ancrée.  
+2.4. 
+Analyse de l’influence de la formulation des questions par 
+une méthode de pseudo-panel 
+Rappelons que chaque enquêté ne répond qu’à une seule formulation. Par conséquent, on 
+ne peut comparer les réponses aux quatre formulations des mêmes enquêtés. On peut 
+comprendre cette structure des données s’approchant de données de pseudo panel, en 
+agrégeant les réponses aux quatre formulations. Pour ce faire nous faisons l’hypothèse 
+suivante :  
+Les individus qui répondent à chacune des quatre formulations répondent en fait 
+exactement sur le même objet une échelle graduée de 1 à 3. Nous avons recodé les 
+réponses aux différentes questions de 1 à 3 : les réponses très favorables à la hausse du 
+financement (« Oui tout à fait ») et très opposées à la baisse (« Non pas du tout ») ont été 
+notée 3 ; les réponses très favorables à la baisse et très opposées à la hausse ont été notées 
+1. Les réponses modérées (« plutôt Oui », « plutôt Non ») ont été codées 27.  
+Sous cette hypothèse, nous mesurons l’influence de la formulation du questionnaire qui 
+contribue à « décaler » leur réponse sur cette échelle : l’effet propre du décalage, lié à la 
+formulation de la question est capturé par un effet fixe du questionnaire auquel les 
+individus ont spécifiquement répondu. Par exemple si avec les mêmes caractéristiques les 
+individus obtiennent un score de 3 dans le questionnaire A et de 2 dans le questionnaire 
+B, nous concluons que le questionnaire B produit un décalage de 1. Les individus ayant 
+répondu au questionnaire A sont pris comme référence.  
+ 
+                                                        
+7 Voire table en Annexe A.2 
+
+=== page 13 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+11 
+Table 1. Régression linéaire sur des variables socio-démographiques et le type de questionnaire 
+Assurance maladie 
+Retraite 
+Alloc familiales 
+Chômage 
+Questionnaire A 
+0 
+0 
+0 
+0 
+(.) 
+(.) 
+(.) 
+(.) 
+Questionnaire B 
+-1.672*** 
+-1.600*** 
+-1.462*** 
+-1.511*** 
+(-42.42) 
+(-39.72) 
+(-34.81) 
+(-36.65) 
+Questionnaire C 
+0.0187 
+0.101** 
+0.0354 
+0.0722 
+-0.47 
+-2.52 
+-0.84 
+-1.75 
+Questionnaire D 
+-1.187*** 
+-0.884*** 
+-1.093*** 
+-1.038*** 
+(-30.09) 
+(-21.97) 
+(-26.08) 
+(-25.25) 
+Observations 
+3910 
+3865 
+3798 
+3821 
+r2 
+0.421 
+0.385 
+0.357 
+0.369 
+* p < 0.1, ** p < 0.05, *** p < 0.01. 
+Note : La variable utilisée est codée de 1 à 3, de très favorable à une baisse d’impôts prestations à très 
+défavorable à une baisse d’impôts prestations. Il s’agit d’une régression linéaire, les coefficients sont les 
+effets marginaux du questionnaire sur la variable de soutien, utilisée ici comme un score continu de 1 (pas 
+de soutien) à 3 (beaucoup de soutien). Les coefficients des variables de contrôles ne sont pas dans le tableau. 
+Lecture : Lorsqu’on soumet le questionnaire B aux individus, leur score de soutien au financement de la 
+prestation retraite diminue en moyenne de 1,6 point. Ainsi un individu dont les caractéristiques 
+individuelles prédisent une réponse tout à fait opposée (« Non pas du tout ») à la baisse des 
+prélèvements/prestations dans le questionnaire A (score de 3), obtiendra en moyenne un score de 1,4 dans 
+le questionnaire B (c’est-à-dire une réponse comprise entre « plutôt Non » et « Non pas du tout ») quant à 
+l’opinion sur la hausse des prélèvements/prestations. 
+Source : Baromètre Drees BVA 2020  
+Les résultats présentés dans la Table 1 sont issus d’une régression linéaire et montrent 
+les effets fixes associés aux questionnaires B et D, qui sont une approximation de la 
+préférence pour le statu quo8.  Les individus dont les caractéristiques les disposent à se 
+dire très favorable à la hausse des cotisations se diront aussi très  
+Ces résultats mesurent différemment ce qui a déjà été dit plus haut : les questions 
+concernant la baisse de la protection sociale (A et D) conduisent à se déclarer en faveur 
+de la protection sociale (c’est-à-dire opposé à la baisse), tandis que les questions 
+concernant la hausse des prélèvements et prestations (B et D) conduisent à se déclarer 
+davantage en défaveur de la protection sociale (c’est-à-dire opposé à la hausse).  
+Pour le cas des retraites, le décalage mesuré est de l’ordre de 1,6 point sur 3 pour le 
+questionnaire B, et 0,8 point pour le questionnaire D. Cela signifie que les personnes ayant 
+des caractéristiques prédisant une réponse très opposée à la baisse des prélèvements / 
+prestations dans le questionnaire A, pourraient choisir une modalité intermédiaire dans 
+le questionnaire C (plutôt favorable ou plutôt opposé) correspondant à un score de 2,2 et 
+une modalité hostile dans le questionnaire B (entre plutôt opposé et très opposé à la 
+hausse des prélèvements) correspondant au score de 1,4.  
+                                                        
+8 En effet, le questionnaire de référence est le questionnaire A qui propose une baisse. L’écart entre ce 
+questionnaire et les deux questionnaires qui proposent une hausse (B et D) correspond exactement à une 
+mesure du soutien du statu quo dans notre échantillon. 
+
+=== page 14 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+12 
+Ainsi – sans grande surprise – l’aversion à la hausse est plus forte de 0.6 point sur 3 
+lorsqu’on précise que la hausse de prélèvement concernera directement la personne 
+répondante.  
+ 
+ 
+Les formulations A et C (baisse de vos impôts versus baisse des impôts) sont globalement 
+équivalentes (on observe un effet significatif mais faible du questionnaire C dans le cas 
+des retraites).   
+Cette méthode est intéressante non seulement car elle confirme le résultat précédent, 
+mais aussi car elle nous permet de tester la stabilité des réponses en fonction de variables 
+socio-démographiques (voir l’encadré pour plus de détails). 
+Encadré 1 : Modèle de pseudo-panel 
+Effet fixe de la formulation par modèle économétrique :  
+𝑌𝑖,𝑞= 𝛼𝑞+ 𝑋𝑖+ 𝜀𝑖,𝑞 
+Il s'agit du modèle utilisé ci-dessus table 1. Il permet d'estimer synthétiquement l'écart 
+de réponse entre chaque questionnaire dû à la différence de formulation. 
+ 
+Dans un second temps, on teste la stabilité des coefficients de 𝑋𝑖 en fonction de la 
+formulation en écrivant :  
+𝑌𝑖,𝑞= 𝛼𝑞+ 𝑋𝑖+ 𝑍𝑖,𝑞+ 𝜀𝑖,𝑞 
+ 
+Ce qui nous donne l'écart entre l'effet de la variable Z pour le questionnaire de base (la 
+formulation A) et celui du questionnaire q. Par exemple, si on prend Z le revenu en 
+fonction du questionnaire q on obtient 4 coefficients d'effet revenu, le premier 
+coefficient est l'effet du revenu sur le questionnaire A, les suivants sont l'écart de l'effet 
+revenu sur les questionnaires B, C et D par rapport à l'effet du revenu sur le 
+questionnaire A. Autrement dit, on teste la stabilité de l'effet de la formulation : est-ce 
+que le changement de formulation, y compris le retournement de la question (passage 
+de favorable à la baisse à favorable à la hausse), influence tous les enquêtés de la même 
+manière ? 
+ 
+On utilise ce modèle en linéaire (exemple Table 1) ou logit ordonné (Tables 2, 3 et 4 
+en annexe).  
+
+=== page 15 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+13 
+2.5. 
+Test de la stabilité des réponses par formulation en fonction 
+des catégories socio-démographiques 
+Les résultats commentés ici sont présentés en annexe A.2 et issus de régressions 
+logistiques (Tables 2, 3 et 4).  
+La formulation des questions influence peu la polarisation des réponses. Pour le sexe et 
+l’âge on n’observe pas d’effets différents. L’effet le plus évident est l’effet revenu (Table 
+2) : plus le revenu est élevé, moins l’enquêté a de chance de soutenir une augmentation 
+de prélèvements (ou de s’opposer à une baisse) quel que soit le questionnaire. Toutefois, 
+l’effet moyen du revenu est moindre dans le cas du questionnaire B (« accepteriez-vous 
+une hausse de vos prélèvements ») : les réponses sont moins polarisées en fonction du 
+revenu. En revanche, l’effet du diplôme (Table 4) n’est significatif et positif que pour la 
+formulation B. Autrement dit, le diplôme (contrôlé du revenu) n’a pas ou peu d’effet sur 
+le soutien à la protection sociale tel que mesuré par les formulations A, C et D. Enfin, 
+observer le croisement entre la formulation et la PCS9  (Table 3) permet de confirmer ces 
+éléments.  
+2.6. 
+Conclusion méthodologique 
+Les tests réalisés en exploitant les différentes formulations du questionnaire 2020 nous 
+conduisent à retenir plusieurs éléments.  
+Une part significative des répondants, quelle que soit la question (en faveur d’une hausse 
+ou d’une baisse du financement), semble avoir un fort biais de statu quo. Sans information 
+supplémentaire ce biais en faveur du statu quo peut s’interpréter comme un pur artefact 
+de sondage (par exemple les individus peu sûrs de leur réponse se reportent plus 
+volontiers sur les modalités de réponse qui leur paraissent les moins engageantes) ; cette 
+attitude est d’autant plus vraisemblable que la réforme proposée n’a pas au préalable été 
+introduite dans le débat public. Alternativement, cette attraction vers le statu quo pourrait 
+s’interpréter comme un signal plus substantif concernant les opinions : soit la situation 
+actuelle est jugée satisfaisante, soit il y a une défiance spontanée vis-à-vis de toute 
+proposition de réforme a priori. Enfin, compte tenu de la réalité des contraintes en termes 
+de besoin et des contraintes budgétaires, on peut rappeler que l’arbitrage réel serait 
+mieux exprimé par la formulation suivante : « Seriez-vous prêt à un relèvement de vos 
+prélèvements et prestations pour maintenir le niveau de protection actuelle ? » 10.  
+Les interprétations « en niveau » peuvent se faire plus facilement, si toutes les 
+formulations conduisent à conforter une même interprétation : par exemple il n’y a pas, 
+                                                        
+9 La classe sociale ici est mesurée par le niveau de revenu, la PCS et le diplôme dans des régressions 
+différentes afin d’évacuer les problèmes de fortes corrélations entre ces trois variables. Elles sont donc 
+utilisées comme trois proxy de la classe sociale. 
+10 Le baromètre contient une question proche mais un peu différente concernant la maladie où l’on demande 
+aux répondants de choisir entre « réduire le déficit » et maintenir les prestations. En 2020, 63% des 
+individus (61% en 2019) préféraient le maintien des prestations contre 37% préférant la réduction du 
+déficit (39% en 2019). On voit dans ce cas que lorsque le statu quo n’est pas une option proposée, 
+l’attachement aux prestations est plus fort que le souci de l’équilibre, mais la question ici n’est pas posée 
+concernant les prélèvements.  
+
+=== page 16 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+14 
+dans nos données de signe annonciateur d’une « révolte fiscale », ni de demande de 
+désocialisation forte : aucune des formulations étudiées ne permet de retenir cette 
+hypothèse. De plus, malgré une attraction vers le statu quo, les propositions de baisse 
+conjointe des prélèvements et prestations recueillent davantage d’avis négatif que les 
+propositions de hausse de prélèvement. Cet écart est particulièrement marqué dans le cas 
+des retraites. L’opposition à la hausse des prélèvements apparaît sensiblement plus forte 
+lorsqu’on précise qu’elle implique une hausse des prélèvements des répondant eux-
+mêmes.   
+Au-delà de la question délicate du niveau des opinions, le baromètre permet une analyse 
+plus précise, des variations des opinions. En effet, il y a une forte stabilité des prédicteurs 
+testés (ici les prédicteurs sociodémographiques) quant aux différentes réponses.  
+Aussi, pour la suite de l’étude nous prenons le parti d’interpréter avec la plus grande 
+prudence les résultats en « niveau » (c’est-à-dire par exemple la réponse moyenne à une 
+question), mais en revanche, d’exploiter tant que possible les variations dans les réponses 
+à une même question (variations entre individus aux caractéristiques différentes, et 
+variations dans le temps). Ce faisant, nous faisons l’hypothèse que les biais induits par la 
+formulation des questions sont relativement stables d’un individu à l’autre et d’une vague 
+à l’autre, et que les variations des réponses (entre individus et dans le temps) traduisent 
+bien une variation d’opinion.  
+Ce parti pris nous semble d’ailleurs conforme à l’usage des données fait et recommandé 
+par la DREES, qui pour l’essentiel utilise le baromètre pour commenter les variations 
+d’opinion.  
+3. Soutien et différenciation par branches et catégories socio-
+démographiques 
+3.1. 
+Tendance générale : un soutien croissant malgré les crises  
+Sur les 21 dernières années on ne trouve pas trace d’une quelconque « révolte fiscale » ou 
+d’une diminution du soutien. La part de personnes totalement opposées à une baisse des 
+prestations retraites passe d’environ 50% dans les années 2000 à plus de 80% à la fin de 
+la période.  À l’inverse, les personnes favorables à une baisse étaient environ 30% au 
+début des années 2000 et à peine plus de 10% en fin de période. Cette tendance générale 
+d’opposition à la baisse des prestations se retrouve pour la maladie, et dans une moindre 
+mesure pour la dépendance et le handicap. Elle est nettement moins prononcée pour les 
+risques chômage famille et logement.  
+ 
+ 
+
+=== page 17 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+15 
+Figure 4. Évolution de l’opinion sur la baisse des prélèvements et prestation retraite 
+ 
+Lecture : En 2019, 80% des répondants se disaient opposés ou très opposés à une baisse conjointe des 
+prestations retraites et de leurs prélèvements obligatoires. 
+3.2. 
+Déterminants socio-démographiques du soutien à la 
+protection sociale 
+Si on n’observe pas de baisse du soutien sur la période, une analyse par branche montre 
+un soutien fort mais hétérogène en fonction du type de prestation. De plus, on analyse les 
+effets de variables socio-démographiques sur le soutien à chaque branche. 
+Déterminants individuels du soutien et effet d’intéressement : une polarisation 
+marquée en fonction du revenu et un effet d’intéressement nettement identifiable 
+Pour analyser l’effet de variables socio-démographiques nous effectuons des logits 
+ordonnés sur la question PS13 (seule variable dont nous disposons sur l’ensemble des 
+branches). La question est la suivante : Accepteriez-vous une baisse de la prestation 
+suivante en échange d’une baisse de vos impôts ou de vos cotisations ? Il s’agit de la 
+formulation A de la question testée en première partie sous différentes formulations. 
+Nous disposons des réponses à cette question sur l’ensemble de la période du baromètre 
+2000-2020. 
+Sur la Figure 5, on observe les odds ratios des principaux effets en variables continues. Les 
+tranches de revenus sont en sept catégories, l’âge et le diplôme en cinq tranches. On 
+observe des effets relativement homogènes11. 
+                                                        
+11 Les résultats de la régression sont rapportés en Annexe 4 (Table 5). 
+
+=== page 18 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+16 
+ 
+Figure 5. Écart de probabilité de se dire opposé à la baisse des prélèvements prestations 
+ 
+Note : La variable d’âge est regroupée en 5 tranches, la variable de niveau de vie en 7 tranches (de moins de 
+1000€ par mois à plus de 5300€ par mois), le diplôme en 5 catégories.  
+Lecture : Lorsque l’on monte d’une catégorie d’âge, en contrôlant des autres variables, la probabilité de 
+s’opposer à la baisse des prélèvements et prestations augmente d’environ 8% pour les prestations logement 
+(abscisse 1.08) et d’environ 19% pour les prestations retraite (abscisse 1.19).  
+ 
+Les déterminants analysés sont les suivants : 
+• 
+L’âge : en contrôlant des autres variables, notamment le revenu, le soutien à la 
+protection sociale croît avec l’âge. Plus précisément, la probabilité de refuser une 
+baisse des prestations augmente avec l’âge. Cela peut être en particulier causé par 
+le bénéfice direct plus important des plus âgés, qui sont les premiers bénéficiaires 
+de l’assurance maladie et du système de retraite. Cependant, on trouve également 
+un effet positif marqué de l’âge sur le soutien aux allocations chômage et familiales, 
+ce qui ne peut être compris que par le biais de l’intérêt personnel dans un sens 
+réduit (Figure 7a) 
+  
+Il faut cependant relativiser la position des 18-25 ans mesurée par la variable 
+PS13. Il semble aventureux de conclure que les jeunes générations sont moins 
+favorables à la protection sociale – notamment parce que leur revenu est inférieur 
+en moyenne. Sur ce point, la DREES a publié deux articles de recherche qui 
+détaillent sur les attitudes et opinions des "jeunes adultes" (Papuchon 2018, 
+Grobon & Portela 2016). Il en ressort une attitude vis-à-vis de la protection sociale 
+paradoxale et hétérogène en fonction du statut social (étudiant, CDD, chômeur) ou 
+du statut d’habitation. Les jeunes seraient à la fois favorables à certaines formes 
+d’intervention publique et aux dépenses sociales, en particulier celles concentrant 
+
+=== page 19 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+17 
+les prestations sur ceux qui en ont le plus besoin. À l’inverse, ils seraient moins 
+favorables à l’augmentation de leurs prélèvements obligatoires (ou aux questions 
+qui traitent directement du montant des prélèvements obligatoires). 
+• 
+Le revenu : le niveau de revenu quelle que soit la manière dont il entre dans la 
+régression est un facteur explicatif important, les hauts revenus soutenant moins 
+facilement les prestations de la protection sociale toute branche confondue. L’effet 
+sur les probabilités prédites est supérieur aux autres variables à l’exception du 
+statut d’emploi (Figure 7d). 
+• 
+Le statut d’emploi : on observe une rupture nette entre les employeurs et les 
+autres statuts. Les salariés du privé soutiennent les différentes branches de 
+manière relativement identique aux salariés du public. Les chômeurs et les inactifs 
+sont plus favorables à la protection sociale que les autres. Enfin, la position des 
+retraités est beaucoup plus favorable aux prestations que ce à quoi on aurait pu 
+s’attendre, y compris sur les branches pour lesquels ils ne sont pas bénéficiaires 
+(branche chômage et branche famille). (Figure 7c) 
+• 
+Le diplôme : l’effet est moins net que le revenu et moins linéaire. Il demeure 
+significatif en particulier pour les branches famille, logement et chômage. (Figure 
+7e) 
+• 
+Le genre : les femmes soutiennent davantage la protection sociale (Figure 7b).  
+Nos résultats correspondent dans l’ensemble à ceux de la littérature sur le soutien à la 
+redistribution (voir notamment Amable 2008, Keely & Tan 2008 ou Guillaud 2013). Ces 
+travaux ne traitent pas spécifiquement de la protection sociale mais de la redistribution 
+(autrement dit taxer les riches pour aider les pauvres). La similarité entre les 
+déterminants du soutien tels qu’ils sont étudiés ici (c’est-à-dire les déterminants 
+matériels dominants) et les déterminants du soutien à la redistribution montrent que la 
+protection sociale est aussi perçue comme redistributive (en plus de son rôle de 
+couverture du risque. 
+Une autre manière d’analyser les conditions matérielles du soutien à la protection sociale 
+est d’analyser l’effet spécifique du fait d’être bénéficiaire direct de la prestation.  
+Être bénéficiaire : une variable déterminante 
+Les niveaux de soutien différenciés selon les risques associés à la prestation peuvent être 
+liés à l’étendue des prestations de la branche. En effet, l’ampleur du soutien pour 
+l’assurance maladie peut être liée à l’universalité des prestations d’assurance maladie. De 
+même que l’effet revenu plus important sur les allocations logement ou familiales peut 
+être lié à l’existence de conditions de ressources sur certaines allocations. À l’inverse, la 
+plupart des personnes qui ne reçoivent aucune prestation retraite peuvent tout de même 
+se sentir concernées car elles ont des droits acquis dans le système.  
+Nous mesurons l’effet du statut de bénéficiaire pour chaque risque.  
+ 
+ 
+
+=== page 20 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+18 
+Figure 6. Différence de soutien selon que l’on bénéficie actuellement de la prestation concernée 
+ 
+Note : Le statut d’emploi n’est pas contrôlé dans cette régression car pour les chômeurs et les retraités, 
+l’identification du statut d’emploi se confond avec l’identification des bénéficiaires. Les bénéficiaires pour 
+l’ensemble des prestations sont les personnes ayant répondu appartenir à un foyer bénéficiant desdites 
+prestations. 
+On observe (Figure 6) que le fait d’être bénéficiaire ne suffit pas à expliquer 
+l’hétérogénéité de soutien entre les différentes prestations. Les non-bénéficiaires actuels 
+de la branche retraite ont une probabilité prédite de refuser la baisse des prestations de 
+53% contre 44% pour les non-bénéficiaires des allocations familiales. De même on 
+observe de nouvelles différences entre branche puisque l’effet d’être bénéficiaire du 
+chômage et ou de prestations familiales diffère fortement (+10 points de probabilité de 
+refuser strictement la baisse des allocations chômage pour les bénéficiaires des 
+allocations chômage contre +5 points de probabilité pour les prestations familiales). 
+En bref, le fait d’être bénéficiaire d’une prestation est important (c’est même l’un des 
+déterminants du soutien les plus importants). On peut ainsi attribuer une part du soutient 
+plus fort aux retraites au nombre de retraités dans la population générale, mais cet effet 
+n’est pas suffisant pour expliquer la différence de soutien accordée aux différents types 
+de prestations. Le fait d’être bénéficiaire est moins important pour les allocations 
+familiales que pour les allocations chômage. Il est très faible pour la branche retraite et 
+non-mesurable pour la santé. Il est plus important pour le handicap que pour la 
+dépendance et moins bien mesuré pour la dépendance (intervalle de confiance très 
+grand). 
+
+=== page 21 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+19 
+Bibliographie 
+ 
+Amable, B. (2008). The Differentiation of Social Demands in Europe. The Social Basis of the 
+European Models of Capitalism. Social Indicators Research, 91(3), 391‑426. 
+https://doi.org/10.1007/s11205-008-9340-6 
+Busemeyer, M. R., Garritzmann, J. L., Neimanns, E., & Nezi, R. (2018). Investing in 
+education in Europe: Evidence from a new survey of public opinion. Journal of 
+European Social Policy, 28(1), 34-54. 
+Cavaillé (à paraître), Fair Enough? Support for Redistribution in the Age of Inequality.  
+COR (2021), Évolutions et perspectives des retraites en France - Rapport annuel du COR, 
+juin 2021, sous la direction de P.-L. Bras. 
+d’Albis, Hippolyte, and Pierre-Yves Cusset (2018). "Déterminants démographiques de 
+l’évolution des dépenses de santé en France." Revue française d'économie 33.2: 113-
+146. 
+Duvoux, N., & Papuchon, A. (2018). Qui se sent pauvre en France ? Revue française de 
+sociologie, 59(4), 607. https://doi.org/10.3917/rfs.594.0607 
+Esping-Andersen, G. (1996). Welfare states without work: the impasse of labour shedding 
+and familialism in Continental European social policy. Welfare States in Transition, 66–
+87. 
+Drees, France Stratégie et HCFiPS (2018). Les connaissances et opinions sur le 
+financement de la protection sociale. Document de travail, février 2018. 
+Françon, B., & Zemmour, M. (2018). Clivages socio-économiques autour des réformes de 
+l’assurance chômage : Une analyse de données d’opinions françaises. Socio-économie 
+du travail, Classiques Garnier, 1(3). 
+Grobon, S., & Portela, M. (2016). À quel modèle de protection sociale les jeunes adultes 
+aspirent-ils ? Les dossiers de la DREES. 
+Guillaud, E. (2013). Preferences for redistribution: an empirical analysis over 33 
+countries. The Journal of Economic Inequality, 11(1), 57-78. 
+Keely, L. C., & Tan, C. M. (2008). Understanding preferences for income redistribution. 
+Journal of Public Economics, 92(5-6), 944-961. 
+Libault, D. (2019). Grand âge, le temps d’agir. Rapport au Premier ministre de la 
+Concertation « Grand âge et autonomie », mars. 
+Miron de l’Espinay A. et Roy D. (2020) Perte d’autonomie : à pratiques inchangées, 
+108 000 seniors de plus seraient attendus en Ehpad d’ici à 2030. Projections de 
+population âgée en perte d’autonomie selon le modèle Lieux de vie et autonomie 
+(LIVIA). DREES, Études et résultats, 1172. 
+Papuchon, A. (2018). Les jeunes adultes : des points de vue hétérogènes sur le système de 
+protection 
+sociale. 
+Informations 
+sociales, 
+196-197, 
+144-154. 
+https://doi.org/10.3917/inso.196.0144 
+Spire, A. (2018). Résistances à l'impôt, attachement à l'Etat-Enquête sur les contribuables 
+français. Seuil. 
+Zemmour, M. (2015). Economie politique du financement progressif de la protection 
+sociale (No. 38). Sciences Po. 
+ 
+
+=== page 22 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+20 
+Annexes 
+ 
+A.1 Reproduction de figures, hors retraités 
+ 
+Nous reproduisons les figures 2b et 2a en enlevant la population des retraités. Les niveaux 
+varient un peu, mais les conclusions sont les mêmes que dans la section 2.  
+Figure 2b bis : comparaison des questions A et C, en excluant les personnes retraitées 
+ 
+Figure 1b bis : comparaison des questions B et D, en excluant les personnes retraitées 
+ 
+
+=== page 23 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+1 
+A.2 Méthode de pseudo-panel 
+ 
+Table de définition du « score de soutien au financement » compris entre 1 et 3  
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+ 
+ 
+ 
+ 
+ 
+Accepteriez-vous 
+une baisse (…) de 
+l'assurance 
+maladie en 
+échange d'une 
+baisse de vos 
+impôts ou de vos 
+cotisations 
+Accepteriez-vous 
+une hausse de 
+vos impôts ou de 
+vos cotisations 
+pour financer 
+l'augmentation 
+de l'assurance 
+maladie (…) de 
+l'assurance 
+maladie en 
+échange d'une 
+baisse de vos 
+impôts ou de vos 
+cotisations 
+En contrepartie 
+d'une baisse des 
+impôts ou des 
+cotisations, 
+trouveriez-vous 
+acceptable de 
+diminuer les 
+remboursements 
+de l'assurance 
+maladie ? 
+Parmi les prestations 
+suivantes, lesquelles 
+vous semble-t-il 
+nécessaire 
+d'augmenter même si 
+cela implique une 
+augmentation des 
+cotisations et des 
+impôts ? (Maladie) 
+Score 
+1 
+Très favorable à un moindre 
+financement 
+Oui tout à fait 
+Non pas du tout 
+Oui tout à fait 
+Non pas du tout 
+2 
+Favorable à un moindre financement 
+Oui plutôt 
+Non plutôt pas 
+Oui plutôt 
+Non plutôt pas 
+Favorable à un surcroit de financement 
+Non plutôt pas 
+Oui plutôt 
+Non plutôt pas 
+Oui plutôt 
+4 
+Très favorable à un surcroit de 
+financement 
+Non pas du tout 
+Oui tout à fait 
+Non pas du tout 
+Oui tout à fait 
+ 
+
+=== page 24 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+1 
+En dehors de la régression linéaire, on utilise une variable à 3 valeurs : 1 ne soutient pas 
+la protection sociale (accepte une baisse de prestations ou refuse strictement une hausse), 
+2 réponse plus neutre / statu quo ou indécision (refuse plutôt une baisse ou refuse plutôt 
+une hausse) et 3 soutien aux prestations de la protection sociale (refuse totalement la 
+baisse ou accepte la hausse de prestation). Cela nous permet de prendre en compte la 
+structure des réponses et d'estimer des coefficients plus robustes et plus facilement 
+lisibles. Les odds ratios indiquent le risque relatif de se retrouver dans une catégorie 
+supérieure de soutien. Un odd ratio supérieur à 1 signifie que la catégorie ou la variable a 
+un effet positif sur le soutien à la protection sociale ; un effet inférieur à 1, l'inverse. 
+Table 2. Logit ordonné : croisement du niveau de vie et de la formulation 
+Assurance 
+maladie 
+Retraite 
+Alloc 
+familiales 
+Alloc 
+chômage 
+Indépendant 
+1.017 
+0.821 
+1.022 
+0.96 
+CDI temps plein 
+1 
+1 
+1 
+1 
+Contrat précaire 
+1.270** 
+1.012 
+1.386*** 
+1.315*** 
+Retraité 
+1.002 
+1.003 
+0.998 
+0.988 
+Autres inactifs 
+1.284** 
+1.067 
+1.486*** 
+1.375*** 
+18 à 24 ans 
+1 
+1 
+1 
+1 
+25 à 34 ans 
+1.202 
+1.291* 
+1.583*** 
+1.603*** 
+35 à 49 ans 
+1.064 
+0.979 
+1.119 
+1.192 
+50 à 64 ans 
+1.029 
+1.22 
+1.17 
+1.218 
+65 ans et + 
+1.267 
+1.263 
+1.133 
+1.153 
+Homme 
+1 
+1 
+1 
+1 
+Femme 
+1.024 
+1.11 
+1.046 
+1.083 
+Quintiles niveau de vie 
+0.931 
+0.922* 
+0.800*** 
+0.854*** 
+A x Quintiles niveau de vie 
+1 
+1 
+1 
+1 
+B x Quintiles niveau de vie 
+1.143** 
+1.145** 
+1.221*** 
+1.222*** 
+C x Quintiles niveau de vie 
+0.975 
+1.027 
+1.032 
+0.996 
+D x Quintiles niveau de vie 
+0.97 
+0.963 
+1.063 
+1.064 
+A 
+1 
+1 
+1 
+1 
+Questionnaire B 
+0.0246*** 
+0.0308*** 
+0.0321*** 
+0.0287*** 
+Questionnaire C 
+1.132 
+1.168 
+0.982 
+1.167 
+Questionnaire D 
+0.108*** 
+0.190*** 
+0.113*** 
+0.120*** 
+  
+  
+  
+cut1 
+0.0393*** 
+0.0391*** 
+0.0570*** 
+0.0565*** 
+cut2 
+0.168*** 
+0.126*** 
+0.271*** 
+0.257*** 
+cut3 
+0.779 
+0.625** 
+1.004 
+1.098 
+Observations 
+3911 
+3866 
+3800 
+3822 
+Pseudo R2 
+0.18 
+0.167 
+0.149 
+0.155 
+* p < 0.1, ** p < 0.05, *** p < 0.01 
+Note : Odds ratios. Pour l’assurance maladie, l’odd ratio des contrats précaires est de 1.27, ce qui signifie que 
+les contrats précaires ont 27% de chance de plus de soutenir l’assurance maladie (refuser la baisse ou 
+accepter la hausse) que les CDI à temps plein. A l’inverse, le niveau de vie a un odd ratio de 0.85 pour 
+l’assurance chômage : passer d’un quintile de niveau de vie à celui du dessus diminue le soutien aux 
+allocations chômage de 15% (le quintile supérieur a 15% de chance de plus d’accepter une hausse ou de 
+refuser une baisse). Résultat : l’écart entre l’effet revenu en fonction de la formulation est significatif 
+seulement pour le questionnaire B. Le changement de formulation ne modifie donc pas la polarisation des 
+réponses en fonction du revenu sauf pour le questionnaire B. Source : Baromètre Drees BVA 2020. 
+
+=== page 25 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+2 
+A.3 Croisement formulation et caractéristiques individuelles 
+Table 3. Logit ordonné : croisement de la PCS et de la formulation 
+Assurance 
+maladie 
+Retraite 
+Alloc 
+familiales 
+Alloc 
+chomages 
+Agri ACCE 
+1.158 
+0.662 
+1.332 
+1.18 
+Libéral Cadre et PI 
+1 
+1 
+1 
+1 
+Employé Ouvrier 
+1.249 
+0.983 
+1.603*** 
+1.236 
+Autre inactif 
+1.443* 
+0.962 
+2.669*** 
+1.904*** 
+Retraité 
+1.245 
+1.429* 
+1.35 
+1.169 
+18 à 24 ans 
+1 
+1 
+1 
+1 
+25 à 34 ans 
+1.134 
+1.223 
+1.491*** 
+1.507*** 
+35 à 49 ans 
+1.003 
+0.909 
+1.068 
+1.129 
+50 à 64 ans 
+0.983 
+1.154 
+1.079 
+1.131 
+65 ans et + 
+1.222 
+1.206 
+1.029 
+1.069 
+Homme 
+1 
+1 
+1 
+1 
+Femme 
+1.034 
+1.106 
+1.064 
+1.098 
+B x Agri ACCE 
+0.624 
+0.812 
+0.816 
+0.652 
+B x Libéral Cadre et PI 
+1 
+1 
+1 
+1 
+B x Employé Ouvrier 
+0.650* 
+0.608** 
+0.521*** 
+0.625* 
+B x Autre inactif 
+0.839 
+0.813 
+0.523** 
+0.610* 
+B x Retraité 
+0.442*** 
+0.273*** 
+0.492*** 
+0.513*** 
+C x Agri ACCE 
+0.878 
+1.398 
+0.737 
+0.608 
+C x Libéral Cadre et PI 
+1 
+1 
+1 
+1 
+C x Employé Ouvrier 
+1.12 
+0.944 
+0.988 
+1.097 
+C x Autre inactif 
+0.788 
+0.849 
+0.713 
+0.81 
+C x Retraité 
+1.097 
+0.819 
+1.385 
+1.143 
+D x Agri ACCE 
+0.467* 
+0.902 
+0.473* 
+0.476* 
+D x Libéral Cadre et PI 
+1 
+1 
+1 
+1 
+D x Employé Ouvrier 
+0.785 
+0.773 
+0.534*** 
+0.649* 
+D x Autre inactif 
+0.894 
+1.001 
+0.555** 
+0.676 
+D x Retraité 
+0.741 
+0.692 
+0.539*** 
+0.726 
+Questionnaire A 
+1 
+1 
+1 
+1 
+Questionnaire B 
+0.0538*** 
+0.0767*** 
+0.0948*** 
+0.0782*** 
+Questionnaire C 
+1.024 
+1.378* 
+1.037 
+1.13 
+Questionnaire D 
+0.120*** 
+0.200*** 
+0.217*** 
+0.194*** 
+Quintiles niveau de vie 
+  
+0.930*** 
+  
+Observations 
+3924 
+3879 
+3813 
+3835 
+Pseudo R2 
+0.181 
+0.17 
+0.147 
+0.154 
+* p < 0.1, ** p < 0.05, *** p < 0.01. 
+Note : Odds ratios. Pour l’assurance maladie, l’odd ratio du questionnaire B est de 0.05 ce qui signifie que 
+les répondants au questionnaire B ont 95% de chance de plus de refuser la hausse des prestations (moins 
+soutenir) que les répondants au questionnaire A. Résultats : Les réponses sont relativement stables à 
+l’exception des réponses pour les allocations familiales et pour le questionnaire B. Le soutien aux allocations 
+familiales est très polarisé selon les formulations A et C (odds ratios très élevé : les inactifs soutiennent 2.7 
+fois plus les allocations familiales que les professions libérales, les cadres et les professions intermédiaires) 
+tandis que lorsqu’on propose une hausse des prestations (questionnaire B et D), les réponses sont beaucoup 
+plus homogènes. 
+ 
+
+=== page 26 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+3 
+Table 4. Logit ordonné : croisement du diplôme et de la formulation 
+Assurance 
+maladie 
+Retraite 
+Alloc 
+familiales 
+Alloc 
+chomages 
+main 
+  
+  
+  
+  
+inf bac 
+1 
+1 
+1 
+1 
+bac 
+0.82 
+0.861 
+0.742* 
+0.733* 
+sup bac 
+1.005 
+0.763* 
+0.868 
+0.85 
+18 à 24 ans 
+1 
+1 
+1 
+1 
+25 à 34 ans 
+1.072 
+1.218 
+1.352** 
+1.414*** 
+35 à 49 ans 
+0.935 
+0.907 
+0.933 
+1.032 
+50 à 64 ans 
+0.929 
+1.141 
+1.008 
+1.085 
+65 ans et + 
+1.113 
+1.201 
+0.93 
+0.995 
+Homme 
+1 
+1 
+1 
+1 
+Femme 
+1.041 
+1.128* 
+1.069 
+1.1 
+Quintiles niveau de vie 
+0.915*** 
+0.944** 
+0.817*** 
+0.867*** 
+B x inf bac 
+1 
+1 
+1 
+1 
+B x bac 
+1.596** 
+1.480* 
+1.735** 
+1.922*** 
+B x sup bac 
+1.606** 
+2.116*** 
+1.962*** 
+2.155*** 
+C x inf bac 
+1 
+1 
+1 
+1 
+C x bac 
+0.995 
+0.782 
+1.36 
+1.760** 
+C x sup bac 
+1.032 
+1.252 
+1.224 
+1.378 
+D x inf bac 
+1 
+1 
+1 
+1 
+D x bac 
+1.313 
+1.024 
+1.331 
+1.388 
+D x sup bac 
+0.994 
+1.12 
+1.371 
+1.318 
+Questionnaire A 
+1 
+1 
+1 
+1 
+Questionnaire B 
+0.0279*** 
+0.0326*** 
+0.0403*** 
+0.0343*** 
+Questionnaire C 
+1.037 
+1.25 
+0.931 
+0.896 
+Questionnaire D 
+0.0929*** 
+0.162*** 
+0.113*** 
+0.120*** 
+cut1 
+0.0302*** 
+0.0353*** 
+0.0419*** 
+0.0430*** 
+cut2 
+0.130*** 
+0.114*** 
+0.198*** 
+0.195*** 
+cut3 
+0.596*** 
+0.563*** 
+0.733** 
+0.826 
+Observations 
+3910 
+3865 
+3798 
+3821 
+Pseudo R2 
+0.18 
+0.167 
+0.149 
+0.155 
+* p < 0.1, ** p < 0.05, *** p < 0.01. 
+Note : Odds ratios. Pour l’assurance maladie, l’odd ratio des répondants du questionnaire B ayant le bac par 
+rapport aux non-bachelier est de 1.6 ce qui signifie que l’écart de soutien entre bachelier et non bachelier 
+pour le questionnaire B est de 60% plus élevé que pour le questionnaire A pour l’assurance maladie. Comme 
+les coefficients du questionnaire A sont proches de 1 et non significatifs, on peut déduire que le diplôme a 
+un effet seulement sur le questionnaire B : les bacheliers ont 60% de chance de plus de soutenir l’assurance 
+maladie que les non-bachelier. Ce résultat se retrouve sur l’ensemble des branches. Autrement dit on 
+n’observe pas ou peu de polarisation en fonction du diplôme pour les formulations A C et D. Au contraire 
+pour la formulation B on observe une polarisation plus nette qui consiste en un soutien plus fort à la 
+protection sociale chez les plus diplômés. 
+ 
+ 
+
+=== page 27 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+4 
+Table 5. Logit ordonné par grand risque 
+AM 
+Retraite 
+Famille 
+Chômage 
+Handicap Dépendance 
+ 
+Logement 
+  
+  
+  
+  
+  
+  
+  
+Tranche d'âge 
+1.130*** 
+1.186*** 
+1.120*** 
+1.136*** 
+1.117*** 
+1.134*** 
+1.084*** 
+  
+-7.66 
+-10.4 
+-6.99 
+-7.89 
+-6.8 
+-7.73 
+-4.08 
+Tranche de revenu 
+0.932*** 
+0.931*** 
+0.885*** 
+0.902*** 
+0.927*** 
+0.929*** 
+0.870*** 
+  
+(-7.51) 
+(-7.40) 
+(-12.74) 
+(-10.83) 
+(-7.86) 
+(-7.67) 
+(-11.89) 
+Femme 
+1.208*** 
+1.213*** 
+1.130*** 
+1.161*** 
+1.148*** 
+1.139*** 
+1.113*** 
+  
+-6.68 
+-6.64 
+-4.26 
+-5.17 
+-4.78 
+-4.52 
+-3.03 
+Statut d'emploi 
+  
+  
+Salarié du public 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+Salarié privé 
+1.028 
+1.011 
+1.01 
+1.006 
+1.01 
+0.999 
+1.014 
+  
+-0.61 
+-0.23 
+-0.21 
+-0.14 
+-0.22 
+(-0.02) 
+-0.25 
+Indép sans salarié 
+0.971 
+0.961 
+0.936 
+0.912 
+1.141 
+1.07 
+0.863 
+  
+(-0.37) 
+(-0.50) 
+(-0.83) 
+(-1.14) 
+-1.62 
+-0.84 
+(-1.51) 
+Employeur 
+0.750*** 
+0.795** 
+0.680*** 
+0.693*** 
+0.859 
+0.836 
+0.659*** 
+  
+(-2.72) 
+(-2.13) 
+(-3.50) 
+(-3.32) 
+(-1.41) 
+(-1.64) 
+(-3.02) 
+Chomeur 
+1.167** 
+1.098 
+1.264*** 
+1.425*** 
+1.191*** 
+1.167** 
+1.250*** 
+  
+-2.38 
+-1.41 
+-3.6 
+-5.4 
+-2.65 
+-2.34 
+-2.64 
+Inactif 
+1.178*** 
+1.059 
+1.213*** 
+1.170*** 
+1.148** 
+1.172*** 
+1.282*** 
+  
+-2.82 
+-0.97 
+-3.33 
+-2.69 
+-2.34 
+-2.7 
+-3.4 
+Retraité 
+1.143** 
+1.188*** 
+1.083 
+1.018 
+1.038 
+1.005 
+1.074 
+  
+-2.41 
+-3.03 
+-1.42 
+-0.32 
+-0.66 
+-0.09 
+-1.03 
+diplome 
+0.939*** 
+0.932*** 
+0.917*** 
+0.931*** 
+0.976** 
+0.970*** 
+0.922*** 
+  
+(-5.71) 
+(-6.24) 
+(-7.75) 
+(-6.38) 
+(-2.19) 
+(-2.74) 
+(-5.86) 
+cut1 
+0.0593*** 0.0644*** 0.0618*** 0.0640*** 0.0682*** 
+0.0628*** 
+0.0479*** 
+  
+(-32.82) 
+(-31.11) 
+(-32.33) 
+(-31.93) 
+(-30.75) 
+(-31.59) 
+(-28.66) 
+cut2 
+0.310*** 
+0.327*** 
+0.301*** 
+0.319*** 
+0.354*** 
+0.357*** 
+0.224*** 
+  
+(-14.38) 
+(-13.40) 
+(-14.52) 
+(-13.87) 
+(-12.48) 
+(-12.41) 
+(-14.72) 
+cut3 
+1.073 
+1.093 
+0.973 
+1.096 
+1.182** 
+1.229** 
+0.743*** 
+  
+-0.87 
+-1.08 
+(-0.34) 
+-1.12 
+-2.02 
+-2.5 
+(-2.96) 
+Observations 
+18713 
+18207 
+17345 
+17429 
+17557 
+17610 
+11656 
+pseudo-R2 
+0.0108 
+0.0155 
+0.0153 
+0.0131 
+0.00651 
+0.00702 
+0.016 
+* p < 0.1, ** p < 0.05, *** p < 0.01. 
+Note : Odds ratios. Question : Accepteriez-vous la baisse de cette prestation en échange d’une baisse de vos 
+impôts ? La réponse 1 est "Oui tout à fait" ; la réponse 4 est "Non pas du tout". Un OR supérieur à 1 
+équivaut donc à une propension supérieure à se dire opposé à une baisse de la prestation et des 
+prélèvements. 
+ 
+ 
+
+=== page 28 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+5 
+A.4 Effet substantif des caractéristiques individuelles  
+Les Figures 7a à 7 e rendent compte de la probabilité prédite par le modèle de refuser la 
+baisse pour un individu ayant les caractéristiques moyennes de l’échantillon sauf pour 
+une des variables (âge, sexe, PCS, revenu, diplôme). Le graphique permet donc de lire 
+comment la probabilité prédite évolue lorsque les modalités de la variable concernée 
+changent.  
+ 
+Figure 7a 
+ 
+Figure 7b 
+ 
+ 
+ 
+
+=== page 29 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+6 
+Figure 7c. Effet marginal du statut sur la probabilité de s’opposer à une baisse des prélèvements et 
+prestations 
+ 
+ 
+Figure 7d 
+ 
+ 
+ 
+
+=== page 30 ===
+Rapport préliminaire (extrait) – Merci de demander aux auteurs avant de citer 
+7 
+Figure 7e. Effet marginal du diplôme 
+ 

@@ -1,0 +1,2355 @@
+
+=== page 1 ===
+Inaccurate Politicians. 
+Elected Representatives’ Estimations of Public Opinion in Four Countries 
+Short title: Representatives’ Estimations of Public Opinion 
+Authors: Stefaan Walgrave, stefaan.walgrave@uantwerpen.be; Arno Jansen, arno.jansen@uantwerpen.be; Julie Sevenans, julie.sevenans@uantwerpen.be; Karolin 
+Soontjens, karolin.soontjens@uantwerpen.be; Jean-Benoit Pilet, jean-benoit.pilet@ulb.ac.be; Nathalie Brack, nbrack@ulb.ac.be; Frédéric Varone, Frederic.Va-
+rone@unige.ch; Luzia Helfer, Luzia.Helfer@unige.ch; Rens Vliegenthart, r.vliegenthart@uva.nl; Toni van der Meer, g.l.a.vandermeer@uva.nl; Christian Breunig, chris-
+tian.breunig@uni-konstanz.de; Stefanie Bailer, stefanie.bailer@unibas.ch; Lior Sheffer, liorsheffer@tauex.tau.ac.il; Peter John Loewen, peter.loewen@utoronto.ca 
+Abstract: Knowledge of what voters prefer is central to several theories of democratic representation and accountability. Despite this, we know little in a comparative 
+sense of how well politicians know citizens’ policy preferences. We present results from a study of 866 politicians in four countries. Politicians were asked to estimate 
+the percentage of public support for various policy proposals. Comparing more than 10,000 estimations with actual levels of public support, we conclude that politicians 
+are quite inaccurate estimators of people’s preferences. They make large errors and even regularly misperceive what a majority of the voters wants. Politicians are 
+hardly better at estimating public preferences than ordinary citizens. They not only misperceive the preferences of the general public but also the preferences of their 
+own partisan electorate. Politicians are not the experts of public opinion we expect them to be. 
+Keywords: political representation; public opinion; perceptual accuracy; responsiveness 
+Data replication statement: Replication files are available in the JOP Dataverse (https://dataverse.harvard.edu/dataverse/jop). The empirical analysis has been 
+successfully replicated by the JOP replication analyst. 
+Online appendix: Supplementary material for this article is available in the appendix in the online edition. 
+Human participants: The study was conducted in compliance with relevant laws. In Belgium, we first obtained ethical approval from the Ethische Adviescommisse 
+Sociale en Humane Wetenschappen of the University of Antwerp (Flanders, Belgium) on 10 Feb 2017, and then ethical clearance from the Comission éthique de la 
+Faculté de Philosophie et sciences sociales de l’ULB (Wallonia) in March 2018. In Canada, we obtained ethical approval from the University of Toronto's Social Sci-
+ences, Humanities & Education REB on 27 Nov 2018. In Switzerland, we obtained ethical approval from the Ethics Commission of the Geneva School of Social Sciences 
+(University of Geneva) on 16 April 2018. In Germany, the Ethics Committee (IRB) of the University of Konstanz judged that approval by the IRB or any regulatory body 
+was not required for this project (but note that the university more generally enforces the proper adherence to ethics guidelines). 
+Financial support: The data were collected in the framework of the POLPOP project. POLPOP is a transnational collaboration examining the perceptual accuracy of 
+politicians in five countries, initiated by Stefaan Walgrave. The Principal Investigators [+ funders] per country responsible for data collection were, for Flanders-
+Belgium: Stefaan Walgrave [FWO, grant number G012517N]; Wallonia and Brussels-Belgium: Jean-Benoit Pilet and Nathalie Brack [FNRS, grant number T.0182.18]; 
+Canada: Peter Loewen and Lior Sheffer [supported by a Social Sciences and Humanities Research Council of Canada Insight Grant and by the Dean of the Faculty of 
+Arts & Science at the University of Toronto]; Germany: Christian Breunig and Stefanie Bailer [funded by AFF 2018 at the University of Konstanz]; Netherlands: Rens 
+Vliegenthart and Toni van der Meer; and Switzerland: Frédéric Varone and Luzia Helfer [SNSF, grant number 100017_172559]. Note that the Dutch data were ex-
+cluded from the analysis because of the non-representativeness of the citizen data. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 2 ===
+1 
+ 
+Scholars of democratic representation have long argued that knowing what citizens want enables 
+politicians to produce responsive policies (see for instance Miller & Stokes, 1963; Stimson et al., 
+1995; Mansbridge, 2003). Democratic responsiveness partly depends on the accuracy of elected 
+representatives’ perceptions of people’s policy preferences. Even if a politician decides to act 
+contrary to public opinion, they still benefit from a good command of public preferences in order 
+to develop an effective explanation for the positions they take (Grose, Malhotra, and Parks Van 
+Houweling 2015). Moreover, politicians being attentive to public opinion and having a good grasp 
+of it is what voters expect of their representatives (Dassonneville e.a. 2020). Hence, for several 
+reasons, we expect elected politicians to be experts in estimating the public’s preferences. But 
+are they? Do they possess the basic knowledge of public opinion that allows them to be respon-
+sive? 
+The evidence on politicians’ perceptual accuracy is limited. Indirect evidence about ob-
+served policy responsiveness (e.g. Soroka and Wlezien 2009), allegedly caused by politician per-
+ception, is available but data directly tapping into politicians’ perceptions are scant. The relatively 
+few studies (e.g. Broockman and Skovron 2018) provide important insights on perceptual accu-
+racy but a broad, comprehensive and comparable investigation has so far not been undertaken. 
+Extant work typically offers evidence about one country at a time, focuses on one or a few issues, 
+and conceptualizes perceptual accuracy rather narrowly, hampering the generalizability of the 
+findings. Also, whether politicians stand out as experts of public opinion cannot really be con-
+cluded from these studies; they lack a benchmark against which to compare politicians’ estima-
+tions. Moreover, existing work deals with one type of public opinion while democratic represen-
+tation may imply responsiveness to several public opinions, such as general public opinion or the 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 3 ===
+2 
+ 
+opinion of a party’s voters. Hence, at this stage, our knowledge of whether politicians hold the 
+necessary perceptual competence needed to be responsive remains incomplete. 
+This study makes empirical, methodological and conceptual advances. It presents the larg-
+est empirical effort to measure politicians’ perceptual accuracy drawing on more than 10,000 
+estimations of public opinion preferences by 866 national and regional elected representatives in 
+four different countries (Belgium, Canada, Germany, and Switzerland). It leverages public opinion 
+estimations with regard to a systematic selection of eight different policies across functionally 
+equivalent issue domains and examines two distinct accuracy measures. The absence of an accu-
+racy yardstick is tackled by comparing politicians’ estimation errors against chance and against 
+the estimations of non-experts. As politicians may both represent the general public and also 
+party voters we include politicians’ estimates of general public opinion and party electorate opin-
+ion. 
+We find that politicians make substantial errors both when estimating the share of citizens 
+who support a given policy and when identifying where the majority lies. Politicians’ estimates 
+outperform random guesses, but they perform hardly better than citizens. Their inaccuracy with 
+regard to one sort of public opinion is not compensated for by a better grasp of another since 
+estimations with regard to the opinion of the general public and the party electorate are similarly 
+inaccurate. We obtain similar results across all of our country cases. All in all, politicians’ percep-
+tions do not seem to live up to the standard required of them by theories of representation. 
+Elected representatives do not appear to possess a special expert ability to know what the public 
+wants. 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 4 ===
+3 
+ 
+The democratic importance of accurate perceptions 
+ 
+Perceptions of public opinion are a key mechanism producing democratic responsiveness. As ini-
+tially formulated by Miller & Stokes (1963), there are essentially two main ways in which public 
+opinion may be linked to policy output. If people elect the ‘right’ politicians—i.e. politicians who 
+share their preferences—then democratic representation comes about when politicians pursue 
+their own preferences. If politicians hold the ‘right’ perceptions of what the citizens want then 
+democratic representation can be the result of politicians following their perceptions of public 
+opinion. We acknowledge the significance of still other alternative linkage mechanisms, politi-
+cians may, for instance, lead public opinion. Note that while this mechanism would generate con-
+gruence—an eventual match between popular preferences and policies—it lacks the responsive-
+ness that is central to democratic representation (see for example: Beyer and Hänni 2018). 
+Politicians’ perception of public opinion being one important way in which democratic 
+policy making may come about, the perceptual mechanism has been at the heart of many theo-
+retical accounts of democratic responsiveness. Stimson and colleagues (1995), for instance, hold 
+that rational politicians sense the mood of the nation and act accordingly. Their worry for elec-
+toral punishment makes them pre-empt electoral sanctions by attentively observing public opin-
+ion and investing plenty of resources in getting a good grasp of it. Mansbridge’s (2003) theoretical 
+account too considers, what she calls, anticipatory representation to be one of the main ways in 
+which democratic responsiveness comes about. It crucially hinges on representatives’ under-
+standing of what the public prefers. 
+Empirical work as well established that public opinion perceptions affect what politicians 
+actually undertake. This applies, for instance, to the initial study of Miller and Stokes (1963) about 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 5 ===
+4 
+ 
+U.S. Congressmen’s roll call voting, the study by Converse and Pierce (1986) about the votes of 
+the members of the French Assemblée National, the experimental study by Butler and Nickerson 
+(2011) on New Mexico state legislators, and the narrative evidence presented by Kingdon (1973) 
+in his ethnographic study of U.S. Congressmen. 
+Normatively as well it can be argued that politicians should have a good command of pub-
+lic opinion. This is what citizens expect. Voters prefer politicians who are attentive to public opin-
+ion, have a good grasp of it, and vote with it (e.g. Lapinski e.a. 2016; Werner 2019; Dassonneville 
+e.a. 2020). Politicians should master public opinion, citizens maintain. 
+The expectation that politicians have a good sense for public opinion applies to all politi-
+cians, irrespective of their style or focus of representation. Even trustee-style politicians who 
+may—when their own views do not match those of the public—decide to go against public opin-
+ion need a good command of what the public wants to be able to design effective communication 
+and avoid negative fall-out (see on explanations, Grose, Malhotra, and Parks Van Houweling 
+2015). Some politicians aim to represent their district, others are focused on the general public, 
+and still others primarily want to represent the voters of their party (Dudzińska e.a. 2014). In each 
+of those models, having a good grasp of the wish of the public one wants to represent is a key 
+asset. 
+Public opinion perceptions of politicians matter theoretically, empirically and normatively; 
+and they matter for all politicians irrespective of their style or focus of representation. But do 
+politicians stand up to the expectation that they correctly read public opinion? 
+ 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 6 ===
+5 
+ 
+What we know about politicians’ perceptual accuracy 
+ 
+A small number of empirical studies examines the accuracy of politicians’ perceptions of citizens’ 
+preferences. Spanning more than 50 years of research, our systematic review finds just thirteen 
+published empirical studies (Miller and Stokes 1963; Sigel and Friesema 1965; Hedlund and 
+Friesema 1972; Erikson, Luttbeg, and Holloway 1975; Clausen, Holmberg, and deHaven-Smith 
+1983; Converse and Pierce 1986; Esaiasson and Holmberg 1996; Holmberg 1999; Norris and Lov-
+enduski 2004; Belchior 2014; Broockman and Skovron 2018; Kalla and Porter 2020; Pereira 2021). 
+There is some adjacent work on the public opinion perceptions, not of politicians, but of their 
+staffers (e.g. Miler, 2007; Hertel-Fernandez et al., 2019). 
+Hardly any of that previous work focuses on the degree of accuracy among politicians. No 
+studies concentrate on establishing whether politicians are good raters, for instance by discussing 
+the size of the estimation errors or by comparing politicians’ estimation accuracy with a bench-
+mark. Instead, studies focus, for instance, on the direction of the bias in perceptions (Broockman 
+& Skovron, 2018), on the consequences of the biased perceptions (Norris & Lovenduski, 2004), on 
+how to correct for inaccurate perceptions (Kalla & Porter, 2020; Pereira 2021), or they establish 
+individual variation in perceptual accuracy (Miller & Stokes, 1963). This leaves the elementary 
+matter of how accurate politicians’ perceptions actually are largely unanswered. Few of the ref-
+erenced authors draw conclusions about politicians’ degree of perceptual accuracy—see for ex-
+ample Sigel and Friesema (1965, 888) with pessimistic conclusions about U.S. community leaders 
+and Esaiasson and Holmberg (1996, 139) with optimistic conclusions with regard to Swedish MPs. 
+Further, the empirical base of extant studies remains limited. None have a comparative 
+design able to overcome the specificities of particular national contexts which leaves us with little 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 7 ===
+6 
+ 
+insight into the robustness and external validity of earlier findings. With a few exceptions (e.g. 
+Converse & Pierce, 1986), most studies draw on an instrument including only a few issues, or even 
+just a single issue (e.g. Hedlund & Friesema, 1972). Issue choice is neither systematic nor trans-
+parent—it is sometimes even given as scholars looked into existing referendum proposals (e.g. 
+Erikson et al., 1975). Also, operationalizations of ‘accuracy’ are limited. Politicians are given the 
+crude task of placing the majority on the right side or of rating the share of people supporting a 
+given policy. Existing studies use either approach but no study combines both. 
+Existing work did not provide a benchmark to compare politicians’ perceptual accuracy 
+against. Rating public opinion is a difficult task and a certain degree of error is unavoidable. How 
+good should estimations be to be considered as ‘accurate’? One way to provide such benchmark 
+is to test how much better than random the estimates of politicians actually are. Another yard-
+stick is comparing politicians’ ratings with those of ordinary citizens. The competitive environ-
+ment in which politicians operate (Sheffer e.a. 2018), their predominant re-election motivation 
+(e.g. Mayhew 1974) and the type of personality many politicians exhibit (e.g. Best 2011) should 
+make them good raters of public opinion. They are incentivized to care about what people want. 
+With low levels of political interest, for most citizens there is nothing at stake and engaging in 
+rating public opinion is not something they frequently do or invest resources in (in contrast to 
+politicians, see: Maestas 2003). Hence, if we find that citizens do not exhibit lower perceptual 
+accuracy than politicians, then this presents strong evidence that politicians are not experts of 
+public opinion. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 8 ===
+7 
+ 
+All work in the U.S. examines perceptions with regards to district opinion. Some of the 
+studies in Sweden (Clausen et al., 1983; Esaiasson & Holmberg, 1996; Holmberg, 1999) and Por-
+tugal (Belchior, 2014) assessed MPs’ perception of their party electorate opinion. One Swedish 
+study looks at perceptions of what the general population wants (Esaiasson and Holmberg 1996). 
+None of the studies compared politicians’ perceptions of different public opinions allowing to 
+conclude whether politicians are proficient at rating at least one type of public opinion. For broad 
+programmatic policy making it is, in particular, general public opinion that is supposed to be the 
+guide, in district-based systems (see e.g. Kalla & Porter, 2020) but even much more so in propor-
+tional systems with large districts. Cues of nation-wide public opinion are what politicians argua-
+bly obtain most easily through polling and news coverage. 
+In sum, the work on politicians’ estimates of public opinion remains limited. It does not 
+provide a satisfactory answer to the elementary question of whether politicians’ public opinion 
+perceptions are generally accurate. 
+ 
+Methods and data 
+ 
+STUDY DESIGN — We test perceptual accuracy of elected representatives in four countries. In each, 
+we collected two types of data: (1) elite survey evidence measuring politicians’ estimations of 
+where the general public and their party electorate stand on various policies; (2) general popula-
+tion survey data about real public and party electorate preferences with regard to the same pro-
+posals. Between March 2018 and September 2019, politicians were survey-interviewed face-to-
+face—they completed the questionnaire themselves on a computer brought by an interviewer 
+present in the room, ensuring that the politicians themselves answered the questions. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 9 ===
+8 
+ 
+We include politicians from Canada, Belgium (Flanders and Wallonia), Germany, and Swit-
+zerland. These countries are different and range from hybrid systems like Switzerland with rela-
+tively weak parties to parliamentary systems with strong parties (e.g. Belgium, Germany). They 
+present substantial variation in electoral systems as well with Canada exhibiting a majoritarian 
+first-past-the post system, and the three other countries sharing a proportional system (with var-
+ying district sizes). Switzerland stands out because of its frequent referendums which may affect 
+perceptual accuracy (see: Helfer, Wäspi, and Varone 2021). Systemic differences can provide pol-
+iticians with varying incentives to learn about public opinion. We know from the literature that 
+electoral systems can shape politicians’ incentives to gauge public opinion. Earlier research has 
+especially shown that more candidate-centred electoral systems would push individual politicians 
+to invest more in building a good personal connection with voters in order to get re-elected, while 
+politicians in party-centred systems are less dependent on voters’ evaluation and should primarily 
+be concerned with maintaining good ties with their party (Carey and Shugart 1995). When it 
+comes to perceptual accuracy, we could expect that politicians in more candidate-centred sys-
+tems like Canada or Switzerland would be more likely to invest resources in gauging public opinion 
+correctly than in more party-centred systems like Belgium or Germany. Yet, we would rather ar-
+gue that in all systems politicians have an interest in holding a fair assessment of popular prefer-
+ences. Even in party-centred systems and with individual politicians mostly toeing the party line, 
+politicians should have good connections with voters to consolidate the public image of their 
+party. Moreover, differences in electoral systems are more likely to affect politicians’ incentives 
+to invest in connecting with their district voters, and not so much with the electorate at large. In 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 10 ===
+9 
+ 
+this study, we focus on perceptual accuracy with regard to general public opinion and party elec-
+torate opinion. The impact of the electoral system would be more limited—this would have been 
+different had we focused on perceptions with regard to district opinion. Therefore, we postulate 
+that, in all countries, politicians are at least somewhat incentivised to think about what the public 
+at large and what their electorate wants. Still, our country sample maximizes—within Western 
+democracies—inter-country diversity yielding a tough test of the generalizability of our findings. 
+All countries in our sample are federal countries. In Belgium, Canada and Switzerland we 
+target both members of the national parliaments and of (some) regional parliaments (see Appen-
+dix 1). Also party leaders are targeted (in so far that they do not sit in parliament) and, in Belgium, 
+also ministers (who were initially elected in parliament). Belgium is a special case, since its two 
+major parts—the Dutch-speaking part (Flanders) and the French-speaking part (Wallonia)—form 
+two distinct political systems with entirely separate party systems, with Dutch-speaking parties 
+competing only in Flanders and French-speaking parties only in Wallonia; the media systems are 
+also fully distinct and so is public opinion (see e.g. Deschouwer 2009)1. Due to this separation, we 
+asked Flemish and Walloon politicians from the regional but also from the national level to esti-
+mate general public opinion of their own region—which is the relevant level for them—and we 
+                                                          
+1 A third region, Brussels, is bilingual but with a large Francophone majority. All national MPs 
+elected in Brussels are Francophone, so are three quarter of regional MPs. We only interviewed 
+French-speaking politicians in Brussels and treated them as part of the French-speaking system 
+since they are affiliated to Walloon parties. For the sake of simplicity, we refer to ‘Flanders’ and 
+‘Wallonia’. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 11 ===
+10 
+ 
+treat them separately in the analysis. Canadian politicians, both national and regional (Ontario), 
+were asked to assess national public opinion2. In Germany we only surveyed national politicians, 
+who estimated national public opinion. Swiss politicians were not asked about national opinion. 
+All politicians in all countries were asked to estimate their own party electorate opinion. 
+In total, we completed 866 survey interviews, representing a response rate of 45%. Re-
+sponse rates vary considerably between countries: they were high in Flanders (77%), Wallonia 
+(75%) and Switzerland (74%); but lower in Canada (17%) and Germany (15%). In the latter two 
+countries it was much harder to get political elites to cooperate. Still, these response rates are 
+acceptable for elite research (see for example: Deschouwer and Depauw 2014; Bailer 2014). Most 
+importantly, in each country, respondents are almost fully representative of the entire population 
+of politicians on gender, age and seniority, and nearly all parties are represented well (with the 
+exception of some very small parties). Confidentiality obligations prevent us from disclosing re-
+sponse rates per party as they allow for identifying individual politicians participating in the study. 
+                                                          
+2 We recognize that asking national and regional politicians to estimate national or regional public 
+opinion could disadvantage the politicians who were asked to rate a less relevant public opinion. 
+In Appendix 7 we examine this and find that, in Canada, there is no difference in the accuracy (in 
+their assessment of national opinion) between national and regional politicians. In Flanders and 
+Wallonia we see that national politicians are even slightly better at assessing regional opinion 
+than the regional politicians are. Level of election matters slightly, but it is not the case that more 
+‘applicable’ estimations are better. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 12 ===
+11 
+ 
+However, there is no strong ideological response bias in the dataset. We substantiate this in Ap-
+pendix 1. 
+ 
+ISSUE SELECTION — Central to our research design is the selection of the policies for which politicians 
+are asked to estimate public opinion. We followed a systematic and detailed procedure uniformly 
+implemented in each country to arrive at one or two sets of eight (or in Switzerland: nine) policy 
+issues per country. Since the political context and the current debates in each country varied, we 
+did not seek to query the exact same policy issues in every country. Instead, we designed sets of 
+policy proposals to be equivalent. In Appendix 2 we detail the exact steps we took to select the 
+issues. In summary, we have, in each country, a batch of issues that is not technical, but is current, 
+salient, thematically diverse, with varying opinion distributions, and with varying electorate posi-
+tions. That the issues we selected in each country are salient reduces the risk that our questions 
+would be measuring non-opinions and grasp latent rather than manifest opinion. All issues are of 
+import in the countries at stake. 
+ 
+SURVEY PROTOCOL — Politicians were asked to estimate general public opinion and then, separately, 
+party electorate opinion. As an exception, in Switzerland, politicians were only asked to estimate 
+party electorate opinion not general public opinion. Here is the question wording: Were we to 
+present [policy proposal] to a representative sample of [country citizens], what would be your ex-
+pectation with regard to their answers? What percentage of [country citizens] you think is unde-
+cided (neutral or no opinion) about this policy proposal? Please give us your best guess by dragging 
+the bar to the correct percentage (answers are given by dragging a slider on a 0-100% scale). And, 
+what percentage of those citizens who have an opinion rather agrees or totally agrees with this 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 13 ===
+12 
+ 
+policy proposal? (answers are given by dragging a slider on a 0-100% scale)3. Note again that our 
+question explicitly asking politicians to rate public opinion as measured through a poll further 
+reduces the risk that politicians would be thinking about latent opinion, or opinion as expressed 
+after a public debate. 
+ 
+POPULATION SURVEY — In each country, an online survey among citizens at voting age was conducted 
+at about the same time. We hired survey companies to collect data from at least 1,000 (and typ-
+ically more) respondents in each country. The data were collected to be representative for age, 
+gender, and education (mostly through quotas, though in Switzerland we drew a random sample 
+from the population register). Weights by age, gender and education are used to correct for re-
+maining deviations from the population (despite the quota/random sample). We additionally 
+weight the citizen samples by previous party vote (against the results of the last national election). 
+For more information about the surveys and the weighing procedure, we refer to Appendix 3. 
+Citizens were asked about their own opinion about the same eight proposals. These data 
+are used to make estimations of how the general public and each party electorate thinks about a 
+                                                          
+3 Politicians did not rush through the estimations. In the countries where the survey software kept 
+time stamps (Belgium, Switzerland), we can see that politicians took nearly half a minute per pol-
+icy proposal. If politicians were to do badly, it is unlikely due to haste or lack of effort. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 14 ===
+13 
+ 
+policy proposal. Given the large national samples, we have sufficient voters to make reliable esti-
+mations for most parties4. No weights are used when calculating the opinion of the party elec-
+torates, because we do not know how other factors (e.g. gender or age) are distributed within 
+party electorates. 
+Finally, following the exact same procedure and wording as described above, citizens were 
+also asked to estimate general public opinion support for each proposal. We use citizens’ estima-
+tions (for N per country, see Appendix 3) as a benchmark for politicians’ estimations. 
+ 
+TWO PERCEPTUAL ACCURACY MEASURES — Politicians likely make crude public opinion estimations when 
+making decisions. They mostly care about whether the majority is on one or the other side of a 
+policy debate—irrespective of its exact size. Therefore, Incorrect majority placement identifies 
+whether an estimation is placed on the correct side of the majority. Estimates of 50% support are 
+always classified as correct—this leads to a conservative estimate of inaccuracy. We calculate 
+how many incorrect identifications of the majority each politician makes, resulting in a metric 
+running from 0-8. We compare the number of incorrect majority placements with randomness: 
+at random, on average four out of eight policies would be estimated correctly (the random chance 
+of an incorrect majority placement is fifty-fifty). To do any better than sheer luck and to exhibit 
+any real knowledge about public opinion, politicians should average a score above four. 
+                                                          
+4 For some very small Swiss and Walloon parties, less than 40 voters were surveyed and we cannot 
+calculate meaningful electorate opinion; these politicians (n=33) are dropped from the party elec-
+torate opinion estimation analyses. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 15 ===
+14 
+ 
+Percentage error score represents the size of the error in politicians’ estimations of the 
+share of the population supporting the policy (Sigel & Friesema, 1965; Erikson et al., 1975; Con-
+verse & Pierce, 1986; Esaiasson & Holmberg, 1996). It is the absolute distance (in percentage 
+points) between real public opinion and the estimation thereof. The average error across all eight 
+estimations a politician makes results in a 0-100 score, the mean inaccuracy in percentage points 
+per politician. We compare politicians’ inaccuracy with the inaccuracy of random guesses here as 
+well. The exact random base rate of accuracy is impacted by the real-world distribution of public 
+opinion on a given issue. If public opinion is perfectly divided (50% of citizens in favor), a random 
+guess (between 0 and 100% agreement) is, on average, about 25 percentage points off. When 
+public opinion leans to one side (e.g. 90% of citizens in favor), the average error of a random guess 
+becomes larger: about 41 percentage points. Hence, the average random error across a set of 
+estimations is different in each country as it depends on the specific composition of policy pro-
+posals (and more specifically on the related public opinion distributions) (see Appendix 4). Ap-
+pendix 5 shows descriptives of both accuracy measures. 
+Before moving on to the results, we acknowledge that there is uncertainty in our general 
+public opinion estimates and, even more so, in our estimates of party electorate opinion. As a 
+consequence, there is uncertainty in our accuracy measures too. In Appendix 6, we present cal-
+culations of accuracy based not on point estimates but on the confidence intervals of these esti-
+mates. We show that the inaccuracy in politicians’ estimations remains substantive even in the 
+most optimistic scenario when we give politicians the benefit of the doubt and are lenient with 
+what we consider to be an error. In the most pessimistic scenario, inaccuracy is even larger than 
+what we report below. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 16 ===
+15 
+ 
+ 
+Results 
+ 
+INCORRECT MAJORITY PLACEMENT OF GENERAL PUBLIC OPINION — Figure 1 shows the number of incorrect 
+majority placements across all countries5. 
+ 
+Figure 1 – Distribution of the number of incorrect majority placements of general public opin-
+ion estimations by politicians (n=488) 
+ 
+ 
+ 
+Most politicians (80.1%) make mistakes less than half of the time, but fewer than 10% of the 
+politicians have error-free estimations. The average politician incorrectly places the majority for 
+2.3 policies or, in other words, politicians’ majority placements are incorrect 29% of the time. So, 
+many politicians clearly do better than random: there seems to be information in their ratings. 
+Still, for a sizeable share of policies, politicians have inaccurate perceptions of the preferences of 
+the majority of citizens. They not only get it wrong when the public is divided and hard to read 
+                                                          
+5 From all politicians (N=866), the 368 Swiss did not estimate general public opinion, 7 skipped the 
+estimations, and 3 are left out because of missing values (rating less than 6 out of the 8 (or 9) 
+policy proposals. This brings the n to 488. Some politicians rated only 6 (n=4) or 7 (n=16) items. 
+Their number of incorrect placements is re-scaled to match the 8-point scale. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 17 ===
+16 
+ 
+(e.g. when there is a 51%-49% distribution). Seventy percent of the misplacements occurs for 
+policies with a relatively clear distribution of at least 60% (dis)agreeing citizens. In other words, 
+politicians regularly get the most basic of things a representative in a democracy should know 
+wrong. If they were to follow their perceptions of public opinion, trying to be responsive, these 
+politicians would actually steer policies away from real public preferences in a substantial number 
+of cases. Moreover, some politicians (13.2%) do as badly as a random guess (marked with the 
+dotted line) with four out of eight incorrect placements and a small group (6.4%) does worse than 
+random and makes five mistakes or more. So about one fifth of all politicians make estimates that 
+equal or are worse than chance. Although doing better than random does not appear to be a 
+particularly high bar to pass, especially when it comes to the crude and natural task of rating on 
+which side the majority is, a sizable share still performs no better than a coin flip. 
+As a second benchmark, we compare politicians with ordinary citizens charged with the 
+same task. Figure 2 presents the evidence in the separate countries. First, comparing politicians’ 
+scores across countries shows that the number of wrong majority placements is strikingly similar 
+everywhere, notwithstanding the fact that we study different countries and employ different pol-
+icy proposals in the different countries. We find a strong common pattern here with the average 
+number of incorrect majority placements ranging only from 2.2 (Wallonia) to 2.4 (Canada) (differ-
+ences not significant; ANOVA-test of country differences: F=.68; p=.57). 
+Comparing politicians with citizens, politicians do a bit better than citizens. When rating 
+eight policies, the average politician makes 2.3 incorrect majority placements, while the average 
+citizen makes 2.7 such mistakes. T-tests show that the difference between politicians and citizens 
+is statistically significant in Canada (t=-3.11; p=<.01), Germany (t=-2.10; p<.05), and Wallonia (t=-
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 18 ===
+17 
+ 
+2.14; p<.05), but not in Flanders (t=-1.64; p=.10). Even though some of these differences are sta-
+tistically significant, however, they are not substantively large. A difference of .32 (on a scale from 
+0 to 8 possible misplacements) does not support a claim that politicians are clear experts com-
+pared to ordinary citizens. 
+ 
+Figure 2 – Average number of incorrect majority placements of general public opinion by poli-
+ticians (n=488) and citizens (n=6,653) 
+ 
+ 
+ 
+PERCENTAGE ERROR SCORE OF GENERAL PUBLIC OPINION — The task of estimating the exact percentage of 
+citizens supporting a given policy is unquestionably much harder than merely assessing the ma-
+jority side. And, it is something politicians probably less commonly engage in. Figure 3 shows the 
+distribution of this more precise accuracy measure across all politicians, while Figure 4 summa-
+rizes the evidence per country, comparing it with citizen errors and random errors. 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 19 ===
+18 
+ 
+Figure 3 – Distribution of percentage error scores (in percentage points) of general public opin-
+ion estimations by politicians (n=488) 
+ 
+ 
+Figure 4 – Average percentage error scores (in percentage points) of general public opinion 
+estimations by politicians (n=488) and citizens (n=6,653) 
+ 
+ 
+ 
+Figure 3 shows the variation in inaccuracy between politicians—like there was for the majority 
+placements. Few politicians make spot-on estimations. The best rater has an average inaccuracy 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 20 ===
+19 
+ 
+of five percentage points—and only 10% of the politicians have an average error below ten per-
+centage points. On average, the error politicians make is 17.6 percentage points. The interpreta-
+tion of this mean error is not straightforward. Is it large or small? We believe it is big, especially 
+when one thinks about it in substantive terms: politicians probably deal differently with a policy 
+proposal when they think that, for instance, 68% of the population supports it compared to when 
+they only perceive 50% support. An 18 percentage point error presumably has substantial impli-
+cations for what politicians do, the initiatives they take, the positions they adopt, and the policies 
+they support.6  
+Again, we use random guesses and estimations of citizens as benchmarks. Clearly politi-
+cians do better than random. As shown in Figure 4, depending on the specific set of policies cho-
+sen in a country, the random error varies between 28.6 percentage points (in Wallonia) and 32.0 
+percentage points (in Germany) (see Appendix 5). The 18 percentage point error of the average 
+politician clearly outperforms chance. Only three percent of all politicians do worse than random. 
+Comparing the results with citizens, however, sketches a more pessimistic picture. Politi-
+cians score better than citizens, but not very much: across all countries, politicians are on average 
+17.6 percentage points off; citizens 20.9 percentage points. So, politicians are typically about 
+three percentage points better (note that the difference is slightly larger in Canada, around five 
+percentage points). The difference in error between politicians and citizens is significant in each 
+                                                          
+6 Note that our measures of inaccuracy are related: estimations of politicians are, on average, 
+further off in percentage points when they misplace the majority (average error of 33 percentage 
+points) than when their majority placement is correct (average error of 11 percentage points). 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 21 ===
+20 
+ 
+of the countries (T-tests not reported here). That the difference is statistically significant, how-
+ever, does not necessarily mean that it is substantive in size. We believe the difference is surpris-
+ingly small, especially when considering the likely indifference of some citizens to making accurate 
+estimations and the much higher stakes politicians have. Notwithstanding the different interview 
+context, the very different environment politicians are operating in, and the (likely) frequency 
+with which politicians estimate public opinion, they only do a few percentage points better than 
+the disinterested, amateur citizens. 
+Another way to put these results into perspective is comparing them with recent results 
+with regard to politicians in the U.S. using similar measures (but assessing district opinion and not 
+national public opinion). In their recent study of U.S. legislators, Kalla and Porter (2020) report an 
+almost identical mean error of eighteen percent and Broockman and Skovron (2018) as well find 
+similar error sizes. Our results with regard to error size seems to travel beyond the five cases we 
+study here, suggesting that they are not exceptional or idiosyncratic. 
+Interestingly, we do observe some country differences for the percentage estimation er-
+rors. The mean estimation error among politicians varies between 15.8 percentage points (Wal-
+lonia) and 20.3 percentage points (in Germany). These differences are significant (ANOVA; 
+F=11.50; p<.000). Walloon politicians are the most accurate and differ significantly from Flemish 
+and Canadians. Germans score lower than each other country. As these differences could be 
+driven by institutional factors, but also by differences in the policies politicians had to rate (see 
+the variation in random inaccuracy), we cannot give a definite answer on what explains these 
+differences. What we take from this is that accuracy appears to be low across the board. All in all, 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 22 ===
+21 
+ 
+although we compare countries with different systems and employ different instruments, we find 
+relatively similar accuracy levels. 
+ 
+PARTY ELECTORATE ESTIMATIONS — Thus far, our results suggest that politicians are not really good at 
+estimating the opinion of the general public. It might be the case, though, that responsive politi-
+cians instead focus on knowing the opinions of their party voters. Some models of representation, 
+for instance the responsible party model (e.g. Pierce 1999), imply that responsive policies come 
+about primarily by the close association between voters and their party. In most multi-party coun-
+tries and in the countries under study here, politicians tend to declare that they care about their 
+party voters more than about the general public (see: Dudzińska e.a. 2014). In that case, there 
+may be no need for accurate estimates of general public opinion as long as politicians get it right 
+when rating their own voters’ preferences. We revisit both measures—incorrect majority place-
+ment and percent error score—but this time look at how good politicians are able to predict their 
+party voters’ stance. Switzerland is now included in the analysis. We still use random ratings as a 
+benchmark but not citizens: we did not ask citizens to make party electorate estimations. Figure 
+5 presents the evidence for incorrect majority placements while Figure 6 presents percentage 
+error7. 
+                                                          
+7 From all politicians (N=866), 33 come from very small parties from which we did not survey 
+enough voters (see earlier footnote). Another 6 politicians are independents without partisan 
+electorate. Seventeen skipped the second estimation module entirely, and (analogously to the 
+procedure for general public opinion estimations) 10 are left out of the analysis because of miss-
+ing values: they rated less than 6 out of the 8 policy proposals. This brings the n to 800. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 23 ===
+22 
+ 
+Figure 5 – Average number of incorrect majority placements of party electorate opinion 
+(n=800) and general public opinion (n=488) 
+ 
+ 
+Figure 6 – Average percentage error scores (in percentage points) of party electorate estima-
+tions (n=800) and general public opinion estimations (n=488) 
+ 
+ 
+The figures show an intriguing pattern. Compared to the number of incorrect majority placements 
+of general public opinion (Figure 5), the mean inaccuracy for party electorate estimations is 
+slightly lower in most countries—suggesting that politicians seem to be a bit better at estimating 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 24 ===
+23 
+ 
+what the majority of their party electorate wants than at estimating what the majority of all citi-
+zens in the country want. Yet, the difference is only statistically significant in Wallonia (t=-4.70; 
+p<.000) and Canada (t=-2.08; p<.05); elsewhere, politicians are not more successful in situating 
+the majority of their voters correctly. More generally, in most countries politicians still misplace 
+the majority for a bit more than two in eight policies. So, all in all, differences in majority place-
+ments are slight. 
+When we look at the percentage error (Figure 6), however, a different picture emerges. 
+Politicians are not better at pinpointing the exact proportion of their electorate that is in favor of 
+a proposal than at estimating this for the full population. Their estimations are even worse: they 
+are typically about two or three percentage points further off target when rating their own party 
+electorate. The difference is significant in Flanders (t=2.76; p<.01), Wallonia (t=3.25; p<.01), and 
+Germany (t=1.97; p=.05). Only in Canada, is there no statistically significant difference between 
+the two. This means that when it comes to their own voters, politicians make rather inaccurate 
+guesses: overall, they over- or underestimate support for policies by twenty percentage points. 
+That politicians, in comparison to estimating general public opinion, are slightly better at 
+rating the majority of their voters does not necessarily contradict that they are worse at rating 
+the exact share of support among their voters. Compared to country populations party elec-
+torates have relatively homogenous political preferences—they are less divided about policies—
+and this makes estimating majority viewpoints easier. This being said, electorates may often be 
+less homogenous than politicians think they are, leading to larger mistakes when it comes to spec-
+ifying the exact share of support for policies. Also, the average random error is a little larger with 
+more homogenous publics (see Figure 6). 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 25 ===
+24 
+ 
+A few more observations deserve attention. First, for electorate ratings as well, politicians 
+do better than random. On average they do twelve percentage points better than random, which 
+is similar to what we found for general public estimations (13 percentage points better). 
+Second, country differences are, again, limited. Walloon politicians stand out a little for 
+both majority misplacements and percentage error scores: they do significantly better in estimat-
+ing their electorates. Germany, by contrast, does worse, but only for percentage inaccuracy. 
+These patterns are not explained by existing arguments that we are aware of. That Walloon poli-
+ticians work in the exact same institutional set-up as Flemish ones suggests that the differences 
+are rather due to differences in the difficulty of the estimation task (e.g. some policy proposals 
+may have gotten more media attention in some countries than in others; and note that the pro-
+posals are equivalent but not identical) rather than to system differences. The other four systems 
+do not differ from each other. Overall, inaccuracy in assessing one’s own electorate seems a ge-
+neric phenomenon materializing in different systems. 
+Finally, are politicians who are better than their colleagues at estimating general public 
+opinion, also better at estimating their electorate? Or is the pattern reversed, and do politicians 
+focus either on the general public or on their electorate? From a normative point of view the 
+latter scenario might be the most desirable: it is understandable that politicians do not, or cannot, 
+focus on the general population and on their electorate—they probably consider themselves as 
+a representative of one group more than of the other. But a ‘good’ politician should get it right 
+for at least one group. There is a positive correlation between the two estimations (n=470; for 
+majority misplacements Pearson r=.30; p<.000; for percentage error scores Pearson r=.36; 
+p<.000). So, there is a tendency for those who rate general public opinion accurately to also be 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 26 ===
+25 
+ 
+better electoral opinion estimators. Politicians who are bad at rating one type of public do not 
+compensate by being better at rating the other. Politicians who cannot properly assess general 
+opinion are also less likely to correctly asses their own electorate. 
+ 
+Discussion 
+ 
+The central finding in this paper is that politicians do not seem to be particularly good estimators 
+of public opinion. This result calls for more analyses and, especially, for an exploration of potential 
+explanations of what makes some politicians more accurate than others, and when. Our aim here 
+is to provide, for the first time, a comparative, descriptive account of the accuracy of politicians’ 
+perceptions of general public opinion and party electorate opinion, while at the same time offer-
+ing sensible benchmarks. Our results raise numerous questions on the type of inaccuracy we 
+measured, how it could be explained, and what the democratic implications of the presented 
+measures of perceptual inaccuracy could be. We discuss these in this section.  
+First, we focused on sheer inaccuracy and not on the direction of the error. Inaccuracy 
+tells us something about the expertise of politicians but it does not tell us about possible biases. 
+Recent work by Broockman & Skovron (2018) found that American state legislators systematically 
+overestimate the conservativeness of the voters. U.S. politicians do not make the random esti-
+mation errors, but are instead systematically biased towards one ideological side in their percep-
+tion of public opinion. Our work shows that the precondition for finding such an ideological per-
+ceptual bias in other countries too is met: politicians make sizeable perception mistakes. Examin-
+ing whether a conservative bias in perceptual accuracy exists among elites outside of the U.S. is a 
+natural synthesis and extension of our study and the work of Broockman and Skovron. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 27 ===
+26 
+ 
+In a similar vein, the ‘positional’ accuracy this paper set out to measure only grasps part 
+of politicians’ public opinion perceptions. Apart from knowing how many people support a given 
+policy, politician also have an interest in knowing to what extent people care about an issue. 
+Hence, there seems to be promise in measuring the accuracy of politicians’ public salience per-
+ceptions (see Converse and Pierce, 1986). The consequences of wrong salience perceptions could 
+be equally worrisome. Instead of steering a policy away from popular preferences politicians 
+could erroneously not consider an issue to be a priority while it actually should be, or vice versa. 
+Here too, we encourage follow-up work to explore this phenomenon. 
+Our findings speak to politicians’ inaccuracy in assessing the state of public opinion at an 
+arbitrary point in time—that is, their perception of a static level of support for a policy. But poli-
+ticians may be better attuned to registering changes in public opinion. Our design does not allow 
+for capturing politicians’ sensitivity to dynamics of opinion change, a crucial concept when think-
+ing about many aggregate level policy studies who do not so much focus on congruence but rather 
+on policy responsiveness over time (e.g. Soroka and Wlezien 2009). This is a theoretically im-
+portant, but from a methodological perspective very challenging avenue for further work as well. 
+Second, we did not speculate about possible explanations for the found inaccuracy. Fac-
+tors on different levels could determine accuracy. On the individual level, for instance, one might 
+imagine that politicians in leadership positions would have a better sense for public opinion. It 
+could be that this quality is what may have helped them become top politicians in the first place, 
+or that they gained expertise in it while working their way up in politics (see suggestions by Mer-
+riam 1950; Clausen 1977; Norris and Lovenduski 2004; Belchior 2014). Evidence on whether lead-
+ers are more accurate assessors of public opinion is, to the best of our knowledge, nonexistent. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 28 ===
+27 
+ 
+The same applies to politicians who are issue specialists: representatives who specialize in a policy 
+topic are maybe better at gauging public opinion with regard to their issues of specialization (e.g. 
+Varone and Helfer 2021). This could be owing to having better public opinion sources at their 
+disposal and/or investing more effort to stay abreast of public opinion. Another likely individual-
+level determinant of inaccuracy is politicians’ own opinion. The innate human tendency to con-
+sider people to be similar to oneself—social psychologists term this ‘social projection’ (e.g. Krue-
+ger and Acevedo 2005)—may make politicians overrate support for their own policy preference 
+(for an application to politicians, see: Esaiasson and Holmberg 1996). Also, it could be that politi-
+cians, when answering the rating questions thought about what public opinion would be if they 
+got the chance to engage in persuasion. The inaccuracy of politicians could be due, then, to their 
+confidence in their ability to actively shape public opinion. 
+The specialization expectation can be applied to parties too. It could be that parties who 
+‘own’ an issue (Petrocik 1989) invest more resources in public opinion on it and, hence, hold more 
+correct perceptions with regard to people’s preferences on that issue (Varone and Helfer 2021). 
+Other party features could matter as well, such as the size of the party (that in turn allows more 
+politicians to specialize on issues) or whether it is a government or opposition party. Explanations 
+could also lay at the country level, with institutions that incentivize more individual accountability 
+fostering more accuracy (although our results—albeit with only a handful of countries—did not 
+point in that direction). In sum, there is plenty of work to be done on explaining different degrees 
+of accuracy across individuals, parties, issues, and entire political systems. We believe our findings 
+lay the foundation for a research agenda focused on explaining why so many politicians espouse 
+inaccurate public opinion perceptions, why some are better than others, and when. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 29 ===
+28 
+ 
+Third, in the early part of the paper, we argued that faulty perceptions of politicians may 
+have implications as they lead to politicians being less responsive to public opinion than they 
+could be (and maybe even want to be). One could argue, though, that the external validity, and 
+thus the real-world consequences, of the high levels of inaccuracy we found are rather limited. 
+When issues are really controversial, the counter argument would go, politicians do know what 
+the public wants as they rely on other, and better, sources of public opinion that only become 
+available when issues are pressing and a policy decision must be taken (poll data, for instance, or 
+media attention, or lobbying cues; for lobbying: see: Eichenberger, Varone, and Helfer 2021). We 
+cannot exclude that politicians, before they actually vote in parliament for instance, do double 
+check and make sure the public is on their side, and that more and better information about 
+public opinion is available then. Yet, the issues we selected for this study (see Appendix 2) are 
+inherently salient and politicized, meaning that plenty of high quality signals about public opinion 
+were likely available to the politicians we studied. We also note that the representational work 
+of politicians extends far beyond voting on legislation. Politicians are required to lobby for their 
+substantive positions within their party, to ask questions in parliament, to speak publicly on their 
+positions—often with the goal of persuading voters—and they engage in other activities that also 
+benefit from knowledge of what people want, such as giving media interviews or directly speaking 
+with constituents (e.g. Esaiasson and Narud 2013). Politicians constantly do all these things even 
+on issues without reliable public opinion. We therefore believe that perceptual accuracy (or, ra-
+ther, its absence) is a likely candidate for explaining the selectivity of policy responsiveness found 
+in aggregate-level studies (Lax and Phillips 2012). 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 30 ===
+29 
+ 
+Conclusion 
+ 
+Students of representation argue that policy responsiveness is, at least partly, a matter of politi-
+cians’ perception of public opinion: elected representatives read public opinion and then follow 
+their perceptions of what the people want. Some forms of democratic representation do not re-
+quire representatives to have a good command of what the people want, but it stands to reason 
+that, all other things being equal, the chance that policies will be congruent and/or responsive 
+increases with the accuracy of the public opinion perceptions of policy-makers. 
+Drawing on the richest evidence so far—covering four countries (and five political sys-
+tems), 866 subjects, and a variety of policies in each country—we find that politicians’ perceptions 
+do not live up to democratic expectations. Whether one looks at incorrect majority placement or 
+percentage error, estimations of general or of party electorate opinion, or comparison with ran-
+dom ratings or random raters (citizens), the conclusion basically remains the same: politicians are 
+not very good at estimating public opinion. In the defense of politicians, one could argue that 
+placing the majority correctly for (almost) six out of eight policies points to a good command of 
+public opinion; that, if politicians were to follow their perceptions, a solid majority of policies 
+would be responsive and in line with what the majority of the public wants. However, our reading 
+of the results is more pessimistic. Politicians’ estimations are situated only half way between ran-
+domness (4 out of 8) and perfect accuracy (8/8). For democracy to function properly, policy re-
+sponsiveness should be the consequence of deliberate actions of political actors and not of sheer 
+luck. Also, most do better than chance but not by an awful lot and, as a group, they barely do 
+better than ordinary citizens. Perhaps most importantly, many politicians misperceive where the 
+majority of citizens are even on issues the public is not divided about and with a clear majority on 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 31 ===
+30 
+ 
+one side. In sum, in more than two out of the eight cases, following up on their perceptions of 
+what the majority wants would steer politicians in the opposite direction, away from what the 
+people actually want. We think it would be hard to maintain that such a system works properly. 
+Also, compared to general public opinion estimations, accuracy is not higher for party electorate 
+estimations and inaccuracies with regard to one public opinion are not compensated for by higher 
+accuracy with regard to another public opinion. By and large, differences between countries are 
+small. Notwithstanding the countries in our study had different systems and notwithstanding our 
+use of different sets of policies in each country, systemic factors do not seem to matter much. 
+Everywhere we looked, representatives made quite large errors when gauging public opinion. 
+This probably means that individuals are not selected into politics because of their perceptual 
+accuracy. Politicians do not have an exceptional ‘nose’ for public opinion. Their frequent encoun-
+ters with voters and party members, their high motivation to be re-elected by displaying respon-
+siveness, or the dependency of their careers on voters do not make them better at estimating 
+public opinion. 
+In closing, we find that one of the crucial preconditions for politicians to be responsive 
+representatives is often not fulfilled. Even if politicians wanted to follow public opinion, their er-
+roneous perceptions of popular preferences would in many instances hinder them. Our study 
+demonstrates that scholars of political representation should do more to understand the percep-
+tions of elected representatives. If the perceptions of politicians matter—and much of the work 
+on democratic representation says they do—it is important to scrutinize how politicians think 
+about the people they are supposed to represent. What politicians say in public and the formal 
+actions they take in parliament are obviously important, but they do not tell the whole story about 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 32 ===
+31 
+ 
+the exact mechanisms through which representation is realized. Only by carefully examining what 
+politicians think and believe about the public can we lay bare how representation comes about 
+and how politicians’ own perceptions impact it. 
+ 
+References 
+ 
+Bailer, Stefanie. 2014. ‘Interviews and Surveys in Legislative Research’. In The Oxford Handbook 
+of Legislative Studies, Martin Shane, Thomas Saalfeld, and Kaare Strøm, 167–92. Oxford 
+University Press. 
+Belchior, Ana Maria. 2014. ‘Explaining MPs’ Perceptions of Voters’ Positions in a Party-Mediated 
+Representation System: Evidence from the Portuguese Case’. Party Politics 20 (3): 403–
+15. 
+Best, Heinrich. 2011. ‘Does Personality Matter in Politics? Personality Factors as Determinants 
+of Parliamentary Recruitment and Policy Preferences’. Comparative Sociology 10 (6): 
+928–48.  
+Beyer, Daniela, and Miriam Hänni. 2018. ‘Two Sides of the Same Coin? Congruence and Respon-
+siveness as Representative Democracy’s Currencies: Democracy’s Currencies’. Policy 
+Studies Journal 46: S13–47. 
+Broockman, David E., and Christopher Skovron. 2018. ‘Bias in Perceptions of Public Opinion 
+among Political Elites’. American Political Science Review 112 (03): 542–63.  
+Butler, Daniel M., and David W. Nickerson. 2011. ‘Can Learning Constituency Opinion Affect 
+How Legislators Vote? Results from a Field Experiment’. Quarterly Journal of Political Sci-
+ence 6 (1): 55–83. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 33 ===
+32 
+ 
+Carey, John M, and Matthew Soberg Shugart. 1995. ‘Incentives to Cultivate a Personal Vote: A 
+Rank Ordering of Electoral Formulas’. Electoral Studies 14 (4): 417–39.  
+Clausen, Aage R. 1977. ‘The Accuracy of Leader Perceptions of Constituency Views’. Legislative 
+Studies Quarterly 2 (4): 361.  
+Clausen, Aage R., Soren Holmberg, and Lance deHaven-Smith. 1983a. ‘Contextual Factors in the 
+Accuracy of Leader Perceptions of Constituents’ Views’. The Journal of Politics 45 (2): 
+449–72. 
+———. 1983b. ‘Contextual Factors in the Accuracy of Leader Perceptions of Constituents’ 
+Views’. The Journal of Politics 45 (2): 449–72.  
+Converse, Philip E., and Roy Pierce. 1986. Political representation in France. Cambridge, MA: 
+Harvard University Press. 
+Dassonneville, Ruth, André Blais, Semra Sevi, and Jean-François Daoust. 2020. ‘How Citizens 
+Want Their Legislator to Vote’. Legislative Studies Quarterly, lsq.12275.  
+Deschouwer, Kris. 2009. The Politics of Belgium. Governing a Divided Society. Houndmills, Ba-
+singstoke: Palgrave. 
+Deschouwer, Kris, and Sam Depauw, red. 2014. Representing the people: a survey among mem-
+bers of statewide and sub-state parliaments. First edition. Comparative politics. Oxford: 
+Oxford University Press. 
+Dudzińska, Agnieszka, Corentin Poyet, Olivier Costa, and Bernhard Weßels. 2014. ‘Representa-
+tional Roles’. In Representing the People, Kris Deschouwer and Sam Depauw, 19–38. Ox-
+ford University Press.  
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 34 ===
+33 
+ 
+Eichenberger, Steven, Frédéric Varone, and Luzia Helfer. 2021. ‘Do Interest Groups Bias MPs’ 
+Perception of Party Voters’ Preferences?’ Party Politics, april, 135406882199707.  
+Erikson, Robert S., Norman R. Luttbeg, and William V. Holloway. 1975. ‘Knowing One’s District: 
+How Legislators Predict Referendum Voting’. American Journal of Political Science 19 (2): 
+231.  
+Esaiasson, Peter, and Sören Holmberg. 1996. Representation from above: members of Parlia-
+ment and representative democracy in Sweden. Aldershot, Hants, England ; Brookfield, 
+Vt., USA: Dartmouth. 
+Esaiasson, Peter, and Hanne Marthe Narud. 2013. ‘Between-Election Democracy: An Introduc-
+tory Note’. In Between-Election Democracy: The Representative Relationship after Elec-
+tion Day, Peter Esaiason and Hanne Marthe Narud, 1–14. Colchester, UK: ECPR Press. 
+Grose, Christian R., Neil Malhotra, and Robert Parks Van Houweling. 2015. ‘Explaining Explana-
+tions: How Legislators Explain Their Policy Positions and How Citizens React’. American 
+Journal of Political Science 59 (3): 724–43.  
+Hedlund, Ronald D., and H. Paul Friesema. 1972. ‘Representatives’ Perceptions of Constituency 
+Opinion’. The Journal of Politics 34 (3): 730–52. 
+Helfer, Luzia, Flurina Wäspi, and Frédéric Varone. 2021. ‘Does Direct Democracy Enhance Politi-
+cians’ Perceptions of Constituents’ Opinions? Evidence from Switzerland’. Swiss Political 
+Science Review, spsr.12495. 
+Hertel-Fernandez, Alexander, Matto Mildenberger, and Leah C. Stokes. 2019. ‘Legislative Staff 
+and Representation in Congress’. American Political Science Review 113 (1): 1–18. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 35 ===
+34 
+ 
+Holmberg, Sören. 1999. ‘Wishful Thinking Among European Parliamentarians’. In Political Repre-
+sentation and Legitimacy in the European Union, Hermann Schmitt and Jacques Thomas-
+sen, 235–50. Oxford University Press. 
+Kalla, Joshua L., and Ethan Porter. 2020. ‘Correcting Bias in Perceptions of Public Opinion Among 
+American Elected Officials: Results from Two Field Experiments’. British Journal of Politi-
+cal Science, 1–9. 
+Kalla, Joshua, and Ethan Porter. 2019. ‘Correcting Bias in Perceptions of Public Opinion Among 
+American Elected Officials: Results from Two Field Experiments’. 
+Kingdon, John W. 1973. Congressmen’s Voting Decisions. Third. Ann Arbor: University of Michi-
+gan Press. 
+Krueger, Joachim I., and Melissa Acevedo. 2005. ‘Social Projection and the Psychology of 
+Choice’. In The self in social perception, 17–41. New York: Psychology Press. 
+Lapinski, John, Matt Levendusky, Ken Winneg, and Kathleen Hall Jamieson. 2016. ‘What Do Citi-
+zens Want from Their Member of Congress?’ Political Research Quarterly 69 (3): 535–45. 
+Lax, Jeffrey R., and Justin H. Phillips. 2012. ‘The Democratic Deficit in the States’. American Jour-
+nal of Political Science 56 (1): 148–66.  
+Maestas, Cherie. 2003. ‘The Incentive to Listen: Progressive Ambition, Resources, and Opinion 
+Monitoring among State Legislators’. The Journal of Politics 65 (2): 439–56. 
+Mansbridge, Jane. 2003. ‘Rethinking Representation’. American Political Science Review 97 (4): 
+515–28. 
+Mayhew, David R. 1974. Congress: The Electoral Connection. 9. print. Yale Studies in Political Sci-
+ence 26. New Haven: Yale Univ. Press. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 36 ===
+35 
+ 
+Merriam, Charles. 1950. Political Power. Glencoe, Illinois: The Free Press. 
+Miler, Kristina C. 2007. ‘The View from the Hill: Legislative Perceptions Of the District’. Legisla-
+tive Studies Quarterly 32 (4): 597–628. 
+Miller, Warren E., and Donald E. Stokes. 1963. ‘Constituency Influence in Congress’. American 
+Political Science Review 57 (1): 45–56.  
+Norris, Pippa, and Joni Lovenduski. 2004. ‘Why Parties Fail to Learn: Electoral Defeat, Selective 
+Perception and British Party Politics’. Party Politics 10 (1): 85–104.  
+Pereira, Miguel Maria. 2021. ‘Understanding and Reducing Biases in Elite Beliefs About the Con-
+stituency’. American Political Science Review. 
+Petrocik, John. 1989. The Theory of Issue Ownership: Issues, Agendas, and Electoral Coalitions in 
+the 1988 Elections. 
+Pierce, Roy. 1999. ‘Mass-Elite Issue Linkages and the Responsible Party Model’. In Policy Repre-
+sentation in Western Democracies, onder redactie van Warren E. Miller, Roy Pierce, 
+Jacques Thomassen, Richard Herrera, Sören Holmberg, Peter Esaiason, and Bernhard 
+Wessels, 9–32. Oxford: Oxford University Press. 
+Sheffer, Lior, Peter John Loewen, Stuart Soroka, Stefaan Walgrave, and Tamir Sheafer. 2018. 
+‘Nonrepresentative Representatives: An Experimental Study of the Decision Making of 
+Elected Politicians’. American Political Science Review 112 (2): 302–21. 
+Sigel, R. S., and H. P. Friesema. 1965. ‘Urban Community Leaders’ Knowledge of Public Opinion’. 
+Political Research Quarterly 18 (4): 881–95. 
+Soroka, Stuart, and Christopher Wlezien. 2009. Degrees of Democracy. Politics, Public Opinion 
+and Policy. Cambridge: Cambridge University Press. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 37 ===
+36 
+ 
+Stimson, James A., Michael B. Mackuen, and Robert S. Erikson. 1995. ‘Dynamic Representation’. 
+American Political Science Review 89 (3): 543–65. https://doi.org/10.2307/2082973. 
+Varone, Frédéric, and Luzia Helfer. 2021. ‘Understanding MPs’ Perceptions of Party Voters’ 
+Opinion in Western Democracies’. West European Politics, 1–24. 
+Werner, Annika. 2019. ‘Voters’ Preferences for Party Representation: Promise-Keeping, Respon-
+siveness to Public Opinion or Enacting the Common Good’. International Political Science 
+Review 40 (4): 486–501.  
+ 
+ 
+Bibliographical statements 
+ 
+Stefaan Walgrave is a professor at the University of Antwerp, Belgium. 
+Arno Jansen is a PhD Candidate at the University of Antwerp, Belgium. 
+Julie Sevenans is a postdoctoral researcher at the University of Antwerp, Belgium. 
+Karolin Soontjens is a postdoctoral researcher at the University of Antwerp, Belgium. 
+Jean-Benoit Pilet is a professor at the Free University of Brussels (ULB), Belgium. 
+Nathalie Brack is an assistant professor at the Free University of Brussels (ULB), Belgium. 
+Frédéric Varone is a professor at the University of Geneva, Switzerland. 
+Luzia Helfer was a postdoctoral researcher at the University of Geneva, Switzerland. 
+Rens Vliegenthart is a professor at the University of Amsterdam, The Netherlands. 
+Toni van der Meer is an associate professor at the University of Amsterdam, The Netherlands. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 38 ===
+37 
+ 
+Christian Breunig is a professor at the University of Konstanz, Germany. 
+Stefanie Bailer is a professor at the University of Basel, Switzerland. 
+Lior Sheffer is an assistant professor at the Tel Aviv University, Israel. 
+Peter John Loewen is a professor at the University of Toronto, Canada. 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 39 ===
+1 
+Inaccurate Politicians. 
+Elected Representatives’ Estimations of Public Opinion in Four Countries 
+Online Appendices 
+Table of Content 
+Online Appendix 1 – Elite survey: Response rates and representativeness of the data 
+2 
+Online Appendix 2 – Selection and batch of policy proposals in each country 
+ 
+6 
+Online Appendix 3 – Population survey: Response rates, representativeness and weights 
+12 
+Online Appendix 4 – Calculation of the error of a random guess 
+14 
+Online Appendix 5 – Descriptive statistics  
+16 
+Online Appendix 6 – Taking into account the CI around the public opinion estimates 
+17 
+Online Appendix 7 – National vs. regional politicians 
+20 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 40 ===
+2 
+ 
+Online Appendix 1 – Elite survey: Response rates and representativeness of the data 
+ 
+In the framework of the POLPOP project, we surveyed members of parliament (MPs) from 
+Belgium (Flanders and Wallonia separately), Canada, Germany and Switzerland. In each 
+country, national MPs were surveyed. In Belgium, Canada and Switzerland, we also surveyed 
+regional MPs. In Belgium, exceptionally, we also targeted ministers and party leaders.1  
+In Belgium, Canada and Switzerland, all MPs from the targeted populations were invited to 
+participate in the study. In Germany, a slightly different procedure was followed because of 
+the large size of the German Bundestag (19th legislative period), which consists of 709 
+members. A stratified sampling procedure was used and groups of politicians were contacted 
+in several rounds. Sampling and contacting were terminated after 79 interviews were done—
+at that moment, 511 politicians had been contacted.  
+Table A1.1 below reports the cooperation rates per country and level (national/regional). And 
+Table A1.2 shows the representativeness of the data on several key characteristics: gender, 
+age and seniority. The table shows that, some (substantively small) deviations 
+notwithstanding, our data are representative for the full population. 
+Further information about the data collection is available from the authors upon request.
+ 
+1 In contrast to many other countries, ministers in Belgium are not members of parliament. Party leaders can 
+be MPs at the same time, but some are not. In Flanders, ministers and party leaders were invited to participate 
+in the study. In Wallonia, only party leaders were invited. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 41 ===
+3 
+ 
+Table A1.1 - Population of targeted politicians, sample, and response rates 
+ 
+Population 
+Sample 
+Response rate (%) 
+Timing of 
+interviews 
+Canada 
+National MPS 
+334 
+50 
+15.0 
+March – Sep 2019 
+ Regional MPs Ontario 
+124 
+30 
+24.2 
+ 
+ 
+TOTAL Canada 
+458 
+80 
+17.3 
+ 
+Flanders 
+National MPs, ministers and party leaders 
+98 
+77 
+77.0 
+March – July 2018 
+Regional MPs, ministers and party leaders 
+135 
+102 
+76.7 
+ 
+TOTAL Flanders 
+233 
+179 
+76.8 
+ 
+Germany 
+National MPs 
+511 
+79 
+15.5 
+Sep 2018 – Feb 
+2019 
+ 
+TOTAL Germany 
+511 
+79 
+15.5 
+ 
+Switzerland National MPs 
+236 
+151 
+64.0 
+Aug – Oct 2018 
+ Regional MPs Berne and Geneva 
+259 
+217 
+83.8 
+ 
+ 
+TOTAL Switzerland 
+495 
+368 
+74.3 
+ 
+Wallonia 
+National MPs and party leaders 
+65 
+43 
+62.3 
+March – July 2018 
+Regional MPs and party leaders 
+149 
+117 
+79.6 
+ 
+TOTAL Wallonia 
+214 
+160 
+74.8 
+ 
+ 
+GRAND TOTAL 
+1,911 
+866 
+45.3 
+ 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 42 ===
+4 
+ 
+Table A1.2 Representativity of MPs who cooperated compared with the MP population for 
+gender, age and political experience. 
+ 
+Flanders 
+Canada 
+Germany 
+ 
+Cooperated 
+(N = 179) 
+Population 
+(N = 233) 
+Cooperated 
+(N = 80) 
+Population 
+(N = 458) 
+Cooperated 
+(N = 79) 
+Population 
+(N = 709) 
+Female 
+66 (37%)* 
+97 (42%) 
+31 (39%) 
+140 (31%) 
+20 (25%) 
+219 (31%) 
+Age in years (SD) 
+ 
+48.0 (8.7) 
+48.6 (9.1) 
+52.3 (12.3) 
+52.2 (11.9) 
+50.2 (10.8) 
+49.4 (10.1) 
+Political 
+experience in 
+years (SD) 
+10.1 (6.9) 
+10.5 (7.5) 
+6.3 (8.7) 
+ 
+6.0 (6.7) 
+4.9 (5.8) 
+6.0 (6.7) 
+ 
+(continued) 
+ 
+Switzerland 
+Wallonia 
+ 
+Cooperated 
+(N = 368) 
+Population 
+(N = 495) 
+Cooperated 
+(N = 160) 
+Population 
+(N = 214) 
+Female 
+116 (31%) 
+158 (32%) 
+54 (34%) 
+73 (34%) 
+Age in years (SD) 
+51.3 (11.3)* 
+52.1 (11.0) 
+51.2 (10.4) 
+51.6 (10.3) 
+Political experience in 
+years (SD) 
+9.9 (7.9)* 
+11.0 (8.6) 
+10.9 (7.9) 
+11.5 (8.5) 
+Note. * Means that the characteristic is a significant predictor of whether a politician participated in the survey 
+(result from logistic regression analysis; p < .05). This is the case for only two characteristics (gender in Flanders 
+and age in Switzerland) and the bias is, in substantive terms, negligible. On all other aspects, the elite sample is 
+fully representative. 
+ 
+ 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 43 ===
+5 
+ 
+We also assess the data based on cooperation rates per party. Because full confidentiality was 
+promised to the participating politicians and parties regarding their participation in the 
+project, Table A2 lists the cooperation rates in anonymized form. It becomes clear that 
+participation varied somewhat between parties. There is, however, no strong ideological bias 
+in the dataset. We analyzed, for the full population of respondents, whether the ideological 
+position of a politician (left-right score, taken from the Chapel Hill Expert Survey 2014) is 
+related to their participation. The correlations are overall low and insignificant (see bottom of 
+Table A1.3). Only in Switzerland is the correlation (r = .15) significant (right-wing politicians 
+participated slightly less) but note that even for the least-cooperating party, the response rate 
+was 58% here. All in all, we find proof that all main parties and ideologies, in all countries, are 
+represented in substantive numbers in the dataset. 
+ 
+Table A1.3 Cooperation rates per party 
+ 
+Canada 
+Flanders 
+Germany  
+Switzerland 
+Wallonia 
+Party A  
+40% 
+93% 
+18% 
+90% 
+93% 
+Party B  
+25% 
+89% 
+17% 
+83% 
+85% 
+Party C  
+16% 
+84% 
+13% 
+83% 
+75% 
+Party D  
+16% 
+82% 
+12% 
+83% 
+73% 
+Party E  
+0% 
+74% 
+10% 
+78% 
+67% 
+Party F  
+ 
+67% 
+7% 
+78% 
+63% 
+Party G  
+ 
+ 
+4% 
+73% 
+ 
+Party H  
+ 
+ 
+ 
+69% 
+ 
+Party I  
+ 
+ 
+ 
+63% 
+ 
+Party J  
+ 
+ 
+ 
+60% 
+ 
+Party K 
+ 
+ 
+ 
+58% 
+ 
+Others (parties with max. 
+3 seats + independents)  
+0% 
+20% 
+0% 
+86% 
+75% 
+Correlation between left-
+right score and 
+cooperation 
+-.07 
+-.12 
+.03 
+-.15 
+.00 
+N (cooperated)  
+80 
+179 
+79 
+368 
+160 
+Note. Letters allocated to parties randomly to ensure anonymity; party A in one parliament is not the same 
+party (family) as party A in another parliament. For Germany, cooperation rates based on the parliament with 
+709 MPs (although only 511 were contacted).  
+ 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 44 ===
+6 
+ 
+Online Appendix 2 – Selection and batch of policy proposals in each country 
+ 
+Our first criterion for issue selection was that issues should not be overly technical. Even without much prior knowledge, citizens (and politicians) 
+should be able to understand what the proposals entail. Second, all proposals are topical or relevant in the sense that, at the time of the survey, 
+they were present in the public realm in the country at stake; we did not invent new proposals but drew on existing debates. Third, aiming to get 
+politicians’ estimations with regard to salient and less salient issues, the salience of the proposals and of the underlying issues varies 
+systematically. To select proposals with varying salience but, at the same time, having a minimum salience level, in some countries, a broader list 
+of many more policy proposals was pretested on a random sample of country nationals. Basically, pretest respondents were asked whether they 
+agreed, disagreed or were simply undecided about a larger number of policies—undecided both including people who said they did not have an 
+opinion and those placing themselves in the middle of the scale. We considered the share of undecided citizens as an indicator of the salience of 
+the policy and only policies above a certain minimum threshold of salience were retained (e.g. in Flanders only the proposals of which less than 
+30% said they were undecided about). Policies with higher shares of undecided were considered to be non-salient and/or too technical-unknown 
+for people to have a sensible opinion about (and for politicians to estimate these opinions). Still, as one can glance from the full list of policies 
+below in Table A2.1, among the retained eight policies in each country, there still is much wanted variance in salience (measured by the share of 
+undecided). Fourth, in each country, the eight policies represent a good deal of issue variation. They include policy proposals situated on the 
+traditional socio-economic left-right axis (e.g. retirement age, right to strike, taxes…) as well as proposals that belong to the cultural left-right 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 45 ===
+7 
+ 
+divide (e.g. immigration, environment) while some proposals do not belong to any of the two main cleavages (e.g. defense, democracy). Fifth, 
+based on pretest data, we sought policy proposals varying in their distribution of public opinion support. The clarity of a public opinion signal 
+probably depends to a large extent on the share of people (dis)agreeing with a policy. For instance, 50%-50% distributions may be more difficult 
+to estimate correctly than 80%-20% distributions. Accordingly, the eight policies were chosen in each country conditional upon showing variation 
+in distributions. This is documented in Appendix 2 as well. Sixth and finally, the eight policies we employ in each country vary in the sense that 
+for some of them party electorates hold different opinions while for other policies all party electorates converge on the same side of the debate. 
+If politicians get contradictory signals from their own electorate and from general public opinion, this may confuse and decrease the accuracy of 
+their estimations. Based on all these six criteria, in each country, a set of eight policy proposals was selected. We cannot prove that the set of 
+policies in each country is perfectly functionally equivalent, but we selected balanced and comparable sets of policies as carefully as possible. 
+ 
+Table A2.1 – Policy proposals per country 
+Flanders 
+Issue 
+% citizens 
+undecided 
+% citizens 
+agree 
+Maximum party 
+electorate difference % 
+agree* 
+1 
+National armies should be replaced by one European army. 
+EU 
+22.1 
+60.9 
+44.2-66.7 
+2 
+Voting should remain compulsory.  
+Political 
+system 
+15.4 
+70.0 
+52.9-76.4 
+3 
+The most polluting cars should be forbidden in cities.  
+Environment 
+11.2 
+68.5 
+50.6-81.9 
+4 
+Company cars should be more heavily taxed. 
+Taxes 
+16.2 
+66.4 
+58.7-84.4 
+5 
+The right to strike should be restricted 
+Labor 
+12.0 
+58.7 
+27.0-72.5 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 46 ===
+8 
+ 
+6 
+Belgium should never expel someone to a country where human 
+rights are violated. 
+Migration 
+12.4 
+69.0 
+32.3-85.6 
+7 
+The full income of all parliamentarians should be published 
+yearly.  
+Political 
+system 
+6.8 
+91.2 
+91.6-94.2 
+8 
+The retirement age may not exceed 67 years.  
+Social policy 
+3.8 
+91.1 
+89.3-95.1 
+ 
+Wallonia 
+ 
+ 
+ 
+ 
+1 
+National armies should be replaced by one European army. 
+EU 
+17.0 
+48.7 
+37.0-66.7 
+2 
+Voting should remain compulsory.  
+Political 
+system 
+6.3 
+57.1 
+50.4-68.5 
+3 
+The most polluting cars should be forbidden in cities.  
+Environment 
+8.3 
+66.6 
+53.4-81.9 
+4 
+Company cars should be more heavily taxed. 
+Taxes 
+14.9 
+59.4 
+60.1-76.9 
+5 
+The right to strike should be restricted 
+Labor 
+7.3 
+55.8 
+39.6-76.4 
+6 
+Belgium should never expel someone to a country where human 
+rights are violated. 
+Migration 
+11.5 
+64.7 
+59.2-85.1 
+7 
+The full income of all parliamentarians should be published 
+yearly.  
+Political 
+system 
+7.1 
+82.0 
+82.4-89.8 
+8 
+The retirement age may not exceed 67 years.  
+Social policy 
+3.2 
+81.4 
+80.1-88.8 
+ 
+Switzerland  
+ 
+ 
+ 
+ 
+A1 
+Switzerland needs to buy new fighter jets. 
+Defense 
+10.7 
+39.8 
+16.8-66.9 
+A2 
+Jobs in my Canton need to be reserved for people residing my 
+Canton. 
+Political 
+system 
+8.7 
+60.0 
+27.7-68.6 
+A3 
+The concerned Cantons need to allow the hunt of wolves that 
+attack flock. 
+Environment 
+10.1 
+43.1 
+15.3-60.4 
+A4 
+Hospitals need to have a "Babyklappe" where parents can leave 
+their infant anonymously. 
+Ethics 
+8.7 
+70.7 
+69.4-79.8 
+A5 
+Sexual harassment at work needs to be punished more severely. 
+Ethics 
+6.1 
+89.2 
+80.9-94.2 
+A6 
+Switzerland should only accept well-educated immigrants. 
+Migration 
+11.2 
+33.6 
+9.8-57.5 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 47 ===
+9 
+ 
+A7 
+Citizens should be able to participate in federal elections via 
+internet. 
+Political 
+system 
+10.4 
+69.6 
+57.0-76.6 
+A8 
+Taxes on high-income should be raised while taxes on low-
+income should be reduced. 
+Taxes 
+7.2 
+78.3 
+47.4-90.0 
+A9 
+The pension age needs to be raised to 67. 
+Social policy 
+4.7 
+20.6 
+18.2-44.7 
+B1 
+Civil defense facilities that are not in use need to be closed for 
+good. 
+Defense 
+19.2 
+30.1 
+27.2-41.5 
+B2 
+Elderly employees need to be protected better from dismissal. 
+Labor 
+4.3 
+91.5 
+81.5-95.6 
+B3 
+Private households should be able to freely choose their 
+electricity provider. 
+Economy 
+18.1 
+77.0 
+65.5-78.5 
+B4 
+Same-sex couples who have registered their partnership should 
+be allowed to adopt children. 
+Ethics 
+9.0 
+58.9 
+36.8-76.1 
+B5 
+The police needs to prevent unauthorized demonstrations at all 
+costs. 
+Rights 
+9.8 
+64.8 
+36.8-86.2 
+B6 
+My Canton should spend more for the integration of asylum 
+seekers. 
+Migration 
+11.3 
+31.5 
+7.9-77.2 
+B7 
+Foreigners who have lived in Switzerland for at least ten years 
+should be able to participate in Cantonal elections and referenda. 
+Migration 
+6.9 
+45.7 
+14.9-82.6 
+B8 
+Wedded people need to be assessed separately for taxation. 
+Taxes 
+17.4 
+55.8 
+58.4-70.0 
+B9 
+My canton should create a cantonal health insurance institution 
+for its residents. 
+Social policy 
+15.0 
+55.5 
+41.3-78.7 
+Germany 
+ 
+ 
+ 
+ 
+A1 
+The cooperation between EU member states should be 
+strengthened. 
+EU 
+13.3 
+80.7 
+61.7-97.7 
+A2 
+Video surveillance in public spaces should be expanded. 
+Crime 
+8.1 
+74.2 
+57.8-84.8 
+A3 
+Citizens with higher incomes should be taxed more heavily than 
+today.  
+Taxes 
+11.1 
+78.3 
+63.9-88.9 
+A4 
+There should be referendums on the federal level.  
+Political 
+system 
+13.5 
+79.3 
+72.9-95.2 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 48 ===
+10 
+ 
+A5 
+There should be more driving restrictions in cities suffering from 
+air pollution. 
+Environment 
+10.0 
+46.4 
+31.7-79.5 
+A6 
+The retirement age should be raised step by step. 
+Social policy 
+4.6 
+21.4 
+4.0-25.8 
+A7 
+If equally qualified women should be privileged on the labor 
+market. 
+Labor 
+17.7 
+34.8 
+26.4-40.0 
+A8 
+Foreign citizens’ children that were born and raised in Germany 
+should be allowed to keep their parent’s citizenship in addition 
+to the German citizenship.  
+Migration 
+11.9 
+36.4 
+7.8-51.2 
+B1 
+There should be no further EU enlargement. 
+EU 
+21.5 
+73.4 
+57.1-90.4 
+B2 
+Delinquents should be punished more severely.   
+Crime 
+7.9 
+93.2 
+79.5-98.8 
+B3 
+Income and wealth should be redistributed in favor of poorer 
+people.  
+Social policy 
+12.5 
+72.1 
+60.0-91.5 
+B4 
+The electoral age should be lowered to 16 years for federal 
+elections.  
+Political 
+system 
+10.1 
+23.8 
+18.6-27.6 
+B5 
+Activities with high CO2 emissions such as air travel should be 
+taxed more heavily. 
+Environment 
+12.9 
+66.8 
+42.2-85.1 
+B6 
+There should be a right to full-time child care until the end of 
+elementary school.  
+Social policy 
+12.7 
+79.5 
+74.4-91.5 
+B7 
+There should be an “opt-out” system for organ donations. 
+Everyone that does not decline explicitly would be organ donor.  
+Social policy 
+13.4 
+63.3 
+50.0-67.9 
+B8 
+Declined asylum seekers should be more consequently deported.  
+Migration 
+9.1 
+91.2 
+75.6-98.3 
+Canada 
+ 
+ 
+ 
+ 
+1 
+Canada should increase the number of immigrants it admits each 
+year. 
+Migration 
+14.5 
+37.5 
+24.3-49.6 
+2 
+The government should provide a guaranteed annual income. 
+Social policy 
+12.5 
+74.7 
+55.0-84.3 
+3 
+The federal government should support the building of oil 
+pipelines in Canada. 
+Energy 
+17.2 
+69.3 
+49.1-90.1 
+4 
+The federal government should have more powers to combat 
+terrorism, even if it means that citizens have to give up more 
+privacy. 
+Crime 
+13.8 
+57.8 
+42.0-69.0 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 49 ===
+11 
+ 
+5 
+A carbon tax is a good policy to help reduce greenhouse gas 
+emissions. 
+Environment 
+13.2 
+48.1 
+16.0-67.6 
+6 
+The retirement age to receive Canada Pension Plan benefits 
+should be raised to 70. 
+Social policy 
+8.2 
+15.5 
+14.5-17.1 
+7 
+The Goods and Services Tax (GST or HST) should be increased. 
+Taxes 
+9.8 
+16.4 
+10.1-19.8 
+8 
+Individuals who are terminally ill should be allowed to end their 
+lives with the assistance of a doctor. 
+Ethics 
+12.9 
+85.1 
+73.5-92.4 
+* ‘Maximum party electorate difference % agree’ refers to any of the party electorates in the country at stake with the lowest share of support 
+of the proposal (first figure) and with the highest share of support for the proposal (second figure). It demonstrates the heterogeneity of support 
+among party electorates. 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 50 ===
+12 
+ 
+Online Appendix 3 – Population survey: Response rates, representativeness and weights 
+ 
+Table A3.1 – Survey company, timing and sample size by country 
+ 
+Survey company 
+Survey timing 
+Sample size 
+Minimum number of 
+citizens who gave own 
+opinion on policy 
+proposal b 
+Number of citizens who 
+estimated general public 
+opinion for at least 6 out 
+of 8 policy proposals 
+Canada 
+Qualtrics 
+June 2019 
+1,012 
+876 
+1,012 
+Flanders 
+Survey Sampling 
+International (SSI) 
+Feb-March 2018 
+2,389 
+2,058 
+2,209 
+Germany 
+YouGov 
+Oct 2018 
+1,520 
+746 
+1,298 
+Switzerland 
+FORS a 
+May-July 2018 
+4,677 
+2,260 
+n.a. 
+Wallonia 
+Survey Sampling 
+International (SSI) 
+Feb-March 2018 
+2,371 
+1,966 
+2,134 
+a In Switzerland, a probability sample of 10,261 citizens was drawn and contacted to participate by FORS (response rate: 
+45.6%). In all other countries, an online survey panel was used and possible respondents were contacted until quota were 
+met. 
+b Due to missing values on the variables used to create weights and/or missing values on the policy opinions themselves, the 
+number of ratings per policy proposal (on which we base our public opinion numbers) is typically a bit lower than the sample 
+size. Moreover, in Germany and Switzerland citizens rated only one out of the two batches of policy proposals so the sample 
+is divided into halves. 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 51 ===
+13 
+ 
+Information about weights: 
+To calculate the general public opinion on a policy proposal in a country, weights are used. 
+This is only necessary in Belgium, Canada and Germany; politicians in Switzerland did not 
+estimate the general public opinion and hence we do not need to calculate public opinion at 
+the country level.  
+We weigh by age, gender, education and previous party vote. (Note that for age, 
+gender and education, quota were used; but the weights allow to account for small remaining 
+deviations). The weighing is done with the ipfraking command in Stata. The weights are 
+trimmed to avoid that individual respondents count too heavily on the outcome; an upper 
+bound of 5 is used. Any respondent who has a missing on one of the four weighing factors, 
+does not get a weight and is hence not included in the calculation of public opinion at the 
+country level. 
+No weights are used to calculate the opinion of a specific partisan electorate, because 
+we do not know how other factors (e.g. gender or age) are distributed within party 
+electorates. 
+ 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 52 ===
+14 
+ 
+Online Appendix 4 – Calculation of the error of a random guess 
+ 
+Imagine that 60% of the citizens in a country agree with a policy proposal. The absolute error 
+e of a random estimation of the percentage support (which can take 101 values, namely all 
+numbers from 0 to 100) is, on average: 
+e = 
+| 0−60 |+ | 1−60 |+ | 2−60 |+⋯+ | 99−60 |+ | 100−60 |
+101
+ 
+ 
+e = 
+60+59+58+⋯+0+⋯+39+40
+101
+ 
+ 
+So, it is the sum of the first 60 natural numbers plus the sum of the first 40 natural numbers, 
+divided by 101.  
+More generically, when n% of citizens agree with a policy, the average error of a random guess 
+is the sum of the first n natural numbers, plus the sum of the first (100 – n) natural numbers, 
+divided by 101. 
+The formula to calculate the sum of the first n natural numbers is as follows: 
+1 + 2 + ⋯+ 𝑛= 𝑛 (𝑛+ 1)
+2
+ 
+So, for a policy with which n% of the citizens agree, the average random error e is: 
+𝑒= 
+𝑛 (𝑛+ 1)
+2
++ (100 −𝑛)((100 −𝑛) + 1)
+2
+101
+ 
+ 
+To facilitate interpretation of this formula, below is a plot showing the mean random error for 
+each value of n (x axis is 0 - 100, y axis is the value of e for that n). 
+We calculate this average random error for each policy proposal in our sample. Then, as a 
+benchmark for the error that an individual politician makes across the eight (or nine) policy 
+proposals in the batch, we take the average random error across the same proposals. This 
+results in a different number for each country, as the proposals (and related public opinion 
+distributions) are country-specific. 
+ 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 53 ===
+15 
+ 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 54 ===
+16 
+ 
+Online Appendix 5 – Descriptive statistics 
+Table A5.1 – Descriptive statistics of dependent variables 
+Name variable 
+Coding 
+Mean 
+S.D. 
+Min-max 
+N 
+Incorrect majority placement 
+General public opinion 
+Party electorate opinion 
+Number of incorrectly placed majorities 
+ 
+2.34 
+2.12 
+ 
+1.39 
+1.44 
+ 
+0-7 
+0-7 
+ 
+488 
+800 
+Percent accuracy score 
+General public opinion 
+Party electorate opinion 
+Mean absolute error (in percentage points) of estimations 
+ 
+17.64 
+19.93 
+ 
+5.97 
+7.16 
+ 
+5-43 
+6-51 
+ 
+488 
+800 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 55 ===
+17 
+ 
+Online Appendix 6 - Taking into account the CI around the public opinion estimates 
+ 
+It is fair to acknowledge that our estimates of public opinion (and electorate opinion), which are 
+based on voter surveys, are uncertain. As a consequence, our calculations of the inaccuracy in 
+politicians’ estimations thereof are uncertain as well. To deal with that uncertainty, we report results 
+here of analyses where we rely on the confidence intervals of the estimates—instead of the point 
+estimates—to calculate perceptual accuracy.  
+On the one hand we calculate the minimal error in politicians’ estimations. In other words, we give 
+politicians the benefit of the doubt and assume that actual public opinion (or electorate opinion) is 
+systematically closer to their estimations than our point estimates. This is operationalized as follows: 
+• 
+A majority placement is now always correct when a confidence interval contains value 50% 
+(and thus when it is uncertain whether the majority of citizens agrees or disagrees with the 
+issue). As a consequence, a majority placement is now only incorrect when the full 
+confidence interval is situated below 50 (e.g. lower bound is 33%; upper bound is 38%) while 
+the politician’s estimation is above 50—or vice versa.  
+• 
+The percentage error score now equals 0 when a politician’s estimation falls within the 
+confidence interval—the estimation is then considered to be entirely accurate. When a 
+politician’s estimation is lower than the lower limit of the confidence interval, the error score 
+is the absolute distance between the estimation and the lower limit. When a politician’s 
+estimation is higher than the higher limit of the confidence interval, the error score is the 
+absolute distance between the estimation and the higher limit. In other words, politicians’ 
+error score represents the distance to the nearest limit of the confidence interval. 
+On the other hand we calculate the maximal error in their estimations. This is the error in a scenario 
+where actual public opinion (or electorate opinion) would systematically be further away from their 
+estimations than our point estimates. 
+• 
+A majority placement is now incorrect when a confidence interval contains value 50% (and 
+thus when it is uncertain whether the majority of citizens agrees or disagrees with the issue). 
+As a consequence, a majority placement is now only correct when the full confidence interval 
+is on the side where the estimation of the politician is.  
+• 
+The percentage error score now represents the distance to the most distant limit of the 
+confidence interval. 
+Note that there is no reason to assume that there is an actual systematic bias in our citizen survey. In 
+the most likely scenario, our calculations based on point estimates (as reported in the main paper) 
+are closer to reality than the minimal and maximal values reported below. 
+We first look at politicians’ estimations of the general public opinion. The results are in Table A6.1. 
+We see that—taking the confidence intervals around our public opinion estimates into account—the 
+average number of incorrect majority placements must be somewhere between 2.1 and 2.6 (out of 
+eight estimations). The error score in percentage points must be somewhere between 14.6 and 21.0. 
+It makes sense that the margin of uncertainty is somewhat larger in Canada and Germany because 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 56 ===
+18 
+ 
+this is where our population samples were smaller (see Appendix 3) and the confidence intervals of 
+the public opinion estimates are therefore larger. 
+ 
+Table A6.1 – Inaccuracy in general public opinion estimations 
+ 
+Minimal error, 
+based on CI limits 
+Error, based on point 
+estimates 
+(= main paper results) 
+Maximal error, 
+based on CI limits 
+Average number of inaccurate 
+majority misplacements (total) 
+2.1 
+2.3 
+2.6 
+   Canada 
+1.9 
+2.4 
+2.9 
+   Flanders 
+2.4 
+2.4 
+2.4 
+   Germany 
+2.3 
+2.4 
+2.8 
+   Wallonia 
+1.7 
+2.2 
+2.5 
+Average percentage error 
+score (in percentage points) 
+(total) 
+14.6 
+17.6 
+21.0 
+   Canada 
+14.9 
+18.5 
+22.4 
+   Flanders 
+15.2 
+17.7 
+20.5 
+   Germany 
+16.4 
+20.3 
+24.4 
+   Wallonia 
+12.8 
+15.6 
+19.0 
+ 
+Making the same exercise for the estimations of the party electorate positions, we see that the 
+uncertainty becomes larger. This is logical as our estimates are based on smaller samples and the 
+confidence intervals are therefore wider. Taking the uncertainty of the estimates into account, these 
+results show that the average number of incorrect majority placements of the party electorate must 
+be somewhere between 1.6 and 2.7 (out of eight statements). The average percentage error score 
+must be between 14.7 and 25.8. 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 57 ===
+19 
+ 
+Table A6.2 – Inaccuracy in party electorate opinion estimations 
+ 
+Minimal error, 
+based on CI limits 
+Error, based on point 
+estimates 
+(= main paper results) 
+Maximal error, 
+based on CI limits 
+Average number of inaccurate 
+majority misplacements (total) 
+1.6 
+2.1 
+2.7 
+   Canada 
+1.2 
+2.0 
+2.6 
+   Flanders 
+1.7 
+2.2 
+2.5 
+   Germany 
+1.9 
+2.4 
+3.2 
+   Switzerland 
+1.9 
+2.3 
+2.9 
+   Wallonia 
+1.1 
+1.5 
+2.1 
+Average percentage error 
+score (in percentage points) 
+(total) 
+14.7 
+19.9 
+25.8 
+   Canada 
+13.3 
+18.7 
+24.7 
+   Flanders 
+15.2 
+19.7 
+24.8 
+   Germany 
+14.7 
+22.4 
+31.4 
+   Switzerland 
+15.4 
+20.6 
+26.3 
+   Wallonia 
+13.1 
+18.1 
+23.7 
+ 
+ 
+ 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.
+
+=== page 58 ===
+20 
+ 
+Online Appendix 7 – National vs. regional politicians 
+ 
+As explained in the main paper, in Belgium, both national and regional politicians were asked to 
+estimate regional public opinion. In Canada, however, both were asked to estimate national public 
+opinion. We test here whether this had implications for their accuracy. 
+In Canada, there is no difference. In Belgium, however, national politicians appear to be slightly better 
+at estimating (regional!) public opinion, both in Flanders (majority placements and percentage 
+accuracy score) and in Wallonia (only percentage accuracy score). We have no ready explanation for 
+this. Maybe, operating in a more conflictual and more competitive environment (less seats per party), 
+national MPs in Belgium might simply be more insecure and, hence, invest more in getting to know 
+public opinion in general compared to their regional counterparts. 
+Note that we did not interview German regional politicians; and in Switzerland politicians were not 
+asked to estimate general public opinion; so the comparison is not relevant there. 
+ 
+Table A7.1 – Differences in accuracy (general public opinion) between national and regional 
+politicians (t-tests) 
+ 
+Average of 
+national politicians  
+Average among 
+regional politicians 
+t 
+Average number of incorrect 
+majority placements 
+ 
+ 
+ 
+   Canada 
+2.4 
+2.5 
+-.50 
+   Flanders 
+2.1 
+2.6 
+-2.40* 
+   Wallonia 
+2.1 
+2.3 
+-.81 
+Average percentage error score 
+ 
+ 
+ 
+   Canada 
+17.8 
+19.9 
+-1.64 
+   Flanders 
+16.7 
+18.5 
+-2.02* 
+   Wallonia 
+14.2 
+16.3 
+-2.13* 
+Note * p < .05 
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of 
+The Journal of Politics, published by The University of Chicago Press on behalf of Southern Political Science Association. Include the DOI 
+when citing or quoting: https://doi.org/10.1086/722042. Copyright 2022 Southern Political Science Association.

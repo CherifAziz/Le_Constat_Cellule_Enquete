@@ -1,0 +1,9 @@
+test;net_2027;net_2030;net_2035;pct_PIB_2030;ecart_2030_pct
+T0 centrale si adoptee;20.6;33.2;57.7;0.98;0
+"T1 multiplicateurs eleves (1,7 demande, salaires, transferts, local ; effet persistant)";12.4;20.5;49.2;0.61;-38
+T2 rendement brut inferieur de moitie (supplement d'emploi compris);10.3;16.6;28.9;0.49;-50
+T3 report integral des transferts locaux;18.1;28.7;51.4;0.85;-14
+T4 contestation : risque eleve retire, risque moyen a moitie;6.8;10.8;14.2;0.32;-67
+T4b decote d'execution centrale (precedents);13.5;21.7;35.6;0.64;-35
+T5 recession 2027-2028 : multiplicateurs x2 en 2027 et 2030, gel 2027 a 40 %;8.3;23.7;54.3;0.70;-29
+T6 cumul T2 + T4;3.4;5.4;7.1;0.16;-84

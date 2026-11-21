@@ -1,0 +1,72 @@
+t_3201 colonnes d'annees : 1959 - 2025 ; premiere colonne 2
+Controle PIB 2025 (Md EUR) : 2991.1 ; B9 t_3201 2025 : -151.6 ; solde Figure 1 : -151.592
+
+V01 dernier excedent : 1974 0.1 % ; annees de deficit consecutives 1975 - 2025 : 51
+V01 controle Md EUR (Figure 1) : 1974 0.199 ; nb deficits 1975-2025 : 51
+V02 annees excedentaires 1960-1974 : [(1960, 1.2), (1961, 1.2), (1962, 0.2), (1963, 0.4), (1964, 0.8), (1965, 0.6), (1966, 0.2), (1972, 0.2), (1974, 0.1)]
+V03 solde 2025 : -151.592 Md EUR ; -5.1 % PIB
+V04 dep/rec 1974 : 41.34 41.44 ; 2025 : 57.31 52.24 ; hausses : 15.97 10.8 ; dep 1985 : 54.18 acquis en 1985 : 12.84 soit 80.4 %
+
+V05 2024 (FR, EA20, EA20 hors FR, ecart avec EA20, ecart hors FR) : depenses (57.0, 49.3, 47.47, 7.7, 9.53) ; recettes (51.2, 46.2, 45.02, 5.0, 6.18)
+
+V05 2025 (FR, EA20, EA20 hors FR, ecart avec EA20, ecart hors FR) : depenses (57.3, 49.8, 48.06, 7.5, 9.24) ; recettes (52.2, 46.8, 45.54, 5.4, 6.66)
+V06 2022 COFOG montants : total FR 58.41 EA 49.80 EAhorsFR 47.75 | ecart hors FR 10.66 (avec FR 8.61) | prot. sociale+sante hors FR 6.65 = 62.3 % | reste 4.02 | vieillesse hors FR 3.29 (avec FR 2.65) | interets GF0107 hors FR 0.31
+V06 2023 COFOG montants : total FR 56.72 EA 49.22 EAhorsFR 47.43 | ecart hors FR 9.29 (avec FR 7.50) | prot. sociale+sante hors FR 6.27 = 67.4 % | reste 3.03 | vieillesse hors FR 3.05 (avec FR 2.46) | interets GF0107 hors FR 0.06
+V06 2024 COFOG montants : total FR 56.96 EA 49.18 EAhorsFR 47.34 | ecart hors FR 9.61 (avec FR 7.77) | prot. sociale+sante hors FR 6.22 = 64.7 % | reste 3.40 | vieillesse hors FR 3.10 (avec FR 2.50) | interets GF0107 hors FR 0.09
+     detail hors protection sociale et sante (hors FR) : GF01 +0.06 ; GF02 +0.61 ; GF03 +0.11 ; GF04 +0.55 ; GF05 +0.22 ; GF06 +0.88 ; GF08 +0.41 ; GF09 +0.56
+
+V07 excedents primaires 2002-2025 : {'AT': 15, 'BE': 13, 'DE': 12, 'DK': 18, 'EA20': 12, 'EL': 8, 'ES': 6, 'EU27_2020': 12, 'FI': 11, 'FR': 0, 'IE': 16, 'IT': 19, 'NL': 12, 'PT': 9, 'SE': 16} ; series incompletes : ['DK']
+
+Controle ratio dette calcule/publie 1978, 1996, 2025 : [(1978, 21.6, 21.6), (1996, 60.6, 60.6), (2025, 115.7, 115.7)]
+V09 1979-2025 : {'var': 94.1, 'prim': 60.2, 'bdn': 8.1, 'res': 25.8}
+V09b dont 1979-1998 : {'var': 40.5, 'prim': 9.1, 'bdn': 11.2, 'res': 20.2} ; 1999-2025 : {'var': 53.6, 'prim': 51.1, 'bdn': -3.1, 'res': 5.6}
+V10 2001-2025 : {'var': 56.0, 'prim': 54.3, 'bdn': -3.7, 'res': 5.4}
+V11 1984-1997 : {'var': 34.3, 'prim': 9.4, 'bdn': 15.5, 'res': 9.3} ; 1987-1998 : {'var': 29.7, 'prim': 6.9, 'bdn': 15.3, 'res': 7.5}
+V11b 1979-1990 : {'var': 15.2, 'prim': 1.0, 'bdn': -2.7, 'res': 16.8}
+V12 charge d'interets max : 1996 3.61 % ; 1995-1997 : [(1995, 3.46), (1996, 3.61), (1997, 3.55)] ; 2025 : 2.2
+V13 annees de baisse du ratio de dette (serie publiee) depuis 1978 : 11 [1980, 1988, 1999, 2000, 2001, 2006, 2018, 2019, 2021, 2022, 2023]
+V13b ratio 2007 / 2019 / 2025 : 65.5 98.2 115.7 ; maximum ulterieur toujours superieur au niveau d'avant-crise ? [(1980, 21.3, 22.6), (1992, 41.7, 48.2), (2007, 65.5, 69.8), (2019, 98.2, 109.5)]
+
+V20 solde primaire 2010 / 2014 : -4.61 -2.38 ; 2014 -> 2019 : -2.38 -> -0.88 ( 1.5 ) ; interets 2014 -> 2019 : 2.2 -> 1.52 ( -0.68 )
+V20b solde primaire 2015 -> 2019 : -1.86 -> -0.88 ( 0.98 ) ; interets 2015->2019 : -0.52
+V21 2025 : solde primaire -2.87 % ( -85.9 Md) ; interets 2.2
+V14b excedents primaires 1975-2025 (Insee) : [1979, 1980, 1987, 1989, 1990, 1998, 1999, 2000, 2001]
+V14 types de majorite (copie A09) : ['coalition', 'coalition_etroite', 'coalition_non_etablie', 'parti_seul', 'relative', 'sans_majorite']
+   coalition : n=14 ; deficits (Insee) 14 ; excedents primaires [1979, 1980, 1998, 1999, 2000, 2001]
+   coalition_etroite : n=2 ; deficits (Insee) 2 ; excedents primaires [1987]
+   coalition_non_etablie : n=4 ; deficits (Insee) 4 ; excedents primaires []
+   parti_seul : n=23 ; deficits (Insee) 23 ; excedents primaires []
+   relative : n=7 ; deficits (Insee) 7 ; excedents primaires [1989, 1990]
+   sans_majorite : n=1 ; deficits (Insee) 1 ; excedents primaires []
+V14 (convention A18 : majorite absolue = parti seul + coalitions, y compris etroite et non etablie)
+V14 exercices 'absolue' : 43 ; dont en deficit (Insee) : 43 ; excedents primaires parmi eux : [1979, 1980, 1987, 1998, 1999, 2000, 2001]
+
+V22 croissance en volume de la depense primaire (deflateur PIB) : {1996: 0.53, 1997: 3.65, 1998: 0.45, 1999: 2.72, 2000: 2.25, 2001: 2.13, 2002: 3.35, 2003: 2.12, 2004: 2.31, 2005: 2.58, 2006: 1.91, 2007: 2.12, 2008: 1.3, 2009: 4.8, 2010: 1.5, 2011: 0.82, 2012: 1.96, 2013: 2.61, 2014: 0.88, 2015: -0.06, 2016: 0.7, 2017: 2.81, 2018: -0.67, 2019: 0.6, 2020: 3.88, 2021: 2.74, 2022: -0.08, 2023: -1.3, 2024: 1.63, 2025: 1.13}
+V22 annees <= 0 depuis 1996 : [2015, 2018, 2022, 2023]
+V22 moyennes 1996-2007 2.17 ; 2010-2019 1.11 ; 2015-2019 0.67
+V22 periodes de 3 ans consecutifs a volume <= 0 (brut, sans neutralisation) : []
+
+V23 prestations D62+D632 % PIB 1974 / 1985 : 15.5 20.98 hausse 5.48 ; dont D62 : 4.72
+
+V16 agregats disponibles : ['D2_D5_D91_D61_M_D611V_D612_M_M_D613V_D614_M_D995', 'D2_D5_D91_D61_M_D612_M_D614_M_D995', 'D2_D5_D91_D61_M_D995']
+V16 D2_D5_D91_D61_M_D995 FR 2017 : 48.5
+V16 D2_D5_D91_D61_M_D995 FR 2022 : 47.7
+V16 D2_D5_D91_D61_M_D995 FR 2023 : 45.5
+V16 D2_D5_D91_D61_M_D995 FR 2025 : 46.0
+V16b rang 2025 (pays de la base) : [(46.0, 'FR'), (44.7, 'BE'), (44.3, 'DK'), (43.9, 'AT'), (43.0, 'IT')]
+V16b rang 2024 : [(45.2, 'BE'), (45.1, 'FR'), (44.6, 'DK'), (43.3, 'AT')]
+
+V24 dette 2015 -> 2019 : [('AT', 85.6, 71.0), ('BE', 105.7, 97.7), ('DE', 71.0, 58.3), ('DK', 44.6, 38.3), ('EA20', 91.0, 83.5), ('EL', 179.6, 183.2), ('ES', 102.5, 97.7), ('EU27_2020', 85.0, 77.4), ('FI', 68.8, 65.3), ('FR', 97.0, 98.2), ('IE', 74.1, 55.8), ('IT', 135.0, 134.2), ('NL', 63.8, 47.7), ('PT', 131.0, 116.1), ('SE', 45.0, 36.3)] ; en hausse : ['EL', 'FR']
+V25 AMECO FRA.1.0.319.0.UBLGAP 01 Based on potential GDP (ESA 2010) (Percentage of potential GDP at current prices) {'2024': '-5.66051', '2025': '-4.6914', '2026': '-4.60383'}
+V25 AMECO FRA.1.0.319.0.UBLGAPS 01 Based on potential GDP (ESA 2010) (Percentage of potential GDP at current prices) {'2024': '-5.60941', '2025': '-4.6914', '2026': '-4.59073'}
+V18 h=0 : n=37 ecart moyen -0.44 ; hors fenetres de crise n=31 -0.36 ; ecart max entre mon execute et celui d'A08 : 0.0
+V18 h=1 : n=35 ecart moyen -1.55 ; hors fenetres de crise n=26 -0.90 ; ecart max entre mon execute et celui d'A08 : 0.0
+V18 h=2 : n=33 ecart moyen -2.53 ; hors fenetres de crise n=21 -1.53 ; ecart max entre mon execute et celui d'A08 : 0.0
+V18 h=3 : n=31 ecart moyen -3.19 ; hors fenetres de crise n=17 -2.08 ; ecart max entre mon execute et celui d'A08 : 0.0
+V18 valeurs de fenetre_touche_crise : ['0', '1']
+V26 A13 {'enveloppe': 'P', 'annee': '2030', 'brut': '40.6', 'net_si_adopte': '25.8', 'pct_PIB_si_adopte': '0.76', 'net_apres_decote': '12.5', 'pct_PIB_apres_decote': '0.37', 'dont_PLF_PLFSS_si_adopte': '13.3', 'dont_Cour_Senat_inspections_si_adopte': '10.8', 'dont_nouveau_si_adopte': '1.7', 'dont_PO_SEC_si_adopte': '6.0', 'charge_reportee_menages_complementaires_si_adopte': '2.5'}
+V26 A13 {'enveloppe': 'C', 'annee': '2030', 'brut': '43.6', 'net_si_adopte': '33.2', 'pct_PIB_si_adopte': '0.98', 'net_apres_decote': '21.7', 'pct_PIB_apres_decote': '0.64', 'dont_PLF_PLFSS_si_adopte': '16.0', 'dont_Cour_Senat_inspections_si_adopte': '14.5', 'dont_nouveau_si_adopte': '2.6', 'dont_PO_SEC_si_adopte': '7.1', 'charge_reportee_menages_complementaires_si_adopte': '2.5'}
+V26 A13 {'enveloppe': 'A', 'annee': '2030', 'brut': '43.6', 'net_si_adopte': '37.0', 'pct_PIB_si_adopte': '1.10', 'net_apres_decote': '31.9', 'pct_PIB_apres_decote': '0.95', 'dont_PLF_PLFSS_si_adopte': '18.0', 'dont_Cour_Senat_inspections_si_adopte': '16.1', 'dont_nouveau_si_adopte': '2.9', 'dont_PO_SEC_si_adopte': '7.5', 'charge_reportee_menages_complementaires_si_adopte': '2.5'}
+V26 A14 {'enveloppe': 'prudente', 'horizon': '2030', 'net_bas': '14.9', 'net_central': '18.6', 'net_haut': '22.1', 'net_central_vs_2025': '12.6', 'net_bas_vs_2025': '10.7', 'net_haut_vs_2025': '14.4', 'retour_macro_central': '0.0', 'retour_macro_fort': '0.0', 'net_apres_macro_central': '18.6', 'pts_PIB_central': '0.62'}
+V26 A14 {'enveloppe': 'centrale', 'horizon': '2030', 'net_bas': '30.2', 'net_central': '38.1', 'net_haut': '45.4', 'net_central_vs_2025': '32.1', 'net_bas_vs_2025': '26.0', 'net_haut_vs_2025': '37.7', 'retour_macro_central': '0.0', 'retour_macro_fort': '0.0', 'net_apres_macro_central': '38.1', 'pts_PIB_central': '1.27'}
+V26 A14 {'enveloppe': 'ambitieuse', 'horizon': '2030', 'net_bas': '37.3', 'net_central': '46.2', 'net_haut': '54.6', 'net_central_vs_2025': '40.2', 'net_bas_vs_2025': '33.1', 'net_haut_vs_2025': '46.9', 'retour_macro_central': '0.0', 'retour_macro_fort': '0.0', 'net_apres_macro_central': '46.2', 'pts_PIB_central': '1.54'}

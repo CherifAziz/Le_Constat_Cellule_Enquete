@@ -1,0 +1,3551 @@
+
+=== page 1 ===
+A
+Online Appendix for: Evelyne H¨ubscher, Thomas
+Sattler and Markus Wagner, “Voter Responses to
+Fiscal Austerity”, British Journal of Political Sci-
+ence.
+A.1
+Austerity and the ECB
+Since its establishment, the ECB has regularly advocated ﬁscal consolidations in its main
+publications (e.g., ECB, 2004, 2010, 2014). In line with inﬂuential research (Alesina, Favero
+and Giavazzi, 2019), it favors spending cuts over tax increases due to their assumed long-term
+beneﬁts.E.g., in February 2014, the ECB Monthly Bulletin states that “[countries] should
+ensure a growth friendly composition of consolidation [...] with minimizing distortionary
+eﬀects of taxation.” Similar statements appear in all Monthly Bulletins in 2014.
+These ideas were crucial for the ECB’s crisis strategy and had a strong inﬂuence on gov-
+ernments. The Irish government, for instance, wrote in 2009: “The budget focused on curbing
+spending to adjust expenditure needs to the revenue base [...] [T]he government took on board
+evidence from international organizations, such as the EU Commission, the OECD and the
+IMF; as well as the relevant economic literature which indicates that consolidation driven
+by cuts in expenditure is more successful in reducing deﬁcits than consolidation based on tax
+increases” (p.15). These recommendations coincide with a general aversion of independent
+central banks towards ﬁscal deﬁcits, especially when the elected government is from the left
+(Bodea and Higashijima, 2017).
+1
+
+=== page 2 ===
+A.2
+Existing Studies
+Contrary to earlier research, which never explicitly examined the electoral consequences of
+ﬁscal adjustments (e.g, Immergut, 1992; Pierson, 2001), a series of rather recent studies di-
+rectly test the claim that these type of policies are electorally risky. This research either
+examines adjustments of overall ﬁscal policies or social and welfare state policies. Table A1
+summarizes the studies that we are aware of.
+Out of these ten studies, nine ﬁnd that ﬁscal adjustments or welfare state retrenchments
+do not systematically and unconditionally harm governments, either through a decline in
+electoral vote shares or a reduction in vote intentions. According to one study, some gov-
+ernment parties can even beneﬁt by claiming credit for cutting ﬁscal deﬁcits. Of these nine
+studies, four studies ﬁnd diﬀerent conditional eﬀects of ﬁscal and social adjustment policies
+on governments, depending on some other variable. Nonetheless, they all present results for
+models without interaction terms testing the unconditional eﬀect of adjustment policies on
+governments. In all of these models, the respective policy variable does not have an impact
+on government support or election outcomes. In one study, the eﬀect remains unclear.1
+As the following quotes illustrate, the authors of these studies conclude from their results
+that ﬁscal adjustments and welfare state retrenchments do not or not systematically and not
+strongly increase electoral risk. In the ﬁrst study of this kind, Alesina, Perotti and Tavares
+(1998) conclude that
+“Using data drawn from a sample of nineteen countries in the Organisation for
+Economic Co-operation and Development (OECD), we ﬁnd no evidence of a sys-
+tematic electoral penalty or fall in popularity for governments that follow re-
+strained ﬁscal policies” (p. 198).
+Alesina, Carloni and Lecce (2011) reiterate this conclusion in a more recent follow-up study
+of large ﬁscal adjustments:
+“We found no evidence that even large reductions of budget deﬁcits are associated
+always (or most of the times) with electoral losses” (p.15).
+In the most recent and most encompassing study over a period of 140 years, Arias and
+Stasavage (2019) conﬁrm this view:
+1It ﬁnds that governments are re-elected in 50% of the cases. But since it only looks at
+ﬁscal consolidation episodes, it is unclear if this re-election chance is high or low relative to
+governments that do not engage in ﬁscal adjustment.
+2
+
+=== page 3 ===
+“Finding political costs of ﬁscal austerity is harder than one might think. Using
+a plausible identiﬁcation strategy we have failed to ﬁnd evidence that expenditure
+cuts are associated with more frequent turnover of leaders. This is true even when
+leaders are forced into austerity by external circumstances. For those who believe
+austerity is detrimental to welfare our results pose a problem. They suggest that
+on average, leaders have substantial latitude to implement austerity without being
+sanctioned” (p.10).
+In an analysis examining social rather than overall ﬁscal policy, Armingeon and Giger (2008)
+come to the similar conclusion that
+“There is no strong and systematic punishment for governments which cut back
+welfare state entitlements. The likelihood of losing votes is the same for govern-
+ments that retrench the welfare state as for those that do not. Rather, electoral
+punishment is conditional on whether governments have the chance to stretch re-
+trenchment over a longer period of time, and whether social policy cuts are made
+an issue in the electoral campaign” (p. 558).
+Giger and Nelson (2011) even ﬁnd that government parties can win from ﬁscal cutbacks:
+“The central argument of this article has been that the electoral consequences of
+retrenchment diﬀer according to party family and that some parties, rather than
+avoiding blame, are able to claim credit for cutting social policy. In particular,
+liberal and religious parties can win votes from retrenching the welfare state”
+(p.19).
+Giger (2010) explains these results with the low salience of ﬁscal policy relative to other
+policy dimensions:
+“In fact, this study shows that not only are the electoral costs of social policy
+performance limited, but also its salience among voters is not extremely high and
+in most instances a majority of people rate other issues as most salient to them”
+(p.436).
+In a related study, Giger and Nelson (2013) take this ﬁnding as the new common wisdom
+arguing that
+“the assumption that voters systematically defend the welfare state is challenged
+by recent research showing that parties are on average not punished and sometimes
+even rewarded for welfare state retrenchment” (p. 1083).
+3
+
+=== page 4 ===
+In the same study, they replicate this result showing that
+“there is no evidence for a general tendency that welfare state cutbacks are unpop-
+ular; the occurrence of a reform in the pension, health, or unemployment scheme
+does not aﬀect the general popularity of the government” (p.8).
+Talving (2017) suggests that punishment for ﬁscal adjustments in a new phenomenon that
+primarily concerns crisis countries:
+“ The results of a multilevel analysis for 24 nations measured before, during and
+after the crisis demonstrate that loosening of ﬁscal policy enhances the likelihood
+of a vote for the incumbent, but only after the ﬁnancial and economic crisis,
+suggesting that economic policy voting is a post-crisis phenomenon. European
+citizens react to government policy decisions more in the post-crisis” (p. 574).
+Finally, Bl¨ochliger, Song and Sutherland (2012) make a direct link between these conclusions
+and the inclination of governments to implement ﬁscal adjustments after learning that they
+are not electorally risky:
+“More than half of the governments that had started consolidation were re-elected,
+and some even strengthened consolidation eﬀorts after then” (p.2).
+Overall, it is fair to conclude that those studies directly testing the link between diﬀerent
+forms of ﬁscal retrenchment and electoral risk predominantly conclude that these policies
+lead to no or, at least, very limited political punishment.
+The main exceptions are studies, some of them very recent, that examine continuous
+vote intentions instead of election outcomes (Sattler, Freeman and Brandt, 2008; Sattler,
+Brandt and Freeman, 2010; Talving, 2017; Bojar et al., 2018). When such higher frequency
+responses of voters to policies are examined, a consistent, unconditional eﬀect of ﬁscal cuts
+on government popularity can be observed.
+4
+
+=== page 5 ===
+Table A1: Summary of studies
+Study
+Dependent
+Independent
+Intervening
+Eﬀect
+Data
+Alesina, Perotti
+and Tavares (1998)
+Government change
+Change in primary
+ﬁscal deﬁcit
+N.A.
+None
+Macro; 19 OECD
+countries (annual);
+1960-1995
+Alesina, Carloni
+and Lecce (2011)
+Government change
+Change in cyclically
+adjusted primary
+deﬁcit
+N.A.
+None
+Macro; 19 OECD
+countries (annual);
+1975-2008
+Arias and
+Stasavage (2019)
+Leader turnover
+Change in
+government
+expenditures
+N.A.
+None
+Macro; 32 countries
+(annual); 1870-2011
+Armingeon and
+Giger (2008)
+Change in vote
+share of government
+party
+Change in welfare
+entitlements / social
+expenditures
+Campaign over
+welfare state
+None / −(if
+campaign)
+Macro; elections in
+18 OECD countries;
+1980-2003
+Bl¨ochliger, Song
+and Sutherland
+(2012)
+Re-election
+Fiscal consolidation
+episode
+N.A.
+Unclear
+Macro; 13 episodes
+in 11 OECD
+countries; 1980-2000
+Giger (2010)
+Vote for government
+party
+Social policy
+attitude
+Government
+performance
+None / −(if
+poor
+performance)
+Micro; 20 elections
+in OECD countries;
+2001-2006
+Giger and Nelson
+(2011)
+Change in vote
+share of government
+parties
+Change in welfare
+entitlements
+Party type
+None / + (if
+religious or
+liberal party)
+Macro; elections in
+18 OECD countries;
+1970-2002
+5
+
+=== page 6 ===
+Giger and Nelson
+(2013)
+Vote for government
+party
+Welfare state beliefs
+N.A.
+None / −(if
+‘unconditional
+believer’)
+Micro; 13 OECD
+countries; 2008
+Schumacher, Vis
+and van
+Kersbergen (2013)
+Change in vote
+share of government
+parties
+Change in welfare
+entitlements
+Party welfare
+state images
+None / −(if
+positive welfare
+image)
+Macro; 269 elections
+in 14 OECD
+countries; 1970 -
+2002
+Talving (2017)
+PM party vote
+intention
+Change in cyclically
+adjusted ﬁscal
+balance
+Pre- / post-
+crisis period
+None / −( if
+post-crisis)
+Micro; 24 OECD
+countries; 2004,
+2009, 2014
+Note: ‘Eﬀect’ refers to impact of independent variable on dependent variable; in studies with intervening variables, the eﬀect
+listed ﬁrst refers to the unconditional eﬀect of the independent variable in models without interaction; the eﬀect listed second
+refers to the conditional eﬀect of the independent variable depending on the value of the intervening variable.
+6
+
+=== page 7 ===
+A.3
+Theoretical Perspectives on Voter Attitudes
+Why Voters Disapprove of Austerity Programs
+The pro-austerian view is grounded in the assumption that voters understand the beneﬁts of
+low deﬁcits and, therefore, ﬁscal consolidation. After all, deﬁcits are critically observed by
+economic investors and lead to higher interest on government debt (Mosley, 2000; Hallerberg
+and Wolﬀ, 2008; Sattler, 2013; Ferrara and Sattler, 2018). Nonetheless, there are multiple
+reasons why voters, contrary to the pro-austerian view, disapprove of austerity programs.
+These reasons raise doubts about the assumption that the costs are small, which means that
+the trade-oﬀbetween ﬁscal austerity and deﬁcits is much sharper than the pro-austerian
+view claims. First, and in line with the previous research on welfare state retrenchment
+(e.g., Immergut, 1992; Pierson, 2001; Vis, 2010), consolidations have strong distributional
+consequences and therefore impose signiﬁcant costs on many voters. Second, the aggregate
+welfare costs of consolidations generally are much larger than the proponents of austerity in
+the economic literature assumes. We discuss each argument in turn.
+A crucial feature of ﬁscal consolidations is that they aﬀect a large share of voters. En-
+compassing ﬁscal adjustments do not just aﬀect selected societal groups, but broad segments
+of society (e.g., Alesina, Perotti and Tavares, 1998, p. 224). If we follow the common as-
+sumption that the median voter is a net receiver of public transfers (Meltzer and Richard,
+1981), then spending cuts should alienate a majority of citizens. Large ﬁscal adjustments
+not only target social policy programs (Armingeon, Guthmann and Weisstanner, 2016), but
+also aﬀect the provision of broad public services, such as infrastructure, health care and
+education (H¨ubscher, 2017, 2018). A similar logic applies to tax increases. An increase in
+income taxation reduces the disposable income of the median voter and everybody who is
+better oﬀthan her. If tax measures also include a decrease of the minimum taxable income
+threshold, then those who are worse oﬀthan the median voter are also negatively aﬀected.
+Voters also have good reasons to object against ﬁscal adjustments because austerity can
+seriously harm economic growth (Chowdhury and Islam, 2012; Guajardo, Leigh and Pesca-
+tori, 2014). According to recent estimates, a consolidation of 1% of GDP reduces real GDP
+by 1.8% to 3.5% over a 5-year period (Jord`a and Taylor, 2016). In addition, austerity in-
+creases inequality, especially through its eﬀect on wages and unemployment (Ball et al., 2013;
+Woo et al., 2013). Voters who evaluate governments based on aggregate economic outcomes,
+thus, should punish governments who implement ﬁscal consolidation. Even if consolidations
+have positive long-term eﬀects as the ECB claims, it is unlikely that an average voter is able
+7
+
+=== page 8 ===
+to project the impact of ﬁscal policy on growth beyond a 5-year window. Macroeconomic
+forecasts over such a long time period are subject to large uncertainty, and voters strongly
+discount delayed, uncertain beneﬁts of policy interventions (Jacobs and Matthews, 2012).
+Overall, this means that voters, on average, should punish governments for ﬁscal aus-
+terity. More precisely, voters are more likely to vote against governments that implement
+austerity policies compared to governments that avoid such policies in similar situations.
+This hypothesis is in line with ﬁndings that governments in fact associate substantial risk
+with ﬁscal austerity (Hallerberg, 2004; H¨ubscher, 2016; H¨ubscher and Sattler, 2017) and with
+the eﬀect of austerity on public protest dynamics during the Euro crisis (Magalhaes, 2014;
+Genovese, Schneider and Wassmann, 2016; Hutter, Kriesi and Vidal, 2018; Bremer, Hutter
+and Kriesi, 2020).
+Voter Heterogeneity
+Although we expect that voters, on average, respond negatively to ﬁscal adjustment, voters
+still diverge in their cost-beneﬁt analysis of austerity for ideological and personal material rea-
+sons.2 Political ideology provides voters with guidance about the potential economic and so-
+cial eﬀects of ﬁscal adjustment.3 In more self-interested terms, voters’ socio-economic status
+may determine how ﬁscal adjustment aﬀects their disposable incomes. In both perspectives,
+the distinction between spending-led and tax-led ﬁscal adjustment is crucial (Grittersov´a
+et al., 2016). This distinction is critical in ideological debates in the economics literature
+about whether and how ﬁscal deﬁcits should be reduced (see Appendix Section A.1). It is
+also critical for the material eﬀects that ﬁscal adjustment has on voters.
+Given the overall complexity of economic processes, it is diﬃcult for voters to properly
+evaluate the economic value of ﬁscal adjustment policies. Voters, therefore, rely on causal
+beliefs about the underlying economic relationships and the role of ﬁscal policy for economic
+performance (Bansak et al., Forthcoming). Left voters tend to see the economy more through
+a Keynesian framework that advocates an active role of the state through counter-cyclical
+2Attitudes towards austerity can also vary across countries depending on the economic
+circumstances of the particular country (Copelovitch, Frieden and Walter, 2016; Walter,
+2015).
+3The literature however, is divided over whether broader political ideology drives pol-
+icy preferences or whether policy preferences instead drive individual’s political ideology
+(Margalit, 2013, p.81).
+8
+
+=== page 9 ===
+ﬁscal policies. Left-wing voters, therefore, should be ideologically more opposed to ﬁscal
+austerity than right-wing voters (Margalit, 2013; Owens and Pedulla, 2014). If they do sup-
+port ﬁscal adjustments, left voters should prefer strategies that preserve state power, e.g. by
+increasing taxes, over those strategies that shrink the government, e.g. by cutting spending.
+In contrast, right-wing voters are more likely to subscribe to a paradigm that promotes min-
+imal state intervention. They, therefore, should be more supportive of austerity measures
+and prefer ﬁscal strategies that limit government size over those that preserve the role of
+government.4
+Besides their political views, voters diﬀer in how much they are personally aﬀected by
+ﬁscal adjustments (Larsen, 2017; Soss and Schram, 2007). Citizens’ socio-economic status,
+e.g. their income, professional and educational background, inﬂuence how much they beneﬁt
+from public and social spending and, hence, their ﬁscal policy preferences (Rehm, Hacker and
+Schlesinger, 2012). Spending cuts most strongly aﬀect low-income citizens, people exposed
+to labor market risk, pensioners and public employees (Rueda, 2005; Aklin and Counselman,
+2017). These citizens should be more likely to oppose spending cuts. In contrast, higher-
+income citizens and those facing less labor market risk are less likely to require social transfer
+payments in the future. In contrast, this latter group is more aﬀected by tax increases than
+the former group. Attitudes towards tax increases, therefore, should be the reverse.
+4The question whether policy preferences drive political ideology or political ideology
+determines someone’s policy preferences remains unanswered. The causal arrow proposed
+here could therefore also be reversed.
+9
+
+=== page 10 ===
+A.4
+Cases
+Two of the countries, Portugal and Spain, recently experienced a debt crisis and received
+signiﬁcant bail-out packages from the international community. While Portugal has been
+enjoying an economic boom since 2016 and has managed to signiﬁcantly reduce its public
+deﬁcit, Spain continues to struggle with relatively high public deﬁcits. Portugal has recov-
+ered much more from the crisis, and unemployment dropped to 7% in Portugal as opposed
+to 16 % in Spain until the time of our survey in Spring 2018. Unlike Spain and Portugal,
+Italy never had to ask for ﬁnancial help to keep serving its public debt or to bail out its
+banking sector. However, Italy experienced a triple dip recession, and some Italian banks
+had to be rescued by the state (e.g. Monte dei Paschi di Siena). More importantly, the
+country’s economy is struggling with competitiveness issues and very high levels of public
+debt (>130% of GDP), which limits the government’s room to manoeuver.
+In the UK, the government had to bail out a number of banks after the ﬁnancial crisis,
+which resulted in a steep increase of the country’s public debt (from 41% of the GDP in
+2007 to almost 88% in 2015). Consequentially, in 2009 the UK ﬁnance minister announced
+the largest deﬁcit in history (£175 billion). To address this situation, the UK government
+implemented a series of ﬁscal adjustment measures during the past decade. The German
+current experience, however, is diﬀerent from that of most other countries. The country saw
+an increase in public debt from 63% in 2007 to 81% in 2010, but the German ﬁscal balance
+has now been in surplus for a number of years and the size of public debt declined to pre-
+crisis levels. Nevertheless, with Germany being a key actor in the way the EU addressed the
+economic crisis, the German public was very susceptible to issues related to public ﬁnances
+and debt. Moreover, large public deﬁcits, ﬁscal consolidations and economic reforms ranked
+high on the political agenda in Germany for many years between the 1990s and 2000s (Manger
+and Sattler, 2020). The current German context, therefore, is diﬀerent from crisis countries,
+but German voters have experienced consolidations and reforms in the past and should be
+aware of their eﬀects.
+Table A2: Summary of Key Country Characteristics
+Country
+Fiscal pressure
+Eurozone
+Bail-out
+Spain
+high
+yes
+yes
+Portugal
+high
+yes
+yes
+Italy
+high
+yes
+no
+UK
+high
+no
+no
+Germany
+low
+yes
+no
+10
+
+=== page 11 ===
+A.5
+Experiment Design – Details
+The surveys were implemented by respondi. Respondents were selected from country-speciﬁc
+online access panels; quotas based on age and gender were implemented. The sample was
+restricted to voting-age nationals under 70.
+In each country, we surveyed around 2,200
+individuals. The next section, A.6; provides more details about the country-speciﬁc panels
+and other aspects of the data collection process.
+A.5.1
+The Vignette Experiment
+Imagine the following scenario taking place two years in the future, in 2020. The [UK / Italy
+/ Spain / Germany / Portugal] has experienced a sizeable deﬁcit in the public budget for
+several years. This has led to a signiﬁcant increase in the level of [the country’s] debt, making it
+economically more costly to provide government programmes such as public pensions, schools and
+healthcare. [The country’s] prime minister then announces in a televised speech how to deal with
+this situation.
+Vignette 1: The prime minister says that the government will take measures to reduce the ﬁscal
+deﬁcit. The main features of this package are:
+• no change in spending on public and social services, such as state pensions,
+unemployment beneﬁts, public infrastructure, and public health care;
+• a strong increase in income taxation.
+Vignette 2: The prime minister says that the government will take measures to reduce the ﬁscal
+deﬁcit. The main features of this package are:
+• a strong decrease in spending on public and social services, such as state pensions
+unemployment beneﬁts, public infrastructure, and public health care;
+• no change in income taxation.
+Vignette 3: The prime minister says that the government will not alter its current policy despite
+the high ﬁscal deﬁcit. Speciﬁcally, the government will undertake
+• no change in spending on public and social services, such as state pensions,
+unemployment beneﬁts, public infrastructure, and public health care;
+• no change in income taxation.
+11
+
+=== page 12 ===
+A.5.2
+The Conjoint Experiment
+Table A3: Example of conjoint analysis task (UK)
+Package A
+Package B
+Party
+Labour Party
+Conservative Party
+Overall situation
+Economic Growth
+[High / Low]
+[High / Low]
+Budget Deﬁcit
+[Low / High]
+[Low / High]
+Spending Cuts
+of which to ...
+Education
+[Small / Large]
+[Small / Large]
+Public Transport / Infrastructure
+[Small / Large]
+[Small / Large]
+Unemployment Beneﬁts
+[Small / Large]
+[Small / Large]
+Health Care
+[Small / Large]
+[Small / Large]
+Pensions
+[Small / Large]
+[Small / Large]
+Tax Increases
+[None /
+[None /
+Across the board /
+Across the board /
+For the wealthy]
+For the wealthy]
+Future improvement of public
+ﬁnances
+[Small / Modest /
+Large]
+[Small / Modest /
+Large]
+12
+
+=== page 13 ===
+A.6
+Online Survey: Fielding phase and weights
+Respondi, a German-based polling ﬁrm administered the ﬁelding of the survey for us. The
+surveys took place between March 12 and March 20, 2018. In addition to their own online
+panels, they tapped into the standing panels from netquest for Spain and Portugal. Respon-
+dents from Germany and the UK come from respondi’s own standing panel. The pool of
+Italian respondents are predominantly part of the Lightspeed panel and respondi’s own pool
+of respondents. The respondi panel in Germany consists of 100.000 people; the panel in the
+UK consists of 45.000 people; the panel size in Spain is 153.000 people, plus respondi’s own
+panel of 15.000 people; the panel in Portugal consists of 8.000 people. The country samples
+are designed to be representative of the country’s population in terms of age (up to 70) and
+gender.
+Survey descriptives and weighting strategy
+Table A4 presents descriptive statistics from the ﬁve surveys as well as descriptive statistics
+from the Wave 7 ESS surveys in each country (apart from Italy, where Wave 6 data is used).
+Non-citizens were excluded and ESS weights used to generate the ESS descriptives. The
+party choice data is from the most recent parliamentary election in each country.
+The survey data is generally representative of each country in terms of gender. The mean
+age is lower, which is to be expected in surveys based on online panels. The education level is
+higher, again a regular feature of online surveys. Recalled vote choice overestimates turnout
+and shows some diﬀerences in terms of the distribution of the vote. This table clearly justiﬁes
+weighting the data in order to arrive at better estimates of treatment eﬀects for the overall
+population.
+We constructed weights using the Stata ado ipfweight, which used iterative proportional
+ﬁtting (also known as raking) to adjust survey descriptives to match known population
+margins (Bergmann, 2011). The tolerance level is 0.05, the maximum weight was set to 4.
+We weighted the survey data so that it matches ESS distributions in terms of: gender x age
+groups (female/male x 18-29, 30-39, 40-49, 50-59, 60-70); sex x region (country-speciﬁc); age
+x region; age x education (18-49, 50-70 x EISCED 1-3b, 4, 5-6); gender x education; and
+party choice. By weighting for, e.g. gender x age group, we automatically also weight for
+gender and age separately.
+As we show below, our results do not diﬀer substantively if these weights are not used.
+13
+
+=== page 14 ===
+Table A4: Survey descriptives compared to ESS data
+Germany
+UK
+Spain
+Variable
+Levels
+Survey
+ESS data
+Survey
+ESS data
+Survey
+ESS data
+Gender
+Male
+49.49
+48.9
+Male
+48.21
+48.68
+Male
+49.81
+48.64
+Female
+50.51
+51.1
+Female
+51.79
+51.32
+Female
+50.19
+51.35
+Age
+Mean
+44.62
+49.43
+Mean
+43.26
+47.89
+Mean
+43.98
+48.48
+Education (ISCED)
+1-3b
+50.25
+68.19
+1-3b
+49.38
+57.96
+1-3b
+38.53
+66.67
+4
+21.65
+16.81
+4
+16.32
+16.81
+4
+16.27
+9.36
+5-6
+28.1
+15
+5-6
+34.3
+25.23
+5-6
+45.21
+23.98
+Party choice
+CDU/CSU
+17.73
+25.15
+Con
+32.11
+29.93
+PP
+15.87
+21.95
+SPD
+19
+15.62
+Lab
+32.86
+28.26
+PSOE
+13.15
+15.04
+FDP
+9.86
+8.15
+Lib Dem
+5.78
+5.21
+Cs
+13.57
+8.68
+Green
+9.69
+6.78
+Other
+9.9
+5.5
+UP
+21.62
+14.05
+Left
+12.1
+7.01
+Did not vote
+19.34
+31.1
+Other
+16.64
+6.75
+AfD
+12.99
+9.6
+Did not vote
+19.15
+33.52
+Other
+5.25
+3.88
+Did not vote
+13.37
+23.8
+Italy
+Portugal
+Variable
+Survey
+ESS data
+Survey
+ESS data
+Gender
+Male
+48.54
+47.6
+Male
+47.18
+46.97
+Female
+51.46
+52.4
+Female
+52.82
+53.02
+Age
+Mean
+45.14
+49.17
+Mean
+44.4
+49.47
+Education (ISCED)
+1-3b
+61.27
+85.85
+1-3b
+48.3
+81.48
+4
+5.06
+2.56
+4
+7.47
+3.37
+5-6
+33.66
+11.59
+5-6
+44.23
+15.16
+Party choice
+M5S
+30.6
+23.82
+PSD/CDS-PP
+23.63
+20.58
+PD
+16.16
+13.65
+PS
+16.63
+18.04
+Lega
+12.59
+12.67
+BE
+8.96
+5.69
+FI
+7.56
+10.22
+CDU
+1.74
+4.61
+FdI
+4.17
+3.17
+Other
+17.45
+6.91
+LiU
+4.21
+2.47
+Did not vote
+31.59
+44.16
+Other
+8.42
+9.4
+Did not vote
+16.29
+27.07
+14
+
+=== page 15 ===
+Un-weighted vs. weighted coeﬃcients
+The following graph shows the weighted (using population weights) and unweighted coef-
+ﬁcients for the baseline model indicating the vote intention of respondents, given a gov-
+ernments proposal to cut spending or implement tax increases, respectively. There are no
+statistically signiﬁcant diﬀerences between the weighted and unweighted estimates. Based
+on this, all models presented show the unweighted coeﬃcients.
+Portugal
+UK
+Germany
+Italy
+Spain
+0
+.1
+.2
+.3
+0
+.1
+.2
+.3
+Tax increase
+Spending cuts
+without weights
+with weights
+Figure A1: Weighted (light grey marker) and unweighted (dark grey marker)
+coeﬃcients including conﬁdence intervals for respondent’s vote
+intention given the government’s proposal to implement tax in-
+creases or spending cuts
+15
+
+=== page 16 ===
+A.7
+Study 1: Additional Analyses
+Table A5 presents the detailed regression results for Study 1. Table A6 then presents results
+including interactions with prior government support, left-right position, and income. In
+order to operationalize educational achievement we rely on country-speciﬁc questions as
+used in the European Social Survey. The country-speciﬁc information is then harmonized
+using the coding scheme proposed by the European Social Survey. Income is measured as a
+‘households’ total net income per month’ informed by the increments used by the European
+Social Survey. Finally, we diﬀerentiate between four diﬀerent employment sectors (public,
+private, non-proﬁt, and self-employed).
+16
+
+=== page 17 ===
+Table A5: Regression results
+Portugal
+UK
+Germany
+Italy
+Spain
+b/se
+b/se
+b/se
+b/se
+b/se
+Tax increases
+0.009
+0.023
+0.097∗∗
+0.108∗∗∗
+0.123∗∗∗
+(0.036)
+(0.028)
+(0.034)
+(0.029)
+(0.032)
+Spending cuts
+0.064
+0.188∗∗∗
+0.198∗∗∗
+0.186∗∗∗
+0.260∗∗∗
+(0.034)
+(0.026)
+(0.032)
+(0.028)
+(0.030)
+Gov supporter
+-0.211∗∗∗
+-0.246∗∗∗
+-0.198∗∗∗
+-0.132∗∗∗
+-0.161∗∗∗
+(0.035)
+(0.028)
+(0.028)
+(0.036)
+(0.040)
+Age
+-0.001
+-0.000
+-0.000
+0.000
+0.001
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+Female
+0.057
+0.022
+0.021
+0.059∗
+0.025
+(0.029)
+(0.022)
+(0.026)
+(0.024)
+(0.025)
+EISCED 2
+0.007
+0.027
+0.054
+0.090
+-0.001
+(0.063)
+(0.110)
+(0.206)
+(0.167)
+(0.056)
+EISCED 3
+0.009
+-0.002
+0.041
+0.154
+-0.014
+(0.057)
+(0.109)
+(0.201)
+(0.166)
+(0.056)
+EISCED 4
+0.072
+0.041
+0.176
+(0.065)
+(0.106)
+(0.165)
+EISCED 5
+0.023
+0.010
+0.048
+0.127
+0.002
+(0.076)
+(0.108)
+(0.202)
+(0.172)
+(0.057)
+EISCED 6
+0.029
+0.054
+-0.099
+0.095
+-0.004
+(0.061)
+(0.107)
+(0.203)
+(0.168)
+(0.057)
+EISCED 7
+0.013
+0.027
+-0.145
+0.134
+-0.006
+(0.059)
+(0.110)
+(0.203)
+(0.166)
+(0.056)
+Left-Right
+0.007
+-0.020∗∗∗
+-0.000
+0.000
+-0.014∗
+(0.007)
+(0.006)
+(0.006)
+(0.005)
+(0.006)
+Income
+0.008
+-0.013∗∗
+0.003
+-0.004
+-0.012∗∗
+(0.006)
+(0.004)
+(0.005)
+(0.005)
+(0.004)
+Constant
+0.627∗∗∗
+0.703∗∗∗
+0.662∗∗
+0.446∗∗
+0.634∗∗∗
+(0.092)
+(0.117)
+(0.209)
+(0.172)
+(0.081)
+R-squared
+0.047
+0.121
+0.097
+0.048
+0.103
+N
+2055.000
+2084.000
+1553.000
+2123.000
+2158.000
+Standard errors in parentheses. Baseline categories: Types of consolidation:
+do nothing; Level of Education: low; income is treated as continuous.
+17
+
+=== page 18 ===
+Table A6: Regression results
+Portugal
+UK
+Germany
+Italy
+Spain
+b/se
+b/se
+b/se
+b/se
+b/se
+Tax increases
+0.154
+-0.094
+0.053
+0.049
+0.137∗
+(0.096)
+(0.078)
+(0.088)
+(0.073)
+(0.063)
+Spending cuts
+0.326∗∗∗
+0.357∗∗∗
+0.259∗∗
+0.386∗∗∗
+0.413∗∗∗
+(0.095)
+(0.067)
+(0.087)
+(0.064)
+(0.057)
+Left-Right
+0.037∗∗
+-0.016
+-0.003
+0.006
+-0.002
+(0.012)
+(0.010)
+(0.012)
+(0.009)
+(0.011)
+Tax incr x LR
+-0.032
+0.028
+0.016
+0.015
+-0.002
+(0.017)
+(0.016)
+(0.016)
+(0.012)
+(0.015)
+Cuts x LR
+-0.056∗∗
+-0.034∗
+-0.010
+-0.035∗∗
+-0.037∗
+(0.017)
+(0.014)
+(0.016)
+(0.011)
+(0.015)
+Income
+0.001
+-0.027∗∗∗
+0.006
+-0.006
+-0.012
+(0.010)
+(0.007)
+(0.009)
+(0.009)
+(0.009)
+Tax incr x income
+0.016
+0.025∗
+-0.000
+-0.005
+-0.010
+(0.014)
+(0.010)
+(0.012)
+(0.012)
+(0.011)
+Cuts x income
+0.004
+0.015
+-0.007
+0.014
+0.012
+(0.013)
+(0.009)
+(0.012)
+(0.012)
+(0.010)
+Gov supporter
+-0.236∗∗∗
+-0.241∗∗∗
+-0.161∗∗
+-0.045
+-0.157∗
+(0.061)
+(0.049)
+(0.053)
+(0.062)
+(0.071)
+Tax incr x Gov. supp.
+0.063
+-0.057
+-0.084
+-0.155
+-0.046
+(0.086)
+(0.068)
+(0.072)
+(0.089)
+(0.102)
+Cuts x Gov. supp.
+0.018
+0.030
+-0.031
+-0.103
+0.054
+(0.082)
+(0.065)
+(0.070)
+(0.083)
+(0.095)
+Age
+-0.001
+-0.000
+-0.000
+-0.000
+0.001
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+(0.001)
+Female
+0.057∗
+0.022
+0.022
+0.056∗
+0.025
+(0.029)
+(0.022)
+(0.026)
+(0.024)
+(0.025)
+EISCED 2
+0.002
+0.026
+0.054
+0.074
+-0.001
+(0.063)
+(0.108)
+(0.214)
+(0.172)
+(0.055)
+EISCED 3
+0.003
+-0.006
+0.040
+0.137
+-0.010
+(0.057)
+(0.107)
+(0.209)
+(0.171)
+(0.054)
+EISCED 4
+0.074
+0.041
+0.156
+(0.065)
+(0.105)
+(0.170)
+EISCED 5
+0.021
+0.006
+0.049
+0.123
+0.007
+(0.077)
+(0.106)
+(0.210)
+(0.176)
+(0.056)
+EISCED 6
+0.024
+0.052
+-0.100
+0.077
+0.002
+(0.061)
+(0.106)
+(0.211)
+(0.173)
+(0.056)
+EISCED 7
+0.004
+0.018
+-0.144
+0.113
+-0.005
+(0.060)
+(0.108)
+(0.211)
+(0.171)
+(0.055)
+Constant
+0.494∗∗∗
+0.682∗∗∗
+0.656∗∗
+0.425∗
+0.584∗∗∗
+(0.107)
+(0.123)
+(0.220)
+(0.182)
+(0.090)
+R-squared
+0.059
+0.133
+0.101
+0.068
+0.113
+N
+2055.000
+2084.000
+1553.000
+2123.000
+2158.000
+Standard errors in parentheses. Baseline categories: Types of consoli-
+dation: do nothing; Level of Education: low; income is treated as con-
+tinuous.
+18
+
+=== page 19 ===
+1
+1.5
+2
+2.5
+3
+ 
+ 
+Germany
+1
+1.5
+2
+2.5
+3
+ 
+ 
+UK
+1
+1.5
+2
+2.5
+3
+ 
+ 
+Italy
+1
+1.5
+2
+2.5
+3
+ 
+ 
+Spain
+1
+1.5
+2
+2.5
+3
+ 
+ 
+Portugal
+Approval of policy proposal
+No action
+Tax increases
+Spending cuts
+Figure A2: Voter approval of ﬁscal policy decisions, by ﬁscal adjustment type; y-axis shows average approval
+rate for the diﬀerent ﬁscal policy propositions; approval ranges from 1 (‘strongly disapprove’) to
+5 (‘strongly approve’).
+19
+
+=== page 20 ===
+.2
+.4
+.6
+.8
+1
+0
+2
+4
+6
+8
+10
+income
+Tax increase
+Cuts
+UK
+.2
+.4
+.6
+.8
+1
+0
+2
+4
+6
+8
+10
+income
+Tax increase
+Cuts
+Portugal
+.2
+.4
+.6
+.8
+1
+0
+2
+4
+6
+8
+10
+income
+Tax increase
+Cuts
+Germany
+.2
+.4
+.6
+.8
+1
+0
+2
+4
+6
+8
+10
+income
+Tax increase
+Cuts
+Italy
+.2
+.4
+.6
+.8
+1
+0
+2
+4
+6
+8
+10
+income
+Tax increase
+Cuts
+Spain
+Vote against government, by income
+Figure A3: Eﬀect of tax increases (gray) and spending cuts (black) on government vote
+intentions as left-right position of voters changes; eﬀect shows how voting
+changes relative to ‘no action’ as voters become more right-wing; point pre-
+dictions with 95% conﬁdence interval
+20
+
+=== page 21 ===
+A.8
+Study 2: Additional Analyses and Conjoint Screenshots
+In what follows we present a series of additional results and robustness checks for study 2.
+In particular:
+• we present results from a model where all ﬁve surveys are pooled (Figure A4, Figure A5
+and Figure A6);
+• we replicate model 4 and 5 in the paper excluding ‘implausible’ policy packages (Fig-
+ure A7 and Figure A8);
+• we present the approval for policy proposals (cuts in spending and tax increases) con-
+ditional on voters’ left-right self-placement (Figure A9 and Figure A10);
+• we examine the impact on vote intention across diﬀerent economic contexts (good vs.
+bad) (Figure A11);
+• we examine the impact on vote intention diﬀerent policy proposals have across diﬀerent
+party platforms (Figure A12);
+• we split the sample to assess whether voters react diﬀerently to proposals from ‘their’
+ideologically preferred party (Figure A13 and Figure A14);
+• we further assess the impact of individual level heterogeneity on people’s vote intention.
+Speciﬁcally:
+– level of income (Figure A15)
+– educational background (Figure A16)
+– employment sector (Figure A17)
+• and we analyse whether the impact of spending cuts depends on the level of tax in-
+creases (Figure A18, Figure A19, Figure A20 and Figure A21).
+All ﬁgures apart Figure A5 and Figure A6 represent weighted estimates and include the
+following individual level controls: age, gender, and educational attainment. We excluded
+these controls from Figure A5 and Figure A6 because the margins command could not
+compute predicted interaction eﬀects in Stata in these more complicated models.
+Pooled model
+These ﬁrst Figures present results from pooled models without (Figure A4) and with inter-
+actions with indicators for each country (Figure A5, Figure A6). These results are consistent
+with the results presented in the main text.
+21
+
+=== page 22 ===
+Ref: Small
+Ref: None
+Spending cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.05
+0
+.05
+Impact on vote intention for policy proposal
+Figure A4: Pooled Model: Vote intentions based on ﬁscal policy proposals;
+x-axis shows eﬀect on vote intention for party in %.
+22
+
+=== page 23 ===
+GER
+UK
+POR
+ESP
+ITA
+Country
+-.05
+-.04
+-.03
+-.02
+-.01
+0
+Effect of large cuts
+Health care cuts
+GER
+UK
+POR
+ESP
+ITA
+Country
+-.04
+-.03
+-.02
+-.01
+0
+.01
+Effect of large cuts
+Pension cuts
+GER
+UK
+POR
+ESP
+ITA
+Country
+-.04
+-.03
+-.02
+-.01
+0
+.01
+Effect of large cuts
+Education cuts
+GER
+UK
+POR
+ESP
+ITA
+Country
+-.02
+-.01
+0
+.01
+Effect of large cuts
+Unemp. benefits cuts
+GER
+UK
+POR
+ESP
+ITA
+Country
+-.01
+0
+.01
+.02
+Effect of large cuts
+Infrastructure cuts
+Effects of spending cuts, pooled model
+Figure A5: Pooled Model: Vote intentions based on proposals for spending cuts by country; x-axis shows eﬀect on vote intention for
+party in %.
+23
+
+=== page 24 ===
+GER
+UK
+POR
+ESP
+ITA
+Country
+-.04
+-.02
+0
+.02
+.04
+.06
+Effect of Tax increases
+Across the board
+Wealthy only
+Tax increases
+Figure A6: Pooled Model: Vote intentions based on tax increase proposals,
+by country; x-axis shows eﬀect on vote intention for party in %.
+‘Implausible’ Policy Combinations
+Due to the fact that all policy attributes (diﬀerent types of spending cuts and tax increases)
+included in our conjoint are randomly assigned to the respective party platform, there is the
+possibility that respondents have to evaluate ‘implausible’ policy mixes. Such ‘implausible’
+policy mixes can occur for both policy platform. The most obvious, implausible scenarios
+that can occur within our conjoint are the following:
+Scenario a) a conservative party suggesting consolidation only through tax increases across
+the board without adding any cuts in spending, or
+Scenario b) a leftist party suggesting consolidation through spending cuts only without any
+tax increase.
+The table below shows how often these ‘extreme’ scenarios occur in our data:
+24
+
+=== page 25 ===
+Ref: Small
+Ref: None
+Spending cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment beneﬁts
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Impact on vote intention for proposed policy proposal
+Germany
+Ref: Small
+Ref: None
+Spending cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment beneﬁts
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Impact on vote intention for proposed policy proposal
+UK
+Ref: Small
+Ref: None
+Spending cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment beneﬁts
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Impact on vote intention for proposed policy proposal
+Spain
+Ref: Small
+Ref: None
+Spending cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment beneﬁts
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Impact on vote intention for proposed policy proposal
+Italy
+Ref: Small
+Ref: None
+Spending cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment beneﬁts
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Impact on vote intention for proposed policy proposal
+Portugal
+Replication of ﬁgure 4 in paper (excluding implausible scenarios)
+Figure A7: Vote intentions based on ﬁscal policy proposals, by diﬀerent types
+of ﬁscal adjustment, excluding ‘implausible’ policy combinations;
+x-axis shows eﬀect on vote intention for party in %.
+Total no observations*
+Scenario a
+Scenario b
+Portugal
+24240
+107
+121
+Italy
+23630
+109
+132
+Spain
+23600
+109
+91
+Germany
+23730
+108
+109
+UK
+24230
+99
+108
+In order to test whether the inclusion of these ‘implausible’ scenarios aﬀect our results,
+we excluded them from the models underlying ﬁgure 4 and 5 in the paper and reproduce
+the graphs that are included in the main paper. As the following ﬁgures (A6 and A7) show,
+excluding these scenarios does not change our results.
+Naturally, there are various degrees of ‘implausibility’ and – based on this – a number of
+other scenarios could be excluded from the analysis. However, there is a lot of variation in
+the way ﬁscal consolidation packages are designed, with the majority of packages including
+both tax- and spending-based consolidation measures. It is therefore diﬃcult to deﬁne ‘clear
+25
+
+=== page 26 ===
+Ref: Small
+Ref: None
+Large cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment beneﬁts
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Impact on vote for party
+Left-wing voter (<5)
+Right-wing voter (>5)
+Germany
+Ref: Small
+Ref: None
+Large cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment beneﬁts
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Impact on vote for party
+Left-wing voter (<5)
+Right-wing voter (>5)
+UK
+Ref: Small
+Ref: None
+Large cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment beneﬁts
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Impact on vote for party
+Left-wing voter (<5)
+Right-wing voter (>5)
+Spain
+Ref: Small
+Ref: None
+Large cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment beneﬁts
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Impact on vote for party
+Left-wing voter (<5)
+Right-wing voter (>5)
+Italy
+Ref: Small
+Ref: None
+Large cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment beneﬁts
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Impact on vote for party
+Left-wing voter (<5)
+Right-wing voter (>5)
+Portugal
+Replication of ﬁgure 5 in paper (excluding implausible scenarios)
+Figure A8: Vote intentions based on ﬁscal policy proposals, by diﬀerent types
+of ﬁscal adjustment, excluding ‘implausible’ policy combinations;
+x-axis shows eﬀect on vote intention for party in %.
+26
+
+=== page 27 ===
+cut’ leftist or ‘clear cut’ conservative approaches to consolidation which could help us to
+identify a further set of non-controversial ‘implausible’ policy packages.
+In order to further support the above point, the following table lists consolidation events
+that are exclusively tax- or spending based and the type of party government that imple-
+mented the package. This table is based on information from the data on ﬁscal consolidation
+events collected by Devries et al. (2011).
+Table A7: Exclusively Tax- or Spending-Based Consolidations
+Purely Spending Based Reforms
+Purely Tax Based Reforms
+Country
+Year
+Coalition
+Country
+Year
+Coalition
+Netherlands
+1982
+Christian Democrats & Demo-
+cratic Party (D66)
+USA
+1978
+Democrats
+Netherlands
+1984
+Christian Democrats & Peo-
+ple’s Party
+USA
+1980
+Democrats
+Netherlands
+1985
+Christian Democrats & Peo-
+ple’s Party
+USA
+1981
+Republicans
+Netherlands
+1986
+Christian Democrats & Peo-
+ple’s Party
+USA
+1985
+Republicans
+USA
+1986
+Republicans
+Finland
+1992
+Centre
+Party
+&
+Christian
+Democrats & Swedish People’s
+Party
+&
+National
+Coalition
+Party
+France
+1979
+Gaullists
+Finland
+1993
+Centre
+Party
+&
+Christian
+Democrats & Swedish People’s
+Party
+&
+National
+Coalition
+Party
+France
+1988
+Socialist Party
+Finland
+1996
+Social Democrats & Left Al-
+liance & Green Party
+France
+1999
+Socialist Coalition
+France
+2000
+Socialist Coalition
+Conditional eﬀects
+This section presents results for Study 2 conditional on voters’ left-right position, economic
+context and socio-demographic attributes. We also present results for the interaction between
+tax increases and spending cuts.
+27
+
+=== page 28 ===
+-.25
+-.2
+-.15
+-.1
+-.05
+0
+.05
+.1
+Effects on Linear Prediction
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+Left-Right scale
+Germany
+-.25
+-.2
+-.15
+-.1
+-.05
+0
+.05
+.1
+Effects on Linear Prediction
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+Left-Right scale
+UK
+-.25
+-.2
+-.15
+-.1
+-.05
+0
+.05
+.1
+Effects on Linear Prediction
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+Left-Right scale
+Spain
+-.25
+-.2
+-.15
+-.1
+-.05
+0
+.05
+.1
+Effects on Linear Prediction
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+Left-Right scale
+Italy
+-.25
+-.2
+-.15
+-.1
+-.05
+0
+.05
+.1
+Effects on Linear Prediction
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+Left-Right scale
+Portugal
+Figure A9: Approval for policy proposal (cuts in spending) conditional on voter
+left-right position; x-axis shows predicted approval of the proposal
+on a 1-5 scale.
+In this graph we present the cumulative eﬀect when all ﬁve spending items are taken together. This variable can take a
+value between 0 and 5, where 0 means that the policy proposal did not include any cuts and 5 implies that the policy proposal
+included cuts in all ﬁve spending areas.
+28
+
+=== page 29 ===
+-.3
+-.2
+-.1
+0
+.1
+.2
+.3
+.4
+.5
+.6
+Effects on Linear Prediction
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+Left-Right scale
+Across board
+Wealthy only
+Germany
+-.3
+-.2
+-.1
+0
+.1
+.2
+.3
+.4
+.5
+.6
+Effects on Linear Prediction
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+Left-Right scale
+Across board
+Wealthy only
+UK
+-.3
+-.2
+-.1
+0
+.1
+.2
+.3
+.4
+.5
+.6
+Effects on Linear Prediction
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+Left-Right scale
+Across board
+Wealthy only
+Spain
+-.3
+-.2
+-.1
+0
+.1
+.2
+.3
+.4
+.5
+.6
+Effects on Linear Prediction
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+Left-Right scale
+Across board
+Wealthy only
+Italy
+-.3
+-.2
+-.1
+0
+.1
+.2
+.3
+.4
+.5
+.6
+Effects on Linear Prediction
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+Left-Right scale
+Across board
+Wealthy only
+Portugal
+Figure A10: Approval for policy proposal (tax increase) conditional on voter left-right position; x-axis
+shows predicted approval of the proposal on a 1-5 scale.
+29
+
+=== page 30 ===
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Large
+Large
+Large
+Large
+Large
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Germany
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Large
+Large
+Large
+Large
+Large
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+UK
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Large
+Large
+Large
+Large
+Large
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Spain
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Large
+Large
+Large
+Large
+Large
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Italy
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Large
+Large
+Large
+Large
+Large
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Portugal
+Effect of party proposing measure and its interaction with voter party support not shown
+Impact on vote intention over different economic contexts
+Negative economic/budgetary situation
+Positive economic/budgetary situation
+Figure A11: Vote intentions based on ﬁscal policy proposals, by ﬁscal adjustment type; x-axis shows eﬀect on vote
+intention for party in %.
+30
+
+=== page 31 ===
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Germany
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+UK
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Spain
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Italy
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Portugal
+Effect of party proposing measure and its interaction with voter party support not shown
+Impact on vote intention according to party proposing policy package
+Proposal by Conservative Party
+Proposal by Left Party
+Figure A12: Vote intentions based on ﬁscal policy proposals, by ﬁscal adjustment type; x-axis shows eﬀect on vote
+intention for party in %.
+31
+
+=== page 32 ===
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Germany
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+UK
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Spain
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Italy
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Portugal
+Effect of party proposing measure and its interaction with voter party support not shown
+Impact on vote intention according by over voter ideology (proposal by conservative party)
+Leftist Voters
+Conservative Voters
+Figure A13: Vote intentions based on ﬁscal policy proposals, by ﬁscal adjustment type; x-axis shows eﬀect on vote
+intention for party in %.
+32
+
+=== page 33 ===
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Germany
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+UK
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Spain
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Italy
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Portugal
+Effect of party proposing measure and its interaction with voter party support not shown
+Impact on vote intention according by over voter ideology (proposal by leftist party)
+Leftist Voters
+Conservative Voters
+Figure A14: Vote intentions based on ﬁscal policy proposals, by ﬁscal adjustment type; x-axis shows eﬀect on vote
+intention for party in %.
+33
+
+=== page 34 ===
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Germany
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+UK
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Spain
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Italy
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+Portugal
+(The effect of the party proposing the measures and its interaction with voter party support is not shown)
+Impact on vote intention by different levels of income
+Low income
+High income
+Figure A15: Vote intentions based on ﬁscal policy proposals, by ﬁscal adjustment type; x-axis shows eﬀect on vote
+intention for party in %.
+34
+
+=== page 35 ===
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+.15
+Germany
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+.15
+UK
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+.15
+Spain
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+.15
+Italy
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.1
+-.05
+0
+.05
+.1
+.15
+Portugal
+(The effect of the party proposing the measures and its interaction with voter party support is not shown)
+Impact on vote intention by different levels of education
+Education: low
+Education: medium
+Education: high
+Figure A16: Vote intentions based on ﬁscal policy proposals, by ﬁscal adjustment type; x-axis shows eﬀect on vote
+intention for party in %.
+35
+
+=== page 36 ===
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.15 -.1 -.05
+0
+.05
+.1
+.15
+Germany
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.15 -.1 -.05
+0
+.05
+.1
+.15
+UK
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.15 -.1 -.05
+0
+.05
+.1
+.15
+Spain
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.15 -.1 -.05
+0
+.05
+.1
+.15
+Italy
+Ref: Small
+Ref: None
+Budget cuts
+Tax increase
+Public health care
+Public pensions
+Education
+Unemployment benefits
+Public infrastructure
+Across the board
+For wealthy only
+-.15 -.1 -.05
+0
+.05
+.1
+.15
+Portugal
+(The effect of the party proposing the measures and its interaction with voter party support is not shown)
+Impact on vote intention by employment sector
+Sector: public
+Sector: private
+Sector: non-profit
+Sector: self-employed
+Figure A17: Vote intentions based on ﬁscal policy proposals, by ﬁscal adjustment type; x-axis shows eﬀect on vote
+intention for party in %.
+36
+
+=== page 37 ===
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.06
+-.04
+-.02
+0
+.02
+Effect of large cuts
+Health care cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.06
+-.04
+-.02
+0
+Effect of large cuts
+Pension cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.05
+0
+.05
+Effect of large cuts
+Education cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.04
+-.02
+0
+.02
+Effect of large cuts
+Unemp. benefits cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.02
+-.01
+0
+.01
+.02
+.03
+Effect of large cuts
+Infrastructure cuts
+Germany
+Figure A18: Vote intentions based on large spending cuts, by type of tax increase; x-axis shows eﬀect on vote intention
+for party in %.
+37
+
+=== page 38 ===
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.06
+-.04
+-.02
+0
+Effect of large cuts
+Health care cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.05
+-.04
+-.03
+-.02
+-.01
+0
+Effect of large cuts
+Pension cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.06
+-.04
+-.02
+0
+.02
+Effect of large cuts
+Education cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.03
+-.02
+-.01
+0
+.01
+.02
+Effect of large cuts
+Unemp. benefits cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.04
+-.02
+0
+.02
+.04
+Effect of large cuts
+Infrastructure cuts
+UK
+Figure A19: Vote intentions based on large spending cuts, by type of tax increase; x-axis shows eﬀect on vote intention
+for party in %.
+38
+
+=== page 39 ===
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.08
+-.06
+-.04
+-.02
+0
+.02
+Effect of large cuts
+Health care cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.06 -.04 -.02
+0
+.02
+.04
+Effect of large cuts
+Pension cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.06
+-.04
+-.02
+0
+Effect of large cuts
+Education cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.06
+-.04
+-.02
+0
+.02
+.04
+Effect of large cuts
+Unemp. benefits cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.04
+-.02
+0
+.02
+.04
+Effect of large cuts
+Infrastructure cuts
+Portugal
+Figure A20: Vote intentions based on large spending cuts, by type of tax increase; x-axis shows eﬀect on vote intention
+for party in %.
+39
+
+=== page 40 ===
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.06
+-.04
+-.02
+0
+.02
+Effect of large cuts
+Health care cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.04
+-.03
+-.02
+-.01
+0
+.01
+Effect of large cuts
+Pension cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.03
+-.02
+-.01
+0
+.01
+Effect of large cuts
+Education cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.04
+-.02
+0
+.02
+.04
+Effect of large cuts
+Unemp. benefits cuts
+None
+Across the board
+For wealthy only
+Type of tax cuts
+-.04
+-.02
+0
+.02
+.04
+Effect of large cuts
+Infrastructure cuts
+Spain
+Figure A21: Vote intentions based on large spending cuts, by type of tax increase; x-axis shows eﬀect on vote intention
+for party in %.
+40
+
+=== page 41 ===
+Figure A22: Conjoint Screenshots
+The introductory screen read: Finally, we will now show you a series of diﬀerent economic policy propositions – one proposed
+by the Labour Party and the other proposed by the Conservative Party. These policy propositions are more complex than the
+ones in the previous examples because they vary in diﬀerent aspects. For instance, the parties can propose to cut spending
+in diﬀerent policy areas or to increase taxes for diﬀerent citizens. The scenarios also vary in terms of how well the economic
+is doing and how large the deﬁcit in the public budget is. Please indicate your approval or disapproval of these packages and
+which party you would vote for. Attention: You can only proceed to the next screen after 5 seconds.
+41
+
+=== page 42 ===
+A.9
+Conjoint Diagnostics
+In this section, we report the key results of a series of conjoint diagnostic tests we carried
+out as recommended by Hainmueller et al. (2013).
+No Carry Over Eﬀects
+This test assesses the assumption that respondents prioritize the same policy packages as
+long as these packages include the same policies, regardless of which policy packages they
+had seen before or would see later. This essentially means that the current choice is not
+aﬀected by the last choice task and will have no eﬀect on the future choice task. For testing
+the assumption that no carry over eﬀects between choice tasks exist, we interact each policy
+attribute (economic growth, budget deﬁcit; spending cuts in: education, infrastructure,
+unemployment beneﬁts, health care, pension; tax increase, and future impact) with the
+diﬀerent choice task variable.
+We then use an F-test for the joint signiﬁcance of these
+interactions. We ﬁnd that the F-test fails to reject the null hypothesis of no interaction
+between the choice task indicators and the speciﬁc policy attributes of the retrenchment
+packages for most countries and most attributes. However, for the German and Spanish
+data, there were signiﬁcant interaction terms between the tax increase variable and the
+choice task variable, and in the UK for the future impact and choice task. When further
+investigating these interaction terms, there are no consistent patters for the Spain case. The
+UK case for the impact and choice task interaction also showed no patterns in the coeﬃcients
+when the impact variable was interacted with each task variable (resulting in 5 models for
+the 5 choice tasks).
+Proﬁle Order Eﬀects
+The average marginal components eﬀects (AMCE) that we report are based on the assump-
+tion that respondents make no diﬀerence between the packages whether they are presented
+in the ﬁrst, second or the third (etc.) place. This means that shuﬄing, in which order
+the diﬀerent packages are shown to the respondents does not have an eﬀect on the choices
+respondents make. The proﬁle order tests were carried out in a similar manner as the carry
+over tests, where we interacted our IVs with the variable indicating the order of the party
+proﬁles. The assumption is that this order should not have any eﬀect on the coeﬃcient of
+the policy variables. With the exception of the UK, the F-tests show no statistically signif-
+icant (for p < 0.05) eﬀects for the interactions in the ﬁve countries and IVs. For the UK,
+the coeﬃcient on unemployment beneﬁts is statistically signiﬁcant (p= 0.026) if the package
+presented ﬁrst comes from the conservative party.
+42
+
+=== page 43 ===
+Randomization of the Proﬁles
+A randomized conjoint analysis should, by design, yield unbalanced groups over a number
+of respondent characteristics. We thus check whether consolidation package attributes are
+balanced across observable respondent characteristics such as age, income, and political
+views. Due to the fact that we are working with categorical data we cross-tabulated the
+respondent’s observable characteristics with the policy options. The test was a χ2 statistic
+to check whether respondent attributes and policy options are independent. By and large, the
+tests showed no signiﬁcance at the p < 0.05 level, with the exception of the growth/budget
+deﬁcit-attribute (they are the inverse of each other) and gender for Germany. For the UK
+and Italy, the growth/budget deﬁcit variable is related to the age of the respondents, whereas
+in Italy to income. However, after examining the cross-tabulations for these variables, the
+diﬀerences in the row proportions are 3-5 percentage points, which still indicates a good
+balance in our experimental groups.
+Cross-contamination of experiments
+We ran Study 2 in the same survey as Study 1. In order to check whether Study 2 was
+‘contaminated’ by the treatment group respondents were assigned to in Study 1, we interact
+Study 1 treatment groups with Study 2 treatments.
+As the following Figures show, no
+systematic eﬀects were found.
+43
+
+=== page 44 ===
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.04
+-.03
+-.02
+-.01
+0
+.01
+Effect of large cuts
+Health care cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.05
+-.04
+-.03
+-.02
+-.01
+0
+Effect of large cuts
+Pension cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.04
+-.02
+0
+.02
+.04
+Effect of large cuts
+Education cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.02
+-.01
+0
+.01
+.02
+Effect of large cuts
+Unemp. benefits cuts
+Tax increase
+Cuts
+No action
+Type of Study 1 vignette
+-.02
+0
+.02
+.04
+Effect of large cuts
+Infrastructure cuts
+Germany
+Figure A19: Vote intentions based on large spending cuts, by Study 1 treatment group; x-axis shows eﬀect on vote
+intention for party in %.
+44
+
+=== page 45 ===
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.08
+-.06
+-.04
+-.02
+0
+Effect of large cuts
+Health care cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.06
+-.04
+-.02
+0
+.02
+Effect of large cuts
+Pension cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.04
+-.03
+-.02
+-.01
+0
+.01
+Effect of large cuts
+Education cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.03
+-.02
+-.01
+0
+.01
+.02
+Effect of large cuts
+Unemp. benefits cuts
+Tax increase
+Cuts
+No action
+Type of Study 1 vignette
+-.02
+-.01
+0
+.01
+.02
+.03
+Effect of large cuts
+Infrastructure cuts
+UK
+Figure A20: Vote intentions based on large spending cuts, by Study 1 treatment group; x-axis shows eﬀect on vote
+intention for party in %.
+45
+
+=== page 46 ===
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.05
+-.04
+-.03
+-.02
+-.01
+0
+Effect of large cuts
+Health care cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.05
+-.04
+-.03
+-.02
+-.01
+0
+Effect of large cuts
+Pension cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.05
+-.04
+-.03
+-.02
+-.01
+Effect of large cuts
+Education cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.04
+-.02
+0
+.02
+.04
+Effect of large cuts
+Unemp. benefits cuts
+Tax increase
+Cuts
+No action
+Type of Study 1 vignette
+-.04
+-.02
+0
+.02
+.04
+Effect of large cuts
+Infrastructure cuts
+Portugal
+Figure A21: Vote intentions based on large spending cuts, by Study 1 treatment group; x-axis shows eﬀect on vote
+intention for party in %.
+46
+
+=== page 47 ===
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.03
+-.02
+-.01
+0
+Effect of large cuts
+Health care cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.03
+-.02
+-.01
+0
+.01
+Effect of large cuts
+Pension cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.03
+-.02
+-.01
+0
+.01
+Effect of large cuts
+Education cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.03
+-.02
+-.01
+0
+.01
+.02
+Effect of large cuts
+Unemp. benefits cuts
+Tax increase
+Cuts
+No action
+Type of Study 1 vignette
+-.02
+-.01
+0
+.01
+.02
+.03
+Effect of large cuts
+Infrastructure cuts
+Spain
+Figure A22: Vote intentions based on large spending cuts, by Study 1 treatment group; x-axis shows eﬀect on vote
+intention for party in %.
+47
+
+=== page 48 ===
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.03
+-.02
+-.01
+0
+.01
+Effect of large cuts
+Health care cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.02
+-.01
+0
+.01
+.02
+Effect of large cuts
+Pension cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.02
+-.01
+0
+.01
+.02
+Effect of large cuts
+Education cuts
+Tax increase
+Cuts
+No action
+Type of tax cuts
+-.02
+-.01
+0
+.01
+.02
+.03
+Effect of large cuts
+Unemp. benefits cuts
+Tax increase
+Cuts
+No action
+Type of Study 1 vignette
+-.02
+-.01
+0
+.01
+.02
+Effect of large cuts
+Infrastructure cuts
+Italy
+Figure A23: Vote intentions based on large spending cuts, by Study 1 treatment group; x-axis shows eﬀect on vote
+intention for party in %.
+48
+
+=== page 49 ===
+References
+Aklin, Michael and Josh Counselman. 2017. “Who Cuts What? Partisanship and Austerity
+Since 2008.” Paper presented at the Annual Meeting of the Midwest Political Science
+Association, Chicago.
+Alesina, Alberto, Carlo Favero and Francesco Giavazzi. 2019. Austerity: When It Works
+and When It Does Not. Princeton: Princeton University Press.
+Alesina, Alberto, Dorian Carloni and Giampaolo Lecce. 2011. “The Electoral Consequences
+of Large Fiscal Adjustments.” NBER Working Paper No. 17655.
+Alesina, Alberto, Roberto Perotti and Jos´e Tavares. 1998. “The Political Economy of Fiscal
+Adjustments.” Brookings Papers of Economic Activity (Spring):197–248.
+Arias, Eric and David Stasavage. 2019. “How Large Are the Political Costs of Fiscal Aus-
+terity.” Journal of Politics 81(4):1517–1522.
+Armingeon, Klaus, Kai Guthmann and David Weisstanner. 2016. “Choosing the Path of
+Austerity: A Neo-Functionalist Explanation of Welfare-policy Choices in Periods of Fiscal
+Consolidation.” West European Politics 39(4):628–647.
+Armingeon, Klaus and Nathalie Giger. 2008. “Conditional Punishment: A Comparative
+Analysis of the Electoral Consequences of Welfare State Retrenchment in OECD Nations,
+1980-2003.” West European Politics 31(3):558–580.
+Ball, Laurence, Davide Furceri, Daniel Leigh and Prakash Loungani. 2013. “The Distribu-
+tional Eﬀects of Fiscal Consolidation.” IMF Working Paper 13/151.
+Bansak, Kirk, Michael Bechtel, Jens Hainmueller and Yotam Margalit. Forthcoming. “The
+Ideological Basis of the Grexit Debate.” Journal of Politics . Stanford University Graduate
+School of Business Research Paper No. 16-9.
+Bergmann, M. 2011. “ipfweight: Stata module to create adjustment weights for surveys.
+Statistical Software Components S457353, Department of Economics, Boston College.”.
+Bl¨ochliger, Hansj¨org, Dae-Ho Song and Douglas Sutherland. 2012. “Fiscal Consolidation:
+Part 4. Case Studies of Large Fiscal Consolidation Episodes.” OECD Economics Depart-
+ment Working Paper No. 935.
+49
+
+=== page 50 ===
+Bodea, Cristina and Masaaki Higashijima. 2017. “Central Bank Independence and Fiscal
+Policy: Can the Central Bank Restrain Deﬁcit Spending?” British Journal of Political
+Science 47(1):47–70.
+Bojar, Abel, Bj¨orn Bremer, Hanspeter Kriesi and Chendi Wang. 2018. “The Eﬀect of Aus-
+terity Packages on Government Popularity during the Great Recession.” Paper presented
+at the annual conference of the Society for the Advancement of Socio-Economics (SASE),
+June 23-25, Kyoto.
+Bremer, Bj¨orn, Swen Hutter and Hanspeter Kriesi. 2020. “Dynamics of protest and electoral
+politics in the Great Recession.” European Journal of Political Research (online).
+Chowdhury, Anis and Iyanatul Islam. 2012.
+“The Debate on Expansionary Fiscal Con-
+solidation: How Robust Is the Evidence?” The Economic and Labour Relations Review
+23(3):13–38.
+Copelovitch, Mark, Jeﬀry Frieden and Stefanie Walter. 2016. “The Political Economy of the
+Euro Crisis.” Comparative Political Studies 49(7):811–840.
+Devries, Pete, Jaime Guajardo, Daniel Leigh and Andrea Pescatori. 2011. “A New Action-
+Based Dataset of Fiscal Consolidation.” IMF Working Paper 11/128.
+ECB. 2004.
+“Monthly Bulletin, April.” Available at https://www.ecb.europa.eu/pub/
+pdf/mobu/mb200404en.pdf.
+ECB. 2010. “Monthly Bulletin, July.” Available at https://www.ecb.europa.eu/pub/pdf/
+mobu/mb201007en.pdf.
+ECB. 2014. “Monthly Bulletin, March.” Available at https://www.ecb.europa.eu/pub/
+pdf/mobu/mb201303en.pdf.
+Ferrara,
+Federico Maria and Thomas Sattler. 2018.
+“The Political Economy of
+Financial Markets.” Oxford Research Encyclopedia in Politics,
+doi:
+10.1093/acre-
+fore/9780190228637.013.628.
+Genovese, Federica, Gerald Schneider and Pia Wassmann. 2016. “The Eurotower Strikes
+Back: Crises, Adjustments, and Europe’s Austerity Protests.” Comparative Political Stud-
+ies 49(7):939–967.
+Giger, Nathalie. 2010. “Do Voters Punish the Government for Welfare State Retrenchment?
+A Comparative Study of Electoral Costs Associated with Social Policy.” Comparative
+European Politics 8(4):415–433.
+50
+
+=== page 51 ===
+Giger, Nathalie and Moira Nelson. 2011.
+“The Electoral Consequences of Welfare State
+Retrenchment: Blame Avoidance or Credit Claiming in the Era of Permanent Austerity.”
+European Journal of Political Research 50(1):1–23.
+Giger, Nathalie and Moira Nelson. 2013.
+“The Welfare State or the Economy?
+Prefer-
+ences, Constituencies, and Strategies for Retrenchment.” European Sociological Review
+29(5):1083–1094.
+Grittersov´a, Jana, Indridi H. Indridason, Christina C. Gregory and Ricardo Crespo. 2016.
+“Austerity and Niche Parties: The Electoral Consequences of Fiscal Reforms.” Electoral
+Studies 42:276–289.
+Guajardo, Jaime, Daniel Leigh and Andrea Pescatori. 2014. “Expansionary Austerity? In-
+ternational Evidence.” Journal of the European Economic Association 12(4):949–968.
+Hainmueller, Jens, Daniel J Hopkins and Teppei Yamamoto. 2013. “Causal inference in
+conjoint analysis: Understanding multidimensional choices via stated preference experi-
+ments.” Political Analysis 22(1):1–30.
+Hallerberg, Mark. 2004. Domestic Budgets in a United Europe. Ithaca: Cornell University
+Press.
+Hallerberg, Mark and Guntram Wolﬀ. 2008. “Fiscal institutions, ﬁscal policy and sovereign
+risk premia in EMU.” Public Choice 136(3):379–396.
+H¨ubscher, Evelyne. 2016. “The Political Economy of Fiscal Consolidation Revisited.” Journal
+of Public Policy 36(4):573–601.
+H¨ubscher, Evelyne. 2017. “Party Governments, Clientelistic Reforms and Varying Levels of
+Political Constraints.” Comparative European Politics 15(6):848–871.
+H¨ubscher, Evelyne. 2018.
+The Clientilistic Turn in Welfare State Policy-Making: Party
+Politics in Times of Austerity. ECPR Press / Rowman & Littleﬁeld International.
+H¨ubscher, Evelyne and Thomas Sattler. 2017. “Fiscal Consolidation under Electoral Risk.”
+European Journal of Political Research 56(1):151–168.
+Hutter, Swen, Hanspeter Kriesi and Guillem Vidal. 2018. “Old versus New Politics: The
+Political Spaces in Southern Europe in Times of Crises.” Party Politics 24(1):10–22.
+Immergut, Ellen M. 1992. Health Politics: Interests and Institutions in Western Europe.
+Cambridge University Press.
+51
+
+=== page 52 ===
+Jacobs, Alan M. and J. Scott Matthews. 2012. “Why Do Citizens Discount the Future? Pub-
+lic Opinion and the Timing of Policy Consequences.” British Journal of Political Science
+42(4):903–935.
+Jord`a, `Oscar and Alan M. Taylor. 2016. “The Time for Austerity: Estimating the Average
+Treatment Eﬀect of Fiscal Policy.” The Economic Journal 126(590):219–255.
+Larsen, Erik Gahner. 2017. “Welfare Retrenchments and Government Support: Evidence
+from a Natural Experiment.” European Sociological Review 34(1):40–51.
+Magalhaes, Pedro C. 2014. “Introduction: Financial Crisis, Austerity, and Electoral Poli-
+tics.” Journal of Elections, Public Opinion and Parties 24(2):125–133.
+Manger, Mark and Thomas Sattler. 2020.
+“The Origins of Persistent Current Account
+Imbalances in the Post-Bretton Woods Era.” Comparative Political Studies 53(3-4):631
+–664.
+Margalit, Yotam. 2013. “Explaining Social Policy Preferences: Evidence from the Great
+Recession.” American Political Science Review 107(1):80–103.
+Meltzer, Allan H. and Scott F. Richard. 1981. “A Rational Size of Government.” Journal of
+Political Economy 89(5):914–927.
+Mosley, Layna. 2000. “Room to Move: International Financial Markets and National Welfare
+States.” International Organization 54(4):737–773.
+Owens, Lindsay A. and David S. Pedulla. 2014. “Material Welfare and Changing Politi-
+cal Preferences: The Case of Support for Redistributive Social Policies.” Social Forces
+92(3):1087–1113.
+Pierson, Paul, ed. 2001. The New Politics of the Welfare State. Oxford University Press.
+Rehm, Philipp, Jacob S. Hacker and Mark Schlesinger. 2012. “Insecure Alliances: Risk,
+Inequality, and Support for the Welfare State.” American Political Science Review
+106(2):386–406.
+Republic
+of
+Ireland.
+2009.
+“Ireland
+–
+Stability
+Programme
+Update.”
+Available
+at http://ec.europa.eu/economy_finance/economic_governance/sgp/pdf/20_scps/
+2009-10/01_programme/ie_2009-12-09_sp_en.pdf.
+Rueda, David. 2005. “Insider-Outsider Politics in Industrialized Democracies: The Challenge
+to Social Democratic Parties.” American Political Science Review 99(1):61–74.
+52
+
+=== page 53 ===
+Sattler, Thomas. 2013.
+“Do Markets Punish Left Governments?”
+Journal of Politics
+75(2):343–356.
+Sattler, Thomas, John R. Freeman and Patrick T. Brandt. 2008. “Political Accountability
+and the Room to Maneuver – A Search for a Causal Chain.” Comparative Political Studies
+41(9):1212–1239.
+Sattler, Thomas, Patrick T. Brandt and John R. Freeman. 2010. “Democratic Accountability
+in Open Economies.” Quarterly Journal of Political Science 5(1):71–97.
+Schumacher, Gijs, Barbara Vis and Kees van Kersbergen. 2013. “Political Parties’ Welfare
+Image, Electoral Punishment and Welfare State Retrenchment.” Comparative European
+Politics 11(1):1–21.
+Soss, Joe and Sanford S. Schram. 2007. “A Public Transformed? Welfare Reform as Policy
+Feedback.” American Political Science Review 101(1):111–127.
+Talving, Liisa. 2017. “The Electoral Consequences of Austerity: Economic Policy Voting in
+Europe in Times of Crisis.” West European Politics 40(3):560–583.
+Vis, Barbara. 2010. Politics of Risk-taking: Welfare State Reform in Advanced Democracies.
+Amsterdam University Press.
+Walter, Stefanie. 2015. “Crisis Politics in Europe: Why Austerity Is Easier to Implement in
+Some Countries Than in Others.” Comparative Political Studies forthcoming:1–33.
+Woo, Jaejoon, Elva Bova, Tidiane Kinda and Yuanyan S. Zhang. 2013.
+“Distributional
+Consequences of Fiscal Consolidation and the Role of Fiscal Policy: What Do the Data
+Say?” IMF Working Paper 13/195.
+53

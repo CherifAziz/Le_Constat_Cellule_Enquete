@@ -1,0 +1,12 @@
+variante;net_2027;net_2030;net_2035;pct_PIB_2030;pct_PIB_2035;besoin_3pc_tendanciel_2030_pts;besoin_stabilisation_2030_pts
+croissance nominale 1,9 % apres 2027;20.6;33.2;57.7;1.00;1.58;4.40;5.18
+croissance nominale 2,5 % (reference);20.6;33.2;57.7;0.98;1.51;4.40;4.26
+croissance nominale 3,0 % apres 2027;20.6;33.2;57.7;0.97;1.45;4.40;3.93
+inflation basse : gel 2027 a 40 %;18.7;30.5;54.3;0.90;1.42;4.40;4.26
+calendrier decale d'un an;0.0;31.8;57.7;0.94;1.51;4.40;4.26
+emploi bas (report 30 %, pas de supplement);20.0;32.8;50.8;0.97;1.33;4.40;4.26
+emploi haut (supplement maximal de la Cour);20.6;33.2;63.4;0.98;1.66;4.40;4.26
+multiplicateurs bas (jeu ambitieux);25.2;36.2;59.2;1.07;1.55;4.40;4.26
+multiplicateurs hauts (jeu prudent);14.3;29.1;55.7;0.86;1.46;4.40;4.26
+taux +100 / +200 pb;rendement inchange;;;;;besoin accru (charge d'interets);non calcule par A13 (A07, A15)
+"couts administratifs ; effet sur la dette";non estimes;;;;;;

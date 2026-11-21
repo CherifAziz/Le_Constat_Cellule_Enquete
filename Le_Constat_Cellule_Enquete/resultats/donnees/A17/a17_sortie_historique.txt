@@ -1,0 +1,31 @@
+1979-1986: g=11.25  i_app=8.39  r_m(A15)=13.1  i_app-g=-2.86  r_m-g=1.85  boule de neige cumulee=-4.1 pts ; deficits primaires cumules=2.2 pts
+1987-1998: g=4.37  i_app=7.29  r_m(A15)=8.08  i_app-g=2.92  r_m-g=3.71  boule de neige cumulee=15.3 pts ; deficits primaires cumules=6.9 pts
+1991-1998: g=3.23  i_app=7.04  r_m(A15)=7.28  i_app-g=3.8  r_m-g=4.04  boule de neige cumulee=13.8 pts ; deficits primaires cumules=8.1 pts
+1999-2007: g=4.13  i_app=4.74  r_m(A15)=4.42  i_app-g=0.6  r_m-g=0.29  boule de neige cumulee=3.1 pts ; deficits primaires cumules=-1.6 pts
+2008-2014: g=1.54  i_app=3.19  r_m(A15)=2.8  i_app-g=1.66  r_m-g=1.26  boule de neige cumulee=8.8 pts ; deficits primaires cumules=20.2 pts
+2015-2021: g=2.26  i_app=1.71  r_m(A15)=0.7  i_app-g=-0.55  r_m-g=-1.57  boule de neige cumulee=-3.9 pts ; deficits primaires cumules=19.6 pts
+2022-2025: g=4.52  i_app=1.88  r_m(A15)=3.11  i_app-g=-2.63  r_m-g=-1.41  boule de neige cumulee=-11.1 pts ; deficits primaires cumules=12.9 pts
+1999-2025: g=3.03  i_app=3.13  r_m(A15)=2.84  i_app-g=0.1  r_m-g=-0.19  boule de neige cumulee=-3.1 pts ; deficits primaires cumules=51.1 pts
+2010-2025: g=2.79  i_app=2.12  r_m(A15)=1.8  i_app-g=-0.68  r_m-g=-0.99  boule de neige cumulee=-11.9 pts ; deficits primaires cumules=47.2 pts
+1979-2025: g=4.77  i_app=5.09  r_m(A15)=5.92  i_app-g=0.32  r_m-g=1.15  boule de neige cumulee=8.1 pts ; deficits primaires cumules=60.2 pts
+Annees 1999-2025 ou le taux a l'emission facon A15 depasse la croissance nominale d'au moins 1,2 pt : [2001, 2002, 2008, 2009, 2020, 2025]
+Annees 1999-2025 ou le taux apparent depasse la croissance nominale d'au moins 1,2 pt : [1999, 2001, 2002, 2003, 2008, 2009, 2012, 2020]
+Tendance du PIB reel 1997-2007 : 2.32 % par an
+Tendance du PIB reel 1990-2007 : 2.24 % par an
+2007: PIB reel a -0.1 % de la tendance 1997-2007 (0.4 % de la tendance 1990-2007) ; dette 65.5 % ; denominateur seul -> 65.4 %
+2009: PIB reel a -6.9 % de la tendance 1997-2007 (-6.2 % de la tendance 1990-2007) ; dette 84.1 % ; denominateur seul -> 78.3 %
+2012: PIB reel a -9.0 % de la tendance 1997-2007 (-8.2 % de la tendance 1990-2007) ; dette 91.7 % ; denominateur seul -> 83.4 %
+2014: PIB reel a -11.5 % de la tendance 1997-2007 (-10.6 % de la tendance 1990-2007) ; dette 96.2 % ; denominateur seul -> 85.1 %
+2019: PIB reel a -14.8 % de la tendance 1997-2007 (-13.6 % de la tendance 1990-2007) ; dette 98.2 % ; denominateur seul -> 83.6 %
+2021: PIB reel a -19.5 % de la tendance 1997-2007 (-18.2 % de la tendance 1990-2007) ; dette 112.8 % ; denominateur seul -> 90.8 %
+2025: PIB reel a -21.6 % de la tendance 1997-2007 (-20.1 % de la tendance 1990-2007) ; dette 115.7 % ; denominateur seul -> 90.7 %
+Tendance du PIB reel 2013-2019 : 1.45 % par an
+2019: PIB reel a 0.55 % de la tendance 2013-2019 ; x 0,57 = 0.32 pt de PIB de solde
+2022: PIB reel a -2.08 % de la tendance 2013-2019 ; x 0,57 = -1.19 pt de PIB de solde
+2025: PIB reel a -2.50 % de la tendance 2013-2019 ; x 0,57 = -1.43 pt de PIB de solde
+Croissance reelle cumulee 2019-2025 : 5.68 % (0.92 % par an)
+2006: recettes 51.09 % ; depenses 53.75 % ; solde -2.66 % ; solde primaire -0.05 % ; interets 2.60 %
+2012: recettes 52.72 % ; depenses 57.89 % ; solde -5.17 % ; solde primaire -2.54 % ; interets 2.63 %
+2017: recettes 54.30 % ; depenses 57.66 % ; solde -3.36 % ; solde primaire -1.57 % ; interets 1.79 %
+2019: recettes 52.95 % ; depenses 55.35 % ; solde -2.39 % ; solde primaire -0.88 % ; interets 1.52 %
+2025: recettes 52.24 % ; depenses 57.31 % ; solde -5.07 % ; solde primaire -2.87 % ; interets 2.20 %

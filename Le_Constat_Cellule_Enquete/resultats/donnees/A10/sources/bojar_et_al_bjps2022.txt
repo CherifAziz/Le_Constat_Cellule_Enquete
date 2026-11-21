@@ -1,0 +1,1037 @@
+
+=== page 1 ===
+ARTICLE
+The Effect of Austerity Packages on Government
+Popularity During the Great Recession
+Abel Bojar1*
+, Björn Bremer2, Hanspeter Kriesi1,3
+and Chendi Wang1
+1European University Institute, Florence, Italy, 2Max Planck Institute for the Study of Societies, Cologne, Germany and
+3Laboratory for Comparative Social Research, National Research University Higher School of Economics, Russian Federation
+*Corresponding author. E-mail: abel.bojar@eui.eu
+(Received 8 May 2019; revised 10 May 2020; accepted 19 July 2020; first published online 21 January 2021)
+Abstract
+During the Great Recession, governments across the continent implemented austerity policies. A large lit-
+erature claims that such policies are surprisingly popular and have few electoral costs. This article revisits
+this question by studying the popularity of governments during the economic crisis. The authors assemble
+a pooled time-series data set for monthly support for ruling parties from fifteen European countries and
+treat austerity packages as intervention variables to the underlying popularity series. Using time-series
+analysis, this permits the careful tracking of the impact of austerity packages over time. The main empir-
+ical contributions are twofold. First, the study shows that, on average, austerity packages hurt incumbent
+parties in opinion polls. Secondly, it demonstrates that the magnitude of this electoral punishment is con-
+tingent on the economic and political context: in instances of rising unemployment, the involvement of
+external creditors and high protest intensity, the cumulative impact of austerity on government popularity
+becomes considerable.
+Keywords: austerity; fiscal consolidation; economic voting; time series analysis; government popularity; economic crisis
+The economic voting literature explains the voting behavior or the ups and downs of government
+popularity – the Vote-Popularity function – using both objective and subjective economic indi-
+cators. The role of the economy varies across studies, but Bellucci and Lewis-Beck (2011) docu-
+ment that it has a strong and stable effect on government popularity (approval) across countries.
+In a particularly elegant study, Stimson (2004) shows that, in the United States, ‘tides of consent’
+rise and fall with the health of the economy. The vast literature on economic voting suggests that
+voters hold incumbents accountable for economic outcomes (see for example, Duch and
+Stevenson 2008; Stegmaier, Lewis-Beck and Park 2017). Empirical studies on economic voting
+show that it is pervasive in ‘normal’ elections.
+But does economic voting also take place during economic crises? The asymmetric grievances
+hypothesis from the literature on economic voting would suggest that the economy generally has
+a stronger electoral impact during bad times (Lewis-Beck and Paldam 2000). A growing literature
+on economic voting in the Great Recession confirms this hypothesis: incumbents have been
+severely punished in the polls due to the depth of the recession (for example, Bartels 2014;
+Bellucci 2014; Bremer, Hutter and Kriesi 2020; Hernández and Kriesi 2016; Magalhaes 2014).
+These studies have typically focused on election outcomes. At the time of the elections, however,
+voters may no longer remember the specific instances (such as policy decisions) that triggered their
+blame for the government, but they are likely to have integrated their assessment of specific gov-
+ernment decisions into a ‘running tally’ of their evaluation of the government which influences
+© The Author(s), 2021. Published by Cambridge University Press. This is an Open Access article, distributed under the terms of the Creative
+Commons Attribution licence (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution, and reproduction
+in any medium, provided the original work is properly cited.
+British Journal of Political Science (2022), 52, 181–199
+doi:10.1017/S0007123420000472
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 2 ===
+their electoral choice later on. It is thus difficult to determine the extent to which governments are
+held responsible for policy decisions, for the poor state of the economy in general, or the relative
+economic situation in their country compared to other countries (Kayser and Peress 2012).
+Yet voters do not need to wait for the next electoral campaign to assess the impact of economic
+policy decisions on their vote intentions. To clarify the attribution of responsibility to the gov-
+ernment, we follow the lead of Marsh and Mikhaylov (2012) and move closer to crisis-related
+policy interventions that are directly under government control to study their effect. In a severe
+economic crisis such as the Great Recession, economic policy debates and decisions are expected
+to become more salient and less ambiguous – and therefore to directly affect vote intentions from
+their first mention in the news.1 This focus on policy decisions is all the more important during
+economic crises because in such circumstances macro-economic aggregates may not be the main
+reference point for voters when they assign responsibility to incumbents (for example, Bellucci
+2014; Clarke and Whitten 2013).2 For various reasons (clarity of responsibility, international
+nature of the crisis, bounded rationality and limited knowledge of voters), economic crises pre-
+sent a particularly difficult cognitive environment for voters to assign responsibility and judge
+incumbent parties by their economic record. Yet the Great Recession compelled governments
+to adopt highly mediatized and hotly debated economic policies that reached and resonated
+more with a wider segment of the electorate than the monthly or quarterly fluctuation of macro-
+economic indicators did. In this study, we thus turn from the real economy (output) to economic
+policy (input) in search of the aggregate-level economic vote.
+We are particularly interested in the impact of a specific set of economic policies that govern-
+ments implemented in the wake of the recent economic crisis on ruling-party vote intentions:
+austerity measures. Most governments initially adopted fiscal expansionary measures relying
+on some version of ‘liberal’ or ‘emergency Keynesianism’ in response to the Great Recession
+(Armingeon 2012; Pontusson and Raess 2012). As the crisis continued, however, governments
+generally turned to austerity measures. The Greek crisis erupting in early 2010 initiated this
+change in policy. Echoing the policy debates of the 1980s, TINA politics – ‘There Is No
+Alternative’ – became the catch phrase of economic policy once again. We focus on these auster-
+ity packages that governments introduced once ‘emergency Keynesianism’ gave way to the per-
+ceived imperative of economic orthodoxy in Europe.
+The literature on fiscally conservative voters (Peltzman 1992) argues that such austerity pol-
+icies have little electoral costs for governments that implement them (for example, Alesina,
+Favero and Giavazzi 2019; Alesina et al. 1998; Arias and Stasavage 2019; Brender and Drazen
+2008). In this article, we revisit the question of whether austerity packages are popular by estimat-
+ing their impact during the Great Recession on support for the government. We assembled a
+pooled time-series data set that includes monthly vote intention data for fifteen European coun-
+tries from 2005 to 2015 and systematically coded austerity packages in these fifteen countries dur-
+ing this period. This allows us to use time-series analysis to estimate the impact of austerity
+packages on government popularity by treating them as intervention variables to the underlying
+popularity series.
+The main empirical findings of this analysis are twofold. First, we show that on average, gov-
+ernments were indeed punished for implementing austerity policies during the Great Recession.
+Contrary to the literature on the fiscally conservative voter, we find that austerity packages had a
+significant and substantively important negative effect on government popularity. Secondly, how-
+ever, we show that this effect is transient and that there is punishment in some contexts but not in
+1We refer to the recession that followed the 2007–2008 financial crisis and the European sovereign debt crisis jointly as the
+Great Recession.
+2The analysis of policy decisions also becomes more important in times of crisis because economic evaluations during such
+times may be characterized by a reduced variance (Fraile and Lewis-Beck 2014): if everybody ends up evaluating the state of
+the economy as poor, it becomes closer to a constant and can no longer explain the electoral outcome.
+182
+Abel Bojar et al.
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 3 ===
+others. Specifically, the magnitude of the political punishment declines over time, and it depends
+on several economic and political context conditions: it is large if unemployment is rising, if
+external creditors are involved and if there are widespread protests.
+Next, we present our theoretical considerations about the impact of austerity packages on
+intentions to vote for incumbents. We specify three context conditions that we expect to shape
+the extent to which these policy measures affect incumbents’ popularity. Then we discuss our
+data operationalization and empirical strategy based on advanced time-series analysis. Finally,
+we present the main results from the pooled analysis and a country case study of Greece, before
+we highlight the article’s main contributions in the conclusion.
+Theoretical Considerations: the Impact of Austerity Packages
+To derive expectations regarding the impact of austerity packages on government popularity, we
+build on the existing literature. This literature, however, is surprisingly inconclusive about public
+preferences towards fiscal consolidation and their electoral impact. Originally, research on polit-
+ical business cycles assumed that voters support higher government spending and expansionary
+policies due to self-interest (for example, Golden and Poterba 1980; Nordhaus 1975). Several
+studies on the welfare state share this view. Most famously, Pierson (1996, 2001) argued that
+in an age of permanent austerity, welfare state programmes are difficult to cut due to opposition
+from interest groups and voters.
+These arguments are contrary to an increasingly popular view that voters are fiscally conser-
+vative and that they oppose large government deficits and debt (Blinder and Holtz-Eakin 1984;
+Peltzman 1992). Most famously, Alberto Alesina and his co-authors argued that there is ‘no evi-
+dence of a systematic electoral penalty or fall in popularity for governments that follow restrained
+fiscal policies’ (Alesina et al. 1998, 198). This supplemented Alesina’s ‘expansionary fiscal con-
+traction’ thesis (for example, Alesina and Ardagna 1998; Giavazzi and Pagano 1990), which
+maintained that fiscal consolidations could have a positive effect on economic growth under cer-
+tain conditions. Austerity may thus not be as unpopular as it is often assumed, which many other
+scholars have also found since then (see Alesina, Favero, and Giavazzi 2019; Arias and Stasavage
+2019; Barnes and Hicks 2018; Bisgaard and Sloothus 2018; Brender and Drazen 2008).
+However, Hübscher and Sattler (2017, 151) point out an important empirical shortcoming of
+this literature: vulnerable governments strategically avoid consolidations towards the end of the
+legislative term in order to minimize electoral punishment. Observational studies are unable to
+get around this ‘strategic selection bias’, but when welfare cuts become salient in electoral cam-
+paigns, they have a negative impact on incumbents’ electoral performance (Armingeon and Giger
+2008). Based on experimental evidence from five European countries, Hübscher, Sattler and
+Wagner (2018) show that governments’ chances of re-election decrease when they propose fiscal
+austerity measures. In particular, the electorate overwhelmingly rejects spending cuts to achieve
+fiscal consolidation.
+Moreover, the effects of fiscal consolidation measures may be different in times of crisis, when
+economic policy decisions become more salient. Talving (2017) has shown that during the Great
+Recession, incumbents have been punished for austerity measures. Her results from twenty-four
+European countries suggest that economic policy voting (sanctioning incumbents for austerity
+policies and rewarding them for stimulus) is a post-crisis phenomenon. She interprets these find-
+ings as European citizens growing tired of large-scale cuts, especially if these failed to bring the
+promised results.
+Based on these findings, we expect austerity measures to have a negative effect on incumbents’
+popularity. By reducing government spending and/or increasing taxation, most attempts at fiscal
+consolidation place the burden of economic adjustment on the population, reducing citizens’ dis-
+posable income. Governments justify these policies with the need to reduce government deficits
+and debt, but there are reasons to believe that these goals are not a priority for citizens. Public
+British Journal of Political Science
+183
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 4 ===
+debt is an abstract economic concept and, apart from exceptional circumstances, its impact on
+citizens is opaque. Moreover, austerity was often combined with structural reforms, which causes
+further economic strain for a substantial part of the population. Therefore, we expect that a non-
+trivial share of voters desert parties that implement austerity and structural reforms (our baseline
+austerity hypothesis).
+However, in line with previous research on economic voting and the recent crisis, we expect
+that this effect may be conditional (see, for example, Anderson 2007; Stegmaier, Lewis-Beck and
+Park 2017 on the economic vote and Bechtel, Hainmüller and Margalit 2017 on international
+bailouts). We highlight several economic and political features that may condition the electoral
+response to austerity announcements.
+First and foremost, not all austerity packages inflict the same degree of economic hardship on
+the population, but their impact is contingent on the pre-existing magnitude of economic grie-
+vences. In particular, the economic voting literature has shown that the level of unemployment is
+important for the government’s electoral prospects because it is the most salient economic indi-
+cator (for example, Fernández-Albertos and Kuo 2016; MacKuen, Erikson and Stimson 1992).3 If
+unemployment is rising, an increasing share of voters becomes dependent on government out-
+lays, further aggravating the impact of fiscal cuts on voters’ economic insecurity. Therefore, we
+expect an interactive dynamic between austerity episodes and this headline figure: the more voters
+lose their jobs and are unable to find new ones, the greater the expected electoral impact of aus-
+terity packages on incumbent parties. This is our economic conditions hypothesis.
+However, even for austerity measures taken in dire economic straits, the impact may depend
+on the extent to which voters are able to hold incumbents responsible for the decisions. We focus
+here on the strand of the responsibility literature that explores external restrictions on account-
+ability attribution. This literature suggests that in a multilevel governance structure such as the
+European Union (EU) and the Eurozone in particular, governments can deflect the blame for
+poor economic performance to supranational institutions and foreign governments, which also
+attenuates economic voting (Hellwig 2001; Hellwig and Samuels 2007; Jensen and Rosas
+2020). The euro crisis offered opportunities for incumbents to shift the blame to external author-
+ities in several countries where the International Monetary Fund (IMF) and the ‘Troika’ (which
+comprises the IMF, European Commission and the European Central Bank) had to intervene.
+Using the case of the Portuguese 2011 elections, Magalhaes (2014) showed that the extent of
+voters’ punishment of incumbents depended on the extent to which they exclusively attributed
+responsibility to the national government. However, to her own surprise, Talving (2017) did
+not find any evidence that the electoral impact depends on shared policy-making responsibility
+with supranational and intergovernmental institutions.
+One possible interpretation of Talving’s finding is that, far from allowing the government to
+deflect blame (also see Kosmidis 2018), international creditors’ interventions focus public atten-
+tion on the dismal state of public finances that are ultimately the result of past government
+choices. For example, studies of the impact of IMF interventions on protest activity in different
+regions of the world suggest that such interventions actually increase incumbents’ accountability
+(for example, Altiparmakis and Lorenzini 2018; Beissinger and Sasse 2014). The implication of
+this literature for our purposes is that when governments need to resort to external help (by
+the IMF or the Troika) at the price of conditionality, their failure to manage the economy
+becomes glaringly obvious to voters. The adoption of urgent policy measures under external pres-
+sure educates the public and provides intense lessons to the electorate about how dire the situ-
+ation has become. In line with this literature, we expect external interventions to have a lasting
+negative effect on the popularity of incumbent governments (our external intervention
+hypothesis).
+3Previously, inflation and unemployment have often been used as the main economic indicators. In the low-inflation con-
+text of the Great Recession, we discount inflation as an economic context condition.
+184
+Abel Bojar et al.
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 5 ===
+While austerity packages forced upon a country by external creditors are highly politicized by
+default, others may be less so. More generally speaking, packages differ greatly in the extent to
+which they touch upon well-organized vested interests, and different electorates in different periods
+may vary in their capacity and willingness to stage large-scale mobilization efforts against these mea-
+sures. Building on Armingeon and Giger’s (2008) emphasis on the salience of welfare cuts, we expect
+significant variation in the extent to which packages become the object of public controversy,
+unleashed by the government’s challengers (opposition parties, public interest groups, the media
+or social movements). These challengers strive for the ‘expansion of conflict’ to an ever larger public
+(Schattschneider 1960[1975]): they seek to politicize the proposal by drawing the public’s attention
+to it (by rendering it more salient), by mobilizing public resistance against it (that is, by polarizing
+public opinion on the proposal) and by expanding the number of actors opposed to it.4
+Controversial public debates open up access to (and increase the legitimacy of) speakers and
+allies of the challenger with journalists and decision makers who tend to closely follow the public
+debates (Gamson and Meyer 1996, 288). This expansion of conflict from the institutitional to the
+protest arena has the potential to increase policy salience as it involves actors who conventionally
+stand on the sidelines of policy disputes. Put differently, protest has an important ‘signaling
+function’ (Bremer, Hutter and Kriesi 2020), which increases the political costs of controversial
+policies. We therefore expect that the impact of austerity policies on vote intentions depends
+on the politicizing strategies of the public (our politicization hypothesis).
+Data and Estimation Strategy
+Data
+To test the impact of economic policy decisions on support for incumbents, we rely on monthly
+vote intention data that we systematically collected for fifteen European countries (see Appendix
+A-1 for polling sources). Beyond the obvious constraints of data availability, the countries were
+selected to ensure sufficient variation in their political and economic conditions at the time of the
+Great Recession and to provide a roughly representative geographical sample of the wider
+European space. In this spirit, we include Northern (Denmark, Finland), Anglo-Saxon (UK,
+Ireland), Continental (Austria, Germany, the Netherlands), Southern (Greece, Italy, Portugal
+and Spain) and Eastern European (Latvia, Hungary, Poland and Romania) countries that vary
+on a number of dimensions: their level of economic development, external imbalances and
+creditor–debtor position in international capital markets, party and electoral systems, and per-
+haps most importantly, the severity of the financial and economic crises they experienced
+from 2008 to 2013. Subject to data availability, our country series begin in 2005 and end in
+2015, ensuring that they cover both the pre- and post-crisis periods.
+As argued above, the main advantage of vote intention data – as opposed to election vote
+shares – is the opportunity to track immediate aggregate-level changes in electoral prospects
+that may remain hidden when focusing on election results several years down the road. To pro-
+vide a well-known example from the recent past, upon coming to power in June 2010, the
+Conservative government in the UK immediately laid out its austerity plans, which it followed
+up with a series of specific austerity packages. However, voters could not submit their verdict
+on these policies until the general election in May 2015. By strategically front-loading austerity,
+the Conservative government gave itself several years of leeway for other issues to take precedence
+in public debates. Regular monthly polling of the British electorate allows us to track voters’
+immediate responses beginning in the month when the policy decisions are first announced.5
+We use the same approach in all fifteen countries by collecting all publicly available monthly
+4For a definition of politicization that includes these three elements, see Hutter and Grande (2014).
+5See Clarke, Ho and Stewart (2000) and Lebo and Young (2009) for examples of studies that use British vote intention
+data.
+British Journal of Political Science
+185
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 6 ===
+polls to create fifteen country-specific time series of the average vote intentions for the parties that
+make up the ruling coalition in any given month.6
+In order to measure the impact of policy events, we need to determine the timing of policy
+decisions. To do so, we first conducted a systematic newspaper-based event data analysis for fif-
+teen countries in the international press (see Earl et al. 2004 for a methodological review). We
+used the New York Times, the Financial Times and the Neue Zürcher Zeitung;7 in the first
+step, we systematically collected all policy decisions taken by governments during the sample per-
+iod. We then focused on the types of policies we are interested in – austerity packages and/or
+important structural reforms – and selected the ones that had the most extensive coverage as
+proxied by the highest article count corresponding to the same episode. A brief description of
+all episodes included in our analysis is available in Appendix A-2.
+Next,8 we specify the functional form of their possible impact on vote intentions. We start
+from the interrupted time-series literature to theorize about the most appropriate functional
+form to model austerity packages as intervention variables to the underlying popularity time ser-
+ies (McDowall et al. 1980; Pankratz 1991, 7). While pulse functions model the impact of events as
+an immediate spike – or a spike after some lag – followed by some decay pattern, step functions
+model a permanent shift in the series after the occurrence of the intervention. We argue that in
+contrast to short-term and transitory events like political scandals, austerity packages are better
+conceptualized as events that have an immediate effect which can last for a longer duration
+because public contestation, policy implementation and the material costs span multiple months
+without an obvious ‘end’ to the episode. Lacking strong theoretical considerations about exactly
+how ‘long’ this duration is and when an episode comes to an ‘end’, we estimate the impact via step
+shifts in the series for time windows of multiple lengths, allowing for short-term (3 months),
+medium-term (6 months) and long-term (12 months) effects in the electoral response. In
+cases where multiple periods of austerity occur within the same window, we simply extend the
+window beyond the last austerity episode by the same window length. For instance, for the
+6-month specification, if two austerity periods occur in close proximity of 3 months, the inter-
+vention window covers 9 months. Because of our dynamic specification (as explained below),
+one needs to keep in mind that the total effects are felt beyond the intervention window with
+a decay rate dictated by the autoregressive coefficient of the model (De Boef and Keele 2008).
+Turning to the contextual features of the episodes, we test for the conditioning role of (a) the
+economic context, (b) external creditors’ involvement and (c) politicization as laid out in our
+hypotheses. For the economic context, we employ the most commonly used measure in the eco-
+nomic voting literature: unemployment.9 We contend that it is the trend in unemployment, rather
+than its level, that best captures the current and future prospects of the economic climate and
+serves as a more appropriate reference point for electoral accountability. We thus use the annual
+change in unemployment between t0 and t−12 as our first contextual variable. While short-run
+(month-to-month) changes in unemployment are relatively small and contain little information
+6In case of non-partisan technocratic governments, such as Monti in Italy and Papademos in Greece, we add up all parties’
+vote shares that supported the government. To test the robustness of our results, we also use support for the largest governing
+party only (that is, the prime minister’s party) and the finance minister’s party as our dependent variable (Appendix D-1).
+7We chose these newspapers because they have a long-standing reputation in international reporting and, with the excep-
+tion of the Financial Times (FT), they come from countries that are not covered by our study. We included the FT because it
+has the broadest coverage of international economic affairs.
+8As a general rule, we coded the ‘occurrence’ of these events as the month when the measures were first announced. This is
+when they first appear in the mass media. Recent literature relying on experimental data and survey evidence has highlighted
+the role of party elites (Bisgaard and Sloothus 2018) and media frames (Barnes and Hicks 2018) in shaping fiscal preferences.
+Upon the initial announcement, party elites and media frames likely begin to influence electoral preferences, making it the
+appropriate time point for our analysis.
+9See Lewis-Beck and Stegmaier (2013, 376) for a discussion of the main economic variables used in VP function studies. In
+Appendix D-3, we also present results for year-on-year growth of retail sales volume, the closest monthly proxy for economic
+growth, as a conditioning variable.
+186
+Abel Bojar et al.
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 7 ===
+for a typical voter, year-on-year changes offer a more accurate picture of the overall direction of
+the economy.
+Our operationalization of the external involvement hypothesis is straightforward: we create a
+binary variable that is coded 1 for austerity episodes introduced as part of conditionality follow-
+ing external intervention, and 0 otherwise.10 This indicator variable separates packages that are
+introduced under direct international creditor pressure from those that are domestically driven.
+To measure politicization, we rely on a novel database constructed via a semi-automated con-
+tent analysis of the international press in thirty European countries (Lorenzini, Makarov and
+Wuest forthcoming, 2). For the purposes of this study, we selected protests directed at public eco-
+nomic issues (as opposed to private economic, political or other issues). We operationalize pol-
+iticization by taking the monthly protest count, weighted by countries’ population size to address
+reporting bias in favour of large countries. This weighted measure of monthly public economic
+protest count is our contextual variable for the politicization of austerity packages.
+Estimation
+Before we present our modelling approach, a short discussion of the time-series properties of our
+dependent variable is in order. As is well known from the time series methodology literature,
+non-stationary and strongly autoregressive processes (AR(1) coefficient > 0.9) can present for-
+midable difficulties for valid inference because of the high risk of spurious regressions (De
+Boef 2001; Enders 2004, 4). Unit-root or long-memory processes are a common feature of pol-
+itical time series where shocks are permanent, and the series have no mean-reverting tendency.
+Vote intention data is a case in point: due to the highly persistent nature of partisan attachments,
+such data is likely to be more persistent than alternatives such as government approval,11 imply-
+ing that shocks have a long (or even infinite) memory. In fact, a series of unit-root tests yields
+clear evidence that non-stationarity is present in most of our country series.
+To address this issue, the standard fix of cointegrating equations is unfeasible due to the nature
+of our main independent variable (step-shift dummies), and the alternative of first differencing
+the dependent variable is undesirable because we are interested in the long-term dynamics in sup-
+port for the government.12 Instead, we leverage the empirical literature on the popularity function
+that has already identified a number of sources that push the series away from their overall mean
+for an extended period of time. In contrast to many non-stationary variables used in political sci-
+ence and economics, one advantage of our popularity variable is that many of the sources of its
+non-stationarity behavior can be directly modelled instead of treating its unit-root nature as a
+nuisance to be removed via the standard fixes (such as first differencing). By properly identifying
+these country-specific sources, one can remove their effect from the individual country series to
+obtain a well-behaved stationary variable that is cleaned from the temporal confounders at the
+same time. Specifically, we filter out (a) secular trends, (b) linear and quadratic electoral cycle
+trends, (c) three-month-long honeymoon periods and (d) government-specific means.13
+Therefore, our filtering equation for the country-specific vote intention series is:
+VIt = b1Tt + b2ECt + b3EC2
+t + b4 Ht + Sn
+5 biGit,
+(1)
+where VI is vote intention measured at time t, T is a secular trend, EC and EC2 are the linear and
+quadratic popularity trends for each electoral cycle, H is a three-month honeymoon after a new
+10External involvement refers to both IMF bailouts and European bailouts that were administered by the Troika.
+11See Pickup (2010) for an elegant theoretical and empirical discussion for a comparison.
+12We provide the results for the first-differenced raw vote intention data as a dependent variable in Appendix D-2.
+13See Veiga and Veiga (2004) for an example of cyclical trends in Portuguese vote intention data, Malet and Kriesi (2020)
+for the estimation of honeymoon effects in Italy, and Dassonneville and Lewis-Beck (2014) for the cost of ruling on a large
+cross-national sample.
+British Journal of Political Science
+187
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 8 ===
+government comes to power, and G denotes a set of government dummies to capture the different
+average popularity of different parties participating in government at any given point in time. We
+then use the residuals from this filtering regression, which essentially capture the parts of the vote
+intention series that are unexplained by temporal regularities, as the dependent variable in the
+study. As the influence of various temporal effects is removed from the series, one can also
+think of this method as a hard test of our empirical analysis: we only pick up the impacts of
+events that are above and beyond the regular impact of time, minimizing the risk of spurious
+findings. If we detect a significant impact of austerity packages in our analysis, we can safely
+rule out the possibility that this is due to some global or local trend affecting all governments,
+such as the general cost of ruling.
+With our filtered dependent variable defined in this way, we proceed to estimate our interven-
+tion functions via pooled maximum-likelihood estimation.14 Another round of unit-root tests
+allows us to reject the null of non-stationarity in all the series and estimate a dynamic model
+with a lagged dependent variable (LDV).15 The generic form of our estimated models is:
+VIFit = aiVIFit−1 + b1Iit + b2Cit + b3IitCit + 1it,
+(2)
+where the dependent variable is now our filtered series for country i that is modelled as a function
+of its lagged value, an austerity variable defined above in interaction with a contextual variable
+denoted by C, and a white noise, iid error term (ε).16 All right-hand side variables exert their
+initial impact in a contemporaneous fashion with delayed effects accumulating over time at a
+rate dictated by the long-run multiplier (the coefficient for the LDV).
+As for potential country-specific (unit) effects, it is important to note that country-specific
+means have been removed from the series via the filtering, so the inclusion of country fixed effects
+is made superfluous, by construction. In other words, we no longer need the time demeaning
+operation of fixed effects in a dynamic panel data model. The absence of unit effects and the
+demeaning process also guards against biased parameter estimates, which are present in many
+dynamic panel and time-series cross-section designs, in which the bias is caused by the correl-
+ation between the demeaned LDV and the demeaned error term (Beck and Katz 2011; Nickell
+1981). In any event, as Beck and Katz (2011, p. 342) argue, the Nickell bias becomes small as
+the number of observations becomes sufficiently large. Given that our monthly dataset yields
+an average number of observations per panel of over 100, we are relatively confident that the find-
+ings shown below are not affected by Nickell bias.
+We first present a set of pooled time-series models with a random slope of the LDV.17 Since
+conventional time-series cross-section models produce biased and inconsistent estimates under
+cross-sectional heterogeneity in the value of autoregressive parameters (Webb and Weinberg
+2017), we opt for these mixed effects models to counteract this problem. In essence, we allow
+the model’s adjustment mechanism to vary from country to country, indicated by subscript i
+under the coefficient α for the LDV.
+14We provide country-by-country time-series results via a coefficient plot of the estimated impact of the austerity dummy
+and a chronological visualization of country-specific events in Appendix B. We also checked for the appropriate country-
+specific lag structure via auto-correlation and partial auto-correlation functions, and found that an AR(1) specification is
+the appropriate dynamic specification for all countries.
+15Appendix C-1 displays the distribution of the p-values for country-specific unit-root tests both before and after the
+filtering.
+16Due to the filtering in the first step, the country series are mean centered around 0, eliminating unit- (country-specific)
+effects from the pooled model.
+17See Beck and Katz (2007) for a thorough discussion of random-coefficient models estimated by Maximum Likelihood in
+the context of pooled time-series data. In Appendix D-5, we present the results for the fixed effects and random effects var-
+iants of our models.
+188
+Abel Bojar et al.
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 9 ===
+Our models estimate the average (unconditional) impact of austerity episodes on the trans-
+formed cabinet-level vote intention variable. All model specifications are dynamic, so the esti-
+mated coefficients of the austerity variable merely serve to indicate the immediate response;
+the total impact over time is augmented by the long-run multiplier, which is provided by the
+coefficient of the models’ LDV. Our modified step-specification thus allows for the gradual accu-
+mulation of the impact of austerity, while the country-specific estimates of the LDV calculated
+from our random slope models allow for different trajectories of the dependent variable during
+and after the austerity windows.
+Main Results
+Table 1 shows the average (non-conditional) impact of austerity when estimated with three dif-
+ferent time windows. Models 1–3 estimate the impact via a bivariate dynamic model, while
+Models 4–6 add the contextual controls from the three hypotheses as well as an additional eco-
+nomic control of monthly retail sales volume, our proxy for monthly GDP growth.
+All models provide strong evidence that austerity, on average, reduces support for government
+parties, as stipulated by our austerity hypothesis. They also produce significant and broadly simi-
+lar estimates for the impact of austerity: the initial impact is estimated to be 0.6 to 0.8 percentage
+points depending on the length of the intervention window and the inclusion/exclusion of the
+controls. The information criteria (we only show AIC in the table) also indicate very similar
+model fits, with the 6-month specification performing slightly better than the other windows.
+As for the control variables, interestingly, neither the macroeconomic indicators (year-on-year
+change in unemployment and year-on-year growth of retail sales volumes) nor the external cred-
+itors’ involvement appears to significantly predict government popularity. Our indicator for pol-
+iticization, by contrast, shows that in periods of higher protest intensity, governments tend to be
+less popular.
+To calculate the total impact of austerity, one needs to consider that the initial impact is aug-
+mented by the long-run multiplier during the intervention window before the dependent variable
+converges back to its pre-austerity equilibrium. We use the 6-month intervention window from
+Model 5 to perform a dynamic simulation (King, Tomz and Wittenberg 2000) of the impact in
+the long run. According to the simulation (shown only for the interactive models below), by the
+end of the intervention window the estimated level of the dependent variable is around 2 percent-
+age points below its value at the beginning of the period. Over time, however, the effect of aus-
+terity dissipates, suggesting that the costs of fiscal consolidation are transient. As voters are more
+likely to respond to short-term economic dynamics than long-term considerations (Achen and
+Bartels 2016; Healy and Lenz 2014), the memory of austerity can fade. This is in line with the
+notion that governments strategically time fiscal consolidations in order to minimize the asso-
+ciated electoral costs (Hübscher and Sattler 2017).
+Turning to the tests of our hypotheses on context conditions, we proceed in the following
+manner. We rely on the information criteria for the fully specificed models to select the
+6-month time window as the best performing period. We then use Model 5 with this time win-
+dow as a benchmark for all subsequent models and add interaction terms one at a time in the
+order of our hypotheses: unemployment change, external creditor dummy and protest fre-
+quency.18 In addition to instantaneous effects we also show the total cumulative effect over
+time via dynamic simulation as above.19 Table 2 presents the results.
+18We provide results for the 3-month and 12-month windowns in Appendix D-4.
+19Since we allow the long-run multiplier to vary according to a random draw from a normal distribution, one could also
+illustrate the impact using different country-specific LDV coefficients. Appendix C-2 reports the results of a dynamic simu-
+lation of the interactions for two countries with high (Hungary) and low (Romania) persistence in the dependent variable
+according to their country-specific LDV coefficients.
+British Journal of Political Science
+189
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 10 ===
+Table 1. Baseline models for the unconditional effects of austerity
+Dependent variable: vote intention
+Model 1
+Model 2
+Model 3
+Model 4
+Model 5
+Model 6
+Vote intentiont−1
+0.621*** (0.028)
+0.627*** (0.029)
+0.632*** (0.029)
+0.621*** (0.028)
+0.628*** (0.028)
+0.632*** (0.029)
+Austerity_12m
+−0.590*** (0.137)
+−0.626*** (0.144)
+Austerity_6m
+−0.732*** (0.159)
+−0.729*** (0.166)
+Austerity_3m
+−0.835*** (0.203)
+−0.757*** (0.209)
+Δunemployment
+0.010 (0.046)
+0.017 (0.046)
+0.006 (0.046)
+Retail growth
+−0.019 (0.016)
+−0.016 (0.016)
+−0.014 (0.016)
+IMF
+0.244 (0.215)
+0.189 (0.213)
+0.138 (0.213)
+Protest
+−0.233*** (0.052)
+−0.220*** (0.052)
+−0.210*** (0.052)
+(Intercept)
+0.197** (0.076)
+0.158* (0.070)
+0.104 (0.067)
+0.284*** (0.082)
+0.232** (0.076)
+0.175* (0.073)
+AIC
+7,955.325
+7,952.316
+7,956.164
+7,959.304
+7,958.574
+7,964.192
+Num. obs.
+1,674
+1,674
+1,674
+1,674
+1,674
+1,674
+Num. groups
+15
+15
+15
+15
+15
+15
+LM test p-value
+0.454
+0.532
+0.561
+0.427
+0.502
+0.515
+AR(1) Std Dev
+0.076
+0.078
+0.081
+0.075
+0.077
+0.079
+***p < 0.001, **p < 0.01, *p < 0.05, †p < 0.1
+190
+Abel Bojar et al.
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 11 ===
+Model 7 allows the effect of austerity to vary with the monthly year-on-year change in the
+unemployment rate.20 The significant interaction term and the marginal effects plot (Figure 1)
+offer strong evidence in support of our economic conditions hypothesis. In times of declining
+unemployment rates, the marginal effect of austerity is statistically indinstinguishable from
+zero. By contrast, when unemployment is stable or increasing, austerity is associated with an
+ever larger electoral punishment. For instance, under a scenario of stable unemployment
+(year-on-year Δunemployment = 0) followed by an economic shock that results in a 1 per cent
+year-on-year increase in unemployment for an extended period of time, the immediate impact
+of austerity for government parties is a 0.76-percentage-point loss in vote intentions. Using a
+dynamic simulation, we calculate that this accumulates to a loss of around 1.9 percentage points
+by the end of the 6-month intervention window (Figure 1).21
+When examining the interaction between the external involvement dummy and the austerity
+dummy (the external involvement hypothesis), a rather strong pattern emerges. The interaction
+term is substantively large (−0.92) and significant, implying a non-trivial difference in the size of
+the government’s punishment depending on whether austerity is implemented under external
+pressure or not. As the marginal effects plot shown in Figure 2 reveals, externally imposed aus-
+terity episodes imply an immediate loss of popularity of around 1.45 percentage points, accumu-
+lating to a total estimated loss of 3.58 percentage points by the end of the 6-month intervention
+window. By contrast, the estimated immediate hit to government parties’ vote intention in the
+wake of domestically driven austerity episodes is considerably more limited: 0.54 percentage
+points, resulting in a 1.36-percentage-point total loss. The strong interaction dynamics between
+austerity and external creditors’ involvement helps to adjudicate in the debate on the external
+dimension of responsibility attribution. Far from diluting perceived responsibility and sheltering
+incumbents from the wrath of the public, the straightjacket imposed by external creditors appears
+to highlight incumbents’ responsibility for economic mismanagement, amplifying punishment in
+the polls.
+Table 2. Interactive models accounting for context conditions
+Dependent variable: vote intention
+Model 7
+Model 8
+Model 9
+Vote intentiont−1
+0.627*** (0.029)
+0.629*** (0.029)
+0.628*** (0.028)
+Austerity_6m
+−0.577** (0.176)
+−0.549** (0.184)
+−0.620*** (0.175)
+Δunemployment
+0.083 (0.053)
+0.024 (0.046)
+0.021 (0.046)
+Retail growth
+−0.016 (0.016)
+−0.015 (0.016)
+−0.017 (0.016)
+IMF
+0.197 (0.213)
+0.501* (0.253)
+0.176 (0.213)
+Protest
+−0.199*** (0.052)
+−0.209*** (0.052)
+−0.124† (0.072)
+Austerity_6m × Δunemployment
+−0.186* (0.073)
+Austerity_6m × IMF
+−0.918* (0.404)
+Austerity_6m × protest
+−0.182† (0.094)
+(Intercept)
+0.218** (0.076)
+0.198* (0.077)
+0.197* (0.078)
+AIC
+7,957.478
+7,955.411
+7,959.707
+Num. obs.
+1,674
+1,674
+1,674
+Num. groups
+15
+15
+15
+LM test p-value
+0.477
+0.503
+0.521
+AR(1) Std Dev
+0.081
+0.080
+0.077
+***p < 0.001, **p < 0.01, *p < 0.05, †p < 0.1
+20We provide results with growth in retail sales volume – a close monthly proxy for economic output – rather than
+unemployment as the conditioning variable in Appendix D-3 and find that the interactive pattern between retail growth
+and austerity is qualitatively very similar to unemployment, which further corroborates the economic conditions hypothesis.
+21These estimated averages hide variation in the rates of adjustment between the country-specific series, giving rise to
+potentially different dynamic effects. We illustrate how these dynamics play out in countries with a quick rate of adjustment
+(Romania) and a slow rate of adjustment (Hungary) in Appendix C-2.
+British Journal of Political Science
+191
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 12 ===
+Figure 1. Instantaneous effects and impulse response functions of austerity at different rates of change in the unemployment rate
+Note: for the impulse response functions, we simulate the evolution of the dependent variable with a starting value of 0.
+192
+Abel Bojar et al.
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 13 ===
+Finally, we test the politicization hypothesis by introducing the weighted protest frequency
+variable in interaction with the austerity dummy while keeping the rest of the covariates in the
+model as controls.22 The interactive patterns shown in Figure 3 provide support for the hypoth-
+esis. Although the estimated immediate impact of austerity is negative and significant at all levels
+of protest frequency, its substantive impact is larger in times of high politicization. For instance,
+when the weighted protest variable is at the 90th percentile of the empirical distribution, the esti-
+mated immediate impact is a 0.87-percentage-point drop, cumulating to a 2.1-percentage-point
+loss in vote intentions by the end of the 6-month intervention window. By contrast, in instances
+of no protest (weighted protest frequency = 0), a more modest 0.59-percentage-point punishment
+is followed by a 1.52-percentage-point total loss after a 6-month period. Therefore, in line with
+our expectations, the intensity of protest activity increases the electoral punishment of austerity,
+though the conditioning role of protest is weaker than the other two contextual covariates
+(unemployment and external creditors’ involvement).
+Extension: A Case Study
+While the strength of the pooled analysis that we have produced so far is a high level of gener-
+alizability, its inherent weakness is a limited consideration of details. In this penultimate section,
+we aim to illustrate the impact of austerity by placing individual austerity episodes at the centre
+stage of analysis in a particular country of choice – Greece. Although the country was a clear out-
+lier in the European austerity saga during the Great Recession, it is interesting for illustrative
+Figure 2. Instantaneous effects and impulse response functions of austerity with and without external creditors’
+involvement
+22Recognizing the potentially endogenous nature of our protest frequency measure, we examine the robustness of our
+results by instrumenting the protest variable via two-stage least squares (shown in Appendix D-3) using the following set
+of exogenous instruments: left cabinets, honeymoon periods, seasonal dummies and country fixed effects. Endogeneity
+tests, a weak identification test and a Sargan statistic for overidentification all indicate that our choice of instruments is appro-
+priate. The results show that the interactive patterns with the instrumented protest variable become even stronger.
+British Journal of Political Science
+193
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 14 ===
+Figure 3. Instantaneous effects and impulse response functions of austerity at different levels of protest frequency
+194
+Abel Bojar et al.
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 15 ===
+purposes because it satisfies all the context conditions that we have shown to amplify the penalty
+in the polls: austerity packages were adopted under deteriorating economic conditions, high levels
+of politicization and the strict conditionality of external creditors. This leads us to expect quite
+dramatic consequences in the polls.
+We use the four austerity packages that we included in the pooled models for Greece: the First
+bailout (May 2010), the Mid-term Adjustment Programme (June 2011), the Second Bailout
+(February 2012) and the Third Bailout (July 2015). Table 3 presents the estimates for the impact
+of the individual packages (Models 10–14) as well as for the average impact of austerity measured
+via a 6-month window for Greece only. The estimates show that, on average, these packages had a
+highly significant negative effect on the government’s popularity (2.24 percentage points for the
+immediate effect and a total effect above 6 percentage points), significantly above the average
+impact from the pooled analysis. They also show that, individually, the impact of the different
+packages varies considerably, partly as a function of context conditionalities highlighted by our
+pooled analysis and partly due to other developments that are beyond the scope of our results.
+For instance, the estimate for the first bailout package is actually positive (non-significant),
+suggesting that the implementation of the first bailout program had no immediate electoral reper-
+cussions for the Greek government. Within our explanatory framework, this is arguably related to
+the fact that in the spring and summer of 2010, the Greek economy still held up reasonably well
+with the unemployment rate rising only modestly. Moreover, the frequency of protests paled in
+comparison to the storm that Greece was yet to experience.
+By far the most dramatic drop in the ruling party’s (PASOK) popularity followed the imple-
+mentation of the mid-term adjustment package (a more than 12-percentage-point loss by the end
+of the period). The episode of the mid-term adjustment saw the rise of new challengers – the
+Greek Indignados, inspired by events in Spain – that broadened the base of the grassroots mobil-
+ization to non-political elites and introduced more confrontational forms of protest. As
+Altiparmakis (2019) shows, it was at this moment that widespread dissatisfaction with austerity
+expanded into the political field and focused on the vote for the mid-term adjustment in parlia-
+ment. This illustrates the effect of protest on the government’s popularity. Under enormous pres-
+sure from Europe, the mid-term adjustment episode led to the adoption of the ‘multi-law’ bill in
+October 2011, which eventually led to the resignation of the PASOK government and its replace-
+ment by the technocratic Papademos government that was responsible for adopting the second
+bailout package in early 2012.
+The substantive estimate for the second bailout package, implemented by the Papademos gov-
+ernment, is also large (an immediate 2.2-percentage-point loss and a 6.7-percentage-point total
+Table 3. Time-series models for austerity episodes in Greece
+Dependent variable: vote intention
+Model 10
+Model 11
+Model 12
+Model 13
+Model 14
+Vote intentiont−1
+0.701*** (0.071)
+0.608*** (0.071)
+0.710*** (0.068)
+0.698*** (0.070)
+0.674*** (0.067)
+First_bailout
+0.740 (1.415)
+Mid_term
+−5.062*** (1.420)
+Second_bailout
+−2.193 (1.488)
+Third_bailout
+−1.540 (1.387)
+Austerity_6m
+−2.236*** (0.753)
+(Intercept)
+−0.048 (0.327)
+0.279 (0.310)
+0.096 (0.322)
+0.080 (0.325)
+0.475 (0.345)
+R2
+0.504
+0.557
+0.513
+0.508
+0.541
+Adj. R2
+0.494
+0.548
+0.503
+0.499
+0.533
+Num. obs.
+107
+107
+107
+107
+107
+RMSE
+3.279
+3.099
+3.249
+3.264
+3.152
+Ljung-Box test p-value
+0.311
+0.176
+0.401
+0.277
+0.187
+***p < 0.001, **p < 0.01, *p < 0.05, †p < 0.1
+British Journal of Political Science
+195
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 16 ===
+drop), but it fails to achieve significance at conventional levels. This lack of significance is argu-
+ably due to the short time window for the step function because of the change in government
+after the June 2012 elections. However, the substantively large estimate for the drop in the popu-
+larity of two main parties supporting the Papademos government (PASOK and New Democracy)
+is testimony to the ever-deteriorating economic situation and unabated protest activity as a carry-
+over from the mid-term adjustment period.
+Comparatively speaking, the third bailout agreed upon by the Syriza-led government with
+international creditors under dramatic circumstances in the summer of 2015 had a lower impact
+(a non-significant 1.54-percentage-point immediate drop). This bailout episode stands in stark
+contrast to what had happened earlier during the Greek crisis because it was surprisingly non-
+contentious. The key event in this episode was the referendum on the new bailout agreement,
+organized by the newly elected radical left Syriza government. The government campaigned
+for a No vote (that is, for refusing to sign a new bailout agreement) and achieved a resounding
+victory. In an astounding turnaround, the Syriza government still proceeded to sign a new agree-
+ment with the European partners and the IMF, implementing the third bailout within a week
+after the referendum. With Syriza’s capitulation, the bailout era came to an abrupt end.
+Contention ended because, among other things, frustration and exhaustion contributed to demo-
+bilization (Altiparmakis 2019). In addition, trust in Syriza’s leader Alexis Tsipras marked a key
+difference with the mobilization against PASOK, even after the end of the negotiations: to the
+Greek public, the new prime minister appeared to have done everything he could to avoid the
+inevitable and he was thus spared the blame for the turn of events. The limited impact of this
+episode on the government’s popularity can be explained by a combination of the effectiveness
+of Tsipra’s rhetoric, the wavering of the internal opposition, and the despair and defeat of the
+official opposition, which all played into the government’s hands.
+Conclusion
+As EU countries are experiencing another severe recession as a result of the COVID-19 pan-
+demic, it is important to take stock of the political aftermath of the financial crisis and the euro-
+zone crisis. In this article, we made an important contribution to this effort by conducting a
+systematic statistical analysis of the electoral impact of some of the most contentious economic
+policy decisions that governments have taken to address the fiscal imbalances resulting from
+the twin crises. We analysed the effects of the most important austerity packages and structural
+reforms that governments implemented on government popularity. In the spirit of the inter-
+rupted time-series literature, we treated these packages as external shocks to the underlying
+times series that describe the monthly vote intention shares of ruling parties in fifteen
+European countries between 2005 and 2015.
+To recap the main findings, we showed that while economic aggregates have little independent
+explanatory power on governments’ popularity during the Great Recession, governments are rou-
+tinely held accountable for contentious economic policy decisions, as measured by the evolution
+of the support for ruling parties in opinion polls (cf. Malet and Kriesi 2020). By moving closer to
+the actual policy packages, we were able to closely track the political effects of austerity, and we
+modelled this impact via intervention windows (step dummies of various lengths). Contrary to
+the literature on the fiscally conservative voter, this approach allowed us to show that, on average,
+austerity packages had a significant and substantively important negative effect on governments’
+monthly vote intention ratings. The costs of austerity, however, are transient and depend on pol-
+itical and economic context conditions: overall, we found that government popularity declines for
+roughly one year and that this decrease is substantial if there are large increases in unemploy-
+ment, external pressures from creditors and high politicization of economic conflicts in the
+streets.
+196
+Abel Bojar et al.
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 17 ===
+The implications of these findings are at least twofold. On the one hand, they help us to make
+sense of the political consequences of the Great Recession. As austerity became the dominant
+macroeconomic policy in post-crisis Europe, we witnessed the successful rise of anti-austerity
+parties, movements and politicians in some countries but not in others. Our results suggest
+that austerity, on average, is costlier than the conventional literature assumes, while highlighting
+the conditions under which we can expect austerity packages to especially harm the popularity of
+governments and influence their re-election chances. Some governments were not only able to
+strategically time austerity policies (Hübscher and Sattler 2017); they were also able to rely on
+favourable economic and political conditions to avoid electoral punishment (for example, the
+Conservatives in the UK). Amid pressure from external creditors, other governments were unable
+to do this, which contributed to different political consequences of the Great Recession across the
+continent (Hutter and Kriesi 2019).
+On the other hand, the findings help us understand voters’ responses to economic processes
+more generally. In the search for the aggregate economic vote, the article turned from economic
+conditions (output) to economic policies (input). This approach allowed us to unearth effects that
+may remain hidden when focusing exclusively on election results. Our results suggest that voters
+are nuanced. Even if transient in nature, the electorate’s response to sensitive policies does not
+follow the reward–punishment hypothesis in a straightforward, linear fashion in the short run
+but is highly conditional on the context. By assigning reward and blame to policies rather
+than economic aggregates, voters hold incumbents accountable for the levers under incumbents’
+direct control rather than for the vagaries of the ever more interdependent globalized markets.
+Supplementary material. Online appendices are available at https://doi.org/10.1017/S0007123420000472
+Acknowledgments. The authors acknowledge funding by the ERC project Political Conflict in Europe in the Shadow of the
+Great Recession (POLCON) (Project id: 338875). Previous versions of this article were presented at the 2018 annual SASE
+conference, the 2019 SPSA annual conference and Dreiländertagung, and at workshops at the European University Institute
+(EUI), Sciences Po Paris, and the Max Planck Institute for the Study of Societies, Cologne. We are very grateful for insightful
+comments that we received at each occasion, and we specifically thank Lukas Haffert, Thomas Sattler, Liisa Talving, four
+anonymous reviewers, and the editors of the BJPolS for excellent feedback. All remaining errors remain our own.
+Data availability statement. Data replication files are available at: https://doi.org/10.7910/DVN/MDLQKC
+References
+Achen CH and Bartels LM (2016) Democracy for Realists. Princeton, NJ: Princeton University Press.
+Alesina A and Ardagna S (1998) Tales of fiscal adjustment. Economic Policy 13, 489–585.
+Alesina A, Favero C and Giavazzi F (2019) Austerity: When It Works and When it Doesn’t. Princeton, NJ: Princeton
+University Press.
+Alesina A et al. (1998) The political economy of fiscal adjustments. Brookings Papers of Economic Activity 1998, 197–248.
+Altiparmakis A (2019) The Age of the Bailout. PhD thesis. Florence: European University Institute.
+Altiparmakis A and Lorenzini J (2018) Disclaiming national representatives: protest waves in Southern Europe during the
+crisis. Party Politics 24, 78–89.
+Anderson CJ (2007) The end of economic voting? Contingency dilemmas and the limits of democratic accountability.
+Annual Review of Political Science 10, 271–296.
+Arias E and Stasavage D (2019) How large are the political costs of fiscal austerity? Journal of Politics 81, 1517–1522.
+Armingeon K (2012) The politics of fiscal responses to the crisis 2008–2009. Governance 25, 543–565.
+Armingeon K and Giger N (2008) Conditional punishment: a comparative analysis of the electoral consequences of welfare
+state retrenchment in OECD nations, 1980–2003. West European Politics 31, 558–580.
+Barnes L and Hicks T (2018) Making austerity popular: the media and mass attitudes toward fiscal policy. American Journal
+of Political Science 62, 340–354.
+Bartels LM (2014) Ideology and retrospection in electoral responses to the Great Recession. In Bermeo N and Bartels B (eds),
+Mass Politics in Tough Times. Opinions, Votes, and Protest in the Great Recession. Oxford: Oxford University Press, pp. 1–39.
+Bechtel MM, Hainmüller J and Margalit Y (2017) Policy design and domestic support for international bailouts. European
+Journal of Political Research 56, 864–886.
+Beck N and Katz JN (2007) Random coefficient models for time-series–cross-section data: Monte Carlo experiments.
+Political Analysis 15, 182–195.
+British Journal of Political Science
+197
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 18 ===
+Beck N and Katz JN (2011) Modelling dynamics in cross-section-time-series political economy data. Annual Review of
+Political Science 14, 331–352.
+Beissinger MR and Sasse G (2014) An end to ‘patience’? The Great Recession and economic protest in Eastern Europe. In
+Bermeo N and Bartels B (eds), Mass Politics in Tough Times: Opinions, Votes, and Protest in the Great Recession. Oxford:
+Oxford University Press, pp. 334–370.
+Bellucci P (2014) The political consequences of blame attribution for the economic crisis in the 2013 Italian national elec-
+tion. Journal of Elections, Public Opinion and Parties 24, 243–263.
+Bellucci P and Lewis-Beck MS (2011) A stable popularity function? Cross-national analysis. European Journal of Political
+Research 50, 190–211.
+Bisgaard M and Sloothus R (2018) Partisan elites as culprits? How party cues shape partisan perceptual gaps. American
+Journal of Political Science 62, 456–469.
+Blinder AS and Holtz-Eakin D (1984) Public opinion and the balanced budget. The American Economic Review 74,
+144–149.
+Bojar A, Bremer B, Kriesi H and Wang C (2020) Replication Data for: The Effect of Austerity Packages on Government
+Popularity during the Great Recession. https://doi.org/10.7910/DVN/MDLQKC, Harvard Dataverse, V1, UNF:6:
+yW4ii5pV2la0NuXBQap9Nw== [fileUNF].
+Bremer B, Hutter S and Kriesi H (2020) Dynamics of protest and electoral politics in the Great Recession. European Journal
+of Political Research. Doi: 10.1111/1475-6765.12375
+Brender A and Drazen A (2008) How do budget deficits and economic growth affect reelection prospects? Evidence from a
+large panel of countries. American Economic Review 98, 2203–2220.
+Clarke HD, Ho K and Stewart MC (2000) Major’s lesser (not minor) effects: prime ministerial approval and governing party
+support in Britain since 1979. Electoral Studies 19, 255–274.
+Clarke HD and Whitten GD (2013) Hard choices in hard times: valence voting in Germany (2009). Electoral Studies 32,
+445–451.
+Dassonneville, R. and Michael S. Lewis-Beck (2014) Macroeconomics, economic crisis and electoral outcomes: A national
+European pool. Acta Politica (49): 372–394.
+De Boef S (2001) Modelling equilibrium relationships: error correction models with strongly autoregressive data. Political
+Analysis 9, 78–94.
+De Boef S and Keele L (2008) Taking time seriously. American Journal of Political Science 52, 184–200.
+Duch RM and Stevenson RT (2008) The Economic Vote. How Political and Economic Institutions Condition Election Results.
+New York: Cambridge University Press.
+Earl J et al. (2004) The use of newspaper data in the study of collective action. Annual Review of Sociology 30, 65–80.
+Enders W (2004) Applied Econometric Time Series. New York: John Wiley & Sons, Inc.
+Fernández-Albertos J and Kuo A (2016) Economic hardship and political preferences in the eurozone periphery: evidence
+from Spain. Comparative Political Studies 49, 874–906.
+Fraile M and Lewis-Beck MS (2014) Economic vote instability: endogeneity or restricted variance? Spanish panel evidence
+from 2008 and 2011. European Journal of Political Research 53, 160–179.
+Gamson WA and Meyer DS (1996) Framing political opportunity. In McAdam D, McCarthy JD and Zald MN (eds),
+Comparative Perspectives on Social Movements: Political Opportunities, Mobilizing Structures, and Cultural Framings.
+Cambridge: Cambridge University Press, pp. 275–290.
+Giavazzi F and Pagano M (1990) Can Severe Fiscal Contractions be Expansionary? Tales of Two Small European Countries.
+Working Paper no. 3372. Cambridge, MA: National Bureau of Ecomomic Research.
+Golden DG and Poterba JM (1980) The price of popularity: the political business cycle reexamined. American Journal of
+Political Science 24, 696–714.
+Healy A and Lenz S (2014) Subsituting the end for the whole: why voters respond primarily to the election-year economy.
+American Journal of Political Science 58, 31–47.
+Hellwig T (2001) Interdependence, government constraints, and economic voting. Journal of Politics 63, 1141–1162.
+Hellwig T and Samuels D (2007) Voting in open economies: the electoral consequences of globalization. Comparative
+Political Studies 40, 283–306.
+Hernández E and Kriesi H (2016) The electoral consequences of the financial and economic crisis in Europe. European
+Journal of Political Research 55, 203–224.
+Hübscher E and Sattler T (2017) Fiscal consolidation under electoral risk. European Journal of Political Research 56, 151–168.
+Hübscher E, Sattler T and Wagner M (2018) Voter responses to fiscal austerity. Paper presented at the Annual Meeting of
+the European Political Science Association, Vienna, 21–23 June.
+Hutter S and Grande E (2014) Politicizing Europe in the national electoral arena: a comparative analysis of five West
+European countries, 1970–2010. Journal of Common Market Studies 52, 1002–1918.
+Hutter S and Kriesi H (2019) European Party Politics in Times of Crisis. Oxford: Oxford University Press.
+Jensen NM and Rosas G (2020) Open for politics? Globalization, economic growth, and responsibility attribution. Journal of
+Experimental Political Science 7, 89–100.
+198
+Abel Bojar et al.
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press
+
+=== page 19 ===
+Kayser MA and Peress M (2012) Benchmarking across borders: electoral accountability and the necessity of comparison.
+American Political Science Review 106, 661–684.
+King G, Tomz M and Wittenberg J (2000) Making the most of statistical analyses: improving interpretation and presenta-
+tion. American Journal of Political Science 44, 347–361.
+Kosmidis S (2018) International constraints and electoral decisions: does the room to maneuver attenuate economic voting?
+American Journal of Political Science 62, 519–534.
+Lebo MJ and Young E (2009) The comparative dynamics of party support in Great Britain: Conservatives, Labour and the
+Liberal Democrats. Journal of Elections, Public Opinion and Parties 19, 73–103.
+Lewis-Beck MS and Paldam M (2000) Economic voting: an introduction. Electoral Studies 19, 113–121.
+Lewis-Beck MS and Stegmaier M (2013) The VP-function revisited: a survey of the literature on vote and popularity func-
+tions after over 40 years. Public Choice 157, 367–385.
+Lorenzini J, Makarov P and Wuest B (2020) Design and methods of the semi-automated protest event analysis. In Kriesi H,
+Lorenzini J, Wuest B and Hausmermann S (eds), Contention in Times of Crisis: Comparing Political Protest in 30 European
+Countries, 2000–2015. Cambridge: Cambridge University Press.
+MacKuen M, Erikson R and Stimson J (1992) Peasants or bankers? The American electorate and the US economy.
+American Political Science Review 86, 597–611.
+Magalhaes PC (2014) The elections of the Great Recession in Portugal: performance voting under a blurred responsibility for
+the economy. Journal of Elections, Public Opinion 24, 180–202.
+Malet G and Kriesi H (2020) Economic shocks and the cost of ruling: evidence from Italy. Journal of Elections, Public
+Opinion, and Parties 30, 22–41.
+Marsh M and Mikhaylov S (2012) Economic voting in a crisis: the Irish election of 2011. Electoral Studies 31, 478–484.
+McDowall D et al. 1980) Interrupted Time Series Analysis. Thousand Oaks, CA: Sage Publications.
+Nickell S (1981) Biases in dynamic models with fixed effects. Econometrica 49(6), 1417–1426.
+Nordhaus, WD (1975) The political business cycle. The Review of Economic Studies 42, 169–190.
+Pankratz A (1991) Forecasting with Dynamic Regression Models. New York: John Wiley & Sons, Inc.
+Peltzman S (1992) Voters as fiscal conservatives. The Quarterly Journal of Economics 107, 327–361.
+Pickup M (2010) Better know your dependent variable: a multination analysis of government support measures in economic
+popularity models. British Journal of Political Science 40, 449–468.
+Pierson P (1996) The new politics of the welfare state. World Politics 48, 143–179.
+Pierson P (2001) The New Politics of the Welfare State. Oxford: Oxford University Press.
+Pontusson J and Raess D (2012) How (and why) is this time different? The politics of economic crisis in Western Europe
+and the United States. Annual Review of Political Science 15, 13–33.
+Schattschneider EE (1960[1975]) The Semi-Sovereign People: A Realist’s View of Democracy in America. New York: Holt,
+Rinehart and Winston.
+Stegmaier M, Lewis-Beck MS and Park B (2017) The VP-function: a review. In Arzheimer K, Evans J and Lewis-Beck MS
+(eds), The Sage Handbook of Electoral Behavior. Thousand Oaks, CA: Sage Publications, pp. 584–605.
+Stimson JA (2004) Tides of Consent: How Public Opinion Shapes American Politics. Cambridge: Cambridge University Press.
+Talving L (2017) The electoral consequences of austerity: economic policy voting in Europe in times of crisis. West European
+Politics 40, 560–583.
+Veiga FJ and Veiga LG (2004) The determinants of vote intentions in Portugal. Public Choice 118, 341–364.
+Webb C and Weinberg J (2017) It is about time: cross-sectional dynamic heterogeneity in TSCS data. Paper presented at the
+annual meeting of the Society for Political Methodology, University of Wisconsin-Madison, 13–15 July.
+Cite this article: Bojar A, Bremer B, Kriesi H, Wang C (2022). The Effect of Austerity Packages on Government Popularity
+During the Great Recession. British Journal of Political Science 52, 181–199. https://doi.org/10.1017/S0007123420000472
+British Journal of Political Science
+199
+https://doi.org/10.1017/S0007123420000472 Published online by Cambridge University Press

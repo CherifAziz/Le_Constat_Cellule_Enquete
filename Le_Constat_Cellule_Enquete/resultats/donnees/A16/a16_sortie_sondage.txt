@@ -1,0 +1,53 @@
+Insee : feuille Données ; ligne d'en-tete des annees : 3
+  Dépenses 1974 : 41.3418940300235
+  Dépenses 2025 : 57.307910650954
+  Recettes 1974 : 41.4376471269247
+  Recettes 2025 : 52.239734060479
+  Déficit 1974 : 0.1
+  Déficit 2025 : -5.1
+Eurostat gov_10a_main, dimensions ['freq', 'unit', 'sector', 'na_item', 'geo', 'time'] ; mise a jour : 2026-10-21T11:00:00+0200
+   ('A', 'PC_GDP', 'S13', 'B9', 'EA20', '2024') -3.0
+   ('A', 'PC_GDP', 'S13', 'B9', 'EA20', '2025') -3.0
+   ('A', 'PC_GDP', 'S13', 'B9', 'FR', '2024') -5.8
+   ('A', 'PC_GDP', 'S13', 'B9', 'FR', '2025') -5.1
+   ('A', 'PC_GDP', 'S13', 'D1PAY', 'EA20', '2024') 9.9
+   ('A', 'PC_GDP', 'S13', 'D1PAY', 'EA20', '2025') 10.0
+   ('A', 'PC_GDP', 'S13', 'D1PAY', 'FR', '2024') 12.4
+   ('A', 'PC_GDP', 'S13', 'D1PAY', 'FR', '2025') 12.4
+   ('A', 'PC_GDP', 'S13', 'TE', 'EA20', '2024') 49.3
+   ('A', 'PC_GDP', 'S13', 'TE', 'EA20', '2025') 49.8
+   ('A', 'PC_GDP', 'S13', 'TE', 'FR', '2024') 57.0
+   ('A', 'PC_GDP', 'S13', 'TE', 'FR', '2025') 57.3
+   ('A', 'PC_GDP', 'S13', 'TR', 'EA20', '2024') 46.2
+   ('A', 'PC_GDP', 'S13', 'TR', 'EA20', '2025') 46.8
+   ('A', 'PC_GDP', 'S13', 'TR', 'FR', '2024') 51.2
+   ('A', 'PC_GDP', 'S13', 'TR', 'FR', '2025') 52.2
+Eurostat eurostat_lfsi_emp_a.json dimensions ['freq', 'indic_em', 'sex', 'age', 'unit', 'geo', 'time']
+   ('A', 'EMP_LFS', 'T', 'Y20-64', 'PC_POP', 'DE', '2024') 81.1
+   ('A', 'EMP_LFS', 'T', 'Y20-64', 'PC_POP', 'DE', '2025') 81.1
+   ('A', 'EMP_LFS', 'T', 'Y20-64', 'PC_POP', 'FR', '2024') 75.0
+   ('A', 'EMP_LFS', 'T', 'Y20-64', 'PC_POP', 'FR', '2025') 75.4
+   ('A', 'EMP_LFS', 'T', 'Y20-64', 'PC_POP', 'NL', '2024') 83.5
+   ('A', 'EMP_LFS', 'T', 'Y20-64', 'PC_POP', 'NL', '2025') 83.4
+   ('A', 'EMP_LFS', 'T', 'Y20-64', 'PC_POP', 'SE', '2024') 81.9
+   ('A', 'EMP_LFS', 'T', 'Y20-64', 'PC_POP', 'SE', '2025') 81.8
+   ('A', 'EMP_LFS', 'T', 'Y55-64', 'PC_POP', 'DE', '2024') 75.0
+   ('A', 'EMP_LFS', 'T', 'Y55-64', 'PC_POP', 'DE', '2025') 75.3
+   ('A', 'EMP_LFS', 'T', 'Y55-64', 'PC_POP', 'FR', '2024') 60.3
+   ('A', 'EMP_LFS', 'T', 'Y55-64', 'PC_POP', 'FR', '2025') 61.7
+   ('A', 'EMP_LFS', 'T', 'Y55-64', 'PC_POP', 'NL', '2024') 75.3
+   ('A', 'EMP_LFS', 'T', 'Y55-64', 'PC_POP', 'NL', '2025') 75.8
+   ('A', 'EMP_LFS', 'T', 'Y55-64', 'PC_POP', 'SE', '2024') 78.1
+   ('A', 'EMP_LFS', 'T', 'Y55-64', 'PC_POP', 'SE', '2025') 78.3
+Eurostat eurostat_lfsa_ergan_60_64.json dimensions ['freq', 'unit', 'sex', 'age', 'citizen', 'geo', 'time']
+   ('A', 'PC', 'T', 'Y60-64', 'TOTAL', 'DE', '2023') 65.3
+   ('A', 'PC', 'T', 'Y60-64', 'TOTAL', 'DE', '2024') 66.6
+   ('A', 'PC', 'T', 'Y60-64', 'TOTAL', 'DE', '2025') 67.6
+   ('A', 'PC', 'T', 'Y60-64', 'TOTAL', 'FR', '2023') 38.9
+   ('A', 'PC', 'T', 'Y60-64', 'TOTAL', 'FR', '2024') 42.4
+   ('A', 'PC', 'T', 'Y60-64', 'TOTAL', 'FR', '2025') 44.4
+  excedents primaires 2002-2025 FR : 0
+  excedents primaires 2002-2025 IT : 19
+  excedents primaires 2002-2025 DE : 12
+  excedents primaires 2002-2025 BE : 13
+  Cour RSPFP 2024, page PDF 35 : ics, mise en place par le Gouvernement en avril 2024. C - Des baisses d’impôts et de cotisations depuis six ans qui ont contribué à la dégradation du déficit public et modifié la structure des recettes des différentes administrations publiques La période 2018-2023 a été marquée par d’importantes baisses d’impôts, dont l’impact est estimé à 62 Md€ en 2023, soit 2,2 pts de PIB. Pour autant, le taux de prélèvements obligatoires en 2022 (45,0 points de PIB) se situait en 2022 à un niveau proche de 2017 (45,3 points de PIB), en raison d’une élasticité spontanée des prélèvements obligatoires a

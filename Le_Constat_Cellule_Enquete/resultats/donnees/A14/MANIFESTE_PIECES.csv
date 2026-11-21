@@ -1,0 +1,25 @@
+fichier;url_origine;canal;date;octets;sha256
+sources/cour_20261109-Contribution-retablissement-finances-publiques.pdf;https://web.archive.org/web/20261114160030id_/https://www.ccomptes.fr/sites/default/files/2026-11/20261109-Contribution-retablissement-finances-publiques.pdf;curl via web.archive.org (ccomptes.fr injoignable);2026-11-20;2011421;c39855941eea6356efef16188eba0c6c96d196e570125d8f9f01b3c5f7673e03
+sources/cour_contribution_nov2026.txt;extraction de la piece precedente (scripts/A14/pdf2txt.py);local;2026-11-20;361470;58a01b77301d41d9fd19e905ed9af8460bb6d5fd4bfca0e55853e02ca894f407
+sources/FS_ImpotsProductions-9.pdf;https://www.ipp.eu/wp-content/uploads/2025/10/FS_ImpotsProductions-9.pdf;curl;2026-11-20;6860285;e8234692f2235de1d90f5f7fc4e3f9a15da131b26aa51cc87558940e2295ba60
+sources/ipp_rapport60_impots_production_2025.txt;extraction de FS_ImpotsProductions-9.pdf;local;2026-11-20;303262;b32e5e18ecf965145d62231c6b8b0675dccdf2ed1d25b066f6db2f31dd88e941
+sources/insee_8635773.html;https://www.insee.fr/fr/statistiques/8635773;curl;2026-11-20;51127;a1f697d88aa0c4e3efa7c792c4b3d29ae8ee90955d929257a391c903efa772b9
+sources/CAE_Focus118_emigration_fiscale_2025.pdf;https://cae-eco.fr/static/pdf/Focus_118_emigration_fiscale_250725_v2.pdf;curl;2026-11-20;2122820;bfb2b7a752cfaea8e390a91bb088c0e955f63eca5a0846607dc81bd03668bc18
+sources/CAE_Focus118.txt;extraction de CAE_Focus118_emigration_fiscale_2025.pdf;local;2026-11-20;117408;8d1788188b96c439983e0e07ba33506926d907eab6ea2e426b6d13b3f8ac1c77
+sources/CC_2012662DC.html;https://www.conseil-constitutionnel.fr/decision/2012/2012662DC.htm;curl;2026-11-20;239067;0d4917432cdd34b7b03f7bb8aa3ded390b37edf1e32b09736ff246f81f1f511f
+sources/CC_2012662DC.txt;extraction de CC_2012662DC.html;local;2026-11-20;159069;7396dc10f0f8de2e961881bbb4877728118990c0fbaaaa053cbd7f08c841c179
+sources/CC_2025874DC.html;https://www.conseil-constitutionnel.fr/decision/2025/2025874DC.htm;curl;2026-11-20;112578;97e2ab166879f5d010120d688affa5a93cb08983cdb814577a6fa7db0473c189
+sources/CC_2025874DC.txt;extraction de CC_2025874DC.html;local;2026-11-20;60880;87e125f076916a4dbc838203d242ab6fcc856481f8406738c5c62712ef06d58d
+sources/IAG_ajustement_CHAP5.pdf;https://www.institutavantgarde.fr/wp-content/uploads/2026/06/IAG_Lajustement_sans_les_larmes_CHAP5.pdf;curl;2026-11-20;672338;620bf8744634f1251dd0a302f8a6b1c589bf4446adbf1c19bba25b7a97cc7c23
+sources/IAG_ajustement_CHAP5.txt;extraction;local;2026-11-20;65273;53c44bd9a51b227ba6351e935f65bbc637e6296b0d6328e289e5c46a12cf75f8
+sources/IAG_ajustement_CHAP6.pdf;https://www.institutavantgarde.fr/wp-content/uploads/2026/06/IAG_Lajustement_sans_les_larmes_CHAP6.pdf;curl;2026-11-20;664070;33957329e4f42e99889d6f8789ee938c8bcdd62f64cf8ac5fa46e16c9f697346
+sources/IAG_ajustement_CHAP6.txt;extraction;local;2026-11-20;52467;36ec88392d6c4b90f5c50179e2eb89bd5347a3ab759b457233e002db94eca4c1
+sources/CAE_note69_heritage.pdf;https://www.cae-eco.fr/staticfiles/pdf/cae-note069.pdf;curl;2026-11-20;599036;351fe51abba2030ae7cbd90123ad30a145911b34257117b95c028f4f650cf480
+sources/CAE_note69.txt;extraction;local;2026-11-20;81803;bc67b8dc177110569f9ddc10adef40cb3d254d205f3168974d7b86a808c9649e
+sources/CAE_note91_emploi_salaires_2026.pdf;https://cae-eco.fr/static/pdf/CAE091_Strategie-emploi-salaires_260623.pdf;curl;2026-11-20;1039325;44a1fcf4c28ea6431e16e971a582e39e48f4a1455b8b7ed5df1135e4b9d5f412
+sources/CAE_note91.txt;extraction;local;2026-11-20;69680;1ddd6337d3223055893156ef5a7949424d88c133999a3d98d0cca2142ba4759c
+(aucun fichier);https://web.archive.org/web/2026id_/https://www.ccomptes.fr/sites/default/files/2026-11/20261109-synthese-Contribution-retablissement-finances-publiques.pdf;curl via archive : HTTP 429 [X];2026-11-20;0;-
+(aucun fichier);https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2024-rapport-france_relance_vol_ii_13_impots-production_0.pdf;curl : HTTP 404 [X];2026-11-20;0;-
+(aucun fichier);https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2026-9.pdf;curl : HTTP 404 [X];2026-11-20;0;-
+(aucun fichier);https://www.imf.org/external/pubs/ft/weo/2014/02/pdf/3sum.pdf;WebFetch : HTTP 404 ; version _c3pdf.ashx : HTTP 429 [X];2026-11-20;0;-
+(page web, non copiee);https://taxation-customs.ec.europa.eu/taxation/vat/fight-against-vat-fraud/vat-gap_en;WebFetch (rendu par un modele);2026-11-20;-;-

@@ -1,0 +1,40 @@
+annee;fonction;libelle;france;zone_euro_hors_FR;ecart
+2022;GF01;services generaux;6.5;5.881;0.619
+2022;GF0107;dont interets;2.0;1.628;0.372
+2022;GF02;defense;1.8;1.057;0.743
+2022;GF03;ordre et securite;1.7;1.576;0.124
+2022;GF04;affaires economiques;6.8;5.809;0.991
+2022;GF05;environnement;1.0;0.752;0.248
+2022;GF06;logement et equipements collectifs;1.2;0.952;0.248
+2022;GF07;sante;9.1;7.366;1.734
+2022;GF08;loisirs, culture, culte;1.4;1.028;0.372
+2022;GF09;enseignement;5.0;4.381;0.619
+2022;GF10;protection sociale;23.8;18.846;4.954
+2022;GF1002;dont vieillesse;13.2;9.98;3.22
+2022;TOTAL;TOTAL;58.4;47.748;10.652
+2023;GF01;services generaux;6.189;5.831;0.358
+2023;GF0107;dont interets;1.797;1.801;-0.004
+2023;GF02;defense;1.797;1.182;0.615
+2023;GF03;ordre et securite;1.697;1.701;-0.004
+2023;GF04;affaires economiques;6.289;5.56;0.729
+2023;GF05;environnement;0.998;0.753;0.245
+2023;GF06;logement et equipements collectifs;1.298;1.177;0.121
+2023;GF07;sante;8.785;6.946;1.838
+2023;GF08;loisirs, culture, culte;1.497;1.005;0.492
+2023;GF09;enseignement;4.991;4.507;0.484
+2023;GF10;protection sociale;23.259;18.728;4.531
+2023;GF1002;dont vieillesse;13.077;10.01;3.067
+2023;TOTAL;TOTAL;56.8;47.389;9.411
+2024;GF01;services generaux;6.168;6.099;0.068
+2024;GF0107;dont interets;1.99;1.884;0.106
+2024;GF02;defense;1.89;1.287;0.603
+2024;GF03;ordre et securite;1.791;1.683;0.108
+2024;GF04;affaires economiques;5.67;5.102;0.569
+2024;GF05;environnement;0.995;0.88;0.115
+2024;GF06;logement et equipements collectifs;1.393;0.538;0.855
+2024;GF07;sante;8.853;7.074;1.779
+2024;GF08;loisirs, culture, culte;1.492;1.01;0.482
+2024;GF09;enseignement;5.073;4.499;0.574
+2024;GF10;protection sociale;23.576;19.203;4.373
+2024;GF1002;dont vieillesse;13.33;10.351;2.978
+2024;TOTAL;TOTAL;57.0;47.475;9.525

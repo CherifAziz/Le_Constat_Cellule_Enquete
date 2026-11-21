@@ -1,0 +1,4383 @@
+
+=== page 1 ===
+WP/21/121
+Austerity and Elections 
+by Alberto Alesina, Gabriele Ciminelli, Davide Furceri, and Giorgio Saponaro
+IMF Working Papers describe research in progress by the author(s) and are published 
+to elicit comments and to encourage debate. The views expressed in IMF Working Papers 
+are those of the author(s) and do not necessarily represent the views of the IMF, its 
+Executive Board, or IMF management.   
+
+=== page 2 ===
+© 2021 International Monetary Fund 
+WP/21/121
+IMF Working Paper 
+Asia and Pacific Department 
+Austerity and Elections1 
+Prepared by Alberto Alesina 2+, Gabriele Ciminelli3, Davide Furceri4⋅, Giorgio Saponaro5 
+Authorized for distribution by Shanaka Jayanath Peiris 
+April 2021 
+Abstract 
+ 
+Conventional wisdom holds that voters punish governments that implement fiscal austerity. 
+Yet, most empirical studies, which rely on ex-post yearly austerity measures, do not find 
+supportive evidence. This paper revisits the issue using action-based, real-time, ex-ante 
+measures of fiscal austerity as well as a new database of changes in vote shares of incumbent 
+parties. The analysis emphasizes the importance of the ‘how’—whether austerity is done via 
+tax hikes or expenditure cuts—and the ‘who’—whether it is carried out by left- vs. right-
+leaning governments. Our main finding is that tax-based austerity carries large electoral costs, 
+while the effect of expenditure-based consolidations depends on the political-leaning of the 
+government. An austerity package worth 1% of GDP, carried out mostly through tax hikes, 
+reduces the vote share of the leader’s party by about 7%. In contrast, expenditure-based 
+austerity is detrimental for left- but beneficial for right-leaning governments. We also find that 
+the electoral cost of austerity—especially tax hikes—can be contained if it is implemented 
+during good economic times. 
+JEL Classification Numbers: D72, E62, H62, O47. 
+Keywords: Austerity, Ideology, Vote share, Tax hikes, Expenditure cuts. 
+Author’s E-Mail Address: gabriele.ciminelli@asb.edu.my; DFurceri@imf.org; 
+giorgiosaponaro@g.harvard.edu. 
+1 In honor of Alberto Alesina, a mentor and a friend. We thank Robert Barro, Travers Child, Carlo Favero, Viktar Fedaseyeu, Carlos 
+Goncalves, Nicola Gennaioli, Massimo Giuliodori, Greg Mankiw, Paul Pelzl, Paolo Surico, Lawrence Summers and Sweder van Wjinbergen 
+for helpful comments and suggestions. We are also grateful for comments from seminar participants at the Asia School of Business, China 
+Europe International Business School, University of Amsterdam, International Monetary Fund and Banca d’Italia. The views expressed in 
+this paper are those of the authors and do not represent those of the IMF nor the OECD. 
+2+ Harvard University and IGIER Bocconi. 
+3 Asia School of Business and Organisation for Economic Co-operation and Development (gabriele.ciminelli@asb.edu.my). 
+4⋅ International Monetary Fund. 
+5 Harvard University. 
+IMF Working Papers describe research in progress by the author(s) and are published to 
+elicit comments and to encourage debate. The views expressed in IMF Working Papers are 
+those of the author(s) and do not necessarily represent the views of the IMF, its Executive Board, 
+or IMF management.   
+
+=== page 3 ===
+ 
+3 
+Table of Contents 
+I. 
+Introduction ............................................................................................................... 4 
+II. 
+Dataset..................................................................................................................... 10 
+A. Austerity Data ...................................................................................................... 10 
+Construction of Austerity Variables .......................................................................... 11 
+B. 
+Electoral and other data ........................................................................................ 13 
+III. 
+Who Adopts What Type of Austerity and When .................................................... 15 
+IV. 
+Econometric Specifications ................................................................................... 17 
+V. Main Results ............................................................................................................ 20 
+A. Comparison with previous literature ...................................................................... 21 
+B. 
+Robustness Checks ............................................................................................... 23 
+VI. 
+Endogeneity ......................................................................................................... 23 
+A. Timing of Austerity Announcements ..................................................................... 24 
+B. 
+Strength of Government........................................................................................ 25 
+C. 
+Choice of Doing Austerity .................................................................................... 26 
+D. Inverse propensity score weighting........................................................................ 27 
+VII. 
+Extensions............................................................................................................ 28 
+A. The Response of the Economy to Austerity ........................................................... 29 
+B. 
+Ideology ............................................................................................................... 30 
+C. 
+Macroeconomic Conditions at the Time of Announcements ................................... 31 
+D. Austerity and the Probability of Early Fall of the Government................................ 32 
+VIII. Conclusion ........................................................................................................... 34 
+Figures ............................................................................................................................ 36 
+Tables ............................................................................................................................. 37 
+References....................................................................................................................... 49 
+Appendix A. .................................................................................................................... 52 
+Appendix B. .................................................................................................................... 56 
+Appendix C. .................................................................................................................... 60 
+ 
+
+=== page 4 ===
+ 
+ 
+I. 
+INTRODUCTION 
+Fiscal austerity—reducing deficits by cutting expenditures or raising revenues—is often 
+needed to bring the government debt to sustainable levels. A sustainable debt in turn insulates 
+countries from interest rate shocks and increases their capacity to respond to crises. Yet, a 
+strongly held conventional wisdom holds that any government that reduces the budget deficit 
+by raising taxes or cutting expenditures is punished at the polls. This belief, however, is not 
+supported by existing empirical evidence. In what is probably the most comprehensive 
+empirical study on this point, Brander and Drazen (2008) find a weak opposite effect: 
+governments reducing deficits are slightly rewarded.  
+This paper reassesses the conventional wisdom that austerity carries an electoral cost 
+by making important progresses in the identification of the political effects of fiscal austerity 
+and highlighting the importance of the ‘how’—whether austerity is done via tax hikes or 
+expenditure cuts—and the ‘who’—whether it is carried out by left- vs. right-leaning 
+governments. As we show, these elements are key to reconcile the empirical evidence with the 
+conventional wisdom. 
+Previous studies have typically used ex-post yearly fiscal data on the deficit-to-GDP 
+ratio to examine the electoral effects of austerity. Since elections and changes in governments 
+can take place at any time of the year, it is close to impossible to exactly determine which 
+government is responsible for austerity using these data. Moreover, the budget deficit is a 
+grossly imperfect measure of fiscal austerity, as it is endogenous to the state of the economy.6 
+ 
+6 The deficit-to-GDP ratio may go down just before an election not because a government has adopted austerity, 
+but simply because the economy is in a boom. Conversely, the deficit may go up despite the introduction of 
+austerity policies because the economy is deteriorating. In such a situation, a researcher relying on ex-post fiscal 
+data may baselessly conclude that expansionary fiscal policy (and not austerity or weaker growth) is harmful for 
+re-election. 
+
+=== page 5 ===
+ 
+5 
+ 
+ 
+5
+We make important progresses in these respects by using a real-time narrative dataset of ex-
+ante austerity plans. The use of policy records allows us to (i) include episodes in which the 
+budget worsened despite austerity, while excluding those in which it improved because of a 
+booming economy, (ii) identify the precise timing of each austerity plan to match it to the 
+government that introduced it, and (iii) distinguish between tax hikes and expenditure cuts.  
+Combining our narrative austerity dataset with novel data on political parties’ vote 
+shares and ideological leaning, we find strong evidence supporting the conventional wisdom 
+that (some) austerity plans are politically costly. Our key finding is that tax-based austerity 
+carries large electoral costs, while expenditure-based consolidations are neutral on average. An 
+austerity package worth 1% of GDP, carried out mostly through tax hikes, reduces the vote 
+share of the leader’s party by about 7%. Note that Alesina et al. (2019) show that tax-based 
+austerity has much stronger negative effects on GDP growth than expenditure cuts, but the 
+results described above hold even controlling for growth—and, therefore, for the effect of 
+austerity on the economy. 
+Our second set of results highlights the importance of ideology: the negative effect of 
+tax-based consolidations is stronger for right-leaning governments, while expenditure-based 
+austerity is detrimental for left- but beneficial for right-leaning ones. These asymmetries 
+plausibly reflect differences in the preferred degree of government redistribution among voters 
+of parties at opposite ends of the political spectrum. 
+We also investigate whether the timing of austerity in relation to the business cycle 
+matters for its electoral outcomes and find that it does. The electoral cost of austerity—
+especially tax hikes—is higher (lower) when implemented during bad (good) economic times. 
+These results are consistent with those of Alesina et al. (2020) that show that economic reforms 
+
+=== page 6 ===
+ 
+6 
+ 
+ 
+6
+are penalized during contractions but are often rewarded in expansions and suggest that voters 
+may have difficulties distinguishing between underlying economic conditions and the growth 
+effects of some government policies. We also find that the asymmetric effects of expenditure-
+based consolidations depending on ideology are larger in good economic times. 
+Obviously, endogeneity problems loom large. For example, governments which are 
+reasonably sure to win the election may afford to implement austerity and are indeed re-elected 
+despite, not because of, austerity. There are three main relevant endogenous choices a 
+government is faced with: (i) whether to engage in austerity policies at all; (ii) when to do it 
+during the electoral term; and (iii) whether to base austerity on tax hikes or expenditure cuts 
+(the composition of the austerity plan). Despite our best attempts to control for selection and 
+government strength, it is close to impossible to solve these issues convincingly, and we must 
+acknowledge that the empirical results on the effects of austerity on elections may be biased 
+because of this endogeneity. As we show, however, we find evidence of government strategic 
+behavior that may suggest that the electoral effects of austerity are larger than those estimated.  
+First, we observe that governments tend to avoid announcing austerity close to elections 
+and concentrate austerity plans at the beginning of their mandate, when they have stronger 
+political support and the next election is relatively far away so that electoral considerations are 
+less important. Second, we find that weak governments—perhaps recognizing their 
+vulnerability or believing the conventional wisdom that austerity is costly—tend to implement 
+less austerity than strong ones. Both elements suggest that our results are likely to be a 
+conservative estimate of the electoral effects of austerity.7 
+ 
+7 If the true effect of austerity on the electoral outcome was negative, a strategic government would try to adjust 
+the budget when the cost of doing so (the marginal change in the vote share) is low, which occurs when the 
+government is popular. As a result, the estimated coefficient would be biased upward. If the true coefficient, 
+instead, was positive, then a strategic government would exploit this relation, and governments that are less sure 
+
+=== page 7 ===
+ 
+7 
+ 
+ 
+7
+ We try to address endogeneity as follows. In all our estimations we include political 
+party fixed effects to control for parties’ specific characteristics—including ideology—that 
+may influence the choice of whether and how to engage in austerity. We also perform other 
+exercises. First, we consider the endogenous choice of when in the electoral term to do austerity 
+and focus on the sample of consolidation plans that are announced in the first year of the 
+government’s term is in office—which is when strategic electoral considerations are likely to 
+be less of a concern.8 The results are even sharper than our baseline and confirm the main 
+finding that tax-based consolidations decrease the vote share of incumbent parties while 
+expenditure-based ones are neutral, on average. Second, we control for the strength of the 
+government and find similar results. We also find the electoral cost of tax-based austerity to 
+be significantly larger for weaker governments, which again suggests that our baseline estimate 
+may be a lower bound of the true electoral cost of tax-based austerity. Third, we directly control 
+for the choice of whether to introduce austerity and whether to carry it out through tax hikes 
+or expenditure cuts. The results are in line with our baseline findings: the marginal effect of 
+tax-based austerity—conditional on carrying out austerity—is negative and significant, while 
+that of expenditure-based austerity is insignificant. 
+ Finally, to further address endogeneity, we adapt the approach proposed by Jordà and 
+Taylor (2016) to achieve identification of causal effects of austerity. We employ an augmented 
+inverse probability weighting (AIPW) estimation which gives less weight to austerity episodes 
+ 
+of being re-elected would have a greater incentive to implement austerity. In such a case the estimated coefficient 
+would be biased downward.  
+8 Another element of strategic selection is that governments which perceive a higher risk of ending their mandate 
+prematurely, independently of austerity, will consolidate early in the term, while governments less afraid of it 
+would care less, and would carry it out relatively later in the term.   
+
+=== page 8 ===
+ 
+8 
+ 
+ 
+8
+that can be predicted based on macroeconomic and political variables. The results confirm that 
+tax-based austerity plans carry electoral costs, while expenditure-based ones do not on average.  
+Our analysis has interesting implications regarding recent evidence provided in 
+Passarelli and Tabellini (2017) and Ponticelli and Voth (2020).9 These papers show that 
+expenditure cuts generate uprisings, demonstrations and street actions. The former, which is 
+more directly related to ours because its data are on a more recent period and more consistent 
+with our sample, finds that budget cuts lead to social unrest. The latter uncovers a positive and 
+significant association of demonstrations, political assassinations, and general strikes with 
+expenditure cuts, but not with tax hikes. Expenditure cuts may indeed affect certain 
+constituencies, such as farmers, students, public employees, specific industries or regions. 
+These groups may revolt but the median voter is, however, the taxpayer. Her only available 
+political response is voting, and she votes against tax hikes. Thus, our result suggest that it is 
+possible to have street demonstrations against expenditure cuts and electoral victories (or lack 
+of defeats) of governments which implement them.  
+More generally, these considerations are related to the issue of localized benefits and 
+generalized costs. Preventing a budget cut is a localized benefit, paying for it with a tax hike 
+is usually a generalized cost. Weingast et al. (1981) first made the point that representative 
+legislatures give priorities in the budget to projects for districts that they represent, arguing that 
+this strategy, commonly referred to as “pork barrel expenditure”, increases in the number of 
+electoral districts. Battaglini and Coate (2008) present a theoretical framework of collective 
+fiscal policy choices that encompasses this phenomenon too.  
+ 
+9 The former uses data from 19 OECD countries from 1975 to 2008 while the latter focuses on 24 European 
+countries from 1919 to 2008. 
+
+=== page 9 ===
+ 
+9 
+ 
+ 
+9
+As we discussed earlier, we are not the first to study the effect of austerity on elections. 
+The results of the previous literature, based on ex-post yearly austerity measures, are generally 
+inconclusive. Alesina et al. (1998) find that reductions in the deficit do not predict a future 
+change in government in a sample of advanced economies, while Alesina et al. (2012) do not 
+find any evidence that large fiscal adjustments decrease the probability that a government is 
+replaced by one with different ideology.10 Alesina et al. (2019) in Chapter 10 review the 
+literature on this point and provide new results which are again inconclusive: it is hard to find 
+a strong statistical correlation between austerity measures and the electoral fortunes of the 
+incumbent. A related literature has looked at fiscal performance and elections. Peltzman 
+(1992), Brender (2003) and Drazen and Eslava (2003) study the effects of budget deficit on 
+electoral results in state and local elections in, respectively, the United States, Israel and 
+Colombia, and find that voters punish, rather than reward, budget deficits. Brender and Drazen 
+(2008) examine 350 electoral campaigns across 74 countries and find that voters are (weakly) 
+likely to punish rather than reward budget deficits accumulated during the leader’s term in 
+office. Relatedly, Arias and Stasavage (2019) study a sample of countries and a timeframe 
+ranging from 1870 to 2011 and show that cuts in expenditures are not associated with 
+government turnover. The main difference between our paper and these studies is that we use 
+a real-time narrative database of ex-ante fiscal measures.  
+The rest of this paper is organized as follows. Section II discusses the dataset and the 
+construction of our austerity variables. Section III presents some stylized facts on the timing 
+of austerity announcements in the electoral cycle and the characteristics (in terms of ideology 
+and strength) of the governments responsible for them. We describe the empirical framework 
+ 
+10 The former study uses primary deficit, while the latter uses cyclically adjusted deficit.  
+
+=== page 10 ===
+ 
+10 
+ 
+ 
+10
+in Section IV and present the main results in Section V. Section VI discusses endogeneity 
+issues and how we address them, while in Section VII we present some extensions to the 
+baseline analysis. Section VIII concludes. 
+ 
+II. 
+DATASET 
+Our sample covers 16 advanced economies (Australia, Austria, Belgium, Canada, Denmark, 
+Finland, France, Germany, Ireland, Italy, Japan, Portugal, Spain, Sweden, the United Kingdom 
+and the United States) and spans the 1978-2014 period. 
+ 
+A.    
+Austerity Data 
+We use the action-based dataset of Alesina et al. (2019), who rely on a narrative approach à la 
+Romer and Romer (2005) to identify fiscal consolidation plans in 16 OECD countries from 
+1978 to 2014. 11 In particular, the dataset covers 3500 different fiscal measures adopted in the 
+context of more than 250 austerity plans. Some of these measures are announced for future 
+implementation (over the 5 subsequent years), while others are implemented within the same 
+announcement year. The data record the budgetary impact (as estimated in the documents that 
+accompany their adoption) of these fiscal measures on total revenues and expenditures relative 
+to a baseline of no policy change. 
+This dataset has three important advantages for our analysis. The first is that it allows 
+us to determine the exact month of the announcement of each austerity plan decided by the 
+government. This is possible because Alesina et al. (2019) link each plan to the official policy 
+ 
+11 Alesina et al. (2019) build upon Devries et al. (2011). 
+
+=== page 11 ===
+ 
+11 
+ 
+ 
+11
+records used to identify it. We retrieve the precise month of each announcement by reading the 
+policy records and, when these do not contain the announcement date, by conducting other 
+searches on the web. Once the month of announcement is known, we assign the austerity plan 
+to the government that announced (implemented) it. Using standard yearly austerity data this 
+would be impossible, since elections and changes in governments take place at any time of the 
+year. 
+The second advantage of the dataset of Alesina et al. (2019) is that it embraces the 
+notion that austerity measures are typically introduced by means of multi-year plans. This 
+dynamic nature is such that austerity plans affect voters’ expectations about the future. Since 
+the dataset lists both measures for immediate and future implementation, we can account for 
+policies that are yet to be implemented but that still influence voters’ choices at the election. 
+The third advantage is that the dataset only covers discretionary measures. Focusing on 
+discretionary actions is important as, from an electoral standpoint, a deficit reduction obtained 
+because growth was strong is very different from a deficit reduction due to austerity measures. 
+Moreover, only plans whose objective is not to influence the state of the real economy are 
+included in the dataset. Most plans are thus driven by the need to reduce the deficit or the stock 
+of debt, or to correct a long-term dynamic of a budgetary chapter. The exogeneity of our 
+austerity measure to output eliminates one potential source of endogeneity, and it also allows 
+us to test whether austerity policies have effects on electoral variables through their effects on 
+output. We provide more details on the dataset of Alesina et al. (2019) in Appendix A. 
+ 
+Construction of Austerity Variables 
+To construct our fiscal variables, we first assign each austerity plan recorded in Alesina et al. 
+(2019) to the government that announced it. For each plan, we then calculate the overall 
+
+=== page 12 ===
+ 
+12 
+ 
+ 
+12
+budgetary impact expected in real-time over a five-year period—that is, considering both 
+measures for immediate and future implementation—as a fraction of GDP.12,13  
+Following Alesina et al. (2019) and a plethora of other empirical studies, we distinguish 
+between tax- and expenditure-based plans. We classify each austerity plan as either tax- or 
+expenditure-based, based on whether 55% or more of the overall consolidation effort is 
+achieved via tax hikes or expenditure cuts, respectively. By doing so, we exclude from the 
+analysis a few plans that are close of 50/50% because the classification of these plans would 
+be arbitrary.14 Finally, to obtain the key regressors that we use in the analysis, we sum up all 
+consolidation plans announced during the government term, still distinguishing between tax- 
+and expenditure-based plans.15 
+To sum up, our two main austerity variables measure the current and expected future 
+budgetary impact of all new tax- and expenditure-based consolidation plans decided during the 
+government’s term. Therefore, we also consider measures that are announced and not yet 
+implemented when voters head to the poll, which are likely to influence their preferences as 
+much as the plans that are already implemented.  
+ 
+12 As in Alesina et al. (2019), we use GNP and not GDP for Ireland. 
+13 We only consider the impact of permanent rather than one-off changes in fiscal policy. This is because one-off 
+changes should arguably have smaller effects than permanent changes and are too few to separately estimate their 
+effects. The results are robust to also including one off measure and treating them as permanent. 
+14 For a more detailed discussion, see Alesina et al. (2019). The main results of this paper are robust if 50% or 
+60% thresholds were used instead of 55% to define tax- and expenditure-based plans (see Table C2 in Appendix 
+C). 
+15 Aggregating all plans in the same government term implies that tax- and expenditure-based plans are not 
+mutually exclusive in one term. This requires the additional assumption that fiscal plans are not correlated across 
+different time periods, i.e. that a tax(expenditure)-based plan at period t predicts an expenditure(tax)-based plan 
+at t+k, with t and t+k being in the same government term. Although the correlation between tax- and expenditure-
+based plans implemented in different years of the same government term is indeed low, in a robustness check we 
+also consider alternative variables constructed dropping this assumption, therefore considering tax- and 
+expenditure-based plans that are mutually exclusive within one term. Our results are robust to this alternative 
+specification (see Table C2 in Appendix C). 
+
+=== page 13 ===
+ 
+13 
+ 
+ 
+13
+In contrast, we assume that the implementation of austerity measures announced by a 
+previous government does not impact the electoral outcome of the government in charge. 
+Another approach would be to consider only measures that are implemented in the term, 
+consistent with the rationale that the current government must be held responsible even for 
+policies announced by previous governments that it did not decide to overturn. Our results are 
+also robust to this approach, as we show in a robustness check. 
+ 
+B.    
+Electoral and other data 
+In this section, we summarize the construction of our electoral variables. We provide more 
+details, together with descriptive statistics, in Appendix B. Electoral data come from multiple 
+sources. We use the electoral dataset compiled by Alesina et al. (2020) to retrieve the dates of 
+each general election, as well as the start and end dates of each government’s term in office.16 
+For parliamentary systems—that is, all countries in our sample except France and the United 
+States—we rely on Wikipedia and Doring and Manow (2019) to reconstruct the party or 
+coalition of parties supporting the government.  
+In parliamentary systems there can be multiple governments within the same 
+legislature. Hence, we construct a ‘party term’ variable that captures the period featuring the 
+same governing party (or coalition of parties) within the same legislature.17 Governments 
+ 
+16 All countries in our sample, except France and the United States, have parliamentary systems in which the head 
+of state has largely a ceremonial role. Hence, we only consider parliamentary elections for these countries. For 
+the United States, we only consider presidential elections as the president is also the head of government. In 
+France, voters elect both the president and the parliament, and both the president and the head of government 
+have executive powers. However, since presidential elections typically attract a higher turnout, we focus on 
+presidential elections. There are also five interim governments in our sample (Boeynants and Verhosdaft III in 
+Belgium, Aoki and Ito in Japan and Pintasilgo in Portugal), three technocratic governments (Ciampi, Dini and 
+Monti governments in Italy), and one case in which the main party supporting the government did not run at the 
+next election (the Amato I cabinet in Italy). These governments are excluded. 
+17 Governing parties are defined as such if they hold Cabinet seats in the government (Ministries). 
+
+=== page 14 ===
+ 
+14 
+ 
+ 
+14
+within the same legislature that are not supported by the same parties are treated as belonging 
+to different party terms. In the case of presidential systems, given that the president stays on 
+for a fixed amount of time, we just retrieve the party to which he or she belongs and record the 
+party term as the term of the president. This party term variable serves as the basis for our 
+analysis, in that we investigate the effect of austerity policies announced during the party term 
+on the electoral performance of the party(ies) supporting the government. 
+Next, we rely on the dataset of Doring and Manow (2019) to collect information on the 
+vote share obtained by the party of the chief executive at the two elections defining the start 
+and the end of the legislature and compute its percent change.18 We also construct a variable 
+measuring the vote share change of the overall coalition of governing parties, as well as similar 
+other variables to be used in some robustness checks—the vote share change at the previous 
+election, the percent change in parliamentary seats share, and the election turnout. Finally, 
+from Doring and Manow (2019), we also source a variable measuring the political leaning of 
+the leader’s party (ideology) and normalize it to range between -10 and 10. This variable takes 
+value 0 for the center of the political spectrum and higher (lower) values for more right- (left-
+)leaning parties. 
+Our database is complemented by other macroeconomic data that we collect to run 
+some robustness checks and extensions. From the IMF World Economic Outlook (Spring 2019 
+Edition), we source real per capita GDP growth, the unemployment rate, the budget balance, 
+ 
+18 Our approach using the vote share change improves upon earlier analyses relying on dummy variables to 
+measure political effects of government actions. Brender and Drazen (2008) use a 0/1 dummy taking value 1 
+when the chief executive is re-elected and 0 otherwise. The same approach is also followed in Peltzman (1992), 
+Brender (2003), Drazen and Eslava (2010), and Jones, Meloni and Tommasi (2012) to answer similar research 
+questions. Using the change in the vote (or seats) share allows to more precisely quantify the electoral effects of 
+austerity. Using a continuous rather than a dichotomous variable has also the advantage to estimate the 
+specification using simply OLS—rather than Probit or Logit—and to include party fixed effects in the regression 
+without sacrificing any observation.    
+
+=== page 15 ===
+ 
+15 
+ 
+ 
+15
+the inflation rate and the 10-year real government bond yield. From the OECD Statistical 
+Database, we source data on national disposable income (in constant prices and national 
+currency). We linearly interpolate these variables to have them at the monthly frequency and 
+calculate (i) their value in the month of the election, (ii) their averages over the entire duration 
+of the government term, and (iii) their change both during the last 12 months and over the 
+entire government term. Further, we source indicators of economic liberalization in the areas 
+of capital account transactions, trade tariff barriers, domestic finance and labor market from 
+Alesina et al. (2020) and calculate their change between the first and last year of the 
+government term.  
+ 
+III. 
+WHO ADOPTS WHAT TYPE OF AUSTERITY AND WHEN 
+This section presents a few key stylized facts on the type and timing of austerity plans adopted 
+by different governments. In short, these stylized facts suggest that: (i) governments tend to 
+avoid announcing austerity close to elections and concentrate austerity plans at the beginning 
+of their mandate, when they have stronger political support; (ii) weak governments—perhaps 
+recognizing their vulnerability—tend to implement less austerity than strong ones; and (iii) 
+closer to elections, the type of austerity depends on the government’s ideology: right-leaning 
+governments prefer expenditure cuts over tax increases, while the opposite holds for left-
+leaning governments. In the rest of this section we discuss these stylized facts more in detail. 
+We begin by exploring whether there exists a systematic pattern in the timing of 
+austerity announcements. In Figure 1, we plot the size of the average austerity announcement 
+in each of the first four years of the government term—for the overall consolidation effort 
+
+=== page 16 ===
+ 
+16 
+ 
+ 
+16
+(Panel A) and for tax- and expenditure-based announcements (Panel B).19 The figure provides 
+suggestive evidence that austerity is larger in the first than any other year of the term. This is 
+mostly driven by tax-based consolidations, which are almost four times as large in the first as 
+in the fourth year of the term. In contrast, expenditure-based consolidations do not seem to 
+follow a systematic pattern over the government term, on average. 20 Behind these average 
+patterns, there are some important differences between left- and right-leaning governments: 
+while, for both left- and right-leaning governments, tax-based consolidations decline as the 
+election approaches, expenditure-based ones increase close to an election for right-leaning 
+government whereas they gradually decline over the term for left-leaning governments (Figure 
+2). 21,22  
+We next explore whether the choice to carry out austerity or not depends on the strength 
+of the government’s mandate. For this purpose, we consider the change in the vote share 
+obtained by the incumbent party in the election that brought it to power and look at austerity 
+plans announced by strong and weak governments. We distinguish among them based on 
+whether the change in the vote share is above or below the median. The statistics reported in 
+Table 1 suggest that strong governments carry out austerity plans more frequently and adopt 
+larger packages than weak ones on average. This holds both for tax- and expenditure-based 
+ 
+19 If the term starts in the last six months of the year, we consider the start year of the term to also include the 
+following year. Similarly, if the term ends in the first six months of the year, we consider the last year to also 
+include the previous one. To ensure a fair comparison, we scale each announcement in the first and last year of 
+the term by the total number of months in those two years. 
+20 We also observe that expenditure-based austerity is typically more frequent (and/or larger) than tax-based 
+austerity, as also noted in Alesina et al. (2019). 
+21 We define left- (right-)leaning governments as those having a score respectively below (above) 0 for the 
+ideology variable. 
+22 Note that the average expenditure-based announcement for right-leaning governments is statistically different 
+from that of left-leaning governments in the election year. The null hypothesis that tax-based austerity 
+announcements in the election year by left- and right-leaning governments are equal cannot be rejected only by a 
+small margin. 
+
+=== page 17 ===
+ 
+17 
+ 
+ 
+17
+austerity and both across the entire government term and the first year in office. In particular, 
+in the first year, when our measure of strength better captures the popularity of the government 
+just elected, strong governments carry out austerity packages that are about 2½ times larger 
+than those adopted by weak ones (statistically significant at the 95% confidence interval). We 
+further differentiate based on ideology and find that the strength of the mandate matters for 
+both  left- and right-leaning governments. However, the difference is more pronounced among 
+the former and especially in the case of expenditure-based austerity.  
+Overall, these findings suggest that strategic selection might indeed be at play: 
+governments recognize that austerity is unpopular, and they try to announce it when they are 
+relatively stronger. 23 We explicitly address this issue when we examine the electoral effects 
+austerity in the first year of the government term and distinguish between governments with 
+strong and week mandate.  
+ 
+IV. 
+ECONOMETRIC SPECIFICATIONS 
+To empirically analyze the electoral effects of austerity, we regress the percent change of the 
+vote share of the parties supporting the government onto our two austerity variables, 
+respectively measuring the tax- and expenditure-based consolidation plans announced during 
+the term. We include party fixed effects to limit the endogeneity arising from the strategic 
+selection in the announcement and composition of austerity plans depending on the 
+government’s ideology. We also include GDP growth at the time of the election, as many other 
+ 
+23 These findings are also in line with Hubscher (2016) and Hubscher and Sattler (2016). The former finds that 
+strategic considerations play an important role in the timing and design of fiscal consolidations, while the latter 
+conclude that electorally vulnerable governments strategically avoid consolidations towards the end of the 
+legislative term in order to minimize electoral punishment. 
+
+=== page 18 ===
+ 
+18 
+ 
+ 
+18
+papers have shown this variable to be an important predictor of electoral results (for instance, 
+see Brender and Drazen, 2008). The baseline equation that we estimate is as follows: 
+ 
+%𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑖𝑖,𝑒𝑒= 𝛼𝛼+ 𝛾𝛾𝑖𝑖𝑖𝑖+ 𝛽𝛽𝑇𝑇𝑇𝑇𝑖𝑖,𝑒𝑒+ 𝛿𝛿𝑆𝑆𝑆𝑆𝑖𝑖,𝑒𝑒+ 𝜑𝜑𝑌𝑌𝑖𝑖,𝑒𝑒+ 𝜗𝜗𝑍𝑍𝑖𝑖,𝑒𝑒+ 𝜀𝜀𝑖𝑖,𝑒𝑒 
+ 
+ (1) 
+ 
+where the subscripts i and e refer respectively to country i and election e, while the subscript 
+ij refers to the leader’s party j in country i;  %𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑖𝑖,𝑒𝑒 is our dependent variable, which measures 
+the percent change of the vote share of either the coalition of parties supporting the government 
+or the party of the incumbent leader; 𝛼𝛼 is a constant term; 𝛾𝛾𝑖𝑖𝑖𝑖 are party fixed effects; 𝑇𝑇𝑇𝑇𝑖𝑖,𝑒𝑒 and 
+𝑆𝑆𝑆𝑆𝑖𝑖,𝑒𝑒 respectively denote the tax- and expenditure-based austerity plans announced during the 
+government term, in % of GDP; 𝑌𝑌𝑖𝑖,𝑒𝑒 is GDP growth at the time of the election; 𝑍𝑍𝑖𝑖,𝑒𝑒 is a matrix 
+of controls and additional variables capturing macroeconomic developments and political 
+factors; and finally 𝜀𝜀𝑖𝑖,𝑒𝑒 is an error term assumed to be uncorrelated with the regressors. 𝛽𝛽 and 
+𝛿𝛿 are the main coefficients to be estimated. For the estimation, we rely on OLS. Standard errors 
+are computed using the robust estimator of variance. 
+We then augment Equation (1) to run some extensions to the baseline analysis. In a 
+first extension, we test the hypothesis that the electoral effects of austerity depend on whether 
+(and how much) the government is left- or right-leaning. To do so, we interact our austerity 
+measures with the ideology variable and add these interaction terms to Equation (1). In 
+practice, we estimate the following specification:  
+ 
+𝑦𝑦𝑖𝑖,𝑒𝑒= 𝛼𝛼+ 𝛾𝛾𝑖𝑖𝑖𝑖+ 𝛽𝛽𝑇𝑇𝑇𝑇𝑖𝑖,𝑒𝑒+ 𝜔𝜔𝑇𝑇𝑇𝑇𝑖𝑖,𝑒𝑒∗𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝑖𝑖,𝑒𝑒+ + 𝛿𝛿𝑆𝑆𝑆𝑆𝑖𝑖,𝑒𝑒+ 𝜎𝜎𝑆𝑆𝑆𝑆𝑖𝑖,𝑒𝑒∗𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝑖𝑖,𝑒𝑒+
++ 𝜑𝜑𝑌𝑌𝑖𝑖,𝑒𝑒+ 𝜗𝜗𝑍𝑍𝑖𝑖,𝑒𝑒+ 𝜀𝜀𝑖𝑖,𝑒𝑒 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+ 
+
+=== page 19 ===
+ 
+19 
+ 
+ 
+19
+where 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝑖𝑖,𝑒𝑒 takes larger positive (negative) values the more right- (left-)leaning is the 
+government. The rest is as in Equation (1).  
+In a second extension, we investigate whether the electoral effects of austerity policies 
+are affected by the macroeconomic conditions prevailing at the time of the announcement. 
+Drawing from previous literature studying whether austerity tends to have different effects on 
+output growth depending on the state of the business cycle (Auerbach and Gorodnichenko, 
+2012; Ramey and Zubairy, 2017; Alesina et al., 2019), we test the hypothesis that austerity is 
+better received when it is carried out in good economic times. Since, all else equal, higher taxes 
+and lower government expenditures might decrease disposable incomes, it is reasonable to 
+expect austerity to be more accepted when growth is high and incomes are rising. Moreover, 
+as discussed in Alesina et al. (2020), voters may not be able to distinguish between underlying 
+economic conditions and the effect of policies on economic conditions, therefore penalizing 
+(rewarding) any policy choice during recessions (booms). 
+The strategy that we follow is to allow for the effects of the fiscal plans adopted during 
+the government term to depend on whether each of these plans was adopted in a boom or in a 
+downturn. In particular, following Auerbach and Gorodnichenko (2012), we first transform 
+standardized output growth, Z, into a variable G(Z) ranging between 0 and 1 and increasing in 
+Z. G is defined to be the following logistic function: 𝐺𝐺൫𝑍𝑍𝑖𝑖,𝑡𝑡൯= 
+𝑒𝑒𝑒𝑒𝑒𝑒 (−𝛾𝛾𝑍𝑍𝑖𝑖,𝑡𝑡)
+1+𝑒𝑒𝑒𝑒𝑒𝑒 (−𝛾𝛾𝑍𝑍𝑖𝑖,𝑡𝑡), where the 
+subscripts i and t refer to country i and year t; 𝑍𝑍𝑖𝑖,𝑡𝑡 is the real GDP growth rate, normalized to 
+have zero mean and unit variance within country; and 𝛾𝛾 is a smoothing parameter taking value 
+1.5. We then interact 𝐺𝐺൫𝑍𝑍𝑖𝑖,𝑡𝑡൯ and 1- 𝐺𝐺൫𝑍𝑍𝑖𝑖,𝑡𝑡൯ with the yearly austerity variables and take the 
+sum of the resulting products over each year of the government term. We label the variables 
+obtained in this way using the superscript L and H, to denote austerity announced during 
+
+=== page 20 ===
+ 
+20 
+ 
+ 
+20
+periods of low and high states of economic growth. We then estimate the following 
+specification (where the notation is as before):  
+ 
+𝑦𝑦𝑖𝑖,𝑒𝑒= 𝛼𝛼+ 𝛾𝛾𝑖𝑖𝑖𝑖+ 𝜇𝜇𝜇𝜇𝜇𝜇𝑖𝑖,𝑒𝑒
+𝐿𝐿+ 𝜌𝜌𝑇𝑇𝑇𝑇𝑖𝑖,𝑒𝑒
+𝐻𝐻+ 𝜃𝜃𝑆𝑆𝑆𝑆𝑖𝑖,𝑒𝑒
+𝐿𝐿+ 𝜑𝜑𝑆𝑆𝑆𝑆𝑖𝑖,𝑒𝑒
+𝐻𝐻+ 𝜏𝜏𝑌𝑌𝑖𝑖,𝑒𝑒
+𝐻𝐻+ 𝜔𝜔𝑌𝑌𝑖𝑖,𝑒𝑒
+𝐿𝐿+ 𝜀𝜀𝑖𝑖,𝑒𝑒     
+           (3) 
+ 
+V. 
+MAIN RESULTS 
+We begin by estimating a regression including only our tax- and expenditure-based 
+consolidation variables. We then build upon this parsimonious specification by adding, first, 
+the party fixed effects and, second, GDP growth at the time of the election. Other controls are 
+added later in the robustness check exercises. Table 2 presents the estimated effects of tax- and 
+expenditure-based consolidations on the percent change of the vote share of both the party of 
+the incumbent leader (Columns 1-3) and the overall coalition of governing parties (Columns 
+4-6).  
+Our main finding is that tax-based consolidations carry large electoral costs, while 
+expenditure-based consolidations are neutral, on average. An austerity package worth 1% of 
+GDP, carried out mostly through tax hikes, reduces the vote share of the leader’s party by about 
+7% (Column 1). This effect is statistically significant at the 99% confidence level, it is robust 
+to the inclusion of leader’s party fixed effects (Column 2), and it is estimated to be roughly the 
+same when controlling for GDP growth, which, as expected, has itself a significant positive 
+effect on the vote share (Column 3). On the other hand, expenditure-based consolidations do 
+not have statistically significant effects. Note that when we control for growth the effects of 
+tax-based austerity are slightly diminished. This is consistent with the fact that tax-based 
+austerity has more recessionary effects than expenditure-based and suggests that the response 
+
+=== page 21 ===
+ 
+21 
+ 
+ 
+21
+of growth might be one channel for the effects of tax-based austerity on the incumbent’s vote 
+share, although certainly not the only one.  
+The effects that we estimate are also economically important. The results suggest that 
+a tax-based consolidation plan of about one standard deviation (approximately 1% of GDP) 
+would decrease the vote share of the incumbent party by about ½ standard deviation 
+(approximately 10%).  
+Looking at the coefficients estimated for the entire coalition of governing parties 
+(Columns 4-6), we find slightly lower negative effects of tax-based consolidations on the vote 
+share, which suggests that voters hold the party of the incumbent leader as more accountable 
+for austerity policies. To validate this intuition, in Table 3 we report results obtained estimating 
+Equation (1) on the restricted sample of coalition governments, using as dependent variable 
+the percent change in the vote share of (i) the overall coalition, (ii) the party of the incumbent 
+leader, and (iii) the rest of the governing parties. Estimates for the overall coalition and the 
+main party are in line with those of Table 2, while those for the rest of the coalition are not 
+statistically significantly different from zero. These results are consistent with prior findings 
+in the literature on “clarity of responsibility” (Powel and Whitten, 1993). In the remainder of 
+the paper we focus exclusively on the party of the incumbent leader and build upon Column 
+(3) of Table 2 as our baseline specification. 
+ 
+A.    
+Comparison with previous literature 
+Our results depart substantially from previous literature, which has not found evidence 
+supporting the conventional wisdom that voters punish governments implementing austerity. 
+As discussed earlier, our approach to identify fiscal austerity adopted by the government in 
+charge differs from previous studies along two main dimensions: the ability to exactly match 
+
+=== page 22 ===
+ 
+22 
+ 
+ 
+22
+austerity policies with the government that actually implemented (introduced) it, and the use 
+of ex-ante versus ex-post fiscal data.  Here, we assess how these methodological differences 
+contribute to the different results that we find.  
+First, we estimate Equation (1) using austerity variables constructed without precisely 
+matching austerity policies to the government announcing them. This issue may be particularly 
+relevant since austerity announcements are typically very large in the first year of the 
+government and without a careful matching process, austerity measures of a newly elected 
+government may be mistakenly attributed to the previous one. Second, we estimate Equation 
+(1) using ex-post austerity variables—that is, variables constructed using budgetary data on 
+changes in revenues and expenditures.24 Since many past studies do not distinguish between 
+tax hikes and expenditure cuts, we perform these exercises both for overall austerity and for 
+tax- and expenditure-based consolidations separately.  
+Table 4 reports the results. Columns 1-3 report estimates for overall austerity, while 
+Columns 4-6 distinguish between tax- and expenditure-based austerity. For convenience, 
+Columns 1 and 4 report estimates obtained using ex-ante matched fiscal data (our own 
+approach). Columns 2 and 5 show results obtained using ex-ante, but not matched, austerity 
+variables, while Columns 3 and 6 report coefficients estimated using austerity measures 
+derived from ex-post fiscal data.  
+The results obtained using ex-ante austerity variables that are not matched are 
+qualitatively in line to our baseline, although the negative effect estimated for tax-based 
+consolidations is halved and only marginally statistically significant (Columns 4). In contrast, 
+ 
+24 When using ex-post fiscal data, we define years in which the cyclically adjusted budget improves by more 
+than 1.5% of GDP as austerity episodes. 
+
+=== page 23 ===
+ 
+23 
+ 
+ 
+23
+when relying on ex-post fiscal variables and not distinguishing between tax hikes and 
+expenditure cuts (Column 3), we find a statistically positive effect, in line with Brender and 
+Drazen (2008) and others, while we do not find any statistically significant effect when we 
+distinguish between tax hikes and expenditure cuts.   
+Overall, these results suggest that both the use of ex-ante austerity data and the 
+matching of austerity policies to the actual government announcing them are key to correctly 
+identify the political effects of austerity and reconcile the conventional wisdom that (some) 
+austerity policies carry an electoral cost with the empirical evidence. 
+ 
+B.    
+Robustness Checks  
+Next, we assess the sensitivity of our baseline results to a battery of different specifications. In 
+particular, we check that the results (i) are not driven by a single political party or country, (ii) 
+are robust to using alternative variables to measure electoral performance and fiscal austerity, 
+(iii) are similar across different subsamples, and (iv) are robust to the inclusion of several 
+political, macroeconomic and structural control variables. The results from these alternative 
+specifications, which are presented and discussed in detail in Appendix C, confirm the 
+robustness of our baseline results. 
+ 
+VI. 
+ENDOGENEITY 
+In this section, we try to address potential sources of endogeneity regarding the timing and the 
+choice of doing austerity.  
+ 
+
+=== page 24 ===
+ 
+24 
+ 
+ 
+24
+A. Timing of Austerity Announcements 
+We begin by considering the endogenous choice of when to carry out austerity and only focus 
+on austerity conducted at the beginning of the government’s term, when electoral 
+considerations are less relevant for policy formulation. We re-estimate Equation (1) replacing 
+our baseline austerity variables with variables measuring the impact of austerity plans 
+announced in the first year of the government’s term. We also estimate a specification for 
+austerity announced in the third year of the term, with the rationale being that if strategic 
+selection were indeed an issue, then the effect of austerity of announced later in the term would 
+be estimated with more bias.25 For comparison, we also re-estimate the model only on the 
+subsample of governments that lasted at least over the third year and a specification in which 
+both the first and third year austerity variables enter the regression separately. 
+Table 5 presents the results. Column 1 reports our baseline (full sample and ‘any year’) 
+estimates, while Column 2 shows the results for austerity announced during any year of the 
+term in the subsample of governments lasting at least over the third year. Columns 3 and 4 
+report the results for austerity announced in the first year, estimated respectively on the full 
+sample and the subsample of governments lasting at least over the third year. Column 5 shows 
+results for austerity announced in the third year of the term, while Columns 6 focuses on the 
+first and third year.  
+Overall, the results confirm that tax-based austerity plans have negative and statistically 
+significant electoral effects, while expenditure-based austerity is neutral. Worth noticing, the 
+effect of tax hikes is larger for plans announced early in the government mandate (first year)—
+when strategic considerations are less important—than closer to elections (third year). This 
+ 
+25 We do not consider austerity carried out in the fourth year of the term, as we only observe 80 governments 
+lasting over the fourth year (about half of the sample). Austerity in the second year is instead included as control.  
+
+=== page 25 ===
+ 
+25 
+ 
+ 
+25
+may suggest that the estimated baseline effect is a lower bound of the true electoral cost of tax-
+based austerity.  
+ 
+B. Strength of Government 
+As shown in Table 1, governments with a strong mandate engage more in austerity policies 
+than those with a weak one, all else equal. This is because, presumably, strong governments 
+do not fear to lose the elections despite embracing austerity, while weak governments avoid 
+carrying out austerity because they are afraid of its electoral costs. While we already checked 
+that the results are robust when controlling for the initial strength of the government (Table 
+C4), an interesting question is whether the effect of austerity differs between strong and weak 
+governments.  
+To examine the role played by the strength of the government, we estimate Equation 
+(1) for the two subsamples of governments with a strong and a weak mandate, defined as in 
+Section III. We also estimate Equation (1) on the two restricted samples of strong and weak 
+governments using the variables capturing the austerity announced in the first year of the 
+government term, for which our definition of strong mandate is more relevant.  
+The results in Table 6 suggest that governments with a strong mandate are much less 
+affected by tax-based austerity than those with a weak one. Regardless of whether we consider 
+all austerity plans or only those announced in the first year of the term, we estimate a tax-based 
+austerity package worth 1% of GDP to reduce the vote share by about 5% for strong 
+governments, but the effect is not statistically different from zero. For governments with a 
+weak mandate, instead, we estimate a negative coefficient of about -8% in the case of austerity 
+adopted in any year of the term, while the effect of austerity adopted early in the term is more 
+than double, at -17%. Both coefficients are statistically significant at the 99% confidence level. 
+
+=== page 26 ===
+ 
+26 
+ 
+ 
+26
+Confirming our baseline findings, expenditure-based austerity plans, instead, do not have any 
+significant effect on the vote share, neither for strong nor for weak governments. In line with 
+the finding that strong governments are not penalized for tax-based austerity, voters also 
+reward them for good growth outcomes and do not punish them when the economy is in a 
+recession, while for weak governments the opposite holds. 26  
+These results are robust to alternative definitions of government strength and confirm 
+that weak governments are punished badly both if the economy is doing poorly and when they 
+implement tax-based austerity. 27 Note that since weaker governments tend to refrain from 
+doing austerity (Table 1), the estimated coefficient for the effect of tax-based austerity carried 
+out by weak governments is even likely to be biased upwards (smaller negative effects). 
+ 
+C. Choice of Doing Austerity 
+To further account for the choice of whether to carry out austerity or not and for the size of the 
+package, we next estimate two alternative specifications. In the first, we add a 0/1 dummy to 
+indicate whether any austerity is implemented during the government term to Equation (1). In 
+the second, we augment Equation (1) by including a variable measuring the magnitude of 
+overall austerity (both tax hikes and expenditure cuts) implemented during the term. Note that 
+since these two additional variables control for the choice of carrying out austerity and for the 
+ 
+26 The coefficient for GDP growth in the electoral year is about 5% for strong governments, while it ranges 
+between 2% and 3% for weak ones. Of course, the larger coefficients for strong governments might be driven by 
+periods of recessions. We check that this is not the case by replicating Table 6 but allowing GDP growth to have 
+differential effects in recessions (growth below zero) and expansions (growth above zero). The results, presented 
+in Table C6 in Appendix C, confirm that strong governments are rewarded for good growth outcomes, while they 
+are not punished when the economy is in a recession. Strikingly, instead, weak governments are punished when 
+the economy is in recession but are not rewarded when it is in expansion.  
+27 In Table C7 in Appendix C we replicate Table 6 using the level (rather than the change) of the vote share to 
+measure the strength of the mandate and estimate coefficients that are very similar to those obtained when using 
+the change in the vote share. 
+
+=== page 27 ===
+ 
+27 
+ 
+ 
+27
+size of the package, the coefficients for tax- and expenditure-based austerity measure the 
+marginal effects of the composition of austerity. In addition, we also estimate a specification 
+in which we include two dummies to capture all terms in which, respectively, at least one tax- 
+and on expenditure-based austerity plan is adopted—these dummies control for the choice of 
+adopting a tax- or expenditure-based plan, while the coefficients for tax- and expenditure-based 
+austerity report the marginal effects of the size of the plans. The results obtained from these 
+exercises are presented in Table 7 and confirm that tax-based austerity is more costly than 
+expenditure-based one. 
+ 
+D. Inverse propensity score weighting 
+As we discussed, the timing of the announcement of austerity over the cycle and the type of 
+austerity may be endogenous, the former to the proximity of elections and the latter to the 
+ideology of the government. Insofar as both the type of austerity and its effect depended on 
+these factors, the differential effect of tax- versus expenditure-based announcements could be 
+estimated with bias. Restricting the sample to episodes of consolidations occurring far from 
+the election (when electoral outcomes are less of a concern for politicians) and including 
+political controls in the regression may be sufficient to estimate unbiased coefficients if the 
+dependence between the outcome and these predictors were linear. To address the possibility 
+that this is not the case, we adopt an inverse propensity weighted regression adjusted estimator, 
+following Jorda and Taylor (2015).28 We proceed as follows. First, we classify a term as 
+receiving either an expenditure, tax or no treatment depending on whether consolidation in the 
+ 
+28 Such an estimator, which falls in the class of doubly robust estimators (Imbens 2004; Wooldridge 2007; 
+Lunceford and Davidian 2004; and Kreif et al. 2011) has the advantage to be consistent even if either the 
+propensity score or the linear regressions are mis-specified. 
+ 
+
+=== page 28 ===
+ 
+28 
+ 
+ 
+28
+first year of the term was either tax or expenditure based, if any.29 Second, we estimate a Probit 
+model of the occurrence of tax- and expenditure-based austerity on macroeconomic variables 
+(GDP growth, potential output, inflation  rate, debt-to-GDP ratio) and political variables 
+(ideology and the strength of the coalition) at the beginning of the government’s term as well 
+as their interaction. The results, reported in Table 8, suggest that expenditure-based plans are 
+more likely to follow higher levels of debt-to-GDP ratio, while tax-based austerity seems to be 
+predicted by the strength of the government.30 Next, we perform a linear fit of our outcome of 
+interest, the growth in vote share during the term on the same political and economic controls, 
+including the treatment variables. We then compute the difference in outcomes between the 
+treatments by reweighting the outcomes with the inverse of the propensity score computed 
+with the Probit regression just described. The estimated average treatment effect is reported in 
+Table 9. The results confirm our previous findings: expenditure-based plans are statistically 
+significantly less costly than tax-based ones; and tax-based austerity is significantly costlier 
+relative to years when no consolidation is announced. The coefficients measure the average 
+difference in vote share growth between different treatments, that in this case is about 1.3% 
+tax- or expenditure-based plan in the first year of term. 
+ 
+VII. 
+EXTENSIONS 
+In this section, we present some extensions to our baseline analysis. We explore the role played 
+by (i) the response of the economy to austerity, (ii) the government’s ideology, and (iii) the 
+ 
+29 We drop consolidations above the 90th percentile to make expenditure- and tax-based plans comparable in size 
+(on average around 1.3% of GDP). 
+ 
+30 Following Jorda and Taylor (2015), we replace extreme values of predicted probability with 0.9 and 0.1. 
+
+=== page 29 ===
+ 
+29 
+ 
+ 
+29
+economic conditions at the time of announcement as potential channels driving the electoral 
+effects of austerity. Further, we also examine the effect of austerity on the probability that the 
+government is dissolved before the end of its mandate.  
+ 
+A. The Response of the Economy to Austerity 
+One potential reason for the different electoral consequences of tax- and expenditure-based 
+consolidations could be their different effect on the economy. Indeed, using the same narrative 
+austerity data that we use, a large literature finds tax-based consolidations to induce large and 
+relatively persistent output losses, while expenditure-based consolidations are usually found to 
+have only mild, if any, contractionary effects. To the extent that voters care about 
+macroeconomic performance and income more in general, this differential response might 
+explain why tax-based austerity is more politically costly. 
+In what follows, we augment the model by adding several indicators of macroeconomic 
+performance during the government term in order to investigate the effect of austerity 
+controlling for the response of the economy, therefore essentially ‘shutting down’ this potential 
+transmission channel. We consider the average growth rate of GDP and disposable income 
+over the term, as well as the mean yearly change of the unemployment rate, the inflation rate, 
+and the budget balance over the term. Since the literature studying the macroeconomic effects 
+of austerity has found effects lasting over a 5-year window, here we only focus on austerity 
+carried out in the first year of the government’s term, thus allowing for some time for the 
+macroeconomic effects of austerity to fully materialize. Table 10 presents the results. For ease 
+of reference, the baseline results are reported in Column 1.  
+
+=== page 30 ===
+ 
+30 
+ 
+ 
+30
+The coefficients estimated for the control variables have the expected signs—positive 
+for GDP and disposable income growth as well as the fiscal balance and negative for 
+unemployment and inflation—and they are all statistically significant at standard confidence 
+levels except for the unemployment rate. Looking at tax- and expenditure-based 
+consolidations, their estimated effects on the vote share are not substantially changed. The 
+inclusion of the fiscal balance over the term (Column 5) and of all the macroeconomic variables 
+together (Column 7) only slightly reduces the effect of tax-based consolidations. These results 
+suggests that the response of the economy explain only partially the electoral effects of tax-
+based consolidations.  
+ 
+B. Ideology 
+Partisans models of political economy hold that voters weigh key macroeconomic variables 
+differently according to personal preferences. Crucially, these preferences also matter for the 
+desired size of governments. In this section, we investigate whether the electoral effects of 
+different austerity policies might depend on the political base of the parties implementing them. 
+Tax-based consolidations may carry more negative consequences if decided by right-wing 
+governments, while expenditure-based consolidations should be costlier for left- than right-
+leaning governments.  
+We test these hypotheses by interacting our tax- and expenditure-based austerity 
+variables with the ideology variable and estimating Equation (2). We estimate the model using 
+both our overall consolidation variables and those measuring consolidation announcements in 
+the first year of the term. Table 11 presents the results. Column 1 shows our baseline results 
+not accounting for ideology, while Columns 2 and 3 report coefficients obtained estimating 
+
+=== page 31 ===
+ 
+31 
+ 
+ 
+31
+Equation (2) using, respectively, the overall and the first-year austerity variables. To ease the 
+interpretation of the coefficients, the ideology variable is normalized so that it takes value 1 
+for the typical right-leaning government.31  
+The results confirm our hypotheses that right -leaning governments are more penalized 
+from tax hikes than expenditure cuts, while the opposite holds for left-leaning governments. 
+We find tax-based consolidations to be very costly for right-leaning governments, whereas 
+their effect tend to be not statistically significant for left-leaning ones. In contrast, expenditure-
+based consolidations are costly for left-leaning governments but beneficial for right-leaning 
+ones.  
+We also examined whether the electoral costs of tax-based consolidations carried out 
+by right-leaning governments are larger and statistically different from expenditure-based 
+consolidations from left-leaning governments. The point estimates provide suggestive 
+evidence that electoral costs tend to be larger for tax measures introduced by right government. 
+The F-test of the difference of these electoral effects is statistically significant for the full 
+sample, while it is not for the first year of the government mandate, when strategic 
+considerations are likely to be less relevant.   
+ 
+C.    
+Macroeconomic Conditions at the Time of Announcements 
+Do the electoral effects of austerity depend on the macroeconomic conditions prevailing at the 
+time in which it is announced?  In this section, we attempt to answer this question using a 
+smooth transition function as in Auerbach and Gorodnichenko (2012) to calculate the 
+probabilities of being in a low and in a bad state and estimate Equation (3) as discussed in 
+ 
+31 After this normalization, the ideology variable takes value -0.7 for the typical left-leaning government. Its 
+minimum and maximum values are -1.3 and 2.1 respectively. 
+
+=== page 32 ===
+ 
+32 
+ 
+ 
+32
+Section IV. Table 12 reports the results. Column 1 shows the baseline results (Equation 1), 
+while Column 2 lists coefficients obtained estimating Equation (3). Since the ideology of the 
+government is an important driver of the electoral effects of austerity, we also report 
+coefficients estimated from an alternative expanded specification in which we further interact 
+our austerity variables in good and bad states with the ideology variable.  
+The results offer two main insights. First, austerity policies, and particularly tax 
+increases, tend to reduce the vote share when carried out during bad economic times, regardless 
+of the ideology of the government. Second, the government may increase the vote share by 
+announcing austerity during good economic times, but this depends on the ‘who’ and the 
+‘how’: left-leaning governments gain votes by raising taxes, while right-leaning ones by 
+cutting expenditure. Further, we also find that right-leaning governments lose votes when 
+increasing taxes during good economic times. 
+ 
+D.    
+Austerity and the Probability of Early Fall of the Government 
+In parliamentary systems, governments can be voted out of office through a vote non-
+confidence by the parliament, and indeed the average length of the party term is well below 
+that of the legislature, indicating that governments tend to fall earlier than the natural end of 
+their term (see discussion in Appendix B). Here, we analyze whether one reason for 
+governments to fall early is the adoption of austerity policies. We construct an early fall dummy 
+variable, taking value 1 when the government falls before the last 6 months of the legislature 
+and 0 otherwise, and estimate a logistic regression model using our tax- and expenditure-based 
+consolidation variables plus GDP growth in the last 12 months of the government term. 
+Leader’s party fixed effects cannot be included since some of them would perfectly predict the 
+
+=== page 33 ===
+ 
+33 
+ 
+ 
+33
+dependent variable for some parties, thus reducing the sample. In detail, the specification that 
+we estimate is as follows: 
+ 
+𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝑖𝑖,𝑒𝑒= 𝛼𝛼+ 𝛽𝛽𝑇𝑇𝑇𝑇𝑖𝑖,𝑒𝑒+ 𝛿𝛿𝑆𝑆𝑆𝑆𝑖𝑖,𝑒𝑒+ 𝜑𝜑𝑌𝑌𝑖𝑖,𝑒𝑒+ 𝜀𝜀𝑖𝑖,𝑒𝑒  
+ 
+(4) 
+where 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝑖𝑖,𝑒𝑒 is the dummy capturing instances in which the government falls before the 
+end of the legislature and the rest is as in Equation (1). We also estimate an augmented 
+specification in which we interact the austerity variables with the ideology variable, similarly 
+as in Equation (2). Table 13 reports the results—coefficients are normalized so to express 
+marginal probabilities.  
+Broadly in line with our results on the effects of austerity on the vote share, we find 
+that tax-based consolidations increase the probability that the government falls before the 
+natural end of the legislature, whereas expenditure-based consolidations do not, on average. In 
+particular, an austerity package worth 1% of GDP, to be achieved mainly through tax hikes, 
+increases the probability of an early government fall by about 8%. This effect is statistically 
+significant at the 90% confidence level.  
+When we estimate the augmented specification accounting for ideology, we find that 
+expenditure-based consolidations reduce the probability of an early fall of the government 
+when implemented by right-leaning parties. Concerning tax-based consolidations, instead, 
+none of the estimated coefficients is statistically different from zero, although the signs are in 
+line with our earlier findings.  
+The main take-away from this analysis is that tax-based consolidations not only 
+decrease the vote share of the leader’s party but also reduce its spell in government. Since 
+when coalition governments fall early it is usually because one or more of the parties pulls out 
+
+=== page 34 ===
+ 
+34 
+ 
+ 
+34
+from the coalition, these results also nicely provide suggestive evidence as to why only the 
+party of the incumbent leader is punished at the poll after tax-based austerity. The junior parties 
+in the coalition may react to austerity by pulling out from the government when they see that 
+austerity is badly received by the public, thus making the main party as responsible and limiting 
+their own electoral fallout.  
+ 
+VIII. CONCLUSION 
+The electoral effects of fiscal policy choices are difficult to measure. We make progress by 
+using data which allow us to precisely match the announcement of an austerity plan with the 
+government introducing it, and to select only measures that are discretionary and not motivated 
+by the state of the economy, which can be critical for voters’ decisions. This approach allows 
+us to obtain much clear-cut and unequivocal results on the electoral consequences of fiscal 
+austerity relative to previous literature.  
+First, we uncover significant difference in the effects of tax- versus expenditure-based 
+austerity. The former is more costly at the polls even controlling for the more negative effects 
+on growth that it has relative to the latter. Second, we uncover significant ideological 
+differences. Right-leaning governments are less likely to implement tax-based austerity but are 
+punished more severely when they do so. Left-leaning governments are punished less severely 
+when they engage in tax-based austerity but are punished more if they engage in expenditure-
+based austerity, contrary to the fate of right-wing governments. Third, we find that 
+governments which have a stronger majority are less punished by the voters when they engage 
+in tax-based austerity. 
+
+=== page 35 ===
+ 
+35 
+ 
+ 
+35
+These facts are consistent with a model where parties are punished for implementing 
+the type of austerity which is further away from their political platform (expenditure cuts for 
+the left and tax hikes for the right), in a population of voters whose median is the tax-payer. 
+Politicians expect this and tend to avoid, when close to elections, tax- at the advantage of 
+expenditure-based austerity.  
+We also find that the electoral costs of fiscal austerity are larger when tax hikes or 
+expenditure cuts are introduced during periods of weak economic activity. In contrast, fiscal 
+austerity is not typically costly, and can actually be rewarded by voters, if implemented during 
+strong economic conditions. In particular, we find that left-(right-)leaning governments may 
+gain votes by raising taxes (cutting expenditure) in good times. These results have important 
+implications and suggest that fiscal consolidation does not necessarily lead to negative 
+electoral outcomes when political economic considerations related to the ‘when’ austerity is 
+implemented and by ‘who’ are internalized.  
+ 
+
+=== page 36 ===
+ 
+36 
+ 
+ 
+36
+FIGURES 
+ 
+Figure 1. The Electoral Cycle of Austerity 
+ 
+ 
+Notes: the figure plots the value of the full sample average consolidation announcement observed over the government 
+term. Panel A reports values for all consolidation announcements, while Panel B distinguishes between tax- (red bars) and 
+expenditure-based announcements (green bars). The y-axis denotes the value of the announcement, while the x-axis denotes 
+the timing (in years). 
+ 
+ 
+ 
+Figure 2. The Electoral Cycle of Austerity, Distinguishing by Ideology 
+ 
+ 
+Notes: the figure plots the value of the average consolidation announcement observed over the government term, 
+distinguishing by type of consolidation and ideology of the party of the incumbent leader. Panel A considers tax-based 
+consolidations (tax hikes being larger than expenditure cuts), while Panel B focuses on expenditure-based announcements 
+(expenditure cuts larger than tax hikes). Red (blue) bars report announcements made by governments where the party of 
+the incumbent leader is left- (right-)leaning. Striped bars indicate that the average announcement is not statistically different 
+from zero. The y-axis denotes the value of the announcement, while the x-axis denotes the timing (in years).   
+ 
+0.00
+0.10
+0.20
+0.30
+0.40
+0.50
+T1
+T2
+T3
+T4
+Panel A. All consolidation 
+announcements
+0.00
+0.10
+0.20
+0.30
+T1
+T2
+T3
+T4
+Panel B. Tax- and expenditure-
+based announcements
+Tax
+Spending
+0.00
+0.10
+0.20
+0.30
+0.40
+T1
+T2
+T3
+T4
+Panel A. Tax-based
+Left
+Right
+0.00
+0.10
+0.20
+0.30
+0.40
+T1
+T2
+T3
+T4
+Panel B. Expenditure-based
+Left
+Right
+
+=== page 37 ===
+ 
+37 
+ 
+ 
+37
+TABLES 
+ 
+Table 1. Government Mandate and Austerity Plans 
+  
+Overall 
+Tax 
+Expenditure 
+  
+Strong 
+Weak 
+Strong 
+Weak 
+Strong 
+Weak 
+% terms w. austerity 
+55.84 
+50.65 
+32.47 
+28.57 
+38.96 
+35.06 
+Mean total 
+1.24 
+0.99 
+0.30 
+0.30 
+0.85 
+0.61 
+Mean first year 
+0.59** 
+0.24** 
+0.19* 
+0.06* 
+0.39** 
+0.10** 
+Mean first year – left 
+0.99** 
+0.21** 
+0.22** 
+0.03** 
+0.78** 
+0.05** 
+Mean first year – right 
+0.40 
+0.25 
+0.18 
+0.08 
+0.21 
+0.12 
+Notes: the table reports values of the average austerity announcement (in % of GDP) made by governments with a ‘weak’ 
+and a ‘strong’ mandate, distinguishing by the type of consolidation announced (whether tax- or expenditure-based), the 
+ideology of the party of the incumbent leader (whether left- or right-leaning), and the time of the announcement (whether 
+in the first year or across the all sample). Governments with a ‘strong’ (‘weak’) mandate are defined as those in which the 
+change in the vote share of the main party at the election that brought the government into power is above (equal to or 
+below) the sample median. *, **, *** indicate that the mean between government with a ‘strong’ and ‘weak’ mandate are 
+statistically different from each other at the 90%, 95% and 99% confidence level, respectively. 
+ 
+ 
+Table 2. The Electoral Effects of Austerity 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+ 
+Party 
+Party 
+Party 
+Coalition 
+Coalition 
+Coalition 
+  
+  
+  
+  
+  
+  
+  
+Tax 
+-7.1*** 
+-8.2*** 
+-7.3*** 
+-6.3*** 
+-6.7*** 
+-5.9*** 
+ 
+(1.6) 
+(1.4) 
+(1.3) 
+(1.3) 
+(1.3) 
+(1.2) 
+Expenditure 
+-0.1 
+0.7 
+0.2 
+-0.9 
+-0.7 
+-1.3 
+ 
+(1.4) 
+(1.6) 
+(1.5) 
+(0.8) 
+(0.8) 
+(0.8) 
+Growth 
+ 
+ 
+2.8*** 
+ 
+ 
+2.6*** 
+ 
+ 
+ 
+(0.9) 
+ 
+ 
+(0.9) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Obs. 
+157 
+157 
+156 
+149 
+149 
+148 
+R^2 
+0.08 
+0.12 
+0.20 
+0.10 
+0.14 
+0.24 
+Party FE 
+NO 
+YES 
+YES 
+NO 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements, estimated from Equation (1). 
+“Tax” and “expenditure” report the % change of the vote share of either the governing party (Columns 1-
+3) or the coalition of governing parties (Columns 4-6) associated with a tax- and expenditure-based 
+consolidation announcement worth 1% of GDP, respectively. “Growth” reports the of the vote share 
+associated with a 1 p.p. increase in the growth rate in the year of the election. *, **, *** indicate statistical 
+significance at respectively the 90%, 95% and 99% confidence level, based on robust standard errors (in 
+parenthesis). Specifications in Columns 1 and 4 do not include incumbent party fixed effects, while all the 
+others do. 
+ 
+ 
+ 
+ 
+
+=== page 38 ===
+ 
+38 
+ 
+ 
+38
+Table 3. The Electoral Effects of Austerity for Coalition Governments 
+  
+(1) 
+(2) 
+(3) 
+ 
+Overall 
+Main 
+Rest of 
+ 
+coalition 
+party 
+coalition 
+  
+  
+  
+  
+Tax 
+-6.4*** 
+-8.7*** 
+-0.4 
+ 
+(1.8) 
+(2.2) 
+(4.6) 
+Expenditure 
+-0.1 
+2.0 
+-3.0 
+ 
+(0.7) 
+(1.9) 
+(1.9) 
+Growth 
+1.8* 
+2.4** 
+0.7 
+ 
+(0.9) 
+(1.1) 
+(1.6) 
+ 
+ 
+ 
+ 
+Observations 
+76 
+76 
+76 
+R-squared 
+0.40 
+0.31 
+0.06 
+Party FE 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements for coalition governments, 
+estimated from Equation (1). “Tax” and “expenditure” report the % change of the vote share of 
+either the entire government coalition (Column 1), the party of the incumbent leader (Column 2) 
+or the other parties in the coalition (Column 3) associated with a tax- and expenditure-based 
+consolidation announcement worth 1% of GDP, respectively. “Growth” reports the change of the 
+vote share associated with a 1 p.p. increase in the growth rate in the year of the election. *, **, *** 
+indicate statistical significance at respectively the 90%, 95% and 99% confidence level, based on 
+robust standard errors (in parenthesis). All specifications include incumbent party fixed effects. 
+ 
+ 
+ 
+ 
+
+=== page 39 ===
+ 
+39 
+ 
+ 
+39
+Table 4. The Electoral Effects of Austerity Using Different Austerity Variables 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+ 
+Ex-ante 
+Ex-ante 
+Ex-post 
+Ex-ante 
+Ex-ante 
+Ex-post 
+ 
+matched 
+not match. 
+not match. 
+matched 
+not match. 
+not match. 
+  
+  
+  
+  
+  
+  
+  
+Overall 
+-1.7 
+0.8 
+6.8*** 
+ 
+ 
+ 
+ 
+(1.3) 
+(3.5) 
+(1.5) 
+ 
+ 
+ 
+Tax 
+ 
+ 
+ 
+-7.3*** 
+-4.8* 
+4.6 
+ 
+ 
+ 
+ 
+(1.3) 
+(2.7) 
+(13.7) 
+Expenditure 
+ 
+ 
+ 
+0.2 
+4.4 
+0.7 
+ 
+ 
+ 
+ 
+(1.5) 
+(5.3) 
+(3.3) 
+Growth 
+3.1*** 
+3.1*** 
+0.3 
+2.8*** 
+2.7*** 
+3.0*** 
+ 
+(0.9) 
+(0.9) 
+(1.4) 
+(0.9) 
+(0.9) 
+(0.7) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observations 
+156 
+156 
+15 
+156 
+156 
+156 
+R-squared 
+0.14 
+0.11 
+0.23 
+0.20 
+0.13 
+0.11 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements estimated from Equation 1, using different 
+austerity variables. Columns 1-3 consider overall austerity (without distinguishing between tax hikes and 
+expenditure cuts), while Columns 4-6 make that distinction. Columns 1 and 4 report coefficients estimated using 
+ex-ante austerity measures in which each plan is matched to the government that announced it (as in our baseline). 
+Columns 2 and 5 use ex-ante austerity measures but without matching. Columns 3 and 6 use ex-post, realized, 
+fiscal variables, in which years with austerity are defined as such when the increase in the budget balance is larger 
+than 1.5% of GDP. By definition, such austerity measures are unmatched. “Growth” reports the change of the vote 
+share associated with a 1 p.p. increase in the growth rate in the year of the election. *, **, *** indicate statistical 
+significance at respectively the 90%, 95% and 99% confidence level, based on robust standard errors (in 
+parenthesis). All specifications include incumbent party fixed effects. 
+ 
+ 
+ 
+
+=== page 40 ===
+ 
+40 
+ 
+ 
+40
+Table 5. The Electoral Effects of Austerity Announced Early and Late in the Term 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+ 
+All years 
+All years 
+1st year 
+1st year 
+3rd year 
+1st year 
+ 
+full sample 
+res. sample 
+full sample 
+res. sample 
+& 3rd year 
+  
+  
+  
+  
+  
+  
+  
+Tax all years 
+-7.3*** 
+-6.8*** 
+ 
+ 
+ 
+ 
+ 
+(1.3) 
+(1.5) 
+ 
+ 
+ 
+ 
+Expenditure all years 
+0.2 
+-0.7 
+ 
+ 
+ 
+ 
+ 
+(1.5) 
+(1.1) 
+ 
+ 
+ 
+ 
+Tax 1st year 
+ 
+ 
+-8.0* 
+-10.1*** 
+ 
+-10.8*** 
+ 
+ 
+ 
+(4.3) 
+(3.6) 
+ 
+(4.0) 
+Expenditure 1st year 
+ 
+ 
+0.8 
+-1.4 
+ 
+-1.5 
+ 
+ 
+ 
+(3.2) 
+(1.8) 
+ 
+(1.9) 
+Tax 3rd year 
+ 
+ 
+ 
+ 
+-6.3** 
+-6.3** 
+ 
+ 
+ 
+ 
+ 
+(2.3) 
+(2.6) 
+Expenditure 3rd year 
+ 
+ 
+ 
+ 
+-2.4 
+-5.0 
+ 
+ 
+ 
+ 
+ 
+(4.2) 
+(5.5) 
+Growth 
+2.8*** 
+2.1** 
+2.7*** 
+2.1** 
+1.9** 
+1.7* 
+ 
+(0.9) 
+(0.8) 
+(0.8) 
+(0.8) 
+(0.9) 
+(1.0) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observations 
+156 
+119 
+156 
+119 
+119 
+119 
+R-squared 
+0.20 
+0.16 
+0.15 
+0.10 
+0.10 
+0.18 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements depending on the timing of the announcements. 
+Estimated are obtained from Equation (1). Columns 1 and 2 consider all announcements (regardless of timing), but 
+Column 2 report estimates obtained from the restricted sample of governments at least over the third year. Columns 3 and 
+4 consider austerity announcements made in the first year of the term, with Column 4 reporting estimates from the 
+restricted sample only. Column 5 considers announcements made in the third year, while Column 6 reports estimates for 
+austerity announced both in the first and third year (austerity in the second year is also included to control for omitted 
+variables). All coefficients report the % change in the vote share of the party of the incumbent leader associated with the 
+change in the respective variable considered (a tax- and expenditure-based consolidation announcement worth 1% of GDP 
+in case of “Tax” and “expenditure”, and a 1 p.p. increase in the growth rate in the electoral year in case of “Growth”). *, 
+**, *** indicate statistical significance at respectively the 90%, 95% and 99% confidence level, based on robust standard 
+errors (in parenthesis). All specifications include incumbent party fixed effects. 
+ 
+
+=== page 41 ===
+ 
+41 
+ 
+ 
+41
+Table 6. The Electoral Effects of Austerity for Strong and Weak Governments 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+ 
+Baseline 
+Strong 
+govts 
+Weak  
+govts 
+Strong 
+govts 
+Weak  
+govts 
+ 
+all years 
+all years 
+1st year 
+1st year 
+  
+  
+  
+  
+  
+  
+Tax all years 
+-7.3*** 
+-5.5 
+-8.2*** 
+ 
+ 
+ 
+(1.3) 
+(3.8) 
+(1.5) 
+ 
+ 
+Tax 1st year 
+ 
+ 
+ 
+-5.2 
+-17.6*** 
+ 
+ 
+ 
+ 
+(4.5) 
+(6.2) 
+Expenditure all years 
+0.2 
+0.2 
+0.5 
+ 
+ 
+ 
+(1.5) 
+(1.9) 
+(1.1) 
+ 
+ 
+Expenditure 1st year 
+ 
+ 
+ 
+0.9 
+5.3 
+ 
+ 
+ 
+ 
+(3.9) 
+(3.4) 
+Growth 
+2.8*** 
+5.3** 
+2.2** 
+5.0** 
+2.9*** 
+ 
+(0.9) 
+(2.3) 
+(1.0) 
+(2.3) 
+(0.9) 
+ 
+ 
+ 
+ 
+ 
+ 
+Observations 
+156 
+76 
+77 
+76 
+77 
+R-squared 
+0.20 
+0.28 
+0.37 
+0.26 
+0.28 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements depending on whether the government has a strong 
+or a weak mandate. All coefficients are obtained estimating Equation (1). Column 1 reports baseline estimates, as in 
+Column 1 of Table 2. Columns 2 and 3 report estimates obtained over the restricted sample of governments with a strong 
+and weak mandate respectively, and considering all austerity announcements, while Columns 4 and 5 consider only 
+austerity announcements made in the first year of government. Governments with a ‘strong’ (‘weak’) mandate are defined 
+as those in which the change in the vote share of the main party at the election that brought the government into power is 
+above (equal to or below) the sample median. All coefficients report the % change in the vote share of the party of the 
+incumbent leader associated with the change in the respective variable considered (a tax- and expenditure-based 
+consolidation announcement worth 1% of GDP in case of “Tax” and “expenditure”, and a 1 p.p. increase in the growth 
+rate in the electoral year in case of “Growth”). *, **, *** indicate statistical significance at respectively the 90%, 95% 
+and 99% confidence level, based on robust standard errors (in parenthesis). All specifications include incumbent party 
+fixed effects. 
+ 
+ 
+ 
+ 
+
+=== page 42 ===
+ 
+42 
+ 
+ 
+42
+Table 7. The Electoral Effects of Austerity Controlling for the Choice of Doing It 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+ 
+Baseline 
+Austerity 
+Austerity 
+Austerity 
+ 
+dummy 
+variable 
+type dummies 
+  
+  
+  
+  
+  
+Tax 
+-7.3*** 
+-7.2*** 
+-9.0*** 
+-4.4** 
+ 
+(1.3) 
+(1.4) 
+(2.8) 
+(2.1) 
+Expenditure 
+0.2 
+0.3 
+-1.4 
+-0.9 
+ 
+(1.5) 
+(1.6) 
+(2.4) 
+(2.0) 
+Dummy austerity 
+ 
+-0.9 
+ 
+ 
+ 
+ 
+(3.2) 
+ 
+ 
+Overall austerity 
+ 
+ 
+1.6 
+ 
+ 
+ 
+ 
+(2.4) 
+ 
+Dummy tax-based 
+ 
+ 
+ 
+-7.6* 
+ 
+ 
+ 
+ 
+(4.1) 
+Dummy expenditure-based 
+ 
+ 
+ 
+4.3 
+ 
+ 
+ 
+ 
+(3.8) 
+Growth 
+2.8*** 
+2.8*** 
+2.8*** 
+3.0*** 
+ 
+(0.9) 
+(0.9) 
+(0.9) 
+(0.9) 
+ 
+ 
+ 
+ 
+ 
+Observations 
+156 
+156 
+156 
+156 
+R-squared 
+0.20 
+0.20 
+0.20 
+0.23 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements controlling for the choice of announcing it. All 
+coefficients are obtained estimating Equation (1). Column 1 reports baseline estimates, as in Column 1 of Table 2. Columns 
+2 to 4 report estimates obtained when controlling for the choice of carrying out austerity. Column 2 includes a 0/1 dummy 
+variable taking value equal to 1 when there is at least one austerity announcements during the term. Column 3 also controls 
+for the magnitude of the austerity announcements by including a continuous variable measuring the value of the entire 
+austerity announcements made during the term (in % of GDP). Column 4 controls for the choice of announcing either tax- 
+or expenditure-based austerity by including two 0/1 dummies taking value 1 when there is at least one tax- or expenditure-
+based announcement during the term, respectively. All coefficients report the % change in the vote share of the party of the 
+incumbent leader associated with the respective variable considered (a tax- and expenditure-based consolidation 
+announcement worth 1% of GDP in case of “Tax” and “expenditure”, and a 1 p.p. increase in the growth rate in the electoral 
+year in case of “Growth”). *, **, *** indicate statistical significance at respectively the 90%, 95% and 99% confidence 
+level, based on robust standard errors (in parenthesis). All specifications include incumbent party fixed effects. 
+ 
+ 
+ 
+ 
+
+=== page 43 ===
+ 
+43 
+ 
+ 
+43
+Table 8. Predictors of Tax and Expenditure based plans in the first year of the term. 
+  
+(1) 
+(2) 
+Expenditure-based 
+Tax-based 
+  
+  
+  
+Vote share 
+0.28 
+0.56* 
+(0.30) 
+(0.30) 
+Ideology*vote share 
+-0.05 
+-0.34 
+(0.30) 
+(0.30) 
+Ideology 
+-2.80 
+6.70 
+(16.40) 
+(17.1) 
+Ideology*government debt 
+-0.09 
+0.07 
+(0.10) 
+(0.1) 
+Ideology*potential gdp 
+1.79 
+-0.15 
+(1.70) 
+(1.50) 
+Debt-to-gdp ratio, at start of term 
+0.19** 
+-0.02 
+(0.10) 
+(0.1) 
+GDP growth, at start of term 
+-0.02 
+0.12 
+(0.70) 
+(1.50) 
+Potential GDP, at start of term 
+-3.00 
+0.96 
+(2.0) 
+(2.10) 
+Ideology*GDP growth 
+-2.35* 
+1.71 
+(1.40) 
+(1.50) 
+Inflation, at start of term 
+-0.24 
+0.83* 
+(0.60) 
+(0.50) 
+Observations 
+145 
+145 
+Notes: The table shows marginal effects coefficients of two Probit regressions. In Column 1 (2), the dependent variable is 
+a 0/1 dummy taking value 1 in the event of an expenditure- (tax-)based plan in the first year of the government term. 
+Coefficients are multiplied by 100 for ease of reference.  *, **, *** indicate statistical significance at respectively the 90%, 
+95% and 99% confidence level, based on robust standard errors (in parenthesis). 
+ 
+ 
+ 
+
+=== page 44 ===
+ 
+44 
+ 
+ 
+44
+Table 9. Inverse propensity weighted regression adjusted estimator of the ATE 
+(1) 
+(2) 
+(3) 
+Tax vs. expenditure 
+Expenditure vs no plan 
+Tax vs no plan  
+ 
+ 
+ 
+ 
+ATE                 
+-11.18** 
+4.16 
+-7.02* 
+(4.65) 
+(2.59) 
+(4.08) 
+Observations   
+145 
+145 
+145 
+Notes: the table shows the average treatment effect (ATE) of tax- and expenditure-based consolidation plans announced 
+in the first year of the government term on the percent change in the vote share of the party in government at the next 
+election. The ATE is estimated via inverse propensity score weighting of the linear fit of the outcome variable. Column 
+1 shows the estimated ATE of a tax-based plan relative to an expenditure-based plan; Columns 2 and 3 show the ATE 
+of, respectively, an expenditure- and a tax-based plan relative to a no-plan counterfactual. The propensity score is 
+computed via Probit regression whose marginal effects are shown in Table 12. *, **, *** indicate statistical significance 
+at respectively the 90%, 95% and 99% confidence level, based on robust standard errors (in parenthesis). 
+ 
+ 
+ 
+ 
+
+=== page 45 ===
+ 
+45 
+ 
+ 
+45
+Table 10. The Response of the Economy as Driver of the Electoral Effects of Austerity 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+ 
+Growth EY 
+Growth 
+U. change 
+CPI change 
+Budget change 
+Disposable  
+All 
+ 
+(baseline) 
+over term 
+over term 
+over term 
+over term 
+income growth 
+  
+  
+  
+  
+  
+  
+  
+ 
+Tax 
+-13.0*** 
+-12.1*** 
+-11.3*** 
+-14.1*** 
+-10.8** 
+-11.7*** 
+-11.3*** 
+ 
+(4.3) 
+(4.1) 
+(4.2) 
+(4.8) 
+(4.2) 
+(3.9) 
+(4.0) 
+Expenditure 
+2.1 
+2.0 
+1.0 
+1.9 
+-0.6 
+1.9 
+-1.6 
+ 
+(3.3) 
+(3.2) 
+(3.4) 
+(3.2) 
+(3.0) 
+(3.3) 
+(2.2) 
+Growth 
+ 
+2.1 
+ 
+ 
+ 
+ 
+6.5** 
+ 
+ 
+(1.5) 
+ 
+ 
+ 
+ 
+(2.7) 
+Unemployment  
+ 
+ 
+-7.1*** 
+ 
+ 
+ 
+-3.9 
+ 
+ 
+ 
+(2.5) 
+ 
+ 
+ 
+(2.3) 
+Inflation 
+ 
+ 
+ 
+-1.8 
+ 
+ 
+-4.6*** 
+ 
+ 
+ 
+ 
+(1.1) 
+ 
+ 
+(1.6) 
+Fiscal budget 
+ 
+ 
+ 
+ 
+5.4*** 
+ 
+4.3*** 
+ 
+ 
+ 
+ 
+ 
+(1.4) 
+ 
+(1.5) 
+Disposable  
+ 
+ 
+ 
+ 
+ 
+2.5* 
+-2.3 
+income 
+ 
+ 
+ 
+ 
+ 
+(1.4) 
+(2.5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observations 
+143 
+143 
+143 
+143 
+143 
+143 
+143 
+R-squared 
+0.08 
+0.09 
+0.16 
+0.09 
+0.17 
+0.10 
+0.26 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements controlling for macroeconomic developments. All coefficients 
+are obtained estimating Equation (1) using 1st year austerity variables. Column 1 reports estimates when not controlling for the response 
+of the economy. Columns 2 to 5 report estimates obtained when controlling for, in turn, (i) average GDP growth over government term, 
+(ii) the average unemployment rate over the term, (iii) the average inflation rate over the term, and (iv) the average value of the 
+government budget balance over the term. Column 6 reports estimates when all controls are included at the same time. All coefficients 
+report the % change in the vote share of the party of the incumbent leader associated with the respective variable considered. In the case 
+of “tax” and “expenditure” these are a tax- and expenditure-based consolidation announcement worth 1% of GDP. *, **, *** indicate 
+statistical significance at respectively the 90%, 95% and 99% confidence level, based on robust standard errors (in parenthesis). All 
+specifications include incumbent party fixed effects. 
+ 
+ 
+ 
+ 
+
+=== page 46 ===
+ 
+46 
+ 
+ 
+46
+Table 11. The Electoral Effects of Austerity after Accounting for Ideology 
+  
+(1) 
+(2) 
+(3) 
+ 
+No ideology, 
+Ideology, 
+any year 
+Ideology, 
+first year 
+ 
+any year (baseline) 
+  
+  
+  
+  
+Tax 
+-7.6*** 
+-6.0*** 
+-3.8 
+ 
+(1.3) 
+(1.3) 
+(4.2) 
+Tax*ideology 
+ 
+-5.3*** 
+-5.8** 
+ 
+ 
+(1.7) 
+(2.7) 
+Expenditure 
+0.5 
+-0.6 
+2.1 
+ 
+(1.6) 
+(1.0) 
+(1.6) 
+Expenditure*ideology 
+ 
+4.8*** 
+7.4*** 
+ 
+ 
+(1.5) 
+(2.2) 
+Growth 
+2.6*** 
+2.5** 
+2.4*** 
+ 
+(0.9) 
+(0.9) 
+(0.9) 
+ 
+ 
+ 
+ 
+Observations 
+148 
+148 
+148 
+R-squared 
+0.20 
+0.30 
+0.23 
+F-test tax right = exp left 
+ 
+0.00 
+0.33 
+Party FE 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements depending on the political leaning of the governing 
+party. Column 1 reports baseline coefficients, not controlling for the political leaning, and estimated from Equation (1). 
+Columns 2 and 3 report estimates when accounting for the political leaning, obtained from Equation (2), and considering 
+austerity announcements made in any year of the government term and in the first year, respectively. Political leaning is 
+measured through a continuous variable (“Ideology”), taking more positive (negative) values when the party of the 
+incumbent leader is more right- (left-) leaning. The variable is normalized to take value 1 for the average right-leaning 
+party. The rows denoted by “tax” and “expenditure” report the % change in the vote share of the party of the incumbent 
+leader associated with a consolidation announcement worth 1% of GDP, respectively to be achieved mainly through tax 
+hikes and expenditure cuts, when the party of the incumbent leader is exactly at the centre of the political spectrum. The 
+rows denoted by “Tax*ideology” and “Expenditure*ideology” report the additional change in the governing party vote 
+share associated with announcements made by the average right-leaning party. *, **, *** indicate statistical significance 
+at respectively the 90%, 95% and 99% confidence level, based on robust standard errors (in parenthesis). The row “F-test 
+tax right = exp left” reports p-values from the following F-test: Tax+Tax*Ideology = Exp – Exp*Ideology. All 
+specifications include incumbent party fixed effects. 
+ 
+ 
+ 
+ 
+
+=== page 47 ===
+ 
+47 
+ 
+ 
+47
+Table 12. The Role of Macroeconomic Conditions at the Time of the Announcement 
+  
+(1) 
+(2) 
+(3) 
+ 
+Any state 
+High/low states 
+High/low states 
+ 
+no ideology  
+no ideology 
+Ideology 
+  
+  
+  
+  
+Tax 
+-7.2*** 
+ 
+ 
+ 
+(1.4) 
+ 
+ 
+Tax–high state 
+ 
+-8.1 
+-4.6 
+ 
+ 
+(5.9) 
+(6.9) 
+Tax–high state*ideology 
+ 
+ 
+-12.7 
+ 
+ 
+ 
+(8.6) 
+Tax–low state 
+ 
+-6.5*** 
+-6.1*** 
+ 
+ 
+(1.6) 
+(2.1) 
+Tax–low state*ideology 
+ 
+ 
+-2.2 
+ 
+ 
+ 
+(3.2) 
+Expenditure 
+0.2 
+ 
+ 
+ 
+(1.5) 
+ 
+ 
+Expenditure–high state 
+ 
+4.1 
+4.8** 
+ 
+ 
+(6.5) 
+(2.3) 
+Expenditure–high state*ideology 
+ 
+ 
+8.7*** 
+ 
+ 
+ 
+(2.0) 
+Expenditure–low state 
+ 
+-3.1 
+-4.8* 
+ 
+ 
+(4.1) 
+(2.7) 
+Expenditure–low state*ideology 
+ 
+ 
+1.1 
+ 
+ 
+ 
+(3.0) 
+Growth–high state 
+3.3* 
+3.0 
+2.4 
+ 
+(1.8) 
+(1.8) 
+(1.9) 
+Growth–low state 
+1.8 
+1.8 
+1.8 
+ 
+(1.8) 
+(1.8) 
+(1.8) 
+ 
+ 
+ 
+ 
+Observations 
+156 
+156 
+148 
+R-squared 
+0.20 
+0.22 
+0.34 
+Party FE 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements depending on whether these are announced during 
+periods of high or low economic growth. Column 1 reports baseline coefficients (as in Column 1 of Table 2), not accounting 
+for the economic cycle. Column 2 report estimates when accounting for the economic cycle, obtained from Equation (3). 
+The state of the cycle is measured through a continuous 0-1 smooth transition function variable,  𝐺𝐺൫𝑍𝑍𝑖𝑖,𝑡𝑡൯, taking higher 
+values the higher is the probability that economy is in a recession (see Section III for details). Rows denoted by “tax” and 
+“expenditure” report the % change in the vote share of the party of the incumbent leader associated with a consolidation 
+announcement worth 1% of GDP, respectively to be achieved mainly through tax hikes and expenditure cuts. Rows denoted 
+by “[…]–high state” (“[…]–low state)” report the effect of austerity announcements made when the probability of being in 
+an expansion is 100% (0%), and are obtained interacting the austerity variables with 1- 𝐺𝐺൫𝑍𝑍𝑖𝑖,𝑡𝑡൯ (𝐺𝐺൫𝑍𝑍𝑖𝑖,𝑡𝑡൯). Column 3 reports 
+results when also accounting for the political leaning of the party of the incumbent leader, measured through a continuous 
+variable (“Ideology”), taking more positive (negative) values when the party of the incumbent leader is more right- (left-) 
+leaning. The variable is normalized to take value 1 for the average right-leaning party. Rows denoted by “[…]*ideology” 
+report the additional change in the governing party vote share associated with announcements made by the average right-
+leaning party. *, **, *** indicate statistical significance at respectively the 90%, 95% and 99% confidence level, based on 
+robust standard errors (in parenthesis). All specifications include incumbent party fixed effects. 
+ 
+
+=== page 48 ===
+ 
+48 
+ 
+ 
+48
+Table 13. The Effect of Austerity on the Probability of an Early Fall of the Government 
+  
+(1) 
+(2) 
+ 
+No ideology 
+Ideology 
+  
+  
+  
+Tax 
+8.1* 
+4.0 
+ 
+(4.8) 
+(7.5) 
+Tax*Ideology 
+ 
+12.8 
+ 
+ 
+(8.8) 
+Expenditure 
+-2.3 
+-1.6 
+ 
+(3.1) 
+(3.2) 
+Expenditure*Ideology 
+ 
+-8.4* 
+ 
+ 
+(4.5) 
+Growth 
+-4.5** 
+-4.9** 
+ 
+(1.9) 
+(2.0) 
+ 
+ 
+ 
+Observations 
+195 
+192 
+Party FE 
+NO 
+NO 
+Pseudo R-squared 
+0.04 
+0.06 
+Notes: the table reports the effects of austerity announcements on the probability that the government falls 
+before the natural end of the legislature, estimated through Equation (4). Column 1 reports unconditional 
+probabilities. The rows denoted by “tax” and “expenditure” report the % change in the probability of an 
+early fall of government associated with a consolidation announcement worth 1% of GDP, respectively to 
+be achieved mainly through tax hikes and expenditure cuts. Column 2 reports change in probabilities when 
+also accounting for the political leaning of the party of the incumbent leader, measured through a 
+continuous variable (“Ideology”), taking more positive (negative) values when the party of the incumbent 
+leader is more right- (left-) leaning. The variable is normalized to take value 1 for the average right-leaning 
+party. The rows denoted by “[…]*ideology” report the additional change in the probability of an early fall 
+associated with announcements made by the average right-leaning party. *, **, *** indicate statistical 
+significance at respectively the 90%, 95% and 99% confidence level, based on robust standard errors (in 
+parenthesis). 
+ 
+ 
+ 
+
+=== page 49 ===
+ 
+49 
+ 
+ 
+49
+REFERENCES 
+1. Alesina A. & Furceri, D. & Ostry, J. D. & Papageorgiou, C. & Quinn, D. P. 2020. 
+"Structural Reforms and Elections: Evidence from a World-Wide New Dataset," NBER 
+Working Papers 26720. 
+2. Alesina A. & Azzalini, G. & Favero, C. & Giavazzi, F. & Miano, A. “2018. "Is it the 
+“How” or the “When” that Matters in Fiscal Adjustments?," IMF Economic Review, 
+Palgrave Macmillan; International Monetary Fund, vol. 66(1), pages 144-188, March. 
+3. Alesina, A., Barbiero, O., Favero, C., Giavazzi, F. and Paradisi, M., 2015. Austerity in 
+2009–13. Economic Policy, 30(83), pp.383-437. 
+4. Alesina, A.F., Carloni, D. and Lecce, G., 2011. The Electoral consequences of large 
+fiscal adjustments (No. w17655). National Bureau of Economic Research. 
+5. Alesina, A., Favero, C. and Giavazzi, F., 2019. Austerity: When it Works and when it 
+Doesn't. Princeton University Press. 
+6. Alesina, A. and Passalacqua, A., 2016. The political economy of government debt. 
+In Handbook of Macroeconomics (Vol. 2, pp. 2599-2651). Elsevier. 
+7. Alesina, A., Perotti, R., Tavares, J., Obstfeld, M. and Eichengreen, B., 1998. The political 
+economy of fiscal adjustments. Brookings Papers on Economic Activity, 1998(1), pp.197-
+266. 
+8. Ardanaz, M., Hallerberg, M. and Scartascini, C., 2019. Fiscal Consolidations and 
+Electoral Outcomes in Emerging Economies: Does the Policy Mix Matter? Macro and 
+Micro Level. 
+9. Arias, E., & Stasavage, D. (2019). How large are the political costs of fiscal 
+austerity? Journal of Politics. 
+10. Auerbach, A.J. and Gorodnichenko, Y., 2012. Measuring the output responses to fiscal 
+policy. American Economic Journal: Economic Policy, 4(2), pp.1-27. 
+11. Battaglini, M., 2011. The political economy of public debt. Annu. Rev. Econ., 3(1), 
+pp.161-189. 
+12. Battaglini, M. and Coate, S., 2008. A dynamic theory of public spending, taxation, and 
+debt. American Economic Review, 98(1), pp.201-36. 
+13. Brender, A., 2003. The effect of fiscal performance on local government election results 
+in Israel: 1989–1998. Journal of Public Economics, 87(9-10), pp.2187-2205. 
+
+=== page 50 ===
+ 
+50 
+ 
+ 
+50
+14. Brender, Adi, and Allan Drazen. 2008. "How Do Budget Deficits and Economic Growth 
+Affect Reelection Prospects? Evidence from a Large Panel of Countries." American 
+Economic Review, 98 (5): 2203-20. 
+15. Devries, M.P., Guajardo, J., Leigh, M.D., and Pescatori, A., 2011. A new action-based 
+dataset of fiscal consolidation (No. 11-128). International Monetary Fund. 
+16. Döring, H. and Manow, P., 2012. Parliament and government composition database 
+(ParlGov). An infrastructure for empirical information on parties, elections and 
+governments in modern democracies. Version, 12(10). 
+17. Döring, H. and Regel, S., 2019. Party Facts: A database of political parties 
+worldwide. Party Politics, 25(2), pp.97-109. 
+18. Drazen, A. and Mejía Eslava, M.E., 2003. The political business cycle in Colombia on 
+the National and Regional level. Departamento Nacional de Planeación. 
+19. Drazen, A. and Mejía Eslava, M.E., 2010. Electoral manipulation via voter-friendly 
+spending: Theory and evidence. Journal of development economics 92(1), 39-52. 
+20. Hübscher, E., 2016. The politics of fiscal consolidation revisited. Journal of Public 
+Policy, 36(4), pp.573-601. 
+21. Hübscher, E. and Sattler, T., 2017. Fiscal consolidation under electoral risk. European 
+Journal of Political Research, 56(1), pp.151-168. 
+22. Imbens, Guido W. 2004. Nonparametric Estimation of Average Treatment Effects Under 
+Exogeneity: A Review. Review of Economics and Statistics 86(1): 4–29 
+23. Jones, M.P., Meloni, O. and Tommasi, M., 2012. Voters as fiscal liberals: Incentives and 
+accountability in federal systems. Economics & Politics, 24(2), pp.135-156. 
+24. Jordà, Òscar, and Alan M. Taylor. "The time for austerity: estimating the average 
+treatment effect of fiscal policy." The Economic Journal 126.590 (2016): 219-255. 
+25. Kreif, Noemi, Richard Grieve, Rosalba Radice, and Jasjeet S. Sekhon. ´ 2013. 
+Regression-Adjusted Matching and Double-Robust Methods for Estimating Average 
+Treatment Effects in Health Economic Evaluation. Health Services and Outcomes 
+Research Methodology 13(2–4): 174–202 
+26. Lunceford, Jared K., and Marie Davidian. 2004. Stratification and Weighting via the 
+Propensity Score in Estimation of Causal Treatment Effects: A Comparative Study. 
+Statistics in Medicine 23(19): 2937–60 
+27. Passarelli, F. and Tabellini, G., 2017. Emotions and political unrest. Journal of Political 
+Economy 125(3), pp.903-946. 
+
+=== page 51 ===
+ 
+51 
+ 
+ 
+51
+28. Peltzman, S., 1992. Voters as fiscal conservatives. The Quarterly Journal of 
+Economics 107(2), pp.327-361. 
+29. Ponticelli, J. and Voth, H.J., 2020. Austerity and anarchy: Budget cuts and social unrest 
+in Europe, 1919–2008. Journal of Comparative Economics 48(1), pp.1-19. 
+30. Powell, G. Bingham, and Guy D. Whitten. 1993. “A Cross-National Analysis of 
+Economic Voting: Taking Account of the Political Context.” American Journal of 
+Political Science 37(2): 391–414. 
+31. Ramey, V.A. and Zubairy, S., 2018. Government spending multipliers in good times and 
+in bad: evidence from US historical data. Journal of Political Economy 126(2), pp.850-
+901. 
+32. Romer, C.D. and Romer, D.H., 2010. The macroeconomic effects of tax changes: 
+estimates based on a new measure of fiscal shocks. American Economic Review 100(3), 
+pp.763-801. 
+33. Weingast, B.R., Shepsle, K.A. and Johnsen, C., 1981. The political economy of benefits 
+and costs: A neoclassical approach to distributive politics. Journal of Political 
+Economy 89(4), pp.642-664. 
+34. Wooldridge, Jeffrey M. 2007. Inverse Probability Weighted M-Estimation for General 
+Missing Data Problems. Journal of Econometrics 141(2): 1281–1301. 
+ 
+ 
+
+=== page 52 ===
+ 
+52 
+ 
+ 
+52
+APPENDIX A. 
+ Description of Alesina et al. (2019) Austerity Dataset 
+In this appendix we describe the dataset of fiscal shocks, and the criterion of selection of the 
+measures contained in it. Exhaustive information can be found both in Chapter 6 and the online 
+narrative appendix of Alesina et al. (2019).  
+ 
+Overview 
+The original dataset records fiscal adjustment plans announced between 1978 and 2014 in 16 
+OECD countries (Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, 
+Ireland, Italy, Japan, Portugal, Spain, Sweden, the United Kingdom, and the United States. 
+Fiscal plans are composed by a collection of measures. For each measure, the year of 
+implementation, the budgetary impact, a broad description and classification of the type of 
+measure are provided. In particular, the measures are classified into 27 categories. In our main 
+analysis, we aggregate measures into two coarse categories: measures that change expenditure 
+versus those that change taxes. Measures announced at year t can be scheduled to be 
+implemented in the same year or in the following 5. Fiscal plans are composed by a collection 
+of measures.  for each of which the year of implementation, the budgetary impact, a broad 
+description and classification are provided. In particular, the measures are classified into 27 
+categories. In our main analysis, we aggregate measures into two coarse categories: measures 
+that change expenditure versus those that change taxes. Measures announced at year t can be 
+scheduled to be implemented in the same year or in the following 5. Table C2 provides an 
+example of measures announced by Canada in 2011, to be implemented in the same year and 
+in the subsequent ones (magnitudes are expressed in billions of Canadian dollars). 
+
+=== page 53 ===
+ 
+53 
+ 
+ 
+53
+For each of the fiscal plans, in addition to what done by the authors, we check whether 
+it was announced in a year in which there was a change in government. For each time that that 
+was the case, we reconstruct the month of the announcement of the plan. We construct the 
+independent variables used in the main specification by summing up, for a given 
+announcement date, all the measures announced in that period to be implemented either 
+immediately or in the future. We then classify the whole announcement to be either 
+expenditure- or tax-based, depending on whether announced changes in taxes are larger than 
+changes in expenditures. 
+ 
+Sources  
+Fiscal measures are extracted from a variety of sources. In the earliest part of the sample, the 
+same sources as in Devries et al. (2011) are used, including Budget Reports and Speeches, 
+Stability and Convergence Programmes submitted by EU governments to the European 
+Commission, Central Bank Reports,  OECD Economic Surveys, and IMF Reports. The dataset 
+also relies from country specific documents such as reports by the Congressional Budget Office 
+and the Economic Reports of the President for the United States; the Journal Officiel de la 
+Republique Francaise for France; etc.  
+ 
+Selection of exogenous measures 
+The criterion used to select measures exogenous to the current state of the economy follows 
+Romer and Romer (2010) and Devries et al. (2011). The former selects fiscal adjustments 
+motivated by the aim of improving long-run growth or the aim of reducing an inherited deficit. 
+The dataset that we use only classifies adjustments as such if the deficit-driven adjustment is 
+
+=== page 54 ===
+ 
+54 
+ 
+ 
+54
+larger than the long-run growth-driven adjustment. The motivation of a fiscal adjustment, when 
+made explicit, is contained in the sources mentioned above. In the creation of the dataset, the 
+authors select a measure only if the plans containing it was introduced with clear sentences 
+that attributed the approved measure either to the aim of correcting the dynamics of some 
+budgetary item (such as pension reforms aimed at reducing outlays), or to the aim of addressing 
+the dynamics of the debt-to-GDP ratio, or the deficit. 
+For those plans which contain both deficit increasing and deficit reducing measures, 
+the following procedure has been adopted: 
+- 
+Verify that the total amount of exogenous deficit reducing measures is smaller than the 
+total of the deficit increasing measures. In doing this, consider all deficit increasing 
+measures, both exogenous and endogenous, to avoid the possibility of labelling as a 
+period of adjustment one in which the exogenous fiscal contractions was more than 
+compensated by other expansionary fiscal measures, independently of their motivation.  
+- 
+If expansionary measures dominate, then the episode is considered as a fiscal 
+expansions and is dropped.  
+- 
+If, instead, the sum of (the budgetary impact) of all expansionary measures 
+(endogenous and exogenous) was smaller than the impact of all exogenous 
+contractionary measures (announced at t or previously and yet to be implemented), the 
+episode is recorded in the dataset 
+- 
+The size of the contraction is computed as the difference between the size of the 
+exogenous contractionary measures minus the exogenous expansionary measures.  
+Exceptionally, this procedure also yielded some rare episodes of deficit increasing 
+announcements: the reason is that, in previous years, there had been contractionary 
+
+=== page 55 ===
+ 
+55 
+ 
+ 
+55
+announcements large enough to overcome the new expansionary measures introduced during 
+the year considered. These cases however are very rare. 
+ 
+
+=== page 56 ===
+ 
+56 
+ 
+ 
+56
+APPENDIX B.  
+Construction of electoral variables 
+The underlying electoral data come from multiple sources. We use the electoral dataset 
+compiled by Alesina et al. (2020) to retrieve the dates of each general election, as well as the 
+start and end dates of each government’s term in office. We exclude interim and technocratic 
+governments, and governments whose main supporting party did not run at the next election.32 
+We then use information on governments’ start and end dates to construct a variable capturing 
+the period featuring the same governing party (or coalition of parties) within the same 
+legislature.33 
+All countries in our sample, except France and the United States, have parliamentary 
+systems in which the head of state has largely a ceremonial role. Hence, we only consider 
+parliamentary elections for these countries. For the United States, we only consider presidential 
+elections as the president is also the head of government. In France, voters elect both the 
+president and the parliament, and both the president and the head of government have executive 
+powers. However, since presidential elections typically attract a higher turnout, we focus on 
+presidential elections.   
+For countries with parliamentary systems, we rely on Wikipedia and Doring and 
+Manow (2019) to reconstruct the party or coalition of parties supporting the government. Since 
+in parliamentary systems there can be multiple governments within the same legislature, we 
+treat governments within the same legislature that are not supported by the same parties as 
+ 
+32 There are five interim governments in our sample (Boeynants and Verhosdaft III in Belgium, Aoki and Ito in Japan and 
+Pintasilgo in Portugal), three technocratic governments (Ciampi, Dini and Monti governments in Italy), and one case in which 
+the main party supporting the government did not run at the next election (the Amato I cabinet in Italy). These governments 
+are excluded. 
+33 Governing parties are defined as such if they hold Cabinet seats in the government (Ministries). 
+
+=== page 57 ===
+ 
+57 
+ 
+ 
+57
+belonging to different party terms.34 For instance, in Germany the Social Democratic Party 
+(SPD) formed a coalition government with the Free Democratic Party (FDP) in October/1980. 
+The FDP then pulled out of the coalition in September/1981 and formed a new government 
+with the Christian Democratic Union (CDU) and the Christian Social Union (CSU). Hence, 
+we identify two party terms: the SPD-FDP term, from October/1980 to September/1981, and 
+the CDU-CSU-FDP term, from September/1981 to March/1983. In these and similar cases we 
+have two observations for each election held to account for the different party terms.35  
+In many other instances, different governments within the same legislature are 
+supported by the same parties. For example, in the United Kingdom, Margaret Thatcher and 
+John Mayor were heads of two different Conservative Party governments in the June/1987 to 
+April/1992 legislatures. In this and other similar cases, we record only a single party term (and 
+thus we have only one observation for each election). Turning to presidential systems, given 
+that the same president stays on for a fixed amount of time, we simply retrieve the party to 
+which he or she belongs and record the party term as the term of the president. 
+To measure electoral performance, we rely on the dataset of Doring and Manow (2019) 
+to collect information on the vote share obtained by the party of the chief executive at the two 
+elections defining the start and the end of the legislature and derive its percent change.36 We 
+also construct a variable measuring the vote share change of the overall coalition of governing 
+ 
+34 In parliamentary systems voters typically elect the parliament rather than the head of government. The government needs 
+to obtain a vote of confidence by the parliament and can be voted out of office through a motion of non-confidence. Similarly, 
+when the prime minister resigns, a new government can be formed without that a new election takes place. 
+35 There are only seven cases in which we record two distinct party terms in the same legislature (in Germany between 1980 
+and 1983, Denmark between 1982-1984 and again between 1991 and 1994, Italy between 1994 and 1996, and again between 
+2008 and 2013, Ireland between 1992 and 1997 and Japan between 1993 and 1996. The results do not hinge on the inclusion 
+of these cases. 
+36 Among parliamentary systems, we only collect data for elections in the lower house. For France and the United States, we 
+consider presidential elections. Since data on presidential elections are not available in Doring and Manow (2019) we rely on 
+Wikipedia to collect this additional information. Data on parliamentary seats are not collected for these two countries.    
+
+=== page 58 ===
+ 
+58 
+ 
+ 
+58
+parties, as well as similar other variables to be used in some robustness checks: (i) the vote 
+share change at the previous election, (ii) the percentage point (rather than percent) vote share 
+change, (iii) the percent change in parliamentary seats (rather than vote) share, and (iv) the 
+election turnout. From Doring and Manow (2019), we also source a variable measuring the 
+political leaning (ideology in short) of the party and normalize it to range between -10 and 10. 
+This variable takes value 0 for the center of the political spectrum and higher (lower) values 
+for more right- (left-)leaning parties. 
+Table B1 presents basic descriptive statistics of our main variables. Our dataset 
+contains 157 observations (party-terms), ranging from 5 in France to 14 in Japan. There is at 
+least one austerity announcement in 80 cases—slightly more than 50% of the sample. The 
+average length of the government term is the highest in the United Kingdom (4.4 years) and 
+the lowest in Denmark and Japan (2.5 years). For most countries, it is well below the statutory 
+length of the legislature, an indication that parliaments tend to be dissolved early. There is a 
+large cross-country variation in the vote share of the party of the incumbent leader, with 
+Belgium having the lowest, at 17.8%, and Spain having the highest, at 42.1%. As expected, 
+the vote share correlates negatively with the number of governing parties. Belgium and Italy 
+have the largest number of governing parties, 4.7 and 4.6 respectively on average, while 
+Canada, Spain and the United Kingdom typically feature single-party governments.37 
+Finally, we note that right-leaning governments are more common in almost all 
+countries of our sample. The variable capturing the ideology of the leader’s party takes value 
+0 for the political center and more negative (positive) values for more left- (right-)leaning 
+ 
+37 The United Kingdom and Spain recently had coalition governments (the Cons.-Lib. Dem. 2010-2015 government in the 
+United Kingdom and the PSOE-Podemos 2020- government in Spain). As our austerity data ends in 2014 these are not 
+included in our sample. 
+
+=== page 59 ===
+ 
+59 
+ 
+ 
+59
+governments. Its sample average is 1.4 and only Spain has a negative mean. The countries with 
+the most right-leaning governments are Japan and Canada (5.2 and 2.5, respectively). The next 
+section zooms in on the austerity data and discusses how consolidation announcements are 
+distributed during the government term. 
+ 
+Table B1. Descriptive Statistics 
+Country 
+Obs. 
+Terms 
+with 
+austerity 
+Term 
+length 
+Vote 
+share 
+# of 
+parties 
+Ideology 
+Australia 
+12 
+4 
+2.7 
+41.3 
+1.4 
+0.7 
+Austria 
+10 
+5 
+3.3 
+39.1 
+1.9 
+0.4 
+Belgium 
+10 
+7 
+3.3 
+17.5 
+4.7 
+0.2 
+Canada 
+10 
+5 
+3.2 
+40.4 
+1.0 
+2.5 
+Denmark 
+13 
+6 
+2.5 
+27.7 
+2.5 
+1.7 
+Finland 
+8 
+3 
+3.9 
+24.7 
+3.8 
+0.3 
+France 
+5 
+4 
+/ 
+26.4 
+/ 
+1.6 
+Germany 
+10 
+8 
+3.3 
+35.5 
+2.7 
+0.9 
+Ireland 
+11 
+4 
+2.8 
+40.7 
+1.7 
+1.9 
+Italy 
+8 
+6 
+3.5 
+30.8 
+4.6 
+1.4 
+Japan 
+14 
+7 
+2.5 
+37.5 
+2.0 
+5.2 
+Portugal 
+11 
+6 
+2.8 
+40.1 
+1.5 
+0.7 
+Spain 
+9 
+6 
+3.6 
+42.1 
+1.0 
+-0.1 
+Sweden 
+11 
+3 
+3.2 
+32.9 
+2.0 
+0.1 
+UK 
+7 
+4 
+4.4 
+41.4 
+1.0 
+2.2 
+USA 
+8 
+5 
+/ 
+50.8 
+/ 
+/ 
+All sample 
+157 
+83 
+3.1 
+35.7 
+2.2 
+1.4 
+Notes: the table reports basic sample descriptive statistics. Terms with austerity are defined as government terms 
+in which there is at least one austerity announcement. “Term length” and “vote share” are the average of, 
+respectively, the length of the government term and the vote share of the party of the incumbent leader. “# of 
+parties” indicate the average number of parties in the governing coalition. “Ideology” is the average score in a 
+variable taking more positive (negative) values the more the party of the incumbent leader is right- (left-)leaning. 
+The variable is normalized to take value 1 for the average right-leaning party. 
+Sources: Alesina et al. (2019), Doring and Manow (2019) and own calculations. 
+ 
+ 
+ 
+
+=== page 60 ===
+ 
+60 
+ 
+ 
+60
+APPENDIX C.  
+Robustness Checks 
+ 
+We start by checking that the results are not driven by a single political party or country and 
+estimate Equation (1) excluding, respectively, one party and one country at a time. Figure C1 
+reports the results, which are always very close to our baseline. In Table C1, we show estimates 
+obtained using alternative dependent variables. In particular, we consider: (i) the percentage 
+point (rather than percent) change of the vote share, (ii) the percent change, as well as (iii) the 
+percentage point change of the parliamentary seats share. In Table C2, we report estimates 
+obtained using alternative sets of explanatory variables. We first use a 50% and a 60% 
+threshold to differentiate between tax- and expenditure-based announcements (instead of 
+55%). We then use 0/1 tax- and expenditure-based dummies for terms in which there is at least 
+one tax- and one expenditure-based plan, respectively. Third, we also construct variables in 
+which we collapse together all the austerity plans announced during the government term and 
+constrain a term to be either tax- or expenditure-based. Finally, we consider implementation 
+rather than announcement and use variables capturing all the austerity that is implemented by 
+the government in charge (rather than announced). In all cases, the results confirm our main 
+finding that tax-based consolidations carry large electoral costs, while expenditure-based ones 
+are neutral.  
+We then check that the results (i) are robust to the exclusion of the post-Great Financial 
+Crisis (GFC) period, (ii) are similar in the more recent part of the sample (the 1990-2014 
+period), (iii) are not driven by short-lived governments—that is, with term lower than 12 
+months—and (iv) are valid also for (a) the subsample of governments that served a substantial 
+part of the legislature (with term larger than 36 months), (b) the subsample of outgoing 
+governments, and (c) the subsample of parliamentary systems (thus excluding France and the 
+
+=== page 61 ===
+ 
+61 
+ 
+ 
+61
+US). The results, reported in Table C3, are very similar to the baselines. The only noteworthy 
+differences are for the pre-GFC subsample, for which we estimate tax-based consolidations to 
+have smaller negative effects (at about -6%, rather than -7%), and for the 1990-2014 
+subsample, for which the coefficient is more negative, at -9%.  
+Next, we assess whether the results are affected by the inclusion of a set of political 
+control variables. Precisely, we consider: (i) the lagged vote share change and (ii) the level of 
+the vote share at the last election to mitigate endogeneity due to the fact that stronger 
+governments do more austerity (Table 1); (iii) the election turnout, as a proxy of how similar 
+the platforms of different political parties are, which should affect turnout and might also affect 
+the performance of the incumbent party; (iv) the number of parties forming the government; 
+and (v) the government’s tenure (in months). The results, shown in Table C4, are again very 
+similar to our baseline. 
+In Table C5, we present the result obtained when we include several macroeconomic 
+controls. We first account for the fact that governments implementing austerity might have 
+inherited a dire fiscal situation and include, in turn, the level of the government debt, the budget 
+balance and the 10-year real sovereign interest rate at the beginning of the term. 38 Second, we 
+account for the fact that austerity announcements might have been implemented in response to 
+market pressures and include the change over the government term of the 10-year real yield. 
+Third, we also control for the output gap and the unemployment rate at the time of the election, 
+ 
+38 These variables also control for the following possibility. Imagine that a newly-elected government refrains 
+from carrying out austerity immediately after the election, even if the optimal fiscal policy is to modestly do so. 
+Then market pressure builds up and the government is forced to announce austerity.  This proves to be a belated 
+remedy the problem and the government lose the upcoming election because of the fiscal situation. In this case, 
+it might be that it was the lack of austerity in beginning of its term; not the belated increase to have caused the 
+electoral defeat. 
+ 
+
+=== page 62 ===
+ 
+62 
+ 
+ 
+62
+which may influence the electoral performance of the incumbent government. We then control 
+for the possibility that austerity announcements might be correlated with the implementation 
+of other types of structural reforms and add the change, over the term, of several reform 
+indicators (Table C6). The reforms that we consider are in the areas of (i) capital account 
+restrictions, (ii) tariff barriers to trade, (iii) domestic finance regulations, and (iv) labor markets 
+(firing) restrictions. The results from these specifications are very similar and not statistically 
+different from the baseline. All in all, these analyses suggest that our main finding that tax-
+based consolidations carry important electoral costs, while expenditure-based consolidations 
+are neutral on average, are robust.  
+ 
+ 
+ 
+ 
+
+=== page 63 ===
+ 
+63 
+ 
+ 
+63
+Figure C1. Robustness Checks – Party and Country Sample Stability 
+Notes: the figure reports results from a robustness check on sample stability, obtained from Equation (1). Panel A reports 
+estimates when excluding one party at a time, while Panel B reports estimates when excluding one country at a time. Blue 
+(red) dots denote coefficients estimated for consolidation announcements when tax hikes (expenditure cuts) are larger than 
+expenditure cuts (tax hikes). The y-axis report point estimates, while the x-axis report p-values.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== page 64 ===
+ 
+64 
+ 
+ 
+64
+Table C1. Robustness Checks on Baseline Analysis – Dependent Variable 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+ 
+% vote share 
+p.p. 
+% 
+p.p. 
+ 
+(baseline) 
+vote share 
+seats share 
+seats share 
+  
+  
+  
+  
+  
+Tax 
+-7.3*** 
+-2.6*** 
+-8.9*** 
+-3.9*** 
+ 
+(1.3) 
+(0.5) 
+(1.5) 
+(0.7) 
+Expenditure 
+0.4 
+-0.4 
+0.3 
+-0.4 
+ 
+(1.5) 
+(0.4) 
+(1.7) 
+(0.4) 
+Growth 
+2.7*** 
+1.0*** 
+3.5*** 
+1.5*** 
+ 
+(0.9) 
+(0.3) 
+(1.2) 
+(0.5) 
+ 
+ 
+ 
+ 
+ 
+Observations 
+156 
+156 
+142 
+142 
+R-squared 
+0.20 
+0.23 
+0.23 
+0.25 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements estimated using different measures of 
+electoral effects. Column 1 reports baseline results using the % change in the vote share of the party of the 
+incumbent leader (as in Column 1 of Table 2). Column 2 considers the percentage point change. Column 3 
+uses the % change in seats share of the party of the incumbent leader, while Column 4 focuses on the 
+percentage point change in the seats share.  All estimates are from Equation (1).  *, **, *** indicate statistical 
+significance at respectively the 90%, 95% and 99% confidence level, based on robust standard errors (in 
+parenthesis). All specifications include incumbent party fixed effects. 
+ 
+Table C2. Robustness Checks on Baseline Analysis – Explanatory Variables 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+ 
+% vote share 
+50%  
+60%  
+Austerity 
+Tax or 
+Implemented 
+ 
+(baseline) 
+threshold  
+threshold 
+dummies 
+expenditure 
+austerity 
+  
+  
+  
+ 
+  
+  
+  
+Tax 
+-7.3*** 
+-6.4*** 
+-7.2*** 
+-12.0*** 
+-4.0** 
+-9.3*** 
+ 
+(1.3) 
+(1.3) 
+(1.3) 
+(2.8) 
+(1.7) 
+(1.5) 
+Expenditure 
+0.2 
+0.1 
+-0.4 
+2.2 
+-1.5 
+1.5 
+ 
+(1.5) 
+(1.5) 
+(1.6) 
+(3.6) 
+(1.4) 
+(1.7) 
+Growth 
+2.8*** 
+2.7*** 
+2.9*** 
+3.2*** 
+3.0*** 
+2.8*** 
+ 
+(0.9) 
+(0.9) 
+(0.8) 
+(0.8) 
+(0.9) 
+(0.9) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observations 
+156 
+156 
+156 
+156 
+156 
+156 
+R-squared 
+0.20 
+0.19 
+0.20 
+0.20 
+0.15 
+0.22 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements estimated using different measures of austerity 
+announcements. Column 1 reports baseline results obtained differentiating each austerity announcement in either tax- or 
+expenditure-based, respectively defined so when 55% of more of the austerity measures are either tax hikes or expenditure 
+cuts (announcements in which tax hikes are between 45% and 55% are not included), and measured in % of GDP. Columns 
+2 and 3 report results obtained when 50% and 60% thresholds are used instead. Column 4 reports results obtained when using 
+0/1 dummies for tax- and expenditure-based announcements rather than variables measuring the full extent of the 
+consolidations announced. Column 5 reports results when pooling all announcements made during the government term into 
+one. Column 6 focuses instead on the austerity implemented during the government term rather than austerity announced. All 
+estimates are from Equation (1).  *, **, *** indicate statistical significance at respectively the 90%, 95% and 99% confidence 
+level, based on robust standard errors (in parenthesis). All specifications include incumbent party fixed effects. 
+ 
+
+=== page 65 ===
+ 
+65 
+ 
+ 
+65
+Table C3. Robustness Checks on Baseline Analysis – Subsamples 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+ 
+Full sample 
+Up to 2008 
+Post-1990 
+12-month 
+36-month 
+Outgoing 
+Parl. 
+ 
+(baseline) 
+period 
+period 
+min. term 
+min. term 
+govts. 
+systems 
+  
+  
+  
+  
+  
+  
+  
+  
+Tax 
+-7.3*** 
+-6.0** 
+-9.0*** 
+-7.5*** 
+-7.2*** 
+-7.5*** 
+-7.2*** 
+ 
+(1.3) 
+(2.4) 
+(1.5) 
+(1.5) 
+(1.4) 
+(1.3) 
+(1.3) 
+Exp. 
+0.4 
+0.6 
+-1.6 
+0.6 
+-0.5 
+0.3 
+0.6 
+ 
+(1.5) 
+(2.0) 
+(1.2) 
+(1.5) 
+(1.0) 
+(1.5) 
+(1.6) 
+Growth 
+2.7*** 
+2.4* 
+3.4** 
+3.0*** 
+1.8*** 
+2.6*** 
+2.4** 
+ 
+(0.9) 
+(1.2) 
+(1.3) 
+(0.9) 
+(0.6) 
+(0.9) 
+(0.9) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Obs. 
+156 
+133 
+98 
+145 
+134 
+149 
+143 
+R^2 
+0.20 
+0.12 
+0.30 
+0.21 
+0.19 
+0.20 
+0.20 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements estimated across different sample. Column 
+1 reports baseline – full sample – results, as in Column 1 of Table 2. Columns 2 and 3 report results obtained focusing 
+on the pre-2009 and post-1990 periods, respectively. Column 4 and 5 report results estimated over the restricted 
+sample of government lasting at least 12 and 36 months respectively. Column 6 only considers outgoing governments 
+(still in charge when the election takes place) and excludes earlier governments in the legislature. Column 7 focuses 
+on parliamentary systems (excluding the U.S. and France). All estimates are from Equation (1).  *, **, *** indicate 
+statistical significance at respectively the 90%, 95% and 99% confidence level, based on robust standard errors (in 
+parenthesis). All specifications include incumbent party fixed effects. 
+ 
+ 
+ 
+ 
+
+=== page 66 ===
+ 
+66 
+ 
+ 
+66
+Table C4. Robustness Checks on Baseline Analysis – Political Control Variables 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+ 
+No contr. 
+Lagged  
+Vote 
+Election 
+# of 
+Term 
+All 
+ 
+(baseline) 
+vote 
+share 
+turnout 
+parties 
+length 
+  
+  
+  
+  
+  
+  
+  
+  
+Tax 
+-7.3*** 
+-7.0*** 
+-6.6*** 
+-7.3*** 
+-7.3*** 
+-6.3*** 
+-6.1*** 
+ 
+(1.3) 
+(1.4) 
+(1.3) 
+(1.3) 
+(1.3) 
+(1.3) 
+(1.4) 
+Expenditure 
+0.4 
+0.5 
+0.1 
+0.6 
+0.4 
+0.5 
+0.0 
+ 
+(1.5) 
+(1.5) 
+(1.4) 
+(1.6) 
+(1.5) 
+(1.5) 
+(1.5) 
+Growth 
+2.7*** 
+2.9*** 
+2.7*** 
+2.2** 
+2.6*** 
+2.6*** 
+2.3** 
+ 
+(0.9) 
+(0.9) 
+(0.9) 
+(0.9) 
+(0.9) 
+(0.8) 
+(0.8) 
+Lagged vote 
+ 
+-0.2 
+ 
+ 
+ 
+ 
+0.2 
+share change 
+ 
+(0.1) 
+ 
+ 
+ 
+ 
+(0.1) 
+Vote share 
+ 
+ 
+-1.4*** 
+ 
+ 
+ 
+-1.9*** 
+ 
+ 
+(0.3) 
+ 
+ 
+ 
+(0.5) 
+Turnout 
+ 
+ 
+ 
+-0.0 
+ 
+ 
+0.5 
+ 
+ 
+ 
+ 
+(0.4) 
+ 
+ 
+(0.5) 
+# of parties 
+ 
+ 
+ 
+ 
+2.6 
+ 
+-4.0 
+ 
+ 
+ 
+ 
+ 
+(2.2) 
+ 
+(3.7) 
+Term length 
+ 
+ 
+ 
+ 
+ 
+-0.3*** 
+-0.2** 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.1) 
+(0.1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Obs. 
+156 
+153 
+156 
+142 
+156 
+156 
+139 
+R^2 
+0.20 
+0.22 
+0.35 
+0.20 
+0.21 
+0.25 
+0.40 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements when controlling for political factors. Column 1 
+reports baseline results with no controls, as in Column 1 of Table 2. Columns 2 and 3 report results when controlling for the 
+lagged change and the level of the vote share of the incumbent leader’s party, respectively. Columns 4, 5 and 6 respectively 
+control for voters turnout, the number of governing parties and the length of the government term (in years). Column 7 
+includes all controls together. All estimates are from Equation (1).  *, **, *** indicate statistical significance at respectively 
+the 90%, 95% and 99% confidence level, based on robust standard errors (in parenthesis). All specifications include 
+incumbent party fixed effects. 
+ 
+ 
+ 
+ 
+
+=== page 67 ===
+ 
+6 
+ 
+Table C5. Robustness Checks on Baseline Analysis – Macroeconomic Control Variables 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+No control 
+Debt 
+Budget 
+10-year 
+10-year 
+All 
+Output 
+Unempl. 
+(baseline) 
+level 
+balance 
+level 
+change 
+gap 
+rate 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+Tax 
+-7.3*** 
+-7.0*** 
+-7.2*** 
+-8.3*** 
+-8.0*** 
+-7.7*** 
+-8.1*** 
+-8.4*** 
+(1.3) 
+(1.4) 
+(1.4) 
+(1.9) 
+(1.7) 
+(1.8) 
+(1.4) 
+(1.8) 
+Expenditure 
+0.2 
+0.2 
+-0.2 
+0.6 
+0.4 
+0.5 
+1.0 
+1.6 
+(1.5) 
+(1.6) 
+(1.4) 
+(1.6) 
+(1.6) 
+(1.5) 
+(1.7) 
+(1.7) 
+Growth 
+2.8*** 
+2.9*** 
+2.7*** 
+3.3*** 
+3.2*** 
+3.6*** 
+ 
+ 
+at election 
+(0.9) 
+(0.9) 
+(0.8) 
+(1.1) 
+(0.9) 
+(1.1) 
+ 
+ 
+Debt level  
+0.1** 
+0.1** 
+ 
+ 
+at start term 
+(0.0) 
+(0.0) 
+ 
+ 
+Fiscal balance  
+-0.7 
+-0.4 
+ 
+ 
+at start term 
+(0.5) 
+(0.7) 
+ 
+ 
+10-year real yield  
+-0.5 
+-1.0 
+ 
+ 
+at start term 
+(1.1) 
+(1.1) 
+ 
+ 
+10-year real yield  
+-0.3 
+-1.4 
+ 
+ 
+change during term 
+(1.6) 
+(1.3) 
+ 
+ 
+Output gap 
+0.4 
+ 
+at election 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.5) 
+ 
+Unemployment rate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-1.1** 
+at election 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observations 
+156 
+156 
+156 
+150 
+150 
+150 
+157 
+154 
+R-squared 
+0.20 
+0.21 
+0.21 
+0.21 
+0.20 
+0.23 
+0.12 
+0.15 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements when controlling for macroeconomic factors. Column 1 reports baseline results with no controls, as in Column 
+1 of Table 2. Columns 2 and 3 report results when controlling for the level of the government debt and the budget balance at the beginning of the government term. Columns 4 and 
+5 report results when controlling for the level of the 10-year real interest rate and its change during the government term. Column 6 reports estimates when all these controls are 
+included at the same time. Columns 7 and 8 report estimates when including the output gap and the unemployment rate at the time of the election, respectively. All estimates are 
+from Equation (1). *, **, *** indicate statistical significance at respectively the 90%, 95% and 99% confidence level, based on robust standard errors (in parenthesis). All 
+specifications include incumbent party fixed effects. 
+
+=== page 68 ===
+ 
+6 
+ 
+Table C6. Robustness Checks on Baseline Analysis – Structural Reform Variables 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+No controls 
+Capital 
+Trade 
+Domestic 
+Labor 
+All 
+(baseline) 
+account 
+tariffs 
+finance 
+market 
+  
+  
+  
+  
+  
+  
+  
+Tax 
+-7.3*** 
+-6.4*** 
+-7.3*** 
+-7.4*** 
+-7.3*** 
+-6.8*** 
+(1.3) 
+(1.3) 
+(1.3) 
+(1.4) 
+(1.3) 
+(1.5) 
+Expenditure 
+0.2 
+-0.3 
+0.2 
+0.3 
+0.2 
+-0.2 
+(1.5) 
+(1.7) 
+(1.5) 
+(1.5) 
+(1.5) 
+(1.7) 
+Growth 
+2.8*** 
+2.4*** 
+2.8*** 
+2.6*** 
+2.8*** 
+2.2*** 
+(0.9) 
+(0.6) 
+(0.9) 
+(0.8) 
+(0.9) 
+(0.7) 
+KA reform 
+-0.0 
+0.1 
+(0.1) 
+(0.2) 
+Tariff reform 
+0.0 
+-1.4** 
+(0.9) 
+(0.7) 
+Finance reform 
+0.6 
+0.2 
+(0.4) 
+(0.3) 
+Labor market reform 
+0.0 
+-0.6 
+(0.3) 
+(0.4) 
+Observations 
+156 
+142 
+156 
+156 
+156 
+142 
+R-squared 
+0.20 
+0.20 
+0.20 
+0.22 
+0.20 
+0.22 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements when controlling for other structural reforms. Column 
+1 reports baseline results with no controls, as in Column 1 of Table 2. Columns 2 to 5 report results when including the change, 
+over the government term, in several structural reform indicators (in the areas of capital account, trade tariffs, banking and 
+labor markets). Column 6 reports estimates when all these controls are included at the same time. All estimates are from 
+Equation (1). *, **, *** indicate statistical significance at respectively the 90%, 95% and 99% confidence level, based on 
+robust standard errors (in parenthesis). All specifications include incumbent party fixed effects. 
+ 
+ 
+ 
+
+=== page 69 ===
+ 
+1 
+ 
+ 
+1
+Table C7. Strong and Weak Governments in Recessions and Expansions  
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+ 
+Baseline 
+Strong govts 
+Weak govts 
+Strong govts 
+Weak govts 
+ 
+all years 
+all years 
+first year 
+first year 
+  
+  
+  
+  
+  
+  
+Tax 
+-7.3*** 
+-5.9 
+-8.1*** 
+ 
+ 
+ 
+(1.3) 
+(4.0) 
+(1.7) 
+ 
+ 
+Tax 1st year 
+ 
+ 
+ 
+-5.2 
+-17.1** 
+ 
+ 
+ 
+ 
+(4.7) 
+(7.0) 
+Expenditure 
+0.4 
+-0.1 
+0.5 
+ 
+ 
+ 
+(1.5) 
+(1.8) 
+(1.2) 
+ 
+ 
+Expenditure 1st year 
+ 
+ 
+ 
+0.3 
+5.7* 
+ 
+ 
+ 
+ 
+(3.9) 
+(3.4) 
+Growth - expansions 
+2.6* 
+6.5* 
+1.0 
+6.1* 
+2.6 
+ 
+(1.4) 
+(3.4) 
+(1.3) 
+(3.4) 
+(1.6) 
+Growth - recessions 
+2.9 
+-0.8 
+4.9** 
+0.0 
+3.9* 
+ 
+(2.4) 
+(7.8) 
+(2.2) 
+(8.2) 
+(2.2) 
+ 
+ 
+ 
+ 
+ 
+ 
+Observations 
+156 
+76 
+77 
+76 
+77 
+R-squared 
+0.20 
+0.30 
+0.37 
+0.27 
+0.28 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects austerity announcements as well as those of GDP growth depending on whether 
+the government has a strong or a weak mandate and the timing of the austerity announcements. All coefficients are obtained 
+estimating Equation (1). In all specifications the effect of GDP growth is allowed to change depending on whether growth 
+is negative or positive. Column 1 pools together all governments, regardless of the strength of the mandate, and considers 
+all austerity announcements. Columns 2 and 3 report coefficients estimated over the restricted sample of governments with 
+a strong and weak mandate respectively and consider any announcement, while Columns 4 and 5 only focuses on austerity 
+announced in the first year of the term. Governments with a ‘strong’ (‘weak’) mandate are defined as those in which the 
+change in the vote share of the main party at the election that brought the government into power is above (equal to or 
+below) the sample median. *, **, *** indicate statistical significance at respectively the 90%, 95% and 99% confidence 
+level, based on robust standard errors (in parenthesis). All specifications include incumbent party fixed effects. 
+ 
+ 
+ 
+ 
+
+=== page 70 ===
+ 
+2 
+ 
+ 
+2
+Table C8. Robustness Check on the Electoral Effects of Austerity for Strong and Weak 
+Governments 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+ 
+Baseline 
+Strong govts 
+Weak govts 
+Strong govts 
+Weak govts 
+ 
+ 
+all years 
+all years 
+first year 
+first year 
+  
+  
+  
+  
+  
+  
+Tax 
+-7.3*** 
+-4.8*** 
+-11.5*** 
+ 
+ 
+ 
+(1.3) 
+(1.5) 
+(3.1) 
+ 
+ 
+Tax 1st year 
+ 
+ 
+ 
+2.1 
+-19.8*** 
+ 
+ 
+ 
+ 
+(4.6) 
+(4.1) 
+Expenditure 
+0.4 
+-1.4 
+3.6 
+ 
+ 
+ 
+(1.5) 
+(1.4) 
+(3.9) 
+ 
+ 
+Expenditure 1st year 
+ 
+ 
+ 
+0.2 
+4.6 
+ 
+ 
+ 
+ 
+(3.4) 
+(6.6) 
+Growth 
+2.7*** 
+2.0** 
+2.8** 
+2.1** 
+2.7** 
+ 
+(0.9) 
+(0.9) 
+(1.4) 
+(0.9) 
+(1.1) 
+ 
+ 
+ 
+ 
+ 
+ 
+Observations 
+156 
+76 
+80 
+76 
+80 
+R-squared 
+0.20 
+0.27 
+0.31 
+0.08 
+0.38 
+Party FE 
+YES 
+YES 
+YES 
+YES 
+YES 
+Notes: the table reports the electoral effects of austerity announcements depending on whether the government has a strong 
+or a weak mandate. All coefficients are obtained estimating Equation (1). Column 1 reports baseline estimates, as in Column 
+1 of Table 2. Columns 2 and 3 report estimates obtained over the restricted sample of governments with a strong and weak 
+mandate respectively, and considering all austerity announcements, while Columns 4 and 5 consider only austerity 
+announcements made in the first year of government. Governments with a ‘strong’ (‘weak’) mandate are defined as those 
+in which the level of the vote share of the main party obtained at the election that brought them into power is above (equal 
+to or below) the sample median. *, **, *** indicate statistical significance at respectively the 90%, 95% and 99% confidence 
+level, based on robust standard errors (in parenthesis). All specifications include incumbent party fixed effects. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  

@@ -1,0 +1,3 @@
+﻿fichier;url_origine;canal;date;octets;sha256
+sources/ofce_pbrief149_2025.pdf;https://www.ofce.fr/pdf/pbrief/2025/OFCEpbrief149.pdf;curl -L -A Mozilla/5.0;2026-11-20 18:58;949540;bc712bc357fce5b5bf25512f70e8ad8bbca5465c8129558ab6aca716e3edf5fd
+sources/ofce_pbrief149_2025.txt;extraction de texte de sources/ofce_pbrief149_2025.pdf (pymupdf, python -I);extraction locale;2026-11-20 18:58;34338;ab2960b07ed80411458d1de183857890f8d99554bbd080a8bda8995361864912

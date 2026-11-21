@@ -1,0 +1,14 @@
+id;mesure;groupe;rendement_affiche;raison
+P-A14-025;IS : taux normal 25 % -> 33,5 % (alternative a P-A14-007);G-IS;4,4 a 8 Md (IAG citant Bach, IPP) [S];"exclusif de P-A14-007 ; non retenu : la France est revenue a la moyenne OCDE ; effet negatif de l'IS sur l'investissement converge dans la litterature citee par le comite (via Fipeco) [S]"
+P-A14-026;Suppression du PFU (retour au bareme);G-CAPITAL;9 Md affiches (IAG citant IPP 2025) [S];"NE RESISTE PAS : dividendes tres elastiques (14 -> 23 Md en 2018, comite fiscalite du capital) ; rendement net possiblement proche de zero"
+P-A14-028;Reprise du calendrier de la reforme de 2023 apres la suspension;G-RETRAITES-AGE;"regimes +1,4 a +2,0 Md/an 2028-2032 ; APU environ 3 Md (A06)";hors enveloppe recettes : depense de pension (recoupement probable avec A13), chiffre pour A15
+P-A14-029;Investissement public : sanctuarisation de l'entretien et des projets prets;G-INVEST;"cout 0 (contrainte) ; FMI 2014 : +1 pt d'investissement = +0,4 % de PIB an 1, +1,5 % an 4 [S via Astra]";aucun autofinancement inscrit
+P-A14-030;Fiscalite carbone : degel de la composante carbone;G-ENERGIE;non estime (aucune piece chiffree lue);"non retenu : recul de 2018 sous la pression de la rue (A09) ; a instruire avec compensation"
+P-A14-031;TVA : taux intermediaire 10 % -> 13 % (alternative a P-A14-011);G-TVA;4,3 Md (Cour n°14 option 2);exclusif de P-A14-011
+P-A14-032;Retablissement de l'ISF (alternative a P-A14-021);G-CAPITAL;4,5 Md (comite fiscalite du capital 2023 via IAG) [S];exclusif de P-A14-021
+P-A14-036;Retour au taux de CVAE de 2023;G-PRODUCTION;environ 4 Md (IAG ch.6 p.18) [S];"non retenu : IPP n°60 ne trouve pas d'effet robuste de la baisse de 2021, mais l'absence d'effet mesure n'est pas une preuve d'innocuite ; assiette ou l'ecart francais est le plus fort"
+P-A14-037;Successions : elargissement d'assiette et baisse de taux (CAE assiette 1, bareme 3);G-TRANSMISSION;"0 par construction ; 99 % d'heritiers gagnants (CAE n°69)";variante redistributive de 013/015 : non cumulable avec leur rendement
+P-A14-038;Productivite : aucun gain inscrit;-;1 pt de PIB permanent = 13,8 Md de prelevements bruts (Astra [S]);"non inscriptible ; couplage avec l'indexation des pensions (A06)"
+P-A14-033;Gouvernance : recettes superieures a la prevision traitees comme temporaires et affectees au solde;-;0 ex ante;regle LOLF jamais appliquee (A08)
+P-A14-034;Gouvernance : chiffrage actualise et clause d'extinction de chaque depense fiscale > 500 M;-;0 ex ante;lecon Dutreil (A04, A11)
+P-A14-035;Gouvernance : cadrage pluriannuel fiscalo-social et ajustement infra-annuel des credits d'impot (Cour leviers 2 et 7);-;0 ex ante;Cour nov. 2026 tableau 2

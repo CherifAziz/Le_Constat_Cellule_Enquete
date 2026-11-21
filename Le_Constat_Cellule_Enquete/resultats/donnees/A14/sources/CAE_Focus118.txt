@@ -1,0 +1,2244 @@
+
+=== PAGE PDF 1 ===
+Ce Focus est publié sous la responsabilité des auteurs et n’engage qu’eux.
+L
+a fiscalité des revenus du capital ou du patrimoine touche davantage les ménages à hauts revenus et 
+ceux qui sont davantage susceptibles d’être impliqués dans une activité entrepreneuriale, jouant ainsi 
+un rôle important dans l’activité économique de chaque pays. Ces ménages sont aussi davantage sus-
+ceptibles d’être mobiles à l’international, et l’idée que la fiscalité du capital puisse avoir un effet sur leurs 
+départs à l’étranger et, ainsi, des effets sur l’investissement, l’emploi ou l’activité économique d’un pays, est 
+une crainte légitime. Les travaux empiriques permettent toutefois de mesurer précisément l’ampleur de l’exil 
+fiscal, et ses effets économiques restent limités.
+Dans ce Focus, nous apportons une contribution empirique originale au débat sur l’exil fiscal en France, en 
+répondant à deux questions particulièrement importantes pour déterminer les effets de la fiscalité du capital : 
+1) les ménages à hauts revenus sont-ils sensibles à la fiscalité dans leur choix de résidence et, si oui, peut-
+on mesurer précisément l’impact d’une augmentation de la fiscalité du capital sur les flux de départs, sur 
+les flux de retours et sur la taille de la population des hauts patrimoines en France ?
+2) quel est l’impact agrégé des départs des hauts revenus sur le tissu économique, en particulier lorsque 
+l’on prend en compte les effets de ces départs sur les biens professionnels qu’ils détiennent ?
+L’originalité de cette étude tient à l’exploitation d’un appariement inédit de données administratives françaises 
+sur l’imposition des revenus et des patrimoines, sur les détentions d’entreprises et sur la mobilité des contri-
+buables. L’accès à ces nouvelles sources d’information permet d’éclairer un débat jusqu’ici dominé par des 
+hypothèses peu étayées.
+Nos analyses se structurent en trois volets. 
+La première partie quantifie l’effet des réformes fiscales sur les départs et les retours des hauts revenus. Pour 
+cela, nous utilisons une série de réformes fiscales qui, au cours des quinze dernières années, ont augmenté, 
+puis diminué les taux effectifs d’imposition sur les revenus et le stock des hauts patrimoines.
+Dans un deuxième temps, nous étudions l’impact du départ à l’étranger d’un propriétaire sur l’activité des 
+entreprises qu’il détient (Bach et al. (2023). Nous analysons les effets directs sur les entreprises détenues et 
+discutons de certains effets indirects sur les employés, sur les marchés du travail locaux ou sur les secteurs 
+Focus
+n° 118
+Juillet 2025
+Laurent Bach, ESSEC Business School, IPP, Antoine Bozio, Paris School of Economics, 
+EHESS, IPP, CAE, Nicolas Grimprel, CAE, Arthur Guillouzouic, AMSE, IPP,  
+Camille Landais, London School of Economics et CAE, Clément Malgouyres, Crest, IPP
+Fiscalité du capital :  
+quels sont les effets de l’exil fiscal 
+sur l’économie ?
+
+=== PAGE PDF 2 ===
+Focus, no 118, juillet 2025
+2
+d’activité, en tenant compte des mécanismes de réallocation engendrés par ces départs.
+Enfin, dans un troisième et dernier temps, à partir des analyses des deux premières parties, nous examinons les 
+effets agrégés qu’auraient différents scénarios de réforme de la fiscalité du patrimoine sur l’économie française 
+via les expatriations fiscales. 
+La méthodologie utilisée dans ce travail pour quantifier les effets économiques de l’exil fiscal lié à l’imposition des 
+hauts patrimoines suit l’approche proposée par Jakobsen et al. (2024) dans le contexte scandinave. Un des inté-
+rêts d’une telle réplication est de pouvoir comparer les résultats obtenus en France avec ceux obtenus en Suède 
+et au Danemark. Nous mettons donc systématiquement en regard, tout au long de l’analyse, le cas français avec 
+le cas scandinave afin de mieux établir la robustesse et la validité externe de nos conclusions.
+Rappelons que les analyses portent ici exclusivement sur l’expatriation fiscale et ne prennent pas en compte 
+d’éventuels changements de comportement des contribuables qui restent en France, qui relèvent d’une autre 
+dimension dont la littérature a montré qu’elle était importante pour comprendre les conséquences économiques 
+des réformes portant sur la fiscalité du patrimoine ou des revenus du capital (Kleven et al., 2020). Ces analyses 
+nous permettent d’identifier les effets des réformes fiscales des quinze dernières années. Même si extrapoler ces 
+résultats à d’autres réformes de plus grande ampleur comporte une part d’incertitude importante, nous discutons, 
+à la fin de ce Focus, des enseignements qui peuvent être tirés de la littérature et de nos résultats.
+Données et caractéristiques des ménages à hauts revenus
+Des données et analyses inédites
+Ce Focus s’appuie sur trois grands ensembles de travaux. D’une part, il présente des estimations originales produites 
+par les auteurs sur les effets de la fiscalité sur les expatriations, réalisées à partir des données de déclarations fiscales 
+personnelles d’impôt sur le revenu (IR) et d’impôt de solidarité sur la fortune (ISF), puis d’impôt sur la fortune immobi-
+lière (IFI) (fichiers POTE et ISF-IFI). D’autre part, le Focus reprend les estimations des effets directs des départs d’action-
+naires réalisées par Bach et al. (2023), s’appuyant sur une base de données inédite construite par appariement entre 
+les déclarations fiscales personnelles (IR, ISF/IFI) et les données issues des liasses fiscales des entreprises. Ce nouvel 
+ensemble de données, développé lors d’une collaboration entre la DGFiP, le CASD et l’IPP, permet, pour la première fois 
+en France, d’observer dans le temps les liens entre ménages et entreprises via l’actionnariat individuel, en identifiant 
+les détenteurs directs de parts sociales1. Enfin, ce Focus s’appuie sur les analyses des effets d’équilibre induits par les 
+expatriations d’actionnaires, produites par Jakobsen et al. (2024) dans le contexte suédois. Combinées, ces analyses 
+permettent aux auteurs d’estimer, pour la première fois en France, les effets économiques induits par l’expatriation des 
+hauts patrimoines à la suite des réformes de la fiscalité du capital.
+Identification des ménages avec de hauts revenus du capital
+Afin d’analyser l’évolution de l’imposition et des départs des hauts patrimoines au fil des réformes fiscales récentes, il 
+nous faut définir un groupe d’étude identifiant au mieux les hauts patrimoines français. 
+Dans le contexte scandinave, les données administratives permettent d’estimer la valeur du patrimoine de l’ensemble 
+de la population. À partir de ces données, Jakobsen et al. (2024) peuvent ainsi aisément identifier les ménages suédois 
+affectés par la suppression de l’impôt sur la fortune de 2006. 
+Pour la France, identifier un groupe d’étude à la fois représentatif des hauts patrimoines et effectivement affecté par la 
+succession de réformes fiscales mises en place entre 2012 et 2018 est moins évident. D’une part, nous ne disposons 
+pas de données cohérentes sur la période d’analyse qui nous permettent de mesurer le patrimoine détenu par chaque 
+1 Pour une description plus détaillée des données utilisées, se référer à l’annexe A.0. 
+
+=== PAGE PDF 3 ===
+3
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+2 Par exemple, les données ISF permettant d’estimer la valeur totale du patrimoine taxable (immobilier et mobilier) ne sont disponibles que jusqu’à 
+sa suppression en 2017, après quoi, seule la valeur du patrimoine immobilier est déclarée à l’administration. Par ailleurs, les données de patrimoine 
+issues des déclarations ISF comme IFI ne sont renseignées que pour les foyers imposables (patrimoine supérieur à 1,3 million d’euros) ; elles ne 
+permettent donc pas d’observer le patrimoine détenu par les foyers situés en dessous des seuils minimaux d’imposition. 
+3 Soit le seuil minimal de patrimoine pour être imposable à l’ISF durant notre période d’analyse.
+foyer2. D’autre part, ces réformes fiscales concernent à la fois le patrimoine détenu (suppression de l’ISF et instauration 
+de l’IFI en 2017) et les revenus générés par le patrimoine (augmentation des prélèvements sociaux, suppression du PFL 
+en 2013, instauration du PFU en 2018). Afin d’identifier les individus susceptibles d’être les plus affectés par l’ensemble 
+des réformes étudiées, nous nous basons donc sur la somme des revenus du capital déclarés. Cette mesure a plusieurs 
+avantages : d’une part, elle est disponible de manière cohérente sur l’ensemble de la période étudiée (2010-2019). 
+D’autre part, c’est une bonne mesure indirecte du niveau de patrimoine détenu. Ainsi, pour les années pour lesquelles 
+nous disposons de données sur le patrimoine via les déclarations de l’impôt sur la fortune, nous observons une forte 
+corrélation entre les revenus du capital et la probabilité d’avoir un patrimoine taxable supérieur à 1,3 million d’euros3 
+(voir Figure A0.1 en annexe). Enfin, le niveau de revenu du capital déclaré permet d’identifier des individus susceptibles 
+d’être à la fois affectés par les réformes sur la fiscalité du patrimoine et par celles sur la fiscalité des revenus générés 
+par ce patrimoine. Nous nous focalisons dans notre étude sur le top 1 % des revenus déclarés du capital, soit environ 
+380 000 foyers, dont le revenu du capital déclaré est supérieur ou égal à 30 000 euros pour l’année 2016. 
+S’agissant de l’étude des effets des départs d’actionnaires sur l’activité des entreprises détenues, nous nous appuyons 
+sur les analyses produites par Bach et al. (2023). Dans ce rapport, les auteurs identifient l’ensemble des actionnaires 
+d’entreprise en France détenant au moins 10 % de part sociales et s’étant expatriés de France durant la période d’ana-
+lyse. Les auteurs mesurent ainsi l’effet de plus de 12 000 départs sur l’activité des entreprises détenues, notamment en 
+termes de chiffre d’affaires, de masse salariale et de valeur ajoutée. 
+Les ménages à hauts revenus du capital sont moins mobiles que la moyenne des Français
+Le premier fait notable de nos analyses est que les ménages avec de hauts revenus du capital s’expatrient relativement 
+peu de France. La Figure 1 présente ainsi le taux moyen de départs de France en fonction du rang des ménages dans la 
+distribution des revenus du capital. Bien que les taux de départs aient tendance à augmenter en haut de la distribution 
+des revenus du capital, ils restent relativement bas : seulement 0,2 % du top 1 % français s’expatrie chaque année, soit 
+deux fois moins que lorsqu’on considère l’ensemble de la population française (0,38 %).
+Figure 1. Taux moyen de départs par centile de distribution du revenu du capital en France, top 10 % (2017)
+0,0%
+0,1%
+0,2%
+0,3%
+0,4%
+0,5%
+0,6%
+0,7%
+0,8%
+0,9%
+1,0%
+Taux de départs (en %)
+Centiles de distribution du revenu du capital déclaré
+Top 1%
+des revenus du capital
+P99.9-100
+P99.5-99.9
+P99-99.5
+P98-99
+P97-98
+P96-97
+P95-96
+P94-95
+P93-94
+P92-93
+P91-92
+P90-91
+Taux de départ moyen en France : 0,38%
+La mobilité augmente
+avec les revenus du 
+capital, mais reste en deçà
+du taux de départ moyen 
+en France
+Notes : Le revenu du capital déclaré est estimé à partir des données de déclaration fiscale personnelle. Il ne comprend que les revenus 
+personnellement perçus et n’inclut donc pas les revenus indirectement perçus par le biais de holdings. Le taux moyen de départs est 
+calculé à partir des estimations de population de l’Insee pour 2017 : 256 000 départs de France, pour une population résidant en France de 
+68,1 millions. 
+Lecture : 0,28 % du top 0,1 % des revenus du capital déclaré se sont expatriés fiscalement de France en 2017. 
+Source : Données fiscales POTE.
+
+=== PAGE PDF 4 ===
+Focus, no 118, juillet 2025
+4
+Ces taux sont aussi parfaitement comparables avec ceux observés dans d’autres pays, notamment en Suède et au 
+Danemark (Jakobsen et al., 2024).
+Figure 2. Taux de départs moyen par centile de distribution du patrimoine en Suède, top 10 % (2006)
+0,0%
+0,1%
+0,2%
+0,3%
+0,4%
+0,5%
+0,6%
+0,7%
+0,8%
+0,9%
+1,0%
+Taux de départs (en %)
+Centile de distribution du patrimoine
+P99.9-100
+P99.5-99.9
+P99-99.5
+P98-99
+P97-98
+P96-97
+P95-96
+P94-95
+P93-94
+P92-93
+P91-92
+P90-91
+Taux de départ moyen en Suède : 0,42%
+Top 1%
+du patrimoine
+La mobilité augmente
+avec le patrimoine, mais reste 
+en deça du taux de départ 
+moyen en Suède
+Notes :  Les taux de départs sont calculés ici par centile de patrimoine.
+Lecture : 0,34 % du top 0,1 % du patrimoine se sont expatriés de Suède en 2006.
+Source : Jakobsen et al. (2024). 
+Enfin, le taux de départs des ménages percevant des revenus du capital importants est aussi nettement plus faible que 
+celui des foyers dont les hauts revenus sont générés par d’autres sources que le capital (travail et pensions, notam-
+ment). La figure en annexe A6.2. montre ainsi que lorsqu’on classe les foyers fiscaux par revenu total (revenu fiscal de 
+référence), plutôt que par les seuls revenus du capital, on obtient des taux de départs nettement supérieurs en haut 
+de la distribution. Ainsi, 0,6 % des foyers appartenant au top 1 % des revenus totaux s’est expatrié fiscalement en 2017, 
+contre 0,2 % pour le top 1 % des revenus du capital. 
+Les ménages à hauts revenus du capital jouent un rôle important dans l’économie
+Peu mobiles, les ménages avec de hauts revenus du capital ont néanmoins un rôle dans l’économie qui dépasse leur 
+poids démographique, puisqu’ils détiennent une part importante des actifs professionnels et participent ainsi large-
+ment à l’activité économique en France. La Figure 3 présente la probabilité de contrôler, au moins partiellement, une 
+entreprise en France pour chaque centile de la distribution des revenus déclarés du capital du top 10 %. Le contrôle 
+d’une entreprise est défini ici comme le fait de détenir au moins 10 % des actifs d’une entreprise. Comme le montre la 
+Figure 3, cette probabilité augmente fortement avec les revenus fiscaux des ménages. Alors que la probabilité de déte-
+nir 10 % du capital d’une entreprise est en moyenne de 3,6 % pour le ménage moyen soumis à l’impôt sur le revenu, elle 
+est de 43 % pour les ménages situés dans le top 1 % de la distribution des revenus du capital. Les entreprises contrôlées 
+(au moins partiellement) par le top 1 % des ménages4 représentent 19,6 % du chiffre d’affaires total généré en France, 
+22,5 % de la masse salariale et 20,9 % de la valeur ajoutée5.
+4 C’est-à-dire qu’elles sont détenues par 0,43 % de la population totale, puisque seuls 43% du top 1 % détiennent plus de 10 % d’actifs dans une entreprise. 
+5 Valeurs estimées par l’IPP à partir des données POTE (DGFiP) et BADS2A (IPP-DGFiP-CASD).
+
+=== PAGE PDF 5 ===
+5
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+Figure 3. Probabilité de détenir au moins 10% des parts sociales d’une entreprise par centile de distribution du 
+revenu du capital
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+Probabilité de détenir une entreprise
+Centiles de distribution des revenus déclarés du capital 
+Top 1% des revenus
+déclarés du capital
+P99.9-100
+P99.5-99.9
+P99-99.5
+P98-99
+P97-98
+P96-97
+P95-96
+P94-95
+P93-94
+P92-93
+P91-92
+P90-91
+La probabilité de détenir une entreprise
+est plus élevée en haut de la distribution
+des revenus du capital
+Notes : Le revenu du capital déclaré est estimé à partir des données de déclaration fiscale personnelle. Il ne comprend que les revenus 
+personnellement perçus et n’inclut donc pas les revenus indirectement perçus par le biais de holdings. La probabilité de détenir une entreprise 
+a été estimée par l’Institut des politiques publiques (IPP), en définissant comme critère de détention pour un individu le fait de posséder au 
+moins 10 % des parts sociales d’une entreprise. 
+Lecture : En France, 68 % des individus appartenant au top 0,1 % des revenus du capital déclaré détiennent au moins 10 % du capital d’une 
+entreprise. 
+Source : Calculs de l’IPP à partir des données POTE (DGFiP) et BADS2A (IPP-DGFiP-CASD).
+Les départs et les retours des ménages à hauts revenus 
+du capital sont sensibles à la fiscalité
+La fiscalité du capital fait-elle fuir les hauts patrimoines hors de France ? L’analyse des évolutions de départs en France 
+montre que les hauts patrimoines français sont relativement sensibles à la fiscalité, mais que les flux totaux d’expatria-
+tions restent très faibles en part de la population. Nous estimons ainsi qu’une augmentation d’un point de pourcentage 
+de l’imposition effective sur le revenu engendre une expatriation supplémentaire à long terme comprise entre 0,02 et 
+0,23 % des hauts patrimoines français. 
+Contexte et stratégie d’identification
+Afin d’évaluer la sensibilité des migrations des hauts patrimoines à la fiscalité, nous étudions l’évolution des départs et 
+des retours en France durant deux grandes vagues de réformes de la fiscalité : en 2013, avec la suppression du prélève-
+ment forfaitaire libératoire (PFL), et en 2017, avec la suppression de l’impôt de solidarité sur la fortune (ISF) au profit de 
+l’impôt sur la fortune immobilière (IFI), suivie l’année suivante de l’instauration du prélèvement forfaitaire unique (PFU). 
+Pour estimer leur sensibilité aux réformes fiscales, nous comparons les évolutions de départs et de retours de contri-
+buables situés dans le haut de la distribution des revenus du capital, et plus ou moins concernés par les chocs fiscaux 
+décrits. L’objectif est ainsi de définir un groupe dit de « traitement », fortement affecté par le choc fiscal, et un groupe de 
+« contrôle », peu ou pas affecté, tout en faisant en sorte que ces deux groupes soient le plus comparables possible dans 
+leurs tendances naturelles de départs et de retours. Afin d’identifier les ménages les plus susceptibles d’être affectés 
+par les réformes mises en place en 2012-2013 et 2017-2018, nous nous basons sur la somme des revenus du capital 
+déclarés6 et nous concentrons chaque année sur le groupe de ménages appartenant au top 1 % en termes de revenus 
+du capital. 
+6 Ces revenus comprennent l’ensemble des revenus du capital personnellement perçus et déclarés à l’administration fiscale. Ils n’incluent donc pas 
+les revenus de sociétés non-distribués, dans le cadre d’une holding par exemple. 
+
+=== PAGE PDF 6 ===
+Focus, no 118, juillet 2025
+6
+Nous comparons ensuite, au sein de ce groupe, les évolutions de départs et de retours des individus fortement affectés 
+par les réformes à celles des individus qui le sont peu. L’effet relatif des réformes fiscales sur les différents ménages 
+composant le top 1 % est déterminé ici par la part des revenus du capital provenant de patrimoine financier (ou « mobi-
+lier »). Les individus fortement affectés sont définis comme les individus appartenant au top 1 % des revenus du capital 
+déclaré, et dont la part de revenu mobilier est supérieure à la part médiane observée dans le top 1 %. Les individus plus 
+faiblement affectés sont définis comme le reste du top 1 %, c’est-à-dire comme les individus dont la part de revenu mobi-
+lier est inférieure à la part médiane observée dans le dernier centile des revenus du capital. Les contribuables déclarant 
+des revenus du capital mobilier importants sont en effet les plus susceptibles d’être affectés par la suppression du PFL 
+de 2013, l’instauration du PFU en 2018, ainsi que par les changements de taux de contributions sociales. Par ailleurs, 
+la corrélation entre le revenu du capital et le patrimoine détenu en fait aussi une bonne méthode d’identification des 
+individus les plus affectés par la réforme ISF-IFI de 2017.
+Effet des chocs fiscaux sur les taux effectifs d’imposition des ménages à hauts revenus du capital
+Afin d’estimer l’effet des vagues de réformes de 2012-2013 et 2017-2018 en France sur l’impôt effectivement payés par 
+les contribuables de notre étude, nous comparons l’évolution des taux effectifs d’imposition du revenu pour nos groupes 
+Réformes fiscales de 2012-2013 en France
+Suppression du prélèvement forfaitaire libératoire pour les revenus du capital (2013) : Avant 2013, les revenus 
+du capital (dividendes, intérêts et plus-values mobilières) pouvaient être soumis à un prélèvement forfaitaire libératoire 
+(PFL), dont les taux étaient de 19 % pour les dividendes et plus-values et de 24 % pour les intérêts, auxquels s’ajoutaient 
+les prélèvements sociaux. Cette option permettait aux contribuables de payer un taux fixe, souvent inférieur à l’imposi-
+tion au barème progressif de l’impôt sur le revenu. La réforme de 2013 a supprimé cette option, soumettant désormais 
+ces revenus au barème progressif de l’impôt sur le revenu.
+Trois autres réformes de la fiscalité furent mises en place concomitamment à la suppression du PFL : 
+Réforme du barème de l’impôt sur le revenu (2012) : Avant 2012, le barème de l’impôt sur le revenu comportait 
+quatre tranches, avec un taux marginal maximal de 41 %. À partir de l’imposition des revenus de 2012, une nouvelle 
+tranche a été ajoutée, portant le taux marginal supérieur à 45 % pour les revenus excédant 150 000 euros par part.
+Augmentation des prélèvements sociaux sur le capital (2012) : Avant 2012, les revenus du patrimoine et des pro-
+duits de placement étaient soumis à des prélèvements sociaux dont le taux global était de 13,5 % en 2011 après plu-
+sieurs hausses successives dans les années 2000. En 2012, ce taux a été porté à 15,5 %, s’appliquant notamment aux 
+revenus fonciers, dividendes, plus-values mobilières et assurances-vie.
+Réforme du barème de l’ISF (2013) : Fin 2012, le nouveau gouvernement instaure une contribution exceptionnelle de 
+l’ISF pour annuler la réforme du barème mise en place quelques mois auparavant par le gouvernement Fillon. En 2013, 
+un nouveau barème progressif est mis en place, avec des taux marginaux légèrement plus bas (taux maximal de 1,5 % 
+du patrimoine, contre 1,8 % auparavant).  
+Réformes fiscales de 2017-2018 en France
+Transformation de l’impôt sur la fortune (ISF) en impôt sur la fortune immobilière (IFI) : Jusqu’en 2017, l’ISF 
+s’appliquait aux patrimoines nets supérieurs à 1,3 million d’euros, avec un barème progressif allant de 0,5 % à 1,5 %. 
+L’assiette de l’ISF comprenait les biens immobiliers, les placements financiers et les assurances-vie. À partir de 2018, 
+l’ISF a été remplacé par l’IFI, qui ne concerne plus que les actifs immobiliers non affectés à une activité professionnelle. 
+L’ensemble des placements financiers, y compris les actions, obligations et assurances-vie, a été exclu de l’assiette 
+imposable, conduisant à une réduction de la base taxable pour les contribuables dont le patrimoine était en partie 
+constitué d’actifs financiers.
+Instauration du prélèvement forfaitaire unique (PFU) sur les revenus du capital : Entre 2013 et 2018, les reve-
+nus du capital (dividendes, intérêts et plus-values mobilières) étaient imposés au barème progressif de l’impôt sur le 
+revenu, avec des taux d’imposition variables selon la tranche marginale du contribuable. En 2018, un PFU de 30 % a été 
+instauré, réduisant fortement l’imposition effective de ce type de revenu. Ce taux forfaitaire comprend 12,8 % d’impôt 
+sur le revenu, et 17,2 % de prélèvements sociaux, simplifiant ainsi l’imposition du capital.
+Augmentation des prélèvements sociaux sur les revenus du capital (2018) : De manière concomitante à l’instau-
+ration du PFU, le taux global de prélèvements sociaux sur les revenus du capital a été rehaussé de 15,5 % à 17,2 %. Ce 
+nouveau taux s’applique à la fois aux revenus du capital éligibles au PFU (revenus mobiliers) et aux revenus non éligibles 
+(revenus fonciers). 
+
+=== PAGE PDF 7 ===
+7
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+de traitement et de contrôle. Le taux effectif d’imposition est calculé comme la somme des impôts sur le revenu, pré-
+lèvement forfaitaires libératoires et non libératoires, contribution exceptionnelle sur les hauts revenus et impôt sur la 
+fortune (ISF/IFI), divisée par la somme des revenus déclarés (tels que mesurés par le revenu fiscal de référence). La 
+Figure 4 présente la différence d’évolution de ces taux en France sur la période 2010-2019 entre les ménages traités 
+(fortement affectés par les réformes fiscales) et ceux de contrôle (plus faiblement affectés).
+Figure 4. Évolution de la différence de taux effectif d’imposition du revenu et du capital entre les groupes de 
+traitement et de contrôle, 2010-2019
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Différence du taux effectif d’imposition
+des revenus et du patrimoine (pp)
+Année fiscale
+Tranche 45% IR, ↑ PS
+Suppression PFL, ↓ ISF
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+Hausse de 3,3 pp
+de la différence d’imposition
+après les réformes de 2012-2013
+Baisse de 3,5 pp
+de la différence d’imposition
+après les réformes de 2017-2018
+Groupe de traitement vs de contrôle (relativement à 2010)
+Notes : IR : impôt sur le revenu ; PS : prélèvements sociaux ; PFL : prélèvement forfaitaire libératoire ; ISF : impôt sur la fortune ; IFI : impôt sur 
+la fortune immobilière ; PFU : prélèvement forfaitaire unique. 
+Cette figure présente l’évolution de la différence de taux effectif d’imposition du revenu et du capital entre groupes traités et de contrôle. Les 
+groupes traités correspondent aux foyers fiscaux appartenant au top 1 % des revenus du capital déclarés et dont la part de revenu mobilier 
+dans leur revenu du capital total est supérieure à la part médiane observée dans le top 1 %. Les foyers du groupe de contrôle appartiennent au 
+top 1 % dont la part de revenu mobilier est inférieure à cette médiane. Le taux effectif d’imposition du revenu et du capital est estimé ici comme 
+la somme des impôts sur le revenu personnel (impôt sur le revenu, prélèvements sociaux sur le revenu du capital, contribution exceptionnelle 
+sur les hauts revenus), et des impôts sur le patrimoine (ISF jusqu’en 2016, puis IFI). La différence de taux effectif entre les individus des 
+groupes de traitement et de contrôle est exprimée relativement à son niveau de 2010. 
+Lecture : le taux effectif d’imposition des revenus et du capital a augmenté de 4 points de pourcentage de plus pour les groupes traités que 
+pour les groupes de contrôle entre 2010 et 2013. 
+Source : Données fiscales POTE.
+L’introduction en 2012 de la nouvelle tranche de 45 % dans le barème d’impôt sur le revenu, ainsi que l’augmenta-
+tion des taux de prélèvements sociaux, ont affecté de manière assez homogène le taux d’imposition des individus des 
+deux groupes. Ceci s’explique notamment par le fait que ce type de réforme affecte aussi bien les revenus mobiliers et 
+immobiliers, provoquant ainsi une augmentation de la fiscalité d’ampleur comparable pour nos deux groupes, comme le 
+montre la figure en annexe A1.1. Ce n’est qu’en 2013, avec la suppression du prélèvement forfaitaire libératoire (PFL), 
+que l’écart se creuse entre le taux d’imposition des foyers traités, fortement affectés par cette réforme, et celui de notre 
+groupe de contrôle, lui, peu affecté. S’agissant des réformes de 2017 et 2018, on observe deux chocs consécutifs sur 
+le taux d’imposition des hauts patrimoines. D’une part, en 2017, la suppression de l’ISF, remplacé par l’IFI, entraîne 
+une baisse significative de la fiscalité pour les foyers possédant une part importante de patrimoine financier (et donc 
+davantage susceptibles d’appartenir aux foyers traités). D’autre part, la mise en place, en 2018, du PFU à 30 % pour les 
+revenus du capital mobilier, a aussi largement contribué à la diminution de l’imposition du groupe traité. 
+À l’aide d’un modèle de différence-en-différence, nous estimons ainsi que le choc fiscal de 2013 a augmenté l’imposi-
+tion relative des ménages traités de 3,3 points de pourcentage par rapport aux ménages du groupe de contrôle, moins 
+affectés par cette réforme. S’agissant du choc fiscal de 2017, nous estimons que la suppression de l’ISF, suivie de l’ins-
+tauration du PFU, a diminué l’imposition relative des ménages de -3,5 points de pourcentage par rapport aux foyers du 
+groupe de contrôle. 
+
+=== PAGE PDF 8 ===
+Focus, no 118, juillet 2025
+8
+Effet des chocs fiscaux sur les départs des ménages à hauts revenus du capital
+Bien que les taux de départs des hauts revenus et patrimoines soient faibles, ceux-ci n’en demeurent pas moins sen-
+sibles à la fiscalité. La Figure 5 présente l’évolution des taux de départs en France sur la période 2010-2019. 
+Figure 5. Évolution de la différence du taux de départs entre individus des groupes de traitement et de contrôle, 
+2010-2019
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Différence des taux de départs bruts entre
+groupes de traitement et de contrôle (pp)
+Année fiscale
+Tranche 45% IR, ↑ PS
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+-0,20
+-0,15
+-0,10
+-0,05
+0,00
+0,05
+0,10
+0,15
+0,20
+Hausse de 0,04 à 0,09 pp
+de la différence de taux de départs
+après les réformes de 2012-2013
+Baisse de 0 à 0,02 pp
+de la différence de taux de départs
+après les réformes de 2017-2018
+Suppression PFL, ↓ ISF
+Groupe de traitement vs de contrôle (relativement à 2010)
+Notes : Cette figure présente l’évolution de la différence de taux de départs brut entre les individus des groupes de traitement et de contrôle. 
+Les premiers correspondent aux foyers fiscaux appartenant au top 1 % des revenus du capital déclarés et dont la part de revenu mobilier dans 
+leur revenu du capital total est supérieure à la part médiane observée dans le top 1 %. Le groupe de contrôle appartient au top 1 % dont la 
+part de revenu mobilier est inférieure à cette médiane. Le taux de départs brut correspond au nombre d’individus de chaque groupe déclarant 
+déménager hors de France à l’administration fiscale durant l’année a, divisé par la population totale du groupe. La différence de taux de 
+départs entre les deux groupes est exprimée relativement à son niveau de 2010. 
+Lecture : le taux de départs brut a augmenté de 0,12 point de pourcentage de plus pour les individus traités que pour les individus contrôle 
+entre 2010 et 2013.
+Source : Données fiscales POTE.
+Parallèlement à l’augmentation des taux effectifs d’imposition en 2013, on observe une augmentation significative des 
+départs parmi les individus fortement affectés par la réforme, relativement aux individus de contrôle. Cette augmen-
+tation s’observe dès 2012, suggérant une forme d’anticipation de l’augmentation de la fiscalité, qui peut s’expliquer 
+notamment par le programme de réformes défendu durant l’élection présidentielle de 2012. Malgré une hausse des 
+départs en 2012 et 2013, il semble que le nombre d’expatriations se soit stabilisé à un niveau plus bas dans les années 
+suivantes. Selon les années considérées, on obtient ainsi un effet relatif du choc fiscal de 2013 sur le taux de départs 
+de 0,04 à 0,09 point de pourcentage.
+S’agissant du choc fiscal de 2017-2018, l’interprétation des tendances d’évolution du taux de départs est plus ambiguë. 
+En effet, on observe une décrue relative des départs des ménages du groupe de traitement dès 2014, c’est-à-dire avant 
+le choc fiscal de 2017-2018. Plusieurs éléments peuvent expliquer cette diminution anticipée des taux de départs nets. 
+D’une part, comme mentionné précédemment, l’effet du choc fiscal de 2012-2013 a pu être temporaire au moins en 
+partie. D’autre part, le vote du Brexit en 2016 a très probablement entraîné une diminution supplémentaire des expa-
+triations vers le Royaume-Uni à partir de 2016. Néanmoins, nous ne pouvons pas non plus exclure que la diminution 
+des taux de départs du top 1 % observée après 2017 soit aussi en partie due à l’allègement de la fiscalité durant cette 
+période. Nous estimons ainsi que l’effet relatif du choc fiscal de 2017 et 2018 sur le taux de départs se situe entre 0 et 
+-0,02 point de pourcentage.
+
+=== PAGE PDF 9 ===
+9
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+Constat 1. Les départs des ménages à hauts revenus du capital, bien que relativement faibles par 
+rapport au reste de la population, sont sensibles à la fiscalité du capital. En 2013, l’augmentation 
+de la fiscalité des revenus du capital a ainsi entraîné une hausse 0,04 à 0,09 pp du taux de départ 
+pour les individus les plus affectés par la réforme. La baisse de la fiscalité de 2017 et 2018 a, quant 
+à elle, diminué les taux de départs de 0 à -0,02 pp. Ces effets, quoique faibles en valeur absolue, 
+représentent une variation non négligeable des flux : la hausse de la fiscalité de 2013 a ainsi augmenté 
+les flux de départs nets de 32 à 79 %.
+Afin d’appréhender l’ensemble des effets de la fiscalité sur l’expatriation des ménages à hauts revenus de capital, nous 
+considérons aussi l’effet des réformes de 2012-2013 et 2017-2018 sur les retours des ménages aisés en France. La 
+Figure 6 retrace l’évolution des taux de retours sur la période 2010-2019.
+Figure 6. Évolution de la différence du taux de retours entre individus des groupes de traitement et de contrôle, 
+2010-2019
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Différence des taux de retours entre
+ groupes de traitement et de contrôle (pp)
+Année fiscale
+Tranche 45% IR, ↑ PS
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+-0,20
+-0,15
+-0,10
+-0,05
+0,00
+0,05
+0,10
+0,15
+0,20
+Pas d’effet des réformes de 2012-2013
+sur les taux de retours
+Hausse de 0,01 à 0,4 pp
+de la différence de taux de retours
+après les réformes de 2017-2018
+Suppression PFL, ↓ ISF
+Groupe de traitement vs de contrôle (relativement à 2010)
+Notes : Cette figure présente l’évolution de la différence de taux de retours entre individus des groupes de traitement et de contrôle. Les 
+premiers correspondent aux foyers fiscaux appartenant au top 1 % des revenus du capital déclarés, et dont la part de revenu mobilier dans leur 
+revenu du capital total est supérieure à la part médiane observée dans le top 1 %. Les individus du groupe de contrôle font partie du top 1 % 
+dont la part de revenu mobilier est inférieure à cette médiane. Le taux de retours brut correspond au nombre d’individus de chaque groupe 
+résidant précédemment à l’étranger et déclarant revenir en France à l’administration fiscale durant l’année a, divisé par la population totale 
+du groupe. La différence de taux de retours entre les deux groupes est exprimée relativement à son niveau de 2010. Les données de retours 
+n’étant disponibles qu’à partir de 2011, les taux de retours de 2010 ont été prédits à partir des tendances observées sur la période 2011-
+2013. 
+Lecture : le taux de retours a augmenté de 0,1 point de pourcentage de plus pour les individus du groupe de traitement que ceux du groupe de 
+contrôle entre 2010 et 2018.
+Source : Données fiscales POTE
+Les données fiscales sur les retours n’étant disponibles qu’à partir de 2011, il est difficile d’estimer précisément l’effet 
+du choc fiscal de 2013 sur les retours. Cependant, la tendance croissante du nombre de retours relativement à 2011 
+suggère que la réforme de 2013 a eu peu ou pas d’effet sur les décisions de retour de hauts patrimoines (nous faisons 
+donc ici l’hypothèse que l’effet est proche de zéro). La première variation significative des taux de retours intervient en 
+2016 et est vraisemblablement due au Brexit. On observe ensuite une seconde hausse des retours en 2018, qui peut 
+avoir plusieurs explications. D’une part, il se peut que l’effet immédiat du Brexit en 2016 se soit prolongé les années 
+suivantes, au fur et à mesure de sa mise en œuvre. D’autre part, la baisse de la fiscalité à la suite de la suppression de 
+l’ISF et de l’instauration du PFU a pu motiver le retour d’un certain nombre de hauts patrimoines, désormais soumis 
+à une fiscalité plus avantageuse. En fonction des scénarios contrefactuels utilisés, on obtient ainsi un effet relatif des 
+chocs fiscaux de 2017-2018 sur le taux de retours entre 0,01 et 0,04 pp.
+
+=== PAGE PDF 10 ===
+Focus, no 118, juillet 2025
+10
+Constat 2. Les retours des hauts patrimoines sont eux aussi sensibles à la fiscalité du capital. À la 
+suite des baisses successives de la fiscalité des revenus du capital et du patrimoine en 2017 et 2018, 
+le taux de retours a augmenté de 0,01 à 0,04 pp pour les individus les plus affectés par ces réformes. 
+Ceci représente une augmentation de 7 % à 28 % des flux de retours.
+En combinant nos estimations sur les départs et les retours des hauts patrimoines, nous obtenons que la hausse de 
+la fiscalité du capital en 2013 a entraîné une augmentation des flux de départs, nets de retour, des hauts patrimoines 
+concernés de 0,04 à 0,09 point de pourcentage, tandis que l’allègement de la fiscalité en 2017-2018 est associé à une 
+baisse des départs nets de l’ordre de 0,01 à 0,06 point de pourcentage. Rapporté à l’amplitude des chocs fiscaux consi-
+dérés, nous obtenons qu’une augmentation de l’imposition des hauts patrimoines d’un point de pourcentage engen-
+drerait chaque année une diminution de la population de hauts patrimoines résidant fiscalement en France de 0,003 à 
+0,03 %. 
+Par ailleurs, les flux additionnels de départs s’accumulent avec le temps. Des effets modestes sur les flux peuvent se 
+transformer en effets conséquents sur le stock de la population des hauts patrimoines si ces flux se cumulent pendant 
+de longues années sans qu’aucun autre mécanisme ne vienne renouveler cette population. Dans les faits, la population 
+des hauts patrimoines se renouvelle naturellement au travers de différents mécanismes (décès, naissances, accumula-
+tion ou destruction de capital, etc.). Pour estimer les effets à long terme de la fiscalité sur les expatriations, il faut donc 
+cumuler les effets sur les flux en tenant compte de ces effets de renouvellement. Nous suivons ici une méthodologie 
+analogue à Jakobsen et al. (2024). Nous estimons ainsi que la part supplémentaire du top 1 % expatriée à long terme à la 
+suite d’une hausse de 1 pp de la fiscalité est de l’ordre de 0,02 à 0,23 % 7. La borne haute de 0,23 % est ici particulière-
+ment conservatrice, puisqu’elle considère comme pérenne l’effet de la fiscalité sur les départs, observé en 2013, alors 
+que la forte baisse des départs en 2014 et 2015 suggère plutôt un effet moindre sur les flux de long terme.
+Ces estimations sont cohérentes avec les effets obtenus dans le reste de la littérature académique. En Suède, Jakobsen 
+et al. (2024) estiment une élasticité de 0,05 %. Nos estimations se situent donc entre 0,3 et 3,8 fois celles obtenues 
+dans le contexte suédois. 
+Afin de mieux évaluer l’ampleur potentielle des expatriations à la suite d’une réforme fiscale d’envergure, nous ima-
+ginons deux scénarios potentiels de réforme : le premier (scénario 1) considère une réforme fiscale qui augmenterait 
+mécaniquement les prélèvements sur le top 1 % des revenus du capital de 2 milliards d’euros annuellement. Par « méca-
+niquement », nous entendons « avant toute prise en compte des réponses comportementales ». Ce scénario équivaut à 
+une augmentation moyenne du taux effectif d’imposition du top 1 % de 2,6 points de pourcentage 8. Le second scénario 
+considère une réforme fiscale plus ambitieuse d’augmentation mécanique — avant réponses comportementales donc 
+— de 4 milliards d’euros supplémentaires des recettes de l’État, soit une augmentation du taux effectif de 5,2 points de 
+pourcentage pour le top 1 %. Ces ordres de grandeur sont comparables aux réformes récentes, comme la suppression 
+de l’ISF, dont la perte pour les recettes fiscales est estimée entre 3 et 4,5 milliards d’euros (effet mécanique unique-
+ment). Une réforme de la fiscalité équivalente à notre premier scénario (+2,6 pp sur le taux d’imposition du top 1 %, 
+2 milliards de recettes) entraînerait l’expatriation à long terme de 0,06 à 0,6 % du top 1 % des revenus du capital, tandis 
+que notre second scénario (+5,2 pp, 4 milliards de recettes) entraînerait l’expatriation de 0,12 à 1,2 % du top 1 %.
+Constat 3. L’augmentation de la fiscalité des revenus du capital de 2013 a entraîné une augmentation 
+du taux de départs nets de 0,04 à 0,09 pp pour les individus les plus affectés par la réforme, tandis 
+que l’allègement de la fiscalité en 2017-2018 a entraîné une baisse des départs nets de 0,01 à 0,07 
+pp. En rapportant ces évolutions à l’ampleur des chocs fiscaux considérés, on obtient que l’élasticité 
+de stock du top 1 % relative au revenu disponible après impôt se situe entre 0,02 et 0,18 %, soit entre 
+0,4 et 3,6 fois l’élasticité de 0,05 % obtenue par Jakobsen et al. (2024) dans le contexte suédois. Ces 
+élasticités traduisent une sensibilité des décisions d’expatriation des hauts patrimoines français à la 
+fiscalité du capital.
+7 Voir Annexe A.3 pour la méthodologie de conversion des flux annuels en effets de long terme. 
+8 En pratique, les réponses comportementales réduisent l’assiette fiscale. Voir à ce propos Kleven et al. 2020 et la conclusion de ce Focus.
+
+=== PAGE PDF 11 ===
+11
+L’expatriation des hauts patrimoines a des effets négatifs sur l’activité 
+des entreprises qu’ils détiennent, néanmoins partiellement 
+compensés par des effets de réallocation et d’équilibre
+Nous avons montré que la part de hauts patrimoines français expatriés était relativement sensible à la fiscalité du patri-
+moine, mais que les flux totaux d’expatriations restaient très faibles en part de la population concernée. Quels impacts 
+pourraient avoir ces départs sur l’activité économique ? Pour le comprendre, nous commençons par mesurer l’impact 
+que l’expatriation d’un propriétaire a sur l’activité économique des entreprises qu’il détient. Nous reprenons pour cela 
+les analyses de Bach et al. (2023) et les comparons avec les analyses similaires menées par Jakobsen et al. (2024) en 
+Suède.
+Un effet direct non négligeable sur l’activité économique des entreprises détenues
+Les départs des hauts patrimoines peuvent en théorie avoir des effets significatifs sur l’économie, en particulier lors-
+qu’ils détiennent des actifs professionnels. En France, Bach et al. (2023) estiment que l’expatriation d’un actionnaire 
+détenant plus de 10 % du capital d’une entreprise entraîne en moyenne une baisse de 15 % du chiffre d’affaires cinq ans 
+après son départ, tandis que la masse salariale diminue de 31 % et la valeur ajoutée de 24 %.
+En Suède, Jakobsen et al. (2024) estiment que le départ d’un actionnaire détenant plus de 20 % des actifs d’une entre-
+prise impacte négativement le chiffre d’affaires (-32 %), la masse salariale (-33 %) et la valeur ajoutée (-34 %).
+Figure 7. Effet direct de l’expatriation d’un actionnaire en France et en Suède
+A. Sur le chiffre d’affaires de l’entreprise
+France	
+	
+	
+	
+	
+	
+	
+Suède
+-60%
+-50%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Départ de l’actionnaire
+Année relative au départ de l’actionnaire
+Chiffre d’affaires (% relatif à t=-1)
+-5
+-4
+-3
+-2
+-1
+0
+1
+3
+4
+5
+2
+Effet relatif à long terme : -15%
+-60%
+-50%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+-5
+-4
+-3
+-2
+-1
+0
+1
+3
+4
+5
+2
+Départ de l’actionnaire
+Année relative au départ de l’actionnaire
+Chiffre d’affaires (% relatif à t=-1)
+Effet relatif à long terme : -32%
+B. Sur la masse salariale de l’entreprise
+France	
+	
+	
+	
+	
+	
+Suède
+-60%
+-50%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Départ de l’actionnaire
+Année relative au départ de l’actionnaire
+-5
+-4
+-3
+-2
+-1
+0
+1
+3
+4
+5
+2
+masse salariale (% relatif à t=-1)
+Effet relatif à long terme : -31%
+-60%
+-50%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+-5
+-4
+-3
+-2
+-1
+0
+1
+3
+4
+5
+2
+Départ de l’actionnaire
+Année relative au départ de l’actionnaire
+masse salariale (% relatif à t=-1)
+Effet relatif à long terme : -33% 
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+
+=== PAGE PDF 12 ===
+Focus, no 118, juillet 2025
+12
+C. Sur la valeur ajoutée de l’entreprise
+France 	
+	
+	
+	
+	
+	
+Suède
+-60%
+-50%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+-5
+-4
+-3
+-2
+-1
+0
+1
+3
+4
+5
+2
+Départ de l’actionnaire
+Année relative au départ de l’actionnaire
+Valeur ajoutée (% relatif à t=-1)
+Effet relatif à long terme : -24%
+-60%
+-50%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+-5
+-4
+-3
+-2
+-1
+0
+1
+3
+4
+5
+2
+Départ de l’actionnaire
+Année relative au départ de l’actionnaire
+Valeur ajoutée (% relatif à t=-1)
+Effet relatif à long terme : -34%
+Notes : Les figures A, B et C montrent l’effet du départ d’un actionnaire détenant une part importante d’actifs sur le chiffre d’affaires (A), 
+la masse salariale (B) et la valeur ajoutée (C) de l’entreprise détenue, en France et en Suède. Dans l’étude française, Bach et al. (2023) 
+considèrent tous les départs d’actionnaires détenant au moins 10 % du capital d’une entreprise. En Suède, ce seuil minimal est fixé par 
+Jakobsen et al. (2024) à 20 %. L’effet sur le chiffre d’affaires est ici exprimé en pourcentage du chiffre d’affaires des entreprises étudiées. 
+Sources : Pour la France : Bach et al. (2023), à partir des données BIC-IS (DGFiP), POTE (DGFiP) et BADS2A (IPP-DGFiP-CASD). Pour la Suède : 
+Jakobsen et al. (2024)
+Constat 4. L’expatriation d’un actionnaire contrôlant au moins partiellement une entreprise a un effet 
+brut significatif sur l’activité économique de celle-ci. En France, ces effets s’observent à la fois en 
+termes d’évolution du chiffre d’affaires (-15 %), de la masse salariale (-31 %) et de la valeur ajoutée 
+(-24 %), et sont cohérents avec les effets estimés dans le contexte scandinave.
+Cependant, certains effets économiques directs des départs sont 
+en partie compensés par des effets d’équilibre
+Bien que l’effet direct des expatriations de détenteurs d’entreprises soit significatif, il est important de noter qu’une par-
+tie de ces effets directs peut, en pratique, être compensée ou au contraire amplifiée par divers mécanismes de réallo-
+cation et d’équilibre. Dans le cadre de l’analyse suédoise, Jakobsen et al. (2024) considèrent trois types de réallocation 
+et d’effets d’équilibre pouvant atténuer ou, au contraire, amplifier l’effet net de l’expatriation d’un actionnaire. 
+Premièrement, les restructurations d’entreprise jouent un rôle. D’une part, les effets directs mesurés plus haut sont 
+en effet en grande partie liés au fait que les entreprises se restructurent au moment du départ de leurs actionnaires à 
+l’étranger. Ces changements de structure s’accompagnent souvent de changements dans l’identifiant de l’entité légale 
+de l’entreprise expliquant sa disparition dans les données administratives. Mais ces disparitions ne signifient pas néces-
+sairement que l’activité économique de l’entreprise disparaisse. Celle-ci peut être restructurée ou absorbée dans une 
+nouvelle structure, ou rachetée par une autre entreprise sur le territoire national. En Suède, les auteurs estiment ainsi 
+que plus de 60 % des entreprises ayant fermé à la suite de l’expatriation d’un actionnaire sont en réalité absorbées ou 
+rachetées par d’autres. En prenant en compte cette réallocation, les effets nets sont réduits jusqu’à près de moitié. 
+L’effet net d’un départ d’un actionnaire en Suède, après réallocation de l’activité, est de -26,1 % pour le chiffre d’affaires, 
+-14,3 % pour la masse salariale et -30,1 % pour la valeur ajoutée.
+Deuxième mécanisme, les réallocations sur le marché du travail. Même dans le cas d’une réduction d’activité ou de 
+fermeture de l’entreprise, les employés ayant perdu leur emploi peuvent être réaffectés vers d’autres activités ou entre-
+prises, limitant ainsi l’impact réel de ces départs sur l’activité économique. Une analyse de la trajectoire des travailleurs 
+à la suite de la fermeture de leur entreprise permet d’estimer ces effets. Les Figures 7.A et B estiment, en Suède, l’effet 
+d’une perte d’emploi après fermeture sur les salaires futurs des individus et la probabilité d’être sans emploi. La ferme-
+ture d’une entreprise a un impact négatif sur les salaires bruts des employés et accroît la probabilité d’être sans emploi, 
+mais ces effets ont une ampleur limitée. Par exemple, la fermeture d’une entreprise n’augmente que de 0,6 point de 
+pourcentage la probabilité d’être sans emploi et ne réduit que de 4 % le revenu moyen des employés concernés. Si cet 
+effet est loin d’être négligeable, il est plus de 5 fois plus faible que l’effet direct sur la masse salariale mesuré plus haut, 
+témoignant de l’importance des réallocations sur le marché du travail.
+
+=== PAGE PDF 13 ===
+13
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+Figure 7. Effet de la fermeture d’une entreprise sur les revenus des travailleurs en Suède et probabilité d’être sans 
+emploi 
+A. Salaires bruts
+-300
+-200
+-100
+0
+100
+200
+300
+Départ de l’actionnaire
+-4
+-3
+-2
+-1
+0
+1
+3
+4
+5
+2
+Année relative au départ de l’actionnaire
+Salaire (SEK = 100)
+Effet à long terme : -4%
+ 
+B. Probabilité d’être sans emploi
+-0,03
+-0,02
+-0,01
+0,00
+0,01
+0,02
+0,03
+Départ de l’actionnaire
+-4
+-3
+-2
+-1
+0
+1
+3
+4
+5
+2
+Année relative au départ de l’actionnaire
+Probabilité de non-emploi
+Effet à long terme : 0,6 pp
+Lecture A : le départ d’un actionnaire entraîne en moyenne une baisse de salaire brut annuel de 10 000 SEK (soit environ 900 euros, ou 4% du 
+revenu moyen) pour les salariés de l’entreprise détenue. Lecture B : le départ d’un actionnaire augmente la probabilité de non-emploi à long 
+terme de 0,5 point de pourcentage.
+Source : Jakobsen et al. (2024)
+Enfin, divers effets d’équilibre sectoriels (externalités locales, effets d’agglomération, externalités technologiques, com-
+pétition, etc.) ou locaux (effets multiplicateurs locaux, migrations, etc.) peuvent venir amplifier ou compenser une partie 
+des effets directs mesurés plus hauts. Toujours d’après l’analyse suédoise de Jakobsen et al. (2024), bien que les entre-
+prises détenues par les hauts patrimoines représentent conjointement une part importante de l’économie suédoise, 
+la vaste majorité de ces entreprises représentent individuellement moins de 1 % de l’emploi et de la valeur ajoutée du 
+marché local auquel elles appartiennent, ce qui limite le potentiel impact économique de leur disparition éventuelle. 
+Pour celles représentant une part conséquente de leur marché local (plus de 10 % de l’emploi ou de la valeur ajoutée), 
+les analyses produites par Jakobsen et al. (2024) montrent que l’impact de leur disparition sur l’emploi et sur la valeur 
+ajoutée générée à l’échelle du marché local serait aussi limité9. 
+Globalement, il semble ainsi que les effets de la réallocation de l’activité des entreprises ainsi que celle des employés 
+limitent plutôt qu’ils n’amplifient l’impact économique réel de la disparition d’une entreprise à la suite du départ de ses 
+dirigeants. S’agissant de la France, les données disponibles ne nous permettent pas d’estimer l’effet net des départs 
+sur l’activité économique des entreprises. Mais sous l’hypothèse qu’une part équivalente de l’effet direct observé en 
+Suède est compensée par des mécanismes de réallocation, nous pouvons estimer que le départ d’un actionnaire a pour 
+effet net une réduction de 12,4 % du chiffre d’affaires, de 13,3 % de la masse salariale et de 21,3 % de la valeur ajoutée. 
+Constat 5. Bien que les effets bruts des départs d’actionnaires sur l’activité des entreprises détenues 
+soient significatifs, les effets nets sont largement inférieurs, du fait notamment d’importants effets de 
+réallocation.
+
+=== PAGE PDF 14 ===
+Focus, no 118, juillet 2025
+14
+9 Les effets de réallocation et d’équilibre considérés ici sont des effets de moyen terme (jusqu’à 10 ans après le départ de l’entreprise). On ne peut 
+pas exclure que certaines externalités technologiques prennent encore plus de temps pour se matérialiser. Pour une discussion des externalités 
+technologiques et des phénomènes d’amplification associés, voir par exemple Bloom, N., Schankerman, M. and Van Reenen, J. (2013) : « Identifying 
+technology spillovers and product market rivalry », Econometrica, 81(4), p.1347-1393.
+Figure 9. Effet net de l’expatriation d’un actionnaire sur l’activité économique de l’entreprise en Suède et en France
+Suède	
+	
+	
+	
+	
+	
+France
+-40
+-35
+-30
+-25
+-20
+-15
+-10
+-5
+0
+  Chiffre d’affaires
+  Masse salariale
+   Valeur ajoutée
+-31,7%
+-33%
+-14,3%
+Effet du départ (%)
+-26,1%
+-30,1%
+-34,4%
+Effet brut observé du 
+départ d’un actionnaire
+Effet net observé du 
+départ d’un actionnaire
+-15%
+-30,6%
+-24,3%
+-21,3%
+-12,4%
+Effet du départ (%)
+Effet brut observé du 
+départ d’un actionnaire
+Effet net estimé du 
+départ d’un actionnaire
+-13,3%
+0
+-20
+-25
+-30
+-35
+-40
+-15
+-10
+-5
+Notes : Ces figures présentent l’effet brut et net des départs d’un actionnaire sur l’activité des entreprises détenues, à partir de trois 
+indicateurs : le chiffre d’affaires, la masse salariale et la valeur ajoutée. L’estimation des effets bruts et nets correspondent en Suède aux effets 
+observés avant et après prise en compte des rachats d’activité. Les effets bruts sont estimés de manière analogue en France, tandis que les 
+effets nets français sont prédits à partir des ratios bruts/nets observés dans le contexte suédois. La principale différence méthodologique 
+entre Bach et al. (2023) et Jakobsen et al. (2024) réside dans le niveau minimal de détention de parts sociales considéré pour le calcul des 
+effets bruts de départ. Les départs d’actionnaires étudiés dans le contexte français concernent l’ensemble des actionnaires détenant au moins 
+10 % de part sociales dans l’entreprise, contre au moins 20 % pour les analyses suédoises.
+Lecture : L’effet brut d’une expatriation d’un actionnaire sur la valeur ajoutée d’une entreprise en Suède est de -34,4 %, tandis que l’effet net, 
+après prise en compte des rachats d’activité, est de -30,1 %.  
+Source : Calculs des auteurs, à partir des analyses de Bach et al. (2023) et Jakobsen et al. (2024)
+L’effet économique agrégé des départs induits par la fiscalité est faible
+En combinant les effets des expatriations sur l’activité économique, estimés dans la deuxième partie, avec ceux de la 
+fiscalité sur les expatriations, estimés dans la première partie, il est désormais possible d’estimer l’impact global des 
+expatriations fiscales sur l’économie française.
+Nous suivons ici les deux scénarios, précédemment évoqués, d’augmentation mécanique de la fiscalité sur les contri-
+buables du top 1 % de la distribution des revenus du patrimoine. Dans le premier scénario, les recettes fiscales mécani-
+quement prélevées sur ces foyers sont augmentées de 2 milliards d’euros par an. Ceci correspond à une augmentation 
+moyenne de leur taux effectif d’imposition sur les revenus de 2,6 points de pourcentage. Dans le second scénario, les 
+recettes sont augmentées de 4 milliards d’euros par an, soit une hausse de 5,2 points de pourcentage du taux effectif.
+Pour chiffrer l’impact économique de l’exil fiscal lié à ces réformes, nous suivons la méthodologie développée par 
+Jakobsen et al. (2024). Nous nous intéressons à trois indicateurs différents : le chiffre d’affaires, l’emploi (masse sala-
+riale) et la valeur ajoutée. Pour chaque réforme considérée et pour chaque indicateur, nous combinons trois chiffres. 
+Tout d’abord, nous utilisons notre estimation de la semi-élasticité des départs nets au taux d’imposition pour transcrire 
+l’impact de la réforme sur l’exil fiscal du top 1 % (Tableau 1 colonne a). Ensuite nous multiplions ce chiffre par l’esti-
+mation de l’impact du départ d’un propriétaire d’une entreprise sur l’indicateur considéré (Tableau 1 colonne b). Enfin, 
+nous pondérons le résultat par la part que l’ensemble des entreprises détenues par les ménages du top 1 % représente 
+dans l’indicateur considéré (Tableau 1 colonne c). 
+
+=== PAGE PDF 15 ===
+15
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+Plusieurs précisions importantes doivent être apportées.
+Tout d’abord, dans l’approche élaborée par Jakobsen et al. (2024), on souhaite combiner l’élasticité des départs nets 
+avec l’impact de ces expatriations estimé précisément sur l’échantillon des contribuables dits « marginaux », c’est-à-
+dire qui sont susceptibles de se réinstaller à la suite d’une réforme de la fiscalité. Dans notre contexte, il est difficile, 
+du fait de contraintes de données, de mesurer l’effet des départs sur la population des contribuables « marginaux » : 
+nous utilisons donc les estimations faites dans la seconde partie sur l’échantillon de l’ensemble des départs de contri-
+buables. Les analyses de Jakobsen et al. (2024) montrent néanmoins que les effets des départs sont remarquablement 
+homogènes. Ils sont similaires à différents niveaux du haut de la distribution des patrimoines. Les effets estimés sont 
+également similaires que l’on se focalise sur la population des « marginaux » (c’est-à-dire pour des départs motivés par 
+des raisons fiscales) ou sur l’ensemble des départs.
+Ensuite, dans le Tableau 1, nous utilisons la borne haute de nos estimations de l’élasticité des départs nets. La borne 
+basse étant très proche de zéro, il faut donc interpréter le Tableau 1 de la façon suivante : les effets attendus de l’exil 
+fiscal à la suite de la réforme se situent entre 0 et le résultat indiqué dans le tableau.
+Enfin, il faut rappeler que les effets reportés sont des effets à moyen, voire à long terme (au bout d’environ 15 à 20 
+ans). Les effets immédiats sont beaucoup plus faibles. Pour les deux réformes, nous obtenons les effets économiques 
+agrégés suivants.
+Tableau 1. Effets économiques agrégés induits par les expatriations des hauts patrimoines à la suite d’une réforme 
+de la fiscalité du patrimoine 
+Semi-élasticité  
+de migration  
+(borne haute)
+(a)
+Effet net 
+du départ
+(b)
+Part des entre-
+prises détenues 
+par le top 1 %
+(c)
+Effet global d’une aug-
+mentation de 2 mil-
+liards d’euros de 
+recette fiscales répar-
+ties sur le top 1 % 
+(+2,6 pp)
+Effet global d’une aug-
+mentation de 4 milliards 
+d’euros de recette fis-
+cales réparties sur le 
+top 1 % (+5,2 pp)
+Chiffre d’affaires
+0,23 %
+-12,4 %
+19,6 %
+-0,014 %
+-0,029 %
+Masse salariale
+0,23 %
+-13,3 %
+22,5 %
+-0,018 %
+-0,036 %
+Valeur ajoutée
+0,23 %
+-21,3 %
+20,9 %
+-0,027 %
+-0,053 %
+Notes : L’effet économique agrégé est calculé en faisant le produit de (i) la semi-élasticité de migration (c’est-à-dire l’effet d’une augmentation de 
+1 point de pourcentage de l’imposition sur le taux de départs net), (ii) la part que représentent les entreprises détenues par le top 1 % des revenus 
+du capital dans l’économie par les entreprises qu’ils détiennent, en termes de chiffre d’affaires, de masse salariale ou de valeur ajoutée, (iii) l’effet 
+net estimé d’un départ d’actionnaire sur l’activité de l’entreprise détenue et (iv) la taille du choc fiscal considéré, en points de pourcentage de taux 
+d’imposition (+2,6 ou +5,2 pp, en fonction du scénario). 
+Lecture : Une réforme qui augmenterait le taux effectif d’imposition du top 1 % des revenus du capital de 5,2 points de pourcentage, et générerait 
+un surplus de recettes fiscales de 4 milliards d’euros, entraînerait, au plus, une perte de chiffre d’affaires de -0,029 % pour l’économie française. 
+Source : Calculs des auteurs
+Constat 6. Même en prenant la borne haute (et conservatrice) des effets estimés de la fiscalité 
+du capital sur les expatriations, et en considérant une réforme fiscale de +4 milliards de recettes 
+(0,15 % du PIB), les effets agrégés sur l’activité économique à long terme restent faibles : l’exil fiscal 
+entraînerait au plus une baisse de -0,03 % de chiffre d’affaires, -0,05 % de valeur ajoutée totale de 
+l’économie française, et -0,04 % de l’emploi total. 
+
+=== PAGE PDF 16 ===
+Focus, no 118, juillet 2025
+16
+Conclusion
+Marge intensive vs marge extensive
+Les résultats de ce travail suggèrent que si la fiscalité du patrimoine a bien un effet significatif sur l’exil fiscal des plus 
+hauts patrimoines, cet effet est relativement modeste. Ceci tient avant tout au fait que les flux annuels de départs nets 
+sont quantitativement faibles, de l’ordre de 0,1 % à 0,2 % de la population totale des hauts patrimoines. Si une partie non 
+négligeable de ces expatriations est motivée par des raisons fiscales, ces flux restent suffisamment faibles pour n’avoir 
+qu’un effet marginal sur l’économie française, même en tenant compte du poids important des hauts patrimoines dans 
+l’activité économique et entrepreneuriale. La deuxième raison qui explique la faiblesse des effets de ruissellement 
+de l’exil fiscal tient au fait que si les hauts patrimoines restructurent souvent leur patrimoine professionnel lorsqu’ils 
+quittent le pays, divers mécanismes de réallocation (fusions, rachats, etc.) et d’équilibre (par exemple sur le marché du 
+travail) minimisent fortement les conséquences négatives de ces départs.
+Cela ne saurait toutefois présumer des effets totaux d’une réforme de la fiscalité du patrimoine. En effet, on ne s’est 
+préoccupé ici que des effets de l’exil fiscal, c’est-à-dire des effets à la marge extensive (celle des choix de résidence 
+fiscale). Or les réponses comportementales à la marge dite intensive (épargne, accumulation patrimoniale, entrepreneu-
+riat, optimisation et évasion fiscales, etc.) sont également cruciales pour appréhender les effets des réformes fiscales 
+sur les recettes et l’activité économique.
+Que sait-on sur ce point ? Dans le contexte scandinave, Jakobsen et al. (2024) calculent que pour chaque euro de 
+recette mécaniquement prélevé par une hausse de la fiscalité sur les hauts patrimoines, 54 centimes disparaissent du 
+fait des réponses comportementales à la marge intensive, contre 20 centimes à la marge extensive. Les réponses à la 
+marge intensive sont donc 2,5 fois plus importantes que celles à la marge extensive pour apprécier l’effet des réformes 
+sur les recettes fiscales et sur les distorsions imposées à l’activité économique. Le débat public, en se focalisant sur 
+l’exil fiscal, se trompe donc sans doute de cible. Au-delà de la question de l’expatriation, il nous semble essentiel de 
+recentrer le débat sur les autres marges de réponse des hauts patrimoines à la fiscalité, notamment sur les stratégies 
+d’optimisation pour échapper à l’impôt. Cette marge reste en effet encore peu explorée dans la littérature empirique, 
+notamment en France, alors même que plusieurs travaux indiquent des comportements d’optimisation sophistiqués 
+chez les très hauts patrimoines (Bach et al., 2019) ainsi que l’utilisation généralisée des lacunes du système d’informa-
+tion et de contrôle des déclarations de patrimoines à des fins d’évasion fiscale (Garbinti et al., 2024).
+Dans le contexte scandinave, les réponses comportementales (à la fois marge intensive et marge extensive) réduisent 
+les recettes fiscales de l’imposition du patrimoine ou des revenus du capital de 74 % par rapport à l’effet « mécanique », 
+à assiette fiscale constante. Du fait de cette réponse, l’indice d’efficacité de la dépense publique (EDP) de la fiscalité des 
+hauts patrimoines calculé par Jakobsen et al. (2024) est de l’ordre de 410. Les distorsions imposées par la fiscalité sur 
+les hauts patrimoines sont donc bien réelles, mais elles ne semblent pas significativement plus élevées que celles impo-
+sées par d’autres formes de taxation des hauts revenus (Hendren et Sprung-Hauser, 2020). Il importe de savoir ce que 
+ces politiques veulent financer. Une hausse de la fiscalité des hauts patrimoines qui servirait à financer des politiques 
+publiques dont l’EDP est supérieur à 4 serait socialement bénéfique11.
+Robustesse et validité externe
+La possibilité de comparer nos estimations avec celles obtenues, en suivant une méthodologie similaire au Danemark 
+et à la Suède, permet de juger de leur robustesse et de leur validité externe.
+Plusieurs points doivent être notés :
+10 Il faut noter par ailleurs que cet « indice EDP » de la fiscalité du patrimoine est sans doute une borne haute : il est calculé en faisant l’hypothèse que 
+les réponses à la marge intensive sont liées à des coûts nets, perdus pour la collectivité, alors que de nombreux travaux empiriques (par exemple Wu 
+2025, Bruhlart et al. 2022) soulignent qu’une part importante de ces réponses sont de l’optimisation et de l’évasion fiscale qui ne détruisent pas des 
+ressources, mais les transfèrent simplement entre agents dans l’économie (c’est-à-dire de la puissance publique aux individus concernés) 
+11  Fajeau M., Fougère C., Grenet J., Landais C. et Laveissière E. (2025) : « L’indice d’efficacité des dépenses publiques appliqué à l’internat d’excellence 
+de Sourdun », Les Focus du CAE, n°111, mai.
+
+=== PAGE PDF 17 ===
+17
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+•	
+Tout d’abord, les flux de départs nets des hauts patrimoines, mesurés lorsque ces hauts patrimoines étaient 
+soumis à une forme d’imposition du stock du patrimoine, sont extrêmement comparables (et très modestes) 
+en Scandinavie et en France, de l’ordre de 0,1 à 0,2 % maximum.
+•	
+Les élasticités des départs nets à la fiscalité sont également très comparables en dépit des différences de 
+contextes institutionnels. Par ailleurs, toutes ces élasticités se situent plutôt dans le bas de la distribution des 
+estimations d’élasticités d’expatriation obtenues dans la littérature (Kleven et al., 2020). Plusieurs raisons l’ex-
+pliquent. Tout d’abord, une grande partie de ces estimations se focalise sur la mobilité intra-nationale, comme 
+par exemple entre cantons suisses (Brulhart et al. 2022). Or la mobilité internationale est généralement moins 
+forte et moins « élastique » à la fiscalité que la mobilité intra-nationale. Par ailleurs, les hauts patrimoines sont 
+des segments moins mobiles de la population que les travailleurs internationaux qualifiés (expatriés, scienti-
+fiques, athlètes) sur lesquels la littérature s’est concentrée.
+•	
+Enfin, les effets des départs des propriétaires sur l’activité des entreprises qu’ils détiennent sont remarquable-
+ment similaires entre la Scandinavie et la France.
+Tout ceci explique que les conclusions obtenues en France sur l’effet économique agrégé de la fiscalité du patrimoine via 
+l’exil fiscal sont très comparables à celles obtenues en Scandinavie. Insistons sur le fait que les contextes économiques 
+de la France et de la Scandinavie, quoique différents, partagent certaines caractéristiques importantes qui permettent 
+d’expliquer la congruence de ces résultats. Ce sont de petites économies ouvertes, avec, jusqu’à récemment, des sys-
+tèmes relativement comparables d’imposition du stock de patrimoine, où la richesse est particulièrement concentrée 
+en haut de la distribution. Rappelons que les inégalités de patrimoine sont équivalentes en France et en Suède (où la 
+part des richesses totales détenues par le top 1 % est de l’ordre de 27 %), que le rôle des patrimoines professionnels y 
+est équivalent et que la Suède compte plus de milliardaires par habitant que les États-Unis.
+Il est donc légitime de penser que ces estimations des faibles effets agrégés sur l’économie de l’exil fiscal lié à la fis-
+calité unilatérale des patrimoines pourraient s’appliquer à de nombreux pays européens (qui partagent peu ou prou un 
+contexte similaire). 
+Nos estimations permettent de prédire précisément les effets sur l’exil fiscal de mesures d’augmentation de la fiscalité 
+du patrimoine qui sont globalement comparables aux mesures existantes ou aux formes d’imposition du stock du patri-
+moine qu’a connues la France au cours des quarante dernières années avec l’ISF. Mais ces estimations et la littérature 
+permettent aussi, en partie, d’éclairer les effets qu’auraient certaines réformes qui diffèrent des modes de taxation du 
+stock du patrimoine mises en œuvre précédemment sur trois dimensions importantes : (i) l’inclusion des biens profes-
+sionnels dans la base taxable, (ii) le ciblage du groupe des très hauts patrimoines plus restreint que celui ciblé par l’ISF, 
+et (iii) des hausses significatives des taux effectifs sur les contribuables considérés.
+En ce qui concerne l’inclusion des biens professionnels dans la base taxable, il est crucial de noter que si la Suède et la 
+France ne la pratiquaient pas dans leur impôt sur le patrimoine, le Danemark, au contraire, incluait tous les biens pro-
+fessionnels dans la base de leur « wealth tax ». Or les estimations de l’élasticité des départs nets aux taux effectifs d’im-
+position de l’ensemble du patrimoine détenu, obtenues au Danemark, sont remarquablement similaires à celle obtenues 
+en France et en Suède. Ceci suggère que le taux effectif d’imposition est sans doute plus important que la composition 
+de la base taxable pour appréhender des effets de la fiscalité du patrimoine sur les expatriations.
+En ce qui concerne la possible hétérogénéité des comportements d’expatriation, nous obtenons des élasticités remar-
+quablement similaires lorsque nous répliquons nos analyses en restreignant à de plus hauts niveaux de revenu de capi-
+tal (voir Annexe A.4). En Scandinavie, Jakobsen et al. (2024) trouvent que le gradient de l’élasticité des départs avec 
+le niveau de patrimoine est positif, mais faible. Il reste néanmoins difficile d’extrapoler les réactions d’exil fiscal à des 
+réformes très différentes de la fiscalité du capital, qui toucheraient des ménages à très hauts patrimoines peu affectés 
+par les réformes exploitées dans notre étude.
+Enfin, la question de possibles asymétries des effets d’exil fiscal entre hausses et baisses de la fiscalité, et de 
+non-linéarité des effets en fonction de la taille des réformes mérite d’être posée. Les réformes scandinaves étudiées par 
+Jakobsen et al. (2024) sont plus larges que les réformes françaises étudiées ici, mais consistent toutes en des baisses 
+d’impôt. Les résultats de notre travail suggèrent que l’effet des hausses d’imposition de 2012 et 2013 sur les départs 
+est plus fort, à tout le moins dans le court terme, que celui des baisses d’imposition de 2017 et 2018. Wu (2025) 
+observe une asymétrie similaire dans le cas de la fiscalité du patrimoine à Taiwan. Ceci légitime l’utilisation de la borne 
+haute de nos estimations (celles obtenues sur les réformes de 2011) pour apprécier des effets d’une hausse ciblée de 
+la fiscalité sur les très hauts patrimoines.
+
+=== PAGE PDF 18 ===
+Focus, no 118, juillet 2025
+18
+Notons pour terminer que nos estimations considèrent les réponses d’exil fiscal dans le contexte institutionnel existant. 
+Le cadre institutionnel lui-même peut être adapté par l’instauration d’exit taxes ou de bouclier anti-abus sur le modèle 
+de la « five year rule » suédoise12, qui peuvent potentiellement réduire les comportements d’expatriation pour motifs 
+fiscaux.
+Bibliographie
+Katrine Jakobsen, Henrik Kleven, Jonas Kolsrud, Camille Landais, & Mathilde Muñoz (2024) : « Taxing Top Wealth: 
+Migration Responses and their Aggregate Economic Implications », NBER working paper.
+Laurent Bach, Antoine Bozio, Étienne Fize, Arthur Guillouzouic, & Clément Malgouyres (2023) : « Évaluation des réformes 
+de la fiscalité du capital – Effets sur la création d’entreprises, l’expatriation et la circulation de l’épargne », Institut des 
+politiques publiques, Rapport IPP n° 47. 
+Laurent Bach, Antoine Bozio, Brice Fabre, Arthur Guillouzouic, Claire Leroy & Clément Malgouyres (2019) : « Évaluation 
+d’impact de la fiscalité des dividendes », Institut des politiques publiques, Rapport IPP n° 25. 
+Bertrand Garbinti, Jonathan Goupille Lebret, Mathilde Muñoz, Stefanie Stantcheva, & Gabriel Zucman (2023) : « Tax 
+Design, Information, and Elasticities: Evidence From the French Wealth Tax », NBER working paper.
+Henrik Kleven, Camille Landais, Mathilde Muñoz & Stephanie Stantcheva (2020): « Taxation and Migration: Evidence and 
+Policy Implications », Journal of Economic Perspectives, 34(2)
+Marius Brülhart, Jonathan Gruber, Matthias Krapf, and Kurt Schmidheiny (2022) : « Behavioral Responses to Wealth 
+Taxes: Evidence from Switzerland », American Economic Journal: Economic Policy, 14(4)
+Linda Wu et Tzu-Ting Yang (2025) : « Behavioral Responses to Estate Taxation: Evidence from Taiwan », working paper.
+Nathaniel Hendren, & Ben Sprung-Keyser (2020) : « A Unified Welfare Analysis of Government Policies », The Quarterly 
+Journal of Economics, 135(3)
+12 Cette règle stipule qu’un contribuable préalablement établi en Suède reste résident fiscal et redevable de l’impôt en Suède jusqu’à cinq ans après 
+son départ, sauf s’il est capable de démontrer avoir cessé tout lien économique significatif avec la Suède.
+
+=== PAGE PDF 19 ===
+19
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+Annexes
+A0. Données et stratégie d’identification
+Données administratives POTE et ISF_IFI
+L’étude de l’évolution des taux effectifs d’imposition en France, ainsi que des départs et retours, utilise pour source 
+les données administratives POTE, qui regroupent les déclarations d’impôt sur le revenu des foyers fiscaux (formulaire 
+2042 et ses annexes) centralisées par la Direction générale des finances publiques. Ce fichier contient, pour chaque 
+foyer imposable en France, l’ensemble des déclarations au titre de l’impôt sur le revenu. Ces données nous permettent, 
+d’une part, de mesurer les revenus du capital déclarés de chaque foyer fiscal, en distinguant les revenus fonciers, des 
+revenus dits « mobiliers », c’est-à-dire générés par du patrimoine financier (actions, contrats d’assurance vie, etc.). Nous 
+pouvons ensuite estimer, pour chaque foyer, la somme des impôts payés (impôts sur le revenu, contribution exception-
+nelle sur les hauts revenus, prélèvements sociaux), à partir des variables construites par la DGFIP, et en déduire des taux 
+effectifs d’imposition, relative au revenu fiscal de référence. Afin d’intégrer à notre mesure de l’imposition effective les 
+impôts payés au titre de l’ISF/IFI, nous apparions les données fiscales du fichier POTE à celles du fichier administratif 
+ISF_IFI, qui recensent l’ensemble des déclarations ISF (puis IFI). Enfin, les données POTE nous permettent aussi d’iden-
+tifier l’ensemble des départs et retours vers la France déclarés à l’administration fiscale, et d’en déduire par la suite des 
+taux moyens de départs et de retours pour chaque année. Les données fiscales et de départs sont disponibles pour l’en-
+semble de notre période d’étude (2010-2019)13. Les données de retours, elles, ne sont disponibles qu’à partir de 2011. 
+Appariement BADS2A
+Dans la seconde partie du focus, nous reprenons les estimations d’effets directs des départs d’actionnaires sur les 
+entreprises détenues issus de Bach et al. (2023). Ces analyses s’appuient sur une base de données inédite construite 
+par appariement en panel entre les déclarations fiscales personnelles (données POTE et ISF-IFI) et les données sur l’ac-
+tionnariat individuel et l’état comptable des entreprises issues des liasses fiscales (BIC-RN, BIC-RSI, et BIC-IS), sur la 
+période 2015-2021. Ce nouvel ensemble de données, développé lors d’une collaboration entre la DGFiP, le CASD et 
+l’IPP, permet pour la première fois en France d’observer dans le temps les liens entre ménages et entreprises via l’ac-
+tionnariat individuel, en identifiant les détenteurs de parts sociales. 
+Stratégie d’identification
+Notre stratégie d’estimation réside dans la comparaison des évolutions de départs et retours de contribuables situés 
+dans le haut de la distribution du patrimoine, et plus ou moins affectés par les chocs fiscaux décrits ci-dessus. L’objectif 
+est ainsi de définir un groupe dit « traitement », fortement affecté par le choc fiscal, et un groupe « contrôle », peu ou 
+pas affecté, tout en faisant en sorte que ces deux groupes soient le plus comparables possible dans leurs tendances 
+naturelles de départs et de retours. 
+Suède (Jakobsen et al., 2024)
+En Suède, les données administratives permettent d’estimer la valeur du patrimoine de l’ensemble de la population. A 
+partir de ces données, Jakobsen et al. (2024) définissent comme groupe « traitement » le top 2% des patrimoines, dont 
+l’intégralité des individus furent affecté par la réforme, et comme groupe « contrôle » le top 20-10% des patrimoines, 
+dont aucun individu ne fut redevable de l’impôt sur le patrimoine avant sa suppression. Les estimations produites par 
+Jakobsen et al. (2024) sont aussi robustes à l’utilisation de groupe traitement et contrôle alternatifs. 
+France
+Pour la France, définir un groupe traitement et contrôle est plus difficile. D’une part, nous ne disposons pas de données 
+cohérentes sur la période d’analyses qui nous permettent de mesurer le patrimoine détenu par chaque foyer14. D’autre 
+part, les réformes fiscales considérées concernent à la fois le patrimoine détenu (suppression de l’ISF et instauration de 
+13 Les données ISF-IFI, bien que disponibles pour l’ensemble de la période 2010-2019, présentent des irrégularités pour l’année 2011, que nous 
+excluons donc de notre analyse des taux effectifs d’imposition. 
+14 Les données ISF, permettant d’estimer la valeur totale du patrimoine taxable (immobilier et mobilier) ne sont par exemple disponible que jusqu’à 
+sa suppression en 2017, après quoi seule la valeur du patrimoine immobilier n’est déclarée à l’administration. Les données de patrimoine issus des 
+
+=== PAGE PDF 20 ===
+Focus, no 118, juillet 2025
+20
+déclarations ISF comme IFI ne sont par ailleurs renseignées que pour les foyers imposables, ne permettant ainsi pas d’observer le patrimoine détenu 
+par les foyers situés en dessous des seuils minimales d’imposition. 
+15 Ces revenus incluent l’ensemble des revenus du capital personnellement perçus et déclarés à l’administration fiscale. Ils n’incluent donc pas les 
+revenus de sociétés non-distribués, dans le cadre d’une holding par exemple. 
+l’IFI en 2017), et les revenus générés par le patrimoine (augmentation des prélèvements sociaux, suppression du PFL en 
+2013, instauration du PFU en 2018). Afin d’identifier les individus les plus susceptibles d’être impactés par l’ensemble 
+des réformes mises en place en 2012-2013 et 2017-2018, nous nous basons sur la somme des revenus du capital 
+déclarés. Ces revenus incluent l’ensemble des revenus du capital personnellement perçus et déclarés à l’administration 
+fiscale. Cette mesure a plusieurs avantages : d’une part, elle est disponible de manière consistante sur l’ensemble de 
+la période étudiée (2010-2019). D’autre part, celle-ci est une bonne mesure indirecte du niveau de patrimoine détenu. 
+Ainsi, pour les années où nous disposons de données sur le patrimoine par les déclarations de l’impôt sur la fortune, 
+nous observons une forte corrélation entre le niveau de patrimoine taxable et les revenus du capital, comme le montre 
+la figure A0.1 ci-dessous. Enfin, le niveau de revenu du capital déclaré permet d’identifier des individus susceptibles 
+d’être à la fois affectés par les réformes sur la fiscalité du patrimoine, et par celles sur la fiscalité des revenu générés 
+par ce patrimoine. 
+Figure A0.1. Part de foyers contribuant à l’ISF par centile de distribution des revenus déclarés (2016)
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+P99-100
+P98-99
+P97-98
+P96-97
+P95-96
+P94-95
+P93-94
+P92-93
+P91-92
+P90-91
+Centile de distribution du revenu du capital déclaré
+Part des ménages contribuables ISF
+Lecture : 38% des ménages appartenant au top 1% des revenus déclarés du capital sont redevables de l’ISF en 2016.
+Source : Données POTE et ISF-IFI
+Afin d’identifier les ménages les plus susceptibles d’être impactés par l’ensemble des réformes mises en place en 2012-
+2013 et 2017-2018, nous nous basons sur la somme des revenus du capital déclarés15, et définissons comme groupe 
+d’étude les ménages appartenant au top 1% en termes de revenus du capital. Nous comparons ensuite parmi ce groupe 
+les évolutions de départs et retours des individus fortement impactés par les réformes fiscales de 2012-2013 et 2017-
+2018, à celles d’individus plus faiblement affectés. L’impact relatif des réformes fiscales sur les différents ménages 
+composant le top 1% est déterminé ici par la part des revenus du capital provenant de patrimoine financier (ou « mobi-
+lier »). Les individus fortement affectés sont ainsi définis comme les individus appartenant au top 1% des revenus du 
+capital déclaré, et dont la part de revenu mobilier est supérieure à la part médiane observée dans le top 1%. Les indi-
+vidus plus faiblement affectés sont définis comme le reste du top 1%, c’est-à-dire comme les individus dont la part de 
+revenu mobilier est inférieure à la part médiane observée dans le dernier centile des revenus du capital. Les contri-
+buables déclarant des revenus du capital mobilier importants sont en effet les plus susceptibles d’être affectés par la 
+suppression du PFL de 2013, l’instauration du PFU en 2018, ainsi que par les changements de taux de contributions 
+sociales. Par ailleurs, la corrélation entre le revenu du capital et le patrimoine détenu en fait aussi une bonne méthode 
+d’identification des individus les plus affectés par la réforme ISF-IFI de 2017.
+A1. Évolution des taux effectifs d’imposition (France et Suède)
+En France, le taux effectif d’imposition est calculé relativement au revenu fiscal de référence, et intègre dans son numé-
+rateur : (i) l’impôt sur le revenu, qu’il soit issu du barème général ou de prélèvements forfaitaires, (ii) les prélèvements 
+
+=== PAGE PDF 21 ===
+21
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+sociaux sur les revenus du capital, (iii) la contribution exceptionnelle sur les hauts revenus, et enfin (iv) le montant payé 
+au titre de l’ISF/IFI pour les foyers imposables.
+En Suède, Jakobsen et al. (2024) estiment eux le taux effectif d’imposition relatif au patrimoine, notamment parce que 
+la réforme considérée dans le cas suédois concerne exclusivement la fiscalité du patrimoine, alors que les réformes 
+considérées dans le cas français concernent à la fois le patrimoine et les revenus générés par ce patrimoine (rendant 
+ainsi l’utilisation de taux rapportés au revenu plus approprié). Le taux effectif d’imposition du patrimoine tel que mesuré 
+en Suède correspond au total des impôts payés au titre de l’impôt sur le patrimoine, divisé par la valeur du patrimoine 
+total déclaré par chaque foyer. 
+Figure A1.1. Évolution des taux effectifs d’imposition du revenu et du patrimoine en France (2010-2019)
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Taux effectif d’imposition (%)
+Année fiscale
+Tranche 45% IR, ↑ PS
+Suppression PFL, ↓ ISF
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+10
+15
+20
+25
+30
+35
+40
+Individus fortement exposés aux réformes fiscales (traités)
+Individus faiblement exposés aux réformes fiscales (contrôle)
+ 
+Note : Cette figure présente l’évolution des taux effectifs d’imposition du revenu et du capital des individus des groupes de traitement et de 
+contrôle. Les individus du groupe de traitement correspondent aux foyers fiscaux appartenant au top 1% des revenus du capital déclarés, et 
+dont la part de revenu mobilier dans leur revenu du capital total est supérieure à la part médiane observée dans le top 1%. Ceux du groupe de 
+contrôle correspondent aux foyers fiscaux du top 1% dont la part de revenu mobilier est inférieure à cette médiane. Le taux effectif d’imposition 
+du revenu et du capital est estimé ici comme la somme des impôts sur le revenu personnel (impôt sur le revenu, prélèvements sociaux sur le 
+revenu du capital, contribution exceptionnelle sur les hauts revenus), et des impôts sur le patrimoine (ISF jusqu’en 2016, puis IFI).
+Source : Données POTE et ISF-IFI
+Figure A1.2. Évolution des taux effectifs d’imposition du patrimoine en Suède (2001-2009)
+0,00%
+0,05%
+0,10%
+0,15%
+0,20%
+0,25%
+0,30%
+0,35%
+0,40%
+0,45%
+0,50%
+0,55%
+2002
+2004
+2007
+2006
+Suppression de l’impôt 
+sur le patrimoine
+Top 20-10%
+Top 2%
+Taux effectif d’imposition du patrimoine
+2003
+2005
+2008
+2009
+ 
+Note : Les taux présentés ici correspondent à l’impôt sur le patrimoine, rapporté à la valeur du patrimoine déclaré (tandis que les taux français 
+de la figure A1.1. sont exprimés en fonction du revenu fiscal de référence). 
+Source : Jakobsen et al. (2024)
+
+=== PAGE PDF 22 ===
+Focus, no 118, juillet 2025
+22
+A2. Évolution des taux de départs et retours (France et Suède)
+En France, nous observons sur la période 2007 à 2019 l’ensemble des départs déclarés à l’administration fiscale. Nous 
+n’observons par contre pas les départs de résidents français qui n’auraient pas été déclarés fiscalement. Bien que pour 
+les faibles revenus, il est probable qu’une large part des départs de France ne soient pas déclarés à l’administration fis-
+cale, les départs des foyers appartenant au top 1% des revenus du capital devraient en très grande majorité être obser-
+vés dans les données administratives fiscales, du fait des implications fiscales d’un départ pour des foyers largement 
+imposables en France. 
+En Suède, les départs observés par Jakobsen et al. (2024) englobent l’ensemble des départs hors du pays, y compris 
+pour les foyers peu ou pas imposables en Suède. 
+Évolution des départs
+Figure A2.1. Évolution des taux de départs en France (2010-2019)
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+0,30
+0,35
+0,40
+0,45
+0,50
+2007 2008 2009 2010 2011 2012 2013
+2014 2015
+2016 2017 2018
+2019
+Individus fortement exposés aux réformes fiscales (traités)
+Individus faiblement exposés aux réformes fiscales (contrôle)
+Taux de départs bruts (%)
+Année fiscale
+Tranche 45% IR, ↑ PS
+Suppression PFL, ↓ ISF
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+Notes : Cette figure présente l’évolution des taux de départs brut des individus des groupes de traitement et de contrôle. Les individus du 
+groupe de traitement correspondent aux foyers fiscaux appartenant au top 1% des revenus du capital déclarés, et dont la part de revenu 
+mobilier dans leur revenu du capital total est supérieure à la part médiane observée dans le top 1%. Ceux du groupe de contrôle correspondent 
+aux foyers fiscaux du top 1% dont la part de revenu mobilier est inférieure à cette médiane. Le taux de départs brut correspond au nombre 
+d’individus de chaque groupe déclarant déménager hors de France à l’administration fiscale durant l’année a, divisé par la population totale du 
+groupe. 
+Source : Données fiscales POTE. 
+Figure A2.2. Évolution des taux de départs en Suède (2002-2009)
+-0,05
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+0,30
+2001
+2003
+2006
+2005
+2008
+Suppression de l’impôt 
+sur le patrimoine
+Top 80-90%
+Top 2%
+Taux de départs (%)
+2002
+2004
+2007
+Source : Jakobsen et al. (2024). 
+
+=== PAGE PDF 23 ===
+23
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+Évolution des retours
+En France, nous observons sur la période 2011 à 2019 l’ensemble des retours déclarés à l’administration fiscale. Nous 
+ne disposons pas de données de retours pour la période 2007-2010. Comme pour les départs, nous n’observons pas les 
+retours de résidents français qui n’auraient pas été déclaré fiscalement, mais arguons que ce type de retour devraient être 
+minoritaires en haut de la distribution des revenus du capital déclarés. En Suède, les retours sont observables sur la période 
+2002-2014. 
+Figure A2.3. Évolution des taux de retours en France (2011-2019)
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Individus fortement exposés aux réformes fiscales (traités)
+Individus faiblement exposés aux réformes fiscales (contrôle)
+Taux de retours (%)
+Année fiscale
+Tranche 45% IR, ↑ PS
+Suppression PFL, ↓ ISF
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+0,30
+0,35
+0,40
+0,45
+0,50
+Notes : Cette figure présente l’évolution des taux de retours des individus des groupes de traitement et de contrôle. Les individus du groupe de 
+traitement correspondent aux foyers fiscaux appartenant au top 1% des revenus du capital déclarés, et dont la part de revenu mobilier dans leur 
+revenu du capital total est supérieure à la part médiane observée dans le top 1%. Ceux du groupe de contrôle correspondent aux foyers fiscaux 
+du top 1% dont la part de revenu mobilier est inférieure à cette médiane. Le taux de retours correspond au nombre d’individus de chaque 
+groupe déclarant déménager vers la France à l’administration fiscale durant l’année a, divisé par la population totale du groupe.
+Source : Données fiscales POTE
+Figure A2.4. Évolution des taux de retours en Suède (2002-2014)
+0.05
+0.10
+0.15
+0.20
+2001
+2004
+2007
+2006
+Suppression de l’impôt 
+sur le patrimoine
+Top 20-10%
+Top 2%
+Taux de retours (%)
+2003
+2005
+2008
+2009
+2002
+2010
+2011
+2012
+2013
+Source : Jakobsen et al. (2024). 
+
+=== PAGE PDF 24 ===
+Focus, no 118, juillet 2025
+24
+A3. Calculs des élasticités de flux et de stock
+Estimation des effets des réformes fiscales sur les taux effectifs d’imposition par double différence
+Nous estimons l’effet des réformes de la fiscalité du capital sur les taux effectifs d’impositions des foyers traités, relatif 
+aux foyers contrôle par double différence, à l’aide du modèle de régression suivant : 
+tit= α0 + α1 Postt + α2 Traitéi + α3 Postt × Traitéi+ εit  
+Où : 
+•	
+tit correspond au taux effectif d’imposition sur le revenu et le patrimoine, tel que défini précédemment, pour 
+chaque foyer fiscal i et année t. 
+•	
+Postt est un indicateur binaire égal à 1 si l’année t est postérieure ou égale à l’année choc fiscal étudié (2013 
+ou 2018)
+•	
+Traitéi est un indicateur binaire égal à 1 si le foyer fiscal i appartient au groupe traité, tel que précédemment 
+défini (top 1% des revenus du capital, et dont la part de revenus mobiliers dans le revenu du capital total est 
+supérieur à la part médiane du top 1%)
+Pour l’estimation du choc de 2012-2013, nous incluons dans la régression les années 2010 à 2015. Pour l’estimation 
+du choc de de 2017-2018, nous incluons dans la régression les années 2016 à 2019. L’effet moyen des réformes sur le 
+taux effectif d’imposition du groupe de foyers fiscaux traités, relatif au groupe contrôle, est estimé par α3.
+Estimation des effets des réformes fiscales sur les taux de départs et retours par double différence
+Nous estimons l’effet des réformes de la fiscalité du capital sur les taux de départs et retours des foyers traités, relatif 
+aux foyers contrôle par double différence, à l’aide des modèles de régression suivants : 
+Départit = β0 + β1 Postt + β2 Traitéi + β3 Postt × Traitéi+ ϵit  
+Retourit = γ0+ γ1 Postt+ γ2 Traitéi+γ3 Postt × Traitéi+ eit  
+Où : 
+•	
+Départit  (Retourit) correspondent à un indicateur égal à 1 si le foyer fiscal i quitte (revient) fiscalement durant 
+l’année fiscale t
+•	
+Postt est un indicateur binaire égal à 1 si l’année t est postérieure ou égale à l’année choc fiscal étudié (2013 
+ou 2018)
+•	
+Traitéi est un indicateur binaire égal à 1 si le foyer fiscal i appartient au groupe traité, tel que précédemment 
+défini (top 1% des revenus du capital, et dont la part de revenus mobiliers dans le revenu du capital total est 
+supérieur à la part médiane du top 1%)
+Pour l’estimation du choc de 2012-2013, nous considérons deux scénarios d’estimation pour l’effet des taux de départs : 
+•	
+Une borne basse, en incluant seulement l’année 2015 dans la période post-réforme, (là où la réponse de dé-
+part est la plus basse, hors effet Brexit à partir de 2016). 
+•	
+Une borne haute, en incluant seulement l’année 2013 dans la période post-réforme, (là où la réponse de départ 
+est la plus haute). 
+S’agissant des retours, nous faisons ici l’hypothèse d’un effet nul, du fait de la tendance croissante de retours sur la 
+période. 
+Pour l’estimation du choc de 2017-2018, nous considérons aussi deux scénarios d’estimation pour l’effet sur les taux 
+de retours : 
+•	
+Une borne basse, faisant l’hypothèse que les tendances de retours observées sur la période 2012-2016 se 
+seraient prolongées sur la période 2017-2019 en l’absence de réforme. Pour ce faire, nous : 
+1.	 Calculons la tendance moyenne de retours des deux groupes sur la période 2012-2016, 
+2.	 Prédisons les taux de retours moyens « contrefactuels » en extrapolant cette tendance sur la période 2017-2019
+
+=== PAGE PDF 25 ===
+25
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+3.	 Soustrayons ces taux moyens contrefactuels à l’indicateur Retourit avant d’estimer la régression ci-dessus. 
+•	
+Une borne haute, faisant l’hypothèse que ces tendances se serait dissipées en 2017-2019 (autrement dit, 
+que la différence de retours entre les traités et contrôle seraient restée à son niveau de 2016). Cela revient à 
+estimer le modèle de double différence sans ajuster préalablement l’indicateur Retourit.
+S’agissant des départs, le scénario borne basse donnant ici un effet négatif de la fiscalité sur les départs, nous ne consi-
+dérons que le scénario sans prolongement des tendances (borne haute), et prenons 0 comme borne basse. 
+Les effets sur les départs nets sont ensuite estimés comme la somme des effets de départs et retours de scénario 
+d’estimation. 
+Calcul de l’élasticité et semi-élasticité de flux
+L’élasticité de la population de hauts patrimoines, net de flux de départ nets, relative au revenu net d’impôt, peut être 
+calculée de la manière suivante : 
+Où :
+∆τ = Effet du choc fiscal sur les taux de départs nets = Effet du choc fiscal sur les taux de départs bruts (pp) – effet du 
+choc fiscal sur les taux de retours (pp)
+1-τ = 1 - Taux de départ net moyen (approximé à 1)
+∆t= Effet du choc fiscal sur les taux effectifs d’imposition du revenu (IR+PS+ISF)/RFR
+t = Taux effectif d’imposition du revenu (IR+PS+ISF)/RFR du groupe contrôle l’année précédant le choc (soit 2011 ou 
+2016)
+Cette élasticité peut être interprétée de la façon suivante : une diminution de 1% du revenu net d’impôt pour les hauts 
+patrimoines entraînerait le départ annuel de ε % des hauts patrimoines résidant fiscalement en France. 
+On peut aussi calculer la semi-élasticité du flux de départs nets relatif au taux effectif d’imposition, dont l’interprétation 
+est plus intuitive : 
+Cette semi-élasticité peut être interprétée de la façon suivante : une augmentation de 1 point de pourcentage de l’im-
+position des revenus des hauts patrimoines entraînerait le départ annuel de sϵ % des hauts patrimoines résidant fisca-
+lement en France. 
+Calcul de l’élasticité de stock
+Les flux annuels de départs nets provoqués par la hausse de la fiscalité s’accumulant avec le temps, il nous faut trouver 
+une méthode pour les additionner, afin d’obtenir l’élasticité dite « de stock ». Pour ce faire, nous reprenons l’approche 
+développée par Jakobsen et al. (2024), qui calcule à partir du renouvellement naturel de la population de hauts patri-
+moines en Suède un facteur de conversion flux-stock T, estimé à 15.1, de telle manière que :
+L’élasticité de stock relatif au revenu net d’impôt peut être estimée comme : 
+L’interprétation de cette élasticité est la suivante : une diminution de 1% du revenu net d’impôt pour les hauts patri-
+moines entraînerait l’exil à long terme de εs % des hauts patrimoines qui auraient autrement résidé fiscalement en 
+France. 
+Similairement, on peut aussi calculer la semi-élasticité de stock relatif au taux effectif d’imposition : 
+
+=== PAGE PDF 26 ===
+Focus, no 118, juillet 2025
+26
+Cette semi-élasticité peut être interprétée de la façon suivante : une augmentation de 1 point de pourcentage de l’im-
+position des revenus des hauts patrimoines entraînerait l’exil à long terme de sϵs % des hauts patrimoines qui auraient 
+autrement résidé fiscalement en France.
+Décomposition des calculs d’élasticité
+Année
+Effet choc 
+sur taux 
+départs 
+nets 
+(reduced 
+form)
+Net du 
+taux de 
+départ net
+Effet choc 
+sur taux 
+effectif 
+d’imposi-
+tion (first 
+stage)
+Net du 
+taux d’im-
+position
+Semi élas-
+ticité de 
+flux
+Élasticité 
+de flux
+Semi élasti-
+cité de stock
+Élasticité 
+de stock
+∆τ
+(pp)
+1- τ
+∆t
+(pp)
+1 - t
+sϵ = [∆τ/
+(1- τ)]/∆t
+ε =  [∆τ/
+(1- τ)]/
+[∆t/(1-t)]
+sε * 
+((15,1+1)/2)
+ε * 
+((15,1+1)/2)
+2012 (borne 
+basse)
++0,0382 pp
+≈1
++3,281 pp
+78,407%
+0,012 %
+0,009 %
+0,094 %
+0,073 %
+2012 (borne 
+haute)
++0,0946 pp
+≈1
++3,281 pp
+78,407%
+0,029 %
+0,023 %
+0,232 %
+0,182 %
+2017 (borne 
+basse)
+-0,0101 pp
+≈1
+-3,468 pp
+73,010%
+0,003 %
+0,002 %
+0,023 %
+0,017 %
+2017 (borne 
+haute)
+-0,0697 pp
+≈1
+-3,468 pp
+73,010%
+0,020 %
+0,014 %
+0,158 %
+0,115 %
+
+=== PAGE PDF 27 ===
+27
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+A4. Analyse d’hétérogénéité : élasticité du top 0,5 %
+Dans cette section, nous répliquons les analyses présentées dans la section 1 du focus, ainsi que les sections A1 à A3 
+de cet appendice, en se focalisant cette fois sur le top 0,5 % des revenus, plutôt que sur le top 1%. Les ménages trai-
+tés correspondent ainsi désormais aux ménages appartenant au top 0,5 % des revenus déclarés du capital et dont la 
+part de revenu mobilier est supérieur à la médiane du top 0,5 %, tandis que les ménages de contrôle correspondent aux 
+ménages du top 0,5 % dont la part de revenu mobilier est inférieur à cette médiane. 
+Évolution des taux effectifs d’imposition sur le revenu et capital, top 0,5 %
+Figure A4.1. Taux effectif d’imposition des revenus et du patrimoine (%)
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Individus fortement exposés aux réformes fiscales (traités)
+Individus faiblement exposés aux réformes fiscales (contrôle)
+Taux effectif d’imposition
+des revenus et du patrimoine (%)
+Année fiscale
+Tranche 45% IR, ↑ PS
+Suppression PFL, ↓ ISF
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+10
+15
+20
+25
+30
+35
+40
+Note : Cette figure présente l’évolution des taux effectifs d’imposition du revenu et du capital des individus des groupes de traitement et de 
+contrôle. Les individus du groupe de traitement correspondent aux foyers fiscaux appartenant au top 0,5 % des revenus du capital déclarés, et dont 
+la part de revenu mobilier dans leur revenu du capital total est supérieure à la part médiane observée dans le top 0,5 %. Les individus du groupe de 
+contrôle sont les foyers fiscaux du top 0,5 % dont la part de revenu mobilier est inférieure à cette médiane. Le taux effectif d’imposition du revenu 
+et du capital est estimé ici comme la somme des impôts sur le revenu personnel (impôt sur le revenu, prélèvements sociaux sur le revenu du 
+capital, contribution exceptionnelle sur les hauts revenus), et des impôts sur le patrimoine (ISF jusqu’en 2016, puis IFI).
+Source : Données POTE et ISF-IFI.
+Figure A4.2. Delta d’évolution des taux d’imposition sur le revenu et capital en France, top 0,5 % (2010-2019)
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Groupes de traitement vs de contrôle (relativement à 2010)
+Différence du taux effectif d’imposition
+des revenus et du patrimoine (pp)
+Année fiscale
+Tranche 45% IR, ↑ PS
+Suppression PFL, ↓ ISF
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+Notes : Cette figure présente l’évolution de la différence des taux d’imposition sur le revenu et le capital entre individus des groupes de 
+traitement et de contrôle. Les individus du groupe de traitement correspondent aux foyers fiscaux appartenant au top 0,5 % des revenus du 
+capital déclarés, et dont la part de revenu mobilier dans leur revenu du capital total est supérieure à la part médiane observée dans le top 
+0,5 %. Les individus du groupe de contrôle correspondent aux foyers fiscaux du top 0,5 % dont la part de revenu mobilier est inférieure à cette 
+
+=== PAGE PDF 28 ===
+Focus, no 118, juillet 2025
+28
+médiane. Le taux de retour correspond au nombre d’individu de chaque groupe déclarant déménager vers la France à l’administration fiscale 
+durant l’année a, divisé par la population totale du groupe. La différence de taux de retour entre les individus traités et contrôle est exprimée 
+relative à son niveau de 2010. Lecture : le taux d’imposition des individus du groupe de traitement a augmenté de 4,7 points de pourcentage 
+de plus que celui du groupe de contrôle entre 2010 et 2013. 
+Source : Données fiscales POTE
+Évolution des départs, top 0,5 %
+Figure A4.3. Évolution des taux de départs en France, top 0,5 % (2007-2019)
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+0,30
+0,35
+0,40
+0,45
+0,50
+2007 2008 2009 2010 2011 2012 2013
+2014 2015
+2016 2017 2018
+2019
+Individus fortement exposés aux réformes fiscales (traités)
+Individus faiblement exposés aux réformes fiscales (contrôle)
+Taux de départs bruts (%)
+Année fiscale
+Tranche 45% IR, ↑ PS
+Suppression PFL, ↓ ISF
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+Notes : Cette figure présente l’évolution des taux de départ brut des individus des groupes de traitement et de contrôle. Les individus du 
+groupe de traitement correspondent aux foyers fiscaux appartenant au top 0,5 % des revenus du capital déclarés, et dont la part de revenu 
+mobilier dans leur revenu du capital total est supérieure à la part médiane observée dans le top 0,5 %. Les individus du groupe de contrôle sont 
+les foyers fiscaux du top 0,5 % dont la part de revenu mobilier est inférieure à cette médiane. Le taux de départ brut correspond au nombre 
+d’individus de chaque groupe déclarant déménager hors de France à l’administration fiscale durant l’année a, divisé par la population totale du 
+groupe. 
+Source : Données fiscales POTE
+Figure A4.4. Delta d’évolution des taux de départs en France, top 0,5 % (2010-2019)
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Différence des taux de départs bruts
+entre groupes de traitement et de contrôle (pp)
+Année fiscale
+Tranche 45% IR, ↑ PS
+Suppression PFL, ↓ ISF
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+-0,20
+-0,16
+-0,12
+-0,08
+-0,04
+0,00
+0,04
+0,08
+0,12
+0,16
+0,20
+Groupe de traitement vs de contrôle (relativement à 2010)
+Notes : Cette figure présente l’évolution de la différence de taux de départs brut entre individus des groupes de traitement et de contrôle. Les 
+individus du groupe de traitement correspondent aux foyers fiscaux appartenant au top 0,5 % des revenus du capital déclarés, et dont la part 
+de revenu mobilier dans leur revenu du capital total est supérieure à la part médiane observée dans le top 0,5 %. Ceux du groupe de contrôle 
+sont les foyers fiscaux du top 0,5 % dont la part de revenu mobilier est inférieure à cette médiane. Le taux de retours correspond au nombre 
+d’individus de chaque groupe déclarant déménager hors de France à l’administration fiscale durant l’année a, divisé par la population totale du 
+groupe. La différence de taux de départs entre les individus de chaque groupe est exprimée relative à son niveau de 2010. 
+Lecture : le taux de départs a augmenté de 0,13 point de pourcentage de plus pour les individus du groupe de traitement que pour ceux du 
+groupe de contrôle entre 2010 et 2013. 
+Source : Données fiscales POTE
+
+=== PAGE PDF 29 ===
+29
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+Évolution des retours, top 0,5 %
+Figure A4.5. Évolution des taux de retours en France, top 0,5 % (2010-2019)
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Individus fortement exposés aux réformes fiscales (traités)
+Individus faiblement exposés aux réformes fiscales (contrôle)
+Taux de retours (%)
+Année fiscale
+Tranche 45% IR, ↑ PS
+Suppression PFL, ↓ ISF
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+0,30
+0,35
+0,40
+0,45
+0,50
+Notes : Cette figure présente l’évolution des taux de retours des individus des groupes de traitement et de contrôle. Les individus du groupe de 
+traitement correspondent aux foyers fiscaux appartenant au top 0,5 % des revenus du capital déclarés, et dont la part de revenu mobilier dans 
+leur revenu du capital total est supérieure à la part médiane observée dans le top 0,5 %. Les individus du groupe de contrôle sont les foyers 
+fiscaux du top 0,5 % dont la part de revenu mobilier est inférieure à cette médiane. Le taux de retour correspond au nombre d’individus de 
+chaque groupe déclarant déménager vers la France à l’administration fiscale durant l’année a, divisé par la population totale du groupe. 
+Source : Données fiscales POTE
+Figure A4.6. Delta d’évolution des taux de retours en France, top 0,5 % (2010-2019) 
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Différence des taux de retours
+entre groupes de traitement et de contrôle (pp)
+Année fiscale
+Tranche 45% IR, ↑ PS
+Suppression PFL, ↓ ISF
+PFU, ↑ PS
+Suppression ISF → IFI
+Brexit
+-0,20
+-0,16
+-0,12
+-0,08
+-0,04
+0,00
+0,04
+0,08
+0,12
+0,16
+0,20
+Groupes de traitement vs de contrôle (relativement à 2010)
+Notes : Cette figure présente l’évolution de la différence de taux de retours entre individus des groupes de traitement et de contrôle. Les 
+individus du groupe de traitement correspondent aux foyers fiscaux appartenant au top 0,5 % des revenus du capital déclarés, et dont la part 
+de revenu mobilier dans leur revenu du capital total est supérieure à la part médiane observée dans le top 0,5 %. Ceux du groupe de contrôle 
+sont les foyers fiscaux du top 0,5 % dont la part de revenu mobilier est inférieure à cette médiane. Le taux de retours correspond au nombre 
+d’individus de chaque groupe déclarant déménager vers la France à l’administration fiscale durant l’année a, divisé par la population totale du 
+groupe. La différence de taux de retours entre les individus des deux groupes est exprimée relativement à son niveau de 2010. 
+Lecture : le taux de retours a augmenté de 0,1 point de pourcentage de plus pour les individus du groupe de traitement que ceux du groupe de 
+contrôle entre 2010 et 2019. 
+Source : Données fiscales POTE
+
+=== PAGE PDF 30 ===
+Focus, no 118, juillet 2025
+30
+Décomposition des calculs d’élasticité, top 0,5 %
+Table A4.1. Décomposition des calculs d’élasticité, top 0,5 %
+Année
+Effet choc sur 
+taux départs 
+nets 
+(reduced 
+form)
+Net du 
+taux de 
+départs 
+net
+Effet choc 
+sur taux 
+effectif 
+d’imposi-
+tion (first 
+stage)
+Net du 
+taux d’im-
+position
+Semi-
+élasticité 
+de flux
+Élasticité 
+de flux
+Semi-élasticité 
+de stock
+Élasticité 
+de stock
+∆τ
+(pp)
+1- τ
+∆t
+(pp)
+1 - t
+sϵ = [∆τ/
+(1- τ)]/∆t
+ε =  [∆τ/
+(1- τ)]/
+[∆t/(1-t)]
+sε * 
+((15,1+1)/2)
+ε * 
+((15,1+1)/2)
+2012 
+(borne 
+basse)
++0,0582 pp
+≈1
++4,341 pp
+67 %
+0,013 %
+0,010 %
+0,108 %
+0,083 %
+2012 
+(borne 
+haute)
++0,0992 pp
+≈1
++4,341 pp
+67 %
+0,023 %
+0,018 %
+0,184 %
+0,142 %
+2017 
+(borne 
+basse)
+0 pp
+≈1
+-3,600 pp
+64 %
+0 %
+0 %
+0 %
+0 %
+2017 
+(borne 
+haute)
+-0,0647 pp
+≈1
+-3,600 pp
+64 %
+0,018 %
+0,013 %
+0,145 %
+0,102 %
+A5. Calculs des effets économiques agrégés
+Les effets économiques agrégés induits par l’exil fiscal sont calculés avec le produit suivant : 
+Effet = Semi-élasticité (stock) × Effet net départ × Part top 1 % × scénario de choc fiscal (+ 2,6 ou + 5,2pp)
+Semi-élasticité 
+de migration 
+(borne haute)
+(a)
+Effet net 
+du départ
+(b)
+Part des 
+entreprises 
+détenues 
+par le 
+top 1 %
+(c)
+Effet global d’une 
+augmentation de 
+2 milliards d’euros 
+de recette fiscales 
+réparties sur le top 1% 
+(+2.6pp)
+Effet global d’une 
+augmentation de 
+4 milliards d’euros de 
+recette fiscales répar-
+ties sur le top 1% 
+(+5.2pp)
+Chiffre d’affaire
+.23%
+-12,4 %
+19,6 %
+0,014%
+0,029%
+Valeur ajoutée
+.23%
+-13,3 %
+22,5 %
+0,027%
+0,053%
+Masse salariale
+.23%
+-21,3 %
+20,9 %
+0,018%
+0,036%
+
+=== PAGE PDF 31 ===
+31
+Fiscalité du capital : quels sont les effets de l’exil fiscal sur l’économie ?
+A6. Analyses supplémentaires
+Figure A6.1 Taux de retours moyen par centile de revenu du capital, 2017
+0,0%
+0,1%
+0,2%
+0,3%
+0,4%
+0,5%
+0,6%
+0,7%
+0,8%
+0,9%
+1,0%
+Taux de retours (en %)
+Centile de distribution du revenu du capital déclaré
+Top 1%  du revenu 
+du capital déclaré 
+P99.9-100
+P99.5-99.9
+P99-99.5
+P98-99
+P97-98
+P96-97
+P95-96
+P94-95
+P93-94
+P92-93
+P91-92
+P90-91
+Source : Données fiscales POTE
+Figure A6.2. Taux de départs brut moyen par centile de revenu fiscal de référence, 2017
+0,0%
+0,1%
+0,2%
+0,3%
+0,4%
+0,5%
+0,6%
+0,7%
+0,8%
+0,9%
+1,0%
+Taux de départs (en %)
+Centile de distribution du revenu fiscal de référence
+Top 1% du revenu 
+fiscal de référence
+P99.9-100
+P99.5-99.9
+P99-99.5
+P98-99
+P97-98
+P96-97
+P95-96
+P94-95
+P93-94
+P92-93
+P91-92
+P90-91
+Source : Données fiscales POTE
+
+=== PAGE PDF 32 ===
+Focus, no 118, juillet 2025
+32
+Figure A6.3.  Taux de retours moyen par centile de revenu fiscal de référence, 2017
+0,0%
+0,1%
+0,2%
+0,3%
+0,4%
+0,5%
+0,6%
+0,7%
+0,8%
+0,9%
+1,0%
+Taux de retours (en %)
+Centile de distribution du revenu fiscal de référence
+Top 1% du du revenu 
+fiscal de référence
+P99.9-100
+P99.5-99.9
+P99-99.5
+P98-99
+P97-98
+P96-97
+P95-96
+P94-95
+P93-94
+P92-93
+P91-92
+P90-91
+ 
+Source : Données fiscales POTE
+Figure A6.4. Détention d’entreprises par centile de patrimoine, Suède (1999-2006)
+Source : Jakobsen et al. (2024). 
+Les Focus du Conseil d’analyse économique
+ISSN 2971-3560 (imprimé)
+ISSN 2999-2524 (en ligne)
+Directeur de la publication Xavier Jaravel
+Directrice de la rédaction Hélène Paris
+Réalisation Hélène Spoladore
+Contact presse Hélène Spoladore 
+helene.spoladore@cae-eco.fr  
+Tél. : 01 42 75 77 47 — 07 88 87 55 44
+TSA 20727 75334 Paris Cedex 07 — Téléphone : 01 42 75 76 84 — @CAEinfo www.cae-eco.fr
+Président délégué Xavier Jaravel
+Secrétaire générale Hélène Paris
+Conseillers scientifiques 
+Jean Beuve, Samuel Delpeuch, 
+Claudine Desrieux, Arthur Poirier
+Économistes/Chargés d’études 
+Nicolas Grimprel, Lucie Huang, Alice Lapeyre, 
+Emma Laveissière, Antoine Lopes
+Membres Adrien Auclert, Emmanuelle Auriol, 
+Antonin Berjeau, Antoine Bozio, Sylvain Chassang, 
+François Fontaine, Julien Grenet, Fanny Henriet, 
+Xavier Jaravel, Florence Jusot, Sébastien Jean, 
+Camille Landais, Isabelle Méjean, Thomas Philippon, 
+Vincent Pons, Xavier Ragot, Alexandra Roulet, 
+Katheline Schubert, Emmanuelle Taugourdeau, Jean 
+Tirole
+Correspondants
+Dominique Bureau, Benoît Mojon, Anne Perrot, 
+Aurélien Saussay, Ludovic Subran
+Le Conseil d’analyse économique, créé auprès du Premier ministre, a pour mission d’éclairer,  
+par la confrontation des points de vue et des analyses de ses membres, les choix du gouvernement en 
+matière économique.

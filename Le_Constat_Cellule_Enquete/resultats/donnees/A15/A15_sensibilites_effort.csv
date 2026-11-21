@@ -1,0 +1,17 @@
+variante;stab_2030_pts;stab_2035_pts;trois_2030_pts;trois_2035_pts
+centrale;5.168;4.453;5.411;4.729
+croissance basse (-0,5 pt/an des 2028);5.99;5.056;5.484;4.912
+croissance haute (+0,5 pt/an des 2028);4.363;3.858;5.339;4.555
+inflation basse (deflateur 1,0-1,25 %, taux inchanges);6.058;5.105;5.403;4.878
+inflation haute (deflateur 2,35-2,5 %, taux inchanges);4.085;3.652;5.418;4.549
+taux +100 pb des 2027;5.828;5.332;6.081;5.594
+taux +200 pb des 2027;6.495;6.217;6.757;6.461
+taux d'emission maintenu a la valeur calee 2028 (4,8 %);5.274;5.032;5.514;5.296
+croissance haute et inflation haute (renversement, sect. 14);3.298;3.066;5.346;4.382
+taux d'emission de long terme 2,8 % (= croissance nominale, sect. 14);5.014;3.618;5.26;3.911
+emploi bas (PIB -0,5 % en niveau en 2035);5.316;4.803;5.564;5.096
+emploi haut (PIB +1 % en niveau en 2035);4.872;3.752;5.103;3.995
+vieillissement nul;5.074;4.185;5.316;4.46
+vieillissement haut;5.299;4.766;5.543;5.044
+multiplicateur composite 0,3;4.385;4.394;4.545;4.648
+multiplicateur composite 1,0;6.787;3.927;7.262;4.582

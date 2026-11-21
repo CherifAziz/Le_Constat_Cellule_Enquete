@@ -1,0 +1,5 @@
+ecb_IRS_M_FR.csv	https://data-api.ecb.europa.eu/service/data/IRS/M.FR.L.L40.CI.0000.EUR.N.Z?format=csvdata	donnees/A07/sources/ecb_IRS_M_FR.csv
+ecb_IRS_M_IT.csv	https://data-api.ecb.europa.eu/service/data/IRS/M.IT.L.L40.CI.0000.EUR.N.Z?format=csvdata	donnees/A07/sources/ecb_IRS_M_IT.csv
+ecb_IRS_M_DE.csv	https://data-api.ecb.europa.eu/service/data/IRS/M.DE.L.L40.CI.0000.EUR.N.Z?format=csvdata	donnees/A07/sources/ecb_IRS_M_DE.csv
+AFT_BM_2026_11.pdf	https://www.aft.gouv.fr/files/medias-aft/7_Publications/7.2_BM/438_Bulletin%20mensuel%20novembre%202026.pdf	
+AFT_BM_2026_10.pdf	https://www.aft.gouv.fr/files/medias-aft/7_Publications/7.2_BM/437_Bulletin%20mensuel%20octobre%202026.pdf	donnees/A07/sources/AFT_BM_2026_10.pdf
