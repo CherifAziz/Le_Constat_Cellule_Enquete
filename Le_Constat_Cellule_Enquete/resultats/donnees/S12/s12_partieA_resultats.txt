@@ -1,0 +1,11 @@
+Exercices en déficit (solde < 0) : 51 sur 51
+S12 (seuil sièges pourvus) : majorité absolue 42 ; dont parti seul 22 ; déficits parmi elles 42 ; excédents primaires sous parti seul [] ; excédents primaires sous majorité absolue [1979, 1980, 1998, 1999, 2000, 2001]
+S12 variante seuil nominal : majorité absolue 42 ; dont parti seul 20 ; déficits parmi elles 42 ; excédents primaires sous parti seul [] ; excédents primaires sous majorité absolue [1979, 1980, 1998, 1999, 2000, 2001]
+A09 : majorité absolue 37 ; dont parti seul 23 ; déficits parmi elles 37 ; excédents primaires sous parti seul [] ; excédents primaires sous majorité absolue [1979, 1980, 1998, 1999, 2000, 2001]
+Avec appoint (1987) compté comme absolu : 43
+Lignes en désaccord avec A09 : 1975 (coalition_non_etablie -> coalition), 1976 (coalition_non_etablie -> coalition), 1977 (coalition_non_etablie -> coalition), 1978 (coalition_non_etablie -> coalition), 1988 (coalition_etroite -> coalition), 2016 (parti_seul -> coalition)
+Lignes différentes sous seuil nominal : 2015, 2017
+Lignes mesurées à la date du vote (ou le jour même) : 15 ; composition la plus proche : 36
+Excédents primaires sous majorité absolue : 6 sur 42
+Excédents primaires sous autres : 3 sur 9
+Excédents primaires (tous exercices) : [(1979, 'coalition'), (1980, 'coalition'), (1987, 'appoint'), (1989, 'relative_ou_sans'), (1990, 'relative_ou_sans'), (1998, 'coalition'), (1999, 'coalition'), (2000, 'coalition'), (2001, 'coalition')]

@@ -1,0 +1,20 @@
+dixieme;effet_2018_eur2023;effet_2019_eur2023;effet_2020_eur2023;effet_2021_eur2023;effet_2022_eur2023;effet_2023_eur2023;effet_ensemble_eur2023;part_du_cumul_pct
+Inférieur à D1;20;30;30;0;0;0;80;2.0
+D1 à D2;40;50;40;0;0;0;130;3.2
+D2 à D3;70;80;70;0;0;0;220;5.4
+D3 à D4;100;120;100;0;0;0;320;7.8
+D4 à D5;110;140;120;0;0;0;370;9.0
+D5 à D6;130;150;140;0;0;0;420;10.2
+D6 à D7;140;170;150;10;10;20;500;12.2
+D7 à D8;110;120;120;70;70;70;560;13.7
+D8 à D9;40;40;50;170;160;170;630;15.4
+Supérieur à D9;10;10;20;270;260;300;870;21.2
+
+groupe;part_centrale_pct;borne_basse_pct;borne_haute_pct
+10 % les plus aisés (D10);21.2;20.9;21.6
+20 % les plus aisés (D9-D10);36.6;36.1;37.1
+50 % les plus modestes (D1-D5);27.3;26.7;27.9
+30 % les plus aisés (D8-D10);50.2;49.6;50.9
+phase 2021-2023 : part D9-D10;84.2;;
+phase 2018-2020 : part D1-D5;44.4;;
+rapport D10/D1 (cumul);10.9;;

@@ -1,0 +1,1020 @@
+
+===== PAGE 1 =====
+Ce Focus est publié sous la responsabilité des auteurs et n’engage qu’eux.
+L
+a réduction de la taille des classes constitue un levier bien documenté pour améliorer les apprentis-
+sages des élèves, en particulier dans l’enseignement primaire. Ce Focus applique le cadre méthodolo-
+gique de l’indice d’efficacité des dépenses publiques (EDP) à cette politique, afin d’en évaluer le rapport 
+bénéfice-coût pour la collectivité. L’analyse porte sur le dédoublement des classes dans l’éducation prioritaire, 
+tout en considérant les effets potentiels d’une diminution générale de la taille des classes dans les premier et 
+second degrés.
+L’indice EDP permet de mesurer la rentabilité sociale d’une politique publique en rapportant les gains qu’elle 
+génère à son coût net pour les finances publiques. Dans le cas de la taille des classes, il repose sur une chaîne 
+de transmission reliant la réduction du nombre d’élèves par classe à l’amélioration des compétences sco-
+laires, puis à l’augmentation des revenus futurs. Les paramètres utilisés sont issus d’évaluations rigoureuses 
+mobilisant des variations expérimentales ou quasi expérimentales, ainsi que des données administratives 
+françaises sur les trajectoires scolaires et salariales.
+Les résultats mettent en évidence une forte rentabilité de la politique dans l’enseignement primaire, où l’indice 
+EDP indique que le dédoublement est autofinancé à long terme. Au collège, l’effet estimé sur les apprentis-
+sages est plus incertain, mais l’indice reste largement supérieur à 1, traduisant un gain social net pour chaque 
+euro investi. Ces résultats confortent la pertinence de poursuivre les efforts engagés dans le premier degré, 
+tout en appelant à des expérimentations ciblées pour mieux documenter les effets dans le second degré.
+Focus
+n° 113
+mai 2025
+Maxime Fajeau, Université de Lille, Julien Grenet, Paris School of Economics, 
+Emma Laveissière et Orane Leonetti, CAE
+Efficacité économique de la réduction 
+de la taille des classes
+
+===== PAGE 2 =====
+Focus, no 113, mai 2025
+2
+Contextualisation
+En France, La mise en œuvre de la politique de réduction de la taille des classes dans l’éducation prioritaire s’inscrit 
+dans le prolongement d’une littérature scientifique démontrant les effets bénéfiques des classes de petite taille, en 
+particulier dans les premières années de scolarité (Bouguen et al., 2017). Ce constat a nourri l’idée selon laquelle une 
+réduction ciblée des effectifs pouvait constituer un levier efficace pour réduire les inégalités scolaires.
+Initiée en 2017 avec le dédoublement de 2 500 classes de CP en réseau d’éducation prioritaire renforcé (REP+), la poli-
+tique de réduction de la taille des classes dans l’éducation prioritaire a progressivement été étendue à l’ensemble des 
+classes de CP et CE1 des écoles REP et REP+, puis, à partir de 2020, aux classes de grande section de maternelle de 
+ces mêmes réseaux. Cette réforme a permis une diminution substantielle du nombre moyen d’élèves par classes dans 
+les écoles élémentaires de l’éducation prioritaire (figure 1) : entre la rentrée 2015 et la rentrée 2024, la taille moyenne 
+des classes, toutes sections confondues, y est passée de 22,7 à 16,7 élèves, soit une diminution de 6 élèves par classe.
+En dehors de l’éducation prioritaire, la baisse continue des naissances depuis 2010 a également conduit à une diminu-
+tion progressive du nombre d’élèves par classe. En l’absence d’un ajustement proportionnel du nombre d’enseignants, 
+cette évolution démographique s’est traduite par une réduction mécanique de la taille des classes. Entre 2015 et 2024 
+le nombre moyen d’élèves par classe dans l’élémentaire public hors éducation prioritaire est ainsi passé de 23,7 à 22,3.
+Figure 1. Évolution du nombre moyen d’élèves par classe dans l’enseignement élémentaire
+Champ : écoles publiques et privées sous contrat, hors ULIS. Source : Evain (2024, 2025).
+Malgré cette dynamique, la France continue de se distinguer par une taille des classes élevée au regard des standards 
+internationaux (figure 2). À la rentrée 2024, le nombre moyen d’élèves par classe dans le premier degré s’établit à 21,7 
+en France, contre une moyenne de 19,0 dans les 17 autres pays de l’Union européenne pour lequel les données sont 
+disponibles. L’écart est encore plus marqué dans le second degré : les collèges français comptent en moyenne 25,6 
+élèves par classe, contre 20,7 dans les autres pays de l’UE1.
+Au-delà de la taille des classes, le taux d’encadrement – mesuré par le nombre moyen d’élèves par enseignant – consti-
+tue un autre indicateur permettant de rendre compte des conditions d’accueil des élèves. Sur ce plan également, la 
+France se situe au-dessus de la moyenne européenne : dans les collèges, on y dénombre en moyenne 15 élèves par 
+enseignant, soit quatre de plus que la moyenne de l’UE (11). Les pays affichant les taux d’encadrement les plus favo-
+rables sont la Norvège et la Grèce, avec environ 8 élèves par enseignant au collège. L’Allemagne affiche quant à elle un 
+ratio proche de la France.
+1 Il convient toutefois de nuancer l’interprétation des comparaisons internationales de la taille des classes dans le second degré. Contrairement au 
+primaire, où la structure pédagogique est plus uniforme, l’enseignement au collège comprend souvent des temps d’instruction en sous-groupes, ce 
+qui rend plus difficile une mesure de la taille effective des classes.
+15,0
+17,5
+20,0
+22,5
+25,0
+27,5
+30,0
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+REP-REP+
+Public hors éducation prioritaire
+Privé
+22,3
+23,7
+16,7
+22,7
+24,9
+24,4
+Nombre moyen d’élèves par classe
+
+===== PAGE 3 =====
+3
+Efficacité économique de la réduction de la taille des classes
+2 Fajeau M., Fougère C., Grenet J., Landais C. et Laveissière E. (2025) : « L’indice d’efficacité de la dépense publique appliqué à l’internat d’excellence 
+de Sourdun », Focus n° 111, CAE, mai.
+Figure 2. Taille des classes en primaire et au collège : comparaison France-UE
+Champ : France et 17 pays de l’UE pour lesquelles les données sur la taille des classes sont disponibles depuis 2015 (Allemagne, Autriche, 
+Danemark, Espagne, Estonie, Finlande, Grèce, Hongrie, Italie, Lettonie, Lituanie, Pologne, Portugal, République tchèque, Slovaquie, Slovénie, 
+Suède). Source : OCDE (2024a).
+Ces constats invitent à s’interroger sur l’opportunité de poursuivre ou d’amplifier une politique de réduction de la taille 
+des classes en France. Une telle réflexion suppose de répondre à deux questions essentielles : les classes réduites 
+constituent-elle un levier efficace pour améliorer les performances scolaires et la réussite à long terme des élèves ? Et 
+quelles seraient les retombées collectives, susceptibles de justifier leur coût pour les finances publiques ?
+Ce Focus vise à apporter des éléments de réponse en s’appuyant sur l’évaluation de l’impact du dédoublement des 
+classes en REP/REP+ sur les résultats scolaires et les revenus futurs des élèves. Ce dispositif constitue une forme par-
+ticulièrement visible et ciblée de réduction des effectifs, ce qui en fait un terrain privilégié pour une évaluation rigou-
+reuse. Par ailleurs, l’ampleur de la réduction induite — un passage de classes classiques à des groupes de 12 élèves — 
+est cohérente avec les travaux de la littérature scientifique, qui s’appuient généralement sur des variations importantes 
+de la taille des classes pour identifier son impact causal sur la réussite des élèves.
+L’objectif est double : d’une part, fournir une estimation robuste de l’efficacité de cette politique ciblée ; d’autre part, 
+utiliser ce cas concret comme point d’appui pour éclairer les effets potentiels d’une politique plus large de réduction 
+des effectifs par classe.
+Rappel du principe et de la méthode de calcul de l’indice 
+d’efficacité des dépenses publiques (EDP)
+Un Focus méthodologique spécifique2 présente en détail le calcul de l’indice d’efficacité des dépenses publiques, égale-
+ment connu sous le nom de Marginal Value of Public Funds (MVPF) dans la littérature internationale. Cet indice offre une 
+mesure standardisée de la rentabilité sociale d’une politique publique, en rapportant les bénéfices qu’elle génère à son 
+coût net pour les finances publiques (Hendren et Sprung-Keyser, 2020 ; 2022).
+L’EDP est défini comme le rapport entre le bénéfice social total pour les bénéficiaires et le coût net de la politique pour 
+l’État, c’est-à-dire le coût brut diminué des recettes fiscales ou économies budgétaires qu’elle engendre à court ou à 
+long terme (par exemple via une hausse des revenus imposables ou une baisse des dépenses sociales futures). La for-
+mule est la suivante :
+EDP =
+où :
+17
+19
+21
+23
+25
+27
+Moyenne Union européenne (17 pays)
+France
+19,2
+23,6
+19,0
+21,7
+Nombre moyen d’élèves par classe du primaire
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+17
+19
+21
+23
+25
+27
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Moyenne Union européenne (17 pays)
+France
+20,8
+25,3
+20,7
+25,6
+Nombre moyen d’élèves par classe du secondaire
+ΔB
+ΔC — ΔE
+
+===== PAGE 4 =====
+Focus, no 113, mai 2025
+4
+•	
+ΔB désigne l’ensemble des bénéfices sociaux retirés par les bénéficiaires de la politique, qu’ils soient directs 
+(transferts monétaires, revenus plus élevés, amélioration des conditions de travail, etc.) ou indirects (augmen-
+tation de la productivité globale, réduction de la criminalité, civisme, etc.) ;
+•	
+ΔC représente le coût de déploiement de la politique pour l’État, c’est-à-dire l’ensemble des dépenses néces-
+saires à sa mise en œuvre ;
+•	
+ΔE représente les recettes fiscales supplémentaires générées par la politique, à travers par exemple l’augmen-
+tation des revenus des bénéficiaires.
+Cette méthode permet de mesurer le « retour sur investissement » (« bang for the buck ») d’une intervention publique 
+en rapportant les bénéfices sociaux générés au coût réel supporté par les finances publiques. Un indice supérieur à 1 
+signifie que la politique génère un bénéfice net pour la société pour chaque euro public investi.
+L’indice EDP constitue un outil d’aide à la décision particulièrement utile pour guider l’allocation des ressources 
+publiques car il permet de comparer l’efficacité relative de politiques très diverses, indépendamment de leur nature 
+ou de leur champ d’action. Conçu pour appréhender l’efficacité à long terme, il prend en compte le fait que les retours 
+sur investissement public — notamment en matière d’éducation — peuvent mettre plusieurs années à se matérialiser. 
+Contrairement à l’approche traditionnelle de l’analyse coût-bénéfice, où les économies futures sont comptabilisées 
+dans les bénéfices globaux, l’EDP les intègre dans le calcul du coût net. Cette différence méthodologique permet à l’EDP 
+d’identifier les situations dites Pareto-améliorantes, où la politique génère un gain net pour la société sans léser aucun 
+individu. Cependant, il est important de rappeler que cet indice n’a pas vocation à se substituer au débat démocratique 
+sur les décisions de politiques publiques : il doit être considéré comme un outil de clarification des choix et un levier de 
+meilleure répartition des ressources en fonction des priorités collectives.
+Application de l’EDP à la politique de dédoublement des classes
+Bénéfice social du dédoublement des classes (∆B)
+Les politiques éducatives, qu’elles consistent à revoir les contenus enseignés, à améliorer la qualité de l’enseignement 
+ou à adapter l’organisation scolaire, ont pour objectif commun de renforcer les compétences des élèves. Elles parti-
+cipent ainsi à la formation du capital humain (Becker, 1964), qui conditionne la productivité future des individus et, par 
+conséquent, leur niveau de revenu sur le marché du travail. Si les bénéfices de l’éducation excèdent largement le seul 
+rendement salarial — en influant sur des dimensions aussi diverses que la santé, l’engagement civique ou la crimina-
+lité —, ce dernier reste cependant un indicateur central du bénéfice social3, dans la mesure où le lien causal entre réus-
+site scolaire et niveau revenu est bien documenté (Card, 1999). La littérature académique montre par ailleurs que les 
+effets des politiques éducatives sur les revenus futurs tendent à être positivement corrélés à leurs effets sur d’autres 
+dimensions du bien-être. Cela confère au revenu une fonction de synthèse utile pour mesurer l’impact social global 
+d’une politique éducative. Dans ce cadre, le gain salarial attendu peut être interprété comme une première mesure de 
+la disposition à payer ou à soutenir une telle politique.
+Pour quantifier le bénéfice social du dédoublement des classes, cinq paramètres sont nécessaires :
+L’effet de la politique sur les compétences scolaires (θ)
+L’impact d’une politique éducative sur les acquis des élèves est le plus souvent évalué à partir de leurs résultats à des 
+tests standardisés. Dans le cas de la taille des classes, l’enjeu méthodologique majeur consiste à identifier un effet cau-
+sal, indépendamment des biais de sélection qui peuvent affecter la composition des classes. C’est pourquoi les estima-
+tions mobilisées ici reposent sur des variations expérimentales ou quasi expérimentales du nombre d’élèves par classe, 
+issues des travaux de recherche en économie.
+L’impact de la taille des classes sur les performances scolaires des élèves a fait l’objet d’une abondante littérature 
+scientifique. Afin de neutraliser les biais de sélection qui faussent la comparaison entre petites et grandes classes, 
+les études les plus rigoureuses méthodologiquement s’appuient sur l’expérimentation randomisée STAR menée dans 
+le Tennessee en 1986 (Krueger, 1999 ; Krueger et Whitmore, 2001 ; Chetty et al., 2011), où les élèves ont été répartis 
+3 Fajeau M., Grenet J. et Laveissière E. (2025) : « L’effet des compétences scolaires sur les salaires futurs », Focus n° 112, CAE, mai.
+
+===== PAGE 5 =====
+5
+Efficacité économique de la réduction de la taille des classes
+aléatoirement dans des classes de taille différente, ou des analyses exploitant les seuils d’ouverture de classes comme 
+source de variation exogène4.
+Dans leur très grande majorité, ces travaux mettent en évidence des effets statistiquement significatifs de la taille des 
+classes sur les apprentissages dans l’enseignement primaire (figure 3). Pour faciliter la comparaison entre contextes — 
+le dédoublement ne correspondant pas toujours à la même variation d’effectifs —, il est courant d’exprimer les effets 
+estimés en points d’écart-type de la distribution des scores aux évaluations standardisées (voir encadré 1), pour un 
+élève en moins par classe. En moyenne, une réduction d’un élève par classe est associée à une amélioration des résul-
+tats scolaires comprise entre 1,5 % à 2,5 % d’un écart-type pour une année scolaire, avec des effets qui tendent à être 
+plus marqués pour les élèves issus de milieux défavorisés. L’évaluation menée par le ministère de l’Éducation nationale 
+sur le dédoublement des classes de CP en REP+ (DEPP, 2021) s’inscrit dans cette fourchette, avec un gain moyen de 
+1,62 % d’écart-type par élève en moins5. Cette valeur est retenue ici comme estimation centrale du paramètre θ pour le 
+calcul de l’indice EDP associé au dédoublement des classes en primaire.
+Figure 3. Méta-analyse de l’impact de la taille des classes sur les performances scolaires
+0
+1
+2
+3
+4
+5
+-2
+-1
+Krueger (1999)
+Krueger (1999)
+Bressoux & Lima (2011)
+Depp (2021) méth. 1
+Depp (2021) méth. 2
+Piketty et Valdenaire (2006)
+Bressoux et al. (2009)
+Urquiola (2006)
+Iversen et Bonesronning (2013)
+Angrist et al. (2017)
+Fredriksson et al. (2013)
+Leuven et al. (2008)
+Piketty et Valdenaire (2006)
+Maternelle
+CM2
+CE1
+CE2
+CP
+CM1
+CM1-6e
+5e
+3e
+Impact d’un élève en moins par classe sur les performance scolaires (en % d’écart-type)
+Études
+Classes
+score global
+mathématiques
+langue
+étude sur données françaises
+étude sur données étrangères
+Connolly et Haeck (2022)
+Lecture : D’après l’étude de Krueger (1999), une réduction d’un élève par classe en CP est associée à une amélioration des performances 
+de 1,8 % d’un écart-type. Notes : Les effets sont exprimés en pourcentage d’écart-type du score observé (mathématiques, langues ou 
+score global), pour chaque élève en moins dans une classe pendant une année scolaire. Un coefficient positif indique un effet bénéfique 
+de la réduction de la taille des classes sur les résultats des élèves. Les symboles représentent l’effet estimé (carré : score global ; cercle : 
+mathématiques ; losange : langue) et les barres horizontales indiquent les intervalles de confiance à 95 %. Les études s’appuyant sur des 
+données françaises apparaissent en bleu foncé. Sources : les références complètes des études sont fournies dans la bibliographie.
+4 Angrist et Lavy, 1999 ; Angrist et al., 2019 ; Bressoux et al., 2009 ; Bressoux et Lima, 2011 ; Browning et Heinesen, 2007 ; Chetty et al., 2001 ; Connolly 
+et Haeck, 2022 ; DEPP, 2021 ; Fredriksson et al., 2013 ; Iversen et Bonesrønning, 2013 ; Leuven et al., 2008 ; Piketty et Valdenaire, 2006 ; Urquiola, 2006.
+5 Deux méthodes distinctes ont été mobilisées par la DEPP (2021) pour évaluer l’impact du dédoublement des classes de CP en REP + sur les acquis des 
+élèves un an après l’entrée en vigueur du dispositif. La première compare l’évolution des scores en français et en mathématiques entre le début et la fin du 
+CP pour les élèves scolarisés en REP + à celle d’un groupe témoin d’élèves inscrits dans des écoles REP similaires mais non concernées par la réforme. La 
+seconde méthode compare l’évolution des performances en début de CE1 des élèves de REP + ayant bénéficié du dédoublement des classes en CP, par 
+rapport à la cohorte précédente (non exposée), selon une approche en double différence avec le groupe non exposé à la réforme. Les résultats montrent 
+des effets significatifs du dédoublement sur les acquis des élèves : selon la méthode 1, une amélioration de 14 % d’un écart-type en français et de 12 % 
+en mathématiques (Tableau 4.7 colonnes 2 et 4) ; selon la méthode 2, un effet estimé à 9 % d’un écart-type en français (Tableau 4.12, colonne 2) et 9 % 
+en mathématiques (Tableau 4.13, colonne 2). L’étude mondre que la politique a conduit à une réduction moyenne de 6,8 élèves par classe de CP dans 
+les écoles REP + par rapport au groupe témoin (Tableau 4.3). Rapportés à un élève en moins par classe, ces résultats impliquent des effets de 2,1 % d’un 
+écart type en français et de 1,8 % en mathématiques selon la méthode 1, et des effets de 1,3 % d’un écart-type dans les deux matières selon la méthode 2. 
+La moyenne de ces quatre estimations aboutit à un effet combiné de 1,62 % d’un écart-type par élève en moins par classe.
+
+===== PAGE 6 =====
+Focus, no 113, mai 2025
+6
+Encadré 1. Interpréter les tailles d’effet dans les études sur l’éducation
+Dans la recherche en éducation, les effets des interventions éducatives sont généralement exprimés en unités d’écart-
+type. Cette mesure permet de comparer des résultats obtenus dans des contextes différents en les ramenant à une 
+échelle standardisée. L’écart-type mesure la dispersion des résultats autour de la moyenne : indiquer qu’une interven-
+tion produit un effet de 0,2 écart-type (ou 20 % d’un écart-type) revient à dire que, en moyenne, les élèves concernés 
+ont obtenu des scores supérieurs de 0,2 écart-type à ceux du groupe témoin.
+Le tableau ci-dessous propose d’interpréter concrètement les tailles d’effet exprimées en unités d’écart-type, en les 
+traduisant en gains de centiles. Cela permet de visualiser à quel point une intervention éducative peut faire progresser 
+un élève dans la distribution des performances :
+Taille des effets
+Interprétationa
+0,10 écart-type
+Du 50e au 54e centile
+0,20 écart-type
+Du 50e au 58e centile
+0,30 écart-type
+Du 50e au 62e centile
+0,40 écart-type
+Du 50e au 66e centile
+0,50 écart-type
+Du 50e au 69e centile
+Dans la littérature empirique, on considère généralement un effet inférieur à 0,05 écart-type comme faible, un effet 
+compris entre 0,05 et 0,20 comme modéré, et un effet supérieur ou égal à 0,20 comme importantb. Ces seuils tiennent 
+compte du fait que, dans le domaine éducatif, les effets observés dans le cadre d’évaluations rigoureuses (expérimen-
+tations ou quasi-expérimentations) sont souvent plus modestes que dans d’autres secteurs des politiques publiques.
+a Cette interprétation suppose une distribution normale.
+b Kraft M. (2020) : « Interpreting Effect Sizes of Education Interventions », Educational Researcher, 49(4), p. 241-253.
+Au-delà des effets mesurés à court terme sur les performances scolaires, plusieurs études ont mis en évidence des 
+retombées significatives à long terme. Elles montrent qu’une réduction de la taille des classes au primaire est associée 
+à une probabilité accrue d’accéder à l’enseignement supérieur (Krueger et Whitmore, 2001 ; Chetty et al., 2011), ainsi 
+qu’à des revenus plus élevés à l’âge adulte (Fredriksson et al., 2013).
+Les études sur les effets de la taille des classes dans l’enseignement secondaire sont moins nombreuses que pour le 
+primaire et leurs résultats tendent à faire apparaître des effets plus modestes. En France, l’analyse conduite par Piketty 
+et Valdenaire (2006) montre qu’une réduction d’un élève par classe en 3e améliore les performances au diplôme du bre-
+vet de 0,80 % d’un écart-type en mathématiques et de 1,14 % en français, soit un effet moyen combiné de 0,97 % d’un 
+écart-type. C’est cette valeur que nous retenons pour le paramètre θ ans le calcul de l’indice EDP du dédoublement des 
+classes au collège.
+Il convient toutefois de ne pas interpréter le paramètre θ comme un effet marginal constant, c’est-à-dire comme si le 
+passage de 22 à 21 élèves avait le même impact que celui de 12 à 11. Une telle interprétation supposerait une linéarité 
+de la relation entre la taille des classes et les performances scolaires, ce que la littérature infirme. En effet, les travaux 
+récents – notamment Connolly et Haeck (2022) – montrent que l’effet marginal d’un élève en moins tend à croître à 
+mesure que la taille de la classe diminue Dans ce contexte, le paramètre θ doit être compris comme une interpolation 
+linéaire de l’effet global observé dans un scénario de dédoublement complet, typiquement le passage d’une classe de 
+22 à 11 élèves. Plutôt que de modéliser une simple réduction marginale (de 22 à 21 élèves, par exemple), nous adop-
+tons ici une approche fondée sur l’évaluation du dédoublement, car elle correspond aux estimations disponibles dans la 
+littérature et évite de faire des hypothèses structurelles sur la forme (probablement non linéaire) de la fonction d’effet.
+Concrètement, dans un scénario de dédoublement partant d’une situation où la taille moyenne des classes est de 
+22 élèves, chaque élève bénéficie d’une réduction d’effectif de Δn = 11 élèves, ce qui génère un gain total sur ses per-
+formances égal à θ11 =Δn×θ. Ce cadre permet d’intégrer l’effet cumulé du changement de structure pédagogique sans 
+surinterpréter les résultats empiriques comme des effets unitaires constants.
+Enfin, il est important de souligner que, quelle que soit l’approche retenue — réduction marginale ou dédoublement 
+complet —, l’indice EDP reste inchangé, à condition de retenir l’hypothèse que la taille des classes est un jeu à somme 
+nulle (voir discussion en Annexe). Cette hypothèse signifie que, pour un effectif d’élèves donné réparti dans un nombre 
+fixe de classes, le score moyen agrégé des élèves ne varie pas en fonction de la configuration des classes : les gains 
+
+===== PAGE 7 =====
+7
+Efficacité économique de la réduction de la taille des classes
+obtenus par certains élèves (dans des classes réduites) sont compensés par les pertes des autres (dans des classes 
+plus chargées).
+L’effet des compétences scolaires sur les salaires (δ)
+Le paramètre δ mesure l’impact d’une amélioration des compétences scolaires sur les revenus salariaux futurs. Il per-
+met de convertir les effets d’une politique éducative (comme le dédoublement des classes) sur les acquis scolaires en 
+gains économiques individuels, en traduisant une variation des scores aux évaluations standardisées en pourcentage 
+d’augmentation du revenu salarial à l’âge adulte.
+Nous estimons ce paramètre à partir des données du Panel d’élèves du second degré – recrutement 1995, apparié avec 
+l’enquête sur l’entrée dans la vie active (EVA) 2005-2012, seules sources disponibles en France permettant de croiser 
+des données éducatives précoces (collectées par la DEPP) avec des informations détaillées sur les caractéristiques 
+socio-économiques des parents, le suivi scolaire et la situation professionnelle à l’entrée dans la vie adulte. À partir de 
+ces données, nous estimons qu’une augmentation d’un écart-type des performances aux évaluations nationales de 6e 
+est associée à une amélioration de 9,5 % du revenu salarial à l’âge adulte, soit δ= 0,0956.
+Le taux marginal moyen d’imposition (τ)
+Le paramètre τ représente le taux marginal d’imposition applicable aux revenus du travail, incluant l’ensemble des pré-
+lèvements obligatoires : cotisations sociales (employeur et salarié, hors cotisations retraite), CSG, CRDS, et impôt sur le 
+revenu7. Il est exprimé en proportion du salaire super-brut, c’est-à-dire le coût du travail pour l’employeur (salaire brut 
+augmenté des cotisations sociales employeur).
+Nous excluons volontairement les cotisations retraite du calcul de τ, dans la mesure où celles-ci constituent un revenu 
+différé, reversé aux bénéficiaires au moment de la retraite, et ne représentent donc pas une ressource nette pour les 
+finances publiques8.
+Le paramètre τ est calculé comme suit :
+•	
+Selon les données les plus récentes de l’OCDE, le taux marginal moyen d’imposition s’élève en France à 
+58,17 % du salaire superbrut pour un célibataire sans enfant (OCDE, 2024b, Tableau 3.6).
+•	
+L’OCDE indique par ailleurs que le taux moyen de cotisations employeur s’appliquant au salaire 
+brut est de 36,3 %9. La relation entre le salaire superbrut et le salaire brut est donc la suivante : 
+salaire superbrut = (1 + 36,3 %) × salaire brut.
+•	
+Le taux global de cotisations retraite (régime de base + régime complémentaire) pour les employeurs et les 
+salariés est de 25,74 % en fonction du salaire brut. Pour exprimer ce taux en fonction du salaire superbrut, il 
+faut donc faire le calcul suivant : 25,74 % / (1+36,3 %) = 18,9 %
+Finalement, en retranchant la part des cotisations retraite (18,9 %) du taux marginal global d’imposition (58,17 %), on 
+obtient un taux marginal moyen d’imposition hors cotisations retraite de 39,27 % du salaire superbrut.
+Valeur actualisée des salaires futurs (we)
+Les bénéfices sociaux du dédoublement des classes sont ici mesurés à travers l’augmentation des salaires perçus par 
+les bénéficiaires à l’âge adulte. Ces revenus étant perçus tout au long de la vie active, il est nécessaire de les actualiser 
+à l’âge auquel la politique commence à produire ses effets, autrement dit à l’âge d’exposition (noté e).
+6 Pour le détail méthodologique de l’estimation, voir Fajeau M., Grenet J. et Laveissière E. (2025) : Focus n° 112, op. cit.
+7 Nous retenons le taux marginal d’imposition du revenu, car il permet de mesurer la part des gains salariaux supplémentaires captée par l’État sous 
+forme de prélèvements obligatoires. À la différence du taux moyen d’imposition, qui rapporte l’ensemble des prélèvements au revenu total, le taux 
+marginal reflète l’imposition effectivement appliquée à une variation de revenu, ce qui est pertinent dans le cadre d’une politique publique qui a pour 
+effet d’accroître les revenus individuels.
+8 Strictement parlant, cette affirmation n’est valable que sous l’hypothèse de neutralité actuarielle des régimes de retraite, c’est-à-dire lorsque les 
+droits à pension acquis sont équivalents, en valeur actualisée, aux cotisations versées (Legros, 1996). Nous retenons ici cette hypothèse, à des fins 
+de simplification du calcul de l’indice EDP.
+9 Ce taux est calculé en appliquant le taux moyen des cotisations employeurs exprimées en proportion du salaire superbrut (26,6 % - voir OCDE, 
+2024b, Tableau 1.2) au salaire superbrut moyen (83 034 € d’après le Tableau 1.2) avant de diviser le résultat par le salaire brut moyen (60 922 € 
+d’après le Tableau 1.3).
+
+===== PAGE 8 =====
+Focus, no 113, mai 2025
+8
+Nous notons we la valeur actualisée des salaires futurs dans le scénario contrefactuel, c’est-à-dire les revenus que les 
+bénéficiaires auraient perçus en l’absence de dédoublement des classes. Cette somme est actualisée à l’âge e, corres-
+pondant à l’âge théorique d’exposition à la politique : 6 ans pour le primaire, 11 ans pour le collège. La vie active est 
+supposée commencer à 23 ans et se terminer à 64 ans.
+La formule utilisée est la suivante :
+Où :
+•	
+e est l’âge d’exposition à la politique (6 ou 11).
+•	
+p(a) est la probabilité d’être en emploi à chaque âge a. Elle est estimée à partir des données de l’enquête 
+Emploi, ce qui permet de tenir compte des interruptions de carrière.
+•	
+w(a) est le salaire annuel super-brut en fonction de l’âge a, qui est estimé à partir des données issues des 
+Déclarations annuelles de données sociales (DADS).
+•	
+r est le taux d’actualisation, qui est fixé à 3 %, conformément aux conventions retenues par Chetty et al. (2011) 
+et Hendren et Sprung-Keyser (2020).
+Sous ces hypothèses, la valeur actualisée des revenus futurs est estimée à w6 = 441 356 € (actualisée à 6 ans, pour le 
+primaire) et w11 = 482 282 € (actualisée à 11 ans, pour le collège).
+Bénéfice social par élève du dédoublement des classes (ΔB)
+En combinant ces différents paramètres, le bénéfice social ΔB se calcule de la manière suivante :
+ΔB = Δn ⋅ θ ⋅ δ ⋅ we (1 – τ)
+Cette équation traduit la chaîne de transmission entre la réduction de la taille des classes et les gains économiques 
+pour les élèves bénéficiaires. Chaque élève voit ses compétences scolaires augmenter de Δn⋅θ, soit l’effet cumulé d’une 
+réduction de Δn élèves dans sa classe, multiplié par l’impact marginal θ d’un élève en moins sur les compétences. 
+Cette amélioration des acquis se traduit ensuite par une hausse attendue de ses revenus futurs, via le paramètre δ, 
+qui mesure l’effet des compétences sur les salaires. La somme actualisée des revenus sur la vie active (we) permet de 
+prendre en compte la distribution temporelle de ces gains. Enfin, le facteur (1-τ) permet d’exprimer le gain net perçu 
+par l’individu, une fois les prélèvements obligatoires (hors cotisations retraite) déduits.
+En appliquant cette formule aux paramètres présentés précédemment, le bénéfice par élève d’une année passée dans 
+une classe dédoublée est estimé à 4 538 € en primaire et à 3 509 € au collège.
+Coût par élève de déploiement de la politique de dédoublement (ΔC)
+Le coût par élève de mise en œuvre de la politique de dédoublement des classes peut être estimé en rapportant le coût 
+d’un enseignant supplémentaire — nécessaire pour chaque classe dédoublée — au nombre d’élèves initialement pré-
+sents dans la classe avant la mise en œuvre du dispositif. Cette approche permet de mesurer l’effort budgétaire unitaire 
+requis pour diviser par deux les effectifs d’une classe.
+L’estimation du coût par élève repose sur la formule suivante :
+Coût =
+Où :
+•	
+wens désigne le salaire brut annuel d’un enseignant. Selon la DEPP (2024a), il s’élevait en 2022 à 36 672 € dans 
+le premier degré et à 42 072 € dans le second degré (Tableau 2 p. 333).
+•	
+τens correspond au taux de cotisations employeur, exprimé en proportion du salaire brut, incluant les cotisa-
+tions sociales hors retraite et les cotisations finançant les pensions futures des enseignants. Le taux officiel 
+de pensions civiles des fonctionnaires de l’État est aujourd’hui fixé à 78,28 %, mais il comprend une part 
+wens (1 +τens)(1+c )
+n
+
+===== PAGE 9 =====
+9
+Efficacité économique de la réduction de la taille des classes
+importante de subvention d’équilibre destinée à couvrir la compensation démographique, soit l’écart du ratio 
+démographique du régime à celui du pays, qui explique qu’il soit très supérieur au taux en vigueur dans le 
+secteur privé (15,3 %). Pour une approche plus réaliste du coût des pensions des enseignants, nous retenons 
+à titre alternatif le taux de 34,65 %, qui est celui appliqué aux agents de la fonction publique territoriale et 
+hospitalière (CNRACL), dont le taux est défini de façon plus proche du coût actuariel des pensions des agents 
+concernés10. En rapportant l’ensemble des cotisations employeur applicables aux fonctionnaires de l’État, 
+auquel on ajoute taux de cotisation retraite retenu (34,65 %), au salaire brut des enseignants11, on obtient un 
+taux de cotisation τens de 45,94 % dans le premier degré et 43,35 % dans le second degré. Cela conduit à un 
+coût complet annuel de 53 520 € pour un enseignant du premier degré et de 60 311 € pour un enseignant du 
+second degré12.
+•	
+c est une majoration pour les coûts fixes non salariaux induits par le dédoublement (logistique, locaux), expri-
+mée en proportion du coût total d’un enseignant. Faute de données budgétaires permettant d’estimer préci-
+sément ces coûts dans le cadre de la politique de dédoublement des classes en REP et REP+, nous l’estimons 
+partir des informations fournies par la DEPP sur la structure de la dépense intérieure d’éducation (DEPP, 
+2024b, graphique p. 3). En rapportant la part des dépenses d’investissement dans la dépense d’intérieure 
+d’éducation (8,5 % en 2022) à la part représentée par les rémunérations, charges et pensions des enseignants 
+(48,8 %), nous obtenons une valeur estimée de 17,4 % (8,5 % / 48,8 %) pour ce paramètre.
+•	
+n désigne le nombre d’élèves par classe avant dédoublement, fixé à 22 pour le premier degré et 26 pour le 
+collège.
+À partir de ces paramètres, le coût par élève du dédoublement des classes en primaire est estimé à :
+Coût primaire =   
+= 2 856 €
+De manière similaire, le coût par élève du dédoublement de classes au collège est estimé à :
+Coût collège =  
+= 2 723 €
+Externalité fiscale par élève associée au dédoublement (ΔE)
+Le paramètre ΔE représente l’externalité fiscale, c’est-à-dire les recettes supplémentaires pour les finances publiques 
+générées par l’augmentation des revenus salariaux futurs des élèves bénéficiaires du dédoublement. En d’autres termes, 
+il s’agit de la part des gains économiques individuels récupérée par l’État via les prélèvements obligatoires, du fait de 
+l’effet positif de la politique sur les compétences scolaires.
+Cette externalité est calculée à partir des mêmes composantes que celles utilisées pour le bénéfice social ΔB, mais en 
+appliquant le taux marginal moyen d’imposition τ (hors cotisations retraite) :
+ΔE = Δn ⋅ δ ⋅ θ ⋅ (τ⋅we)
+En appliquant cette formule aux paramètres précédemment indiqués, l’externalité fiscale par élève est estimée à 2 934 € 
+en primaire et à 2 269 € au collège.
+10 Dans une note publiée en 2022, le Haut-Commissariat au Plan propose de retenir un taux de cotisation employeur et salarié de 28 % pour approcher 
+un taux « normal », correspondant à ce que verserait l’État s’il n’abondait pas ses cotisations pour équilibrer le système des retraites. Cette hypothèse 
+soulève toutefois deux limites : (1) elle ne prend pas en compte les avantages spécifiques offerts par le régime de retraite de la fonction publique, qui 
+justifient un niveau de cotisation plus élevé que dans le privé ; (2) les assiettes de cotisation de ces deux régimes diffèrent, notamment en raison de 
+l’exclusion des primes et indemnités dans la fonction publique, ce qui conduit mécaniquement à des taux plus importants pour assurer une couverture 
+équivalente. Pour tenir compte de ces spécificités, nous retenons une hypothèse alternative plus prudente, fondée sur le taux de cotisation retraite 
+qui s’applique aux agents de la fonction publique territoriale et hospitalière (CNRACL).
+11 Ces cotisations incluent : les cotisations obligatoires sur le traitement indiciaire brut, à savoir les cotisations maladie, maternité, invalidité et décès 
+(9,70 %), allocations familiales (5,25 %), contribution solidarité autonomie (0,30 %), FNAL (0,50 %), le versement mobilité (en retenant un taux moyen 
+de 1 %) ; la cotisation employeur au régime de retraite additionnelle de la fonction publique (5 % des primes et indemnités, plafonnée à 20 % du 
+traitement indiciaire brut) ; et les cotisations retraites calculées en appliquant le taux de la CNRACL (34,65 %) au traitement indiciaire brut.
+12 Sur le calcul du coût complet des enseignants, voir le tableau en annexe 2.
+36 672 × (1+45,94 %) × (1+17,4 %) 
+22
+42 072 × (1+43,35 %) × (1+17,4 %) 
+26
+
+===== PAGE 10 =====
+Focus, no 113, mai 2025
+10
+Résultats et limites de l’exercice pour le cas du dédoublement
+En combinant les expressions du bénéfice social (ΔB), du coût direct de la politique (ΔC) et de l’externalité fiscale (ΔE) par 
+élève, on obtient la formule suivante pour l’indice EDP appliqué au dédoublement des classes dans le primaire et au collège :
+En appliquant cette formule aux paramètres retenus, on obtient les résultats suivants :
+•	
+EDPprimaire = infinie : dans le cas du premier degré, l’externalité fiscale générée par la politique est supérieure 
+à son coût de mise en œuvre. Le dédoublement est donc autofinancé à long terme.
+•	
+EDPcollège = 7,7 : au collège, chaque euro net investi dans le dédoublement génère un bénéfice social de 
+7,70 euros pour les bénéficiaires. La politique reste ainsi très rentable, bien qu’elle ne soit pas autofinancée 
+à long terme.
+Ces résultats reflètent des effets pédagogiques plus importants du dédoublement dans le premier degré, où la relation 
+entre taille des classes et acquisition des compétences est mieux établie que dans le second degré. Le gain individuel 
+et l’externalité fiscale sont donc mécaniquement plus élevés.
+Dans la mesure où les bénéfices sociaux des politiques éducatives se manifestent à long terme alors que leurs coûts 
+sont supportés immédiatement lors de leur mise en œuvre, il est important de prendre en compte la dynamique tempo-
+relle des différentes composantes de l’indice EDP. Cela permet d’identifier à partir de quel horizon une politique devient 
+rentable ou autofinancée. 
+La figure 3 montre ces dynamiques dans le cas du dédoublement des classes au primaire. Le graphique du panel (a) 
+montre, en fonction du nombre d’années écoulées depuis l’entrée en vigueur du dispositif, l’évolution des trois compo-
+santes de l’indice : les bénéfices sociaux cumulés (ΔB), le coût brut pour l’État (ΔC) et l’externalité fiscale induite (ΔE). 
+On observe que l’externalité fiscale excède le coût brut au bout de 45 ans, ce qui signifie que la politique est autofinan-
+cée à cet horizon. Le graphique du panel (b) compare les bénéfices sociaux cumulés (ΔB) au coût net pour les finances 
+publiques (ΔC – ΔE). Il montre que le dédoublement devient socialement rentable (au sens où EDP > 1, c’est-à-dire 
+ΔB > ΔC – ΔE) au bout de 28 ans. 
+Figure 3. Dynamique des composantes de l’indice EDP du dédoublement des classe au primaire
+(a) Bénéfices sociaux (ΔB), coût de déploiement (ΔC) 	
+(b) Bénéfices sociaux (ΔB) et coût net (ΔC – ΔE) 
+et externalité fiscale (ΔE)	
+ 
+Notes : Le panel (a) montre l’évolution des trois composantes de l’indice EDP du dédoublement des classes au primaire, en fonction du nombre 
+d’années écoulées depuis le déploiement de la politique : les bénéfices sociaux cumulés (ΔB), le coût brut pour l’État (ΔC) et l’externalité 
+fiscale générée (ΔE), afin d’identifier le moment où la politique devient autofinancée (ΔE > ΔC). Le panel (b) compare l’évolution des bénéfices 
+sociaux cumulés (ΔB) avec celle du coût net pour la puissance publique (ΔC – ΔE), afin d’identifier à partir de quand la politique devient 
+socialement rentable (EDP > 1).
+-1000
+0
+1000
+2000
+3000
+4000
+5000
+6000
+17
+22
+27
+32
+37
+42
+47
+52
+57
+Montant par élève en €
+Nombre d’années depuis la mise en place de la politique (à 6 ans)
+Indice EDP supérieur à 1
+Les bénéfices sociaux du dédoublement 
+des classes de CP excèdent son coût net 
+après 25 ans
+Bénéfices sociaux cumulés ∆B
+Coût net cumulé ∆C – ∆E
+0
+1000
+2000
+3000
+4000
+5000
+6000
+17
+22
+27
+32
+37
+42
+47
+52
+57
+Montant par élève en €
+Nombre d’années depuis la mise en place de la politique (à 6 ans)
+Le dédoublement des classes de CP
+est autofinancé au bout de 45 ans
+Bénéfices sociaux cumulés ∆B
+Externalité fiscale ∆E
+
+===== PAGE 11 =====
+11
+Efficacité économique de la réduction de la taille des classes
+L’analyse qui précède se concentre sur deux paramètres clés de la chaîne de transmission : l’effet d’un élève en moins 
+par classe sur les compétences scolaires (θ), et l’effet de ces compétences sur les salaires futurs (δ). L’indice reste 
+supérieur à 1 — ce qui signifie que la politique est rentable du point de vue de la société — tant que les conditions sui-
+vantes sont vérifiées (à autres paramètres constants)  :
+Degré d’enseignement
+θ : effet d’un élève en moins sur les 
+compétences scolaires (en écart-type)
+δ : impact des compétences scolaires sur 
+les salaires futurs
+Primaire
+0,62 %
+3,64 %
+Collège
+0,46 %
+4,48 %
+Ces seuils demeurent inférieurs aux valeurs généralement estimées dans la littérature, qui identifie le plus souvent l’ef-
+fet d’un élève en moins sur les compétences scolaires supérieur à 1 % d’écart-type (θ) et un effet des compétences sco-
+laires sur les salaires futurs supérieur à 9,5 % (δ). Ce constat est particulièrement robuste pour l’enseignement primaire, 
+où les études expérimentales et quasi expérimentales sont nombreuses. En revanche, les résultats sont plus incertains 
+pour le collège, du fait d’un corpus d’études plus restreint et de résultats plus hétérogènes. Certaines recherches 
+(Angrist et al., 2019 ; Leuven et al., 2008) trouvent en effet des effets non significatifs, ce qui invite à interpréter l’EDP 
+du dédoublement des classes au collège avec prudence.
+Plus généralement, la figure 4 analyse la sensibilité de l’indice EDP du dédoublement des classes au primaire au taux 
+d’actualisation (r) et aux paramètres retenus pour l’impact d’un élève en moins par classe sur les compétences scolaires 
+(θ) et le rendement salarial des compétences scolaires (δ). Les graphiques présentés montrent que, même en adoptant 
+un taux d’actualisation élevé (r = 5 %), la politique demeure rentable pour des valeurs des paramètres θ et δ  inférieures 
+à celles généralement retenues dans la littérature.
+Figure 4. Sensibilité de l’indice EDP de la taille des classes aux paramètres r (taux d’actualisation), θ (impact d’un 
+élève en moins par classe sur les performances scolaires) et δ (rendement salarial des compétences scolaires)
+(a)	
+En fonction de r et θ 	
+	
+	
+	
+	
+(b) En fonction de r et δ
+ 
+Notes : Le panel (a) présente la valeur de l’indice EDP du dédoublement des classes de CP au primaire en fonction de l’impact d’un élève en 
+moins par classe sur les performances scolaires (paramètre θ), pour différentes valeurs du taux d’actualisation (r), en maintenant constant le 
+rendement salarial des compétences scolaires (paramètre δ), fixé à 9,5 % conformément à l’estimation retenue dans le Focus n° 112 ; le panel 
+(b) réalise le même exercice, cette fois en faisant varier la valeur du paramètre δ, tout en maintenant le paramètre θ à sa valeur estimée dans le 
+présent Focus (1,62 %).
+Il convient toutefois de souligner que l’indice EDP calculé ici ne prend pas en compte l’ensemble des retombées posi-
+tives d’une réduction de la taille des classes, et constitue donc une estimation conservatrice de la rentabilité sociale de 
+la politique. En particulier, plusieurs externalités positives de la réduction de la taille des classes ne sont pas intégrées 
+dans le calcul : par exemple, les effets potentiels de long terme sur la réduction de la criminalité, induits par un niveau 
+d’éducation plus élevé, ou encore l’amélioration des conditions de travail des enseignants, rendue possible par des 
+classes moins chargées. Ces dimensions qualitatives sont régulièrement mises en avant dans les enquêtes internatio-
+nales. Ainsi, d’après les résultats de l’enquête Talis 2018 menée par l’OCDE, 87 % des professeurs des écoles en France 
+considèrent que la réduction de la taille des classes devrait constituer une priorité en cas d’augmentation du budget 
+alloué à l’Éducation nationale, faisant de cette mesure la plus fréquemment citée par les enseignants du primaire (DEPP 
+(2021) : Note d’information n° 21.34).
+0,0%
+3,0%
+6,0%
+9,0%
+12,0%
+15,0%
+0
+1
+2
+3
+4
+5
+6
+Impact salarial d’une augmentation d’un écart-type des compétences scolaires
+Indice d’efficacité de la dépense publique
+Seuil de rentabilité
+Valeur estimée par le CAE 
+(Focus n°112)
+3,64%
+r = 1,0%
+r = 3,0%
+r = 5,0%
+Taux d’actualisation
+Avec un taux d’actualisation de 3,0%, 
+la politique devient rentable 
+(EDP >1) si δ > 3,64
+9,5%
+0,0%
+0,5%
+1,0%
+1,5%
+2,0%
+2,5%
+0
+1
+2
+3
+4
+5
+6
+Effet d’un élève en moins par classe sur les performances scolaires
+Indice d’efficacité de la dépense publique
+Seuil de rentabilité
+Valeur retenue 
+(DEPP 2021)
+0,62%
+r = 1,0%
+r = 3,0%
+r = 5,0%
+Taux d’actualisation
+Avec un taux d’actualisation de 3,0%, 
+la politique devient rentable 
+(EDP >1) si θ > 0,62%
+1,62%
+
+===== PAGE 12 =====
+Focus, no 113, mai 2025
+12
+Conclusion
+Le dédoublement des classes constitue un cas d’étude privilégié pour appliquer le cadre méthodologique de l’indice 
+d’efficacité de la dépense publique à une politique éducative empiriquement bien documentée.
+Le calcul des indices EDP associés à cette politique en primaire et au collège montre qu’elle génère vraisemblablement 
+un retour sur investissement élevé. Sous les hypothèses retenues, le dédoublement des classes en primaire produit une 
+externalité fiscale supérieure à son coût de déploiement, ce qui en fait une politique autofinancée. Au collège, bien que 
+le seuil d’autofinancement ne soit pas atteint, l’indice EDP reste nettement supérieur à un, traduisant un gain social 
+supérieur à 7 euros par bénéficiaire pour chaque euro net investi par la puissance publique. La réduction de la taille des 
+classes apparaît ainsi comme une politique à forte rentabilité sociale, en particulier dans le premier degré.
+Cette évaluation, bien qu’incomplète car limitée aux gains salariaux individuels, confirme que la réduction ciblée des 
+effectifs peut améliorer les trajectoires éducatives tout en renforçant les retombées collectives de l’investissement 
+public. Elle ne prend pas en compte certaines externalités positives – notamment l’amélioration des conditions de 
+travail des enseignants dans des classes moins chargées – qui pourraient encore amplifier les effets bénéfiques de la 
+mesure.
+Bien que la France ait amorcé une baisse des effectifs dans le premier degré — sous l’effet combiné de la politique de 
+dédoublement en éducation prioritaire et de la baisse démographique — elle reste en retrait par rapport aux standards 
+internationaux en matière de taille moyenne des classes et de taux d’encadrement. Les résultats de ce Focus plaident 
+en faveur d’une mobilisation des marges budgétaires ouvertes par la baisse démographique pour poursuivre la réduire 
+de la taille des classes là où les effets sont les mieux établis. Cela impliquerait, dans le premier degré, de prioriser les 
+niveaux non encore couverts par le dédoublement dans les réseaux d’éducation prioritaire (petite et moyenne sec-
+tions, CE2, voire CM1 et CM2). Hors éducation prioritaire, une politique ciblée pourrait également concerner les écoles 
+accueillant les élèves les plus socialement défavorisés. Au collège, les effets attendus d’une réduction de la taille des 
+classes restent plus incertains, ce qui justifie la mise en place d’une expérimentation ciblée sur un échantillon d’établis-
+sements. Une évaluation rigoureuse, menée dès la première année de mise en œuvre, permettrait de préciser le péri-
+mètre et l’intensité à envisager pour cette politique.
+
+===== PAGE 13 =====
+13
+Efficacité économique de la réduction de la taille des classes
+Bibliographie
+Angrist J., et Lavy V. (1999) : « Using Maimonides’ Rule to Estimate the Effects of Class Size on Scholastic Achieve-
+ment », The Quarterly Journal of Economics, 114(2), p. 533-575.
+Angrist J., et Lavy V. (2019) : « Maimonides’ Rule Redux », American Economic Review : Insights, 1(3), p. 309-324.
+Becker G. (1964) : Human Capital. A Theorical and Empirical Analysis with Special Reference to Education, Columbia 
+University Press.
+Bouguen A., Grenet J. et Gurgand M. (2027) : « La taille des classes influence-t-elle la réussite scolaire ? », Note IPP 
+n° 28, Institut des politiques publiques.
+Bressoux P. Kramarz F., et Prost C. (2009) : « Teachers’ Training, Class Size and Students’ Outcomes : Learning from 
+Administrative Forecasting Mistakes », The Economic Journal, 119(536), p. 540-561.
+Bressoux P., et Lima L. (2011) : « La place de l’évaluation dans les politiques éducatives : le cas de la taille des classes 
+à l’école primaire en France », Raisons éducatives, 15.
+Browning M., et Heinesen E. (2007) : « Class Size, Teach Hours and Educational Attainment », Scandinavian Journal of 
+Economics, 102(2), p. 415-438
+Card D. (1999) : « The causal effect of education on earnings », Handbook of Labor Economics, Vol. 3, p. 1801-1863.
+Chetty R. et al. (2011) : « How Does Your Kindergarten Classroom Affect Your Earnings? Evidence from Project Star 
+Get access Arrow », The Quarterly Journal of Economics, 126(4), novembre, p. 1593-1660.
+Connolly M. et Haeck C. (2022) : « Nonlinear Class Size Effects on Cognitive and Noncognitive Development of Young 
+Children », Journal of Labor Economics, 40(S1), p. 341-383.
+DEPP (2021) : « Évaluation de l’impact de la réduction de la taille des classes de CP et CE1 en REP+ sur les résultats 
+des élèves et les pratiques des enseignants », document de travail n° 2021-E04.
+DEPP (2024a) : Panorama statistique des personnels de l’enseignement scolaire 2023-2024, Direction de l’évaluation, 
+de la prospective et de la performance, ministère de l’Éducation nationale.
+DEPP (2024b) : L’Éducation nationale en chiffres 2024, Direction de l’évaluation, de la prospective et de la perfor-
+mance, ministère de l’Éducation nationale.
+Evain F. (2024) : « Taille des classes du premier degré : une septième année de baisse consécutive », Note d’informa-
+tion, n° 24.10, Direction de l’évaluation, de la prospective et de la performance.
+Evain F. (2025) : « Taille des classes dans le premier degré : une huitième année de basse consécutive dans les écoles 
+publiques », Note d’information, n° 25-01, Direction de l’évaluation, de la prospective et de la performance.
+Fredriksson P., Öckert B., et Oosterbeek H. (2013) : « Long-Term Effects of Class Size », The Quarterly Journal of Econo-
+mics, 128(1), p. 259-285.
+Hendren N. et Sprung-Keyser B. (2020) : « A Unified Welfare Analysis of Government Policies », The Quarterly Journal of 
+Economics, 135 (3), p. 1209-1318.
+Hendren N. et Sprung-Keyser B. (2022) : « The Case for Using the MVPF in Empirical Welfare Analysis », NBER Working 
+Paper No. 30029.
+Iversen J., et Bonesrønning H. (2013) : « Disadvantaged Students in the Early Grades : Will Smaller Classes Help 
+Them? », Education Economics, 21(4), p. 305-324.
+Kraft M. (2020) : « Interpreting Effect Sizes of Education Interventions », Educational Researcher, 49(4), p. 241-253.
+Krueger A. (1999) : « Experimental Estimates of Education Production Functions », The Quarterly Journal of Economics, 
+113(2), p. 497-532.
+Krueger A. et Whitmore D. (2001) : « The Effect of Attending a Small Class in the Early Grades on College-Test Taking 
+and Middle School Test Results : Evidence from Project STAR », The Economic Journal, 111(468), p. 1-28.
+Legros F. (1996) : « Neutralité actuarielle et propriétés redistributives des systèmes de retraite », Economie et Statis-
+tiques, nos 291-292, p. 173-183.
+Leuven E., Oosterbeek H., et Rønning M. (2008) : « Quasi-Experimental Estimates of the Effect of Class Size in 
+Norway », Scandinavian Journal of Economics, 110(4), p. 663-693.
+
+===== PAGE 14 =====
+Focus, no 113, mai 2025
+14
+OCDE (2024a) : Regards sur l’éducation 2024 : Les indicateurs de l’OCDE, Éditions OCDE, Paris
+OCDE (2024b) : Les impôts sur les salaires 2024 (version abrégée) : La fiscalité et le genre sous l’angle du deuxième 
+apporteur de revenu, Éditions OCDE, Paris.
+Piketty T. et Valdenaire M. (2006) : L’impact de la taille des classes sur la réussite scolaire dans les écoles, collèges et 
+lycées français - Estimations à partir du panel primaire 1997 et du panel secondaire 1995, ministère de l’Éducation 
+nationale.
+Urquiola M. (2006) : « Identifying Class Size Effects in Developing Countries : Evidence from Rural Bolivia », The Review 
+of Economics and Statistics, 88(1), p. 171–177.
+
+===== PAGE 15 =====
+15
+Efficacité économique de la réduction de la taille des classes
+Annexe
+Annexe 1. Peut-on extrapoler l’EDP du dédoublement 
+à une réduction marginale de la taille des classes ?
+Il est légitime de se demander si l’efficacité d’une réduction marginale de la taille des classes – comme le passage de 
+22 à 21 élèves – peut être évaluée à partir de l’EDP estimé pour un dédoublement complet. Sous quelles conditions ces 
+deux approches produisent-elles des résultats comparables ?
+Interprétation des effets estimés dans la littérature
+La littérature académique estime généralement l’impact de la taille des classes à partir de variations impliquant des 
+réductions substantielles du nombre d’élèves – en particulier dans le cadre de politiques le dédoublement des classes 
+— plutôt qu’à partir de diminutions marginales (comme le passage de 22 à 21 élèves). Or, l’ampleur de la variation des 
+effectifs diffère sensiblement d’une étude à l’autre : certaines portent sur un passage de 30 à 20 élèves, d’autres de 24 
+à 11, etc. Afin de rendre ces estimations comparables, il est d’usage de rapporter systématiquement les effets mesurés 
+à une unité commune : l’effet d’un élève en moins. Cette normalisation facilite les comparaisons mais ne doit pas être 
+interprétée littéralement : elle ne suppose pas que l’effet marginal soit constant quel que soit le niveau initial d’effectifs.
+Par exemple, dans le cadre l’expérimentation STAR menée dans l’État du Tennessee en 1986, les élèves ont été affec-
+tés aléatoirement à des classes de petite taille (environ 15 élèves) ou de grande taille (environ 22 élèves), soit une dif-
+férence moyenne de 7 élèves par classe. En comparant les performances des élèves de maternelle assignés aux deux 
+types de classe, Kruger (1999) montre que ceux qui ont été affectés aux classes réduites ont obtenu des résultats 
+supérieurs d’environ 20 % d’un écart-type aux évaluations standardisées par rapport à ceux affectés dans les grandes 
+classes. Rapporté à un élève en moins, cela correspond à un effet moyen de 3 % d’un écart-type (0,20 / 7). Cet effet ne 
+doit pas cependant être compris comme impliquant qu’une réduction d’un élève — de 22 à 21, puis de 21 à 20, etc. — 
+génère à chaque fois une amélioration constante de 3 %. Il est plus vraisemblable que l’effet marginal croisse à mesure 
+que la taille des classes diminue, comme le confirme une étude récente de Connolly et Haeck (2022). L’effet de 3 % doit 
+ainsi être interprété comme une interpolation linéaire de l’effet sur l’intervalle allant de 22 à 15 élèves, et non comme 
+une approximation d’un effet marginal constant.
+Dédoublement vs réduction marginale de la taille des classes
+Pour se conformer aux variations de la taille des classes qui ont été estimées dans la littérature, ce Focus évalue l’indice 
+EDP associé à un dédoublement des classes – c’est-à-dire une réduction des effectifs de 22 à 11 élèves en primaire, et 
+de 26 à 13 au collège – plutôt qu’une réduction marginale, comme passer de 22 à 21 élèves.
+Cependant, d’un point de vue opérationnel, le dédoublement n’est pas la seule option envisageable : une politique édu-
+cative pourrait viser une diminution plus progressive des effectifs. Se pose alors une question importante pour la déci-
+sion publique : l’EDP estimé dans un scénario de dédoublement peut-il être extrapolé à une réduction plus marginale de 
+la taille des classes ?
+On peut montrer que ces deux politiques — le dédoublement complet et la diminution marginale — ne sont équivalentes 
+que sous une condition spécifique mais réaliste sur la forme de la relation entre la taille de la classe et les performances 
+des élèves. Si l’on note y la performance d’un élève et n le nombre d’élèves dans la classe, cette relation doit vérifier la 
+forme fonctionnelle suivante :
+y = a + b/n 	
+(A.1)
+où a et b sont deux constantes, avec b > 0.
+Cette relation implique que les bénéfices d’une réduction d’un élève par classe sont d’autant plus importants que la 
+taille initiale de la classe est faible : il s’agit donc d’une fonction non linéaire avec rendements marginaux croissants. 
+Autrement dit, réduire une classe de 12 à 11 élèves produit un gain supérieur à celui obtenu en passant de 22 à 21.
+Cette spécification présente en outre une propriété importante : elle garantit que la taille des classes constitue un 
+« jeu à somme nulle ». Cela signifie que, pour un effectif d’élèves donné réparti dans un nombre fixe de classes, la 
+
+===== PAGE 16 =====
+Focus, no 113, mai 2025
+16
+performance moyenne globale des élèves reste constante quelle que soit la répartition. Autrement dit, les gains des uns 
+(dans des classes plus petites) sont exactement compensés par les pertes des autres (dans des classes plus chargées)
+Sous cette hypothèse, on peut montrer que L’EDP d’une réduction marginale de la taille des classes est identique à celui 
+d’un dédoublement, à coût égal. Pour illustrer ce résultat, considérons un cadre stylisé avec 21 classes de 22 élèves. 
+On compare deux scénarios :
+•	
+Politique A (dédoublement ciblé) : on recrute un enseignant supplémentaire pour dédoubler l’une des 21 
+classes. Une seule classe est concernée, mais ses 22 élèves bénéficient du passage de 22 à 11 élèves.
+•	
+Politique B (réduction marginale généralisée) : on retire un élève dans chacune des 21 classes, permettant de 
+constituer une 22e classe de 21 élèves avec un enseignant supplémentaire. Tous les élèves bénéficient d’une 
+réduction d’un élève dans leur classe (passage de 22 à 21).
+Dans les deux cas, le coût est identique : un poste d’enseignant supplémentaire. Ce qu’il suffit alors de démontrer, c’est 
+que le gain total agrégé sur les performances scolaires est le même dans les deux scénarios. Les deux politiques auront 
+le même EDP, même si leur mode d’allocation des ressources (concentré vs diffus) est différent.
+Indice EDP de la politique A (dédoublement ciblé). Dans ce scénario, le bénéfice de la politique est concentré sur les 22 
+élèves de la classe dédoublée. Ces élèves voient la taille de leur classe réduite de moitié, passant de 22 à 11 élèves. 
+En supposant que la relation entre la performance individuelle (y) et la taille de la classe (n) suit la relation donnée par 
+l’équation (A.1), le gain pour chaque élève peut être calculé comme la différence entre son score dans une classe de 
+11 et 22 élèves :
+Comme 22 élèves bénéficient de cette amélioration, le gain total pour l’ensemble des bénéficiaires est égal à b.
+Indice EDP de la politique B (réduction marginale généralisée). Dans ce second scénario, le bénéfice est réparti sur l’en-
+semble des élèves des 21 classes initiales. Chaque classe perd un élève, passant de 22 à 21 élèves. Une nouvelle classe 
+de 21 élèves est créée, ce qui signifie que les 462 élèves (21 × 22) bénéficient chacun d’une réduction d’un élève dans 
+leur classe. D’après l’équation (A.1), le gain pour chaque élève passant de 22 à 21 élèves est donné par :
+Puisque 462 élèves bénéficient de ce gain, le bénéfice total est égal à b.
+On retrouve donc le même gain total que dans la politique A. Cela signifie que, pour un même coût, les deux politiques 
+(dédoublement ciblé vs réduction marginale généralisée) produisent le même bénéfice global en termes de perfor-
+mances scolaires. Leur indice EDP est donc identique.
+Interprétation du paramètre θ et comparaison entre effets marginaux et effets globaux
+Les effets de la taille des classes rapportés dans la littérature correspondent le plus souvent à des réductions substan-
+tielles des effectifs, comme dans le cas du dédoublement. Notons β l’effet global observé sur les performances d’un 
+élève assigné à une classe dédoublée par rapport à une classe ordinaire.
+Dans notre cadre théorique, où la performance moyenne d’un élève est modélisée par une fonction de la forme 
+y = a + b/n, cet effet global s’écrit :
+
+===== PAGE 17 =====
+17
+Efficacité économique de la réduction de la taille des classes
+où n0 est la taille de classe initiale (avant dédoublement).
+Le paramètre θ utilisé dans le calcul l’indice EDP exprime cet effet « par élève en moins », en divisant l’effet total observé 
+par la variation de la taille des classes (soit n0 /2 dans le cas d’un dédoublement). Cela implique que :
+Mais si l’on souhaite estimer l’impact marginal réel d’un élève en moins à partir de la valeur θ, sous l’hypothèse que la 
+relation entre performances scolaires et taille des classes vérifie l’équation (A.1), il faut ajuster cette estimation pour 
+tenir compte de la non-linéarité de la relation. L’effet marginal (passer de n0 à n0 - 1) s’écrit alors :
+Pour retrouver cet effet marginal à partir du paramètre θ, il suffit de diviser ce dernier par 2(n0 – 1)/n0. En effet :
+Dans notre exemple, en partant d’un effet θ estimé à 1,62 % d’un écart type (ce qui correspond à l’estimation moyenne 
+par la DEPP de l’impact du dédoublement des classes de CP en REP + sur les performances scolaires, exprimé par élève 
+en moins), le « vrai » effet marginal du passage de 22 à 21 élèves dans une classe s’obtient en ajustant θ à l’aide du 
+facteur correctif évoqué ci-dessus :
+Autrement dit, réduire une classe de 22 à 21 élèves améliorerait en moyenne les performances de chaque élève de 
+0,85 % d’un écart-type, soit presque deux fois moins que l’estimation brute. Ce calcul permet de retrouver un effet glo-
+bal identique dans les deux scénarios :
+•	
+dédoubler une classe de 22 élèves entraîne un gain agrégé de performance égal à 22 élèves × 11 élèves en 
+moins x 0,0162 ≈ 3,9 écarts-types ;
+•	
+réduire d’un élève les effectifs de 21 classes de 22 élèves entraîne un gain agrégé de performance égal à 
+462 élèves x 0,0085 ≈ 3,9 écarts-types.
+Ce raisonnement montre que les estimations issues de la littérature sur l’effet de la taille des classes doivent être inter-
+prétées avec prudence : elles ne traduisent pas un effet marginal constant, mais plutôt un effet moyen interpolé sur 
+une plage de réduction importante. Néanmoins, sous l’hypothèse où la relation entre la taille des classes et les perfor-
+mances suit une loi en 1/n, l’indice EDP d’une réduction marginale reste équivalent à celui mesuré dans le cadre d’un 
+dédoublement.
+
+===== PAGE 18 =====
+Focus, no 113, mai 2025
+18
+Annexe 2. Calcul du coût complet d’un enseignant
+1er degré
+2nd degré
+Traitement indiciaire brut
+2 678 €
+2 883 €
+Primes
+378 €
+623 €
+Total brut mensuel
+3 056 €
+3 506 €
+Total brut annuel
+36 672 €
+42 072 €
+Cotisations
+taux
+MIS
+9,70 %
+260 €
+280 €
+Allocations familiales
+5,25 %
+141 €
+151 €
+CSA
+0,30 %
+8 €
+9 €
+FNAL
+0,50 %
+13 €
+14 €
+Versement mobilité
+1 %
+26,78 €
+29 €
+ATI
+0,32 %
+9 €
+9 €
+RAFP
+5 %
+19 €
+29 €
+retraites CNRACL*
+34,65 %
+928 €
+999 €
+Total cotisations
+1 404 €
+1 520 €
+taux de cotisation global 
+en % du brut
+45,94 %
+43,35 %
+Coût employeur (mensuel)
+4 460 €
+5 026 €
+Coût employeur (annuel)
+53 520 €
+60 311 €
+* Bien que le taux des cotisations retraite employeur applicable au traitement indiciaire brut des enseignants du secteur public soit 
+officiellement de 78,28 %, ce taux comprend une part importante de subvention d’équilibre destinée à couvrir la compensation démographique, 
+soit l’écart du ratio démographique du régime à celui du pays. Pour une approche plus réaliste du coût des pensions des enseignants, nous 
+retenons à titre alternatif le taux de 34,65 %, qui est celui appliqué aux agents de la fonction publique territoriale et hospitalière (CNRACL), dont 
+le taux est défini de façon plus proche du coût actuariel des pensions des agents concernés.
+Le Conseil d’analyse économique, créé auprès du Premier ministre, a pour mission d’éclairer, par la confrontation 
+des points de vue et des analyses de ses membres, les choix du gouvernement en matière économique.
+Toutes les publications du Conseil d’analyse 
+économique sont téléchargeables sur son site : 
+www.cae-eco.fr
+ISSN 2971-3560 (imprimé)
+ISSN 2999-2524 (en ligne)
+Contact Presse Hélène Spoladore 
+helene.spoladore@cae-eco.fr — Tél. : 01 42 75 77 47
+TSA 20727, 75334 PARIS Cedex 07 — Téléphone : 01 42 75 76 84 — @CAE-eco(LinkedIn) @caeeco.bsky.social — www.cae-eco.fr
+Président délégué Xavier Jaravel
+Secrétaire générale Hélène Paris
+Conseillers scientifiques 
+Jean Beuve, Claudine Desrieux,  
+Maxime Fajeau, Arthur Poirier
+Économistes/Chargés d’études 
+Nicolas Grimprel, Lucie Huang, Alice Lapeyre, 
+Emma Laveissière, Antoine Lopes
+Membres Adrien Auclert, Emmanuelle Auriol, 
+Antoine Bozio, Sylvain Chassang, Anne Epaulard, 
+Gabrielle Fack, François Fontaine, Julien Grenet, 
+Maria Guadalupe, Fanny Henriet, Xavier Jaravel, 
+Sébastien Jean, Camille Landais, Isabelle Méjean, 
+Thomas Philippon, Xavier Ragot, Alexandra Roulet, 
+Katheline Schubert, Jean Tirole
+Correspondants
+Dominique Bureau, Anne Perrot, Aurélien Saussay, 
+Ludovic Subran

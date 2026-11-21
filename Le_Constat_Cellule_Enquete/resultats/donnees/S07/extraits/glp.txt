@@ -1,0 +1,2356 @@
+
+=== page 1 ===
+ 
+ 
+Expansionary Austerity: 
+New International Evidence 
+ 
+Jaime Guajardo, Daniel Leigh, and 
+Andrea Pescatori 
+ 
+WP/11/158
+
+=== page 2 ===
+ 
+© 2011 International Monetary Fund 
+WP/11/158  
+ 
+ 
+ 
+ 
+IMF Working Paper 
+ 
+ 
+ 
+Research Department  
+ 
+Expansionary Austerity: New International Evidence 
+ 
+Prepared by Jaime Guajardo, Daniel Leigh, and Andrea Pescatori  
+ 
+Authorized for distribution by Petya Koeva Brooks 
+ 
+July 2011  
+ 
+Abstract 
+ 
+This Working Paper should not be reported as representing the views of the IMF. 
+The views expressed in this Working Paper are those of the author(s) and do not necessarily represent 
+those of the IMF or IMF policy. Working Papers describe research in progress by the author(s) and are 
+published to elicit comments and to further debate.
+ 
+This paper investigates the short-term effects of fiscal consolidation on economic activity in
+OECD economies. We examine the historical record, including Budget Speeches and IMF
+documents, to identify changes in fiscal policy motivated by a desire to reduce the budget
+deficit and not by responding to prospective economic conditions. Using this new dataset,
+our estimates suggest fiscal consolidation has contractionary effects on private domestic 
+demand and GDP. By contrast, estimates based on conventional measures of the fiscal policy
+stance used in the literature support the expansionary fiscal contractions hypothesis but
+appear to be biased toward overstating expansionary effects. 
+ 
+JEL Classification Numbers: E32, E62, H20, H5, N10 
+ 
+Keywords:  Fiscal policy, taxation, government expenditure, output fluctuations 
+ 
+Author’s E-Mail Address: jguajardo@imf.org; dleigh@imf.org; apescatori@imf.org  
+ 
+ 
+ 
+ 
+
+=== page 3 ===
+ 
+2 
+ 
+ 
+Contents 
+Page 
+I. Introduction ............................................................................................................................3 
+II. Identifying Fiscal Consolidation ...........................................................................................5 
+A. The Conventional Approach .....................................................................................6 
+B. The Historical Approach ...........................................................................................8 
+C. Comparing the Two Approaches .............................................................................10 
+III. Effect of Fiscal Consolidation on Economic Activity .......................................................11 
+A. Baseline Specification .............................................................................................12 
+B. Estimation Results ...................................................................................................12 
+C. Robustness ...............................................................................................................15 
+IV. Extensions ..........................................................................................................................20 
+A. The Role of International Trade ..............................................................................21 
+B. The Role of Composition ........................................................................................24 
+C. The Role of Perceived Sovereign Risk ...................................................................28 
+V. Conclusion ..........................................................................................................................29 
+ 
+Appendix. Comparison of Fiscal Consoldiation Series and Change in CAPB ........................30 
+ 
+References ................................................................................................................................37 
+ 
+ 
+ 
+ 
+
+=== page 4 ===
+ 
+3 
+ 
+I.   INTRODUCTION1 
+ 
+The literature remains divided regarding the short-term effects of budget deficit reduction. A 
+standard implication of Keynesian models is that cutting government spending or raising 
+taxes has contractionary effects on aggregate demand in the short term. On the other hand, 
+this standard implication can theoretically be overturned, as Blanchard (1990) explains. For 
+example, a small increase in taxes today may reduce the need for a larger, more disruptive, 
+fiscal adjustment later. It may also signal that there will be substantial tax cuts in the future. 
+By raising households’ expected future disposable income and by increasing the confidence 
+of investors, fiscal consolidation can thus stimulate private consumption and investment even 
+in the short term, a phenomenon known as “expansionary fiscal contraction” or 
+“expansionary austerity.” 
+ 
+A large empirical literature provides evidence in favor of the expansionary fiscal contractions 
+hypothesis. In seminal contributions, Giavazzi and Pagano (1990, 1996) show that fiscal 
+consolidations are sometimes correlated with expansions in private consumption within one 
+year. They present evidence based on case studies and regressions of private consumption on 
+cyclically-adjusted government revenue and spending for a panel of OECD economies. 
+Similarly, using case studies, Alesina and Perotti (1997) find that fiscal consolidations are 
+sometimes correlated with rapid output growth, particularly if implemented by cutting 
+government spending rather than by increasing taxes. These findings have been confirmed by 
+subsequent research based on larger samples of countries and years, including the recent 
+paper of Alesina and Ardagna (2010). 
+ 
+This paper suggests that the standard method used to identify fiscal consolidation in the 
+literature may bias the analysis toward finding support for the expansionary austerity 
+hypothesis. The conventional approach is to identify discretionary changes in fiscal policy 
+using a statistical concept such as the change in the cyclically-adjusted primary balance 
+(CAPB). As this paper explains, changes in cyclically-adjusted fiscal variables often include 
+non-policy changes correlated with other developments affecting economic activity. For 
+example, a boom in the stock market improves the CAPB by increasing capital gains and 
+cyclically-adjusted tax revenues. It is also likely to reflect developments that will raise 
+private consumption and investment. Such measurement error is thus likely to bias the 
+analysis towards downplaying contractionary effects of deliberate fiscal consolidation. 
+Moreover, a rise in the CAPB may reflect a government’s decision to raise taxes or cut 
+                                                 
+1 We are especially grateful to Olivier Blanchard, Valerie Ramey, and David Romer for valuable feedback. We 
+are also grateful to Abdul Abiad, Laurence Ball, Bergljot Barkbu, John Bluedorn, Petya Koeva Brooks, Jörg 
+Decressin, Pete DeVries, Rupa Duttagupta, Charles Freedman, Douglas Laxton, Paolo Mauro, Ashoka Mody, 
+Adam Posen, Alasdair Scott and Matthew Shapiro for helpful comments, and to Alberto Alesina and Silvia 
+Ardagna for sharing their database on cyclically-adjusted fiscal indicators with us. Thanks also to seminar 
+participants at Banca d’Italia, the Bank of Spain, Bocconi University, Bruegel, the European Central Bank, the 
+European Commission, the International Monetary Fund, the Ireland Department of Finance, the London 
+School of Economics, the NBER’s Program in Monetary Economics, the Peterson Institute, and Trinity College 
+Dublin. Murad Omoev, Min Song, and Jessie Yang provided excellent research assistance. This is a revised and 
+extended version of the analysis that was reported in IMF (2010). 
+
+=== page 5 ===
+ 
+4 
+ 
+spending to restrain domestic demand and reduce the risk of overheating. In this case, using 
+the rise in the CAPB to measure the effect of fiscal consolidation on economic activity would 
+suffer from reverse causality and bias the analysis towards supporting the expansionary fiscal 
+contractions hypothesis.  
+ 
+A related literature identifies discretionary changes in fiscal policy using a structural VAR 
+approach. For example, the seminal research of Blanchard and Perotti (2002) uses this 
+approach to assess the impact of changes in government purchases and revenues on output 
+using quarterly U.S. data. To identify fiscal policy shocks, they use institutional information 
+to distinguish automatic changes in fiscal variables in response to output from discretionary 
+fiscal policy changes. However, as Romer and Romer (2010) point out, even this more 
+refined approach still assumes that, after controlling for lags of output growth, changes in 
+government revenue and spending are uncorrelated with other short-term developments 
+affecting economic activity. It therefore ignores the issue of nonpolicy changes in cyclically-
+adjusted fiscal data discussed above, and of forward-looking policy responses to prospective 
+conditions. These matters are likely to be particularly relevant at the annual frequency often 
+used in multi-country studies on the effects of fiscal consolidation. 
+ 
+To address these possible shortcomings, we examine the behavior of economic activity 
+following discretionary changes in fiscal policy that historical sources suggest are not 
+correlated with the short-term domestic economic outlook. In particular, we consult a wide 
+range of contemporaneous policy documents to identify cases of fiscal consolidation 
+motivated not by a desire to restrain domestic demand in an overheated economy, but instead 
+by a desire to reduce the budget deficit. As Romer and Romer (2010) explain, such fiscal 
+actions represent a response to past decisions and economic conditions rather than to 
+prospective conditions. As a result, they are unlikely to be systematically correlated with 
+other developments affecting output in the short term, and are thus valid for estimating the 
+short-term effects of fiscal consolidation on economic activity. 
+ 
+Section II provides further details on how we identify discretionary adjustments in fiscal 
+policy based on contemporaneous policy documents. The historical sources we examine to 
+determine the motivation and budgetary impact of fiscal consolidation measures include 
+Budget Speeches, Budgets, central bank reports, IMF Staff Reports, IMF Recent Economic 
+Developments reports, and OECD Economic Surveys. Our basic strategy is similar to that of 
+Romer and Romer (2010), who examine the effects on U.S. output of changes in U.S. tax 
+rates identified from the historical record. To our knowledge, no other multi-country dataset 
+of tax and spending changes based on the Romer and Romer (2010) historical approach has 
+been compiled.2 In addition, while Romer and Romer (2010) identify 23 tax changes 
+motivated by the desire to reduce the budget deficit, we identify 173 fiscal policy 
+                                                 
+2 Cloyne (2011) applies the Romer and Romer (2010) approach to identifying tax policy changes in the United 
+Kingdom. Our approach is related to the narrative approach of Ramey and Shapiro (1998) and Ramey (2011) 
+who focus on U.S. military buildups and identify the timing of the associated government spending based on 
+Business Week and other newspaper sources. Hall (2009), Barro and Redlick (2011), and others also focus on 
+U.S. military buildups based on the plausible assumption that such changes in government spending are not a 
+direct response to U.S. business cycle fluctuations.  
+
+=== page 6 ===
+ 
+5 
+ 
+adjustments in our sample of countries, potentially allowing us to obtain more precise 
+estimates. A comparison of our measure of fiscal consolidation with the change in the CAPB 
+reveals large differences between the two series, and suggests that, in these cases, the CAPB-
+based approach tends to misidentify deficit-driven fiscal consolidations. 
+ 
+Based on our new dataset, Section III estimates the short-term effect of fiscal consolidation 
+on economic activity. Our estimates imply that a 1 percent of GDP fiscal consolidation 
+reduces real private consumption over the next two years by 0.75 percent, while real GDP 
+declines by 0.62 percent. In contrast, repeating the analysis using the change in the CAPB to 
+measure discretionary policy changes provides evidence consistent with the expansionary 
+austerity hypothesis. On average, a rise in the CAPB-to-GDP ratio is associated with a mild 
+expansion in private consumption and GDP. The large difference in these estimates also 
+arises for a subset of large fiscal adjustments––those greater or equal to 1.5 percent of GDP. 
+These results suggest that the biases associated with using cyclically-adjusted data may be 
+substantial. 
+ 
+We also test the robustness of our estimates along numerous dimensions. The finding of a 
+negative effect of fiscal consolidation on private domestic demand and GDP is robust to 
+excluding outliers; including additional control variables; and using alternative estimation 
+techniques. Also, interestingly, using our series of deficit-driven fiscal adjustments as an 
+instrumental variable for the change in the CAPB yields a significantly negative estimated 
+effect of an increase in the CAPB on economic activity.  
+ 
+In Section IV, we extend our findings in a number of directions. In particular, we consider 
+how international trade, the form of the consolidation, and perceived sovereign default risk 
+influence the estimated effect of fiscal consolidation. We find that an increase in net exports 
+associated with a fall in the value of the currency partly offsets the contractionary effect on 
+private domestic demand. This mitigating channel is less potent in countries with pegged 
+exchange rates. We also find that fiscal consolidation implemented mainly through an 
+increase in taxation rather than by cutting government spending induces a sharper contraction 
+in private demand. This difference seems to be due to the fact that central banks cut policy 
+interest rates more aggressively following spending-based fiscal adjustments. Finally, there is 
+evidence that fiscal consolidation is less contractionary when occurring in an economy with a 
+high perceived sovereign default risk. However, even in the high sovereign default risk 
+economies, fiscal consolidation typically has contractionary effects on private domestic 
+demand and GDP. Section V concludes. 
+ 
+II.   IDENTIFYING FISCAL CONSOLIDATION 
+ 
+This section provides an overview of the analytical framework we use to estimate the effect 
+of fiscal consolidation on economic activity, and explains how the methodology for 
+identifying changes in fiscal policy differs from the conventional approach. 
+ 
+ 
+ 
+
+=== page 7 ===
+ 
+6 
+ 
+A.   The Conventional Approach 
+ 
+A minimalist specification for testing how changes in the fiscal balance affect output growth 
+is the following:  
+ 
+(1) 
+∆ܻ௧ൌߙ൅ߚ∆ܨ௧൅ߝ௧ 
+ 
+where ܻ௧ is the logarithm of real GDP, ∆ܨ௧ is the change in the fiscal balance in percent of 
+GDP, and ߝ௧ is a vector of other developments that affect output. For the moment, we 
+abstract from the fact that changes in the fiscal balance may have lagged effects on output 
+and ignore country-specific effects. We return to these issues in the next section. 
+ 
+The first challenge that the analysis faces is to measure changes in the fiscal balance that 
+reflect deliberate policy decisions taken by the government and not simply the automatic 
+effect of business cycle fluctuations. Such fluctuations include, for example, upswings in 
+economic activity which improve the budget balance automatically, without any change in 
+policy. In Equation (1), such developments affect both the regressor, ∆ܨ௧, and the error term, 
+ߝ௧, in the same direction. Therefore, using the change in the overall fiscal balance to measure 
+changes in fiscal policy would bias estimates toward finding expansionary effects of fiscal 
+consolidation on economic activity. 
+ 
+The conventional approach to addressing this issue is to identify discretionary changes in 
+fiscal policy using cyclically-adjusted fiscal data. In particular, a standard approach is to use 
+the change in the CAPB to measure discretionary changes in fiscal policy. The CAPB is 
+calculated by taking the actual primary balance––non-interest revenue minus non-interest 
+spending––and subtracting the estimated effect of business cycle fluctuations on the fiscal 
+accounts.3 Cyclical adjustment offers an intuitive way of dealing with the fact that tax 
+revenue and government spending move automatically with the business cycle. The 
+assumption is that, once they are cyclically adjusted, changes in fiscal variables reflect 
+policymakers’ decisions to adjust taxes and government spending. An increase in the CAPB 
+would therefore provide evidence of deliberate fiscal policy tightening. 
+ 
+However, the conventional approach of using cyclically-adjusted fiscal data is far from 
+perfect and is likely to bias the analysis toward finding evidence in favor of the expansionary 
+austerity hypothesis. Two main issues arise that complicate inference regarding the effect of 
+fiscal policy on economic activity based on cyclically-adjusted data.  
+ 
+First, the change in the CAPB typically includes nonpolicy factors that may be correlated 
+with other developments affecting economic activity. For example, a boom in the stock 
+market improves the CAPB by increasing capital gains and cyclically-adjusted tax revenues. 
+It is also likely to reflect developments that will raise private consumption and investment. 
+As a result, the correlation between the change in the CAPB and the error term in the 
+                                                 
+3 For example, Alesina and Perotti (1995) and Alesina and Ardagna (2010) correct the primary balance for year-
+to-year changes in the unemployment rate based on a method proposed by Blanchard (1990). 
+
+=== page 8 ===
+ 
+7 
+ 
+regression is likely to be positive, leading to an upward-biased estimate of the effect of fiscal 
+consolidation on economic activity.4 The case of Ireland in 2009 illustrates the issue of 
+nonpolicy factors influencing the cyclically-adjusted fiscal accounts. A collapse in stock and 
+housing prices in the context of a deep recession induced a fall in the CAPB in 2009 despite 
+the implementation, as reported in contemporary policy documents, of fiscal consolidation 
+measures exceeding 4.7 percent of GDP.5 The fall in the CAPB here obscured the budgetary 
+impact of spending cuts and tax hikes introduced to reduce the budget deficit. The standard 
+approach would thus not recognize this unfavorable episode as a case of fiscal consolidation.  
+ 
+Second, the change in the CAPB may reflect deliberate policy responses to other 
+developments affecting the economic outlook. For example, governments may cut spending 
+and raise tax rates when domestic demand is expected to grow rapidly and raise inflation. 
+Such developments are included in the error term in the regression, ߝ௧. Also, discretionary 
+policy responses to such developments would be reflected in the change in the CAPB, 
+implying a positive correlation between the regressor, ∆ܨ௧, and the error term. The analysis 
+would then be biased toward overstating the expansionary effect of fiscal consolidation on 
+economic activity. In a companion paper (Devries et al., 2011), we provide a number of real-
+world counterparts to this hypothetical example. For example, in Finland in 2000, there was 
+an asset price boom and rapid domestic demand growth, and the government decided to cut 
+spending to reduce the risk of economic overheating (2001 IMF Staff Report, p. 8). In a 
+March 2000 Press Release, the Finland Ministry of Finance cited the lack of an independent 
+monetary policy (Finland adopted the euro in 1999) in explaining why fiscal policy needed to 
+tighten to stabilize economic activity: “Signs of overheating are becoming alarmingly 
+widespread in the Finnish economy… In these conditions, it has become justifiable to adopt a 
+tough stance in fiscal policy to ensure that economic developments remain on a balanced 
+course” (Finland Ministry of Finance Press Release, March 7, 2000). If a fiscal adjustment is 
+motivated primarily by restraining domestic demand, it is not valid for estimating the short-
+term effects of fiscal policy on economic activity, even if, as in this case, it is associated with 
+a rise in the CAPB. 
+ 
+By the same token, the CAPB-based measure of fiscal consolidation is likely to omit years 
+during which tax hikes or spending cuts aimed at reducing the fiscal deficit were followed by 
+                                                 
+4 For a further discussion of how cyclically-adjusted fiscal data contain non-policy movements correlated with 
+economic activity, see, for example, Romer and Romer (2010), Milesi-Ferretti (2009), Morris and Schuknecht 
+(2007), and Wolswijk (2007). As Morris and Schuknecht (2007, p. 4) explain, “asset price movements are a 
+major factor behind unexplained changes in the cyclically adjusted balance, which, if not accounted for, can 
+lead to erroneous conclusions regarding underlying fiscal developments.” A similar problem occurs during 
+sharp recessions. As Wolswijk (2007) explains, standard cyclical adjustment methods assume that the automatic 
+response (elasticity) of fiscal variables to the business cycle is constant over time. However, there is evidence 
+that sharp recessions have a stronger-than-average automatic effect on fiscal variables. Therefore, if a fiscal 
+consolidation coincides with a sharp recession, it is less likely to be identified by the standard approach, which 
+searches for an increase in the CAPB. 
+5 See 2008 Budget, 2009 Supplementary Budget of April 2009, Budget Statement of the Minister for Finance of 
+April 2009, and the October 2008 and December 2009 Ireland Stability Program submitted by the authorities to 
+the European Commission. Also see the appendix for a further discussion of Ireland in 2009. 
+
+=== page 9 ===
+ 
+8 
+ 
+an adverse shock and an offsetting discretionary fiscal stimulus. For example, imagine that 
+two countries adopt identical deficit reduction measures, but then one is hit by an adverse 
+shock and so adopts a discretionary spending increase, while the other is hit with a favorable 
+shock. Here, the change in the CAPB would show a smaller increase for the first country than 
+for the second country, despite the presence of identical deficit reduction measures. The 
+standard approach would therefore tend to omit cases of consolidations followed by adverse 
+shocks, because there may be little or no rise in the CAPB despite the implementation of 
+consolidation measures. Again, this problem implies a positive correlation between the error 
+term and the change in the CAPB in the regression equation, implying a positive bias for the 
+estimated effect of fiscal consolidation on output. The case of Germany in 1982 provides a 
+real-world counterpart to this hypothetical example. The authorities implemented spending 
+cuts and tax hikes aimed at reducing the structural deficit, which had been passed by 
+Parliament in December 1981 (1982 IMF Recent Economic Developments, p. 27). As the 
+economy was weak in 1982, however, some expansionary countercyclical measures were 
+introduced during the year, and their budgetary cost offset some of the savings associated 
+with the deficit-reduction package.  
+ 
+Finally, the problems with the conventional approach are not just hypothetical or limited to a 
+few specific cases. As we discuss below, the change in the CAPB-to-GDP ratio is an 
+unreliable guide regarding the presence of fiscal consolidation. This approach often selects 
+periods associated with favorable outcomes but during which no deficit-driven fiscal 
+consolidation occurred. It also tends to omit cases of fiscal consolidation associated with 
+unfavorable outcomes.6  
+ 
+B.   The Historical Approach 
+To address these problems with the conventional approach, we use an alternative 
+methodology based on identifying changes in fiscal policy directly from historical 
+documents. In particular, we examine contemporaneous policy documents to establish 
+whether discretionary changes in tax rates and government spending were motivated by a 
+response to the business cycle or not. Our approach is similar to that of Romer and Romer 
+(2010), who estimate the macroeconomic effects of U.S. tax changes and achieve 
+identification using the historical record in two ways. First, they verify that the policy 
+documents do not discuss a desire to respond to current or prospective economic conditions 
+and return growth to normal. Second, within the set of policy changes not motivated by the 
+near-term economic outlook, they focus on tax changes motivated either by a desire to reduce 
+the budget deficit or by raising long-run growth. 
+ 
+For the purposes of this paper, we focus on fiscal policy changes motivated by the desire to 
+reduce the budget deficit. As Romer and Romer (2010) explain, the budget deficit reflects 
+past economic conditions and budgetary decisions rather than current or prospective 
+economic conditions. Therefore, “If policymakers raise taxes to reduce such a deficit, this is 
+                                                 
+6 See Jayadev, Arjun and Mike Konczal (2010), and Krugman (2010) for a further discussion of the pitfalls of 
+using the CAPB to identify changes in fiscal policy. 
+
+=== page 10 ===
+ 
+9 
+ 
+not a change motivated by a desire to return growth to normal or to prevent abnormal growth. 
+So it is exogenous” (Romer and Romer, 2010, p. 770). The U.S. Omnibus Budget 
+Reconciliation Act of 1993 provides an example of such a policy change. The Act involved 
+raising taxes and cutting spending not to reduce the risk of economic overheating, but 
+because policymakers saw it as a prudent policy change with potential long-term benefits. 
+Austria in 1996 provides another example. The authorities introduced austerity measures to 
+conform to the budget deficit criteria for European Monetary Union (EMU) accession, 
+agreed under the terms of the 1992 Maastricht Treaty, and not because there was a risk of 
+economic overheating. Such changes in fiscal policy are thus valid for estimating the short-
+term effects of fiscal policy on economic activity and testing the expansionary austerity 
+hypothesis. 
+ 
+While the historical approach addresses some of the problems associated with the 
+conventional approach discussed above, it is subject to three additional criticisms that also 
+apply to the conventional approach. First, if countries sometimes postpone fiscal 
+consolidation until the economy recovers, then the consolidation exercise will be associated 
+with good economic outcomes in both the standard approach based on the CAPB and our 
+approach. Second, if a country is committed to a deficit-reduction path and the economy falls 
+into a recession, it may implement additional fiscal consolidation measures, thus associating 
+fiscal consolidation with unfavorable economic outcomes in both the standard CAPB-based 
+approach and our approach. Thus, biases may remain even in our approach, although it is 
+unclear in which direction they would go overall. Third, both the CAPB-based approach and 
+our historical approach record changes in fiscal policy when they occur, which ignores the 
+role of anticipation effects highlighted by Ramey (2011). Thus, while the changes in fiscal 
+policy that we identify should be “exogenous” in the Romer and Romer (2010) sense—
+explicitly not a response to the business cycle—they are not necessarily unanticipated. 
+However, as Beetsma, Giuliodori and Klaassen (2008) point out, at the annual frequency 
+used here, the role of anticipation effects is likely to be smaller than at the quarterly 
+frequency used by Ramey (2011) and Romer and Romer (2010).  
+ 
+To identify the policy changes, we examine a wide range of contemporaneous policy 
+documents. The contemporaneous sources include Budgets, Budget Speeches, central bank 
+reports, Convergence and Stability Programs submitted by the authorities to the European 
+Commission, IMF Recent Economic Developments reports, IMF Staff Reports, and OECD 
+Economic Surveys. In addition, we examine country-specific sources, such as the 
+Congressional Budget Office (CBO) reports and the Economic Report of the President for 
+the United States, the Journal Officiel de la Republique Francaise for France, Ministry of 
+Finance press releases and publications, and, in one case, a transcript of a television 
+interview. These documents provide evidence of what policymakers believed at the time that 
+policy measures were taken, and provide estimates of the measures’ budgetary impacts. Our 
+sample includes 17 OECD countries over the period 1978-2009. The countries are Australia, 
+Austria, Belgium, Canada, Denmark, Finland, France, Germany, Ireland, Italy, Japan, the 
+Netherlands, Portugal, Spain, Sweden, the United Kingdom and the United States. In a 
+companion paper, Devries et al. (2011), we provided detailed citations for each data point to 
+show how we determine the motivation and estimated budgetary effects from the historical 
+
+=== page 11 ===
+ 
+10 
+ 
+record. Following Romer and Romer (2010), we use the contemporaneous estimates 
+contained in these sources since retrospective estimates are rarely available. 
+ 
+The dataset contains a total of 173 fiscal policy changes. The budgetary impact of these fiscal 
+adjustments has a mean of 0.99 percent of GDP and a standard deviation of 0.94 percentage 
+point. The range runs from –0.75 percent of GDP to 4.74 percent of GDP. Note that negative 
+values arise when temporary fiscal consolidation measures expire. For example, a one-year 
+tax of $1 has a budgetary impact of $1 in the first year and –$1 in the next year, followed by 
+no impact. These changes in fiscal policy are the key inputs into the empirical analysis 
+outlined in Section III.  
+ 
+C.   Comparing the Two Approaches 
+In this subsection, we compare the size of fiscal consolidation identified using our action-
+based approach with the conventional CAPB-based definition of fiscal consolidation.7 As 
+reported in Figure 1, the two measures broadly agree regarding the size of fiscal adjustment 
+in a number of cases. However, there are also numerous cases in which the standard 
+approach and our approach come to different conclusions regarding the presence and size of 
+fiscal consolidation. Cases for which there was no evidence of deficit-driven changes in 
+fiscal policy in the historical record correspond to the observations along the zero line on the 
+horizontal axis. 
+ 
+To investigate which approach typically provides a more accurate identification of fiscal 
+consolidation, we focus on the largest discrepancies between the two approaches. In 
+particular, we examine the 13 largest disagreements between the two approaches—cases for 
+which the discrepancy between the two approaches exceeded 3 percent of GDP. Figure 1 
+highlights these large discrepancies, and the appendix describes each of the 13 cases in detail 
+and explains how we assess the relative accuracy of the two approaches. 
+ 
+Our analysis of the 13 largest disagreements between the two approaches provides strong 
+evidence that our action-based approach more accurately identifies the size of deficit-driven 
+fiscal consolidation. We find 12 cases where we are able to identify specific economic or 
+budgetary developments that cause the CAPB-based measure to inaccurately identify the size 
+of the consolidation and that largely explain the gap between the two measures. In one case 
+(Italy in 1993) there was a large economic contraction that, for the reasons explained above, 
+could plausibly have caused the CAPB-based approach to be highly inaccurate. We find no 
+cases where there is evidence that the measure based on the historical approach is less 
+accurate.  
+ 
+ 
+                                                 
+7 The data on the CAPB come from Alesina and Ardagna (2010), who correct the primary balance for year-to-
+year changes in the unemployment rate based on the method proposed by Blanchard (1990). Numerous papers 
+in the literature on expansionary fiscal contractions use this approach, including that of Alesina and Perotti 
+(1995).  
+
+=== page 12 ===
+ 
+11 
+ 
+Figure 1. Fiscal Consolidation in Percent of GDP:  
+Historical Approach vs. CAPB-based Approach 
+ 
+Note: Figure highlights cases for which the discrepancy between the action-based 
+and CAPB-based approach exceeds 3 percent of GDP. Diagonal line indicates 
+points along which the two approaches provide equal estimates. BEL=Belgium, 
+DEU=Germany, 
+DNK=Denmark, 
+ESP=Spain, 
+FIN=Finland, 
+IRL=Ireland, 
+ITA=Italy, JPN=Japan, NLD=Netherlands. 
+ 
+This analysis also reveals a further issue with the CAPB data used in the literature: they 
+include the effects of large one-off accounting operations. For example, in Germany in 1996 
+(top left corner of Figure 1), the CAPB-to-GDP ratio increased by 6.4 percentage points, 
+suggesting a large fiscal retrenchment. However, an examination of the policy record reveals 
+that this increase reflected a one-time accounting operation in 1995 related to the transfer of 
+Treuhand (Trust Agency) and East German housing debt to the general government account. 
+Due to this one-time accounting operation, the general government deficit rose to 9.7 percent 
+of GDP in 1995 and fell to 3.3 percent of GDP in 1996, implying a sharp rise in the CAPB-
+to-GDP ratio in 1996. The appendix documents other such examples of sharp CAPB 
+increases that are unrelated to fiscal consolidation measures, such as Japan in 1999 and 
+Netherlands in 1996. By introducing noise into the identification of episodes and their sizes, 
+such accounting operations can further attenuate the estimated effect of fiscal consolidation 
+on domestic demand. 
+ 
+III.   EFFECT OF FISCAL CONSOLIDATION ON ECONOMIC ACTIVITY 
+ 
+With periods of fiscal consolidation now identified, this section estimates the effect of the 
+fiscal measures on economic activity. We focus on the effect of fiscal consolidation in the 
+short term––the first three years. 
+ 
+BEL 1984
+DNK 1986
+DEU 1995
+DEU 1996
+ITA 1993
+NLD 1996
+JPN 1998
+JPN 1999
+JPN 2006
+FIN 1988
+FIN 2000
+IRL 2009
+ESP 1993
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+C hange in CAPB
+-1
+0
+1
+2
+3
+4
+5
+Historical approach (deficit-driven actions)
+
+=== page 13 ===
+ 
+12 
+ 
+A.   Baseline Specification 
+ 
+Our baseline regression specification takes the following form: 
+ 
+(2) 
+∆ܻ௜,௧ൌߤ௜൅ߣ௧൅∑
+ߚ௝∆ܻ௜,௧ି௝
+ଶ
+௝ୀଵ
+൅∑
+ߛ௦∆ܨ௜,௧ି௦
+ଶ
+௦ୀ଴
+൅ݒ௜,௧ 
+ 
+where subscript i indexes countries, subscript t indexes years, and ܻ is the logarithm of real 
+economic activity. Our baseline results focus on real private consumption and real GDP, but 
+we also consider the effects on private investment and the unemployment rate in the 
+subsection on robustness analysis. The term ∆ܨ is our series of action-based fiscal 
+consolidations in percent of GDP—the total budgetary impact of changes in taxes and 
+spending in year t motivated by a desire to reduce the budget deficit. The term ߤ௜ denotes 
+country-fixed effects, ߣ௧ denotes year-fixed effects, and ݒ௜,௧ is a mean-zero error term. The 
+ߚs are the autoregressive coefficients capturing the normal dynamics of economic activity, 
+while the ߛs are the direct effects (contemporaneous and lagged) of fiscal consolidation. To 
+see how the results compare with those obtained using the standard CAPB-based measure of 
+fiscal consolidation, we re-estimate the regression equation with the change in the CAPB-to-
+GDP ratio replacing our action-based measure.  
+ 
+We cumulate the estimated responses to recover the response of the level of the logarithm of 
+real private consumption and real GDP (in logs) to a permanent 1 percent of GDP fiscal 
+consolidation. Estimation is by ordinary least squares and the standard errors of the impulse 
+responses are calculated via the delta method. The baseline regression’s lag order of 2 is 
+selected based on a review of the information criteria and serial correlation properties 
+associated with various lag lengths. As reported in the next section, the results are similar for 
+alternative specifications and estimation approaches.  
+ 
+B.   Estimation Results  
+Figure 2 summarizes the estimated effect of a 1 percent of GDP fiscal consolidation on real 
+private consumption and real GDP relative to normal (in logs), together with one standard-
+error bands.8 The figure also compares the results obtained using our new series with those 
+obtained using the standard approach, with the ∆ܨ terms measured by the change in the 
+CAPB-to-GDP ratio. For both sets of results, the sample of countries and years is the same, 
+as is the econometric specification. The estimates based on our new series suggest that fiscal 
+consolidation has contractionary effects on private consumption, with a peak effect of –0.75 
+percent within two years (t-statistic = –4.36). The estimated effect on GDP is –0.62 percent 
+within two years (t-statistic = –3.82). In stark contrast, estimates based on the CAPB suggest 
+that fiscal consolidation has an expansionary effect on private consumption, with an estimate 
+of 0.37 within two years (t-statistic = 4.30). The estimated impact on GDP is 0.29 percent 
+within two years (t-statistic = 3.69). These CAPB-based estimates are broadly consistent with 
+                                                 
+8 The data on real private consumption and real GDP come from the OECD Economic Outlook Database No. 
+88, codes CPV and GDPV, respectively. For Germany prior to 1992, the data are back-spliced using growth rates 
+of data for the former Federal Republic of Germany. 
+
+=== page 14 ===
+ 
+13 
+ 
+the regression results obtained in the literature.9 Thus, while our new series provides little 
+evidence of expansionary austerity, using the conventional cyclically-adjusted approach 
+produces results more consistent with the hypothesis. 
+Figure 2. Estimated Effect of a 1 Percent of GDP Fiscal Consolidation 
+ 
+Note: Figure reports point estimates and one standard error bands in percent. t=1 
+denotes the year of fiscal consolidation.  
+ 
+A similar striking contrast between the two sets of results emerges when the analysis focuses 
+on a subset of large fiscal adjustments. A number of studies focus on the effects of large 
+fiscal consolidations, and find that such severe or “decisive” adjustments can be 
+expansionary (Giavazzi and Pagano, 1990). Following the literature, we define fiscal 
+consolidations greater than 1.5 percent of GDP as large. The estimated equation is now 
+ 
+(3) 
+∆ܻ௜,௧ൌߤ௜൅ߣ௧൅∑
+ߚ௝∆ܻ௜,௧ି௝
+ଶ
+௝ୀଵ
+൅∑
+ߛ௦ܮܽݎ݃݁
+௜,௧ି௦
+ଶ
+௦ୀ଴
+൅∑
+ߚ௦∆ܨ௜,௧ି௦
+ଶ
+௦ୀ଴
+൅ݒ௜,௧  
+where ܮܽݎ݃݁
+ equals fiscal consolidation (∆ܨ) when it exceeds 1.5 percent of GDP. The sum 
+of the responses to ܮܽݎ݃݁
+ and ∆ܨ show the effects of large consolidation. As Figure 3 
+reports, based on our series, the estimated effect on private consumption and real GDP is 
+again significantly contractionary. The effect on private consumption is –0.55 percent within 
+two years (t-statistic = –2.97), while the effect on GDP is –0.50 percent (t-statistic = –2.88). 
+                                                 
+9 For example, in panel regressions for an OECD sample with more countries and years than in our dataset, after 
+controlling for country- and time-fixed effects and the initial government debt-to-GDP ratio, Alesina and 
+Ardagna (2010) report (Table 11 “GDP Growth and Fiscal Policy”) that a 1 percentage point increase in the 
+CAPB-to-GDP ratio is associated with a rise in GDP of 0.15 percent (t-statistic = 3.98) within one year. This is 
+close to the CAPB-based estimate for our sample of 0.16 percent (t-statistic = 3.87) within one year, as shown 
+in Figure 2 (right panel). 
+Using CAPB
+Using deficit-driven consolidations
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+Private Consumption
+Using CAPB
+Using deficit-driven consolidations
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+GDP
+
+=== page 15 ===
+ 
+14 
+ 
+Using the change in the CAPB produces mildly expansionary estimates, although, for real 
+GDP, these are no longer statistically significant.  
+Figure 3. Estimated Effect of Large Fiscal Consolidation 
+(marginal effect per additional 1 percent of GDP) 
+ 
+Note: Figure reports point estimates and one standard error bands in percent. t=1 
+denotes the year of fiscal consolidation. 
+ 
+Finally, the striking difference in results also occurs when the variables measuring changes in 
+the fiscal balance are censored to include only positive values. While our series of fiscal 
+policy changes does include some with a negative budgetary impact––the end of temporary 
+deficit-reduction measures, as discussed above––the overwhelming majority of our fiscal 
+policy changes have a positive budgetary impact. In contrast, the distribution of changes in 
+the CAPB is more symmetric across positive and negative values. Is the difference in 
+estimation results obtained using the two variables driven by this difference in distributions? 
+To explore this possibility, we re-estimate our baseline Equation (2) while setting all the 
+negative changes in our series and in the CAPB-to-GDP to zero.10 Figure 4 reports the 
+results, and suggests that the main findings hold up to this change. In particular, the 
+difference between the results obtained using our action-based and the CAPB-based fiscal 
+variables remains large even when both are censored at zero.  
+ 
+ 
+ 
+                                                 
+10 As Kilian and Vigfusson (2009) explain in the context of estimating the effects of energy price increases, 
+setting one side of the distribution of the independent variable to zero can lead to estimates that are greater in 
+absolute value than the true effects. 
+Using CAPB
+Using deficit-driven consolidations
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+Private Consumption
+Using CAPB
+Using deficit-driven consolidations
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+GDP
+
+=== page 16 ===
+ 
+15 
+ 
+Figure 4. Estimated Effect of a 1 Percent of GDP Fiscal Consolidation 
+Negative (Expansionary) Fiscal Policy Changes Set to Zero 
+ 
+Note: Figure reports point estimates and one standard error bands in percent. t=1 
+denotes the year of fiscal consolidation.  
+ 
+Overall, the estimation results suggest that the biases associated with using cyclically-
+adjusted data discussed above may be substantial. On average, a rise in the CAPB is 
+associated with a mild expansion in private consumption and real GDP in the short term. 
+However, using our series of deficit-driven fiscal adjustments, which attempts to address the 
+issues associated with the CAPB-based approach discussed above, suggests that fiscal 
+consolidations have a significant contractionary effect in the short term. 
+ 
+C.   Robustness 
+The above results suggest that fiscal consolidation, when estimated using fiscal actions 
+motivated by deficit reduction, has contractionary effects on economic activity. In this sub-
+section, we perform a number of tests to assess the robustness of this result. We also broaden 
+the analysis to examine the effect of fiscal consolidation on two other indicators of economic 
+activity: real private investment (in logs) and the unemployment rate.11  
+ 
+First, we consider the robustness of the results to estimating a static model, excluding lags of 
+the dependent variable, as well as a model with a longer lag structure. If consolidation is 
+                                                 
+11 The data on the real private investment and the unemployment rate come from the OECD Economic Outlook 
+Database No. 88, codes IPV and UNR, respectively. The effect of the fiscal consolidation on real private 
+investment (in logs) and on the unemployment rate (in percentage points) is obtained by re-estimating Equation 
+(2) while replacing the ∆ܻ terms with the change in the variable of interest, and again cumulating the responses 
+to obtain the impact on the level. 
+Using CAPB
+Using deficit-driven consolidations
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+Private Consumption
+Using CAPB
+Using deficit-driven consolidations
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+GDP
+
+=== page 17 ===
+ 
+16 
+ 
+more likely to be implemented in a strong economy, one would expect to see a correlation 
+between lagged growth and fiscal consolidation, and controlling for lagged growth would 
+have an appreciable impact on the estimates. We thus try excluding the terms ∑
+ߚ௝∆ܻ௜,௧ି௝
+ଶ
+௝ୀଵ
+ 
+from the estimated equation. As Table 1 reports, estimating this static model had only a small 
+effect on the results, which is reassuring as it suggests that this source of bias is small in our 
+sample. The effect on private consumption changes from the baseline estimate of –0.75 (t-
+statistic = –4.36) to –0.83 (t-statistic = –5.44), while the estimated effect on real GDP 
+changes from –0.62 (t-statistic = 3.82) in the baseline specification to –0.65 (t-statistic = –
+4.58) for the static model. For private investment, the estimated effect is –1.48 percent (t-
+statistic = –2.02) in the baseline specification, and –1.40 percent (t-statistic = –2.17) for the 
+static model. The decline in private investment is consistent with the notion that investment 
+is influenced by the overall level of domestic demand. However, the effect on private 
+investment is less precisely estimated, which is not surprising given the volatility of this 
+component of GDP. The estimated effect on the unemployment rate is a rise of 0.32 
+percentage point (t-statistic = 3.44) for the baseline model and 0.33 percentage point (t-
+statistic = 4.16) for the static model. Also, as the next row in Table 1 reports, the results hold 
+up to using a longer lag structure—four years of lags compared with two years of lags in the 
+baseline specification.  
+ 
+Second, we investigate the sensitivity of the results to outliers. While very large or very small 
+fiscal consolidations are worth considering, it is natural to ask how important they are for the 
+results. We therefore re-estimate the baseline equation after dropping 10 percent of the fiscal 
+policy changes from the dataset, comprising the largest 5 percent and the smallest 5 percent 
+of the sample. We also investigate the role of outliers using Cook’s distance method, by 
+discarding observations with Cook’s distance greater than 4/N, where N is the sample size. 
+As Table 1 shows, in both cases, the results are similar after the removal of outliers. For 
+private investment, the point estimate still indicates a decline, but the result is no longer 
+statistically significant when discarding extreme values. In addition, to assess how important 
+any individual country is for the results, we re-estimate the baseline equation while dropping 
+one country at a time from the sample. As Table 2 reports, in each case, the estimation results 
+for the peak effect (year t=2) continue to indicate a significant contraction in private 
+consumption and GDP, and all of the estimates are within one standard error of the baseline. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== page 18 ===
+ 
+17 
+ 
+Table 1. Robustness: Estimated Effect of a 1 Percent of GDP Fiscal Consolidation 
+(Effect in year t=2) 
+ 
+Note: Table reports point estimate and delta method standard error for level of variable in year t = 2. *, **, and 
+*** denote statistical significance at the 10, 5, and 1 percent level, respectively. All specifications contain full 
+set of country and time fixed effects. See text for the description and data sources for the various variables. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Estimation approach
+Private Consumption
+Private Investment
+GDP
+Unemployment Rate
+Baseline
+-0.75***
+-1.48**
+-0.62***
+0.32***
+(0.17)
+(0.73)
+(0.16)
+(0.09)
+Static model
+-0.83***
+-1.40**
+-0.65***
+0.33***
+(0.15)
+(0.65)
+(0.14)
+(0.08)
+Longer lag structure
+-0.81***
+-2.22***
+-0.64***
+0.43***
+(0.17)
+(0.74)
+(0.17)
+(0.09)
+Droping outliers (extreme values)
+-0.72***
+-0.93
+-0.81***
+0.25**
+(0.22)
+(0.89)
+(0.20)
+(0.12)
+Droping outliers (Cook's distance)
+-0.73***
+-1.70***
+-0.57***
+0.25***
+(0.15)
+(0.61)
+(0.13)
+(0.07)
+Two-stage least squres
+-0.98**
+-0.87
+-0.80**
+0.38**
+(0.39)
+(1.47)
+(0.31)
+(0.17)
+Two-variable VAR
+-0.96***
+-2.12**
+-0.73***
+0.37***
+(0.20)
+(0.86)
+(0.19)
+(0.11)
+Arellano-Bond
+-0.70***
+-1.35*
+-0.62***
+0.32***
+(0.18)
+(0.76)
+(0.17)
+(0.10)
+Additional control variables
+Government debt-to-gdp ratio
+-0.60***
+-2.63**
+-0.58**
+0.53***
+(0.22)
+(1.05)
+(0.23)
+(0.13)
+Future sovereign default risk
+-0.60***
+-1.36*
+-0.50***
+0.26***
+(0.18)
+(0.74)
+(0.17)
+(0.09)
+Sovereign bond yield
+-0.70***
+-1.21
+-0.58***
+0.30***
+(0.17)
+(0.76)
+(0.16)
+(0.09)
+Increase in old-age ratio
+-0.74***
+-1.70**
+-0.61***
+0.35***
+(0.17)
+(0.71)
+(0.16)
+(0.09)
+
+=== page 19 ===
+ 
+18 
+ 
+Table 2. Exclusion of One Country at a Time: 
+Estimated Effect of a 1 Percent of GDP Fiscal Consolidation 
+(Effect in year t=2) 
+ 
+Note: Table reports point estimate and delta method standard error for level of variable in year t = 2. *, **, and *** 
+denote statistical significance at the 10, 5, and 1 percent level, respectively. All specifications contain full set of 
+country and time fixed effects. See text for the description and data sources for the various variables. 
+AUS=Australia, AUT=Austria, BEL=Belgium, CAN=Canada, DEU=Germany, DNK=Denmark, ESP=Spain, 
+FIN=Finland, FRA=France, GBR=United Kingdom, IRL=Ireland, ITA=Italy, JPN=Japan, NLD=Netherlands, 
+PRT=Portugal, SWE=Sweden, USA=United States. 
+ 
+Third, we consider how the results change when our action-based series of fiscal adjustments 
+is used as an instrumental variable for the change in the CAPB. In particular, we estimate the 
+effect of fiscal consolidation based on the CAPB via two-stage least squares. The results 
+reported in Table 1 and Figure 5 imply that the rise in the CAPB, when instrumented using 
+our variable, has a large and negative effect on economic activity. The first stages are strong. 
+Each equation has an F-statistic on the excluded instruments with a p-value well below 1 
+percent, indicating that our series of deficit-driven fiscal consolidations have explanatory 
+power for the CAPB. The Anderson canonical correlations and Cragg-Donald Wald tests also 
+have p-values well below 1 percent, rejecting the null that the system is unidentified. The 
+second stage indicates that a rise in the CAPB-to-GDP ratio of 1 percentage point reduces 
+private consumption by 0.98 percent (t-statistic = –2.49) within two years, while the effect on 
+real GDP is –0.80 percent (t-statistic = –2.57). 
+ 
+ 
+ 
+ 
+Country Dropped
+Private Consumption
+GDP
+Country Dropped
+Private Consumption
+GDP
+Baseline
+-0.75***
+-0.62***
+FRA
+-0.76***
+-0.63***
+(0.17)
+(0.16)
+(0.18)
+(0.17)
+AUS
+-0.75***
+-0.59***
+GBR
+-0.73***
+-0.61***
+(0.18)
+(0.16)
+(0.18)
+(0.16)
+AUT
+-0.73***
+-0.61***
+IRL
+-0.60***
+-0.46***
+(0.18)
+(0.17)
+(0.18)
+(0.17)
+BEL
+-0.76***
+-0.65***
+ITA
+-0.78***
+-0.71***
+(0.18)
+(0.17)
+(0.19)
+(0.18)
+CAN
+-0.73***
+-0.56***
+JPN
+-0.74***
+-0.61***
+(0.18)
+(0.16)
+(0.18)
+(0.16)
+DEU
+-0.78***
+-0.66***
+NLD
+-0.76***
+-0.62***
+(0.18)
+(0.16)
+(0.18)
+(0.17)
+DNK
+-0.88***
+-0.68***
+PRT
+-0.71***
+-0.54***
+(0.17)
+(0.17)
+(0.18)
+(0.16)
+ESP
+-0.75***
+-0.60***
+SWE
+-0.80***
+-0.65***
+(0.18)
+(0.17)
+(0.18)
+(0.17)
+FIN
+-0.83***
+-0.71***
+USA
+-0.72***
+-0.58***
+(0.18)
+(0.16)
+(0.18)
+(0.16)
+
+=== page 20 ===
+ 
+19 
+ 
+Figure 5. TSLS Estimates: Effect of a 1 Percent of GDP  
+CAPB-based Fiscal Consolidation 
+ 
+ 
+Note: Figure reports ordinary least squares (OLS) and two-stage least squares 
+(TSLS) point estimates and one standard error bands. t=1 denotes the year of fiscal 
+consolidation. 
+ 
+We also consider two additional estimation approaches: a two-variable VAR and the 
+Arellano-Bond (1991) estimator. We run the two-variable VAR on the growth rate of 
+economic activity (∆ܻ) and our fiscal consolidation variable (∆ܨ) to allow for effects of 
+lagged economic activity and past fiscal consolidation on fiscal consolidation. To allow fiscal 
+consolidation to influence economic activity within one year, we order our fiscal 
+consolidation variable first in the VAR. The VAR-based estimates again suggest that fiscal 
+consolidation has contractionary effects, with the estimated effects on private consumption 
+and GDP estimated at –0.96 percent (t-statistic = –4.72) and –0.73 percent (t-statistic = –
+3.92), respectively. Also, re-estimating the model using the Arellano-Bond (1991) estimator 
+produces results similar to the baseline. This procedure addresses the possibility of bias due 
+to the fact that country fixed effects are correlated with the lagged dependent variables in the 
+autoregressive equation. The finding that the results are similar is not surprising since the 
+bias is likely to be small with a large number of observations per country relative to the 
+number of countries (30 years for each of the 17 countries). 
+ 
+Finally, we address the possibility that the baseline estimated equation omits variables that 
+affect economic activity and may be correlated with fiscal consolidation. Not controlling for 
+such factors could influence the estimated effect of consolidation. It is worth noting that such 
+omitted variable bias would affect both the CAPB-based results and the estimates based on 
+our deficit-driven fiscal consolidations. Thus, these robustness tests do not address the 
+difference between the two sets of results; they focus on the accuracy of the estimates based 
+on our series of deficit-driven fiscal consolidations. In addition, the omission of some 
+variables could lead our baseline specification to under-estimate the contractionary effect of 
+OLS using CAPB
+TSLS instrumenting with
+deficit-driven consolidations
+-1 .5
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+Private Consumption
+OLS using CAPB
+TSLS instrumenting with
+deficit-driven consolidations
+- 1 .5
+- 1
+- .5
+0
+.5
+0
+1
+2
+3
+GDP
+
+=== page 21 ===
+ 
+20 
+ 
+fiscal consolidation. For example, governments may be more likely to consolidate when 
+other factors are not acting to reduce output. Overall, it is not clear from the outset which 
+way the omission of additional controls would influence the results.  
+ 
+Here, we consider the most obvious omitted variables that could plausibly bias the analysis 
+towards overstating the negative effects of fiscal consolidation on economic activity. First, 
+we consider the initial government debt-to-GDP ratio. A large stock of government debt 
+could raise borrowing costs and crowd out growth, and also prompt governments to 
+undertake fiscal consolidation. We therefore include three lags of the government debt-to-
+GDP ratio in our baseline specification. As Table 1 reports, the results are similar to the 
+baseline. However, it is possible that the recent debt-to-GDP ratio is less relevant for 
+borrowing costs and growth than the outlook for future government debt dynamics. In 
+particular, governments may be more likely to undertake a fiscal consolidation in response to 
+the deficit if they are concerned about the long-term debt outlook, even if the current 
+government debt-to-GDP ratio is low. And the same factors that lead to an unsustainable 
+outlook for government debt may lead to slower economic growth. To address this 
+possibility, we use two forward-looking indicators: the perceived risk of future sovereign 
+default, and the long-term (10-year) government bond yield. We measure the perceived risk 
+of future sovereign default using the Institutional Investor Ratings index (IIR), following 
+Reinhart, Rogoff, and Savastano (2003) and Eichengreen and Mody (2004).12 In each case, 
+we include three lags of the additional variable in the estimated equation. As Table 1 reports, 
+we find that the results are similar after the inclusion of these forward-looking variables. 
+Finally, we consider the role of demographics. In particular, it is plausible that an increase in 
+the fraction of the population that is older might decrease labor supply growth and hence 
+output growth, but also increase transfer payments and decrease tax revenues, and prompt the 
+government to introduce fiscal consolidation measures such as a reform of pension 
+entitlements. To address this possibility, we include three lags of the increase in the old-age 
+dependency ratio in the estimated equation.13 As Table 1 reports, the results are again similar 
+to the baseline. 
+ 
+IV.   EXTENSIONS 
+ 
+This section addresses three factors that could influence the effect of fiscal consolidation on 
+economic activity: the role of international trade; the composition of the deficit-reduction 
+package; and the role of perceived sovereign default risk of the country undertaking fiscal 
+consolidation. 
+ 
+                                                 
+12 The ratings are based on assessments of sovereign risk by private sector analysts. Each country is rated on a 
+scale of zero to 100, with a rating of 100 assigned to the lowest perceived sovereign default probability. The 
+Institutional Investor Rating comes from Institutional Investor. The general government debt-to-GDP ratio 
+comes from the IMF’s World Economic Outlook Database, series GGD in percent of series NGDP. The 10-year 
+government bond yield data come from Datastream. 
+13 The old-age dependency ratio comes from the World Bank’s World Development Indicators. 
+
+=== page 22 ===
+ 
+21 
+ 
+A.   The Role of International Trade 
+ 
+In estimating the effect of fiscal consolidation on economic activity, we found that real GDP 
+falls by less than 1 percent following a 1 percent of GDP fiscal consolidation, implying a 
+multiplier of less than one. As this section reports, this result reflects an expansion in net 
+exports associated with a fall in the value of the domestic currency, which partly offsets the 
+decline in domestic demand. 
+ 
+Figure 6 summarizes the results of re-estimating our baseline specification for the 
+contributions to real GDP of total domestic demand and net exports, respectively. The 
+contribution of net exports to GDP is defined as 
+௑೟షభ
+௒೟షభ݃
+௑,௧െ 
+ெ೟షభ
+௒೟షభ݃
+ெ,௧, where ܺ and ܯ denote 
+real exports and imports, respectively, ܻ denotes real GDP, and ݃
+௑ and  ݃
+ெ denote the 
+growth rates of real exports and imports, respectively.14 The contribution of domestic demand 
+to GDP is defined as 
+஼೟షభ
+௒೟షభ݃
+஼,௧൅ 
+ூ೟షభ
+௒೟షభ݃
+ூ,௧, where ܥ and ܫ denote total (public and private) real 
+consumption and investment, respectively. The results suggest that a 1 percent of GDP fiscal 
+consolidation raises the contribution of net exports to GDP by 0.47 percentage points of GDP 
+(t-statistic = 4.46). As Figure 6 also reports (right-hand panel), this increase in net exports 
+reflects both a rise in real exports and a decline in real imports. Real exports rise by 0.91 
+percent (t-statistic = 2.44), and real imports fall 1.18 percent (t-statistic = –2.92). Meanwhile, 
+the contribution of domestic demand––consumption and investment––to GDP declines by 
+1.05 percent of GDP (t-statistic = –5.42) within two years. Thus, the effect on total GDP 
+reported above combines a contraction in domestic demand with a partially offsetting rise in 
+net exports.  
+ 
+As Figure 7 reports, the adjustment mechanism underlying the rise in net exports is a shift in 
+the real exchange rate. In particular, the real effective (trade-weighted) exchange rate 
+depreciates by 1.57 percent (t = –4.13) within one year following a 1 percent of GDP fiscal 
+consolidation. Over the short-term horizon examined here, the real exchange rate adjustment 
+occurs primarily through a fall in the nominal value of the currency (Figure 7, panel 2), and 
+not through an adjustment in domestic prices relative to trading partners (Figure 7, panel 3).15 
+The fall in the value of the currency is associated with an easing in domestic monetary 
+policy, with the nominal policy rate falling by 19 basis points (t-statistic = 1.35) (Figure 7, 
+panel 4). Interestingly, the estimated responses of real exports and imports are broadly 
+consistent with those implied by conventional estimates of elasticities with respect to the real 
+                                                 
+14 To explore these channels, we use the baseline specification in Equation (2) with the change in the variable of 
+interest replacing the ∆ܻ terms. As before, we then cumulate the estimates to recover the impact on the level of 
+the variable of interest. Data for real exports and real imports come from the OECD Economic Outlook 
+Database No. 88, codes XGSV and MGSV. 
+15 The nominal and real (CPI-based) effective exchange rate data come from the IMF’s International Financial 
+Statistics (IFS) database, codes REER and NEER, respectively. The domestic price differential relative to trading 
+parterns is defined as the ratio of the real effective exchange rate to the nominal effective exchange rate. The 
+monetary policy (short-term) interest rate data come from Datastream. 
+
+=== page 23 ===
+ 
+22 
+ 
+exchange rate.16 Also, since the analysis controls for shifts in global demand (time fixed 
+effects), the estimated increase in exports reported above is unlikely to reflect an upswing in 
+global demand. 
+ 
+Figure 6. Estimated Effect of a 1 Percent of GDP Fiscal Consolidation:  
+Domestic Demand and Net Exports 
+ 
+Note: Figure reports point estimates and one standard error bands for contribution 
+to GDP of net exports and domestic demand in percentage points; and for real 
+exports and real imports in percent. t=1 denotes the year of fiscal consolidation. 
+ 
+To further investigate the role of the exchange rate, we split the sample according to the 
+flexibility of the exchange rate regime. In particular, we repeat the estimation approach used 
+above for two sub-samples: fiscal consolidations occurring in pegged exchange rate regimes, 
+and those occurring in floating regimes. The source of the exchange rate regime classification 
+is the IMF’s Annual Report on Exchange Arrangements and Exchange Restrictions.17 In 
+particular for the pegged regimes, we estimate the following equation: 
+ 
+                                                 
+16 For example Bayoumi and Faruqee (1998, p. 32) report that, within two years, a 1 percent real depreciation 
+should raise exports by 0.60 percent and reduce imports by 0.78 percent, other things equal. In our sample, the 
+estimated impact of fiscal consolidation is a real deprecation of 1.57 percent. The conventional elasticities 
+would thus imply an impact on exports and imports of 0.94 percent (1.57×0.60) and 1.22 percent (1.57×0.78), 
+respectively, close to our estimated effect of 0.91 percent and 1.18 percent, respectively. 
+17 Following Bubula and Otker-Robe (2002), pegged regimes include both hard pegs (currency unions and 
+currency boards) and soft pegs (pegs vis-à-vis a single currency or a basket, horizontal bands, and crawling pegs 
+and bands). Floating regimes include both independently floating regimes and managed floating regimes with 
+no predetermined path for the exchange rate. 
+Net Exports
+Domestic Demand
+-2
+-1
+0
+1
+2
+0
+1
+2
+3
+Exports
+Imports
+-2
+-1
+0
+1
+2
+0
+1
+2
+3
+
+=== page 24 ===
+ 
+23 
+ 
+(3) 
+∆ܻ௜௧ൌߤ௜൅ߣ௧൅∑
+ߚ௝∆ܻ௜,௧ି௝
+ଶ
+௝ୀଵ
+൅∑
+ߛ௦ܲ݁݃
+௜,௧ି௦
+ଶ
+௦ୀ଴
+൅∑
+ߚ௦∆ܨ௜,௧ି௦
+ଶ
+௦ୀ଴
+൅ݒ௜,௧  
+ 
+ 
+where ܲ݁݃
+ equals fiscal consolidation (∆ܨ) when the exchange rate regime is pegged. The 
+sum of the responses to ܲ݁݃
+ and ∆ܨ show the effects of a consolidation occurring in a 
+pegged exchange rate regime. The response to ∆ܨ shows the effect of a consolidation 
+occurring in a floating regime. 
+Figure 7. Estimated Response of Relative Prices to a 1 Percent of GDP  
+Fiscal Consolidation (percent) 
+ 
+Note: Figure reports point estimates and one standard error bands. t=1 denotes the 
+year of fiscal consolidation. Estimates for real and nominal effective exchange 
+rates and for domestic price differential are in percent. Estimates for nominal 
+policy interest rate are in basis points.  
+ 
+The results suggest that the effect of fiscal consolidation on economic activity is more 
+contractionary in pegged exchange rate regimes. A 1 percent of GDP fiscal consolidation 
+reduces real GDP by 0.84 percent (t-statistic = –4.15) within two years when the exchange 
+rate is pegged, but by only 0.33 percent (t-statistic = –1.35) in floating regimes (see Figure 
+8). Moreover, the real effective exchange rate depreciates more in the short term and real 
+exports expand more in floating regimes than in pegged regimes. These finding are consistent 
+with research, such as that of Ilzetzki, Mendoza, and Vegh (2010), that finds larger fiscal 
+multipliers in economies operating fixed exchange rate regimes.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-2
+-1 .5
+-1
+-.5
+0
+0
+1
+2
+3
+Real Exchange Rate
+-2
+-1.5
+-1
+-.5
+0
+0
+1
+2
+3
+Nominal Exchange Rate
+-2
+-1 .5
+-1
+-.5
+0
+0
+1
+2
+3
+Domestic Price Differential
+-30
+-20
+-10
+0
+10
+0
+1
+2
+3
+Nominal Policy Rate
+
+=== page 25 ===
+ 
+24 
+ 
+Figure 8. Estimated Effect of a 1 Percent of GDP Fiscal Consolidation:  
+Pegged vs Floating Exchange Rate Regime (percent) 
+ 
+Note: Figure reports point estimates and one standard error bands. t=1 denotes the 
+year of fiscal consolidation. 
+ 
+Overall, this section suggests that a fall in the value of the currency and a rise in net exports 
+mitigate the negative effect of fiscal consolidation on output. Excluding the rise in net 
+exports, the contraction in domestic output is substantially greater than in the baseline. 
+ 
+B.   The Role of Composition 
+ 
+The literature suggests that evidence of expansionary effects is strongest for fiscal 
+adjustments implemented mainly by cutting government spending rather than by increasing 
+taxes. In this section, we therefore investigate how the response of economic activity depends 
+on the composition of fiscal consolidation in terms of taxes and government spending. In 
+particular, we re-estimate our baseline specification for two types of fiscal adjustments. The 
+first type, denoted as “tax-based,” corresponds to fiscal consolidations in which the 
+contribution of tax hikes to the adjustment is greater than that of spending cuts. The second 
+type, denoted as “spending-based,” corresponds to years in which the contribution of 
+spending cuts is greater than that of tax hikes.18 To study this issue we estimate the following 
+equation: 
+  
+(4) 
+∆ܻ௜௧ൌߤ௜൅ߣ௧൅∑
+ߚ௝∆ܻ௜,௧ି௝
+ଶ
+௝ୀଵ
+൅∑
+ߛ௦ܵܤ௜,௧ି௦
+ଶ
+௦ୀ଴
+൅∑
+ߚ௦∆ܨ௜,௧ି௦
+ଶ
+௦ୀ଴
+൅ݒ௜,௧ 
+ 
+                                                 
+18Similar results are obtained if the tax-based type corresponds to years in which the contribution of tax hikes to 
+fiscal consolidation was more than 60 percent of the total and the same holds for the spending-based type. 
+Peg
+Float
+-4
+-3
+-2
+-1
+0
+1
+0
+1
+2
+3
+Real Exchange Rate
+Peg
+Float
+-4
+-3
+-2
+-1
+0
+1
+0
+1
+2
+3
+Nominal Exchange Rate
+Peg
+Float
+-1
+-.5
+0
+0
+1
+2
+3
+GDP
+Peg
+Float
+-1
+0
+1
+2
+3
+0
+1
+2
+3
+Exports
+
+=== page 26 ===
+ 
+25 
+ 
+where ܵܤ equals fiscal consolidation (∆ܨ) when the consolidation is spending-based, and ܻ 
+is the variable of interest. The sum of the responses to ܵܤ and ∆ܨ show the effects of a 
+spending-based consolidation. The response to ∆ܨ shows the effect of a tax-based 
+consolidation, and the response to ܵܤ shows the difference in the effects of a tax-based and a 
+spending-based consolidation, which we also discuss below.  
+ 
+Figure 9 summarizes the estimated effects of the two types of fiscal consolidations. The 
+results suggest that the effect of fiscal consolidation on private consumption and real GDP is 
+negative even when the adjustment is based on spending cuts. For spending-based fiscal 
+consolidations, the estimated effect on private consumption is –0.57 (t-statistic = 2.95), while 
+the estimated effect on real GDP is –0.43 (t-statistic = –2.38). The results are virtually 
+identical for a subset of large spending-based fiscal consolidations (those greater than 1.5 
+percent of GDP) as Figure 10 reports. Thus, even in the case of large spending-based 
+consolidations, there is little evidence of expansionary effects. However, the results also 
+suggest that spending-based adjustments are less contractionary than tax-based adjustments, 
+particularly after the first year. For tax-based adjustments, the estimated effect on private 
+consumption is –1.35 (t-statistic = –4.52) within two years, while the estimated effect on real 
+GDP is –1.29 (t-statistic = –4.67).  
+ 
+Figure 9. Effect of a 1 Percent of GDP Fiscal Consolidation:  
+Spending-based vs. Tax-based Consolidation 
+ 
+Note: Figure reports point estimates and one standard error bands. t=1 denotes the 
+year of fiscal consolidation. 
+ 
+ 
+ 
+Spending-based
+Tax-based
+-2
+-1.5
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+Private Consumption
+Spending-based
+Tax-based
+-2
+-1 .5
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+GDP
+
+=== page 27 ===
+ 
+26 
+ 
+Figure 10. Large Spending-based vs. Tax-based Consolidation 
+(estimated marginal effect per additional 1 percent of GDP) 
+ 
+Note: Figure reports point estimates and one standard error bands. t=1 denotes the 
+year of fiscal consolidation. 
+ 
+A natural question is whether the difference between the two types of fiscal adjustments 
+might be due to the conduct of monetary policy. In particular, it might be that central banks 
+provide a greater degree of monetary stimulus following spending cuts than following tax 
+cuts. To investigate this possibility, Figure 11 presents the responses of real GDP, policy 
+interest rates and inflation for the two types of adjustment. The estimated difference between 
+them—the response to ܵܤ in Equation (4)––appears in the second row of the figure. The 
+results suggest that the conduct of monetary policy differs significantly between the two 
+types of adjustment, with more monetary policy easing following spending-based 
+adjustments. 
+ 
+Existing estimates in the literature can help to assess how much of the difference in economic 
+performance stems from the difference in monetary conditions. As Figure 11 reports, the 
+difference in interest-rate responses between spending-based and tax-based fiscal 
+consolidation is 71 basis points in the first year (t-statistic = 3.38). Meanwhile, the fall in real 
+GDP for tax-based consolidation exceeds that for spending-based consolidation by 0.33 
+percentage point (t-statistic = 1.82) in the first year and by 0.83 percentage point (t-statistic = 
+2.73) in the second year. Therefore, for the difference in output outcomes to be attributable 
+entirely to the different monetary policy responses, a 100 basis point rise in interest rates 
+would need to reduce output by 0.46 percent in the first year (0.33/0.71) and by 1.17 percent 
+in the second (0.83/0.71). Such impacts are inside the range of estimates found in the 
+Spending-based
+Tax-based
+-2
+-1.5
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+Private Consumption
+Spending-based
+Tax-based
+-2
+-1 .5
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+GDP
+
+=== page 28 ===
+ 
+27 
+ 
+empirical literature.19 Thus, it appears that the difference in monetary policy responses 
+accounts for much of the difference in output performance. For this reason, the results on the 
+difference between spending- and tax-based adjustments are not consistent with the notion 
+that an equal reduction in spending and taxes would stimulate economic activity (a reverse 
+“balanced-budget multiplier”). 
+ 
+Figure 11. Difference Between Effects of  
+Spending-based and Tax-based Consolidation of 1 Percent of GDP  
+ 
+Note: Figure reports the estimated difference (Δ) between the impact of spending-
+based and tax-based fiscal consolidations, along with one standard error bands. t=1 
+denotes the year of fiscal consolidation. The policy rate results are in basis points; 
+the other results are in percent. 
+ 
+These results are consistent with the notion that central banks view spending-based deficit 
+cuts more favorably, possibly because they interpret them as a signal of a stronger 
+commitment to fiscal discipline, and are therefore more willing to provide monetary stimulus 
+following spending-based adjustments. It is also plausible that an increase in taxes, which 
+sometimes involves indirect tax increases (excise duties and VAT rates), raises inflation, 
+making interest rate cuts by an inflation-averse central bank less likely. In line with this 
+notion, Figure 11 suggests that the inflation rate rises for tax-based adjustments.20 
+                                                 
+19 Romer and Romer (2004) find that an unexpected 100 basis point increase in interest rates reduces output 
+(measured by industrial production) by 4.3 percent after two years. Coibion (2011) finds that a 100 basis point 
+innovation to the policy rate lowers industrial production by 2-3 percent. Sims (1992) estimates the maximum 
+impact on industrial production at about –1.5 percent, while Bernanke and Mihov (1998) and Christiano, 
+Eichenbaum, and Evans (1996) find a maximum effect on real GDP close to –1 percent. 
+20 The inflation rate is calculated as the change in the log of the price level, where the price level is measured 
+using the GDP deflator from the OECD Economic Outlook Database No. 88, code PGDP. 
+Spending-based
+Tax-based
+-2
+-1.5
+-1
+-.5
+0
+.5
+0
+1
+2
+3
+GDP
+Spending-based
+Tax-based
+- 40
+- 20
+0
+2 0
+4 0
+0
+1
+2
+3
+Policy Rate
+Spending-based
+Tax-based
+- .2
+- .1
+0
+.1
+.2
+0
+1
+2
+3
+Inflation
+0
+.5
+1
+1.5
+2
+0
+1
+2
+3
+
+- 100 - 80
+- 60
+- 40
+- 20
+0
+0
+1
+2
+3
+
+- .4
+- .2
+0
+.2
+.4
+0
+1
+2
+3
+
+
+=== page 29 ===
+ 
+28 
+ 
+C.   The Role of Perceived Sovereign Risk 
+ 
+Expansionary fiscal consolidations may be more likely when doubts about government 
+financial solvency raise borrowing costs, and where the consolidation could reduce those 
+costs. To explore this issue in this section, we split the sample into two groups. The first 
+group includes fiscal adjustments with high (above-median) perceived sovereign credit risk 
+in the year before fiscal consolidation. The second group includes adjustments preceded by 
+low (below-median) perceived sovereign credit risk. In particular, we estimate the following 
+equation: 
+(5) 
+∆ܻ௜௧ൌߤ௜൅ߣ௧൅∑
+ߚ௝∆ܻ௜,௧ି௝
+ଶ
+௝ୀଵ
+൅∑
+ߛ௦ܪܴ݅݅
+ݏ݇௜,௧ି௦
+ଶ
+௦ୀ଴
+൅∑
+ߚ௦∆ܨ௜,௧ି௦
+ଶ
+௦ୀ଴
+൅ݒ௜,௧ 
+ 
+where ܪܴ݅݅
+ݏ݇ equals fiscal consolidation (∆ܨ) when the perceived sovereign default risk is 
+high in the year before the fiscal consolidation. The sum of the responses to ܪܴ݅݅
+ݏ݇ and ∆ܨ 
+show the effects of consolidation in a high-risk economy, and the response to ∆ܨ shows the 
+impact of consolidation in a low-risk economy. Our measure of perceived future sovereign 
+default risk is, as above, the Institutional Investor Ratings index. Each country is rated on a 
+scale of zero to 100, with a rating of 100 assigned to the lowest perceived sovereign default 
+probability. The median level of this index for our 173 cases of deficit-driven changes in 
+fiscal policy, 85, is close to that of Ireland and Portugal in 2009. 
+ 
+Figure 12. Estimated Effect of a 1 Percent of GDP Fiscal Consolidation:  
+By Sovereign Default Risk 
+ 
+Note: Figure reports point estimates and one standard error bands. t=1 denotes the 
+year of fiscal consolidation. 
+ 
+ 
+Low risk
+High risk
+-1.5
+-1
+-.5
+0
+0
+1
+2
+3
+Private Consumption
+Low risk
+High risk
+-1 .5
+-1
+-.5
+0
+0
+1
+2
+3
+GDP
+
+=== page 30 ===
+ 
+29 
+ 
+The estimation results suggest that fiscal consolidation preceded by high perceived sovereign 
+default risk is somewhat less contractionary (Figure 12). For the high-risk group (those with 
+above median risk in the year preceding fiscal consolidation), the estimated effect of a 1 
+percent of GDP fiscal consolidation on private consumption is –0.62 percent (t-statistic = –
+3.07) within two years, whereas for the low-risk group, the estimated impact is –1.11 percent 
+(t-statistic = –3.65). For real GDP, the estimation results for the high- and low-risk groups 
+are –0.53 (t-statistic = –2.81) and –0.80 (t-statistic = –2.83), respectively. These findings are 
+consistent with the notion that confidence or credibility effects help mitigate the negative 
+impact of fiscal consolidation on economic activity in economies perceived as high risk and 
+that low perceived sovereign default risk is associated with a sharper contraction. However, 
+even for the high-risk group, the results tend to be contractionary and not statistically 
+distinguishable from the low-risk group. 
+ 
+V.   CONCLUSION 
+This paper investigates the macroeconomic effects of fiscal consolidation in OECD 
+economies, and assesses the evidence regarding the expansionary fiscal contractions 
+hypothesis. Estimation results based on measuring discretionary changes in fiscal policy 
+using cyclically-adjusted fiscal data––a practice often used in the literature––suggest that 
+fiscal consolidation stimulates private domestic demand in the short term, providing support 
+for the hypothesis. This result is consistent with a literature that finds that fiscal contractions 
+can be expansionary. However, our analysis suggests that using cyclically-adjusted data to 
+estimate the effects of fiscal consolidation biases the analysis toward overstating 
+expansionary effects.  
+In contrast, estimation results based on fiscal actions identified directly from 
+contemporaneous policy documents provide little support for the expansionary austerity 
+hypothesis. In particular, we compile an international dataset of fiscal policy adjustments 
+motivated by a desire to reduce the budget deficit and not in response to current and 
+prospective economic conditions using the Romer and Romer (2010) historical approach. 
+Based on the fiscal actions thus identified, our baseline specification implies that a 1 percent 
+of GDP fiscal consolidation reduces real private consumption by 0.75 percent within two 
+years, while real GDP declines by 0.62 percent. The baseline results survive a battery of 
+robustness tests. Our main finding that fiscal consolidation is contractionary holds up in cases 
+where one would most expect fiscal consolidation to raise private domestic demand. In 
+particular, even large spending-based fiscal retrenchments are contractionary, as are fiscal 
+consolidations occurring in economies with a high perceived sovereign default risk.  
+We also find that the decline in private consumption and private investment is mitigated by a 
+rise in net exports associated with a fall in the value of the domestic currency. In line with the 
+implications of standard models, this offsetting channel is less potent in economies with 
+pegged exchange rates. The analysis can be extended, using this multi-country dataset, by 
+exploring the effect of fiscal consolidation on the current account, thus contributing to the 
+literature on the “twin deficits” hypothesis (see Bluedorn and Leigh (2011) for a start in this 
+direction). 
+
+=== page 31 ===
+ 
+30 
+ 
+Our multi-country analysis could also be extended by collecting data on fiscal expansions 
+such as tax reforms motivated by reducing marginal tax rates and encouraging long-run 
+productivity growth. The only expansionary changes in fiscal policy currently included in our 
+sample are those reflecting the end of temporary fiscal retrenchments. As Romer and Romer 
+(2010) explain, policy changes based on long-run supply-side motivations can also be used to 
+identify the impact of fiscal policy on economic activity. Including such additional fiscal 
+policy actions in the sample would also raise the number of observed policy changes and 
+potentially raise the precision of our estimates. 
+  
+Appendix. Comparison of Fiscal Consoldiation Series and Change in CAPB 
+ 
+This appendix focuses on the largest discrepancies between the episodes identified by the 
+historical and CAPB-based approaches. In particular, we examine the 13 cases for which the 
+discrepancy between the two approaches exceeds 3 percent of GDP. These 13 cases are 
+highlighted in Figure 1 above. We describe each of these 13 cases, and explain how we 
+assess which provides a more accurate measure of deficit-driven fiscal consolidation.  
+ 
+Increase in CAPB larger than deficit-driven fiscal consolidation 
+ 
+We start with the eight cases in the top-left corner of Figure 1, which contains periods 
+identified as large fiscal consolidations based on the standard CAPB-based approach, but for 
+which the policy record shows either only a small consolidation or no deficit-driven 
+consolidation. We discuss the largest discrepancies first. 
+ 
+Netherlands (1996): The CAPB-to-GDP ratio increased by 7.0 percentage points, but the 
+policy record indicates no fiscal consolidation measures motivated by deficit reduction. This 
+discrepancy of 7.0 percent of GDP is mostly explained by the end of a large one-time capital 
+transfer made in the previous year, 1995, which induced a negative change in the CAPB-to-
+GDP ratio in 1995 followed by an offsetting positive change in 1996. In particular, as 
+reported in the 1995 IMF Recent Economic Developments report (p. 12): “In 1995, the 
+approximate present value of all social housing subsidies from 1995 onward was to be paid 
+in a one-time lump sum.” The OECD Economic Surveys 1995/1996 (p. 29) estimates this 
+lump-sum payment at 5.8 percent of GDP in 1995. So the end of this one-time transaction––
+which was unrelated to fiscal consolidation––explains the bulk (83 percent) of the 
+discrepancy between our policy record and the CAPB-to-GDP ratio. Specific budgetary 
+developments thus explain why the CAPB-based measure inaccurately identifies the size of 
+the consolidation in 1996 and largely explain the gap between the two measures. 
+ 
+Germany (1996): The CAPB-to-GDP ratio increased by 6.4 percentage points, but the policy 
+record indicates no fiscal consolidation measures motivated by deficit reduction, implying a 
+discrepancy of 6.4 percent of GDP. The large increase in the CAPB-to-GDP ratio in 1996 
+reflected a large one-time capital transfer in 1995, which implied a change in the CAPB of–
+6.8 percentage points in 1995. As the 1996 IMF Recent Economic Developments reports (p. 
+18), a one-time transfer of Treuhand (Trust Agency) and East German housing debt to the 
+general government amounting to 6.8 percent of GDP occurred in 1995. This one-time 
+increase in capital transfers raised the general government deficit to 9.7 percent of GDP in 
+
+=== page 32 ===
+ 
+31 
+ 
+1995 (OECD Economic Outlook Database No. 88, code NLGQ). The next year, 1996, the 
+one-time capital transfer ended and the government deficit fell to 3.3 percent of GDP, 
+implying a change of 6.3 percentage points in 1996 (9.7–3.3). Therefore, the sharp increase 
+in the CAPB in 1996 reflects the end of a one-time large accounting operation rather than 
+deficit-driven fiscal consolidation. Specific budgetary developments thus explain why the 
+CAPB-based measure inaccurately identifies the size of the fiscal consolidation and largely 
+explain the gap between the two measures. 
+ 
+Japan (1999): The CAPB-to-GDP ratio rose by 4.9 percentage points, but the policy record 
+shows no evidence of fiscal consolidation measures, implying a discrepancy of 4.9 percent of 
+GDP. Indeed, Japan’s fiscal consolidation program, initiated in 1997, was suspended at the 
+end of 1998 following the onset of a severe recession, and there is no evidence of measures 
+designed to cut the budget deficit until 2002, when the authorities announced a new multi-
+year program of fiscal consolidation (OECD Economic Surveys 2003, p. 15). Instead, as the 
+OECD Economic Surveys 1998 reports (p. 84), the government made a one-time capital 
+transfer in 1998 to the Japan National Railway, amounting to about ¥24.3 trillion (4.8 percent 
+of GDP). The one-time nature of this capital transfer implied a change in the (general 
+government) CAPB of about 4.8 percentage points of GDP in the following year, 1999. This 
+increase is similar to the 4.9 percentage point change in the CAPB-to-GDP ratio computed 
+by Alesina and Ardagna (2010). Specific budgetary developments thus explain why the 
+CAPB-based measure inaccurately identifies the size of the consolidation and largely explain 
+the gap between the two measures. 
+ 
+Finland (2000): The CAPB-to-GDP ratio increased by 4.1 percentage points, but this 
+reflected an exceptional rise in revenue during an asset price boom and spending restraint 
+motivated by reducing the risk of overheating. Therefore, despite the large increase in the 
+CAPB-to-GDP ratio, we do not consider this as a fiscal consolidation motivated by a desire 
+to reduce the budget deficit, and there is thus a discrepancy of 4.1 percent of GDP. Real stock 
+prices rose by 70 percent in 1999 and by 86 percent in 2000 (Haver Analytics Database) and 
+this led to an exceptional rise in cyclically-adjusted government revenue. The OECD 
+Economic Surveys 2001-2002 explains (p. 37): “The 2000 budget outcome: a very high 
+surplus was mainly due to one-off factors. In 2000, the rise in general government tax 
+revenues on income and wealth was exceptionally strong (23 per cent) as substantial one-off 
+revenues came on top of a sharp increase due to very rapid growth.” There was “a sharp and 
+mostly temporary rise in property income of 1.1 per cent of GDP” (p. 37) in part reflecting an 
+extraordinary dividend of the fully state-owned bank Leonia. Also, taxes and proceeds from 
+stock options and capital gains paid by households rose by about EUR 1.1 billion in 2000 (p. 
+120), or 0.83 percent of GDP. So extraordinary revenue gains unrelated to deliberate policy 
+measures amounted to about 1.93 percent of GDP (1.1+0.83). On the other hand, a deliberate 
+income tax cut motivated by supply-side considerations had a budgetary cost of about EUR 1 
+billion (p. 37), or 0.75 percent of GDP in 2000. On the spending side, cuts were put in place 
+in response to rapid growth and the risk of overheating. In the Ministry of Finance press 
+release of March 7 2000, the government expressed concerned that the economy was 
+overheating, recognized that monetary policy tightening was unlikely given Finland’s 
+
+=== page 33 ===
+ 
+32 
+ 
+participation in EMU, and announced new expenditure restraint.21 Spending cuts in 2000 
+amounted to about 2 percent of GDP and helped to restrain aggregate demand, as the 2001 
+IMF Staff Report (p. 8) reports: “staff estimates a fiscal withdrawal in 2000, brought about by 
+a tightening of structural primary spending relative to GDP, of some 2 percentage points of 
+GDP––strongly counteracting the monetary stimulus.” Finally, the overall soundness of the 
+government finances at the time provides further evidence that the spending cuts were 
+motivated primarily by preventing overheating rather than a desire to reduce the budget 
+deficit (the budget was in surplus), as the OECD Economic Surveys 1999-2000 explains (p. 
+11): “In this context, fiscal policy faces a dilemma as the cyclical situation would argue for 
+an ever tighter fiscal stance, while the soundness of the fiscal position would normally 
+provide considerable room for a much-needed reduction of the tax burden.” Overall, since 
+much of the increase in the CAPB in 2000 was due to the rise in revenue due to the asset-
+price boom and to countercyclical spending restraint, we do not classify this as a case of 
+fiscal consolidation motivated by deficit reduction. Specific economic and budgetary 
+developments thus explain why the CAPB-based measure inaccurately identifies the size of 
+the consolidation and largely explain the gap between the two measures. 
+ 
+Denmark (1986): The CAPB-to-GDP ratio increased by 3.6 percentage points, but this 
+reflected fiscal tightening to restrain domestic demand and reduce overheating, as well as 
+large capital gains. Deficit-reduction measures were implemented in the previous year, 1985, 
+but part of these were of a one-time nature (bringing forward of payment by taxpayers by one 
+year) and thus had a negative budgetary impact of DKr 5 billion (0.7 percent of GDP) the 
+following year, as explained in the 1985 IMF Recent Economic Developments (p. 48). The 
+discrepancy in this case is thus 4.3 percent of GDP (3.6+0.7). The 1987 IMF Staff Report 
+explains that fiscal tightening in 1986 was motivated by restraining domestic demand to 
+reduce overheating (p. 2): “In order to curb demand pressures and reduce overheating in 
+certain sectors of industry, the Danish authorities introduced a package of fiscal measures in 
+December 1985. This package included increased energy taxes and cutbacks in public works, 
+as well as stepped up education and training to promote Labor market flexibility and reduce 
+bottlenecks. Despite these measures, domestic demand continued to grow rapidly and 
+pressures on the external accounts mounted. The authorities responded by introducing 
+another package of fiscal measures in mid-March 1986, consisting mainly of increased, 
+energy taxes. The two packages together were estimated to strengthen the budget by some 
+2½ percent of GDP, and to move the public sector into significant surplus. The authorities 
+expected that these measures would hold the growth of domestic demand to less than 3 
+percent in 1986, and reduce the external current account deficit to about 2¾ percent of 
+GDP... ” In addition, “Concern over the strength of domestic demand and the widening 
+external deficit led the authorities to introduce yet another fiscal package in October 1986, 
+the third within a year. The main measure was a 20 percent tax on net interest payments on 
+consumer credit, aimed at discouraging borrowing for private consumption” (p. 6). Finally, 
+                                                 
+21 Countercyclical spending restraint was also put in place in 1999 in response to rapid growth and the risk of 
+overheating, as the OECD Economic Survey 1998-1999 explains (p. 33):  “The draft 1999 budget included FIM 
+4 billion (0.6 per cent of GDP) additional spending cuts compared to the preliminary expenditure guideline 
+aimed at limiting the risk of overheating.” 
+
+=== page 34 ===
+ 
+33 
+ 
+cyclically-adjusted government revenue was boosted by a number of special factors related to 
+the 1986 boom but not related to deliberate tax hikes, as the 1987 IMF Staff Report explains 
+(p. 10): “Large capital gains in 1985 had resulted in higher corporate tax revenue from 
+financial institutions in 1986.” Thus, much of the increase in the CAPB-to-GDP ratio in 1986 
+was the result of deliberate tightening to reduce overheating and exceptionally high revenues 
+due to strong growth and capital gains. Therefore, we do not consider this as a fiscal 
+consolidation motivated by a desire to reduce the budget deficit. Specific economic and 
+budgetary developments largely explain the gap between the two measures. 
+ 
+Belgium (1984): The CAPB-to-GDP ratio increased by 4.7 percentage points, but the policy 
+record indicates fiscal consolidation measures amounting to 0.7 percent of GDP, implying a 
+discrepancy of 4.0 percent of GDP. At the same time, the CAPB-to-GDP ratio reported in the 
+OECD Economic Outlook Database No. 88 (code NLGXQA) rises by 4.1 percentage points in 
+1984. Thus, 0.6 percentage points of the discrepancy (4.7–4.1) is due to differences in the 
+CAPB versions. Of the remaining 3.4 percentage point discrepancy (4.1–0.7), most is 
+explained by the end of a one-time capital transfer made in 1983. In particular, the OECD 
+Economic Outlook Database No. 88 indicates an increase in capital transfers (code TKPGQU) 
+in 1983 that had an impact on the change in the CAPB-to-GDP ratio of –2.1 percentage 
+points in 1983 and 2.1 percentage points in 1984 when it ended. The policy record suggests 
+that this increase in capital transfers in 1983 reflected “direct aid to industry” (OECD 
+Economic Surveys 1985/1986, pp. 25–26). Since the aid was motivated by supporting 
+economic activity, we do not subtract its budgetary cost from our series of deficit-driven 
+fiscal policy changes. The end of this spending in 1984 thus explains about two-thirds 
+(2.1/3.4) of the remaining discrepancy between the CAPB-based approach and our action-
+based approach. Specific budgetary developments thus explain why the CAPB-based 
+measure inaccurately identifies the size of deficit-driven fiscal consolidation and helps 
+explain the gap between the two measures. 
+ 
+Japan (2006): The CAPB-to-GDP ratio increased by 4.1 percentage points, but the policy 
+record indicates fiscal consolidation measures amounting to only 0.7 percent of GDP, 
+implying a discrepancy of 3.4 percent of GDP. At the same time, the CAPB-to-GDP ratio 
+reported in the OECD Economic Surveys 2008 rose by only 3.2 percentage points in 2006 
+(Table 3.1, p. 65, line 4). Thus, some (0.9 percentage point) of the discrepancy is due to 
+differences in the CAPB versions. In addition, the OECD Economic Surveys 2008 indicates 
+that a large part of the CAPB increase resulted from one-time asset operations that improved 
+the fiscal balance in 2006 but were unrelated to tax hikes or spending cuts.22 Without these 
+one-time asset operations, the OECD Economic Surveys 2008 estimates that the CAPB-to-
+GDP ratio increased by only 0.4 percentage point in 2006 (OECD Economic Surveys 2008, 
+Table 3.1, p. 65, line 8). Therefore, once the change in the CAPB-to-GDP ratio is adjusted to 
+remove the influence of asset operations unrelated to tax hikes and spending cuts, the 
+                                                 
+22 The OECD Economic Surveys 2008 reports that the one-time factors include receipts of funds by the 
+government from corporate pension funds, receipts associated with the privatization of highway corporations, 
+and receipts from the “transfer of the reserve fund from the Fiscal Loan Fund Special Account to the central 
+government” (p. 65). 
+
+=== page 35 ===
+ 
+34 
+ 
+increase in the CAPB-to-GDP ratio is close to our estimate of deficit-driven fiscal 
+consolidation of 0.7 percent of GDP. Specific budgetary developments thus explain why the 
+CAPB-based measure inaccurately identifies the size of deficit-driven fiscal consolidation 
+and largely explain the gap between the two measures. 
+ 
+Finland (1988): The CAPB-to-GDP ratio increased by 3.4 percentage points, but this 
+reflected a tightening in fiscal policy primarily motivated by restraining domestic demand in 
+an overheated economy, as well as the end of one-time stimulus introduced in 1987. The 
+1988 IMF Staff Report explains (p. 6): “The authorities decided to tighten the policy stance in 
+the 1988 fiscal budget to help restrain domestic demand and influence expectations ahead of 
+the 1988 wage round. The principal measures were to limit the inflation adjustment of tax 
+brackets to 2 percent and allow no inflation adjustment of tax allowances. In addition, fuel 
+taxes were raised and indirect taxes on alcoholic beverages and tobacco were increased. In 
+January 1988, indirect taxes were increased further. In early 1988, monetary policy was also 
+tightened.” Similarly, the OECD Economic Surveys 1987/1988 reports that “The 1988 budget 
+foresees a tightening of the fiscal policy stance because of concerns about rapid private 
+consumption growth and a deteriorating current account balance” (p. 15). The positive 
+change in the CAPB also reflected end in 1988 of one-time fiscal stimulus measures 
+implemented in 1987 of about 1 percent of GDP (1988 IMF Staff Report, p. 23). Overall, 
+since the rise in the CAPB reflected the end of one-off measures in 1987 and a 
+countercyclical fiscal tightening to restrain domestic demand in 1988, we do not classify this 
+year as one of fiscal consolidation motivated by a desire to reduce the budget deficit. Specific 
+economic and budgetary developments thus explain why the CAPB-based measure 
+inaccurately identifies the size of the deficit-driven consolidation and largely explain the gap 
+between the two measures. 
+  
+Deficit-driven fiscal consolidation larger than increase in CAPB 
+ 
+Next, we turn to the five cases in the bottom-right corner of Figure 1––periods identified as 
+large deficit-driven consolidations based on the historical approach, but that feature either a 
+fall in the CAPB or a small increase. Again, we discuss the largest discrepancies first. 
+ 
+Ireland (2009): The CAPB-to-GDP ratio fell by 4.4 percentage points, but the historical 
+record reports fiscal consolidation measures of 4.7 percent of GDP, implying a discrepancy 
+of 9.1 percentage points. The fall in the CAPB reflects the impact of the sharp recession in 
+2009 during which real stock and house prices fell by 44 percent and 20 percent, respectively 
+(Haver Analytics Database). For reasons discussed above, such sharp contractions tend to 
+have a negative impact on the CAPB, causing the CAPB-based approach to inaccurately 
+identify the size of consolidation measures. Indeed, while the CAPB-to-GDP ratio computed 
+by Alesina and Ardagna (2010) falls by 4.4 percentage points, the CAPB-to-GDP ratio 
+reported in the OECD Economic Outlook Database No. 88 (code NLGQA) falls by 
+2.7 percentage points, suggesting that 1.7 percentage points of the discrepancy (4.4–2.7) is 
+due to the differences in the CAPB versions. Of the remaining 7.4 percent of GDP 
+discrepancy, 1.2 percentage points is driven by a decline in cyclically-adjusted tax revenue 
+directly related to asset prices, as the 2009 Budget explains (Macroeconomic and Fiscal 
+Framework, 2009-2013, p. 9): “The decline in capital taxes (Capital Gains Tax, Capital 
+
+=== page 36 ===
+ 
+35 
+ 
+Acquisitions Tax and Stamp Duty) is of particular note. From the mid-part of this decade, 
+revenue from these taxes increased significantly, driven by the strength of the construction 
+sector and by increasing asset values.… From 2007 onwards, however, revenue from these 
+tax heads has been adversely affected by negative developments in property and financial 
+markets. At this stage, the overall yield from capital taxation is back at the levels last seen in 
+the early part of this decade. This development presents a significant gap in Exchequer 
+revenue which will not be replenished as the economic cycle improves over the coming 
+years. As such this represents a significant structural gap in the revenue base.” In particular, 
+these capital taxes fell by about 55 percent in 2009 to €1.5 billion (December 2009 Ireland 
+Stability Program, Table 1b), representing a fall in cyclically-adjusted revenue of 1.2 percent 
+of GDP. Also, with real private consumption contracting by 7.5 percent in 2009, the 
+cyclically-adjusted indirect tax-to-GDP ratio fell by 1.1 percentage points (OECD Economic 
+Outlook Database No. 88, code TINDA) despite a deliberate hike in the VAT rate and in 
+excise duties (October 2008 Ireland Stability Program, p. D.16). Finally, discretionary 
+spending on banking sector support had a budgetary impact of 2.5 percent of GDP in 2009. 
+In particular, support provided by the government to Anglo Irish Bank in June 2009 
+amounted to €4 billion, or 2.5 percent of GDP (see Ireland Department of Finance 
+Information Note on Ireland’s Reported 2009 General Government Deficit released on April 
+22, 2010). Since this spending was motivated by a response to economic developments, we 
+do not subtract it from the budgetary impact of fiscal consolidation measures. Overall, 
+excluding the cyclically-adjusted revenue decline and the banking support in response to 
+economic developments, the CAPB-to-GDP ratio rises by 2.1 percentage points (–
+2.7+1.2+1.1+2.5), which represents a large fiscal consolidation and is substantially closer to 
+our estimated size of fiscal consolidation than the baseline change in the CAPB-to-GDP ratio 
+is. Specific economic and budgetary developments thus explain why the CAPB-based 
+measure inaccurately identifies the size of the consolidation and largely explain the gap 
+between the two measures. 
+ 
+Germany (1995): The CAPB-to-GDP ratio fell by 6.7 percentage points, but the policy record 
+indicates fiscal consolidation measures motivated by deficit reduction worth 1.1 percent of 
+GDP, implying a discrepancy of 7.8 percent of GDP (6.7+1.1). As discussed above, a large 
+one-time capital transfer of Treuhand (Trust Agency) and East German housing debt to the 
+general government account implied a change in the (general government) CAPB of –6.8 
+percentage points in 1995 (1996 IMF Recent Economic Developments, p. 18). This one-time 
+transfer explains the bulk of the discrepancy between the action-based and CAPB-based 
+measure of fiscal consolidation. Specific budgetary developments thus explain why the 
+CAPB-based measure inaccurately identifies the size of the consolidation and largely explain 
+the gap between the two measures. 
+ 
+Japan (1998): The CAPB-to-GDP ratio fell by 5.4 percentage points, but the policy record 
+indicates fiscal consolidation measures motivated by deficit reduction worth 0.5 percent of 
+GDP, implying a discrepancy of 5.9 percent of GDP (5.4+0.5). As the OECD Economic 
+Surveys 1998 reports (p. 84), the financial debt of the Japan National Railway, amounting to 
+about ¥24.3 trillion (4.8 percent of GDP), was assumed by the general government account in 
+1998 implying a change in the CAPB of –4.8 percent of GDP. In addition, the April 1998 
+fiscal stimulus package introduced in response to the recession (1998 IMF Staff Report, p. 8) 
+
+=== page 37 ===
+ 
+36 
+ 
+implied an additional negative impact on the CAPB in 1998. Therefore, the change in the 
+CAPB in 1998 was influenced by two developments unrelated to deficit reduction: a large 
+accounting operation and a fiscal stimulus in response to the recession. These two factors 
+also explain the bulk of the discrepancy between our action-based estimate of 0.5 percent of 
+GDP and the change in the CAPB-to-GDP ratio of –5.4 percentage points. Therefore, our 
+action-based measure provides a more accurate estimate of deficit-driven fiscal 
+consolidation. 
+ 
+Spain (1993): The CAPB-to-GDP ratio fell by 3.3 percentage points, but the policy record 
+indicates fiscal consolidation measures totaling 1.1 percent of GDP, implying a discrepancy 
+of 4.4 percent of GDP. The fall in the CAPB reflects the impact of the sharp recession 
+associated with the European Exchange Rate Mechanism (ERM) crisis (GDP contracted by 1 
+percent while unemployment rose about 4 percentage points in 1993). As discussed above, 
+such sharp contractions in economic activity can make the CAPB-based approach 
+inaccurately identify the size of fiscal consolidation measures. Indeed, the CAPB-to-GDP 
+ratio reported in the OECD Economic Outlook Database No. 88 (code NLGXQA) falls only 
+by 0.6 percent of GDP in 1993, suggesting that the bulk of the discrepancy (2.7 percentage 
+points) is due to the differences in the CAPB versions. Regarding the remaining 1.7 
+percentage point discrepancy (4.4–2.7), the 1994 IMF Recent Economic Developments (p. 
+11) reports a one-time financial transaction with a budgetary cost of Ptas 935 billion (1.5 
+percent of GDP) in 1993 to cover operations that took place prior to 1993. Thus, specific 
+economic and budgetary developments explain why the CAPB-based measure inaccurately 
+identifies the size of the consolidation and largely explain the gap between the two measures. 
+ 
+Italy (1993): The CAPB-to-GDP ratio increased by 0.2 percentage points in 1993, but the 
+policy record reports a large consolidation of 4.5 percent of GDP, implying a discrepancy of 
+4.3 percent of GDP (4.5–0.2). A plausible reason for this discrepancy is that there was a 
+sharp economic contraction in 1993 associated with the ERM crisis, which, for the reasons 
+explained above, would cause the CAPB-based approach to be inaccurate. Indeed, the 
+CAPB-to-GDP ratio from the OECD Economic Outlook Database No. 88 (code NLGXQA) 
+increases by 1.8 percentage points, which is consistent with a large fiscal consolidation in 
+1993. However, even this larger estimate of fiscal consolidation is smaller than what is in the 
+policy record. In particular, the OECD Economic Surveys 1994 (pp. 44-47), 1993 IMF 
+Recent Economic Developments (pp. 7-8), and the 1993 Banca d’Italia Annual Report (p. 
+145) all report that fiscal consolidation measures in 1993 amounted to more than 4.0 percent 
+of GDP. The source of the remaining discrepancy vis-à-vis the change in the CAPB-to-GDP 
+ratio could plausibly reflect the fact that, during sharp recessions, cyclical adjustment 
+techniques tend to allocate part of the fiscal worsening due to automatic stabilizers to a fall in 
+the CAPB. This problem causes the increase in the CAPB to understate the size of fiscal 
+consolidation measures. Overall, in this case, there was a crisis and a large economic 
+contraction that could plausibly have caused the CAPB-based approach to be highly 
+inaccurate.  
+ 
+This examination of the 13 largest disagreements between the two approaches suggests that 
+our action-based approach more accurately identifies the size of deficit-driven fiscal 
+consolidation. We find 12 cases where we are able to identify specific economic or budgetary 
+
+=== page 38 ===
+ 
+37 
+ 
+developments that cause the CAPB-based measure used in the literature to inaccurately 
+identify the size of deficit-driven fiscal consolidation and that largely explain the gap 
+between the two measures. In one case (Italy in 1993), there was a sharp economic 
+contraction that could plausibly have caused the CAPB-based approach to be highly 
+inaccurate. We find no cases where there is evidence that our action-based measure was less 
+accurate. 
+ 
+References 
+ 
+Alesina, Alberto, and Silvia Ardagna, 2010, “Large Changes in Fiscal Policy: Taxes versus 
+Spending,” Tax Policy and the Economy, Vol. 24, ed. by Jeffrey R. Brown (Cambridge, 
+Massachusetts: National Bureau of Economic Research). 
+Alesina, Alberto, and Roberto Perotti, 1995, “Fiscal Expansions and Fiscal Adjustments in 
+OECD Countries,” Economic Policy, Vol. 10, No. 21, pp. 205–248. 
+———, 1997, “Fiscal Adjustments in OECD Countries: Composition and Macroeconomic 
+Effects,” IMF Staff Papers, Vol. 44 (June), pp. 210–48. 
+Arellano, Manuel and Stephen Bond, 1991, “Some Tests of Specification for Panel Data: 
+Monte Carlo Evidence and an Application to Employment Equations,” Review of 
+Economic Studies 58: pp. 277-297. 
+Barro, Robert J., and Charles J. Redlick, “Macroeconomic Effects from Government 
+Purchases and Taxes,” Quarterly Journal of Economics, 126 (February 2011), 51-102. 
+Bayoumi, Tamim, and Hamid Faruqee, 1998, “A Calibrated Model of the Underlying 
+Current Account,” in Peter Isard and Hamid Faruqee (eds.), 1998, “Exchange Rate 
+Assessment: Extensions of the Macroeconomic Balance Approach,” IMF Occasional 
+Paper No. 167 (Washington: International Monetary Fund). 
+Beetsma, Roel, Massimo Giuliodori, and Franc Klaassen, 2008, “The Effects of Public 
+Spending Shocks on Trade Balances and Budget Deficits in the European Union,” 
+Journal of the European Economic Association, Volume 6, Issue 2-3, pages 414–423, 
+April-May 2008. 
+Bernanke, Ben S., and Ilian Mihov, 1998, “Measuring Monetary Policy.” Quarterly Journal 
+of Economics, August 1998, 113(3), pp. 869–902. 
+Blanchard, Olivier J., 1990, “Suggestions for a New Set of Fiscal Indicators,” OECD 
+Economics Department Working Paper No. 79 (Paris: Organization for Economic 
+Cooperation and Development). 
+Blanchard, Olivier J., 1990, Comment on Francesco Giavazzi and Marco Pagano, “Can 
+Severe Fiscal Consolidations Be Expansionary? Tales of Two Small European 
+Countries,” NBER Macroeconomics Annual, Vol. 5, pp. 111-116 (Cambridge, 
+Massachusetts: National Bureau of Economic Research). 
+
+=== page 39 ===
+ 
+38 
+ 
+———, and Roberto Perotti, 2002, “An Empirical Characterization of the Dynamic Effects 
+of Changes in Government Spending and Taxes on Output,” Quarterly Journal of 
+Economics, Vol. 107 (November), pp. 1329–68. 
+Bluedorn, John, and Daniel Leigh, 2011, “Revisiting the Twin Deficits Hypothesis: The 
+Effect of Fiscal Consolidation on the Current Account,” manuscript (International 
+Monetary Fund). 
+Bubula, Andrea, and Inci Otker-Rober, 2002, “The Evolution of Exchange Rate Regimes 
+Since 1990: Evidence from De Facto Policies,” IMF Working Paper No. WP/02/155 
+(Washington: International Monetary Fund).  
+Christiano, Lawrence J., Martin Eichenbaum, and Charles Evans, 1996, “The Effects of 
+Monetary Policy Shocks: Evidence from the Flow of Funds.” Review of Economics and 
+Statistics, February 1996, 78(1), pp. 16–34. 
+Cloyne, James, 2011, “What are the Effects of Tax Changes in the United Kingdom? New 
+Evidence from a Narrative Evaluation,” manuscript (University College London). 
+Coibion, Olivier, 2011, “Are the Effects of Monetary Policy Shocks Big or Small?” NBER 
+Working Paper No. 17034 (Cambridge, Massachusetts: National Bureau of Economic 
+Research). 
+Devries, Pete, Guajardo, Jaime, Daniel Leigh, and Andrea Pescatori, 2011, “An Action-based 
+Analysis of Fiscal Consolidation in OECD Countries,” IMF Working Paper No. 11/128 
+(Washington: International Monetary Fund). 
+Eichengreen, Barry, and Ashoka Mody, 2004, “Do Collective Action Clauses Raise 
+Borrowing Costs?” Economic Journal, Royal Economic Society, Vol. 114(495), pp. 247–
+64. 
+European Commission (EC), Stability and Convergence Programs, various years (Brussels), 
+http://ec.europa.eu/economy_finance/sgp/convergence/programmes/index_en.htm 
+Finland Ministry of Finance, 2000, Press release, “Government agrees on expenditure 
+guidelines,” March 7, 
+http://www.vm.fi/vm/en/03_press_releases_and_speeches/01_press_releases/2000/6934/
+name.jsp 
+Giavazzi, Francesco, and Marco Pagano, 1990, “Can Severe Fiscal Consolidations Be 
+Expansionary? Tales of Two Small European Countries,” NBER Macroeconomics 
+Annual, Vol. 5, pp. 75-111 (Cambridge, Massachusetts: National Bureau of Economic 
+Research). 
+———, 1996, “Non-Keynesian Effects of Fiscal Policy Changes: International Evidence and 
+the Swedish Experience,” Swedish Economic Policy Review, Vol. 3, No. 1, pp. 67–103. 
+Hall, Robert E., 2009, “By How Much Does GDP Rise If the Government Buys More 
+
+=== page 40 ===
+ 
+39 
+ 
+Output?” Brookings Papers on Economic Activity 2009:2, Fall, pp. 183–231. 
+Ilzetzki, Ethan, Enrique G. Mendoza, and Carlos A. Végh, 2010, “How Big are Fiscal 
+Multipliers?” NBER Working Paper 16479 (Cambridge, Massachusetts: National Bureau 
+of Economic Research). 
+International Monetary Fund (IMF), IMF staff reports for Article IV consultations, 1978–
+2009 (Washington). 
+———, Recent Economic Developments, 1978–2009 (Washington). 
+———, 2010, World Economic Outlook, October 2010 (Washington). 
+Ireland Department of Finance, Budget, various years. 
+Ireland Department of Finance, 2010, Information Note on Ireland’s Reported 2009 General 
+Government Deficit, April 22, 2010, http://www.finance.gov.ie/viewdoc.asp?DocID=-
+1&CatID=14&StartDate=1+January+2010 
+Jayadev, Arjun and Mike Konczal, 2010, “The Boom Not The Slump: The Right Time For 
+Austerity,” manuscript (Washington: Roosevelt Institute). 
+Kilian and Vigfusson, 2009, “Pitfalls in Estimating Asymmetric Effects of Energy Price 
+Increases,” CEPR Discussion Paper with number 7284. 
+Krugman, Paul, 2010, “Alesina On Stimulus,” The New York Times, February 6, 2010, 
+http://krugman.blogs.nytimes.com/2010/02/06/alesina-on-stimulus/ 
+Milesi-Ferretti, Gian Maria, 2009, “The Financial Crisis and its International Transmission: 
+Some Tentative Lessons,” manuscript (Washington: International Monetary Fund). 
+Morris, Richard, and Ludger Schuknecht, 2007, “Structural Balances and Revenue 
+Windfalls: the Role of Asset Prices Revisited,” European Central Bank Working Paper 
+Series No. 737. 
+Organization for Economic Cooperation and Development (OECD), OECD Economic 
+Surveys, various years (Paris). 
+Ramey, Valerie A., 2011, “Identifying Government Spending Shocks: It’s All in the 
+Timing,” Quarterly Journal of Economics (forthcoming). 
+———, and Matthew D. Shapiro, 1998, “Costly Capital Reallocation and the Effects of 
+Government Spending,” Carnegie-Rochester Conference Series on Public Policy 48 
+(June), pp. 145–194. 
+Reinhart, Carmen M., Kenneth S. Rogoff, and Miguel A. Savastano, 2003, “Debt 
+Intolerance,” NBER Working Paper No. 9908 (Cambridge, Massachusetts: National 
+Bureau of Economic Research). 
+
+=== page 41 ===
+ 
+40 
+ 
+Romer, Christina D., and David H. Romer, 2004, “A New Measure of Monetary Shocks: 
+Derivation and Implications,” American Economic Review, Vol. 94, No. 4, pp. 1055–84. 
+———, 2010, “The Macroeconomic Effects of Tax Changes: Estimates Based on a New 
+Measure of Fiscal Shocks,” American Economic Review, Vol. 100, No. 3, pp. 763–801. 
+Sims, Christopher A, 1992, “Interpreting the Macroeconomic Time Series Facts: The Effects 
+of Monetary Policy.” European Economic Review, Vol. 36(5), pp. 975–1000. 
+Wolswijk, Guido, 2007, “Short- and Long-Run Tax Elasticities - the Case of the 
+Netherlands,” European Central Bank Working Paper Series No. 763 (Frankfurt: 
+European Central Bank). 
+ 

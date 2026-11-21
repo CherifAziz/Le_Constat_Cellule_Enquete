@@ -1,0 +1,2345 @@
+
+=== page 1 ===
+RAPPORT IPP No 27 - Octobre 2020
+Suppression de la taxe d’habita-
+tion et réallocation de la ﬁscalité
+locale
+Brice Fabre
+
+=== page 2 ===
+
+=== page 3 ===
+L’Institut des politiques publiques (IPP) est développé dans le
+cadre d’un partenariat scientiﬁque entre PSE-Ecole d’économie
+de Paris (PSE) et le Centre de Recherche en Economie et Sta-
+tistique (CREST). L’IPP vise à promouvoir l’analyse et l’évaluation
+quantitatives des politiques publiques en s’appuyant sur les mé-
+thodes les plus récentes de la recherche en économie.
+www.ipp.eu
+
+=== page 4 ===
+RAPPORT IPP No 27 - Octobre 2020
+Suppression de la taxe d’habita-
+tion et réallocation de la ﬁscalité
+locale
+Brice Fabre
+
+=== page 5 ===
+
+=== page 6 ===
+Remerciements
+LES AUTEURS DU RAPPORT
+Brice Fabre est directeur du programme « Fiscalité des ménages » à l’Institut des
+politiques publiques (IPP). Diplômé de l’École normale supérieure de Cachan et
+titulaire d’un doctorat en Sciences économiques de l’EHESS, il a consacré ses re-
+cherches doctorales à l’étude des ﬁnances des communes françaises. Il rejoint l’IPP
+en octobre 2016, où il s’intéresse aux questions relatives à la ﬁscalité et aux presta-
+tions sociales.
+Page personnelle : http://www.parisschoolofeconomics.eu/fr/fabre-brice/
+1
+
+=== page 7 ===
+Evaluation de la réforme de la ﬁscalité locale
+2
+
+=== page 8 ===
+REMERCIEMENTS
+Je remercie l’Assemblée des Communautés de France (AdCF) et l’Institut pour
+la recherche de la Caisse des Dépôts pour le ﬁnancement de cette étude, et pour
+les interactions fructueuses que nous avons eu tout au long du projet. Je remercie
+particulièrement Claire Delpech, Isabelle Laudier et Nicolas Portier.
+Mes remerciements vont également à Gautier Merit pour son aide précieuse,
+ainsi qu’à l’ensemble des personnes avec qui j’ai interagi au sujet de cette étude.
+Je tiens à remercier les services producteurs des données exploitées dans ce rap-
+port, notamment la Direction générale des Finances publiques (DGFiP) et l’Institut
+national de la statistique et des études économiques (Insee).
+Les conclusions et opinions émises dans ce rapport sont propres à leurs auteurs
+et n’engagent ni l’AdCF, ni l’Institut pour la recherche de la Caisse des Dépôts.
+3
+
+=== page 9 ===
+Evaluation de la réforme de la ﬁscalité locale
+4
+
+=== page 10 ===
+SYNTHÈSE DES RÉSULTATS
+Cette étude a été commanditée par l’Assemblée des Communautés de France
+(AdCF) et l’Institut pour la recherche de la Caisse des Dépôts aﬁn d’évaluer la ré-
+forme relative à la réallocation de la ﬁscalité locale suite à la suppression de la taxe
+d’habitation (TH) sur les résidences principales. La suppression de la TH sur les
+résidences principales correspond à une perte de recettes ﬁscales de 21,6 milliards
+d’euros pour le bloc communal, à savoir pour les communes et établissements pu-
+blics de coopération intercommunale (EPCI). La loi de ﬁnances pour 2020 (LF2020)
+prévoit de compenser les communes de cette perte de recettes ﬁscales en leur trans-
+férant le taux de taxe foncière sur les propriétés bâties (TFPB) des départements.
+Les EPCI et départements (qui eux perdent leur TFPB) seraient compensés par une
+fraction des recettes de la taxe sur la valeur ajoutée (TVA). Cette étude se focalise
+sur la descente de TFPB vers les communes, en analysant la nature des compen-
+sations qu’elle engendrerait, le montant de TFPB transféré à chaque commune ne
+correspondant pas nécessairement au montant de sa TH perdue. Ce rapport pré-
+sente également les impacts de deux scénarios alternatifs en termes de partage de
+la TFPB départementale entre les communes et les EPCI, pour enﬁn apporter une
+discussion plus générale sur la structure de cette réforme.
+Le contenu de la réforme
+●L’article 16 de la loi de ﬁnances pour 2020 (LF2020) acte la suppression de
+la TH sur les résidences principales pour l’ensemble des ménages français,
+5
+
+=== page 11 ===
+Evaluation de la réforme de la ﬁscalité locale
+donnant ainsi naissance à la « taxe d’habitation sur les résidences secondaires
+et autres locaux meublés non affectés à l’habitation principale »(THRS). Cette
+article codiﬁe les dispositions prévues pour compenser le bloc communal de
+la perte de recettes ﬁscales que ce changement implique.
+●Les communes se verraient transférer le taux de TFPB de leur département.
+Cette mesure implique des niveaux de compensation hétérogènes ne corres-
+pondant pas nécessairement aux recettes de TH perdues par chaque com-
+mune.
+●Aﬁn de corriger ces déséquilibres en termes de compensation, la LF2020 pré-
+voit la création d’un mécanisme de « coefﬁcient correcteur », à travers lequel
+les communes surcompensées reverseraient le montant de leur surcompen-
+sation et les communes sous-compensées percevraient en plus du montant
+transféré de TFPB un transfert égal à leur niveau de sous-compensation.
+●Ces contributions et transferts correcteurs seraient dynamiques. La contribu-
+tion ou le transfert d’une commune donnée évoluerait chaque année en fonc-
+tion de la variation de sa base ﬁscale.
+●Les EPCI et départements se verraient allouer quant à eux une fraction des
+recettes de TVA. Cette fraction correspond pour chacune de ces collectivités
+au rapport entre ses recettes ﬁscales perdues et les recettes de TVA constatées
+avant la réforme.
+Méthodologie
+●Le but de ce rapport est de présenter la distribution des compensations des
+communes que le transfert du taux de TFPB départemental implique, ainsi
+que celle sous plusieurs scénarios alternatifs en termes de partage de la TFPB
+entre échelons territoriaux.
+6
+
+=== page 12 ===
+Synthèse des résultats
+●Nous utilisons pour cela les ﬁchiers 2017 et 2018 de recensement des élé-
+ments d’imposition à la ﬁscalité directe locale (REI) produits par la Direction
+générale des Finances publiques (DGFiP), qui recensent pour chaque collec-
+tivité l’ensemble des éléments relatifs à sa ﬁscalité locale (bases ﬁscales, taux
+de taxation, abattements, etc.).
+●Les distributions de compensations sont analysées dans un cadre statique, à
+taux de TFPB et bases ﬁscales inchangés par rapport au dernier millésime
+disponible des ﬁchiers REI.
+Les compensations engendrées par la réforme (scénario LF)
+●On observe une forte hétérogénéité des degrés de compensation entre com-
+munes. 69 % d’entre elles seraient surcompensées. La masse des contributions
+de ces communes au titre du mécanisme de coefﬁcient correcteur s’élèverait
+à 2,9 milliards d’euros, soit 9 % du produit total de TFPB dont s’acquittent les
+contribuables pour tous les échelons territoriaux.
+●Ce mécanisme de correction devant être dynamique en fonction des bases
+ﬁscales, ce résultat illustre la perte relativement importante de la territorialité
+du produit de la TFPB que cette réforme implique.
+●Les niveaux de compensation sont fortement corrélés aux caractéristiques du
+département d’appartenance de la commune, du fait du transfert d’un taux
+déterminé à l’échelle départementale.
+●Le niveau de compensation des communes est ainsi d’autant plus fort que le
+territoire communal appartient à un département peu peuplé, à faible densité,
+et dont les résidents se caractérisent par des revenus relativement faibles et
+un taux de chômage élevé.
+●Il existe néanmoins des corrélations marquées entre les caractéristiques com-
+munales et le niveau de compensation des communes. Les niveaux de com-
+7
+
+=== page 13 ===
+Evaluation de la réforme de la ﬁscalité locale
+pensation décroissent en moyenne en fonction de la population de la com-
+mune ainsi qu’en fonction du revenu disponible médian des résidents de la
+commune.
+●Ces différences sont principalement dues à une hétérogénéité relative à la
+différence entre le taux de TFPB transféré et le taux de TH communale, et
+peu au résultat de différences de bases ﬁscales entre ces deux taxes.
+●Dans le contexte du mécanisme de coefﬁcient correcteur, ces résultats im-
+pliquent des transferts ancrés sur le long terme et dynamiques, de communes
+en moyenne moins peuplées et à plus faible revenu, vers des communes en
+moyenne plus urbaines où le pouvoir d’achat des résidents est plus important.
+Un partage de la TFPB entre communes et EPCI (scénario A1)
+●Nous évaluons dans un second temps un premier scénario alternatif (scénario
+A1), ayant la même structure mais dans lequel une fraction du taux de la
+TFPB départementale serait allouée aux EPCI. Cette fraction est déﬁnie de
+manière uniforme sur tout le territoire.
+●L’intérêt de ce scénario est double. D’une part, la base ﬁscale de la TFPB est
+liée aux décisions des EPCI qui possèdent des compétences en termes d’urba-
+nisme et d’aménagement du territoire. D’autre part, un transfert de taux de
+TFPB aux intercommunalités peut permettre d’atténuer l’hétérogénéité des
+degrés de compensation et donc la perte de territorialité de la TFPB que la
+structure de cette réforme implique.
+●Nos résultats suggèrent que ce scénario ne permet pas d’atténuer cette perte
+de territorialité. Les EPCI se caractérisent également par un niveau d’hétéro-
+généité qui implique des compensations agrégées presque aussi importantes
+que dans la réforme prévue par la loi de ﬁnances pour 2020.
+8
+
+=== page 14 ===
+Synthèse des résultats
+●De nouveau, les compensations des EPCI sont fortement corrélées à leur dé-
+partement d’appartenance. Nous constatons également une relation décrois-
+sante entre le niveau de compensation des EPCI et la population intercommu-
+nale. En revanche, ne se dégage aucun effet clair entre le revenu disponible
+médian des ménages résidents sur le territoire de l’EPCI et le montant de
+compensation.
+Une compensation exacte des EPCI par la TFPB départemen-
+tale (scénario A2)
+●Nous évaluons enﬁn un deuxième scénario alternatif (scénario A2) dans le-
+quel la fraction du taux de TFPB départemental allouée aux EPCI est spéci-
+ﬁque à chaque territoire intercommunal, et déterminée de telle sorte à ce que
+l’EPCI reçoive une TFPB du département égale à son montant de TH perdu.
+L’intérêt d’un tel scénario est de réduire de manière signiﬁcative la perte de
+territorialité de la TFPB. Les communes recevraient le reliquat de TFPB dé-
+partementale.
+●Les montants de surcompensation des communes se trouvent réduits, les com-
+munes ne percevant qu’une partie de la TFPB perçue par le département sur
+leur territoire. Alors que les montants de surcompensation s’élèvent à 2,9 mil-
+liards d’euros dans la réforme prévue par la LF2020, ce montant est de 800
+millions d’euros pour ce scénario. Ainsi, la plupart du produit de TFPB peut
+rester sur son territoire de perception.
+Discussion et perspectives générales
+●La réforme prévue par la loi de ﬁnances pour 2020 prévoit un système dans
+lequel les niveaux de compensation seraient neutralisés à travers un méca-
+nisme correcteur dont les transferts et contributions seraient liés à l’évolution
+9
+
+=== page 15 ===
+Evaluation de la réforme de la ﬁscalité locale
+des bases ﬁscales, et constituent donc des transferts horizontaux de ﬁscalité
+sur le long terme.
+●Ces transferts horizontaux présentent le risque de ne pas être viables à long
+terme, dans la mesure où ils dépendraient en grande partie de la situation des
+collectivités au moment de la réforme, qui peuvent devenir déconnectées de
+leurs caractéristiques courantes. Le transfert d’une fraction de TVA présente
+les mêmes limites, dans la mesure où ces fractions sont également fonction
+des caractéristiques des collectivités au moment de la réforme.
+●De manière générale, cette réforme pose deux questions différentes. D’une
+part, quelle allocation des instruments ﬁscaux juge-t-on optimale entre les
+différents échelons territoriaux? D’autre part, quel niveau et quelle durée de
+neutralisation des compensations juge-t-on nécessaires? Ces deux aspects ne
+peuvent être traités conjointement par les mêmes instruments, d’où la difﬁ-
+culté d’aboutir à un scénario réellement satisfaisant dans le cadre de la ré-
+forme actuelle.
+●La répartition de la TFPB entre échelons territoriaux doit dépendre de consi-
+dérations plus larges sur la structure du système de décentralisation. Quel est
+le degré d’hétérogénéité territoriale des préférences des agents? Quel est le
+degré d’externalités spatiales relatives aux biens publics? En fonction de la
+réponse à ces questions, quelle répartition des compétences entre collectivi-
+tés mettre en œuvre, et avec quelles recettes publiques nécessaires pour les
+exercer?
+●La neutralisation des compensations qu’implique une réallocation entre éche-
+lons de la ﬁscalité locale doit être traitée par un mécanisme séparé et non lié à
+la ﬁscalité, à travers un fonds de dotation. La neutralisation devrait être tran-
+sitoire (ex : dégressivité au cours du temps), dans la mesure où elle dépend
+de la situation des collectivités au moment de la réforme.
+10
+
+=== page 16 ===
+Synthèse des résultats
+●Enﬁn, la suppression de la TH a des implications potentiellement de premier
+ordre sur les politiques publiques locales. Le risque est un manque d’internali-
+sation des résidents non-propriétaires (ne payant pas de TFPB) des coûts des
+biens publics locaux, mais aussi une détérioration de la transparence ﬁscale,
+les propriétaires pouvant être davantage incités à répercuter tout ou partie de
+leur TFPB sur les loyers. Cette question de l’incidence ﬁscale semble cruciale
+dans la manière d’aborder les effets de long terme de la disparition de la TH
+sur les résidences principales.
+11
+
+=== page 17 ===
+Evaluation de la réforme de la ﬁscalité locale
+12
+
+=== page 18 ===
+SOMMAIRE
+Remerciements
+3
+Synthèse des résultats
+11
+Introduction
+15
+1
+Le contenu de la réforme
+19
+1.1
+La suppression de la taxe d’habitation sur les résidences principales .
+19
+1.2
+Les réaffectations de ﬁscalité . . . . . . . . . . . . . . . . . . . . . . . . .
+20
+1.3
+Les corrections d’écarts de compensation entre communes . . . . . . .
+21
+1.4
+La compensation des EPCI et départements . . . . . . . . . . . . . . . .
+24
+1.5
+Les masses ﬁnancières en jeu
+. . . . . . . . . . . . . . . . . . . . . . . .
+25
+2
+Les compensations engendrées par la réforme (scénario LF)
+27
+2.1
+Méthodologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+2.2
+Les statistiques agrégées des compensations
+. . . . . . . . . . . . . . .
+28
+2.3
+L’hétérogénéité territoriale des degrés de compensation . . . . . . . .
+30
+2.4
+Compensations et caractéristiques des communes . . . . . . . . . . . .
+34
+3
+Un partage de la TFPB entre communes et EPCI (scénario A1)
+41
+3.1
+Présentation du scénario . . . . . . . . . . . . . . . . . . . . . . . . . . .
+42
+3.2
+La distribution des compensations
+. . . . . . . . . . . . . . . . . . . . .
+43
+4
+Une compensation exacte des EPCI par la TFPB départementale (scéna-
+rio A2)
+49
+4.1
+Présentation du scénario . . . . . . . . . . . . . . . . . . . . . . . . . . .
+49
+4.2
+La distribution des compensations
+. . . . . . . . . . . . . . . . . . . . .
+51
+5
+Discussion
+59
+5.1
+Pour un mécanisme de correction transitoire . . . . . . . . . . . . . . .
+59
+5.2
+De nouvelles recettes structurelles pour les collectivités? . . . . . . . .
+61
+5.3
+Les implications structurelles de la suppression de la TH . . . . . . . .
+62
+13
+
+=== page 19 ===
+Evaluation de la réforme de la ﬁscalité locale
+Conclusion générale
+63
+Annexes
+65
+Références
+73
+Liste des tableaux
+75
+Liste des ﬁgures
+77
+14
+
+=== page 20 ===
+INTRODUCTION
+Contexte de l’étude
+La loi de ﬁnances pour 2020 (LF2020) conﬁrme la suppression de la taxe d’habi-
+tation (TH) sur les résidences principales pour l’ensemble des ménages et décrit les
+dispositifs de compensation de cette taxe pour les différents échelons territoriaux af-
+fectés. La TH est actuellement perçue par le bloc communal, à savoir les communes
+et les établissement publics de coopération intercommunale (EPCI). Cette loi pro-
+pose de compenser ces collectivités territoriales en transférant aux communes le
+taux de taxe foncière sur les propriétés bâties (TFPB) du département et aux EPCI
+et départements perdant de la TFPB une part de la taxe sur la valeur ajoutée (TVA).
+La loi prévoit également un mécanisme de correction dynamique visant à neutrali-
+ser à court terme les variations de recettes publiques des collectivités associées à ces
+mesures. Cette réforme laisse deviner des changement hétérogènes entre territoires
+dans la structure de leurs ressources ﬁnancières.
+Objectifs de l’étude
+Cette étude vise à documenter cette hétérogénéité en se centrant sur la descente
+de la TFPB au niveau communal. L’objectif est de documenter la distribution entre
+communes du niveau de leur « compensation » (différence entre la TFPB reçue et
+la TH perdue) et ses conséquences en termes de mécanisme de correction de ces
+15
+
+=== page 21 ===
+Evaluation de la réforme de la ﬁscalité locale
+compensations. En plus d’évaluer cette réforme telle que prévue par la LF2020,
+cette étude vise à analyser des scénarios alternatifs en termes de partage de la
+TFPB entre les EPCI et les communes, pour apporter enﬁn des éléments d’analyse
+plus généraux sur la structure de la réforme envisagée.
+Plan du rapport
+Chapitre 1 : le contenu de la réforme
+Ce premier chapitre vise à présenter en détails le contenu de cette réforme, telle
+que codiﬁée par l’article 16 de la LF2020. L’ensemble des éléments et règles de
+calcul des niveaux de compensation et des transferts et contributions des méca-
+nismes de correction y sont présentés, ainsi que les changements que ces dispositifs
+impliquent pour la structure de la ﬁscalité locale. Sont présentés également les
+masses ﬁnancières en jeu derrière ces transferts de ﬁscalité.
+Chapitre 2 : les compensations engendrées par la réforme (scé-
+nario LF)
+Ce chapitre vise à analyser la distribution des compensations entre communes
+qu’implique la réforme telle que prévue par la LF2020. Nous caractérisons le degré
+d’hétérogénéité de ces compensations et les facteurs qui expliquent ces différences.
+Nous documentons également les implications sur la nature des transferts de cor-
+rection prévus par la réforme, et les conséquences qui en découlent en termes de
+territorialité de la TFPB.
+16
+
+=== page 22 ===
+Introduction
+Chapitre 3 : un partage de la TFPB entre communes et EPCI
+(scénario A1)
+Ce chapitre présente l’analyse d’un premier scénario alternatif dans lequel le
+taux de TFPB départemental serait transféré en partie aux EPCI et en partie aux
+communes, tout en gardant la même structure générale, notamment en termes de
+mécanisme de correction. L’objectif de ce chapitre est de caractériser la distribution
+des compensations entre EPCI et d’évaluer l’impact de ce scénario par rapport au
+scénario précédent en terme de territorialité de la TFPB.
+Chapitre 4 : une compensation exacte des EPCI par la TFPB
+départementale (scénario A2)
+Cette partie étudie un deuxième scénario alternatif dans lequel la fraction du
+taux de TFPB départemental transférée aux EPCI est propre à chaque territoire
+intercommunal et déﬁnie de telle sorte à compenser directement à l’euro près la
+TH des EPCI, le reliquat revenant aux communes. De même que pour les scénarios
+précédents, nous présentons pour ce scénario une description de la distribution
+des compensations sous cette réforme et des facteurs qui y sont associés, avec ses
+conséquences sur le lien entre le territoire de prélèvement de la TFPB et le territoire
+de perception.
+Chapitre 5 : discussion
+Cette partie fournit une discussion sur la structure générale de cette réforme,
+en adoptant une vue d’ensemble des trois scénarios évalués, et formule des propo-
+sitions alternatives sur la gestion à long terme des niveaux de compensation que
+les précédents chapitres documentent. Cette dernière partie apporte des éléments
+d’éclairage sur les implications théoriques derrière le choix de l’allocation des ins-
+17
+
+=== page 23 ===
+Evaluation de la réforme de la ﬁscalité locale
+truments ﬁscaux entre échelons territoriaux et sur les effets potentiels à long terme
+d’un système où la disparition de la TH sur les résidences principales laisserait une
+place prépondérante à la TFPB dans le paysage des impôts locaux.
+18
+
+=== page 24 ===
+CHAPITRE 1
+LE CONTENU DE LA RÉFORME
+Cette section présente le contenu de l’article 16 de la loi de ﬁnances pour l’année
+2020 (loi n°2019-1479 du 28 décembre 2019) relatif à la réforme de la ﬁscalité
+locale. Cet article décrit d’une part les modalités et le calendrier de la suppression
+de la TH sur les résidences principales et d’autre part les transferts de ﬁscalité et
+compensations mis en place en conséquence.
+1.1
+La suppression de la taxe d’habitation sur les
+résidences principales
+L’article 16 de la loi de ﬁnances pour 2020 (LF2020) vient modiﬁer l’article
+1414C du Code Général des Impôts. Suite aux lois de ﬁnances pour les années
+2018 et 2019, ce dernier article disposait une exonération de la TH sur les rési-
+dences principales à hauteur de 30 % en 2018 puis de 65 % en 2019 pour les 80 %
+des foyers aux revenus les plus modestes. Ces foyers seront désormais totalement
+exonérés de la TH sur la résidence principale au titre de l’année 2020. L’article pré-
+voit également une exonération progressive de cette taxe pour les 20 % de foyers
+restants à partir de 2021. Un dégrèvement de 30 % en 2021 puis de 65 % en 2022
+est mis en place, avant une suppression totale de la taxe en 2023. La TH restante sur
+19
+
+=== page 25 ===
+Evaluation de la réforme de la ﬁscalité locale
+les locaux d’habitation autres que les résidences principales sera renommée « taxe
+d’habitation sur les résidences secondaires et autres locaux meublés non affectés à
+l’habitation principale » (THRS).
+1.2
+Les réaffectations de ﬁscalité
+La TH est un impôt local perçu par les communes et les EPCI. La suppression
+de cette taxe représente une perte de recettes ﬁscales pour ces collectivités. Aﬁn de
+rembourser le secteur communal (communes et EPCI) de cette perte, l’article 16 de
+la LF2020 prévoit le transfert aux communes de la part départementale de la TFPB.
+Autrement dit, chaque commune se verra affectée le taux de TFPB de son dépar-
+tement et ainsi, à taux inchangés, le produit de TFPB que le département perçoit
+sur le territoire communal. La TFPB est une taxe assise sur les valeurs locatives ca-
+dastrales des locaux d’habitation et professionnels et est levée avant la réforme par
+les communes, les départements et les EPCI. Chacun de ces échelons décide de son
+propre taux de taxation et dispose également d’un contrôle sur certains abattements
+et exonérations. La LF2020 prévoit que « le taux de référence communal de la taxe
+foncière sur les propriétés bâties relatif à l’année 2021 est égal à la somme des taux
+communal et départemental appliqués en 2020 sur le territoire de la commune ».
+En additionnant le taux de TFPB communal et départemental, on transfère de facto
+le produit départemental de TFPB aux communes. Les exonérations et abattements
+appliqués dans le calcul des bases nettes seront, pour l’année 2021, ceux jusqu’ici
+applicables au niveau départemental et les compétences communales d’exonération
+et d’abattement en matière de TFPB sont suspendues pour l’année 2021.
+Aﬁn de compenser les EPCI de la perte des recettes ﬁscales de la TH et les dé-
+partements du transfert des recettes de leur TFPB vers les communes, la LF2020
+prévoit de leur affecter une part de la TVA, avec une règle d’allocation permettant
+un remboursement à l’euro près. Contrairement aux communes qui se voient trans-
+20
+
+=== page 26 ===
+Chap. 1 – Le contenu de la réforme
+férer un impôt local dont le dynamisme est lié à celui du foncier de leur territoire,
+les EPCI et départements se voient donc attribuer une part d’un impôt national,
+dont l’évolution dépend en l’occurence des ﬂuctuations conjoncturelles en termes
+de consommation à l’échelle du pays.
+1.3
+Les corrections d’écarts de compensation entre
+communes
+Le transfert aux communes du taux de TFPB départemental en compensation
+de la suppression de la TH sur les résidences principales aura potentiellement des
+effets hétérogènes entre communes : certaines gagneront davantage du transfert de
+TFPB départementale qu’elles ne perdront en TH, tandis que d’autres verront leurs
+recettes ﬁscales diminuer. L’article prévoit donc un mécanisme de correction. Les
+communes pour lesquelles le transfert du produit départemental de TFPB excède
+la perte de recettes ﬁscales issues de la TH sont dites « surcompensées » et verront
+ce surplus être prélevé et transféré aux communes perdant davantage en TH que
+ce qu’elles ne gagnent du transfert de TFPB, que l’on va appeler communes « sous-
+compensées ».
+Le rapport entre le gain net (ou la perte nette) dû à la réforme et les recettes
+potentielles de TFPB sur le territoire de la commune permet de calculer un coefﬁ-
+cient correcteur. Pour le calcul de ce coefﬁcient, la perte de TH et le gain de TFPB
+pour une commune donnée (indexée par c) sont déﬁnis de la manière suivante :
+PerteTHc = BaseTHc
+2020 ∗TauxTHc
+2017 + ExoTHc
+2020 + SupTHc
+2018−2020
+GainTFPBc = ProduitNetTFPBdc
+2020 + ExoTFPBdc
+2020 + SupTFPBdc
+2018−2020
+21
+
+=== page 27 ===
+Evaluation de la réforme de la ﬁscalité locale
+BaseTHc
+2020 correspond à la base d’imposition de la TH sur le territoire de la
+commune relative aux locaux meublés affectés à l’habitation principale (on exclut
+du calcul les résidences secondaires et les locaux vacants puisque ceux-ci demeu-
+reront toujours soumis à une TH). La perte de TH est calculée à partir des taux
+communaux de l’année 2017 (TauxTHc
+2017), soit de l’année précédant le début du
+processus de suppression de la TH. Le but est de ne pas prendre en compte d’éven-
+tuelles variations de taux qui auraient pu avoir lieu en réaction à la réforme de la
+TH ayant été annoncée en 2017 et débuté en 2018. Sont également intégrées dans
+la perte de TH les compensations d’exonération de TH versées par l’État aux com-
+munes (notées ExoTHc
+2020) ainsi que la moyenne annuelle entre 2018 et 2020 des
+rôles supplémentaires de TH au proﬁt de la commune (notée SupTHc
+2018−2020), c’est-
+à-dire les recettes recouvrées en plus de l’imposition, notamment en cas d’omission
+ou d’erreur. La déﬁnition du gain de TFPB est similaire à celle de la perte de TH,
+en considérant le produit net de TFPB et autres ﬂux associés perçus. L’exposant dc
+désigne les montants perçus par le département sur le territoire de la commune.
+A partir de ces deux termes est calculée la différence de recette ﬁscale engendrée
+par la réforme, notée xc :
+xc = PerteTHc −GainTFPBc
+Le coefﬁcient correcteur s’écrit quant à lui de la manière suivante :
+coefficientc = 1 +
+xc
+ProduitNetTFPBc
+2020 + ProduitNetTFPBdc
+2020
+Ce coefﬁcient rapporte le gain ou la perte de recettes ﬁscales lié à la réforme
+aux recettes totales de TFPB que touchera la commune (si elle conserve le même
+taux et la même base qu’en 2020). Une commune sous-compensée (xc > 0) aura
+ainsi un coefﬁcient supérieur à 1 tandis qu’une commune surcompensée (xc < 0)
+22
+
+=== page 28 ===
+Chap. 1 – Le contenu de la réforme
+aura un coefﬁcient inférieur à 1. Ce coefﬁcient correcteur va permettre d’établir le
+montant qui devra être prélevé ou au contraire le montant qui devra être attribué
+en compensation additionnelle.
+La LF2020 prévoit 3 cas de ﬁgures :
+●La commune perd des ressources ﬁscales du fait de la réforme (xc > 0).
+●La commune gagne plus de 10 000 euros (xc < −10000).
+●La commune gagne moins de 10 000 euros (−10000 < xc < 0).
+Dans les deux premiers cas, l’État prélève ou verse à la commune en guise de
+mécanisme correcteur au titre de l’année t (où t ≥2021) le montant suivant :
+Cc
+t = ProduitNetTFPBc
+t ∗(coefficientc −1) ∗PartTauxTFPBc
+2020
+où PartTauxTFPBc
+2020 = TauxTFPBc
+2020+TauxTFPBd
+2020
+TauxTFPBc
+t
+.
+Ce transfert est positif dans le cas où coefficientc > 1 et négatif dans le cas
+où coefficient < 1. Le coefﬁcient correcteur exprime par combien les nouvelles
+recettes communales de TFPB doivent être multipliées pour ramener la commune à
+ses « recettes ﬁscales avant réforme ». Le terme PartTauxTFPBc
+2020 dans la formule
+signiﬁe que les variations de taux décidées par les communes à partir de 2021 ne
+sont pas incluses dans le mécanisme correcteur.
+En revanche, ce mécanisme prend en compte l’évolution des bases d’imposi-
+tion via le terme ProduitNetTFPBc
+t. Une commune dont la base nette de TFPB
+augmente au cours du temps verra son transfert (si coefficientc > 1) ou son prélè-
+vement (si coefficientc < 1) augmenter. L’équilibre ﬁnancier du système dépendra
+donc fortement de la dynamique des bases ﬁscales.
+Dans le cas où le gain est inférieur à 10 000 euros, le texte de loi prévoit que
+ce gain sera laissé aux communes, c’est-à-dire qu’elle percevront la recette de TFPB
+23
+
+=== page 29 ===
+Evaluation de la réforme de la ﬁscalité locale
+perçue jusque-là par le département en plus de la recette de TFPB levée par la
+commune, sans aucune correction.
+L’objectif de ce mécanisme correcteur est de rétablir l’équilibre entre les com-
+munes surcompensées et sous-compensées. Ce système de correction entrera en
+vigueur au 1er janvier 2021 et s’appliquera, avec le coefﬁcient ﬁgé, jusqu’à la ﬁn de
+l’année 2023, date de son réexamen. Une évaluation du dispositif est par ailleurs
+prévue pour l’année 2023 et les résultats seront présentés dans un rapport remis au
+Parlement.
+1.4
+La compensation des EPCI et départements
+L’article 16 de la LF2020 prévoit également la mise en œuvre de mesures de
+compensation pour les autres collectivités percevant de la TH avant la réforme, à
+savoir les EPCI, la métropole de Lyon et la ville de Paris. L’État compensera ces
+collectivités à partir d’une fraction de la TVA. Cette compensation, notée Ce
+t pour
+l’année t (avec t ≥2021 et e l’indexation des EPCI), suivra la formule suivante :
+Ce
+t = TV A_nettet−1 ∗BaseTHe
+2020 ∗TauxTHe
+2017 + ExoTHe
+2020 + SupTHe
+2018−2020
+TV A_nette2020
+TV A_nettet−1 est le produit net de TVA durant l’année t −1. La fraction de TVA
+nette attribuée à ces collectivités est donc ﬁxée à partir de 2020 et le montant reçu
+en compensation ﬂuctuera chaque année avec les recettes de la TVA. L’évolution
+des bases d’imposition de TFPB des EPCI n’auront donc pas d’effet sur l’évolution
+du montant perçu. De manière similaire au mécanisme correcteur destiné aux com-
+munes, la perte de TH est déterminée à partir des taux de 2017, et comprend
+également les compensations d’exonération versées en 2020 par l’État à l’EPCI 1 au
+titre de la TH (ExoTHe
+2020) ainsi que la moyenne annuelle entre 2018 et 2020 des
+1. Par simplicité, nous employons le terme EPCI, mais le dispositif recouvre les EPCI, la ville de
+Paris et la métropole de Lyon.
+24
+
+=== page 30 ===
+Chap. 1 – Le contenu de la réforme
+rôles supplémentaires de la TH perçus par l’EPCI (SupTHe
+2018−2020).
+La réforme prévoit également une compensation pour les départements 2, dont
+la TFPB est transférée aux communes. Cette compensation, notée Cd
+t pour l’année
+t (avec t ≥2021), prendra également la forme d’une fraction de TVA dépendant de
+la perte de TFPB. Cette perte de TFPB est déﬁnie de manière similaire à la perte de
+TH pour les autres collectivités, et le calcul se basera sur les taux de TFPB de 2019.
+Cette formule s’écrit :
+Cd
+t = TV A_nettet−1∗BaseTFPBd
+2020 ∗TauxTFPBd
+2019 + ExoTFPBd
+2020 + SupTFPBd
+2018−2020
+TV A_nette2020
+Enﬁn, les régions subissent la perte des frais de gestion liés à la TH et seront
+dédommagées par une dotation budgétaire de l’État.
+1.5
+Les masses ﬁnancières en jeu
+Le Tableau 1.1 présente les montants agrégés en jeu derrière cette réforme,
+calculés à partir des ﬁchiers REI 2018 (ﬁchiers de recensement des éléments d’im-
+position à la ﬁscalité directe locale). Les recettes ﬁscales à compenser et à trans-
+férer sont calculées à partir des déﬁnitions retenues pour le mécanisme correcteur
+évoquées dans les sous-sections précédentes 3. Les recettes de TH perdues des com-
+munes et EPCI représentent respectivement 14,8 et 6,8 milliards d’euros. Le mon-
+tant agrégé de TFPB départementale est quant à lui de 14,4 milliards d’euros. L’al-
+location de cette ressource aux seules communes implique un léger déﬁcit global
+de 400 millions d’euros à compléter par l’État. Quant aux pertes de recettes ﬁscales
+des EPCI et du département, elles représentent au total 21,2 milliards d’euros, ce
+2. Plus précisément, il s’agit des départements, de la métropole de Lyon, de la collectivité de
+Corse, du département de Mayotte, de la collectivité territoriale de Guyane et de la collectivité
+territoriale de Martinique.
+3. Les rôles supplémentaires, qui ne ﬁgurent pas dans les données REI, ne sont pas pris en
+compte.
+25
+
+=== page 31 ===
+Evaluation de la réforme de la ﬁscalité locale
+qui représente 16,4 % des évaluations de recettes nettes de TVA de 2019 4. Quant à
+la TFPB des communes et EPCI, elle ne sera pas affectée par la réforme. Le produit
+de ces deux taxes est respectivement de 17,5 et 1,7 milliards d’euros, ce qui illustre
+une situation initiale où les communes et départements perçoivent l’essentiel de la
+TFPB.
+TABLEAU 1.1 – Recettes ﬁscales 2018 agrégées (en milliards d’euros)
+Recettes ﬁscales à compenser
+TH communes (1)
+14,8
+TH EPCI (2)
+6,8
+Recettes ﬁscales transférées aux communes
+TFPB départements (3)
+14,4
+Recettes ﬁscales inchangées
+TFPB communes
+17,5
+TFPB EPCI
+1,7
+Soldes et transfert de TVA
+Solde du transfert de TFPB aux communes (3) - (1)
+-0,4
+TVA nécessaire pour compenser les départements et EPCI (2) + (3)
+21,2
+Recettes nettes de TVA 2019 (4)
+129,2
+TVA nécessaire / Recettes de TVA 2019 [(2) + (3)] / (4)
+16,4 %
+NOTES : La première ligne correspond à la masse à l’échelle nationale du terme PerteTHc et la seconde à la masse du
+terme analogue déﬁni pour la TH des EPCI. La troisième ligne correspond à la masse du terme GainTFPBc. Les recettes
+ﬁscales inchangées sont des masses de produits ﬁscaux nets augmentés des allocations compensatrices associées. Les recettes
+de TVA de 2019 correspondent aux recettes telles qu’estimées dans les évaluations des voies et moyens annexées au projet
+de loi de ﬁnances (PLF) pour 2020.
+SOURCES : Fichiers REI 208 (DGFiP), Evaluations des voies et moyens du PLF 2020 (tome 1, p.44).
+4. Ce dernier pourcentage est à prendre avec précaution dans la mesure où les recettes de TVA
+ﬂuctuent avec la conjoncture. Dans l’état actuel de la LF2020, les recettes de TVA qui serviront au
+calcul du taux d’affectation du produit de cette taxe aux EPCI et départements sont les recettes nettes
+de 2020, qui seront lourdement affectées par la crise sanitaire liée à la COVID-19. L’amendement n°
+I-2944 adopté en première lecture sur le projet de loi de ﬁnances pour 2021 (adoption le 19 octobre
+2020) propose à ce sujet de calculer les fractions de TVA à partir des recettes de 2021.
+26
+
+=== page 32 ===
+CHAPITRE 2
+LES COMPENSATIONS ENGENDRÉES PAR
+LA RÉFORME (scénario LF)
+Au-delà des chiffres agrégés associés aux transferts de ﬁscalité se pose la ques-
+tion de l’hétérogénéité du degré de compensation entre territoires. En effet, même
+si le montant global de TFPB départementale est relativement proche du montant
+agrégé de TH communale à compenser, certaines communes recevront un montant
+de TFPB supérieur au montant de TH à remplacer, tandis que d’autres connaîtront
+la situation inverse. Cette section analyse les compensations qui seraient à l’œuvre
+dans le cadre du transfert de taux de TFPB prévu par la LF2020 (scénario LF).
+2.1
+Méthodologie
+Cette analyse utilise les ﬁchiers de recensement des éléments d’imposition à
+la ﬁscalité directe locale (REI) 2017 et 2018 1 produits par la Direction générale
+des Finances publiques (DGFiP), qui recensent pour chaque commune française
+l’ensemble des éléments relatifs à l’imposition directe locale (bases ﬁscales, taux
+de taxation, abattements, exonérations, etc.). L’ensemble de ces informations nous
+1. Les ﬁchiers REI 2017 sont utilisés seulement pour récupérer les taux de taxation de 2017 qui
+interviennent dans le calcul du coefﬁcient correcteur.
+27
+
+=== page 33 ===
+Evaluation de la réforme de la ﬁscalité locale
+servent à simuler pour chaque collectivité leur niveau de compensation, en appli-
+quant les règles de calcul exposés à la section précédente. Ces simulations sont
+effectuées dans un cadre statique, c’est-à-dire à bases ﬁscales et taux de taxation in-
+changés par rapport à 2018, qui est le dernier millésime disponible pour les ﬁchiers
+REI. Ainsi, ne sont notamment pas simulés les effets dynamiques du mécanisme
+correcteur associés à l’évolution des bases ﬁscales. Ne sont également pas pris en
+compte les éventuelles réactions comportementales des collectivités sur leur taux
+de taxation suite à la réforme. Par exemple, la réforme prévue par la LF2020 pré-
+voie le transfert du taux de TFPB départemental vers les communes, suite auquel
+les municipalités auront un nouveau taux de référence pour leur TFPB. Les com-
+munes peuvent très bien décider en réaction à la réforme de modiﬁer ce taux de
+taxation (tout comme les autres taux dont elles disposent). Cette analyse ne prend
+pas en compte ces potentiels effets. Elle permet néanmoins de fournir une image
+précise des changements structurels dans les ressources publiques locales que la
+réforme implique, changements qui seraient le point de départ de telles réactions
+comportementales et qu’il est donc nécessaire de documenter.
+Cette analyse, tout comme l’analyse des scénarios alternatifs dans les sections
+qui suivent, se focalise sur la descente du taux départemental de TFPB. Les trans-
+ferts de TVA ne sont pas analysés car considérés comme la variable d’ajustement
+permettant d’opérer les compensations de la suppression de la TH non-couvertes
+par le transfert de taux de TFPB.
+2.2
+Les statistiques agrégées des compensations
+Le Tableau 2.1 est une première illustration de ces effets. 69 % des communes
+seraient surcompensées par la réforme envisagée, alors que 31 % se verraient attri-
+buer une TFPB départementale inférieure à leurs recettes de TH à compenser. Ce
+tableau montre également les masses de sous-compensations et de surcompensa-
+28
+
+=== page 34 ===
+Chap. 2 – Les compensations engendrées par la réforme (scénario LF)
+tions, qui s’élèvent respectivement à hauteur de 3,1 et 2,9 milliards d’euros. Ces
+masses correspondent aussi aux contributions et transferts au titre du mécanisme
+de coefﬁcient correcteur, sous l’hypothèse de bases ﬁscales constantes. La masse
+de sous-compensations correspond à la masse des transferts correcteurs reçus, et
+celle des surcompensations à la masse des contributions versées. Le Tableau 2.1
+confronte ces masses avec le produit agrégé de TFPB, aﬁn d’appréhender de ma-
+nière agrégée le décalage entre la TFPB payée par les contribuables et le montant
+qui sera effectivement alloué à leur territoire après application du mécanisme cor-
+recteur. D’après ces résultats, le mécanisme de correction contribue à allouer 9 %
+du produit de TFPB sur d’autres territoires que ceux sur lesquels la taxe a été initia-
+lement prélevée. Les contributions et transferts de chaque commune devant évoluer
+en fonction de l’évolution de leur base ﬁscale, ce résultat illustre la perte relative-
+ment importante de territorialité de TFPB que cette réforme implique.
+TABLEAU 2.1 – Statistiques agrégées - scénario LF
+Répartition des communes
+Part des communes surcompensées
+69,0 %
+Part des communes sous-compensées
+31,0 %
+Masses ﬁnancières (en milliards d’euros)
+Sous-compensations (1)
+3,1
+Surcompensations (2)
+2,9
+Solde (2) - (1)
+-0,2
+Produit TFPB tous échelons (3)
+32,2
+Ratio (2) / (3)
+9,0 %
+NOTES : La masse des sous-compensations (respectivement des surcompensa-
+tions) est la masse de la valeur absolue de GainTFPBc −PerteTHc lorsque
+GainTFPBc −PerteTHc < 0 (respectivement > 0). Le « produit de TFPB tous
+échelons » correspond au produit de TFPB à payer après la réforme, c’est-à-dire
+au produit de la nouvelle base de TFPB communale (application des abattements
+et exonérations actuels du département) et du nouveau taux de TFPB communal
+(somme des taux communaux et départementaux actuels), auquel on ajoute la
+TFPB des EPCI. La part des communes sous-compensées et surcompensées ont été
+calculées en supposant que les communes où −10000 < xc < 0 doivent contribuer
+au mécanisme de transfert correcteur. Ce choix permet d’avoir une réforme simu-
+lée qui soit comparable à des scenarios alternatifs.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+29
+
+=== page 35 ===
+Evaluation de la réforme de la ﬁscalité locale
+2.3
+L’hétérogénéité territoriale des degrés de com-
+pensation
+La Figure 2.1 montre l’hétérogénéité territoriale derrière ces statistiques agré-
+gées. Cette carte montre la répartition territoriale des quartiles de la différence par
+habitant entre le produit de TFPB reçu (GainTFPBc) et le produit de TH à com-
+penser (PerteTHc). Autrement dit, les communes sont classées en fonction de cette
+différence en quatre catégories de taille égale, et cette carte montre la répartition
+territoriale de ces quatre catégories. Le premier constat est une forte hétérogénéité
+des montants de cette différence. 25 % des communes se caractérisent par une
+sous-compensation supérieure à 12 euros par habitant, tandis que 25 % bénéﬁ-
+cient d’une surcompensation d’au moins 89 euros par tête. La Figure 2.1 permet
+de constater également une forte corrélation de cette différence avec le départe-
+ment d’appartenance de la commune. Cette corrélation peut venir soit d’un effet
+base, soit d’un effet taux. Le premier viendrait du fait que la différence de base par
+habitant entre TFPB et TH pour une commune donnée est relativement homogène
+à l’intérieur d’un département, mais relativement hétérogène entre communes de
+départements différents. Le second viendrait du fait que la différence entre le taux
+de TFPB du département et le taux de TH communal présente une faible variabilité
+intra-départementale mais une forte variabilité entre départements. Pour analyser
+ces deux facteurs, nous déﬁnissons pour chaque département les deux termes sui-
+vants :
+∆Base_habd = ∑c [(BaseTFPBdc + BaseExoTFPBdc) −(BaseTHc + BaseExoTHc)]
+Populationd
+∆Tauxd =
+∑c GainTFPBc
+∑c (BaseTFPBdc + BaseExoTFPBdc) −
+∑c PerteTHc
+∑c (BaseTHc + BaseExoTHc)
+BaseTFPBdc et BaseExoTFPBdc désignent respectivement la base nette et la
+30
+
+=== page 36 ===
+Chap. 2 – Les compensations engendrées par la réforme (scénario LF)
+FIGURE 2.1 – Différence par habitant entre la TFPB gagnée et la TH per-
+due - scénario LF
+NOTES : Cette carte montre pour chaque commune son quartile d’appartenance dans la distribution de la valeur de
+(GainTFPBc −PerteTHc)/Populationc. L’intervalle associé à chaque quartile est renseigné dans la légende. SOURCES :
+Fichiers REI 2018, calculs des auteurs.
+base exonérée de TFPB départementale sur le territoire de la commune c. BaseTHc
+et BaseExoTHc sont des notations similaires relatives à la TH de la commune.
+Nous incluons les bases exonérées dans la mesure où les allocations compensatrices
+sont comprises dans PerteTHc et GainTFPBc. Le terme ∑c désigne la somme des
+variables de toutes les communes du département. Tous les termes sont relatifs à
+l’année 2018, qui correspond à l’année du dernier ﬁchier REI disponible.
+Les Figures 2.2a à 2.2c montrent des statistiques agrégées au niveau dépar-
+31
+
+=== page 37 ===
+Evaluation de la réforme de la ﬁscalité locale
+temental, en classant les départements par quartile. La Figure 2.2a montre pour
+chaque département son quartile dans la distribution de la différence agrégée entre
+GainTFPBc et PerteTHc rapportée à la population départementale, tandis que les
+Figures 2.2b et 2.2c montrent respectivement la répartition géographique entre dé-
+partements des quartiles des termes ∆Base_habd et ∆Tauxd. La Figure 2.2a montre
+des différences relativement importantes entre départements. 25 % d’entre eux pré-
+sentent en moyenne une sous-compensation moyenne supérieure à 20 euros par
+habitant, tandis que 25 % des départements se caractérisent par une surcompen-
+sation moyenne supérieure à 86 euros par tête. Alors que les Figures 2.2a et 2.2b
+sont relativement décorrélées entre elles, on note une corrélation importante entre
+les Figures 2.2a et 2.2c, ce qui suggère que les différences entre départements en
+termes de compensation moyenne sont essentiellement le résultat d’un effet taux.
+Ce constat vient au moins en partie du fait qu’au sein d’un même département, le
+taux de TFPB transféré aux communes est identique. L’impact de ce taux uniforme à
+l’échelle du département semble l’emporter sur les différences de structure de bases
+ﬁscales entre départements. Ceci rappelle le fait que les communes se voient trans-
+férer un taux de TFPB ayant été décidé à l’échelle départementale, et qui n’est donc
+pas fonction des caractéristiques communales. La Figure 2.2a suggère néanmoins
+qu’il existe au sein des départements des différences importantes. Les résultats sui-
+vants visent à mieux appréhender les différences de compensation entre communes
+au regard des caractéristiques communales.
+32
+
+=== page 38 ===
+Chap. 2 – Les compensations engendrées par la réforme (scénario LF)
+FIGURE 2.2 – Différences moyennes au niveau départemental entre la
+TFPB transférée et la TH perdue - scénario LF
+(a) Produits par habitant
+(b) Bases par habitant
+(c) Taux
+LECTURE : La Figure 2.2a montre pour chaque département son quartile dans la distribution de la différence agrégée
+entre GainTFPBc et PerteTHc rapportée à la population départementale, tandis que les Figures 2.2b et 2.2c montrent
+respectivement la répartition géographique entre départements des quartiles des termes ∆Base_habd et ∆Tauxd.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+33
+
+=== page 39 ===
+Evaluation de la réforme de la ﬁscalité locale
+2.4
+Compensations et caractéristiques des com-
+munes
+Les Figures 2.3a à 2.3c montrent l’hétérogénéité des situations communales en
+fonction de leur population totale 2. La Figure 2.3a montre pour chaque tranche
+de communes en termes de milliers d’habitants les différences moyennes entre le
+produit par habitant de TFPB départementale perçu sur le territoire de la commune
+et celui de la TH communale. Aﬁn de décomposer ces effets, les Figures 2.3b et
+2.3c présentent des différences en termes de base ﬁscale par habitant et de taux
+de taxation. Les concepts de base et de taux sont déﬁnis de manière similaire à
+l’analyse au niveau départemental.
+La Figure 2.3a souligne une compensation moyenne décroissante en fonction
+de la population. Alors que les communes de moins de 20 000 habitants sont
+en moyenne surcompensées, celles au-dessus de ce seuil sont en moyenne sous-
+compensées du fait d’un produit de TH communale supérieur au produit de TFPB
+départementale reçu. Concernant les bases ﬁscales moyennes par habitant, on voit
+qu’elles sont pour les deux taxes croissantes en fonction de la population, avec
+un rythme de croissance relativement marqué en-dessous de 20 000 habitants.
+Ce rythme de croissance semble relativement parallèle entre les deux taxes avec
+néanmoins un rythme plus important pour la TFPB départementale que pour la
+TH communale pour les communes de moins de 20 000 habitants. La Figure 2.3c
+montre quant à elle les variations de taux de taxation en fonction de la population
+et souligne des variations différentes entre la TFPB et la TH. Alors que le taux de
+TH communal est globalement croissant en fonction de la population totale de la
+commune jusqu’à un certain seuil, le taux de TFPB départemental est relativement
+constant. Ceci n’est pas surprenant, dans la mesure où le taux de TH communal
+2. La population totale correspond au concept du recensement de la population, c’est-à-dire à la
+somme de la population municipale et de la population comptée à part.
+34
+
+=== page 40 ===
+Chap. 2 – Les compensations engendrées par la réforme (scénario LF)
+FIGURE 2.3 – Différences moyennes entre la TFPB transférée et la TH
+perdue en fonction de la population totale de la commune - scénario LF
+-100
+0
+100
+200
+300
+Montants en euros
+0
+20
+40
+60
+80
+100
+Population totale (en milliers d'habitants)
+TFPB transférée par hab.
+TH perdue par hab.
+Différence TFPB - TH
+(a) Produits par habitant
+1000
+1500
+2000
+2500
+3000
+Montants en euros
+0
+20
+40
+60
+80
+100
+Population totale (en milliers d'habitants)
+Base TFPB transférée par hab.
+Base TH perdue par hab.
+(b) Bases par habitant
+5
+10
+15
+20
+Taux en points de pourcentage
+0
+20
+40
+60
+80
+100
+Population totale (en milliers d'habitants)
+Taux de TFPB transférée
+Taux de TH perdue
+(c) Taux
+LECTURE : La Figure 2.3a montre pour chaque tranche de communes en termes de milliers d’habitants les différences
+moyennes entre le produit par habitant de TFPB départementale perçu sur le territoire de la commune et celui de la TH
+communale. Aﬁn de décomposer ces effets, les Figures 2.3b et 2.3c présentent des différences en termes de base ﬁscale par
+habitant et de taux de taxation. Les concepts de base et de taux sont déﬁnis de manière similaire aux Figures 2.2b et 2.2c.
+Concernant l’axe des abscisses : 0 regroupe les communes de moins de 1 000 habitants, 1 regroupe les communes entre
+1 000 et 1 999 habitants, etc. Au-delà de 9, du fait du faible nombre de communes, les catégories sont davantage agrégées.
+10 regroupe les communes entre 10 000 et 19 999 habitants, 20 les communes entre 20 000 et 29 999 habitants, etc.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+est décidé par la commune et donc potentiellement corrélé à des caractéristiques
+communales alors que le taux de TFPB départemental est décidé au niveau dépar-
+temental et peut donc être relativement indépendant des caractéristiques munici-
+pales. Ces différences de variation ont une implication importante sur les situations
+de surcompensation et de sous-compensation. La croissance du taux de TH, com-
+binée avec le caractère constant du taux de TFPB départemental, est un facteur
+important dans le fait que le montant de TH communale devient à partir d’un cer-
+35
+
+=== page 41 ===
+Evaluation de la réforme de la ﬁscalité locale
+tain seuil de population supérieur au montant de TFPB départemental reçu. Enﬁn,
+la Figure 2.4 est similaire à la Figure 2.3c mais ajoute le taux moyen de TFPB
+communale. Les taux communaux de TH et de TFPB suivent des marches relative-
+ment parallèles alors qu’il n’en est pas de même pour les taux de TH communal
+et de TFPB départemental. Ceci illustre le fait que sera transféré aux communes
+selon cette réforme un taux de taxation qui n’est probablement pas cohérent avec
+les choix politiques locaux en termes de ﬁscalité et que le modèle de mécanisme
+correcteur redistribuerait des sommes qui dépendent fortement de ce décalage.
+FIGURE 2.4 – Différences moyennes de taux en fonction de la population
+totale de la commune - scénario LF
+.05
+.1
+.15
+.2
+Taux en points de pourcentage
+0
+20
+40
+60
+80
+100
+Tranche des unités urbaines
+Taux de TFPB transférée
+Taux de TH perdue
+Taux de TFPB de la commune
+LECTURE : Cette Figure est similaire à la Figure 2.3c, mais contient également une
+courbe pour le taux de TFPB des communes.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+Les Figures 2.5a à 2.5c produisent le même exercice que les Figures 2.3a à 2.3c
+mais en considérant des tranches de communes déﬁnies en fonction du revenu dis-
+ponible annuel médian des ménages de la commune par unité de consommation
+(UC). Cette variable provient de la base de données Filosoﬁ2017 produite par l’IN-
+SEE. Elle est renseignée pour toutes les communes de plus de 50 ménages ou de
+plus de 100 habitants. Le revenu disponible correspond aux revenus dont les mé-
+nages disposent après intervention du système redistributif monétaire. Il s’agit de
+36
+
+=== page 42 ===
+Chap. 2 – Les compensations engendrées par la réforme (scénario LF)
+la somme des revenus d’activité, des revenus du capital, des revenus de remplace-
+ment (pensions de retraites, allocations chômage), auxquels on soustrait les prélè-
+vements obligatoires et ajoute les prestations sociales. Cette base de données est
+issue d’un appariement opéré par l’INSEE entre les ﬁchiers de l’impôt sur le revenu,
+les ﬁchiers de taxe d’habitation et les ﬁchiers administratifs relatifs aux prestations
+sociales. Les UC ajustent pour chaque ménage le montant de son revenu disponible
+à sa taille 3.
+La Figure 2.5a souligne une tendance décroissante de la compensation en fonc-
+tion du revenu médian des ménages par UC, de sorte à passer d’une surcompensa-
+tion moyenne de 82 euros par tête pour les communes avec un revenu médian par
+UC inférieur à 13 000 euros à une sous-compensation moyenne de 47 euros par
+tête pour les communes avec un revenu médian par UC supérieur à 38 000 euros.
+Le produit par tête de TFPB départementale est relativement constant en fonction
+du revenu disponible par UC des ménages de la commune alors que le produit de
+TH communale a une tendance croissante, et ce malgré l’évolution parallèle des
+bases ﬁscales de ces deux taxes. Encore une fois, cette hétérogénéité est davantage
+liée à un effet taux : alors que le taux de TH communal est relativement constant
+en fonction du revenu disponible par UC des ménages, avec un pic en bas et en
+haut de la distribution, le taux de TFPB départemental est quant à lui décroissant.
+Cet effet de taux tire les recettes de TFPB départementale à la baisse par rapport
+au produit de TH à compenser, d’où un montant de compensation décroissant en
+fonction du revenu disponible médian par UC des ménages au niveau communal.
+Alors que le taux de TFPB départemental semble indépendant de la population
+totale de la commune, il n’en est pas de même pour la variation de ce taux en
+fonction du revenu disponible des ménages. Cette différence peut venir du fait que
+le revenu disponible médian par UC communal est davantage corrélé aux carac-
+3. Au sein de chaque ménage, la personne de référence compte pour une unité, toute autre
+personne de 14 et plus compte pour 0,5 et toute personne de moins de 14 ans compte pour 0,3.
+37
+
+=== page 43 ===
+Evaluation de la réforme de la ﬁscalité locale
+FIGURE 2.5 – Différences moyennes entre la TFPB transférée et la TH
+perdue en fonction du revenu disponible médian par UC de la commune
+- scénario LF
+-100
+0
+100
+200
+300
+Montants en euros
+10
+20
+30
+40
+Revenu disponible annuel médian par UC des ménages (en milliers d'euros)
+TFPB transférée par hab.
+TH perdue par hab.
+Différence TFPB - TH
+(a) Produits par habitant
+0
+1000
+2000
+3000
+4000
+Montants en euros
+10
+20
+30
+40
+Revenu disponible annuel médian par UC des ménages (en milliers d'euros)
+Base TFPB transférée par hab.
+Base TH perdue par hab.
+(b) Bases par habitant
+6
+8
+10
+12
+14
+16
+Taux en points de pourcentage
+10
+20
+30
+40
+Revenu disponible annuel médian par UC des ménages (en milliers d'euros)
+Taux de TFPB transférée
+Taux de TH perdue
+(c) Taux
+LECTURE : La Figure 2.5a montre pour chaque tranche de communes en termes de revenu disponible médian des ménages
+par UC les différences moyennes entre le produit par habitant de TFPB départementale perçu sur le territoire de la commune
+et celui de la TH communale. Aﬁn de décomposer ces effets, les Figures 2.5b et 2.5c présentent des différences en termes
+de base ﬁscale par habitant et de taux de taxation. Les concepts de base et de taux sont déﬁnis de manière similaire aux
+Figures 2.2b et 2.2c. Concernant l’axe des abscisses : les montants sont des milliers d’euros et correspondent à des montants
+annuels. Par exemple, 15 regroupe les communes dont le revenu disponible médian est compris entre 15 000 et 15 999
+euros. 38, qui est la dernière catégorie, regroupe toutes les communes au-dessus de 38 000 euros.
+SOURCES : Fichiers REI 2018, Filosoﬁ2017, calculs des auteurs.
+téristiques du département d’appartenance que ne l’est la population communale.
+Les Figures A1a et A1b en annexe illustrent ce propos, en montrant une relation
+positive entre le revenu disponible médian par UC communal et départemental et
+une faible corrélation entre la population communale et départementale. Dans tous
+les cas, il semble important de disposer de statistiques supplémentaires pour com-
+prendre la distribution des taux de TFPB départementaux entre départements, aﬁn
+38
+
+=== page 44 ===
+Chap. 2 – Les compensations engendrées par la réforme (scénario LF)
+d’appréhender les communes qui se verront davantage ou moins compensées du
+fait de leur département d’appartenance.
+Les graphiques de la Figure 2.6 montrent les corrélations entre le taux de TFPB
+départemental et différentes variables socio-démographiques des départements 4.
+De ces graphiques, il apparaît que les départements ont un taux de TFPB d’au-
+tant plus élevé que la population est faible, que la superﬁcie est importante, que le
+revenu disponible médian par UC est faible et que le taux de chômage est impor-
+tant. Parmi ces différentes variables, la relation la plus marquée semble être celle
+avec le revenu disponible médian par UC. Ainsi, les taux de TFPB départementaux
+semblent plus élevés dans les territoires ruraux. Ils sont également plus importants
+en moyenne dans les territoires à faibles revenus et faibles taux d’actifs occupés,
+ce qui semble en cohérence avec les missions des départements, dans lesquelles
+l’action sociale occupe une place importante.
+Globalement, les différences de compensation observées dépendent fortement
+des différences de choix communaux et départementaux relatifs à leurs ﬁnances
+publiques et antérieurs à la réforme. Au total, la réforme telle que prévue par la
+LF2020 semble surcompenser les communes à faible population et à faibles reve-
+nus, soit via l’existence d’un taux de TH communal relativement faible, soit via
+l’appartenance à des départements marqués par davantage de difﬁcultés sociales et
+des taux de TFPB plus importants. Ces communes devront, en vertu du mécanisme
+de correction prévu par la LF2020, verser ces surcompensations à des communes
+en moyenne plus peuplées, composées de ménages ayant des revenus en moyenne
+plus importants. En agrégé, ces transferts et contributions représentent 9 % du pro-
+duit total de TFPB et impliquent une baisse non négligeable de la territorialité de
+cet impôt.
+4. Les variables de population totale et de structure de la population en termes d’âge et de statut
+d’activité proviennent des tableaux détaillés du recensement de la population 2016. La variable de
+superﬁcie provient de la base GEOFLA produite par l’Institut national de l’information géographique
+et forestière (IGN). La variable de revenu disponible médian par UC provient de Filosoﬁ2017.
+39
+
+=== page 45 ===
+Evaluation de la réforme de la ﬁscalité locale
+FIGURE 2.6 – Taux de TFPB départemental et caractéristiques du dépar-
+tement
+0
+10
+20
+30
+Taux de TFPB départemental (points de pourcentage)
+0
+500
+1000
+1500
+2000
+2500
+(a) Pop. totale (milliers)
+0
+10
+20
+30
+Taux de TFPB départemental (points de pourcentage)
+0
+2000
+4000
+6000
+8000
+10000
+(b) Superﬁcie (km2)
+0
+10
+20
+30
+Taux de TFPB départemental (points de pourcentage)
+15
+20
+25
+30
+(c) Revenu disponible médian (milliers
+d’euros)
+0
+10
+20
+30
+Taux de TFPB départemental (points de pourcentage)
+10
+15
+20
+25
+30
+35
+(d) Taux de chômage
+0
+10
+20
+30
+Taux de TFPB départemental (points de pourcentage)
+5
+10
+15
+20
+25
+30
+(e) Part > 65 ans dans la pop (en %)
+0
+10
+20
+30
+Taux de TFPB départemental (points de pourcentage)
+15
+20
+25
+30
+35
+(f) Part < 16 ans dans la pop (en %)
+LECTURE : Chaque graphique montre la corrélation entre le taux de TFPB départemental (axe vertical) et une variable
+socio-démographique du département (axe horizontal). Chaque point représente un département. Les droites rouges sont
+associées à des régressions linéaires entre les deux variables des graphiques.
+SOURCES : Fichiers REI 2018, Filosoﬁ2017, recensement de la population, base GEOFLA, calculs des auteurs.
+40
+
+=== page 46 ===
+CHAPITRE 3
+UN PARTAGE DE LA TFPB ENTRE
+COMMUNES ET EPCI (scénario A1)
+La suppression de la TH sur les résidences principales affecte les recettes ﬁscales
+du bloc communal, c’est-à-dire des communes ainsi que des EPCI. Au-delà des me-
+sures de la LF2020, prévoyant un transfert du taux de TFPB départemental vers les
+seules communes, cette réforme pose le problème de la répartition des instruments
+ﬁscaux au sein du bloc communal. La base ﬁscale de la TFPB est mécaniquement
+inﬂuencée par les politiques locales d’aménagement du territoire. Si l’on souhaitait
+allouer les retours en termes de base foncière à l’échelon local en charge de ces
+politiques, ceci plaiderait en faveur d’un transfert propre à la répartition des com-
+pétences au sein de chaque bloc communal. Cette règle tendrait vers un transfert
+destiné principalement aux EPCI, qui constituent le principal niveau de décision pu-
+blique lié au foncier, d’où l’intérêt d’étudier des scénarios de réforme alternatifs en
+termes de partage de la TFPB entre communes et EPCI, comme soulevé également
+par Bur et Richard (2018).
+De plus, la répartition des instruments ﬁscaux entre communes et EPCI a poten-
+tiellement des effets non négligeables sur la répartition territoriale des transferts
+de ﬁscalité. En 2018, le territoire français se compose de 35 389 communes dont
+41
+
+=== page 47 ===
+Evaluation de la réforme de la ﬁscalité locale
+72 % sont de moins de 1 000 habitants. Cette fragmentation de l’échelon commu-
+nal explique l’importante hétérogénéité entre territoires municipaux en termes de
+degré de compensation, et mutualiser à l’échelle des EPCI pourrait être un moyen
+de limiter cette hétérogénéité ainsi que le poids des transferts correcteurs dans les
+produits de TFPB. Cette section vise à étudier ces aspects, en analysant un scéna-
+rio alternatif de réforme où une fraction du taux de TFPB départemental, déﬁnie à
+l’échelle nationale, est transférée aux EPCI.
+3.1
+Présentation du scénario
+Le scénario alternatif analysé dans cette section (scénario A1) consiste à com-
+penser l’intégralité du produit de TH des EPCI par un transfert de TFPB départe-
+mentale, via un mécanisme similaire à celui prévu par la LF2020 à destination des
+communes. La masse de TH des EPCI à compenser s’élève à 6,8 milliards d’euros
+tandis que la TFPB départementale à transférer est de 14,4 milliards d’euros (voir
+le Tableau 1.1). Ainsi, cette réforme consisterait à allouer aux EPCI 47 % de la
+TFPB prélevée par le département sur le territoire intercommunal. Ce ratio serait
+uniforme à l’échelle nationale. La répartition de ce produit de TFPB entre EPCI se
+ferait via le même mécanisme que celui qui est prévu pour les communes dans
+la LF2020, avec également le même dispositif de coefﬁcient correcteur. Autrement
+dit, ce dispositif peut être représenté par les termes suivants (en indexant par e′ les
+variables spéciﬁques à ce scénario pour les EPCI) :
+PerteTHe′ = BaseTHe
+2020 ∗TauxTHe
+2017 + ExoTHe
+2020 + SupTHe
+2018−2020
+GainTFPBe′ = 0,47 ∗(ProduitNetTFPBde
+2020 + ExoTFPBde
+2020 + SupTFPBde
+2018−2020)
+42
+
+=== page 48 ===
+Chap. 3 – Un partage de la TFPB entre communes et EPCI (scénario A1)
+xe′ = PerteTHe′ −GainTFPBe′
+coefficiente′ = 1 +
+xe′
+ProduitNetTFPBe
+2020 + 0,47 ∗ProduitNetTFPBde
+2020
+Ce′
+t = ProduitNetTFPBe′
+t ∗(coefficiente′ −1) ∗PartTauxTFPBe
+2020
+Le reliquat de TFPB départementale, à savoir 7,6 milliards d’euros, serait al-
+loué aux communes, en appliquant également le même mécanisme de transfert de
+correction. On aurait donc les formules suivantes (en indexant par c′ les variables
+spéciﬁques à ce scénario alternatif pour les communes) :
+xc′ = 0,53 ∗(PerteTHc −GainTFPBc)
+Ainsi que :
+coefficientc′ = 1 +
+xc′
+ProduitNetTFPBc
+2020 + 0,53 ∗ProduitNetTFPBdc
+2020
+Et :
+Cc′
+t = ProduitNetTFPBc′
+t ∗(coefficientc′ −1) ∗PartTauxTFPBc
+2020
+Le montant résiduel de TH communale serait enﬁn compensé par une allocation
+d’une fraction de TVA, via le même mécanisme que celui prévu pour les EPCI dans
+la LF2020.
+3.2
+La distribution des compensations
+Les communes d’un même EPCI étant potentiellement très hétérogènes, considé-
+rer sur un territoire donné la situation communale ou intercommunale peut aboutir
+à des situations très différentes, et transférer de la TFPB à l’échelle de l’EPCI peut
+43
+
+=== page 49 ===
+Evaluation de la réforme de la ﬁscalité locale
+engendrer des effets importants de mutualisation et donc limiter le décalage entre
+le territoire de prélèvement de l’impôt et le territoire de perception après l’appli-
+cation du mécanisme correcteur. La Figure 3.1 illustre cet aspect. Chaque point
+représente une commune différente. Cette ﬁgure confronte pour chaque commune
+le transfert correcteur par habitant de son EPCI et de sa commune sous ce scénario
+alternatif. Cette comparaison est intéressante pour avoir un aperçu des effets de
+mutualisation potentiels, dans la mesure où le partage de la TFPB départementale
+entre EPCI et communes dans ce scénario est proche de 50 %-50 %. Cette ﬁgure
+montre en effet des transferts par tête communaux variant très fréquemment de
+plus de 200 euros au sein d’un même EPCI. Néanmoins, ce graphique montre aussi
+une forte hétérogénéité des degrés de compensation entre EPCI.
+Le Tableau 3.1 recense le pourcentage d’EPCI surcompensés et sous-compensés
+sous ce scénario A1. La répartition entre ces deux catégories est équilibrée relati-
+vement au scénario LF, avec respectivement 47 % et 53 % d’EPCI surcompensées
+et sous-compensées. Le Tableau 3.1 renseigne également les masses de surcom-
+pensations et de sous-compensations qui correspondent respectivement, à bases
+ﬁscales constantes, aux transferts versés et reçus au titre du mécanisme du coefﬁ-
+cient correcteur dans ce scénario alternatif. Le système de transfert relatif aux EPCI
+est équilibré, et ce par construction, étant donné que la masse de TFPB allouée aux
+EPCI correspond exactement à la somme de TH des EPCI à compenser. Si l’on fait
+la somme des surcompensations et sous-compensations des EPCI et des communes
+dans ce scénario, on tombe sur des masses très proches du scénario LF. Ainsi, en
+agrégé, allouer de la TFPB au niveau de l’EPCI ne semble pas tendre vers moins
+d’hétérogénéité territoriale, et l’écart en agrégé entre le montant de TFPB prélevé
+sur un territoire et le montant qui y est effectivement alloué après le mécanisme
+correcteur est très similaire dans les deux scénarios. Ce constat est renforcé par la
+Figure 3.2 qui montre pour les deux scénarios de réforme la distribution du trans-
+44
+
+=== page 50 ===
+Chap. 3 – Un partage de la TFPB entre communes et EPCI (scénario A1)
+FIGURE 3.1 – Comparaison du transfert correcteur des EPCI et des com-
+munes - scénario A1
+-400
+-200
+0
+200
+400
+Compensation de la commune (en euros par habitant)
+-400
+-200
+0
+200
+Compensation de l'EPCI (en euros par habitant)
+LECTURE : Dans cette ﬁgure, chaque point représente une commune. Un point donne la valeur de Ce′
+t
+de l’EPCI de la
+commune rapportée au nombre d’habitants de l’EPCI (axe horizontal), ainsi que la valeur de Cc′
+t de la commune rapportée
+au nombre d’habitants de la commune.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+fert correcteur total (transfert communal pour le scénario LF, somme des transferts
+communal et intercommunal pour le scénario A1) au sein de la population. Autre-
+ment dit, on pondère le transfert total sur un territoire donné par sa population
+totale, de sorte à avoir une distribution des compensations associées à chaque in-
+dividu (à un individu est associé la compensation appliquée sur son territoire). Les
+deux distributions ont des dispersions relativement similaires, avec néanmoins des
+queues de distribution plus importantes dans le scénario LF, ce qui explique le pic
+plus marqué au niveau de zéro pour la distribution relative au scénario A1. Globale-
+ment, ceci conﬁrme que mutualiser à l’échelle de l’EPCI semble atténuer de manière
+limitée la perte de territorialité de la TFPB par rapport au scénario LF.
+45
+
+=== page 51 ===
+Evaluation de la réforme de la ﬁscalité locale
+TABLEAU 3.1 – Statistiques agrégées - transfert partagé de TFPB départe-
+mentale aux communes et EPCI (scénario A1)
+Répartition des EPCI
+Part des EPCI surcompensées
+47,0 %
+Part des EPCI sous-compensées
+53,0 %
+Masses ﬁnancières (en milliards d’euros)
+Sous-compensations des EPCI (1)
+1,4
+Surcompensations des EPCI (2)
+1,4
+Sous-compensations des communes (3)
+1,6
+Surcompensations des communes (4)
+1,5
+Somme des sous-compensations (1)+(3)
+3,0
+Somme des surcompensations (2)+(4)
+2,9
+Solde [(2)+(4)] - [(1)+(3)]
+-0,1
+Produit TFPB tous échelons (5)
+32,0
+Ratio [(2)+(4)] / (5)
+9,1 %
+NOTES : La masse des sous-compensations (respectivement des surcompensa-
+tions) des EPCI est la masse de la valeur absolue de GainTFPBe′ −PerteTHe′
+lorsque GainTFPBe′ −PerteTHe′ < 0 (respectivement > 0). La masse des
+sous-compensations (respectivement des surcompensations) des communes est
+la masse de la valeur absolue de 0, 53 ∗(GainTFPBc −PerteTHc) lorsque
+0, 53 ∗(GainTFPBc −PerteTHc) < 0 (respectivement > 0). Le « produit de
+TFPB tous échelons » correspond au produit de TFPB à payer après la réforme,
+c’est-à-dire à la somme des nouvelles TFPB intercommunale et communale. Pour
+chacune de ces taxes, il s’agit du produit de la nouvelle base de TFPB (applica-
+tion des abattements et exonérations actuels du département) et du nouveau taux
+(somme des taux actuels et du taux départemental transféré).
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+Même si l’ampleur globale de l’hétérogénéité des degrés de compensation entre
+ces deux scénarios semble similaire, il est important de regarder si les caractéris-
+tiques de cette hétérogénéité diffèrent. Pour cela, il est sufﬁsant de se focaliser sur
+les caractéristiques des compensations des EPCI, celles des compensations des com-
+munes étant par construction similaires au scénario LF, avec pour seule différence
+les ordres de grandeur en jeu, étant donné que seul 53 % de la TFPB départemen-
+tale est alloué aux municipalités. La Figure 3.3 représente une carte indiquant pour
+chaque EPCI son quartile dans la distribution du niveau de compensation par ha-
+bitant. Alors que 25 % des EPCI ont une sous-compensation supérieure à 27 euros
+par habitant, 25 % ont une surcompensation par tête supérieure à 32 euros. Tout
+comme le scénario LF, il existe une forte corrélation inter-départementale, s’expli-
+46
+
+=== page 52 ===
+Chap. 3 – Un partage de la TFPB entre communes et EPCI (scénario A1)
+FIGURE 3.2 – Distribution dans la population du transfert correcteur des
+EPCI et des communes - scénario LF et scénario A1
+0
+.002
+.004
+.006
+-500
+0
+500
+Transfert correcteur (en euros par habitant)
+Scénario LF
+Scénario A1
+LECTURE : Cette ﬁgure donne d’une part la fonction de densité de Ce′
+t /Populatione + Cc′
+t /Populationc, et d’autre part la
+distribution de Cc
+t /Populationc. Ces distributions sont pondérées par la population totale de la commune.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+quant potentiellement par le transfert d’une taxe dont le taux est déﬁni à l’échelle
+du département. En reproduisant un exercice analogue à l’analyse du scénario LF,
+nous trouvons des résultats qualitativement similaires, ﬁgurant en annexe : (i) les
+différences moyennes à l’échelle du département entre la TFPB départementale
+transférée aux EPCI et la TH des EPCI à compenser sont relativement corrélées avec
+les différences de taux mais peu avec les différences de base ﬁscale par habitant (Fi-
+gures A2a à A2c); (ii) le niveau de compensation est une fonction décroissante de
+la population intercommunale, ceci s’expliquant par des variations de différence
+de taux de TFPB départementale et de TH des EPCI (Figure A3). En revanche, le
+revenu disponible médian par UC intercommunal ne semble pas, contrairement au
+47
+
+=== page 53 ===
+Evaluation de la réforme de la ﬁscalité locale
+scénario LF, être une variable corrélée avec les montants de compensation des EPCI
+(Figure A4).
+FIGURE 3.3 – Différence par habitant entre la TFPB gagnée et la TH per-
+due - scénario A1
+NOTES : Cette carte montre pour chaque EPCI son quartile d’appartenance dans la distribution de la valeur de
+(GainTFPBe′ −PerteTHe′)/Populatione. L’intervalle associé à chaque quartile est renseigné dans la légende.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+48
+
+=== page 54 ===
+CHAPITRE 4
+UNE COMPENSATION EXACTE DES EPCI
+PAR LA TFPB DÉPARTEMENTALE
+(scénario A2)
+4.1
+Présentation du scénario
+La section précédente montre que l’allocation d’une fraction de la TFPB dépar-
+tementale aux EPCI, déﬁnie à l’échelle nationale, joue peu sur l’hétérogénéité des
+degrés de compensation qu’implique le transfert du taux de TFPB départemental.
+Ainsi, le décalage entre le territoire de prélèvement de la TFPB et le territoire de
+perception après le mécanisme correcteur s’avère globalement similaire au scénario
+LF. Cette section présente un autre scénario alternatif (scénario A2) dans lequel la
+fraction de TFPB départementale allouée à chaque EPCI est déﬁnie de telle sorte à
+compenser de manière intégrale l’EPCI de sa TH. Cette fraction est ainsi spéciﬁque
+à chaque territoire intercommunal, et peut s’écrire de la manière suivante :
+αe′′ = Min(
+PerteTHe′
+(ProduitNetTFPBde
+2020 + ExoTFPBde
+2020 + SupTFPBde
+2018−2020);1)
+49
+
+=== page 55 ===
+Evaluation de la réforme de la ﬁscalité locale
+De cette fraction, le transfert de TFPB aux EPCI se déﬁnit, de manière analogue
+aux scénarios précédents, par le terme suivant (en indexant par e′′ les variables
+spéciﬁques à ce scénario pour les EPCI) :
+GainTFPBe′′ = αe′′ ∗(ProduitNetTFPBde
+2020 + ExoTFPBde
+2020 + SupTFPBde
+2018−2020)
+Dans ce système, chaque EPCI se voit transféré un montant de TFPB correspon-
+dant exactement à son montant de TH, excepté les cas où la totalité de la TFPB
+départementale prélevée sur le territoire intercommunal est inférieure à la seule
+TH de l’EPCI. À ces exceptions près, il n’y a donc pas par construction de surcom-
+pensation ou sous-compensation pour les EPCI. Les communes reçoivent quant à
+elles le reliquat de TFPB départementale. La TFPB leur revenant peut ainsi s’écrire
+de la manière suivante (en indexant par c′′ les variables spéciﬁques à ce scénario
+pour les communes) :
+GainTFPBc′′ = (1 −αe′′) ∗GainTFPBc
+Dans ce scénario, nous ne considérons pas de mécanisme correcteur tel que
+déﬁni dans les deux scénarios précédents. Pour les EPCI, la seule correction à effec-
+tuer concernerait seulement les EPCI dont la TFPB départementale prélevée sur leur
+territoire ne sufﬁt pas à les compenser intégralement. Pour les communes, il serait
+possible de manière analogue au scénario précédent de déﬁnir un mécanisme cor-
+recteur, en prenant par exemple (1−αe′′)PerteTHc pour montant à atteindre après
+application du mécanisme, le montant résiduel de TH (αe′′PerteTHc) pouvant être
+compensé par de la TVA. Néanmoins, les montants de compensation des communes,
+déﬁnis par GainTFPBc′′ −PerteTHc seront mécaniquement moins importants que
+pour le scénario LF, la TFPB ne revenant pas en totalité aux communes. L’idée de
+cette section est de voir dans quelle mesure il existe toujours des surcompensations
+50
+
+=== page 56 ===
+Chap. 4 – Une compensation exacte des EPCI par la TFPB départementale
+(scénario A2)
+au niveau communal dans ce scénario, qui permettraient de compenser les sous-
+compensations, sans être néanmoins sufﬁsantes dans la mesure où il manque 7,2
+milliards d’euros à compenser au niveau du bloc communal après prise en compte
+de la descente de la TFPB départementale (voir le Tableau 1.1). Si de telles surcom-
+pensations existent, elles peuvent soit alimenter une redistribution au niveau na-
+tional, soit être allouées en priorité aux communes sous-compensées de l’EPCI dans
+lequel la surcompensation est constatée. Cette deuxième option repose sur l’hypo-
+thèse selon laquelle il existe pour les biens publics communaux des externalités à
+l’échelle de l’EPCI, d’où le fait qu’une telle redistribution intra-EPCI peut consister
+à rapprocher les surcompensations réallouées de leur territoire de prélèvement.
+4.2
+La distribution des compensations
+Le Tableau 4.1 fournit des statistiques permettant de quantiﬁer ces éléments.
+Seulement 1,3 % des EPCI sont sous-compensés du fait d’un montant de TFPB dé-
+partementale perçu sur leur territoire inférieur à leur montant de TH 1. Quant aux
+communes, 30 % d’entres elles restent surcompensées, malgré le fait que seul une
+partie de la TFPB départementale leur est transférée. En revanche, la masse ﬁnan-
+cière de surcompensations s’élève à 800 millions d’euros, ce qui est bien inférieur
+aux scénarios précédents. La masse des sous-compensations s’établit quant à elle à
+7,7 milliards d’euros. Ce montant est plus important que dans les scénarios précé-
+dents, dans la mesure où l’on confronte le transfert d’une partie seulement de la
+TFPB départementale au montant total de TH perdue par les communes. Au total,
+ce scénario ainsi représenté consisterait à gérer un montant négligeable de surcom-
+pensations communales, le reste du produit de TFPB transféré pouvant rester sur le
+territoire sur lequel il est prélevé.
+Une idée serait de gérer ces surcompensations restantes au niveau de l’EPCI,
+1. Le montant total de sous-compensations est quant à lui négligeable (30 millions d’euros).
+51
+
+=== page 57 ===
+Evaluation de la réforme de la ﬁscalité locale
+TABLEAU 4.1 – Statistiques agrégées - compensation exacte des EPCI par
+la TFPB départementale (scénario A2)
+Compensations des EPCI
+Part des EPCI sous-compensées
+1,3 %
+Compensations des communes
+Part des communes surcompensées
+30,0 %
+Part des communes sous-compensées
+70,0 %
+Masse surcompensations communes (milliards d’euros)
+0,8
+Masse sous-compensations communes (milliards d’euros)
+7,7
+Redistribution intra-EPCI
+Part des EPCI où surcompensation consolidée des communes
+27,4 %
+Part des EPCI où sous-compensation consolidée des communes
+72,6 %
+Masse surcompensations communes gérée en intra-EPCI (milliards d’euros)
+0,4
+NOTES : La « compensation des EPCI » correspond au terme GainTFPBe′′ −PerteTHe′. La « compensation des com-
+munes » correspond au terme GainTFPBc′′ −PerteTHc. Pour un EPCI, la « compensation consolidée des communes »
+est la somme des compensations des communes constatées sur le territoire intercommunal. La « masse des surcompensa-
+tions des communes gérée en intra-EPCI » est la somme à l’échelle nationale des surcompensations communales pouvant
+contribuer à l’annulation de sous-compensations de communes au sein du même EPCI. Pour chaque EPCI, le montant de
+ces surcompensations correspond au minimum entre ∣∑c∈e (GainTFPBc′′ −PerteTHc) 1GainT F P Bc′′ −P erteT Hc>0∣et
+∣∑c∈e (GainTFPBc′′ −PerteTHc) 1GainT F P Bc′′ −P erteT Hc<0∣, où ∑c∈e désigne l’opérateur de la somme entre com-
+munes au sein de l’EPCI.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+aﬁn de laisser ces surcompensations sur le territoire intercommunal. Ceci repo-
+serait sur l’hypothèse d’existence d’externalités des biens publics communaux au
+niveau intercommunal. Néanmoins, une telle redistribution intra-EPCI, qui consiste
+à allouer en priorité une surcompensation d’une commune donnée à une commune
+sous-compensée du même EPCI, s’avère partielle en termes de traitement des sur-
+compensations. Sur les 800 millions de surcompensations, 400 millions peuvent
+être réallouées dans le même EPCI, dans la mesure où les montants de surcompen-
+sations semblent être hétérogènes entre territoires intercommunaux. Si l’on somme
+à l’échelle de l’EPCI les termes GainTFPBc′′ −PerteTHc de l’ensemble des com-
+munes, on aboutit à une surcompensation « consolidée » pour 27,4 % des EPCI, et
+une sous-compensation consolidée pour 72,6 % d’entre elles.
+Les niveaux de compensations communales restent néanmoins toujours hété-
+rogènes entre communes, comme l’illustre la Figure 4.1. Cette ﬁgure renseigne
+52
+
+=== page 58 ===
+Chap. 4 – Une compensation exacte des EPCI par la TFPB départementale
+(scénario A2)
+pour chaque commune son quartile d’appartenance pour le terme GainTFPBc′′ −
+PerteTHc. 25 % des communes ont une sous-compensation supérieure à 79 euros
+par habitant, tandis que 25 % des municipalités connaîtraient des surcompensa-
+tions supérieures à 11 euros par tête. Cette carte est relativement similaire à la
+Figure 2.1, les différences entre ces deux répartitions provenant des différences
+entre territoires intercommunaux du terme 1 −αe′′, à savoir de la fraction de la
+TFPB départementale transférée aux communes (voir la Figure A5 en annexe pour
+la distribution de cette fraction entre EPCI).
+La Figure 4.2 conﬁrme cette dimension d’hétérogénéité, en montrant pour chaque
+EPCI son quartile d’appartenance dans la distribution de la somme des différences
+communales entre la TFPB transférée et la TH perdue. 25 % des EPCI ont une sous-
+compensation consolidée supérieure à 101 euros par habitant, tandis que 25 %
+ont une surcompensation consolidée supérieure à 5 euros par tête, pouvant aller
+jusqu’à 584 euros. Cette carte illustre le fait que les surcompensations et sous-
+compensations communales ne sont pas distribuées de manière homogène entre
+territoires intercommunaux.
+Les Figures 4.3 et 4.4 permettent de comparer entre le scénario LF et le scénario
+A2 la distribution entre communes de la différence entre la TFPB transférée et la
+TH perdue. La Figure 4.3 montre des différences moyennes par catégorie de popu-
+lation municipale, tandis que la Figure 4.4 classe les communes par catégorie de
+revenu disponible médian par UC des ménages. La courbe du haut de la Figure 4.3
+correspond à la courbe de différence TFPB - TH du scénario LF présentée dans la
+Figure 2.3a. La courbe du bas montre cette même différence pour le scénario A2. La
+différence entre la TFPB transférée et la TH perdue est mécaniquement inférieure
+pour le scénario A2 par rapport au scénario LF, dans la mesure où seule une par-
+tie de la TFPB est transférée aux communes. Les deux courbes sont très similaires,
+avec une pente plus décroissante pour le scénario A2 concernant les plus petites
+53
+
+=== page 59 ===
+Evaluation de la réforme de la ﬁscalité locale
+FIGURE 4.1 – Différence par habitant entre la TFPB gagnée et la TH per-
+due - scénario A2
+NOTES : Cette carte montre pour chaque commune son quartile d’appartenance dans la distribution de la valeur de
+(GainTFPBc′′ −PerteTHc)/Populationc. L’intervalle associé à chaque quartile est renseigné dans la légende.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+communes. Ceci est dû à la décroissance du terme 1 −αe′′ au niveau de cette par-
+tie de la distribution (voir la Figure A6 en annexe). La Figure 4.4 montre quant à
+elle que la variation de la différence entre la TFPB transférée et la TH perdue en
+fonction du revenu disponible médian par UC des ménages est similaire entre le
+scénario LF et le scénario A2, et ce malgré les différences du terme 1−αe′′ qui jouent
+un rôle négligeable (voir la Figure A7 en annexe).
+54
+
+=== page 60 ===
+Chap. 4 – Une compensation exacte des EPCI par la TFPB départementale
+(scénario A2)
+FIGURE 4.2 – Différence par habitant et consolidée à l’échelle de l’EPCI
+entre la TFPB gagnée et la TH perdue - scénario A2
+NOTES
+:
+Cette
+carte
+montre
+pour
+chaque
+EPCI
+son
+quartile
+d’appartenance
+dans
+la
+distribution
+de
+∑c∈e(GainT F P Bc′′
+−P erteT Hc)
+P opulatione
+, où ∑c∈e désigne l’opérateur de la somme entre communes au sein de l’EPCI.
+L’intervalle associé à chaque quartile est renseigné dans la légende.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+55
+
+=== page 61 ===
+Evaluation de la réforme de la ﬁscalité locale
+FIGURE 4.3 – Différences moyennes par habitant entre la TFPB transférée
+et la TH perdue en fonction de la population totale de la commune -
+scénarios LF et A2
+-200
+-150
+-100
+-50
+0
+50
+Montants en euros
+0
+20
+40
+60
+80
+100
+Population totale (en milliers d'habitants)
+TFPB - TH scénario LF
+TFPB - TH scénario A2
+LECTURE : Cette ﬁgure compare pour le scénario LF et le scénario A2 les variations
+de compensations communales en fonction de la taille des communes. Pour chacun
+de ces scénarios, cette ﬁgure montre pour chaque tranche de communes en termes
+de milliers d’habitants les différences moyennes entre le produit par habitant de
+TFPB départementale transféré sur le territoire de la commune et celui de la TH
+communale. Concernant l’axe des abscisses : 0 regroupe les communes de moins
+de 1 000 habitants, 1 regroupe les communes entre 1 000 et 1 999 habitants, etc.
+Au-delà de 9, du fait du faible nombre de communes, les catégories sont davantage
+agrégées. 10 regroupe les communes entre 10 000 et 19 999 habitants, 20 les
+communes entre 20 000 et 29 999 habitants, etc.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+56
+
+=== page 62 ===
+Chap. 4 – Une compensation exacte des EPCI par la TFPB départementale
+(scénario A2)
+FIGURE 4.4 – Différences moyennes par habitant entre la TFPB transférée
+et la TH perdue en fonction du revenu disponible médian par UC de la
+commune - scénarios LF et A2
+-200
+-100
+0
+100
+Montants en euros
+10
+20
+30
+40
+Revenu disponible annuel médian par UC des ménages (en milliers d'euros)
+TFPB - TH scénario LF
+TFPB - TH scénario A2
+LECTURE : Cette ﬁgure compare pour le scénario LF et le scénario A2 les variations
+de compensations communales en fonction du niveau de vie des ménages des com-
+munes. Pour chacun de ces scénarios, cette ﬁgure montre pour chaque tranche de
+communes en termes de revenu disponible médian des ménages par UC les diffé-
+rences moyennes entre le produit par habitant de TFPB départementale transféré
+sur le territoire de la commune et celui de la TH communale. Concernant l’axe des
+abscisses : les montants sont des milliers d’euros et correspondent à des montants
+annuels. Par exemple, 15 regroupe les communes dont le revenu disponible mé-
+dian est compris entre 15 000 et 15 999 euros. 38, qui est la dernière catégorie,
+regroupe toutes les communes au-dessus de 38 000 euros.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+57
+
+=== page 63 ===
+Evaluation de la réforme de la ﬁscalité locale
+58
+
+=== page 64 ===
+CHAPITRE 5
+DISCUSSION
+Les résultats précédents montrent que la descente du taux de TFPB départemen-
+tal vers les communes, prévue par la LF2020, implique une importante hétérogé-
+néité en termes de degrés de compensation. La LF2020 prévoit de corriger ces effets
+par un mécanisme de coefﬁcient correcteur qui, selon nos simulations, impliquerait
+que 9 % du produit global de TFPB ne serait au ﬁnal pas alloué au territoire sur le-
+quel il est prélevé. Ce mécanisme serait dynamique, la contribution des communes
+surcompensées et les transferts en faveur des communes sous-compensées devant
+être revalorisés chaque année en fonction de la dynamique de leur base ﬁscale.
+Ainsi, ce mécanisme correspond, non pas à une correction des différences de degré
+de compensation constatées à un moment donné, mais à des transferts horizontaux
+de ﬁscalité de long terme. Le scénario A1 impliquerait des effets très similaires, tan-
+dis que le scénario A2 permettrait de limiter les surcompensations sans pour autant
+les annuler et régler la question de la neutralisation des compensations.
+5.1
+Pour un mécanisme de correction transitoire
+Ainsi, le taux de TFPB départemental se verrait être alloué administrativement
+aux communes et/ou aux EPCI, sans que les recettes de ces collectivités ne changent
+59
+
+=== page 65 ===
+Evaluation de la réforme de la ﬁscalité locale
+réellement à terme, et sans connexion claire entre la variation de la base ﬁscale
+d’une collectivité et l’évolution de ses recettes ﬁscales. Le risque est de vider le
+transfert de TFPB de sa substance, et de créer un dispositif dépendant des situations
+de compensation des collectivités au moment de la réforme, situations qui à terme
+risquent de se trouver en décalage avec la situation courante des territoires.
+Ces considérations concernant la dynamique du système proposé par la LF2020
+illustrent le fait que la neutralisation des compensations ne peut être traitée par
+des instruments ﬁscaux. La neutralisation doit s’effectuer à travers un dispositif à
+part, sous la forme d’un fonds de compensation. Ce dispositif de neutralisation,
+parce qu’il dépend des caractéristiques des collectivités au moment de la réforme,
+ne devrait être que transitoire (ex : dégressivité au cours du temps), aﬁn de laisser
+à terme pleine place à la nouvelle allocation de la ﬁscalité locale, dont le choix
+doit être soumis à des considérations plus générales sur la structure du système de
+décentralisation, et non pas être déterminée aﬁn de limiter les différences de degré
+de compensation.
+Ces considérations renvoient aux théories du fédéralisme ﬁscal, portant sur l’al-
+location optimale des compétences entre échelons territoriaux, c’est-à-dire sur le
+degré de décentralisation souhaité pour la production d’un bien public donné. Ces
+théories se fondent sur les travaux pionniers d’Oates (1972), selon lesquels le de-
+gré de décentralisation optimal pour un bien public local donné est le résultat d’un
+arbitrage entre la prise en compte de l’hétérogénéité territoriale des préférences
+(plus cette hétérogénéité est importante, plus le degré de décentralisation optimal
+est élevé) et le degré d’externalités horizontales (plus ces externalités sont fortes,
+plus il est optimal d’allouer la production d’un bien public à un échelon territorial
+supérieur). Plusieurs dimensions à prendre en compte s’articulent autour de cet
+arbitrage fondateur, comme les interactions entre décisions publiques locales dans
+un contexte d’externalités (voir Epple et Nechyba (2004) pour une revue) ou en-
+core les incitations respectives des gouvernements locaux et centraux à prendre en
+60
+
+=== page 66 ===
+Chap. 5 – Discussion
+compte le bien-être collectif dans un système de décision publique donné (Lock-
+wood, 2015).
+5.2
+De nouvelles recettes structurelles pour les col-
+lectivités?
+Ce rapport se focalise sur le transfert du taux de TFPB départemental vers le
+bloc communal. Ce taux transféré crée néanmoins une perte de ressources pour
+les départements, laissant inchangée la perte consolidée de recettes publiques lo-
+cales, à hauteur de 21,6 milliards d’euros (voir le Tableau 1.1). La LF2020 prévoie
+de compenser cette perte consolidée par un transfert de TVA, qui sert de variable
+d’ajustement dans cette réforme. Or, ce transfert de TVA souffre des mêmes écueils
+que ceux évoqués précédemment. Les fractions de TVA allouées aux différentes col-
+lectivités dépendront en effet des pertes de recettes de TH constatées au moment
+de la réforme. La compensation que ce transfert de TVA vise à atteindre pourrait à
+la place se faire à travers un mécanisme de neutralisation transitoire et non-lié à la
+ﬁscalité.
+Ainsi, si l’on veut maintenir constant le niveau de recettes publiques locales, il
+est important de déﬁnir une nouvelle source de recettes dépendant des caractéris-
+tiques courantes des collectivités et pouvant ainsi s’ancrer sur le long terme. Cette
+source pourrait prendre la forme d’un nouvel impôt local, le recours à la taxa-
+tion pouvant présenter l’avantage de renforcer la responsabilisation des décideurs
+locaux (Gadenne, 2017) ou leurs incitations au développement de leur territoire
+(Zhuravskaya, 2000). Elle pourrait également prendre la forme d’un renforcement
+du système de dotations, aﬁn d’internaliser les externalités entre collectivités (Wil-
+dasin, 1989; Boadway et Flatters, 1982) et/ou d’atteindre des objectifs de redistri-
+bution territoriale (Weingast, 2009). Quel que soit le choix opéré à ce sujet, il est
+61
+
+=== page 67 ===
+Evaluation de la réforme de la ﬁscalité locale
+dans tous les cas primordial de disposer d’un système de ﬁnances publiques locales
+qui à terme ne contienne que des éléments renvoyant à de tels objectifs structurels,
+et ne faisant plus référence à une réforme passée.
+5.3
+Les implications structurelles de la suppression
+de la TH
+Enﬁn, la suppression de la TH sur les résidences principales, qui est à la base
+de cette réforme, a des implications potentiellement importantes sur les politiques
+publiques locales, qu’il est important d’appréhender. Les ménages résidents non-
+propriétaires, bien que proﬁtant des biens publics locaux et participant aux déci-
+sions de politiques publiques via les élections locales, verront leur niveau d’impo-
+sition considérablement réduit 1. Il peut ainsi émerger un « effet locataire » (Oates,
+2005) tirant les dépenses publiques à la hausse, dans la mesure où ces résidents
+tendraient à préférer davantage de biens publics, soit du fait de leur degré effectif
+d’imposition moins important, soit du fait d’une méconnaissance de leur réel niveau
+d’imposition, dans la mesure où le propriétaire peut répercuter sur le loyer tout ou
+partie du montant des taxes locales qu’il acquitte pour son logement (phénomène
+« d’illusion ﬁscale »). Cet effet locataire a été mis en avant empiriquement par de
+nombreuses publications (voir Oates (2005) pour une revue), avec néanmoins des
+réserves sur le fait qu’il soit le résultat d’un effet d’illusion (Blom-Hansen, 2005). En
+résumé, la suppression de la TH accroît les différences d’imposition entre ménages
+en fonction du statut d’occupation de leur logement. Elle présente aussi le risque
+de détériorer la transparence de la répartition des taux effectifs d’imposition, en
+ouvrant la porte à davantage de phénomènes d’incidence ﬁscale.
+1. Les résidents locataires paieront seulement la taxe d’enlèvement des ordures ménages
+(TEOM), lorsque la collectivité institue cette taxe et que le propriétaire louant son logement dé-
+cide d’exercer son droit de récupérer le montant de cette taxe à travers les charges locatives (voir
+l’article annexe du décret 87-713 du 26 août 1987).
+62
+
+=== page 68 ===
+CONCLUSION GÉNÉRALE
+La LF2020 acte la suppression de la TH sur les résidences principales pour l’en-
+semble des ménages à horizon 2023. En plus d’impliquer des changements pour
+l’imposition des ménages, cette suppression constitue une perte de recettes ﬁscales
+pour les communes et les EPCI. Aﬁn de compenser de cette perte, la LF2020 prévoie
+de transférer aux communes le taux de TFPB des départements et d’accompagner
+ce transfert d’un mécanisme correcteur aﬁn de neutraliser les différences de com-
+pensation. Les EPCI et département se verraient quant à eux alloués une fraction
+de TVA.
+Ce rapport se centre sur le transfert du taux de TFPB à l’échelon communal tel
+que prévu par la LF2020. Le but de ce travail est d’analyser, à partir de simulations
+sur données récentes relatives à la ﬁscalité locale, l’hétérogénéité des degrés de
+compensation qui seraient à l’œuvre. D’après nos résultats, les situations de com-
+pensations sont très diverses selon les communes, de telle sorte que la neutralisa-
+tion de ces compensations à travers le mécanisme de coefﬁcient correcteur implique
+d’allouer 9 % du produit total de TFPB à un territoire différent du territoire de pré-
+lèvement. Ce mécanisme correcteur devant suivre l’évolution des bases ﬁscales de
+chaque collectivité, ceci constitue un transfert horizontal de ﬁscalité ancré sur le
+long terme, correspondant à une perte importante de la territorialité de la TFPB. La
+confrontation des compensations des communes avec leur caractéristiques suggère
+que les situations de surcompensation concernent des communes en moyenne peu
+peuplées et à faible revenu médian des résidents, qui verseront au titre du méca-
+63
+
+=== page 69 ===
+Evaluation de la réforme de la ﬁscalité locale
+nisme correcteur des transferts aux communes plus urbaines à pouvoir d’achat des
+habitants plus élevé.
+En plus d’évaluer le scénario prévu par la LF2020, ce rapport analyse des scé-
+narios alternatifs en termes de partage de la TFPB entre les communes et les EPCI.
+Un premier scénario alternatif consiste à allouer une fraction uniforme du taux dé-
+partemental de TFPB aux EPCI. Ce scénario présente des effets globaux similaires
+en termes de perte de territorialité de la TFPB. Un deuxième scénario alternatif
+consiste à transférer aux EPCI une fraction du taux de TFPB déﬁnie de telle sorte
+à aboutir à une compensation exacte des intercommunalités. Ce dernier scénario
+tire à la baisse le montant global de surcompensations, sans pour autant évacuer
+les enjeux liés aux différences de variations de recettes ﬁscales entre collectivités.
+Dans l’ensemble, l’analyse de ces trois scénarios illustre le fait que la neutrali-
+sation des effets à court terme sur les recettes ﬁscales, qui est primordiale dans la
+mesure où les collectivités ont des engagements ﬁnanciers pluriannuels, ne peut se
+faire par des instruments ﬁscaux. Les impôts locaux et le dynamisme des recettes
+ﬁscales qu’ils impliquent, ne peuvent être pensés à des ﬁns de minimisation des
+chocs budgétaires. Ils doivent répondre à des considérations plus générales sur la
+structure du système de décentralisation et dépendre de la situation courante des
+territoires, sans référence à une réforme passée. La neutralisation des effets bud-
+gétaires induits par la réforme doit ainsi être traitée par un mécanisme séparé de
+fonds de dotation et doit être transitoire, parce que dépendant des caractéristiques
+des collectivités au moment de la réforme.
+Enﬁn, la suppression de la TH, qui est à la base de cette réforme, peut avoir des
+implications importantes en termes de politiques publiques locales, en réduisant
+de manière importante les niveaux d’imposition des résidents non-propriétaires,
+ouvrant la porte à un changement d’équilibre en termes d’incidence de la taxe fon-
+cière sur les loyers. Cet aspect est primordial et devra, si la réforme arrive à son
+terme, faire l’objet de travaux d’évaluation ex post de ces effets.
+64
+
+=== page 70 ===
+ANNEXES
+FIGURE A1 – Confrontation des caractéristiques communales et départe-
+mentales
+(a) Population totale
+(b) Revenu disponible médian par UC
+LECTURE : Ces graphiques confrontent des caractéristiques communales (axe vertical) avec les caractéristiques du dépar-
+tement d’appartenance (axe horizontal). Chaque point représente une commune. Les droites rouges sont associées à des
+régressions linéaires entre les deux variables des graphiques.
+SOURCES : Fichiers REI 2018, Filosoﬁ2017, calculs des auteurs.
+65
+
+=== page 71 ===
+Evaluation de la réforme de la ﬁscalité locale
+FIGURE A2 – Différences moyennes au niveau départemental entre la
+TFPB transférée et la TH perdue - scénario A1
+(a) Produits par habitant
+(b) Bases par habitant
+(c) Taux
+LECTURE : La Figure A2a montre pour chaque département son quartile dans la distribution de la différence agrégée
+entre GainTFPBe′ et PerteTHe′ rapportée à la population départementale, tandis que les Figures A2b et A2c montrent
+respectivement la répartition géographique entre départements des quartiles des termes de bases et de taux. Ces deux
+derniers termes sont similaires à ∆Base_habd et ∆Tauxd, appliqués au scénario A1.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+66
+
+=== page 72 ===
+Annexes
+FIGURE A3 – Différences moyennes entre la TFPB transférée et la TH
+perdue en fonction de la population totale de l’EPCI - scénario A1
+-50
+0
+50
+100
+150
+Montants en euros
+0
+20
+40
+60
+80
+100
+Population totale (en milliers d'habitants)
+TFPB transférée par hab.
+TH perdue par hab.
+Différence TFPB - TH
+(a) Produits par habitant
+900
+1000
+1100
+1200
+1300
+Montants en euros
+0
+20
+40
+60
+80
+100
+Population totale (en milliers d'habitants)
+Base TFPB transférée par hab.
+Base TH perdue par hab.
+(b) Bases par habitant
+.07
+.08
+.09
+.1
+.11
+Taux en points de pourcentage
+0
+20
+40
+60
+80
+100
+Population totale (en milliers d'habitants)
+Taux de TFPB transférée
+Taux de TH perdue
+(c) Taux
+LECTURE : La Figure A3a montre pour chaque tranche d’EPCI en termes de milliers d’habitants les différences moyennes
+entre le produit de TFPB transféré à l’EPCI et celui de la TH de l’EPCI. Aﬁn de décomposer ces effets, les Figures A3b et A3c
+présentent des différences en termes de base ﬁscale par habitant et de taux de taxation. Les concepts de base et de taux
+sont déﬁnis de manière similaire aux Figures 2.2b et 2.2c. Concernant l’axe des abscisses : 0 regroupe les EPCI de moins de
+10 000 habitants, 1 regroupe les EPCI entre 10 000 et 19 999 habitants, etc. Tous les EPCI au-dessus de 100 000 habitants
+sont classés dans la catégorie 100.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+67
+
+=== page 73 ===
+Evaluation de la réforme de la ﬁscalité locale
+FIGURE A4 – Différences moyennes entre la TFPB transférée et la TH per-
+due en fonction du revenu disponible médian par UC de l’EPCI - scénario
+A1
+-50
+0
+50
+100
+Montants en euros
+15
+20
+25
+30
+Revenu disponible annuel médian par UC des ménages (en milliers d'euros)
+TFPB transférée par hab.
+TH perdue par hab.
+Différence TFPB - TH
+(a) Produits par habitant
+500
+1000
+1500
+2000
+Montants en euros
+15
+20
+25
+30
+Revenu disponible annuel médian par UC des ménages (en milliers d'euros)
+Base TFPB transférée par hab.
+Base TH perdue par hab.
+(b) Bases par habitant
+.04
+.06
+.08
+.1
+.12
+Taux en points de pourcentage
+15
+20
+25
+30
+Revenu disponible annuel médian par UC des ménages (en milliers d'euros)
+Taux de TFPB transférée
+Taux de TH perdue
+(c) Taux
+LECTURE : La Figure A4a montre pour chaque tranche d’EPCI en termes de revenu disponible médian des ménages par UC
+les différences moyennes entre le produit de TFPB transféré à l’EPCI et celui de la TH de l’EPCI. Aﬁn de décomposer ces
+effets, les Figures A4b et A4c présentent des différences en termes de base ﬁscale par habitant et de taux de taxation. Les
+concepts de base et de taux sont déﬁnis de manière similaire aux Figures 2.2b et 2.2c. Concernant l’axe des abscisses : les
+montants sont des milliers d’euros et correspondent à des montants annuels. Par exemple, 15 regroupe les EPCI dont le
+revenu disponible médian est compris entre 15 000 et 15 999 euros. 30, qui est la dernière catégorie, regroupe tous les
+EPCI au-dessus de 30 000 euros.
+SOURCES : Fichiers REI 2018, Filosoﬁ2017, calculs des auteurs.
+68
+
+=== page 74 ===
+Annexes
+FIGURE A5 – Fraction du taux de TFPB départemental transférée aux
+communes dans le scénario A2
+NOTES : Cette carte montre pour chaque EPCI son quartile d’appartenance dans la distribution de la valeur de 1 −αe′′.
+L’intervalle associé à chaque quartile est renseigné dans la légende (valeurs en pourcentage).
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+69
+
+=== page 75 ===
+Evaluation de la réforme de la ﬁscalité locale
+FIGURE A6 – Fraction moyenne du taux de TFPB départemental transféré
+aux communes dans le scénario A2 en fonction de la population totale
+de la commune
+45
+50
+55
+60
+65
+Rapport en point de pourcentage
+0
+20
+40
+60
+80
+100
+Population totale (en milliers d'habitants)
+LECTURE : Cette ﬁgure montre la moyenne de 1 −αe′′ pour chaque tranche de
+communes en termes de milliers d’habitants. Concernant l’axe des abscisses : 0
+regroupe les communes de moins de 1 000 habitants, 1 regroupe les communes
+entre 1 000 et 1 999 habitants, etc. Au-delà de 9, du fait du faible nombre de com-
+munes, les catégories sont davantage agrégées. 10 regroupe les communes entre
+10 000 et 19 999 habitants, 20 les communes entre 20 000 et 29 999 habitants,
+etc.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+70
+
+=== page 76 ===
+Annexes
+FIGURE A7 – Fraction moyenne du taux de TFPB départemental transféré
+aux communes dans le scénario A2 en fonction du revenu disponible
+médian par UC de la commune
+45
+50
+55
+60
+65
+Rapport en point de pourcentage
+10
+20
+30
+40
+Revenu disponible annuel médian par UC des ménages (en milliers d'euros)
+LECTURE : Cette ﬁgure montre la moyenne de 1 −αe′′ pour chaque tranche de
+communes en termes de revenu disponible médian des ménages par UC. Concer-
+nant l’axe des abscisses : les montants sont des milliers d’euros et correspondent
+à des montants annuels. Par exemple, 15 regroupe les communes dont le revenu
+disponible médian est compris entre 15 000 et 15 999 euros. 38, qui est la dernière
+catégorie, regroupe toutes les communes au-dessus de 38 000 euros.
+SOURCES : Fichiers REI 2018, calculs des auteurs.
+71
+
+=== page 77 ===
+Evaluation de la réforme de la ﬁscalité locale
+72
+
+=== page 78 ===
+RÉFÉRENCES
+Blom-Hansen, J. (2005). Renter illusion : Fact or ﬁction? Urban Studies, 42(1),
+p. 127–140.
+Boadway, R. et Flatters, F. (1982). Efﬁciency and equalization payments in a federal
+system of government : A synthesis and extension of recent results. The Canadian
+Journal of Economics / Revue canadienne d’Economique, 15(4), p. 613–633.
+Bur, D. J. et Richard, A. (2018). Rapport sur la refonte de la ﬁscalité locale. Mission
+Finances locales.
+Epple, D. et Nechyba, T. (2004). Fiscal decentralization. In Handbook of regional
+and urban economics, volume 4, p. 2423–2480. Elsevier.
+Gadenne, L. (2017).
+Tax me, but spend wisely? sources of public ﬁnance and
+government accountability. American Economic Journal : Applied Economics, p.
+274–314.
+Lockwood, B. (2015). The political economy of decentralization. In Handbook of
+Multilevel Finance. Edward Elgar Publishing.
+Oates, W. E. (1972). Fiscal Federalism. Edward Elgar Publishing.
+Oates, W. E. (2005). Property taxation and local public spending : the renter effect.
+Journal of Urban Economics, 57(3), p. 419–431.
+73
+
+=== page 79 ===
+Evaluation de la réforme de la ﬁscalité locale
+Weingast, B. R. (2009). Second generation ﬁscal federalism : The implications of
+ﬁscal incentives. Journal of Urban Economics, 65(3), p. 279–293.
+Wildasin, D. E. (1989). Interjurisdictional capital mobility : Fiscal externality and a
+corrective subsidy. Journal of Urban Economics, 25(2), p. 193 – 212.
+Zhuravskaya, E. V. (2000). Incentives to provide local public goods : ﬁscal federa-
+lism, russian style. Journal of Public Economics, 76(3), p. 337 – 368.
+74
+
+=== page 80 ===
+LISTE DES TABLEAUX
+1.1
+Recettes ﬁscales 2018 agrégées (en milliards d’euros)
+. . . . . . . . .
+26
+2.1
+Statistiques agrégées - scénario LF
+. . . . . . . . . . . . . . . . . . . . .
+29
+3.1
+Statistiques agrégées - transfert partagé de TFPB départementale aux
+communes et EPCI (scénario A1) . . . . . . . . . . . . . . . . . . . . . .
+46
+4.1
+Statistiques agrégées - compensation exacte des EPCI par la TFPB
+départementale (scénario A2) . . . . . . . . . . . . . . . . . . . . . . . .
+52
+75
+
+=== page 81 ===
+Evaluation de la réforme de la ﬁscalité locale
+76
+
+=== page 82 ===
+LISTE DES FIGURES
+2.1
+Différence par habitant entre la TFPB gagnée et la TH perdue - scé-
+nario LF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31
+2.2
+Différences moyennes au niveau départemental entre la TFPB trans-
+férée et la TH perdue - scénario LF . . . . . . . . . . . . . . . . . . . . .
+33
+2.3
+Différences moyennes entre la TFPB transférée et la TH perdue en
+fonction de la population totale de la commune - scénario LF . . . . .
+35
+2.4
+Différences moyennes de taux en fonction de la population totale de
+la commune - scénario LF
+. . . . . . . . . . . . . . . . . . . . . . . . . .
+36
+2.5
+Différences moyennes entre la TFPB transférée et la TH perdue en
+fonction du revenu disponible médian par UC de la commune - scé-
+nario LF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+38
+2.6
+Taux de TFPB départemental et caractéristiques du département
+. .
+40
+3.1
+Comparaison du transfert correcteur des EPCI et des communes -
+scénario A1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+45
+3.2
+Distribution dans la population du transfert correcteur des EPCI et
+des communes - scénario LF et scénario A1
+. . . . . . . . . . . . . . . .
+47
+3.3
+Différence par habitant entre la TFPB gagnée et la TH perdue - scé-
+nario A1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+48
+4.1
+Différence par habitant entre la TFPB gagnée et la TH perdue - scé-
+nario A2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+54
+77
+
+=== page 83 ===
+Evaluation de la réforme de la ﬁscalité locale
+4.2
+Différence par habitant et consolidée à l’échelle de l’EPCI entre la
+TFPB gagnée et la TH perdue - scénario A2 . . . . . . . . . . . . . . . .
+55
+4.3
+Différences moyennes par habitant entre la TFPB transférée et la TH
+perdue en fonction de la population totale de la commune - scénarios
+LF et A2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+56
+4.4
+Différences moyennes par habitant entre la TFPB transférée et la
+TH perdue en fonction du revenu disponible médian par UC de la
+commune - scénarios LF et A2 . . . . . . . . . . . . . . . . . . . . . . . .
+57
+A1
+Confrontation des caractéristiques communales et départementales .
+65
+A2
+Différences moyennes au niveau départemental entre la TFPB trans-
+férée et la TH perdue - scénario A1 . . . . . . . . . . . . . . . . . . . . .
+66
+A3
+Différences moyennes entre la TFPB transférée et la TH perdue en
+fonction de la population totale de l’EPCI - scénario A1 . . . . . . . . .
+67
+A4
+Différences moyennes entre la TFPB transférée et la TH perdue en
+fonction du revenu disponible médian par UC de l’EPCI - scénario A1
+68
+A5
+Fraction du taux de TFPB départemental transférée aux communes
+dans le scénario A2
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+69
+A6
+Fraction moyenne du taux de TFPB départemental transféré aux
+communes dans le scénario A2 en fonction de la population totale
+de la commune
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+70
+A7
+Fraction moyenne du taux de TFPB départemental transféré aux
+communes dans le scénario A2 en fonction du revenu disponible mé-
+dian par UC de la commune . . . . . . . . . . . . . . . . . . . . . . . . .
+71
+78
+
+=== page 84 ===
+
+=== page 85 ===
+
+=== page 86 ===
+L’Institut des politiques publiques (IPP) est développé dans le cadre d’un partenariat
+scientiﬁque entre PSE-Ecole d’économie de Paris (PSE) et le Centre de Recherche en
+Économie et Statistique (CREST). L’IPP vise à promouvoir l’analyse et l’évaluation quan-
+titatives des politiques publiques en s’appuyant sur les méthodes les plus récentes de
+la recherche en économie.
+PSE a pour ambition de développer, au plus haut niveau inter-
+national, la recherche en économie et la diffusion de ses résul-
+tats. Elle rassemble une communauté de près de 140 chercheurs
+et 200 doctorants, et offre des enseignements en Master, École
+d’été et Executive education à la pointe de la discipline éco-
+nomique. Fondée par le CNRS, l’EHESS, l’ENS, l’École des Ponts-
+ParisTech, l’INRA, et l’Université Paris 1 Panthéon Sorbonne, PSE associe à son projet
+des partenaires privés et institutionnels. Désormais solidement installée dans le pay-
+sage académique mondial, la fondation décloisonne ce qui doit l’être pour accom-
+plir son ambition d’excellence : elle associe l’université et les grandes écoles, nourrit
+les échanges entre l’analyse économique et les autres sciences sociales, inscrit la re-
+cherche académique dans la société, et appuie les travaux de ses équipes sur de
+multiples partenariats. www.parisschoolofeconomics.eu
+Le CREST est un centre de recherche regroupant des cher-
+cheurs de l’ENSAE, de l’ENSAI et du département d’économie de
+l’Ecole Polytechnique. Centre interdisciplinaire spécialisé en mé-
+thodes quantitatives appliquées aux sciences sociales, le CREST
+est organisé en 4 thématiques : Économie, Statistiques, Finance-
+Assurance et Sociologie. La culture commune des équipes est
+celle d’un attachement fort aux méthodes quantitatives, aux données, à la modéli-
+sation mathématiques, et d’allers-retours continus entre les modèles théoriques et les
+preuves empiriques permettant d’analyser des problématiques sociétales et écono-
+miques concrètes. http ://crest.science

@@ -1,0 +1,512 @@
+
+==== page 1 ====
+1 
+ 
+Schuldenbremse und öffentliche Investitionen: Eine Fallstudie zum 
+Bundesverfassungsgerichtsurteil von 2023 
+Lukas Hacka und Eckhard Janebab 
+März 2025 
+ 
+Zusammenfassung 
+In diesem Aufsatz untersuchen wir, wie sich das Urteil des Bundesverfassungsgerichts zur 
+Schuldenbremse im November 2023 auf die öffentlichen Investitionen im Bundeshaushalt und 
+Klima- und Transformationsfonds im Jahr 2024 ausgewirkt hat. Wir vergleichen dazu 
+Planungsdaten für 2024 kurz vor mit solchen kurz nach dem Urteil. Der Vergleich zeigt, dass es 
+zu einem Rückgang von Investitionen und der Investitionsquote in den Planungen für 2024 
+gekommen ist, insbesondere im KTF, wobei wir eine Elastizität der öffentlichen Investitionen 
+bezüglich des Konsolidierungsbedarfs von über eins schätzen. 
+ 
+JEL Klassifikation: E60, H54, H60 
+ 
+ 
+a ETH Zürich, Leonhardstrasse 21, 8092 Zürich; hack@kof.ethz.ch 
+b Universität Mannheim, L7, 3-5, 68131 Mannheim; janeba@uni-mannheim.de 
+
+==== page 2 ====
+2 
+ 
+Einleitung 
+Der Bedarf an öffentliche Investitionen in Deutschland ist erheblich. Beispielsweise stellt der 
+Sachverständigenrat in seinem letzten Jahresgutachten fest, dass die öffentlichen Ausgaben 
+für Infrastruktur, Bildung und Verteidigung im internationalen Vergleich gering ausfallen 
+(Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung, 2024). Die 
+für Investitionen zur Verfügung stehenden Haushaltsmittel werden dabei durch drei Faktoren 
+bestimmt: dem Anteil der konsumtiven Staatsausgaben, den verfügbaren Steuereinnahmen, 
+sowie der zulässigen Neuverschuldung gemäß Schuldenbremse laut Art. 109 des 
+Grundgesetzes. Das Urteil des Bundesverfassungsgerichts vom November 2023 zum 
+Nachtragshaushalt 2021 und damit zur Anwendung der Schuldenbremse hat dabei den 
+verfügbaren fiskalischen Spielraum stark eingeschränkt (Bundesverfassungsgericht, 2023).1 
+Dies hatte zur Folge, dass die damalige Bundesregierung ihre Budgetpläne stark verändern 
+musste, um die Schuldenbremse einzuhalten (Bundesregierung, Dezember 2023a). Die 
+quantitative Relevanz des Urteils lässt sich auch daran erkennen, dass die Koalition aus SPD, 
+Grüne und FDP im November 2024 an Fragen der Finanz- und Wirtschaftspolitik, insbesondere 
+Differenzen über die Anwendung der Notlagenregel und einer Reform der Schuldbremse, 
+zerbrochen ist.  
+Wie hat sich die Reduktion des fiskalischen Spielraums durch das Urteil auf die geplanten 
+öffentlichen Investitionen ausgewirkt? In diesem Artikel beantworten wir diese Frage anhand 
+einer Fallstudie. Dazu vergleichen wir die geplanten öffentlichen Investitionen für 2024 vor 
+und nach dem Urteil. Wir zeigen, dass die geplanten öffentlichen Investitionen nach dem Urteil 
+zurückgegangen sind, insbesondere im Klima- und Transformationsfonds (KTF). Wir schätzen 
+eine Elastizität der Investitionen bezüglich des Konsolidierungsbedarfs von 1,5. Das bedeutet, 
+dass ein Einsparungsbedarf von 1% der Gesamtausgaben zu einem Rückgang der öffentlichen 
+Investitionen in Höhe von 1,5% führt. Abschließend vergleichen wir die Plandaten mit den 
+tatsächlichen Investitionen im Jahr 2024. Auch dieser Vergleich zeigt, dass die Investitionen 
+deutlich niedriger ausgefallen sind als ursprünglich geplant.2 Dieses empirische Resultat deckt 
+ 
+1 Das Urteil betraf Kreditermächtigungen in Höhe von 60 Mrd. Euro, die als Reaktion auf die Corona-Pandemie im 
+Jahr 2021 vorgesehen waren, aber dann in einem späteren Haushaltsjahr für andere Zwecke verausgabt werden 
+sollten.  
+2 Dieser Vergleich zeigt, dass sich das Urteil nicht nur in den Planungen niedergeschlagen hat, sondern dass auch 
+ein Effekt auf die tatsächlich realisierten Investitionen zu erwarten ist. Gleichwohl gibt es zahlreiche weitere 
+Einflussfaktoren, welche die realisierten Investitionen beeinflusst haben könnten. 
+
+==== page 3 ====
+3 
+ 
+sich mit der theoretischen Analyse aus Janeba (2025) bzw. Hack und Janeba (2025), die 
+vorhersagt, dass eine Erhöhung des Konsolidierungsbedarfs zu einer Reduktion der 
+Investitionen führt. 
+Um den Vergleich der Plandaten durchzuführen, vergleichen wir die Planung des 
+Bundeshaushalts für das Haushaltsjahr 2024 aus der ersten Lesung im Bundestag im 
+September 2023, mit den Daten des verabschiedeten Haushalts Anfang Februar 2024. Den aus 
+dem Urteil folgenden Konsolidierungsbedarf entnehmen wir zwei Pressemitteilungen der 
+Bundesregierung (Dezember 2023a,b). Wir gehen ausführlich darauf ein, inwiefern andere 
+Einflussfaktoren auf die Änderung der Planung gewirkt haben. Dabei stellen wir fest, dass die 
+Veränderung der Steuerschätzung sowie der Konjunkturkomponente zur Berechnung der 
+zulässigen Nettokreditaufnahme unter der Schuldenbremse den fiskalischen Spielraum in 
+diesem Zeitraum erhöht haben. Somit sind unsere Berechnungen als konservativ zu sehen: Bei 
+unverändertem fiskalischem Spielraum wären die Investition möglicherweise noch stärker 
+gesunken.  
+Abschließend diskutieren wir, inwiefern das Urteil des Bundesverfassungsgerichts als 
+Verschärfung der Schuldenbremse interpretiert werden kann. Eine solche Interpretation ist 
+nützlich, um die Konsequenzen der Schuldenbremse empirisch zu beleuchten. Existierende 
+Beiträge zur deutschen Schuldenbremse beschränken sich auf deskriptive Analysen (z.B. Fuest 
+et al., 2019) oder Befragungen (z.B. Blesse et al., 2021) oder Korrelationen auf 
+Bundesländerebene (Wissenschaftlicher Beirat beim Bundesministerium für Wirtschaft und 
+Energie, 2020). Außerdem gab es seit der Einführung der Schuldenbremse im Jahr 2009 bis 
+März 2025 keine entscheidenden Änderungen und somit auch keine Variation für eine 
+empirische Schätzung. Das Urteil des Bundesverfassungsgerichts stellt nun eine substanzielle 
+Änderung in der Auslegung der Schuldenbremse, relativ zur Rechtsauslegung der 
+Haushaltsplanung vor dem Urteil, dar. Eine weitere, auch den Gesetzestext der 
+Schuldenbremse betreffende Änderung hat sich im März 2025 ergeben. Die neue Regelung 
+erlaubt, Verteidigungsausgaben oberhalb von 1% des BIP ebenso wie ein Sondervermögen von 
+bis zu 500 Mrd. Euro von der Schuldenbremse auszunehmen. Die Wirkungen dieses Pakets auf 
+die Finanzmärkte werden in Petroulakis und Saidi (2025) analysiert.  
+ 
+ 
+
+==== page 4 ====
+4 
+ 
+Fallstudie: Das Bundesverfassungsgerichtsurteil 
+Wir nutzen das Urteil des Bundesverfassungsgerichts (BVerfG) zur Schuldenbremse vom 
+15.11.2023 (Bundesverfassungsgericht, 2023) und analysieren den Effekt auf die geplanten 
+öffentlichen Investitionen im Bundeshaushalt, sowie im Klima- und Transformationsfond (KTF).  
+Der Effekt des Urteils kann anhand der Haushaltsplanung 2024 vor und nach dem 
+Richterspruch gemessen werden. Die Haushaltsplanung vor dem BVerfG Urteil entnehmen wir 
+der Planung des Bundeshaushalts im August 2023 (siehe Gruppierungsübersicht, S. 55-56, 
+Deutscher Bundestag, 2023). Die korrespondierenden KTF-Werte entstammen aus der Anlage 
+Wirtschaftsplan zu der gleichnamigen Drucksache (siehe Anlage 3, S. 48, Deutscher Bundestag, 
+2023).3 Den notwendigen Einsparungsbedarf im Bundeshaushalt als Folge des Urteils 
+entnehmen wir der Pressemitteilung der Bundesregierung vom 19. Dezember 2023 
+(Bundesregierung, 
+Dezember 
+2023a).4 
+Da die 
+Pressemitteilung keine 
+eindeutige 
+Aufschlüsselung nach investiven und konsumtiven Ausgaben enthält, entnehmen wir die 
+Investitionsplanung nach dem Urteil aus dem BMF Monatsbericht (Februar 2024), der die 
+Planungen gemäß Haushaltsgesetz 2024 präsentiert (BGBl. Nr. 38 vom 12. Februar 2024).5 
+Unsere Definition der Investitionen exkludiert die „Sondereffekte“ (BMF Monatsbericht, 
+Februar 2024) durch das Generationenkapital und die Erhöhung des Eigenkapitals der 
+Deutschen Bahn AG, da diese als finanzielle Transaktionen nicht von der Schuldenbremse 
+betroffen sind. Die genannten Plandaten präsentieren wir in Zeilen (1) bis (4) von Tabelle 1. 
+Wir beschreiben zunächst die Ergebnisse unserer Berechnungen in Zeilen (5) bis (9) von Tabelle 
+1. Im anschließend folgenden Abschnitt diskutieren wir, inwiefern die dargelegten 
+Berechnungen eine kausale Interpretation zulassen. Das Urteil hat nur einen moderaten 
+negativen Effekt auf die Investitionen im Bundeshaushalt, die um 1,2 Mrd. Euro gefallen sind, 
+wenn man die oben genannten Sondereffekte herausrechnet. Ein deutlich stärkerer Rückgang 
+ 
+3 Gesamtausgaben im KTF in der Finanzplanung von 2023 werden ohne die Rubrik „Besondere 
+Finanzierungsausgaben“ berechnet, die vor allem der Rücklagenbildung dienen.  
+4 In einer zweiten Presseerklärung (Bundesregierung, Dezember 2023b) werden Anpassungen im KTF als Folge 
+des Urteils näher beschrieben. Der Einsparungsbetrag für 2024 wird mit „über 12 Mrd. Euro“ ausgewiesen und 
+korrespondiert mit dem Wert in Tabelle 1.  
+5 Die Pressemitteilung listet Einsparungen in verschiedenen Ausgabenbereichen auf, die sich aber nicht eindeutig 
+den Investitionen zuordnen lassen. Nimmt man an, dass die in der Pressemitteilung genannten 
+Ausgabenkürzungen im Bereich Digitales und Verkehr (380 Mio.), Regionalisierungsmittel für den Ausbau des 
+ÖPNV durch die Länder (350 Mio.) und Bildung und Forschung (200 Mio.) Investitionscharakter haben (und 
+plausiblerweise nur diese), summieren sich diese auf 930 Mio. Euro. Diese Summe deckt sich näherungsweise 
+mit der in Zeile (5) von Tabelle 1 ermittelten Zahl im Haushalt von 1,2 Mrd. Euro.  
+
+==== page 5 ====
+5 
+ 
+findet sich im KTF in Höhe von 6,8 Mrd. Euro, so dass sich eine Gesamtreduktion von 8,0 Mrd. 
+Euro ergibt. Setzt man diese Zahlen in Bezug auf die Einsparungserfordernisse, die die 
+Bundesregierung im Dezember 2023 als Reaktion auf das Urteil bekanntgab, so beträgt die 
+Investitionsreduktion nur 7,1 Prozent im Haushalt, aber über 50 Prozent im KTF. Konsolidiert 
+man KTF und Bundeshaushalt ergibt sich ein Beitrag von über 25 Prozent. Mit anderen Worten, 
+ein wesentlicher Teil der Einsparung traf die Investitionen, vor allem im KTF. Dieses empirische 
+Resultat deckt sich mit der theoretischen Analyse aus Janeba (2025), sowie Hack und Janeba 
+(2025), die vorhersagt, dass bei Existenz eines Gegenwartsbias im politischen Budgetprozess 
+eine Erhöhung des Einsparungsbedarfs stets zu weniger konsumtiven, aber auch zu weniger 
+investiven Staatsausgaben führt.6 
+Zeilen (7)-(9) in Tabelle 1 zeigen, dass die Investitionsquote durch das Urteil reduziert wird. Im 
+Haushalt beträgt diese Reduktion nur 0,3, im KTF jedoch 11,8 Prozentpunkte.7 Konsolidiert 
+ergibt sich eine Reduktion um 1,6 Prozentpunkte. Dieser Wert liegt näher an der Reduktion im 
+Haushalt, da das Gesamtvolumen des KTF nur etwa 13 Prozent des Bundeshaushalts 
+entspricht.  
+Tabelle 1: Budgetplanung der Bundesregierung für das Haushaltsjahr 2024 
+ 
+Quelle/ 
+Berechnung 
+Erklärung 
+Haushalt 
+KTF 
+Gesamt 
+(a) 
+(b) 
+(a+b) 
+(1) 
+Plandaten 
+vor BVerfG 
+Urteil 
+Gesamtausgaben 
+445,7 Mrd. 
+57,6 Mrd. 
+503,3 Mrd. 
+(2) 
+Investitionen 
+54,2 Mrd. 
+ 
+36,7 Mrd. 
+ 
+90,9 Mrd. 
+ 
+(3) 
+Plandaten 
+nach BVerfG 
+Urteil 
+Investitionen 
+53,0 Mrd. 
+29,9 Mrd. 
+82,9 Mrd. 
+(4) 
+Einsparungsbedarf 
+17,0 Mrd. 
+12,7 Mrd. 
+29,7 Mrd. 
+(5) 
+(2)-(3) 
+Rückgang Investitionen 
+1,2 Mrd. 
+6,8 Mrd. 
+8,0 Mrd. 
+ 
+6 Die einzige Schlüsselannahme für dieses Resultat ist, dass die Bürgerinnen und Bürger strikt konkaven Nutzen 
+aus der Bereitstellung öffentlicher Konsum- und Investitionsgüter erhalten. In einem solchen Rahmen ist es für 
+den Staat stets optimal, die benötigten Ausgabenkürzungen über alle Ausgabenarten (Konsum und Investitionen) 
+zu verteilen. 
+7 Bei der Berechnung der Investitionsquote halten wir den Nenner, die Gesamtausgaben, konstant und 
+verwenden den Wert gemäß Planung August 2023. Aufgrund von erhöhtem (erwartetem) Steueraufkommen und 
+höhere zulässiger Verschuldung gemäß der Konjunkturkomponente der Schuldenbremse liegen die Planausgaben 
+im Februar 2024 sogar noch höher. Somit ist unser Ansatz konservativ, da wir die Investitionsquote nach dem 
+Urteil überschätzen.  
+
+==== page 6 ====
+6 
+ 
+(6) 
+(5)/(4) 
+Anteil Investitionen an Einsparungen 
+7,1 % 
+53,5 % 
+26,9 % 
+(7) 
+(2)/(1) 
+Investitionsquote vor BVerfG Urteil  
+12,2 % 
+63,7 % 
+18,1 % 
+(8) 
+(3)/(1) 
+Investitionsquote nach BVerfG Urteil  
+11,9 % 
+51,9 % 
+16,5 % 
+(9) 
+(7)-(8) 
+Rückgang Investitionsquote 
+0,3 PP 
+11,8 PP 
+1,6 PP 
+Bemerkungen: Die Datenquellen für Zeilen (1)-(4) sind im Text dargelegt. Die Berechnung von Zeilen (5)-(9) ergibt 
+sich aus Spalte 2. Zeile (2)-(3): Investitionsausgaben im Kernhaushalt umfassen die Gruppen 7 und 8 im 
+Gruppierungsplan. Investitionsausgaben im KTF beziehen sich auf die Position „Ausgaben für Investitionen“. 
+Gesamtausgaben im KTF in der Finanzplanung vor dem Urteil werden ohne die Rubrik „Besondere 
+Finanzierungsausgaben“ berechnet, die vor allem der Rücklagenbildung dienen. Investitionen nach dem Urteil in 
+Zeile 3 exkludieren die Sondereffekte in Höhe von 17,5 Mrd. Euro durch das Generationenkapital und die 
+Erhöhung des Eigenkapitals der Deutschen Bahn AG, da diese als finanzielle Transaktionen nicht von der 
+Schuldenbremse betroffen sind.  Zeile (7)-(9): Die Investitionsquote hält den Nenner konstant. Eine Anpassung 
+des Nenners nach dem Urteil gemäß Plandaten Februar 2024 würde die Reduktion der Investitionsquote noch 
+verschärfen (siehe Diskussion im Text). 
+Abschließend nutzen wir die dargelegten Zahlen aus Tabelle 1, um eine Elastizität der 
+Investitionen bezüglich des Einsparungsbedarfs zu berechnen. Die Prozentänderung der 
+Investitionen (Haushalt und KTF) beträgt 8/90,9 x 100 = 8,8 Prozent, während der prozentual 
+Einsparungsbedarf im Gesamthaushalt 29,7/500,9 x 100 = 5,9 Prozent beträgt. Die Elastizität 
+errechnet sich dann als 8,8 /5,9 = 1,5. Ein Einsparungsbedarf von 1 Prozent sorgt also für eine 
+Reduktion der Investitionen um 1,5 Prozent.  
+Unsere Analyse basiert auf Planungsdaten, die mitunter stark von den realisierten Werten 
+abweichen können. Das wirft die Frage auf, ob sich die Anpassung der Investitionen auch in 
+den Ist-Daten wiederfindet. In Tabelle 2 zeigen wir, dass die Reduktion der Investitionen gemäß 
+Plandaten auch in den Ist-Daten für 2024 sichtbar wird. Die Ist-Gesamtinvestitionen aus dem 
+Bundeshaushalt und KTF fallen mit 74,5 Mrd. noch geringer aus als die geplanten Investitionen 
+nach dem Urteil in Höhe von 82,9 Mrd. Das ist ein bemerkenswerter Rückgang, insbesondere 
+weil in den Ist-Daten die Steuereinnahmen um 13,1 Mrd. höher ausgefallen sind als nach dem 
+Urteil geplant. Auch die Konjunkturkomponente gemäß Ist-Daten erlaubt eine höhere 
+Verschuldung als ursprünglich (nach dem Urteil) geplant. Aus der Konjunkturkomponente 
+ergibt sich weiterer zusätzlicher fiskalischer Spielraum in Höhe von 12,7 Mrd., so dass der 
+fiskalische Spielraum insgesamt um 25,8 Mrd. angestiegen ist.8 Diese Zahlen legen nahe, dass 
+ 
+8 Abschlussdaten für den KTF im Jahr 2024 liegen uns aktuell noch nicht vor. Eine Abschätzung der Entwicklung 
+der KTF-Einnahmen lässt sich jedoch durch einen Vergleich der Verwaltungseinnahmen von Februar 2024 und 
+August 2024 (basierend auf der Haushaltplanung für 2025, siehe Deutscher Bundestag, 2024) herstellen. Die 
+
+==== page 7 ====
+7 
+ 
+die Reduktion der Planinvestitionen durch das Urteil sich plausiblerweise auch in den 
+realisierten Investitionsausgaben widerspiegelt. Nichtsdestotrotz ist davon auszugehen, dass 
+die realisierten Investitionen durch zahlreiche weitere Faktoren beeinflusst wurden.  
+Aus unseren Berechnungen ziehen wir die folgenden Schlussfolgerungen. Nach dem Urteil des 
+Bundesverfassungsgerichts sind die Investitionen in Plan und Ist-Daten stark gefallen. Eine 
+Fokussierung 
+auf 
+eine 
+„Ausgabenpriorisierung 
+von 
+Zukunftsinvestitionen“ 
+(BMF 
+Monatsbericht, April 2024) lässt sich empirisch nicht belegen. 
+Tabelle 2: Budgetplanung der Bundesregierung und Realisierungen für das Haushaltsjahr 2024 
+ 
+Quelle/ 
+Berechnung 
+Erklärung 
+Betrag 
+(1) 
+Plandaten 
+vor BVerfG 
+Urteil 
+Einnahmen ohne Kredite im Haushalt 
+427,7 Mrd. 
+(2) 
+Konjunkturkomponente zur Berechnung der zulässigen NKA 
+2,4 Mrd. 
+(3) 
+Gesamtinvestition inkl. KTF 
+90,9 Mrd. 
+ 
+(4) 
+Plandaten 
+nach BVerfG 
+Urteil 
+Einnahmen ohne Kredite im Haushalt 
+427,5 Mrd. 
+(5) 
+Konjunkturkomponente zur Berechnung der zulässigen NKA 
+7,7 Mrd. 
+(6) 
+Gesamtinvestition inkl. KTF 
+82,9 Mrd. 
+(7) 
+Ist-Daten 
+nach BVerfG 
+Urteil 
+Einnahmen ohne Kredite im Haushalt 
+440,6 Mrd. 
+(8) 
+Konjunkturkomponente zur Berechnung der zulässigen NKA 
+20,4 Mrd. 
+(9) 
+Gesamtinvestition inkl. KTF 
+74,5 Mrd. 
+Bemerkungen: Die Plandaten vor dem Urteil stammen aus Tabelle 1 und Deutscher Bundestag 2023. Die 
+Plandaten nach dem Urteil entnehmen wir aus Tabelle 1 und dem BMF Monatsbericht Februar 2024. Die Ist-
+Daten entstammen dem BMF Monatsbericht Januar 2025 (Gesamtinvestition bestehend aus 56,7 Mrd. im 
+Kernhaushalt und 17,8 Mrd. im KTF).  
+ 
+Interpretation der Fallstudie 
+Wir gehen zunächst darauf ein, unter welchen Annahmen der Urteilsspruch als ursächlich für 
+die Änderung der Investitionen einzustufen ist. Danach diskutieren wir, inwiefern unsere 
+ 
+Verwaltungseinnahmen umfassen vor allem die Einnahmen aus der CO2 Bepreisung und dem Emissionshandel 
+und sind praktisch konstant (19,1 Mrd. Euro im Februar vs. 18,8 Mrd. im August 2024). 
+
+==== page 8 ====
+8 
+ 
+Ergebnisse auch Aussagekraft für die kausalen Effekte von Fiskalregeln wie der 
+Schuldenbremse haben.  
+Damit das BVerfG Urteil als ursächlich für die Reduktion der Planinvestitionen gesehen werden 
+kann, sind drei Schlüsselannahmen erforderlich. Erstens muss der erforderliche 
+Einsparungsbedarf (Zeile (4) in Tabelle 1) allein durch das BVerfG Urteil begründet sein. Diese 
+Annahme ist vertretbar, da die Bundesregierung den kausalen Bezug zum Urteil explizit in der 
+Pressemitteilung aufgreift: „Zu Beginn der Beratungen über die Folgen des Urteils auf den 
+Bundeshaushalt 2024 bestand […] ein Anpassungsbedarf für den Bundeshaushalt und für den 
+Wirtschaftsplan des Klima- und Transformationsfonds von fast 30 Milliarden Euro.“ 
+(Bundesregierung, Dezember 2023a).   
+Die zweite Annahme verlangt, dass die Änderung der Investitionsplanung zwischen August 
+2023 und Februar 2024 ausschließlich auf das Urteil des BVerfG zurückzuführen ist. Wir 
+argumentieren, dass diese Annahme vertretbar ist, da das Urteil für den Großteil der 
+Planungsänderung ursächlich sein dürfte. Das relativ große Zeitfenster zwischen August und 
+Februar lässt sich damit erklären, dass die Nachverhandlungen der Koalitionspartner viel Zeit 
+in Anspruch genommen haben. Nichtsdestotrotz gibt es im selben Zeitfenster zwei relevante 
+Faktoren, die den fiskalischen Spielraum beeinflusst haben. Zum einen erlaubt die 
+Konjunkturkomponente, die in die Berechnung der zulässigen Nettokreditaufnahme nach Art. 
+115 GG einfließt, im Februar 2024 eine höhere Verschuldung (siehe Tabelle 2). Zum anderen 
+könnten sich die geplanten Einnahmen des Bundes ohne Kredite für 2024 zwischen den beiden 
+Daten verändert haben. Aus Tabelle 2 wird aber ersichtlich, dass die Einnahmenänderung nur 
+0,2 Mrd. Euro beträgt und deshalb als vernachlässigbar anzusehen ist. Zusammen sorgen die 
+beiden Faktoren für mehr fiskalischen Spielraum und es ist möglich, dass die Investitionen 
+weniger stark reduziert werden mussten, weil der effektive Einsparungsbedarf gesunken ist. 
+Entsprechend ist die von uns festgestellte Reduktion der Investitionen als konservativ zu 
+betrachten: Bei unverändertem fiskalischem Spielraum wären die Investition möglicherweise 
+noch stärker gesunken. 
+Die dritte Schlüsselannahme verlangt, dass das Urteil von der Bundesregierung nicht 
+antizipiert wurde und die Planungen vom August unter der Überzeugung stattfanden, dass 
+diese rechtskonform sind. Wir halten diese Annahme für plausibel. Hätten die Beteiligten, 
+
+==== page 9 ====
+9 
+ 
+insbesondere die FDP, dies nicht für wahrscheinlich gehalten, dann hätten sie dem 
+Kompromiss vermutlich nicht zugestimmt.9 
+Wir schätzen alle drei diskutierten Schlüsselannahmen als plausibel ein. Deshalb 
+schlussfolgern wir, dass unsere Fallstudie unter vertretbaren Annahmen den kausalen Effekt 
+des zusätzlichen Konsolidierungsbedarfs auf die öffentlichen Investitionen misst. Da das 
+BVerfG explizit über die Auslegung der Schuldenbremse entschieden hat, stellt sich die Frage, 
+ob unsere Analyse auch als kausaler Effekt einer Schuldenbremsenverschärfung interpretiert 
+werden kann. Eine solche Interpretation erfordert, dass die geplanten Investitionen nach dem 
+Urteil (Zeile 3 aus Tabelle 1) den kontrafaktischen Planinvestitionen im August entsprechen, 
+wenn die Bundesregierung bereits im August 2023 von der Rechtsauslegung des BVerfG 
+gemäß dem Urteil vom 15.11.2023 ausgegangen wäre. Dagegen spricht ggfs., dass die 
+Planungsänderungen nach dem Urteil unter erheblichem Zeitdruck standen. Gleichzeitig 
+haben sich die Koalitionspartner knapp drei Monate zeitgelassen, bis der überarbeitete 
+Haushaltsentwurf zur Abstimmung im Bundestag kam. Deshalb halten wir es für plausibel, 
+dass die Planinvestitionen nach dem Urteil das relevante kontrafaktische Szenario 
+zufriedenstellend abbilden. Gleichzeitig sehen wir keinen überzeugenden Grund, warum ein 
+ex-ante Antizipieren der Rechtsauslegung des Gerichts zu einer anderen Investitionsplanung 
+führen sollte als ein ex-post Adjustieren der Planung. 
+Diskussion 
+Wir vergleichen unsere Ergebnisse mit der einschlägigen Literatur zur Wirkung von Fiskalregeln 
+und arbeiten den Mehrwert unserer Fallstudie heraus.  
+Eine Vielzahl an empirischen Untersuchungen belegen, dass Fiskalregeln Haushaltsdefizite und 
+Verschuldung reduzieren. Eine gute Übersicht der Literatur bietet Potrafke (2025) und 
+Heinemann et al. (2018) liefert eine korrespondierende Metastudie. Geht man davon aus, dass 
+der politische Prozess einem Gegenwartsbias unterliegt und daher der staatliche Konsum in 
+der laufenden Periode durch Verschuldung im Vergleich zu einer Welt ohne Gegenwartsbias 
+erhöht wird, dann beinhaltet die Rückführung der Verschuldung einen positiven 
+ 
+9 Nach dem Urteil gab es vermehrt Stimmen, dass das Urteil absehbar war. Dies entkräftet aber nicht unser 
+Argument, da solche ex-post Aussagen keine Information über die ex-ante Einschätzung der Bundesregierung 
+liefern. 
+
+==== page 10 ====
+10 
+ 
+Wohlfahrtseffekt einer besseren intertemporalen Allokation. Die empirische Literatur liefert 
+somit indirekt Evidenz dafür, dass Fiskalregeln ceteris paribus die Wohlfahrt erhöhen.  
+Allerdings geht eine Einschränkung des finanziellen Spielraums durch Fiskalregeln aus 
+theoretischer Perspektive auch mit verringerten öffentlichen Investitionen einher (Hack und 
+Janeba 2025): Politiker, die konsumtive Staatsausgaben als Wahlgeschenke mit übermäßigen 
+Schulden finanzieren, neigen auch dazu, Wahlgeschenke gegenüber Zukunftsinvestitionen zu 
+priorisieren.  Dieser Effekt wirkt für sich wohlfahrtsmindernd. Der Gesamteffekt einer 
+Fiskalregel, der sich aus dem positiven und negativen Effekt ergibt, ist daher uneindeutig.  
+Die Anzahl der empirischen Studien, welche die Effekte von Fiskalregeln auf öffentliche 
+Investitionen messen, ist deutlich geringer als die oben diskutierte Literatur zu Fiskalregeln im 
+Allgemeinen. Eine Zusammenfassung der Literatur zeigt, dass empirisch kein klarer 
+Zusammenhang zwischen Fiskalregeln und Investitionen besteht (Blesse et al., 2023). Somit 
+liefert die empirische Literatur keine Evidenz, die es erlaubt einen negativen Effekt 
+auszuschließen.  
+Die in Blesse et al. (2023) untersuchten Studien verwenden dabei meist moderne statistische 
+Verfahren, um kausale Effekte zu isolieren. Allerdings bleibt unklar, inwiefern diese 
+Untersuchungen auf den deutschen Kontext übertragbar sind, da die Studien auf Daten aus 
+Italien, Schweiz und Kolumbien oder auf einem Querschnitt an Nationalstaaten („cross-
+country panel“) basieren.10 Beiträge zur deutschen Schuldenbremse beschränken sich auf 
+deskriptive Analysen (z.B. Fuest et al., 2019) oder Befragungen (z.B. Blesse et al., 2021) oder 
+Korrelationen auf Bundesländerebene (Wissenschaftlicher Beirat beim Bundesministerium für 
+Wirtschaft und Energie, 2020). Unsere Fallstudie stellt deshalb eine wichtige Ergänzung der 
+Literatur dar. Wir präsentieren Evidenz aus dem deutschen Kontext, die unter plausiblen 
+Annahmen als kausal interpretiert werden kann. Dem gegenüber steht der Nachteil, dass wir 
+eine Fallstudie präsentieren und somit eine einzige Beobachtung auswerten.11 Deshalb 
+erachten wir unsere Arbeit als komplementär zur existierenden Literatur.  
+ 
+10 Die Metastudie von Blesse et al. (2023) untersucht 20 Studien zu Fiskalregeln. Davon verwenden 9 Studien 
+regionale Variation in Italien und jeweils eine Studie regionale Variation aus der Schweiz und aus Kolumbien. 
+Die übrigen Studien nutzen Paneldaten auf Nationalstaatenebene. 
+11 Entsprechend können wir die Schätzunsicherheit im Rahmen unserer Fallstudie nicht quantifizieren. Zukünftige 
+Forschung könnte die Auswirkung des BVerfG Urteils beispielsweise auf Länderebene auswerten und damit auch 
+die Schätzunsicherheit messen.  
+
+==== page 11 ====
+11 
+ 
+Schlussbemerkung 
+In diesem Aufsatz untersuchen wir, wie sich das Urteil des Bundesverfassungsgerichts zur 
+Schuldenbremse im November 2023 auf die öffentlichen Investitionen im Bundeshaushalt und 
+Klima- und Transformationsfonds im Jahr 2024 ausgewirkt haben. Unsere Analyse zeigt, dass 
+es zu einem Rückgang von Investitionen und der Investitionsquote in den Planungen für 2024 
+gekommen ist, insbesondere im KTF, wobei wir eine Elastizität der öffentlichen Investitionen 
+bezüglich des Konsolidierungsbedarfs von über eins schätzen. Unsere Fallstudie liefert direkte 
+Evidenz zur deutschen Schuldenbremse und ergänzt damit die einschlägige Literatur, welche 
+die Effekte von Fiskalregeln zumeist in anderen institutionellen Umgebungen untersucht. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== page 12 ====
+12 
+ 
+Referenzen 
+Blesse, S., Heinemann, F., Janeba, E., Nover, J. (2021): Die Zukunft der Schuldenbremse nach 
+der Pandemie: Einsichten aus einer Befragung aller 16 Landesparlamente. Zeitschrift für 
+Wirtschaftspolitik, 70.1, S. 81-97. 
+Blesse, S., Dorn, F., Lay, M. (2023): Do Fiscal Rules Undermine Public Investments? A Review of 
+Empirical Evidence. SSRN 4439420. 
+BMF Monatsbericht (Februar 2024): Sollbericht 2024: Ausgaben und Einnahmen des 
+Bundeshaushalts. 
+BMF Monatsbericht (April 2024): Schuldenbremse - Mythos und Realität. 
+BMF Monatsbericht (Januar 2025): Vorläufiger Abschluss des Bundeshaushalts 2024. 
+Bundesregierung (Dezember 2023a): Zum Haushalt 2024, Pressemitteilung 280 vom 19. 
+Dezember 2023. 
+Bundesregierung (Dezember 2023b): Der Klima- und Transformationsfonds 2024: Entlastung 
+schaffen, Zukunftsinvestitionen sicher, Transformation gestalten, 21. Dezember 2023. 
+Bundesverfassungsgericht (2023): Zweites Nachtragshaushaltsgesetz 2021 ist nichtig, 
+Pressemitteilung Nr. 101/2023 vom 15. November 2023. 
+Deutscher Bundestag (2023): Drucksache 20/7800. 
+Deutscher Bundestag (2024): Drucksache 20/12400. 
+Fuest, C., Gründler, K., Potrafke, N. et al. (2019): Schuldenbremse - Investitionshemmnis oder 
+Vorbild für Europa? Wirtschaftsdienst, 99, S. 307-329. 
+Hack, L., Janeba, E. (2025): Ist die Schuldenbremse eine Investitionsbremse? Mimeo. 
+Janeba, E. (2025): The effect of fiscal rules on public investment: Theory and Application to the 
+German Debt Brake. Mimeo. 
+Petroulakis F. und Saidi F.  (2025): In Merz We Truss: Financial Market Reaction to Germany’s 
+Fiscal Package. Kiel Policy Brief, 185. 
+Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung (2024): 
+Versäumnisse angehen, entschlossen modernisieren (Jahresgutachten 24-25).  
+Wissenschaftlicher Beirat beim Bundesministerium für Wirtschaft und Energie (2020): 
+Öffentliche Infrastruktur in Deutschland: Probleme und Reformbedarf. 
+ 

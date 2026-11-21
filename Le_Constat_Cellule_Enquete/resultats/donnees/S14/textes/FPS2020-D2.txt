@@ -1,0 +1,1542 @@
+
+=== page 1 ===
+Dossier
+
+=== page 2 ===
+Avertissement
+Les données sont parfois arrondies. Le résultat arrondi d’une combinaison de chiffres (qui fait 
+intervenir leurs valeurs réelles) peut être légèrement différent de celui que donnerait  
+la combinaison de leurs valeurs arrondies.
+Sur les sites internet de l’Insee (www.insee.fr) et d’Eurostat (https://ec.europa.eu/eurostat/home) 
+pour les données internationales, les chiffres essentiels sont actualisés régulièrement.
+Les comparaisons internationales contenues dans cet ouvrage s’appuient sur des données 
+harmonisées publiées par Eurostat, qui peuvent différer des données nationales diffusées  
+par les instituts nationaux de statistique.
+
+=== page 3 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+167
+Les réformes socio‑fiscales de 2019 augmentent fortement 
+le revenu disponible des ménages, surtout pour ceux  
+de niveau de vie intermédiaire et ceux en emploi 
+Flore Cornuet, Simon Fredon, Félix Paquier, Michaël Sicsic, Noémie Vergier*
+Par rapport à une situation où elles n’auraient pas été mises en œuvre, les nouvelles mesures 
+sociales et fiscales intervenues en 2019 augmentent le niveau de vie des personnes résidant en 
+France métropolitaine de 0,8 % en 2019 et de 1,0 % une fois pleinement montées en charge, 
+soit une hausse du niveau de vie de 250 euros annuels par personne en moyenne.
+En année pleine, les ménages de niveau de vie intermédiaire (entre le 3e et le 8e déciles) 
+bénéficient des gains les plus importants, de 300 à 340 euros annuels, en raison notamment 
+des baisses de la taxe d’habitation, de la CSG pour les retraités, et des exonérations fiscale 
+et sociale sur les heures supplémentaires. Les gains des ménages modestes sont moindres, 
+entre 160 et 280 euros annuels. Pour eux, la revalorisation de la prime d’activité et, dans 
+une bien moindre mesure, la baisse de la taxe d’habitation et les revalorisations de minima 
+sociaux à destination des personnes âgées ou handicapées font plus que compenser les gels 
+et sous‑indexations de prestations sociales. La hausse du niveau de vie induite par les mesures 
+socio‑fiscales est faible pour les 10 % de personnes les plus aisées, notamment en raison de la 
+hausse de cotisations liée à la fusion des régimes de retraite complémentaire Agirc et Arrco. 
+Les mesures intervenues en 2019 bénéficient avant tout aux ménages dont la personne de 
+référence est en emploi (exonérations des heures supplémentaires, revalorisation de la prime 
+d’activité). Elles contribuent à réduire la pauvreté (– 0,2 point) et les inégalités.
+Seuls les prélèvements directs sont pris en compte dans la mesure du niveau de vie. Or, 
+en 2019, comme en 2018, les taxes sur le tabac ont augmenté. En intégrant cette mesure, 
+l’impact global des mesures fiscales et sociales de 2019 sur le niveau de vie de l’ensemble de 
+la population se limite à + 0,8 % en année pleine et à consommation de tabac constante. Cette 
+hausse des prélèvements indirects pénalise l’ensemble de la population, mais pèse davantage 
+sur les personnes les plus modestes en proportion de leur niveau de vie.
+Ce dossier évalue les conséquences budgétaires et les effets sur le revenu disponible et le 
+niveau de vie des ménages1 des principales2 réformes du système socio‑fiscal mises en œuvre 
+en 2019 (encadré 1). Les réformes prises en compte concernent les prélèvements directs (cotisa‑
+tions et contributions sociales, impôt sur le revenu, taxe d’habitation), les principales prestations 
+monétaires (prestations familiales, allocations logement, prime d’activité, minima sociaux) et 
+certaines aides sociales dédiées à des dépenses spécifiques (chèque énergie). Les évaluations 
+* Flore Cornuet, Michaël Sicsic (Insee) ; Simon Fredon, Félix Paquier, Noémie Vergier (Drees).
+1.  Le champ correspond ici aux ménages ordinaires de France métropolitaine, c’est‑à‑dire hors personnes vivant en 
+logements collectifs (Ehpad, résidences étudiantes, prisons, etc.). Les ménages dont la personne de référence est étu‑
+diante ainsi que ceux dont les revenus primaires sont négatifs ou dont le revenu disponible est négatif sont également 
+exclus de l’analyse. 
+2.  Certaines réformes ne sont pas prises en compte, car elles n’entrent pas dans le champ de la redistribution analysée 
+ici, notamment la réforme de l’assurance chômage et la sous‑indexation des retraites. Les mesures portant sur les cotisa‑
+tions employeurs ne font pas non plus partie du champ. D’autres mesures ne sont pas prises en compte parce qu’elles ont 
+un effet marginal sur le revenu disponible des ménages (modification minime ou peu de ménages concernés).
+
+=== page 4 ===
+168
+France, portrait social, édition 2020 - Insee Références
+Encadré 1
+Mesurer les effets des nouvelles mesures de politique sociale et fiscale de 2019  
+sur les niveaux de vie à partir du modèle Ines
+Le modèle de microsimulation Ines
+Le modèle de microsimulation Ines simule la 
+plupart des prélèvements sociaux et fiscaux et 
+des prestations sociales [Fredon et Sicsic, 2020]. 
+Il est adossé à l’enquête Revenus fiscaux et 
+sociaux (ERFS) qui réunit les informations socio– 
+démographiques de l’enquête Emploi de l’Insee, 
+les informations administratives de la caisse natio‑
+nale des allocations familiales (Cnaf), de la caisse 
+nationale d’assurance vieillesse (Cnav) et de la 
+caisse centrale de la mutualité sociale agricole 
+(CCMSA) et le détail des revenus déclarés à l’ad‑
+ministration fiscale pour le calcul de l’impôt sur le 
+revenu. L’ERFS 2017 s’appuie sur un échantillon 
+d’environ 50 000 ménages, soit l’équivalent de 
+120 000 personnes, représentatifs de la popu‑
+lation vivant en France métropolitaine dans un 
+logement ordinaire. Ces données individuelles 
+sont recalées en se fondant sur des informations 
+auxiliaires agrégées issues d’autres sources, afin 
+de refléter la structure et les revenus de la popula‑
+tion de 2019. Le module de taxation indirecte est 
+quant à lui basé sur l’enquête Budget de famille 
+[André et al., 2016]. Pour évaluer l’exonération 
+fiscale et sociale des revenus d’heures supplé‑
+mentaires, ces revenus ont été imputés à partir 
+des données de l’ERFS 2011, dernier millésime à 
+contenir l’information pour l’année entière (qui ne 
+sont réalisées à l’aide du modèle de microsimulation Ines qui est basé sur l’enquête Revenus fis‑
+caux et sociaux (ERFS) et sur l’enquête Budget de famille pour son module de taxation indirecte.
+L’année 2019 est marquée par la mise en œuvre des mesures d’urgence économique et 
+sociale pour répondre au mouvement social des Gilets jaunes : la prime d’activité, versée aux 
+travailleurs modestes, a été fortement augmentée, les heures supplémentaires ont été exonérées 
+de cotisations sociales et d’impôt sur le revenu et un taux intermédiaire de contribution sociale 
+généralisée (CSG) a été réintroduit pour les retraites. Des réformes programmées en 2017 se 
+poursuivent : la suppression progressive de la taxe d’habitation sur les résidences principales, 
+ainsi que la revalorisation de l’allocation aux adultes handicapés (AAH) et du minimum vieil‑
+lesse. Comme en 2018, certaines prestations (prestations familiales et allocations logement) 
+sont sous‑indexées par rapport à l’inflation. Enfin, le second volet de l’accord national sur les 
+régimes de retraite complémentaire Agirc et Arrco, entré en vigueur en 2019, se traduit par une 
+hausse des cotisations retraite des salariés du privé. 
+D’autres mesures mises en œuvre en 2019 n’ont pas été chiffrées ici pour différentes rai‑
+sons, comme l’instauration du prélèvement à la source de l’impôt sur le revenu, l’exonération 
+sociale et fiscale de la prime exceptionnelle de pouvoir d’achat (Pepa) ou encore la mise en 
+place de la complémentaire santé solidaire (CSS) (annexe). La hausse des taxes sur le tabac 
+en 2019, en revanche, est prise en compte dans la dernière partie du dossier en corrigeant 
+le revenu disponible des effets particuliers que ces prélèvements indirects peuvent avoir sur 
+le pouvoir d’achat.
+Les montants de prélèvements et prestations calculés en appliquant la législation de 2019 
+sont comparés à ceux qui auraient été payés ou perçus si aucune réforme n’était intervenue en 
+2019, situation dite « contrefactuelle ». La différence entre la situation effective et la situation 
+contrefactuelle correspond donc à l’effet des mesures intervenues en 2019, indépendamment 
+des évolutions conjoncturelles qui ont eu lieu dans le même temps et de la montée en charge 
+de réformes précédemment mises en œuvre3. La comparaison entre ces deux situations permet 
+d’identifier les ménages pour lesquels les effets des réformes de 2019 sont positifs ou négatifs 
+sur leur niveau de vie et de décrire ces effets en fonction de leur position dans l’échelle des 
+niveaux de vie ou du statut d’activité de la personne de référence du ménage.
+3.  La situation contrefactuelle prend également en compte les évolutions prévues dans la législation (revalorisation 
+légale des barèmes des prestations ou de l’impôt sur le revenu notamment), dont les effets ne sont donc pas mesurés.
+
+=== page 5 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+169
+figure plus dans les millésimes suivants puisque, 
+étant fiscalisés comme les salaires, ces revenus 
+ne sont plus déclarés séparément). L’imputation 
+se fait en deux temps, en modélisant d’abord la 
+probabilité de percevoir des revenus d’heures sup‑
+plémentaires puis en estimant leur montant, sur 
+quatre sous‑populations (définies selon le sexe et 
+le secteur public/privé). Les montants obtenus sont 
+ensuite « vieillis » et recalés à l’aide de données de 
+l’Acoss pour 2019. 
+Le champ usuel des dispositifs pris en compte 
+dans les travaux réalisés avec Ines inclut les presta‑
+tions sociales monétaires, les cotisations salariales 
+et des indépendants et les impôts directs à l’excep‑
+tion de la taxe foncière et, jusqu’à récemment, de 
+l’impôt sur la fortune. Dans ce dossier, comme 
+l’année dernière, l’impôt sur la fortune immobi‑
+lière est pris en compte dans le calcul des revenus 
+disponibles individuels, à l’instar du revenu dispo‑
+nible brut en comptabilité nationale. Les revenus 
+primaires (revenus d’activité, du patrimoine et de 
+remplacement) sont usuellement considérés hors 
+du champ de la redistribution opérée par le sys‑
+tème socio‑fiscal. Les réformes affectant les reve‑
+nus primaires, qui nécessitent de recalculer ces 
+revenus, ne peuvent en général pas être évaluées 
+avec le modèle Ines. Les cotisations salariales 
+finançant les revenus de remplacement font en 
+revanche partie des dispositifs évalués (figure). 
+Ainsi, en 2019, les effets de la sous‑indexation des 
+retraites ne sont pas évalués, tandis que ceux de 
+la réforme des cotisations aux régimes de retraite 
+Agirc‑Arrco le sont.
+Dans ce dossier, le revenu disponible a en 
+outre été élargi au chèque énergie ; le chèque 
+énergie s’apparente en effet à une prestation sous 
+Les différents concepts de revenu
+Revenu salarial brut augmenté des cotisations sociales patronales
++ Revenus bruts des indépendants
++ Revenus du patrimoine
++ Pensions alimentaires
++ Pensions de retraite et de chômage
+    brutes et indemnités journalières
+– Cotisations patronales
++ Chèque énergie et tarifs sociaux
+– Taxes sur le tabac
+ – TVA, TICPE
++ Prestations familiales
++ Allocations logement
++ Minima sociaux
++ Prime d'activité
+– Cotisations salariales et cotisations des indépendants
+– Contributions sociales
+   (CSG, CRDS, prélèvements sociaux)
+– Impôts directs (impôt sur le revenu,
+   prélèvement forfaitaire et taxe d'habitation)
+– Impôt sur la fortune (ISF/IFI)
+Revenu primaire
+Revenu disponible
+Revenu disponible corrigé
+Revenu disponible élargi
+Revenu avant redistribution
++ Aides ciblées à destination des ménages
+    (aides à la garde d’enfants, APA,
+    chèque ACS, CMU-C, etc.)
+Encadré 1 (suite)
+
+=== page 6 ===
+170
+France, portrait social, édition 2020 - Insee Références
+condition de ressources, puisque pratiquement 
+tous les ménages ont des dépenses d’énergie (élec‑
+tricité, gaz, chauffage). Dans la dernière partie du 
+dossier, il est également tenu compte des taxes sur 
+le tabac, qui ont un effet sur le pouvoir d’achat du 
+revenu, dans un revenu disponible dit « corrigé » 
+des prélèvements sur le tabac, afin de présenter 
+une évaluation des réformes de 2019 les affectant.
+Évaluer l’effet des nouvelles mesures  
+sur le revenu disponible et le niveau de vie 
+des personnes
+On entend par nouvelle mesure toute modifi‑
+cation du mode de calcul, entrée en vigueur ou 
+disparition d’un dispositif du champ de la redis‑
+tribution dont la première incidence sur le niveau 
+de vie intervient en 2019. Les critères de revalo‑
+risation légaux ou d’usage de chaque dispositif 
+sont supposés inhérents au mode de calcul, ce 
+qui signifie que tout changement par rapport à 
+cette méthode d’indexation entre dans le champ 
+des mesures prises en compte, comme les gels et 
+sous‑indexations de prestations sociales analysés 
+pour 2019.
+Pour évaluer l’effet des nouvelles mesures, on 
+définit une législation contrefactuelle : celle qui 
+aurait été en vigueur si aucune de ces nouvelles 
+mesures n’avait été mise en œuvre [André et al., 
+2015]. Pour chaque ménage de l’échantillon sont 
+simulés à l’aide du modèle Ines les prélèvements 
+qu’il aurait acquittés, les prestations qu’il aurait 
+perçues et donc son revenu disponible avec cette 
+législation contrefactuelle. La comparaison entre 
+le revenu disponible obtenu avec la législation 
+contrefactuelle et celui avec la législation effec‑
+tive incorporant les mesures de 2019 donne par 
+différence l’effet des nouvelles mesures. Il s’agit 
+de l’estimation d’un effet « pur » des réformes, 
+indépendamment des variations conjoncturelles 
+de revenus intervenues entre 2018 et 2019. 
+De la même manière que Biotteau et al. [2019], 
+pour la législation contrefactuelle comme pour 
+la législation 2019, le point de départ (« point 
+fixe » du modèle de microsimulation Ines) est le 
+revenu brut, supposé indépendant de la législation 
+en vigueur. Les effets indirects des mesures tou‑
+chant les cotisations et contributions sociales sur 
+le revenu net et donc sur l’impôt sur le revenu et 
+les prestations peuvent ainsi être mesurés. Sur ce 
+point, la méthode d’évaluation des changements 
+de législation socio‑fiscale a donc été améliorée 
+[André et al., 2015, partie 4.3].
+L’effet des mesures est analysé en deux temps, 
+afin de distinguer leur impact sur l’année en cours 
+de celui en « effet consolidé » :
+– une première fois en analysant l’effet propre 
+des mesures en 2019, auquel s’ajoute leur effet 
+indirect sur les autres transferts sociaux et fiscaux 
+du champ d’analyse en 2019. Par exemple, les 
+réformes sur les cotisations sociales de 2019 ont 
+un effet sur le revenu net perçu en 2019, et donc 
+sur les prestations sociales qui dépendent de ces 
+revenus nets de 2019, comme le revenu de solida‑
+rité active ou la prime d’activité. Il s’agit de l’effet 
+réellement observable en 2019 compte tenu de 
+la date d’entrée en vigueur effective des mesures 
+et avant d’éventuels phénomènes de montée en 
+charge progressive ;
+– une deuxième fois, de façon consolidée, en 
+considérant chaque mesure comme si elle était 
+pleinement montée en charge, donc en simu‑
+lant une situation où les mesures auraient toutes 
+été en vigueur depuis le début de l’année 2019 
+et même sur les années précédentes. Pour les 
+réformes des cotisations et contributions sociales, 
+la simulation de la situation consolidée conduit à 
+tenir compte des changements sur le revenu net 
+en 2017 et 2018 si ces réformes avaient déjà été 
+mises en place, et donc des impacts sur l’impôt 
+payé en 2019 sur les revenus de 2018 ou sur 
+les prestations sociales basées sur les ressources 
+de 2017.
+Dans ce dossier, le commentaire des effets 
+consolidés des mesures est privilégié.
+L’ordre dans lequel sont considérées les 
+mesures joue sur l’évaluation de l’effet propre de 
+chaque mesure prise séparément. L’ordre dans 
+lequel les prélèvements et les prestations sont 
+calculées selon la réglementation est privilégié 
+(par exemple, les mesures fiscales sont considé‑
+rées dans l’ordre où elles apparaissent dans le 
+processus de calcul de l’impôt sur le revenu), et 
+non l’ordre chronologique d’adoption des mesures 
+ou l’ampleur de leurs effets. L’effet global est, lui, 
+indépendant de l’ordre de prise en compte des 
+différentes mesures.
+Enfin, pour évaluer l’impact d’une évolution 
+législative concernant un dispositif simulé par 
+Ines, l’hypothèse est faite que les ménages ne 
+modifient pas leurs revenus primaires ou leur 
+consommation du fait de cette évolution légis‑
+lative. En outre, cette évolution législative est 
+supposée ne pas avoir non plus d’effet à court 
+terme sur les prix. Un effet de comportement est 
+cependant pris en compte pour la prime d’acti‑
+vité – l’augmentation du recours à la prestation 
+à la suite des mesures mises en œuvres en 2019 
+– ainsi que des éléments sur les effets de la fis‑
+calité indirecte sur la consommation de tabac à 
+l’encadré 2.
+Encadré 1 (suite)
+
+=== page 7 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+171
+Les nouvelles mesures mises en œuvre en 2019 augmentent globalement  
+le niveau de vie des ménages et contribuent à réduire les inégalités
+Les mesures étudiées (hors prélèvements indirects) augmentent le niveau de vie moyen 
+de la population de 0,8 % en 2019, soit 200 euros de plus sur l’année (figure 1, colonne 1). 
+Cet effet est différencié selon la position sur l’échelle des niveaux de vie4 : le niveau de 
+vie moyen des 30 % de personnes les plus modestes augmente significativement du fait des 
+mesures mises en œuvre, d’en moyenne 1,8 %, puis l’effet décroît pour les personnes de niveau 
+de vie intermédiaire, jusqu’à atteindre + 0,3 % entre le 8e et 9e déciles et devenir négatif pour 
+les 10 % de personnes les plus aisées (– 0,2 %). À l’inverse, les mesures mises en œuvre en 
+2018 avaient fortement bénéficié aux 10 % de personnes les plus aisées (hausse de 1,4 % de 
+leur niveau de vie [Biotteau et al., 2019]). En euros, les ménages de niveau de vie intermédiaire 
+bénéficient toutefois de gains plus importants que les 10 % les plus modestes en 2019 (autour 
+de 300 euros annuels, contre 170 euros).
+Les mesures mises en œuvre en 2019 contribuent à réduire les inégalités5 : l’indice de Gini 
+diminue de 0,004 (soit – 1,4 %), le rapport entre la part du niveau de vie détenue par les 20 % 
+de personnes les plus aisées et celle détenue par les 20 % les plus modestes diminue de 0,07 
+4.  Le niveau de vie des personnes en l’absence de mesures nouvelles est pris comme référence tout au long de ce dossier. 
+Les déciles sont définis au sens de ce niveau de vie avant réformes (situation contrefactuelle).
+5.  Les indicateurs de distribution des niveaux de vie calculés ici pour l’année 2019 constituent des projections et non 
+des données statistiques définitives. De plus, ils sont calculés sur le niveau de vie élargi (encadré 1). Ils ne sont donc pas 
+comparables avec les séries définitives issues des ERFS.
+1. Effet total sur le niveau de vie annuel et les inégalités des réformes de 2019  
+par rapport au contrefactuel
+ 
+Effet en 2019 l’année même
+Effet consolidé
+en % du niveau de vie
+en euros
+en % du niveau de vie
+en euros
+Niveau de vie moyen par décile
+ 
+ 
+ 
+ 
+Inférieur à D1
+1,8 
+170 
+1,7 
+160 
+D1 à D2
+1,9 
+260 
+1,9 
+250 
+D2 à D3
+1,8 
+280 
+1,8 
+280 
+D3 à D4
+1,7 
+310 
+1,8 
+320 
+D4 à D5
+1,3 
+280 
+1,5 
+300 
+D5 à D6
+1,2 
+290 
+1,5 
+340 
+D6 à D7
+1,0 
+270 
+1,3 
+340 
+D7 à D8
+0,7 
+210 
+1,0 
+300 
+D8 à D9
+0,3 
+90 
+0,6 
+200 
+Supérieur à D9
+– 0,2 
+– 100 
+0,0 
+30 
+Ensemble
+0,8 
+200 
+1,0 
+250 
+Indicateurs d’inégalités
+ 
+ 
+ 
+ 
+Indice de Gini
+– 0,004
+– 0,003
+(100‑S80)/S201
+– 0,07
+– 0,06
+Rapport interdécile D9/D1
+– 0,06
+– 0,04
+Taux de pauvreté (en points)
+– 0,3
+– 0,2
+Intensité de la pauvreté (en points)
+0,1
+– 0,2
+1. Rapport de la part de niveau de vie détenue par les 20 % les plus aisés à la part de niveau de vie détenue par les 20 % les plus modestes.
+Note : la législation contrefactuelle est celle qui aurait été appliquée en l’absence de réformes en 2019. L’évolution du niveau de vie et les indicateurs d’inégalités 
+sont calculés à partir d’une définition du revenu disponible incluant l’impôt sur la fortune immobilière et élargie au chèque énergie (encadré 1). Les déciles sont 
+calculés dans la situation contrefactuelle, en l’absence des réformes.
+Lecture : le niveau de vie moyen des 10 % de personnes les plus aisées diminue de 0,2 % en 2019, par rapport à la situation contrefactuelle dans laquelle aucune 
+mesure n’aurait été prise. En tenant compte de la montée en charge des mesures (effet consolidé), leur niveau de vie reste identique. 
+Champ : France métropolitaine, personnes vivant dans un ménage ordinaire dont le revenu est positif ou nul et dont la personne de référence n’est pas étudiante.
+Sources : Insee‑DGFiP‑Cnaf‑Cnav‑CCMSA, enquête Revenus fiscaux et sociaux 2017 (actualisée 2019), enquête Budget de famille 2011 ; Insee‑Drees‑Cnaf, 
+modèle Ines 2019.
+
+=== page 8 ===
+172
+France, portrait social, édition 2020 - Insee Références
+(soit – 1,7 %) et le rapport interdécile (D9/D1) de 0,06 (soit – 1,7 %). Le taux de pauvreté est 
+également inférieur de 0,3 point à ce qu’il serait sans les réformes.
+L’effet consolidé des nouvelles mesures sur le niveau de vie, c’est‑à‑dire l’effet en année 
+pleine des mesures intervenues en cours d’année et après leur pleine montée en charge 
+(encadré 1), est légèrement plus important (+ 1,0 %, soit + 250 euros par personne) (figure 1, 
+colonne 2), et un peu moins différencié selon le niveau de vie. L’écart par rapport à l’effet 
+sur l’année 2019 est très faible pour les 30 % de personnes les plus modestes. La moitié la 
+plus aisée de la population bénéficie en revanche d’une hausse de niveau de vie à terme 
+plus forte qu’en 2019. En effet, les réformes modifiant le revenu net imposable (exonération 
+fiscale et sociale des revenus d’heures supplémentaires, hausse des cotisations du régime de 
+retraite Agirc‑Arrco) ont, en 2019, un effet à la baisse sur la seule assiette du prélèvement 
+à la source. Dans l’effet consolidé, ces réformes ont un impact à la baisse non seulement 
+sur l’assiette mais aussi sur les taux de prélèvements. Cet effet sur le taux de prélèvement 
+contribue ainsi à augmenter le revenu disponible des ménages concernés. En conséquence, 
+l’impact sur les inégalités est légèrement plus faible en effet consolidé : – 0,003 pour l’in‑
+dice de Gini (soit – 1,1 %), – 0,06 pour le rapport entre la part du niveau de vie détenue 
+par les 20 % de personnes les plus aisées et celle détenue par les 20 % les plus modestes 
+(soit 1,4 %), – 0,2 point pour le taux de pauvreté. En euros, les ménages de niveau de vie 
+intermédiaire, situés entre le 3e et le 8e déciles, bénéficient des gains les plus importants 
+(entre 300 et 340 euros annuels). Les ménages modestes bénéficient de gains moins élevés, 
+entre 160 et 280 euros annuels.
+Sauf mention contraire, seul l’effet consolidé des différentes mesures est examiné par la 
+suite, que ce soit sur le revenu disponible des ménages ou sur le niveau de vie des personnes. 
+Les mesures sont présentées dans l’ordre dans lequel elles interviennent dans le calcul des 
+prélèvements et prestations, qui est aussi l’ordre dans lequel elles sont évaluées ici (encadré 1). 
+Sont détaillés à la fois les effets sur le revenu disponible des ménages concernés, et les effets 
+sur le niveau de vie des individus dans l’ensemble de la population.
+La hausse du revenu disponible est principalement due à la baisse  
+des prélèvements directs, particulièrement favorable aux personnes situées 
+entre le 3e et le 9e déciles de niveau de vie
+L’impact d’une mesure sur les inégalités dépend à la fois de son importance en masse 
+financière et de son ciblage. Du point de vue des masses financières en jeu, et une fois les 
+mesures de 2019 pleinement montées en charge, celles concernant les prélèvements directs 
+sont les plus importantes et conduisent à une hausse significative du revenu disponible total 
+des ménages (figure 2) : celui‑ci augmente de 1,6 milliard d’euros sous l’effet des réformes 
+des cotisations et contributions sociales et de 6,5 milliards d’euros supplémentaires du fait des 
+mesures portant sur la taxe d’habitation et l’impôt sur le revenu (hors effets du prélèvement 
+à la source et de l’exonération de la prime Pepa). Dans leur ensemble, ces mesures profitent 
+de manière plus marquée aux personnes situées entre le 3e et le 9e déciles de niveau de vie. 
+Celles‑ci bénéficient en effet fortement de la baisse de la taxe d’habitation et des exonéra‑
+tions d’impôt et de cotisations salariales sur les revenus d’heures supplémentaires, tout en 
+étant assez peu concernées par la hausse des cotisations du régime de retraite Agirc‑Arrco 
+(figure 3). Pour les 10 % de personnes les plus aisées, cette dernière mesure compense 
+presque la hausse de niveau de vie due aux exonérations sur les heures supplémentaires. Au 
+total, les mesures portant sur les prélèvements directs participent pour un tiers à la baisse des 
+inégalités induites par les réformes de 2019 évaluées (figure 4). Ces mesures touchent peu 
+les ménages modestes, mais contribuent à accroître le taux de pauvreté de 0,5 point. En effet, 
+elles ont un impact à la hausse sur le niveau de vie médian, ce qui relève mécaniquement le 
+seuil de pauvreté, fixé à 60 % de ce niveau de vie. Davantage de personnes se situent donc 
+sous ce nouveau seuil.
+
+=== page 9 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+173
+2. Effet moyen, gagnants et perdants des mesures de 2019 (effet consolidé)
+ 
+Effet sur le revenu 
+disponible total  
+(en millions 
+d’euros)
+Nombre de ménages 
+(en milliers)
+Effet moyen sur le 
+revenu disponible 
+annuel par ménage 
+concerné (en euros)
+Gagnants
+Perdants
+Mesures concernant les prélèvements directs
+8 080
+20 310
+3 110
+340
+Prélèvements sociaux
+1 620
+13 210
+5 930
+80
+Fusion des régimes Agirc et Arrco
+– 1 200
+1 440
+13 550
+– 80
+Baisse de la CSG pour les retraités
+1 280
+3 490
+10
+360
+Exonération des heures supplémentaires (partie cotisations)
+1 540
+11 190
+180
+140
+Impôts directs
+6 450
+19 830
+550
+320
+Exonération des heures supplémentaires (partie impôt sur le revenu)
+3 170
+6 800
+90
+460
+Réforme du crédit d’impôt pour la transition énergétique
+– 400
+0
+760
+– 530
+Poursuite du dégrèvement de la taxe d’habitation
+3 690
+18 280
+0
+200
+Mesures concernant les prestations sociales
+3 470
+6 430
+6 150
+280
+Minima sociaux
+640
+1 650
+<10
+390
+Revalorisation exceptionnelle de l’Aspa
+210
+760
+0
+270
+Revalorisation exceptionnelle de l’AAH et baisse du plafond pour les couples
+430
+980
+<10
+440
+Hausse du bonus de la prime d’activité
+3 710
+4 430
+<10
+840
+Hausse du chèque énergie
+130
+2 690
+<10
+50
+Gels et sous‑indexations de prestations1
+– 1 020
+20
+11 240
+– 90
+Ensemble des mesures nouvelles (hors prélèvements indirects)
+11 540
+21 540
+4 290
+130
+1. Les prestations gelées ou sous‑indexées sont les allocations logement (AL), les prestations familiales (PF), l’allocation aux adultes handicapés (AAH) et la 
+prime d’activité (PA). 
+Note : contrairement à l’effet sur le revenu disponible total (colonne 1), le nombre de ménages perdants (colonne 3) par type de mesures (minima sociaux par exemple) 
+ne correspond pas à la somme des ménages perdants de chacune des mesures sur les minima sociaux, car certains ménages peuvent être perdants pour plusieurs 
+mesures et ne seront pris en compte qu’une fois ou peuvent être à la fois perdants et gagnants selon la mesure et ne seront comptés que dans une catégorie au niveau 
+agrégé. Cela s’applique aussi pour les effectifs de ménages gagnants (colonne 2) et en conséquence à l’effet moyen sur le revenu disponible par ménage concerné 
+(colonne 4). La définition du revenu disponible retenue ici est une définition incluant l’impôt sur la fortune immobilière et élargie au chèque énergie (encadré 1). 
+L’effectif de ménages perdants pour la mesure d’exonération fiscale des heures supplémentaires est observé en raison d’une interaction avec le crédit d’impôt 
+modernisation du recouvrement (CIMR) et est propre à la simulation basée sur la législation 2019 ; ces cas n’existent pas dans le cadre d’une montée en charge 
+concomitante de l’exonération fiscale des revenus d’heures supplémentaires et du prélèvement à la source. 
+Lecture : la poursuite du dégrèvement de la taxe d’habitation augmente le revenu disponible de l’ensemble des ménages de 3,7 milliards d’euros. Cette mesure 
+fait 18,3 millions de ménages gagnants et aucun ménage perdant. Pour les ménages concernés, le revenu disponible augmente en moyenne de 200 euros 
+annuels du fait de cette mesure.
+Champ : France métropolitaine, ménages ordinaires dont le revenu est positif ou nul et dont la personne de référence n’est pas étudiante.
+Sources : Insee‑DGFiP‑Cnaf‑Cnav‑CCMSA, enquête Revenus fiscaux et sociaux 2017 (actualisée 2019), enquête Budget de famille 2011 ; Insee‑Drees‑Cnaf, 
+modèle Ines 2019.
+3. Effet moyen des prélèvements directs et des prestations sur le niveau de vie annuel,  
+par décile de niveau de vie (effet consolidé)
+Prélèvements directs
+Prestations
+< D1
+D1 à D2
+D2 à D3
+D3 à D4
+D4 à D5
+D5 à D6
+D6 à D7
+D7 à D8
+D8 à D9
+> D9
+en euros
+Effet total
+0
+50
+100
+150
+200
+250
+300
+350
+400
+Note : la définition du revenu disponible retenue ici est une définition incluant l’impôt sur la fortune immobilière et élargie au chèque énergie (encadré 1). 
+Lecture : les mesures de 2019, une fois montées en charge, engendrent une hausse du niveau de vie de 160 euros annuels en moyenne pour les 10 % des 
+personnes les plus modestes. Cette variation se décompose en un gain de 130 euros lié aux mesures sur les prestations et en un gain de 30 euros lié aux 
+mesures sur les prélèvements directs.
+Champ : France métropolitaine, personnes vivant dans un ménage ordinaire dont le revenu est positif ou nul et dont la personne de référence n’est pas étudiante.
+Sources : Insee‑DGFiP‑Cnaf‑Cnav‑CCMSA, enquête Revenus fiscaux et sociaux 2017 (actualisée 2019), enquête Budget de famille 2011 ; Insee‑Drees‑Cnaf, 
+modèle Ines 2019.
+
+=== page 10 ===
+174
+France, portrait social, édition 2020 - Insee Références
+Les réformes des prestations intervenues en 2019, bien qu’engageant des masses finan‑
+cières moindres que celles portant sur les prélèvements, sont ciblées sur les 40 % de personnes 
+les moins aisées, et bénéficient surtout aux personnes situées entre le 1er et le 3e déciles de 
+niveau de vie. C’est en particulier le cas de la hausse de la prime d’activité, qui met en jeu 
+une masse financière particulièrement importante (3,7 milliards d’euros). Les revalorisations 
+exceptionnelles de l’allocation aux adultes handicapés (AAH) et du minimum vieillesse 
+(Aspa) ainsi que la hausse du chèque énergie contribuent également, quoique dans une bien 
+moindre mesure, à augmenter le revenu disponible des personnes les plus modestes. Mal‑
+gré les mesures de sous‑indexation des prestations sociales, les réformes sur les prestations 
+sociales contribuent à hauteur de deux tiers à la diminution des inégalités induites par les 
+réformes de 2019, et ont un impact à la baisse de 0,7 point sur le taux de pauvreté (figure 4).
+En prenant en compte l’ensemble des nouvelles mesures (hors taxation indirecte), la 
+hausse de revenu disponible et donc le coût pour les finances publiques est de 11,5 milliards 
+d’euros. Cette masse financière est du même ordre de grandeur que celle des réformes mises 
+en œuvre en 2018 [Biotteau et al., 2019], mais est beaucoup plus élevée que les années 
+antérieures6.
+6.  La hausse du revenu disponible est la plus forte depuis que cette évaluation est menée. Les précédentes évaluations 
+des réformes mises en œuvre faisaient état d’une évolution du revenu disponible, en effet consolidé, de 260 millions 
+d’euros en 2017, 1,68 milliard d’euros en 2016, – 120 millions d’euros en 2015, et – 5,20 milliards d’euros en 2014.
+4. Décomposition de la variation des inégalités de niveau de vie entre la législation 2019  
+et le contrefactuel par mesure (effet consolidé)
+ 
+Contribution à la réduction  
+des inégalités  
+(en %)
+Effet sur le taux  
+de pauvreté  
+(en points)
+Mesures concernant les prélèvements directs
+34
+0,5
+Prélèvements sociaux
+25
+0,2
+Fusion des régimes Agirc et Arrco
+14
+0,0
+Baisse de la CSG pour les retraités
+8
+0,2
+Exonération des heures supplémentaires (partie cotisations)
+3
+0,1
+Impôts directs
+9
+0,2
+Exonération des heures supplémentaires (partie impôt sur le revenu)
+– 17
+0,1
+Réforme du crédit d’impôt pour la transition énergétique
+1
+0,0
+Poursuite du dégrèvement de la taxe d’habitation
+25
+0,1
+Mesures concernant les prestations sociales
+66
+– 0,7
+Minima sociaux
+11
+– 0,2
+Revalorisation exceptionnelle de l’Aspa
+4
+– 0,1
+Revalorisation exceptionnelle de l’AAH et baisse du plafond pour les couples
+7
+– 0,1
+Hausse du bonus de la prime d’activité
+72
+– 0,7
+Hausse du chèque énergie
+3
+0,0
+Gels et sous-indexations de prestations1
+– 21
+0,2
+Ensemble des mesures nouvelles (hors prélèvements indirects)
+100
+– 0,2
+1. Les prestations gelées ou sous‑indexées sont les allocations logement (AL), les prestations familiales (PF), l’allocation aux adultes handicapés (AAH) et la 
+prime d’activité (PA).
+Note : la législation contrefactuelle est celle qui aurait été appliquée en l’absence de réformes en 2019. Est présentée ici une décomposition de l’évolution de 
+l’indice de Gini entre la situation contrefactuelle et la situation effective une fois toutes les mesures de 2019 montées en charge. Cette méthode de décomposition 
+est détaillée par André et al. [2015].
+Lecture : lorsque toutes les mesures sont montées en charge, la hausse du bonus de la prime d’activité contribue à hauteur de 72 % à la réduction des 
+inégalités induite par l’ensemble des réformes socio‑fiscales de 2019 et entraîne une baisse du taux de pauvreté de 0,7 point par rapport à la situation 
+contrefactuelle.
+Champ : France métropolitaine, personnes vivant dans un ménage ordinaire dont le revenu est positif ou nul et dont la personne de référence n’est pas étudiante.
+Sources : Insee‑DGFiP‑Cnaf‑Cnav‑CCMSA, enquête Revenus fiscaux et sociaux 2017 (actualisée 2019), enquête Budget de famille 2011 ; Insee‑Drees‑Cnaf, 
+modèle Ines 2019.
+
+=== page 11 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+175
+Les personnes en emploi sont les principales bénéficiaires des nouvelles 
+mesures
+L’effet des mesures diffère selon le statut d’activité de la personne de référence du ménage. 
+Les personnes dont le niveau de vie augmente le plus fortement sous l’effet des mesures mises en 
+place en 2019 sont celles appartenant à un ménage dont la personne de référence a un emploi 
+(+ 280 euros en moyenne par personne par an) (figure 5). Elles bénéficient en particulier des 
+exonérations d’impôt et de cotisations sociales portant sur les revenus d’heures supplémentaires, 
+ainsi que de la revalorisation de la prime d’activité. Dans les ménages dont la personne de 
+référence est retraitée, les individus bénéficient également des réformes de 20197 (+ 220 euros), 
+notamment en raison de la baisse de CSG accordée aux retraités de niveau de vie intermédiaire, 
+après la hausse intervenue en 2018. Les ménages dont la personne de référence est au chômage 
+ou sans activité professionnelle (hors retraités) bénéficient en moyenne de hausses de niveau 
+de vie plus faibles (+ 160 euros par personne par an).
+La hausse des cotisations retraite liée à la fusion des régimes de retraite Agirc 
+et Arrco réduit le niveau de vie moyen des 10 % de personnes les plus aisées
+En matière de prélèvements, à la suite d’un accord signé par les partenaires sociaux en 
+2015, les deux régimes de retraite complémentaire des salariés du privé, l’Agirc (spécifique aux 
+cadres) et l’Arrco, ont fusionné au 1er janvier 2019. L’accord prévoit notamment des hausses de 
+cotisations, afin d’améliorer la situation financière du régime fusionné, et une harmonisation 
+des taux et des assiettes entre cadres et non‑cadres8.
+7.  La sous‑indexation des pensions de retraite en 2019 n’est pas prise en compte dans cette analyse.
+8.  Un premier taux sur les salaires compris entre 0 et 1 fois le plafond de la sécurité sociale (Pass) et un second sur les 
+salaires compris entre 1 et 8 Pass ont été instaurés. Certaines cotisations spécifiques ont été supprimées, mais des contri‑
+butions d’équilibre technique et général ont été créées, qui s’ajoutent aux nouvelles cotisations du régime fusionné. Les 
+principaux perdants en termes de cotisations sont les salariés non cadres relevant auparavant du régime Arrco, dont la 
+rémunération est supérieure à 3 Pass. En effet, avant la fusion, ils ne payaient pas de cotisation au‑delà de 3 Pass, alors 
+que désormais, les taux harmonisés s’appliquent jusqu’à 8 Pass pour tous.
+5. Effet moyen des prélèvements directs et des prestations sur le niveau de vie annuel  
+par statut d’activité de la personne de référence du ménage (effet consolidé)
+Prélèvements directs
+Prestations
+Effet total
+0
+50
+100
+150
+200
+250
+300
+Ensemble
+En emploi
+Retraités
+Autres inactifs et chômeurs
+en euros
+Note : le statut d’activité est celui de la personne de référence du ménage au quatrième trimestre de l’année. La définition du revenu disponible retenue ici est 
+une définition incluant l’impôt sur la fortune immobilière et élargie au chèque énergie (encadré 1). 
+Lecture : les mesures de 2019, une fois montées en charge, engendrent une hausse du niveau de vie de 280 euros annuels en moyenne pour les ménages dont 
+la personne de référence est en emploi. Ce supplément se décompose en un gain de 90 euros lié aux mesures sur les prestations et un gain de 190 euros lié 
+aux mesures sur les prélèvements directs.
+Champ : France métropolitaine, personnes vivant dans un ménage ordinaire dont le revenu est positif ou nul et dont la personne de référence n’est pas étudiante.
+Sources : Insee‑DGFiP‑Cnaf‑Cnav‑CCMSA, enquête Revenus fiscaux et sociaux 2017 (actualisée 2019), enquête Budget de famille 2011 ; Insee‑Drees‑Cnaf, 
+modèle Ines 2019.
+
+=== page 12 ===
+176
+France, portrait social, édition 2020 - Insee Références
+La hausse, induite par cette réforme, des masses financières de cotisations payées par les 
+salariés conduit à une baisse du revenu disponible total des ménages de 1,2 milliard d’euros 
+(figure 2). 13,5 millions de ménages sont perdants, mais 1,4 million sont gagnants. L’impact à 
+la baisse sur le niveau de vie9 est de 30 euros en moyenne sur l’année ; il est particulièrement 
+important pour les 10 % de personnes les plus aisées (– 170 euros en moyenne par an), puis 
+décroît avec le niveau de vie : – 50 euros entre le 8e et le 9e déciles, et – 20 euros en‑deçà du 
+8e décile (figure 6). La réforme des cotisations Agirc‑Arrco entraîne une réduction des inéga‑
+lités : elle contribue à hauteur de 14 % à la baisse des inégalités induite par l’ensemble des 
+réformes socio‑fiscales de 2019 évaluées (figure 4).
+Les retraités de niveau de vie médian bénéficient d’une baisse de CSG
+La loi du 24 décembre 2018 portant mesures d’urgence économiques et sociales a rétabli le 
+taux de contribution sociale généralisée (CSG) sur les revenus de remplacement à 6,6 % pour 
+les retraités dont le revenu fiscal de référence (RFR) du foyer est compris entre 14 548 euros et 
+22 580 euros. Ce taux était celui en vigueur pour tous les retraités dont le RFR était supérieur 
+à 14 375 euros avant la hausse des taux de CSG du 1er janvier 2018, qui l’avait porté à 8,3 %.
+Cette mesure conduit à une hausse du revenu disponible total des ménages de 1,3 milliard 
+d’euros ; elle concerne 3,5 millions de ménages, qui gagnent chacun en moyenne 360 euros 
+annuels (figure 2). Le niveau de vie des individus dont la personne de référence du ménage est 
+retraitée augmente de 90 euros en moyenne sur l’année (figure 7). Les principaux bénéficiaires 
+se situent autour du niveau de vie médian, entre le 3e et le 7e déciles. Cette mesure contribue 
+donc à réduire légèrement les inégalités (figure 4).
+L’exonération fiscale et sociale des heures supplémentaires  
+favorise la moitié la plus aisée de la population
+L’exonération de cotisations sociales salariales des heures supplémentaires, prévue par la 
+loi de finances pour 2019, a été mise en place de façon anticipée dès le 1er janvier 2019, dans 
+le cadre de la loi portant mesures d’urgence économiques et sociales du 24 décembre 2018. 
+Cette loi a également étendu l’exonération à l’impôt sur le revenu, dans la limite de 5 000 euros 
+annuels par personne. Pour évaluer ces mesures10, on fait l’hypothèse que les revenus bruts issus 
+des heures supplémentaires auraient été les mêmes en l’absence de réforme – autrement dit, 
+sans tenir compte de potentiels effets incitatifs, qui se traduiraient par une hausse du nombre 
+d’heures supplémentaires travaillées en 2019 du fait de la réforme11.
+La baisse des cotisations salariales conduit à une hausse du revenu disponible des ménages 
+de 1,5 milliard d’euros et fait 11,2 millions de ménages gagnants, bénéficiant chacun en 
+moyenne de 140 euros annuels supplémentaires, soit un gain moyen de 40 euros annuels par 
+personne en niveau de vie12. Ce volet social de l’exonération des heures supplémentaires fait des 
+9.  Seul l’effet de la mesure sur les cotisations salariales est analysé ici. Celui sur les droits futurs à retraite n’est pas pris 
+en compte.
+10.  L’évaluation de ces mesures est réalisée à l’aide d’une imputation des revenus d’heures supplémentaires des salariés. 
+En effet, les revenus issus des heures supplémentaires ne sont pas déclarés séparément du reste du salaire dans les décla‑
+rations fiscales qui alimentent l’ERFS 2017 servant de base au modèle Ines 2019, il n’est donc pas possible de les isoler. 
+L’imputation s’appuie notamment sur les données de l’ERFS 2011 (les dernières disponibles qui contiennent des données 
+individuelles sur les heures supplémentaires) et des données de cadrage de l’Acoss pour 2019.
+11.  Cette hypothèse est confortée par les travaux de Cahuc et Carcillo [2014] montrant que les exonérations de cotisa‑
+tions sociales et d’impôt introduites par la loi en faveur du travail, de l’emploi et du pouvoir d’achat (Tepa) en 2007 n’ont 
+pas eu d’impact significatif sur le nombre d’heures travaillées réalisées.
+12.  La mesure fait également 200 000 ménages perdants environ, pour de faibles montants, du fait de la perte de pres‑
+tations sociales liée à des effets de seuils.
+
+=== page 13 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+177
+6. Effet moyen des mesures concernant les prélèvements directs sur le niveau de vie annuel 
+par décile de niveau de vie (effet consolidé)
+– 300
+– 200
+– 100
+0
+100
+200
+300
+400
+< D1
+D1 à D2
+D2 à D3
+D3 à D4
+D4 à D5
+D5 à D6
+D6 à D7
+D7 à D8
+D8 à D9
+> D9
+en euros
+Fusion des régimes Agirc et Arrco
+Baisse de la CSG pour les retraités
+Exonération des heures supplémentaires (partie cotisations)
+Exonération des heures supplémentaires (partie impôt sur le revenu)
+Réforme du CITE
+Poursuite du dégrèvement de la taxe d’habitation
+Effet total (mesures concernant les prélèvements)
+Note : la définition du revenu disponible retenue ici est une définition incluant l’impôt sur la fortune immobilière et élargie au chèque énergie (encadré 1). 
+Lecture : les mesures concernant les prélèvements de 2019, une fois montées en charge, engendrent une hausse du niveau de vie de 20 euros annuels en 
+moyenne pour les 10 % des personnes les plus aisées. Cette augmentation résulte principalement d’une perte de 170 euros due à la fusion des régimes de 
+retraite complémentaire Agirc et Arrco, et de 20 euros engendrée par la réforme du crédit d’impôt pour la transition énergétique (CITE), compensée par un gain 
+de 200 euros dû à l’exonération des heures supplémentaires (160 euros liés à l’exonération fiscale et 40 euros à l’exonération de cotisations), et dans une 
+moindre mesure par la poursuite du dégrèvement de la taxe d’habitation (10 euros) et la baisse de la CSG pour les retraités (moins de 10 euros).
+Champ : France métropolitaine, personnes vivant dans un ménage ordinaire dont le revenu est positif ou nul et dont la personne de référence n’est pas étudiante.
+Sources : Insee‑DGFiP‑Cnaf‑Cnav‑CCMSA, enquête Revenus fiscaux et sociaux 2017 (actualisée 2019), enquête Budget de famille 2011 ; Insee‑Drees‑Cnaf, 
+modèle Ines 2019.
+7. Effet moyen des mesures concernant les prélèvements directs sur le niveau de vie annuel 
+par statut d’activité de la personne de référence du ménage (effet consolidé)
+Fusion des régimes Agirc et Arrco
+Baisse de la CSG pour les retraités
+Exonération des heures supplémentaires (partie cotisations)
+Exonération des heures supplémentaires (partie impôt sur le revenu)
+Réforme du CITE
+Poursuite du dégrèvement de la taxe d’habitation
+Effet total (mesures concernant les prélèvements)
+– 100
+– 50
+0
+50
+100
+150
+200
+Ensemble
+En emploi
+Retraités
+Autres inactifs et chômeurs
+en euros
+Note : le statut d’activité est celui de la personne de référence du ménage au quatrième trimestre de l’année. La définition du revenu disponible retenue ici est 
+une définition incluant l’impôt sur la fortune immobilière et élargie au chèque énergie (encadré 1). 
+Lecture : les mesures concernant les prélèvements de 2019, une fois montées en charge, engendrent une hausse du niveau de vie de 190 euros annuels en 
+moyenne pour les personnes vivant dans un ménage dont la personne de référence est en emploi. Ce supplément résulte principalement d’un gain de 160 euros 
+dû à l’exonération des heures supplémentaires (110 euros pour l’exonération fiscale et 50 pour l’exonération de cotisations) et de 70 euros dû à la poursuite du 
+dégrèvement de la taxe d’habitation, en partie diminuée par une perte de 40 euros consécutive à la fusion des régimes de retraite complémentaire Agirc et Arrco 
+et de 10 euros due à la réforme du crédit d’impôt pour la transition énergétique (CITE). 
+Champ : France métropolitaine, personnes vivant dans un ménage ordinaire dont le revenu est positif ou nul et dont la personne de référence n’est pas étudiante.
+Sources : Insee‑DGFiP‑Cnaf‑Cnav‑CCMSA, enquête Revenus fiscaux et sociaux 2017 (actualisée 2019), enquête Budget de famille 2011 ; Insee‑Drees‑Cnaf, 
+modèle Ines 2019.
+
+=== page 14 ===
+178
+France, portrait social, édition 2020 - Insee Références
+gagnants quelle que soit la position dans la distribution du niveau de vie, mais favorise surtout 
+les personnes situées au‑delà du 3e décile (lesquelles gagnent entre 40 et 60 euros de niveau de 
+vie en moyenne par an selon leur position par rapport aux déciles de niveau de vie) (figure 6).
+Le volet fiscal de l’exonération passe d’abord, en 2019, par la baisse des revenus constituant 
+l’assiette du prélèvement à la source de l’impôt sur le revenu13. Cet effet représente un coût de 
+780 millions d’euros pour les finances publiques en 2019. Après pleine montée en charge de la 
+mesure, c’est‑à‑dire dans la situation où à la fois l’assiette et les taux de prélèvement appliqués 
+tiennent compte de l’exonération, le coût de la mesure atteint 3,2 milliards d’euros, soit un 
+gain d’autant pour le revenu disponible des ménages. En 2019, l’effet de l’exonération fiscale 
+des heures supplémentaires sur l’assiette du prélèvement à la source fait gagner en moyenne 
+120 euros de revenus annuels à 6,7 millions de ménages. En effet consolidé, elle fait gagner en 
+moyenne 460 euros annuels à 6,8 millions de ménages. Les principaux bénéficiaires de cette 
+partie fiscale de l’exonération sont situés dans la moitié la plus aisée de la population, et le 
+gain moyen en niveau de vie est d’autant plus important que ce dernier est élevé : + 30 euros 
+annuels par personne entre les 3e et 4e déciles, + 160 euros annuels au‑delà du 8e décile. 
+L’exonération bénéficie en outre principalement aux couples (gain de niveau de vie annuel 
+moyen de 80 euros par personne contre 60 euros pour les personnes seules et 30 euros pour 
+les familles monoparentales).
+Prise dans son ensemble, la mesure d’exonération fiscale et sociale des heures supplémen‑
+taires est la principale mesure mise en œuvre en 2019 quant à la masse financière engagée : 
+elle augmente de 110 euros en moyenne le niveau de vie des individus, en particulier ceux 
+appartenant à un ménage dont la personne de référence travaille (+ 160 euros en moyenne). 
+En augmentant surtout le revenu de la moitié la plus aisée de la population, elle contribue à 
+accroître les inégalités.
+Les modifications du crédit d’impôt pour la transition énergétique 
+entraînent une légère baisse du niveau de vie
+La loi de finances pour 2018 modifie le crédit d’impôt pour la transition énergétique (CITE) 
+en 2019. Certaines dépenses ne sont plus éligibles, alors que d’autres y ouvrent désormais 
+droit14. Cette mesure entraîne une baisse du revenu disponible des ménages de 400 millions 
+d’euros. 760 000 ménages perdent en moyenne 530 euros de revenu disponible sur l’année 
+(figure 2). 
+L’effet moyen de la refonte du CITE sur le niveau de vie est marginal (– 10 euros), du fait du 
+nombre limité de ménages concernés. Il ne dépasse pas – 10 euros pour les personnes sous le 
+6e décile de niveau de vie, et atteint – 20 euros au‑delà du 9e décile (figure 6). 
+Le dégrèvement de la taxe d’habitation profite aux ménages de niveau  
+de vie intermédiaire
+La loi de finances pour 2019 poursuit le dégrèvement de la taxe d’habitation afférente à la 
+résidence principale initié en 2018. Pour les foyers bénéficiaires, le montant de ce dégrèvement 
+13.  Les taux de prélèvement appliqués à cette assiette sont en effet déterminés d’après la déclaration des revenus 2017 
+puis 2018 (sauf modulation à l’initiative du contribuable). Ainsi, seule l’assiette du prélèvement à la source tient compte 
+de l’exonération dans un premier temps, et pas les taux (annexe).
+14.  L’enquête ERFS 2017 ne permet pas de connaître les dépenses effectuées en 2018. Des données agrégées (issues de 
+l’exhaustif fiscal) ont été mobilisées, afin d’imputer des dépenses en 2018 aux foyers fiscaux qui en avaient déclarées 
+en 2017. Ces imputations ne permettent pas d’obtenir des montants pour les dépenses nouvellement incluses dans le 
+crédit d’impôt, et donc d’intégrer de potentiels gagnants nets de cette mesure. Toutefois, les données de l’exhaustif fiscal 
+montrent que les dépenses nouvellement incluses sont très marginales.
+
+=== page 15 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+179
+est porté à 65 % pour la taxe d’habitation 201915, contre 30 % en 2018. Cette baisse supplé‑
+mentaire concerne les foyers dont le revenu fiscal de référence (RFR) n’excède pas 27 432 euros 
+pour une part fiscale, ce seuil étant majoré de 8 128 euros pour chacune des deux demi‑parts 
+suivantes, puis de 6 096 euros par demi‑part supplémentaire16. Un mécanisme de lissage est 
+prévu pour atténuer les effets de seuil, le dégrèvement étant dégressif pour les foyers qui 
+dépassent légèrement les plafonds de RFR17. 
+Cette mesure représente une augmentation du revenu disponible de 3,7 milliards d’euros 
+pour 18,3 millions de ménages, soit un gain moyen annuel de revenu disponible d’environ 
+200 euros par ménage concerné (figure 2). Le nombre de ménages gagnants est le même que 
+pour le premier dégrèvement de 2018, mais l’effet moyen est légèrement plus élevé (170 euros 
+en 2018) [Biotteau et al., 2019]. L’effet moyen sur le niveau de vie est de 80 euros annuels 
+par personne, soit 0,3 % de hausse du niveau de vie. La réforme concerne peu les 20 % de 
+personnes les plus modestes, car la plupart bénéficie déjà d’une exonération totale de la 
+taxe d’habitation, ainsi que les 20 % les plus aisées qui ne sont pas éligibles au dégrèvement 
+(figure 6). Elle favorise en premier lieu les personnes de niveau de vie intermédiaire et légère‑
+ment supérieur, avec un gain de niveau de vie annuel moyen compris entre 70 euros (entre le 
+2e et le 3e déciles) et 150 euros (entre le 6e et le 7e déciles). Par conséquent, le dégrèvement de 
+la taxe d’habitation participe pour 25 % à la réduction des inégalités consécutive aux mesures 
+socio‑fiscales de 2019 (figure 4). L’effet sur le niveau de vie est en moyenne plus élevé dans 
+les ménages dont la personne de référence est retraitée (+ 100 euros par personne) que dans 
+les autres ménages.
+Les gels et sous‑indexations des prestations sociales pénalisent les 40 %  
+de personnes les plus modestes
+En matière de prestations, en 2019, les paramètres de calcul des prestations familiales et 
+des allocations logement n’ont été revalorisés que de 0,3 %18, au lieu de 1,6 % selon le critère 
+usuel d’inflation pour les prestations familiales et 1,5 % pour les allocations logement. En 
+outre, bénéficiant de revalorisations exceptionnelles, les montants de la prime d’activité et de 
+l’allocation aux adultes handicapés n’ont pas connu la revalorisation annuelle habituellement 
+appliquée en avril. En effet consolidé, ces mesures de gels et sous‑indexations représentent une 
+économie de 1,0 milliard d’euros pour les finances publiques. Elles pénalisent 11,2 millions 
+de ménages, qui perdent en moyenne 90 euros annuels de revenu disponible. Sur l’ensemble 
+des ménages, la perte moyenne de niveau de vie s’élève à 20 euros par personne sur un an. Les 
+40 % de personnes les plus modestes sont les plus touchées, avec une perte de niveau de vie 
+de 30 à 70 euros annuels (figure 8). La moitié la plus aisée de la population est en revanche 
+très peu concernée. Les ménages dont la personne de référence est au chômage ou inactive 
+non retraitée sont davantage que les autres touchés par ces mesures (– 50 euros annuels par 
+personne, contre – 20 euros dans l’ensemble) (figure 9). Les gels et sous‑indexations des pres‑
+tations sociales contribuent nettement à augmenter les inégalités et accroissent de 0,2 point 
+le taux de pauvreté.
+15.  Ce taux est porté à 100 % à partir de 2020. Le dégrèvement concerne uniquement la partie de la taxe calculée à 
+partir des taux et abattements retenus au titre de la taxe d’habitation 2017, même si les collectivités ont décidé de les 
+augmenter ou diminuer en 2019. 
+16.  Le RFR pris en compte correspond à celui de l’année 2018 pour l’ensemble des foyers fiscaux des personnes qui 
+déclarent occuper le local à titre d’habitation principale. Les foyers redevables de l’impôt sur la fortune immobilière (IFI) 
+l’année précédant celle de l’imposition ne sont pas concernés par cette réforme.
+17.  La dégressivité s’applique pour les foyers dont le RFR est supérieur au seuil de dégrèvement de 65 %, et inférieur à 
+28 448 euros pour une part, majoré de 8 636 euros pour les deux demi‑parts suivantes, puis de 6 096 euros par demi‑ 
+part supplémentaire.
+18.  De la même manière, les pensions de retraite ont également été sous‑indexées et revalorisées de 0,3 % en 2019, 
+mais cette mesure n’entre pas dans le champ des mesures analysées ici (encadré 1).
+
+=== page 16 ===
+180
+France, portrait social, édition 2020 - Insee Références
+8. Effet moyen des principales mesures concernant les prestations sur le niveau  
+de vie annuel par décile de niveau de vie (effet consolidé)
+– 50
+0
+50
+100
+150
+200
+250
+300
+< D1
+D1 à D2
+D2 à D3
+D3 à D4
+D4 à D5
+D5 à D6
+D6 à D7
+D7 à D8
+D8 à D9
+> D9
+en euros
+Revalorisation exceptionnelle de l’Aspa
+Revalorisation exceptionnelle de l’AAH et baisse du plafond pour les couples
+Hausse du bonus de la prime d’activité
+Hausse du chèque énergie
+Gels et sous-indexations de prestations
+Effet total (mesures concernant les prestations)
+– 100
+Note : la définition du revenu disponible retenue ici est une définition incluant l’impôt sur la fortune immobilière et élargie au chèque énergie (encadré 1). 
+Lecture : les mesures concernant les prestations de 2019, une fois montées en charge, engendrent une hausse du niveau de vie de 130 euros annuels en 
+moyenne pour les 10 % des personnes les plus modestes. Ce supplément se décompose principalement en un gain de 130 euros dû à la hausse du bonus de 
+la prime d’activité, de 20 euros dû à l’augmentation du chèque énergie, de 10 euros du fait de la réforme de l’AAH, de 10 euros dû à la revalorisation de l’Aspa, 
+ainsi qu’en une perte de 40 euros liée aux gels et sous‑indexations de certaines prestations (allocations logement, prestations familiales, AAH, prime d’activité).
+Champ : France métropolitaine, personnes vivant dans un ménage ordinaire dont le revenu est positif ou nul et dont la personne de référence n’est pas étudiante.
+Sources : Insee‑DGFiP‑Cnaf‑Cnav‑CCMSA, enquête Revenus fiscaux et sociaux 2017 (actualisée 2019), enquête Budget de famille 2011 ; Insee‑Drees‑Cnaf, 
+modèle Ines 2019.
+9. Effet moyen des principales mesures concernant les prestations sur le niveau de vie  
+annuel par statut d’activité de la personne de référence du ménage (effet consolidé)
+Revalorisation exceptionnelle de l’Aspa
+Revalorisation exceptionnelle de l’AAH et baisse du plafond
+pour les couples
+Hausse du bonus de la prime d’activité
+Hausse du chèque énergie
+Gels et sous-indexations de prestations
+Effet total (mesures concernant les prestations)
+0
+20
+40
+60
+80
+100
+120
+Ensemble
+En emploi
+Retraités
+Autres inactifs et chômeurs
+en euros
+– 60
+– 40
+– 20
+Note : le statut d’activité est celui de la personne de référence du ménage au quatrième trimestre de l’année. La définition du revenu disponible retenue ici est 
+une définition incluant l’impôt sur la fortune immobilière et élargie au chèque énergie (encadré 1). 
+Lecture : les mesures concernant les prestations de 2019, une fois montées en charge, engendrent une hausse du niveau de vie de 90 euros annuels en moyenne 
+pour les personnes vivant dans un ménage dont la personne de référence est en emploi. Ce supplément se décompose principalement en un gain de 110 euros 
+dû à la hausse du bonus de la prime d’activité, et de moins de 10 euros pour la réforme de l’AAH, pour l’augmentation du chèque énergie et pour la revalorisation 
+de l’Aspa, ainsi qu’en une perte de 30 euros due aux gels et sous‑indexations de certaines prestations (allocations logement, prestations familiales, AAH, 
+prime d’activité).
+Champ : France métropolitaine, personnes vivant dans un ménage ordinaire dont le revenu est positif ou nul et dont la personne de référence n’est pas étudiante.
+Sources : Insee‑DGFiP‑Cnaf‑Cnav‑CCMSA, enquête Revenus fiscaux et sociaux 2017 (actualisée 2019), enquête Budget de famille 2011 ; Insee‑Drees‑Cnaf, 
+modèle Ines 2019.
+
+=== page 17 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+181
+Les revalorisations exceptionnelles du minimum vieillesse et de l’allocation 
+aux adultes handicapés bénéficient aux 30 % de personnes les plus modestes
+En 2019, les revalorisations exceptionnelles de l’allocation de solidarité aux personnes 
+âgées (Aspa, ou minimum vieillesse) et de l’allocation aux adultes handicapés (AAH) se 
+poursuivent. Après une première revalorisation de 30 euros en avril 2018, le montant 
+maximal mensuel de l’Aspa est augmenté de 35 euros au 1er janvier 2019 (une dernière 
+augmentation de 35 euros également, portant la revalorisation cumulée à 100 €, devant 
+intervenir au 1er janvier 2020). En 2019, le montant garanti par l’Aspa pour une personne 
+seule s’élève ainsi à 868 euros mensuels (1 348 euros pour un couple). L’AAH connaît, 
+elle, au 1er novembre, sa seconde revalorisation après celle de novembre 2018 : son mon‑
+tant maximal passe de 860 à 900 euros mensuels pour une personne seule sans enfant à 
+charge. Pour une personne en couple cependant, le plafond de ressources donnant droit à 
+la prestation est dans le même temps diminué, à la même date, de 1,89 fois à 1,81 fois le 
+plafond individuel19.
+Considérées en année pleine, ces revalorisations augmentent le revenu disponible des 
+ménages de 210 millions d’euros pour l’Aspa et 430 millions d’euros pour l’AAH. La revalo‑
+risation de l’Aspa bénéficie à 760 000 ménages, pour un gain moyen de 270 euros annuels. 
+La revalorisation de l’AAH fait quant à elle 980 000 ménages gagnants pour un gain moyen 
+de 440 euros annuels. Moins de 10 000 ménages sont perdants du fait de la baisse du plafond 
+pour les couples, qui peut faire perdre l’éligibilité aux compléments d’AAH. La revalorisation 
+de l’Aspa bénéficie aux 20 % de personnes les plus modestes tandis que celle de l’AAH 
+touche également des personnes de niveau de vie légèrement supérieur, jusqu’au 3e décile 
+de niveau de vie. Au total, ces deux revalorisations contribuent à hauteur de 11 % à la baisse 
+des inégalités consécutive aux réformes de 2019 et induisent une baisse de 0,2 point du taux 
+de pauvreté.
+La revalorisation exceptionnelle de la prime d’activité a un impact  
+à la baisse sur le taux de pauvreté
+Début 2019, la prime d’activité a été fortement revalorisée dans le cadre des mesures 
+d’urgence économiques et sociales décidées fin 2018. Cette revalorisation porte sur le montant 
+de la bonification individuelle, calculée pour chaque individu d’un foyer bénéficiaire de la 
+prime d’activité en fonction de ses seuls revenus d’activité. Avant la réforme, le montant de 
+la bonification était nul pour des revenus d’activité inférieurs à 0,5 Smic, puis augmentait 
+jusqu’à atteindre 70 euros maximum pour des revenus supérieurs ou égaux à 0,8 Smic net 
+mensuels. Depuis janvier 2019, cette bonification est toujours nulle pour les revenus de moins 
+de 0,5 Smic, mais croît désormais jusqu’à environ 160 euros pour des revenus d’activité 
+supérieurs ou égaux à 1 Smic net mensuel. Davantage de personnes sont ainsi éligibles à la 
+prime d’activité : à titre d’exemple, une personne seule20 était éligible à la prime d’activité 
+jusqu’à 1 560 euros de revenus d’activité nets mensuels avant réforme ; elle l’est jusqu’à 
+1 810 euros nets mensuels après réforme. Par ailleurs, certains des anciens bénéficiaires 
+reçoivent des montants supérieurs.
+Cette revalorisation exceptionnelle conduit à une hausse du revenu disponible des 
+ménages de 3,7 milliards d’euros pour 4,4 millions de ménages, soit un gain moyen de 
+19.  En outre, au 1er décembre 2019, le complément de ressources de l’AAH, versé à certains bénéficiaires, a été 
+supprimé pour les nouveaux entrants : les personnes déjà bénéficiaires conservent ce complément pendant 10 ans. 
+Seul le second complément de l’AAH, la majoration de vie autonome, subsiste. Cette réforme n’est pas chiffrée ici. 
+20.  Le montant de la prime d’activité hors bonification, donc le point de sortie de la prestation, dépend de la configu‑
+ration familiale et des ressources autres que les revenus d’activité. Les montants donnés ici correspondent au cas d’une 
+personne seule sans enfant, locataire (zone 2) et sans ressource autre que ses revenus d’activité. 
+
+=== page 18 ===
+182
+France, portrait social, édition 2020 - Insee Références
+840 euros (figure 2). Cette hausse résulte de deux effets. D’une part, la seule modification du 
+barème (qui entraîne une augmentation du nombre d’éligibles et des montants perçus) conduit 
+à une hausse du revenu disponible des ménages de 3,2 milliards d’euros pour 4,1 millions de 
+ménages, soit un gain moyen de 790 euros21. D’autre part, cette revalorisation semble s’être 
+accompagnée d’un recours accru à la prime d’activité22. Cette hausse du recours augmente 
+l’impact total de la mesure sur le revenu disponible de 0,5 milliard d’euros.
+Les gains de niveau de vie liés à cette réforme s’élèvent en moyenne à 90 euros annuels. 
+Ils sont concentrés sur les personnes dont le niveau de vie est inférieur au 4e décile 
+(+ 130 euros par an en moyenne sous le 1er décile, + 220 euros entre le 1er et le 2e déciles, 
++ 200 euros entre le 2e et le 3e déciles et + 140 euros entre le 3e et le 4e déciles) (figure 8). 
+De ce fait, la réforme a un fort impact à la baisse sur le taux de pauvreté (– 0,7 point) et 
+contribue à hauteur de 72 % à la réduction des inégalités due aux mesures socio‑fiscales 
+de 2019. Par ailleurs, la prime d’activité ne bénéficiant qu’à des foyers avec au moins une 
+personne qui travaille, la réforme favorise surtout les ménages dont la personne de référence 
+est en emploi (+ 110 euros en moyenne par an et par personne) (figure 9), même si de fait, 
+le gain moyen de niveau de vie apparaît assez proche pour les ménages dont la personne 
+de référence est au chômage ou inactive non retraitée (+ 90 euros). Ces ménages peuvent 
+en effet toucher des revenus d’activité les rendant éligibles à la prime d’activité, soit parce 
+qu’un membre autre que la personne de référence travaille, soit parce que la personne de 
+référence, bien qu’au chômage ou inactive au moment de l’enquête, a travaillé au cours 
+de l’année. 
+La hausse du chèque énergie bénéficie surtout aux 10 % de personnes  
+les plus modestes
+Mis en place en 2018 en remplacement des tarifs sociaux de l’énergie, le chèque éner‑
+gie a été augmenté et étendu en 2019. Comme en 2018, ce chèque peut être utilisé pour le 
+paiement des dépenses d’électricité, de chauffage ou de travaux de rénovation énergétique et 
+dépend du revenu fiscal de référence (RFR) et de la composition du ménage. En 2019, pour 
+les ménages réunissant les critères d’éligibilité en vigueur en 2018, le montant du chèque aug‑
+mente de 50 euros (pour une personne seule, il passe ainsi à 194 euros si son RFR est inférieur 
+à 5 600 euros23, et à 98 euros si son RFR est compris entre 6 700 et 7 700 euros). Par ailleurs, 
+de nouveaux ménages peuvent en bénéficier, pour un montant de 48 euros pour une personne 
+seule dont le RFR se trouve entre 7 700 et 10 700 euros.
+Le gain total de revenu disponible lié à cette mesure s’élève à 130 millions d’euros 
+(figure 2)24. La réforme fait 2,7 millions de ménages gagnants. Elle est ciblée sur les 10 % de 
+personnes les plus modestes, dont elle augmente le niveau de vie moyen annuel d’environ 
+20 euros (figure 8), contre moins de 5 euros pour l’ensemble de la population. 
+21.  Ce premier impact de la réforme est évalué en supposant que le taux de recours à la prime d’activité, c’est‑à‑dire le 
+rapport entre le nombre de foyers bénéficiaires et le nombre de foyers éligibles, n’est pas affecté par la réforme.
+22.  Le nombre de bénéficiaires observé en 2019 dans les données de la Caisse nationale des allocations familiales (Cnaf) 
+est en effet nettement plus important que celui résultant du seul effet barème de la réforme, simulé avec le modèle Ines 
+en faisant l’hypothèse d’un taux de recours stable.
+23.  De 190 à 240 euros pour un ménage comprenant une à moins de deux unités de consommation (UC), et de 227 à 
+277 euros pour un ménage avec deux UC ou plus, pour un RFR par UC de moins de 5 600 euros. À noter que les seuils 
+ne sont pas modifiés par rapport à 2018 pour les anciens bénéficiaires. Pour le barème du chèque énergie, les unités 
+de consommation sont calculées comme suit : 1 unité pour la première personne du ménage, 0,5 pour la deuxième et 
+0,3 pour les autres.
+24.  Les estimations prennent en compte l’hypothèse d’un taux de recours de 80 % (moyenne observée en 2017 et 
+en 2018).
+
+=== page 19 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+183
+La hausse de la fiscalité sur le tabac affecte davantage les personnes  
+les plus modestes 
+En 2019 comme en 2018, les taxes sur le tabac ont augmenté dans le cadre du plan natio‑
+nal de lutte contre le tabac 2018‑2022. Avec les hausses mises en œuvre au 1er mars puis au 
+1er novembre 2019, les prix du tabac augmentent de 10,6 % à 11,9 % en 2019, selon le type 
+de produit. En année pleine, c’est‑à‑dire si ces deux hausses intervenaient dès le 1er janvier 
+2019, et sans prise en compte de l’ajustement des quantités de tabac consommées consécutif à 
+sa hausse de prix, cette augmentation de la fiscalité du tabac génère une perte totale de revenu 
+disponible de 1,9 milliard d’euros pour les ménages. La perte moyenne en niveau de vie corrigé 
+des taxes sur le tabac induite par cette hausse de la fiscalité est assez peu différenciée selon le 
+niveau de vie, de l’ordre d’une cinquantaine d’euros par an (figure 10). Toutefois, elle est plus 
+importante pour les personnes les plus modestes relativement à leur niveau de vie : la hausse 
+de la fiscalité sur le tabac a ainsi un effet à la hausse sur les inégalités. Si on tient compte de 
+la baisse des quantités consommées suite à la réforme, les pertes de niveau de vie sont plus de 
+deux fois plus faibles pour l’ensemble des ménages (encadré 2).
+Au total, les réformes des prestations sociales et des prélèvements directs évaluées ici 
+accroissent de 1,0 % le niveau de vie des ménages (effet consolidé). En intégrant les pertes 
+liées à la hausse des taxes sur le tabac, l’effet combiné de l’ensemble des mesures est de 
++ 0,8 % (soit + 210 euros par an) sur le niveau de vie des ménages corrigé de l’effet des 
+taxes sur le tabac (et de 0,9 % ou 230 euros en prenant en compte les effets de compor‑
+tement liés à cette mesure) (encadré 2). Pour les 10 % de personnes les plus modestes, 
+l’ensemble des mesures évaluées augmente de 1,2 % le niveau de vie corrigé des taxes sur 
+le tabac (+ 110 euros). L’effet est plus élevé (+ 1,6 %, soit + 210 euros) pour les personnes 
+dont le niveau de vie est compris entre le 1er et le 2e déciles puis décroît avec le niveau de 
+vie, jusqu’à + 0,5 % (+ 160 euros) entre les 8e et 9e déciles ; il s’annule pour les 10 % de 
+personnes les plus aisées. n
+10. Effet moyen des prélèvements directs et indirects et des prestations sur le niveau de vie 
+corrigé annuel, par décile de niveau de vie (effet consolidé)
+– 50
+0
+50
+100
+150
+200
+250
+300
+350
+< D1
+D1 à D2
+D2 à D3
+D3 à D4
+D4 à D5
+D5 à D6
+D6 à D7
+D7 à D8
+D8 à D9
+> D9
+en euros
+Prélèvements directs
+Prestations
+Taxes sur le tabac
+Effet total corrigé
+– 100
+Note : cette figure présente l’effet des réformes sur un niveau de vie corrigé qui inclut les taxes sur le tabac. Ce concept de niveau de vie est donc plus large 
+que celui utilisé dans le reste du dossier. Les déciles de niveau de vie sont en revanche calculés à partir du niveau de vie utilisé tout au long du dossier, qui 
+n’inclut pas ces taxes. 
+Lecture : les mesures de 2019, une fois montées en charge, engendrent une hausse du niveau de vie de 110 euros annuels en moyenne pour les 10 % des 
+personnes les plus modestes. Cette variation se décompose en un gain de 130 euros lié aux mesures sur les prestations, un gain de 30 euros lié aux mesures 
+sur les prélèvements directs, une perte de 50 euros liée à la hausse de la fiscalité sur le tabac. 
+Champ : France métropolitaine, personnes vivant dans un ménage ordinaire dont le revenu est positif ou nul et dont la personne de référence n’est pas étudiante.
+Sources : Insee‑DGFiP‑Cnaf‑Cnav‑CCMSA, enquête Revenus fiscaux et sociaux 2017 (actualisée 2019), enquête Budget de famille 2011 ; Insee‑Drees‑Cnaf, 
+modèle Ines 2019.
+
+=== page 20 ===
+184
+France, portrait social, édition 2020 - Insee Références
+Encadré 2
+Ajustement des comportements  
+en réponse aux réformes sur la fiscalité du tabac en 2019
+Dans le cadre du programme national de 
+lutte contre le tabac 2018‑2022, les hausses de 
+la fiscalité sur le tabac intervenues au 1er mars 
+et au 1er novembre 2019 ont pour objectif de 
+faire diminuer le tabagisme en France. Face à 
+l’ampleur de la hausse des prix, les ventes de 
+cigarettes ont baissé de 7,1 % en 2019 et celles 
+du tabac à rouler de 6,3 %1 [Douchet, 2020]. 
+Cela revient à une élasticité prix‑volume d’en‑
+viron – 0,6 pour les cigarettes et – 0,5 pour le 
+tabac à rouler, soit des valeurs inférieures à 
+celles retenues dans le projet de loi de finances 
+pour 2019 pour évaluer l’effet des nouvelles 
+hausses de taxes prévues en 2019 (– 0,78 pour 
+les cigarettes). En année pleine, en appliquant 
+ces hypothèses d’élasticité prix‑volume (et – 0,4 
+également pour les cigares et cigarillos), la perte 
+de revenu disponible (corrigé de l’effet des taxes 
+sur le tabac) liée à cette augmentation des taxes 
+serait de 870 millions d’euros au niveau de l’en‑
+semble des ménages (contre 1,9 milliard d’euros 
+sans ajustement des quantités consommées). En 
+appliquant une élasticité prix‑volume de – 0,78 
+pour tous les types de tabac, conformément à 
+l’hypothèse centrale retenue dans le projet de loi 
+de financement de la Sécurité sociale pour 2019, 
+la perte de revenu disponible corrigé des taxes 
+sur le tabac pour les ménages serait de 570 mil‑
+lions d’euros.
+La perte moyenne de niveau de vie corrigé 
+des taxes sur le tabac est, sans ajustement des 
+quantités consommées, comprise entre 40 et 
+50 euros par an selon le niveau de vie. Elle 
+serait d’environ 20 euros avec des élasticités prix‑ 
+volume correspondant à la baisse observée des 
+quantités et comprise entre 10 et 20 euros avec 
+l’hypothèse d’élasticité prix‑volume de 0,78 et 
+uniforme pour tous les produits (figure).
+1.  Le tabac de contrebande n’est pas pris en compte dans cette analyse, faute de données.
+Effet moyen de la hausse des taxes sur le tabac sur le niveau de vie corrigé annuel,  
+par décile de niveau de vie, avec ou sans ajustement des quantités consommées  
+(effet consolidé)
+– 50
+– 40
+– 30
+– 20
+– 10
+0
+< D1
+D1 à D2
+D2 à D3
+D3 à D4
+D4 à D5
+D5 à D6
+D6 à D7
+D7 à D8
+D8 à D9
+> D9
+déciles de niveau de vie
+en euros
+Sans ajustement des quantités consommées
+Avec ajustement des quantités consommées (élasticités prix-volume : – 0,6 pour les cigarettes, – 0,5 pour les autres produits)
+Note : cette figure présente l’effet des réformes sur un niveau de vie corrigé qui inclut les taxes sur le tabac, dont la réforme est analysée ici. Ce concept de 
+niveau de vie est donc plus large que celui utilisé dans ce dossier. Les déciles de niveau de vie sont en revanche calculés à partir du niveau de vie utilisé 
+tout au long de l’article, qui n’inclut pas ces taxes. 
+Lecture : pour les 10 % les plus modestes, la hausse des taxes sur le tabac se traduit par une baisse du niveau de vie de 50 euros par an, sous l’hypothèse 
+d’un comportement de consommation inchangé et une fois les mesures de 2019 montées en charge. Si on tient compte de la baisse des quantités 
+consommées consécutive à l’augmentation des taxes, cette perte s’élève alors à 20 euros par an.
+Champ : France métropolitaine, personnes vivant dans un ménage ordinaire dont le revenu est positif ou nul et dont la personne de référence n’est pas étudiante.
+Sources : Insee‑DGFiP‑Cnaf‑Cnav‑CCMSA, enquête Revenus fiscaux et sociaux 2016 (actualisée 2018), enquête Budget de famille 2011 ; Insee‑Drees‑Cnaf, 
+modèle Ines 2018.
+
+=== page 21 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+185
+Définitions
+Si on ordonne une distribution de niveaux de vie, les déciles sont les valeurs qui partagent cette 
+distribution en dix parties égales. Ainsi, le 1er décile (noté D1) est le niveau de vie au‑dessous duquel 
+se situent les 10 % des personnes les plus modestes ; le 9e décile (noté D9) est le niveau de vie 
+au‑dessous duquel se situent 90 % des individus. Dans ce dossier, les déciles de niveau de vie utilisés 
+pour caractériser les ménages sont calculés à partir du niveau de vie contrefactuel, c’est‑à‑dire avant 
+toutes mesures évaluées ici, sur le champ élargi au chèque énergie. 
+L’effet consolidé d’une mesure correspond à l’effet qu’elle aurait eu si elle était pleinement montée 
+en charge, donc en prenant en compte son effet en année pleine, quelle que soit sa date effective 
+de mise en œuvre.
+L’indice de Gini varie entre 0 et 1. Il est égal à 0 dans une situation d’égalité parfaite où tous les 
+niveaux de vie seraient égaux. À l’autre extrême, il est égal à 1 dans la situation la plus inégalitaire 
+possible, celle où tous les niveaux de vie sauf un seraient nuls. Entre 0 et 1, l’inégalité est d’autant 
+plus forte que l’indice de Gini est élevé.
+Le niveau de vie est égal au revenu disponible du ménage divisé par le nombre d’unités de consom‑
+mation (UC). Le niveau de vie est donc le même pour tous les individus d’un même ménage. Les 
+unités de consommation sont calculées selon l’échelle d’équivalence dite de l’OCDE modifiée qui 
+attribue 1 UC au premier adulte du ménage, 0,5 UC aux autres personnes de 14 ans ou plus et 
+0,3 UC aux enfants de moins de 14 ans.
+La personne de référence du ménage est déterminée à partir de la structure familiale du ménage et 
+des caractéristiques des individus qui le composent. Les critères pris en compte sont le fait d’apporter 
+ou non des ressources au ménage, le fait d’être actif ou non et l’âge.
+Le revenu disponible d’un ménage est défini comme la somme des revenus bruts d’activité (salaires 
+bruts, revenus d’activité des indépendants), de remplacement (pensions de retraite, allocations chô‑
+mage, indemnités journalières maladie et maternité) et du patrimoine (intérêts, dividendes, loyers) 
+de chacun de ses membres perçus au cours de l’année, diminuée des cotisations et contributions 
+sociales assises sur ces revenus, de l’impôt payé cette même année sur les revenus de l’année anté‑
+rieure et de la taxe d’habitation sur la résidence principale, et augmentée des prestations familiales, 
+des minima sociaux et des allocations logement. Nous utilisons ici un revenu disponible dont est 
+également déduit l’impôt sur la fortune immobilière (IFI), et qui ajoute certaines aides à destination 
+des ménages ciblées sur des dépenses spécifiques (chèque énergie). La fiscalité indirecte ne vient 
+pas directement réduire le revenu disponible en euros courants. Elle a une incidence sur l’indice des 
+prix et partant, sur le pouvoir d’achat du revenu. Cette incidence peut être différente d’un niveau de 
+revenu à l’autre, en fonction de la composition des dépenses des ménages. Dans la dernière partie 
+de ce dossier, la hausse des taxes sur le tabac de 2019 est ainsi prise en compte (encadré 1).
+Au total, sous l’effet des réformes mises en 
+œuvre en 2019, le niveau de vie moyen de l’en‑
+semble de la population corrigé de l’effet des 
+taxes sur le tabac augmenterait de 0,9 % avec 
+des élasticités prix‑volume correspondant à la 
+baisse observée des quantités, contre 0,8 % 
+sans ajustement de la consommation de tabac. 
+En particulier, par rapport à la situation contre‑
+factuelle, le niveau de vie corrigé des 10 % des 
+personnes les plus modestes augmenterait de 
+1,5 % (soit + 140 euros) sous l’hypothèse d’ajus‑
+tement des quantités consommées, contre + 1,2 % 
+(soit + 110 euros) sans ajustement des quantités 
+consommées.
+Encadré 2 (suite)
+
+=== page 22 ===
+186
+France, portrait social, édition 2020 - Insee Références
+Pour en savoir plus
+André M., Biotteau A.‑L., Duval J., « Module de taxation indirecte du modèle Ines. Hypothèses, 
+principes et aspects pratiques », Document de travail ‑ série Sources et méthodes n° 60, Drees, 
+novembre 2016.
+André M., Cazenave M.‑C., Fontaine M., Fourcot J., Sireyjol A., « Effet des nouvelles mesures sociales 
+et fiscales sur le niveau de vie des ménages : méthodologie de chiffrage avec le modèle de microsi‑
+mulation Ines », Document de travail n° F1507, Insee, décembre 2015.
+Biotteau A.-L., Fredon S., Paquier F., Schmitt K., Sicsic M., Vergier N., « Les personnes les plus aisées 
+sont celles qui bénéficient le plus des mesures socio‑fiscales mises en œuvre en 2018, principa‑
+lement du fait des réformes qui concernent les détenteurs de capital », in France, portrait social, 
+coll. « Insee Références », édition 2019.
+Cahuc P., Carcillo S., “The detaxation of overtime hours: lessons from the French experiment”, Journal 
+of Labor Economics n° 32(2), avril 2014.
+Douchet M.‑A., Tabagisme et arrêt du tabac en 2019, OFDT, février 2020.
+Fredon S., Sicsic M., « Ines, le modèle qui simule l’impact des politiques sociales et fiscales », Courrier 
+des statistiques n° 4, juin 2020.
+Frel‑Cazenave E., Guggemos F., « Prime exceptionnelle de pouvoir d’achat en 2019 : entre hausse 
+des salaires et aubaine pour les entreprises », in Emploi, chômage, revenus du travail, coll. « Insee 
+Références », édition 2020.
+Compte général de l’État 2019.
+
+=== page 23 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+187
+Annexe
+Mesures non chiffrées dans ce dossier
+Certaines mesures importantes mises en œuvre en 2019 ne sont pas chiffrées dans ce dossier, 
+tant en ce qui concerne leur coût budgétaire que leur impact redistributif. Sont présentées ici, 
+pour chacune d’entre elles, les difficultés faisant obstacle à la simulation de leurs effets, ainsi 
+que des éléments de chiffrages connus par d’autres sources.
+Prélèvement à la source
+L’année 2019 est une année de transition dans la mise en place du prélèvement à la source, 
+qui modifie le calendrier et le mode de recouvrement de l’impôt sur le revenu. Pour la première 
+fois, sur le champ du prélèvement à la source1, des recouvrements d’impôts dus au titre de 
+deux années différentes coexistent :
+– À l’automne 2019, selon le calendrier usuel, les revenus perçus au cours de l’année 2018 
+et déclarés à l’été 2019 donnent lieu au recouvrement de l’impôt correspondant. Cet impôt 
+a toutefois été largement annulé par la mise en place du crédit d’impôt modernisation du 
+recouvrement (CIMR) dans le cadre de l’« année blanche » : seul l’impôt dû au titre de revenus 
+exceptionnels perçus en 2018 n’est pas annulé. 
+– Les revenus perçus au cours de l’année 2019 (y compris les revenus exceptionnels) sont soumis 
+à un impôt contemporain à leur versement. Le taux de prélèvement appliqué aux revenus est 
+déterminé à partir de la dernière déclaration de revenus connus, soit, pour les mois de janvier 
+à août 2019, à partir des revenus déclarés et de l’impôt dû au titre de l’année 2017, puis, pour 
+les mois de septembre à décembre, à partir des revenus déclarés et de l’impôt dû au titre de 
+l’année 2018. Ces taux peuvent être adaptés à tout moment par le contribuable, à la hausse 
+comme à la baisse, en cas de changement de situation familiale ou d’évolution importante des 
+revenus. Pour la majorité des salaires, pensions et rentes, le taux de prélèvement est appliqué 
+par retenue à la source au moment de leur versement. En revanche, les revenus fonciers et 
+revenus des indépendants n’étant pas connus de façon contemporaine, ils donnent lieu au 
+versement d’acomptes calculés sur une assiette également déterminée d’après les revenus des 
+années précédentes. 
+Sur le champ du prélèvement à la source, l’impôt prélevé en 2019 dépend donc des revenus 
+de trois années (2017, 2018 et 2019) et ne solde pas l’impôt dû au titre de 2019 : les sommes 
+prélevées en 2019 sont comparées, l’année suivante, à l’impôt calculé sur les revenus 2019, ce 
+qui donne lieu à régularisation à la date usuelle à laquelle l’impôt est soldé (automne 2020). 
+Hors champ du prélèvement à la source et pour le calcul des crédits et réductions d’im‑
+pôt, le calcul de l’impôt reste inchangé : les montants dus ou versés en 2019 dépendent des 
+revenus et dépenses de l’année 2018 (à l’exception des revenus du capital mobilier, soumis à 
+prélèvements forfaitaires contemporains). 
+L’impact global de cette réforme sur le revenu disponible d’une année est difficile à mesurer 
+pour trois raisons principales. D’une part, la taxation des revenus exceptionnels perçus en 2018, 
+qui s’ajoute sur la même année fiscale à l’impôt dû au titre des revenus de même nature perçus 
+en 2019, a rapporté 2,2 milliards d’euros d’après le compte général de l’État en 2019. Mais la 
+mesure n’a pas pu être chiffrée dans le modèle Ines car les données disponibles dans l’ERFS 
+2017 ne permettent pas de rendre compte correctement de la nature et de la distribution des 
+revenus exceptionnels, et donc de l’impact de cette mesure en termes redistributifs. D’autre 
+part, la simulation de l’impact du prélèvement à la source nécessiterait de rendre compte des 
+modifications de taux à l’initiative des contribuables (en 2019, les modulations à la baisse se 
+sont avérées bien plus fréquentes que les modulations à la hausse). Enfin, pour mesurer un effet 
+consolidé de la mesure par rapport au mode de prélèvement antérieur, il faudrait tenir compte 
+
+=== page 24 ===
+188
+France, portrait social, édition 2020 - Insee Références
+des régularisations définitives de l’impôt qui ne sont connues qu’à l’automne de l’année suivante 
+et ne sont pas simulables actuellement dans le modèle Ines.
+En termes redistributifs, par définition, cette mesure affecte les ménages imposables, dont 
+70 % font partie de la moitié la plus aisée de la population. Son impact sur le revenu disponible 
+dépend du sens et de l’intensité des variations de revenus individuels : par exemple, un ménage 
+percevant des revenus d’activité qui progressent de manière régulière est ainsi taxé sur une 
+assiette plus élevée qu’avant réforme (assiette de 2019 au lieu de 2018) mais avec un taux de 
+prélèvement moins important (puisque le taux de prélèvement appliqué entre janvier et août est 
+calculé à partir des revenus 2017 ; en l’absence de réforme, le taux aurait été déduit des revenus 
+de 2018). Enfin, mécaniquement, la réforme est défavorable aux jeunes qui accèdent à leur 
+premier emploi puisqu’ils sont imposés immédiatement au lieu de l’année suivante. Elle est en 
+revanche globalement favorable aux retraités l’année où ils commencent à percevoir la retraite.
+L’impôt simulé dans le modèle Ines correspond à l’impôt payé en 2019. Sur le champ du 
+prélèvement à la source, il est composé des montants prélevés courant 2019 (assiette 2019 
+et taux de prélèvements déduits des revenus 2017 puis 2018) et de l’impôt dû sur les revenus 
+exceptionnels de 2018 (partiellement identifiés).
+Exonération de la prime exceptionnelle de pouvoir d’achat
+La prime exceptionnelle de pouvoir d’achat (Pepa) s’inscrit parmi les mesures d’urgence 
+économiques et sociales votées par le Parlement fin 2018. Elle permet aux entreprises de verser 
+une prime d’un montant maximal de 1 000 euros au cours du premier trimestre 2019, exonérée 
+de cotisations sociales, de CSG et d’impôt sur le revenu, à tous les employés dont le salaire 
+en 2018 était inférieur à un plafond fixé par l’entreprise, lui‑même ne dépassant pas 3 Smic 
+annuels. Le montant de la prime peut être calculé proportionnellement au temps passé par le 
+salarié au sein de l’entreprise en 2018.
+Outre l’absence de données sur la prime dans l’ERFS 2017, qui sert de base au modèle Ines 
+2019, l’effet de cette mesure est difficile à chiffrer ici du fait de l’existence possible d’effets 
+d’aubaine sur l’évolution des salaires, laissant penser qu’une partie des montants versés par 
+les entreprises au titre de cette prime l’auraient été sous une autre forme en l’absence de cette 
+mesure [Frel‑Cazenave et Guggemos, 2020]. Cela rend complexe l’évaluation d’un salaire 
+contrefactuel.
+Au total, le montant distribué dans le cadre de la prime Pepa s’élève à 2,2 milliards d’euros, 
+à destination de 4,8 millions de salariés, soit en moyenne 400 euros par salarié bénéficiaire. 
+Cette mesure avantage en particulier ceux dont le salaire est compris entre 2 et 3 Smic (prime 
+plus élevée en moyenne) et ceux qui travaillent dans les secteurs de la finance, des assurances 
+et de l’industrie (hors agroalimentaire), où les entreprises ont été à la fois plus nombreuses à 
+utiliser le dispositif, et plus généreuses quant au montant versé. La prime Pepa aurait donc eu 
+un effet positif supplémentaire sur le revenu disponible des ménages, au moins égal à celui de 
+son exonération fiscale et sociale, et contribuerait à favoriser encore davantage les personnes 
+en emploi par rapport aux résultats présentés dans ce dossier.
+Transformation de la CMU complémentaire et de l’aide au paiement d’une complémentaire 
+santé en complémentaire santé solidaire
+Jusqu’en novembre 2019, les foyers disposant de faibles ressources pouvaient bénéficier de 
+la couverture maladie universelle complémentaire (CMU‑C), pour les plus démunis, ou d’une 
+aide au paiement d’une complémentaire santé (ACS), sous la forme d’un chèque d’un montant 
+1.  Le prélèvement à la source concerne les traitements, salaires, pensions et rentes, rémunérations des gérants et asso‑
+ciés, les bénéfices agricoles, industriels et commerciaux et non commerciaux, les rentes viagères à titre onéreux et les 
+revenus fonciers. En sont notamment exclus les revenus des micro‑entrepreneurs ayant opté pour le versement libératoire 
+et les revenus du patrimoine entrant dans le champ du prélèvement forfaitaire unique (PFU).
+
+=== page 25 ===
+Insee Références, édition 2020 - Dossier - Les réformes socio‑fiscales de 2019…
+189
+allant de 100 à 550 euros selon l’âge du bénéficiaire, pour les foyers ayant des ressources 
+légèrement supérieures au seuil de la CMU‑C. À partir de novembre 2019, ces deux dispositifs 
+laissent place à la complémentaire santé solidaire (CSS). À la suite de cette réforme, une nou‑
+velle prestation de complémentaire santé est proposée aux anciens bénéficiaires de la CMU‑C 
+et de l’ACS, toujours sans participation financière pour les premiers et avec une participation 
+financière pour les seconds. Pour les anciens bénéficiaires de la CMU‑C, seules les garanties 
+proposées évoluent. Quant aux anciens bénéficiaires de l’ACS, ils ont désormais accès à une 
+protection complémentaire payante (la participation augmentant avec l’âge) subventionnée, 
+ouvrant droit au même panier de soins à tarifs régulés avec un reste à charge nul. Cette réforme 
+facilite aussi les demandes et le traitement des dossiers pour les potentiels bénéficiaires, afin de 
+réduire le non‑recours à ces aides sociales, effet non identifiable avec le modèle Ines.
+La mise en place de la CSS a ainsi des effets budgétaires et redistributifs qui, sans entrer dans 
+la définition usuelle de la redistribution, auraient pu être retenus dans le champ du « revenu 
+disponible élargi », au même titre que la réforme du chèque énergie. Cependant, évaluer les 
+effets budgétaires et redistributifs de cette réforme nécessite des travaux complémentaires qui 
+n’ont pas pu être menés ici. En effet, pour comparer l’ancien transfert accordé aux bénéficiaires 
+de l’ACS au nouveau, il faudrait mesurer et imputer dans le modèle l’avantage financier accordé 
+via l’ACS pour acquérir une complémentaire santé, puis l’avantage financier que constitue le 
+fait d’avoir accès aux garanties du contrat CSS, déduction faite de leur participation financière, 
+le tout en fonction de l’âge et du niveau de vie.

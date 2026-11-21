@@ -1,0 +1,1198 @@
+
+=== page 1 ===
+ 
+The Distributional Effects of Fiscal 
+Consolidation 
+Laurence Ball, Davide Furceri, Daniel Leigh, and  
+Prakash Loungani 
+ 
+WP/13/151
+
+=== page 2 ===
+ 
+© 2013 International Monetary Fund 
+WP/13/151  
+IMF Working Paper 
+Research Department  
+The Distributional Effects of Fiscal Consolidation  
+Prepared by Laurence Ball, Davide Furceri, Daniel Leigh, and Prakash Loungani1  
+Authorized for distribution by Prakash Loungani  
+June 2013 
+ 
+Abstract 
+ 
+This paper examines the distributional effects of fiscal consolidation. Using episodes of fiscal 
+consolidation for a sample of 17 OECD countries over the period 1978–2009, we find that fiscal 
+consolidation has typically had significant distributional effects by raising inequality, decreasing 
+wage income shares and increasing long-term unemployment. The evidence also suggests that 
+spending-based adjustments have had, on average, larger distributional effects than tax-based 
+adjustments. 
+ 
+JEL Classification Numbers: E62, E64, D63 
+Keywords: Fiscal consolidation, distributional effects, income inequality 
+Author’s E-Mail Address: lball@imf.org, dfurceri@imf.org, dleigh@imf.org, ploungani@imf.org 
+                                                 
+1 Ball: Johns Hopkins University; Furceri, Leigh and Loungani: International Monetary Fund. We are grateful to 
+Saurabh Mishra and Jair Rodriguez for excellent research assistance. The views expressed in this paper are those of 
+the authors and do not necessarily represent those of the IMF or IMF policy. 
+ 
+This Working Paper should not be reported as representing the views of the IMF. 
+The views expressed in this Working Paper are those of the author(s) and do not necessarily 
+represent those of the IMF or IMF policy. Working Papers describe research in progress by the 
+author(s) and are published to elicit comments and to further debate. 
+
+=== page 3 ===
+2 
+ 
+ 
+ 
+ 
+ 
+Contents 
+Page 
+I. Introduction ............................................................................................................................3 
+II. Data .......................................................................................................................................4 
+A. Inequality, Income Shares and Unemployment ........................................................4 
+B. Fiscal Consolidation Episodes ..................................................................................4 
+C. Inequality and Fiscal Consolidation ..........................................................................5 
+III. Empirical Methodology .......................................................................................................6 
+IV. Results..................................................................................................................................7 
+A. Gini Coefficient for Disposable Income ...................................................................7 
+Spending versus taxes-based consolidation episodes ........................................8 
+B. Wage vs. Profit and Rent Income..............................................................................9 
+C. Short vs. Long-term Unemployment .......................................................................10 
+V. Conclusions and Policy Implications ..................................................................................11 
+ 
+References..………………………………………………………………………………….. 12 
+ 
+Figures 
+ 
+1. Cumulative Change in the Gini Coefficient before and after Consolidation Measures… 15 
+2 Cumulative Change in the Share of Wage Income in GDP before and after  
+ 
+Consolidation Measures (% of GDP) ……………………………………………………15 
+3. The Effects of Fiscal Consolidation on Inequality…………….…………………………16 
+4. The effects of Fiscal Consolidation on Inequality - Robustness Check for Different  
+ 
+Set of Controls……………………………………………………………………………17 
+5. The Effects of Fiscal Consolidation on Inequality-Robustness Check for Different  
+ 
+ 
+Lags……………………………………………………………………………….……... 18 
+6. The Effects of Fiscal Consolidation on Inequality-Spending vs. Taxes-based  
+ 
+Measures............................................................................................................................ 19 
+7. The Effects of Fiscal Consolidation on Wage Income.......................................................20 
+8. The Effects of Fiscal Consolidation on Wage vs. Profit and Rent Income……….…...…20 
+9. The Effects of Fiscal Consolidation on Wage Income-spending vs. Taxes Based  
+ 
+ 
+Measures (percent change) ................................................................................................21 
+10. The Effects of Fiscal Consolidation on Short and Long-term Unemployment…………..22 
+ 
+Appendix 
+ 
+Table A1. Descriptive Statistics and Sources. ..........................................................................23 
+ 
+ 
+ 
+ 
+
+=== page 4 ===
+3 
+ 
+ 
+I.   INTRODUCTION 
+The Great Recession of 2007-09 has led to a significant increase in public debt, in large part 
+due to the collapse in tax revenues as incomes fell. Other contributors to the debt build-up 
+were the costs of financial bailouts of banks and companies, and the fiscal stimulus provided 
+by many countries to stave off a Great Depression. As a consequence, in advanced 
+economies public debt has increased on average from 70 percent of GDP in 2007 to about 
+100 percent of GDP in 2011—its highest level in 50 years (IMF Fiscal Monitor, 2012). In the 
+absence of significant consolidation measures, debt-to-GDP ratios in many advanced 
+economies are likely to remain high over the medium term.2  
+Against this backdrop, many governments have been undertaking policies to reduce debt 
+through a combination of spending and tax-based consolidation measures (IMF 2012). When 
+British Prime Minister David Cameron announced his government’s deficit reduction plans 
+he said “Those who argue that dealing with our deficit and promoting growth are somehow 
+alternatives are wrong. You cannot put off the first in order to promote the second.” The 
+challenge facing the United Kingdom and many advanced economies is how to bring debt 
+down to safer levels in the face of a weak recovery. Will deficit reduction lead to stronger 
+growth and job creation in the short run? What will be the distributional consequences? 
+While the effects of fiscal consolidation on output and unemployment have been extensively 
+investigated in the literature3, only a few studies have looked at their distributional effects. 
+These studies suggest that fiscal consolidation measures are typically associated with an 
+increase in poverty (Smeeding, 2000) and an increase in income inequality (Mulas-Granados, 
+2005; 4 Agnello and Sousa, 2012; Bova and others, 2013). 
+The aim of this paper is contribute to the literature on this topic and assess the short- and 
+medium-term distributional effects of fiscal consolidation. Using episodes of fiscal 
+consolidation for a sample of 17 OECD countries over the period 1978–2009, we find that 
+fiscal adjustments have typically had significant distributional effects. In particular, we find 
+that fiscal consolidation episodes have: (i) increased inequality by 0.1 percentage point 
+                                                 
+2 Financial crises are not only typically associated with sharp economic downturns but also with a substantial 
+deterioration of fiscal positions (Reinhart and Rogoff, 2009). Declining revenues due to weaker economic 
+conditions, higher expenditures associated with bailout costs and demand stimuli have historically led to a rapid 
+deterioration of fiscal balances and a significant and long-lasting increase of public debt. In particular, looking 
+at past historical episodes of severe financial crises, Furceri and Zdzienicka (2013) find that the debt-to-GDP 
+ratio has typically increased by about 35 percentage points compared to pre-crisis trends, with the effect lasting 
+for about 10 years. 
+3 See, for example, Alesina and Perotti (1995, 1997), Alesina and Ardagna (2010), Broadbent and Daly (2010), 
+and Guajardo et al. (2011). 
+4 Mulas-Granados (2005) finds that while expenditure-based adjustments increase income inequality, revenue-
+based consolidations decrease it.  
+
+=== page 5 ===
+4 
+ 
+ 
+(about 0.4 percent) in the very short term, and by 0.9 percentage point (about 3.4 percent) 
+over the medium term; (ii) led to a significant and long-lasting fall in the wage income share 
+of about 0.8 percentage point of GDP; and (iii) raised long-term unemployment by about 0.5 
+percent over the medium term. Differentiating between spending versus taxes-based 
+adjustments, the results suggest that spending-based programs have produced larger 
+distributional effects.  
+The rest of the paper is organized as follows. The next section describes the data and presents 
+some descriptive statistics. Section three presents the empirical methodology used to examine 
+the effects of fiscal consolidation episodes on income inequality and on different types of 
+income. Section four describes the results. Finally, section five concludes with the main 
+findings and policy implications. 
+II.   DATA  
+A.   Inequality, Income Shares and Unemployment 
+The dependent variables used in our regressions are: (i) the Gini coefficient for disposable 
+income taken from the Standardized World Income Inequality Database; (ii) the shares of 
+wage and profit in GDP obtained from the OECD Analytical Database; and (iii) short (lasting 
+less than six months) and long-term (lasting more than six months) unemployment rates 
+taken from the OECD Analytical Database.5 
+B.   Fiscal Consolidation Episodes 
+Fiscal consolidation episodes are taken from Devries et al. (2011) database. The database 
+contains information on 173 episodes of fiscal consolidation for 17 OECD economies 
+(Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Ireland, Italy, 
+Japan, Netherlands, Portugal, Spain, Sweden, the United Kingdom, and the United States) 
+during 1978-2009. The magnitude of the fiscal consolidation episode ranges between 0.1 and 
+about 5 percent of GDP, with an average of about 1 percent of GDP. 
+The measure of fiscal consolidation constructed by the authors is based on a narrative 
+approach and focuses on policy actions—tax hikes and/or spending cuts—taken by 
+governments with the intent of reducing the budget deficit. This approach differs from 
+previous studies in the literature in which fiscal consolidation is measured by successful 
+budget outcomes (e.g. Giavazzi and Pagano, 1990, and Alesina and Ardagna, 2010). 
+Specifically, the cyclically adjusted primary balance (CAPB)—the primary balance adjusted 
+for the estimated effects of business cycle fluctuations—is used as a measure of fiscal 
+consolidation. The cyclical adjustment is needed because tax revenue and government 
+                                                 
+5 See Table A1 in the appendix for descriptive data statistics and sources 
+
+=== page 6 ===
+5 
+ 
+ 
+spending move automatically with the business cycle. The hope is that, after this cyclical 
+adjustment, changes in fiscal variables reflect policymakers’ decisions to change tax rates 
+and spending levels. An increase in CAPB would therefore, in principle, reflect a deliberate 
+policy decision to cut the deficit.  
+In practice, however, budget outcomes turn out to be an imperfect measure of policy intent. 
+One problem is that the cyclical adjustment suffers from measurement errors. In particular, it 
+fails to remove swings in government tax revenue associated with asset price or commodity 
+price movements from the fiscal data, resulting in changes in CAPB that are not necessarily 
+linked to actual policy changes. For example, in the case of Ireland in 2009, the collapse in 
+stock and housing prices induced a sharp reduction in CAPB despite the implementation of 
+tax hikes and spending cuts exceeding 4.5 percent of GDP.  
+Another problem is that the standard approach ignores the motivation behind fiscal actions. 
+Thus, it includes years in which governments deliberately tightened policy to restrain 
+excessive domestic demand. For example, in Finland in 2000, there was an asset price boom 
+and rapid growth, and the government decided to cut spending to reduce the risk of economic 
+overheating. If a fiscal tightening is a response to domestic demand pressures, it is not valid 
+for estimating the short-term effects of fiscal policy on economic activity, even if it is 
+associated with a sharp rise in the CAPB. 
+It turns out that these problems with the CAPB bias the analysis toward downplaying 
+contractionary effects and overstating expansionary ones. It tends to select periods associated 
+with favorable growth outcomes but during which no consolidation measures were actually 
+taken. It also tends to omit cases of fiscal consolidation associated with unfavorable growth 
+outcomes. 
+C.   Inequality and Fiscal Consolidation 
+On average, episodes of fiscal adjustments are associated with a sizeable increase in income 
+inequality. In particular, looking at the cumulative change in the Gini coefficient before and 
+after the beginning of a consolidation episode (Figure 1), it emerges that fiscal consolidation 
+episodes, on average, have been typically associated with an increase of the Gini of about 0.3 
+percentage point in the short term (two years after the occurrence of a consolidation episode) 
+and of about 1.5 percentage points in the medium term (8 years after the occurrence of a 
+consolidation episode). Similarly, fiscal consolidation episodes have been also associated 
+with a declining wage share. In fact, looking at cumulative changes in the share of wage 
+income in GDP before and after the occurrence of a consolidation episode (Figure 2), it 
+seems that, even though on a declining trend, the wage income share has decreased more 
+rapidly after the occurrence of a consolidation episode.  
+
+=== page 7 ===
+6 
+ 
+ 
+III.   EMPIRICAL METHODOLOGY 
+In order to estimate the distributional impact of fiscal consolidation episodes over the short 
+and medium term, the paper follows the method proposed by Jorda (2005) which consists of 
+estimating impulse response functions (IRFs) directly from local projections. In detail, for 
+each future period k the following equation has been estimated on annual data: 
+ܩ௜,௧ା௞െܩ௜,௧ൌߙ௜
+௞൅ܶ݅݉݁
+௧
+௞൅∑
+ߛ௝
+௞
+௟
+௝ୀଵ
+∆ܩ௜,௧ି௝൅ߚ௞ܦ௜,௧൅ߝ௜,௧
+௞                                          (1) 
+with k= 1,..8. Where G represents our measure of inequality; ܦ௜,௧ is a dummy variable that 
+takes the value equal to 1 for the starting date of a consolidation episode in country i at time t 
+and 0 otherwise; ߙ௜
+௞  are country fixed effects; ܶ݅݉݁
+௧
+௞ is a time trend; and  ߚ௞ measures the 
+distributional impact of fiscal consolidation episodes for each future period k. Since fixed 
+effects are included in the regression the dynamic impact of consolidation episodes should be 
+interpreted as compared to a baseline country-specific trend. The number of lags (l) has been 
+chosen to be equal two, even if the results are extremely robust to different numbers of lags 
+included in the specification (see robustness checks presented in the next section). Equation 
+(1) is estimated using the panel-corrected standard error (PCSE) estimator (Beck and Katz, 
+1995). 
+Impulse response functions (IRFs) are then obtained by plotting the estimated ߚ௞ for k= 
+0,1,..8, with confidence bands for the estimated IRFs being computed using the standard 
+deviations associated with the estimated coefficients ߚ௞. While the presence of a lagged 
+dependent variable and country fixed effects may in principle bias the estimation of ߛ௝
+௞ and 
+ߚ௞ in small samples (Nickel, 1981), the length of the time dimension mitigates this concern.6 
+Reverse causality is addressed by estimating the distributional effect in the years that follow a 
+fiscal consolidation episode In addition, robustness checks for endogeneity confirm the 
+validity of our results. 
+An alternative way of estimating the dynamic impact of fiscal consolidation episodes is to 
+estimate an ARDL equation of changes in inequality and consolidation episodes and to 
+compute IRFs from the estimated coefficients.7 However, the IRFs derived using this 
+approach tend to be sensitive to the choice of the number of lags thus making the IRFs 
+potentially unstable. In addition, the significance of long–lasting effects with ARDL models 
+can be simply driven by the use of one-type-of-shock models (Cai and Den Haan, 2009). This 
+is particularly true when the dependent variable is highly persistent, as in our analysis. In 
+                                                 
+6 The finite sample bias is in the order of 1/T, where T in our sample is 32. 
+ 
+7 This approach was initially proposed by Romer and Romer (1989) and then recently applied by Cerra and 
+Saxena (2008). 
+
+=== page 8 ===
+7 
+ 
+ 
+contrast, the approach used in this paper does not suffer from these problems because the 
+coefficients associated with the lags of the change in the dependent variable enter only as 
+control variables and are not used to derive the IRFs, and since the structure of the equation 
+does not impose permanent effects. Finally, confidence bands associated with the estimated 
+IRFs are easily computed using the standard deviations of the estimated coefficients ߚ௞, and 
+Montecarlo simulations are not required.  
+IV.   RESULTS 
+A.   Gini Coefficient for Disposable Income 
+The results obtained by estimating the impact of fiscal consolidation on the Gini coefficient 
+for disposable income using Equation 1 are presented in Figure 3. The figure presents the 
+estimated effect of fiscal adjustments and the associated confidence bands (dotted lines). 
+Looking at the figure it can be noted that fiscal consolidation episodes have long-lasting 
+effects on income inequality In particular, the estimates suggest that consolidation episodes 
+(on average of about 1 percent of GDP) have increased the Gini index by about 0.1 
+percentage point (equivalent to about 0.4 percent) in the very short term8—1 year after the 
+occurrence of the consolidation episode—and by about 0.9 percentage point (equivalent to 
+3.4 percent) in the medium term—8 years after the occurrence of the consolidation episode.9  
+To check the robustness of the results, Equation (1) is re-estimated by including time fixed 
+effects to control for specific time shocks, such as those affecting world interest rates. The 
+results for this specification remain statistically significant and broadly unchanged (Figure 4, 
+Panel B).  
+As shown by Teulings and Zubanov (2010), a possible bias from estimating Equation (1) 
+using country-fixed effects is that the error term of the equation may have a non-zero 
+expected value, due to the interaction of fixed effects and country-specific arrival rates of 
+consolidation episodes. This would lead to a bias of the estimates that is function of k. To 
+address this issue and check the robustness of our results, Equation (1) has been re-estimated 
+by excluding country fixed effects from the analysis. The results reported in Panel C of 
+Figure 4, however, suggest that this bias is negligible (the difference in the point estimate is 
+small and not statistically significant). 
+                                                 
+8 This result is in line with Agnello and Sousa (2012), who find that fiscal consolidations lead to a short-term 
+increase in the Gini of about 0.3 percent. 
+9 The results, not reported here, also suggest that the effect decreases 8 years after the occurrence of the 
+consolidation episode, and becomes statistically insignificant by the 10th year. This result, however, has to be 
+treated with caution given the large uncertainty surrounding the estimates over the long term. 
+ 
+
+=== page 9 ===
+8 
+ 
+ 
+Estimates of the impact of consolidation on inequality could be biased because of 
+endogeneity, as unobserved factors influencing the dynamics of the Gini coefficient may also 
+affect the probability of the occurrence of a consolidation episode. In particular, a significant 
+deterioration in economic activity, which would affect unemployment and inequality, may 
+determine an increase in the debt-to-GDP ratio via automatic stabilizers, and therefore 
+increase the probability of consolidation. To address this issue, Equation (1) is augmented to 
+control for: (i) contemporaneous and past crises episodes (banking and currency crises); (ii) 
+change in economic activity (proxied by real GDP growth); and (iii) change in 
+unemployment. The results of this exercise are reported in Panel D of Figure 4 and confirm 
+the robustness of our results. 
+Finally, as an additional robustness check, Equation (1) has been re-estimated for different 
+lags (l) of changes in the Gini coefficient. The results presented in Figure 5 confirm that the 
+results are not sensitive to the choice of the number of lags. In particular, the medium-term 
+effect ranges from 0.8 percentage point in the case of five lags to about 1 percentage point in 
+the case of zero lags. 
+Spending versus taxes-based consolidation episodes 
+Does the composition of fiscal consolidation (spending versus taxes-based) matter for 
+inequality? There is a broad consensus in the literature that taxes-based consolidations are 
+typically more contractionary than spending-based consolidations, particularly over the 
+medium term.10 In particular, Guajardo el al. (2011) find that in the case of taxes-based 
+programs the effect of a fiscal consolidation of one percent of GDP on output is -1.3 percent 
+after two years, while in the case of spending-based programs is -0.3 percent after two years 
+and not statistically significant. Similarly, their results also show that the effect of taxes-
+based consolidations on unemployment is about three times larger than spending-based 
+consolidation and much more persistent. At the same time, however, most of the direct 
+redistributive impact of fiscal policy in advanced economies has been achieved through the 
+expenditure side of the budget—especially non-means-tested transfers (Bastagli et al. 2012). 
+Therefore whether taxes-based or spending-based consolidations are more harmful for 
+income inequality is not a priori clear.  
+To test for this hypothesis, Equation (1) is separately estimated for taxes and spending-based 
+adjustments, by constructing starting date dummies of taxes and spending consolidation 
+episodes.11 The results presented in Figure 6 show that spending and tax-based programs 
+have a similar effect over the short term and the medium term. This result, however, has to be 
+                                                 
+10 See, for example, Alesina and Perotti (1995, 1997), Alesina and Ardagna (2010), Broadbent and Daly (2010), 
+and Guajardo and others (2011). 
+11 The average magnitude of both spending and taxes-based consolidation is about 1 percent of GDP. 
+
+=== page 10 ===
+9 
+ 
+ 
+treated with caution given that most of past fiscal adjustments have involved both spending 
+and taxes-based measures. In order to address this issue, and following Guajardo et al. 
+(2011), Equation (1) is separately estimated for: (i) episodes where taxes-based adjustments 
+have been larger than spending adjustments; and (ii) episodes where spending adjustments 
+have been larger than taxes-based adjustments. The results obtained with this exercise 
+suggest that spending-based consolidation tend to have larger effects. In particular, the 
+medium-term effect of fiscal consolidations on income inequality is about 1 percentage point 
+for spending-based consolidations and 0.6 percentage point for taxes-based measures. 12 
+B.   Wage vs. Profit and Rent Income 
+Another way to assess the distributional effects of fiscal consolidation measures is to look at 
+the effect of fiscal consolidations on different types of income. A traditional way of splitting 
+total income is into wages, profits, and rents. This harks back to times when the roles of 
+workers, capitalists, and landlords were fairly distinct. While these distinctions have eroded 
+somewhat over time, the split between wages and other forms of income represents a starting 
+point for describing how income is divided between Main Street and Wall Street.  
+To assess the effects of fiscal consolidation on the distribution of income between wage-
+earners and others, Equation (1) is estimated for the share of wage income in GDP (W): ܹ
+௜,௧ା௞െܹ
+௜,௧ൌߙ௜
+௞൅ܶ݅݉݁
+௧
+௞൅∑
+ߛ௝
+௞
+௟
+௝ୀଵ
+∆ܹ
+௜,௧ି௝൅ߚ௞ܦ௜,௧൅ߝ௜,௧
+௞ 
+ 
+ 
+ 
+(2) 
+The results of this empirical exercise are reported in Figure 7, and suggest that fiscal 
+consolidation measures typically reduce the slice of the pie going to wage earners.13 This 
+finding is consistent with the results reported in Figure 8, which suggest that fiscal 
+consolidations have a larger negative effect on the level of (inflation-adjusted) wage income 
+than on the level of (inflation-adjusted) profit and rent income.  
+Finally, by estimating Equation (2) for episodes where taxes-based adjustments have been 
+larger than spending adjustments and episodes where spending adjustments have been larger 
+than taxes-based adjustments, we find that the level of wage income has typically fallen more 
+for spending-based consolidations (Figure 9).  
+                                                 
+12 It must be recognized that also this approach is imperfect. Indeed, to properly differentiate between spending 
+versus taxes-based adjustments one should consider episodes characterized by only spending or taxes-based 
+adjustments (for example, by focusing only on those episodes where the occurrence of spending-based 
+adjustments does not overlap with the occurrence of taxes-based adjustments in a neighborhood of 5-7 years). 
+This, however, would dramatically reduce the number of “pure” spending and taxes-based consolidation in our 
+sample. 
+13 The results are robust to all robustness checks presented in the previous section. 
+
+=== page 11 ===
+10 
+ 
+ 
+The reasons why wage income declines more than profits and rents have not yet been studied 
+much in the literature. Some fiscal consolidation plans call for public sector wage cuts, thus 
+providing a direct channel for this effect. But there could be indirect channel as well, for 
+instance because consolidations increase unemployment, and particularly the share of long-
+term unemployed in the total (Morsy, 2011). This hypothesis will be tested in the next 
+section. 
+C.   Short vs. Long-term Unemployment 
+To assess the distributional effects of fiscal consolidation on unemployment, Equation (1) is 
+separately estimated for short- and long-term unemployment: ܵ
+ݑ௜,௧ା௞െܵݑ௜,௧ൌߙ௜
+௞൅ܶ݅݉݁
+௧
+௞൅∑
+ߛ௝
+௞
+௟
+௝ୀଵ
+∆ܵݑ௜,௧ି௝൅ߚ௞ܦ௜,௧൅ߝ௜,௧
+௞  
+ 
+ 
+(3) 
+ܮݑ௜,௧ା௞െܮݑ௜,௧ൌߙ௜
+௞൅ܶ݅݉݁
+௧
+௞൅∑
+ߛ௝
+௞
+௟
+௝ୀଵ
+∆ܮݑ௜,௧ି௝൅ߚ௞ܦ௜,௧൅ߝ௜,௧
+௞  
+ 
+ 
+(4) 
+where Su and Lu represent short-term and long-term unemployment, respectively. 
+The results of this empirical exercise are reported in Figure10, and suggest that fiscal 
+consolidations typically lead to a significant and long-lasting increase in long-term 
+unemployment, while they do not have significant effects on short-term unemployment.14  
+Fiscal consolidations thus add to the pain of those who are likely to be already suffering the 
+most—the long-term unemployed. This is a particular worry today since the share of long-
+term unemployed increased in most OECD countries during the Great Recession. And even 
+in countries where it did not increase—such as Germany, France, Italy and Japan—the share 
+had already been very high even before the recession.  
+Job loss is associated with persistent earnings loss, adverse impacts on health, and declines in 
+the academic performance and earnings potential of the children of displaced workers (Dao 
+and Loungani, 2010). These adverse impacts are exacerbated the longer a person is 
+unemployed.  
+Moreover, long spells of unemployment reduce the odds of being rehired. For instance, in the 
+United States (according to estimates as of March 2012), a person unemployed for over six 
+months had only a 1 in 10 chance of being rehired in the next month, compared with 1 in 3 
+odds for a person unemployed less than a month. The increase in long-term unemployment 
+thus carries the risk of entrenching unemployment as a structural problem because workers 
+                                                 
+14 The results, not presented here, also show that fiscal consolidation episodes are associated with a significant 
+and persistent increase in overall unemployment.  
+
+=== page 12 ===
+11 
+ 
+ 
+lose skills and become detached from the labor force—a phenomenon referred to as 
+“hysteresis” (Blanchard and Summers, 1986).  
+Long-term unemployment also threatens social cohesion. An opinion survey conducted in 69 
+countries around the world found that an experience with unemployment leads to more 
+negative opinions about the effectiveness of democracy and increases the desire for a rogue 
+leader. The effects were found to be more pronounced for the long-term unemployed.  
+V.   CONCLUSIONS AND POLICY IMPLICATIONS 
+This paper examines the distributional effects of fiscal consolidation. Using episodes of fiscal 
+consolidation for a sample of 17 OECD countries over the period 1978-2009, it shows that 
+fiscal consolidation has typically led to a significant and persistent increase in inequality, 
+declines in wage income and in the wage share of income, and increases in long-term 
+unemployment.  
+These results here imply that governments should pay special attention to the fiscal measures 
+that they adopt. In some cases governments may have the flexibility to design the fiscal 
+adjustment in a way that lessens the distributional impact or they may be able to offset some 
+of the distributional impact through other measures. In general, the distributional effects of 
+consolidation must be balanced against the potential longer-term benefits that consolidation 
+can confer benefits as interest rates decline and the lighter burden of interest payments 
+permits cuts to distortionary taxes.  
+At the present juncture, fiscal measures that are approved now but only kick in to reduce 
+deficits in the future—when the global recovery is more robust—would be particularly 
+helpful. Examples include linking statutory retirement ages to life expectancy and improving 
+the efficiency of entitlement programs. In contrast, fiscal consolidations that are unduly hasty 
+pose risks to the recovery. So countries with the scope to do so should opt for a slower pace 
+of consolidation, combined with policies to support growth.  
+Fiscal consolidation plans should also spell out how policies would respond to shocks, such 
+as slower growth than envisaged in the plan. For instance, plans could specify that 
+unemployment benefits would be shielded from cuts in the event of slower growth than 
+assumed in the plan. History shows that fiscal plans succeed when they permit “some 
+flexibility while credibly preserving the medium-term consolidation objectives” (IMF, 2011; 
+Lagarde, 2011; see also Mauro, 2011). 
+ 
+
+=== page 13 ===
+12 
+ 
+ 
+References 
+Agnello, Luca, and Ricardo M. Sousa, 2012, “How Does Fiscal Consolidation Impact on 
+Income Inequality?,” Banque de France, Document de Travail 282. 
+Alesina, Alberto and Roberto Perotti, 1995, “Fiscal Expansions and Fiscal Adjustments in 
+OECD Countries,” Economic Policy, No. 21 (October), pp. 205–248. 
+———, 1997, “Fiscal Adjustments in OECD Countries: Composition and Macroeconomic 
+Effects,” Staff Papers, International Monetary Fund, Vol. 44 (June), pp. 210–248. 
+Alesina, Alberto, and Silvia Ardagna, 2010, “Large Changes in Fiscal Policy: Taxes versus 
+Spending,” Tax Policy and the Economy, Vol. 24, ed. by Jeffrey R. Brown 
+(Cambridge, Massachusetts: National Bureau of Economic Research). 
+Bastagli, Francesca, David Coadi, and Sanjev Gupta, 2012, “Income Inequality and Fiscal 
+Policy,” IMF Staff Discussion Note SDN/12/08. 
+Blanchard, Olivier J., and Lawrence H. Summers, 1986, "Hysteresis and the European 
+Unemployment Problem," NBER Macroeconomics Annual 1986, Vol. 1, pp. 15–90 
+(Cambridge, Massachusetts: National Bureau of Economic Research) 
+Blanchflower, David, 2011, “The Second Great Depression,” New Statesman, 
+http://www.newstatesman.com/blogs/david-blanchflower/2011/07/growth-niesr-
+recession 
+Bova, Elva, Tidiane Kinda, Jaejoon Woo, and Sophia Zhang, 2013, “Distributional 
+Consequences of Fiscal Consolidation and the Role of Fiscal Policy: What do the 
+Data Say? (unpublished; Washington: International Monetary Fund). 
+Cai, Xiaoming and Wouters den Haan, 2009, Predicting recoveries and the importance of 
+using enough information, CEPR Working Paper 7508 (London: Centre for 
+Economic Policy Research). 
+Cameron, David, 2011, Speech to World Economic Forum Annual Meeting, 28 January 2011, 
+http://www.newstatesman.com/economy/2011/01/europe-world-growth-values  
+Devries, Pete, Guajardo, Jaime, Daniel Leigh, and Andrea Pescatori, 2011, “An Action-based 
+Analysis of Fiscal Consolidation in OECD Countries,” IMF Working Paper No. 11/128 
+(Washington: International Monetary Fund). 
+Dao, C. Mai, and Prakash Loungani, 2010, “The Tragedy of Unemployment,” Finance and 
+Development, Vol. 47, No. 4 (December), pp. 22–25. 
+
+=== page 14 ===
+13 
+ 
+ 
+Furceri, Davide and Aleksandra Zdzienicka, 2013, “The Consequences of Banking Crises for 
+Public Debt,” International Finance, Vol. 15, No. 3 (February), pp. 289–307. 
+Giavazzi, Francesco, and Marco Pagano, 1990, “Can Severe Fiscal Consolidations Be 
+Expansionary? Tales of Two Small European Countries,” NBER Macroeconomics 
+Annual, Vol. 5, pp. 75–111 (Cambridge, Massachusetts: National Bureau of 
+Economic Research). 
+Guajardo, Jaime, Daniel Leigh, and Andrea Pescatori, 2011, “Expansionary Austerity: New 
+International Evidence,” IMF Working Paper 11/158 (Washington: International 
+Monetary Fund). 
+International Monetary Fund, 2010, “Will It Hurt? The Macroeconomic Effects of Fiscal 
+Consolidation,” World Economic Outlook October. 
+———, 2011, “What Failed and What Worked in Past Attempts at Fiscal Adjustment,” 
+Appendix 4, Fiscal Monitor April. 
+———, 2012, Fiscal Monitor April. 
+Jenkins, S., A. Brandolini, J. Micklewright, and B. Nolan, 2011, in The Great Recession and the 
+Distribution of Household Income (Milan: Fondazione Rodolfo Debenedetti).  
+Jorda, Oscar, 2005, “Estimation and Inference of Impulse Responses by Local Projections,” 
+American Economic Review, Vol. 95, No. 1, pp. 161–82. 
+Lagarde, Christine, “Don’t Let Fiscal Brakes Stall Global Recovery,” Financial Times, 
+ 
+August 15. 
+Mauro, Paolo, ed., 2011, Chipping Away at the Public Debt: Sources of Failure and Keys to 
+Adjustment in Public Debt (Hoboken, New Jersey: Wiley).  
+Morsy, Anan, 2011, “Unemployed in Europe,” Financial Development, Vol. 48, No. 3,  
+ 
+pp. 24–25. 
+Mulas-Granados Carlos, 2005, “Fiscal Adjustments and the Short-term Trade-off between 
+Economic Growth and Inequality,” Revista de Economía Publica, Vol. 172, No. 1, 
+pp. 61–92.  
+Nickell, Stephen J., 1981, “Biases in Dynamic Models with Fixed Effects,” Econometrica, 
+Vol. 49, pp. 1417–26. 
+Reinhart, Carmen M., Kenneth Rogoff, 2009, “The Aftermath of Financial Crises,” American 
+Economic Review, Vol. 99, No. 2 (May), pp. 466–72. 
+
+=== page 15 ===
+14 
+ 
+ 
+Smeeding , Timothy, 2000, “Changing Income Inequality in OECD Countries: updated results 
+from the Luxembourg Income Study (LIS),” Working Paper 252, Luxembourg Income 
+Study.  
+Teulings, Coen, and Nick Zubanov, 2010, “Economic Recovery a Myth? Robust Estimation of 
+Impulse Responses,” CEPR Discussion Paper 7300 (London: Centre for Economic 
+Policy Research). 
+ 
+
+=== page 16 ===
+15 
+ 
+ 
+Figure 1. Cumulative Change in the Gini Coefficient before and after Consolidation 
+Measures 
+ 
+ 
+ 
+Figure 2. Cumulative Change in the Share of Wage Income in GDP before and after 
+Consolidation Measures (% of GDP) 
+ 
+0
+0.5
+1
+1.5
+2
+8 years 
+before
+5 years 
+before
+2 years 
+before
+2 years after 5 years after 8 years after
+-1.4
+-1.2
+-1
+-0.8
+-0.6
+-0.4
+-0.2
+0
+8 years 
+before
+5 years 
+before
+2 years 
+before
+2 years after 5 years after 8 years after
+
+=== page 17 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 16  
+ 
+Figure 3. The Effects of Fiscal Consolidation on Inequality 
+ 
+ 
+       Note: dotted lines equal one standard error bands. 
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+
+=== page 18 ===
+ 
+ 
+ 
+ 17  
+ 
+Figure 4. The effects of Fiscal Consolidation on Inequality - Robustness Check for Different Set of Controls 
+ 
+Panel A. Baseline 
+ 
+ 
+ 
+ 
+ 
+ 
+ Panel B. Time FE 
+ 
+ 
+                               Panel C. No country FE 
+ 
+ 
+ 
+ 
+ 
+ 
+ Panel D. Additional controls 
+Note: dotted lines equal one standard error bands. 
+ 
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+-0.5
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+
+=== page 19 ===
+ 
+ 
+ 
+ 18  
+ 
+Figure 5. The Effects of Fiscal Consolidation on Inequality - Robustness Check for Different Lags 
+ 
+    Panel A. Baseline (lags=2)  
+ 
+ 
+  Panel B. lag=0 
+  
+ 
+ 
+    Panel C. lag=1 
+ 
+ 
+ 
+        Panel D. lags=3  
+ 
+ 
+             Panel E. lags=4 
+  
+ 
+ 
+    Panel F. lag=5 
+ 
+Note: dotted lines equal one standard error bands. 
+ 
+ 
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+
+=== page 20 ===
+ 
+ 
+ 
+ 19  
+ 
+Figure 6. The Effects of Fiscal Consolidation on Inequality- Spending vs. Taxes-based Measures 
+ 
+Panel A. Spending 
+ 
+ 
+ 
+ 
+ 
+ 
+ Panel B. Tax 
+ 
+ 
+ 
+Note: dotted lines equal one standard error bands. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+0
+0.5
+1
+1.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+estimate
+lower limit
+upper limit
+
+=== page 21 ===
+ 
+ 
+ 
+ 20  
+ 
+Figure 7. The Effects of Fiscal Consolidation on Wage Income (% of GDP) 
+   
+ 
+ 
+ 
+         
+ 
+ 
+              
+Note: dotted lines one standard error bands. 
+ 
+ 
+Figure 8. The Effects of Fiscal Consolidation on Wage vs. Profit and Rent Income (percent change) 
+ 
+Panel A. Wage income  
+ 
+ 
+Panel B. Profit and rent income  
+ 
+Note: dotted lines equal one standard error bands. 
+-1.5
+-1
+-0.5
+0
+0
+1
+2
+3
+4
+estimate
+lower limit
+upper limit
+-3
+-2
+-1
+0
+1
+0
+1
+2
+3
+4
+estimate
+lower limit
+upper limit
+-3
+-2
+-1
+0
+1
+0
+1
+2
+3
+4
+estimate
+lower limit
+upper limit
+
+=== page 22 ===
+ 
+ 
+ 
+ 21  
+ 
+Figure 9. The Effects of Fiscal Consolidation on Wage Income-spending vs. Taxes Based Measures (percent change) 
+ 
+ 
+       Panel A. All episodes 
+ 
+            Panel B. Spending-based episodes  
+ 
+   Panel C. Taxes-based episodes 
+                  
+ 
+Note: Note: dotted lines equal one standard error bands. 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-4
+-3
+-2
+-1
+0
+1
+0
+1
+2
+3
+4
+5
+estimate
+lower limit
+upper limit
+-4
+-3
+-2
+-1
+0
+1
+0
+1
+2
+3
+4
+5
+estimate
+lower limit
+upper limit
+-4
+-3
+-2
+-1
+0
+1
+0
+1
+2
+3
+4
+5
+estimate
+lower limit
+upper limit
+
+=== page 23 ===
+ 
+ 
+ 
+ 22  
+ 
+Figure 10. The Effects of Fiscal Consolidation on Short and Long-term Unemployment 
+ 
+                                Panel A. Long-term unemployment 
+ 
+ 
+ 
+  Panel B. Short-term unemployment 
+ 
+Note: dotted lines equal one standard error bands. 
+ 
+ 
+ 
+ 
+ 
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+0
+1
+2
+3
+4
+estimate
+lower limit
+upper limit
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+0
+1
+2
+3
+4
+estimate
+lower limit
+upper limit
+
+=== page 24 ===
+ 
+23 
+ 
+ 
+Appendix 
+ 
+Table A1. Descriptive Statistics and Sources 
+  N
+Average
+SD
+Min 
+Max 
+Source
+Gini 
+563
+25.3
+9.0
+19.7 
+37.3 
+SWIID
+Wage (% of GDP) 
+680
+52.3
+4.2
+38.3 
+66.4 
+OECD
+Short-term unemployment (%) 
+453
+3.6
+1.6
+0.6
+8.4 
+OECD
+Long-term unemployment (%) 
+458
+4.0
+3.3
+0.3
+17.6 
+OECD
+ 
+ 
+ 
+ 
+ 

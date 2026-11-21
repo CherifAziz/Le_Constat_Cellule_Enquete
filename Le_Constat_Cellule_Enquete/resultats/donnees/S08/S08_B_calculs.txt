@@ -1,0 +1,48 @@
+C-S08-001 deflateur PIB moyen 2010-2019 (A16) = 0.889 % ; ONDAM 2,3 %/an en valeur => ~1.41 %/an en volume (approx. additive)
+C-S08-002 annees ou la depense primaire APU baisse en volume (A16, 1976-2025) : [2015, 2018, 2022, 2023] ; serie max 2 (2022-2023)
+   2015 : volume -0.029 % ; deflateur 1.101 %
+   2018 : volume -0.72 % ; deflateur 1.16 %
+   2022 : volume -0.095 % ; deflateur 3.035 %
+   2023 : volume -1.327 % ; deflateur 5.094 %
+C-S08-003 cumul 3 ans, 5 plus faibles : 2022-2024: +0.18 % ; 2021-2023: +1.30 % ; 2023-2025: +1.40 % ; 2014-2016: +1.60 % ; 2017-2019: +2.66 %
+   fenêtres de 3 ans à cumul <= 0 : []
+C-S08-003 cumul 5 ans, 5 plus faibles : 2015-2019: +3.39 % ; 2014-2018: +3.72 % ; 2021-2025: +4.10 % ; 2019-2023: +5.88 % ; 2012-2016: +6.33 %
+   fenêtres de 5 ans à cumul <= 0 : []
+C-S08-004 dépense primaire APU en volume, moyenne 2003-2006 (Etat zero volume BG) : +2.25 %/an
+C-S08-004 dépense primaire APU en volume, moyenne 2010-2019 (ONDAM) : +1.11 %/an
+C-S08-004 dépense primaire APU en volume, moyenne 2012-2013 (Etat zero valeur) : +2.30 %/an
+C-S08-004 dépense primaire APU en volume, moyenne 2018-2019 (Etat pilotables / Cahors) : -0.08 %/an
+SERIE CAHORS_321 | t_init | 2 | 2018-2019 | 2 | 0 | 0
+SERIE CAHORS_321 | t_rev | 0 |  | 0 | 0 | 0
+SERIE CAHORS_321 | t_cour | 0 |  | 0 | 0 | 2
+SERIE ETAT_ODETE | t_init | 2 | 2018-2019 | 2 | 0 | 0
+SERIE ETAT_ODETE | t_rev | 0 |  | 0 | 0 | 0
+SERIE ETAT_ODETE | t_cour | 1 | 2018-2018 | 1 | 0 | 1
+SERIE ETAT_PDE | t_init | 1 | 2024-2024 | 1 | 1 | 0
+SERIE ETAT_PDE | t_rev | 0 |  | 0 | 0 | 0
+SERIE ETAT_PDE | t_cour | 0 |  | 0 | 0 | 2
+SERIE ETAT_pilotables | t_init | 2 | 2018-2019 | 2 | 0 | 0
+SERIE ETAT_pilotables | t_rev | 0 |  | 0 | 1 | 0
+SERIE ETAT_pilotables | t_cour | 1 | 2018-2018 | 1 | 0 | 1
+SERIE ETAT_zero_valeur | t_init | 2 | 2012-2013 | 2 | 1 | 0
+SERIE ETAT_zero_valeur | t_rev | 1 | 2015-2015 | 1 | 0 | 2
+SERIE ETAT_zero_valeur | t_cour | 0 |  | 0 | 1 | 2
+SERIE ETAT_zero_volume | t_init | 2 | 2012-2013 | 3 | 0 | 0
+SERIE ETAT_zero_volume | t_rev | 1 | 2015-2015 | 1 | 0 | 2
+SERIE ETAT_zero_volume | t_cour | 0 |  | 0 | 1 | 2
+SERIE ETAT_zero_volume_BG | t_init | 4 | 2003-2006 | 4 | 0 | 2
+SERIE ETAT_zero_volume_BG | t_rev | 0 |  | 0 | 0 | 6
+SERIE ETAT_zero_volume_BG | t_cour | 0 |  | 0 | 0 | 6
+SERIE LPFP23_APUL | t_init | 1 | 2025-2025 | 1 | 2 | 0
+SERIE LPFP23_APUL | t_rev | 0 |  | 0 | 0 | 0
+SERIE LPFP23_APUL | t_cour | 0 |  | 0 | 0 | 3
+SERIE LPFP23_depense_volume | t_init | 0 |  | 0 | 2 | 0
+SERIE LPFP23_depense_volume | t_rev | 0 |  | 0 | 0 | 0
+SERIE LPFP23_depense_volume | t_cour | 0 |  | 0 | 0 | 0
+SERIE ONDAM | t_init | 10 | 2010-2019 | 11 | 7 | 1
+SERIE ONDAM | t_rev | 1 | 2025-2025 | 1 | 0 | 18
+SERIE ONDAM | t_cour | 0 |  | 0 | 0 | 19
+SERIE UE_DPN | t_init | 1 | 2025-2025 | 1 | 0 | 0
+SERIE UE_DPN | t_rev | 0 |  | 0 | 0 | 0
+SERIE UE_DPN | t_cour | 0 |  | 0 | 0 | 0
+SERIE A16_dep_prim_vol_le0 (1976-2025) | t_init | 2 | 2022-2023 | 4 | 46 | 0

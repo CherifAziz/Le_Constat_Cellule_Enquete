@@ -1,0 +1,2622 @@
+
+==== page 1 ====
+WP/19/49 
+Do Fiscal Rules Cause Better Fiscal Balances? 
+A New Instrumental Variable Strategy 
+by Francesca Caselli and Julien Reynaud 
+IMF Working Papers describe research in progress by the author(s) and are published 
+to elicit comments and to encourage debate. The views expressed in IMF Working Papers 
+are those of the author(s) and do not necessarily represent the views of the IMF, its 
+Executive Board, or IMF management.   
+
+==== page 2 ====
+2 
+IMF Working Paper 
+Fiscal Affairs and Research Departments 
+Do Fiscal Rules Cause Better Fiscal Balances? A New Instrumental Variable Strategy 
+Prepared by Francesca Caselli and Julien Reynaud1 
+Authorized for distribution by Catherine Pattillo 
+March 2019
+Abstract 
+This paper estimates the causal effect of fiscal rules on fiscal balances in a panel of 142 
+countries over the period 1985-2015. Our instrumental variable strategy exploits the 
+geographical diffusion of fiscal rules across countries. The intuition is that reforms in 
+neighboring countries may affect the adoption of domestic reforms through peer pressure and 
+imitational effects. We find that fiscal rules correlate with lower deficits, but the positive link 
+disappears when endogeneity is correctly addressed. However, when considering an index of 
+fiscal rules’ design, we show that well-designed rules have a statistically significant impact on 
+fiscal balances. We conduct several robustness tests and show that our results are not affected 
+by weak instrument problems. 
+JEL Classification Numbers: C26; E62; H30; H60. 
+Keywords: Instrument variable (IV) estimation, Fiscal rules; Fiscal balances. 
+Author’s E-Mail Address: fcaselli@imf.org, jreynaud@imf.org. 
+1 We thank Xavier Debrun, Luc Eyraud, Marialuz Moreno Badia, Catherine Pattillo, and Philippe Wingender, 
+as well as participants at the IMF FAD seminar, the OECD ECO seminar, the ECFIN seminar, and the ECB FIP 
+seminar for insightful comments. We also thank Federico Ganz and Valentina Antonaccio for help with the 
+anecdotal evidence on the Uruguayan fiscal rules. This paper was featured as a Background Paper to the IMF 
+Staff Discussion Note No.18/04 on “Second-Generation Fiscal Rules: Balancing Simplicity, Flexibility, and 
+Enforceability”. 
+IMF Working Papers describe research in progress by the author(s) and are published to 
+elicit comments and to encourage debate. The views expressed in IMF Working Papers are 
+those of the author(s) and do not necessarily represent the views of the IMF, its Executive Board, 
+or IMF management.   
+© 2019 International Monetary Fund 
+WP/19/49
+
+==== page 3 ====
+ 
+3 
+I.   INTRODUCTION 
+It is well documented that the introduction of fiscal rules is correlated with better fiscal 
+performance (IMF, 2009). Several empirical studies have shown that countries with fiscal 
+rules tend to have better fiscal outcomes, including by running smaller fiscal deficits (Debrun 
+and others 2008; Tapsoba 2012; Bergman and others 2017). However, it is harder to establish 
+causality between institutional variables and fiscal outcomes, as both could be shaped by 
+similar factors: countries with fiscal rules may have certain observed or unobserved 
+characteristics that foster good fiscal policy, such as a preference for fiscal prudence, whether 
+or not a rule is in place (Poterba, 1996). In other words, countries self-select into rule’s 
+adoption. Moreover, countries might adopt fiscal rules in periods of economic stress or crisis, 
+or after consolidation episodes to lock-in the gains, generating reverse causality. As pointed 
+out in a recent meta-regression analysis by Heinemann and others (2018), the positive 
+correlation between rule’s adoption and fiscal outcomes tends to disappear once the analysis 
+correctly address the issue of endogeneity.2 
+ 
+Most of the studies on fiscal rules addresses endogeneity by using generalized methods of 
+moments (GMM) estimators or instrumental techniques involving political economy 
+variables. Debrun and Kumar (2008), for instance, use lagged fiscal rules and an indicator for 
+countries with commitment to centralize budget process as instruments to study the impact of 
+several types of fiscal rules in 25 European countries. Badinger and Reuter (2017) find a 
+significant impact of fiscal rules that reduce deficits using checks and balance, government 
+fragmentation, and inflation targeting as instruments in a sample of 74 countries over 1985-
+2012. Some recent studies adopt treatment effect techniques to address the endogeneity 
+issues. Caselli and Wingender (2018), for example, use inverse probability weighting to 
+study the impact of the 3 percent deficit ceiling on the entire distribution of fiscal balances in 
+European countries. Guerguil and others (2017) use propensity score matching to mitigate 
+the traditional self-selection problem. Grembi and others (2016) exploit a quasi-experimental 
+design in Italy and study the effect central fiscal rules on municipal governments.3  
+ 
+This paper contributes to the empirical literature on the effectiveness of fiscal rules by 
+developing a new instrumental variables strategy.4 We argue that the introduction of a fiscal 
+rule in neighboring countries can trigger domestic reforms and in turn the adoption of a 
+domestic fiscal rule. Building on this idea developed in the political science literature, our 
+instrument is therefore constructed as a dummy variable accounting for the number of 
+neighboring countries that adopted a fiscal rule in previous years.5 Different channels 
+discussed in the political science literature can be at play: economic competition, learning, 
+                                                 
+2 In a meta-analysis covering 30 recent empirical studies, Heinemann and others (2018) conclude that even 
+though rules have a positive average effect on the fiscal balance, estimations exploiting instrumental variables 
+or quasi-experimental designs often fail to identify systematic differences in the fiscal behavior of countries 
+with and without fiscal rules. 
+3 While a fiscal rule might reduce the deficit bias, it might also sacrifice the benefits of fiscal policy 
+stabilization. We deliberately focus on the disciplining effect of fiscal policy, and we do not attempt to 
+quantifying the effect of rule on the level of procyclicality of fiscal policies. 
+4 For a comprehensive review of fiscal rules and their design please see Eyraud and others 2018. 
+5 By neighboring country, we mean countries with a common border. 
+
+==== page 4 ====
+ 
+4 
+socialization, mimicking, and coercion (Dobbin, Simmons, and Garrett, 2007; and Shipan 
+and Volden, 2008; Markoff, 1996; Weyland, 2008; Buera and others, 2011; and Giuliano and 
+others, 2013). From an econometric point of view, the presence of rules in neighboring 
+countries captures an exogenous source of variation in domestic rules that does not directly 
+impact the fiscal balance. A set of weak instrument tests is performed and confirm that our 
+instrumentation strategy is relevant. While we cannot test per se for the exogeneity of our 
+instrument, we discuss the channels that can invalidate our exclusion restrictions and we 
+address potential caveats. 
+ 
+Our analysis yields two main results. First the effect of (any) rule on the fiscal deficit cannot 
+be precisely estimated (that is, it is statistically insignificant) once the potential endogeneity 
+is adequately controlled for. We address the endogeneity problem arguing that the adoption 
+of fiscal rules in nearby countries can influence the home country’s adoption, and that 
+changes in existing fiscal rules, i.e. in the quality of the rules, can also influence changes in 
+the home country. Considering an index that captures a continuous measure of fiscal rule 
+strength (Schaechter and others 2012), our second main result is that well-designed fiscal 
+rules do have a significant impact on the fiscal balance. Moving from a relatively weakly 
+designed fiscal rule to a better designed fiscal rule can increase the fiscal balance by some 
+0.6 percent of GDP.  
+ 
+The paper is organized as follows: Section II discusses related literature and present our 
+instrumental variables strategy. Section III presents the empirical set and the data used in the 
+estimation. In Section IV we discuss the results with the new instrumental variable and 
+possible weaknesses of our empirical strategy and address those with a set of robustness 
+exercises in Section V. Section VI extends the analysis to the design of fiscal rules. Finally, 
+we conclude in Section VII.  
+ 
+ 
+II.   A NEW INSTRUMENTAL VARIABLES STRATEGY 
+Our instrumental strategy relies on the assumption that fiscal rules’ adoption in neighboring 
+countries may induce the domestic country to introduce a rule as well. The intuition is that 
+reforms in neighboring countries may affect the adoption of domestic reforms through peer 
+pressure and imitational effects (Buera and others, 2011; Giuliano and others, 2013). Persson 
+and Tabellini (2009) use democracy in neighboring countries as a proxy for the democratic 
+capital of domestic countries. Acemoglu and others (2016) argue that transitions to 
+democracy often take place in regional waves. To study the effect of democratization on 
+growth, they instrument democracy with waves of democratization in the region (see also 
+Huntington 1991, Markoff 1996). Similarly, Giuliano and others (2013) argue that the 
+implementation of structural reforms in neighboring countries might trigger domestic reform 
+and, following this argument, they use democracy in neighboring countries as an instrument 
+for domestic reforms. Cherif and others (2018) use a similar approach in standard growth 
+models. Weyland (2008) reports examples of high government officials in Latin America, 
+stressing the importance of a leading pension reformer that triggered a diffusion of similar 
+institutional changes in the region. For instance, the Chilean model of market reforms found 
+imitators throughout South America. In the context of fiscal rules, Altunbas and Thornton 
+
+==== page 5 ====
+ 
+5 
+(2017) argue that the increase in the overall number of debt rules in place across countries 
+(called fiscal rules “popularity”) is a good predictor of adoption. 
+ 
+These channels of policy diffusion across countries have also been extensively investigated 
+in the political science literature. For instance, Dobbin, Simmons, and Garrett (2007) and 
+Shipan and Volden (2008) have identified five channels of diffusion of public policies: 
+coercion, competition, imitation, learning, and socialization.6 All types of channels could be 
+at play when one think about the diffusion of fiscal rules. For example, policy makers willing 
+to minimize the cost of borrowing can decide to adopt fiscal rules since those have been 
+linked to lower sovereign spreads (Poterba and Rueben 1999, Iara and Wolff 2014, Johnson 
+and Kriz, 2005). Consequently, if fiscal rules are seen as policies achieving their objectives, 
+e.g. containing fiscal deficits and therefore sovereign debt, then policymakers will be more 
+incline to imitate and learn from rules adopters. In some instances, countries without fiscal 
+rules could be pressured, coerced by peers, close economic allies, and possibly international 
+organizations via socialization, to adopt fiscal rules if they are proven to help ensuring fiscal 
+sustainability.  
+ 
+In the context of fiscal rules, there are several anecdotal examples that support our 
+presumption that countries look at neighbors’ experience when introducing fiscal rules. For 
+instance, in Latin America, the fiscal rule à la Chile has been regarded as the leading 
+example.7 In the public debate in Uruguay, for instance, Chile and Brazil have often been 
+mentioned as models to be followed.8 A bill presented by one of the opposition parties 
+proposing a fiscal rule in 2015 explicitly mentioned the examples of Chile and Brazil: “The 
+legislative experience in Brazil and Chile, that have laws of this type, illustrate the effects of 
+this instrument over public finance.”9 In Colombia, the Minister of Finance declared that “In 
+Latin America, the reference in fiscal rule is the one adopted by Chile at the beginning of this 
+                                                 
+6 The coercion hypothesis rests on power-asymmetry through which stronger actors can impose their policy on 
+weaker ones. In the competition channel, the likelihood of policy change is triggered by spillovers, from trading 
+partners for example. The imitation hypothesis posits that policy makers can be influenced by large neighbors 
+or large political allies. This channel is consistent with the theory of “leaders” and “laggards”, where 
+policymakers in small or “laggard” countries, for example, aspire to be like the “leaders”. In the learning 
+channel, policymakers are searching for policies that have been successful, that have brought benefits to other 
+policy makers. Finally, the socialization hypothesis relies on shared beliefs among policymakers, as a result of a 
+global political culture for example. Fiscal rules could be adopted because countries are part of an economic 
+union or because they are part of international organizations that support such policies. This diffusion channels 
+can be the result of peer pressures or legal constraints. In principle, all the above-mentioned channels could be 
+at play when studying the diffusion of adoption of fiscal rules. We do not intend to disentangle which channels 
+are particularly at play for each adoption case. Independently of each specific case of fiscal rule adoption, some 
+channels may be stronger and faster, in theory, than others. 
+7 Refer to Lledó and others (2017) for a description of countries’ fiscal rules. 
+8 Parliamentary discussion over Budget law for the period 2010-2014; http://www.diputados.gub.uy/wp-
+content/uploads/2014/11/d3670.pdf. Uruguayan Think Tank proposing fiscal rule à la Chile: 
+https://www.elobservador.com.uy/talvi-no-estamos-crisis-estamos-dificultades-n921907 
+9 http://vamosuruguay.com.uy/proyecto-de-ley-regla-fiscal-estructural-y-creacion-de-fondo-de-reservas-para-
+politicas-contraciclicas/ “La experiencia legislativa de Brasil y de Chile, que cuentan con leyes de esta índole, 
+nos ilustra acerca de los efectos de este instrumento de gestión de las finanzas públicas”. 
+(continued…) 
+
+==== page 6 ====
+ 
+6 
+decade, that has allowed the country to manage well its mineral resources”.10 Similarly, the 
+US and Mexico adopted spending caps in 2011 and 2013, respectively. Given the economic, 
+geographical, and cultural proximity between the two countries, the adoption of similar types 
+of fiscal rules, two years apart, presents further suggestive evidence of the diffusion 
+argument. In the European context, it is well known that when Germany decided to introduce 
+a debt break, the role model was the debt brake of the Swiss Confederation introduced in 
+2001, and effective since 2007 (Kirchgassner 2017). In Eastern European countries, the 
+introduction of debt brake limits in Poland and Slovakia triggered reforms in Czech 
+Republic, where the Czech house approved debt brakes in 2016, but rejected putting them in 
+the constitution.11 Figure 1 gives a graphical representation of the adoption of fiscal rules 
+across time and countries, showing a gradual spread of rules’ adoption throughout the early 
+1990s in Europe, followed by South America and Africa in the last 1990s, and in Eastern 
+Europe and Central Asia in the 2000s. 
+ 
+While an ideal source of exogenous variation of fiscal rule’s adoption is difficult to find, we 
+believe that this anecdotal evidence supports the argument in favor of using rules in 
+neighboring countries as an instrument.  
+ 
+Construction of the instrumental variable: the diffusion of the adoption of fiscal rules 
+ 
+Our instrumental strategy relies on the idea that the adoption of fiscal rules by neighboring 
+countries influences the home country’s decision to adopt a rule. To capture the process of 
+geographical diffusion, we define the instrument in the following way:12 
+ 
+                                                  𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐_𝐼𝐼𝐼𝐼𝑖𝑖,𝑡𝑡= ෍𝐹𝐹𝑅𝑅𝑗𝑗,𝑡𝑡 ∗𝑋𝑋𝑗𝑗,𝑖𝑖,𝑡𝑡
+𝑛𝑛−𝑖𝑖
+𝑗𝑗≠𝑖𝑖
+                                                           (1) 
+ 
+Where j is the neighboring country of domestic country i. 𝐹𝐹𝐹𝐹𝑗𝑗,𝑡𝑡 is a dummy variable taking a 
+value 1 when country j has a fiscal rule at time t, and 0 if country j does not have a fiscal rule. 
+𝑋𝑋𝑗𝑗,𝑖𝑖,𝑡𝑡 takes the value 0 when countries have no common borders and sum the number of 
+countries with common borders.13 Therefore, the variable 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐_𝐼𝐼𝐼𝐼𝑖𝑖,𝑡𝑡 captures the 
+number of fiscal rules in place in countries with common borders with respect to the 
+domestic economy.  
+                                                 
+10 See Echeverry and others (2011). In Spanish: “En América Latina, el referente más conocido de regla fiscal 
+es Chile, en donde se adoptó una regla desde comienzos de esta década, lo que le ha permitido beneficiarse 
+significativamente de su riqueza minera”. 
+11 http://visegradrevue.eu/lessons-from-the-first-year-of-the-slovak-fiscal-council/ 
+12 Economic proximity can be proxied by other indicators. For example, physical distance (e.g. distance 
+between capitals) and bilateral trade flows are often used to account for interconnectedness between countries. 
+Moreover, several studies found bilateral trade flows to be explained by cultural, social and historical links 
+between countries, beyond the simple cost of transportation proxied by distance (see for example Reynaud and 
+Vauday, 2009, for an application to geopolitical linkages between countries, and Poulain and Reynaud, 2017, 
+for an application to IMF lending and economic spillovers).  
+13 Data are obtained from Frankel and Rose, 2002 and Rose, 2007 (http://faculty.haas.berkeley.edu/arose). 
+
+==== page 7 ====
+ 
+7 
+III.   EMPIRICAL SETUP AND DATA 
+To estimate the effect of fiscal rules on the fiscal balance, we rely on a standard augmented 
+fiscal reaction function, following Debrun and others (2008) and Baum and others (2017): 
+ 
+                                      𝑏𝑏𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑒𝑒𝑖𝑖,𝑡𝑡= 𝛽𝛽1𝑟𝑟𝑟𝑟𝑟𝑟𝑒𝑒𝑖𝑖,𝑡𝑡+ 𝛽𝛽2𝑋𝑋𝑖𝑖,𝑡𝑡+ 𝛼𝛼𝑖𝑖+ 𝜆𝜆𝑡𝑡+ 𝜀𝜀𝑖𝑖𝑖𝑖                                 (2) 
+ 
+where the nominal budget balance (balance) for country i at time t, is a function of the 
+national fiscal rule (rule) of country i at time t, a dummy equal to 1 if the country has a fiscal 
+rule, and 0 otherwise, covariates (𝑋𝑋𝑖𝑖,𝑡𝑡), and country (𝛼𝛼𝑖𝑖) and year (𝜆𝜆𝑡𝑡) fixed effects. 
+ 
+The vector of covariates 𝑋𝑋𝑖𝑖,𝑡𝑡 includes standard determinants of the fiscal balance: lags of the 
+budget balance itself, lagged debt, GDP per capita, GDP growth, and the output gap (Debrun 
+and others, 2008). To make sure that our results are not driven by an omitted variable bias 
+and as we rely on a global sample, we also include a variable that captures terms of trade 
+movements. Indeed, fiscal balances in low-income countries’ (LICs) are particularly affected 
+by the evolution of commodity prices (Baum and others 2017). Since IMF programs often 
+coincide with episodes of fiscal consolidation and might therefore be correlated with the 
+introduction of fiscal rules, a dummy for periods when the countries are under Fund 
+programs is included as well. Finally, we also control for whether the countries are in a 
+currency union, as supra-national fiscal rules could be in place and therefore influence the 
+adoption of national fiscal rules. A good example is the European Union and the Euro area 
+for which the transposition of the supra-national rules to national legislation is in place. 
+ 
+We start the analysis estimating equation (1) using a standard Ordinary Least Square (OLS) 
+estimator. In a second step, we introduce our new instrumental variable, i.e. the diffusion of 
+fiscal rule adoption, and perform several robustness checks. To confirm the contribution of 
+our instrumental variable approach we also test instrumental variables typically used in the 
+related literature, i.e. checks and balance, government fragmentation, and inflation targeting, 
+and perform robustness tests on these instruments’ validity. We conclude that in our sample 
+the contiguity instrument performs better both in terms of validity and relevance. In the last 
+step, we go deeper in the definition of our right-hand-side variable, the fiscal rule dummy, by 
+using an index of rule design. Indeed, not all rules are designed in the same way, so their 
+impact on fiscal balance must be differentiated. 
+ 
+The empirical analysis is performed on a global sample of countries over the last three 
+decades. The IMF fiscal rules dataset (IMF, 2017) provides country-specific information on 
+fiscal rules, and their strength, for 96 countries from 1985 to 2015. There are 96 countries 
+with fiscal rules in place in the dataset. Our panel is increased to 142 countries by adding 
+countries without fiscal rules in place. Table A1 and A2 reports the summary statistics and 
+the sources of the variables, respectively. 
+ 
+ 
+ 
+ 
+
+==== page 8 ====
+ 
+8 
+IV.   RESULTS 
+OLS results 
+ 
+We start the analysis with simple conditional correlates of fiscal rules and fiscal balance. 
+Table 1 shows the OLS point estimates that suggest a positive correlation between fiscal 
+rules and the budget balance. Column 1 includes country fixed effects only. The coefficient is 
+positive, large and significant, suggesting an improvement in the balance equal to 1.3 percent 
+of GDP when countries have fiscal rules in place. Column 2 presents the results adding year 
+fixed effects and shows the importance of controlling for global shocks, since the coefficient 
+is now reduced by 30 percent. This might be explained by the fact that countries tend to 
+adopt rules in time of global turbulence when episodes of fiscal distress are more likely to 
+happen. When we also control for lags of the balance, the coefficient is further decreased to 
+0.8 (Column 3 and 4). This means that countries with fiscal rules have fiscal balance on 
+average 0.8 percent higher than countries without fiscal rules. These results are in line with 
+the literature, see for instance Heinemann and others (2018).  
+ 
+Instrumental variable estimation using the contiguity instrument  
+ 
+Table 2 reports the baseline results instrumenting the rule dummy with the contiguity 
+instrument. In the first column, we use the contemporaneous instrument, whereas Column (2) 
+and Column (3) reports results with the instrument lagged by one year and with a 3-year 
+moving average, respectively. The coefficient on the fiscal rule dummy loses significance, 
+yet its magnitude is comparable, although slightly larger, to the coefficient estimated with 
+OLS. Importantly, the result is not driven by lack of relevance of the instrument. In fact, an 
+instrument that weekly correlates with the endogenous variable will amplify a very small 
+(and unknown) violation of the exclusion restriction (Jiang 2017, Bound and others 1995). 
+This lack of statistical significance does not appear to be due to a weak instrument, since the 
+F-tests yields values above the Staiger and Stock (1997) rule of thumb value of 10 in all three 
+cases. While we do not obtain extremely large F-stats, we are reassured by the fact that, in 
+exactly identified models, the weak instrument bias tends to be small (Angrist and Pischke, 
+2009). Another crucial element to check the relevance of the first stage estimation is the 
+correlation between the instrument and the dependent variable. Table 3 shows a strong 
+correlation between the three variations of the instruments, which suggests that the 
+instrumental variable strategy is relevant. Across the three specifications, the fact that 
+neighboring countries adopt a rule increase the probability of adoption in the domestic 
+economy by around 10 percent. These point estimates are all significant at the 99 percent 
+level. In a recent paper Andrews and others (2018) suggest relying on the identification-
+robust Anderson-Rubin (AR) statistic in the case of a single instrument. Anderson and Rubin 
+(1949) propose a test of structural parameters that is robust to weak instruments, in the sense 
+that identification of the coefficients is not assumed. Figure 3 reports the confidence interval 
+obtained with the AR test and with the standard Wald test (not robust to weak instrument). 
+We notice that both tests give very similar confidence intervals, supporting that the non-
+statistically significant results are not driven by a weak instrument. 
+ 
+
+==== page 9 ====
+ 
+9 
+V.   ROBUSTNESS CHECKS FOR THE CONTIGUITY INSTRUMENT 
+In this section we test the robustness of our main result along several dimensions. We start 
+discussing and addressing potential violations of our exclusion restrictions, including other 
+covariates that should capture possible spillovers across countries. We also discuss issues 
+related to bad controls. 
+ 
+In out setting, the identification strategy relies on the assumption that the fiscal rule’s 
+adoption in neighboring countries impacts the domestic fiscal balance only through the 
+adoption of a domestic fiscal rule. As it is well known, we cannot test for the validity of the 
+exclusion restriction, but we can discuss potential violation of our identification assumptions. 
+A violation of the exclusion restrictions could occur if the neighbors’ fiscal rule impacts the 
+domestic fiscal balance directly, for instance, because the adoption of the rule generates 
+fiscal spillovers through trade linkages. We therefore augment the baseline model with a 
+measure of trade openness, that captures the extent to which a country is exposed to external 
+shocks through trade linkages. Another way of capturing spillovers among countries is to 
+include the average growth in the region where the country adopting the fiscal rule belongs.  
+In Table 4 (Column 1 and 2) we present the results including these two additional controls 
+and we find comparable results to the baseline. The coefficient on the rule is not significant 
+and similar in magnitude to the previous estimation. The average growth in the region shows 
+up as a significant explanatory variable for the fiscal balance.14 Finally, we also test whether 
+our instrument is still valid when controlling for the land size of countries, as one could argue 
+that large countries are less influenced by other countries. We therefore divide our measure 
+of contiguity by the length of borders (in kilometers). Results, not reported here, are 
+unchanged. 
+ 
+A significant part of our sample is constituted by European and Euro Area countries. As it is 
+well known, these countries are subject to supranational fiscal rules, as they adopted a deficit 
+and debt rule as part of the European Union Treaties. This means, for instance, that the core 
+European Union countries, that signed the Maastricht Treaty in 1992, are recorded in the 
+database as having a rule since that year (unless they had a rule in place before). Similarly, 
+all the countries that entered with the 2004 European Union enlargement are recorded as 
+having a rule starting in that year.15 Considering the different supra-national dynamics that 
+occur for the European Union, we implement a robustness eliminating the European Union 
+countries from the sample, as well as all the European countries. The results are presented in 
+Table 4 (Column 4 and 3, respectively).16 The coefficients on the rule remain insignificant. 
+Column (5) and (6) present some additional robustness exercises, excluding the global 
+financial crisis, that might have triggered adoption of rules around the world, and removing 
+year fixed effects. The non-significant effect of the rule is confirmed.17    
+ 
+                                                 
+14 We obtain similar results when excluding the growth rate of the country itself from the average regional 
+growth calculation. 
+15 This is the case if they did not introduce national rules before joining the EU.  
+16 We keep controlling for other currency unions that might be subject to similar supranational fiscal criteria.  
+17 The first stage results of these robustness exercises (not reported) also show a strong correlation between the 
+instrument and the endogenous variable.  
+
+==== page 10 ====
+ 
+10 
+Our identification strategy relies on a conditional independence assumption: conditional on a 
+set of covariates, fiscal rules’ adoption in neighboring countries predicts domestic fiscal 
+rule’s adoption but has no direct impact on the fiscal balance. An important aspect of this 
+assumption, particularly discussed in the treatment effect literature, is the fact that controls 
+should not be affected by the treatment, because this would likely introduce some bias in the 
+estimation. These variables, that are themselves outcome variables are the so-called bad 
+controls (see Angrist and Pischke 2009). While introducing more controls increases the 
+efficiency of the estimation and reduces concerns of omitted variables bias, we cannot rule 
+out that these are bad controls. As a robustness, we therefore implement the IV estimation 
+removing all control variables. The magnitude of the coefficients and their statistical 
+significance are not affected by this change, as shown by Column 7 in Table 4. The first 
+stage regression of all the implemented robustness exercises is reported in Table A4.  
+ 
+Finally, we test common instrumental variables used in the literature. These include 
+indicators of political stability and monetary policy variables. For instance, a recent paper by 
+Badinger and Reuter (2017) argues that government fragmentation, checks and balance and 
+the adoption of inflation targeting are good instruments to fiscal rules. Debrun and others 
+(2008) use the lag of the fiscal rule and a variable identifying countries having adopted the 
+commitment approach to centralize the budget process, and do not find any difference 
+between OLS and instrumental variables estimations focusing on a European sample. We test 
+these instruments and find that they perform poorly in our sample and following our 
+specification. We use two criteria to assess the quality of instruments: they have to be 
+relevant (i.e. correlated with the fiscal rules) and exogenous (i.e. excluded from the fiscal 
+balance equation). In our global sample, government fragmentation, checks and balance and 
+inflation targeting are found to be weak, relying on the first stage Kleinbergen-Paap F-stat. 
+For all the four specifications testing the instruments, the F-stat is well below the Staiger and 
+Stock (1997) rule of thumb value of 10 (Table 5 Columns 1 to 4). Finally, while exogeneity 
+cannot be tested empirically, several arguments might suggest that government 
+fragmentation, checks and balance and inflation targeting directly affect the fiscal balance: (i) 
+Kontopoulos and Perotti (2002) show that government fragmentation can affects fiscal 
+outcomes directly through coordination problems; (ii) Alesina and Perotti (1996) argue that 
+checks and balance can impede fiscal discipline because they guarantee the rights of the 
+minority, emphasize moderation and compromise, and may therefore delay the 
+implementation of "tough" fiscal adjustments when needed; finally (iii) Combes and others 
+(2017) show that inflation targeting has a direct effect on fiscal balances by mitigating fiscal 
+dominance. 
+ 
+ 
+VI.   EXTENSIONS TO FISCAL RULE STRENGTH  
+So far, we have been looking at the effects of introducing an average rule on the fiscal 
+balance. However, there is evidence that improving the rule design can have a significant 
+effect on fiscal performance (Eyraud and others 2018, Caselli and others 2018). While 
+introducing any type of rule might not have a significant impact on the fiscal balance, one 
+might argue that introducing a well-designed rule can instead make a difference. To test this 
+
+==== page 11 ====
+ 
+11 
+hypothesis, we replace the fiscal rules dummy with a continuous index of fiscal rule strength 
+and we estimate the following specification.18 
+ 
+                                                      𝑏𝑏𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑒𝑒𝑖𝑖,𝑡𝑡= 𝛽𝛽1𝐹𝐹𝐹𝐹𝑆𝑆𝑖𝑖,𝑡𝑡+ 𝛽𝛽2𝑋𝑋𝑖𝑖,𝑡𝑡+ 𝛼𝛼𝑖𝑖+ 𝜆𝜆𝑡𝑡+ 𝜀𝜀𝑖𝑖,𝑡𝑡                                 (3) 
+ 
+We construct an instrument for rules’ strength in a similar spirit to the one used in the 
+previous section. In this case the dummy for fiscal rule (FR) is replaced by the IMF fiscal 
+rule strength (FRS) index and the denominator averages the indices instead of summing the 
+dummies. The strength index (Schaechter and others 2012) measures the following 
+dimensions: broad institutional coverage, independence of the monitoring and enforcement 
+bodies, legal base, flexibility to respond to shocks, existence of correction mechanisms and 
+sanctions (for a description of the IMF fiscal rule index, see IMF, 2009). One caveat of the 
+strength index is that it captures only characteristics related to rules’ design and not their 
+implementation. The index is equal to zero for countries without rules and ranks from 0.1 
+(poorly designed) to 1 (well designed) for countries with rules. Figure 2 shows significant 
+skewness of the index, with an average strength index of 0.26 (Table A3), suggesting that 
+there is still room for improvement in most countries. Formally, the instrumental variable is 
+defined as follows: 
+ 
+                                                  𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠ℎ_𝐼𝐼𝐼𝐼𝑖𝑖,𝑡𝑡=
+1
+∑𝑋𝑋𝑗𝑗,𝑖𝑖,𝑡𝑡
+෍𝐹𝐹𝑅𝑅𝑅𝑅𝑗𝑗,𝑡𝑡 ∗𝑋𝑋𝑗𝑗,𝑖𝑖,𝑡𝑡
+𝑛𝑛−𝑖𝑖
+𝑗𝑗≠𝑖𝑖
+                                 (4) 
+ 
+where 𝐹𝐹𝐹𝐹𝐹𝐹𝑗𝑗,𝑡𝑡 is the fiscal rule strength index of the country j at time t or 0 if country j does 
+not have a rule. 𝑋𝑋𝑗𝑗,𝑖𝑖,𝑡𝑡 is an indicator variable which takes value 1 when countries i and j share 
+a border and 0 otherwise. Intuitively, the fiscal rule strength in country i is instrumented 
+using the average strength of fiscal rules in place in bordering countries. The set of covariates 
+remain the same as in the baseline regression. 
+ 
+When the instrument is applied to the fiscal rule strength index, the results point to a positive 
+and significant relation (at the 95 percent level) between the index of rule strength and fiscal 
+balance (Table 6, Column 1). The first stage results (shown in Table A5) support the idea that 
+our instrument is strongly correlated with the domestic rule. To provide an interpretation of 
+the size of the coefficient, it is important to take into account the distribution of the strength 
+index (Figure 2). Moving from a badly designed rule (i.e. a fiscal rule strength index in the 
+25th percentile) to a better designed rule (i.e. a fiscal rule strength index in the 75th 
+percentile) results in an improvement of the budget balance by 0.64 percent of GDP.19 
+ 
+We then implement the same set of robustness checks that we considered for the rule dummy 
+and the results are generally robust. They lose significance when we exclude European 
+countries from the sample. This might be because European countries generally exhibit the 
+strongest rules and removing them from the sample significantly reduces the sample 
+variation. The standard deviation of the index is reduced from 1.4 to 0.65. 
+                                                 
+18 For details on the construction of the FRS Index, see Schaechter and others, 2012. 
+19 We multiply the coefficient on the strength index (3.4) by the actual change in the index from the 25th to 75th 
+percentile (0.19). 
+
+==== page 12 ====
+ 
+12 
+ 
+An important caveat of this analysis is that the index of rule strength is admittedly an 
+imperfect indicator of the “quality” of rules. It only focuses on design, rather than 
+implementation, leaving aside the key enabling factor of the public and political support to 
+the rule. In addition, it does not capture some important characteristics of the fiscal 
+framework, such as the quality of budgeting practices (which are important preconditions for 
+the rule effectiveness). 
+ 
+ 
+VII.   CONCLUSION 
+Several well-known factors can generate endogeneity concerns affecting the estimation of the 
+link between fiscal rules and fiscal outcomes. Countries may have certain observed or 
+unobserved characteristics that foster good fiscal policy, such as a preference for fiscal 
+prudence, whether or not a fiscal rule is in place (Poterba, 1996). Countries can also adopt 
+fiscal rules in periods of economic stress or crisis, or after consolidation episodes. 
+Establishing the presence of a causal link going from fiscal rules to the fiscal balance 
+requires finding an instrumental variable that has a direct effect on the rule but no effect on 
+the balance. 
+ 
+In this paper we propose a new instrumental variable that captures the diffusion of fiscal 
+rules across countries. The intuition for our new instrument is that fiscal reforms in 
+neighboring countries may affect the adoption of domestic reforms through peer pressure and 
+imitation effects (Buera and others, 2011; Giuliano and others, 2013). While capturing a 
+completely exogeneous source of variations in fiscal rules’ adoption is difficult, this 
+instrumental-variable strategy ensures that changes in a country’s institutional set-up (the 
+adoption of fiscal rules) are exogenous to the outcome (the budget balance), and therefore do 
+not bias the estimates. 
+ 
+Our results support the idea recently proposed in a meta-analysis by Hainemann and others 
+(2018) that any type of fiscal rules have no statistically significant impact on the fiscal 
+balance, once endogeneity is adequately controlled for. Eyraud and others (2018) note that 
+this result may be due to heterogeneity across types of countries and rules. While the 
+inclusion of ﬁxed eﬀects as a proxy for ﬁscal preferences does not make a systematic 
+diﬀerence, instrumental variables or quasi-experimental designs lead to significantly lower 
+levels of signiﬁcance and a less constraining impact. In our setting, the non-significant result 
+is not driven by a weak instrument problem, as our first stage results point to a strong 
+relevance of the instrument. 
+ 
+While we do not find a statistically significant result on the average rule, design features can 
+make fiscal rules effective. A more granular analysis that also considers the design of fiscal 
+rules finds that better designed rules have a positive and significant impact on the fiscal 
+balance. These results are in line with the country evidence reviewed in Eyraud and others 
+(2018). They show that successful rules generally have broad institutional coverage, are 
+tightly linked to fiscal sustainability objectives, are easy to understand and monitor, and 
+support countercyclical fiscal policy. 
+ 
+
+==== page 13 ====
+ 
+13 
+VIII.   REFERENCES 
+ 
+Acemoglu, D., S. Naidu, P. Restrepo, and J. Robinson. 2019. "Democracy Does Cause 
+Growth", Journal of Political Economy, vol. 127, no. 1. 
+ 
+Alesina, A. and P. Giuliano. 2015. "Culture and Institutions", Journal of Economic 
+Literature, Vol. 53, No. 4, pp. 898-944. 
+ 
+Alesina, A. and R. Perotti. 1996. "Fiscal Discipline and the Budget Process", The American 
+Economic Review, Vol. 86, No. 2. 
+ 
+Altunbas, Y., and J. Thornton. 2017. “Why do countries adopt fiscal rules?” The Manchester 
+School Vol. 85, No. 1, 65-87. 
+ 
+Anderson, J.; van Wincoop, E. 2003. "Gravity with Gravitas: A Solution to the Border 
+Puzzle", The American Economic Review. 93: 170–192. 
+ 
+Angrist, J. and J. S. Pischke. 2009. Mostly Harmless Econometrics: An Empiricist's 
+Companion, Princeton University Press. 
+ 
+Andrews, I., Stock, J, and L. Sun. 2018. “Weak Instruments in IV Regression: Thoery and 
+Practice”, https://scholar.harvard.edu/files/stock/files/wirev_080218-_posted.pdf. 
+ 
+Badinger, H. and W. Reuter. 2017. “The Case for Fiscal Rules”, Economic Modelling, 60, 
+pp. 334-343. 
+ 
+Baum, A., A. Hodge, A. Mineshima, M. Moreno Badia, and R. Tapsoba. 2017. "Can They 
+Do It All? Fiscal Space in Low-Income Countries", IMF Working Papers No. 17/110. 
+ 
+Buera, F., A. Monge-Naranjo, and G. Primiceri. 2011. “Learning the Wealth of Nations”, 
+Econometrica, Vol. 79. No. 1, pp.1-45. 
+ 
+Caselli, F., Eyraud, L., Hodge, A., Diaz Kalan, F., Kim, Y., Lledo, V., Mbaye, S., Popescu, 
+A., Reuter, W.H., Reynaud, J., Ture, E., and Wingender, P., 2018. “Second-Generation Fiscal 
+Rules: Balancing Simplicity, Flexibility, and Enforceability –Technical Background Papers”, 
+IMF IMF Staff Discussion Notes No. 18/04. 
+ 
+Cherif, R., Hasanov, F., and L. Wang. 2018. “Sharp Instrument: A Stab at Identifying the 
+Causes of Economic Growth”, IMF Working Papers No. 18/117. 
+ 
+Combes, J. L., X. Debrun, A. Minea, and R. Tapsoba. 2018. "Inflation Targeting, Fiscal 
+Rules and the Policy Mix: Cross-effect and Interactions", The Economic Journal, 
+Volume128, Issue 615. 
+ 
+
+==== page 14 ====
+ 
+14 
+Debrun, X., L. Moulin, A. Turrini, J. Ayuso-i-Casals, M. Kumar, A. Drazen, and C. Fuest. 
+2008. "Tied to the Mast? National Fiscal Rules in the European Union", Economic Policy, 
+Vol. 23, No. 54, pp. 297-362. 
+ 
+Dobbin, F., Simmons, B. and Garrett, G. 2007 ‘The Global Diffusion of Public Policies: 
+Social Construction, Coercion, Competition, or Learning?’, Annual Review of Sociology 
+33(1): 449–472. 
+ 
+Echeverry Garzon, J. C., Suesun Melo, R., and Alonso Masmela, G. 2011. “Regla Fiscal Para 
+Colombia”, Ministerio de Hacienda y Credito Publico, Nots Fiscales, No. 4, January. 
+ 
+Eyraud, L, Debrun, X., Hodge, A., Lledo, V., and Pattillo, C. 2018. “Second-Generation 
+Fiscal Rules: Balancing Simplicity, Flexibility, and Enforceability”, IMF Staff Discussion 
+Notes No. 18/04. 
+ 
+Frankel, J. and D. Romer. 1999. "Does Trade Cause Growth?", The American Economic 
+Review, Vol. 89, No. 3, pp. 379-399. 
+ 
+Frankel, J. and A. Rose. 2002. "An Estimate of the Effect of Common Currencies on Trade 
+and Income", The Quarterly Journal of Economics, vol. 117, issue 2, 437-466. 
+ 
+Giuliano, P., P. Mishra, and A. Spilimbergo. 2013. “Democracy and Reforms: Evidence from 
+a New Dataset,” American Economic Journal: Macroeconomics. Vol.5, No. 4.  
+ 
+Heinemann, F., M. D. Moessinger, and M. Yeter. 2018. “Do Fiscal Rules Constrain Fiscal 
+Policy? A Meta-Regression Analysis,” European Journal of Political Economy. Vol 51, pp. 
+69-92. 
+ 
+Huntington, S. 1991. "The Third Wave: Democratization in the Late Twentieth Century", 
+University of Oklahoma Press. 
+ 
+Iara, A., and Wolff, G. 2014, “Rules and risk in the Euro area”, European Journal of Political 
+Economy, vol. 34, issue C, 222-236. 
+ 
+International Monetary Fund. 2009. “Fiscal Rules – Anchoring Expectations for Sustainable 
+Public Finances,” IMF Policy Paper available at 
+www.imf.org/external/np/pp/eng/2009/121609.pdf. 
+ 
+_________. 2017. Fiscal Rules Dataset. March 2017. Available at 
+http://www.imf.org/external/datamapper/fiscalrules/map/map.htm   
+ 
+Johnson, C., and K. Kriz. 2005. “Fiscal Institutions, Credit Ratings, and Borrowing Costs”, 
+Public Budgeting and Finance, Volume 25, Issue 1, March, Pages 84–103. 
+ 
+Kirchgassner, G., 2017. "The debt brake of the German states: a faulty design?," 
+Constitutional Political Economy, Springer, vol. 28(3), pages 257-269, September. 
+
+==== page 15 ====
+ 
+15 
+ 
+Kontopoulos, Y. and R. Perotti. 2002. "Fragmented fiscal policy", Journal of Public 
+Economics, vol. 86, issue 2, 191-222. 
+ 
+Lang, V. and Marina Mendes Tavares. 2018. “The Distribution of Gains from 
+Globalization”, IMF Working Paper, No. 18/54. 
+  
+Lledó, V., S. Yoon, X. Fang, S. Mbaye, and Y. Kim. 2017. Fiscal Rules at a Glance, IMF 
+database on Fiscal Rules, available at: 
+http://www.imf.org/external/datamapper/FiscalRules/map/map.htm  
+ 
+Poulain, J-G., and J. Reynaud, J. 2017. “IMF Lending in an Interconnected World”, IMF 
+Working Paper, No. 17/155. 
+ 
+Markoff, J. 1996. Waves of Democracy: Social Movements and Political Change, Newbury 
+Park, CA: Pine Forge Press. 
+ 
+Poterba, J. M. and Rueben, K. 1999. ‘State Fiscal Institutions and the U.S. Municipal Bond 
+Market’, Fiscal Institutions and Fiscal Performance I(January): 181–208. 
+ 
+Reynaud, J. and J. Vauday 2009. “Geopolitics in International Organizations: An Empirical 
+Study on IMF Facilities”, Journal of Development Economics, Volume 89, Issue 1, 139-162. 
+ 
+Rose, A. 2007. “The Foreign Service and Foreign Trade: Embassies as Export Promotion”, 
+The World Economy, Volume 30, Issue 1, 22-38. 
+ 
+Schaechter, A., Kinda, T., Budina, N., and Weber A. 2012. ‘Fiscal Rules in Response to the 
+Crisis—Toward the “Next-Generation” Rules. A New Dataset’, IMF Working Paper, No. 
+12/187. 
+ 
+Shipan, C. R. and Volden, C. 2008. ‘The Mechanisms of Policy Diffusion’, American 
+Journal of Political Science 52(4): 840–857. 
+ 
+Simmons, B. A. and Elkins, Z. 2004. ‘The Globalization of Liberalization: Policy Diffusion 
+in the International Political Economy’, The American Political Science Review 98(1): 171–
+189. 
+ 
+Staiger, D. and J. Stock. 1997. "Instrumental Variables Regression with Weak Instruments", 
+Econometrica Vol. 65, No. 3, pp. 557-586. 
+ 
+Weyland, K. 2008. "Toward a New Theory of Institutional Change", World Politics, Vol. 60, 
+No. 2, pp. 281-314. 
+ 
+ 
+
+==== page 16 ====
+ 
+16 
+IX.   FIGURES  
+ 
+Figure 1. Diffusion of fiscal rules adoption across countries and time 
+ 
+ 
+ 
+ 
+ 
+Figure 2. Distribution of the IMF’s fiscal rules strength index for countries with a rule
+ 
+Note: The histogram reports the distribution of the strength index 
+for countries with a rule in place.  
+ 
+ 
+ 
+ 
+ 
+
+==== page 17 ====
+ 
+17 
+Figure 3. Weak instrument test 
+ 
+Note: the vertical axis is 1 – the p-value for a test of the null hypothesis 
+performed using the Wald and Anderson - Rubin respectively. The Wald 
+test assumes a strong instrument, while the Anderson-Rubin test relaxes 
+this hypothesis allowing for weak inference. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== page 18 ====
+ 
+18 
+X.   TABLES 
+Table 1. OLS results  
+  
+(1) 
+(2) 
+(3) 
+(4) 
+VARIABLES 
+Balance 
+Balance 
+Balance 
+Balance 
+Fiscal rule 
+1.36*** 
+1.03** 
+0.70*** 
+0.80*** 
+(0.43) 
+(0.46) 
+(0.23) 
+(0.22) 
+L1 Balance 
+0.50*** 
+0.45*** 
+(0.04) 
+(0.04) 
+L2 Balance 
+0.05* 
+(0.03) 
+L3 Balance 
+0.04** 
+(0.02) 
+Real GDP growth 
+0.18*** 
+0.13*** 
+0.12*** 
+0.12*** 
+(0.03) 
+(0.03) 
+(0.02) 
+(0.02) 
+Log GDP per capita 
+0.30 
+0.96 
+0.33 
+0.43 
+(0.78) 
+(1.32) 
+(0.66) 
+(0.67) 
+L1 Debt 
+-0.01 
+-0.01 
+0.00 
+0.00* 
+(0.01) 
+(0.01) 
+(0.00) 
+(0.00) 
+Output gap 
+0.12** 
+0.04 
+0.02 
+0.04 
+(0.05) 
+(0.04) 
+(0.03) 
+(0.04) 
+Delta terms of trade 
+0.03*** 
+0.03*** 
+0.03*** 
+0.04*** 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+IMF program 
+0.06 
+0.18 
+0.23 
+0.29 
+(0.30) 
+(0.31) 
+(0.17) 
+(0.18) 
+Currency union 
+0.62 
+0.22 
+-0.02 
+-0.04 
+(0.59) 
+(0.62) 
+(0.32) 
+(0.31) 
+Observations 
+3,027 
+3,027 
+3,027 
+2,823 
+R-squared 
+0.56 
+0.60 
+0.71 
+0.71 
+Country FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Year FE 
+No 
+Yes 
+Yes 
+Yes 
+Note: the table presents the results of the OLS estimation of Equation (2) with 
+different sets of fixed effects. The dependent variable is the nominal balance 
+as a percent of GDP. The associated standard errors, clustered at the 
+country level, are reported in brackets. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== page 19 ====
+ 
+19 
+ 
+Table 2. Contiguity instruments results 
+  
+(1) 
+(2) 
+(3) 
+VARIABLES 
+Balance 
+Balance 
+Balance 
+Fiscal rule 
+0.86 
+1.38 
+1.17 
+(0.76) 
+(0.87) 
+(0.90) 
+L1 Balance, 
+0.45*** 
+0.44*** 
+0.44*** 
+(0.04) 
+(0.04) 
+(0.04) 
+L2 Balance 
+0.05* 
+0.05* 
+0.05 
+(0.03) 
+(0.03) 
+(0.03) 
+L3 Balance 
+0.04** 
+0.04** 
+0.05** 
+(0.02) 
+(0.02) 
+(0.02) 
+Real GDP growth 
+0.12*** 
+0.12*** 
+0.12*** 
+(0.02) 
+(0.02) 
+(0.02) 
+Log GDP per capita 
+0.44 
+0.47 
+0.47 
+(0.68) 
+(0.69) 
+(0.72) 
+L1 Debt 
+0.00* 
+0.00** 
+0.00** 
+(0.00) 
+(0.00) 
+(0.00) 
+Output gap 
+0.04 
+0.04 
+0.04 
+(0.04) 
+(0.04) 
+(0.04) 
+Delta Terms of trade 
+0.04*** 
+0.04*** 
+0.04*** 
+(0.01) 
+(0.01) 
+(0.01) 
+IMF program 
+0.31* 
+0.30 
+0.25 
+(0.18) 
+(0.18) 
+(0.18) 
+Currency union 
+-0.04 
+-0.05 
+-0.03 
+(0.31) 
+(0.31) 
+(0.33) 
+Observations 
+2,797 
+2,797 
+2,693 
+R-squared 
+0.30 
+0.30 
+0.30 
+Number of id 
+142 
+142 
+142 
+IV 
+Contiguity 
+L1 Contiguity 
+MA of contiguity 
+Sample 
+Full 
+Full 
+Full 
+Country FE 
+Yes 
+Yes 
+Yes 
+Time FE 
+Yes 
+Yes 
+Yes 
+Kleinberg-Paap rk test 
+15.24 
+11.23 
+12.46 
+Stock-Wright p-value 
+0.00 
+0.00 
+0.00 
+Note: the table reports the results of the IV estimation of Equation (2) with three different 
+variations of the contiguity instrument. Column (1) uses the contemporaneous instrument, 
+Column (2) the first lag, and Column (3) the a 3-year moving average. All the 3 models 
+include country and time fixed effects. Standard errors are clustered at the country level. 
+*** p<0.01, ** p<0.05, * p<0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== page 20 ====
+ 
+20 
+Table 3. First stage results – contiguity instrument 
+  
+(1) 
+(2) 
+(3) 
+VARIABLES 
+Fiscal rule 
+Fiscal rule 
+Fiscal rule 
+Contiguity  
+0.11*** 
+(0.03) 
+Lag 1 contiguity 
+0.08*** 
+(0.03) 
+Contiguity MA 
+0.103*** 
+(0.031) 
+Lag 1 balance 
+0.00* 
+0.00** 
+0.004* 
+(0.00) 
+(0.00) 
+(0.002) 
+Lag 2 balance 
+0.00 
+0.00 
+0.000 
+(0.00) 
+(0.00) 
+(0.001) 
+Lag 3 balance 
+-0.00 
+-0.00 
+-0.001 
+(0.00) 
+(0.00) 
+(0.001) 
+Real GDP growth 
+0.00 
+0.00 
+0.000 
+(0.00) 
+(0.00) 
+(0.002) 
+Log GDP per capita 
+-0.08 
+-0.07 
+-0.069 
+(0.11) 
+(0.11) 
+(0.116) 
+Lag 1 debt 
+-0.00 
+-0.00 
+-0.001 
+(0.00) 
+(0.00) 
+(0.001) 
+Output gap 
+-0.00 
+-0.00 
+-0.000 
+(0.00) 
+(0.00) 
+(0.002) 
+Delta terms of trade 
+-0.00* 
+-0.00* 
+-0.000** 
+(0.00) 
+(0.00) 
+(0.000) 
+IMF program 
+0.01 
+0.01 
+0.007 
+(0.03) 
+(0.03) 
+(0.028) 
+Observations 
+2,797 
+2,797 
+2,693 
+R-squared 
+0.42 
+0.40 
+0.405 
+Number of id 
+142 
+142 
+142 
+Country FE 
+Yes 
+Yes 
+Yes 
+Year FE 
+Yes 
+Yes 
+Yes 
+Note: the table reports the results of the first stage IV estimation of Equation (2) 
+with the three different variations of the contiguity instrument. Column (1) uses the 
+contemporaneous instrument, Column (2) the first lag, and Column (3) the a 3-
+year moving average. All the 3 models include country and time fixed effects. 
+Standard errors, reported in parenthesis, are clustered at the country level. *** 
+p<0.01, ** p<0.05, * p<0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== page 21 ====
+ 
+21 
+ 
+Table 4. Robustness for contiguity instrument 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+VARIABLES 
+Balance 
+Balance 
+Balance 
+Balance 
+Balance 
+Balance 
+Balance 
+Fiscal rule 
+1.29 
+1.38 
+0.49 
+0.77 
+1.08 
+0.69 
+1.10 
+(0.91) 
+(0.93) 
+(0.91) 
+(0.95) 
+(0.79) 
+(0.54) 
+(0.92) 
+Lag 1 balance 
+0.44*** 
+0.44*** 
+0.40*** 
+0.41*** 
+0.46*** 
+0.46*** 
+0.43*** 
+(0.04) 
+(0.04) 
+(0.05) 
+(0.05) 
+(0.07) 
+(0.04) 
+(0.05) 
+Lag 2 balance 
+0.05* 
+0.05* 
+0.05* 
+0.05* 
+0.00 
+0.04 
+0.10* 
+(0.03) 
+(0.03) 
+(0.03) 
+(0.03) 
+(0.04) 
+(0.03) 
+(0.06) 
+Lag 3 balance 
+0.04** 
+0.04* 
+0.06** 
+0.06*** 
+0.10*** 
+0.02 
+-0.00 
+(0.02) 
+(0.02) 
+(0.02) 
+(0.02) 
+(0.03) 
+(0.02) 
+(0.04) 
+Real GDP growth 
+0.12*** 
+0.11*** 
+0.09*** 
+0.09*** 
+0.08*** 
+0.10*** 
+(0.02) 
+(0.03) 
+(0.03) 
+(0.03) 
+(0.02) 
+(0.02) 
+Log GDP per capita 
+0.42 
+0.44 
+0.41 
+0.39 
+0.11 
+-0.46 
+(0.70) 
+(0.69) 
+(0.84) 
+(0.82) 
+(0.51) 
+(0.57) 
+Lag 1 debt 
+0.00** 
+0.00** 
+0.00 
+0.00 
+0.01*** 
+0.01*** 
+(0.00) 
+(0.00) 
+(0.00) 
+(0.00) 
+(0.00) 
+(0.00) 
+Output gap 
+0.03 
+0.04 
+0.06 
+0.06 
+0.07 
+0.07* 
+(0.04) 
+(0.04) 
+(0.05) 
+(0.05) 
+(0.04) 
+(0.04) 
+Delta terms of trade 
+0.04*** 
+0.04*** 
+0.04*** 
+0.04*** 
+0.04*** 
+0.04*** 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+IMF program 
+0.23 
+0.24 
+0.33 
+0.31 
+0.35** 
+0.22 
+(0.19) 
+(0.19) 
+(0.21) 
+(0.20) 
+(0.17) 
+(0.19) 
+Currency union 
+-0.06 
+-0.01 
+-0.45 
+-0.46 
+0.15 
+0.07 
+(0.31) 
+(0.31) 
+(0.54) 
+(0.55) 
+(0.30) 
+(0.30) 
+Trade as % of GDP 
+-0.00 
+-0.00 
+-0.00 
+-0.00 
+0.00 
+0.00 
+(0.00) 
+(0.00) 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.00) 
+Growth in the region 
+0.11** 
+0.09 
+0.07 
+0.11* 
+0.35*** 
+(0.05) 
+(0.07) 
+(0.05) 
+(0.05) 
+(0.04) 
+Observations 
+2,744 
+2,744 
+1,921 
+2,124 
+2,047 
+2,744 
+3,309 
+R-squared 
+0.30 
+0.30 
+0.27 
+0.28 
+0.31 
+0.37 
+0.25 
+Number of id 
+142 
+142 
+104 
+116 
+142 
+142 
+157 
+Sample 
+Full 
+Full 
+No Europe 
+No EU 
+No GFC 
+Full 
+Full 
+Country FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Year FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+No 
+Yes 
+Kleinberg-Paap rk test 
+10.89 
+10.73 
+23.36 
+20.37 
+10.87 
+28.24 
+11.80 
+Stock-Wright p-value 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Note: the table reports robustness exercises for the IV estimation of Equation (2). The instrument is the first lag of the contiguity 
+instrument. Column (3) excludes all the European countries in the sample (as defined by the IMF). Column (4) excludes the European 
+Union countries. Column (5) excludes the global financial crisis. Column (6) excludes year fixed effects. Standard errors, reported in 
+parenthesis, are clustered at the country level. *** p<0.01, ** p<0.05, * p<0.1 
+ 
+ 
+ 
+ 
+ 
+
+==== page 22 ====
+ 
+22 
+Table 5. Testing IVs in the literature  
+  
+(1) 
+(2) 
+(3) 
+(4) 
+VARIABLES 
+Balance 
+Balance 
+Balance 
+Balance 
+Fiscal rule 
+0.38 
+-2.35 
+-9.60 
+0.38 
+(1.56) 
+(7.48) 
+(14.38) 
+(1.56) 
+Lag 1 balance 
+0.45*** 
+0.48*** 
+0.52*** 
+0.45*** 
+(0.04) 
+(0.06) 
+(0.08) 
+(0.04) 
+Lag 2 balance 
+0.05* 
+0.05* 
+0.04 
+0.05* 
+(0.03) 
+(0.03) 
+(0.03) 
+(0.03) 
+Lag 3 balance 
+0.04** 
+0.03 
+0.02 
+0.04** 
+(0.02) 
+(0.02) 
+(0.03) 
+(0.02) 
+Real GDP growth 
+0.12*** 
+0.12*** 
+0.12*** 
+0.12*** 
+(0.02) 
+(0.03) 
+(0.03) 
+(0.02) 
+Log GDP per capita 
+0.41 
+0.08 
+-0.40 
+0.41 
+(0.67) 
+(0.87) 
+(1.60) 
+(0.67) 
+Lag 1 debt 
+0.00 
+0.00 
+-0.00 
+0.00 
+(0.00) 
+(0.01) 
+(0.01) 
+(0.00) 
+Output gap 
+0.04 
+0.01 
+0.03 
+0.04 
+(0.04) 
+(0.04) 
+(0.05) 
+(0.04) 
+Delta terms of trade 
+0.04*** 
+0.04*** 
+0.04*** 
+0.04*** 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+IMF program 
+0.30* 
+0.28 
+0.45 
+0.30* 
+(0.18) 
+(0.19) 
+(0.39) 
+(0.18) 
+Currency union 
+-0.03 
+-0.10 
+0.18 
+-0.03 
+(0.31) 
+(0.37) 
+(0.77) 
+(0.31) 
+Observations 
+2,823 
+2,660 
+2,732 
+2,629 
+Number of id 
+144 
+140 
+141 
+140 
+IV 
+IT 
+Govfrac 
+Checks 
+Checks IT Govfrac 
+Kleinberg-Paap rk test 
+7.65 
+0.51 
+0.65 
+2.07 
+Stock-Wright p-value 
+0.01 
+0.48 
+0.42 
+0.11 
+Note: The table reports the results based on Equation (2). The instruments are: inflation 
+targeting, government fragmentation, and checks and balance. In Column (4), a specification 
+with the 3 IVs used jointly is presented. Standard errors, reported in parenthesis, are clustered at 
+the country level.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== page 23 ====
+ 
+23 
+Table 6. Results with the fiscal rules strength index 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+VARIABLES 
+Balance 
+Balance 
+Balance 
+Balance 
+Balance 
+Balance 
+Balance 
+Balance 
+Strength Index 
+3.91** 
+3.83** 
+4.43** 
+0.81 
+2.86 
+3.96** 
+2.69** 
+2.54* 
+(1.69) 
+(1.84) 
+(1.97) 
+(2.57) 
+(3.31) 
+(1.73) 
+(1.32) 
+(1.41) 
+L1 balance 
+0.44*** 
+0.44*** 
+0.44*** 
+0.40*** 
+0.41*** 
+0.45*** 
+0.46*** 
+0.43*** 
+(0.04) 
+(0.04) 
+(0.04) 
+(0.05) 
+(0.05) 
+(0.07) 
+(0.04) 
+(0.05) 
+L2 balance 
+0.05* 
+0.05** 
+0.06** 
+0.06* 
+0.05* 
+0.01 
+0.04 
+0.10* 
+(0.03) 
+(0.03) 
+(0.03) 
+(0.03) 
+(0.03) 
+(0.04) 
+(0.03) 
+(0.06) 
+L3 balance 
+0.04** 
+0.05** 
+0.04** 
+0.06** 
+0.06*** 
+0.11*** 
+0.02 
+-0.00 
+(0.02) 
+(0.02) 
+(0.02) 
+(0.02) 
+(0.02) 
+(0.03) 
+(0.02) 
+(0.04) 
+Real GDP growth 
+0.12*** 
+0.12*** 
+0.11*** 
+0.10*** 
+0.09*** 
+0.08*** 
+0.10*** 
+ 
+(0.02) 
+(0.02) 
+(0.03) 
+(0.03) 
+(0.03) 
+(0.02) 
+(0.02) 
+ 
+Log GDP per capita 
+0.45 
+0.42 
+0.45 
+0.37 
+0.42 
+0.12 
+-0.67 
+ 
+(0.69) 
+(0.70) 
+(0.69) 
+(0.83) 
+(0.82) 
+(0.53) 
+(0.57) 
+ 
+L1 debt 
+0.00 
+0.00* 
+0.00** 
+0.00 
+0.00 
+0.01*** 
+0.01*** 
+ 
+(0.00) 
+(0.00) 
+(0.00) 
+(0.00) 
+(0.00) 
+(0.00) 
+(0.00) 
+ 
+Output gap 
+0.04 
+0.03 
+0.03 
+0.06 
+0.06 
+0.07 
+0.07* 
+ 
+(0.04) 
+(0.04) 
+(0.04) 
+(0.05) 
+(0.05) 
+(0.04) 
+(0.04) 
+ 
+Delta terms of trade 
+0.04*** 
+0.04*** 
+0.04*** 
+0.04*** 
+0.04*** 
+0.04*** 
+0.04*** 
+ 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+ 
+IMF program 
+0.28 
+0.21 
+0.21 
+0.33 
+0.30 
+0.34** 
+0.21 
+ 
+(0.18) 
+(0.18) 
+(0.18) 
+(0.21) 
+(0.19) 
+(0.16) 
+(0.18) 
+ 
+Currency union 
+-0.34 
+-0.32 
+-0.30 
+-0.44 
+-0.49 
+-0.14 
+-0.12 
+ 
+(0.34) 
+(0.33) 
+(0.34) 
+(0.53) 
+(0.59) 
+(0.32) 
+(0.32) 
+ 
+Trade as % of GDP 
+-0.00 
+-0.00 
+-0.00 
+-0.00 
+-0.00 
+0.00 
+ 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+(0.01) 
+ 
+Growth rate in the region 
+0.15*** 
+0.09 
+0.07 
+0.15** 
+0.37*** 
+ 
+(0.05) 
+(0.07) 
+(0.05) 
+(0.06) 
+(0.04) 
+ 
+Observations 
+2,797 
+2,744 
+2,744 
+1,921 
+2,124 
+2,047 
+2,744 
+3,309 
+R-squared 
+0.302 
+0.30 
+0.30 
+0.27 
+0.28 
+0.31 
+0.37 
+0.25 
+Country FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Year FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+No 
+Yes 
+Number of id 
+142 
+142 
+142 
+104 
+116 
+142 
+142 
+157 
+Kleinberg-Paap rk test 
+19.01 
+18.23 
+17.40 
+20.88 
+15.93 
+18.68 
+31.82 
+26.61 
+Stock-Wright p-value 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Sample 
+Full 
+Full 
+Full 
+No Europe 
+No EU 
+No GFC 
+Full 
+Full 
+Note: the table reports the results of the IV estimation of Equation (3), using the index of fiscal rule’s strength. The instrument is the first 
+lag of variable described in Equation (4). Column (3) excludes all the European countries in the sample (as defined by the IMF). Column 
+(4) excludes the European Union countries. Column (5) excludes the global financial crisis. Column (6) excludes year fixed effects. 
+Standard errors, reported in parenthesis, are clustered at the country level. *** p<0.01, ** p<0.05, * p<0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== page 24 ====
+ 
+24 
+XI.   APPENDIX 
+Table A1. Variables’ sources 
+Variable  
+Source 
+Fiscal rule 
+IMF Fiscal Rule Dataset (available at 
+https://www.imf.org/external/datamapper/fiscalrules/map/map.htm) 
+Strength Index 
+IMF Fiscal Rule Dataset (available at 
+https://www.imf.org/external/datamapper/fiscalrules/map/map.htm) 
+ 
+ 
+Fiscal balance 
+IMF WOE and GFS databases (latest vintage, available at 
+www.imf.org) 
+Real GDP growth 
+IMF WEO (latest vintage, available at www.imf.org) 
+Real GDP per capita 
+(latest vintage, available at www.imf.org) 
+Government debt 
+IMF WEO, GFS, and GDD databases (latest vintage, available at 
+www.imf.org) 
+Output gap 
+IMF WEO (latest vintage, available at www.imf.org) 
+Terms of trade 
+IMF WEO (latest vintage, available at www.imf.org) 
+IMF program 
+Poulain and Reynaud (2017) 
+Currency Union 
+Frankel and Rose (2002) 
+Trade openness 
+IMF WEO (latest vintage, available at www.imf.org) 
+Contiguity IV 
+Professor Andrew K. Rose’s (available at 
+http://faculty.haas.berkeley.edu/arose) and IMF DOTS databases 
+(latest vintage, available at www.imf.org) 
+ 
+Table A2. Summary statistics 
+Variable  
+Obs. 
+Mean 
+Std. Dev. 
+Min 
+Max 
+Fiscal balance 
+-1.99 
+6.05 
+-49.58 
+44.36 
+-1.99 
+Real GDP growth 
+4.02 
+4.72 
+-62.08 
+38.20 
+4.02 
+Log real GDP per capita 
+8.35 
+1.61 
+4.88 
+11.43 
+8.35 
+Government debt 
+59.94 
+51.60 
+0.00 
+789.83 
+59.94 
+Output gap 
+-0.09 
+3.20 
+-109.09 
+22.42 
+-0.09 
+Delta TOT 
+0.75 
+15.23 
+-285.32 
+143.62 
+0.75 
+IMF program 
+0.34 
+0.47 
+0.00 
+1.00 
+0.34 
+Currency Union 
+0.28 
+0.45 
+0.00 
+1.00 
+0.28 
+Trade openness 
+84.02 
+53.41 
+0.17 
+442.62 
+84.02 
+Contiguity IV 
+1.04 
+1.49 
+0.00 
+9.00 
+1.04 
+Mean growth in the region 
+3.99 
+2.03 
+-5.15 
+10.73 
+3.99 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== page 25 ====
+ 
+25 
+Table A3. Summary statistics of the IMF’s fiscal rules strength index 
+ 
+Percentiles 
+ 
+ 
+1% 
+0.107 
+Obs. 
+1,296 
+5% 
+0.116 
+Mean 
+0.294 
+10% 
+0.132 
+Std. Dev. 
+0.140 
+25% 
+0.181 
+Variance 
+0.020 
+50% 
+0.259 
+Skewness 
+1.076 
+75% 
+0.375 
+90% 
+0.484 
+95% 
+0.570 
+99% 
+0.738 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== page 26 ====
+ 
+26 
+Table A4. First stage for the robustness exercises on the contiguity instrument (dummy) 
+ 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+VARIABLES 
+Fiscal rule 
+Fiscal rule 
+Fiscal rule 
+Fiscal rule 
+Fiscal rule 
+Fiscal rule 
+Fiscal rule 
+Lag 1 contiguity  
+0.084*** 
+0.083*** 
+0.116*** 
+0.103*** 
+0.088*** 
+0.132*** 
+0.082*** 
+(0.025) 
+(0.025) 
+(0.024) 
+(0.023) 
+(0.027) 
+(0.025) 
+(0.024) 
+L1 balance 
+0.004** 
+0.004** 
+0.003* 
+0.004* 
+0.006** 
+0.004** 
+0.003* 
+(0.002) 
+(0.002) 
+(0.002) 
+(0.002) 
+(0.002) 
+(0.002) 
+(0.002) 
+L2 balance 
+0.000 
+0.000 
+0.001 
+0.001 
+0.001 
+0.001 
+0.001 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.002) 
+(0.001) 
+(0.001) 
+L3 balance 
+-0.002 
+-0.001 
+-0.001 
+-0.000 
+-0.003 
+0.001 
+-0.001 
+(0.002) 
+(0.002) 
+(0.002) 
+(0.002) 
+(0.002) 
+(0.002) 
+(0.001) 
+Real GDP growth 
+0.001 
+0.003 
+0.003 
+0.003 
+0.004* 
+0.003 
+(0.002) 
+(0.002) 
+(0.002) 
+(0.002) 
+(0.002) 
+(0.002) 
+Log GDP per capita 
+-0.051 
+-0.053 
+-0.158 
+-0.194* 
+-0.053 
+0.405*** 
+(0.113) 
+(0.112) 
+(0.109) 
+(0.105) 
+(0.116) 
+(0.119) 
+L1 debt 
+-0.000 
+-0.000 
+-0.000 
+-0.000 
+-0.000 
+-0.000 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.001) 
+Output gap 
+-0.002 
+-0.002 
+-0.001 
+0.000 
+-0.005 
+-0.009*** 
+(0.002) 
+(0.003) 
+(0.003) 
+(0.003) 
+(0.003) 
+(0.003) 
+Delta ToT 
+-0.001* 
+-0.000* 
+-0.000 
+-0.000 
+-0.001 
+-0.000 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.001) 
+(0.000) 
+IMF program 
+0.002 
+0.001 
+0.012 
+0.016 
+-0.013 
+0.025 
+(0.028) 
+(0.028) 
+(0.032) 
+(0.030) 
+(0.032) 
+(0.031) 
+Currency union 
+-0.016 
+-0.022 
+0.086 
+0.078 
+-0.021 
+0.088 
+(0.069) 
+(0.068) 
+(0.115) 
+(0.117) 
+(0.063) 
+(0.073) 
+Trade as % of GDP 
+-0.001 
+-0.001 
+-0.002** 
+-0.002** 
+-0.001 
+0.000 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+Growth in the region 
+-0.015** 
+-0.011* 
+-0.009 
+-0.017** 
+0.002 
+(0.007) 
+(0.006) 
+(0.006) 
+(0.008) 
+(0.004) 
+Observations 
+2,744 
+2,744 
+1,921 
+2,124 
+2,047 
+2,744 
+3,643 
+R-squared 
+0.406 
+0.409 
+0.390 
+0.391 
+0.415 
+0.307 
+0.387 
+Number of id 
+142 
+142 
+104 
+116 
+142 
+142 
+158 
+Sample 
+Full 
+Full 
+No Europe 
+No EU 
+No GFC 
+Full 
+Full 
+Country FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Year FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+No 
+Yes 
+Note: the table reports the first stage of the robustness exercises of the IV regressions presented in Table 4. The instrument is the first lag of 
+the contiguity instrument defined in Equation (1). Column (3) excludes all the European countries in the sample (as defined by the IMF). 
+Column (4) excludes the European Union countries. Column (5) excludes the global financial crisis. Column (6) excludes year fixed effects. 
+Standard errors, reported in parenthesis, are clustered at the country level. *** p<0.01, ** p<0.05, * p<0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== page 27 ====
+ 
+27 
+Table A5. First stage for the contiguity strength index regressions 
+ 
+  
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+VARIABLES 
+Strength 
+Index 
+Strength 
+Index 
+Strength 
+Index 
+Strength 
+Index 
+Strength 
+Index 
+Strength 
+Index 
+Strength 
+Index 
+Strength 
+Index 
+L1 strength contiguity  
+0.018*** 
+0.017*** 
+0.017*** 
+0.019*** 
+0.015*** 
+0.017*** 
+0.024*** 
+0.019*** 
+(0.004) 
+(0.004) 
+(0.004) 
+(0.004) 
+(0.004) 
+(0.004) 
+(0.004) 
+(0.004) 
+L1 balance 
+0.001* 
+0.001* 
+0.001** 
+0.001* 
+0.001* 
+0.002*** 
+0.001** 
+0.001 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.000) 
+L2 balance 
+-0.001 
+-0.001 
+-0.001 
+0.000 
+0.000 
+-0.000 
+-0.000 
+-0.000 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.001) 
+(0.000) 
+(0.000) 
+L3 balance 
+-0.001*** 
+-0.001*** 
+-0.001** 
+-0.000 
+-0.000 
+-0.002*** 
+-0.001* 
+-0.001*** 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.001) 
+(0.000) 
+(0.000) 
+Real GDP growth 
+-0.000 
+-0.000 
+0.001 
+0.001 
+0.001 
+0.001 
+0.000 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+Log GDP per capita 
+-0.009 
+-0.006 
+-0.007 
+-0.042 
+-0.053* 
+-0.007 
+0.160*** 
+(0.037) 
+(0.038) 
+(0.037) 
+(0.028) 
+(0.028) 
+(0.040) 
+(0.037) 
+L1 debt 
+0.000 
+-0.000 
+-0.000 
+-0.000 
+-0.000 
+0.000 
+-0.000 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+Output gap 
+-0.000 
+-0.001 
+-0.001 
+-0.000 
+0.000 
+-0.002 
+-0.003*** 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+(0.001) 
+Delta ToT 
+-0.000* 
+-0.000** 
+-0.000* 
+-0.000 
+-0.000 
+-0.000 
+-0.000 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+IMF program 
+0.006 
+0.005 
+0.004 
+0.004 
+0.005 
+-0.001 
+0.010 
+(0.010) 
+(0.010) 
+(0.009) 
+(0.008) 
+(0.008) 
+(0.011) 
+(0.010) 
+Currency union 
+0.050* 
+0.047 
+0.044 
+0.036 
+0.032 
+0.049* 
+0.077** 
+(0.028) 
+(0.029) 
+(0.028) 
+(0.040) 
+(0.041) 
+(0.029) 
+(0.030) 
+Trade as % of GDP 
+0.000 
+0.000 
+-0.000** 
+-0.000* 
+0.000 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+(0.000) 
+Growth in the region 
+-0.010*** 
+-0.003* 
+-0.001 
+-0.011*** 
+(0.002) 
+(0.001) 
+(0.002) 
+(0.003) 
+Observations 
+2,797 
+2,744 
+2,744 
+1,921 
+2,124 
+2,047 
+2,797 
+3,643 
+R-squared 
+0.489 
+0.494 
+0.503 
+0.413 
+0.399 
+0.507 
+0.414 
+0.491 
+Number of id 
+142 
+142 
+142 
+104 
+116 
+142 
+142 
+158 
+Sample 
+Full 
+Full 
+Full 
+No Europe 
+No EU 
+No GFC 
+Full 
+Full 
+Country FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Year FE 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+No 
+Yes 
+Note: the table reports the first stage of the IV regressions presented in Table 6. The instrument considered is the lag of the strength index defined in 
+Equation (4). Column (4) excludes all the European countries in the sample (as defined by the IMF). Column (5) excludes the European Union countries. 
+Column (6) excludes the global financial crisis. Column (7) excludes year fixed effects. Standard errors, reported in parenthesis, are clustered at the 
+country level. *** p<0.01, ** p<0.05, * p<0.1 
+ 

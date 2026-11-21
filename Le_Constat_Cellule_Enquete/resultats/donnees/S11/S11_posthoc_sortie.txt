@@ -1,0 +1,6 @@
+PH1 part de F dans la depense APUL+ASSO (sans effet de denominateur PIB) -> d solde primaire : n=47 r=-0.145 IC95=[-0.415;+0.148]
+PH2 dF -> d solde primaire, controle croissance reelle : r partiel=-0.258 IC95=[-0.510;+0.035]
+PH3 dF -> d solde primaire, controle croissance nominale : r partiel=-0.267 IC95=[-0.518;+0.025]
+PH4 correlation dF / croissance nominale du PIB : r=-0.148 (signe attendu negatif si F suit le denominateur)
+PH5 part de F dans la depense -> d solde primaire, controle croissance nominale : r partiel=-0.146 IC95=[-0.419;+0.150]
+PH6 T2 en nombre d'annees : voir S11_T2_degradations_hors_crise.csv (colonne dominante)

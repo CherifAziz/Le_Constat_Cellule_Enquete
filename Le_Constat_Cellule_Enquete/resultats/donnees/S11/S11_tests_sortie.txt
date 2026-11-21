@@ -1,0 +1,88 @@
+Controle identite d_sp = d_rec - d_dep : ecart max = 0.001 pt de PIB sur 51 exercices
+
+================ T1 - Fragmentation de la majorite (niveau legislature) ================
+V     1975-1978  n=4  ENPmaj=1.55  groupes=2.00  dSP=-0.36  dDEP=+1.25  dSPCC= (n=0)
+VI    1979-1981  n=3  ENPmaj=1.98  groupes=2.00  dSP=+0.02  dDEP=+1.07  dSPCC=0.33 (n=3)
+VII   1982-1986  n=5  ENPmaj=1.00  groupes=1.00  dSP=+0.01  dDEP=+0.38  dSPCC=-0.02 (n=5)
+VIII  1987-1988  n=2  ENPmaj=1.98  groupes=2.00  dSP=+0.23  dDEP=-0.59  dSPCC=-0.38 (n=2)
+IX    1989-1993  n=5  ENPmaj=1.00  groupes=1.00  dSP=-0.60  dDEP=+0.73  dSPCC=-0.18 (n=5)
+X     1994-1997  n=4  ENPmaj=1.98  groupes=2.00  dSP=+0.75  dDEP=-0.32  dSPCC=0.69 (n=4)
+XI    1998-2002  n=5  ENPmaj=1.57  groupes=3.00  dSP=+0.00  dDEP=-0.22  dSPCC=-0.44 (n=5)
+XII   2003-2007  n=5  ENPmaj=1.00  groupes=1.00  dSP=-0.03  dDEP=+0.01  dSPCC=-0.22 (n=5)
+XIII  2008-2012  n=5  ENPmaj=1.00  groupes=1.00  dSP=-0.45  dDEP=+0.86  dSPCC=0.07 (n=5)
+XIV   2013-2017  n=5  ENPmaj=1.00  groupes=1.00  dSP=+0.19  dDEP=+0.12  dSPCC=0.0 (n=5)
+XV    2018-2022  n=5  ENPmaj=1.16  groupes=1.40  dSP=-0.25  dDEP=+0.12  dSPCC=-0.21 (n=5)
+XVI   2023-2024  n=2  ENPmaj=1.91  groupes=3.00  dSP=-0.44  dDEP=-0.78  dSPCC=-0.53 (n=2)
+XVII  2025-2025  n=1  ENPmaj=3.27  groupes=4.00  dSP=+0.84  dDEP=+0.18  dSPCC=1.12 (n=1)
+T1 enp_majorite     -> d_sp_moy  : n=13 pente=+0.434 IC95=[+0.103;+0.764] pente detectable a 80%=0.462 r=+0.66 rho=+0.62 p_perm=0.016
+T1 enp_majorite     -> d_dep_moy : n=13 pente=-0.223 IC95=[-0.830;+0.383] pente detectable a 80%=0.848 r=-0.24 rho=-0.35 p_perm=0.444
+T1 enp_majorite     -> d_spcc_moy: n=12 pente=+0.428 IC95=[+0.039;+0.817] pente detectable a 80%=0.542 r=+0.61 rho=+0.20 p_perm=0.038
+T1 sensibilite sans XVI-XVII enp_majorite -> d_sp_moy: n=11 pente=+0.483 IC95=[-0.044;+1.010]
+T1 nb_groupes_camp  -> d_sp_moy  : n=13 pente=+0.201 IC95=[-0.069;+0.472] pente detectable a 80%=0.379 r=+0.44 rho=+0.39 p_perm=0.128
+T1 nb_groupes_camp  -> d_dep_moy : n=13 pente=-0.223 IC95=[-0.627;+0.181] pente detectable a 80%=0.565 r=-0.34 rho=-0.34 p_perm=0.255
+T1 nb_groupes_camp  -> d_spcc_moy: n=12 pente=+0.158 IC95=[-0.162;+0.479] pente detectable a 80%=0.447 r=+0.33 rho=+0.03 p_perm=0.297
+T1 sensibilite sans XVI-XVII nb_groupes_camp -> d_sp_moy: n=11 pente=+0.185 IC95=[-0.213;+0.582]
+Puissance (n=13) pour detecter r=0,3 : 0.16 ; r=0,5 : 0.41 ; r=0,7 : 0.78
+
+================ T2 - Composition des degradations hors crise ================
+Annees de croissance negative (Eurostat nama_10_gdp, CLV_PCH_PRE) : [1975, 1993, 2009, 2020] -> exclues avec l'annee suivante : [1975, 1976, 1993, 1994, 2009, 2010, 2020, 2021]
+Hors crise : 7 annees de degradation <= -0,5 pt ; somme Ddep=+3.47, somme Drec=-4.34, S (part depense)=0.44
+   1978 dSP=-0.57 dDEP=+0.81 dREC=+0.24 croissance=3.9 dominante=depense leg=V
+   1981 dSP=-1.51 dDEP=+2.13 dREC=+0.62 croissance=1.2 dominante=depense leg=VI
+   1988 dSP=-0.65 dDEP=-0.67 dREC=-1.32 croissance=4.8 dominante=recettes leg=VIII
+   1992 dSP=-1.58 dDEP=+1.11 dREC=-0.47 croissance=1.5 dominante=depense leg=IX
+   2002 dSP=-1.78 dDEP=+1.13 dREC=-0.66 croissance=1.1 dominante=depense leg=XI
+   2003 dSP=-1.06 dDEP=+0.58 dREC=-0.48 croissance=1.0 dominante=depense leg=XII
+   2023 dSP=-0.65 dDEP=-1.63 dREC=-2.28 croissance=1.6 dominante=recettes leg=XVI
+   S bootstrap IC95 = [-0.49 ; 1.00] (n=7)
+Toutes annees : 11 annees de degradation <= -0,5 pt ; somme Ddep=+20.91, somme Drec=-2.12, S (part depense)=0.91
+   1975 dSP=-2.71 dDEP=+4.52 dREC=+1.81 croissance=-0.9 dominante=depense leg=V
+   1978 dSP=-0.57 dDEP=+0.81 dREC=+0.24 croissance=3.9 dominante=depense leg=V
+   1981 dSP=-1.51 dDEP=+2.13 dREC=+0.62 croissance=1.2 dominante=depense leg=VI
+   1988 dSP=-0.65 dDEP=-0.67 dREC=-1.32 croissance=4.8 dominante=recettes leg=VIII
+   1992 dSP=-1.58 dDEP=+1.11 dREC=-0.47 croissance=1.5 dominante=depense leg=IX
+   1993 dSP=-1.53 dDEP=+2.30 dREC=+0.77 croissance=-0.4 dominante=depense leg=IX
+   2002 dSP=-1.78 dDEP=+1.13 dREC=-0.66 croissance=1.1 dominante=depense leg=XI
+   2003 dSP=-1.06 dDEP=+0.58 dREC=-0.48 croissance=1.0 dominante=depense leg=XII
+   2009 dSP=-4.20 dDEP=+4.04 dREC=-0.17 croissance=-2.8 dominante=depense leg=XIII
+   2020 dSP=-6.77 dDEP=+6.59 dREC=-0.19 croissance=-7.4 dominante=depense leg=XV
+   2023 dSP=-0.65 dDEP=-1.63 dREC=-2.28 croissance=1.6 dominante=recettes leg=XVI
+   S bootstrap IC95 = [0.47 ; 1.20] (n=11)
+Variante : annees ou le solde primaire corrige du cycle (AMECO) recule d'au moins 0,5 pt : [(1981, -0.92, 2.13, 0.62), (1982, -0.75, 1.32, 0.94), (1988, -1.85, -0.67, -1.32), (1992, -0.99, 1.11, -0.47), (2000, -1.1, -0.92, -0.81), (2002, -1.3, 1.13, -0.66), (2003, -0.51, 0.58, -0.48), (2007, -0.69, -0.2, -0.45), (2009, -1.66, 4.04, -0.17), (2019, -0.97, -0.77, -1.09), (2020, -1.46, 6.59, -0.19), (2021, -0.74, -2.34, 0.11), (2023, -0.76, -1.63, -2.28)]
+
+================ T3 - Fragmentation du financement (APUL + ASSO) ================
+1978 F=3.52 (avec D9 4.17) partF/dep=13.1% depAPUL+ASSO=26.92 propres=18.38 | APUL dep=8.05 propres=2.94 | ASSO dep=18.87 propres=15.44
+1983 F=4.50 (avec D9 5.13) partF/dep=14.5% depAPUL+ASSO=31.13 propres=21.90 | APUL dep=9.05 propres=3.48 | ASSO dep=22.08 propres=18.41
+1988 F=3.50 (avec D9 4.25) partF/dep=11.6% depAPUL+ASSO=30.19 propres=21.92 | APUL dep=9.07 propres=3.91 | ASSO dep=21.11 propres=18.01
+1993 F=3.64 (avec D9 4.49) partF/dep=11.0% depAPUL+ASSO=33.05 propres=23.66 | APUL dep=9.75 propres=4.33 | ASSO dep=23.30 propres=19.33
+1998 F=3.81 (avec D9 4.34) partF/dep=11.6% depAPUL+ASSO=32.73 propres=24.84 | APUL dep=9.48 propres=4.64 | ASSO dep=23.25 propres=20.20
+2003 F=3.98 (avec D9 4.65) partF/dep=11.7% depAPUL+ASSO=34.06 propres=25.51 | APUL dep=10.12 propres=4.16 | ASSO dep=23.94 propres=21.35
+2008 F=3.24 (avec D9 4.23) partF/dep=9.2% depAPUL+ASSO=35.08 propres=27.05 | APUL dep=11.14 propres=4.89 | ASSO dep=23.95 propres=22.17
+2013 F=3.26 (avec D9 3.83) partF/dep=8.6% depAPUL+ASSO=38.06 propres=29.27 | APUL dep=11.68 propres=5.50 | ASSO dep=26.38 propres=23.77
+2018 F=2.63 (avec D9 3.11) partF/dep=7.2% depAPUL+ASSO=36.48 propres=29.89 | APUL dep=10.78 propres=5.93 | ASSO dep=25.70 propres=23.96
+2023 F=2.25 (avec D9 2.92) partF/dep=6.0% depAPUL+ASSO=37.42 propres=30.47 | APUL dep=11.22 propres=6.02 | ASSO dep=26.20 propres=24.45
+2025 F=1.92 (avec D9 2.60) partF/dep=5.0% depAPUL+ASSO=38.31 propres=30.82 | APUL dep=11.29 propres=6.11 | ASSO dep=27.02 propres=24.71
+T3a 1978-2025: dF=-1.60 dDep(APUL+ASSO)=+11.38 dPropres=+12.44 | APUL seules dDep=+3.24 dPropres=+3.17 -> F en baisse : sans objet
+T3a 1978-1989: dF=-0.17 dDep(APUL+ASSO)=+2.97 dPropres=+3.65 | APUL seules dDep=+0.99 dPropres=+0.98 -> F en baisse : sans objet
+T3a 1989-1999: dF=+0.40 dDep(APUL+ASSO)=+1.67 dPropres=+2.21 | APUL seules dDep=+0.18 dPropres=+0.50 -> tiree par la depense (H)
+T3a 1999-2009: dF=-0.24 dDep(APUL+ASSO)=+6.14 dPropres=+3.85 | APUL seules dDep=+2.65 dPropres=+0.78 -> F en baisse : sans objet
+T3a 2009-2019: dF=-0.76 dDep(APUL+ASSO)=-0.93 dPropres=+1.89 | APUL seules dDep=-0.80 dPropres=+0.66 -> F en baisse : sans objet
+T3a 2019-2025: dF=-0.83 dDep(APUL+ASSO)=+1.53 dPropres=+0.83 | APUL seules dDep=+0.21 dPropres=+0.24 -> F en baisse : sans objet
+Annees ou F augmente : [1979, 1981, 1982, 1987, 1988, 1990, 1992, 1993, 1994, 1996, 1997, 2002, 2004, 2008, 2009, 2010, 2015, 2019, 2020, 2023]
+T3b dF -> d_solde_primaire S13 : n=47 r=-0.301 IC95(r)=[-0.541;-0.015] pente=-1.141 IC95=[-2.228;-0.055] p_perm=0.052
+   Puissance n=47 pour |r|=0,3 : 0.54 ; |r|=0,4 : 0.80
+T3b hors crise : n=41 r=-0.311 IC95(r)=[-0.564;-0.003]
+T3b 2011-2025 : n=15 r=-0.544 IC95(r)=[-0.826;-0.044]
+T3b variante avec D9 recus : n=47 r=-0.328 IC95(r)=[-0.562;-0.045]
+T3c 1978-2025 soldes moyens (% PIB, C1) : Etat=-3.24 APUL=-0.38 ASSO=-0.16
+T3c 2002-2025 soldes moyens (% PIB, C1) : Etat=-4.21 APUL=-0.19 ASSO=-0.28
+
+================ T4 - Tenue des normes par sous-secteur (descriptif, non confirmatoire) ================
+T4 APUL  t_cour: tenues=0 non tenues=0 non etabli/autre=6 part tenue= (valeurs vues : ['ne', 'so'])
+T4 APUL  t_init: tenues=3 non tenues=2 non etabli/autre=1 part tenue=0.6 (valeurs vues : ['n', 'o', 'so'])
+T4 ASSO  t_cour: tenues=0 non tenues=0 non etabli/autre=19 part tenue= (valeurs vues : ['ne'])
+T4 ASSO  t_init: tenues=11 non tenues=7 non etabli/autre=1 part tenue=0.61 (valeurs vues : ['n', 'ne', 'o'])
+T4 AUTRE t_cour: tenues=0 non tenues=0 non etabli/autre=3 part tenue= (valeurs vues : ['so'])
+T4 AUTRE t_init: tenues=1 non tenues=2 non etabli/autre=0 part tenue=0.33 (valeurs vues : ['n', 'o'])
+T4 ETAT  t_cour: tenues=2 non tenues=2 non etabli/autre=14 part tenue=0.5 (valeurs vues : ['n', 'ne', 'o'])
+T4 ETAT  t_init: tenues=14 non tenues=2 non etabli/autre=2 part tenue=0.88 (valeurs vues : ['n', 'ne', 'o'])

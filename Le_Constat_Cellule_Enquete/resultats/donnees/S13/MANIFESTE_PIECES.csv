@@ -1,0 +1,13 @@
+fichier;url_origine;canal;date;octets;sha256
+nber_w18336_AFG2015_output_effect.pdf;https://www.nber.org/system/files/working_papers/w18336/w18336.pdf;python requests;2026-11-21;986568;c37802615d664aa5588c6c2463c3e320e775e8951208adf1121a9d0d981dd23d
+nber_w23385_ABFGP2017_theory_evidence.pdf;https://www.nber.org/system/files/working_papers/w23385/w23385.pdf;python requests;2026-11-21;580713;b825a9b27065fed161b363c3827f2c5fa122a82d96ee661078b8636e01daaf54
+nber_w19414_JordaTaylor_time_for_austerity.pdf;https://www.nber.org/system/files/working_papers/w19414/w19414.pdf;python requests;2026-11-21;367037;13d37daa335ed60496d1d7de6a8b0ec9c9f88b8cda948e6df8f00c03957c0646
+nber_w22374_FatasSummers_permanent_effects.pdf;https://www.nber.org/system/files/working_papers/w22374/w22374.pdf;python requests;2026-11-21;178323;2af6ae47e7f492f92dc6e4bd5a243357b3f9447de3f5956b307711b37595cd8a
+nber_w23147_HPT_austerity_aftermath.pdf;https://www.nber.org/system/files/working_papers/w23147/w23147.pdf;python requests;2026-11-21;968362;5e656316b989192a3d01fef599270d4ae69259887c3498f1dc39bf36ca759a48
+nber_w17571_Perotti_austerity_myth.pdf;https://www.nber.org/system/files/working_papers/w17571/w17571.pdf;python requests;2026-11-21;1358941;ca685ea4acb60be6431a489ece6c81cc6bee36c53e252fe5f9dcf92ef194cb65
+imf_weo_2023_04_ch3_debt.pdf;https://web.archive.org/web/2023id_/https://www.imf.org/-/media/Files/Publications/WEO/2023/April/English/ch3.ashx;python requests;2026-11-21;1331422;9c5e7c0bf51e899409080c60e8c791ddcc9e350914223d2e8dc8b68d5233f8a9
+imf_wp13151_Ball_et_al_distributional.pdf;https://web.archive.org/web/2020id_/https://www.imf.org/external/pubs/ft/wp/2013/wp13151.pdf;python requests;2026-11-21;1013562;8cddf1176143f4d701fc7ef842db809285ed117bd15c8cecafb62264fc217b79
+imf_wp1367_EyraudWeber_debt_reduction.pdf;https://web.archive.org/web/2020id_/https://www.imf.org/external/pubs/ft/wp/2013/wp1367.pdf;python requests;2026-11-21;1323192;2160c0c9be66ca5f69c565ce462b8e9dc8647b6920e343b3528631d3d2969278
+imk_wp179_GechertHornPaetz_long_term.pdf;https://www.boeckler.de/pdf/p_imk_wp_179_2017.pdf;python requests;2026-11-21;627304;8c2d56500793da770cef16d3ad90d3a4b40c904a8c35a42ee46d359cd06b5895
+jep_2019_AFG_effects_of_austerity.pdf;https://didattica.unibocconi.it/mypage/upload/48917_20190504_114457_JEP.33.2.141.PDF;python requests;2026-11-21;695111;0bb075c8a3740836a882847ac3702341ad09626ba162c90f16d56965ac57718e
+cae_focus108_consolider_fipu.pdf;https://cae-eco.fr/static/pdf/focus-108-consolider-fipu.pdf;python requests;2026-11-21;2300344;7dfcd5ac570ad370294641a4ca420087f70ceaeeb000bc24268e86e3e8f78ec0

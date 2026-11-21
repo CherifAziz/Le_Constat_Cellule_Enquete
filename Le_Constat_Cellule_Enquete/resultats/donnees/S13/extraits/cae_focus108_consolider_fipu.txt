@@ -1,0 +1,247 @@
+
+=== page 1 ===
+Ce focus est publié sous la responsabilité des auteurs et n’engage qu’eux.
+C
+e Focus présente un modèle simple de la dynamique des finances publiques qui contient les éléments 
+essentiels utilisés par les analystes de la conjoncture économique. Le modèle distingue le déficit 
+conjoncturel et le déficit structurel, et postule que ce dernier évolue lentement sous l’effet d’impul-
+sions budgétaires décidées par le gouvernement. Ces impulsions budgétaires ont un effet multiplicateur sur la 
+conjoncture, capturé par un paramètre m. Ce modèle capture ainsi, en trois simples équations, l’essentiel de 
+la pratique des finances publiques.
+Le Focus considère ensuite, dans ce modèle, le problème de consolidation optimale des finances publiques. 
+Partant d’une situation initiale de déficit primaire, un gouvernement souhaite, d’une part, lisser les effets 
+négatifs sur la conjoncture dans le temps, et d’autre part, éviter une trop forte hausse de la dette. Dans le cas 
+où le taux d’intérêt r est égal au taux de croissance potentielle g*, la solution de ce problème, obtenue par une 
+méthode de contrôle optimal, montre que la consolidation optimale est plus importante au début et qu’elle 
+diminue linéairement avec le temps, avec une vitesse qui dépend de l’importance λ/m2 apportée du coût de 
+la dette relativement à la taille du multiplicateur.
+Le Focus discute enfin des considérations pratiques imposées par une situation où r = g*, qui approxime bien 
+le cas de la France. En se donnant un niveau de dette tolérable en fin de consolidation, ainsi qu’un niveau tolé-
+rable d’impulsion budgétaire initiale, on peut ainsi borner l’horizon optimal de consolidation T et donc l’impor-
+tance implicite λ/m2 que le planificateur apporte au niveau de dette.
+Appliqué au cas de la France en 2024, dont le déficit structurel primaire de 3,2 points de PIB et le niveau de 
+dette de 110 points de PIB, en se donnant une consolidation maximale de 1 point en première année et un 
+niveau de dette maximal de 120 points de PIB, on obtient un horizon optimal de consolidation de T = 7 années.
+L’ajustement peut aller jusqu’à 12 ans si l’on tolère une dette maximale de 125 points de PIB, et/ou si l’on 
+souhaite une consolidation minimale de 0,5 points en première année.
+Focus
+n° 108
+juillet 2024
+Adrien Auclert, université de Stanford, Thomas Philippon, université de New York, et Xavier Ragot,
+Science Po, Observatoire français des conjonctures économiques, et membres du CAE
+Consolider les finances publiques : 
+quelques enseignements simples 
+de la théorie du contrôle optimal
+
+=== page 2 ===
+Focus, no 108, juillet 2024
+2
+1 Voir https://ofce.shinyapps.io/debtwatchr/
+2 On peut écrire dt = Gt/Yt
+* –  τt où Gt est le niveau de dépense réel du gouvernement, Gt le PIB potentiel, et τt le taux de taxe.
+Ainsi, IBt = dt ̇ = Gt/Yt
+* (gGt – gt
+* ) – τṫ, où gGt = Gṫ /Gt est le taux de croissance des dépenses publiques et gt
+*  celui du taux de croissance potentielle. 
+Une impulsion budgétaire de -1 point par an correspond donc soit à une augmentation du taux de taxe de 1 point, ou bien à un taux de croissance 
+des dépenses publique plus faible que le taux de croissance potentiel de 1/(G/Y) points — soit en pratique en France environ 1,8 point (puisque 
+G/Y = 0,55 en 2023.)
+3  L’output gap OGt = (Yt – Yt
+* )/Yt
+* est l’écart relatif entre le PIB Yt et le PIB potentiel Yt
+* .
+4 L’hypothèse r = g* est cohérente avec l’expérience française en moyenne depuis les années 1970. Voir Auclert A., T. Philippon et X. Ragot (2024) : 
+« Quelle trajectoire pour les finances publiques françaises ? », Note du CAE, juillet. En pratique, il existe un effet d’aubaine rt < gt
+*  sur la période 2024-
+2030, qui limite légèrement l’augmentation de la dette liée à une consolidation, par rapport aux calculs effectués dans ce Focus.
+Modèle
+Nous présentons ici un modèle canonique de trajectoire des finances publiques. Similaire à celui utilisé par les ana-
+lystes de la conjoncture, il capture les concepts essentiels en pratique. Ce modèle est, par exemple, enseigné à l’Institut 
+national du service public (ex-ENA) et sous-tend le modèle d’observation de la dette publique à l’OFCE (DebtWatch)1. 
+Le modèle est en temps continu, ce qui facilite une solution analytique et des intuitions graphiques. On écrit l’équation 
+de la dynamique du ratio de dette sur le PIB potentiel bt de la façon suivante :
+bṫ = (rt – gt
+* ) bt + dt – ϵOGt
+(1)
+Ici, bṫ est la dérivée du ratio dette/PIB par rapport au temps, rt est le taux d’intérêt réel instantané, gt
+*  le taux de crois-
+sance potentielle instantané, et on sépare le déficit primaire entre une composante structurelle dt, pilotée par le gou-
+vernement, et une composante conjoncturelle, que l’on suppose avoir une élasticité de ϵ par rapport à l’écart de pro-
+duction OGt (un écart de production de 1 point améliore le ratio de déficit sur PIB de ϵ points.)
+Le gouvernement a une dette initiale de b0 = b points de PIB, et un déficit primaire structurel initial de d0 = d points de 
+PIB. Il choisit le sentier de l’impulsion budgétaire IBt, qui affecte la dérivée de la trajectoire du déficit structurel primaire 
+relativement au PIB dṫ  : 
+dṫ = IBt	
+(2)
+Ainsi, quand IBt est négatif, le déficit structurel primaire s’améliore progressivement relativement au PIB. Par exemple, 
+une IB négative correspond à une situation où la croissance des dépenses publiques est plus faible que la croissance 
+du PIB potentielle et/ou le taux de prélèvements obligatoires augmente, soit deux façons de réaliser une consolidation 
+budgétaire2.
+Cependant, une impulsion budgétaire a un impact sur l’écart de production par le biais du multiplicateur des dépenses 
+publiques m, à savoir :
+OGt = m⋅IBt
+(3)
+Ainsi, une impulsion budgétaire négative diminue le PIB relativement au PIB potentiel3. Cette équation présuppose que 
+la politique monétaire n’accommode pas suffisamment la consolidation budgétaire en baissant les taux d’intérêts, hypo-
+thèse qui est réaliste dans le cadre d’une union monétaire. Notons qu’en principe, le multiplicateur m dépend du type 
+de consolidation qui est conduite (par les dépenses ou par les recettes) et est fonction du type de dépense que l’on 
+réduit et du type de recette que l’on augmente. Dans un modèle keynésien simple, par exemple, m est plus élevé pour 
+les dépenses que pour les recettes, mais la littérature empirique ne trouve pas de différence évidente entre les deux. 
+Dans le cas qui nous concerne, m est un paramètre que l’on prend comme donné, mais sa place centrale dans le modèle 
+montre l’importance de son évaluation empirique en pratique.
+Le problème de la consolidation optimale
+Nous nous plaçons dans le cas où rt = gt
+* , qui est une bonne approximation pour la France et donne des résultats parti-
+culièrement simples et intuitifs4. Le gouvernement cherche à stabiliser le ratio de dette sur PIB, après un horizon opti-
+mal de consolidation T, à un certain niveau bt. Les équations (1) à (3) impliquent que l’on doit avoir dt  = OGt = IBt = 0 
+pour t ≥ T. 
+
+=== page 3 ===
+3
+Consolider les finances publiques : une approche par le contrôle optimal
+Il faut donc réaliser une série d’impulsions budgétaires négatives IBt pour ramener progressivement le déficit de d0 = d 
+à dT = 0. Nous imposons la contrainte que IBt ≤ 0, c’est-à-dire que l’effort soit soutenu tout au long de la consolida-
+tion. Le problème est de déterminer un horizon optimal de consolidation T ainsi que la trajectoire optimale des finances 
+publiques  IBt  pour t < T. 
+Le gouvernement souhaite minimiser la dette en fin de consolidation bT , mais veut aussi lisser dans le temps l’écart de 
+production, que l’on suppose avoir un coût quadratique5. Ainsi, le problème de consolidation optimale s’écrit : 
+min ½ ∫0
+T  OGG
+2  dt + λbT 
+(4)
+Ici, λ représente le coût social d’un point supplémentaire de dette (lié aux engagements externes du pays, au risque de 
+remontée des taux d’intérêts, aux effets d’évictions, etc.) relativement à celui de lisser l’output gap. Le gouvernement 
+choisit le sentier des impulsions budgétaires IBt  ≤ 0 pour minimiser l’objectif (4) en respectant les contraintes macroé-
+conomiques (1), (2), (3) ainsi que la condition au bord ∫0
+T IBt dt = –d.
+La solution
+Le contrôle optimal donne la solution représentée sur la figure 1.
+Figure 1. Solution de consolidation optimale
+Déficit primaire structurel initial d
+Déficit primaire structurel dt
+Horizon optimal T
+nombre d’années t
+Pente optimale λ/m2
+Impulsion budgétaire IBt
+Impulsion initiale IB0
+Impulsion totale
+νIBtdt = – d
+À l’optimum, l’impulsion budgétaire prend la forme :
+(5)
+L’intuition est qu’on souhaite lisser l’impulsion budgétaire dans le temps, mais une impulsion budgétaire retardée de 
+t années augmente la dette de t points de plus qu’une impulsion budgétaire immédiate, donc l’impulsion est maximale 
+au début et diminue ensuite linéairement avec le temps. La condition au bord, qui impose que le déficit primaire soit 
+résorbé en fin de consolidation, est : 
+(6)
+5 L’hypothèse de coût quadratique de l’output gap peut être vue comme l’approximation de deuxième ordre d’un problème de maximisation de l’utilité 
+des citoyens. Voir, par exemple, Woodford (2003) : « Interest and Prices: Foundations of a Theory of Monetary Policy ».
+
+=== page 4 ===
+Focus, no 108, juillet 2024
+4
+6 Source : Programme de Stabilité (2024) : « tableau 5 : solde primaire corrigé des effets du cycle » (avril). Le déficit structurel de 2023 est estimé à 
+environ 4,8 points de PIB, et la charge d’intérêts à 1,7 point de PIB.
+Graphiquement, cette condition dit que l’aire du triangle orange sur la figure 1 est égale au déficit primaire structurel initial d.
+Enfin, le sentier du déficit structurel est dt  = d ((t–T)/T)2, ce qui implique que la dette en fin de consolidation est don-
+née par  
+bę = b + ϵmd + dT/3
+Intuitivement, la consolidation a un effet incompressible sur la dette terminale de ϵmd du fait des déficits conjoncturels 
+à réaliser. En plus de cela, un horizon de consolidation de T années crée une augmentation supplémentaire de la dette 
+égale à l’intégrale sous le sentier du déficit structurel (en bleu sur la figure 1), à savoir ୼b =  dT/3.
+Le modèle a l’implication pratique suivante sur la détermination de l’horizon de consolidation. D’une part, l’équation (6) 
+implique :
+Étant donné un déficit structurel initial de d, une impulsion budgétaire initiale maximale de x points donne donc un hori-
+zon de consolidation minimal de 2d/x . 
+Par ailleurs, nous avons :
+Si on se donne une augmentation maximale de la dette de y points, on a donc un horizon maximal de consolidation de 
+3y/d. Ainsi, on obtient une borne pour l’horizon optimal de consolidation de 2d/x  ≤ T ≤ 3y/d. Implicitement, ces considé-
+rations définissent une borne sur le ratio λ/m2 de coût de la dette relativement au multiplicateur des dépenses publiques.
+Application : la France en 2023
+Le Trésor estime que la France avait, en 2023, un déficit primaire structurel de d = 3,2 points de PIB6. L’ajustement structu-
+rel primaire maximal réalisable en une année se situe autour de x = 1 point de PIB. On a donc T ≥ 2 × 3,2/1 = 6,4 années. 
+Par ailleurs, la France part, en 2023, d’un niveau de dette de 110 points de PIB. Avec une élasticité du déficit conjonctu-
+rel à l’output gap de ϵ = 0,57 et un multiplicateur de m = 1 , la consolidation requiert une augmentation minimale de la 
+dette de ϵ = 0,57 × 1 × 3,2 points, ce qui la porterait à 111,8 points. En se donnant comme ligne rouge un taux maxi-
+mal de dette de 120 points de PIB en fin de consolidation, qui correspond à ୼b =  120 – 111,8 = 8,2 points, on a donc 
+y = 8,2. Ceci implique alors T ≤ (3 × 8,2)/3,1 =7,9 années. L’horizon optimal de consolidation est donc de 7 ans, ce qui 
+correspond à un poids implicite sur la dette relativement aux multiplicateurs de λ/m2 = 2d/T2 = (2 × 3,1)/72= 0,12, à 
+une impulsion budgétaire initiale de – λ/m2 × T = 0,84 points de PIB, et à un niveau de dette en fin de consolidation de 
+bT = b + ϵmd +dT/3 = 110 + 1,8 + (3,1 × 7)/3 = 119 points de PIB.
+La figure 2 présente l’effet simulé, dans notre modèle, d’une consolidation à divers horizons sur le ratio de dette 
+publique en fin de consolidation, l’ajustement budgétaire initial, et le chômage (on obtient ce dernier en faisant l’hypo-
+thèse d’un multiplicateur du chômage à l’impulsion budgétaire de 0,8).
+En visant un ajustement budgétaire initial légèrement inférieur à un point de PIB, la figure montre ainsi qu’un horizon 
+de consolidation d’au moins 7 ans est nécessaire. On pourrait faire le choix d’aller au-delà de 7 ans. Le graphique met 
+cependant en avant deux points importants. Le premier est le niveau de dette que l’on est prêt à accepter. Selon notre 
+simulation, une consolidation sur 7 ans donne un niveau de dette de 119 % de PIB en fin de consolidation. Chaque année 
+supplémentaire entraîne une augmentation de la dette d’environ 1 point de plus. Or, aujourd’hui seuls deux pays euro-
+péens ont un ratio de dette supérieur à 120 % du PIB : l’Italie (environ 140 %) et la Grèce (150 %). Le Portugal, quant à 
+lui, a pris des mesures fortes pour faire baisser sa dette lorsque celle-ci est passée au-dessus de 120 %. On peut donc 
+
+=== page 5 ===
+5
+Consolider les finances publiques : une approche par le contrôle optimal
+penser qu’il serait difficile de laisser la dette dépasser les 125 % de PIB sans risquer une forte hausse des taux d’intérêt 
+et des effets d’éviction coûteux.
+L’autre considération importante est celle des règles budgétaires européennes. Depuis juin 2024, la France fait l’objet 
+d’une procédure de déficit public excessif. Pour respecter ses engagements dans le cadre du volet correctif du pacte 
+de stabilité et de croissance, elle doit faire un ajustement structurel minimum de 0,5 point par an. Sur la base de ces 
+deux critères, la figure 2 montre qu’il faudrait placer l’horizon d’ajustement entre 7 et 12 ans.
+Pour conclure, une consolidation budgétaire en vue de réduire le déficit structurel doit se faire avec des impulsions bud-
+gétaires plus fortes en début de période et qui décroissent dans le temps, et le rythme général augmente avec le coût 
+de la dette et diminue avec la taille des multiplicateurs. Par exemple, une consolidation sur 7 ans implique de faire un 
+ajustement structurel primaire de 0,8 à 0,9 point de PIB en première année, diminué ensuite linéairement sur la période. 
+Si r=g, cela augmente la dette publique d’environ 9 points de PIB en fin de consolidation.
+En pratique, le gouvernement bénéficie d’un effet d’aubaine, avec des taux d’intérêt plus faibles à court terme sur le 
+stock de dette et une maturité élevée de la dette. Dans un scénario optimiste (programme de stabilité 2024-2027), cet 
+effet d’aubaine pourrait diminuer le ratio de dette de l’ordre de 5 points en 2027 par rapport à notre simulation où r=g.  
+Mais les marges de manœuvre offertes par cet effet d’aubaine ne sont pas très grandes et sont appelées à se réduire, 
+d’où la nécessité d’une consolidation qui commence sans tarder. Il est possible de faire le choix d’étaler la 
+consolidation sur plus de 7 ans, mais aller au-delà de 12 ans risque d’avoir un fort coût en termes de crédibilité           
+et d’aboutir à un niveau élevé de dette stabilisée.
+Figure 2. Quel horizon pour le plan de consolidation ? Effet sur la dette finale, l’ajustement budgétaire initial 
+et le chômage en première année
+Source : calculs des auteurs basés sur le modèle présenté dans ce Focus. Le modèle ne prend pas en compte l’effet probable sur les taux 
+d’intérêt d’une augmentation de la dette publique. Pour obtenir l’effet sur le chômage, on fait l’hypothèse d’un multiplicateur statique de 1 et 
+d’une élasticité du chômage à l’écart de production de 0,8.
+16 Pour des raisons de confidentialité, nous n’avons pas 
+accès aux données de CA déclarées dans les liasses 
+fiscales, mais seulement de l’information sur la tranche 
+de CA déclarée (en 5 tranches). Nous pouvons vérifier que 
+notre mesure du CA en termes
+14 Ces prélèvements sont corrigés des impayés, c’est-à-
+dire des prélèvements effectués mais annulés ensuite par 
+des virements créditeurs de même montant.
+15 Pour des raisons de confidentialité, nous n’avons pas 
+accès aux données de CA déclarées dans les liasses
+Le Conseil d’analyse économique, créé auprès du Premier ministre, a pour mission d’éclairer, par la confrontation 
+des points de vue et des analyses de ses membres, les choix du gouvernement en matière économique.
+Les publications du Conseil d’analyse économique 
+sont téléchargeables sur son site : www.cae-eco.fr
+ISSN 2971-3560 (imprimé)  
+ISSN 2999-2524 (en ligne)
+Directeur de la publication Camille Landais
+Directrice de la rédaction Hélène Paris
+Réalisation Hélène Spoladore
+Contact Presse Hélène Spoladore 
+helene.spoladore@cae-eco.fr  
+Tél. : 01 42 75 77 47 — 07 88 87 55 44
+TSA 20727, 75334 PARIS Cedex 07 — Téléphone : 01 42 75 76 84 — @CAEinfo — www.cae-eco.fr
+Président délégué Camille Landais
+Secrétaire générale Hélène Paris
+Conseillers scientifiques 
+Jean Beuve, Claudine Desrieux,  
+Maxime Fajeau, Thomas Renault
+Économistes/Chargés d’études 
+Circé Maillet, Max Molaro,  
+Ariane Salem
+Membres Adrien Auclert, Emmanuelle Auriol, 
+Antoine Bozio, Sylvain Chassang, Anne Epaulard, 
+Gabrielle Fack, François Fontaine, Julien Grenet, 
+Maria Guadalupe, Fanny Henriet, Xavier Jaravel, 
+Sébastien Jean, Camille Landais, Isabelle Méjean, 
+Thomas Philippon, Xavier Ragot, Alexandra Roulet, 
+Katheline Schubert, Jean Tirole 
+Correspondants
+Dominique Bureau, Anne Perrot, Aurélien Saussay, 
+Ludovic Subran

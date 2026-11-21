@@ -1,0 +1,2655 @@
+
+=== p.1 ===
+LES DOSSIERS DE LA DREES 
+N° 135 • février 2026 
+Dérembourser des soins 
+pour maîtriser la dépense 
+de santé : qui paie ? 
+Évaluation des effets d’une hausse des tickets 
+modérateurs, des franchises et des participations 
+forfaitaires sur les coûts supportés par les 
+ménages, selon le niveau de vie, l’état de santé et 
+l’âge 
+Alexandre Fauchon, Odran Bonnet (Drees) 
+
+=== p.2 ===
+ 
+ 
+
+=== p.3 ===
+    
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+ 
+Retrouvez toutes nos publications sur : drees.solidarites-sante.gouv.fr 
+Retrouvez toutes nos données sur : data.drees.solidarites-sante.gouv.fr 
+Dérembourser des soins 
+pour maîtriser la dépense 
+de santé : qui paie ? 
+Évaluation des effets d’une hausse des tickets 
+modérateurs, des franchises et des participations 
+forfaitaires sur les coûts supportés par les 
+ménages, selon le niveau de vie, l’état de santé et 
+l’âge 
+Alexandre Fauchon, Odran Bonnet (Drees) 
+Remerciements : Fanny Mikol, Benoît Ourliac, Aurélie Pierre, et Thomas Wanecq pour leurs 
+commentaires et suggestions. Les auteurs expriment également leur gratitude à l’ensemble 
+des participants du séminaire interne OSAM de la Drees, de la session de microsimulation 
+des JMS et de la conférence AFSE–DG Trésor 2025 
+ 
+ 
+ 
+
+=== p.4 ===
+ 
+ 
+ 
+ 
+ 
+
+=== p.5 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+ 
+ SYNTHÈSE 
+Le déremboursement partiel de certains soins est une piste d’économie régulièrement évoquée pour contenir les 
+dépenses de l’assurance maladie obligatoire. Pour un même objectif budgétaire, calibré à 1 milliard d’euros d’éco-
+nomie dans cette étude, plusieurs leviers peuvent être mobilisés : hausse des tickets modérateurs, des participa-
+tions forfaitaires, ou des franchises. Ces mesures se traduiraient pour les ménages par une hausse de leurs restes 
+à charge ou de leurs primes d’assurance complémentaire santé en moyenne de 35 euros par an. À partir d’un 
+modèle de microsimulation sur la France métropolitaine, cette étude compare différents scénarios en évaluant leur 
+impact financier sur les ménages selon leur niveau de vie, leur âge et leur état de santé. 
+Les déremboursements étudiés ici ont une finalité exclusivement budgétaire. Ils ne visent pas à modifier les choix 
+thérapeutiques des patients en les orientant vers des soins jugés plus efficaces, contrairement, par exemple, aux 
+déremboursements de certains médicaments à la suite d’un avis de la Haute Autorité de santé. En outre, l’étude 
+repose sur l’hypothèse d’un maintien de la consommation de soins à son niveau actuel, sans prise en compte 
+d’éventuelles modifications de comportement, telle qu’une baisse du recours à certains soins, médicaments ou 
+consultations. Cette hypothèse est plus fragile dans le cas du scénario d’une hausse de participations forfaitaires 
+et franchises, généralement non prises en charge par les complémentaires : celles-ci pourraient entraîner un re-
+noncement à certains soins, notamment pour les moins aisés. Cela se traduirait par un moindre respect des pres-
+criptions médicamenteuses ou par une diminution du nombre de consultations. Cet effet sur le recours aux soins 
+pourrait toutefois être atténué par le manque de lisibilité des montants dus au titre des participations et des fran-
+chises : ces sommes ne sont pas acquittées au moment de la consommation de soins, mais prélevées a posteriori, 
+le plus souvent en déduction d’autres remboursements par l’assurance maladie obligatoire. 
+Grâce à la complémentaire santé solidaire (C2S), qui exonère de tickets modérateurs, de franchises et de partici-
+pations forfaitaires, les 20 % de ménages les plus modestes subiraient une augmentation moyenne du coût lié aux 
+déremboursements environ deux fois inférieure à celle des 20 % de ménages les plus aisés (20 euros contre 40 eu-
+ros). Cependant, la C2S ne couvrant pas l’ensemble des ménages modestes, en raison du non-recours ou de 
+revenus légèrement supérieurs au seuil d’éligibilité, le coût supporté par ces ménages n’est pas nul. Ainsi, quelle 
+que soit la mesure envisagée, la hausse des dépenses, lorsqu’elle est rapportée au revenu, est plus élevée pour 
+les ménages modestes : en moyenne deux fois supérieure à celle observée pour les ménages aisés (graphique A). 
+Les ménages âgés ou en mauvaise santé seraient diversement affectés selon la mesure retenue (graphique B). 
+Relever les franchises médicales ou les participations forfaitaires augmenterait directement le reste à charge des 
+ménages en fonction de leur consommation de soins, et pénaliserait donc davantage les personnes déclarant un 
+mauvais état de santé. À l’inverse, une hausse du ticket modérateur, généralement couvert par les complémen-
+taires santé, se traduirait par une augmentation des primes, répartie entre l’ensemble des assurés bénéficiant du 
+même contrat, qu’ils soient en mauvaise santé ou non. Toutefois, les retraités n’étant pas couverts par les mêmes 
+contrats que les actifs, une hausse du ticket modérateur sur des dépenses particulièrement concentrées chez les 
+plus âgés (par exemple les médicaments) engendrerait une augmentation de primes nettement plus forte pour les 
+retraités que pour les actifs. Le choix des paramètres joue enfin un rôle déterminant dans les effets redistributifs 
+observés : augmenter le plafond des franchises médicales coûte davantage aux ménages âgés ou en mauvaise 
+santé qu’une hausse de leur montant unitaire. 
+À titre de comparaison, une hausse proportionnelle de l’ensemble des prélèvements finançant l’assurance maladie 
+obligatoire (TVA, cotisations sociales, CSG, etc.), pèserait moins sur les ménages modestes, malades et âgés que 
+les déremboursements examinés. Toutefois, à niveau de vie donné, une telle hausse uniforme affecterait davan-
+tage les actifs que les retraités et serait susceptible d’avoir un effet sur l’emploi, via la hausse des cotisations mais 
+aussi des prix. Ces effets de bouclage macroéconomique ne sont pas analysés dans le cadre de cette étude. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== p.6 ===
+ 
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Drees Méthodes n° 135 > février 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Graphique A Coût moyen par ménage des mesures simulées, selon le cinquième de niveau de vie 
+En euros 
+ 
+ 
+En % du revenu 
+ 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 1 milliard d'euros. 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes exige des 20 % de ménages les plus modestes un 
+effort s'élevant à 23 euros, soit 0,12 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+0
+10
+20
+30
+40
+50
+1er
+2e
+3e
+4e
+5e
+0,00
+0,04
+0,08
+0,12
+0,16
+1er
+2e
+3e
+4e
+5e
+Ticket modérateur sur les consultations médicales et de sages-femmes
+Ticket modérateur sur le dentaire
+Ticket modérateur sur les médicaments
+Participations forfaitaires (consultations médicales et laboratoires)
+Franchises médicales (médicaments, auxiliaires médicaux et transports)
+
+=== p.7 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Drees Méthodes n° 135 > février 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Graphique B Coût moyen par ménage des mesures simulées, selon l'âge et l'état de santé déclaré de la 
+personne la plus âgée du ménage 
+En euros 
+ 
+En % du revenu 
+ 
+ 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 1 milliard d'euros. 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes exige des ménages de moins 65 ans en très bon 
+état de santé un effort s'élevant à 37 euros soit 0,08 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+Très bon
+Bon
+Moyen
+(Très) mauvais
+Très bon
+Bon
+Moyen
+(Très) mauvais
+Très bon
+Bon
+Moyen
+(Très) mauvais
+Très bon
+Bon
+Moyen
+(Très) mauvais
+Très bon
+Bon
+Moyen
+(Très) mauvais
+Ticket modérateur
+sur les consultations
+médicales et de
+sages-femmes
+Ticket modérateur
+sur le dentaire
+Ticket modérateur
+sur les
+médicaments
+Participations
+forfaitaires
+(consultations
+médicales et
+laboratoires)
+Franchises
+médicales
+(médicaments,
+auxiliaires médicaux
+et transports)
+Moins de 65 ans
+65 ans ou plus
+
+=== p.8 ===
+ 
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Drees Méthodes n° 135 > février 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== p.9 ===
+
+=== p.10 ===
+ 
+2 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+SOMMAIRE 
+ SYNTHÈSE........................................................................................................................................ 5 
+ INTRODUCTION ............................................................................................................................... 4 
+ REVUE DE LITTÉRATURE ............................................................................................................... 8 
+ CONTEXTE INSTITUTIONNEL : UNE BRÈVE HISTOIRE DE LA PRISE EN CHARGE DES 
+DÉPENSES DE SANTE .................................................................................................................... 9 
+ DONNÉES : LE MODÈLE DE MICROSIMULATION INES-OMAR ................................................. 10 
+ MÉTHODE ....................................................................................................................................... 11 
+Estimer l’impact de la baisse du remboursement de l’assurance maladie obligatoire pour 
+chaque poste de soin et chaque ménage .................................................................................... 11 
+Répercuter la hausse des remboursements à effectuer par les complémentaires sur les 
+primes des ménages ..................................................................................................................... 11 
+Calculer des indicateurs agrégés d’inégalités ............................................................................ 12 
+ LES MESURES SIMULÉES ............................................................................................................ 15 
+Mesures portant sur le ticket modérateur.................................................................................... 15 
+Mesures portant sur les participations forfaitaires ou les franchises médicales .................... 16 
+Mesure portant sur les prélèvements permettant de financer l’assurance maladie obligatoire
+ ......................................................................................................................................................... 16 
+ RÉSULTATS ................................................................................................................................... 17 
+Les ménages modestes sont les plus affectés, quelle que soit la mesure de 
+déremboursement simulée ........................................................................................................... 17 
+Les participations forfaitaires et les franchises pénalisent davantage les personnes en 
+mauvaise santé que les tickets modérateurs .............................................................................. 19 
+Augmenter les recettes via une hausse des prélèvements pèse moins sur les modestes et 
+les personnes se déclarant en mauvaise santé .......................................................................... 23 
+Franchises : augmenter le plafond annuel fait peser le coût de la mesure sur les ménages 
+âgés et en mauvaise santé ............................................................................................................ 24 
+ DISCUSSION................................................................................................................................... 26 
+Est-il raisonnable de supposer que le recours aux soins n’est pas modifié à la suite d’un 
+déremboursement ? .......................................................................................................................... 26 
+Absence de réaction sur le marché du travail .................................................................................... 27 
+Simplification de la réaction des complémentaires santé ................................................................... 27 
+Limites propres au modèle de microsimulation Ines-Omar 2019 ....................................................... 27 
+D’autres mesures de déremboursements pourraient être simulées ................................................... 27 
+ POUR EN SAVOIR PLUS ............................................................................................................... 29 
+Annexe 1. Simulation des participations forfaitaires et franchises « potentielles » (au-delà du plafond 
+annuel) 
+31 
+Annexe 2. Simulation des primes .......................................................................................................... 33 
+Annexe 3. Calcul du score d’état de santé (à destination de l’indicateur d’équité horizontale) ............. 35 
+Annexe 4. Impact redistributif du déremboursement des médicaments à service médical rendu faible ou 
+modéré 
+37 
+Annexe 5. Chiffrages des mesures ou projets passés, avec le modèle Ines-Omar 2019 ..................... 38 
+Annexe 6. Graphiques complémentaires .............................................................................................. 39 
+
+=== p.11 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== p.12 ===
+ 
+4 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+ INTRODUCTION 
+En 2024, le déficit de la Sécurité sociale s’élève à 15 milliards d’euros, dont 14 milliards pour la branche maladie1 2. 
+Dans le but de réduire ce déficit, différentes pistes de déremboursements sont régulièrement évoquées dans le 
+débat public3, comme une baisse de prise en charge des consultations médicales et des médicaments, ou un 
+relèvement du plafond annuel des participations forfaitaires et franchises médicales. Quels sont les effets à attendre 
+de ces mesures sur la solidarité du système de protection sociale en santé ? Dans quelle mesure une baisse des 
+remboursements par l’assurance maladie obligatoire affecterait-elle les ménages selon leurs revenus (équité verti-
+cale) mais aussi selon leur état de santé (équité horizontale) ? Quels sont les ménages les plus affectés selon les 
+postes de soins et les leviers actionnés ? 
+En France, depuis le début des années 2010, les dépenses de santé s’élèvent à 9 % du PIB. Elles sont financées 
+à 79 % par la Sécurité sociale et les autres administrations publiques (Delecourt et Didier, 2025). La part prise en 
+charge par les administrations publiques connaît une augmentation lente mais continue entre 2011 et 2017 
+(+2 points en cumulé sur la période), puis marquée entre 2019 et 2020 (+2 points), avant de se stabiliser. Cette 
+hausse macroéconomique de la part des dépenses de santé prise en charge par les administrations publiques sur 
+les 15 dernières années s’explique par la forte progression du nombre de personnes exonérées de ticket modéra-
+teur au titre des affections de longue durée (ALD), qui découle du vieillissement de la population, par la plus forte 
+prévalence d’ALD à âge donné et potentiellement par l’augmentation du coût des traitements thérapeutiques. 
+Pour contenir les dépenses de la branche maladie de la sécurité sociale, mais aussi pour améliorer l’efficience de 
+la consommation de soins, différentes mesures « paramétriques » ont été introduites ces dernières années : baisse 
+du remboursement des médicaments à faible service médical rendu « vignette bleue » (2011), et, plus récemment, 
+déremboursement des médicaments homéopathiques (2021), hausse du ticket modérateur sur les soins dentaires 
+(2023), hausse des participations forfaitaires sur les consultations médicales et les analyses de biologie (2024), et 
+hausse des franchises médicales sur les médicaments, les actes paramédicaux et les transports sanitaires (2024). 
+Ces mesures, à comportements et consommation de soins inchangés, augmentent les restes à charge ou les 
+primes à verser aux organismes complémentaires. 
+Les mesures étudiées dans cette publication ont une visée exclusivement budgétaire. Elles ne sont pas conçues 
+pour réorienter les patients vers des traitements jugés plus efficaces, contrairement, par exemple, à certains dé-
+remboursements décidés à la suite d’un avis de la Haute Autorité de santé. Les mesures de restriction budgétaire 
+étudiées ici se répartissent en deux grandes catégories. Les premières augmentent les tickets modérateurs qui 
+sont remboursés par les assurances maladies complémentaires « responsables » (les contrats « responsables » 
+couvrent 98 % des bénéficiaires de complémentaires [Drees, 2024] et 96 % de la population est couverte par une 
+couverture complémentaire). Elles transfèrent des remboursements de l’assurance maladie obligatoire vers l’assu-
+rance maladie complémentaire. De telles mesures n’augmentent pas le reste à charge final des ménages – sauf 
+pour les personnes qui ne sont pas couvertes par une complémentaire santé – mais augmentent les primes des 
+contrats. Les secondes mesures augmentent les participations forfaitaires ou les franchises, qui ne sont pas rem-
+boursables par les contrats de complémentaire santé responsables. Elles augmentent donc directement les restes 
+à charge des ménages qui recourent aux soins concernés. Pour ce deuxième jeu de mesures, seuls les patients 
+ayant consommé les soins partiellement déremboursés voient leur fardeau augmenter ; pour les premières, toute 
+personne ayant souscrit une complémentaire santé peut être affectée par la hausse des primes. De ce fait, les 
+premières mesures mutualisent davantage le surcoût entre malades et bien portants. 
+De façon plus précise, cinq mesures de restrictions budgétaires sont ainsi considérées dans ce travail (tableau 1). 
+Ces cinq mesures ont été retenues car elles agissent sur des paramètres variés (tickets modérateurs, franchises) 
+et concernent plusieurs postes de soins. Ce choix permet d’offrir une vision d’ensemble des effets différenciés 
+associés à chacun des leviers envisagés4 5. Trois mesures concernent des hausses de ticket modérateur (sur les 
+consultations médicales et de sages-femmes, sur les soins dentaires, ou encore sur les médicaments), et deux se 
+ 
+1 Source DSS : Le solde des comptes de la sécurité sociale s’établit à -15,3 Md€ en 2024 - Ministère du Travail, de la Santé, des Solidarités 
+et des Familles 
+2 Le rapport conjoint de trois Haut conseils (HCAAM, HCFEA, HCFIPS, 2025) saisis par le premier ministre sur le sujet souligne que les 
+causes de ce déficit sont structurelles : la dynamique spontanée des dépenses est plus rapide que celle des recettes, sous l’effet du 
+vieillissement de la population, d’un contexte épidémiologique défavorable et de l’impact de l’innovation médicale. S’y ajoutent des gains 
+de productivité durablement plus faibles dans les secteurs à forte intensité de main-d’œuvre, comme la santé, par rapport au reste de 
+l’économie, ainsi que la revalorisation des rémunérations lors de la crise sanitaire. 
+3 Comme dans les tribunes de journaux (Dormont, 2024). 
+4 Par ailleurs, certaines ont déjà été mises en œuvre sous des formes proches (cf. section contexte institutionnel), tandis que d’autres ont 
+fait l’objet de discussions lors de la préparation du projet de loi de financement de la sécurité sociale (PLFSS) 2025. 
+5 D’autres leviers auraient également pu être envisagés, comme l’augmentation du forfait journalier hospitalier ou de la participation for-
+faitaire pour actes lourds. De telles mesures auraient eu un impact comparable à celui d’une hausse du ticket modérateur sur les médica-
+ments, puisqu’elles toucheraient elles aussi une dépense généralement prise en charge par les complémentaires, et portant sur des 
+postes de soins consommés de manière relativement plus importante par les personnes âgées ou en mauvaise santé. 
+
+=== p.13 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 5
+ 
+traduisent par une hausse des montants unitaires des participations forfaitaires, des franchises et de leurs plafonds. 
+Les mesures ne modifient pas les règles d’exonération des patients en ALD ou à la complémentaire santé solidaire 
+(C2S)6. Les bénéficiaires ALD sont directement concernés par les hausses de franchises et de participations for-
+faitaires, dont ils ne sont pas exonérés. Bien qu’exonérés du ticket modérateur pour les soins liés à leur affection, 
+ils restent eux aussi concernés par une hausse du ticket modérateur : comme les autres assurés, ils en subissent 
+les effets indirects à travers l’augmentation des primes de leurs complémentaires santé. En revanche, les bénéfi-
+ciaires de la C2S, dont les tickets modérateurs, participations forfaitaires et franchises sont entièrement pris en 
+charge, ne sont pas affectés par les mesures étudiées. 
+Les mesures sont calibrées pour atteindre une économie budgétaire ex ante, c’est-à-dire à comportements et con-
+sommation de soins inchangés7, de l’ordre de 1 milliard d’euros. Le coût s’élève donc en moyenne à 35 euros par 
+ménage, soit 0,1 % de leur revenu. Ce travail a ainsi pour objet de comparer les effets redistributifs de différentes 
+mesures de réduction budgétaire. En complément et à titre illustratif, elles sont comparées à une hausse propor-
+tionnelle de l’ensemble des prélèvements finançant l’assurance maladie obligatoire, pour un même montant de 
+1 milliard d’euros. Les mesures sont comparées uniquement sous l’angle de l’équité de leur financement, sans 
+évaluer la pertinence thérapeutique du déremboursement d’un poste de soin plutôt que d’un autre. 
+Des scénarios additionnels, par exemple des variantes portant sur les montants et le plafond des franchises, sont 
+par ailleurs simulés à la fin de cet article. Contrairement aux mesures précédemment considérées, ces variantes 
+ne se chiffrent pas nécessairement à 1 milliard d’euros d’économie. 
+Les effets redistributifs de telles mesures sont estimés au moyen du modèle de microsimulation Ines-Omar 2019. 
+À partir d’un échantillon de ménages pour lesquels sont observés l’ensemble des dépenses de santé présentées 
+au remboursement ainsi que les montants pris en charge par l’Assurance maladie, le modèle Ines-Omar simule à 
+la fois les remboursements effectués par les complémentaires santé, les primes d’assurance correspondantes et 
+les contributions du ménage au financement de l’assurance maladie obligatoire (par la TVA, les cotisations sociales, 
+la CSG, etc.). Par construction, les mesures sont supposées neutres pour les complémentaires santé : tout nou-
+veau remboursement exigé de leur part est compensé par une hausse des primes d’assurance pour leurs cotisants. 
+La hausse des primes est répartie entre les assurés en fonction de leurs caractéristiques. Pour chaque individu 
+appartenant à un groupe défini par le type de contrat (collectif ou individuel), le niveau de couverture (trois modali-
+tés) et la tranche d’âge, la prime est augmentée du montant moyen de remboursement additionnel perçu par ce 
+groupe du fait de la mesure. 
+Toutes ces mesures paramétriques, qui transfèrent la charge de l’assurance maladie obligatoire vers d’autres fi-
+nanceurs (complémentaires ou ménages), pénalisent davantage les ménages modestes que les ménages aisés 
+en proportion de leurs revenus. Elles ont par ailleurs un effet plus marqué qu’une hausse des prélèvements pour 
+les 60 % de ménages les plus modestes. Selon les mesures, le coût supporté par les 20 % de ménages les plus 
+modestes est compris dans une fourchette de 20 à 23 euros, contre 39 à 43 euros pour les 20 % de ménages les 
+plus aisés8. Ces montants représentent respectivement 0,12 % à 0,13 % du revenu des ménages les plus mo-
+destes, contre 0,05 % à 0,06 % pour les ménages les plus aisés. Relativement à leurs ressources, l’effort serait 
+ainsi deux fois plus important pour les ménages les plus modestes, quelle que soit la mesure considérée. Les 
+exonérations dont bénéficient les assurées à la complémentaire santé solidaire ne protègent pas entièrement les 
+plus modestes : le taux de recours au dispositif est partiel et tous les ménages modestes n’y sont pas éligibles (le 
+plafond d’éligibilité se situe sous le seuil de pauvreté pour une personne seule). 
+Par ailleurs, l’impact des mesures varie fortement selon le type de soin concerné et le mode de contribution retenu. 
+Une hausse des participations forfaitaires ou des franchises accroît directement le reste à charge des plus gros 
+consommateurs de soins, et touche donc davantage les personnes les plus malades. Une hausse du ticket modé-
+rateur, généralement couvert par les complémentaires santé, se traduirait par une augmentation des primes, ré-
+partie entre l’ensemble des assurés bénéficiant du même contrat, qu’ils soient malades ou non. Toutefois, les 
+retraités n’étant pas couverts par les mêmes contrats que les actifs, une hausse du ticket modérateur sur des 
+dépenses particulièrement concentrées chez les plus âgés – par exemple les médicaments – engendrerait une 
+augmentation de primes nettement plus forte pour les retraités que pour les actifs. Une augmentation des tickets 
+modérateurs sur les consultations médicales aurait un impact plus homogène sur les primes payées entre les plus 
+jeunes et les plus âgés. Enfin, le choix des paramètres importe : relever le plafond annuel des franchises pèse 
+ 
+6 La complémentaire santé solidaire remplace la couverture maladie universelle et l’aide au paiement d’une complémentaire santé depuis 
+le 1er novembre 2019. 7 On suppose ainsi que les diminutions de remboursement de l’assurance maladie publique n’ont pas d’effet sur le 
+recours ni sur le renoncement aux soins. Les pratiques des professionnels de santé sont également supposées inchangées, notamment 
+en ce qui concerne la prescription de médicaments des médecins. 
+7 On suppose ainsi que les diminutions de remboursement de l’assurance maladie publique n’ont pas d’effet sur le recours ni sur le 
+renoncement aux soins. Les pratiques des professionnels de santé sont également supposées inchangées, notamment en ce qui concerne 
+la prescription de médicaments des médecins. 
+8 En moyenne, le coût en valeur absolue reste plus faible pour les ménages les plus modestes par rapport aux ménages les plus aisés 
+(Tableau 1). 
+
+=== p.14 ===
+ 
+6 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+relativement plus sur les ménages âgés ou en mauvaise santé qu’une hausse du montant unitaire de ces fran-
+chises. 
+La section 1 décrit les contributions de cette publication à la littérature sur la redistributivité du système de santé, 
+la section 2, le système de financement des dépenses de santé en France, la section 3 présente les données 
+mobilisées et le modèle de microsimulation Ines-Omar, la section 4 explique les méthodes de simulation de l’impact 
+des mesures, la section 5 détaille les mesures évaluées, la section 6 présente les principaux résultats et enfin la 
+section 7 propose une discussion des limites de l’approche mobilisée. 
+ 
+ 
+ Tableau 1 Description des mesures évaluées 
+Nature du coût 
+supporté par les 
+ménages 
+Description de la 
+mesure 
+Paramètres de la mesure 
+Gain moné-
+taire 
+Principale popu-
+lation affectée 
+Coût moyen 
+par ménage 
+Coût moyen 
+par ménage 
+du 1er cin-
+quième 
+de 
+niveau 
+de 
+vie 
+Coût moyen pour 
+les ménages dont 
+la personne la 
+plus âgée est en 
+mauvaise santé  
+Augmentation 
+des primes 
+Hausse du ticket 
+modérateur 
+sur 
+les consultations 
+médicales et de 
+sages-femmes  
+Passage du ticket modéra-
+teur de 30 % à 37,8 %. 
+ 
+1 Md€ 
+Tous les bénéfi-
+ciaires 
+d’une 
+complémentaire 
+(y compris ALD, 
+sauf C2S) et non 
+bénéficiaires 
+consommant les 
+soins affectés. 
+0,1 % du re-
+venu dispo-
+nible (35 eu-
+ros) 
+0,12 % du re-
+venu dispo-
+nible (23 eu-
+ros) 
+0,10 % du revenu 
+disponible (30 eu-
+ros) 
+Hausse du ticket 
+modérateur 
+sur 
+les 
+soins 
+den-
+taires  
+Passage du ticket modéra-
+teur de 40 % à 63,6 %. 
+1 Md€ 
+0,1 % du re-
+venu dispo-
+nible (35 eu-
+ros) 
+0,12 % du re-
+venu dispo-
+nible (21 eu-
+ros) 
+0,11 % du revenu 
+disponible (31 eu-
+ros) 
+Hausse du ticket 
+modérateur 
+sur 
+les médicaments  
+Augmentation 
+de 
+12,2 
+points du ticket modéra-
+teur selon le taux initial (de 
+35 % à 47,2 %, de 70 % à 
+82,2, de 85 % à 97,2 %) 
+1 Md€ 
+0,1 % du re-
+venu dispo-
+nible (35 eu-
+ros) 
+0,13 % du re-
+venu dispo-
+nible (21 eu-
+ros) 
+0,15 % du revenu 
+disponible (41 eu-
+ros) 
+Augmentations 
+des 
+restes 
+à 
+charge 
+Hausses des parti-
+cipations 
+forfai-
+taires 
+La participation forfaitaire 
+passe de 2 euros à 3,80 eu-
+ros, tandis que le plafond 
+annuel est porté de 50 à 
+100 euros 
+1 Md€ 
+Tous les con-
+sommants 
+des 
+soins 
+affectés  
+(y compris ALD, 
+sauf C2S). 
+ 
+0,1 % du re-
+venu dispo-
+nible (35 eu-
+ros) 
+0,12 % du re-
+venu dispo-
+nible (20 eu-
+ros) 
+0,16 % du revenu 
+disponible (44 eu-
+ros) 
+Hausses des fran-
+chises médicales 
+La 
+franchise 
+passe 
+à 
+2,30 euros pour les médi-
+caments et auxiliaires mé-
+dicaux, à 9,20 euros pour 
+les transports sanitaires, et 
+le plafond annuel aug-
+mente à 100 euros (contre 
+1 euro, 4 euros et 50 euros 
+auparavant). 
+1 Md€ 
+0,1 % du re-
+venu dispo-
+nible (35 eu-
+ros) 
+0,13 % du re-
+venu dispo-
+nible (21 eu-
+ros) 
+0,18 % du revenu 
+disponible (49 eu-
+ros) 
+Variantes simulant diffé-
+rentes hausses des mon-
+tants ou du plafond 
+Variable 
+Variable 
+Variable 
+Variable 
+Hausse des pré-
+lèvements 
+Augmentation 
+proportionnelle 
+de l’ensemble des 
+prélèvements 
+fi-
+nançant 
+l’assu-
+rance 
+maladie 
+obligatoire 
+ 
+1 Md€ 
+Tous 
+0,1 % du re-
+venu dispo-
+nible (35 eu-
+ros) 
+0,06 % du re-
+venu dispo-
+nible (11 eu-
+ros) 
+0,06 % du revenu 
+disponible (21 eu-
+ros) 
+ 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes se traduit par une hausse du coût moyen par 
+ménage de l'ordre de 0,1% du revenu disponible (35 euros). 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+
+=== p.15 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 7
+ 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+
+=== p.16 ===
+ 
+8 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+ REVUE DE LITTÉRATURE 
+L’étude contribue à une littérature qui évalue l’équité des systèmes d’assurance maladie (Wagstaf, et al., 2007). 
+« Le premier objectif d’un système d’assurance maladie, qu’il soit public ou privé, est une mutualisation des risques 
+entre malades et bien portants. C’est la traduction même du principe de mutualisation des risques qui est au fon-
+dement de toute activité d’assurance. » (Jusot et Lemoine, 2024). Il est alors question d’équité « horizontale ». 
+Cette équité n’est en général pas respectée dans les systèmes de santé, où les restes à charge sont le moins 
+réglementés, car ils pénalisent les patients en mauvais état de santé. En France, les dépenses de santé les plus 
+élevées bénéficient d’un meilleur niveau de remboursement (Cometx et Pierre, 2022), et le reste à charge des 
+ménages — équivalant à 1,1 % de leur revenu disponible — demeure inférieur à celui observé dans la plupart des 
+pays européens (Delecourt et Didier, 2025). Toutefois, en l’absence de mécanisme de plafonnement, des montants 
+parfois importants peuvent rester à la charge des assurés après remboursement par l’assurance maladie obliga-
+toire. Les participations financières à l’hôpital (ticket modérateur et forfait journalier) apparaissent particulièrement 
+pénalisantes pour les ménages modestes dépourvus de couverture complémentaire (Perronnin, 2016). 
+En France, le financement de l’assurance maladie obligatoire contribue à réduire les inégalités de niveau de vie 
+(Fouquet et Pollak, 2022). En comptabilisant toutes les sources de financement, le système français est, de fait, 
+légèrement progressif : les ménages aisés y contribuent plus que proportionnellement à leurs revenus (Jusot, et 
+al., 2016) ; il est alors question d’équité « verticale ». La redistributivité et la progressivité d’un système de santé 
+varient beaucoup selon les pays et les modalités de financement (Luyten et Tubeuf, 2025) : plus la part du finan-
+cement par l’impôt est importante, plus le système est progressif ; à l’inverse, plus les paiements directs sont élevés, 
+plus il devient régressif. 
+Réformer le système de santé est de nature à modifier l’équité de son financement. Plafonner certains restes à 
+charge en soins de ville, et financer ce « bouclier » par des franchises, pourrait rendre plus équitable le système 
+de santé, en allégeant notamment la contribution des patients avec les dépenses les plus importantes (Briet, et al., 
+2007 ; Debrand et Sorasith, 2010 ; Geoffard et de Lagasnerie, 2012), de même qu’une modification de l’articulation 
+entre assurance privée et publique (Dormont, et al., 2014). Supprimer les tickets modérateurs, et donc transférer 
+une partie des remboursements des complémentaires santé vers l’assurance maladie obligatoire, bénéficierait prin-
+cipalement aux ménages de retraités (Lancry, 2022). Le dispositif des affections de longue durée (ALD), quant à 
+lui, permet à ses bénéficiaires d’être exonérés du ticket modérateur pour les soins en lien avec leur pathologie, 
+limitant ainsi le reste à charge des patients les plus gravement atteints. En raison de son coût élevé, plusieurs 
+scénarios de réforme ont été (et sont encore) envisagés : l’instauration d’un ticket modérateur réduit, la suppression 
+de l’exonération pour certains soins spécifiques (comme les cures thermales ou les médicaments à service médical 
+rendu faible), ou encore le remplacement du dispositif par un bouclier sanitaire (IGF, 2024). 
+Cette publication n’évalue pas un dispositif en particulier ni une modification structurelle du système de finance-
+ment, mais compare les effets redistributifs de différentes mesures paramétriques modifiant les participations fi-
+nancières (tickets modérateurs, participations forfaitaires, franchises médicales), dans la lignée des « cahiers de 
+variantes » appliqués aux réformes socio-fiscales (par exemple, Sicsic, 2020). L’analyse intègre le rôle des com-
+plémentaires en simulant l’impact des mesures sur les primes et sur les restes à charge après remboursements 
+des complémentaires, et prend également en compte d’autres critères d’équité, notamment l’état de santé et l’âge 
+(équité horizontale). 
+ 
+
+=== p.17 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 9
+ 
+ CONTEXTE INSTITUTIONNEL : UNE BRÈVE HISTOIRE 
+DE LA PRISE EN CHARGE DES DÉPENSES DE SANTE 
+En France, le financement des dépenses de santé repose sur trois types d’acteurs : les administrations publiques9, 
+les assurances santé privées et les contributions directes des patients. Les assurances privées sont qualifiées de 
+« complémentaires », car elles interviennent sur le même périmètre de soins que l’assurance maladie obligatoire 
+(AMO), en prenant en charge tout ou partie du reste à payer (Lapinte, et al., 2024). Les dépenses de santé se 
+composent du tarif de convention — appelé base de remboursement de la Sécurité sociale (BRSS) — et des 
+éventuels dépassements liés à la liberté tarifaire. Les mesures paramétriques étudiées ici portent sur la part du tarif 
+de convention prise en charge par l’assurance maladie obligatoire. 
+Dès sa création en 1945, la Sécurité sociale instaure une participation financière des assurés, le ticket modéra-
+teur, à hauteur de 20 % de la BRSS. L’objectif est de faire contribuer financièrement les cotisants pour qu’ils mo-
+dèrent leurs dépenses de santé, de maîtriser les dépenses publiques, et d’intégrer les acteurs privés déjà présents 
+avant la création de la Sécurité sociale (Da Silva, 2022). Certains patients comme les bénéficiaires du dispositif 
+d’affection de longue durée (ALD) en sont exonérés sur le champ des soins en lien avec leur affection. Depuis 
+1945, le ticket modérateur a augmenté pour atteindre entre 30 % et 85 % de la BRSS selon la catégorie du soin ou 
+l’intérêt thérapeutique du produit de santé. Récemment, en octobre 2023, le ticket modérateur pour les soins den-
+taires passe de 30 % à 40 % de la BRSS. Si l’un des objectifs initiaux du ticket modérateur était de modérer la 
+consommation, l’incitation est quasi-nulle pour les bénéficiaires d’une complémentaire santé « responsable »10 
+puisque ces derniers sont entièrement remboursés de ces tickets modérateurs, quelle que soit leur consommation 
+de soin. 
+L’assurance maladie obligatoire introduit en 2005 des participations forfaitaires, non remboursables par les com-
+plémentaires dites responsables. Ces participations sont initialement fixées à 1 euro, avec un plafond de 4 euros 
+par jour pour un même professionnel de santé et de 50 euros par an et par assuré. Depuis 2008, des franchises 
+médicales s’appliquent également aux boîtes de médicaments et aux actes paramédicaux (0,50 euro chacun), 
+ainsi qu’aux transports sanitaires (2 euros). Ces franchises sont plafonnées à 2 euros par jour pour les actes para-
+médicaux et à 4 euros pour les transports sanitaires, dans la limite de 50 euros par an. Le 31 mars 2024, les mon-
+tants unitaires et les plafonds journaliers des participations forfaitaires et franchises sont doublés, mais les plafonds 
+annuels restent inchangés. 
+Dans le but de limiter les restes à charge pour les plus modestes et d’éviter le renoncement aux soins, la couverture 
+maladie complémentaire (CMU-C) a été créée par la loi du 27 juillet 1999. Elle vise à garantir un accès gratuit à 
+une complémentaire santé pour les personnes disposant de faibles ressources. Attribuée sous condition de res-
+sources, la CMU-C permet la prise en charge intégrale du ticket modérateur, mais également des participations 
+forfaitaires et des franchises. La CMU-C, ainsi que l’aide au paiement d’une complémentaire santé (ACS) sont 
+remplacées au 1er novembre 2019 par la complémentaire santé solidaire (C2S). Ce dispositif n’évite cependant 
+pas tous les restes à charge pour ses bénéficiaires (Bonnet et Desjonquères, 2025). De plus, toutes les personnes 
+modestes n’en bénéficient pas : en 2021, le taux de recours à ce dispositif parmi les éligibles était de 56 % (Feller, 
+2024) et le plafond d’éligibilité de 13 957 euros annuel, soit un montant inférieur au seuil de pauvreté. 
+ 
+La proportion de bénéficiaires d’une couverture complémentaire a augmenté depuis trente ans de 86,5 % en 1996 
+à 96 % en 2019, pour ensuite se stabiliser. Les contrats « responsables » couvrent désormais 98 % des bénéfi-
+ciaires de complémentaires (hors C2S). 
+ 
+ 
+ 
+9La Sécurité sociale en particulier, et de façon plus résiduelle l’État, à travers notamment le dispositif d’aide médicale de l’État (AME). 
+10Les contrats de complémentaire santé dits « responsables » sont définis par la loi du 13 août 2004. Un certain nombre d’obligations et 
+de limites de remboursement sont fixées, en contrepartie d’avantages fiscaux et sociaux pour les organismes complémentaires qui les 
+commercialisent. Les tickets modérateurs (sauf éventuellement pour les médicaments à SMR faible ou modéré) doivent être remboursés 
+intégralement, les participations forfaitaires et les franchises ne doivent pas être prises en charge. 
+
+=== p.18 ===
+ 
+10 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+ DONNÉES : LE MODÈLE DE MICROSIMULATION INES-
+OMAR 
+L’impact redistributif des mesures est analysé à l’aide du modèle de microsimulation Ines-Omar 2019, développé 
+par la Drees. Le modèle est décrit brièvement ci-dessous, le lecteur pourra se reporter au document méthodolo-
+gique (Poulon, 2024) pour une description détaillée11. Le modèle Ines-Omar permet d’analyser, pour un échantillon 
+représentatif de la population française, le poids total de la santé dans le revenu des ménages. Avant simulation 
+de toute mesure, il fournit de façon détaillée l’ensemble des soins de santé consommés par les ménages, les 
+montants remboursés par l’assurance maladie obligatoire et par les complémentaires santé, et permet ainsi de 
+déduire le montant des restes à charge assumés directement par les ménages. Seules les dépenses totalement 
+ou partiellement remboursées par l’assurance maladie obligatoire sont prises en compte, les restes à charge as-
+sociés à des dépenses non prises en charge (par exemple, chambres particulières à l’hôpital, médicaments non 
+remboursables, etc.) ne sont pas inclus dans la simulation12. Le modèle Ines-Omar estime aussi, pour chaque 
+ménage, les primes d’assurance versées au titre des complémentaires santé, ainsi que les prélèvements obliga-
+toires finançant l’assurance maladie obligatoire. 
+La microsimulation pallie à la fois l’absence de source exhaustive sur les remboursements des complémentaires 
+et les imprécisions des données d’enquêtes sur les restes à charge (Poulon, 2024). Le modèle repose sur deux 
+enquêtes permettant de disposer d’informations sur l’état de santé, le type de couverture des individus et le revenu 
+des ménages : l’enquête de santé européenne de la Drees (European Health Interview Survey, EHIS 2019), pour 
+les individus de 15 ans ou plus, et l’enquête Statistiques sur les ressources et conditions de vie de l’Insee (SRCV 
+2017), pour les moins de 15 ans. L’échantillon total comprend environ 17 000 personnes représentatives des mé-
+nages ordinaires de France métropolitaine. Les données relatives aux dépenses et remboursements de l’assurance 
+maladie obligatoire proviennent du système national des données de santé (SNDS), apparié directement aux per-
+sonnes de 15 ans ou plus d’EHIS et indirectement aux moins de 15 ans de SRCV. Pour estimer les cotisations et 
+remboursements des complémentaires, un contrat issu de l’enquête auprès des organismes complémentaires de 
+la Drees (OC 2019) est attribué à chaque individu, en fonction de son âge, son statut d’activité, de la qualité de sa 
+couverture déclarée et du niveau de prime payé. Les dépenses de santé sont calées sur les comptes de la santé 
+sur l’année 2019 (champ France entière), en se limitant aux dépenses remboursables et individualisables. Un 
+pseudo-appariement avec le modèle de microsimulation Ines 2019 — qui fournit les données sur les prélèvements 
+sociaux et fiscaux — permet en outre d’estimer la contribution des ménages au financement de l’assurance maladie 
+obligatoire. Le module de taxation indirecte du modèle Ines 2019, construit à partir de l’enquête Budget de Famille 
+2017, permet notamment de simuler la taxe sur la valeur ajoutée (TVA) acquittée par chaque ménage. 
+Ines-Omar 2019 est un modèle statique : il décrit la situation à un instant donné sans prendre en compte les trajec-
+toires individuelles de revenu, de statut d’activité ou de contributions. Il ne permet donc pas une analyse de l’équité 
+sur l’ensemble du cycle de vie. Il n’intègre pas non plus les modifications de comportement et de consommation de 
+soins qui pourraient résulter d’un changement des règles de remboursement. 
+Le modèle Ines-Omar mobilisé correspond à la situation en 2019, avec quelques ajustements pour tenir compte de 
+modifications de certaines règles de remboursements introduites entre 2019 et 2024. En particulier, la situation de 
+référence intègre la hausse du ticket modérateur sur les soins dentaires de 2023 (de 30 % à 40 %) ainsi que le 
+doublement du montant unitaire des participations forfaitaires et des franchises de 2024. 
+ 
+ 
+11 Les statistiques présentées ici sont issues d’une extraction du modèle Ines-Omar 2019 réalisée en juin 2025. Elles peuvent donc différer 
+légèrement de celles publiées précédemment. 
+12 Les dépenses individualisables et remboursables constituent 94 % de la consommation de soins et de biens médicaux individualisables 
+(Poulon, 2024). Cela contribue à sous-estimer les restes à charge : en 2019, ils s’élevaient à 233 euros par habitant selon les Comptes 
+de la santé, contre 170 euros estimés par le modèle Ines-Omar (ibid). Cela ne modifie cependant pas les résultats de cette étude qui ne 
+porte que sur le déremboursement de soins et de biens jusqu’alors pris en charge. 
+
+=== p.19 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 11
+ 
+ MÉTHODE 
+Les mesures sont simulées au niveau le plus fin des recours aux soins, c’est-à-dire au niveau de l’acte de soin (une 
+consultation par exemple), patient par patient. L’augmentation des restes à charge et, si nécessaire, des primes 
+d’assurance, sont considérées pour chaque patient. L’étude est réalisée au niveau des ménages, c’est-à-dire l'en-
+semble des personnes qui partagent de manière habituelle un même logement et un budget commun. Cette échelle, 
+utilisée pour mesurer le niveau de vie, est la plus pertinente pour évaluer l’impact redistributif des mesures. L’éva-
+luation de l’impact des mesures sur les ménages se réalise en trois étapes. La première étape consiste à estimer 
+la baisse du remboursement par l’assurance maladie obligatoire pour chaque poste de soins et chaque ménage. 
+La deuxième étape consiste à estimer la hausse des primes de complémentaires en cas de hausse des rembour-
+sements des complémentaires (cas des tickets modérateurs). La dernière consiste à calculer des indicateurs agré-
+gés d’équité. 
+Estimer l’impact de la baisse du remboursement de l’assurance maladie obliga-
+toire pour chaque poste de soin et chaque ménage 
+Le modèle de microsimulation détaille pour chaque patient et chaque acte de soin le montant de la dépense, les 
+remboursements effectués par l’assurance maladie obligatoire, ceux effectués par une complémentaire si l’individu 
+en dispose, et les restes à charge finaux incluant notamment les participations forfaitaires et franchises. Dès lors, 
+les données permettent de simuler au niveau des actes de soin une baisse du remboursement de l’assurance 
+maladie obligatoire. Par exemple, si le montant d’une participation forfaitaire est doublé sur un acte, le rembourse-
+ment de l’assurance maladie obligatoire après application de la mesure correspond au montant initial dont est 
+retranchée la hausse de participation forfaitaire (l’annexe 1 détaille la méthode de simulation des participations 
+forfaitaires et franchises). La hausse ne peut cependant pas dépasser le montant remboursé par l’assurance ma-
+ladie obligatoire pour un acte donné (cela peut notamment être le cas pour les médicaments aux coûts faibles). Si 
+le patient bénéficie d’une exonération (ALD, C2S, femmes enceintes, enfants mineurs, etc.), il ne subit pas de 
+baisse de remboursements. Les mêmes opérations peuvent être effectuées pour des hausses de tickets modéra-
+teurs. Afin d’estimer la baisse totale de prise en charge pour un ménage, la somme des hausses de rembourse-
+ments pour chaque acte est effectuée sur l’ensemble des actes concernés pour chaque individu du ménage en 
+2019. 
+Répercuter la hausse des remboursements à effectuer par les complémen-
+taires sur les primes des ménages 
+Les mesures affectant les tickets modérateurs impliquent une hausse des remboursements à effectuer par les 
+complémentaires. Le cœur de l'exercice de simulation revient à définir comment les complémentaires vont ajuster 
+le montant des primes à la suite d’une hausse des remboursements. Les complémentaires santé ont l’interdiction 
+de discriminer les patients selon leur état de santé. Elles peuvent en revanche différencier la hausse des primes 
+en fonction du type de contrat souscrit (collectif ou individuel, hauteur des garanties), et dans certains cas, en 
+fonction de l’âge des bénéficiaires. 
+Pour chaque groupe de bénéficiaires (défini par les caractéristiques des contrats, et éventuellement par l’âge des 
+bénéficiaires pour les contrats individuels), il est supposé que les primes augmentent du même montant que les 
+remboursements supplémentaires moyens à assurer pour ce groupe, à la suite de la mesure. Les primes varient 
+ainsi plus fortement pour les groupes dont le profil de dépenses est le plus affecté par une mesure. Cette hypothèse 
+est cohérente avec ce qui est observé lors du déploiement du 100 % santé : les bénéficiaires de contrats individuels 
+les plus âgés, qui sont les premiers concernés par le 100 % santé, connaissent une progression de leurs primes 
+entre 2019 et 2021 plus importante que les autres (Pierre, et al., 2025). Par ailleurs, cette hypothèse implique 
+qu’une mutualisation existe entre les membres d’un groupe avec des contrats similaires (et éventuellement ayant 
+le même âge) mais pas entre des membres de groupes distincts. 
+La hausse des primes d’assurance est simulée en supposant l’équilibre financier pour les complémentaires santé : 
+le total des nouveaux remboursements assurés par les organismes complémentaires doit être exactement com-
+pensé par le total des nouvelles recettes perçues grâce à la hausse des primes. Les assurés récupèrent en 
+moyenne environ 81 % de leurs cotisations hors taxe sous forme de prestations (Lapinte, et al., 2024). Les mesures 
+sont ici supposées neutres sur le montant en niveau des frais et autres charges des organismes complémentaires. 
+Les employeurs prennent généralement en charge une partie des primes des complémentaires santé de leurs 
+employés. À défaut de pouvoir simuler finement la variation de la prise en charge par l’employeur, mais aussi 
+d’éventuelles répercussions en termes de rémunération des salariés, le montant pris en charge par les employeurs 
+est supposé, par simplicité, ne pas être affecté par les mesures et une éventuelle variation des primes. Le coût 
+d’une mesure, dans les simulations, est donc entièrement supporté par les ménages. 
+ 
+
+=== p.20 ===
+ 
+12 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+Formellement, la méthode est la suivante. 
+∆𝑅𝑅𝑖𝑖 correspond à l’augmentation de remboursement par la complémentaire santé pour le bénéficiaire 𝑖𝑖 et 𝑋𝑋𝑖𝑖
+𝑘𝑘  aux 
+caractéristiques du contrat (et éventuellement l’âge) du bénéficiaire 𝑖𝑖. L’objectif est de déterminer ∆𝑃𝑃𝑖𝑖 : l’augmen-
+tation de la prime de l’individu 𝑖𝑖. L’équation suivante est considérée : 
+∆𝑅𝑅𝑖𝑖= β0 + ෍β𝑘𝑘𝑋𝑋𝑖𝑖
+𝑘𝑘
+𝐾𝐾
+𝑘𝑘=1
++ 𝜀𝜀𝑖𝑖  
+L’augmentation moyenne prédite des remboursements correspond donc à : 
+∆𝑅𝑅𝚤𝚤
+෢= β෠0 + ෍𝛽𝛽̂𝑘𝑘𝑋𝑋𝑖𝑖
+𝑘𝑘
+𝐾𝐾
+𝑘𝑘=1
+ 
+Où 𝛽𝛽̂ sont les coefficients estimés de la régression linéaire du surcoût de chaque bénéficiaire sur ses caractéris-
+tiques (voir annexe 2 pour les résultats des régressions). Les hausses de primes sont ensuite estimées de manière 
+à compenser exactement les surcoûts de remboursements, en supposant une mutualisation entre assurés de pro-
+fils similaires (c’est-à-dire les individus avec un contrat aux caractéristiques proches, et un âge proche dans le cas 
+des contrats individuels). La hausse des primes prédite pour l’individu 𝑖𝑖 ∆𝑃𝑃𝚤𝚤
+෢, ainsi que pour l’ensemble des individus 
+partageant les mêmes caractéristiques 𝑋𝑋𝑖𝑖
+𝑘𝑘 que l’individu 𝑖𝑖, est donc définie comme : 
+∆𝑃𝑃𝚤𝚤
+෢= ∆𝑅𝑅𝚤𝚤
+෢= β෠0 + ෍𝛽𝛽̂𝑘𝑘𝑋𝑋𝑖𝑖
+𝑘𝑘
+𝐾𝐾
+𝑘𝑘=1
+ 
+Pour un individu 𝑖𝑖, la différence entre le remboursement obtenu et l’augmentation de la prime correspond à l’erreur 
+de prédiction ∆𝑅𝑅𝚤𝚤
+෢−∆𝑅𝑅𝑖𝑖= ∆𝑃𝑃𝚤𝚤
+෢−∆𝑅𝑅𝑖𝑖= −𝜀𝜀𝚤𝚤ෝ . Dans une régression linéaire, la somme de ces termes d’erreur sur 
+l’ensemble des individus 𝑖𝑖 est nulle et donc, dans les simulations, la somme de l’augmentation des primes corres-
+pond bien à la somme de l’augmentation des remboursements. 
+Calculer des indicateurs agrégés d’inégalités 
+Chaque mesure génère des économies pour la Sécurité sociale, qui prennent la forme de baisses de rembourse-
+ments par l’assurance maladie obligatoire et éventuellement des hausses de taxe de solidarité additionnelle en lien 
+avec l’augmentation des primes versées aux complémentaires santé. Les économies dégagées par ces mesures 
+sont d’abord calculées ménage par ménage. Afin d’estimer l’économie globale pour les dépenses publiques, la 
+somme pondérée de ces économies est effectuée sur l’ensemble des ménages de l’échantillon. Les différentes 
+simulations sont calibrées pour que cette somme corresponde à 1 milliard d’euros. Les mesures sont ensuite com-
+parées selon les coûts moyens par groupe de population ou selon des indices d’équité verticale ou horizontale. 
+Dans le but d’évaluer l’équité verticale des mesures, le coût moyen est estimé par cinquième de niveau de vie des 
+ménages. Pour évaluer l’équité horizontale des mesures, le coût moyen est estimé selon les catégories d’âge et 
+d’état de santé de la personne la plus âgée de chaque ménage (déclaré dans l’enquête EHIS 2019). Enfin, le coût 
+moyen est également calculé par cinquième de hausse du taux d’effort13 consécutif à la mesure. 
+Les indices d’équité utilisés dans cette étude sont décrits brièvement ci-dessous, et nous renvoyons le lecteur à 
+l’article de Jusot et Lemoine (2024) pour une description plus détaillée. 
+L’indice de progressivité, dit de Kakwani, est un indice usuel pour mesurer la progressivité du financement des 
+systèmes de santé et donc pour appréhender l’équité « verticale » du financement, suivant le niveau de vie des 
+ménages. Il compare la concentration du financement des dépenses de santé supporté par les ménages à celle de 
+leurs revenus, ou plus précisément entre l’effort par unité de consommation et les niveaux de vie (courbe de Lo-
+renz). Un indice nul indique que le taux d’effort, défini comme le rapport entre la dépense financée et le revenu, est 
+identique en moyenne pour les ménages, quel que soit leur revenu. Un indice positif signifie que le financement 
+des dépenses est plus concentré que les revenus : le taux d’effort augmente avec le niveau de vie. À l’inverse, un 
+indice négatif traduit une diminution du taux d’effort lorsque le revenu s’élève. 
+ 
+13 Le taux d’effort retenu dans cette étude correspond au financement total de la santé acquitté par les ménages (restes à charge, primes 
+versées aux complémentaires santé, cotisations sociales maladie, contribution sociale généralisée [CSG], taxes sur la consommation et 
+autres prélèvements permettant de financer l’assurance maladie obligatoire), rapporté à leur revenu. Au numérateur, les seules dépenses 
+de santé considérées sont celles individualisables et remboursables par l’assurance maladie obligatoire. Au dénominateur, le revenu 
+correspond au revenu disponible des ménages « avant prélèvements permettant de financer l’assurance maladie obligatoire », c’est-à-
+dire augmenté des cotisations sociales maladie, de la CSG, de la contribution pour le remboursement de la dette sociale (CRDS) et des 
+cotisations des microentreprises. Ces cotisations et contributions sont ainsi considérées comme des dépenses de santé obligatoires, 
+venant réduire le revenu disponible des ménages. 
+
+=== p.21 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 13
+ 
+ 
+ Graphique 1 L’indice de progressivité dans la situation de référence 
+ 
+ 
+Note > L’indice de progressivité est égal à 0,04, soit deux fois la différence entre la courbe de concentration du niveau de vie (courbe de Lorenz) et 
+la courbe de concentration de l’effort de financement par unité de consommation. La situation de référence correspond à la situation en 2019, avec 
+quelques ajustements pour tenir compte de modifications de certaines règles de remboursements introduites entre 2019 et 2024. 
+Lecture > Les 40 % de ménages les plus modestes concentrent 23 % des « revenus » et 20 % de « l’effort de financement du système de santé ». 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+L’effet des mesures sur l’indice de progressivité est mesuré par différence de l’indice avant la mesure et après la 
+mesure. Une différence négative signifie que l’indice de progressivité a baissé consécutivement à la mesure, et 
+que celle-ci est en faveur des ménages aisés au détriment des ménages modestes. 
+L’effort par unité de consommation d’un ménage14 est ici donné par : 
+𝐸𝐸= 
+𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚 𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜𝑜+ 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑑𝑑′𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎
+−𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒−𝑐𝑐ℎè𝑞𝑞𝑞𝑞𝑞𝑞 𝐴𝐴𝐴𝐴𝐴𝐴+ 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 à 𝑐𝑐ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎
+𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 𝑑𝑑′𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢é𝑠𝑠 𝑑𝑑𝑑𝑑 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑 𝑙𝑙𝑙𝑙 𝑚𝑚é𝑛𝑛𝑎𝑎𝑎𝑎𝑎𝑎
+ 
+L’indice d’équité horizontale, proposé par Wagstaff, et al. (2007), mesure la concentration du financement des 
+dépenses de santé entre personnes malades et bien portantes. Il évalue si, à niveau de vie équivalent, les malades 
+supportent un effort de financement plus élevé que les bien portants, relativement à leurs revenus. Un indice nul 
+traduit une situation d’équité entre les deux groupes ; un indice positif indique que les bien portants contribuent 
+proportionnellement davantage, tandis qu’un indice négatif signifie l’inverse. 
+ 
+ 
+ 
+14 Le nombre d’unités de consommation dépend de la composition du ménage. Une unité de consommation est attribuée pour le premier 
+adulte du ménage, auxquelles sont ajoutées 0,5 unité pour chaque autre membre de 14 ans ou plus, et 0,3 unité pour chaque membre de 
+moins de 14 ans. Normaliser par le nombre d’unités de consommation dans le ménage permet de comparer des ménages de compositions 
+différentes. 
+
+=== p.22 ===
+ 
+14 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+ 
+ 
+ 
+ Graphique 2 L’indice d’équité horizontale dans la situation de référence 
+ 
+ 
+Note > L’indice de d’équité horizontale est égal à 0,08, soit deux fois la différence entre la bissectrice et la courbe de concentration de l’effort de 
+financement par unité de consommation ajusté du niveau de vie. La situation de référence correspond à la situation en 2019, avec quelques ajus-
+tements pour tenir compte de modifications de certaines règles de remboursements introduites entre 2019 et 2024. 
+Lecture > Les 40 % de ménages les plus malades concentrent 35 % de « l’effort de financement du système de santé ajusté du niveau de vie ». 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+L’effet des mesures sur l’indice d’équité horizontale est mesuré par différence de l’indice avant la mesure et après 
+la mesure. Une différence négative signifie que l’indice d’équité horizontale a baissé consécutivement à la mesure, 
+et que celle-ci est en faveur des ménages bien portants au détriment des ménages malades. 
+L’effort par unité de consommation d’un ménage « ajusté du niveau de vie » correspond à l’effort par unité de 
+consommation observé pour ce ménage, auquel est soustrait l’effort pouvant être expliqué par le niveau de vie de 
+ce ménage (tel que prédit par une régression linéaire simple), auquel est ajouté l’effort moyen de l’ensemble des 
+ménages. Cet ajustement par le niveau de vie permet d’isoler le rôle de l’état de santé du ménage de celui du 
+niveau de vie (déjà appréhendé par l’indice de progressivité, dit de Kakwani). 
+Le classement des ménages suivant leur état de santé est réalisé à partir d’un score de santé calculé pour l’individu 
+le plus âgé du ménage (voir annexe 3). Dans l’enquête EHIS 2019, qui est mobilisée dans le modèle Ines-Omar, 
+chaque individu déclare son état de santé général (1-Très mauvais, 2-Mauvais, 3-Moyen, 4-Bon, 5-Très bon) et 
+répond à une série de questions portant sur des aspects précis de sa santé. Le score de santé correspond à la 
+valeur prédite dans la régression de l’état de santé général déclaré sur : une constante, des indicatrices d’âge, une 
+indicatrice de sexe, et différentes variables rapportant des aspects précis de la santé du déclarant. Contrairement 
+à l’état de santé général déclaré, le score de santé est une variable continue, qui permet de classer finement les 
+ménages suivant l’état de santé de leur individu le plus âgé. Un score de santé faible signifie qu’on prédit pour 
+l’individu un état de santé général dégradé. 
+
+=== p.23 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 15
+ 
+ LES MESURES SIMULÉES 
+Cinq mesures de déremboursement sont simulées : trois portent sur le ticket modérateur, deux sur les participations 
+forfaitaires et les franchises médicales. Elles sont calibrées pour générer une économie ex ante15 de 1 milliard 
+d’euros. 
+La situation de référence, en comparaison de laquelle chaque mesure est évaluée, correspond à la situation en 
+2019, avec quelques ajustements pour tenir compte de modifications de certaines règles de remboursements 
+entre 2019 et 2024. En particulier, la situation de référence intègre la hausse du ticket modérateur sur les soins 
+dentaires de 2023 (de 30 % à 40 %) ainsi que le doublement du montant unitaire des participations forfaitaires et 
+des franchises de 2024. Elle n’intègre en revanche pas les mesures discutées ou prises à l’automne 2025. 
+Mesures portant sur le ticket modérateur 
+Les scénarios portant sur le ticket modérateur se traduisent en général, pour les personnes couvertes par une 
+complémentaire santé, par un transfert de remboursement de l’assurance maladie obligatoire vers la complémen-
+taire santé, et donc par une hausse des primes d’assurance16. Pour les personnes non couvertes par une complé-
+mentaire santé, ou dans le cas où celle-ci ne prendrait pas en charge l’intégralité du ticket modérateur, ils impliquent 
+aussi une hausse des restes à charge. Il existe différents motifs d’exonérations et nous illustrons comment ils sont 
+traités par deux cas particuliers : les patients en ALD et les bénéficiaires de la C2S. 
+Les patients avec une ALD sont exonérés de ticket modérateur pour les soins en lien avec cette ALD. Comme ces 
+dépenses ne sont pas concernées par les mesures, elles n’induisent pas de surcoût direct pour les complémen-
+taires santé, ce qui limite indirectement la hausse des primes d’assurance, en particulier pour les classes d’âge où 
+le nombre de patients avec une ALD est important. Les mesures portant sur le ticket modérateur ne sont cependant 
+pas complètement neutres pour les patients avec une ALD, puisque leurs primes peuvent augmenter. 
+Les patients bénéficiaires de la C2S17 se voient rembourser leur ticket modérateur au titre de la C2S. Les mesures 
+portant sur le ticket modérateur sont donc neutres de leur point de vue car ce qui était pris en charge au titre de 
+l’assurance maladie obligatoire l’est désormais au titre de la C2S, et car la C2S reste attribuée gratuitement ou 
+moyennant une cotisation minime qu’on suppose inchangée. 
+ 
+Trois mesures sur le ticket modérateur sont simulées : 
+ Hausse du ticket modérateur sur les consultations médicales et de sages-femmes : les consultations médicales 
+auprès de médecins (omnipraticiens et autres spécialistes) et de sages-femmes, dont le ticket modérateur 
+s’élève avant la mesure à 30 %, voient leur ticket modérateur augmenter à 37,8 %. 
+ Hausse du ticket modérateur sur les soins dentaires : les soins dentaires dont le ticket modérateur s’élève avant 
+la mesure à 40 %, voient celui-ci augmenter à 63,6 %. 
+ Hausse du ticket modérateur sur les médicaments : les médicaments à service médical rendu (SMR) majeur, 
+modéré ou faible, délivrés en ville, dont le ticket modérateur s’élève avant la mesure à 35 %, 70 % ou 85 % 
+(honoraires de dispensation associés compris), voient celui-ci augmenter de 12,2 points (à respectivement 
+47,2 %, 82,2 % et 97,2 %)18. Certaines complémentaires santé ne prennent pas en charge l’intégralité du ticket 
+modérateur des médicaments à SMR faible ou modéré : dans ce cas, la hausse du ticket modérateur se traduit 
+par une hausse du reste à charge des patients (et non par une hausse des remboursements par les complé-
+mentaires santé). 
+ 
+15 En supposant des comportements inchangés, en termes de consommation de soins, ou de souscription à une complémentaire santé. 
+16 Pour les bénéficiaires d’une complémentaire santé, une hausse de ticket modérateur peut éventuellement conduire à faire baisser le 
+reste à charge. C'est potentiellement le cas lorsqu'une participation forfaitaire ou franchise s'applique à l'acte : si après la hausse du ticket 
+modérateur, le montant pris en charge par l'assurance maladie obligatoire devient inférieur au montant de la participation forfaitaire ou 
+franchise, celui-ci ne peut plus être prélevé en totalité. Avec une complémentaire santé prenant en charge la totalité du ticket modérateur, 
+cela réduit d'autant le reste à charge du patient. Cela concerne notamment les médicaments peu coûteux dont le prix initial est proche du 
+montant de la franchise. 
+17 Les bénéficiaires de la C2S correspondent, dans le modèle Ines-Omar 2019 aux bénéficiaires des anciens dispositifs CMU-C et ACS. 
+18 En l’absence de franchises, le montant déremboursé correspondrait ainsi à 12,2 % du prix du médicament, et ceci quel que soit le ticket 
+modérateur initial. 
+
+=== p.24 ===
+ 
+16 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+Mesures portant sur les participations forfaitaires ou les franchises médicales 
+Les participations forfaitaires et les franchises médicales correspondent à des montants non remboursés par l’as-
+surance maladie obligatoire qui ne peuvent pas être pris en charge par les contrats responsables. Les scénarios 
+portant sur ces participations se traduisent ici par une hausse des restes à charge. Ces scénarios n’affectent pas 
+les remboursements des complémentaires santé, ni, par conséquent, les primes d’assurance. Les patients avec 
+une ALD ne sont pas exonérés des participations forfaitaires et franchises médicales, au contraire des bénéficiaires 
+de la C2S, mais également les enfants mineurs, et les femmes enceintes notamment19. Pour eux, ces mesures 
+sont donc neutres. 
+Plusieurs mesures sont simulées : 
+ Hausse des participations forfaitaires sur les actes médicaux, de radiologie ou de biologie médicale : le scénario 
+simulé correspond approximativement à un doublement des participations forfaitaires et de leur plafond. La par-
+ticipation forfaitaire passe de 2 euros à 3,80 euros, tandis que le plafond annuel est porté de 50 à 100 euros. 
+ Hausse des franchises médicales sur les médicaments, auxiliaires médicaux et transports sanitaires : le scénario 
+central simulé correspond approximativement à un doublement des franchises médicales et de leur plafond. La 
+franchise passe de 1 euro à 2,30 euros pour les médicaments et les auxiliaires médicaux, de 4 à 9,20 euros 
+pour les transports sanitaires, tandis que le plafond annuel est porté de 50 à 100 euros. 
+Des variantes ont été simulées en faisant varier séparément le plafond et les montants unitaires, sans les modifier 
+de manière proportionnelle. 
+Mesure portant sur les prélèvements permettant de financer l’assurance mala-
+die obligatoire 
+Il s’agit de la seule mesure considérée dans cette étude qui n’entraîne pas une réduction des dépenses publiques, 
+mais une hausse des prélèvements et des recettes. Les recettes issues des prélèvements permettant de financer 
+l’assurance maladie obligatoire sont augmentées de façon proportionnelle pour générer 1 milliard d’euros. Les 
+prélèvements considérés sont les cotisations sociales maladie, la contribution sociale généralisée, la contribution 
+pour le remboursement de la dette sociale, la taxe sur la valeur ajoutée (TVA), les accises sur le tabac, sur l’alcool 
+et la taxe sur les médicaments. La taxe de solidarité additionnelle, qui est prélevée sur les primes des complémen-
+taires santé, n’est en revanche pas augmentée dans ce scénario. 
+ 
+ 
+19 Voir La participation forfaitaire de 2 € | ameli.fr | Assuré. 
+
+=== p.25 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 17
+ 
+ RÉSULTATS 
+Les ménages modestes sont les plus affectés, quelle que soit la mesure de dé-
+remboursement simulée 
+Les mesures simulées génèrent une économie d’1 milliard d’euros, soit un coût moyen de 35 euros par ménage 
+(0,1 % du revenu annuel moyen, graphique 3). Les mesures sur le ticket modérateur se répercutent quasi intégra-
+lement sur les primes, le reste à charge supplémentaire ne concernant que les personnes sans complémentaire. 
+Inversement, les participations forfaitaires et les franchises sont intégralement répercutées par une hausse des 
+restes à charge. 
+ 
+ Graphique 3 Décomposition du coût moyen supporté par les ménages, par mesure simulée 
+En euros 
+ 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 1 milliard d'euros. En cas de hausse de ticket modérateur sur les médica-
+ments, le reste à charge baisse car la mesure réduit dans certains cas non seulement le montant pris en charge par l'assurance maladie obligatoire, 
+mais également la franchise appliquée. Le montant correspondant peut ainsi être pris en charge par une complémentaire santé. C'est le cas notam-
+ment pour les achats de médicaments peu onéreux dont le coût ne dépasse que faiblement le montant de la franchise. 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes se traduit par une hausse moyenne des primes 
+versées aux complémentaires santé de l'ordre de 35 euros par ménage. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+En fonction de la mesure de déremboursement considérée, le coût est compris entre 20 et 23 euros pour les 20 % 
+de ménages les plus modestes. Dans la plupart des cas, ces sommes sont inférieures à celles supportées par les 
+ménages avec des niveaux de vie plus élevés. La C2S permet en effet, sous conditions de ressources, d’accéder 
+à une couverture complémentaire gratuitement ou moyennant une cotisation minimale. Ce dispositif dispense les 
+ménages qui en bénéficient de tickets modérateurs, de participations forfaitaires et de franchises, ce qui les sous-
+trait aux mesures simulées. L’effort exigé auprès de ces ménages les plus modestes est toutefois non nul, car ils 
+ne bénéficient pas tous de la C2S, soit car ils n’y recourent pas20, soit car ils se trouvent au-dessus du seuil d’éligi-
+bilité. Rapporté au revenu, l’effort des ménages les plus modestes est plus conséquent que pour les revenus les 
+plus élevés et représente entre 0,12 % et 0,13 % de leur revenu, contre seulement 0,05 % à 0,06 % pour les 20 % 
+de ménages les plus aisés (graphique 4). 
+Les ménages du deuxième cinquième de niveau de vie, supportent un coût compris entre 33 et 37 euros. Dans la 
+plupart des cas, les montants sont équivalents à ce que paient les ménages avec des niveaux de vie plus élevés. 
+Ces ménages sont donc aussi confrontés, au regard de leurs ressources, à un effort plus important (entre 0,12 % 
+à 0,15 % de leur revenu). 
+ 
+ 
+20 Le taux de recours à la C2S s’élève en 2019 à 54 % (Feller, 2024). 
+1
+1
+35
+35
+35
+35
+35
+0
+10
+20
+30
+40
+Ticket modérateur
+sur les consultations
+médicales et de
+sages-femmes
+Ticket modérateur
+sur le dentaire
+Ticket modérateur
+sur les médicaments
+Participations
+forfaitaires
+(consultations
+médicales et
+laboratoires)
+Franchises
+médicales
+(médicaments,
+auxiliaires médicaux
+et transports)
+Restes à charge
+Primes aux complémentaires santé
+Coût total
+
+=== p.26 ===
+ 
+18 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+ Graphique 4 Coût moyen par ménage des mesures simulées, selon le cinquième de niveau de vie 
+En euros 
+ 
+En % du revenu 
+ 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 1 milliard d'euros. Le scénario d'une hausse des prélèvements obligatoires 
+est ici présenté à titre de comparaison. 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes exige des 20 % de ménages les plus modestes un 
+effort s'élevant à 0,12 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+À titre de comparaison, une hausse généralisée des prélèvements permettant de financer l’assurance maladie 
+obligatoire serait associée à un effort croissant avec le niveau de vie. Dans les deux premiers cinquièmes de niveau 
+de vie, autrement dit pour les 40 % de ménages les plus modestes, le coût d’une hausse des prélèvements s’éta-
+blirait à 0,06 % du revenu en moyenne, soit deux fois moins que les mesures de déremboursements précédemment 
+considérées. Toujours en moyenne, une hausse des prélèvements aurait un coût plus faible ou comparable à celui 
+des déremboursements de soins, pour les ménages des 3e et 4e cinquièmes de niveau de vie. En revanche, pour 
+les 20 % de ménages les plus aisés, la mesure serait plus coûteuse : l’effort s’élèverait à 0,09 % du revenu, presque 
+deux fois plus qu’en cas de déremboursement de soins. Augmenter les recettes de l’assurance maladie pèserait 
+donc moins sur les ménages modestes en proportion de leurs revenus que dérembourser des soins. La hausse 
+des prélèvements pénalise cependant davantage les actifs en emploi que les retraités à niveau de vie donné (Bon-
+net, Fauchon, 2024). 
+0
+20
+40
+60
+80
+1er
+2e
+3e
+4e
+5e
+0,00
+0,04
+0,08
+0,12
+0,16
+1er
+2e
+3e
+4e
+5e
+Ticket modérateur sur les consultations médicales et de sages-femmes
+Ticket modérateur sur le dentaire
+Ticket modérateur sur les médicaments
+Participations forfaitaires (consultations médicales et laboratoires)
+Franchises médicales (médicaments, auxiliaires médicaux et transports)
+[Pour comparaison] Prélèvements obligatoires
+
+=== p.27 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 19
+ 
+Les participations forfaitaires et les franchises pénalisent davantage les per-
+sonnes en mauvaise santé que les tickets modérateurs 
+L’augmentation des participations forfaitaires et des franchises médicales accroît directement les restes à charge 
+dont doivent s’acquitter les patients qui consomment les soins affectés. Ainsi, une hausse de ces dispositifs pèserait 
+davantage sur les ménages en moins bonne santé que sur les ménages bien portants (graphique 5). Les personnes 
+âgées étant en général en moins bon état de santé que le reste de la population, elles sont également davantage 
+pénalisées. Par exemple, pour les ménages dont la personne la plus âgée a 75 ans ou plus, une augmentation des 
+franchises médicales se traduirait par un surcoût de 57 euros, soit 0,21 % du revenu, contre 15 euros, soit 0,05 % 
+du revenu, pour les ménages de moins de 40 ans (graphique 6). 
+ Graphique 5 Coût moyen par ménage des mesures simulées, selon l'état de santé déclaré de la personne 
+la plus âgée du ménage 
+En euros 
+ 
+En % du revenu 
+ 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 1 milliard d'euros. Le scénario d'une hausse des prélèvements obligatoires 
+est ici présenté à titre de comparaison. 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes exige des ménages en très bon état de santé un 
+effort s'élevant à 0,09 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Très bon
+Bon
+Moyen
+(Très) mauvais
+0,00
+0,02
+0,04
+0,06
+0,08
+0,10
+0,12
+0,14
+0,16
+0,18
+0,20
+Très bon
+Bon
+Moyen
+(Très) mauvais
+Ticket modérateur sur les consultations médicales et de sages-femmes
+Ticket modérateur sur le dentaire
+Ticket modérateur sur les médicaments
+Participations forfaitaires (consultations médicales et laboratoires)
+Franchises médicales (médicaments, auxiliaires médicaux et transports)
+[Pour comparaison] Prélèvements obligatoires
+
+=== p.28 ===
+ 
+20 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+ Graphique 6 Coût moyen par ménage des mesures simulées, selon l'âge de la personne la plus âgée du 
+ménage 
+En euros 
+ 
+En % du revenu 
+ 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 1 milliard d'euros. Le scénario d'une hausse des prélèvements obligatoires 
+est ici présenté à titre de comparaison. 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes exige des ménages de moins 40 ans un effort 
+s'élevant à 0,09 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+0 à 39 ans
+40 à 54 ans
+55 à 64 ans
+65 à 74 ans
+75 ans ou plus
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+0 à 39 ans
+40 à 54 ans
+55 à 64 ans
+65 à 74 ans
+75 ans ou plus
+Ticket modérateur sur les consultations médicales et de sages-femmes
+Ticket modérateur sur le dentaire
+Ticket modérateur sur les médicaments
+Participations forfaitaires (consultations médicales et laboratoires)
+Franchises médicales (médicaments, auxiliaires médicaux et transports)
+[Pour comparaison] Prélèvements obligatoires
+
+=== p.29 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 21
+ 
+À l’inverse, une hausse du ticket modérateur, généralement prise en charge par les complémentaires santé, se 
+traduirait principalement par une augmentation des primes, mutualisée entre l’ensemble des assurés d’un même 
+contrat, indépendamment de leur état de santé. Toutefois, les retraités ne relevant pas des mêmes contrats que 
+les actifs, une hausse du ticket modérateur portant sur des dépenses fortement concentrées chez les personnes 
+âgées (comme les médicaments) se traduirait par une augmentation des primes nettement plus élevée pour les 
+retraités. Ainsi, une hausse du ticket modérateur sur les médicaments entraînerait, quel que soit l’état de santé, 
+une augmentation des primes d’un peu moins de 60 euros pour les ménages dont la personne de référence est 
+âgée de 65 ans ou plus, contre environ 25 euros pour ceux dont la personne de référence a moins de 65 ans 
+(graphique 7). En revanche, les hausses du ticket modérateur appliquées aux consultations médicales ou aux soins 
+dentaires auraient des effets similaires sur les primes, compris entre 30 et 40 euros, quel que soit l’âge ou l’état de 
+santé des assurés. 
+ 
+Graphique 7 Coût moyen par ménage des mesures simulées, selon l'âge et l'état de santé déclaré de la 
+personne la plus âgée du ménage 
+En euros 
+ 
+En % du revenu 
+ 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 1 milliard d'euros. 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes exige des ménages de moins 65 ans en très bon 
+état de santé un effort s'élevant à 0,08 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+Très bon
+Bon
+Moyen
+(Très) mauvais
+Très bon
+Bon
+Moyen
+(Très) mauvais
+Très bon
+Bon
+Moyen
+(Très) mauvais
+Très bon
+Bon
+Moyen
+(Très) mauvais
+Très bon
+Bon
+Moyen
+(Très) mauvais
+Ticket modérateur
+sur les consultations
+médicales et de
+sages-femmes
+Ticket modérateur
+sur le dentaire
+Ticket modérateur
+sur les
+médicaments
+Participations
+forfaitaires
+(consultations
+médicales et
+laboratoires)
+Franchises
+médicales
+(médicaments,
+auxiliaires médicaux
+et transports)
+Moins de 65 ans
+65 ans ou plus
+
+=== p.30 ===
+ 
+22 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+Les réformes agissant directement sur les restes à charge tendent également à concentrer le coût sur un nombre 
+plus limité de ménages (graphique 8). Ainsi, pour les 20 % de ménages subissant la plus forte hausse, l’augmen-
+tation du taux d’effort liée au déremboursement atteindrait 0,29 % du revenu dans le cas des franchises médicales 
+et 0,26 % pour les participations forfaitaires, contre 0,18 % pour la mesure portant sur le ticket modérateur appliqué 
+aux consultations médicales. 
+ 
+ Graphique 8 Coût moyen par ménage des mesures simulées, selon le cinquième d'augmentation du taux 
+d'effort 
+En % du revenu 
+ 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 1 milliard d'euros. Le scénario d'une hausse des prélèvements obligatoires 
+est ici présenté à titre de comparaison. 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes exige des 20 % de ménages les plus affectés un 
+effort s'élevant à 0,18 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+ 
+ 
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+0,30
+1er
+2e
+3e
+4e
+5e
+Ticket modérateur sur les consultations médicales et de sages-femmes
+Ticket modérateur sur le dentaire
+Ticket modérateur sur les médicaments
+Participations forfaitaires (consultations médicales et laboratoires)
+Franchises médicales (médicaments, auxiliaires médicaux et transports)
+[Pour comparaison] Prélèvements obligatoires
+
+=== p.31 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 23
+ 
+Augmenter les recettes via une hausse des prélèvements pèse moins sur les 
+modestes et les personnes se déclarant en mauvaise santé 
+Dans l’ensemble, les mesures de déremboursement simulées conduisent à réduire la progressivité du financement 
+du système de santé, et donc l’équité « verticale » entre ménages avec des niveaux de vie différents. L’indice de 
+progressivité, dit de Kakwani, baisse ainsi en moyenne de 0,001 point, quelle que soit la mesure considérée (gra-
+phique 9). 
+Les déremboursements réduisent également l’équité entre ménages malades et bien portants, ou autrement dit 
+l’équité du financement « horizontale ». L’indice associé baisse ainsi de 0,000 à 0,002 point, suivant la mesure 
+considérée. La baisse la plus marquée est associée à la hausse des franchises sur les médicaments, actes des 
+auxiliaires médicaux et transports sanitaires. 
+Enfin, une hausse généralisée de l’ensemble des prélèvements obligatoires permettant de financer l’assurance 
+maladie obligatoire améliorerait les indices d’équité. En effet, tous prélèvements confondus, le financement de 
+l’assurance maladie obligatoire est globalement progressif avec le revenu (Fouquet, Pollak, 2022). En outre, les 
+ménages âgés, en moyenne en moins bonne santé que le reste de la population, sont moins mis à contribution que 
+les actifs en emploi via les cotisations sociales maladie et la CSG (Bonnet et Fauchon, 2025). 
+ 
+ 
+ Graphique 9 Effet des mesures simulées sur les indices de progressivité et d'équité horizontale 
+En points 
+ 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 1 milliard d'euros. Le scénario d'une hausse des prélèvements obligatoires 
+est ici présenté à titre de comparaison. 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes diminue l'indice de progressivité de 0,0011 point. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+[Pour comparaison] 
+Prélèvements 
+obligatoires
+Ticket modérateur 
+sur les consultations 
+médicales et de 
+sages-femmes
+Ticket modérateur 
+sur le dentaire
+Ticket modérateur 
+sur les médicaments
+Participations 
+forfaitaires 
+(consultations 
+médicales et 
+laboratoires)
+Franchises 
+médicales 
+(médicaments, 
+auxiliaires 
+médicaux et 
+transports)
+-0,002
+-0,001
+0,000
+0,001
+-0,002
+-0,001
+0,000
+0,001
+∆Indice de 
+progressivité, 
+dit de Kakwani
+∆Indice d'équité horizontale
+Défavorable aux malades                     Favorable aux malades
+Favorable aux 
+modestes
+Défavorable 
+aux modestes
+
+=== p.32 ===
+ 
+24 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+Franchises : augmenter le plafond annuel fait peser le coût de la mesure sur 
+les ménages âgés et en mauvaise santé 
+Les paramètres choisis pour augmenter les franchises ne sont pas neutres sur la répartition des coûts entre mé-
+nages. Pour un même montant d’économie, augmenter le plafond annuel de franchises fait peser sur les ménages 
+les plus âgés et en mauvaise santé un coût plus élevé qu’une simple augmentation du montant unitaire. Ces mé-
+nages atteignent en effet plus souvent le plafond annuel que les autres, et sont donc les premiers impactés par son 
+augmentation. 
+À titre illustratif, augmenter la franchise à 1,56 euro et le plafond annuel à 75 euros est susceptible de dégager 
+500 millions d’euros d’économie, à peu près autant qu’une mesure associée à un montant unitaire de 1,10 euro et 
+à un plafond de 100 euros (graphique 10). Le coût des deux mesures s’élève à respectivement 28 et 39 euros pour 
+les ménages de 75 ans ou plus (0,10 % et 0,15 % du revenu), et à 25 et 36 euros pour les ménages en mauvaise 
+santé (0,09 % et 0,14 % du revenu). La seconde mesure, qui relève davantage le plafond annuel, pénalise donc 
+plus les ménages âgés et en mauvaise santé. 
+ 
+ Graphique 10 Coût moyen par ménage des mesures simulées, selon l'âge de la personne la plus âgée du 
+ménage 
+En euros 
+ 
+En % du revenu 
+ 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 500 millions d'euros. 
+Lecture > Porter la franchise sur les médicaments et les auxiliaires médicaux à 1,10 euro, sur les transports sanitaires à 4,40 euros et définir un 
+plafond annuel de 100 euros exige des ménages de moins de 40 ans un effort s'élevant à 0,01 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+ 
+0
+10
+20
+30
+40
+50
+0 à 39 ans
+40 à 54 ans
+55 à 64 ans
+65 à 74 ans
+75 ans ou plus
+0,00
+0,05
+0,10
+0,15
+0,20
+0 à 39 ans
+40 à 54 ans
+55 à 64 ans
+65 à 74 ans
+75 ans ou plus
+Franchise à 1 euro (transports : 4 euros) et plafond à 117,50 euros
+Franchise à 1,10 euro (transports : 4,40 euros) et plafond à 100 euros
+Franchise à 1,56 euro (transports : 6,24 euros) et plafond à 75 euros
+Franchise à 2 euros (transports : 8 euros) et plafond à 67,50 euros
+Franchise à 4 euros (transports : 16 euros) et plafond à 58,25 euros
+
+=== p.33 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 25
+ 
+De façon générale, l’augmentation du plafond des franchises répartit de façon moins homogène le coût sur l’en-
+semble de la population. Les 20 % de ménages les plus affectés par les deux mesures précédemment décrites 
+supportent un effort s’élevant à 0,15 % de leur revenu (33 euros) quand la mesure joue principalement sur le mon-
+tant unitaire des franchises, contre 0,22 % de leur revenu (56 euros) quand l’augmentation du plafond est très 
+prononcée (graphique 11). 
+ 
+ Graphique 11 Coût moyen des mesures portant sur les franchises médicales pour les 20 % de ménages 
+les plus affectés, selon le montant d'économie budgétaire 
+En euros 
+ 
+En % du revenu 
+ 
+Note > Les 20 % de ménages les plus affectés correspondent aux 20 % pour lesquels le coût rapporté au revenu est le plus élevé 
+Lecture > Maintenir des franchises à 1 euro (4 euros pour les transports) et porter le plafond à 100 euros permet d'atteindre une économie de 
+l'ordre de 420 millions d'euros et exige des 20 % de ménages les plus affectés un effort s'élevant à 0,21 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+2€
+4€
+0€75
+1€
+1€56
+2€
+4€
+0€75
+1€
+1€10
+2€
+2€30
+0
+10
+20
+30
+40
+50
+60
+70
+80
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+Coût moyen pour les 20 % de ménages les 
+plus affectés (en euros)
+Montant d'économie budgétaire (en millions d'euros)
+2€
+4€
+0€75
+1€
+1€56
+2€
+4€
+0€75
+1€
+1€10
+2€
+2€30
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+0,30
+0,35
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+Coût moyen pour les 20 % de ménages les 
+plus affectés (en % du revenu)
+Montant d'économie budgétaire (en millions d'euros)
+Plafond à 50 euros
+Plafond à 75 euros
+Plafond à 100 euros
+
+=== p.34 ===
+ 
+26 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+ DISCUSSION 
+L’exercice mené dans cet article présente plusieurs limites. Tout d’abord, l’analyse repose sur l’hypothèse d’une 
+absence de réaction comportementale des ménages face aux déremboursements, et leurs effets sont appréhendés 
+uniquement sous l’angle redistributif, à consommation de soins inchangée. Ensuite, les réactions éventuelles des 
+travailleurs, des entreprises et des consommateurs à une hausse des prélèvements, susceptibles d’avoir des effets 
+sur l’emploi, sont également exclues du champ de l’étude. La seule réaction comportementale prise en compte 
+concerne les organismes complémentaires, qui ajustent comptablement les primes en fonction des rembourse-
+ments à assurer selon les catégories de ménages, mais toute autre adaptation de leur part, notamment en matière 
+de garanties proposées, est écartée. Par ailleurs, les simulations s’appuient sur des données de consommation de 
+soins datant de 2019, issues d’un échantillon de ménages. Enfin, d’autres scénarios de déremboursement pour-
+raient être envisagés. 
+Est-il raisonnable de supposer que le recours aux soins n’est pas modifié à la suite d’un dé-
+remboursement ? 
+L’analyse repose sur l’hypothèse d’une absence de réaction comportementale des ménages face aux dérembour-
+sements. Pourtant, plusieurs études montrent que le coût financier n’est pas neutre sur la consommation. La valeur 
+couramment retenue pour l’élasticité-prix de la demande de soins est –0,2 : la consommation de soins diminuerait 
+de 2 % en cas de hausse de 10 % de leur prix. Cette valeur moyenne, qui dépend du type de soin et du niveau de 
+couverture, est notamment fournie par l’expérience contrôlée « RAND Health Insurance Experiment », réalisée au 
+cours des années 1970 aux États-Unis. La demande de soins des familles participantes est alors analysée au 
+regard des garanties du contrat de complémentaire santé qui leur est attribué aléatoirement (Newhouse, 1993). 
+Depuis, de nombreuses études ont étudié ce lien entre participations financières, recours aux soins mais aussi 
+impact sur l’état de santé, soit en étudiant des augmentations des participations (Hynd, et al., 2018 ; Puig, et al., 
+2014), soit en comparant la consommation de soins selon la couverture des ménages (Finkelstein, et al., 2008 ; 
+Einav, et al., 2015 ; Caussat et Galude, 1993). Gourzoulidis, et al. (2017) présente une revue de littérature dans le 
+cas du diabète et des crises cardiaques. 
+Les effets comportementaux dépendent également du contexte dans lequel s’inscrit un déremboursement. L’effet 
+sur la consommation de soins est probablement accru quand le déremboursement s’inscrit dans une politique glo-
+bale accompagnant les complémentaires santé, les professionnels de santé (par exemple, en les invitant à modifier 
+leurs habitudes de prescription), ou proposant des alternatives aux soins déremboursés (par exemple des solutions 
+thérapeutiques équivalentes) comme dans le cas de déremboursements de certains médicaments (voir annexe 4). 
+L’impact des mesures de déremboursements sur le recours aux soins pourrait être atténué par la complexité du 
+système et par la relative opacité de certaines formes de participation. Les participations forfaitaires et les fran-
+chises sont par exemple prélevées de manières différées plutôt qu’acquittées au moment de la consommation de 
+soins par les patients. Dans le cas général, elles sont déduites de remboursements ultérieurs. Si tous les frais de 
+santé du patient sont pris en charge en tiers payant et qu’il ne perçoit pas de remboursement, il doit s’acquitter des 
+montants dus directement à l’Assurance maladie. Le recouvrement des sommes dues est partiel (environ 80 % des 
+montants [DSS, 2025]). L’absence de transparence dans les montants dus implique une faible réaction comporte-
+mentale aux modifications de taxe (Chetty, et al., 2009). En 2008, 12 % des enquêtés déclaraient avoir modifié 
+leurs achats de médicaments à la suite de la mise en place des franchises et la probabilité était plus élevée chez 
+les personnes à revenu modestes et un peu plus élevée chez ceux se déclarant en mauvaise santé (Kambie-
+Chopin et Perronnin, 2010). Ainsi, la réaction semble avoir été faible dans l’ensemble, mais plus importante chez 
+les moins aisés, qui sont déjà plus nombreux à renoncer à des soins (Lapinte et Legendre, 2021). 
+Une hausse des tickets modérateurs devrait également avoir un effet limité sur le recours aux soins, dans la mesure 
+où ces dépenses sont majoritairement prises en charge par les complémentaires santé. Toutefois, confrontés à 
+une hausse des primes de complémentaire, certains ménages pourraient renoncer à une couverture ou se tourner 
+vers des contrats moins protecteurs afin de contenir leurs dépenses. Au cours des dernières années, le taux de 
+couverture complémentaire est cependant resté à un niveau historiquement élevé en France (Lapinte, et al., 2024), 
+malgré l’augmentation du coût des contrats de complémentaire santé (de Williencourt, 2024). 
+Des changements de comportements, quelle que soit leur ampleur, pourraient être intégrés dans le cadre de mi-
+crosimulation de mesures. De Lagasnerie (2016) montre par exemple que les paramètres à retenir pour concevoir 
+une réforme équilibrée budgétairement sont modifiés une fois les réactions comportementales prises en compte, 
+dans le cadre d’une refonte du système combinant l’instauration d’une franchise, d’un ticket modérateur unique et 
+d’un plafond de reste à charge. Il conclut cependant que ce raffinement ne modifie pas radicalement les principaux 
+résultats. L’intégration de réactions comportementales dans les simulations soulèverait en outre plusieurs difficul-
+tés. Ainsi, compte tenu du but de l’étude, qui ne cherche pas fondamentalement à chiffrer des économies budgé-
+taires mais vise à comparer la répartition du coût de différentes mesures entre plusieurs types de ménages, deux 
+enjeux principaux peuvent être identifiés. D’une part, il serait nécessaire de formuler des hypothèses en termes de 
+recours aux soins ou aux complémentaires santé en fonction des caractéristiques des ménages (niveau de vie, 
+
+=== p.35 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 27
+ 
+âge, état de santé) et des postes de soins concernés21. D’autre part, il serait nécessaire de définir une mesure 
+harmonisée des coûts d’ordre monétaire (restes à charge, primes) et non monétaire (renoncer à un soin). Une 
+évaluation économique tenant compte des comportements suppose en effet de spécifier une fonction d’utilité per-
+mettant de modéliser les arbitrages entre consommation de soins, autres biens et épargne22. 
+Absence de réaction sur le marché du travail 
+L’analyse repose sur l’hypothèse d’une absence de réaction sur le marché du travail à une hausse des prélève-
+ments obligatoires (y compris TVA). Les actifs contribuent davantage en valeur absolue et en proportion de leur 
+revenu au financement de l’assurance maladie obligatoire (Bonnet et Fauchon, 2025). Le scénario de hausse uni-
+forme de l’ensemble des prélèvements, via les réactions des travailleurs, entreprises et consommateurs, est sus-
+ceptible d’avoir un impact négatif sur l’emploi, par effet de bouclage macroéconomique. Les conséquences sur 
+l’emploi d’une hausse du coût du travail, par exemple, font l’objet d’une vaste littérature à l’étranger comme en 
+France et ont récemment fait l’objet d’un rapport (Bozio et Wasmer, 2024). 
+Simplification de la réaction des complémentaires santé 
+Déterminer avec précision comment les organismes complémentaires répercuteraient les hausses de rembourse-
+ments sur leurs primes est une gageure. Dans cette étude, les complémentaires ajustent les primes en fonction 
+des remboursements moyens à assurer selon les catégories de ménages. Toute autre adaptation, notamment en 
+matière de garanties proposées, est donc écartée. 
+Limites propres au modèle de microsimulation Ines-Omar 2019 
+Les montants d’économie simulés sont imprécis. En effet, les simulations reposent sur le millésime 2019 du modèle 
+Ines-Omar : même si quelques mises à jour ont été apportées pour tenir compte de modifications de règles de 
+remboursement, les simulations sont effectuées sur la base des dépenses constatées en 2019 pour les adultes, et 
+en 2014 pour les enfants23. Les montants d’économie estimés ne tiennent donc pas compte des évolutions de 
+consommation de soins depuis 2019, ni des prix des différents actes. Pour connaître avec précision les économies 
+que peut générer une mesure, il convient de se reporter à des chiffrages ne souffrant pas de ces limites, par 
+exemple ceux réalisés par la direction de la sécurité sociale (voir annexe 5). Cependant, les chiffrages estimés 
+semblent cohérents et les limites relatives au millésime des données utilisées (2019) ne sont pas susceptibles de 
+remettre en cause l’analyse des effets redistributifs des différentes mesures. 
+D’autres mesures de déremboursements pourraient être simulées 
+Cette étude compare des mesures avec une visée purement budgétaire. Des mesures conçues pour réorienter les 
+patients vers des traitements jugés plus efficaces se situent au-delà du champ de cette étude, et sont délibérément 
+écartées de la liste des mesures simulées. Les mesures de déremboursements complets de certains médicaments, 
+selon l’évaluation de leurs services médicaux rendus, sont également écartées du cœur de l’analyse et étudiées 
+en annexe. D’une part, de telles mesures sont davantage susceptibles de modifier les consommations de soins, a 
+fortiori si les professionnels adaptent leurs pratiques (par exemple leurs prescriptions). D’autre part, un dérembour-
+sement complet par l’assurance maladie obligatoire rend la réponse des complémentaires santé incertaine, ces 
+dernières pouvant décider de cesser de rembourser ces soins, ou au contraire d’augmenter ces remboursements 
+pour investir l’espace libéré par l’assurance maladie obligatoire. Le lecteur trouvera en annexe, à titre d’information, 
+deux scénarios polaires d’un déremboursement complet des médicaments à service médical rendu faible ou mo-
+déré (annexe 4), suivant la réponse adoptée par les complémentaires santé. 
+Des mesures comme une augmentation du forfait journalier hospitalier, ou de la participation forfaitaire pour actes 
+lourds, entreraient dans le champ de cette étude, mais n’ont pas été simulées24. Ces formes de contribution sont 
+généralement remboursées par les complémentaires santé, au même titre que les tickets modérateurs, et 
+ 
+21 Une étude économétrique des déremboursements passés pourrait néanmoins permettre de calibrer les élasticités. 
+22 Une simulation avec variation comportementale qui se limiterait à mesurer le budget consacré au soin fournirait des conclusions contre-
+intuitives : par exemple, le renoncement aux soins de ménages modestes améliore mécaniquement l’équité verticale du financement, 
+dans la mesure où cela les conduirait à payer moins souvent des franchises ou des participations forfaitaires. 
+23 Pour les adultes comme pour les enfants, les dépenses de santé sont recalées par poste sur les montants agrégés issus des comptes 
+de la santé 2019. Le modèle Ines-Omar 2019 décrit donc bien, pour ces deux publics, la situation en 2019. 
+24 La simulation de ces scénarios demanderait un travail méthodologique important. L’articulation est complexe entre les forfaits journaliers 
+hospitaliers, les forfaits actes lourds et le ticket modérateur, notamment. 
+
+=== p.36 ===
+ 
+28 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+concernent principalement des personnes âgées et en mauvaise santé hospitalisées. Par conséquent, les effets 
+devraient être qualitativement similaires à ceux obtenus pour les tickets modérateurs sur les médicaments. 
+
+=== p.37 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 29
+ 
+ POUR EN SAVOIR PLUS 
+Albertone, M., Dugos, P., et al. (2024, juin). Revue de dépenses Affections de longue durée - Pour un dispositif 
+plus efficient et équitable. Rapport IGF-Igas. 
+André, M., Biotteau, A.-L. (2021). Medium-Term Effects of a Rise in VAT on Standard of Living and Inequality: A 
+Microsimulation Approach. Économie et Statistique / Economics and Statistics, 522-523,5 – 21. 
+Audric, S., Givord, P., Prost, C. (2000). Estimation de l’impact sur l’emploi non qualifié des mesures de baisse de 
+charges. Revue économique, 51 (3), pp. 513-522. 
+Bonnet O., Fauchon A. (2025, août). Dépenses de santé : un taux d’effort progressif chez les actifs, plus faible 
+chez les retraités aisés et très élevé pour certains ménages modestes. Drees, Études et Résultats, 1345. 
+Bonnet, O., Desjonquères, A. (2025). La complémentaire santé solidaire permet à huit bénéficiaires sur dix de ne 
+plus avoir de reste à charge en santé. Drees, Études et Résultats, 1362. 
+Bozio, A., Wasmer E. (2024, octobre). Les politiques d’exonérations de cotisations sociales : une inflexion néces-
+saire. Rapport final. France Stratégie. 
+Briet, R., Fragonard, B., Lancry, P. J. (2007). Mission bouclier sanitaire. La documentation française. 
+Cahuc, P., Carcillo S. (2012). Les conséquences des allégements généraux de cotisations patronales sur les bas 
+salaires. Revue Française d'Économie, 27, pp. 19-61 
+Caussat L., Glaude M. (1993). Dépenses médicales et couverture sociale. Économie et Statistique, 265, pp. 31-
+44. 
+Chetty, R., Looney, A., Kroft, K. (2009, septembre). Salience and Taxation: Theory and Evidence. American Eco-
+nomic Review, 99, 4, pp. 1145–77. 
+Cometx R., Pierre A. (2022, décembre). Plus les dépenses de santé sont importantes, plus la part prise en charge 
+par l’assurance maladie obligatoire est élevée. Drees, Études et Résultats, 1251. 
+Crépon, B., Desplatz, R. (2001). Une nouvelle évaluation des effets des allégements de charges sociales sur les 
+bas salaires. Économie et Statistique, 348-08, pp. 3-24. 
+Da Silva, N. (2022, octobre). La bataille de la Sécu. Paris, France. La fabrique éditions.  
+Debrand, T., Sorasith, C. (2010). Out-of-Pocket Maximum Rules under a Compulsory Health Care Insurance 
+Scheme: A Choice between Equality and Equity. Paris : IRDES Institute for Research and Information in Health 
+Economic. DT, 34. 
+De Lagasnerie, G. (2016). Assurance maladie obligatoire et demande de soins : une analyse par microsimula-
+tion. Revue économique, 67 (4), pp. 849-878. 
+Delecourt, C., Didier, M. (dir.) (2025, septembre). Les dépenses de santé en 2024 – Résultats des comptes de la 
+santé – Édition 2025. Paris, France. Drees, coll. Panoramas de la Drees-Santé. 
+Direction de la sécurité sociale (2025). Rapport d’évaluation des politiques de sécurité sociale. 
+Dormont B. (2024). Assurance-maladie : derrière la hausse envisagée du ticket modérateur, des enjeux cruciaux. 
+Le Monde, Tribune. 
+Dormont, B., Geoffard, P. Y., Tirole, J. (2014). Refonder l'assurance-maladie. Notes du Conseil d’analyse éco-
+nomique, 12 (2), pp. 1-12. 
+Feller (dir.) (2024). La complémentaire santé solidaire – Rapport annuel 2024. Direction de la sécurité sociale. 
+Finkelstein, A., McKnight, R. (2008). What did Medicare do? The initial impact of Medicare on mortality and out 
+of pocket medical spending. Journal of Public Economics, 92,7, pp. 1644-1668. 
+Fontaine, M., Sicsic, M. (2018, août). L'effet d'une variation du montant de certains transferts du système socio-
+fiscal sur le niveau de vie : résultats sur 2016 à partir du modèle de microsimulation Ines (Cahier de variantes). 
+Insee, Document de travail, F1806. 
+Fouquet, M., Pollak, C. (2022, février). L’assurance maladie publique contribue fortement à la réduction des iné-
+galités de revenu. DREES, Études et Résultats, 1220. 
+Franc, C., Pierre, A. (2015). Conséquences de l'assurance publique et complémentaire sur la distribution et la 
+concentration des restes à charge : une étude de cas. Économie et Statistique/Economics and Statistics, 475 (1), 
+pp. 31-49. 
+Geoffard, P. Y., de Lagasnerie, G. (2012). Réformer le système de remboursement pour les soins de ville, une 
+analyse par microsimulation. Économie et statistique, 455 (1), pp. 89-113. 
+
+=== p.38 ===
+ 
+30 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+Gourzoulidis, G., et al. (2017). Association between copayment, medication adherence and outcomes in the man-
+agement of patients with diabetes and heart failure, Health Policy,  121,  pp. 363-377. 
+HCAAM, HCFEA, HCFIPS (2025). Pour un redressement durable de la sécurité sociale. Paris, France. Rapport 
+conjoint 
+Hynd, A., et al.(2008, novembre). The impact of co-payment increases on dispensings of government-subsidised 
+medicines in Australia. Pharmacoepidemiol Drug Saf., 17,  pp. 1091-9. 
+Jusot, F., Legal, R., Louvel, A., et al. (2016).. À quoi tient la solidarité de l’assurance maladie entre les hauts 
+revenus et les plus modestes en France ? Revue française d'économie, pp. 15-62. 
+Jusot F., Lemoine A. (2024). Le reste à charge en santé nuit-il à l’équité dans le financement des soins ? Économie 
+et Statistique, 542. 
+Kramarz, F., Philippon, T. (2001). The Impact of Differential Payroll Tax Subsidies on Minimum Wage Employ-
+ment, Journal of Public Economics, 82, pp. 115-146. 
+Liran E., Finkelstein, A., Schrimpf, P. (2015, mai). The Response of Drug Expenditure to Nonlinear Contract 
+Design: Evidence from Medicare Part D, The Quarterly Journal of Economics, 130, pp. 841–899. 
+Lancry, P. (dir.) (2022, janvier). Quatre scénarios polaires d’évolution de l’articulation entre Sécurité sociale et 
+Assurance maladie complémentaire. Rapport du HCAAM. 
+Lapinte, A., Legendre, B. (2021, juillet). Renoncement aux soins : la faible densité médicale est un facteur aggra-
+vant pour les personnes pauvres. Drees, Études et résultats, 1200. 
+Lapinte, A., Pollak, C., Solotareff, R. (dir.) (2024, juillet). La complémentaire santé – Acteurs, bénéficiaires, ga-
+ranties – Édition 2024. Paris, France. Drees, coll. Panoramas de la Drees-Santé. 
+Luyten, E., Tubeuf, S. (2025, février). Equity in healthcare financing: A review of evidence. Health Policy, 152. 
+Newhouse J., Insurance Experiment Group (1993). Free for All ? Lessons from the RAND Health Insurance 
+Experiment. Cambridge (Mass.), Harvard University Press. 
+Ngouana, U. (2019, février). Le déremboursement entraîne une hausse immédiate des ventes des médicaments 
+non remboursables. Drees, Études et Résultats, 1107. 
+Perronnin, M. (2016, mai). Restes à charge publics en ville et à l’hôpital : des taux d’effort inégalement répartis. 
+Irdes, Questions d’économie de la santé, 218. 
+Pichetti S., Sorasith C., Sermet C. (2011). Analysis of the impact of removing mucolytics and expectorants from 
+the list of reimbursable drugs on prescription rates: A time-series analysis for France 1998-2010, Health Policy, 28. 
+Pierre, A., Solotareff, R., Dauphant, F. (2025, avril). Réforme du 100 % santé : quels effets attendre sur les primes 
+des contrats de complémentaire santé ? Drees, Études et Résultats, 1318.. 
+Poulon, P. (2024, septembre). Le modèle de microsimulation Ines-Omar 2019 – Note méthodologique détaillée. 
+Drees, Drees Méthodes, 18. 
+Puig-Junoy, J., Rodríguez-Feijoó, S., Lopez-Valcarcel, B. (2014). Paying for Formerly Free Medicines in Spain 
+After 1 Year of Co-Payment: Changes in the Number of Dispensed Prescriptions. Appl Health Econ Health Policy , 
+pp. 279–287.. 
+Wagstaff, A., O'Donnell, O., Van Doorslaer, E., Lindelow, M. (2007). Analyzing health equity using household 
+survey data: a guide to techniques and their implementation. World Bank Publications. 
+De Williencourt, C (2025, décembre). Rapport 2024 sur la situation financière des organismes complémentaires 
+assurant une couverture santé. Drees, Rapports. 
+ 
+
+=== p.39 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 31
+ 
+Annexe 1. Simulation des participations forfaitaires et franchises « po-
+tentielles » (au-delà du plafond annuel) 
+Le SNDS fournit au modèle Ines-Omar 2019 les dépenses de santé et les remboursements par l’assurance maladie 
+obligatoire se rapportant à chaque acte, ainsi que les franchises médicales et participations forfaitaires associées. 
+En 2019, des plafonds limitent les franchises médicales et participations forfaitaires à 50 euros par an. Une fois un 
+plafond annuel atteint, aucune franchise (ou participation forfaitaire le cas échéant) n’est due par l’assuré pour le 
+restant de l’année : tout acte post-plafond est donc en théorie associé dans le SNDS à une franchise (ou participa-
+tion forfaitaire) nulle. 
+Pour chaque médicament, soin par un auxiliaire médical, ou transport sanitaire consommé post-plafond, on cherche 
+à estimer le montant de la franchise qui lui aurait été associée en l’absence de plafond. De même, on souhaite 
+calculer une participation forfaitaire « potentielle » pour les actes médicaux, de radiologie ou de biologie médicale 
+ayant été consommés post-plafond. 
+Il n’est pas possible d’attribuer directement les montants théoriques de franchises (0,50 euro pour les médicaments 
+et les auxiliaires médicaux, 2 euros pour les transports sanitaires) et de participations forfaitaires (1 euro pour les 
+actes médicaux, de radiologique ou de biologie médicale) aux actes consommés post-plafond. 
+ D’une part, même si l’opération est réalisée à un niveau relativement désagrégé, certains actes sont compilés 
+ensemble. Attribuer le montant théorique unitaire conduirait en moyenne à sous-estimer le montant de la fran-
+chise ou de la participation forfaitaire « potentielle » associée au groupe d’actes. 
+ D’autre part, pour une prestation donnée, le prélèvement d’une franchise ou participation forfaitaire n’est pas 
+systématique. En plus de la question du plafond annuel, des plafonds journaliers, ou des exonérations (enfants 
+mineurs, femme enceinte depuis 6 mois ou plus, etc.), peuvent dispenser d’une franchise ou participation forfai-
+taire. Attribuer le montant théorique unitaire à chaque acte (ou groupe d’actes) conduirait en moyenne à sures-
+timer le montant de la franchise ou de la participation forfaitaire « potentielle ». 
+Pour répondre à ces deux écueils, on préfère calculer des montants moyens de franchises ou de participations 
+forfaitaires, et les attribuer aux actes consommés post-plafond. Les montants moyens sont calculés à partir des 
+actes préplafonds (c’est-à-dire consommés avant que le plafond n’ait été atteint) des patients ayant atteint un pla-
+fond en 2019. Une moyenne est calculée pour chaque nature de la prestation, croisée, lorsque c’est possible, avec 
+le montant total associé (somme du remboursement par l’assurance maladie obligatoire et des franchises ou par-
+ticipations forfaitaires prélevées). Travailler au niveau de la nature de la prestation est indispensable car en fonction 
+de la prestation concernée, le montant unitaire théorique varie, mais aussi le nombre moyen d’actes (lorsque plu-
+sieurs sont compilés ensemble) ainsi que la fréquence des cas où au moins 1 centime de franchise ou de prélève-
+ment forfaitaire est prélevé. Raffiner aussi par les montants associés (remboursement par l’assurance maladie 
+obligatoire + franchises/participations) permet de résoudre en partie le problème des actes compilés ensemble 
+(avec l’idée que si plusieurs actes sont agrégés, la somme des montants est plus élevée) tout en garantissant, au 
+niveau des actes post-plafond, une certaine cohérence (i.e. en s’assurant que les franchises et participations for-
+faitaires additionnelles restent bien inférieures aux montants remboursés initialement par l’assurance maladie obli-
+gatoire). 
+On considère qu’un individu a atteint un plafond s’il cumule au moins 45 euros de franchises (ou de participations 
+forfaitaires) en 2019. Les actes préplafonds correspondent à tous les actes consommés avant que la dernière 
+franchise (ou participation forfaitaire) n’ait été prélevée, les actes post-plafonds à tous les actes consommés en-
+suite. Le seuil pratique de 45 euros est fixé légèrement en deçà du plafond théorique de 50 euros, car les données 
+suggèrent qu’un nombre important d’individus ont atteint leur plafond sans avoir pour autant un cumul de 50 euros 
+de franchises (ou de participations forfaitaires) dans la base. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== p.40 ===
+ 
+32 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+ 
+ Graphique 12 Distribution, pour les individus avec au moins 1 centime de franchises en 2019, des mon-
+tants annuels de franchises observés et « potentiels » (simulant une absence de plafond annuel) 
+En % 
+ 
+ 
+ 
+Lecture > 5 % des individus avec au moins 1 centime de franchises sont confrontés en 2019 à un montant annuel de franchises compris entre 50 
+et 51 euros. 
+Champ > France métropolitaine, individus de 18 ans ou plus confrontés à au moins 1 centime de franchises en 2019.  
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+ 
+ Graphique 13 Distribution, pour les individus avec au moins 1 centime de participations forfaitaires en 
+2019, des montants annuels de participations forfaitaires observés et « potentiels » (simulant une ab-
+sence de plafond annuel) 
+En % 
+ 
+ 
+ 
+Lecture > 1 % des individus avec au moins 1 centime de participations forfaitaires sont confrontés en 2019 à un montant annuel de participations 
+forfaitaires compris entre 50 et 51 euros. 
+Champ > France métropolitaine, individus de 18 ans ou plus confrontés à au moins 1 centime de participations forfaitaires en 2019.  
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+0
+1
+2
+3
+4
+5
+6
+7
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Observé
+Potentiel (simulant une absence de plafond annuel)
+Seuil (pratique) de 45 euros  
+Plafond théorique de 50 euros
+0
+1
+2
+3
+4
+5
+6
+7
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Observé
+Potentiel (simulant une absence de plafond annuel)
+Seuil (pratique) de 45 euros  
+Plafond théorique de 50 euros
+
+=== p.41 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 33
+ 
+Annexe 2. Simulation des primes 
+On suppose que les remboursements supplémentaires à assurer par les complémentaires santé à la suite d’une 
+mesure sont répercutés sur les primes des assurés différemment en fonction de leur contrat et éventuellement de 
+leur âge. Les primes varieraient ainsi plus fortement pour les groupes dont le profil de dépenses est le plus affecté 
+par une mesure. Cette hypothèse est cohérente avec ce qui est observé lors du déploiement du 100 % santé : les 
+bénéficiaires de contrats individuels les plus âgés, qui sont les premiers affectés par le 100 % santé, connaissent 
+une progression de leurs primes entre 2019 et 2021 plus importante que les autres. 
+Les variables explicatives sont des indicatrices croisant le type de contrat (collectif ou individuel), sa qualité (con-
+trats peu couvrants, contrats moyennement couvrants, contrats très couvrants), et l’âge du bénéficiaire. Dans le 
+cas des contrats collectifs, on fait uniquement la différence entre les mineurs et les majeurs. Pour les contrats 
+individuels, on distingue les mineurs, les 18-39 ans, 40-54 ans, 55-64 ans, 65-74 ans et les 75 ans ou plus. 
+ 
+ Tableau 2 Simulation par régression linéaire de l’augmentation des primes consécutive à une hausse du 
+ticket modérateur sur les consultations médicales et de sages-femmes, sur le dentaire ou sur les médica-
+ments 
+Type de 
+contrat  
+Âge 
+Couverture 
+Ticket modérateur 
+sur les consulta-
+tions médicales et 
+de sages-femmes 
+Ticket modérateur 
+sur le dentaire 
+Ticket modérateur 
+sur les médica-
+ments 
+Constante 
+13,2 
+2,5 
+0,4 
+Contrat 
+collectif 
+0-17 ans 
+Peu couvrant 
+(Référence) 
+(Référence) 
+(Référence) 
+Milieu de gamme 
+-0,5 
+0,4 
+0,7 
+Très couvrant 
+0,3 
+0,9 
+1,1 
+18 ans 
+ou plus 
+Peu couvrant 
+1,1 
+16,2 
+11,7 
+Milieu de gamme 
+1,7 
+16,8 
+12,9 
+Très couvrant 
+3,4 
+18,4 
+13,2 
+Contrat 
+individuel 
+0-17 ans 
+Peu couvrant 
+-1,5 
+0,5 
+1,6 
+Milieu de gamme 
+-0,8 
+1,1 
+0,7 
+Très couvrant 
+1,3 
+0,9 
+1,0 
+18-39 
+ans 
+Peu couvrant 
+-2,3 
+8,1 
+7,5 
+Milieu de gamme 
+-0,2 
+9,7 
+12,5 
+Très couvrant 
+4,0 
+8,2 
+8,7 
+40-54 
+ans 
+Peu couvrant 
+1,2 
+15,1 
+11,5 
+Milieu de gamme 
+4,0 
+14,1 
+14,0 
+Très couvrant 
+4,5 
+19,3 
+15,6 
+55-64 
+ans 
+Peu couvrant 
+2,5 
+19,6 
+20,7 
+Milieu de gamme 
+5,4 
+18 ,7 
+24,4 
+Très couvrant 
+6,1 
+18,0 
+21,7 
+65-74 
+ans 
+Peu couvrant 
+2,8 
+17,5 
+30,2 
+Milieu de gamme 
+6,3 
+19,5 
+32,2 
+Très couvrant 
+9,5 
+21,7 
+33,9 
+75 ans 
+ou plus 
+Peu couvrant 
+2,4 
+11,9 
+38,6 
+Milieu de gamme 
+6,2 
+15,9 
+40,3 
+Très couvrant 
+6,7 
+23,5 
+45,3 
+ 
+Note > Chaque colonne fournit les coefficients d’une régression. La variable dépendante correspond à l’augmentation des remboursements à as-
+surer par les complémentaires, consécutivement à une hausse d’un certain ticket modérateur. 
+Lecture > En cas de hausse du ticket modérateur sur les consultations médicales et de sages-femmes (calibrée pour générer 1 milliards d'euros), 
+les complémentaires santé privées doivent assurer un remboursement supplémentaire de 13,2 euros à destination de leurs bénéficiaires de 0 à 17 
+ans ayant un contrat collectif peu couvrant. 
+
+=== p.42 ===
+ 
+34 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+Champ > France métropolitaine, individus bénéficiaires d’une complémentaire santé privée, de ménages non étudiants vivant en logement ordi-
+naire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+
+=== p.43 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 35
+ 
+Annexe 3. Calcul du score d’état de santé (à destination de l’indicateur 
+d’équité horizontale) 
+L’état de santé général déclaré, qui ne peut prendre que 5 valeurs (1-Très mauvais, 2-Mauvais, 3-Moyen, 4-Bon, 
+5-Très bon) ne permet pas de classer finement les ménages suivant leur état de santé. Pour réaliser un tel classe-
+ment, on construit une variable continue prenant la forme d’un score de santé. Il est calculé pour l’individu le plus 
+âgé de chaque ménage. Dans l’enquête EHIS 2019, mobilisée dans le modèle Ines-Omar, chaque individu déclare 
+son état de santé général (1-Très mauvais, 2-Mauvais, 3-Moyen, 4-Bon, 5-Très bon) et répond à une série de 
+questions portant sur des aspects précis de sa santé. Le score de santé correspond à la valeur prédite dans la 
+régression linéaire de l’état de santé général déclaré sur : une constante, des indicatrices d’âge, une indicatrice de 
+sexe, et différentes variables rapportant des aspects précis de la santé du déclarant. Un score de santé faible 
+signifie qu’on prédit pour l’individu un état de santé général dégradé. Les valeurs prédites de cette régression, et 
+donc du score, sont comprises entre 0,6 et 4,9. 
+ 
+ Graphique 14 Distribution des déclarations sur l’état de santé général et du score d’état de santé simulé, 
+pour les individus d’Ines-Omar de 15 ans ou plus 
+En % 
+ 
+ 
+Lecture > 40 % des individus de 15 ans ou plus déclarent un bon état de santé (4-Bon). 20 % des individus de 15 ans ou plus ont un score estimé 
+compris entre 4,25 et 4,5. 
+Champ > France métropolitaine, individus de 15 ans ou plus.  
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+Les aspects précis de la santé considérés dans l’estimation du score d’état de santé renseignent la santé physique 
+et mentale des répondants. Ils portent plus précisément sur : 
+ La capacité à voir (ne pas pouvoir voir du tout / porter des lunettes ou des lentilles ou avoir des difficultés à voir 
+/ ne pas porter de lunettes ni de lentilles et ne pas avoir de difficultés à voir) ; 
+ La capacité à entendre (ne pas pouvoir entendre du tout / porter un appareil auditif ou avoir des difficultés à 
+entendre / ne pas porter d’appareil auditif et ne pas avoir de difficultés à entendre) ; 
+ La capacité à mâcher (avoir un dentier ou des difficultés à mâcher / ne pas avoir de dentier ni de difficultés à 
+mâcher) ; 
+ La capacité à marcher, à monter ou descendre des marches, à se souvenir / se concentrer, manger, se lever / 
+s’asseoir / s’allonger, s’habiller / se déshabiller, aller aux toilettes, prendre un bain / une douche, (pour chaque 
+aspect : impossibilité (éventuellement sans aide) / beaucoup de difficultés / quelques difficultés / pas de difficul-
+tés) 
+ La fréquence à laquelle se posent certains problèmes : faible intérêt ou plaisir à faire des choses, être triste, 
+avoir des difficultés à s’endormir, manquer d’énergie, avoir peu d’appétit, avoir une mauvaise opinion de soi-
+même, avoir du mal à se concentrer, bouger très lentement ou être très agité, avoir des idées suicidaires (pour 
+chaque aspect : presque tous les jours, plus de la moitié des jours, plusieurs jours, jamais) ; 
+ Le fait d’avoir été affecté au cours de l’année par de l’asthme, une bronchite, une crise cardiaque, une maladie 
+des artères coronaires, une hypertension artérielle, un AVC, de l’arthrose, des douleurs du dos, des douleurs à 
+0
+10
+20
+30
+40
+50
+1
+2
+3
+4
+5
+État de santé déclaré
+Score estimé
+
+=== p.44 ===
+ 
+36 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026  
+ 
+la nuque, du diabète, des allergies, une cirrhose du foie, une incontinence urinaire, des problèmes rénaux, une 
+dépression, un taux élevé de cholestérol ; 
+ L’intensité de douleurs physiques (nulles, très faibles, faibles, modérées, fortes, très fortes). 
+ 
+
+=== p.45 ===
+ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 37
+ 
+Annexe 4. Impact redistributif du déremboursement des médicaments 
+à service médical rendu faible ou modéré 
+Les effets redistributifs d’un déremboursement complet des médicaments à service médical rendu (SMR) faible ou 
+modéré, délivrés en ville, peuvent être simulés en faisant des hypothèses fortes sur les réactions des complémen-
+taires santé, des patients, des professionnels prescripteurs, et des laboratoires pharmaceutiques. Les simulations 
+décrites ici ne sont pas calibrées pour générer 1 milliard d’euros d’économie, et ne sont donc pas directement 
+comparables aux autres mesures simulées. 
+Plusieurs réponses de la part des complémentaires santé sont envisageables. Ces dernières peuvent décider de 
+cesser de rembourser les médicaments déremboursés par l’assurance maladie obligatoire, ou au contraire d’aug-
+menter ces remboursements pour investir l’espace libéré. On considère ici deux scénarios polaires. Dans le premier 
+scénario, l’ensemble des complémentaires santé cesse de rembourser les médicaments à SMR faible ou modéré. 
+Dans le second, seule la complémentaire santé solidaire (C2S) emboîte le pas de l’assurance maladie obligatoire ; 
+les autres complémentaires santé augmentent leurs remboursements pour rembourser 100 % des médicaments 
+en question. Une hausse des remboursements par les complémentaires santé, ou inversement une baisse, sont 
+susceptibles de faire augmenter (respectivement baisser) les primes d’assurance dont doivent s’acquitter leurs 
+assurés. 
+En faisant l’hypothèse supplémentaire d’une absence de modification de comportement des patients, des prescrip-
+teurs et des laboratoires pharmaceutiques, la mesure aurait un coût de 31 euros (scénario 1) ou 40 euros (scénario 
+2) par ménage. Dans le scénario 1, le déremboursement complet par les complémentaires santé implique une 
+hausse des restes à charge de 72 euros en moyenne, mais le coût par ménage est amoindri grâce à une baisse 
+des primes versées aux complémentaires santé d’une valeur de 41 euros. Dans le scénario 2, le remboursement 
+à 100 % par la plupart des complémentaires santé privées limite la hausse des restes à charge à 1 euro, auquel il 
+faut ajouter une hausse des primes d’assurance d’environ 39 euros. Le scénario 2 coûte en moyenne davantage 
+aux ménages, car à la hausse des primes liée aux remboursements supplémentaires assurés par certaines com-
+plémentaires santé, s’ajoute la taxe de solidarité additionnelle dont les recettes augmentent en conséquence. 
+En termes de niveau de vie, le coût est beaucoup plus élevé pour les 20 % de ménages les plus modestes que 
+20 % de ménages les plus aisés : 47 contre 13 euros (selon le scénario 1) ou 50 contre 38 euros (selon le scénario 
+2). Au sein des ménages modestes, les bénéficiaires de la complémentaire santé solidaire (C2S) subissent en effet 
+la double mesure de déremboursement (par l’assurance maladie obligatoire et par la C2S) sans bénéficier de la 
+baisse des primes d’assurance, la C2S restant gratuite ou associée à une prime modique, supposée inchangée. 
+Les ménages en mauvais ou très mauvais état de santé subissent un coût s’élevant à 109 euros (scénario 1) ou 
+69 euros (scénario 2). C’est davantage que les ménages en très bonne santé (2 euros ou 29 euros en fonction du 
+scénario). Le scénario 1, avec désinvestissement de l’ensemble des complémentaires santé, est l’option la plus 
+pénalisante pour les ménages en mauvais ou très mauvais état de santé. En effet, ce scénario implique une baisse 
+des remboursements de la part de l’assurance maladie obligatoire et des complémentaires santé. Cette perte 
+double de la mutualisation augmente mécaniquement les restes à charge des patients consommant ce type de 
+médicaments. 
+Les hypothèses posées sur le comportement des patients, prescripteurs et des laboratoires pharmaceutiques sont 
+lourdes. En cas de déremboursement complet, il est possible que les prescripteurs orientent leurs patients vers des 
+alternatives thérapeutiques, si elles existent. Le maintien de la consommation de ces médicaments est donc peu 
+crédible. En outre, à la suite d’un déremboursement complet, les prix des produits visés ne bénéficieraient plus du 
+même encadrement, ouvrant la voie à une baisse des prix pour éviter une baisse trop importante des volumes 
+vendus, ou au contraire une hausse des prix pour compenser les baisses de volume. Le déremboursement complet 
+de certains médicaments en 2011 s’est ainsi traduit par une baisse des volumes de vente de 33 % sur un an, et, 
+en moyenne d’une augmentation des prix (Ngouana, 2019 ; et voir également sur le déremboursement des médi-
+caments en France : Pichetti, et al., 2011). 
+ 
+ 
+ 
+ 
+ 
+
+=== p.46 ===
+38 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+Annexe 5. Chiffrages des mesures ou projets passés, avec le modèle 
+Ines-Omar 2019 
+Dans la mesure où le modèle Ines-Omar repose sur un échantillon de la population, les chiffrages des économies 
+attendues pour la Sécurité sociale de mesures visant à modifier les paramètres de remboursements des dépenses 
+de santé sont par nature moins précis que des estimations réalisées à partir des données exhaustives pour l’en-
+semble de la population. 
+Les écarts par rapport aux estimations de référence issues de documents publics, présentées dans le tableau ci-
+dessous, restent modérés et ne sont cependant pas susceptibles de remettre en cause l’analyse des effets redis-
+tributifs des différentes mesures. 
+ Tableau 3 Chiffrages des mesures ou projets passés, avec le modèle Ines-Omar 2019 
+En millions d’euros 
+Mesure 
+Sources ex-
+ternes 
+Ines-Omar 
+Hausse du ticket modérateur sur les soins dentaires de +10 points (2023) 
+50025 
+380 
+Doublement des participations forfaitaires et franchises médicales : montants unitaires (2024) 
+80026 
+700 
+Hausse du ticket modérateur (projets discutés fin 2024) : 
+•
+sur les consultations médicales de + 10 points 
+•
+sur les consultations médicales et les médicaments de +5 points 
+•
+1 14027 
+•
+900idem 
+•
+1 290 
+•
+1 050 
+Doublement des participations forfaitaires et franchises médicales (projets discutés courant 2025) : 
+•
+plafonds seuls 
+•
+plafonds et montants unitaires 
+•
+70028 
+•
+2 00029 
+•
+630 
+•
+1 990 
+Note > Les gains estimés dans ce tableau par le modèle Ines-Omar correspondent à la baisse des remboursements par l’assurance maladie obli-
+gatoire, à laquelle est ajoutée la hausse des recettes de la taxe de solidarité additionnelle (résultant de la hausse des primes d’assurance versées 
+aux complémentaires santé). Ces gains sont calculés par rapport à la situation en 2019 pour les deux premières lignes ; à la situation de 2019 
+amendée de quelques règles de remboursements (augmentation du ticket modérateur dentaire de 2023, doublement des participations forfaitaires 
+et des franchises de 2024) pour les deux lignes suivantes. 
+Lecture > Le scénario d’une hausse du ticket modérateur sur les soins dentaires de +10 points, telle que discutée en 2023, générerait 380 millions 
+d’euros d’économie selon le modèle Ines-Omar. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros (pour 
+les simulations d’Ines-Omar). 
+Source > Drees, modèle de microsimulation Ines-Omar 2019 (pour les simulations d’Ines-Omar). 
+25 Santé : on vous explique pourquoi les frais dentaires pourraient vous coûter plus cher à partir de cet automne 
+26 Le gouvernement prévoit le doublement des franchises médicales à partir de fin mars 
+27 Question n°185 : Hausse du ticket modérateur - Assemblée nationale 
+28 Payer la franchise au comptoir de la pharmacie, doubler les plafonds... Comment le gouvernement va rendre la santé plus chère pour 
+économiser 700 millions d'euros 
+29 Franchises médicales : le gouvernement veut doubler le reste à charge en 2026 
+
+=== p.47 ===
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 39
+Annexe 6. Graphiques complémentaires 
+ Graphique 15 Coût moyen par ménage des mesures simulées, selon l'âge de la personne la plus âgée du 
+ménage et le cinquième de niveau de vie 
+En euros 
+En % du revenu 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 1 milliard d'euros. 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes exige des ménages de moins 65 ans du premier 
+cinquième de niveau de vie un effort s'élevant à 0,12 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+0
+10
+20
+30
+40
+50
+60
+70
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+0,30
+1er 2e 3e 4e 5e 1er 2e 3e 4e 5e 1er 2e 3e 4e 5e 1er 2e 3e 4e 5e 1er 2e 3e 4e 5e
+Ticket modérateur
+sur les consultations
+médicales et de
+sages-femmes
+Ticket modérateur
+sur le dentaire
+Ticket modérateur
+sur les
+médicaments
+Participations
+forfaitaires
+(consultations
+médicales et
+laboratoires)
+Franchises
+médicales
+(médicaments,
+auxiliaires médicaux
+et transports)
+Moins de 65 ans
+65 ans ou plus
+
+=== p.48 ===
+40 ■ 
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+ Graphique 16 Coût moyen par ménage des mesures simulées, selon l'âge de la personne la plus âgée du 
+ménage et le type de ménage 
+En euros 
+En % du revenu 
+Note > Chaque mesure conduit à une économie budgétaire de l'ordre de 1 milliard d'euros. 
+Lecture > La hausse du ticket modérateur sur les consultations médicales et de sages-femmes exige des personnes seules de moins 65 ans un 
+effort s'élevant à 0,08 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+Personne seule
+Ménage monoparental
+Couple sans enfant
+Couple avec enfant(s)
+Ménage complexe
+Personne seule
+Ménage monoparental
+Couple sans enfant
+Couple avec enfant(s)
+Ménage complexe
+Personne seule
+Ménage monoparental
+Couple sans enfant
+Couple avec enfant(s)
+Ménage complexe
+Personne seule
+Ménage monoparental
+Couple sans enfant
+Couple avec enfant(s)
+Ménage complexe
+Personne seule
+Ménage monoparental
+Couple sans enfant
+Couple avec enfant(s)
+Ménage complexe
+Ticket modérateur
+sur les consultations
+médicales et de
+sages-femmes
+Ticket modérateur
+sur le dentaire
+Ticket modérateur
+sur les
+médicaments
+Participations
+forfaitaires
+(consultations
+médicales et
+laboratoires)
+Franchises
+médicales
+(médicaments,
+auxiliaires médicaux
+et transports)
+Moins de 65 ans
+65 ans ou plus
+
+=== p.49 ===
+Dérembourser des soins pour maîtriser la dépense de santé : qui paie ? > Les Dossiers de la Drees n° 135 > février 2026
+■ 41
+ Graphique 17 Coût moyen des mesures pour les 20 % de ménages les plus affectés, selon le montant 
+d’économie budgétaire 
+En euros 
+En % du revenu 
+Note > Les 20 % de ménages les plus affectés correspondent aux 20 % pour lesquels le coût rapporté au revenu est le plus élevé. 
+Lecture > Une hausse du ticket modérateur sur les consultations médicales et de sages-femmes permettant d'atteindre une économie de l'ordre 
+de 1 milliard d'euros exige des 20 % de ménages les plus affectés un effort s'élevant à 0,18 % de leur revenu. 
+Champ > France métropolitaine, ménages non étudiants vivant en logement ordinaire, et dont le revenu mensuel est supérieur à 100 euros. 
+Source > Drees, modèle de microsimulation Ines-Omar 2019. 
+0
+25
+50
+75
+100
+125
+0
+500
+1000
+1500
+2000
+Coût moyen pour les 20 % de ménages 
+les plus affectés (en euros)
+Montant d'économie budgétaire 
+(en millions d'euros)
+0,00
+0,10
+0,20
+0,30
+0,40
+0,50
+0,60
+0
+500
+1000
+1500
+2000
+Coût moyen pour les 20 % de ménages 
+les plus affectés (en % du revenu)
+Montant d'économie budgétaire 
+(en millions d'euros)
+Ticket modérateur sur les consultations médicales et de
+sages-femmes
+Ticket modérateur sur le dentaire
+Ticket modérateur sur les médicaments
+
+=== p.50 ===
+Les Dossiers de la Drees 
+N° 135 • février 2026 
+Dérembourser des soins pour maîtriser la dépense de 
+santé : qui paie ? 
+Directeur de la publication 
+Thomas WANECQ 
+Responsable d’édition 
+Valérie BAUER-EUBRIET 
+ISSN 
+2495-120X 

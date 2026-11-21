@@ -1,0 +1,47 @@
+norme;annee;cible;execution;ecart;unite;t_init;t_rev;t_cour;moyen;pieces;fait
+ONDAM;1997;;;;Md€;NE;NE;NE;"dépassements « systématiques » avant 2010 selon le Sénat ; aucune valeur annuelle lue";P02;F-S08-001
+ONDAM;2008;;;;Md€;N;NE;NE;"sous-objectif établissements dépassé en 2008 et 2009 (Sénat 2019 p. 32) ; pas de valeur globale lue";P02;F-S08-001
+ONDAM;2009;;;;Md€;N;NE;NE;idem;P02;F-S08-001
+ONDAM;2010;;161.8;-0.64;Md€;O;NE;NE;sous-exécution (volumes ralentis, effet base);"P02;P20";F-S08-002
+ONDAM;2011;167.1;166.3;-0.8;Md€;O;NE;NE;"sous-exécution ; mises en réserve hospitalières non déléguées 2011-2014";"P02;P20";F-S08-002
+ONDAM;2012;171.2;170.8;-0.35;Md€;O;NE;NE;estimation de novembre 2012;P20;F-S08-002
+ONDAM;2013;;;;Md€;O;NE;NE;soins de ville dépassés, compensés par gels et annulations hospitalières;"P05;P02";F-S08-003
+ONDAM;2014;;;;Md€;O;NE;NE;idem;"P05;P02";F-S08-003
+ONDAM;2015;;;;Md€;O;NE;NE;"idem ; soins de ville sur-exécutés depuis 2015 (Sénat)";"P05;P02";F-S08-003
+ONDAM;2016;;;;Md€;O;NE;NE;idem;"P05;P02";F-S08-003
+ONDAM;2017;;;;Md€;O;NE;NE;chaque sous-objectif atteint selon la Cour (divergence Sénat, §12);"P05;P02";F-S08-003
+ONDAM;2018;;;;Md€;O;NE;NE;idem;"P05;P02";F-S08-003
+ONDAM;2019;;;;Md€;O;NE;NE;idem (Cour p. 119);P05;F-S08-003
+ONDAM;2020;;;;Md€;N;NE;NE;crise sanitaire;P05;F-S08-004
+ONDAM;2021;;;;Md€;N;NE;NE;crise sanitaire, Ségur;P05;F-S08-004
+ONDAM;2022;236.8;247.2;+10.4;Md€;N;NE;NE;covid, mesures inflation, revalorisations en cours d'année (soclées);"P21;P05";F-S08-004
+ONDAM;2023;;;;Md€;N;NE;NE;revalorisations salariales en cours d'année, soins de ville;P05;F-S08-004
+ONDAM;2024;;256.4;+1.5;Md€;N;NE;NE;soins de ville;"P04;P05";F-S08-004
+ONDAM;2025;265.9;265.4;-0.5;Md€;O;O;NE;"alerte de juin 2025, économies d'urgence, gels sur établissements ; soins de ville +0,5";"P05;P03";F-S08-005
+ETAT_zero_volume_BG;2002;;273.5;vol +2.2 %;Md€;NE;NE;NE;"pas de norme identifiée sur pièce pour 2002 ; LFR d'été";P06;F-S08-010
+ETAT_zero_volume_BG;2003;;273.8;vol -0.9 %;Md€;O;NE;NE;"exécution au niveau voté (rapporteur général) ; périmètre -2,4";P06;F-S08-010
+ETAT_zero_volume_BG;2004;;283.7;vol -0.2 %;Md€;O;NE;NE;périmètre +5,8;P06;F-S08-010
+ETAT_zero_volume_BG;2005;;288.6;vol +0.1 %;Md€;O;NE;NE;"périmètre -0,4 ; volume légèrement positif";P06;F-S08-010
+ETAT_zero_volume_BG;2006;;266.1;vol -0.1 %;Md€;O;NE;NE;périmètre -27,3 dont 17,1 de compensations d'allègements passées en moindres recettes;P06;F-S08-010
+ETAT_zero_volume_BG;2007;266.9;;;Md€;NE;NE;NE;"cible -1 % en volume ; exécution non lue";P06;F-S08-011
+ETAT_zero_valeur;2012;279.45;278.06;-1.39;Md€ format 2013;O;NE;NE;non détaillé dans la pièce;P11;F-S08-012
+ETAT_zero_valeur;2013;279.40;279.25;-0.14;Md€;O;NE;NE;"exclusion d'« exceptionnels » (PSR UE 1,79 ; MES 6,5 ; BEI 1,6) ; annulations 1,1 gageant le PSR UE";P11;F-S08-013
+ETAT_zero_valeur;2015;282.6;283.9;+1.4;Md€;N;O;N;"LFR relève la norme (+1,4) ; contournements 3,0 Md€";P07;F-S08-014
+ETAT_zero_volume;2012;370.50;366.79;-3.71;Md€ format 2013;O;NE;NE;non détaillé;P11;F-S08-012
+ETAT_zero_volume;2013;371.53;368.07;-3.45;Md€;O;NE;NE;économie de constatation : dette -2,01, pensions -1,30 (inflation);P11;F-S08-013
+ETAT_zero_volume;2015;372.7;371.6;-1.1;Md€;O;O;N;"économie de constatation sur la dette -2,2 ; contournements";P07;F-S08-014
+ETAT_pilotables;2018;257.9;256.5;-1.4;Md€;O;SO;O;"cible LFI fixée +4,1 au-dessus de l'exécution 2017 (sincérisation) ; contournements 0,6";P08;F-S08-015
+ETAT_pilotables;2019;262.9;261.8;-1.0;Md€;O;N;NE;"LFI +4 Md€ au-dessus de la LPFP ; +0,5 vs PStab ; +3,0 vs LPFP";P09;F-S08-016
+ETAT_ODETE;2018;425.4;425.4;-0.1;Md€;O;SO;O;;P08;F-S08-015
+ETAT_ODETE;2019;432.0;431.3;-0.7;Md€;O;SO;NE;charge d'intérêts plus faible;P09;F-S08-016
+ETAT_PDE;2024;491.9;484.7;-7.2;Md€;O;SO;NE;"annulations 16,9 ; reports 11,6 sur 2025 ; ponctions de trésorerie 2,7 + CAS PFE 1,5 ; reports d'appels à projets";P10;F-S08-017
+ETAT_PDE;2025;487.8;488.2;+0.4;Md€;N;SO;NE;"PSR collectivités +0,7 ; régulation tardive";"P12;P14";F-S08-018
+CAHORS_321;2018;116.5;114.9;-1.6;Md€;O;SO;NE;"modération des DRF ; budgets annexes hors champ ; investissement +5,2 %";"P13;P01";F-S08-020
+CAHORS_321;2019;117.9;116.0;-1.9;Md€;O;SO;NE;"investissement +13,7 % ; objectif de besoin de financement (-2,6 Md€/an) non atteint";"P13;P01";F-S08-020
+CAHORS_321;2020;119.3;116.6;-2.7;Md€;SO;SO;SO;dispositif suspendu en mars 2020;P13;F-S08-020
+LPFP23_APUL;2023;+4.8 %;+7.0 %;+2.2 pt;%;N;SO;NE;;P01;F-S08-021
+LPFP23_APUL;2024;+2.0 %;+4.7 %;+2.7 pt;%;N;SO;NE;;P01;F-S08-021
+LPFP23_APUL;2025;+1.5 %;+1.5 %;0;%;O;SO;NE;;P01;F-S08-021
+LPFP23_depense_volume;2024;;;écart;%;N;SO;SO;« plus dynamique que prévu » (HCFP);P14;F-S08-022
+LPFP23_depense_volume;2025;+0.8 %;+1.6 %;+0.8 pt;%;N;SO;SO;inflation plus faible : valeur 2,5 % < 2,8 % prévu;P14;F-S08-022
+UE_DPN;2025;+0.8 %;+0.8 %;0;%;O;SO;SO;"23 Md€ de hausses de PO dont surtaxe IS temporaire 7,5 ; sans elle +1,2 %";"P14;P15";F-S08-023

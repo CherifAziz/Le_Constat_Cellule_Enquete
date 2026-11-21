@@ -1,0 +1,14 @@
+fichier;url_origine;canal;date;octets;sha256
+sources/arch_su_wp03_18_pettersson_lidbom_2003.pdf;http://web.archive.org/web/20250502071332id_/http://www2.ne.su.se/paper/wp03_18.pdf;curl -L -A Mozilla/5.0 via web.archive.org;2026-11-21;178214;5f2ea1b84f1a9979f807af470b5e28fab8ab5364bbd7dc11ff1a3fad8c93b4bd
+sources/eurostat_nama_10_gdp_FR_CLV_PCH_PRE.json;https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_gdp?geo=FR&na_item=B1GQ&unit=CLV_PCH_PRE&format=JSON&lang=en;curl -L -A Mozilla/5.0;2026-11-21;4649;010f34d35e3f794533e5288b0ae0b56434c03f5ef79c46ca1d7e51dd255db7fb
+sources/ifn_wp679_jordahl_liang.pdf;https://www.ifn.se/media/ytsbvuqv/wp679.pdf;curl -L -A Mozilla/5.0;2026-11-21;584955;385b256de66caefdc6afbb676db3884fd9bf58bc3014007d6462bb25aaa5cb74
+sources/nber_c8024_kontopoulos_perotti_1999.pdf;https://www.nber.org/system/files/chapters/c8024/c8024.pdf;curl -L -A Mozilla/5.0;2026-11-21;292536;be593870132c68ca812426fff70900adb31088e49f1c75e3db119a353baefffd
+sources/nber_c8029_hallerberg_vonhagen_1999.pdf;https://www.nber.org/system/files/chapters/c8029/c8029.pdf;curl -L -A Mozilla/5.0;2026-11-21;354479;d5cf4d520fb3c8473f75304fe3b6585c55f0f4a0a94349e4da0e02a64aba423a
+sources/nber_c8031_dehaan_moessen_volkerink_1999.pdf;https://www.nber.org/system/files/chapters/c8031/c8031.pdf;curl -L -A Mozilla/5.0;2026-11-21;457736;811590988f5155418de5d1108ef5bfcd7a376c05d3657e91e371ed6c4517dbdc
+sources/unc_baum_foucault_francois_2007.pdf;https://fbaum.unc.edu/papers/Baum_Foucault_Francois_APSA_2007.pdf;curl -L -A Mozilla/5.0;2026-11-21;115626;ebb997d21b83dd578b718655f382790b18469526c72f6e662bef7ca7454b28ed
+extraits/arch_su_wp03_18_pettersson_lidbom_2003.txt;extraction pymupdf de sources/arch_su_wp03_18_pettersson_lidbom_2003.pdf;python -I pymupdf;2026-11-21;75170;758dbca0f20535c8036fb7645adc09ad34f623f51cd045b6abdcc21396d396ff
+extraits/ifn_wp679_jordahl_liang.txt;extraction pymupdf de sources/ifn_wp679_jordahl_liang.pdf;python -I pymupdf;2026-11-21;80637;989f34f7e2bd67d62c04f5d99f5f9fbf2cc2f876415e39ee731c1dc749c47c22
+extraits/nber_c8024_kontopoulos_perotti_1999.txt;extraction pymupdf de sources/nber_c8024_kontopoulos_perotti_1999.pdf;python -I pymupdf;2026-11-21;63228;99a7661f147f953364b5d6014bde8858e85e8f61ea9b9769132cb099b3a006f6
+extraits/nber_c8029_hallerberg_vonhagen_1999.txt;extraction pymupdf de sources/nber_c8029_hallerberg_vonhagen_1999.pdf;python -I pymupdf;2026-11-21;74288;63b778b78e326f908fe9a46de7b04c8be18f30e92065bf968fe73bc28c698c43
+extraits/nber_c8031_dehaan_moessen_volkerink_1999.txt;extraction pymupdf de sources/nber_c8031_dehaan_moessen_volkerink_1999.pdf;python -I pymupdf;2026-11-21;103476;0f60b34d63d30f2ae0feb482c11e828768f37b496d5e8438b93c5b7a7460135c
+extraits/unc_baum_foucault_francois_2007.txt;extraction pymupdf de sources/unc_baum_foucault_francois_2007.pdf;python -I pymupdf;2026-11-21;46715;66e94256eb81110e88622908fcd01aeb21191742befb84e5b845bc157375a66f

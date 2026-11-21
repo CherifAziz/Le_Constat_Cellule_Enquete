@@ -1,0 +1,10 @@
+fichier;url_origine;canal;date;octets;sha256
+sources/fs2019_na74_gouardo_lenglart.pdf;https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2019-na74-reduire-depenses-publiques-gouardo-lenglart-janvier.pdf;requests (python);2026-11-21;2356416;cda412390f767dfc4016c5ccc5da7798b97695964b06af4d7d36c82f4cd5d162
+sources/cae_focus113_taille_classes.pdf;https://cae-eco.fr/static/pdf/Focus_113_taille_classes_250521.pdf;requests (python);2026-11-21;751743;fcc0585296e0fa14156c747de09effd31bd18a326032a670de601d3b611ecf58
+sources/vp_303409.pdf;https://www.vie-publique.fr/files/rapport/pdf/303409.pdf;requests (python);2026-11-21;6683660;990dbf5bebfd009ef8d6b2a28645ff4ddfd13ead0feac47e18a0f75900597984
+sources/depp_2026_synthese_reduction_taille_classe_478949.pdf;https://www.education.gouv.fr/sites/default/files/document/r-duction-de-la-taille-de-classe-en-ducation-prioritaire-que-nous-apprennent-les-donn-es-de-la-depp--478949.pdf;requests (python);2026-11-21;220145;df32a39198f0af04b4417d4bb4a624bef0fd3ac9774c020b66d7c6b7ff062f0c
+sources/insee_es381_fack2005_aides_logement.pdf;https://www.insee.fr/fr/statistiques/fichier/1376573/es381-382b.pdf;requests (python);2026-11-21;211421;7fe04130f2a5093a6ba70e14c16e3d5e6e0a447fdded51ad2ba339fe31b91a80
+sources/ipp_2025_note51_1j1s_apprentissage.pdf;https://www.ipp.eu/wp-content/uploads/2025/06/51_jeune_1_solution_apprentissage-1.pdf;requests (python);2026-11-21;3671096;691f398148974f91081acb97e9b71dadb59afcb114c828c15ab6ca324058c6da
+sources/ofce_pbrief117_coquet_apprentissage.pdf;https://www.ofce.sciences-po.fr/pdf/pbrief/2023/OFCEpbrief117.pdf;requests (python);2026-11-21;1683400;edd62e3c34fd0ad5144f571c26e72b8c85772377dfaa3d8c6f7879d104648d68
+sources/cae_note043.pdf;https://cae-eco.fr/static/pdf/cae-note043v2.pdf;requests (python);2026-11-21;629005;c73c766d74033cc1a9c18a662925866daf0cdf38767e1c3469c50433e71bf3bd
+sources/ec_dp217_efficiency_education_health.pdf;https://economy-finance.ec.europa.eu/document/download/aa725c9c-e557-41e2-a0c3-a3e401cd755f_en?filename=dp217_en.pdf;requests (python);2026-11-21;3598132;0000da2988450edca2d39915a853dc1fc63375bd7bd2251b2c80aaa3cc6532d0

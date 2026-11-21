@@ -1,0 +1,5171 @@
+
+==== page 1 ====
+Langer, Maximilian; Hassib, Joshua; Feld, Lars P.; Nientiedt, Daniel
+Working Paper
+Evaluating the effects of the German debt brake: A
+synthetic control approach
+Freiburger Diskussionspapiere zur Ordnungsökonomik, No. 26/2
+Provided in Cooperation with:
+Institute for Economic Research, University of Freiburg
+Suggested Citation: Langer, Maximilian; Hassib, Joshua; Feld, Lars P.; Nientiedt, Daniel (2026) :
+Evaluating the effects of the German debt brake: A synthetic control approach, Freiburger
+Diskussionspapiere zur Ordnungsökonomik, No. 26/2, Albert-Ludwigs-Universität Freiburg, Institut
+für Allgemeine Wirtschaftsforschung, Abteilung für Wirtschaftspolitik und Ordnungsökonomik,
+Freiburg i. Br.
+This Version is available at:
+https://hdl.handle.net/10419/343049
+Standard-Nutzungsbedingungen:
+Die Dokumente auf EconStor dürfen zu eigenen wissenschaftlichen
+Zwecken und zum Privatgebrauch gespeichert und kopiert werden.
+Sie dürfen die Dokumente nicht für öffentliche oder kommerzielle
+Zwecke vervielfältigen, öffentlich ausstellen, öffentlich zugänglich
+machen, vertreiben oder anderweitig nutzen.
+Sofern die Verfasser die Dokumente unter Open-Content-Lizenzen
+(insbesondere CC-Lizenzen) zur Verfügung gestellt haben sollten,
+gelten abweichend von diesen Nutzungsbedingungen die in der dort
+genannten Lizenz gewährten Nutzungsrechte.
+Terms of use:
+Documents in EconStor may be saved and copied for your personal
+and scholarly purposes.
+You are not to copy documents for public or commercial purposes, to
+exhibit the documents publicly, to make them publicly available on the
+internet, or to distribute or otherwise use the documents in public.
+If the documents have been made available under an Open Content
+Licence (especially Creative Commons Licences), you may exercise
+further usage rights as specified in the indicated licence.
+
+==== page 2 ====
+Evaluating the effects of the German debt 
+brake: A synthetic control approach
+Maximilian Langer, Joshua Hassib, Lars P. Feld, Daniel 
+Nientiedt
+26/2
+Freiburger Diskussionspapiere
+zur Ordnungsökonomik
+Freiburg Discussionpapers
+on Constitutional Economics
+Institut für allgemeine Wirtschaftsforschung 
+Abteilung Wirtschaftspolitik und 
+Ordnungsökonomik
+Albert-Ludwigs-Universität Freiburg
+ISSN 1437-1510
+
+==== page 3 ====
+Evaluating the eﬀects of the German debt brake:
+A synthetic control approach†
+Maximilian Langer1,2, Joshua Hassib1,2, Lars P. Feld1,2,*, Daniel Nientiedt1
+1Walter Eucken Institute and 2University of Freiburg
+May 21, 2026
+Abstract
+This paper assesses the eﬀectiveness and ﬁscal implications of the German debt brake, a
+constitutional ﬁscal rule introduced in 2009 to ensure debt sustainability. To estimate its
+causal eﬀects, we employ a synthetic control design that combines canonical, augmented,
+and multiple-outcome synthetic control methods alongside comparative interrupted time-series
+analysis. We compare the observed trajectories of six ﬁscal and macro-ﬁnancial outcome variables
+in Germany with their counterfactual trajectories of a synthetic Germany without the rule. The
+results indicate that the debt brake was a key driver of the consolidation of German public
+ﬁnances during the 2010s. It substantially reduced debt accumulation and improved the primary
+balance. By strengthening ﬁscal discipline, the rule likely also contributed to lower ﬁnancing
+costs, although this eﬀect cannot be attributed to the debt brake exclusively. We ﬁnd no robust
+evidence that the rule reduced public investment at the federal level. At the general government
+level, investment eﬀects are less conclusive and may reﬂect vertical ﬁscal interactions across
+diﬀerent levels of government. The results are supported by a range of inference procedures and
+robustness checks.
+Keywords: Fiscal rules, Fiscal federalism, German debt brake, Policy evaluation, Synthetic control
+method
+JEL Classiﬁcation: C13, C53, D78, H60, H63, H77
+†Earlier versions of this paper were presented at the Radein Seminar, held in Radein (Italy), on February 2–9, 2025,
+the conference of the Section Economics and Empirical Social Sciences of the German Academy of Sciences in Bonn
+(Germany) on March 5–6, 2026, and the 53rd Annual Meeting of the European Public Choice Society, March 23–25,
+2026, in Madrid (Spain). The authors would like to thank the participants of these conferences for their suggestions.
+Valuable comments were also received from Christian Bayer, Bernd Hayo, Niklas Potrafke, and David Stadelmann.
+Michele Salvi and Christoph Schaltegger kindly provided some of the data used in this paper. We also thank Hamid
+Davoodi and Xuehui Han for providing access to IMF data. Our research project began as a third-party-funded
+project commissioned by the Friedrich Naumann Foundation for Freedom. We gratefully acknowledge funding by the
+Forum Ordnungspolitik, Freiburg im Breisgau.
+∗Corresponding author: University of Freiburg, Walter Eucken Institute, Goethestr. 10, 79100 Freiburg i. Br.,
+Germany. feld@eucken.de
+
+==== page 4 ====
+1
+Introduction
+In recent decades, there has been an increasing worldwide trend of introducing legal rules that
+are intended to ensure sustainable public ﬁnances and increase the credibility of ﬁscal policy.
+Provisions to restrict budget ﬂexibility are especially prevalent among OECD member states. With
+the exception of Canada, all have ﬁscal rules in place since at least 2016 (Davoodi et al., 2022b).
+Still, the proliferation of ﬁscal rules does not tell us anything about their eﬀectiveness in restricting
+budgetary decisions. Past experience indicates that political actors will try to circumvent existing
+regulations. Such structural deﬁciencies in ﬁscal institutions often result in large and persistent
+deﬁcits. What matters is not only the quantity, but also the quality of ﬁscal rules (Reuter, 2019).
+This paper assesses the eﬀectiveness of the German debt brake (Schuldenbremse) on several
+macroeconomic variables. Introduced in 2009, this balanced budget rule enshrined in the German
+constitution restricts annual structural deﬁcits to 0.35 percent of GDP at the federal level. It replaced
+an earlier constitutional rule which had proven unable to halt the increasing trend in the German
+debt-to-GDP ratio from the 1970s onward (Burret et al., 2013). Other factors in the decision to adopt
+the debt brake were concerns about the implications of demographic change for public ﬁnances, as
+well as debt crises that occurred in several German states (Länder).
+Across diﬀerent countries, the literature shows that ﬁscal rules are associated with more
+sustainable public ﬁnances, in particular lower public deﬁcits and lower interest rates on government
+bonds (Heinemann et al., 2018). However, identifying the causal eﬀect of a given rule is diﬃcult, as
+it requires considering a counterfactual situation in which the rule was not introduced in the ﬁrst
+place. To estimate the causal eﬀect of the German debt brake, our paper employs the synthetic
+control method (SCM), pioneered by Abadie and Gardeazabal (2003), Abadie et al. (2010), and
+Abadie (2021). We create a synthetic Germany from a weighted average of other OECD countries.
+The economic and ﬁnancial performance of the synthetic control closely mirrors the performance of
+the real Germany, up to the introduction of the debt brake. Comparing the synthetic Germany’s
+further development to the development of the real Germany after its introduction of the debt brake
+allows us to estimate the causal eﬀect of this rule. We are especially interested in the trajectory of
+six outcome variables, the debt-to-GDP ratio (general government and federal level), the general
+government primary balance, the 10-year government bond interest rate, and the public investment
+rate (general government and federal level). Brieﬂy, our empirical analysis suggests that the debt
+brake was a major driver of the consolidation of German public ﬁnances during the 2010s.
+A central empirical challenge in evaluating ﬁscal rules is endogeneity: jurisdictions may adopt
+a rule because they are already on a consolidation path (selection on trends), adopt it in
+response to adverse ﬁscal shocks (reverse causality), or do so amid latent political preferences
+that simultaneously shape both the decision to adopt and subsequent outcomes. In such cases,
+comparisons risk attributing to the rule what would have occurred anyway, or what is jointly
+driven by unobserved, time-varying determinants, such as shifts in ﬁscal preferences, enforcement
+intensity, or market discipline. These mechanisms imply correlation between the treatment and
+1
+
+==== page 5 ====
+the error term, threatening causal interpretation. Our design addresses these concerns along
+two dimensions: institutionally, the reform’s timing and legal rigidity constrain short-run policy
+discretion; methodologically, we employ canonical, augmented, and multiple-outcome synthetic
+control approaches to recover counterfactual trajectories that match pre-treatment dynamics and
+thereby account for observed and unobserved drivers insofar as they are reﬂected in those dynamics.
+Given the institutional features of the debt brake (see Section 2)—notably constitutional
+entrenchment, a legally ﬁxed date at which the rule became binding in 2011, and limited
+short-run discretion—the rule’s binding implementation can be regarded as quasi-exogenous to
+contemporaneous ﬁscal behavior. Enacted by constitutional amendment in 2009 but binding for
+the federal budget only from 2011 onward, with a transition phase requiring the government to
+gradually reduce its structural net borrowing until 2016, the reform’s timing and content were
+predetermined rather than chosen in response to immediate ﬁscal conditions or short-term shifts in
+policy preferences. In this sense, the rule functioned as an externally imposed constraint with a ﬁxed
+timeline: policymakers initially had little discretion to alter course, and the rule took eﬀect largely
+independently of short-term maneuvering. These features give the intervention a quasi-experimental
+character.
+Political preferences may have made the constitutional amendment feasible in 2009, but they
+do not imply that identical outcomes would have emerged absent the rule. Once codiﬁed, the
+rule’s binding onset and stringency were not dimensions that short-run preferences could easily
+inﬂuence. The timing of the eﬀects further speaks against a purely preference-based explanation.
+The debt brake was adopted in 2009 only months before a federal election, so the preferences
+that made the constitutional amendment possible are not necessarily identical to the ﬁscal-policy
+preferences of the governments responsible for budgetary decisions during most of the post-adoption
+period. Moreover, even if one assumes that consolidation preferences persisted after 2009, a purely
+preference-based explanation would imply that the divergence between Germany and its synthetic
+control should already emerge around the adoption of the rule or shortly thereafter. Instead, for most
+ﬁscal outcomes, the main adjustment patterns appear after the debt brake became binding in 2011
+and during the subsequent transition period. This timing is more consistent with the debt brake
+operating as an institutional constraint than with an explanation based solely on ﬁscal preferences,
+although it cannot fully rule out a role for such preferences.
+The ﬁscal-policy shift following the 2025 reform is also consistent with this interpretation:
+once the ﬁscal framework was loosened, the federal government moved toward substantially higher
+borrowing. This ex-post development is not part of our identiﬁcation strategy, but it supports the
+view that the rule had previously operated as a binding constraint. Consistent with this view, our
+empirical strategy treats 2011 as a quasi-exogenous treatment and uses the SCM to match pre-2011
+trajectories.
+Even if one does believe that underlying ﬁscal preferences or macroeconomic conditions did
+coincide with the rule’s introduction, the SCM mitigates endogeneity concerns by accounting for
+both observed and unobserved pre-treatment factors in constructing the counterfactual. Since its
+2
+
+==== page 6 ====
+introduction by Abadie and Gardeazabal (2003), SCM has relied on weighting control units to
+reproduce the treated unit’s pre-intervention outcomes. This procedure eﬀectively controls for
+time-invariant unobserved heterogeneity (such as underlying policy preferences or other latent
+traits) that might otherwise bias the estimates. In fact, Abadie et al. (2010) note that with a
+suﬃciently long pre-intervention history, matching on pre-treatment outcomes can “allow us to
+control for the heterogeneous responses to multiple unobserved factors,” because only units similar in
+both observables and unobservables would exhibit comparable pre-treatment trajectories. Moreover,
+unlike standard diﬀerence-in-diﬀerences approaches (which assume any unobserved confounders
+have constant eﬀects over time), the SCM’s linear factor model allows the inﬂuence of unobserved
+variables to vary with time (Abadie, 2021). This ﬂexibility makes endogeneity less severe than in
+conventional comparative designs, although it does not eliminate the need for careful robustness
+checks.
+Theoretically, the introduction and enforcement of ﬁscal rules are closely linked to the interaction
+between the dynamics of public debt, macroeconomic stability, and the political economy of
+budgetary decisions. Critics of ﬁscal constraints often argue that they limit the government’s
+capacity for countercyclical ﬁscal policy, potentially exacerbating macroeconomic volatility (Fatáş
+and Mihov, 2006). Without such constraints, it is theoretically conceivable that governments could
+stabilize economic cycles more eﬀectively through expansionary ﬁscal measures. However, the
+eﬀectiveness of ﬁscal rules heavily depends on their design, enforcement, and the level of government
+at which they are implemented (Schaechter et al., 2012; Sutherland et al., 2005). Indeed, mere de
+jure enactment of ﬁscal rules does not guarantee de facto compliance or eﬀectiveness (Davoodi et al.,
+2022a; Eyraud et al., 2017; Reuter, 2019). Moreover, compliance with supranational frameworks has
+proven challenging, as indicated by the limited adherence to the European Stability and Growth
+Pact (SGP) (Larch et al., 2023).
+Relatedly, Grembi et al. (2016), exploiting a quasi-experimental setting in Italy, show that
+relaxing previously imposed subnational ﬁscal rules led to higher deﬁcits and lower tax revenues
+among aﬀected municipalities. Their ﬁndings underscore that not only the existence of ﬁscal rules,
+but also their strict enforcement play a crucial role in maintaining ﬁscal discipline. In practice,
+governments often fail to conduct stabilizing, anticyclical policies in the absence of ﬁscal rules
+(Potrafke, 2023), and the introduction of these rules can even enhance anticyclical behavior
+(Larch et al., 2021). Reuter et al. (2022) further report reduced ﬁscal volatility under ﬁscal
+constraints. By mitigating unexpected policy changes and political conﬂicts over public ﬁnances
+(Fernández-Villaverde et al., 2015), well-designed and credibly enforced rules can thus improve
+macroeconomic performance.
+A further dimension to the theoretical argument relates to the sustainability of debt and its
+implications for economic growth. Numerous studies have documented a relationship between
+high public debt levels and diminished long-term growth prospects (Reinhart and Rogoﬀ, 2010;
+Afonso and Jalles, 2013). In particular, Reinhart et al. (2012) demonstrate that historically, high
+debt-to-GDP ratios (exceeding 90%) tend to be associated with lower growth rates over prolonged
+3
+
+==== page 7 ====
+periods. While endogeneity issues persist, cumulative evidence suggests that high debt levels
+can impose a tangible drag on economic performance. Limiting the scope for unchecked debt
+accumulation through credible ﬁscal rules can help curb these adverse growth eﬀects. For instance,
+Berg et al. (2018) and Gründler and Scheuermeyer (2018) ﬁnd that constraining the potential
+for public spending expansions may prevent or mitigate the negative consequences of large public
+sectors on growth. Moreover, sustainable ﬁscal policies may not only avert negative growth outcomes
+but may even foster stronger growth (Gründler and Potrafke, 2020b). In this regard, Fuest et al.
+(2019) underscore that credible ﬁscal constraints, such as the German debt brake, serve to maintain
+conﬁdence in public ﬁnances and may yield long-term economic beneﬁts.
+Central to the debate on ﬁscal constraints is their role in ensuring long-term ﬁscal sustainability.
+Debt sustainability hinges on maintaining debt ratios below thresholds at which conventional
+funding—through taxation or stable bond markets—ceases to be feasible (Davig et al., 2011).
+The theoretical benchmark is the intertemporal budget constraint, under which today’s debt must
+equal the net present value of future primary surpluses. Here, the relationship between the interest
+rate r and the GDP growth rate g (the r-g diﬀerential) is critical. In this context, it is crucial
+to highlight that deﬁcits and debt levels directly aﬀect government borrowing costs and interest
+rates. Engen and Hubbard (2004) note they may rise in response to expanding government debt,
+investment can be crowded out, interest-sensitive purchases of durable goods may decline, and the
+value of households’ assets can fall, thereby indirectly reducing consumption via wealth eﬀects. After
+controlling for macroeconomic conditions and using a consistent data framework, they ﬁnd that an
+increase in federal government debt equivalent to 1% of GDP would generally raise the long-term
+real interest rate by about three basis points. Laubach (2009) provides evidence that a 1 percentage
+point rise in the projected deﬁcit-to-GDP ratio increases sovereign bond yields by about 25 basis
+points, while a comparable rise in the debt-to-GDP ratio adds roughly 3 to 4 basis points. Wachtel
+and Young (1987) show that unexpected announcements of higher deﬁcits rapidly translate into
+higher yields, reﬂecting markets’ sensitivity to ﬁscal imbalances. At the same time, investors value
+the safety and liquidity of sovereign debt (Krishnamurthy and Vissing-Jorgensen, 2012), such that
+credible ﬁscal policies and rules can enhance demand for government bonds, lowering spreads and
+borrowing costs. Indeed, studies ﬁnd that adopting and adhering to ﬁscal rules reduces sovereign
+risk premia (Feld et al., 2017; Thornton and Vasilakis, 2018), an eﬀect that can be substantial and
+more pronounced in ﬁscally responsible environments or during economic downturns (Afonso and
+Jalles, 2019). Within monetary unions, high-debt countries’ ﬁscal stances can also inﬂuence not just
+domestic but area-wide interest rates (Faini, 2006).
+The eﬀect of ﬁscal rules on public investment is more complex and less conclusively determined
+by theoretical and empirical studies. Critics often contend that strict ﬁscal rules cause governments
+to cut back on capital expenditures, especially under binding constraints during downturns, due to
+political incentives favoring immediate, visible spending over long-term investment (Bouton et al.,
+2020; Ardanaz and Izquierdo, 2022). However, subnational ﬁscal rules, if thoughtfully designed, can
+help manage local-level spending pressures without necessarily undermining investment (Sutherland
+4
+
+==== page 8 ====
+et al., 2005; Schaechter et al., 2012). Empirically, the record is mixed. While some studies ﬁnd no
+signiﬁcant relationship between ﬁscal rules and public investment (Potrafke, 2023; Salvi et al.,
+2020; Vinturis, 2023), others identify positive associations (Burret and Feld, 2018a; Gregori, 2014;
+Dahan and Strawczynski, 2013) or negative eﬀects (De Biase and Dougherty, 2022; Jürgens, 2022;
+Venturini, 2020). A meta-analysis by Blesse et al. (2023) underscores this ambiguity, suggesting
+that the impact depends on the rule’s design, ﬂexibility, and the broader institutional setting. The
+German debt brake exempliﬁes these complexities, with debates on whether to exempt certain
+types of investments (Fuest et al., 2019). International surveys among economists further conﬁrm
+the contentious nature of these eﬀects (Gründler and Potrafke, 2020a). Beyond these considerations,
+vertical ﬁscal eﬀects warrant attention. Such eﬀects can arise if subnational governments engage in
+unsustainable expenditure growth under the assumption that higher federal levels will ultimately
+bear the associated costs (Burret and Feld, 2018a; Rodden, 2002; Von Hagen et al., 2000).
+In addition, political economy arguments provide a crucial rationale for implementing ﬁscal
+rules. Kydland and Prescott’s (1977) foundational concept of time inconsistency highlights that
+policies deemed optimal ex ante may be abandoned ex post due to short-term pressures, leading to
+welfare losses. Politicians facing electoral cycles or inﬂuenced by interest groups may be tempted
+to pursue short-sighted ﬁscal expansions, resulting in persistent deﬁcits and rising debt stocks.
+Without constraints, even well-intentioned governments may struggle to resist these opportunistic
+spending pressures. Fiscal rules serve as a commitment device, limiting the capacity of policymakers
+to manipulate budgetary decisions for electoral gains or to cater to narrow special interests. This
+includes mitigating the “common-pool” problem in public ﬁnance, according to which various
+stakeholder groups draw on a shared resource—the public budget—without internalizing the full
+cost of their demands (Schaltegger and Feld, 2009; Egger and Koethenbuerger, 2010; Fritz and
+Feld, 2020). By imposing credible, transparent limits, ﬁscal rules encourage governments to set
+priorities, align policies with the broader public interest, and maintain a sustainable ﬁscal stance
+that ultimately beneﬁts both current and future generations. Such rules can also help stabilize
+long-term planning and policy implementation as well as reinforce the credibility of no-bailout
+commitments, preventing strategic debt accumulation aimed at constraining successor governments
+(Gootjes et al., 2021).
+In sum, these ﬁndings suggest that sound ﬁscal frameworks, including well-designed and credibly
+enforced ﬁscal rules, contribute to macroeconomic stability, improve growth prospects, contain
+sovereign risk, and lower borrowing costs. Although implications for public investment, vertical ﬁscal
+spillovers, and interest rate spreads remain contingent on rule design, enforcement, and institutional
+contexts, the evidence largely points to the beneﬁts of disciplined ﬁscal governance.
+Our study contributes to this current state of research in several ways. First, we conﬁrm the
+eﬀects generally attributed to ﬁscal rules in the existing literature. Speciﬁcally, we show that a
+stringent ﬁscal rule can lead to a sustained reduction in debt levels and has a positive impact on the
+primary balance. Furthermore, we ﬁnd no inﬂuence of ﬁscal rules on the level of public investment, at
+least robustly at the federal government level. This ﬁnding is consistent with the majority of existing
+5
+
+==== page 9 ====
+studies. A negative impact on long-term ﬁnancing costs is likely, although we cannot attribute this
+eﬀect to the debt brake exclusively.
+Second, we address vertical eﬀects of ﬁscal rules. Theoretical considerations suggest such eﬀects,
+but empirical investigations on this topic remain scarce. Our analysis indicates a negative eﬀect on
+subnational debt accumulation. Furthermore, we cannot fully rule out eﬀects on subnational public
+investment activities though the eﬀects are not robust. This outcome has design implications for
+ﬁscal rules: even if the desired eﬀects occur at the level where a rule is implemented, other federal
+levels may also be aﬀected and must therefore be taken into account. In Germany, the debt brake
+applies to the federal government and the states, but not directly to municipalities.
+Our third contribution is methodological. Inference is a current topic in the SCM literature.
+Therefore, we implement three diﬀerent inference procedures to strengthen the credibility of our
+results. Additionally, we introduce a novel approach by calculating joint weights for multiple outcome
+variables and augment these weights to further reduce bias.
+The remainder of the paper is structured as follows: In Section 2, we brieﬂy describe the
+institutional setting of the German debt brake and its technical properties as well as the development
+of OECD and EU ﬁscal rules. Section 3 presents our empirical approach, including an overview of
+the SCM, the inference approaches, and the data. Our main ﬁndings on the eﬀect of the debt rule on
+aggregate indicators are reported in Section 4. Section 5 includes robustness checks and a detailed
+discussion of our ﬁndings. Finally, Section 6 concludes.
+2
+Institutional setting
+2.1
+German Debt Brake
+The introduction of the debt brake resulted from a long trend of an increasing debt ratio in Germany
+since the 1970s. Oil price induced recessions in 1973 and 1979/80 as well as German reuniﬁcation in
+1990 caused a signiﬁcant increase of public debt at both federal and state levels.1 Ongoing attempts
+to dampen this trend failed, even in economically prosperous periods. Moreover, the imprecise
+deﬁnition of public investment as well as the lack of sanctioning instruments lead to the ongoing
+exploitation of public means, resulting in a trend of a steadily rising debt ratio in Germany (Burret
+et al., 2013; Feld et al., 2019). These ﬁndings, combined with record levels of debt amounting to
+more than 80 percent of GDP in the aftermath of the ﬁnancial crisis in 2008, ultimately resulted in
+the anchoring of a fundamentally reformed ﬁscal rule in the German constitution.
+In 2009, the debt brake was adopted and incorporated into constitutional law. Central to this
+are Articles 109 and 115 of the German Basic Law, which have required the federal and state
+governments to maintain a structurally balanced budget. Structural, i.e., cyclically adjusted, new
+borrowing was limited to 0.0 percent for the states and a maximum of 0.35 percent of nominal GDP
+for the federal government. The regulations became binding to the federal government for the ﬁrst
+1Figure 13 in Appendix I provides an overview of Germany’s debt ratio since 1950, referring to all aforementioned
+exogenous shocks.
+6
+
+==== page 10 ====
+time in the 2011 ﬁscal year. Due to high deﬁcits during the ﬁnancial crisis, the 0.35 percent limit
+did not apply until 2016. During this transition phase, the 2010 structural deﬁcit had to be reduced
+in equal steps. For the states, the prohibition of structural deﬁcits was in eﬀect since the ﬁscal year
+2020 until 2024, though the states used escape clauses until at least 2023 because of the COVID-19
+pandemic. Due to the challenges in deﬁning public investment2, the new regulation abandons the
+concept of limiting borrowing to the level of investment. Since 2025, the states are allowed to run a
+structural deﬁcit of up to 0.35 percent. Moreover, defense expenditures exceeding 1 percent of GDP
+are exempted from the debt brake.
+The federal government has been allowed to exceed the borrowing limit of 0.35% of GDP in two
+cases. The ﬁrst exception takes economic conditions into account. The ﬁnancial leeway of 0.35% is
+expanded by the cyclical adjustment component (CAB), which enables symmetric consideration of
+economic business cycles. During periods of economic downturn, borrowing capacities are expanded,
+while they are restricted during economically favorable times. Higher public debt incurred during
+economic slowdowns must subsequently be reduced. The second case in which the borrowing limit
+of 0.35% is allowed to be exceeded is ‘in the event of natural disasters or extraordinary emergencies
+beyond the control of the state that signiﬁcantly aﬀect the ﬁnancial position of the state’ (Article 115
+(2) of the German Constitution), hereafter called “exemption clause”. Such decisions must also be
+accompanied by a repayment plan.3 Only since 2025, defense spending provides another exception.
+Another key criticism of earlier versions of the ﬁscal rules was their focus on borrowing limits
+based on the investment expenditures planned in the budget, rather than on actual budget execution.
+The debt brake addresses this issue through the introduction of a control account. This account
+records non-cyclical positive and negative deviations from the ceiling on the federal government’s
+structural net borrowing. If the cumulative negative balance of the account exceeds 1.5 percent
+of GDP, this excess must be reduced in a way consistent with economic conditions within a
+reasonable period. This design extends the oversight of the debt brake to both budget preparation
+and execution, eﬀectively closing the previously described loophole to circumvent the debt brake.
+Until 2010, special funds (Sondervermögen) were not included in the oﬃcial budget and could be
+managed as oﬀ-budget entities with their own borrowing authorizations. As of 2011, special funds
+have been subject to the regulations of the debt brake. However, these rules can be suspended
+through an amendment to the Basic Law. This option was used for the €100 billion special fund
+for defense in 2022 and for the €500 billion special fund for infrastructure and climate protection
+in 2025.
+Since its implementation in 2011, several criticisms of the framework of the debt brake
+have emerged. First, the debt brake still allows for signiﬁcant room for maneuver. Second, its
+implementation at the state level can be described as at least partially insuﬃcient. Third, within
+the federal structure of government, there are insuﬃcient incentives to comply with the debt brake,
+which makes vertical eﬀects conceivable (Burret et al., 2013; Kirchgässner, 2017). Although the
+2As already noted by the Scientiﬁc Advisory Board of the Federal Ministry of Finance (1980).
+3This has been subject to discussions based on rulings of the German Constitutional Court, particularly vividly
+after the latest ruling on November 15, 2023 (Federal Constitutional Court, 2023).
+7
+
+==== page 11 ====
+aforementioned criticisms advocate a stricter application of the debt brake across all federal levels,
+public debate has primarily centered on reform options aimed at softening the existing rules.
+At the heart of the criticism lies the exclusion of the ‘Golden Rule’ by the debt brake: Since
+its introduction, public investment expenditures can no longer be exempted from the borrowing
+restrictions. The primary argument is that necessary public investments are being neglected. This
+regulation is considered particularly problematic when the interest rate on government bonds is
+persistently lower than the growth rate of nominal GDP. Furthermore, critics argue that the debt
+brake restricts the ﬁscal space for countercyclical ﬁscal policy, limiting the government’s ability to
+respond appropriately during economic downturns.
+Other points of criticism include the long-term convergence of the debt-to-GDP ratio toward
+excessively low levels under a balanced budget and the shift to implicit debt through future
+obligations, particularly in the context of social insurance systems. Furthermore, the observed
+recovery of public ﬁnances following record borrowing during the ﬁnancial crisis is not attributed to
+the debt brake, but rather to the generally favorable economic environment, which led to declining
+government expenditures and rising revenues.
+2.2
+European and OECD Fiscal Rules
+Since the beginning of the 1990s, there has been a steady rise in the number of ﬁscal rules. Since
+2016, every OECD member country (with the exception of Canada) has introduced at least one
+kind of ﬁscal rule, since 2017 every one of these countries has implemented either a national ﬁscal
+rule or both, a national and a supranational rule (Davoodi et al., 2022a; Larch et al., 2023).4
+Sharp increases in the number of countries with ﬁscal rules within the OECD consistently
+coincide with the introduction of EU policies aimed at ensuring ﬁscal stability within the framework
+of the European Economic and Monetary Union (EMU). The member states of the EU agreed in the
+1992 Maastricht Treaty on convergence criteria that countries must meet to join EMU. To ensure
+ﬁscal stability, two of these criteria (a deﬁcit-to-GDP ratio below 3% of GDP and a debt-to-GDP
+ratio below 60%) were enshrined in the Stability and Growth Pact (SGP) in 1997, extending their
+applicability to all EMU member states beyond Euro accession. In addition, sanctioning mechanisms
+were introduced to address noncompliance with the rules.
+The SGP has been reformed regularly since then, mainly because the member states did not
+comply. The ﬁrst reform of the SGP took place in 2005, resulting in a signiﬁcant relaxation of its
+provisions. Following a sharp increase in debt ratios due to the ﬁnancial crisis, the SGP underwent
+a second reform after 2011 to strengthen sanctioning mechanisms and enhance the enforcement of
+its rules. The most recent reform of the SGP occurred in 2024, introducing greater ﬂexibility and
+customization to align the enforcement of the Maastricht criteria with the speciﬁc circumstances of
+individual member states.
+At the beginning of 2012, the Treaty on Stability, Coordination, and Governance in the Economic
+and Monetary Union (commonly known as the ‘Fiscal Compact’) was adopted to strengthen the
+4See Figure 14 in Appendix I for a graphical illustration.
+8
+
+==== page 12 ====
+enforcement and sanctioning mechanisms of EU convergence criteria. It came into eﬀect in January
+2013. The Fiscal Compact required member states to implement harmonized and permanently
+binding ﬁscal rules, along with an automatic correction mechanism for cases of non-compliance
+with the convergence criteria, into their national legal frameworks, preferably at the constitutional
+level. This regulation was followed by a signiﬁcant increase in national ﬁscal rules (Reuter, 2019).
+Given that the existence of ﬁscal rules in OECD countries can be considered the norm, our
+analysis cannot avoid including countries with ﬁscal rules in the control group. However, the formal
+existence of a ﬁscal rule does not imply its eﬀective implementation (Larch et al., 2023). Thus,
+we distinguish between countries with eﬀective ﬁscal rules versus those with solely formal rules in
+place. We provide a comprehensive overview of the country selection process in Subsection 3.4 and
+discuss potential selection biases as well as the distinction between formal and eﬀective ﬁscal rules
+in Section 5.
+3
+Empirical strategy
+3.1
+(Augmented) Synthetic Control
+We employ the synthetic control method (SCM) developed by Abadie and Gardeazabal (2003),
+Abadie et al. (2010) and Abadie et al. (2015)5 to create a counterfactual outcome for Germany
+without the debt brake. The SCM works by constructing a synthetic version of the treated unit (i.e.,
+a country that received a policy intervention). The synthetic control unit should mimic the treated
+unit’s characteristics and trend before the intervention as closely as possible. After the intervention,
+the diﬀerence in outcomes between the treated unit and the synthetic control is attributed to the
+eﬀect of the intervention. To this end, potential control units that did not receive the treatment
+need to be identiﬁed.6 The synthetic control is then constructed by selecting weights for the control
+units. These weights are chosen so that the synthetic control unit closely matches the treated unit
+on pre-intervention outcomes. Formally, we deﬁne the treatment eﬀect for country j in year t as
+aj,t = Y 1
+j,t −Y 0
+j,t
+(1)
+where Y 1
+j,t is the variable of interest under the treatment and Y 0
+j,t is the variable of interest in
+the absence of the treatment. While the ﬁrst is observable, the second is not: We are unable to
+observe the trajectory of the variable of interest if the debt brake had not been installed.7 The SCM
+solves this problem in estimating Y 0
+j,t by constructing a weighted average from a group of potential
+control units j ∈{1, 2, . . . , J}, which are not or at least less constrained by ﬁscal rules, such that
+Y 0
+0,t = PJ
+j=1 wjYj,t. The value j = 0 corresponds to the treated unit, and wj are the weights of
+5For a comprehensive overview, see Abadie (2021).
+6Most of the control units in our sample have ﬁscal rules, which is a limitation for our analysis. However, as we
+will show, the strength of these ﬁscal rules cannot compare to the de facto strictness of the German debt brake and
+the results tend, in cases where a change in results can be observed, to the estimation of a lower bound.
+7About the reliance of empirical work in economics on observational data, see Athey and Imbens (2017).
+9
+
+==== page 13 ====
+the control states. The treatment eﬀect is the diﬀerence between the treated unit (Y 1
+j,t) and the
+synthetic unit (Y 0
+j,t)
+ˆa0,t = Y 1
+0,t −
+J
+X
+j=1
+wjYj,t
+(2)
+The SCM calculates the weights wj such that they form a convex combination of J states that
+best approximates the pre-intervention trajectory of the treated country for the variable of interest.
+Formally, we deﬁne the J × 1 weighting vector W = (w1, w2, . . . , wJ)′, where the weights wj are
+non negative and sum up to 1, such that PJ
+j=1 wj = 1 and wj ≥0. The non-negativity constraints
+prevents extrapolation bias, which is considered as one of the greatest advantages of the SCM over
+regression analysis (Abadie, 2021).8 The vector W ∗is chosen such that it minimizes the following
+measure of distance between the synthetic control unit and the treated unit,
+∥X1 −X0W∥V =
+p
+(X1 −X0W)′V (X1 −X0W)
+(3)
+where X1 is a k × 1 vector with k being the number of predictors for the variable of interest.9
+Similarly, X0 is a k × J matrix with the same properties, but for the J countries in the donor pool.
+V is a k × k diagonal matrix whose diagonal elements are weights reﬂecting the relative importance
+of the variables in X0 and X1, depending on how well they can predict the outcome. There are
+multiple ways to choose V . When V is set to I, the identity matrix, all predictors are assigned
+equal weights. Then, the distance in (3) simply reduces to the Euclidean distance between X1 and
+X0W. Abadie and Gardeazabal (2003) and Abadie et al. (2010) suggest that the elements of V
+should be chosen on a subjective evaluation of their predictive power. Alternatively, they propose a
+data-driven procedure, where V ∗is the solution that minimizes the mean squared prediction error
+(MSPE) over a set of pre-intervention periods.10
+When the pre-treatment ﬁt is poor (and the diﬀerence in ∥X1 −X0W∥is large, see Eq.(3)),
+Abadie et al. (2015) recommend to refrain from applying the SCM. However, in some settings, a
+reasonably good pre-treatment ﬁt is not possible due to the non-negativity constraint that prevents
+the SCM weights from overﬁtting to noise: The weights are constrained to be inside the convex hull.
+Moreover, this constraint and the sparsity of the weights is important to ensure their interpretability.
+However, Abadie et al. (2010) note that “negative weights or weights larger than one can be used at
+the cost of allowing extrapolation.“ Ben-Michael et al. (2021) precisely incorporate negative weights
+in their approach: They propose an augmentation of the canonical SCM using ridge regression to
+account for an inadequate pre-treatment ﬁt. In this setting, the augmented SCM (ASCM) estimator
+is deﬁned as
+Y 0,aug
+0,t
+=
+J
+X
+j=1
+waug
+j
+Yj,t,
+(4)
+8This constraint will be relaxed under the Augmented Synthetic Control Method.
+9In our case, since we only use pre-intervention outcomes as covariates, k = T0.
+10Note that usually, the MSPE is minimized over the entire pre-treatment period.
+10
+
+==== page 14 ====
+where the augmented weights waug
+j
+are calculated by using the estimated weights from the ‘classical’
+SCM
+waug
+j
+= wj + (X1 −X′
+0·wj)′(X′
+0·X0· + λridgeIT0)−1Xi·
+(5)
+λridge controls the amount of extrapolation outside the convex hull and the level of improvement
+in the pre-treatment ﬁt over the SCM solution. However, when the pre-treatment ﬁt is already
+suﬃcient, the SCM should be preferred over the ASCM solution. Ben-Michael et al. (2021)
+recommend to make this decision based on the estimated bias, which is deﬁned as the diﬀerence
+between the outcome model‘s ﬁtted values for the treated unit and the synthetic control. If this
+bias is large, one should use ASCM instead of SCM, thus allowing for extrapolation. We follow this
+recommendation for each of the variables of interest.
+3.2
+Comparative Interrupted Time Series
+Typically, Interrupted Time Series Analysis (ITS) is applied in the same setting as the SCM. Both
+methods aim to assess the eﬀects of an intervention, usually on a large scale, and in both cases the
+eﬀective sample size is equal to 1. Both approaches are popular evaluation methods in cases where
+a randomized controlled trial is not feasible (Linden and Adams, 2011; Linden, 2018).
+In its most basic conﬁguration, the ITS compares the changes in the level and slope of the
+parameters after an intervention. Even in the single case, when no comparison group is available,
+ITS can produce valid results, although there is a signiﬁcant risk of misleading results when not
+conducted carefully (Baicker and Svoronos, 2019). In contrast, comparative interrupted time series
+(CITS) oﬀers higher validity when there is a plausible counterfactual that is similar to the treated
+unit at both the baseline level and the trend of the outcome variables in the pre-treatment period.
+Thus, CITS allows us to evaluate the SCM in a familiar regression framework. It also allows to
+assess level and slope eﬀects, both after the introduction and after the suspension of the debt brake
+in 2020. The CITS approach assumes the following model (Linden and Adams, 2011):
+Yt = β0 + β1Tt + β2Xt + β3XtTt + β4Z + β5ZTt + β6ZXt + β7ZXtTt + ϵt
+(6)
+Yt is the outcome variable, Tt is the time since the beginning of the observation period, Xt is a dummy
+variable that is 0 in the pre-treatment period and 1 in the post-treatment period. Z is a dummy
+variable that takes the value 1 for the treated unit and 0 for the control unit. The parameters β0, β1,
+β2, and β3 refer to the control group and represent the change in the intercept (or level), the slope (or
+trajectory) until the intervention, the change in the intercept and the slope immediately following
+the intervention, respectively. β4 and β5 refer to the treated unit and represent the diﬀerence in
+the intercept between the treated and the control unit and the diﬀerence in the slope between the
+treated and the control unit during the pre-treatment period. β6 reﬂects the diﬀerence between the
+treated unit and its synthetic control in the immediate level of the outcome variable following the
+intervention. β7 captures the diﬀerence in the slope of the outcome variable between the two groups
+after the intervention, compared to the period before the intervention (diﬀerence in diﬀerence in
+11
+
+==== page 15 ====
+slopes).
+Intuitively, β4 and β5 indicate the quality of the pre-treatment ﬁt at both the level and the
+trajectory of the outcome variable, while the eﬀects of the intervention are evaluated by changes
+in the level and slope of the parameters β6 and β7. These parameters also allow us to assess the
+statistical signiﬁcance of the intervention. Furthermore, these coeﬃcients allow us to calculate the
+slope of the control in the post-intervention period (β1 + β3), the slope of the treated unit in the
+post-intervention period (β1 + β3 + β5 + β7) and the diﬀerence between the treated unit and its
+synthetic control in the post-intervention slope (β5 + β7). Finally, CITS allows us to test for more
+than one intervention. Because the escape clause of the debt brake was activated from 2020-2023
+due to COVID-19, this feature allows us to evaluate the eﬀects of this suspension. The activation
+can be considered as exogenous, because COVID-19 can be considered as an external shock that
+aﬀected Germany and its synthetic control equally. In contrast, the implementation in 2011 may
+suﬀer from endogeneity: It is possible that the debt brake was installed due to the preferences of
+the then existing government. The eﬀects of the debt brake, e.g., a decreasing debt ratio, may have
+been due to the government conviction to run a sustainable budget rather than the restrictions
+imposed by the debt brake. However, as noted by Abadie and Gardeazabal (2003), Abadie et al.
+(2010), Abadie (2021), Eliason and Lutz (2018), and Herrero-Alcalde et al. (2024), the potential
+endogeneity arising from pre-existing preferences for ﬁscal discipline does not pose a fundamental
+problem in the context of SCM. Unlike traditional econometric approaches, SCM eﬀectively accounts
+for both observed and unobserved confounders.
+Following a linear factor model framework (e.g., Abadie (2021)), the outcome variable can
+be expressed as Yjt = δt + θtZj + λtµj + ϵjt where δt represents a common time trend, Zj and
+µj are vectors of observed and unobserved predictors, respectively, with coeﬃcients θt and λt,
+and ϵjt is an idiosyncratic shock. Unlike diﬀerence-in-diﬀerences models, which restrict λt to be
+time-invariant, SCM allows λt to vary over time, capturing dynamic unobserved heterogeneity. In
+this context, if ﬁscal preferences inﬂuenced both (1) the variables of interest, e.g., the debt ratio,
+and (2) the adoption of a ﬁscal rule, the SCM would still provide an appropriate counterfactual
+by ensuring that the synthetic control unit exhibits a similar pre-treatment debt trajectory. If the
+observed post-treatment divergence were driven by unobserved trends—such as a broader shift in
+ﬁscal preferences—placebo tests across untreated units would reveal comparable patterns, thereby
+invalidating a causal interpretation of the ﬁscal rule. Furthermore, the inclusion of donor pool units
+with similar ﬁscal orientations enhances comparability, reducing bias from latent confounders. Thus,
+SCM inherently mitigates endogeneity concerns by modeling time-varying unobserved factors and
+ensuring that any observed treatment eﬀect is not confounded by pre-existing ﬁscal preferences.
+3.3
+Inference
+Most studies applying the SCM use the placebo test proposed by Abadie et al. (2010). In this test,
+the SCM estimator is applied to every potential control to calculate a hypothetical treatment eﬀect.
+Then, the treatment eﬀects are compared with the eﬀect of the actual treated unit to assess whether
+12
+
+==== page 16 ====
+the eﬀect is large relative to the estimated eﬀect in the donor pool countries. To this end, they
+propose to calculate the ratios of the post- to the pre-period Root Mean Squared Prediction Error
+(RMSPE) for the treated and donor units. The post-intervention RMSPE serves as an indicator for
+the eﬀect size, whereas the pre-intervention RMSPE accounts for the quality of the pre-treatment
+ﬁt. The pre-intervention RMSPE for the treated unit is calculated as
+RMSPEpre
+0
+=
+v
+u
+u
+u
+t 1
+T0
+T0
+X
+t=1
+(Y0t −
+J
+X
+j=1
+wjYjt)
+2
+.
+(7)
+Similarly, the RMSPE can be calculated for the post-intervention period and for each control
+unit j. The ratio is calculated as RMSPEratio
+0
+=
+RMSPEpost
+0
+RMSPEpre
+0
+. The two-sided p-value is deﬁned
+as p =
+1
+J+1
+PJ+1
+j=1 1{RMSPEratio
+0
+≤RMSPEratio
+j
+}. For one-sided inference, which could lead to
+a signiﬁcant increase in power, particularly when dealing with a small sample size (Abadie, 2021),
+we simply replace the post-intervention RMSPE with the ATT for the treated and control units.
+We do this for both the overall treatment eﬀect and for the treatment eﬀect in each post-treatment
+period to derive point-wise inference. Following the same reasoning, we can derive a lower and an
+upper conﬁdence bound. If the estimated eﬀect falls outside this threshold, we can reject the null
+hypothesis with some conﬁdence.
+This permutation inference reduces to the classical randomization procedure (Fisher, 1935),
+when the intervention is randomized across countries. However, as noticed by Abadie et al. (2010)
+and Abadie (2021), this condition is rather restrictive. A second issue arises because the power of
+the placebo test depends on the number of countries in the donor pool, which in our case ranges
+from 18 to 27 (and thus the minimum p-values from 1/19 ≈0.053 to 1/28 ≈0.036).
+Therefore, in addition to this ‘traditional’ inference method, we propose two other procedures:
+the evaluation of statistical signiﬁcance provided by the CITS approach in a common regression
+framework and a conformal inference procedure developed by Chernozhukov et al. (2021). In the
+context of SCM, conformal inference enables the calculation of valid conﬁdence intervals and p-values
+without relying on strong distributional assumptions or assumptions about the data-generating
+process. The method leverages the information from the pre-intervention period to make inferences
+about the post-intervention period. To implement this procedure, one begins by specifying a
+sharp null hypothesis, H0 : a = a0. The observed outcome of the treated unit is then adjusted
+by subtracting the hypothesized eﬀect from the post-intervention period of the treated unit:
+Y adj,1
+0,t
+= Y0,t −a0, for t ≥T0 + 1. The chosen estimator is applied to the adjusted data to obtain
+the adjusted weights wadj
+j
+. Next, we calculate the adjusted residuals as the diﬀerence between the
+adjusted observed outcomes and the synthetic control predictions ˆut = Y adj,1
+0,t
+−PJ
+j=1 wadj
+j
+Yj,t.
+To quantify the discrepancy between the adjusted observed outcomes of the treated unit and the
+outcomes predicted by the synthetic control under the null hypothesis, we apply the test statistic
+13
+
+==== page 17 ====
+S:
+S(ˆu) =
+
+1
+√T1
+T
+X
+t=T0+1
+|ˆut|q
+
+
+1/q
+.
+(8)
+Following Chernozhukov et al. (2021), we focus on q = 1, so that S(ˆu) =
+1
+√T1
+PT
+t=T0+1 |ˆut|.
+To calculate the p-value, we block-permute the residuals, calculating the test statistic in each
+permutation π, yielding T block permutations. Let P be the set of block permutations. The p-value
+is then deﬁned as
+p =
+1
+|P|
+X
+π∈P
+1{S(ˆuπ0) ≤(ˆuπ)},
+(9)
+where ˆuπ0 is the original vector of residuals. By calculating the test statistic for a range of
+hypothesized treatment eﬀects a and calculating the corresponding p-values, we can construct
+conﬁdence intervals. Values of a for which the test statistic does not lead to rejection of the null
+hypothesis are included in the conﬁdence interval; all others are excluded.
+3.4
+Data and donor pool
+To ensure the validity of the SCM approach, the choice of the control group is essential. The period
+under review is 1995-2022. First, the 38 members of the OECD are considered. These countries
+have structural similarities with Germany and are subject to similar economic developments. Due
+to insuﬃcient data availability and comparability, the countries Chile (joined in 2010), Colombia
+(joined in 2020), and Costa Rica (joined in 2021) are excluded from the analysis. In addition,
+countries that experienced a national debt crisis during the observation period, as deﬁned by Nguyen
+et al. (2022), are excluded. This applies to Costa Rica (1981-1996), Greece (2012-2013, 2018), Ireland
+(2013), Mexico (1982-1990), Portugal (1999), and Turkey (1999). In the baseline analysis, the donor
+pool thus consists of 18 to 27 countries, depending on data availability. Finally, the countries in the
+control group should not be subject to ﬁscal rules that limit the ﬁscal ﬂexibility of the public sector.
+However, as Figure 14 shows, almost every country in the OECD is subject to some kind of ﬁscal
+rule. More important than being subject to some ﬁscal rule is the quality of this rule. The mere
+existence of a ﬁscal rule does not say anything about the eﬀectiveness (see Figure 24 in Appendix
+II).
+To create a valid counterfactual, it is necessary only to exclude countries that have more credible
+ﬁscal rules than the treated unit. We will address this issue by excluding all non-EU countries and
+all EU countries that show equal or stronger compliance with the Maastricht criteria than Germany
+during the period of validity of the German debt brake (2011-2019) according to the work of Larch
+et al. (2023). It should be noted that even if ﬁscal rules were to signiﬁcantly aﬀect an outcome
+variable in one of the control states for which a positive weight in the synthetic control is assigned,
+this is likely to attenuate the estimated eﬀect for Germany at best, at least in the cases where the
+direction of the eﬀect is known ex ante (which is true for all outcome variables except the investment
+14
+
+==== page 18 ====
+ratio for the federal and general government).11
+For the debt ratio (general and federal government) and the primary balance, the data is derived
+from the IMF (2024a,b). The data for the investment ratio (general and federal government) and
+for 10 year government bond yields is attained from OECD (2024a,b). We use gross ﬁxed capital
+formation (GFCF) as an approximation for public investment. To avoid an arbitrarily long choice of
+control variables, we decided to use only the outcomes of the pre-intervention period as covariates.
+The debt brake provided for transition periods for both the federal government and the states,
+beginning in 2011. Full compliance was required from 2016 onward at the federal level and from
+2020 onward at the state level. We take vertical eﬀects of ﬁscal rules that inﬂuence municipalities
+as conceivable. Potential channels of impact include vertical transfers, delegation of responsibilities,
+and eﬀects on the expectations of political actors (for example, bailouts in cases of excessive
+indebtedness). Therefore, provided that data availability permits, both the federal government
+and the general government (comprising the federal government, states, municipalities, and social
+insurance institutions) are examined. Table 1 provides a summary of the data used.
+Outcome Variable
+N
+Mean
+SD
+Min
+Max
+Debt Ratio (Federal Gov.)
+756
+53.723
+34.703
+0.821
+220.674
+Debt Ratio (General Gov.)
+784
+61.169
+40.195
+3.765
+261.289
+Investment Ratio (Federal Gov.)
+700
+1.932
+0.984
+0.054
+5.506
+Investment Ratio (General Gov.)
+616
+3.637
+1.009
+0.561
+7.692
+10-Year Bond Yield
+532
+3.561
+2.323
+-0.511
+12.800
+Primary Balance
+756
+0.776
+4.248
+-12.032
+25.705
+Table 1: Summary statistics for the outcome variables.
+4
+Results
+4.1
+Choice of Estimator
+We estimate the eﬀect of the debt brake on six distinct outcome variables, selecting the year 2011
+as the treatment period being the year of implementation. For each outcome variable, we initially
+employ two estimators: the classical SCM approach utilizing all lagged outcome variables, and
+the Ridge-Augmented SCM (ASCM) approach, also incorporating all lagged outcome variables.
+As discussed previously, allowing for some extrapolation may be advantageous depending on the
+magnitude of the estimated (absolute) bias. To determine whether to employ SCM or permit the
+control unit to lie outside the convex hull of donor units (thereby allowing some extrapolation) using
+ASCM for each outcome variable, we need to consider various metrics.
+Table 2 presents the bias, RMSPE, and the average eﬀect of treatment on the treated (ATT)
+for each variable. The RMSPE serves as a metric for evaluating the quality of the pre-treatment ﬁt
+and helps to assess the extent to which ASCM improves upon SCM. Because the RMSPE is scale
+11We will see later that the exclusion of countries depending on their compliance to ﬁscal rules mainly inﬂuences
+those estimates, where a direct link is intuitively logical: the debt ratio (federal and general government) and the
+primary balance.
+15
+
+==== page 19 ====
+dependent, it is diﬃcult to assess which pre-treatment ﬁt is ‘good enough’. While the RMSPE is
+a crucial metric for assessing the quality of the synthetic control’s ﬁt in the pre-treatment period,
+it should be evaluated independently of the ATT. Ensuring a low RMSPE in the pre-treatment
+phase builds conﬁdence in the validity of the ATT estimate, but directly comparing these two
+metrics does not provide meaningful information about the model’s performance or the treatment’s
+impact. Instead, we rely on a combination of pre-treatment ﬁt assessments, placebo tests, sensitivity
+analyses, and formal statistical evaluations to comprehensively assess the robustness and credibility
+of the results.
+Bias SCM
+Bias ASCM
+RMSPE SCM
+RMSPE ASCM
+ATT SCM
+ATT ASCM
+Debt Ratio (Cen. Gov.)
+0.339
+0.337
+0.863
+0.862
+-12.53
+-12.54
+Debt Ratio (Gen. Gov.)
+0.459
+0.454
+1.073
+1.069
+-26.79
+-26.83
+Investment Ratio (Cen. Gov.)
+0.035
+0.034
+0.051
+0.050
+0.048
+0.050
+Investment Ratio (Gen. Gov.)
+0.105
+0.040
+0.124
+0.051
+-0.306
+-0.288
+10-year bond yield
+0.052
+0.013
+0.087
+0.040
+-0.463
+-0.234
+Primary Balance
+0.311
+0.259
+0.775
+0.708
+1.405
+1.350
+Table 2: Comparison of SCM versus ASCM. The bias is deﬁned by the diﬀerence between the ﬁtted values of the outcome
+model (in this case ridge regression) for the treated unit and the synthetic control.
+For the majority of the variables, the estimated bias is minimal. Speciﬁcally, the bias for the debt
+ratio for both, the federal and general government, is about 3% compared to the ATT. In contrast,
+the estimated bias for the federal government’s investment ratio is approximately 73%. Although
+this indicates a potential beneﬁt in using ASCM over SCM, the bias reduction achieved by ASCM is
+only marginal, improving by only 0.001. For the primary balance, a substantial improvement in bias
+of approximately 20% can be observed through augmentation. This improvement translates into a
+reduction in the RMSPE by approximately 10%. However, we do not consider this improvement to
+be signiﬁcant enough to justify augmentation.
+In contrast, the bias for the investment ratio of the general government using SCM is nearly
+30% - the estimated bias is about a third as big as the estimated ATT. When applying ASCM, this
+bias is substantially reduced to about 14% relative to the ATT, a reduction of 62%. This signiﬁcant
+reduction is reﬂected in the corresponding substantial reduction in the RMSPE by 59%, which
+highlights the eﬀectiveness of ASCM in this context. For the 10-year bond yield, these changes are
+even more substantial: the bias decreases by 75% from 0.052 to 0.013, while the RMSPE decreases
+by 54% from 0.087 to 0.040. These estimates suggest that an augmentation of the SCM could be
+beneﬁcial in these two cases. However, while we believe that the estimates for the general government
+investment ratio are reliable, it is possible that the improvement of the ASCM solution over the
+SCM solution for the 10-year bond yield stems from an imbalance caused by the introduction
+of a treatment eﬀect in 2009, following the ﬁnancial crisis and Germany’s role as a ‘safe haven’.
+The augmentation might then, in fact, be misleading. We draw this conclusion from the fact that
+augmentation should ideally yield a consistent reduction in bias throughout the pre-treatment
+period. However, for the 10-year bond yield, the pre-treatment ﬁt between the augmented and
+canonical SCM is almost identical up to 2008. Therefore, the ‘improvement’ in the RMSPE and the
+16
+
+==== page 20 ====
+20
+30
+40
+50
+60
+70
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (Central Gov.)
+40
+50
+60
+70
+80
+90
+100
+110
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (General Gov.)
+−1
+0
+1
+2
+3
+4
+5
+6
+7
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+10−Year Bond Yield
+.4
+.5
+.6
+.7
+.8
+.9
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (Central Gov.)
+1.5
+2
+2.5
+3
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (General Gov.)
+−6
+−5
+−4
+−3
+−2
+−1
+0
+1
+2
+3
+4
+5
+6
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Primary Balance
+Figure 1: Trajectory for each of the outcome Variables using Canonical and Augmented SCM. The blue line denotes the
+trajectory of the counterfactual constructed via ASCM, the red line depicts the trajectory of the counterfactual constructed
+using SCM. SCM is constructed using the original proposal by Abadie and Gardeazabal (2003), Ridge ASCM is constructed
+using the proposal by Ben-Michael et al. (2021). The observed outcome variables for Germany are displayed in black. For an
+overview of the assigned weights of the control states for each outcome variable using canonical or augmented SCM, see Figure
+15 - Figure 20 in Appendix I.
+bias of the ASCM over the SCM originates solely from the years 2009 and 2010 (see also Figure 4
+and Section 5).
+This conclusion is corroborated upon visual inspection of Figure 1, which illustrates the
+trajectories of Germany along with its synthetic control constructed using both SCM and ASCM
+weights. For most of the outcome variables, the SCM and ASCM estimates exhibit negligible
+diﬀerences. However, a signiﬁcant divergence is observed between the Ridge ASCM and Canonical
+SCM trajectories concerning the investment ratio of the general government, as well as for the
+10-year bond yield. Therefore, in the subsequent analysis, unless otherwise speciﬁed, the Augmented
+SCM will be employed for the investment ratio of the general government, while the Canonical SCM
+will be utilized for all other outcome variables.
+17
+
+==== page 21 ====
+4.2
+Baseline Estimations
+In this section, we present the baseline results in more detail using the estimator for each variable
+based on the assessment in the previous chapter.
+Debt Ratio: Federal Government
+−25 −20 −15 −10 −5
+0
+5
+1995
+2000
+2005
+2010
+2015
+2020
+−20
+0
+20
+40
+1995
+2000
+2005
+2010
+2015
+2020
+0
+.1
+.2
+.3
+.4
+.5
+.6
+.7
+.8
+.9
+1
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+−20
+−10
+0
+10
+20
+30
+DEU
+AUT
+NOR 
+LTU
+FRA
+HUN
+ISL
+ISR
+BEL
+CZE
+POL
+DEN
+LUX
+CAN
+SWE
+KOR
+NLD
+FIN
+ITA
+NZL
+LVA
+GBR
+JPN
+AUS
+USA
+ESP
+SVN
+A
+B
+C
+D
+Figure 2: Gap plot and placebo test for the debt ratio of the federal government. Panel A: Point estimates along with point-wise
+90% conformal conﬁdence intervals for the eﬀect of the debt brake on the debt ratio of the federal government using canonical
+SCM. Panel B: Placebo tests for all donor pool countries. The dashed green line marks the lower and upper 90% conﬁdence limit
+(one-sided tests). Panel C: Point-wise p-values calculated by setting the pre-treatment RMSPE in relation to the estimated
+eﬀect of each post-treatment period. The red line marks the lower bound of possible p-values. Panel D: Post-Pre-Ratio. To
+conduct one-sided tests, we set the pre-treatment RMSPE in relation to the ATT of the whole post-treatment period.
+Figure 2 shows the results of the federal government debt ratio. The ﬁgure contains the gap plot
+(Panel A), the results for the classical placebo test as suggested by Abadie et al. (2010) and Abadie
+(2021) (Panel B), the corresponding p-value over time (Panel C) and the ranking of the Post Pre
+Ratio (Panel D). The gap plot shows the diﬀerence between Germany and its synthetic control,
+with the horizontal line marking the year before the introduction of the debt brake.12 The gap plot
+includes the conﬁdence intervals calculated via the conformal inference procedure (Chernozhukov
+12Note that in the year of 2011, we should already see possible eﬀects. Another possibility is to set the horizontal
+line in the period before the intervention.
+18
+
+==== page 22 ====
+et al., 2021). The overall pre-treatment ﬁt is very good and deviates only little from zero, albeit
+two small deviations in the years 2009 and 2010, which we see as a success of producing a valid
+counterfactual of Germany. Considering the design and strictness of the debt brake, it is hardly
+surprising that a signiﬁcant gap emerges following its implementation. The debt ratio of the German
+federal government continuously decreases, while the synthetic control continues its trend of rising
+public debt and the resulting higher debt ratios, a trajectory that began in 2007.
+Notably, the magnitude of this development is substantial. The conﬁdence intervals suggest
+that the eﬀect size becomes signiﬁcant at a 90% conﬁdence level as early as the second year after
+implementation; from this year onward, we can reject the null hypothesis that the debt brake had
+no eﬀect on the debt ratio of the federal government. The null hypothesis that the eﬀect of the debt
+brake over the entire post-intervention period is zero (i.e. θ = (θT0+1 = 0, ..., θT = 0) can be rejected
+with a p-value of 0.036. The declining trend persists until the onset of the COVID-19 crisis, which
+authorized the federal government to use the exemption clause of the debt brake from 2020 to 2022
+according to which it was allowed to exceed the borrowing limit of 0.35% GDP. Consequently, due
+to the need for ﬁscal stimuli during the crisis, the debt ratio increased both in Germany and in
+the synthetic control. However, the German federal government seems to have utilized the available
+ﬁscal space even more extensively, explaining the increase observed in the gap plot starting in 2020.
+Panel B displays the ‘classical’ inference procedure. The black line is the gap plot of Germany as
+in Panel A, the red lines correspond to the gap plots of the control states. Each of these states were
+treated as if they had also implemented a debt brake in 2011, similar to Germany. Therefore, the
+trajectories represent the diﬀerence in the debt ratio of the treated unit compared to its respective
+synthetic control. Almost in line with the conformal inference procedure from the gap plot in Panel
+A, we can reject the null hypothesis of no eﬀect with 90% conﬁdence as early as of the year 2015.
+From this year onward, the trajectory of the German debt brake lies below the lower green dashed
+line marking the lower 90% conﬁdence limit for a one-sided test.
+Panel C visualizes this development. In the year 2015, the p-value reaches a p-value below 0.1,
+from 2016 onward it reaches the lowest possible p-value of 0.037 (marked by the red horizontal
+line). This development is in line with the institutional setup of the debt brake, demanding the 2010
+structural deﬁcit to be reduced in equal steps until 2016. While Panel C provides us with point-wise
+inference, Panel D displays the RMSPE in the pre-treatment period in relation to the overall ATT
+of the post-treatment period. From Panel D, we can reject the null hypothesis that the eﬀect in all
+time periods is zero with more than 95% conﬁdence: With a ratio of about -15, Germany reaches
+the lowest value of all countries in the donor pool (1/27 ≈0.037).
+Investment Ratio: Federal Government
+We now turn to the analysis of federal investment behavior (Figure 3). In public discourse, a link
+is often suggested between ﬁscal rules, such as the debt brake, and a declining public investment
+ratio. Such an eﬀect would undermine a core argument of advocates for strict ﬁscal rules, namely,
+intergenerational equity. While future generations would face a lower debt burden, this would come
+at the cost of deteriorating public infrastructure. However, at least at the federal level, a declining
+19
+
+==== page 23 ====
+investment ratio caused by the debt brake cannot be conﬁrmed. P
+Panel A displays the gap plot for the federal investment ratio. Although the pre-treatment
+ﬁt is not excellent, with an RMSPE of 0.051, we consider it adequate for a valid analysis. The
+conformal inference procedure indicates only a slightly signiﬁcant and positive eﬀect in 2013.
+The null hypothesis of no eﬀect for the entire postintervention period cannot be rejected, with
+a p-value of 0.357. This conclusion is further supported by the placebo inference procedure (Panel
+B). Germany’s trajectory exceeds the 90% conﬁdence interval only in 2013. Panel C shows the
+evolution of the one-sided point-wise p-value. Panel D compares the pre-treatment RMSPE of each
+remaining control state and Germany with the ATT for these countries. Based on this statistic and
+Germany’s ratio of approximately 1, we again cannot reject the null hypothesis of no eﬀect, with
+a p-value of 6/25 = 0.24. Though we observe positive eﬀects, these are not statistically signiﬁcant,
+however.
+−.3
+−.2
+−.1
+0
+.1
+.2
+.3
+1995
+2000
+2005
+2010
+2015
+2020
+−10
+−5
+0
+5
+10
+1995
+2000
+2005
+2010
+2015
+2020
+0
+.1
+.2
+.3
+.4
+.5
+.6
+.7
+.8
+.9
+1
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+−5
+0
+5
+ESP
+ITA
+AUS 
+CAN
+LIT
+FRA
+KOR
+SLV
+FIN
+CZE
+SWE
+ISR
+GBR
+LUX
+BEL
+NLD
+SVK
+POL
+AUT
+DEU
+EST
+LVA
+HUN
+DEN
+NOR
+A
+B
+C
+D
+Figure 3: Gap plot and placebo test for the investment ratio of the federal government. Panel A: Point estimates along with
+point-wise 90% conformal conﬁdence intervals for the eﬀect of the debt brake on the investment ratio of the federal government
+using canonical SCM. Panel B: Placebo tests for all donor pool countries. The dashed green line marks the lower and upper
+90% conﬁdence limit (one-sided tests). Panel C: Point-wise p-values calculated by setting the pre-treatment RMSPE in relation
+to the estimated eﬀect of each post-treatment period. The red line marks the lower bound of possible p-values. Panel D: Post
+Pre Ratio. To conduct one-sided tests, we set the pre-treatment RMSPE in relation to the ATT of the whole post-treatment
+period.
+20
+
+==== page 24 ====
+10-Year Bond Yield: Federal Government
+The interest burden that a government must pay on its debt is, along with the primary balance,
+another key indicator of public debt sustainability. The baseline estimate, in conjunction with the
+conformal and placebo inference procedures, is presented in Figure 4. Panel A suggests a signiﬁcant,
+negative eﬀect of the debt brake on the interest rates for 10-year government bonds beginning in
+2012. Although the conformal inference procedure allows rejection of the null hypothesis of no eﬀect
+over the entire post-treatment period with a p-value of 0.036, and the conﬁdence interval indicates a
+signiﬁcant eﬀect from 2012 onward, visual inspection suggests that the observed decline in interest
+rates may not be solely attributable to the debt brake. A divergence between Germany and the
+synthetic control, or a growing gap, is observable as early as 2009.13 However, Panel B and C
+suggest that this trend intensiﬁed after 2012, with the eﬀect becoming statistically signiﬁcant at
+the 90% conﬁdence level only in 2015 and 2016 and again in 2020 and 2022. Panel D indicates a
+signiﬁcant eﬀect throughout the post-treatment period; with a ratio of approximately -5, Germany
+records the lowest value, yielding a p-value of 1/19 ≈0.053. These results suggest an overall negative
+eﬀect of the debt brake on the 10-year bond yield for the German federal government. However, we
+will later observe that these eﬀects cannot be unambiguously attributed to the debt brake due to
+various confounding events.
+Primary Balance: General Government
+The relationship between the primary balance and the debt ratio is central to ﬁscal stability and
+debt dynamics in a country. A sustainable, positive primary balance can help reduce or stabilize
+the debt ratio, which strengthens ﬁscal capacity and, in the long term, reduces debt servicing costs.
+However, a high debt level can increase the pressure to generate primary surpluses to maintain a
+stable debt ratio, especially when economic growth is low. A null eﬀect on the primary balance
+would suggest that reductions in the debt ratio are primarily due to positive economic conditions
+and historically low interest rates, rather than the result of primary surpluses. The sustainability of
+public debt is largely dependent on the level of the primary government balance.
+Figure 5 presents the results of the analysis on the primary balance of Germany. This ﬁgure again
+includes a gap plot (Panel A), which, although not displaying an excellent ﬁt upon visual inspection,
+achieves an adequate pre-treatment RMSPE of 0.775. Consistent with the institutional design of
+the German debt brake, a signiﬁcantly positive trend is observed in the primary balance in the
+year of its implementation. Over time, the gap decreases, driven by a rising primary balance in the
+synthetic control group (see Figure 1 in section 4.2). In 2020, a sharp drop in the primary balance
+is observed, surpassing the decline seen in the synthetic control group, resulting in a negative gap.
+The conformal inference procedure indicates that the null hypothesis of no eﬀect throughout the
+post-treatment period cannot be rejected, with a p-value of 0.107.
+Panel B largely supports the inference procedure ﬁndings in Panel A: From 2019 onward, the
+pointwise ATT loses signiﬁcance. Panel C further suggests that the non-signiﬁcant overall p-value
+13We will return to the issue of the divergence between Germany’s trajectory and that of its synthetic control in
+the robustness checks.
+21
+
+==== page 25 ====
+−2
+−1.5
+−1
+−.5
+0
+.5
+1
+1995
+2000
+2005
+2010
+2015
+2020
+−10
+0
+10
+20
+1995
+2000
+2005
+2010
+2015
+2020
+0
+.1
+.2
+.3
+.4
+.5
+.6
+.7
+.8
+.9
+1
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+−6
+−4
+−2
+0
+2
+DEU
+FIN
+SWE 
+NLD
+DEN
+ESP
+AUT
+AUS
+GBR
+LUX
+JPN
+KOR
+NOR
+NZL
+USA
+CAN
+BEL
+ITA
+FRA
+A
+B
+C
+D
+Figure 4: Gap plot and placebo test for the long term interest rate of the federal government. Panel A: Point estimates along
+with point-wise 90% conformal conﬁdence intervals for the eﬀect of the debt brake on the long term interest rate of the federal
+government using canonical SCM. Panel B: Placebo Tests for all donor pool countries. The dashed green line marks the lower
+and upper 90% conﬁdence limit (one-sided tests). Panel C: p-value for each period calculated by setting the pre-treatment
+RMSPE in relation to the estimated eﬀect of each post-treatment period. The red line marks the lower bound of possible
+p-values. Panel D: Post Pre Ratio. To conduct one-sided tests, we set the pre-treatment RMSPE in relation to the ATT of the
+whole post-treatment period.
+across the observation period is primarily due to the suspension of the debt brake beginning in
+2020. Starting in 2020, there is a marked increase in the p-value, indicating that Germany’s ﬁscal
+expansion was more intensive than that of the control states. Although the overall p-value in the
+conformal inference procedure is not signiﬁcant, the placebo inference procedure reveals a highly
+signiﬁcant eﬀect with a p-value of 1/27 ≈0.037.
+In sum, a signiﬁcant inﬂuence of the debt brake on the primary balance is observed, aligning with
+theoretical expectations. The results also suggest that Germany would have achieved an increasingly
+less negative or even positive primary balance even without the debt brake; however, this would
+have occurred only signiﬁcantly after 2011. Furthermore, the additional ﬁscal space provided by
+the suspension of the debt brake appears to have been utilized more intensively than in the control
+states, which is in line with the results for the federal government debt ratio.
+22
+
+==== page 26 ====
+−3
+−2
+−1
+0
+1
+2
+3
+4
+5
+1995
+2000
+2005
+2010
+2015
+2020
+−20
+−10
+0
+10
+20
+1995
+2000
+2005
+2010
+2015
+2020
+0
+.1
+.2
+.3
+.4
+.5
+.6
+.7
+.8
+.9
+1
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+−4
+−2
+0
+2
+FRA
+ISR
+FIN 
+SWE
+AUS
+JAP
+USA
+ESP
+SVN
+BEL
+EST
+NLD
+NZL
+ITA
+AUT
+HUN
+CAN
+GBR
+KOR
+LUX
+CZE
+NOR
+SVK
+DEN
+ISL
+POL 
+DEU
+A
+B
+C
+D
+Figure 5: Gap plot and placebo test for the primary balance of the general government. Panel A: Point estimates along with
+point-wise 90% conformal conﬁdence intervals for the eﬀect of the debt brake on the primary balance of the federal government
+using canonical SCM. Panel B: Placebo tests for all donor pool countries. The dashed green line marks the lower and upper
+90% conﬁdence limit (one-sided tests). Panel C: Point-wise p-values calculated by setting the pre-treatment RMSPE in relation
+to the estimated eﬀect of each post-treatment period. The red line marks the lower bound of possible p-values. Panel D: Post
+Pre Ratio. To conduct one-sided tests, we set the pre-treatment RMSPE in relation to the ATT of the whole post-treatment
+period.
+4.3
+Vertical Eﬀects
+The German debt brake has been eﬀective at the federal level since 2011. At the state level, the
+introduction of a debt brake became mandatory starting in 2020; however, the states used the
+escape clause since that year due to the COVID-19 pandemic. During the observation period, the
+debt brake was fully applicable at the federal level from 2011 to 2019. Local jurisdictions are not
+directly aﬀected by the debt brake.
+As a federal state, there are numerous connections between the federal government, the states,
+and the municipalities (Bury and Feld, 2025). First, there are extensive ﬁscal interactions. As they
+are legally ﬁxed, increasing or decreasing transfers between diﬀerent layers of government is diﬃcult.
+Second, the federal and state governments can impose spending restrictions onto local jurisdictions.
+In light of these extensive interconnections, vertical ﬁscal eﬀects, such as an unsustainable
+expansion of expenditures driven by the awareness that the resulting costs can be externalized
+23
+
+==== page 27 ====
+to higher or lower federal levels, are conceivable (Rodden, 2002; Von Hagen et al., 2000). Direct
+ﬁnancial constraints imposed by the federal government in the form of reduced transfers or delegation
+of responsibilities are not necessarily required. If the federal government has a suﬃciently strong
+reputation for ﬁscal discipline, ﬁscal rules will lead to lower borrowing by local government, because
+the federal government can credibly commit to not transferring resources to indebted lower federal
+tiers. However, empirical investigations on vertical eﬀects are scarce. We are aware of only one
+empirical publication that ﬁnds no vertical eﬀect of ﬁscal rules at a higher federal level (Burret and
+Feld, 2018b).
+Debt Ratio: General Government
+−45
+−35
+−25
+−15
+−5
+5
+1995
+2000
+2005
+2010
+2015
+2020
+−40
+−20
+0
+20
+40
+1995
+2000
+2005
+2010
+2015
+2020
+0
+.1
+.2
+.3
+.4
+.5
+.6
+.7
+.8
+.9
+1
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+−20
+0
+20
+40
+DEU
+AUT
+FRA 
+NOR
+DEN
+ISR
+HUN
+POL
+BEL
+CAN
+SWE
+EST
+LIT
+CZE
+NLD
+LUX
+SVK
+LVA
+KOR
+USA
+GBR
+ITA
+FIN
+AUS
+ESP
+SLV
+A
+B
+C
+D
+Figure 6: Gap plot and placebo test for the debt ratio of the general government. Panel A: Point estimates along with
+point-wise 90% conformal conﬁdence intervals for the eﬀect of the debt brake on the debt ratio of the federal government using
+canonical SCM. Panel B: Placebo tests for all donor pool countries. The dashed green line marks the lower and upper 90%
+conﬁdence limit (one-sided tests). Panel C: Point-wise p-values calculated by setting the pre-treatment RMSPE in relation
+to the estimated eﬀect of each post-treatment period. The red line marks the lower bound of possible p-values. Panel D:
+Post-Pre-Ratio. To conduct one-sided tests, we set the pre-treatment RMSPE in relation to the ATT of the whole post-treatment
+period.
+To investigate possible vertical eﬀects, we examine the development of the debt ratio and the
+investment ratio of the German general government.14 Although the debt brake has not been
+14An analysis of each individual level of government would be more informative. At present, however, data
+24
+
+==== page 28 ====
+eﬀective at the local level and became fully applicable to the state in 2020 only, there has been
+a stronger decline in the debt ratio for the general government (ATT: -26.79) than for the federal
+government alone (ATT: -12.53).
+Unfortunately, the data does not allow to compare the federal and general governments
+development of the debt ratio directly.15 However, descriptively, a decline in the debt ratio at
+the state and municipal levels has been observed since 2011 for municipalities and since 2013 for
+the states (see Figure 22 in Appendix I). It is conceivable that this could be attributed to an overall
+improved economic situation and lower interest costs. However, this interpretation is challenged by
+the results of the SCM on the debt ratios of the federal and general government. We consider it
+more likely that the debt brake, as a credible ﬁscal rule, corrected the incentives of subnational
+governments to accumulate excessive debt.16
+Within the baseline results, we see this assessment conﬁrmed by the results displayed in Figure
+6. Panel A displays the gap plot. As indicated in Table 2, the pre-treatment ﬁt, with an RMSPE of
+1.073, is excellent, which supports the validity of the results. A highly signiﬁcant eﬀect at the 90%
+conﬁdence level is already observable in the year the debt brake was introduced. However, at the
+federal level, this eﬀect only becomes evident in the second year after the introduction of the ﬁscal
+rule. The decline in the general government debt ratio is signiﬁcantly more pronounced, and this
+trend continues until 2020, when the borrowing limit imposed by the debt brake was temporarily
+suspended. The null hypothesis of no eﬀect over the entire post-treatment period can be rejected
+with a p-value of 0.036. These eﬀects are conﬁrmed by the placebo test in Panel B. Germany’s
+debt ratio decreases signiﬁcantly faster than that of all other states and remains below the 90%
+conﬁdence interval throughout the post-treatment period. Panel C further illustrates this trend: the
+p-value reaches the lowest possible value of 1/28 ≈0.036 each year. The analysis of the ATT (Panel
+D) from 2011 to 2022 also shows an extreme negative trajectory, with Germany recording by far
+the lowest value at -24.97, yielding an overall p-value of 1/28 ≈0.036. The next country, Austria,
+shows an ATT of about -8, which is only a third as large as the value for Germany.
+Investment Ratio: General Government
+If strict ﬁscal rules at a higher federal level have a disciplining eﬀect on the budgets of lower levels
+– either through altered expectations or actual changes in transfers or task allocations – an impact
+on public investments is also conceivable. States and municipalities might feel compelled to restrict
+investments in favor of consumption expenditures or in order to reduce their debt load. For this
+reason, we examine the impact of the debt brake on public investment at the general government
+level.
+availability only allows for an investigation at the federal and general government levels.
+15This is because the IMF consolidates public debt within each federal tier, but not outside of it. For example, the
+federal government’s debt to social security is not consolidated. However, for the general government, such liabilities
+are netted out. In some cases, a simple subtraction of the federal government debt from the general government debt
+would result in negative values (Mbaye et al., 2018).
+16It must be noted, however, that the synthetic controls for these two outcome variables were not constructed from
+the same set of countries and do not share common weights. We address this issue in Subsection 4.5.
+25
+
+==== page 29 ====
+Figure 7 displays the results for the investment ratio of the general government. Panel A displays
+the gap plot. With an RMSPE of 0.124 during the pre-treatment period, the ﬁt can be considered
+acceptable. The conformal inference procedure indicates a statistically signiﬁcant eﬀect on general
+government investments at the 90% conﬁdence level as early as the ﬁrst year after the introduction
+of the debt brake. Since we previously excluded a signiﬁcant eﬀect of the debt brake on federal
+government investments, this development can be attributed to other federal levels. The negative
+trend persists until 2014, followed by a relatively strong increase in general government investments
+in Germany. A similar increase is observed in the control group, albeit to a lesser extent, resulting
+in a positive gap. By 2020, the observed eﬀect is no longer signiﬁcant. Subsequently, during the
+exemption period, general government investments continue to rise in the control group, while they
+decline in Germany, leading to a signiﬁcantly negative gap up to the most recent period. The
+conformal inference procedure suggests a signiﬁcant negative overall eﬀect with 95% conﬁdence
+(p-value = 0.036).
+−1
+−.75
+−.5
+−.25
+0
+.25
+.5
+.75
+1
+1995
+2000
+2005
+2010
+2015
+2020
+−20
+−10
+0
+10
+1995
+2000
+2005
+2010
+2015
+2020
+0
+.1
+.2
+.3
+.4
+.5
+.6
+.7
+.8
+.9
+1
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+−20
+−15
+−10
+−5
+0
+5
+ESP
+ITA
+DEU
+NLD 
+FRA
+LIT
+LUX
+GBR
+CZE
+SVK
+AUT
+CAN
+BEL
+POL
+AUS
+EST
+HUN
+LVA
+SWE
+SLV
+FIN
+DEN
+A
+B
+C
+D
+Figure 7: Gap plot and placebo test for the investment ratio of the general government. Panel A: Point estimates along with
+point-wise 90% conformal conﬁdence intervals for the eﬀect of the debt brake on the investment ratio of the general government
+using Ridge Augmented SCM. Panel B: Placebo tests for all donor pool countries. The dashed green line marks the lower and
+upper 90% conﬁdence limit (one-sided tests). Panel C: Point-wise p-values calculated by setting the pre-treatment RMSPE
+in relation to the estimated eﬀect of each post-treatment period. The red line marks the lower bound of possible p-values.
+Panel D: Post Pre Ratio. To conduct one-sided tests, we set the pre-treatment RMSPE in relation to the ATT of the whole
+post-treatment period.
+26
+
+==== page 30 ====
+To some extent, this development is conﬁrmed in Panel B: during the observation period, the
+eﬀect becomes only signiﬁcant from 2012 to 2016 at a 90% conﬁdence level, as also evident in
+Panel C. Panel D suggests an overall insigniﬁcant impact of the debt brake on general government
+investments, with a p-value of 3/22 = 0.14. The negative impact appears to have been temporary
+at best, which explains the decline following the introduction of the debt brake.
+Following the arguments regarding the vertical eﬀects of ﬁscal rules that we have previously
+presented, it cannot be excluded that the debt brake has had an impact on the investment behavior
+of states and municipalities. While there has been no eﬀect regarding the investment on the federal
+level, we see some eﬀect at the general government level that deserves closer examination. It appears
+to be evident that the initial decline in 2011 is primarily attributable to the municipalities (see Figure
+23 in Appendix I), which are, however, not legally captured by the debt brake.
+If the observed eﬀects were attributable to the debt brake, this would most likely be due to
+task reassignments or declining transfers from the federal and state governments. Under the 2009
+Economic Stimulus Package II (Konjunkturpaket II ), however, €10 billion was allocated primarily to
+municipalities for investment through 2010 (Bury and Feld, 2026). This may explain the downward
+trend in the gap plot afterwards, starting in 2011. From 2012 onward, the federal government
+introduced substantial social policy relief for municipalities, and beginning in 2015, their share of
+VAT revenue was increased. At the same time, however, municipal responsibilities—particularly
+in the social sector—were expanded following a practice with much tradition before and after the
+introduction of the debt brake (Rietzler, 2022).
+Between 2016 and 2021, investment-related transfers to municipalities rose by 60%, twice the rate
+of non-investment-related transfers (Christofzik, 2023). If the debt brake led to reduced municipal
+investment, this would likely reﬂect indirect consolidation pressure, with municipalities lowering
+debt ratios at the expense of investment. However, Section 4.5 shows that ﬁscal consolidation for
+the general government was less pronounced than assumed in the baseline scenario. Overall, the
+ﬁndings do not support a signiﬁcant impact of the debt brake on municipal investment activity.
+4.4
+CITS Results
+The CITS results provide detailed evidence on how Germany’s constitutional debt brake inﬂuenced
+ﬁscal variables. Table 3 lists eight key coeﬃcients for each outcome: the immediate level shift in
+2011 (β2011
+6
+); the post-2011 trend for Germany (β1 + β2011
+3
++ β5 + β2011
+7
+); the corresponding trend
+for the synthetic control (β1 + β2011
+3
+) and the resulting trend diﬀerence (β5 + β2011
+7
+); the level shift
+in 2020 when the escape clause of the rule was activated (β2020
+6
+); the post-2020 trend for Germany
+(β1 + β2020
+3
++ β5 + β2020
+7
+); the corresponding synthetic control trend (β1 + β2020
+3
+), and the resulting
+trend diﬀerence during the exemption phase 2020–2022 (β5 +β2020
+7
+). Figure 8 shows the ﬁtted paths
+for Germany (red) and its synthetic control (teal).
+Pre-treatment validation. Between 1995 and 2010, Germany and the synthetic control are
+statistically indistinguishable in intercepts (β4) and baseline trends (β5) for every outcome. This
+27
+
+==== page 31 ====
+Coeﬃcient
+Debt Ratio
+(Federal Gov.)
+Debt Ratio
+(General Gov.)
+Investment Ratio
+(Federal Gov.)
+Investment Ratio
+(General Gov.)
+10-year
+Bond Yield
+Primary
+Balance
+β1
+0.62**
+1.22***
+0.01
+−0.02
+−0.20***
+0.06
+(0.21)
+(0.28)
+(0.00)
+(0.01)
+(0.03)
+(0.13)
+β4
+−0.03
+−0.03
+−0.02
+0.01
+0.02
+−0.29
+(1.82)
+(2.39)
+(0.04)
+(0.13)
+(0.46)
+(1.83)
+β5
+0.00
+0.00
+0.00
+0.00
+0.00
+0.04
+(0.30)
+(0.40)
+(0.01)
+(0.02)
+(0.05)
+(0.19)
+β2011
+2
+9.44***
+15.49***
+−0.06
+0.45**
+−0.48
+−1.33
+(3.15)
+(4.68)
+(0.06)
+(0.17)
+(0.31)
+(0.99)
+β2011
+3
+−0.29
+−0.19
+0.01
+0.05***
+−0.05
+0.18
+(0.24)
+(0.39)
+(0.01)
+(0.01)
+(0.05)
+(0.13)
+β2011
+6
+−2.61
+−6.82
+0.09
+−0.30
+−0.18
+2.20
+(4.31)
+(6.16)
+(0.08)
+(0.24)
+(0.45)
+(1.39)
+β2011
+7
+−2.02***
+−3.93***
+−0.01
+0.00
+−0.05
+−0.19
+(0.33)
+(0.47)
+(0.01)
+(0.03)
+(0.07)
+(0.19)
+β2020
+2
+7.76***
+9.11***
+0.11***
+0.03
+−0.27
+−6.16***
+(1.25)
+(2.32)
+(0.03)
+(0.03)
+(0.19)
+(0.23)
+β2020
+3
+−1.53***
+−1.39***
+−0.04***
+0.04***
+1.10***
+1.48***
+(0.28)
+(0.42)
+(0.02)
+(0.01)
+(0.13)
+(0.04)
+β2020
+6
+0.87
+2.77
+−0.04
+0.31***
+0.18
+−0.34
+(1.37)
+(2.51)
+(0.05)
+(0.09)
+(0.29)
+(0.26)
+β2020
+7
+3.78***
+3.56***
+0.03*
+−0.09***
+0.03
+−0.63***
+(0.43)
+(0.58)
+(0.02)
+(0.03)
+(0.20)
+(0.06)
+β0
+35.17***
+54.40***
+0.56***
+2.42***
+6.02***
+−0.25
+(1.25)
+(1.65)
+(0.03)
+(0.09)
+(0.33)
+(1.20)
+β1 + β2011
+3
++ β5 + β2011
+7
+−1.70***
+−2.90***
+0.00
+0.02
+−0.31***
+0.09***
+(0.14)
+(0.24)
+(0.01)
+(0.02)
+(0.04)
+(0.02)
+β1 + β2011
+3
+0.32
+1.03***
+0.01
+0.02***
+−0.25***
+0.24***
+(0.23)
+(0.43)
+(0.01)
+(0.01)
+(0.03)
+(0.04)
+β5 + β2011
+7
+−2.02***
+−3.93***
+−0.01
+0.00
+−0.05
+−0.15***
+(0.27)
+(0.49)
+(0.01)
+(0.02)
+(0.05)
+(0.04)
+β1 + β2020
+3
++ β5 + β2020
+7
+0.55**
+−0.73**
+−0.01
+−0.04**
+0.83***
+0.94***
+(0.27)
+(0.30)
+(0.00)
+(0.02)
+(0.13)
+(0.04)
+β1 + β2020
+3
+−1.21***
+−0.36
+−0.03**
+0.06***
+0.85***
+1.72***
+(0.09)
+(0.23)
+(0.01)
+(0.01)
+(0.11)
+(0.00)
+β5 + β2020
+7
+1.76***
+−0.36
+0.02
+−0.10***
+−0.02
+−0.78***
+(0.28)
+(0.38)
+(0.01)
+(0.02)
+(0.17)
+(0.04)
+Table 3: Standard errors are in parentheses. *, ** and *** denote statistical signiﬁcance at 10%, 5% and 1% respectively.
+28
+
+==== page 32 ====
+20
+30
+40
+50
+60
+70
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+CITS: Debt Ratio (Central Gov.)
+40
+50
+60
+70
+80
+90
+100
+110
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+CITS: Devt Ratio (General Gov.)
+−1
+0
+1
+2
+3
+4
+5
+6
+7
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+CITS: 10−Year Bond Yield
+.4
+.5
+.6
+.7
+.8
+.9
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+CITS: Investment Ratio (Central Gov.)
+1.5
+2
+2.5
+3
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+CITS: Investment Ratio (General Gov.)
+−7
+−6
+−5
+−4
+−3
+−2
+−1
+0
+1
+2
+3
+4
+5
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+CITS: Primary Balance
+Figure 8: Trajectory of Germany for each of the outcome Variable. Red denotes Germany, teal its synthetic control. The dots
+denote the values derived from using (Augmented) SCM, the lines are the ﬁt derived from the CITS approach.
+close alignment supports the applicability of the (A)SCM in all cases.
+Level eﬀects at introduction (2011). In the adoption year no outcome displays a signiﬁcant level
+jump vis-à-vis the control. For the debt ratios the absence of an instantaneous break is intuitive:
+the rule constrains structural deﬁcits, so the debt ratio is expected to adjust only gradually. The
+primary balance exhibits a positive but non-signiﬁcant jump of 2.2 percentage points, indicating
+that consolidation began quickly but without clear statistical separation from the counterfactual.
+Investment ratios and the 10-year bond yields show likewise negligible level eﬀects.
+Slope eﬀects during rule enforcement (2011–2019). Once the rule is in place, annual
+trends diverge sharply. Federal debt falls signiﬁcantly by 1.7 percentage points per year relative
+to the control, while general government debt declines even faster at 2.9 points. These sustained
+diﬀerentials document the debt brake’s core eﬀect: steady deleveraging rather than abrupt
+adjustment. The primary balance rises in both Germany and the control, but the control improves
+at roughly triple the rate. This result suggests that, had Germany’s primary balance not jumped
+sharply immediately after the introduction of the debt brake, it would likely have risen more strongly
+in the following years, similar to the synthetic control. Instead, 2011 produced a pronounced level
+eﬀect, followed by a slower increase than that of the control in subsequent years. Investment
+29
+
+==== page 33 ====
+developments are asymmetric: Federal investment spending remains broadly unchanged, whereas
+general government investment increases by 0.016 per year on average, while the synthetic control
+increases by 0.021. The diﬀerence of 0.005 is not statistically signiﬁcant, suggesting broadly similar
+trends without clear evidence of divergence. The German 10-year bond yield declines in a pattern
+similar to the synthetic path, leaving no signiﬁcant diﬀerence between the two trajectories.
+Level eﬀects at exemption clause (2020). Activating the escape clause in response to COVID-19
+does not result in signiﬁcant immediate level eﬀects for the debt ratios of the federal or general
+government compared to their respective synthetic controls. The same holds for the 10-year
+bond yield and the primary balance. The investment ratios, however, show divergent responses:
+while federal investment decreased slightly and insigniﬁcantly by –0.04 relative to the control,
+the general government’s investment ratio increased signiﬁcantly by 0.31. This suggests that
+previously constrained investment activities were implemented once the rule was suspended, leading
+to convergence in investment levels between Germany and its synthetic control.
+Slope eﬀects under exemption clause (2020–2022). In the second treatment period
+(2020–2022), the pattern observed in the previous phase reverses with respect to the federal
+government debt ratio. Germany’s federal debt increases, on average, by 1.76 percentage points
+per year more than that of its synthetic control, indicating substantial reliance on the exceptional
+borrowing provision. In contrast, the general government debt resumes its pre-crisis downward
+trajectory, suggesting that state and local governments largely refrained from comparable credit
+expansions. The synthetic control follows a similar path, resulting in a statistically insigniﬁcant
+diﬀerence. The general government investment ratio, following its sharp increase in 2020, declines
+by 0.10 percentage points annually relative to the control, implying that the surge was temporary.
+Federal investment, by contrast, remains statistically indistinguishable from the synthetic trajectory.
+The 10-year German bond yield and its synthetic counterpart both rise steadily during the period,
+by 0.83 and 0.85 percentage points per year, respectively. The primary balance, after a steep
+deterioration in 2020, improves for both Germany and its synthetic control. However, Germany’s
+recovery remains signiﬁcantly weaker, with a diﬀerential of –0.78 percentage points. Nevertheless,
+the slope eﬀects observed for the 2020–2022 period should be interpreted with caution for two
+reasons. First, the likelihood of confounding events increases with the length of the post-treatment
+period. Second, the regression is estimated on only three post-treatment time points.
+Taken together, the evidence supports three main conclusions. First, the synthetic control
+method yields reliable estimates across all outcome variables, as neither the intercepts nor the
+baseline trends diﬀer signiﬁcantly from those of the treated unit. Second, the debt brake appears
+to have fulﬁlled its primary objective: achieving a sustained and statistically signiﬁcant reduction
+in public debt during non-crisis periods. Third, the results suggest that, in the absence of the debt
+brake, the general government investment ratio may have been higher during the 2011–2019 period.
+Combined with the comparatively stronger decline in the general government debt ratio, this ﬁnding
+may reﬂect vertical dynamics between diﬀerent levels of government. While this is likely driven by the
+mechanisms discussed in Section 4.3, the role of vertical ﬁscal interactions merits closer investigation.
+30
+
+==== page 34 ====
+To explore this further, we conduct an additional analysis based on multivariate outcome weights.
+As we will demonstrate, the decline in general government debt is less pronounced than initially
+suggested by the baseline results, casting doubt on the hypothesis that subnational governments
+curtailed public investment in exchange for lower debt levels.
+4.5
+Multiple Outcome (A)SCM
+In empirical studies using SCM, it is standard practice to examine each variable of interest with a
+distinct set of weights, so that the synthetic control unit for the same treated entity is constructed
+from diﬀerent sets of control states.17 However, this approach carries the risk that the synthetic
+controls generated for each outcome may lack comparability. To address this issue, we compute a
+single set of weights applicable across multiple outcome variables. Of particular interest are the
+trajectories of the debt ratio (for both federal and general government) and the primary balance,
+alongside federal and general government investment levels. This approach closely follows the
+methodology of Sun et al. (2023). The goal is to ﬁnd a common set of concatenated weights wcat
+j
+that
+balances all standardized and de-meaned outcomes of interest.18 First, we standardize each outcome
+k = 1, 2, ..., K using the pre-treatment standard deviation. Then, for each standardized outcome k,
+we calculate the de-meaned outcome as ˙Yitk = Yitk −1
+T0
+PT0
+t=1 Yitk. This ensures that all outcomes
+have similar variance and are on a comparable scale. Following the concatenated method, we stack
+the standardized, de-meaned outcomes across all K outcomes and T0 preintervention periods for
+each unit j, so that
+X1 =
+
+
+˙Y0,1,1
+˙Y0,2,1
+...
+˙Y0,T0,K
+
+
+(10)
+and
+X0 =
+
+
+˙Y1,1,1
+˙Y2,1,1
+· · ·
+˙YJ,1,1
+˙Y1,2,1
+˙Y2,2,1
+· · ·
+˙YJ,2,1
+...
+...
+...
+...
+˙Y1,T0,K
+˙Y2,T0,K
+· · ·
+˙YJ,T0,K
+
+
+(11)
+The weights wcat
+j
+are then calculated in the same way as the ‘canonical’ weights wj in Section 3.
+Although leveraging multiple outcomes might mitigate the overall bias compared to the single
+outcome approach, as long as the outcomes share a common factor structure, the calculation of
+common weights according to this method comes at the expense of a reduced pre-treatment ﬁt. To
+mitigate this and to further reduce bias, we propose an augmentation of the common weights, similar
+17See, for example, Billmeier and Nannicini (2013), Bohn et al. (2014), Bouvet (2021), Cavallo et al. (2013).
+18Standardizing outcome variables is essential to ensure comparability across the outcome variables. By
+transforming variables into a common scale (by subtracting the mean and dividing by the standard deviation),
+we avoid that the V Matrix (see Eq.3) considers one outcome variable to be more important than the other due to a
+diﬀerent scale.
+31
+
+==== page 35 ====
+to the approach of Ben-Michael et al. (2021) for cases with a single outcome. This again requires
+calculating a regularization parameter, λ, via ridge regression as an outcome model. However,
+utilizing a common outcome model with a high number of covariates can potentially result in lower
+regularization levels, thereby risking overﬁtting to noise within the ASCM. Therefore, alongside a
+common outcome model for determining regularization, we also employ the speciﬁc regularization
+parameters calculated for individual outcome variables to augment the common ‘canonical’ weights
+(see also Figure 1). Based on the estimated bias, we will individually decide for each multiple
+outcome which model to use. Note that theoretically, one could concatenate an unlimited number
+of outcomes. To ensure an adequate pre-treatment ﬁt, we limit the number of outcomes to two.
+Speciﬁcally, we construct joint weights for the debt ratio of the federal and general government
+and the investment ratio for the federal and general government. This approach allows us to assess
+whether an increase (decrease) in these variables on the federal level is associated with a simultaneous
+increase (decrease) in the respective variable on the general government level, thereby addressing
+vertical eﬀects.
+Furthermore, the question remains whether Germany’s low debt level has led to lower risk premiums
+and, consequently, to reduced ﬁnancing costs. The preceding results suggest that the ﬁnancial crisis
+initially had a decisive impact on the level of 10-year yields on German federal bonds. Although
+an increase in the eﬀect can be observed following the introduction, the eﬀect cannot be clearly
+attributed to the debt brake.19 Nonetheless, there is well-documented evidence of the relationship
+between a declining debt ratio and decreasing reﬁnancing costs (Reinhart and Rogoﬀ, 2010; Kumar
+and Baldacci, 2010; Afonso et al., 2015). Therefore, we additionally calculate joint weights for the
+debt ratio and the 10-year bond yield.20
+Finally, we construct joint weights for the general governments’ primary balance and investment
+ratio. This approach allows us to assess whether an increasing (decreasing) primary balance is
+associated with a simultaneous increase (decrease) in the investment ratio. A positive primary
+balance suggests that a government can service its debt from its revenues excluding interest
+payments. On the other hand, the government investment ratio represents the proportion of
+public expenditure allocated to investments. Moreover, the CITS approach in Subsection 4.4
+suggests a potential relationship between the primary balance and the investment ratio at the
+general government level. Therefore, analyzing both the primary balance and the investment ratio
+together helps in understanding the trade-oﬀs and synergies between ﬁscal sustainability and growth
+objectives.
+4.5.1
+Debt Ratio: Federal and General Government
+Figure 9 illustrates the debt ratios of both the federal and general government using a common
+set of weights.21 Augmentation only minimally reduces bias; therefore, we consider the classical
+19See Section 5 for more details.
+20For the relationship between ﬁscal rules and sovereign bond yields see also Bergman et al. (2016), Feld et al.
+(2017) and Heinemann et al. (2018).
+21For the common weights assigned to each country in the control, see Figure 21 in Appendix I.
+32
+
+==== page 36 ====
+SCM estimation. Individual trajectories progress relatively smoothly and exhibit a suﬃciently good
+pre-treatment ﬁt. Compared to the single outcome estimation, the RMSPE has approximately
+doubled in both cases. The metrics for all estimations are displayed in Table 4. The ATT for
+the federal government’s debt ratio (-14.13) has only slightly changed relative to the single outcome
+case (-12.53). In contrast, the estimation of the general government’s debt ratio is notable. The
+ATT of -17.45 is 9.38 percentage points lower compared to the single outcome case (-26.83). When
+considering only the period from 2011 to 2019, that is, before the activation of the escape clause
+of the debt brake, the eﬀect becomes marginal: During this time frame, the ATT for the general
+government is only 1.25 percentage points lower than that of the federal government (-11.30 for the
+federal government and -12.55 for the general government).
+20
+30
+40
+50
+60
+70
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (Federal Gov.)
+40
+50
+60
+70
+80
+90
+100 110
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (General Gov.)
+−45
+−35
+−25
+−15
+−5
+5
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+−45
+−35
+−25
+−15
+−5
+5
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Germany
+SCM Weights
+ASCM Weights (Single Outcome Model)
+ASCM Weights (Common Outcome Model)
+Baseline Estimation
+A
+B
+C
+D
+Figure 9: Multiple Outcome Approach using SCM, ASCM (Single Outcome Model) and ASCM (Common Outcome Model).
+Panel A: Trajectories of Germany’s federal government debt ratio and its synthetic control. Panel B: Trajectories of Germany’s
+general government debt ratio and its synthetic control. Panel C: Gap plot of Germany’s federal government debt ratio. Panel
+D: Gap plot of Germany’s general government debt ratio.
+That the eﬀect is smaller relative to the baseline estimation also becomes evident in Panel B:
+the trajectory of the baseline estimation lies signiﬁcantly above that of the SCM estimation with
+common weights. However, upon visual inspection of the gap plots (Panel C and D in Figure 9),
+a substantially steeper negative trend in the general government debt ratio relative to the federal
+debt ratio can be observed. The similarity of the ATTs, particularly from 2011 to 2019, is largely
+33
+
+==== page 37 ====
+Metric
+Debt Ratio (Federal Gov.)
+Debt Ratio (General Gov.)
+ATT
+ATT SCM
+-14.13
+-17.45
+ATT ASCM Common Outcome Model
+-14.91
+-17.55
+ATT ASCM Separate Outcome Model
+-14.07
+-19.22
+RMSPE
+RMSPE SCM
+2.071
+1.958
+RMSPE ASCM Common Outcome Model
+1.685
+1.797
+RMSPE ASCM Separate Outcome Model
+1.987
+1.951
+Bias
+Bias SCM
+1.461
+1.368
+Bias ASCM Common Outcome Model
+1.231
+1.154
+Bias ASCM Separate Outcome Model
+1.188
+1.100
+Table 4: Debt Ratio (Federal Gov.) and Debt Ratio (General Gov.)
+driven by the initial years following the introduction of the debt brake, during which the treatment
+eﬀect for the general government remains close to zero, while it is already negative for the federal
+level. Over time, however, the eﬀect for the general government signiﬁcantly exceeds that for the
+federal level. While the single outcome case (see Subsection 4.2) suggested vertical eﬀects, meaning
+that a credible commitment of the federal government to a ﬁscal rule exerted incentive eﬀects on
+the lower federal levels, this conclusion can be sustained based on a common set of weights, albeit
+with a weaker overall eﬀect. This conclusion is supported by the CITS results, which also indicate
+a substantially stronger decline in the general government debt ratio relative to the federal debt
+ratio.
+4.5.2
+Investment Ratio: Federal and General Government
+In the next step, we examine a common set of weights for the investment ratios of the federal
+and general governments (Figure 10 and Table 5). As previously in the single outcome case,
+the pre-treatment ﬁt is less good than in the case of debt ratios, but otherwise comparable and
+suﬃciently good. The bias improves signiﬁcantly in the ASCM Common Outcome Model compared
+to the classical SCM estimation; therefore, we utilize this estimation. Notably, there is now a negative
+ATT at the federal government level of -0.108 (in the single outcome case: +0.048). The ATT at
+the general government level is comparable, with -0.244 versus -0.288 in the single outcome case.
+However, the synthetic control for the federal government shows a signiﬁcant increase starting in
+2020. The ATT from 2011 to 2019 is only -0.016. For the general government, the ATT in this
+period is even -0.364. Based on these results, we continue to consider a null eﬀect for the federal
+government as plausible, but cannot exclude a negative eﬀect on the lower federal levels.
+4.5.3
+Primary Balance and Investment Ratio of the General Government
+After addressing vertical eﬀects, we now examine the relationship between the primary balance
+and the investment ratio (see Figure 11 and Table 6). We consider only the eﬀect on the general
+government level, as data for the primary balance of the federal government are not available. The
+34
+
+==== page 38 ====
+.4
+.5
+.6
+.7
+.8
+.9
+1
+1.1 1.2
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (Federal Gov.)
+1
+1.5
+2
+2.5
+3
+3.5
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (General Gov.)
+−.4
+−.3
+−.2
+−.1
+0
+.1
+.2
+.3
+.4
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+−1 −.75 −.5 −.25
+0
+.25
+.5
+.75
+1
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Germany
+SCM Weights
+ASCM Weights (Single Outcome Model)
+ASCM Weights (Common Outcome Model)
+Baseline Estimation
+A
+B
+C
+D
+Figure 10: Multiple Outcome Approach using SCM, ASCM (Single Outcome Model) and ASCM (Common Outcome Model).
+Panel A: Trajectories of Germany’s federal government investment ratio and its synthetic control. Panel B: Trajectories of
+Germany’s general government investment ratio and its synthetic control. Panel C: Gap plot of Germany’s federal government
+investment ratio. Panel D: Gap plot of Germany’s general government investment ratio.
+Metric
+Investment Ratio (Federal
+Gov.)
+Investment Ratio (General
+Gov.)
+ATT
+ATT SCM
+-0.052
+-0.337
+ATT ASCM Common Outcome Model
+-0.108
+-0.244
+ATT ASCM Separate Outcome Model
+-0.035
+-0.359
+RMSPE
+RMSPE SCM
+0.091
+0.145
+RMSPE ASCM Common Outcome Model
+0.072
+0.062
+RMSPE ASCM Separate Outcome Model
+0.088
+0.098
+Bias
+Bias SCM
+0.053
+0.076
+Bias ASCM Common Outcome Model
+0.034
+0.027
+Bias ASCM Separate Outcome Model
+0.071
+0.080
+Table 5: Investment Ratio (Federal Gov.) and Investment Ratio (General Gov.)
+bias, when utilizing the ASCM Common Outcome Model, signiﬁcantly improves relative to the
+SCM Common Outcome Model; the ASCM Separate Outcome Model performs somewhat worse.
+Therefore, we focus on the results of the ASCM Common Outcome Model.
+35
+
+==== page 39 ====
+The ATT of the primary surplus under this model diﬀers only marginally at 1.427 from the single
+outcome ATT of 1.405. The eﬀect on the investment ratio is also comparable (-0.201 versus -0.288).
+The results suggest a negative inﬂuence of the primary surplus on the investment ratio and that
+the overall public investment might have been higher without implementation of the German ﬁscal
+rule. It appears to be a level eﬀect immediately following the introduction of the debt brake. Over
+time, the investment ratio then increases more rapidly than that of the synthetic control, which is
+also reﬂected in the convergence of the synthetic control’s primary surplus to that of Germany’s
+primary surplus.
+−10 −8
+−6
+−4
+−2
+0
+2
+4
+6
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Primary Balance
+1
+1.5
+2
+2.5
+3
+3.5
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (General Gov.)
+−5 −4 −3 −2 −1
+0
+1
+2
+3
+4
+5
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+−1 −.75 −.5 −.25
+0
+.25
+.5
+.75
+1
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Germany
+SCM Weights
+ASCM Weights (Single Outcome Model)
+ASCM Weights (Common Outcome Model)
+Baseline Estimation
+A
+B
+C
+D
+Figure 11: Multiple Outcome Approach using SCM, ASCM (Single Outcome Model) and ASCM (Common Outcome Model).
+Panel A: Trajectories of Germany’s general government primary balance and its synthetic control. Panel B: Trajectories of
+Germany’s general government investment ratio and its synthetic control. Panel C: Gap plot of Germany’s general government
+primary balance. Panel D: Gap plot of Germany’s general government investment ratio.
+4.5.4
+Federal Debt Ratio and 10-Year Bond Yield
+Finally, the joint analysis of the federal government debt ratio and the 10-year bond yield can help
+assess whether the debt brake’s reduction in the debt ratio led to lower yields on federal bonds (see
+Figure 12 and Table 7). To address this question, we employ the classical joint weights as the bias
+from augmentation remains minimal. The ATT for the federal government’s debt ratio is -14.87,
+36
+
+==== page 40 ====
+Metric
+Primary Balance (General
+Gov.)
+Investment Ratio (General
+Gov.)
+ATT
+ATT SCM
+2.198
+-0.592
+ATT ASCM Common Outcome Model
+1.427
+-0.201
+ATT ASCM Separate Outcome Model
+1.676
+-0.196
+RMSPE
+RMSPE SCM
+2.340
+0.461
+RMSPE ASCM Common Outcome Model
+1.382
+0.178
+RMSPE ASCM Separate Outcome Model
+1.630
+0.185
+Bias
+Bias SCM Common Outcome Model
+1.575
+0.212
+Bias ASCM Common Outcome Model
+0.847
+0.133
+Bias ASCM Separate Outcome Model
+1.014
+0.124
+Table 6: Primary Balance and Investment Ratio (General Gov.)
+consistent with previous estimates. However, for the 10-year bond yield, the diﬀerences from the
+single-outcome estimate are more pronounced. With an ATT of -0.747, the multi-outcome estimate
+is approximately 54% higher than the single-outcome estimate, despite a comparable pre-treatment
+ﬁt. Additionally, a divergence between Germany and its synthetic control is evident from 2009
+onward, but a more substantial gap emerges only after 2012, a year after the introduction of the
+debt brake. Notably, in Panel C, the gap in the debt ratio begins to open as early as 2008. As
+shown in Panel A, this is driven by a more rapidly increasing debt ratio of the synthetic control.
+However, a genuine divergence only occurs after the introduction of the debt brake. An important
+observation, as seen in Panel D, is the delayed development of long-term interest rates, which follow
+the trajectory of the debt ratio—this is particularly evident in the years 2009 and 2010. Moreover,
+the estimation with common weights lies signiﬁcantly below the baseline estimation.
+Overall, these results suggest that there is indeed a connection between the debt ratio and
+ﬁnancing costs, which is in line with previous theoretical considerations and empirical studies. In
+the aftermath of the ﬁnancial crisis and the subsequent Euro crisis, the ECB adopted conventional
+and unconventional policy measures to stabilize ﬁnancial markets and prevent the collapse of the
+Euro. These interventions signiﬁcantly shaped ﬁnancial dynamics, including demand and supply
+side eﬀects for government bonds. Two key drivers of demand for sovereign bonds are the safety
+and liquidity attributes, i.e. the ‘Convenience Yield’ (Krishnamurthy and Vissing-Jorgensen, 2012).
+There is little doubt that these factors have exerted a signiﬁcant inﬂuence on the level of (German)
+bond yields (also compared to other safe assets), particularly since the onset of the ﬁnancial crisis,
+when there has been an increased demand for risk-free assets with high liquidity (Grandia et al.,
+2019) and an increased demand by purchases of the central bank (Ferdinandusse et al., 2017).
+Ultimately, investors are willing to accept low (or even negative) bond yields in exchange for these
+attributes. A second driver of this development has been the scarcity of German government bonds
+compared to other sovereign safe assets, resulting from a reduction (or an expectation thereof) in
+market supply due to German ﬁscal policy and large-scale asset purchases by the ECB (Paret and
+Weber, 2019; Billio et al., 2025).
+37
+
+==== page 41 ====
+Literature suggests that the gap emerging after 2012 may be related to Mario Draghi’s July
+2012 statement that the ECB was prepared to do ‘whatever it takes’ to preserve the Euro. This
+declaration culminated in the launch of the Outright Monetary Transactions (OMT) program in
+September 2012. Although, as of November 2024, no sovereign bond purchases have been made
+under the OMT, it is believed that the mere announcement had a calming and yield-lowering eﬀect
+on ﬁnancial markets. However, there is little evidence to suggest that this announcement had a more
+pronounced impact on Germany than on other EMU countries (Altavilla et al., 2014; Rieth et al.,
+2016; Jäger and Grigoriadis, 2017).
+Moreover, the synthetic control is composed predominantly of non-EMU countries, with Norway
+contributing the largest share (33%) and Luxembourg being the most heavily weighted EMU
+member (15%) (see Figure 21 in Appendix I). This composition mitigates potential spillover eﬀects
+within the euro area, such as Germany’s role as a “safety anchor.” Empirical studies suggest limited
+transmission of the ECB’s unconventional monetary policy to non-EMU countries. Fratzscher et al.
+(2016) and Georgiadis and Gräb (2016) ﬁnd modest or negligible eﬀects on global bond yields,
+while Korus (2019) reports negative eﬀects on yields only in selected non-EMU countries (Denmark,
+Sweden, and Norway).
+Taken together, although our approach does not allow deﬁnitive causal attribution due to
+confounding events, the observed divergence in bond yields, the limited exposure of the control
+group to ECB interventions, and existing evidence on the role of ﬁscal fundamentals in determining
+yields support the plausibility of a debt brake eﬀect on long-term reﬁnancing costs.
+Metric
+Debt Ratio (Federal Gov.)
+10-year bond yield
+ATT
+ATT SCM
+-14.87
+-0.747
+ATT ASCM Common Outcome Model
+-14.45
+-0.731
+ATT ASCM Separate Outcome Model
+-14.27
+-0.736
+RMSPE
+RMSPE SCM
+2.391
+0.172
+RMSPE ASCM Common Outcome Model
+2.337
+0.163
+RMSPE ASCM Separate Outcome Model
+2.346
+0.157
+Bias
+Bias SCM
+1.282
+0.445
+Bias ASCM Common Outcome Model
+1.276
+0.445
+Bias ASCM Separate Outcome Model
+1.535
+0.114
+Table 7: Debt Ratio (Federal Gov.) and 10-year Bond Yield
+38
+
+==== page 42 ====
+20
+30
+40
+50
+60
+70
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (Federal Gov.)
+−1
+0
+1
+2
+3
+4
+5
+6
+7
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+10−Year Bond Yield
+−25
+−20
+−15
+−10
+−5
+0
+5
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+−1.2 −1
+−.8
+−.6
+−.4
+−.2
+0
+.2
+.4
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Germany
+SCM Weights
+ASCM Weights (Single Outcome Model)
+ASCM Weights (Common Outcome Model)
+Baseline Estimation
+A
+B
+C
+D
+Figure 12: Multiple Outcome Approach using SCM, ASCM (Single Outcome Model) and ASCM (Common Outcome Model).
+Panel A: Trajectories of Germany’s federal government debt ratio and its synthetic control. Panel B: Trajectories of Germany’s
+federal government 10-year bond yield and its synthetic control. Panel C: Gap plot of Germany’s federal government debt
+ratio. Panel D: Gap plot of Germany’s federal 10-year bond yield.
+5
+Robustness Checks
+In addition to the inference procedures already conducted and the CITS approach, we employ
+further robustness checks to assess the validity of the results.
+Compliance with ﬁscal rules. A prerequisite for applying the SCM is that the control states,
+which make up the synthetic control unit, have not been treated or at least not to the same extent
+as the treated unit. In fact, nearly every state in the OECD, from which the control states are
+selected, has implemented a ﬁscal rule. However, the more relevant question is not whether a state
+has introduced a ﬁscal rule, but whether it has been eﬀectively implemented.
+Using the European Union’s compliance tracker, we exclude states based on whether their ﬁscal
+policy was in line with the Maastricht criteria. Speciﬁcally, we exclude states (between 2011 and
+2022) with either a higher compliance rate than Germany or a compliance rate above 50%. This
+procedure does not substantially change the baseline results (see Appendix II. A relatively distinct
+eﬀect is observed, particularly for variables where a direct inﬂuence of higher compliance can be
+39
+
+==== page 43 ====
+expected. The ATT on the federal government’s debt ratio is most pronounced in the third scenario,
+while only a slight negative eﬀect is detected for the general government. With respect to the primary
+balance, the ATT increases as compliance decreases within the control group. In contrast, no clear
+eﬀect is observed for the 10-year bond yield. However, the direction of the eﬀect remains consistent.
+For investment ratios, almost no eﬀect is observed, with higher compliance to ﬁscal rules having
+only a minor inﬂuence.
+Overall, we consider our results to be robust and valid based on this analysis, even though ﬁscal
+rules are present within the control group. For more details, see Appendix II. Furthermore, Abadie
+et al. (2015) and Abadie (2021) propose two robustness checks to ensure the credibility of the results.
+We follow their recommendations and conduct (1) a backdating and (2) a Leave-One-Out (LOO)
+procedure.
+Backdated estimates. The in-time placebo study reassigns the treatment to earlier years (2008
+and 2009) to account for potential preemptive reactions and endogeneity concerns. This procedure
+helps distinguish genuine intervention eﬀects from those driven by prior expectations or confounding
+events. In the absence of such eﬀects prior to the intervention, the synthetic control method (SCM)
+should be able to reproduce the trajectory of the outcome variable. If the trajectory of the outcome
+variable changes signiﬁcantly, one should be careful to attribute observable eﬀects only to the
+intervention.
+The backdating analysis reveals no substantial diﬀerences in the trajectories of the synthetic
+control across the majority of variables relative to the ‘original’ synthetic control. For most of the
+variables, the results from the backdating procedure are reasonably close to the baseline estimates
+(see Subsection 4.2). More important, however, is the eﬀect of this crisis on long-term interest rates
+(i.e., the 10-year bond yield). Upon visual inspection of Figure 1 and Figure 4, a treatment eﬀect
+does not only become apparent in the year of the introduction of the debt brake, but already in
+2008.
+This eﬀect arises regardless of the chosen treatment time point. However, the estimates for 2008
+and 2009 result in synthetic control trajectories that lie below the original 2011 estimate. We believe
+this is due to the safety and liquidity premia of German government bonds following the ﬁnancial
+and Euro crisis. This assessment is strengthened by the following Leave-One-Out analysis. For more
+details, see Appendix III.
+Leave-One-Out estimates. To test the sensitivity of the ATT to changes in country weights,
+Abadie et al. (2015) suggests a leave-one-out (LOO) procedure, where countries with positive weights
+in the baseline model are iteratively excluded. The LOO approach serves as a robustness check to
+evaluate the sensitivity and reliability of the SCM estimates by systematically excluding each control
+unit from the donor pool, one at a time, to reconstruct the synthetic control without the excluded
+unit. This iterative process assesses how the omission of any single control unit inﬂuences the
+trajectory of the outcome variable. If excluding a unit signiﬁcantly alters the results without aﬀecting
+40
+
+==== page 44 ====
+the preintervention ﬁt, it suggests that the estimate’s change may stem from other interventions or
+substantial unique and exogenous shocks to the excluded units’ outcome.22
+The results show slight changes in the trajectories and ATT, with notable deviations for
+investment ratios, particularly due to Belgium’s signiﬁcant weight (see Figure 18). For the 10-year
+bond yield, a ﬁrst gap emerges in 2009, likely due to the ﬁnancial crisis (Afonso et al., 2015), and a
+second in 2012, potentially linked to the European sovereign debt crisis and the ECB’s ‘whatever it
+takes’ announcement. However, while markets may have required time to assess the impact of the
+debt brake (Leeper, 2010; Iara and Wolﬀ, 2014), we cannot clearly attribute the second gap to this
+policy measure. For more details, see Appendix IV.
+6
+Conclusion
+This study provides robust empirical evidence on the eﬀects of the German debt brake on ﬁscal
+consolidation, debt sustainability, and ﬁnancing costs. Our ﬁndings suggest that the debt brake
+played a central role in stabilizing German public ﬁnances throughout the 2010s. While favorable
+macroeconomic conditions also contributed to ﬁscal improvement, they were not the primary driver
+of debt reduction. Instead, the introduction of stringent ﬁscal rules signiﬁcantly curtailed government
+debt accumulation and improved overall ﬁscal discipline.
+Our baseline results conﬁrm these ﬁndings across multiple ﬁscal indicators. The debt ratio
+at both the general and federal government levels exhibited a signiﬁcant decline following the
+implementation of the debt brake. The SCM estimates indicate that without the debt brake,
+the federal government’s debt ratio would have continued its upward trajectory, while the actual
+ﬁgures demonstrated a sustained reduction. Similarly, the general government debt ratio showed
+a notable divergence from its counterfactual, reinforcing the eﬀectiveness of the ﬁscal rule in
+curbing debt accumulation. Importantly, the baseline results suggest pronounced vertical eﬀects
+in debt accumulation: while the federal government successfully reduced its debt levels, the general
+government debt ratio declined even more substantially, indicating a broader ﬁscal consolidation
+across multiple tiers of government. An analysis using multiple outcome weights supports this ﬁnding
+as well, although the eﬀect appears less pronounced.
+With regard to public investment, the results are mixed. At the federal level, the debt brake had
+no statistically signiﬁcant eﬀect on the investment ratio, suggesting that federal public investment
+was not constrained. At the general government level, by contrast, the investment ratio experienced
+a temporary decline, which may reﬂect adjustment by subnational governments in response to ﬁscal
+constraints. However, theoretical considerations, inconclusive inference results, and only moderately
+pronounced vertical eﬀects in debt accumulation suggest that this decline is unlikely to be causally
+linked to the debt brake. Nevertheless, these ﬁndings underscore the importance of accounting for
+22This procedure can be carried out with the classic SCM method without any problems because the majority of
+the control states are assigned a weight of zero. However, when using the ASCM, all states are assigned a weight,
+which makes the methodology impractical. Because the weightings between ASCM and SCM diﬀer only slightly, the
+weights of the classical SCM are also used in cases where we originally opted for the ASCM (see Figure 18).
+41
+
+==== page 45 ====
+intergovernmental dynamics when evaluating the long-term consequences of ﬁscal rules.
+The primary balance results further support the eﬀectiveness of the debt brake. Our
+estimates reveal a clear increase in the primary balance following the implementation of the rule,
+demonstrating its role in fostering ﬁscal discipline. This eﬀect persisted until the activation of the
+exemption clause in 2020, when expansionary ﬁscal policies led to a reversal of this trend.
+The debt brake also had implications for ﬁnancing costs. Our analysis shows that the 10-year
+government bond yields decreased more signiﬁcantly in Germany than in its synthetic counterpart,
+indicating that investors responded positively to the enhanced ﬁscal discipline. Although other
+macroeconomic factors may have contributed to this decline, the evidence suggests that the debt
+brake played a role in reducing sovereign borrowing costs.
+Despite these ﬁndings, our study has certain limitations. First, while we employed rigorous
+methods to estimate the causal eﬀects of the debt brake, endogeneity cannot be entirely ruled out.
+The observed ﬁscal discipline may partly stem from pre-existing government preferences rather
+than solely from the debt brake itself. Still, preferences do not translate into ﬁscal outcomes
+without institutional instruments. The ﬁscal-policy shift following the 2025 reform of the debt
+brake is consistent with this view: to create legal room for substantially higher borrowing, the ﬁscal
+framework ﬁrst had to be loosened. This suggests that the debt brake had previously operated
+as a binding institutional constraint, even if this ex-post development cannot by itself establish
+causality. Second, potential spillover eﬀects on other OECD countries remain an open question.
+Given Germany’s economic signiﬁcance, its adoption of strict ﬁscal rules may have indirectly
+inﬂuenced ﬁscal behavior in other nations, making it diﬃcult to isolate the treatment eﬀect. Lastly,
+many of the control states in our analysis also implemented ﬁscal rules, albeit with varying degrees
+of strictness.
+The ﬁndings suggest that well-designed and credibly enforced ﬁscal rules are eﬀective tools
+for promoting long-term ﬁscal sustainability. Despite some remaining concerns, empirical evidence
+largely supports the view that such rules reduce public debt, likely lower sovereign risk, and do
+not aﬀect public investment. Future research should further explore their eﬀects across diﬀerent
+institutional settings, especially given evolving economic challenges and shifting ﬁscal priorities.
+Particular attention should be paid to vertical eﬀects, such as variations depending on state structure
+or the ﬁscal autonomy of subnational entities.
+References
+Abadie, A., 2021.
+Using synthetic controls: Feasibility, data requirements, and methodological
+aspects. J. Econ. Lit. 59, 391–425. doi:10.1257/jel.20191450.
+Abadie, A., Diamond, A., Hainmueller, J., 2010. Synthetic control methods for comparative case
+studies: Estimating the eﬀect of california’s tobacco control program. J. Am. Stat. Assoc. 105,
+493–505. doi:10.1198/jasa.2009.ap08746.
+42
+
+==== page 46 ====
+Abadie, A., Diamond, A., Hainmueller, J., 2015. Comparative politics and the synthetic control
+method. Am. J. Polit. Sci. 59, 495–510. doi:10.1111/ajps.12116.
+Abadie, A., Gardeazabal, J., 2003.
+The economic costs of conﬂict: A case study of the basque
+country. Am. Econ. Rev. 93, 113–132. doi:10.1257/000282803321455188.
+Afonso, A., Arghyrou, M.G., Kontonikas, A., 2015. The determinants of sovereign bond yield spreads
+in the EMU. Working Paper Series 1781. European Central Bank (ECB). doi:10.2139/ssrn.
+2611958.
+Afonso, A., Jalles, J.T., 2013. Growth and productivity: The role of government debt. Int. Rev.
+Econ. Finance 25, 384–407. doi:10.1016/j.iref.2012.07.004.
+Afonso, A., Jalles, J.T., 2019. Fiscal rules and government ﬁnancing costs. Fisc. Stud. 40, 71–90.
+doi:10.1111/1475-5890.12182.
+Altavilla, C., Giannone, D., Lenza, M., 2014. The Financial and Macroeconomic Eﬀects of the
+OMT Announcements. ECB Working Paper 1707. European Central Bank (ECB). Frankfurt.
+doi:10.2139/ssrn.2464118.
+Ardanaz, M., Izquierdo, A., 2022. Current expenditure upswings in good times and public investment
+downswings in bad times? New evidence from developing countries. J. Compar. Econ. 50, 118–134.
+doi:10.1016/j.jce.2021.06.002.
+Athey, S., Imbens, G.W., 2017. The state of applied econometrics: Causality and policy evaluation.
+J. Econ. Perspect. 31, 3–32. doi:10.1257/jep.31.2.3.
+Baicker, K., Svoronos, T., 2019.
+Testing the Validity of the Single Interrupted Time Series
+Design. NBER Working Papers 26080. National Bureau of Economic Research. Cambridge, MA.
+doi:10.3386/w26080.
+Ben-Michael, E., Feller, A., Rothstein, J., 2021. The augmented synthetic control method. J. Am.
+Stat. Assoc. 116, 1789–1803. doi:10.1080/01621459.2021.1929245.
+Berg, A., Ostry, J.D., Tsangarides, C.G., Yakhshilikov, Y., 2018. Redistribution, inequality, and
+growth: New evidence. J. Econ. Growth 23, 259–305. doi:10.1007/s10887-017-9150-2.
+Bergman, U.M., Hutchison, M.M., Jensen, S.E.H., 2016. Promoting sustainable public ﬁnances in
+the European Union: The role of ﬁscal rules and government eﬃciency. Eur. J. Polit. Econ. 44,
+1–19. doi:10.1007/s10887-017-9150-2.
+Billio, M., Busetto, F., Dufour, A., Varotto, S., 2025.
+Bond supply expectations and the term
+structure of interest rates. J. Int. Money Finance 150, 103217. doi:10.1016/j.jimonfin.2024.
+103217.
+43
+
+==== page 47 ====
+Billmeier, A., Nannicini, T., 2013. Assessing economic liberalization episodes: A synthetic control
+approach. Rev. Econ. Stat. 95, 983–1001. doi:10.1162/rest_a_00324.
+Blesse, S., Dorn, F., Lay, M., 2023. Do ﬁscal rules undermine public investments? A review of
+empirical evidence.
+ifo Working Paper Series 393. Center for Economic Studies (CES) & Ifo
+Institute. Munich.
+Bohn, S., Lofstrom, M., Raphael, S., 2014.
+Did the 2007 legal Arizona workers act reduce
+the state’s unauthorized immigrant population?
+Rev. Econ. Stat. 96, 258–269.
+URL: http:
+//www.jstor.org/stable/43554929.
+Bouton, L., Lizzeri, A., Persico, N., 2020. The political economy of debt and entitlements. Rev.
+Econ. Stud. 87, 2568–2599.
+Bouvet, F., 2021. Regional integration and income inequality: A synthetic counterfactual analysis
+of the European Monetary Union. Oxford Rev. Econ. Policy 37, 172–200. doi:10.1093/oxrep/
+grab002.
+Burret, H.T., Feld, L.P., 2018a. (Un-)intended eﬀects of ﬁscal rules. Eur. J. Polit. Econ. 52, 166–191.
+doi:10.1016/j.ejpoleco.2017.11.003.
+Burret, H.T., Feld, L.P., 2018b. Vertical eﬀects of ﬁscal rules: The Swiss experience. Int. Tax Public
+Finance 25, 673–721. doi:10.1007/s10797-018-9495-0.
+Burret, H.T., Feld, L.P., Köhler, E.A., 2013. Sustainability of public debt in Germany: Historical
+considerations and time series evidence.
+Jahrbücher für Nationalökonomie und Statistik 233,
+291–335. doi:10.1515/jbnst-2013-0406.
+Bury, Y., Feld, L.P., 2025. Do Party Ties Increase Transfer Receipts in Cooperative Federalism? -
+Evidence from Germany. Eur. J. Polit. Econ. 86, 1–28. doi:10.1016/j.ejpoleco.2024.102630.
+Bury, Y., Feld, L.P., 2026.
+Do local elections aﬀect the spending of intergovernmental
+transfers? evidence from germany’s stimulus package of 2009.
+Public Choice doi:10.1007/
+s11127-025-01354-6. forthcoming.
+Cavallo, E., Galiani, S., Noy, I., Pantano, J., 2013. Catastrophic natural disasters and economic
+growth. Rev. Econ. Stat. 95, 1549–1561. doi:10.1162/REST_a_00353.
+Chernozhukov, V., Wütherich, K., Zhu, Y., 2021. An exact and robust conformal inference method
+for counterfactual and synthetic controls. J. Am. Stat. Assoc. 116, 1849–1864. doi:10.1080/
+01621459.2021.1920957.
+Christofzik, D.I., 2023. Zahlungen der Länder an Gemeinden in ﬁnanzstatistischr Abgrenzung -
+Eckpunkte eines Schätzmodells. Technical Report. German Ministry of Finance.
+44
+
+==== page 48 ====
+Dahan, M., Strawczynski, M., 2013. Fiscal rules and the composition of government expenditures
+in OECD countries. J. Policy Anal. Manag. 32, 484–504. doi:10.1002/pam.21743.
+Davig, T., Leeper, E.M., Walker, T.B., 2011. Inﬂation and the ﬁscal limit. Eur. Econ. Rev. 55,
+31–47. doi:10.1016/j.euroecorev.2010.11.005.
+Davoodi, H., Elger, P., Fotiou, A., Garcia-Macia, M.D., Han, X., Lagerborg, A., Lam, W.R.,
+2022a. Fiscal rules and ﬁscal councils: Recent trends and performance during the COVID-19
+pandemic.
+IMF Working Papers. International Monetary Fund (IMF). Washington, D.C.
+doi:10.5089/9798400200472.001.A001.
+Davoodi, H., Elger, P., Fotiou, A., Garcia-Macia, M.D., Lagerborg, A., Lam, W.R., Pillai, S., 2022b.
+Fiscal rules dataset: 1985-2021. Dataset. International Monetary Fund (IMF). Washington, D.C.
+De Biase, P., Dougherty, S., 2022. The past and future of subnational ﬁscal rules: An analysis of
+ﬁscal rules over time. OECD Working Papers on Fiscal Federalism 41. Organization for Economic
+Co-operation and Development (OECD). Paris. doi:10.1787/d2798c9e-en.
+Dermine, P., Larch, M., 2023. Solving the enforcement dilemma of the EU ﬁscal rules. EconPol
+Forum 4. Center for Economic Studies (CES) & Ifo Institute. Munich.
+Dovis, A., Kirpalani, R., 2020. Fiscal rules, bailouts, and reputation in federal governments. Am.
+Econ. Rev. 110, 860–88. doi:10.1257/aer.20181432.
+Egger, P., Koethenbuerger, M., 2010.
+Government spending and legislative organization:
+Quasi-experimental evidence from Germany.
+Am. Econ. J. Appl. Econ. 2, 200–212.
+doi:10.
+1257/app.2.4.200.
+Eliason, P., Lutz, B., 2018. Can ﬁscal rules constrain the size of government? an analysis of the
+“crown jewel” of tax and expenditure limitations. Journal of Public Economics 166, 115–144.
+Engen, E.M., Hubbard, R.G., 2004.
+Federal government debt and interest rates.
+NBER
+macroeconomics annual 19, 83–138.
+Eyraud, L., Gaspar, V., Poghosyan, T., 2017. Fiscal politics in the euro area. IMF Working Papers
+18. International Monetary Fund (IMF). Washington, D.C. doi:0.5089/9781475566521.001.
+Faini, R., 2006. Fiscal policy and interest rates in europe. Econ. Policy 21, 444–489. doi:10.1111/
+j.1468-0327.2006.00163.x.
+Fatáş, A., Mihov, I., 2006. The macroeconomic eﬀects of ﬁscal rules in the US states. J. Public
+Econ. 90, 101–117. doi:10.1016/j.jpubeco.2005.01.005.
+Federal Constitutional Court, 2023. Ruling of the second senate of November 15, 2023, 2 BvF
+1/22-Rn. 1-231. legal ruling. Karlsruhe.
+45
+
+==== page 49 ====
+Feld, L.P., Kalb, A., Moessinger, M.D., Osterloh, S., 2017. Sovereign bond market reactions to
+no-bailout clauses and ﬁscal rules – the Swiss experience. J. Int. Money Finance 70, 319–343.
+doi:10.1016/j.jimonfin.2016.09.002.
+Feld, L.P., Schmidt, C.M., Schnabel, I., Truger, A., Wieland, V., 2019. Den Strukturwandel meistern.
+Jahresgutachten 2019/20. Technical Report. German Council of Economic Experts.
+Ferdinandusse, M., Freier, M., Ristiniemi, A., 2017. Quantitative easing and the price-liquidity
+trade-oﬀ. Sveriges Riksbank Work. Pap. Ser. 335, 1–39.
+Fernández-Villaverde, J., Guerrón-Quintana, P., Kuester, K., Rubio-Ramírez, J., 2015.
+Fiscal
+volatility shocks and economic activity.
+Am. Econ. Rev. 105, 3352–3384.
+doi:10.1257/aer.
+20121236.
+Fisher, R.A., 1935.
+The design of experiments.
+Agronomy Journal doi:10.2134/agronj1935.
+00021962002700120010x.
+Fratzscher, M., Lo Duca, M., Straub, R., 2016. ECB unconventional monetary policy: Market impact
+and international spillovers. IMF Econ. Rev. 64, 36–74. doi:10.1057/s41308-016-0013-9.
+Fritz, B., Feld, L.P., 2020. Common pool eﬀects and local public debt in amalgamated municipalities.
+Public Choice 183, 69–99. doi:10.1007/s11127-019-00762-w.
+Fuest, C., Gründler, K., Potrafke, N., 2019.
+Für eine nachhaltige Finanzpolitik mit der
+Schuldenbremse. Wirtschaftsdienst 99, 307–313.
+Georgiadis, G., Gräb, J., 2016. Global ﬁnancial market impact of the announcement of the ECB’s
+asset purchase programme. J. Financ. Stab. 26, 257–265. doi:10.1016/j.jfs.2016.04.006.
+German
+Federal
+Statistical
+Oﬃce
+(Destatis),
+2025a.
+Investments – 4th Quarter 2024.
+URL: https://www.destatis.de/DE/Themen/Wirtschaft/
+Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/Publikationen/
+Downloads-Inlandsprodukt/investitionen-xlsx-5811108.html. national Accounts, Working
+Paper on Investments. Published 3 April 2025, updated 29 April 2025. Article number:
+5811108243245.
+German Federal Statistical Oﬃce (Destatis), 2025b. Statistical Report – Debt of the Overall Public
+Budget 2024.
+URL: https://www.destatis.de/DE/Themen/Staat/Oeffentliche-Finanzen/
+Schulden-Finanzvermoegen/Publikationen/Downloads-Schulden/
+statistischer-bericht-schulden-2140500247005.html?templateQueryString=71321-01.
+reporting period 2024. EVAS number: 71321. Published 29 July 2025.
+Gootjes, B., de Haan, J., Jong-A-Pin, R., 2021. Do ﬁscal rules constrain political budget cycles?
+Public Choice 188, 1–30. doi:10.1007/s11127-021-00847-w.
+46
+
+==== page 50 ====
+Grandia, R., Hänling, P., Russo, M.L., Aberg, P., 2019. Availability of high-quality liquid assets
+and monetary policy operations: An analysis for the euro area. Occas. Pap. Ser. 218. European
+Central Bank (ECB). doi:10.2866/68863.
+Gregori, W.D., 2014.
+Fiscal rules and public spending: Evidence from Italian municipalities.
+Quaderni-Working Paper DSE 923. University of Bologna. Bologna. doi:10.2139/ssrn.2391726.
+Grembi, V., Nannicini, T., Troiano, U., 2016. Do ﬁscal rules matter? Am. Econ. J.: Appl. Econ. ,
+1–30doi:10.1257/app.20150076.
+Gründler, K., Potrafke, N., 2020a.
+Fiscal rules: historical, modern, and sub-national growth
+eﬀects. CESifo Working Paper 8305. Center for Economic Studies (CES) & Ifo Institute. Munich.
+doi:10.2139/ssrn.3604845.
+Gründler, K., Potrafke, N., 2020b. Fiskalregeln und Wirtschaftswachstum: Wirtschaftspolitische
+Einschätzungen nach Erfolgen durch restriktive Fiskalregeln und expansiven Maßnahmen während
+der Coronakrise. ifo Forschungsberichte 110. Center for Economic Studies & Ifo Institute.
+Gründler, K., Scheuermeyer, P., 2018. Growth eﬀects of inequality and redistribution: What are
+the transmission channels? J. Macroecon. 55, 293–313. doi:10.1016/j.jmacro.2017.12.001.
+Heinemann, F., Moessinger, M.D., Yeter, M., 2018.
+Do ﬁscal rules constrain ﬁscal policy? a
+meta-regression-analysis. Eur. J. Polit. Econ. 51, 69–92. doi:10.1016/j.ejpoleco.2017.12.003.
+Herrero-Alcalde, A., Martín-Román, J., Tránchez-Martín, J.M., Moral-Arce, I., 2024. Fiscal rules
+to the test: The impact of the spanish expenditure rule. European Journal of Political Economy
+81, 102501.
+Iara, A., Wolﬀ, G.B., 2014. Rules and risk in the euro area. Eur. J. Polit. Econ. 34, 222–236.
+doi:10.1016/j.ejpoleco.2014.02.002.
+IMF, 2024a.
+Global debt database.
+URL: https://www.imf.org/external/datamapper/
+datasets/GDD. [Dataset].
+IMF, 2024b.
+Public ﬁnances in modern history.
+URL: https://www.imf.org/external/
+datamapper/datasets/FPP. [Dataset].
+Jäger, J., Grigoriadis, T., 2017. The eﬀectiveness of the ECB’s unconventional monetary policy:
+Comparative evidence from crisis and non-crisis euro-area countries. J. Int. Money Finance 78,
+21–43. doi:10.1016/j.jimonfin.2017.06.007.
+Jürgens, E., 2022. The eﬀects of ﬁscal rules on public investment over the cycle. FMM Working
+Paper 84. Forum for Macroeconomics and Macroeconomic Policies. Düsseldorf.
+Kirchgässner, G., 2017. The debt brake of the German states: A faulty design? Constit. Polit. Econ.
+28, 257–269.
+47
+
+==== page 51 ====
+Klose, J., Weigert, B., 2014. Sovereign yield spreads during the euro crisis: Fundamental factors
+versus redenomination risk. Int. Finance 17, 25–50. doi:10.1111/infi.12042.
+Korus, A., 2019. Spillover eﬀects from the ECB’s unconventional monetary policies: The case of
+Denmark, Norway and Sweden. Athens J. Bus. Econ. 5, 53–77. doi:10.30958/ajbe.5-1-3.
+Krishnamurthy, A., Vissing-Jorgensen, A., 2012. The aggregate demand for treasury debt. J. Polit.
+Econ. 120, 233–267. doi:10.1086/666526.
+Kumar, M.M.S., Baldacci, M.E., 2010.
+Fiscal deﬁcits, public debt, and sovereign bond yields.
+IMF Working Papers 184. International Monetary Fund (IMF). Washington, D.C. doi:10.5089/
+9781455202188.001.
+Kydland, F.E., Prescott, E.C., 1977. Rules rather than discretion: The inconsistency of optimal
+plans. J. Polit. Econ. 85, 473–491. doi:10.1086/260580.
+Larch, M., Malzubris, J., Santacroce, S., 2023. Numerical compliance with EU ﬁscal rules: Facts
+and ﬁgures from a new database. Intereconomics 58, 32–42. doi:10.2478/ie-2023-0008.
+Larch, M., Orseau, E., Van Der Wielen, W., 2021.
+Do EU ﬁscal rules support or hinder
+counter-cyclical ﬁscal policy?
+J. Int. Money Financ. 112, 102328.
+doi:10.1016/j.jimonfin.
+2020.102328.
+Laubach, T., 2009. New evidence on the interest rate eﬀects of budget deﬁcits and debt. J. Eur.
+Econ. Assoc. 7, 858–885. doi:10.1162/jeea.2009.7.4.858.
+Leeper, E.M., 2010. Monetary science, ﬁscal alchemy. NBER Working Paper Series 16510. National
+Bureau of Economic Research. doi:10.3386/w16510.
+Linden, A., 2018. Combining synthetic controls and interrupted time series analysis to improve
+causal inference in program evaluation. J. Eval. Clin. Pract. 24, 447–453. doi:10.1111/jep.12740.
+Linden, A., Adams, J.L., 2011. Applying a propensity score-based weighting model to interrupted
+time series data: Improving causal inference in programme evaluation. J. Eval. Clin. Pract. 17,
+1231–1238. doi:10.1111/j.1365-2753.2010.01504.x.
+Mbaye, S., Badia, M.M., Chae, K., 2018. Global debt database: Methodology and sources. IMF
+Working Papers 111. International Monetary Fund (IMF). Washington, D.C.
+doi:10.5089/
+9781484353592.001.
+Nguyen, T.C., Castro, V., Wood, J., 2022.
+A new comprehensive database of ﬁnancial crises:
+Identiﬁcation, frequency, and duration.
+Econ. Model. 108, 105770.
+doi:10.1016/j.econmod.
+2022.105770.
+OECD, 2024a. Investment (GFCF) (indicator). doi:10.1787/b6793677-en. [Dataset].
+48
+
+==== page 52 ====
+OECD, 2024b. Long-term interest rates (indicator). doi:10.1787/662d712c-en. [Dataset].
+Paret, A.C., Weber, A., 2019. German bond yields and debt supply: Is there a “bund premium”?
+IMF Working Papers 235. International Monetary Fund (IMF). Washington, D.C. doi:10.5089/
+9781513518329.001.
+Potrafke, N., 2023. The economic consequences of ﬁscal rules. CESifo Working Paper 10765. Center
+for Economic Studies (CES) & Ifo Institute. Munich. doi:10.2139/ssrn.4640890.
+Reinhart, C.M., Reinhart, V.R., Rogoﬀ, K.S., 2012.
+Public debt overhangs: advanced-economy
+episodes since 1800. J. Econ. Perspect. 26, 69–86. doi:10.1257/jep.26.3.69.
+Reinhart, C.M., Rogoﬀ, K.S., 2010.
+Growth in a time of debt.
+Am. Econ. Rev. 100, 573–578.
+doi:10.1257/aer.100.2.573.
+Reuter, W.H., 2019. When and why do countries break their national ﬁscal rules? Eur. J. Polit.
+Econ. 57, 125–141. doi:10.1016/j.ejpoleco.2018.08.010.
+Reuter, W.H., Tkačevs, O., Vilerts, K., 2022. Fiscal rules and volatility: The role of stabilising
+properties and compliance. Empirica 49, 21–52. doi:10.1007/s10663-021-09488-x.
+Rieth, M., Piﬀer, M., Hachula, M., 2016. EZB-Politik erfolgreich im Euroraum und in Deutschland.
+DIW Wochenbericht 8. Deutsches Institut für Wirtschaftsforschung (DIW). Berlin.
+Rietzler, K., 2022. Municipalities central to decade of future investments. Wirtschaftsdienst 102,
+27–30.
+Rodden, J., 2002. The dilemma of ﬁscal federalism: Grants and ﬁscal performance around the world.
+Am. J. Polit. Sci. , 670–687doi:10.2307/3088394.
+Salvi, M., Schaltegger, C.A., Schmid, L., 2020.
+Fiscal rules cause lower debt: Evidence from
+Switzerland’s federal debt containment rule. Kyklos 73, 605–642. doi:10.1111/kykl.12251.
+Schaechter, A., Kinda, T., Budina, N., Weber, A., 2012. Fiscal rules in response to the crisis: Toward
+the "next-generation" rules: A new dataset. IMF Working Papers 187. International Monetary
+Fund (IMF). Washington, D.C. doi:10.5089/9781475505351.001.
+Schaltegger, C.A., Feld, L.P., 2009. Do large cabinets favor large governments? Evidence on the
+ﬁscal commons problem for Swiss cantons. J. Public Econ. 93, 35–47. doi:10.1016/j.jpubeco.
+2008.06.003.
+Scientiﬁc Advisory Board of the Federal Ministry of Finance, 1980.
+Gutachten zum Begriﬀ
+der öﬀentlichen Investitionen-Abgrenzungen und Folgerungen im Hinblick auf Artikel 115
+Grundgesetz vom 26. April 1980 [Expert Opinion on the Concept of Public Investments:
+Delimitations and Implications with Regard to Article 115 of the German Basic Law]. Technical
+Report. Der Wissenschaftliche Beirat beim Bundesministerium der Finanzen.
+49
+
+==== page 53 ====
+Sun, L., Ben-Michael, E., Feller, A., 2023. Using multiple outcomes to improve the synthetic control
+method. doi:10.47004/wp.cem.2023.2423. [Preprint].
+Sutherland, D., Price, R., Joumard, I., 2005. Fiscal rules for sub-central governments: Design and
+impact. OECD Working Papers on Fiscal Federalism 1. Organization for Economic Co-operation
+and Development (OECD). Paris. doi:10.1787/606015633336.
+Thornton, J., Vasilakis, C., 2018.
+Fiscal rules and government borrowing costs: International
+evidence. Econ. Inq. 56, 446–459. doi:10.1111/ecin.12484.
+Venturini, F., 2020. The unintended composition eﬀect of the subnational government ﬁscal rules:
+The case of Italian municipalities. Eur. J. Polit. Econ. 63, 1–25. doi:10.1016/j.ejpoleco.2020.
+101874.
+Vinturis, C., 2023.
+How do ﬁscal rules shape governments’ spending behavior?
+Econ. Inq. 61,
+322–341. doi:10.1111/ecin.13120.
+Von Hagen, J., Bordignon, M., Grewal, B.S., Peterson, P., Seitz, H., Dahlberg, M., 2000. Subnational
+government bailouts in OECD countries: Four case studies.
+IADB Working Paper 3100.
+Inter-American Development Bank (IADB). Washington, D.C. doi:10.2139/ssrn.1814672.
+Wachtel, P., Young, J., 1987.
+Deﬁcit announcements and interest rates.
+Am. Econ. Rev. 77,
+1007–1012.
+50
+
+==== page 54 ====
+Appendix I
+1973 oil
+crisis
+1979
+oil crisis
+German
+reunification
+Financial
+crisis
+Introduction
+debt brake
+COVID−19
+0
+20
+40
+60
+80
+debt−to−GDP Ratio (in %)
+1950
+1955
+1960
+1965
+1970
+1975
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+2015
+2020
+Total
+Federation
+States
+Municipalities
+Figure 13: German debt ratio, 1950-2021.
+0
+10
+20
+30
+40
+ 
+OECD member countries
+1985
+1990
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+National rules only
+Supranational rules only
+National and supranational rules
+OECD member countries
+Figure 14: National and supranational ﬁscal rules in OECD member countries, 1985-2021.
+51
+
+==== page 55 ====
+Iceland
+Norway
+Latvia
+Hungary
+Canada
+Denmark
+Belgium
+Netherlands
+France
+New Zealand
+Slovenia
+Israel
+Australia
+Czechia
+Spain
+United States
+Austria
+Italy
+Luxembourg
+Japan
+Finland
+Poland
+United Kingdom
+Lithuania
+Sweden
+Korea
+−0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+SCM Weights
+ASCM Weights
+Debt Ratio (Central Gov.)
+Figure 15: Weights for the construction of the Synthethic Control for the Debt Ratio of the Central Government.
+Iceland
+Latvia
+Hungary
+Czechia
+Denmark
+Estonia
+Belgium
+Austria
+Australia
+Canada
+Netherlands
+Luxembourg
+Slovenia
+Poland
+Israel
+Slovak Republic
+Lithuania
+United States
+Norway
+France
+Spain
+Italy
+United Kingdom
+Sweden
+Korea
+Japan
+Finland
+−0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+SCM Weights
+ASCM Weights
+Debt Ratio (General Gov.)
+Figure 16: Weights for the construction of the Synthethic Control for the Debt Ratio of the General Government.
+52
+
+==== page 56 ====
+Norway
+Poland
+Estonia
+Slovenia
+Spain
+Slovak Republic
+Finland
+Denmark
+United Kingdom
+Lithuania
+Australia
+France
+Korea
+Sweden
+Austria
+Israel
+Netherlands
+Hungary
+Czechia
+Luxembourg
+Latvia
+Italy
+Belgium
+Canada
+−0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+SCM Weights
+ASCM Weights
+Investment Ratio (Central Gov.)
+Figure 17: Weights for the construction of the Synthethic Control for the Investment Ratio of the Central Government.
+Lithuania
+Italy
+Luxembourg
+Finland
+Australia
+Hungary
+Latvia
+Spain
+France
+Poland
+Czechia
+Netherlands
+Canada
+Slovenia
+Denmark
+Estonia
+Slovak Republic
+United Kingdom
+Sweden
+Austria
+Belgium
+−0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+SCM Weights
+ASCM Weights
+Investment Ratio (General Gov.)
+Figure 18: Weights for the construction of the Synthethic Control for the Investment Ratio of the General Government.
+53
+
+==== page 57 ====
+New Zealand
+Italy
+Canada
+Korea
+Austria
+Spain
+Australia
+Luxembourg
+Belgium
+Finland
+Sweden
+France
+Japan
+United States
+Norway
+United Kingdom
+Denmark
+Netherlands
+−0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+SCM Weights
+ASCM Weights
+10−Year Bond Yield
+Figure 19: Weights for the construction of the Synthethic Control for the German 10-Year Bond Yield.
+New Zealand
+Estonia
+Slovak Republic
+Spain
+Japan
+Australia
+Iceland
+Belgium
+United States
+Denmark
+Canada
+France
+Poland
+Israel
+Slovenia
+Korea
+Italy
+United Kingdom
+Netherlands
+Austria
+Norway
+Luxembourg
+Sweden
+Hungary
+Finland
+Czechia
+−0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+SCM Weights
+ASCM Weights
+Primary Balance
+Figure 20: Weights for the construction of the Synthethic Control for the Primary Balance.
+54
+
+==== page 58 ====
+ISL
+HUN
+LVA
+NLD
+GBR
+BEL
+DNK
+CZE
+ITA
+AUS
+POL
+ISR
+USA
+SWE
+SVN
+ESP
+FRA
+AUT
+FIN
+LTU
+KOR
+NOR
+JPN
+LUX
+CAN
+−0.2
+−0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+Concatenated Weights (Debt Ratio (Central and General Gov.))
+FIN
+SVN
+ESP
+EST
+LTU
+LUX
+ITA
+DNK
+LVA
+POL
+FRA
+CAN
+HUN
+CZE
+NLD
+SRB
+AUS
+GBR
+SWE
+AUT
+BEL
+−0.2
+−0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+Concatenated Weights (Investment Rate (Central and General Gov.))
+ESP
+CAN
+AUS
+EST
+POL
+ITA
+FRA
+LUX
+SRB
+DNK
+HUN
+SVN
+NLD
+FIN
+SWE
+CZE
+BEL
+GBR
+AUT
+−0.2
+−0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+Concatenated Weights (Primary Balance and Investment Rate (General Gov.)
+ITA
+ESP
+KOR
+BEL
+AUT
+FRA
+NLD
+DNK
+NZL
+USA
+AUS
+SWE
+FIN
+GBR
+CAN
+JPN
+LUX
+NOR
+−0.2
+−0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+Concatenated Weights (Debt Ratio and 10−Year Bond Yield (Central Gov.))
+SCM Weights
+ASCM Weights (Common)
+ASCM Weights (Separate)
+Figure 21: Concatenated Weights. SCM Weights are calculated as suggested by Abadie and Gardeazabal (2003), ASCM
+Weights as suggested by Ben-Michael et al. (2021).The combination of the diﬀerent outcome variables follows the proposal of
+Sun et al. (2023).
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+Debt Ratio (in %)
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+ 
+Federal Gov.
+State Gov.
+Municipalities
+General Gov.
+Figure 22: Trajectories of the debt ratio for the federal, state, and municipal levels of government. The vertical black line
+marks the introduction of the debt brake at the federal level. Data are from the German Federal Statistical Oﬃce (German
+Federal Statistical Oﬃce (Destatis), 2025b).
+55
+
+==== page 59 ====
+.4
+.6
+.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+2.2
+2.4
+2.6
+2.8
+3
+Investment Ratio (in %)
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+ 
+Federal Gov.
+State Gov.
+Municipalities
+General Gov.
+Figure 23: Trajectories of the investment ratio for the federal, state, and municipal levels of government. The vertical black
+line marks the introduction of the debt brake at the federal level. Data are from the German Federal Statistical Oﬃce (German
+Federal Statistical Oﬃce (Destatis), 2025a).
+Appendix II
+As mentioned above, a fundamental prerequisite for applying the SCM is that the countries
+comprising the synthetic control are not aﬀected by the treatment, or at least not to the same
+extent. However, almost every country within the OECD has introduced some form of ﬁscal rule
+(see Figure 14). Nevertheless, the crucial factor is not the mere existence of a ﬁscal rule but its
+quality and whether it is actually enforced in practice. In our case, we need to examine whether,
+since the introduction of the debt brake in 2011, the control countries were subject to a ﬁscal
+rule and, more importantly, whether it was adhered to. For this purpose, we utilize the European
+Union’s compliance tracker, which assesses the extent to which the Maastricht criteria (which are
+relatively weak compared to the German debt brake) were complied with (see also Larch et al.,
+2023). Consequently, the control group includes only EU member states and those that, on average,
+have shown lower compliance than Germany.23 We rely on this index rather than the Fiscal Rules
+Dataset of the IMF (see Davoodi et al., 2022b).because the latter evaluates de jure ﬁscal rules but
+does not take eﬀective enforcement into account. As a result, the de jure ﬁscal rule index can be
+misleading (Dermine and Larch, 2023). Descriptively, it can be observed that the de jure stringency
+of a ﬁscal rule does not necessarily lead to lower debt ratios (see Figure 24).
+23For a construction for all outcome variables using donor countries with less than 50% compliance from 2011-2022,
+see Figure 26 in this Appendix. The compliance tracker can be downloaded here: Compliance Tracker. See also Larch
+et al. (2023).
+56
+
+==== page 60 ====
+0
+.5
+1
+1.5
+2
+2.5
+30
+40
+50
+60
+70
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (Central Gov.)
+0
+.5
+1
+1.5
+2
+2.5
+50
+60
+70
+80
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (General Gov.)
+Mean OECD Debt
+German Debt
+Mean OECD Index
+German Index
+Figure 24: Trends in Germany’s debt ratios and OECD averages for the federal and general government, as well as Germany’s
+IMF Fiscal Rule Index and the OECD average IMF Rule Index according to Davoodi et al. (2022b). The averages are calculated
+based solely on the countries included in our control group for federal and general government debt ratios (27 and 25 countries,
+respectively) and therefore do not encompass all OECD member states.
+Region
+Debt Ratio (Federal Gov.)
+Debt Ratio (General Gov.)
+1995–2021
+2011–2021
+1995–2021
+2011–2021
+OECD
+0.8324
+0.3616
+0.7789
+0.3078
+Germany
+0.5859
+-0.4015
+0.6718
+-0.3725
+Table 8: Correlation of Germany’s debt ratios and the OECD average debt ratios for the federal and general government with
+Germany’s IMF Fiscal Rule Index and the OECD average IMF Rule Index (Davoodi et al., 2022b).The averages are calculated
+based solely on the countries included in our control group for federal and general government debt ratios (27 and 25 countries,
+respectively) and therefore do not encompass all OECD member states.
+In fact, a rise in ﬁscal strength (de jure) seems to correlate with rising debt ratios (both federal and
+general government). This observation holds for both the average of OECD countries in our control
+group and for Germany during the period from 1995 to 2021, with Germany exhibiting a slightly
+lower correlation. However, this ﬁnding changes in 2011. Although a positive correlation persists in
+OECD countries - that is, as the index increases, the debt ratio also rises - Germany demonstrates a
+negative correlation from that point onward (Table 8). Anecdotal evidence supports the hypothesis
+57
+
+==== page 61 ====
+that European ﬁscal rules are predominantly not credible.24 It is also in line with the work of Dovis
+and Kirpalani (2020), predicting a higher debt accumulation under stricter ﬁscal rules if not strictly
+enforced. As seen in Figure 25 (construction of the synthetic control using EZ countries with a
+weaker compliance than Germany) and Figure 26 (construction of the synthetic control using EZ
+countries with a weaker mean compliance from 2011-2022 than Germany), the procedure described
+above does not signiﬁcantly change the baseline results.25
+20
+30
+40
+50
+60
+70
+80
+90
+100
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (Central Gov.)
+40
+50
+60
+70
+80
+90
+100
+110
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (General Gov.)
+−1
+0
+1
+2
+3
+4
+5
+6
+7
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+10−Year Bond Yield
+.4
+.5
+.6
+.7
+.8
+.9
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (Central Gov.)
+1.5
+2
+2.5
+3
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (General Gov.)
+−6
+−5
+−4
+−3
+−2
+−1
+0
+1
+2
+3
+4
+5
+6
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Primary Balance
+Figure 25: Trajectory for each of the outcome Variables using Canonical SCM. The lighter red lines denote the trajectory of
+the synthetic control, constructed by only using EZ countries with a weaker mean compliance from 2011-2022 than Germany
+according to the European Union’s compliance tracker.
+24See, for example, The Telegraph or The Financial Times.
+25Figure 26 in this Appendix presents the analysis excluding all countries that exhibited more than 50% compliance
+with EU regulations during the period 2011 to 2022.
+58
+
+==== page 62 ====
+20
+30
+40
+50
+60
+70
+80
+90
+100
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (Central Gov.)
+40
+50
+60
+70
+80
+90
+100
+110
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (General Gov.)
+−1
+0
+1
+2
+3
+4
+5
+6
+7
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+10−Year Bond Yield
+.4
+.5
+.6
+.7
+.8
+.9
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (Central Gov.)
+1.5
+2
+2.5
+3
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (General Gov.)
+−9 −8 −7 −6 −5 −4 −3 −2 −1 0
+1
+2
+3
+4
+5
+6
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Primary Balance
+Figure 26: Trajectory for each of the outcome Variables using Canonical SCM. The lighter red lines denote the trajectory
+of the synthetic control, constructed by only using EZ countries that show a weaker mean compliance of 50% from 2011-2022
+according to the European Union’s compliance tracker.
+Table 9 presents the original SCM estimates, the estimates excluding countries with higher
+compliance than Germany, and the estimates excluding countries with more than 50% compliance
+during the observation period from 2011 to 2022. A relatively clear eﬀect is observed, particularly
+for variables where a direct inﬂuence of higher compliance is conceivable. The ATT for the federal
+government’s debt ratio is especially evident in the third scenario, whereas only a slight negative
+eﬀect is observable for the general government. Regarding the primary balance, the ATT increases
+with decreasing compliance within the control group. In contrast, no clear eﬀect is observable for the
+10-year bond yield; however, the direction of the eﬀect remains consistent. For investment ratios,
+virtually no eﬀect is observed; higher compliance with ﬁscal rules exerts only a minor inﬂuence.
+Thus, we consider our results to be valid based on this analysis, even though ﬁscal rules exist within
+the control group.
+59
+
+==== page 63 ====
+Excluded Countries
+Debt Ratio
+(Federal
+Gov.)
+Debt Ratio
+(General
+Gov.)
+Investment
+Ratio
+(Federal
+Gov.)
+Investment
+Ratio
+(General
+Gov.)
+10-Year
+Bond Yield
+Primary
+Balance
+Original SCM Estimates
+-12.53
+-26.79
+0.048
+-0.306
+-0.463
+1.405
+Compliance > Germany
+-13.24
+-24.80
+-0.035
+-0.302
+-0.271
+2.318
+Compliance > 0.5
+-30.36
+-28.33
+0.008
+-0.330
+-0.515
+2.579
+Table 9: ATTs of the original SCM estimates, of the estimates excluding countries with higher compliance than Germany, and
+of the estimates excluding countries with more than 50% compliance during the observation period from 2011 to 2022.
+Appendix III
+The second robustness check suggested by Abadie et al. (2015) is the ‘in-time placebo’ study, where
+the treatment is reassigned to a diﬀerent point in time other than 2011. If there was a large diﬀerence
+to the original estimate, this would indicate a lack of predictive power rather than an actual eﬀect
+due to the intervention. Instead of picking a random year in the preintervention period, we chose to
+investigate two speciﬁc dates. First, if political actors anticipated the introduction of the debt brake
+a priori, the estimates may be biased. The debt brake was already decided at the beginning of 2009;
+political actors probably knew by the end of 2008 that such a ﬁscal rule would be implemented. For
+the federal states, possible anticipatory eﬀects are even more pronounced, since at the state level
+the prohibition of a structural deﬁcit has only been in full eﬀect since 2020. To capture the full
+extent of the debt brake, the intervention is backdated to a point before anticipatory eﬀects can be
+expected. The temporal variation of the outcome variable is not distorted by this approach, even if
+the backdating occurs too early.
+Thus, to address anticipatory eﬀects, we run the baseline estimate with the intervention in 2011
+also for the year 2009. Additionally, in 2009, there was a change in the federal government, with the
+conservative and liberal parties forming the governing coalition, which, in contrast to the previous
+coalition of the conservative and social democratic parties, was fully supportive of a stricter ﬁscal
+rule. We thereby also address endogeneity issues. The second backdating point is the global ﬁnancial
+crisis, beginning in 2007/2008, reaching its full extent in 2008. This crisis has led to huge surges of
+government debt and spending alike.
+The backdating analysis reveals no substantial diﬀerences in the trajectories of the synthetic
+control across the majority of variables relative to the ‘original’ synthetic control. For most of the
+variables, the backdating procedure produces results reasonably close to the baseline estimates (see
+Subsection 4.2).
+More importantly, however, is the eﬀect of this crisis on long-term interest rates (i.e., the 10-year
+bond yield). Upon visual inspection of Figure 1 and Figure 4, a treatment eﬀect becomes apparent
+not only in the year of the introduction of the debt brake, but already in 2008. This eﬀect arises
+regardless of the chosen treatment time point. However, the estimates for 2008 and 2009 result in
+synthetic control trajectories that lie below the original 2011 estimate. We believe this is due to the
+safety and liquidity premia of German government bonds following the ﬁnancial and Euro crisis.
+This assessment is strengthened by the following Leave-One-Out analysis.
+60
+
+==== page 64 ====
+20
+30
+40
+50
+60
+70
+80
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (Central Gov.)
+40
+50
+60
+70
+80
+90
+100
+110
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (General Gov.)
+−1
+0
+1
+2
+3
+4
+5
+6
+7
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+10−Year Bond Yield
+.4
+.5
+.6
+.7
+.8
+.9
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (Central Gov.)
+1.5
+2
+2.5
+3
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (General Gov.)
+−6
+−5
+−4
+−3
+−2
+−1
+0
+1
+2
+3
+4
+5
+6
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Primary Balance
+Figure 27: Trajectory for each of the outcome Variables using Canonical SCM. The lighter red lines denote the trajectory of
+the backdated estimates for the years from 2008, 2009 and 2010. The observed outcome variables for Germany are displayed in
+black.
+Appendix IV
+To control for donor states having an excessive impact on the overall eﬀect, Abadie et al. (2015)
+suggests a leave-one-out procedure to test the sensitivity of the ATT to changes in the country
+weights w. The baseline model is iteratively reestimated to construct a synthetic control, where in
+each iteration a country of the control group that received a positive weight in the baseline model is
+excluded. Although excluding countries that have received a positive weight reduces the precision of
+the methodology because the pre-treatment ﬁt necessarily worsens, it allows us to assess the extent
+to which the results for Germany are inﬂuenced by a speciﬁc country from the original control
+group. We do this for each variable of interest, as depicted in Figure 28.
+The trajectories of the estimates change slightly, as does the ATT. For the investment ratios,
+particularly at the general government level, we report more pronounced changes. This can be
+attributed to the signiﬁcant weight of Belgium in the original synthetic control (see Figure 18).
+When Belgium is excluded from the control, the ATT increases substantially. However, we consider
+these results to be unreliable due to poor pre-treatment ﬁt. Nevertheless, caution should be exercised
+61
+
+==== page 65 ====
+in the interpretation due to the signiﬁcant weight attributed to Belgium (which is true for both
+SCM and ASCM). For the investment ratio of the federal government, some deviations can also be
+observed; however, overall the observations tend to ﬂuctuate around the original value and exhibit
+a similar trend.
+For the 10-year bond yield, the overall trajectory of the synthetic controls remains comparable.
+In all cases, a ﬁrst gap emerges in 2009. Then in 2012, a second gap emerges. After 2013,
+the gap increases further, but at a much lower rate. With regard to the second gap and its
+subsequent development, two exceptions emerge. First, when Japan is excluded, the pre-treatment
+ﬁt deteriorates signiﬁcantly. Furthermore, the gap in 2012 does not widen; instead, it becomes
+smaller. In this scenario, the synthetic control consists of 98% of the Netherlands. In the second
+case, when the Netherlands are excluded, the synthetic control is composed of 85% of countries
+outside the EMU. In this case, a further widening of the gap beyond 2012 can be observed.
+The ﬁrst gap suggests that the ﬁnancial crisis led to lower reﬁnancing costs for Germany, even
+compared to the Netherlands (Afonso et al., 2015). The second gap may be related to the European
+sovereign debt crisis. As it reached its peak, it eventually led the President of the European Central
+Bank (ECB) to announce in July 2012 that the ECB would do ‘whatever it takes’ to save the Euro.
+However, studies examining the impact of this announcement show little to no eﬀect on the level
+of Germany’s bond yields. Although the OMT announcement did not have a signiﬁcant eﬀect on
+German bond yields, the premium on these bonds spiked during the European debt crisis 2012/2013
+and, despite falling afterwards, remained elevated (Paret and Weber, 2019). The exclusion of Japan
+from the analysis and the subsequent ﬂattening of the gap after 2012 aligns with the observation
+that the Netherlands, like Germany and in contrast to other countries of the EMU, maintained
+a safe haven status (Klose and Weigert, 2014). However, if the debt brake had signiﬁcant eﬀects,
+these should have been observable as early as 2011. Yet, it is plausible that the introduction of
+the debt brake in 2011 had delayed eﬀects on interest rates. Markets may have required time to
+fully assess the implications of the measure, particularly to assess whether the value of government
+bonds is consistent with future expectations (Leeper, 2010). Similarly, Iara and Wolﬀ(2014) note
+that ‘immediate simultaneity between ﬁscal rules and sovereign spreads can be ruled out because
+of the usual adoption lags of political reform.’ However, we cannot clearly attribute the second gap
+and its subsequent development to the German debt brake.
+62
+
+==== page 66 ====
+20
+30
+40
+50
+60
+70
+80
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (Central Gov.)
+40
+50
+60
+70
+80
+90
+100
+110
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Debt Ratio (General Gov.)
+−1
+0
+1
+2
+3
+4
+5
+6
+7
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+10−Year Bond Yield
+.4
+.5
+.6
+.7
+.8
+.9
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (Central Gov.)
+1.5
+2
+2.5
+3
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Investment Ratio (General Gov.)
+−6
+−5
+−4
+−3
+−2
+−1
+0
+1
+2
+3
+4
+5
+6
+ 
+1995
+2000
+2005
+2010
+2015
+2020
+ 
+Primary Balance
+Figure 28: Trajectory for each of the outcome Variables using Canonical SCM. The colored lines denote the trajectory of the
+leave-one-out estimates. The observed outcome variables for Germany are displayed in black.
+63
+
+==== page 67 ====
+Freiburger Diskussionspapiere zur Ordnungsökonomik 
+Freiburg Discussion Papers on Constitutional Economics 
+ 
+2026 
+26/2 
+Langer, Maximilian / Hassib, Joshua / Feld, Lars P. / Nientiedt, Daniel: Evaluating the 
+effects of the German debt brake: A synthetic control approach 
+26/1 
+Viktor J. Vanberg: Political Economy with a Normative Purpose: James M. Buchanan’s 
+Contractarian-Constitutionalist Research Program 
+ 
+2025 
+25/10 
+Yannick Bury / Lars P. Feld: Do Local Elections Affect the Spending of Intergovernmental 
+Transfers? Evidence from Germany’s Stimulus Package of 2009 
+25/9 
+Katharina Pfeil / Matthias Kasper / Sarah Necker / Lars P. Feld: Asymmetric Labor Supply 
+Responses to Tax Rate Reform: Experimental Evidence 
+25/8 
+Heine, Klaus / Mause, Karsten / Schnellenbach, Jan: In memoriam Ulrich Fehl, Hans-Günter 
+Krüsselberg & Jochen Röpke: Das Wirken dreier Vertreter der Marburger Ordnungsökonomik 
+25/7 
+Esslinger, Anna / Pfeil, Katharina / Feld, Lars P.: Asymmetric Labor Supply Responses to 
+Taxation 
+25/6 
+Weber, Philipp / Zell, Laura A. / Feld, Lars P. / Schaltegger, Christoph A.: Functionality of 
+Fiscal Rules in a Low Interest Rate Environment – New Empirical Results for Swiss Cantons 
+25/5 
+Weber, Philipp: Quantifying Written Law. A New Fiscal Rule Index for Swiss Cantons 
+25/4 
+Dathe, Uwe / Nientiedt, Daniel.: Edith Eucken-Erdsiek – Nachlassverzeichnis und Bibliographie 
+25/3 
+Vanberg, Viktor J.: Two Kinds of Political Economy: Utility-Individualism vs. Choice-
+Individualism 
+25/2 
+Weber. Philipp / Feld, Lars P.: Government Debt and Inflation. A Cross-Country Investigation 
+of the Fiscal Theory of the Price Level 
+25/1 
+Columbus, Simon / Feld, Lars P. / Kasper, Matthias / Rablen, Matthew: Institutional Rules 
+and Biased Rule Enforcement∗ 
+ 
+2024 
+24/4 
+Vanberg, Viktor J.: Spontaneous Order, Evolution and Common Law: Some Notes on F.  
+Hayek’s System of Social Thought 
+24/3 
+Burgstaller, Lilith / Pfeil, Katharina: Why Whistleblowing Does Not Deter Collaborative Tax 
+Evasion∗ 
+24/2 
+Feld, Lars P. / Hassib, Joshua: Die Rolle der EU-Kohäsionspolitik für die Klimapolitik 
+24/1 
+Schmal, W. Benedikt: Polycentric Governance in Collusive Agreements 
+ 
+2023 
+23/5 
+Feld, Lars P. / Nientiedt, Daniel: Examining the Ordoliberal Tradition in Classical Liberal 
+Thought 
+23/4 
+Bury, Yannick / Feld, Lars P. / Köhler Ekkehard A.: On the Fiscal Sustainability of Swiss 
+Cantons since 1905 
+23/3 
+Horn, Karen: The long shadow of Versailles. An unusual controversy on John Maynard Keynes 
+between the German ordoliberals Walter Eucken and Wilhelm Röpke 
+23/2 
+Feld, Lars P. / Köhler, Ekkehars A.: Standing on the Shoulders of Giants or Science? – Lessons 
+from Ordoliberalism 
+ 
+ 
+23/1 
+Feld, Lars P. / Necker, Sarah / Pfeil, Katharina: Compliance Management in 
+Research Institutes – Boon or Bane? 
+
+==== page 68 ====
+ 
+2022 
+22/9 
+Bury, Yannick / Feld, Lars P. / Köhler Ekkehard A.: Do Party Ties Increase Transfer Receipts 
+in Cooperative Federalism? – Evidence from Germany 
+22/8 
+Vanberg, Viktor: Competitive Federalism, Individual Autonomy, and Citizen Sovereignty 
+22/7 
+Burgstaller, Lilith / Feld, Lars P. / Pfeil, Katharina: Working in the Shadow: Survey Techniques 
+for Measuring and Explaining Undeclared Work 
+22/6 
+Burgstaller, Lilith / Pfeil, Katharina: You Don’t Need an Invoice, Do You? An Online 
+Experiment on Collaborative Tax Evasion 
+22/5 
+Bury, Yannick / Feld, Lars P.: Zum Zusammenhang zwischen kommunaler Finanzverfassung 
+und kommunaler Finanzlage 
+22/4 
+Feld, Lars P. / Köhler, Ekkehard A. / Palhuca, Leonardo / Schaltegger, Christoph A.: Fiscal 
+Federalism and Foreign Direct Investment – An Empirical Analysis 
+22/3 
+Kolev, Stefan / Horn, Karen: Walter Eucken on Competitive Order at the Founding Meeting of 
+the Mont Pèlerin Society 1947 
+22/2 
+Feld, Lars P. / Necker, Sarah / Pfeil, Katharina: Compliance in außeruniversitären 
+Forschungseinrichtungen 
+22/1 
+Feld, Lars P. / Nientiedt, Daniel: Hayekian Economic Policy 
+ 
+2021 
+21/10 
+Feld, Lars P. / Reuter, Wolf Heinrich: The German ‘Debt Brake’: Success Factors and 
+Challenges1 
+21/9 
+Feld, Lars P.: Freiheitliche Wirtschaftspolitik ist Ordnungspolitik. 15. Berliner Rede zur Freiheit 
+21/8 
+Feld, Lars P. / Nöh, Lukas / Reuter, Wolf Heinrich / Yeter, Mustafa: Von der Corona-
+bedingten Schuldenaufnahme zur Wiedereinhaltung der Schuldenbremse 
+21/7 
+Schnellenbach, Jan: The Concept of Ordnungspolitik: Rule-Based Economic Policy-Making from 
+the Perspective of the Freiburg School 
+21/6 
+Schnellenbach, Jan: Herausforderungen für die Finanzpolitik in Deutschland nach der Covid-
+Krise: Schuldenbremse und Vermögensbesteuerung 
+21/5 
+Feld, Lars P. / Köhler, Ekkehard A. / Nientiedt, Daniel: Ordoliberalism and the Social Market 
+Economy 
+21/4 
+Bury Yannick / Feld, Lars P. / Burret, Heiko T.: Skimming the Achieved? – Quantifying the 
+Fiscal Incentives of the German Fiscal Equalization Scheme and its Reforms since 1970 
+21/3 
+Le Maux, Benoît / Masclet, David / Necker, Sarah:  Monetary Incentives and the Contagion of 
+Unethical Behavior 
+21/2 
+Kolev, Stefan: When Liberty Presupposes Order: F. A. Hayek’s Learning Ordoliberalism 
+21/1 
+Burret, Heiko T. / Feld, Lars P. / Schaltegger, Christoph A.: Fiscal Federalism and Economic 
+Performance – New Evidence from Switzerland 
+ 
+2020 
+20/10 
+Christofzik, Désirée / Feld, Lars P. / Yeter, Mustafa: Heterogeneous Price and Quantity Effects 
+of the Real Estate Transfer Tax in Germany 
+20/9 
+Hirsch, Patrick / Köhler, Ekkehard A. / Feld, Lars P. / Thomas, Tobias: “Whatever It 
+Takes!” How Tonality of TV-News Affects Government Bond Yield Spreads During Crises 
+20/8 
+Feld, Lars P.: Die wirtschaftlichen Rahmenbedingungen nach dem Corona-Schock 
+20/7 
+Feld, Lars P.: Wohlstand für alle – Was das Versprechen heute bedeutet. Ein Vorwort 
+ 
+20/6 
+Feld, Lars P.: Wirtschaftskrisen der Zukunft 
+20/5 
+Feld, Lars P. / Wieland, Volker: The German Federal Constitutional Court Ruling and the 
+European Central Bank‘s Strategy 
+20/4 
+Bury, Yannick / Feld, Lars P.: Fiscal Federalism in Germany 
+
+==== page 69 ====
+20/3 
+Vanberg, Viktor J.: Walter Euckens Weg zum Ordoliberalismus 
+20/2 
+Feld, Lars P.: Verfahren zum Anleihekaufprogramm der EZB(2 BvR 859/15, 2 BvR 1651/15, 2 
+BvR 2006/15, 2 BvR 980/16). Stellungnahme zum Fragenkatalog für sachverständige Dritte 
+20/1 
+Feld, Lars P. / Reuter, Wolf Heinrich / Yeter, Mustafa : Öffentliche Investitionen: Die 
+Schuldenbremse ist nicht das Problem 
+ 
+2019 
+19/6 
+Kolev, Stefan: Antipathy for Heidelberg, Sympathy for Freiburg? Vincent Ostrom on Max Weber, 
+Walter Eucken, and the Compound History of Order 
+19/5 
+Feld, Lars P. / Frey, Christian / Schaltegger, Christoph A. / Schmid, Lukas A.: Fiscal 
+Federalism and Income Inequality: An Empirical Analysis for Switzerland 
+19/4 
+Goldschmidt, Nils / Wolf, Stephan: Klimaschutz auf Kosten der Armen? Vorschläge für eine 
+markt- und sozialverträgliche Umsetzung von CO2-Steuern und des Emissionshandels 
+19/3 
+Horn, Karen I.: The Difficult Relationship Between Historical Ordoliberalism and Adam Smith 
+19/2 
+Christofzik, Désiree / Feld, Lars P. / Yeter, Mustafa: Öffentliche Investitionen: Wie viel ist zu 
+wenig? 
+19/1 
+Feld, Lars P. / Hirsch, Patrick: Zur Grundsteuerreform 
+ 
+2018 
+18/13 
+Doerr, Anabelle / Necker, Sarah: Toward an Understanding of Collaborative Tax Evasion: A 
+Natural Field Experiment With Businesses 
+18/12 
+Bury, Yannick / Feld, Lars P.: Die Heterogenität der kommunalen Haushalts- und 
+Aufsichtsregeln als Herausforderung im vertikalisierten Fiskalföderalismus 
+18/11 
+Feld, Lars P. / Köhler, Ekkehard A. / Nientiedt, Daniel: The German Anti-Keynes? On Walter 
+Eucken’s Macroeconomics 
+18/10 
+Dathe, Uwe / Hedtke, Ulrich: Habent sua fata professores. Joseph A. Schumpeter an Walter 
+Eucken 
+18/09 
+Feld, Lars P.: The Quest for Fiscal Rules  
+18/08 
+Pfeil, Christian F. / Feld, Lars P.: Does the Swiss Debt Brake Induce Sound Federal Finances? A 
+Synthetic Control Analysis 
+18/07 
+Feld, Lars P.: Zur Politischen Ökonomik der wirtschaftspolitischen Beratung: Der Sachverstän-
+digenrat als ordnungspolitisches Gewissen? 
+18/06 
+Koessler, Ann-Kathrin / Torgler, Benno / Feld, Lars P. / Frey, Bruno S: Commitment to Pay 
+Taxes: Results from Field and Laboratory Experiments 
+18/05 
+Feld, Lars P. / Köhler, Ekkehard A. / Wolfinger, Julia: Modeling Fiscal Sustainability in 
+Dynamic Macro-Panels with Heterogeneous Effects: Evidence From German Federal States 
+18/04 
+Burret, Heiko T. / Bury, Yannick / Feld, Lars P.: Grenzabschöpfungsraten im deutschen 
+Finanzausgleich 
+18/03 
+Vanberg, Viktor J.: Individual Choice and Social Welfare. Theoretical Foundations of Political 
+Economy 
+18/02 
+Feld, Lars P. / Schaltegger, Christoph A. / Studerus, Janine: Regional Risk Sharing and 
+Redistribution – the Role of Fscal Mechanisms in Switzerland 
+           18/01 
+Andritzki, Jochen / Christofzik, Désiree I. / Feld, Lars P. / Scheuering, Uwe: A Mechanism 
+to Regulate Sovereign Debt Restructuring in the Euro Area 
+ 
+2017 
+17/03 
+Feld, Lars P. / Köhler, Ekkehard A. / Nientiedt, Daniel: The “Dark Ages” of German 
+Macroeconomics and Other Alleged Shortfalls in German Economic Thought 
+17/02 
+Doerr, Annabelle: Back to work: The Long-term Eﬀects of Vocational Training for Female Job 
+ 
+Returners∗ 
+
+==== page 70 ====
+17/01 
+Baskaran, Thushyanthan / Feld, Lars P. / Necker, Sarah: Depressing dependence? Transfers 
+ 
+and economic growth in the German States, 1975-2005 
+ 
+2016 
+16/08 
+Fitzenberger, Bernd / Furdas, Marina / Sajons, Christoph: End-of-Year Spending and the 
+Long-Run Employment Eﬀects of Training Programs for the Unemployed  
+16/07 
+Sajons, Christoph: Birthright Citizenship and Parental Labor Market Integration 
+16/06 
+Pfeil, Christian F.: Electoral System Change and Spending: Four Quantitative Case Studie 
+16/05 
+Sajons, Christoph: Information on the ballot, voter satisfaction and election turnout 
+16/04 
+Vanberg, Viktor J.: Social Contract vs. Invisible Hand: Agreeing to Solve Social Dilemmas  
+16/03 
+Feld, Lars P. / Ruf, Martin / Schreiber, Ulrich / Todtenhaupt, Maximilian / Voget, 
+Johannes: Taxing Away M&A: The Effect of Corporate Capital Gains Taxes on Acquisition 
+Activity 
+16/02 
+Baskaran, Thushyanthan / Feld, Lars P. / Schnellenbach, Jan: Fiscal Federalism, 
+Decentralization and Economic Growth: A Meta-Analysis 
+16/01 
+Burret, Heiko T. / Feld, Lars P.: Vertical Effects of Fiscal Rules – The Swiss Experience 
+ 
+2015 
+15/11 
+Burret, Heiko T. / Feld, Lars P. / Köhler, Ekkehard A.: Fiscal Sustainability of the German 
+Laender. Time Series Evidence 
+15/10 
+Feld, Lars P. / Fritz, Benedikt: The Political Economy of Municipal Amalgamation. Evidence of 
+Common Pool Effects and Local Public Debt 
+15/9 
+Burret, Heiko T. / Feld, Lars P. / Köhler, Ekkehard A.: (Un-)Sustinability of Public Finances in 
+German Laender. A Panel Time Series Approach 
+15/8 
+Feld, Lars P. / Köhler, Ekkehard A.: Is Switzerland an Interest Rate Island After All? Time Series 
+and Non-Linear Switching Regime Evidence 
+15/7 
+Doerr, Annabelle / Fitzenberger, Bernd: Konzeptionelle Lehren aus der ersten Evaluationsrunde 
+der Branchenmindestlöhne in Deutschland 
+15/6 
+Vanberg, Viktor J.: Constitutional Political Economy 
+15/5 
+Vanberg, Viktor J.: Competitive Federalism, Government’s Dual Role, and the Power to Tax 
+15/4 
+Feld, Lars P. / Köhler, Ekkehard A. / Nientiedt, Daniel: Ordoliberalism, Pragmatism and the 
+Eurozone Crisis: How the German Tradition Shaped Economic Policy in Europe 
+15/3 
+Vanberg, Viktor: "Freiheit statt Kapitalismus?" Ein Kommentar zu Sahra Wagenknechts Buch aus 
+Freiburger Sicht 
+15/2 
+Schnellenbach, Jan: A Constitutional Economics Perspective on Soft Paternalism 
+15/1 
+Schnellenbach, Jan: Die Politische Ökonomie des Entscheidungsdesigns: Kann Paternalismus 
+liberal sein? 
+ 
+2014 
+14/8 
+Schnellenbach, Jan: Neuer Paternalismus und individuelle Rationalität: eine ordnungsökonomische 
+Perspektive 
+14/7 
+Schnellenbach, Jan: Does Classical Liberalism Imply an Evolutionary Approach to Policy-Making? 
+14/6 
+Feld, Lars P.: James Buchanan’s Theory of Federalism: From Fiscal Equity to the Ideal Political 
+Order 
+14/5 
+Reckendrees, Alfred: Weimar Germany: the First Open Access Order that Failed 
+14/4 
+Vanberg, Viktor J.: Liberalismus und Demokratie. Zu einer vernachlässigten Seite der liberalen 
+Denktradition 
+14/3  
+Schnellenbach, Jan / Schubert, Christian: Behavorial Public Choice: A Survey 
+
+==== page 71 ====
+14/2 
+Goldschmidt, Nils / Hesse, Jan-Otmar / Kolev, Stefan: Walter Eucken’s Role in the Early 
+History of the Mont Pèlerin Society 
+14/1 
+Vanberg, Viktor J.: Ordnungspolitik, the Freiburg School and the Reason of Rules 
+ 
+ 
+ 
+2013 
+13/14 
+Wegner, Gerhard: Capitalist Transformation Without Political Participation – German Capitalism 
+in the First Half of the 19th Century 
+13/13 
+Necker, Sarah / Voskort, Andrea: The Evolution of Germans` Values since Reunification 
+13/12 
+Biedenkopf, Kurt: Zur ordnungspolitischen Bedeutung der Zivilgesellschaft 
+13/11 
+Feld, Lars P. / Ruf, Martin / Scheuering, Uwe / Schreiber, Ulrich / Voget, Johannes: 
+Effects of Territorial and Worldwide Corporation Tax Systems on Outbound M&As 
+13/10 
+Feld, Lars P. / Kallweit, Manuel / Kohlmeier, Anabell: Maßnahmen zur Vermeidung von 
+Altersarmut: Makroökonomische Folgen und Verteilungseffekte 
+13/9 
+Feld, Lars P.: Zur Bedeutung des Manifests der Marktwirtschaft oder: Das Lambsdorff-Papier im 
+31. Jahr. 
+13/8 
+Feld, Lars P. / Köhler, Ekkehard A.: Is Switzerland After All an Interest Rate Island? 
+13/7 
+Feld, Lars P. / Necker, Sarah / Frey, Bruno S.: Happiness of Economists 
+13/6 
+Feld, Lars P. / Schnellenbach, Jan: Political Institutions and Income (Re-)Distribution: Evidence 
+from Developed Economies 
+13/5 
+Feld, Lars P. / Osterloh, Steffen: Is a Fiscal Capacity Really Necessary to Complete EMU? 
+13/4 
+Vanberg, Viktor J.: James M. Buchanan's Contractarianism and Modern Liberalism 
+13/3  
+Vanberg, Viktor J.: Föderaler Wettbewerb, Bürgersouveränität und die zwei Rollen des Staates 
+13/2 
+Bjørnskov, Christian / Dreher, Axel / Fischer, Justina A.V. / Schnellenbach, Jan / Gehring, 
+Kai: Inequality and happiness: When perceived social mobility and economic reality do not match 
+13/1 
+Mayer, Thomas: Die Ökonomen im Elfenbeinturm: ratlos - Eine österreichische Antwort auf die 
+Krise der modernen Makroökonomik und Finanztheorie 
+ 
+2012 
+12/5 
+Schnellenbach, Jan: The Economics of Taxing Net Wealth: A Survey of the Issues 
+12/4 
+Goldschmidt, Nils / Hesse, Jan-Otmar: Eucken, Hayek, and the Road to Serfdom 
+12/3 
+Goldschmidt, Nils: Gibt es eine ordoliberale Entwicklungsidee? Walter Euckens Analyse des 
+gesellschaftlichen und wirtschaftlichen Wandels 
+12/2 
+Feld, Lars P.: Europa in der Welt von heute: Wilhelm Röpke und die Zukunft der Europäischen 
+Währungsunion 
+12/1 
+Vanberg, Viktor J.: Hayek in Freiburg 
+ 
+2011 
+11/4 
+Leuermann, Andrea / Necker, Sarah: Intergenerational Transmission of Risk Attitudes - A 
+Revealed Preference Approach 
+11/3 
+Wohlgemuth, Michael: The Boundaries of the State 
+11/2 
+Feld, Lars P. / Köhler Ekkehard A.: Zur Zukunft der Ordnungsökonomik 
+11/1 
+Vanberg, Viktor J.: Moral und Wirtschaftsordnung: Zu den ethischen Grundlagen einer freien 
+Gesellschaft  
+ 
+2010 
+10/5 
+Bernholz, Peter:  Politics, Financial Crisis, Central Bank Constitution and Monetary Policy  
+
+==== page 72 ====
+10/4 
+Tietmeyer, Hans:  Soziale Marktwirtschaft in Deutschland - Entwicklungen und Erfahrungen  
+10/3 
+Vanberg, Viktor J.:  Freiheit und Verantwortung: Neurowissenschaftliche Erkenntnisse und 
+ordnungsökonomische Folgerungen 
+10/2 
+Vanberg, Viktor J.:  Competition among Governments: The State’s Two Roles in a Globalized 
+World 
+10/1 
+Berghahn, Volker: Ludwig Erhard, die Freiburger Schule und das ‘Amerikanische Jahrhundert’  
+2009 
+09/10 
+Dathe, Uwe: Walter Euckens Weg zum Liberalismus (1918-1934) 
+09/9 
+Wohlgemuth, Michael: Diagnosen der Moderne: Friedrich A. von Hayek 
+09/8 
+Bernhardt, Wolfgang: Wirtschaftsethik auf Abwegen 
+09/7 
+Mäding, Heinrich: Raumplanung in der Sozialen Marktwirtschaft: Ein Vortrag 
+09/6 
+Koenig, Andreas: Verfassungsgerichte in der Demokratie bei Hayek und Posner 
+09/5 
+Berthold, Norbert / Brunner, Alexander: Gibt es ein europäisches Sozialmodell? 
+09/4 
+Vanberg, Viktor J.: Liberal Constitutionalism, Constitutional Liberalism and Democracy 
+09/3 
+Vanberg, Viktor J.: Consumer Welfare, Total Welfare and Economic Freedom – On the Normative 
+Foundations of Competition Policy 
+09/2 
+Goldschmidt, Nils: Liberalismus als Kulturideal. Wilhelm Röpke und die kulturelle Ökonomik. 
+09/1 
+Bernhardt, Wolfgang: Familienunternehmen in Zeiten der Krise – Nachhilfestunden von oder für 
+Publikumsgesellschaften? 
+ 
+2008 
+08/10 
+Borella, Sara: EU-Migrationspolitik. Bremse statt Motor der Liberalisierung. 
+08/9 
+Wohlgemuth, Michael: A European Social Model of State-Market Relations: The ethics of 
+competition from a „neo-liberal“ perspective. 
+08/8 
+Vanberg, Viktor J.: Markt und Staat in einer globalisierten Welt: Die ordnungsökonomische 
+Perspektive. 
+08/7 
+Vanberg, Viktor J.: Rationalität, Regelbefolgung und Emotionen: Zur Ökonomik moralischer 
+Präferenzen. Veröffentlicht in: V. Vanberg: Wettbewerb und Regelordnung, Tübingen: Mohr, 2008, 
+S. 241-268. 
+08/6 
+Vanberg, Viktor J.: Die Ethik der Wettbewerbsordnung und die Versuchungen der Sozialen 
+Marktwirtschaft 
+08/5 
+Wohlgemuth, Michael: Europäische Ordnungspolitik 
+08/4 
+Löwisch, Manfred: Staatlicher Mindestlohn rechtlich gesehen – Zu den gesetzgeberischen 
+Anstrengungen in Sachen Mindestlohn 
+08/3 
+Ott, Notburga: Wie sichert man die Zukunft der Familie? 
+08/2 
+Vanberg, Viktor J.: Schumpeter and Mises as ‘Austrian Economists’ 
+08/1 
+Vanberg, Viktor J.: The ‘Science-as-Market’ Analogy: A Constitutional Economics Perspective. 
+ 
+2007 
+07/9 
+Wohlgemuth, Michael: Learning through Institutional Competition. Veröffentlicht in: A. Bergh 
+und R. Höijer (Hg.). Institutional Competition, Cheltenham: Edward Elgar, 2008, S. 67-89. 
+07/8 
+Zweynert, Joachim: Die Entstehung ordnungsökonomischer Paradigmen – theoriegeschichtliche 
+Betrachtungen. 
+07/7 
+Körner, Heiko: Soziale Marktwirtschaft. Versuch einer pragmatischen Begründung. 
+07/6 
+Vanberg, Viktor J.: Rational Choice, Preferences over Actions and Rule-Following Behavior. 
+07/5 
+Vanberg, Viktor J.: Privatrechtsgesellschaft und ökonomische Theorie. Veröffentlicht in: K. 
+Riesenhuber (Hg.) Privatrechtsgesellschaft – Entwicklung, Stand und Verfassung des Privatrechts, 
+Tübingen: Mohr Siebeck, 2008, S. 131-162. 
+
+==== page 73 ====
+07/4 
+Goldschmidt, Nils / Rauchenschwandtner, Hermann: The Philosophy of Social Market 
+Economy: Michel Foucault’s Analysis of Ordoliberalism. 
+07/3 
+Fuest, Clemens: Sind unsere sozialen Sicherungssysteme generationengerecht? 
+07/2 
+Pelikan, Pavel: Public Choice with Unequally Rational Individuals. 
+07/1 
+Voßwinkel, Jan: Die (Un-)Ordnung des deutschen Föderalismus. Überlegungen zu einer 
+konstitutionenökonomischen Analyse. 
+ 
+2006 
+06/10 
+Schmidt, André: Wie ökonomisch ist der „more economic approach“? Einige kritische 
+Anmerkungen aus ordnungsökonomischer Sicht. 
+06/9 
+Vanberg, Viktor J.: Individual Liberty and Political Institutions: On the Complementarity of 
+Liberalism and Democracy. Veröffentlicht in: Journal of Institutional Economics, Vol. 4, Nr. 2, 
+2008, S. 139-161. 
+06/8 
+Goldschmidt, Nils: Ein „sozial temperierter Kapitalismus“? – Götz Briefs und die Begründung 
+einer sozialethisch fundierten Theorie von Markt und Gesellschaft. Veröffentlicht in: Freiburger 
+Universitätsblätter 42, Heft 173, 2006, S. 59-77. 
+06/7 
+Wohlgemuth, Michael / Brandi, Clara: Strategies of Flexible Integration and Enlargement of the 
+European Union. A Club-theoretical and Constitutional Economics Perspective. Veröffentlicht in: 
+Varwick, J. / Lang. K.O. (Eds.): European Neighbourhood Policy, Opladen: Budrich, 2007, S. 159-
+180. 
+06/6 
+Vanberg, Viktor J.: Corporate Social Responsibility and the “Game of Catallaxy”: The Perspective 
+of Constitutional Economics. Veröffentlicht in: Constitutional Political Economy, Vol. 18, 2007, S. 
+199-222. 
+06/5 
+Pelikan, Pavel: Markets vs. Government when Rationality is Unequally Bounded: Some 
+Consequences of Cognitive Inequalities for Theory and Policy. 
+06/4 
+Goldschmidt, Nils: Kann oder soll es Sektoren geben, die dem Markt entzogen werden und gibt es 
+in dieser Frage einen (unüberbrückbaren) Hiatus zwischen ‚sozialethischer’ und ‚ökonomischer’ 
+Perspektive? Veröffentlicht in: D. Aufderheide, M. Dabrowski (Hrsg.): Markt und Wettbewerb in der 
+Sozialwirtschaft. Wirtschaftsethische Perspektiven für den Pflegesektor, Berlin: Duncker & Humblot 
+2007, S. 53-81. 
+06/3 
+Marx, Reinhard: Wirtschaftsliberalismus und Katholische Soziallehre. 
+06/2 
+Vanberg, Viktor J.: Democracy, Citizen Sovereignty and Constitutional Economics. Veröffentlicht 
+in: Constitutional Political Economy Volume 11, Number 1, März 2000, S. 87-112 und in: Casas 
+Pardo, J., Schwartz, P.(Hg.): Public Choice and the Challenges of Democracy, Cheltenham: Edward 
+Elgar, 2007, S. 101-120. 
+06/1 
+Wohlgemuth, Michael: Demokratie und Marktwirtschaft als Bedingungen für sozialen Fortschritt. 
+Veröffentlicht in: R. Clapham, G. Schwarz (Hrsg.): Die Fortschrittsidee und die  Marktwirtschaft, 
+Zürich: Verlag Neue Zürcher Zeitung 2006, S. 131-162. 
+ 
+2005 
+05/13 
+Kersting, Wolfgang: Der liberale Liberalismus. Notwendige Abgrenzungen. In erweiterter Fassung 
+veröffentlicht als: Beiträge zur Ordnungstheorie und Ordnungspolitik Nr. 173, Tübingen: Mohr 
+Siebeck 2006.  
+05/12 
+Vanberg, Viktor J.: Der Markt als kreativer Prozess: Die Ökonomik ist keine zweite Physik. 
+Veröffentlicht in: G. Abel (Hrsg.): Kreativität. XX. Deutscher Kongress für Philosophie. 
+Kolloquiumsbeiträge, Hamburg: Meiner 2006, S. 1101-1128. 
+05/11 
+Vanberg, Viktor J.: Marktwirtschaft und Gerechtigkeit. Zu F.A. Hayeks Kritik am Konzept der 
+„sozialen Gerechtigkeit“. Veröffentlicht in: Jahrbuch Normative und institutionelle Grundfragen der 
+Ökonomik, Bd. 5: „Soziale Sicherung in Marktgesellschaften“, hrsg. von M. Held, G. Kubon-Gilke, 
+R. Sturn, Marburg: Metropolis 2006, S. 39-69. 
+05/10 
+Goldschmidt, Nils: Ist Gier gut? Ökonomisches Selbstinteresse zwischen Maßlosigkeit und 
+Bescheidenheit. Veröffentlicht in: U. Mummert, F.L. Sell (Hrsg.): Emotionen, Markt und Moral, 
+Münster: Lit 2005, S. 289-313. 
+
+==== page 74 ====
+05/9 
+Wohlgemuth, Michael: Politik und Emotionen: Emotionale Politikgrundlagen und Politiken 
+indirekter Emotionssteuerung. Veröffentlicht in: U. Mummert, F.L. Sell (Hrsg.): Emotionen, Markt 
+und Moral, Münster: Lit 2005, S. 359-392. 
+05/8 
+Müller, Klaus-Peter / Weber, Manfred: Versagt die soziale Marktwirtschaft? – Deutsche Irrtümer. 
+05/7 
+Borella, Sara: Political reform from a constitutional economics perspective: a hurdle-race. The case 
+of migration politics in Germany. 
+05/6 
+Körner, Heiko: Walter Eucken – Karl Schiller: Unterschiedliche Wege zur Ordnungspolitik. 
+05/5 
+Vanberg, Viktor J.: Das Paradoxon der Marktwirtschaft: Die Verfassung des Marktes  und das 
+Problem der „sozialen Sicherheit“. Veröffentlicht in: H. Leipold, D. Wentzel (Hrsg.): 
+Ordnungsökonomik als aktuelle Herausforderung, Stuttgart: Lucius & Lucius 2005, S. 51-67. 
+05/4 
+Weizsäcker, C. Christian von: Hayek und Keynes: Eine Synthese. In veränderter Fassung 
+veröffentlicht in: ORDO, Bd. 56, 2005, S. 95-111. 
+05/3 
+Zweynert, Joachim / Goldschmidt, Nils: The Two Transitions in Central and Eastern Europe 
+and the Relation between Path Dependent and Politically Implemented Institutional Change. In 
+veränderter Fassung veröffentlicht in: Journal of Economic Issues, Vol. 40, 2006, S. 895-918. 
+05/2 
+Vanberg, Viktor J.: Auch Staaten tut Wettbewerb gut: Eine Replik auf Paul Kirchhof. 
+Veröffentlicht in: ORDO, Bd. 56, 2005, S. 47-53. 
+05/1 
+Eith, Ulrich / Goldschmidt, Nils: Zwischen Zustimmungsfähigkeit und tatsächlicher 
+Zustimmung: Kriterien für Reformpolitik aus ordnungsökonomischer und politikwissenschaftlicher 
+Perspektive. Veröffentlicht in: D. Haubner, E. Mezger, H. Schwengel (Hrsg.): Agendasetting und 
+Reformpolitik. Strategische Kommunikation zwischen verschiedenen Welten, Marburg: Metropolis 
+2005, S. 51-70. 
+ 
+ 
+ 
+Eine Aufstellung über weitere Diskussionspapiere ist auf der Homepage des Walter Eucken Instituts 
+erhältlich. 

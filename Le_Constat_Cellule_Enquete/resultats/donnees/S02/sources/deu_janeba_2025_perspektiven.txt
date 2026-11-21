@@ -1,0 +1,421 @@
+
+==== page 1 ====
+1 
+ 
+Ist die Schuldenbremse eine Investitionsbremse? 
+Lukas Hacka und Eckhard Janebab 
+März 2025 
+ 
+Zusammenfassung 
+Verfechter der Schuldenbremse argumentieren, dass die empirische Literatur zu den Effekten 
+von Fiskalregeln auf öffentliche Investitionen keine systematischen negativen Effekte belegt 
+und daher eine Reform von Art. 109 des Grundgesetzes nicht notwendig sei. Dieses Argument 
+überzeugt nicht, gerade wenn man einen Gegenwartsbias im politischen Prozess unterstellt: 
+Aus theoretischer Sicht führt Gegenwartbias zwingend zu ineffizient niedrigen Investitionen, 
+selbst wenn man die Schuldengrenze auf das optimale (erstbeste) Verschuldungsniveau setzt. 
+Die existierende empirische Literatur ist ungeeignet, um das Problem der Unterinvestition 
+relativ zur erstbesten Welt zu messen, da die erstbeste Welt ein nicht beobachtbares 
+kontrafaktisches Szenario darstellt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a ETH Zürich, Leonhardstrasse 21, 8092 Zürich; hack@kof.ethz.ch 
+b Universität Mannheim, L7, 3-5, 68131 Mannheim; janeba@uni-mannheim.de 
+
+==== page 2 ====
+2 
+ 
+Einleitung 
+Ein Blick in den Bundeshaushalt zeigt […] Investitionen auf Rekordniveau […]. 
+Schon daraus wird ersichtlich, dass mit der Schuldenbremse keine 
+Investitionsbremse einhergeht. Im Gegenteil: Sie erhöht durch die 
+konsequente Ausgabenpriorisierung von Zukunftsinvestitionen im Sinne 
+einer qualitativen Konsolidierung den Anteil investiver Mittel im 
+Bundeshaushalt.  
+BMF Monatsbericht (April 2024) 
+ 
+Das Bundesministerium der Finanzen (BMF) argumentiert, dass die Schuldenbremse zur 
+Ausgabenpriorisierung führe und es in Deutschland somit kein Investitionsproblem gäbe. 
+Opponenten einer Reform der Schuldenbremse argumentieren häufig ähnlich (siehe z.B. Feld 
+et al., 2020). Dabei wird angeführt, dass die Schuldenbremse essentiell sei, um eine 
+Gegenwartspräferenz der Politik einzudämmen. In diesem Aufsatz greifen wir dieses Argument 
+auf und zeigen, dass es nicht überzeugen kann. Der Grund liegt in der Natur des 
+Gegenwartsbias: Politiker, die konsumtive Staatsausgaben als Wahlgeschenke mit 
+übermäßigen Schulden finanzieren, neigen auch dazu, Wahlgeschenke gegenüber 
+Zukunftsinvestitionen zu priorisieren. Somit ist Gegenwartsbias sowohl für hohe Schulden als 
+auch niedrige Investitionen ursächlich.1 Wir illustrieren dieses Argument in einer einfachen, 
+theoriegeleiteten Beispielrechnung und zeigen, dass der Gegenwartsbias zu einer 
+Bevorzugung 
+von 
+konsumtiven 
+gegenüber 
+investiven 
+Staatsausgaben 
+führt. 
+Der 
+Gegenwartsbias impliziert somit ein Unterinvestitionsproblem. 
+Zu diesem Investitionsproblem stellen sich zwei Schlüsselfragen. Erstens: Wie groß ist das 
+Investitionsproblem durch Gegenwartsbias? Und zweitens: Wird dieses Problem durch eine 
+Defizit- bzw. Schuldenregel wie die Schuldenbremse verstärkt oder abgemildert? Die erste 
+Frage wird von der einschlägigen empirischen Literatur nicht beantwortet.2 Grund dafür ist ein 
+Identifikationsproblem, das wir anhand unseres Modellbeispiels herausarbeiten. Dieses 
+Problem ergibt sich, da das optimale Niveau der Investitionen ein nicht beobachtbares 
+ 
+1 Ein Blick in den Bundeshaushalt unterstützt das Argument. Beispielsweise machen konsumtive Ausgaben für 
+Rentenzuschüsse etwa 25 Prozent des Bundeshaushalts 2024 aus. Gleichzeitig schließt dies nicht aus, dass es 
+weitere Gründe für niedrige Investitionen gibt, wie wir in den Schlussbemerkungen diskutieren. 
+2 Unter der einschlägigen Literatur verstehen wir Studien, welche die kausalen Effekte von Fiskalregeln schätzen, 
+ohne dabei ein strukturelles Modell zu verwenden (sogenannte „reduced-form“ Ansätze). 
+
+==== page 3 ====
+3 
+ 
+kontrafaktisches Szenario darstellt. Dieses kontrafaktische Szenario beschreibt die optimalen 
+Investitionen in einer hypothetischen Welt ohne Gegenwartsbias („erstbeste Welt“). Die 
+Investitionen in der erstbesten Welt müssen dann mit den tatsächlich beobachteten 
+Investitionen unter Gegenwartsbias verglichen werden („zweitbeste Welt“). Nur dieser 
+Vergleich ist geeignet, um das Investitionsproblem zu quantifizieren. 
+Existierende empirische Arbeiten vergleichen stattdessen zwei Szenarien aus der zweitbesten 
+Welt: Die Veränderung der Investitionen durch Einführung oder Abschaffung von Fiskalregeln. 
+Dabei belegen zahlreiche Studien, dass Fiskalregeln die Verschuldung und Haushaltsdefizite 
+verringern. Die Anzahl der Studien, die auf die Veränderungen der Investitionen abstellen ist 
+deutlich geringer.3 Dabei ergibt sich, dass empirisch kein klarer Zusammenhang zwischen 
+Fiskalregeln und Investitionen besteht. In der politischen Debatte wird dieses Resultat häufig 
+verwendet, um zu begründen, dass es kein Investitionsproblem gäbe (siehe z.B. BMF 
+Monatsbericht, April 2024). Diese Interpretation ist jedoch nicht korrekt. Die Studien deuten 
+lediglich darauf hin, dass Fiskalregeln in den untersuchten Ländern keine klare Auswirkung auf 
+Investitionen haben. Somit stellen diese Studien lediglich auf die zweite Schlüsselfrage ab. 
+Darüber hinaus gilt, dass die einschlägige empirische Literatur selten signifikant negative 
+Effekte von Fiskalregeln auf Investitionen belegt. Die Vielzahl der Studien findet keine Effekte, 
+die sich signifikant von einem Nulleffekt unterscheiden. Dabei gilt, dass das Fehlen 
+signifikanter Effekte explizit nicht erlaubt, negative Effekte auszuschließen. An anderer Stelle 
+(Janeba, 2025) zeigen wir außerdem, dass das Urteil des Bundesverfassungsgerichts zum 
+Nachtragshaushalt 2021 im November 2023, das wir als Verschärfung der Schuldenbremse 
+interpretieren, zu einem Rückgang der geplanten Investitionen für 2024 geführt hat. Dies zeigt 
+sich durch einen Vergleich der Planungsdaten zum Zeitpunkt der 1. Lesung des 
+Bundeshaushalts im September 2023 mit denen des verabschiedeten Haushalts im Februar 
+2024. 
+Abschließend bleibt festzuhalten, dass der vorliegende Aufsatz sich auf die Frage konzentriert, 
+ob ein gängiges Argument zur Verteidigung der Schuldenbremse überzeugen kann oder nicht. 
+ 
+3 Siehe Heinemann et al. (2018) und Potrafke (2025) für eine Übersicht der empirischen Literatur zu den Effekten 
+von Fiskalregeln im Allgemeinen und die Studie von Blesse et al. (2023) zu den Effekten auf öffentliche 
+Investitionen.  
+
+==== page 4 ====
+4 
+ 
+Ob, und wenn ja, wie ein erstbestes Investitionsniveau erreichbar ist, ist nicht Gegenstand 
+dieser Untersuchung, da es weitere Gründe für geringe Investitionen gibt.  
+Konzeptueller Modellrahmen 
+Wir betrachten einen Modellrahmen basierend auf Janeba (2025) und arbeiten anhand einer 
+numerischen Spezifizierung die Logik des Arguments heraus.4 Das Modell ist bewusst einfach 
+gehalten. Wir abstrahieren zunächst von privaten Entscheidungen, sowie allgemeinen 
+Gleichgewichtseffekten und fokussieren uns ausschließlich auf die staatliche Bereitstellung 
+öffentlicher Güter. Danach erläutern wir, wie sich die Ergebnisse generalisieren lassen. 
+Die Modellökonomie existiere für zwei Perioden. In der ersten Periode leben zwei 
+Generationen, jung und alt, während in Periode zwei lediglich noch die junge Generation lebt. 
+Der Staat erhält exogene Steuereinnahmen und verwendet diese, um konsumtive und 
+investive Staatsausgaben für öffentliche Güter zu tätigen. Die konsumtiven Staatsausgaben 
+stiften allen lebenden Generationen Nutzen in der gleichen Periode. Die investiven 
+Staatsausgaben stiften ebenfalls Nutzen, allerdings erst in der folgenden Periode.5 Der Nutzen 
+beider Generationen ergibt sich aus der Summe strikt konkaver Nutzenfunktionen für alle 
+staatlichen Güter (Konsum und Investition), d.h. die Präferenzen sind additiv-separabel. Der 
+Staat entscheidet über die staatlichen Konsum- und Investitionsausgaben, um eine 
+Wohlfahrtsfunktion zu maximieren. 
+In der erstbesten Welt gehen wir von einer utilitaristischen Wohlfahrtsfunktion aus, so dass 
+der Staat die Summe der Nutzen beider Generationen maximiert. In der zweitbesten Welt 
+gewichtet der Staat die junge Generation aufgrund von Gegenwartsbias weniger stark. Das 
+kann beispielsweise dadurch motiviert werden, dass die junge Generation noch kein 
+Wahlrecht hat oder sich in der Realität weniger stark an Wahlen beteiligt. In der zweitbesten 
+Welt betrachten wir ein Basisszenario ohne Fiskalregel (Schuldenbremse) und ein Szenario mit 
+Fiskalregel. Diese beiden Szenarien sowie das Benchmark Szenario der erstbesten Welt 
+präsentieren wir in Tabelle 1 anhand einer einfachen Beispielrechnung. 
+ 
+4 Die umfassende polit-ökonomische Literatur zur Wirkung von Fiskalregeln hat sich vor allem auf die Wirkung 
+auf Verschuldung, Defizite und Ausgabenkomposition fokussiert, aber kaum auf die Wirkung auf die öffentlichen 
+Investitionen. Ausnahmen sind Bergmann und Moretti (2025), die das optimale Design von Fiskalregeln bei 
+Gegenwartsbias analysieren, und Dur et al. (1997).  
+5 Jegliche Staatsausgaben, die lediglich in der Zukunft einen Mehrwert oder Nutzen stiften fallen unter diesen 
+breiten Investitionsbegriff. 
+
+==== page 5 ====
+5 
+ 
+Die Beispielrechnung unterstellt logarithmischen Nutzen aus allen öffentlichen Gütern, keine 
+Diskontierung, sowie einen Zinssatz von Null. In der zweitbesten Welt mit Gegenwartsbias wird 
+der Nutzen der jungen Generation in der Wohlfahrtsfunktion nur halb gewichtet, während die 
+alte Generation das volle Gewicht erhält. Die Fiskalregel in Zeile (3) ist auf die Kreditaufnahme 
+in der erstbesten Welt (in Höhe von 25) gesetzt, d.h. die maximale Verschuldung in der 
+zweitbesten Welt unter der Fiskalregel eliminiert das Problem zu hoher Staatsausgaben in 
+Periode 1. Das exogene Steueraufkommen in beiden Perioden ist auf jeweils 50 gesetzt. Die 
+qualitativen Ergebnisse gelten genereller. Alle oben genannten Annahmen hinsichtlich 
+Parameterwerten und funktionaler Form können variiert werden, ohne die Kernvorhersagen 
+des Modells zu ändern. 
+Tabelle 1: Modellrechnung zur Auswirkung des Gegenwartsbias 
+ 
+Periode 1 
+Periode 2 
+Konsum 
+Investition 
+Gesamt-
+ausgaben 
+Investitions-
+quote 
+Kredit-
+aufnahme 
+Konsum 
+(a) 
+(b) 
+(a) + (b) 
+(b)/[(a)+(b)] 
+(c) 
+(d) 
+(1) 
+Erstbeste 
+Welt 
+50 
+25 
+75 
+33 % 
+25 
+25 
+(2) 
+Zweitbeste 
+Welt, ohne 
+Fiskalregel 
+60 
+20 
+80 
+25 % 
+30 
+20 
+(3) 
+Zweitbeste 
+Welt, mit 
+Fiskalregel 
+56,25 
+18,75 
+75 
+25% 
+25 
+25 
+Bemerkungen: Die numerischen Werte basieren auf dem zwei-Perioden und zwei-Generationen Modell aus 
+Janeba (2025). Wir unterstellen für dieses Beispiel zusätzlich logarithmischen Nutzen aus allen Gütern, keine 
+Diskontierung und einen Zinssatz von Null. In der zweitbesten Welt mit Gegenwartsbias wird der Nutzen der 
+jungen Generation in der Wohlfahrtsfunktion nur halb gewichtet, während die alte Generation das volle Gewicht 
+erhält. Die Defizitregel ist auf die Kreditaufnahme in der erstbesten Welt (25) gesetzt. Das exogene 
+Steueraufkommen in beiden Perioden ist auf jeweils 50 gesetzt. 
+Analyse des Gegenwartsbias 
+Zuerst vergleichen wir die zweitbeste Welt mit Gegenwartsbias aber ohne Fiskalregel in Zeile 
+(2) aus Tabelle 1 mit der erstbesten Welt ohne Gegenwartsbias in Zeile (1). Aus Spalten (a) und 
+(b) wird ersichtlich, dass der staatliche Konsum in der zweitbesten Welt in Periode 1 zu hoch 
+ist (60 vs. 50), während die Investitionen zu niedrig ausfallen (20 vs. 25). Der Anteil der 
+Investitionen an den Staatsausgaben in der erstbesten Welt liegt in unserem Beispiel bei rund 
+33 Prozent. In der zweitbesten Welt machen die Investitionen aber nur 25 Prozent der 
+Staatsausgaben in Periode 1 aus. Folglich wird das Unterinvestitionsproblem sowohl durch 
+eine ineffizient niedrige Investitionsquote als auch durch ein ineffizient niedriges 
+
+==== page 6 ====
+6 
+ 
+Investitionsniveau sichtbar. Auch das Problem übermäßiger Verschuldung durch den 
+Gegenwartsbias wird aus dem Modell ersichtlich. In Spalte (d) zeigen wir, dass die 
+Verschuldung in der zweitbesten Welt ohne Fiskalregel in Zeile (2) über der optimalen 
+Verschuldung ohne Gegenwartsbias liegt (30 vs. 25). Somit stellt eine Fiskalregel, die die 
+Verschuldung bzw. das Defizit begrenzt, eine plausible Option dar, um diese Ineffizienz der 
+zweitbesten Welt zu adressieren. 
+Folglich betrachten wir nun die Effekte der Einführung einer Fiskalregel. Unsere Fiskalregel 
+postuliert eine maximale Verschuldung, die nicht überschritten werden darf. Wir setzen diese 
+auf die Verschuldung der erstbesten Welt (in Höhe von 25). Somit wird das Problem einer 
+übermäßigen Verschuldung durch Gegenwartsbias vollumfänglich adressiert. Die Ergebnisse 
+werden in Zeile (3) von Tabelle 1 präsentiert. Zwar wird aus Spalten (a) und (b) ersichtlich, dass 
+der überhöhte Staatskonsum durch die Fiskalregel reduziert wird. Das Investitionsproblem 
+besteht jedoch weiter und verschärft sich sogar, da die Investitionen von 20 auf 18,75 sinken.  
+Das Resultat, dass eine Fiskalregel die Investitionen reduziert gilt unabhängig von den 
+spezifischen Parameterwerten, die der Beispielrechnung zugrunde liegen: Wenn der 
+fiskalische Spielraum durch eine bindende Fiskalregel eingeschränkt wird, dann ist es für die 
+Regierung stets optimal, die notwendigen Ausgabenkürzungen über alle Ausgabenarten 
+(Konsum und Investition) zu verteilen. Das Resultat basiert lediglich darauf, dass die privaten 
+Agenten strikt konkaven Nutzen aus allen öffentlichen Gütern erhalten. 
+Im Gegensatz dazu ist der Effekt einer Fiskalregel auf die Investitionsquote, gegeben durch den 
+Anteil der Investitionen an den gesamten Staatsausgaben, uneindeutig. Dies liegt daran, dass 
+die Schuldenbremse sowohl den Zähler als auch den Nenner der Investitionsquote beeinflusst. 
+Unter den Parametern, die unserer Beispielrechnung zugrunde liegen, ändert sich der Anteil 
+der Investitionen an den gesamten Staatsausgaben in Periode 1 durch die Schuldenbremse 
+nicht. Die Investitionsquote bleibt mit 25 Prozent ineffizient niedrig.6 
+Auch die Wohlfahrtswirkung der Fiskalregel ist aus theoretischer Sicht uneindeutig. Einerseits 
+nähert sich der Konsum an den jeweiligen Wert der erstbesten Welt an, was sich positiv auf 
+die Wohlfahrt auswirkt: In Periode 2 entspricht der Konsum exakt dem Wert der erstbesten 
+ 
+6 Die Investitionsquote würde tendenziell fallen, wenn die Krümmung der Nutzenfunktion für Konsum die 
+Krümmung der Nutzenfunktion für Investitionen hinreichend stark übersteigt. Je größer die Differenz, desto 
+stärker ist der Anreiz die Reduktion des fiskalischen Spielraums durch niedrigere Investitionen zu kompensieren. 
+
+==== page 7 ====
+7 
+ 
+Welt (in Höhe von 25), während in Periode 1 der Abstand zum erstbesten Konsum fällt (60 vs. 
+56,25, wobei 50 der optimale Konsum wäre). Andererseits verschärft die Fiskalregel das 
+Unterinvestitionsproblem, was sich negativ auf die Wohlfahrt auswirkt. Während die 
+optimalen Investitionen bei 25 liegen, fallen die Investitionen auf 18,75 (relativ zu 20 ohne 
+Fiskalregel). Aus theoretischer Perspektive ist nicht eindeutig, welcher der beiden Effekte 
+dominiert. Dies hängt insbesondere von der Krümmung der Nutzenfunktionen ab. Somit bleibt 
+es im Allgemeinen uneindeutig, ob eine Fiskalregel, die allein die Verschuldung oder das Defizit 
+beschränkt, zu einer Wohlfahrtserhöhung führt. In unserer Beispielrechnung dominiert jedoch 
+der erste Effekt, so dass die Wohlfahrt ansteigt, verglichen mit der zweitbesten Welt ohne 
+Fiskalregel. Im Beispiel aus Tabelle 1 wird der Wohlfahrtsverlust um ca. 36 Prozent reduziert.7 
+Die Höhe der Reduktion impliziert aber auch, dass über 60 Prozent der Wohlfahrtsverlusts 
+durch Gegenwartsbias trotz Fiskalregel bestehen bleiben. Dieser Wohlfahrtsverlust ist allein 
+auf die ineffiziente Allokation der Steuereinnahmen auf Konsum und Investition in Periode 1 
+zurückzuführen. 
+Zusammenfassend lässt sich sagen, dass das Problem des Gegenwartsbias nicht vollumfänglich 
+durch eine Fiskalregel (wie die Schuldenbremse), die die Kreditaufnahme bzw. das Defizit 
+beschränkt, gelöst werden kann. Das Problem der Unterinvestition bleibt auch bei einer 
+optimal gesetzten Schuldengrenze bzw. -bremse bestehen. Vielmehr wird das Problem sogar 
+verschärft, sofern die Investitionen (und nicht die Investitionsquote) die relevante Zielgröße 
+darstellen.  
+Generalisierung des Modellrahmens 
+Der oben eingeführte Modellrahmen ist bewusst einfach gehalten, um das Kernargument 
+herauszuarbeiten. Die qualitativen Ergebnisse lassen sich jedoch in mehreren Dimensionen 
+generalisieren.  
+Zunächst betrachten wir potenzielle allgemeine Gleichgewichtseffekte. Im präsentierten 
+Modell ist der Zinssatz exogen. Unter der Berücksichtigung allgemeiner Gleichgewichtseffekte 
+ist davon auszugehen, dass der Zinssatz mit dem Verschuldungsniveau ansteigt. Dies würde 
+die quantitativen Effekte abfedern, die qualitativen Resultate jedoch nicht verändern. Das lässt 
+sich am Beispiel der Einführung einer Fiskalregel illustrieren. Die Einführung senkt das 
+ 
+7 Für diese Berechnung messen wir die Wohlfahrt anhand des Werts der utilitaristischen Wohlfahrtsfunktion, 
+der sich aus der Allokation von Konsum- und Investitionsausgaben im jeweiligen Szenario ergibt. 
+
+==== page 8 ====
+8 
+ 
+Verschuldungsniveau und somit würde die Zinslast tendenziell fallen, relativ zu unserer 
+Beispielrechnung mit konstanten Zinsen. Deshalb wird der fiskalische Spielraum in Periode 2 
+weniger stark eingeschränkt. Somit liegt der Konsum in Periode 2 näher am erstbesten Niveau. 
+Gleichzeitig verzerrt der Gegenwartsbias weiterhin die Komposition der Staatsausgaben in 
+Periode 1 hin zu konsumtiven Ausgaben.  
+Eine andere Erweiterung des Modells berücksichtigt die privaten Entscheidungen der 
+Haushalte explizit. Dazu nehmen wir an, dass die Präferenzen additiv-separabel sind, um die 
+Entscheidungen des Staates hinsichtlich öffentlicher Güter von den Entscheidungen der 
+Haushalte über privaten Konsum und Arbeitsangebot zu separieren. Individuen erhalten also 
+zusätzlichen strikt konkaven Nutzen durch Konsum eines privaten Guts und erfahren 
+Arbeitsleid, das strikt konvex in der Höhe des Arbeitsangebots ansteigt. Die Haushalte wählen 
+die optimalen Arbeitsangebots- und Konsumentscheidungen im Einklang mit ihrer jeweiligen 
+Budgetbedingung. Diese besagt, dass das verfügbare Einkommen dem Arbeitseinkommen 
+abzüglich eines festen pro-Kopf Steuerbetrags entspricht, der an den Staat fließt. Wir gehen 
+davon aus, dass der Staat die Steuereinnahmen weiter als exogen hinnimmt. Die additiv-
+separablen Präferenzen implizieren, dass die individuellen Entscheidungen unabhängig von 
+den staatlichen Entscheidungen sind. Somit bleiben unsere Ergebnisse von dieser Erweiterung 
+unberührt. 
+Zusätzlich können allgemeine Gleichgewichtseffekte berücksichtigt werden. Man nehme an, 
+dass Unternehmen mit einer linearen Produktionsfunktion durch den Einsatz von Arbeit 
+produzieren und alle Märkte effizient sind. Eine Einheit des resultierenden Guts ergibt dann 
+entweder eine Einheit des privaten Konsums oder des öffentlichen Konsums oder der 
+öffentlichen Investitionen. Der Gütermarkt wird aufgrund der privaten Budgetrestriktionen 
+stets geräumt (Walras-Gesetz) und unsere Resultate hinsichtlich der Bereitstellung öffentlicher 
+Güter bleiben unverändert. 
+Als letzte zusätzliche Erweiterung diskutieren wir den Fall, in dem die öffentlichen 
+Investitionen auch die totale Faktorproduktivität der privaten Unternehmen erhöhen, 
+beispielsweise da öffentliche Infrastruktur komplementär zu den privaten Produktionsfaktoren 
+ist. Dies würde die Wohlfahrtsgewinne durch eine Fiskalregel reduzieren. Da die Fiskalregel die 
+öffentlichen Investitionen reduziert, würde auch die Produktivität der privaten Wirtschaft in 
+Periode 2 fallen. Das wirkt sich negativ auf den Nutzen aus, den das Individuum aufgrund der 
+
+==== page 9 ====
+9 
+ 
+privaten Konsum- und Arbeitsangebotsentscheidungen erfährt. Auch die Einführung von 
+privaten Investitionen würde dieses Ergebnis nicht ändern. Dafür gehen wir davon aus, dass 
+die privaten Haushalte in Periode 1 einen Anteil ihres Einkommens verwenden können, um in 
+den Kapitalstock in Periode 2 zu investieren. Die Unternehmen produzieren dann mit Arbeit 
+und Kapital unter der Annahme konstanter Skalenerträge. Die Einführung einer Fiskalregel 
+führt nun auch zu einem Rückgang der privaten Investitionen in den Kapitalstock, da die 
+Reduktion der öffentlichen Investitionen zu einem Rückgang der totalen Faktorproduktivität 
+führt. 
+Bezug zur empirischen Literatur 
+Unser Modellrahmen ist nützlich, um die einschlägige empirische Literatur zu interpretieren 
+(siehe z.B. Blesse et al., 2023). In einer Welt mit Gegenwartsbias ist lediglich Variation in 
+Fiskalregeln, nicht aber Variation im Gegenwartsbias beobachtbar. Deshalb basieren 
+empirische Studien typischerweise auf Variation in Fiskalregeln. Solche empirischen Studien 
+sind somit ungeeignet, das Unterinvestitionsproblem relativ zur erstbesten Welt zu messen. 
+Stattdessen wird auf den Zusammenhang von Investitionen und Fiskalregeln abgestellt.  
+Im Modell ist der Effekt der Fiskalregel auf die Höhe der Investitionen in Tabelle 1, Spalte (b) 
+klar negativ.8 Dieses Resultat gilt unabhängig von den exakten Werten der gewählten 
+Parameter und der unterstellten Nutzenfunktion. Das Ergebnis basiert lediglich darauf, dass 
+die privaten Agenten strikt konkaven Nutzen aus allen öffentlichen Gütern erhalten. 
+Diese eindeutige theoretische Vorhersage lässt sich mit der einschlägigen empirischen 
+Literatur vergleichen. Die Studie von Blesse et al. (2023) untersucht dafür 18 
+Forschungspapiere, welche die Auswirkung auf die gesamten öffentlichen Investitionen 
+schätzen. Insgesamt finden 4 Papiere einen signifikant negativen Effekt von Fiskalregeln auf 
+Investitionen, so wie es aus theoretischer Perspektive zu erwarten ist. Weitere 12 Papiere 
+finden keine signifikanten Effekte auf Investitionen. Es folgt, dass diese Studien keine Evidenz 
+gegen einen negativen Effekt auf Investitionen liefern. Somit sind die Ergebnisse aus 16 der 18 
+Studien konsistent mit unseren modellbasierten Vorhersagen.  
+ 
+8 Der Effekt einer Fiskalregel auf die Investitionsquote ist aus theoretischer Sicht uneindeutig. Von allen Studien 
+die in Blesse et al. (2023) untersucht werden stellt nur eine auf die Investitionsquote ab. Darüber hinaus ist aus 
+theoretischer Perspektive das Niveau der Investitionen und nicht die Quote wohlfahrtsrelevant. Deshalb 
+fokussieren wir unserer Analyse und Diskussion auf das Niveau der Investitionen.  
+
+==== page 10 ====
+10 
+ 
+Zusammenfassend lässt sich sagen, dass bei Vorliegen eines Gegenwartsbias die Hypothese 
+eines negativen Effekts von Fiskalregeln auf Investitionen nur wenige Annahmen erfordert, die 
+aus theoretischer Perspektive unkontrovers sein dürften. Gleichzeitig liefert eine 
+systematische Zusammenfassung der empirischen Literatur keine Evidenz, die es erlaubt, 
+unsere Hypothese bzw. Modellvorhersage zu verwerfen. 
+Schlussbemerkung 
+Unsere Analyse setzt sich primär mit einem gängigen Argument zur Verteidigung der 
+Schuldenbremse auseinander. Aus unserer Analyse folgt nicht unmittelbar, dass die 
+Schuldenbremse reformiert oder abgeschafft werden muss, oder dass es möglich ist, das 
+Investitionsniveau der erstbesten Welt zu erreichen. Es gibt verschiedene Gründe, warum 
+öffentliche Investitionen geringer als wünschenswert ausfallen, u.a. weil Mittel wegen 
+Problemen der Investitionsplanung nicht abgerufen werden können oder Bauengpässe 
+bestehen. Eine goldene Regel, in Verbindung mit einer institutionellen Ausgestaltung zur 
+Vorbeugung von Missbrauch (Wissenschaftlicher Beirat beim Bundesministerium für 
+Wirtschaft und Klimaschutz, 2023) zielt auf die Behebung des Unterinvestitionsproblems und 
+auf eine Annäherung an das erstbeste Niveau ab. Ob dies realistisch ist, kann im Rahmen 
+dieses Artikels nicht geklärt werden. In unserem Artikel geht es primär darum, ein plausibles, 
+aber konzeptuell nicht überzeugendes Argument zur Verteidigung der Schuldenbremse zu 
+widerlegen. Gerade weil Befürworter der Schuldenbremse mit dem Gegenwartsbias im 
+politischen Entscheidungsprozess als Argument für die Begrenzung der Verschuldung 
+plädieren, sollten sie auch anerkennen, dass es ein Unterinvestitionsproblem gibt.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== page 11 ====
+11 
+ 
+Referenzen 
+Bergmann, T., Moretti, N. (2025): Trading Deficits for Investment: Optimal Deficit Rules for 
+Present-Biased Governments. CEPA Discussion Paper No. 85, University of Potsdam.  
+Blesse, S., Dorn, F., Lay, M. (2023): Do Fiscal Rules Undermine Public Investments? A Review 
+of Empirical Evidence. SSRN 4439420. 
+BMF Monatsbericht (April 2024): Schuldenbremse - Mythos und Realität. 
+Dur, R.A.J., Peletier, B.D., Swank, O.H. (1997): The Effect of Fiscal Rules on Public Investment if 
+Budget Deficits Are Politically Motivated.  Mimeo. 
+Feld, L., Reuter, W., Yeter, M. (2020): Öffentliche Investitionen: Die Schuldenbremse ist nicht 
+das Problem. Perspektiven der Wirtschaftspolitik, 20.4, S. 292-303. 
+Heinemann, F., Moessinger, M. D., Yeter, M. (2018): Do fiscal rules constrain fiscal policy? A 
+meta-regression-analysis. European Journal of Political Economy, 51, S. 69-92. 
+Janeba, E. (2025): The effect of fiscal rules on public investment: Theory and Application to 
+the German Debt Brake. Mimeo. 
+Potrafke, N. (2025). The economic consequences of fiscal rules. Journal of International 
+Money and Finance, 153, 103286. 
+Wissenschaftlicher Beirat beim Bundesministerium für Wirtschaft und Klimaschutz (2023): 
+Finanzierung von Staatsaufgaben: Herausforderungen und Empfehlungen für eine 
+nachhaltige Finanzpolitik.  

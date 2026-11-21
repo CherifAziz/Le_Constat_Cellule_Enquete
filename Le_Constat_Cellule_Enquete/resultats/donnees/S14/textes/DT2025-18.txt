@@ -1,0 +1,4884 @@
+
+=== page 1 ===
+La réforme du taux statutaire 
+de l’Impôt sur les Sociétés
+Documents de travail
+N° 2025-18 – Septembre 2025
+Olivier ARNAL
+Ugo DI NALLO
+Jean-Philippe MARTIN
+
+=== page 2 ===
+
+=== page 3 ===
+Institut national de la statistique et des études économiques
+2025/18
+La réforme du taux statutaire de l’Impôt sur les 
+Sociétés*
+OLIVIER ARNAL‡, Ugo Di Nallo†, Jean-Philippe Martin‡
+02 Septembre 2025
+Département des Études Économiques – Timbre G201
+88, avenue Verdier – CS 70 058 – 92 541 MONTROUGE CEDEX – France
+Tél. : 33 (1) 87 69 59 54 – E-mail : d3e-dg@insee.fr
+ 
+  – 
+  Site Web Insee : http://www.insee.fr
+Ces documents de travail ne reflètent pas la position de l’Insee et n’engagent que leurs auteurs. 
+Working papers do not reflect the position of INSEE but only their author's views.
+* Les documents de travail ne reetent pas la position de l'Insee et n'engagent que leurs auteurs. Les auteurs remercient les participants du 
+séminaire D2E et particulièrement Clement Malgouyres pour ses commentaires utiles sur une version precedente de ce document. Les 
+auteurs remercient Corentin Trevien, Pauline Givord et Cedric Audenis pour leurs conseils, leurs suggestions et leur contribution a la 
+relecture et a la rédaction de ce document.
+‡DGFiP
+†Insee
+‡Insee
+
+=== page 4 ===
+La réforme du taux statutaire de l’Impôt sur les 
+Sociétés
+Entre 2016 et 2022, le taux normal de l’impôt sur les sociétés a été abaissé de 33,1/3% à 25%, 
+rapprochant la France de la moyenne OCDE. Pour évaluer les effets de cette réforme, cette étude 
+s’appuie sur le taux implicite brut d’imposition. Celui-ci rapporte l’impôt sur les sociétés (hors crédits 
+d’impôt) à l’excédent net d’exploitation, indicateur usuel du profit économique des entreprises. Il 
+permet ainsi d’apprécier l’imposition effectivement acquittée, indépendamment des modalités de 
+financement ou des règles de calcul de la base fiscale. Le taux implicite brut d’imposition est passé de 
+20,7% en 2016 à 17,5% en 2022 pour les entreprises marchandes, hors secteurs financier et agricole, 
+hors effets des réformes du CICE et de la CET. L’écart, en niveau et en évolution, avec le taux normal 
+s’explique par l’existence de taux réduits (stables sur la période) et des variations de la base 
+imposable. Le redressement des résultats financiers et exceptionnels sur la période ont notamment 
+rendu la base imposable plus dynamique que l’excédent net d’exploitation. Ces évolutions moyennes 
+masquent des tendances contrastées selon les types d’entreprises. Le taux implicite brut des PME, plus 
+élevé en 2016 (23,1%), recule de seulement 1,7 point sur la période. Il demeure bien plus élevé que 
+celui des grandes entreprises, initialement plus faible (19,3%) et en diminution de 5,0 points. Le taux 
+implicite des PME se rapproche en revanche de celui des très petites entreprises (TPE) qui a lui 
+légèrement progressé sur la même période (+ 0,4 point).
+Mots-clés : Impôt sur les sociétés, Entreprises, Taux implicite d’imposition, Base imposable, 
+Réforme fiscale, Disparités fiscales
+Codes JEL : H25, H32, L25
+Reform of the statutory corporate tax rate
+Between 2016 and 2022, the standard corporate tax rate was reduced from 33 1/3% to 25%, bringing 
+France closer to the OECD average. To assess the effects of this reform, this study relies on the gross 
+implicit tax rate. This rate measures corporate income tax (excluding tax credits) relative to net 
+operating surplus, a common indicator of corporate economic profit. It thus provides an assessment of 
+the actual tax burden, independent of financing methods or tax base calculation rules.The gross 
+implicit tax rate declined from 20.7% in 2016 to 17.5% in 2022 for market-sector companies, 
+excluding the financial and agricultural sectors, and excluding the effects of the CICE and CET 
+reforms. The gap between the standard rate and the implicit rate — both in level and in trend — is 
+explained by the existence of reduced rates (which remained stable over the period) and by variations 
+in the taxable base. The recovery in financial and exceptional results during this period notably made 
+the taxable base more dynamic than the net operating surplus.  These average trends mask contrasting 
+developments depending on the type of company. The gross implicit tax rate for SMEs, which was 
+higher in 2016 (23.1%), fell by only 1.7 percentage points over the period. It remains significantly 
+higher than that of large enterprises, which was initially lower (19.3%) and declined by 5.0 points. In 
+contrast, the implicit tax rate for SMEs has converged toward that of very small enterprises (VSEs), 
+whose rate slightly increased over the same period (+0.4 percentage points).
+Keywords: Corporate income tax, Companies, Implicit tax rate, Taxable base, Tax reform, Tax 
+disparities 
+JEL Code : H25, H32, L25
+
+=== page 5 ===
+Table des mati`eres
+Table des mati`eres
+1
+1
+Introduction
+3
+2
+L’impˆot sur les soci´et´es
+9
+3
+M´ethodologie
+12
+3.1
+Taux fiscal et implicite . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+3.1.1
+Calcul du montant de l’impˆot sur les soci´et´es . . . . . . . . . . . . . .
+12
+3.1.2
+Taux fiscal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+3.1.3
+Le taux implicite . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+3.1.4
+Neutralisation des effets du CICE et de la CET . . . . . . . . . . . .
+16
+3.2
+D´ecomposition de l’´ecart entre taux normal et implicite
+. . . . . . . . . . .
+19
+3.3
+Champ et unit´e d’observation de l’´etude
+. . . . . . . . . . . . . . . . . . . .
+22
+3.3.1
+Redevable fiscal et entreprise au sens ´economique . . . . . . . . . . .
+24
+3.3.2
+Le cas particulier des entreprises d´eficitaires . . . . . . . . . . . . . .
+27
+4
+R´esultats
+29
+4.1
+´Evolution des taux fiscal et implicite
+. . . . . . . . . . . . . . . . . . . . . .
+29
+4.2
+Du taux normal au taux implicite . . . . . . . . . . . . . . . . . . . . . . . .
+31
+4.3
+´Evolution individuelle de l’imposition . . . . . . . . . . . . . . . . . . . . . .
+35
+4.4
+Taille de l’entreprise
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+37
+4.4.1
+Variation individuelle par taille d’entreprise
+. . . . . . . . . . . . . .
+45
+4.5
+Secteur de l’industrie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+47
+5
+Conclusion
+49
+R´ef´erences
+52
+1
+
+=== page 6 ===
+Annexes
+53
+A R´esultats par secteur d’activit´e
+53
+A.1 Industrie
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+53
+A.2 Taux implicites par secteurs et par taille en 2016 et 2022 . . . . . . . . . . .
+60
+B Donn´ees
+63
+C Effets retour des baisses de charge et des impˆots de production
+66
+D Entreprises et redevables fiscaux
+70
+E Impˆot sur les soci´et´es
+87
+F Champ Esane
+96
+2
+
+=== page 7 ===
+1
+Introduction
+Entre 2017 et 2022, la France a entrepris une r´eforme de l’impˆot sur les soci´et´es (IS)
+en r´eduisant son taux normal de 33,1/3% `a 25%. Cette r´eforme avait pour objectif de ren-
+forcer la comp´etitivit´e des entreprises fran¸caises, dans un contexte de concurrence fiscale
+marqu´ee. Alors que le taux normal d’imposition sur les soci´et´es a longtemps ´et´e ´elev´e en
+comparaison des autres pays de l’OCDE, il se rapproche d´esormais du taux des autres pays
+(CPO, 2021). Toutefois, le taux nominal ne refl`ete qu’imparfaitement la charge fiscale r´eelle
+support´ee par les entreprises. L’existence de taux r´eduits applicables `a certains revenus ou
+`a certaines cat´egories d’entreprises peut entraˆıner un ´ecart notable entre taux normal et le
+taux moyen appliqu´e aux entreprises. Le contour de l’assiette fiscale peut ´egalement affecter
+la fiscalit´e effective support´ee par les entreprises. Cette ´etude vise donc `a analyser l’´evolution
+de la taxation des entreprises dans ce contexte de baisse du taux l´egal, en documentant les
+disparit´es entre entreprises.
+Plusieurs facteurs peuvent conduire `a ce que la baisse du taux normal ne se traduise pas
+par une baisse ´equivalente de la taxation des entreprises. Par exemple, la plupart des taux
+r´eduits sont rest´es inchang´es, ce qui limite m´ecaniquement la baisse moyenne des taux ef-
+fectifs. En outre, le montant effectivement r´egl´e par les entreprises ne d´epend pas seulement
+du montant des taux l´egaux, mais ´egalement de la base fiscale `a laquelle ils s’appliquent.
+Cette base fiscale peut varier du fait des contours de l’assiette fiscale (certains postes pou-
+vant ˆetre par exemple exclus de l’imposition). Sur donn´ees am´ericaines, Desai (2005), met
+ainsi en ´evidence une dissociation entre les b´en´efices d´eclar´es aux march´es financiers et ceux
+rapport´es aux administrations fiscales. Cette divergence s’explique par l’existence de r`egles
+comptables distinctes et par le recours `a des m´ecanismes d’optimisation fiscale qui permettent
+de r´eduire artificiellement les profits imposables. L’analyse des effets des variations de taux
+d’imposition doit donc ˆetre compl´et´ee par une ´etude des ´evolutions de la base fiscale et des
+r`egles de calcul de l’impˆot. Sur la p´eriode ´etudi´ee, l’assiette de l’imposition des b´en´efices a
+3
+
+=== page 8 ===
+´et´e progressivement ´elargie en France. L’int´egration fiscale, qui autorise la compensation des
+pertes et profits entre soci´et´es membres d’un mˆeme groupe, a ´et´e restreinte en 2019, dans le
+cadre d’une mise en conformit´e avec le droit europ´een 1. La base fiscale peut ´egalement ˆetre
+influenc´ee par les choix ´economiques des entreprises, en r´eponse au niveau de taxation. Par
+exemple, Chodorow-Reich et al. (2024) observent que la r´eforme fiscale am´ericaine de 2017
+a conduit `a une augmentation mod´er´ee des investissements des entreprises, avec n´eanmoins
+une hausse modeste, mais non nulle, des b´en´efices.
+Cette ´etude propose donc une analyse d´etaill´ee de l’´evolution de la taxation effective
+des entreprises fran¸caises entre 2016 et 2022. Elle repose sur un indicateur classique de la
+litt´erature ´economique, le taux implicite d’imposition. Ce taux permet de mettre en relation
+l’impˆot vers´e au titre d’un exercice avec l’activit´e ´economique et les b´en´efices d´egag´es sur
+cette mˆeme p´eriode. En pratique, il rapporte l’impˆot sur les soci´et´es pay´e par une entreprise
+`a son exc´edent net d’exploitation (ENE). L’ENE, indicateur usuel de la richesse g´en´er´ee
+par l’activit´e productive des entreprises, correspond au solde entre le chiffre d’affaires et
+l’ensemble des charges li´ees `a la production : consommations interm´ediaires, r´emun´erations,
+cotisations sociales, impˆots sur la production et amortissements. Utiliser une approche mi-
+cro´economique permet notamment de d´ecomposer l’´evolution du taux de taxation implicite
+en fonction des ´evolutions de la base fiscale. Cette approche permet ´egalement d’analyser
+la variation des taux d’imposition selon la taille, le secteur d’activit´e— et d’en ´etudier la
+dispersion 2. Ce travail consid`ere principalement le taux implicite brut de l’impˆot sur les
+soci´et´es, c’est-`a-dire avant d´eduction des cr´edits d’impˆots.
+1. Cela fait suite `a un mouvement plus g´en´eral : par exemple, les possibilit´es de report des d´eficits
+(qui permettent d’imputer un d´eficit sur les r´esultats d’exercices ult´erieurs ou ant´erieurs) longtemps plus
+favorables en France que dans d’autres pays, sont plafonn´ees depuis 2014.
+2. Cet indicateur est par ailleurs proche de celui utilis´e en comparaisons internationales, qui rap-
+portent souvent le montant total de l’impˆot sur les soci´et´es rapport´e au produit int´erieur brut (PIB) ou
+`a l’exc´edent net d’exploitation agr´eg´e (ENE). Ces indicateurs macro´economiques pr´esentent d’importantes
+limites m´ethodologiques. D’une part, l’ENE agr´eg´e inclut ´egalement les pertes des entreprises d´eficitaires alors
+que seuls les b´en´efices sont impos´es en pratique. D’autre part, les d´ecalages calendaires entre la r´ealisation
+des b´en´efices et le recouvrement de l’impˆot compliquent le rapprochement des agr´egats sur une mˆeme ann´ee.
+4
+
+=== page 9 ===
+En pratique, l’´etude s’appuie principalement sur les liasses fiscales, documents renseign´es
+par les entreprises permettant `a la DGFIP de calculer le montant d’impˆot dˆu pour chaque
+ann´ee fiscale, et le dispositif ´elaboration des statistiques annuelles d’entreprise (Esane), per-
+mettant de d´eterminer les entreprises au sens ´economique, tel que d´efini dans la loi de moder-
+nisation de l’´economie de 2008. Les redevables fiscaux — groupes fiscaux ou unit´es l´egales —
+sont d´efinis par des crit`eres juridiques ou fiscaux, qui ne refl`etent pas toujours l’organisation
+´economique effective des entreprises. Une entreprise au sens ´economique est d´efinie comme la
+plus petite combinaison d’unit´es l´egales qui constitue une unit´e organisationnelle de produc-
+tion de biens et de services jouissant d’une certaine autonomie de d´ecision. Cette d´efinition
+est utilis´ee par l’Insee, qui regroupe les unit´es l´egales appartenant `a un mˆeme groupe pour
+former des
+≪entreprises profil´ees
+≫, entit´es ´economiques coh´erentes. Une entreprise peut
+donc correspondre `a une unit´e l´egale ind´ependante. Concernant les groupes d’entreprises,
+ils peuvent constituer une entreprise unique ou, pour les plus importants, ˆetre subdivis´es en
+plusieurs entreprises profil´ees repr´esentant des activit´es distinctes 3. Plus pr´ecis´ement, l’´etude
+porte sur les entreprises relevant du champ Esane et redevables de l’impˆot sur les soci´et´es,
+hors secteurs agricoles et financiers, pr´esentant un exc´edent net d’exploitation positif. Les
+principaux r´esultats sont disponibles jusqu’en 2022, dernier mill´esime disponible des donn´ees
+Esane, au moment de l’´elaboration de cette ´etude.
+En outre, des donn´ees compl´ementaires sont utilis´ees pour neutraliser l’impact de me-
+sures r´ecentes, transformation du Cr´edit d’impˆot pour la comp´etitivit´e et l’emploi (CICE)
+en all`egements de cotisations sociales en 2019 et r´eduction progressive de la contribution
+´economique territoriale (CET), qui ont augment´e les b´en´efices imposables des entreprises
+en ´etant compens´ees par ailleurs. En r´eduisant les coˆuts des entreprises, ces mesures ont
+3. Comme le montrent Briant and Skl´enard (2019), cette d´efinition r´ev`ele une concentration accrue du
+tissu productif, avec un poids plus important des grandes entreprises, et revalorise la part de l’industrie dans
+l’´economie au d´etriment du commerce et des services.
+5
+
+=== page 10 ===
+m´ecaniquement augment´e le b´en´efice imposable, et donc l’impˆot dˆu et le taux implicite, alors
+mˆeme qu’elles permettent un all´egement de la contribution fiscale globale des entreprises.
+Pour neutraliser les effets de ces deux r´eformes sur l’´evolution des taux, des taux implicites
+contrefactuels sont calcul´es, `a l’´echelle de chaque entreprise, pour les ann´ees post´erieures `a
+2019 en utilisant les formes initiales du CICE et la CET. Les taux d’imposition estim´es ne
+correspondent donc pas aux taux observ´es, mais permettent de comparer l’´evolution de la
+taxation effective des entreprises dans le temps.
+Les r´esultats montrent que, hors r´eformes du CICE et de la CET, le taux implicite brut
+d’imposition est pass´e de 20,7 % en 2016 `a 17,5 % en 2022 pour les entreprises marchandes,
+hors secteurs financier et agricole, soit un recul d’un sixi`eme (15,5 %) par rapport `a sa valeur
+initiale contre un quart pour le taux normal. Les r´esultats pr´eliminaires pour 2023 font ap-
+paraˆıtre un taux implicite tr`es proche de celui observ´e en 2022. L’´etude permet de quantifier
+les facteurs expliquant que cette baisse soit un peu plus faible que celle du taux normal. En
+premier lieu, cette moyenne est estim´ee sur un ensemble d’entreprises dont certaines sont
+impos´ees `a des taux r´eduits, stables sur la p´eriode. Pour cette raison, le taux fiscal moyen,
+d´efini comme le rapport entre l’impˆot acquitt´e et la base fiscale, est structurellement inf´erieur
+au taux normal (de 5,1 points en 2016). Il diminue cependant d’un quart par rapport `a sa
+valeur initiale, une baisse ´equivalente `a celle du taux normal. En outre, le b´en´efice fiscal est
+plus r´eduit que l’ENE : le taux implicite, qui rapporte l’impˆot vers´e `a ce dernier, est donc
+plus faible que le taux fiscal. En 2016, le taux implicite est inf´erieur de 6,7 au taux fiscal,
+un ´ecart r´eduit `a 3,3 points en 2022. Sur la p´eriode, notamment du fait du redressement des
+r´esultats exceptionnels et financiers, pris en compte dans le b´en´efice fiscal mais non pas dans
+l’ENE, les b´en´efices fiscaux ont progress´e plus rapidement que les profits ´economiques. Ces
+r´esultats exceptionnels et financiers sont cependant tr`es volatils sur la p´eriode et tir´es par
+l’activit´e des grandes entreprises ; il est donc difficile de d´eterminer s’il s’agit d’une simple
+´evolution conjoncturelle ou d’une tendance.
+6
+
+=== page 11 ===
+En termes d’h´et´erog´en´eit´e, les r´esultats montrent par ailleurs que la dispersion du taux
+implicite brut se resserre l´eg`erement sur la p´eriode, surtout sur le haut de la distribution : en
+2016, la moiti´e des entreprises pr´esentait un taux compris entre 7,1 % et 29,6 %, contre une
+fourchette de 5,1 % `a 25,0 % en 2022. La baisse de la taxation ne s’observe pas pour toutes
+les entreprises : si une majorit´e de celles pr´esentes tout au long de la p´eriode a connu une
+diminution du taux implicite brut (apr`es correction du CICE et de la CET), il augmente de
+plus de 9 points pour un dixi`eme d’entre elles. Ces disparit´es importantes se retrouvent selon
+la taille des entreprises. En 2022, le taux moyen atteint 21,4 % pour les PME, 19,0 % pour
+les TPE, 17,8 % pour les ETI et 14,3 % pour les grandes entreprises. Entre 2016 et 2022,
+la baisse est plus marqu´ee pour les ETI (-3,4 points) et les grandes entreprises (-5,0 points),
+tandis qu’elle reste plus limit´ee pour les PME (-1,7 point). Le taux implicite brut s’est en
+revanche l´eg`erement accru pour les TPE (+0,4 point), ces derni`eres ´etant peu affect´ees par
+la baisse du taux normal.
+Ces r´esultats confirment des analyses ant´erieures 4 : ainsi, Partouche and Olivier (2011)
+montraient que le taux implicite des soci´et´es non financi`eres au titre de 2007 est inf´erieur
+de 8 points au taux normal, du fait des taux r´eduits et d’une assiette fiscale plus ´etroite
+que l’ENE. Ils mettaient ´egalement en ´evidence une forte h´et´erog´en´eit´e selon la taille des
+entreprises, bien plus faible pour les grandes entreprises que pour les petites et moyennes
+entreprises (PME) et les tr`es petites entreprises (TPE). Dans la continuit´e de ces travaux,
+Bach et al. (2019) soulignaient la stabilit´e des taux implicites entre 2005 et 2015. Ils obser-
+vaient une forte dispersion des taux implicites, tant entre entreprises d’une mˆeme cat´egorie
+que d’une ann´ee sur l’autre, en raison de la grande volatilit´e de cet impˆot mais soulignaient
+une convergence progressive, port´ee par des r´eformes ayant ´elargi l’assiette fiscale. Enfin, le
+4. Devereux (2004) proposent un cadre g´en´eral d’analyse et une m´ethodologie fond´ee sur la mod´elisation
+du comportement d’investissement des entreprises, permettant d’estimer des taux effectifs marginaux et
+moyens d’imposition. (Spengel et al., 2020) utilisent cette approche pour effectuer des comparaisons inter-
+nationales de la fiscalit´e sur le capital.
+7
+
+=== page 12 ===
+dernier rapport ´economique et financier (Tr´esor, 2024) confirme que l’´ecart entre les taux
+implicites des grandes entreprises et des PME ou des TPE s’est largement r´eduit en 2019 par
+rapport `a 2007. Cette ´evolution s’explique notamment par la limitation de la d´eductibilit´e
+des charges financi`eres, qui a davantage affect´e les grandes entreprises, et par le calendrier
+de baisse du taux normal d’impˆot sur les soci´et´es, amorc´ee en priorit´e pour les plus petites
+entreprises.
+La suite de l’article est d´efinie comme suit : la premi`ere partie pr´esente des statistiques
+descriptives sur l’impˆot sur les soci´et´es, afin de le replacer dans le cadre plus large de la
+statistique d’entreprise ; la deuxi`eme partie pr´esente notre m´ethodologie de calcul du taux
+implicite, les ajustements r´ealis´es pour neutraliser l’effet des r´eformes concomitantes `a celle
+de la baisse du taux normal, ainsi que le champ et les unit´es statistiques retenus. Ensuite, la
+quatri`eme partie pr´esente les principaux r´esultats : ´evolution globale des taux, ´evolution de
+l’h´et´erog´en´eit´e, composantes permettant le calcul du taux puis des ´evolutions individuelles.
+Les r´esultats sont discut´es en derni`ere partie.
+8
+
+=== page 13 ===
+2
+L’impˆot sur les soci´et´es
+En 2022, 2,4 millions d’entreprises ont acquitt´e l’impˆot sur les soci´et´es, repr´esentant un
+r´esultat fiscal de 164 Md€ (Arnal, 2024). Les autres, des personnes physiques (entrepreneurs
+individuels, micro-entrepreneurs, etc.) ou des soci´et´es de personnes, sont soumises `a l’IR (voir
+annexe E). Les soci´et´es impos´ees `a l’impˆot sur les soci´et´es repr´esentent un peu plus du tiers
+du total des entreprises d´eclarant un r´esultat fiscal. Elles concentrent toutefois pr`es des deux
+tiers du r´esultat fiscal total, en raison de leur taille plus importante.
+Parmi les redevables de l’impˆot sur les soci´et´es, les entreprises b´en´eficiaires sont au nombre
+de 1,5 million, et d´egagent un b´en´efice fiscal de 277 Md€. Pour d´eterminer son b´en´efice fiscal,
+l’entreprise calcule d’abord son r´esultat d’exploitation en partant de son chiffre d’affaires,
+auquel elle ajoute les autres produits d’exploitation et retranche les charges d’exploitation
+(consommations interm´ediaires, salaires, etc.). Elle d´etermine ensuite son r´esultat comp-
+table en y ajoutant les r´esultats financiers (par exemple, ceux issus de filiales ´etrang`eres)
+et les r´esultats exceptionnels (comme les plus-values de cession de participations), puis en
+d´eduisant certaines charges, notamment les participations et l’impˆot sur les soci´et´es acquitt´e
+au cours de l’ann´ee. `A partir de ce r´esultat comptable, elle proc`ede `a diverses r´eint´egrations
+(comme l’impˆot sur les soci´et´es pay´e) ou d´eductions (par exemple, les int´erˆets d’emprunt)
+pour ´etablir son r´esultat fiscal. L’entreprise est impos´ee lorsque ce r´esultat fiscal est positif.
+Le d´etail du calcul du b´en´efice fiscal imposable (BFI) est d´etaill´e en annexe E. Entre 2016 et
+2022, le b´en´efice fiscal a augment´e de 71 %, contre 31 % pour le montant brut de l’impˆot sur
+les soci´et´es (avant r´eductions et cr´edits d’impˆot). Le montant d’impˆot brut sur les soci´et´es
+collect´e atteint ainsi 68 milliards d’euros en 2022. L’impˆot collect´e varie d’une ann´ee `a l’autre
+en partie en raison de la volatilit´e des profits des entreprises : il culmine ainsi `a 71 milliards
+d’euros en 2021 puis baisse `a 68 Md€ en 2022, apr`es un minimum `a 54 milliards en 2020.
+Seule une partie du b´en´efice fiscal des entreprises est soumise au taux normal de l’impˆot
+9
+
+=== page 14 ===
+sur les soci´et´es, fix´e `a 33,3 % en 2016 puis progressivement abaiss´e `a 25 % `a partir de 2022.
+Certaines entreprises, ou certains types de revenus, b´en´eficient en effet de taux r´eduits. Les
+petites entreprises, notamment celles dont le chiffre d’affaires est inf´erieur `a 10 millions d’eu-
+ros, peuvent b´en´eficier d’un taux de 15 %, sur la tranche de b´en´efice allant jusqu’`a 38 120
+euros. Certaines plus-values, d´efinies comme la diff´erence entre le prix de cession et la valeur
+nette comptable de l’actif c´ed´e, b´en´eficient de taux r´eduits sp´ecifiques, fix´es `a 0 %, 15 % ou
+19 % selon les cas. Par ailleurs, les revenus issus de brevets sont tax´es `a 15 % entre 2016
+et 2018, puis `a 10 % `a partir de 2019. La baisse du taux normal a par ailleurs ´et´e mise en
+œuvre de mani`ere progressive (voir annexe E), en commen¸cant par les petites entreprises et
+en introduisant des tranches de taxation interm´ediaires, avec un taux d’imposition inf´erieur
+au taux normal maximal. La figure 1 d´etaille le b´en´efice fiscal total des entreprises selon le
+taux d’imposition appliqu´e.
+10
+
+=== page 15 ===
+Figure 1 – R´epartition du r´esultat fiscal par tranche de taux nominal et montant d’IS brut
+collect´e
+— Lecture : En 2018, sur un montant total de b´en´efice de 178,3 milliards d’euros, 128,6 milliards ont ´et´e tax´es au taux
+de 33 % 1/3, 30,5 milliards ont ´et´e tax´es au taux de 28 % et 18,2 milliards au taux de 15 %. Le montant des d´eficits
+s’´elevait `a 65,4 milliards d’euros.
+— Champ : Ensemble des entreprises impos´ees `a l’IS.
+— Sources : Dgfip – Fichiers des redevables des professionnels des ann´ees 2016 `a 2022.
+Par ailleurs, en 2016, 25,8 Md€ de cr´edits d’impˆots ont ´et´e g´en´er´es sur des soci´et´es `a l’IS
+(dont 16,4 Md€ pour le CICE et 6,3 Md€ pour le CIR). En 2022, le montant total est de
+11,6 Md€ (dont 7,4 Md€ pour le CIR).
+11
+
+=== page 16 ===
+3
+M´ethodologie
+3.1
+Taux fiscal et implicite
+Ce travail s’int´eresse `a l’impˆot sur les soci´et´es tel qu’il est d´eclar´e par les entreprises,
+calcul´e sur la base du b´en´efice g´en´er´e au cours d’un exercice fiscal donn´e. Il se distingue de
+l’impˆot effectivement acquitt´e par les entreprises et encaiss´e par l’´Etat sur une ann´ee civile.
+D’une part, un exercice fiscal peut couvrir deux ann´ees civiles. D’autre part, un d´ecalage
+temporel existe entre la r´ealisation du b´en´efice et le paiement de l’impˆot, le solde ´etant vers´e
+l’ann´ee suivante. Enfin, des ´ecarts peuvent apparaˆıtre entre l’impˆot d´eclar´e et l’impˆot vers´e,
+en raison notamment d’erreurs de d´eclaration ou de redressements fiscaux. Les r´esultats
+pr´esent´es reposent donc sur les donn´ees d´eclaratives transmises par les entreprises (voir B).
+3.1.1
+Calcul du montant de l’impˆot sur les soci´et´es
+Le montant de l’impˆot brut sur les soci´et´es est calcul´e en appliquant aux diff´erentes
+composantes de l’assiette fiscale le taux correspondant.
+Le calcul de l’impˆot sur les soci´et´es brut est d´etaill´e dans la d´eclaration 2065 (Voir An-
+nexe 2). Cette d´eclaration d´etaille le calcul des diff´erentes composantes de l’assiette fiscale :
+b´en´efice fiscal, fraction imposable au taux r´eduit pour les PME (taxables aux taux normal
+et r´eduit), les plus-values imposables (19, 15 et 0%) ainsi que les revenus tir´es de l’exploi-
+tation ou de la cession d’actifs de propri´et´e intellectuelle. Par souci de simplification, nous
+regrouperons sous l’appellation b´en´efice fiscal (BFI) la somme de ces bases dans la suite
+du document, les plus-values impos´ees `a taux r´eduit ´etant isol´ees dans les liasses fiscales.
+Pour d´eterminer le montant total de l’impˆot sur les soci´et´es, la premi`ere ´etape consiste `a
+multiplier les bases imposables par le taux correspondant :
+IS Brut =
+X
+i
+Base imposablei × Tauxi
+(1)
+Note : i repr´esente les diff´erentes cases du formulaire 2065.
+12
+
+=== page 17 ===
+On ajoute ensuite `a l’impˆot brut sur les soci´et´es la contribution sociale, un pr´el`evement
+compl´ementaire `a l’impˆot sur les soci´et´es. Cette contribution vise `a accroˆıtre la participation
+des grandes entreprises au financement de la protection sociale. Elle s’applique uniquement
+aux entreprises soumises `a l’impˆot sur les soci´et´es et r´ealisant au moins 7,6 millions d’euros
+de chiffre d’affaires annuel. Elle ne s’applique donc ni aux plus petites entreprises ni `a celles
+relevant de l’impˆot sur le revenu. Son montant est ´egal `a 3,3 % de la fraction de l’IS brut
+qui d´epasse 763 000 euros :
+Contribution sociale = (IS Brut −763000) × 3, 3% × 1{CA>7,63M&IS Brut>763k}
+(2)
+On ajoute ´egalement `a l’impˆot brut sur les soci´et´es la taxation des plus-values b´en´eficiant
+d’un taux r´eduit.
+IS Brut Total = IS Brut + Contribution sociale +
+X
+i
+Plus-valuesi × Tauxi
+(3)
+Note : i repr´esente les diff´erentes cases du formulaire 2065 pour les plus-values.
+L’´etude porte sur le taux implicite brut, mais il est important de rappeler qu’en pratique,
+les soci´et´es acquittent un montant d’impˆot sur les b´en´efices inf´erieur grˆace `a des mesures de
+soutien public `a la recherche et `a l’emploi comme le cr´edit d’impˆot pour la comp´etitivit´e et
+l’emploi (CICE) et le cr´edit d’impˆot recherche (CIR).
+3.1.2
+Taux fiscal
+Le taux fiscal constitue la mesure la plus simple de l’imposition des entreprises. Il est
+d´efini comme le rapport entre le montant de l’impˆot acquitt´e et la somme des bases impo-
+13
+
+=== page 18 ===
+sables d´eclar´ees dans le formulaire 2065, y compris les plus-values ´eligibles `a un taux r´eduit
+d’imposition. Par souci de simplification, nous regrouperons sous l’appellation
+≪b´en´efice
+fiscal ≫(BFI) la somme de ces bases dans la suite du document, bien que, comme mentionn´e
+pr´ec´edemment, les plus-values `a taux r´eduit soient isol´ees dans les liasses fiscales.
+BFI =
+X
+i
+Base imposablei
+(4)
+on obtient avec l’IS Brut Total calcul´e comme indiqu´e dans l’´equation 3 :
+Taux fiscal = IS Brut Total
+BFI
+(5)
+3.1.3
+Le taux implicite
+Le taux implicite de l’impˆot sur les soci´et´es rapporte le montant de l’impˆot sur les soci´et´es
+effectivement acquitt´e par une entreprise `a un indicateur ´economique de sa performance,
+l’exc´edent net d’exploitation (ENE). Contrairement au taux fiscal, qui s’appuie sur le b´en´efice
+fiscal tel que d´efini par la l´egislation fiscale, le taux implicite repose sur une mesure plus di-
+recte de l’activit´e productive de l’entreprise. L’ENE a par ailleurs une d´efinition stable dans
+le temps, ce qui favorise les comparaisons temporelles. Les entreprises pr´esentant un ENE
+n´egatif sont exclues du champ de l’´etude, le calcul du taux implicite n’ayant de sens que
+pour les entreprises b´en´eficiaires.
+L’ENE correspond `a un niveau interm´ediaire du compte de r´esultat (voir tableau 1), situ´e
+au sein du r´esultat d’exploitation. Il s’obtient en retranchant du r´esultat d’exploitation les
+autres produits et autres charges, afin d’´ecarter certains ´el´ements comptables qui ne tra-
+duisent pas directement l’activit´e courante. Les autres produits comprennent notamment les
+subventions d’exploitation, les produits issus de concessions de brevets ou de licences, ou en-
+core les reprises sur provisions. Dans les autres charges, on trouve par exemple des amendes,
+des dons ou des p´enalit´es. Bien qu’int´egr´es `a l’exploitation, ces ´el´ements sont souvent excep-
+14
+
+=== page 19 ===
+tionnels, accessoires ou faiblement li´es `a la production de biens et services. Par ailleurs, les
+r´esultats financiers et les r´esultats exceptionnels sont ´egalement exclus, car ils rel`event d’ac-
+tivit´es p´eriph´eriques ou d’´ev´enements ponctuels et ne constituent pas une base pertinente
+pour appr´ecier la charge fiscale associ´ee `a l’activit´e productive des entreprises non financi`eres.
+En s’appuyant sur l’ENE, le taux implicite mesure ainsi le poids de l’impˆot sur les soci´et´es
+dans la performance ´economique ordinaire des entreprises, ind´ependamment des effets li´es
+`a l’optimisation fiscale, aux r´egimes d´erogatoires ou aux ´ev´enements exceptionnels. Pour
+ces raisons, cette approche est largement mobilis´ee dans les travaux empiriques sur l’analyse
+´economique de la fiscalit´e sur les b´en´efices des entreprises. Cet indicateur permet notamment
+de suivre l’imposition des b´en´efices au niveau des entreprises, d’en ´etudier les h´et´erog´en´eit´es,
+la distribution, et de suivre son ´evolution au niveau le plus fin possible.
+Cependant, utiliser l’ENE comme assiette de l’impˆot sur les soci´et´es pr´esente plusieurs li-
+mites, li´ees au fait que cet impˆot n’est pas calcul´e `a partir de l’ENE. Une entreprise peut
+ainsi afficher un ENE positif tout en ´etant d´eficitaire au regard du b´en´efice fiscal imposable,
+et inversement. Par cons´equent, une analyse du taux implicite fond´ee sur l’ENE, qui ne
+peut porter que sur les entreprises ayant un ENE positif, inclut des entreprises non rede-
+vables de l’IS et en exclut d’autres qui, elles, acquittent effectivement l’impˆot. Ensuite, les
+retraitements comptables qui viennent augmenter ou r´eduire l’ENE ne correspondent pas
+n´ecessairement `a de l’optimisation fiscale mais refl`etent souvent des ajustements conformes
+au droit, li´es `a la construction d’un r´esultat fiscal coh´erent. Enfin, le taux implicite est plus
+difficile `a construire pour les groupes fiscaux, qui acquittent une grande partie de l’impˆot
+sur les soci´et´es.
+N´eanmoins, le taux implicite de l’IS en France reste un indicateur pertinent de la dyna-
+mique de l’imposition des b´en´efices des entreprises lorsqu’il est accompagn´e de l’´etude du
+passage de l’assiette ´economique `a l’assiette fiscale.
+15
+
+=== page 20 ===
+Finalement, on obtient le taux implicite brut :
+Taux implicite brut = IS Brut Total
+ENE
+(6)
+Dans le cadre de cette ´etude, le taux implicite, qu’il soit calcul´e sur l’ensemble des entre-
+prises ou sur une sous-population, correspond `a une moyenne pond´er´ee des taux implicites
+individuels :
+Taux implicite brut moyen =
+X
+i
+IS Brut Totali
+ENEi
+× wi
+
+(7)
+avec wi =
+ENEi
+P
+j ENEj
+, o`u i et j sont des entreprises
+(8)
+Il correspond au taux implicite agr´eg´e :
+Taux implicite brut moyen =
+P
+i IS Brut Totali
+P
+i ENEi
+(9)
+L’h´et´erog´en´eit´e de ces taux pourra ensuite ˆetre analys´ee en revenant au niveau entreprise
+pour en calculer des quantiles `a l’aide des mˆemes pond´erations.
+3.1.4
+Neutralisation des effets du CICE et de la CET
+Outre la baisse du taux normal de l’impˆot sur les soci´et´es entre 2016 et 2022, la taxation
+des b´en´efices est fortement affect´ee par la suppression du cr´edit d’impˆot pour la comp´etitivit´e
+et l’emploi (CICE) en 2019, remplac´e par une diminution p´erenne de cotisations. Ce chan-
+gement complexifie la comparaison du taux implicite d’imposition entre 2016 et 2022. Elle
+conduit `a une augmentation de l’impˆot net sur les soci´et´es, d’abord par l’effet direct de la sup-
+pression du cr´edit d’impˆots. La mise en place de la diminution des cotisations a ´egalement
+un effet indirect sur l’imposition des soci´et´es : en r´eduisant les coˆuts des entreprises, elle
+16
+
+=== page 21 ===
+augmente d’autant les profits et les b´en´efices fiscaux, et contribue donc `a accroˆıtre l’impˆot
+brut. Appel´e
+≪effet retour
+≫, cette hausse indirecte de l’impˆot s’observe ´egalement avec
+la baisse de la cotisation sur la valeur ajout´ee des entreprises (CET) et la diminution de
+la Cotisation Fonci`ere des Entreprises (CFE), engag´ee `a partir de 2021. La CET, assis sur
+la valeur ajout´ee des entreprises, a vu son taux maximal divis´e par deux pour l’exercice
+2023, passant de 0,75 % `a 0,375 %. Par ailleurs, la valeur locative des ´etablissements indus-
+triels, qui sert de base au calcul de la CFE sur les propri´et´es bˆaties, est r´eduite de moiti´e. La
+CET et la CFE sont les deux composantes de la contribution ´economique territoriale (CET).
+Afin d’analyser l’´evolution du taux implicite d’imposition de mani`ere isol´ee, il est n´ecessaire
+de neutraliser ces effets indirects sur l’analyse des taux implicite. Cela suppose de construire
+un contrefactuel dans lequel le CICE et la CET sont maintenus dans leur configuration ini-
+tiale, de mani`ere `a ´ecarter leur impact sur la profitabilit´e des entreprises et, par cons´equent,
+sur les montants d’impˆot observ´es.
+Le cr´edit d’impˆot pour la comp´etitivit´e et l’emploi (CICE), est introduit en 2013 sous
+forme d’un cr´edit d’impˆot ´equivalent `a 4 % de la masse salariale pour les salaires inf´erieurs
+`a 2,5 fois le SMIC (puis port´e `a 6 % entre 2014 et 2016, `a 7 % en 2017, et de nouveau
+`a 6 % en 2018). En 2019, le CICE est remplac´e par une baisse p´erenne de cotisations so-
+ciales employeurs de mˆeme ampleur en vue de simplifier la fiscalit´e du travail. Pour ´eviter
+que la transformation du CICE ne conduise `a une hausse de la fiscalit´e globale des entre-
+prises, le dispositif d’all`egement a ´et´e calibr´e de mani`ere `a neutraliser l’effet indirect. Ainsi,
+la r´eduction de 6 % des cotisations patronales sur les salaires jusqu’`a 2,5 SMIC est compl´et´ee
+fin 2019 par d’autres all`egements, comme la suppression des cotisations chˆomage (4,05 %)
+jusqu’`a 1,6 SMIC.
+Pour neutraliser l’effet du CICE sur le taux implicite brut, nous mobilisons la base tous
+17
+
+=== page 22 ===
+salari´es (BTS), qui fournit la distribution des r´emun´erations au sein de chaque entreprise.
+Cette base permet d’estimer un montant de CICE contrefactuel entre 2019 et 2022, c’est-`a-
+dire le montant qui aurait ´et´e vers´e `a chaque entreprise si le bar`eme en vigueur en 2018 avait
+´et´e maintenu. Parall`element, nous calculons le montant des nouveaux all`egements de charges
+instaur´es `a partir de 2019. Concr`etement, nous identifions le volume de r´emun´erations vers´ees
+par l’entreprise inf´erieures `a 1,6 et 2,5 SMIC puis appliquons les bar`emes correspondants (voir
+annexeC pour plus de d´etails sur le calcul du CICE contrefactuel).
+Les taux implicite et fiscal contrefactuels sont construits grˆace `a d’autres donn´ees : Une
+premi`ere ´etape consiste `a recalculer le montant de l’ENEinit, correspondant au niveau des
+cotisations sociales applicable en d´ebut de p´eriode. `A partir de 2019, on y ajoute `a l’ENE
+observ´e le montant du CICE contrefactuel (6 points appliqu´es aux salaires dans la limite de
+2,5 SMIC), ainsi que l’all´egement compl´ementaire (4,05 points appliqu´es aux salaires dans la
+limite de 1,6 SMIC). Les grandeurs BFIinit et IS Brutinit sont ´egalement recalcul´ees `a partir
+de ce niveau de cotisations sociales augment´ees.
+ENEinit = ENE - CICE BTS - All`egement Compl´ementaire BTS
+(10)
+BFIinit = BFI - CICE BTS - All`egement Compl´ementaire BTS
+(11)
+IS Brutinit = BFIInit*taux
+(12)
+Parall`element `a la transformation du CICE, la r´eforme des impˆots de production pr´evoit
+un all`egement de la fiscalit´e de la contribution ´economique territoriale (CET), compos´ee
+principalement de la cotisation sur la valeur ajout´ee des entreprises (CET) et de la coti-
+sation fonci`ere des entreprises (CFE). Dans le d´etail, ces mesures pr´evoient `a compter de
+2021 un abaissement de moiti´e du taux d’imposition de la CET ainsi qu’un abattement de
+50% de la base imposable `a la CFE pour les locaux industriels. Le taux maximal de la CET
+(applicable `a la tranche sup´erieure) est ainsi ramen´e de 1,5 % `a 0,75 %. La neutralisation
+18
+
+=== page 23 ===
+de la r´eforme de la CET, assimilable `a une suppression d’impˆot venant all´eger les charges
+d’exploitation, est moins ´evidente que celle du CICE (qui substitue une r´eduction de coti-
+sations `a une exon´eration fiscale). Elle est toutefois retenue dans cette ´etude afin d’´eviter
+un effet de champ : certaines petites entreprises, non profitables en l’absence de la r´eforme,
+deviennent profitables du fait de celle-ci. Leur inclusion pourrait alors introduire un biais
+dans les analyses.
+Comme d´etaill´e en annexeC, les ajustements li´es `a la prise en compte des r´eformes du
+CICE et de la CET conduisent `a des ´ecarts qui restent modestes sur le taux implicite brut
+d’IS. Ils conduisent `a r´eduire le taux implicite brut de l’IS de 0,3 point en 2022 (par rapport
+`a celui qu’on aurait observ´e sans neutraliser les effets de ces r´eformes), avec une r´eduction
+estim´ee `a 25 Md€ de l’ENE et `a 5 Md€ de l’IS brut. Cette ´evolution s’explique notamment
+par une augmentation du nombre d’entreprises profitables et du niveau de leurs b´en´efices.
+3.2
+D´ecomposition de l’´ecart entre taux normal et implicite
+L’objectif de cette partie est de proposer une m´ethode s’inspirant des travaux ant´erieurs
+sur le taux implicite de l’impˆot sur les soci´et´es (Bach et al., 2019), pour mettre en lumi`ere les
+facteurs expliquant les ´ecarts du taux implicite aux taux fiscal et normal. Une d´ecomposition
+est donc propos´ee pour illustrer les effets des diff´erents ´el´ements `a ces ´ecarts.
+La premi`ere ´etape de la d´ecomposition porte sur le passage du taux normal au taux fiscal
+moyen effectivement acquitt´e par les entreprises. Cet ´ecart s’explique notamment par les
+taux r´eduits qui s’appliquent pour d´eterminer le montant de l’impˆot. L’ampleur de cet ´ecart
+d´epend `a la fois de la part de l’assiette soumise `a ces taux r´eduits et des diff´erences entre
+taux r´eduits et le taux normal. Concr`etement, la contribution des diff´erents taux r´eduits est
+calcul´ee en comparant l’impˆot effectivement pr´elev´e sur les diff´erentes assiettes au montant
+contrefactuel qui aurait ´et´e per¸cu si elles avaient ´et´e impos´ees au taux normal Tauxnorm de
+19
+
+=== page 24 ===
+l’IS :
+Taux normal −Taux fiscal = BFI × Tauxnorm
+BFI
+−IS brut Final
+BFI
+=
+X
+i
+Basei × (Tauxnorm −Tauxi)
+BFI
+La deuxi`eme ´etape de la d´ecomposition porte sur le passage du taux fiscal au taux impli-
+cite. Les deux indicateurs partagent le mˆeme num´erateur, le montant d’impˆot acquitt´e par
+l’entreprise, mais diff`erent par leur d´enominateur, le BFI dans un cas, l’ENE dans l’autre.
+Cette ´etape s’appuie donc sur le d´etail du compte de r´esultat de l’entreprise (table 1) en
+isolant les agr´egats comptables permettant de passer de l’un `a l’autre 5.
+Ces agr´egats comptables rel`event de deux dimensions distinctes. D’une part, l’exc´edent
+net d’exploitation (ENE), qui correspond au r´esultat tir´e de l’activit´e courante de l’entre-
+prise, ne constitue qu’une partie de son b´en´efice total. L’entreprise peut ´egalement enregistrer
+des r´esultats financiers — par exemple en percevant des dividendes d’une filiale `a l’´etranger
+— ou des r´esultats exceptionnels, comme lors de la cession d’actifs. Les pertes et profits issus
+de ces trois composantes (exploitation, financier, exceptionnel) peuvent se compenser entre
+eux. D’autre part, le calcul de l’assiette fiscale `a partir du r´esultat comptable donne lieu
+`a des ajustements fiscaux, sous forme de r´eint´egrations et de d´eductions extra-comptables.
+Ces ajustements refl`etent en partie des choix de politique ´economique, tels que la volont´e de
+soutenir l’investissement ou certains secteurs. Autre exemple, si l’impˆot sur les soci´et´es est
+comptablement d´eductible, il repr´esente une charge pour l’entreprise, il ne l’est pas fiscale-
+ment : il doit ˆetre r´eint´egr´e dans l’assiette, car il serait incoh´erent de d´eduire du b´en´efice un
+5. Pr´ecision importante, nous neutralisons dans le r´esultat financier le montant correspondant `a la
+d´eduction du r´egime m`ere-fille. Les montants correspondants, parfois tr`es ´elev´es, sont comptabilis´es dans
+le r´esultat financier puis d´eduits du r´esultat fiscal. Pour faciliter la lecture de la d´ecomposition et ´eviter
+les variations excessives des deux blocs concern´es, la d´eduction est neutralis´ee (retir´ee `a la fois du r´esultat
+financier et des d´eductions) sans incidence sur les taux fiscal ou implicite.
+20
+
+=== page 25 ===
+montant servant pr´ecis´ement `a en ´etablir le calcul.
+Pour d´ecomposer l’´ecart entre les taux implicite et fiscal, on applique la formule suivante,
+en isolant chaque case Casei de la liasse fiscale permettant le passage de l’ENE au BFI :
+Taux fiscal −Taux implicite = Taux fiscal −IS brut Final
+ENE
+= Taux fiscal × (1 −BFI
+ENE)
+= Taux fiscal × (1 −ENE + P
+i Casei
+ENE
+)
+=
+X
+i
+Taux fiscal × Casei
+ENE
+Pr´ecision importante, la d´ecomposition pr´esent´ee n’est valable que pour les redevables
+fiscalement b´en´eficiaires. Dans le cas des redevables en d´eficit fiscal, la somme des agr´egats
+comptables utilis´ee pour passer de l’ENE au BFI (voir table 1) ne correspond pas au BFI. En
+effet, pour ces derniers, le r´esultat fiscal (RFI) est n´egatif ; ils ne sont donc pas redevables de
+l’impˆot sur les soci´et´es, le b´en´efice fiscal (BFI) correspondant est donc nul. Il n’est d`es lors
+pas possible de reconstituer le BFI total agr´eg´e `a partir de l’ENE total en appliquant directe-
+ment les agr´egats comptables totaux calcul´es sur l’ensemble des redevables. Par cons´equent,
+nous choisissons d’exclure les redevables d´eficitaires de cette d´ecomposition. Concr`etement,
+tous leurs agr´egats comptables sont ramen´es `a z´ero 6. Ce traitement ne permet pas `a lui seul
+de reconstituer le taux implicite agr´eg´e `a partir du taux fiscal moyen en lui appliquant suc-
+cessivement les diff´erents ´el´ements de la d´ecomposition. En effet, les redevables d´eficitaires,
+bien qu’ils n’influencent pas le taux fiscal moyen (leur BFI et leur impˆot sont tous deux
+6. Une alternative consisterait `a calculer les agr´egats sur l’ensemble des redevables, puis `a ajouter un terme
+de correction en fin de d´ecomposition pour neutraliser la contribution des d´eficits fiscaux. Cette m´ethode n’a
+pas ´et´e retenue car elle donnerait un poids excessif aux comptes de r´esultat d’entit´es non impos´ees, nuisant
+`a la lisibilit´e de la d´ecomposition.
+21
+
+=== page 26 ===
+nuls), affectent le taux implicite : leur ENE n’est pas n´ecessairement nul et contribue donc
+au num´erateur du taux implicite. Cette contribution, appel´ee effet de champ, est mesur´ee
+par diff´erence entre le taux implicite agr´eg´e (calcul´e sur l’ensemble des entreprises) et celui
+calcul´e sur les seuls redevables b´en´eficiaires. La Table 14 d´etaille la construction de cet indi-
+cateur selon les diff´erents types d’entreprises.
+Le corollaire est donc que la d´ecomposition est conduite au niveau du redevable fis-
+cal, et non de l’entreprise au sens statistique. En effet, raisonner `a l’´echelle de l’entreprise
+introduirait des effets de compensation entre redevables : les r´esultats fiscaux positifs de
+certains pourraient ˆetre absorb´es par les d´eficits d’autres, appartenant `a la mˆeme entreprise.
+Le b´en´efice fiscal agr´eg´e ne correspondrait alors plus `a celui effectivement utilis´e pour la
+taxation. Or, la taxation est d´etermin´ee au niveau du redevable, non de l’entreprise au sens
+statistique, une telle compensation fausserait donc le calcul de l’assiette effectivement im-
+pos´ee. Il en d´ecoule que l’effet de champ peut ˆetre positif ou n´egatif. Il est positif lorsque les
+redevables d´eficitaires, mais pr´esentant un ENE positif, dominent. `A l’inverse, l’effet devient
+n´egatif si le poids des redevables cumulant un ENE et un BFI d´eficitaires est pr´epond´erant (`a
+noter que ce cas de figure n’est possible que si ces redevables appartiennent `a une entreprise
+dont l’ENE total est positif, faute de quoi l’entreprise elle-mˆeme ne serait pas incluse dans
+le champ de l’´etude).
+3.3
+Champ et unit´e d’observation de l’´etude
+L’´etude porte sur les entreprises relevant du champ du dispositif d’´elaboration des sta-
+tistiques annuelles d’entreprise (Esane) et redevables de l’impˆot sur les soci´et´es. Plusieurs
+secteurs sont cependant exclues de l’analyse. Les comptes de r´esultat des secteurs agricoles
+et financiers diff`erent fortement de ceux des autres entreprises marchandes, en raison du
+poids des subventions d’exploitation pour les premi`eres, et des r´esultats financiers pour les
+22
+
+=== page 27 ===
+Table 1 – D´etail du compte de r´esultat : du chiffre d’affaires au b´en´efice fiscal
+Chiffre d’affaires (FL)
++ Autres produits d’exploitation (FM+FN+FO+FP+FQ)
+- Charges d’explotation (GF)
+R´esultat d’exploitation (GG)
+- Autres Produits (FQ)
++ Autres Charges (GE)
+ENE
++ R´esultat Financier (GV - XA)
++ R´esultat Exceptionnel (HI)
++ R´eint´egrations/D´eductions (WR - WA - XH + WS + XA - HK)
+- Reports de d´eficit (XL)
+- R´egime De Groupe (CA - CX - CB + CY)
+- Participation Des Salari´es (HJ)
++ B´en´efice Attribu´e (GH)
+- Perte Support´ee (GI)
+B´en´efice fiscal BFI (XN)
+— Source : DGFiP
+— Note : Les lettres `a chaque ligne correspondent aux codes des cases correspondantes
+sur la d´eclaration fiscale
+23
+
+=== page 28 ===
+secondes. Le taux implicite n’est donc pas un indicateur pertinent pour ´evaluer la contribu-
+tion fiscale des entreprises de ces secteurs. Sont ´egalement exclues les entreprises soumises `a
+la taxe sp´eciale au tonnage. Ce r´egime fiscal sp´ecifique, applicable sous certaines conditions
+aux entreprises du secteur maritime, se substitue `a l’imposition classique `a l’impˆot sur les
+soci´et´es. Les entreprises concern´ees peuvent ainsi opter pour une imposition forfaitaire, cal-
+cul´ee en fonction du tonnage brut des navires exploit´es. Enfin, comme signal´e pr´ec´edemment,
+les entreprises dont l’exc´edent net d’exploitation (ENE) est n´egatif sont ´egalement exclues
+du champ de l’´etude, le taux implicite n’´etant pas pertinent dans ce cas.
+3.3.1
+Redevable fiscal et entreprise au sens ´economique
+Les redevables de l’impˆot sur les soci´et´es sont soit des unit´es l´egales, soit des groupes
+fiscaux (voir annexe E). Sous certaines conditions, les groupes d’entreprises peuvent opter
+pour un r´egime d’imposition consolid´e. La soci´et´e m`ere est alors redevable de l’impˆot sur
+toutes ses filiales d´etenues `a plus de 95 %. En agr´egeant le r´esultat fiscal `a l’´echelle du groupe
+fiscal, l’int´egration permet de compenser les b´en´efices des soci´et´es profitables par les pertes
+des soci´et´es d´eficitaires.
+Le contour des redevables fiscaux ne correspond pas n´ecessairement `a la notion d’entre-
+prise au sens ´economique d´efini par l’Insee. Cette derni`ere d´esigne la plus petite combinaison
+d’unit´es l´egales constituant une entit´e de production de biens ou de services, disposant d’une
+certaine autonomie de d´ecision, notamment en mati`ere d’allocation des ressources courantes.
+Depuis 2017, les statistiques structurelles d’entreprises sont enti`erement produites selon cette
+d´efinition ´economique, pr´ecis´ee par le d´ecret n° 2008-1354 pris en application de la loi de
+modernisation de l’´economie (LME). Une entreprise peut ainsi correspondre `a une unit´e
+l´egale isol´ee ou `a un groupe d’unit´es l´egales. La d´efinition statistique des groupes retenue
+par l’Insee diff`ere de celle des groupes fiscaux : un groupe est ici constitu´e de l’ensemble des
+soci´et´es contrˆol´ees directement ou indirectement `a plus de 50 % par une soci´et´e m`ere, et non
+24
+
+=== page 29 ===
+`a 95 % comme dans le cadre de l’int´egration fiscale. Enfin, les groupes les plus importants
+peuvent ˆetre subdivis´es en plusieurs entreprises dites
+≪profil´ees
+≫, correspondant `a leurs
+diff´erentes branches d’activit´e ´economique.
+Dans le cas le plus simple, une entreprise se compose de plusieurs soci´et´es ou groupes
+fiscaux redevables de l’impˆot sur les soci´et´es. Il est alors possible de reconstituer des agr´egats
+tels que l’ENE, le BFI ou le montant d’impˆot sur les soci´et´es par simple somme, ces variables
+´etant additives. Une situation plus complexe apparaˆıt toutefois lorsque qu’un mˆeme groupe
+fiscal exerce des activit´es relevant de plusieurs entreprises profil´ees, telles que d´efinies par
+l’Insee. Ce cas de figure peut se produire pour les d´ecalages d’exercice dans les d´eclarations 7,
+lorsque le contour utilis´e n’est pas le mˆeme que celui mobilis´e par l’Insee, ou pour les tr`es
+grands groupes lorsque le profilage am`ene un contour diff´erent de celui retenu fiscalement.
+Il devient alors n´ecessaire de ventiler les donn´ees du groupe fiscal entre ces diff´erentes en-
+tit´es, afin d’assurer une coh´erence avec la structure ´economique r´eelle. `A cet ´egard, l’unit´e
+l´egale (UL), correspondant ici `a des soci´et´es, constitue un niveau d’observation pertinent.
+Elle repr´esente une entit´e ´el´ementaire en statistique d’entreprise, facilement identifiable.
+Pour les groupes fiscaux, l’ensemble des d´eclarations ´etant regroup´ees sur une seule et
+mˆeme tˆete de groupe, certains agr´egats comptables, notamment ceux concernant l’impˆot
+sur les soci´et´es, ne sont pas disponibles dans les d´eclarations de chaque unit´e l´egale (UL)
+membre du groupe fiscal. Certaines variables fiscales et comptables par unit´e l´egale sont donc
+estim´ees en ventilant les d´eclarations de la tˆete de groupe au pro rata de la masse salariale
+de l’unit´e l´egale.
+La masse salariale donne une bonne repr´esentation du poids ´economique d’une unit´e
+7. Lors d’un d´ecalage d’exercice, le groupe fiscal va d´eclarer en utilisant son contour du mill´esime N-1 :
+en cas de restructuration en N (par exemple rachat-fusion-acquisition), ce contour ne correspond plus `a celui
+de l’ann´ee N.
+25
+
+=== page 30 ===
+l´egale au sein du groupe fiscal et de l’entreprise profil´ee 8. Elle remplit par ailleurs deux
+conditions :
+— ˆetre additive, afin de pouvoir ˆetre somm´ee directement au niveau de l’unit´e l´egale
+(contrairement par exemple au chiffre d’affaires) ;
+— ˆetre strictement positive, afin d’´eviter des proportions sup´erieures `a 100% ou qui
+soient n´egatives (contrairement par exemple `a la valeur ajout´ee).
+Les bases BIC-IS de la DGFIP fournissent en outre la masse salariale au niveau de l’unit´e
+l´egale. Concr`etement, on consid`ere un groupe fiscal j compos´e de n unit´es l´egales i. Pour une
+variable fiscale vfj, d´eclar´ee par la tˆete de groupe, on estime vfij, la mˆeme variable fiscale
+estim´ee au niveau de l’UL i, en fonction de mi, sa masse salariale :
+vfij =
+mi
+Pn
+i=1 mi
+vfj
+(13)
+Ce retraitement permet de ventiler les variables d’int´erˆet pour l’ensemble des soci´et´es
+int´egr´ees `a un groupe fiscal, ce qui repr´esente 89 600 unit´es l´egales pour un total de 151,9
+milliards d’euros d’ENE en 2022. Cela repr´esente seulement 7,7 % du total des UL du champ
+de l’´etude, mais un peu plus de la moiti´e en volume d’ENE (54,8 %) : les unit´es l´egales
+ind´ependantes sont en effet plus nombreuses, mais aussi de plus petite taille.
+Comme ´evoqu´e plus haut, il peut arriver que le contour de ces groupes fiscaux recouvre
+en r´ealit´e diff´erentes entreprises profil´ees. Les unit´es l´egales dans cette situation sont au
+nombre de 7 078 en 2022 et repr´esentent un volume ´economique de 55,2 milliards d’euros
+d’ENE et 5,1 milliards d’impˆot brut pay´e, soit 19,9 % de l’ENE total du champ de l’´etude,
+mais seulement 10,5 % du volume total d’IS. Le taux implicite de cette cat´egorie passe de
+8. C’est d’ailleurs cette variable qui est utilis´ee par l’Insee pour la ventilation de la valeur ajout´ee des
+entreprises pour le calcul des PIB r´egionaux, ainsi que dans les analyses ´economiques locales de richesse
+d´egag´ee. Dans les analyses r´egionales de PIB et de richesse cr´e´ee au niveau local, les directions r´egionales de
+l’Insee mobilisent le FEE (Fichier Economique Enrichi) qui s’appuie justement sur la masse salariale pour
+estimer un proxy de la valeur ajout´ee cr´e´ee `a un niveau g´eographique fin.
+26
+
+=== page 31 ===
+17,9 % en 2016 `a 9,3 % en 2022, mais l’´evolution est heurt´ee sur la p´eriode 9 (voir figure 17).
+Une fois ce traitement op´er´e, les unit´es l´egales peuvent ˆetre appari´ees avec les bases
+”ESANE” sur le champ de la statistique structurelle d’entreprise, puis regroup´ees suivant le
+contour des entreprises profil´ees, avec agr´egation des variables d’int´erˆet.
+En 2022, le champ Esane repr´esente ainsi 85 % des unit´es l´egales du champ initial de
+la DGFIP, et le champ de l’´etude, un peu plus de la moiti´e, de nombreuses unit´es l´egales
+´etant ´ecart´ees en raison d’un ENE n´egatif. En volume d’IS collect´e, le champ final de l’´etude
+repr´esente 78 % du champ initial de la DGFiP. Inversement, le champ de l’´etude ne repr´esente
+pas plus du quart du champ Esane en nombre d’unit´es l´egales en 2022, mais les trois quarts
+en valeur ajout´ee et plus de 70 % en effectif salari´e. De nombreuses unit´es l´egales sont en
+effet ´ecart´ees de l’´etude car relevant de l’impˆot sur le revenu : il s’agit le plus souvent d’auto-
+entrepreneurs ou de petites entreprises individuelles dont le poids ´economique est faible.
+L’annexe D d´etaille et quantifie les diff´erences de champ, entre celui initialement utilis´e par
+la DGFiP (redevables fiscaux) et celui de la statistique structurelle d’entreprise, dit champ
+Esane qui est celui usuellement mobilis´e `a l’Insee.
+3.3.2
+Le cas particulier des entreprises d´eficitaires
+ENE > 0 et BFI < 0 :
+Certaines entreprises peuvent ˆetre profitables du point de vue
+de leur activit´e d’exploitation (ENE > 0) alors qu’elles d´eclarent un d´eficit du point de vue
+fiscal (BFI < 0). Cette situation peut r´esulter de m´ecanismes de d´eduction ou d’optimisation
+r´eduisant le b´en´efice imposable, ou encore de r´esultats financiers ou exceptionnels n´egatifs.
+9. Les sp´ecificit´es observ´ees sur les entreprises contenant des groupes fiscaux r´epartis sur plusieurs entre-
+prises s’expliquent en grande partie par un effet de structure : les entreprises en question sont de plus grande
+taille. Elles appartiennent n´ecessairement `a la cible 1 du profilage, qui regroupe les 89 plus grands groupes
+fran¸cais. En effet, les groupes de taille plus modeste (cible 2) ne sont pas d´ecoup´es en plusieurs entit´es pro-
+fil´ees par l’Insee. Or, un groupe fiscal ´etant toujours inclus dans un groupe statistique, cette configuration
+de groupes fiscaux r´epartis sur plusieurs entreprises profil´ees ne concernent donc que des entreprises issues
+de la cible 1.
+27
+
+=== page 32 ===
+En 2022, ce cas de figure concerne 355 200 unit´es l´egales, soit 14,6 % du total des redevables
+fiscaux. Ces entreprises repr´esentent un total de 30,4 milliards d’euros d’ENE, sur un total
+de 529,7 milliards d’euros d’ENE > 0, soit 5,7 %.
+ENE < 0 et BFI > 0 :
+Le cas inverse peut ´egalement se produire : certaines soci´et´es
+d´egagent un b´en´efice fiscal uniquement grˆace `a leurs r´esultats financiers ou exceptionnels
+(cessions de titres ou d’actifs, produits li´es `a des participations au capital, etc.), alors mˆeme
+que leur r´esultat d’exploitation est d´eficitaire. Ces situations restent toutefois marginales :
+en 2022, elles concernent 122 800 UL, soit 5 % du total des unit´es l´egales redevables. Elles
+repr´esentent n´eanmoins un volume non n´egligeable d’impˆot sur les soci´et´es brut collect´e, `a
+hauteur de 11,2 milliards d’euros, soit 16,2 % du total de l’IS.
+La figure 20 en annexe illustre les ´ecarts de taux implicite selon le champ retenu : en-
+treprises b´en´eficiaires au sens de l’ENE, du BFI, et du BFI hors plus-values. Le d´etail de
+la construction des variables comptables de l’entreprise profil´ee est d´ecrit en annexe pour
+diff´erents cas-types (tableau 14 page 75).
+Il est important de garder `a l’esprit que les r´esultats de cette ´etude reposent sur une
+fiscalit´e reconstruite `a l’´echelle de l’entreprise, au sens de la LME. Ce p´erim`etre, plus per-
+tinent pour analyser le tissu productif selon la taille ou le secteur d’activit´e, ne correspond
+pas n´ecessairement aux entit´es qui acquittent effectivement l’impˆot. La m´ethode retenue ne
+modifie pas le montant total d’impˆot pay´e, ni ne consolide les r´esultats des diff´erents rede-
+vables fiscaux d’une mˆeme entreprise. C’est `a dire que les d´eficits d’un redevable de l’EP ne
+vont pas d´eduire les b´en´efices d’un autre redevable et donc modifier l’IS de l’EP consolid´e
+sur chaque redevable. Elle se limite `a redistribuer les profits et l’imposition associ´ee selon
+28
+
+=== page 33 ===
+une d´efinition de l’entreprise plus adapt´ee `a l’analyse ´economique.
+La reconstitution de l’impˆot et des agr´egats comptables n´ecessaires `a son calcul repose
+toutefois sur un ensemble d’hypoth`eses, pr´esent´ees dans cette partie. C’est notamment le
+cas lorsqu’un redevable fiscal est rattach´e `a plusieurs entreprises : les diff´erentes variables
+sont alors r´eparties au prorata de la masse salariale. Des approximations sont ´egalement
+n´ecessaires, comme la simple sommation de certaines variables, en l’absence de possibilit´e
+de consolidation comptable entre redevables fiscaux d’une mˆeme entreprise.
+Par ailleurs, comme expliqu´e ci-dessus, notre approche diff`ere de l’impˆot effectivement
+acquitt´e sur un autre point : les effets des r´eformes de la CET et du CICE sont neutralis´es.
+En effet, bien que ces dispositifs r´eduisent directement la charge fiscale, ils augmentent in-
+directement la profitabilit´e des entreprises. Nous choisissons ici de ne pas en tenir compte,
+afin d’isoler plus clairement l’effet des baisses du taux de l’impˆot sur les b´en´efices. Ce choix
+a un impact marginal sur le taux implicite brut (voir annexe).
+Ces choix m´ethodologiques nous paraissent justifi´es dans une perspective d’analyse ´economique
+des effets de la baisse du taux normal de l’impˆot sur les soci´et´es. Il reste toutefois important
+de souligner que, pour les raisons expos´ees ci-dessus, les r´esultats obtenus s’´ecartent des
+montants comptables bruts effectivement enregistr´es par les entreprises.
+4
+R´esultats
+4.1
+´Evolution des taux fiscal et implicite
+Entre 2016 et 2022, le taux fiscal moyen de l’impˆot sur les soci´et´es baisse nettement, pas-
+sant de 28,2 % `a 21,7 %, ´equivalent `a une diminution d’un sixi`eme par rapport `a sa valeur
+initiale. Les r´esultats pr´eliminaires pour 2023 font apparaˆıtre un taux implicite tr`es proche
+29
+
+=== page 34 ===
+de celui observ´e en 2022 (voir tableau 16 en annexe). Cette diminution, bien qu’importante,
+est un peu moins prononc´ee que celle du taux nominal, qui passe de 33,1/3 % `a 25 % sur
+la mˆeme p´eriode, un recul correspondant `a un quart de la valeur initiale. En effet, le taux
+r´eduit de l’impˆot sur les soci´et´es, appliqu´e aux petites entreprises, est demeur´e inchang´e `a
+15 %, ce qui limite la baisse du taux fiscal moyen. Les taux r´eduits appliqu´es aux plus-values
+restent ´egalement inchang´es, avec le mˆeme effet mod´erateur sur la baisse du taux fiscal.
+Figure 2 – ´Evolution des taux fiscal et implicite de 2016 `a 2022
+— Note : hors effets des r´eformes du CICE et de la CET
+— Lecture : en 2016, le taux fiscal brut d’impˆot sur les soci´et´es ´etait inf´erieur `a 33,3 %
+pour la moiti´e des unit´es l´egales du champ
+— Champ : entreprises profil´ees des secteurs principalement marchands non agricoles
+et non financiers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe
+sp´eciale au tonnage
+— Sources : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+Le taux implicite est calcul´e en prenant en compte les retraitements sur le CICE et
+la CET d´etaill´es dans l’annexe C. Le taux implicite brut, qui ´etait de 20,7% en 2016, est
+30
+
+=== page 35 ===
+inf´erieur de 3,2 points en 2022 (hors effets des r´eformes du CICE et de la CET) apr`es un pic
+en 2019, ann´ee marqu´ee par de forts b´en´efices, `a 21,6% 10 11. La baisse moins marqu´ee du
+taux implicite d’imposition par rapport au taux normal s’explique par une base fiscale plus
+dynamique que le profit ´economique : entre 2016 et 2022, sur le champ de l’´etude, l’ENE
+progresse nettement (+ 53 %, + 96 Md€), mais moins rapidement que le b´en´efice fiscal
+(+ 68 % 12, + 91 Md€).
+Parall`element, la dispersion des taux d’imposition se r´eduit, confirmant les conclusions
+de travaux ant´erieurs (Bach et al., 2019). En niveau, le resserrement se manifeste surtout en
+haut de la distribution : le troisi`eme quartile recule de 4,6 points d’ENE, passant de 29,6 %
+en 2016 `a 25,0 % en 2022 (figure 8), soit une baisse de 15%. La m´ediane baisse ´egalement
+(de 22,2 % `a 19,2 %, soit –3,0 points, une baisse de 13 %), tandis que le premier quartile
+diminue de seulement 2,0 points (de 7,1 % `a 5,1 %, ce qui correspond n´eanmoins `a une baisse
+de 28%).
+4.2
+Du taux normal au taux implicite
+L’´ecart entre le taux normal et le taux fiscal moyen s’explique principalement par l’ap-
+plication de taux r´eduits `a certaines entreprises (figure 2). La contribution des taux r´eduits
+`a cet ´ecart augmente l´eg`erement entre 2016 (5,1 points) et 2020 (7,1 points), en lien avec
+la baisse progressive du taux normal (voir tableau 16). En effet, les petites et moyennes
+entreprises b´en´eficient d’un taux d’imposition inf´erieur au taux normal maximal, sur tout ou
+partie de leurs b´en´efices. Cet effet disparaˆıt compl`etement en 2022 et s’inverse, certaines en-
+treprises continuent d’ˆetre impos´ees `a un taux sup´erieur `a 25 % sur la part de leurs b´en´efices
+r´ealis´ee en 2021, lorsque l’exercice fiscal couvre deux ann´ees civiles. La contribution globale
+10. Cette baisse reste robuste `a une correction inverse du CICE et de la CET : en mettant en place les
+r´eformes d´es 2016 dans nos donn´ees, le taux implicite brut passe de 21,2% `a 17,4%, c’est-`a-dire une baisse
+de 3,7 points.
+11. Le regroupement des UL au sein des EP fait augmenter le taux implicite d’environ un point chaque
+ann´ee, les EP pouvant contenir des UL payant un IS mais d´eficitaires au sens de l’ENE (Voir D.)
+12. Sur l’ensemble des redevables, la progression est de + 71 %.
+31
+
+=== page 36 ===
+Figure 3 – ´Evolution de l’h´et´erog´en´eit´e du taux implicite de 2016 `a 2022
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Champ : entreprises profil´ees des secteurs principalement marchands non agricoles
+et non financiers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe
+sp´eciale au tonnage.
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane.
+32
+
+=== page 37 ===
+des taux r´eduits diminue ainsi nettement en 2022, `a 3,3 points. Il faut toutefois souligner
+que cet ´ecart reste volatil, il atteignait encore 6,6 points en 2021, notamment en raison des
+taux r´eduits appliqu´es aux plus-values ´eligibles, des revenus exceptionnels dont l’importance
+varie fortement d’une ann´ee `a l’autre et qui en 2021 ont ´et´e particuli`erement ´elev´es du fait
+de la s´eparation en deux d’une grande entreprise, puis de la cession de l’une de ces parties.
+Table 2 – D´ecomposition du taux d’imposition moyen entre 2016 et 2022
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Taux normal d’imposition
+33,3
+33,3
+33,3
+33,3
+31,0
+27,5
+25,0
+Contribution sociale 3,3%
+0,5
+0,5
+0,5
+0,5
+0,4
+0,4
+0,4
+Taux r´eduit de 15%
+-1,9
+-1,9
+-1,9
+-1,9
+-1,8
+-1,0
+-0,9
+Taux r´eduit plus-values
+-3,5
+-4,9
+-3,8
+-3,6
+-4,1
+-5,8
+-2,7
+Taux r´eduit brevet
+-0,2
+-0,1
+-0,2
+-0,4
+-0,3
+-0,3
+-0,4
+Baisse progressive du taux normal
+0,0
+-0,3
+-1,1
+-1,5
+-1,3
+0,1
+0,3
+Total contribution des taux r´eduits
+-5,1
+-6,7
+-6,5
+-6,9
+-7,1
+-6,6
+-3,3
+Taux fiscal
+28,2
+26,6
+26,8
+26,4
+23,9
+20,9
+21,7
+Report de d´eficit
+-0,9
+-1,0
+-1,0
+-1,2
+-0,8
+-0,9
+-1,1
+R´eint´egrations/d´eductions extra-comptable
+-2,0
+-2,9
+-2,9
+-1,6
+-0,9
+-3,6
+-1,8
+Plus-values et brevets
+1,8
+2,5
+1,5
+2,3
+2,1
+4,1
+2,0
+Passage du r´es. fiscal au r´es. comptable
+-1,1
+-1,4
+-2,4
+-0,5
+0,4
+-0,4
+-0,9
+R´esultat financier
+-5,1
+-4,1
+-2,7
+-2,9
+-4,4
+-1,4
+-2,4
+R´esultat exceptionnel
+2,4
+3,3
+1,7
+2,1
+1,7
+4,4
+1,8
+Autres produits/autres charges
+-2,2
+-1,8
+-1,9
+-2,8
+-2,6
+-1,5
+-1,2
+Participations des salari´es
+-0,8
+-0,8
+-0,8
+-0,9
+-0,7
+-0,7
+-0,7
+B´en´efice attribu´e
+0,3
+0,3
+0,3
+0,3
+0,2
+0,2
+0,2
+Perte support´ee
+-0,2
+-0,2
+-0,2
+-0,2
+-0,1
+-0,1
+-0,1
+Passage du r´esultat comptable `a l’ENE
+-5,6
+-3,3
+-3,6
+-4,4
+-5,9
+0,9
+-2,4
+Effet de champ (redevables en d´eficit)
+-0,7
+-1,6
+-0,9
+0,0
+0,2
+-1,6
+-0,9
+Consolidation des groupes fiscaux
+0,0
+0,0
+-0,1
+-0,1
+0,0
+-0,1
+0,0
+Taux implicite brut d’imposition
+20,7
+20,4
+20,1
+21,6
+18,7
+19,6
+17,5
+— Note : hors effets des r´eformes du CICE et de la CET. L’effet de champ correspond `a la
+contribution des redevables fiscalement d´eficitaires et le reste de la d´ecomposition est r´ealis´ee
+sur les redevables fiscalement b´en´eficiaires de l’entreprise. Les lignes ”Total contribution des
+taux r´eduits”, ”Passage du r´esultat fiscal au r´esultat comptable” et ”Passage du r´esultat
+comptable `a l’ENE” sont des sous-totaux des lignes pr´ec´edente. Ici, le r´esultat fiscal est
+augment´e des plus-values et brevets, c’est pourquoi il faut les retirer pour passer au r´esultat
+comptable.
+— Champ : entreprises profil´ees des secteurs principalement marchands non agricoles et non
+financiers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe sp´eciale au
+tonnage.
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane.
+33
+
+=== page 38 ===
+L’´ecart entre le taux fiscal et le taux implicite r´esulte ensuite de la prise en compte des
+r´esultats financiers et exceptionnels et de r`egles fiscales li´ees `a l’assiette. Les r´esultats re-
+port´es pour le b´en´efice fiscal sont en moyenne g´en´eralement n´egatifs, ce qui explique que
+la contribution de ceux-ci au taux implicite le soit ´egalement. Les r´esultats financiers se
+sont cependant redress´es sur la p´eriode, et cette contribution n´egative a diminu´e en valeur
+absolue : elle est pass´ee de -5,1 points en 2016 `a -2,4 points en 2022 13. Ce redressement
+pourrait r´esulter en partie du durcissement de plusieurs m´ecanismes de d´eduction fiscale et
+de retraitements comptables (CPO, 2021) 14.
+Cependant, le r´esultat financier et le r´esultat exceptionnel, tr`es volatils, contribuent `a des
+variations marqu´ees du taux implicite d’une ann´ee sur l’autre, y compris au niveau agr´eg´e.
+La d´eduction des r´esultats financiers varie ainsi entre –5,1 points et –1,4 points. Les r´esultats
+exceptionnels, issus notamment d’op´erations de cession ou d’acquisition de participations,
+pr´esentent ´egalement une nette instabilit´e. Ainsi, leur contribution au taux implicite oscille
+entre 1,7 points et 4,4 points entre 2016 et 2022, sans tendance temporelle claire. Cette
+volatilit´e s’explique en partie par la diversit´e des modalit´es d’imposition des plus-values de
+cession de titres de participation, qui peuvent ˆetre comptabilis´ees `a diff´erents endroits de la
+liasse fiscale : soit dans le cadre du r´egime des plus-values `a taux r´eduit, soit au taux nor-
+mal, tout en pouvant b´en´eficier de dispositifs sp´ecifiques comme le m´ecanisme d’exon´eration
+dit ≪Niche Cop´e ≫15. De son cˆot´e, la contribution des r´eint´egrations et d´eductions extra-
+comptables varie entre -0,9 points et -3,6 points. Il reste donc difficile de distinguer dans
+l’´ecart entre taux fiscal et taux implicite ce qui rel`eve de simples facteurs conjoncturels ou
+des effets structurels li´es aux r´eformes de l’assiette de l’impˆot.
+13. Notamment pour les TPE et PME, qui d´eduisaient avant 2017 davantage des charges financi`eres
+qu’elles ne g´en´eraient du produit financier. Ces petites entreprises ont d´esormais dans l’ensemble des r´esultats
+financiers positifs qui augmentent l’imposition de leur b´en´efice (Voir E).
+14. Conseil des Pr´el`evements Obligatoires.
+15. Les plus-values r´ealis´ees `a l’occasion de la cession de titres de participation d´etenus depuis plus de
+deux ans ont ´et´e exon´er´ees d’impˆot sur les soci´et´es, sous r´eserve d’une quote-part repr´esentative des frais et
+charges de 12 % r´eint´egr´ee au r´esultat taxable de la soci´et´e c´edante.
+34
+
+=== page 39 ===
+Enfin, l’effet de champ est assez volatil sur la p´eriode : il oscille entre -1,6 points de
+pourcentage et +0,2 point. Pour rappel, la d´ecomposition est r´ealis´ee uniquement sur les
+entreprises fiscalement b´en´eficiaires. L’effet de champ d´esigne la contribution des entreprises
+d´eficitaires au taux implicite agr´eg´e, via leur participation `a l’ENE total malgr´e un BFI nul.
+Il correspond `a l’´ecart entre le taux implicite calcul´e sur les seules entreprises b´en´eficiaires
+et le taux implicite agr´eg´e (voir section 3.2 pour plus de d´etails). Il est en g´en´eral n´egatif,
+ce qui s’explique par des entreprises dont le r´esultat fiscal est n´egatif et qui sont donc non
+impos´ees, malgr´e un exc´edent net d’exploitation positif sur le contour de l’entreprise profil´ee.
+Des effets inverses peuvent ´egalement s’observer, du fait d’unit´es l´egales ou de groupes fiscaux
+d´eficitaires au sens de l’ENE et inclus dans des entreprises profil´ees b´en´eficiaires au sens de
+l’ENE mais payant tout de mˆeme de l’IS : en 2019 et 2020, ce sont ces effets qui pr´edominent.
+4.3
+´Evolution individuelle de l’imposition
+La baisse du taux implicite agr´eg´e sur la p´eriode ne signifie ´evidemment pas que l’im-
+position a diminu´e pour toutes les entreprises. Le tableau 3 montre comment est distribu´ee
+l’´evolution du taux implicite entre 2016 et 2022 pour les entreprises pr´esentes dans l’´echantillon
+sur l’ensemble de la p´eriode. Les quantiles du taux implicite sont pond´er´es par l’ENE, de
+fa¸con `a refl´eter le poids ´economique des entreprises et `a ´eviter que les plus petites ne masquent
+la contribution des plus grandes.
+L’analyse de l’´evolution de la distribution des variations annuelles du taux implicite ne
+fait pas apparaˆıtre de tendance nettement baissi`ere : la m´ediane, pond´er´ee par l’ENE, est
+la plupart du temps stable ou l´eg`erement n´egative. Pour certaines ann´ees, la valeur absolue
+du premier d´ecile est parfois inf´erieure `a celle du neuvi`eme (toujours pond´er´es par l’ENE),
+ce qui indique que les fortes hausses de taux sont certaines ann´ees plus importantes que les
+fortes baisses. Au total, le taux implicite en 2022 est inf´erieur `a son niveau de 2016 pour
+35
+
+=== page 40 ===
+plus de la moiti´e de ces entreprises. Dans le bas de la distribution, 10 % des entreprises
+affichent une diminution du taux d’au moins 14,6 points entre 2016 et 2022. `A l’oppos´e, le
+taux augmente d’au moins 9,7 points pour 10 % d’entre elles.
+Les entreprises pr´esentes sur l’ensemble de la p´eriode sont toutefois structurellement plus
+b´en´eficiaires en termes d’ENE et de BFI. Sont ainsi exclues les entreprises entr´ees ou sorties
+du champ entre 2016 et 2022, en particulier celles qui ne sont pas profitables au moins
+une ann´ee, et dont le profil ´economique est potentiellement plus instable ou fragile. Bien
+qu’elles ne repr´esentent qu’un quart des entreprises sur la p´eriode, les entreprises pr´esentes
+continˆument g´en`erent pr`es de deux tiers de l’ENE et de l’impˆot sur les soci´et´es. En 2022,
+leur taux fiscal est sup´erieur `a celui de l’ensemble des entreprises contrairement `a leur taux
+implicite (respectivement 22,6 % et 16 9%, contre 21,7 % et 17,5 %). Cette s´election ´ecarte
+en effet un certain nombre de petites entreprises aux profits plus volatils, pour lesquelles le
+taux r´eduit `a 15 % joue un rˆole plus marqu´e. L’exercice 2022 est le seul pour lequel le taux
+implicite des entreprises pr´esentes sur toute la p´eriode est inf´erieur `a celui de l’ensemble des
+entreprises.
+Table 3 – ´Evolution du nombre d’entreprises et du taux implicite (par p´eriode de N–1 `a N)
+2016–2017
+2017–2018
+2018–2019
+2019–2020
+2020–2021
+2021–2022
+2016–2022
+Nombre d’entreprises
+633 731
+652 546
+626 145
+599 175
+648 694
+678 971
+196 739
+´Evolution
+du taux
+implicite
+D1
+-9,9
+-7,9
+-6,9
+-11,2
+-9,4
+-9,8
+-14,6
+Q1
+-2,7
+-2,8
+-1,8
+-4,6
+-2,8
+-4,3
+-7,8
+M´ediane
+0,0
+0,0
+0,5
+-1,2
+0,0
+-0,7
+-2,7
+Q3
+2,9
+3,3
+4,6
+1,5
+3,9
+0,8
+1,3
+D9
+8,7
+8,5
+11,9
+5,9
+13,4
+6,6
+9,7
+— Note : hors effets des r´eformes du CICE et de la CET. Les quantiles du taux implicite sont pond´er´es par l’ENE, afin
+de refl´eter le poids ´economique des entreprises.
+— Lecture : Un total de 633 731 entreprises rel`event du champ de l’´etude `a la fois en 2016 et 2017 ; pour un quart
+d’entre elles, le taux implicite d’imposition diminue de 2,7 points au moins (1er quartile), alors que pour le quart
+sup´erieur (3`eme quartile), le taux augmente d’au moins 2,9 points.
+— Champ : entreprises profil´ees des secteurs principalement marchands non agricoles et non financiers, avec ENE > 0
+sur deux ann´ees cons´ecutives ou sur l’ensemble de la p´eriode, hors armateurs et entreprises soumises `a la taxe sp´eciale
+au tonnage.
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+Finalement, sur les entreprises pr´esentes de 2016 `a 2022, 59 % connaissent une hausse
+de leur taux implicite. Une fois pond´er´ee par l’ENE, la part des entreprises dont le taux
+36
+
+=== page 41 ===
+implicite augmente s’´el`eve `a 30 % 16. Par ailleurs, la taux implicite augmente de plus de 2
+points pour 46 % des entreprises et 23 % une fois pond´er´ees par l’ENE.
+4.4
+Taille de l’entreprise
+Pour analyser l’h´et´erog´en´eit´e de l’imposition selon la taille des entreprises, nous retenons
+les quatre cat´egories habituellement utilis´ees 17 dans la statistique structurelle d’entreprises.
+Celles-ci sont d´efinies `a partir de l’effectif, du chiffre d’affaires et du total de bilan :
+— Tr`es petites entreprises (TPE) ou microentreprises 18 : moins de 10 salari´es, chiffre
+d’affaires ou total de bilan inf´erieur ou ´egal `a 2 millions d’euros.
+— Petites et moyennes entreprises (PME) : moins de 250 salari´es, chiffre d’affaires
+inf´erieur `a 50 millions d’euros ou total de bilan inf´erieur ou ´egal `a 43 millions.
+— Entreprises de taille interm´ediaire (ETI) : entre 250 et 4 999 salari´es, et chiffre d’af-
+faires inf´erieur ou ´egal `a 1,5 milliard ou total de bilan inf´erieur ou ´egal `a 2 milliards.
+— Grandes entreprises (GE) : au moins 5 000 salari´es, ou chiffre d’affaires sup´erieur `a
+1,5 milliard et bilan sup´erieur `a 2 milliards.
+La figure 4 montre que les PME ont le taux implicite le plus ´elev´e alors que les grandes
+entreprises ont le plus faible sur presque toute la p´eriode : jusqu’en 2021, le taux implicite
+d’imposition est plus ´elev´e pour les cat´egories interm´ediaires (PME et ETI), et plus faible
+pour les TPE et les grandes entreprises. En 2022 toutefois, le taux moyen des TPE d´epasse
+celui des ETI, tandis que celui des PME demeure le plus ´elev´e, atteignant 21,4 %. Entre 2016
+et 2022, le taux a recul´e plus nettement pour les ETI ( -3,4 points, soit une baisse de 16 %
+par rapport `a la valeur de 2016) et les grandes entreprises (-5,0 points, soit une baisse de 26
+% par rapport `a la valeur de 2016, en proportion sup´erieure donc `a la baisse du taux normal)
+16. Ces proportions baissent d’environ 3 points si on ne neutralise pas l’effet des r´eformes du CICE et de
+la CET.
+17. Nous revenons ici au champ des entreprises non cylindr´e
+18. Nous utilisons de pr´ef´erence le terme TPE dans ce travail, mˆeme s’il est moins courant dans les
+publications de la statistique publique, afin d’´eviter, dans une ´etude portant sur la fiscalit´e, toute confusion
+avec le r´egime fiscal de la micro-entreprise.
+37
+
+=== page 42 ===
+que pour les PME (-1,7 point, soit une baisse de 7 %). Il a en revanche l´eg`erement augment´e
+pour les TPE (+0,4 point), ces derni`eres ´etant peu affect´ees par la baisse du taux normal,
+une part importante de leur base fiscale relevant du taux r´eduit. S’agissant des grandes en-
+treprises, la trajectoire du taux est plus irr´eguli`ere, du fait de la volatilit´e de leurs r´esultats
+exceptionnels et financiers, et la baisse plus tardive du taux normal, en raison du calendrier
+´etal´e de la r´eforme, qui a d’abord b´en´efici´e aux entreprises de plus petite taille.
+Figure 4 – Taux implicite moyen brut par cat´egorie d’entreprise
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Lecture : En 2016, le taux implicite brut s’´el`eve `a 19,3 % pour les grandes entreprises
+— Champ : entreprises profil´ees des secteurs principalement marchands non agricoles
+et non financiers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe
+sp´eciale au tonnage
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+En 2016, le taux fiscal des tr`es petites entreprises (TPE), `a 23,4 %, est tr`es nettement
+inf´erieur `a celui observ´e pour l’ensemble des entreprises (28,2 %). Cette situation s’explique
+en grande partie par l’imposition plus fr´equente des TPE au taux r´eduit d’impˆot sur les
+38
+
+=== page 43 ===
+soci´et´es `a 15 % : en 2016, plus d’une sur cinq l’applique `a l’int´egralit´e de ses b´en´efices im-
+posables. La contribution de ce taux r´eduit dans la d´ecomposition atteint ainsi -9,4 points
+en 2016 (table 18), avant de diminuer progressivement pour s’´etablir `a -4,5 points en 2022.
+Cette baisse refl`ete l’´erosion de l’avantage relatif li´e au taux r´eduit, dans un contexte de di-
+minution du taux normal. En cons´equence, la baisse du taux fiscal des TPE est plus limit´ee
+que pour l’ensemble des entreprises : -2,6 points sur la p´eriode 2016-2022, contre -6,5 points.
+Par ailleurs, les TPE recourent peu aux dispositifs de d´eduction plus complexes, comme le
+report des d´eficits ou la participation, ce qui explique que leur taux implicite est proche de
+leur taux fiscal tout au long de la p´eriode. Elles ont ´egalement moins d’int´erˆets d’emprunt
+en proportion que les plus grandes entreprises, ce qui leur permet moins de r´eduire leur
+assiette fiscale. Cette derni`ere reste ainsi relativement large, le b´en´efice fiscal repr´esentant
+une proportion importante de l’exc´edent net d’exploitation. Cette stabilit´e se retrouve dans
+l’´evolution du taux implicite, qui progresse l´eg`erement (+0,4 point). La distribution du taux
+implicite est par ailleurs moins dispers´ee pour les TPE que pour le reste des entreprises,
+et tend `a se resserrer dans le temps. Le premier quartile progresse, tandis que le troisi`eme
+quartile et le dernier d´ecile reculent. L’´ecart interquartile se r´eduit ainsi de 17,8 `a 9,8 points
+entre 2016 et 2022.
+En moyenne, le taux fiscal des PME est l´eg`erement sup´erieur `a celui de l’ensemble des
+entreprises, tant en 2016 (30,6 % contre 28,2 %) qu’en 2022 (23,0 % contre 21,7 %). Les
+PME b´en´eficient peu du taux r´eduit `a 15 % r´eserv´e aux tr`es petites entreprises : cette im-
+position sp´ecifique ne r´eduit que de -0,7 point leur taux fiscal en 2022. Elles sont ´egalement
+moins concern´ees que les entreprises plus grandes par les autres dispositifs de taux r´eduits,
+applicables aux plus-values et aux brevets, ce qui explique que leur taux implicite est
+syst´ematiquement plus ´elev´e que la moyenne : il ´etait ainsi de 23,1 % contre 20,7 % sur
+l’ensemble des entreprises en 2016. Cependant, la baisse du taux normal, si elle s’observe
+sur le taux fiscal (qui passe de 30,6 % en 2022 `a 23 % en 2022) ne se traduit pas par une
+39
+
+=== page 44 ===
+baisse tr`es marqu´ee du taux implicite (-1,7 point sur la p´eriode). Plusieurs ´el´ements du bilan
+comptable (augmentation des contributions des r´esultats financiers et exceptionnels ainsi
+que des plus-values pour les brevets, baisse des d´eductions et autres charges) ont conduit `a
+rapprocher la base taxable du r´esultat comptable (table 19). En 2022, le taux implicite n’est
+inf´erieur que de 1,6 point en 2022 (contre 7,5 points en 2016).
+`A l’instar des TPE, la distribution du taux implicite chez les PME se resserre sensible-
+ment au fil du temps : l’´ecart interquartile passe de 21,4 points en 2016 `a 10,0 points en 2022.
+Les entreprises de taille interm´ediaire (ETI) pr´esentent des taux fiscaux proches de ceux
+des PME, et donc l´eg`erement sup´erieurs `a ceux observ´es pour l’ensemble des entreprises.
+Comme attendu, elles ne b´en´eficient pratiquement pas du taux r´eduit applicable aux petites
+entreprises, et recourent peu `a celui qui concerne les revenus tir´es des brevets. En revanche,
+les plus-values soumises `a un taux r´eduit contribuent davantage `a la baisse du taux fiscal
+que pour les PME, bien que cet effet reste in´egal selon les ann´ees (entre -6,2 points en 2017
+et -1,6 point en 2021) et n’atteigne pas les niveaux observ´es pour les grandes entreprises.
+L’´ecart entre taux fiscal et taux implicite est encore plus marqu´e que pour les PME, en
+raison d’un usage plus fr´equent des dispositifs de d´eduction, tels que le report des d´eficits ou
+la participation. Le r´esultat financier joue ´egalement un rˆole mod´erateur non n´egligeable sur
+l’imposition effective, bien que son effet soit moindre que pour les grandes entreprises. Cet
+´ecart entre taux implicite et fiscal se r´eduit de mani`ere plus limit´ee au cours de la p´eriode,
+passant de 9,1 points en 2016 `a 5,5 points en 2022. Le taux implicite des ETI diminue ainsi
+de mani`ere un peu plus marqu´ee que pour les PME, passant de 21,2 % `a 17,8 % entre 2016
+et 2022. La distribution du taux implicite se resserre ´egalement, principalement sous l’effet
+d’un recul important en haut de la distribution : le neuvi`eme d´ecile passe de 36,4 % `a 28,5 %,
+tandis que le troisi`eme quartile diminue de 30,5 % `a 25,0 %. Le bas de la distribution, en
+revanche, reste relativement stable. Il en r´esulte un resserrement mod´er´e de l’´ecart interquar-
+tile, qui passe de 23,4 `a 17,3 points. La r´eduction de l’h´et´erog´en´eit´e des taux de taxation,
+40
+
+=== page 45 ===
+moins prononc´ee que pour les entreprises de plus petite taille, demeure plus marqu´ee parmi
+les ETI en fin de p´eriode (Voir Figure 5).
+Les grandes entreprises se caract´erisent g´en´eralement par un taux fiscal moyen sup´erieur
+en d´ebut de p´eriode `a celui des TPE, mais inf´erieur `a celui des PME et des ETI. Cette
+position s’explique notamment par un recours plus fr´equent au taux r´eduit applicable aux
+revenus tir´es des brevets, mais surtout, aux plus-values b´en´eficiant de taux r´eduits qui per-
+mettent de diminuer significativement le taux fiscal, avec des effets pouvant atteindre -12,4
+points en 2021. Cette contribution est cependant tr`es variable d’une ann´ee `a l’autre, du
+fait du caract`ere fortement volatil des op´erations de cession (seulement -4,9 points en 2022,
+par exemple). Le taux fiscal des grandes entreprises diminue nettement entre 2016 et 2022,
+passant de 26,6 % `a 19,8 %, traduction du recul du taux normal. L’´ecart entre taux fiscal
+et taux implicite diminue sur la p´eriode `a peu pr`es autant que le taux fiscal, si bien que la
+baisse du taux implicite est environ d’un quart, comme celle du taux normal. Ce diff´erentiel
+refl`ete `a la fois l’importance des dispositifs de d´eduction (notamment les d´eficits report´es et
+la participation) et la contribution, forte mais instable, du r´esultat financier sur l’imposition
+effective (entre -13,3 points en 2016 et -3,6 points en 2022). Les r´esultats exceptionnels ont
+quant `a eux tendance `a majorer le b´en´efice fiscal par rapport `a l’exc´edent net d’exploitation,
+contribuant `a augmenter le taux implicite : leur effet varie fortement, de +2,1 points en 2022
+`a +8,1 points en 2021. Malgr´e cette volatilit´e, le taux implicite diminue sur la p´eriode, pas-
+sant de 19,3 % en 2016 `a 14,3 % en 2022 19. Il reste toutefois difficile de d´egager une tendance
+temporelle claire pour les grandes entreprises, tant les variations annuelles conjuguent effets
+conjoncturels et structurels. Cette ´evolution heurt´ee des taux moyens se retrouve aussi dans
+le reste de la distribution. On observe n´eanmoins un recul du neuvi`eme d´ecile, qui passe de
+31,0 % en 2016 `a 27,5 % en 2022. Les entreprises les plus fortement impos´ees l’´etant `a un
+19. Les grandes entreprises sont les plus affect´ees par la reconstitution en entreprises profil´ees qui introduit
+une hausse du taux implicite par rapport `a la fiscalit´e en redevables. En effet, des redevables `a ENE n´egatif
+peuvent diminuer l’assiette ´economique des grandes entreprises et donc augmenter leur taux implicite.
+41
+
+=== page 46 ===
+taux proche du taux normal.
+Le tableau 17 d´etaille la prise en compte des autres r´esultats des entreprises et des
+m´ecanismes fiscaux permettant le passage du r´esultat comptable au r´esultat fiscal. Cer-
+taines op´erations sont comptabilis´ees plusieurs fois, c’est-`a-dire qu’elles sont ajout´ees puis
+retranch´ees `a des endroits diff´erents des formulaires fiscaux, souvent pour des raisons de
+taxation `a taux r´eduit. Ce tableau met notamment en exergue la difficult´e `a isoler certains
+dispositifs. C’est notamment le cas des cessions d’actions : la plus-value est d’abord compta-
+bilis´ee dans le r´esultat exceptionnel (Case HB - ” Produits exceptionnels sur op´erations en
+capital”), puisqu’elles concourent au calcul du r´esultat comptable. Lors du calcul du r´esultat
+fiscal, 88% de cette plus-value est retranch´ee `a la base taxable au taux normal, au titre du
+r´egime des titres de participation (ligne r´eint´egration et d´eductions extra-comptables) et la
+part restante (12%) est r´eint´egr´ee et tax´ee dans la rubrique ≪plus-values `a long terme ≫.
+Enfin, comme on consid`ere un r´esultat fiscal ”´elargi” dans cette ´etude, c’est-`a-dire prenant
+en compte la totalit´e des bases taxables, y compris `a taux r´eduit, cette op´eration est ensuite
+r´eint´egr´ee `a la ligne ”plus-values et brevets”. Cela se voit particuli`erement pour l’exercice
+2021, marqu´e par une op´eration de cessions d’actions d’une grande entreprise. Ce tableau
+souligne ainsi que le rendement de l’impˆot sur les soci´et´es est particuli`erement affect´e par
+certaines op´erations ponctuelles des grandes entreprises.
+Une analyse alternative du lien entre taille d’entreprise et taux implicite, fond´ee non
+plus sur les cat´egories juridiques usuelles mais sur une r´epartition en d´eciles selon le niveau
+d’exc´edent net d’exploitation (ENE), confirme l’existence d’une relation en U invers´e (fi-
+gure 6). Quel que soit l’exercice consid´er´e, le taux implicite reste relativement faible pour les
+entreprises appartenant au premier dixi`eme d’ENE : il ne d´epasse jamais 20 % dans cette
+tranche. Il atteint en revanche un maximum sur les d´eciles interm´ediaires, en particulier les
+3e, 4e et 5e d´eciles, o`u il d´epasse fr´equemment 25 %. `A l’oppos´e, les entreprises aux ENE les
+42
+
+=== page 47 ===
+Figure 5 – ´Evolution de l’h´et´erog´en´eit´e du taux implicite par taille d’entreprise.
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Lecture : en 2016, parmi les tr`es petites entreprises (TPE), un quart ont un taux
+implicite brut inf´erieur `a 9,3 % (1er quartile), et un quart un taux sup´erieur `a 27,0 %
+(3`eme quartile)
+— Champ : entreprises profil´ees des secteurs principalement marchands non agricoles
+et non financiers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe
+sp´eciale au tonnage
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+43
+
+=== page 48 ===
+Figure 6 – ´Evolution de l’h´et´erog´en´eit´e du taux implicite
+0%
+10%
+20%
+30%
+Déciles d'ENE
+Taux implicite brut
+Année
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Lecture : en 2022, les entreprises situ´ees dans le 4`eme d´ecile d’ENE ont un taux
+implicite moyen brut de 25 %. En 2020 et 2022, les entreprises situ´ees dans le dernier
+d´ecile d’ENE ne payent quasiment pas d’IS en proportion de leur ENE, respectivement
+0,4 et 0,1% de taux implicite.
+— Champ : entreprises profil´ees des secteurs principalement marchands non agricoles
+et non financiers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe
+sp´eciale au tonnage
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+44
+
+=== page 49 ===
+plus ´elev´es pr´esentent un taux implicite bien plus faible, bien que volatil 20, souvent inf´erieur
+`a 20 %, et mˆeme `a 5 % certaines ann´ees.
+4.4.1
+Variation individuelle par taille d’entreprise
+De mani`ere similaire au paragraphe 4.3, l’analyse est ici restreinte aux entreprises pr´esentes
+sur l’ensemble de la p´eriode 2016-2022, de fa¸con `a isoler la variation individuelle de leur taux
+implicite d’imposition. Les entreprises apparaissant ou disparaissant au cours de la p´eriode,
+souvent plus petites ou moins profitables, sont exclues. Les d´eciles (D1, D9), quartiles (Q1,
+Q3) et la m´ediane sont calcul´es pour chaque classe de taille (TPE, PME, ETI, GE), et sont
+pond´er´es par l’ENE, afin de refl´eter le poids ´economique des entreprises.
+Table 4 – R´epartition par taille d’entreprise et ´evolution du taux implicite (p´eriode 2016
+→2022)
+TPE
+PME
+ETI
+GE
+Nombre d’entreprises
+163 501
+31 156
+2 006
+76
+´Evolution
+du taux
+implicite
+D1
+-10,6
+-14,7
+-17,2
+-12,3
+Q1
+-6,3
+-8,6
+-9,5
+-4,8
+M´ediane
+-1,3
+-4,3
+-3,7
+-1,2
+Q3
+4,9
+1,0
+2,4
+-0,5
+D9
+14,3
+11,7
+14,3
+3,9
+— Note : hors effets des r´eformes du CICE et de la CET. Les quantiles du taux implicite
+sont pond´er´es par l’ENE, afin de refl´eter le poids ´economique des entreprises.
+— Lecture : 163 501 TPE figurent sur l’ensemble de la p´eriode ; pour un quart d’entre
+elles, le taux implicite d’imposition diminue d’au moins 6,3 points (1er quartile), tandis
+que pour le quart sup´erieur (3e quartile) il augmente d’au moins 4,9 points.
+— Champ : entreprises profil´ees des secteurs principalement marchands non agricoles
+et non financiers, avec ENE > 0 sur l’ensemble de la p´eriode, hors armateurs et
+entreprises soumises `a la taxe sp´eciale au tonnage.
+— Source : DGFiP, BIC-IS ; Insee, Base Tous Salari´es ; Esane.
+20. Les quantiles d’ENE sont construits en pond´erant par l’ENE lui-mˆeme. Chaque quantile correspond
+ainsi `a une mˆeme part de l’exc´edent net d’exploitation total, et non `a un nombre ´egal d’entreprises. Cette
+pond´eration permet d’´eviter que les grandes entreprises, peu nombreuses mais concentrant une part im-
+portante de l’ENE, soient noy´ees dans la masse des petites entreprises, beaucoup plus nombreuses. Cette
+m´ethode a pour effet que les quantiles les plus ´elev´es regroupent peu d’unit´es. Par exemple, le 9e d´ecile en
+2022 ne compte que 15 entreprises, ce qui explique la forte volatilit´e.
+45
+
+=== page 50 ===
+La dispersion des variations annuelles du taux implicite d´ecroˆıt avec la taille : les TPE
+montrent l’´eventail le plus large (le D1 d’´el`eve `a –10,6 points, le D9 `a +14,3 points), tandis
+que les grandes entreprises connaissent des fluctuations plus contenues (m´ediane s’´etablit
+`a –1,2 point, D9 `a +3,9 points). Les PME affichent une distribution orient´ee `a la baisse
+(la valeur m´ediane recule de –4,3 points), alors que les ETI se distinguent par la plus forte
+amplitude (´ecart D1–D9 sup´erieur `a 31 points). Globalement, plus la taille est grande, plus
+la distribution se resserre ; n´eanmoins, pour chaque classe hors grandes entreprises, 10% des
+entreprises enregistrent des hausses d’au-moins 10 points de taux implicite.
+Nous isolons d´esormais la seule population d’entreprises dont le taux implicite d’imposi-
+tion a augment´e entre 2016 et 2022. Pour chacune des quatre classes de taille (TPE, PME,
+ETI, GE), nous calculons leur poids relatif dans les effectifs totaux du sous-´echantillon et
+dans l’exc´edent net d’exploitation (ENE) qu’elles g´en`erent en 2022. Cette double mesure,
+en nombre et en assiette fiscale, permet d’appr´ecier `a la fois la fr´equence des hausses et le
+volume ´economique qu’elles repr´esentent.
+Table 5 – Entreprises dont le taux implicite augmente entre 2016 et 2022 – part dans les
+effectifs et dans l’ENE
+Part en nombre
+Part dans l’ENE
+TPE
+63 %
+44 %
+PME
+45 %
+31 %
+ETI
+38 %
+35 %
+GE
+34 %
+24 %
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Lecture : le taux implicite d’imposition a progress´e pour 63% des TPE entre 2016
+et 2022, repr´esentant seulement 44 % de ENE g´en´er´e par cette cat´egorie d’entreprise.
+Il a progress´e pour 34% des grandes entreprises, ces derni`eres repr´esentant 24 % de
+l’ENE.
+— Champ : entreprises profil´ees des secteurs principalement marchands non agricoles
+et non financiers, avec ENE > 0 sur l’ensemble de la p´eriode, hors armateurs et
+entreprises soumises `a la taxe sp´eciale au tonnage.
+— Source : DGFiP, BIC-IS ; Insee, Base Tous Salari´es ; Esane.
+Les hausses de taux sont d’autant plus fr´equentes que la taille de l’entreprise est petite.
+46
+
+=== page 51 ===
+Deux tiers des TPE (63 %) connaissent une augmentation du taux (ce qui correspond `a
+44% de l’ENE g´en´er´e). Ces entreprises b´en´eficiant largement d’un taux r´eduit, il suffit que
+leur b´en´efice taxable franchisse (ou accroisse la part d´ej`a soumise) le taux normal pour
+que, par simple jeu de pond´eration entre taux r´eduit et taux de droit commun, leur taux
+moyen individuel s’´el`eve. Ces hausses sont souvent loin d’ˆetre n´egligeables : parmi l’ensemble
+des TPE, 48 % connaissent une hausse de leur taux implicite de plus de 2 points, ce qui
+correspond `a 34 % de leur ENE. Parmi les grandes entreprises, 34 % sont concern´ees par une
+hausse, ce qui correspond `a 24 % de l’ENE. Cette augmentation d´epasse deux points pour
+26 % de l’ensemble des grandes entreprises (qui correspondent `a 17 % de l’ENE). Parmi les
+PME, 45 % sont concern´ees par une hausse du taux (36 % sup´erieure `a 2 points), c’est le
+cas ´egalement de 38 % des ETI (29 % sup´erieure `a 2 points).
+4.5
+Secteur de l’industrie
+Le rˆole central du secteur de l’industrie dans les strat´egies de r´eindustrialisation et de
+transition ´energ´etique invite `a s’int´eresser sp´ecifiquement aux entreprises de ce secteur (les
+diff´erences sectorielles plus g´en´erales sont pr´esent´ees en annexe A.2). Nous consid´erons ici
+l’ensemble des divisions 05 `a 39 de la nomenclature fran¸caise d’activit´e (industries extrac-
+tives, industrie manufacturi`ere, production d’´electricit´e, production et distribution d’eau,
+gestion des d´echets). En 2022, le champ de l’industrie repr´esente seulement 7,4% des entre-
+prises de notre champ, mais plus du quart de l’ENE et de l’impˆot sur les soci´et´es.
+L’analyse met en ´evidence un recul plus marqu´e du taux implicite d’imposition dans l’in-
+dustrie entre 2016 et 2022, pass´e de 23,2 % `a 17,5 % (figure 7). Sup´erieur de 1,5 point au taux
+moyen observ´e dans l’ensemble de l’´economie en 2016, il s’y aligne en 2022. Contrairement
+`a ce qui est observ´e dans l’ensemble des entreprises, cette baisse est donc proportionnelle `a
+celle du taux normal (baisse d’un quart).
+47
+
+=== page 52 ===
+Figure 7 – ´Evolution des taux fiscal et implicite de 2016 `a 2022
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Lecture : en 2016, le taux fiscal brut d’impˆot sur les soci´et´es ´etait inf´erieur `a 33,3 %
+pour la moiti´e des unit´es l´egales du champ
+— Champ : entreprises profil´ees des secteurs de l’industrie principalement marchands
+non agricoles et non financiers, avec ENE > 0, hors armateurs et entreprises soumises
+`a la taxe sp´eciale au tonnage
+— Sources : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+48
+
+=== page 53 ===
+Cette ´evolution masque deux mouvements contraires. Alors que sur l’ensemble des sec-
+teurs, on observe un ´elargissement de la base fiscale relativement `a l’ENE, la base fiscale
+des entreprises industrielles s’est l´eg`erement contract´ee entre 2016 et 2022 (voir d´etails dans
+le tableau 6 en annexe A.1). Cette baisse li´ee aux effets d’assiette est n´eanmoins en partie
+contrecarr´ee par une proportion plus faible des taux r´eduits, notamment sur les plus-values
+(ces derniers conduisaient `a diminuer de 6,2 points le taux moyen par rapport au taux normal
+en 2016, et de 3,7 points en 2022).
+En termes d’h´et´erog´en´eit´e, comme dans l’ensemble de l’´economie, le taux implicite des
+grandes entreprises apparaˆıt `a la fois plus volatil et en moyenne inf´erieur `a celui des ETI
+(figure 9 en annexe A.1). La fiscalit´e moyenne des PME reste g´en´eralement plus ´elev´ee -
+leur taux implicite est proche de 22% en 2022, soit 4 points de plus que la moyenne des
+entreprises industrielles. Pr`es de trois quarts des TPE industrielles (repr´esentant un peu
+plus de la moiti´e de l’ENE de cette cat´egorie) ont vu leur taux implicite augmenter entre
+2016 et 2022. Le taux implicite brut moyen des TPE industrielles atteint ainsi 18 % en 2022.
+`A l’inverse, seules un quart des grandes entreprises industrielles (g´en´erant un tiers de l’ENE
+de cette cat´egorie) ont connu une progression de leur taux implicite (tableau 8 en annexe
+A.1).
+5
+Conclusion
+Entre 2016 et 2022, le taux fiscal moyen de l’impˆot sur les soci´et´es (IS) en France est
+pass´e de 28,2 % `a 21,7 %. Les r´esultats pour 2023 sugg`erent un taux implicite moyen tr`es
+proche du niveau observ´e en 2022. Cette ´evolution s’inscrit dans le cadre de la r´eforme du
+taux normal de l’impˆot sur les soci´et´es, progressivement abaiss´e de 33,3 % `a 25 %. Toutefois,
+une partie des b´en´efices b´en´eficiait d´ej`a de taux r´eduits, notamment ceux applicables aux
+petites entreprises ou aux plus-values. Le taux implicite brut, qui rapporte l’impˆot effec-
+49
+
+=== page 54 ===
+tivement pay´e `a l’exc´edent net d’exploitation (ENE), diminue ´egalement, de 3,2 points de
+pourcentage sur la p´eriode, hors effet des r´eformes du CICE et de la CET. Cette baisse d’un
+sixi`eme, moins marqu´ee que celle du taux normal, atteignant un quart, s’explique par une
+base fiscale plus dynamique : les b´en´efices fiscaux progressent plus rapidement que les profits
+´economiques. Entre 2016 et 2022, sur le champ des entreprises de l’´etude, l’ENE augmente
+de 53 %, tandis que le b´en´efice fiscal imposable croˆıt de 68 %. Cet ´elargissement r´esulte en
+partie de l’am´elioration des r´esultats financiers des entreprises - ces derniers sont cependant
+tr`es volatils sur la p´eriode, et les ´el´ements disponibles ne permettent pas d’´etablir s’il s’agit
+d’une ´evolution conjoncturelle ou d’une tendance g´en´erale. Plusieurs mesures ayant restreint
+les possibilit´es de d´eduction dans le calcul du b´en´efice imposable pourraient ´egalement ex-
+pliquer cette ´evolution.
+L’h´et´erog´en´eit´e des taux d’imposition entre entreprises se r´eduit ´egalement. En 2016, pour
+un quart des entreprises, le taux implicite ´etait sup´erieur `a 29,6 %. En 2022, `a l´egislation
+´equivalente du CICE et de la CET, cette valeur est de 25,0 %. Le taux m´edian passe de
+22,2 % `a 19,2 %, et le premier quartile recule seulement de 7,1 % `a 5,1 %. Sur l’ensemble de
+la p´eriode, une majorit´e d’entreprises voient leur taux implicite baisser : pour les entreprises
+pr´esentes sans interruption entre 2016 et 2022, la variation m´ediane atteint -2,7 points (hors
+effet du CICE et de la CET). Toutefois, cette baisse ne concerne pas toutes les entreprises :
+pour un dixi`eme des entreprises, le taux implicite progresse de plus de 9 points.
+La taille de l’entreprise joue un rˆole d´eterminant dans le niveau d’imposition. Jusqu’en
+2021, le taux implicite suit une courbe en U invers´ee selon la taille : il est plus ´elev´e pour
+les PME et les ETI que pour les TPE et les grandes entreprises. Les tr`es petites entreprises
+enregistrent n´eanmoins une l´eg`ere hausse de leur taux implicite (+0,3 point) sur la p´eriode
+2016-2022, hors effets du CICE et de la CET, tandis que celui des petites et moyennes en-
+treprises diminue mod´er´ement (-1,7 point). La baisse est plus marqu´ee pour les entreprises
+50
+
+=== page 55 ===
+de taille interm´ediaire (-3,3 points), et encore plus nette pour les grandes entreprises, dont le
+taux implicite recule de 5,0 points. La fiscalit´e de ces derni`eres reste cependant tr`es volatil,
+en raison du poids des r´esultats financiers et exceptionnels dans leur assiette. Ces ´evolutions
+pour chaque cat´egorie d’entreprise ne sont pas modifi´ees lorsqu’elles sont contrˆol´ees de l’in-
+fluence du secteur d’activit´e.
+51
+
+=== page 56 ===
+R´ef´erences
+Olivier Arnal. Impˆot sur le b´en´efice des entreprises en 2022. (21), 2024.
+Laurent Bach, Antoine Bozio, and Cl´ement Malgouyres. L’h´et´erog´en´eit´e des taux d’imposi-
+tion implicites des profits en France : constats et facteurs explicatifs. PhD thesis, Institut
+des politiques publiques (IPP), 2019.
+Pierrette Briant and Gabriel Skl´enard.
+Photographie du tissu productif en 2017.
+Insee
+R´ef´erence - Les entreprises en France, 2019.
+Gabriel Chodorow-Reich, Owen Zidar, and Eric Zwick. Lessons from the biggest business
+tax cut in us history. Journal of Economic Perspectives, 38(3) :61–88, 2024.
+CPO. Quel taux pour l’impˆot sur les soci´et´es en france ? Les notes du CPO, (1), 2021.
+Mihir A Desai. The degradation of reported corporate profits. Journal of Economic Pers-
+pectives, 19(4) :171–192, 2005.
+Michael P Devereux. Measuring taxes on income from capital. Measuring the tax burden on
+capital and labor, 6 :35, 2004.
+Harry Partouche and Matthieu Olivier. Le taux de taxation implicite des b´en´efices en france.
+Lettre Tr´esor-Eco, (88), 2011.
+Christoph Spengel, Frank Schmidt, Jost H Heckemeyer, Katharina Nicolay, Alexandra Bar-
+tholmeß, Christopher Ludwig, Daniela Steinbrenner, Peter Buchmann, Anna Theresa
+B¨uhrle, Verena Dutt, et al. Effective tax levels using the devereux/griffith methodology.
+Technical report, ZEW-Gutachten und Forschungsberichte, 2020.
+DG Tr´esor. Rapport ´economique, social et financier. Technical report, 2024.
+52
+
+=== page 57 ===
+Annexes
+A
+R´esultats par secteur d’activit´e
+A.1
+Industrie
+´Evolution des taux fiscal et implicite
+Le taux implicite moyen brut baisse de 23,2% `a 17,5%, soit une diminution de 5,7 points
+sur la p´eriode apr`es un pic en 2019, ann´ee marqu´ee par de forts b´en´efices, `a 23,0%. Initia-
+lement sup´erieur `a la moyenne, le taux implicite des entreprises industrielles converge donc
+vers la moyenne observ´ee sur l’ensemble des secteurs.
+Cependant, contrairement au reste de l’´economie, le resserrement des taux d’imposition
+n’est pas clair en prenant 2016 comme ann´ee de r´ef´erence, le taux implicite du premier quar-
+tile ´etant particuli`erement haut. Ainsi, en 2016, un quart des entreprises exc´edentaires ´etait
+impos´e `a un taux implicite sup´erieur `a 30,3 %, contre 24,6 % en 2022 (figures 8). Le taux
+m´edian diminue ´egalement, de 25,2 % `a 17,9 % tout comme le premier quartile, passant de
+14,4 % `a 6,2 %.
+Le passage du taux normal au taux implicite
+En 2016, le taux implicite brut dans l’industrie ´etait inf´erieur de 10,1 points au taux
+normal (tableau 6), soit un ´ecart inf´erieur `a celui observ´e pour l’ensemble de l’´economie
+(12,6 points, voir tableau 2). En 2022, cet ´ecart est de 7,5 points dans les entreprises du
+secteur de l’industrie comme pour l’ensemble des entreprises.
+Cette convergence s’observe ´egalement lorsqu’on observe le taux fiscal, mais ce dernier
+reste dans l’industrie l´eg`erement plus bas que pour l’ensemble des entreprises : il ´etait de 27,1
+% en 2016 (soit 1,1 point de plus que pour l’ensemble des entreprises), il atteint 21,3 % en
+53
+
+=== page 58 ===
+Figure 8 – ´Evolution de l’h´et´erog´en´eit´e du taux implicite de 2016 `a 2022
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Champ : entreprises profil´ees des secteurs de l’industrie principalement marchands
+non agricoles et non financiers, avec ENE > 0, hors armateurs et entreprises soumises
+`a la taxe sp´eciale au tonnage
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+54
+
+=== page 59 ===
+2022 (soit 0,4 point d’´ecart avec l’ensemble des entreprises). Cette baisse de 5,8 points, soit
+21%, est l´eg`erement plus faible que celle du taux normal (-25%), en raison de la diminution
+un peu plus forte du b´en´efice des taux r´eduits (en l’occurrence, celui sur les plus-values `a
+long terme).
+Table 6 – D´ecomposition du taux d’imposition implicite des entreprises du secteur de
+l’industrie, 2016–2022
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Taux normal d’imposition
+33,3
+33,3
+33,3
+33,3
+31,0
+27,5
+25,0
+Contribution sociale 3,3%
+0,7
+0,6
+0,6
+0,7
+0,5
+0,6
+0,5
+Taux r´eduit de 15%
+-0,5
+-0,6
+-0,5
+-0,5
+-0,5
+-0,3
+-0,3
+Taux r´eduit plus-values
+-5,9
+-7,4
+-7,4
+-5,0
+-7,2
+-3,6
+-3,1
+Taux r´eduit brevet
+-0,4
+-0,4
+-0,6
+-0,6
+-0,8
+-0,9
+-1,0
+Baisse progressive du taux normal
+0,0
+-0,1
+-0,4
+-1,0
+-1,0
+-0,1
+0,2
+Total contribution des taux r´eduits
+-6,7
+-8,5
+-8,9
+-7,2
+-9,0
+-4,9
+-4,7
+Taux fiscal
+27,1
+25,4
+24,9
+26,9
+22,1
+23,4
+21,3
+R´eint´egrations/d´eductions extracomptable
+-3,1
+-3,2
+-4,4
+-0,9
+-2,3
+-1,3
+-1,3
+Report de d´eficit
+-1,2
+-1,3
+-1,3
+-1,6
+-1,1
+-1,5
+-1,5
+Plus-values et brevets
+4,0
+3,4
+2,0
+3,7
+4,8
+2,7
+3,0
+Passage du r´es. fiscal au r´es. comptable
+-0,3
+-1,2
+-3,7
+1,1
+1,4
+-0,1
+0,1
+R´esultat financier
+-6,8
+-5,0
+-2,6
+-3,6
+-5,4
+-1,8
+-1,8
+R´esultat exceptionnel
+4,9
+3,8
+2,5
+0,5
+1,9
+2,4
+0,6
+Autres produits/autres charges
+-2,2
+-2,0
+-1,3
+-3,4
+-3,2
+-2,0
+-0,9
+Participations des salari´es
+-1,1
+-1,0
+-1,0
+-1,2
+-0,9
+-1,1
+-1,0
+B´en´efice attribu´e
+0,3
+0,2
+0,3
+0,3
+0,2
+0,2
+0,1
+Perte support´ee
+-0,1
+-0,2
+-0,2
+-0,1
+-0,1
+-0,1
+-0,1
+Passage du r´esultat comptable `a l’ENE
+-5,0
+-4,1
+-2,2
+-7,6
+-7,5
+-2,3
+-3,1
+Effet de champ (redevables en d´eficit)
+1,4
+-1,6
+0,5
+2,8
+2,7
+-2,1
+-0,8
+Consolidation des groupes fiscaux
+0,0
+0,0
+0,0
+-0,2
+0,1
+-0,1
+-0,1
+Taux implicite brut d’imposition
+23,2
+18,5
+19,4
+23,0
+18,7
+18,7
+17,5
+Note : hors effets des r´eformes du CICE et de la CET. L’effet de champ correspond `a la contribution des
+redevables fiscalement d´eficitaires et le reste de la d´ecomposition est r´ealis´ee sur les redevables fiscalement
+b´en´eficiaires de l’entreprise. Les lignes Total contribution des taux r´eduits, Passage du r´esultat fiscal au
+r´esultat comptable et Passage du r´esultat comptable `a l’ENE sont des sous-totaux.
+Champ : entreprises profil´ees des secteurs de l’industrie principalement marchands non agricoles et non
+financiers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe sp´eciale au tonnage
+Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane.
+Entre 2016 et 2022, le taux implicite brut de l’industrie baisse de 5,7 points, passant
+de 23,2 % `a 17,5 %. Le taux implicite baisse donc d’un quart de sa valeur en 2022, soit une
+55
+
+=== page 60 ===
+diminution d’ampleur ´equivalente `a celle du taux normal sur la p´eriode. Si, au niveau agr´eg´e,
+le taux implicite n’a baiss´e que d’un sixi`eme du fait de m´ecanismes d’assiette qui ont conduit
+`a un ´elargissement de la base fiscale relativement `a l’ENE, `a l’inverse la base fiscale totale des
+entreprises industrielles s’est l´eg`erement r´eduite : une part croissante des redevables pr´esente
+un r´esultat fiscal n´egatif, tout en g´en´erant un ENE positif (voir section 3.2 pour plus de
+d´etails sur l’effet de champ).
+´Evolution individuelle de l’imposition
+La comparaison des tableaux 3 et 7 montre que l’´evolution des taux implicites entre 2016
+et 2022 est plus h´et´erog`ene dans l’industrie que dans l’ensemble des secteurs. Pour un quart
+des entreprises industrielles, la baisse d´epasse 9,7 points (en valeur absolue), contre 8,4 points
+dans l’ensemble de l’´economie, en pond´erant le calcul des quantiles par l’ENE, de fa¸con `a
+refl´eter le poids ´economique des entreprises et `a ´eviter que les plus petites ne masquent
+la contribution des plus grandes. `A l’autre extr´emit´e de la distribution, un dixi`eme des
+entreprises industrielles voient leur taux implicite augmenter de plus de 11,1 points, contre
+9 points dans l’ensemble des secteurs. Finalement, le taux implicite augmente pour 64 % des
+entreprises industrielles, celles-ci repr´esentant seulement 33 % de l’ENE du secteur.
+Taille de l’entreprise
+La figure 9 pr´esente l’´evolution du taux implicite moyen des entreprises industrielles selon
+leur taille. Comme dans l’ensemble de l’´economie (figure 4), le taux implicite des grandes
+entreprises apparaˆıt `a la fois plus volatil et en moyenne inf´erieur `a celui des ETI. La fiscalit´e
+moyenne des PME reste g´en´eralement plus ´elev´ee, mais cet ´ecart est, dans l’industrie, moins
+marqu´e que dans l’ensemble de l’´economie.
+Les TPE connaissent plus fr´equemment encore que dans le reste de l’´economie une aug-
+mentation de leur fiscalit´e effective : le taux implicite augmente pour 73 % d’entre elles (qui
+56
+
+=== page 61 ===
+Table 7 – ´Evolution du nombre d’entreprises et du taux implicite (par p´eriode de N–1 `a N
+et sur 2016–2022)
+2016–
+2017–
+2018–
+2019–
+2020–
+2021–
+2016–
+2017
+2018
+2019
+2020
+2021
+2022
+2022
+Nombre d’entreprises
+56 011
+56 377
+52 354
+47 338
+49 087
+52 540
+19 001
+´Evolution
+du taux
+implicite
+D1
+-15,3
+-8,1
+-5,4
+-11,2
+-9,8
+-9,5
+-16,8
+Q1
+-4,6
+-3,2
+-0,5
+-9,4
+-2,8
+-4,2
+-9,4
+M´ediane
+-0,2
+0,9
+1,5
+-2,6
+0,0
+-1,4
+-3,2
+Q3
+3,3
+3,9
+10,9
+1,0
+8,5
+1,2
+3,3
+D9
+8,7
+9,3
+12,1
+5,7
+13,4
+6,5
+10,7
+— Note : hors effets des r´eformes du CICE et de la CET. Les quantiles du taux implicite
+sont pond´er´es par l’ENE, afin de refl´eter le poids ´economique des entreprises.
+— Lecture : Un total de 56 011 entreprises rel`event du champ de l’´etude `a la fois en
+2016 et 2017 ; pour un quart d’entre elles, le taux implicite d’imposition diminue de
+4,6 points ou moins (1er quartile), alors que pour le quart sup´erieur (3`eme quartile),
+le taux augmente d’au moins 3,3 points.
+— Champ : entreprises profil´ees des secteurs de l’industrie principalement marchands
+non agricoles et non financiers, avec ENE > 0 sur deux ann´ees cons´ecutives ou sur
+l’ensemble de la p´eriode, hors armateurs et entreprises soumises `a la taxe sp´eciale au
+tonnage.
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane.
+Table 8 – Entreprises dont le taux implicite augmente entre 2016 et 2022 – part dans les
+effectifs et dans l’ENE
+Part en nombre
+Part dans l’ENE
+TPE
+73 %
+53 %
+PME
+46 %
+29 %
+ETI
+33 %
+34 %
+GE
+25 %
+33 %
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Lecture : parmi les entreprises dont le taux implicite d’imposition a progress´e entre
+2016 et 2022, les TPE repr´esentent 73 % des effectifs mais seulement 53 % de l’ENE ; `a
+l’inverse, les GE ne constituent que 25 % des effectifs concern´es, pour 33 % de l’ENE.
+— Champ : entreprises profil´ees des secteurs de l’industrie principalement marchands
+non agricoles et non financiers, avec ENE > 0 sur l’ensemble de la p´eriode, hors
+armateurs et entreprises soumises `a la taxe sp´eciale au tonnage
+— Source : DGFiP, BIC-IS ; Insee, Base Tous Salari´es ; Esane.
+57
+
+=== page 62 ===
+Figure 9 – Taux implicite moyen brut par cat´egorie d’entreprise de l’industrie
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Lecture : En 2016, le taux implicite brut s’´el`eve `a 24,3 % pour les grandes entreprises
+de l’industrie
+— Champ : entreprises profil´ees des secteurs de l’industrie principalement marchands
+non agricoles et non financiers, avec ENE > 0, hors armateurs et entreprises soumises
+`a la taxe sp´eciale au tonnage
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+58
+
+=== page 63 ===
+repr´esentent 53 % de l’ENE des TPE industrielles), alors que ce n’est le cas ”que” pour 63 %
+des TPE dans l’ensemble des secteurs (et 44 % de l’ENE). A l’inverse, les grandes entreprises
+(GE) industrielles connaissent moins fr´equemment que les entreprises des autres secteurs une
+augmentation : 25 % connaissent une augmentation du taux implicite sur la p´eriode, (contre
+34 % sur l’ensemble des GE au total), mais ces entreprises repr´esentent une part d’ENE plus
+´elev´ee `a 33 %, soit neuf points de plus que dans l’ensemble de l’´economie. Pour les PME et
+les ETI, les ´evolutions sont proches de celles observ´ees dans l’ensemble de l’´economie.
+Figure 10 – ´Evolution de l’h´et´erog´en´eit´e du taux implicite par taille d’entreprise de l’in-
+dustrie.
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Lecture : en 2016, parmi les tr`es petites entreprises (TPE), un quart ont un taux
+implicite brut inf´erieur `a 5,7 % (1er quartile), et un quart un taux sup´erieur `a 25,4 %
+(3`eme quartile)
+— Champ : entreprises profil´ees des secteurs de l’industrie principalement marchands
+non agricoles et non financiers, avec ENE > 0, hors armateurs et entreprises soumises
+`a la taxe sp´eciale au tonnage
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+59
+
+=== page 64 ===
+A.2
+Taux implicites par secteurs et par taille en 2016 et 2022
+Pour comparer les taux implicites par secteur d’activit´e, on utilise une r´egression lin´eaire
+qui permet de contrˆoler de la taille des entreprises, tr`es variables selon les secteurs.
+Le tableau 9 pr´esente les diff´erences sectorielles de taux implicites pour les ann´ees 2016 et
+2022 ainsi que son ´evolution entre 2016 et 2022 pour les entreprises pr´esentes dans le champ
+sur l’ensemble de la p´eriode. Ce panel cylindr´e repr´esente environ un tiers des entreprises
+appartenant au champ de l’´etude, en 2016 comme en 2022. Les r´egressions sur cet ´echantillon
+permettent de pr´esenter les ´evolutions individuelles des entreprises pr´esentes sur l’ensemble
+de la p´eriode. La comparaison de l’´evolution des ´ecarts en 2022 et en 2016 apporte donc
+une information diff´erente, puisque ces deux r´egressions int`egrent les entreprises qui n’ont
+pas toujours ´et´e profitables, ont disparu ou sont apparues sur la p´eriode (ou encore qui ont
+chang´e de cat´egorie ou de secteurs sur la p´eriode).
+L’estimation de la constante dans la r´egression du tableau 9 (colonne 2022) indique
+qu’une entreprise de taille interm´ediaire (ETI), relevant du secteur du commerce, trans-
+ports, h´ebergement et restauration, est impos´ee en moyenne `a un taux implicite de 20,3 %
+en 2022. De mˆeme, la constante de la colonne 2016-2022 indique, pour une entreprise de
+mˆeme profil, une baisse moyenne (non significative) de 0,9 point de pourcentage de ce taux
+entre 2016 et 2022. Les diff´erents coefficients doivent ˆetre interpr´et´es relativement `a cette
+cat´egorie de r´ef´erence.
+En 2022, les ´ecarts sectoriels de taux implicite d’imposition sont importants. Compar´e au
+secteur de r´ef´erence (commerce, transports, h´ebergement et restauration), plusieurs secteurs
+affichent des taux nettement plus faibles. L’industrie affiche un l´eger ´ecart en 2022 (–2,0
+points), sup´erieur `a celui observ´e en 2016. Parmi les entreprises pr´esentes sur l’ensemble de
+la p´eriode, la baisse est ´egalement marqu´ee depuis 2016 (–1,2 point), par rapport `a celle
+60
+
+=== page 65 ===
+enregistr´ee dans le secteur de r´ef´erence. Les services scientifiques, techniques et de soutien
+pr´esentent l’´ecart le plus prononc´e : leur taux implicite est inf´erieur de 9,0 points `a celui du
+secteur de r´ef´erence (tableau 9, colonne 2022). Le secteur de l’information et de la commu-
+nication se caract´erise ´egalement par un taux tr`es inf´erieur en 2022 (–6,7 points) `a celui du
+commerce. La construction constitue une exception : son taux implicite d´epasse de 1,6 point
+celui du secteur de r´ef´erence en 2022. Ce diff´erentiel s’est renforc´e au fil du temps, du fait
+d’une quasi-stabilit´e du taux implicite 21.
+Enfin, les coefficients R2 illustrent la faible proportion de variance expliqu´ee par les
+mod`eles. En 2022, le mod`ele du tableau 9 affiche un R2 de 0,105, signifiant que les deux
+facteurs analys´es – le secteur d’activit´e et la taille d’entreprise – contribuent de fa¸con
+modeste aux disparit´es entre entreprises. Pour la p´eriode 2016–2022, ce coefficient s’av`ere
+consid´erablement plus faible, sugg´erant que l’´evolution du taux implicite ´echappe largement
+`a l’influence de ces caract´eristiques, sans doute en raison de la pr´edominance des dynamiques
+conjoncturelles et propres aux entreprises.
+21. Ces analyses sectorielles restent vraies sur la p´eriode 2019-2021, ou en comparant 2022 `a 2017 et 2021
+`a 2016, except´e en 2020 pour la construction.
+61
+
+=== page 66 ===
+Table 9 – R´egression lin´eaire du taux implicite d’imposition : 2016, 2022 et ´evolution 2016-
+2022
+2016
+2022
+2016-2022∗
+Constante
+22,648∗∗∗
+(0,039)
+20,326∗∗∗
+(0,033)
+−0,890∗∗∗
+(0,066)
+Secteurs d’activit´e (r´ef. : commerce, transports, h´ebergement et restauration)
+Agriculture, sylviculture et pˆeche
+0,431
+(0,935)
+−1,697∗∗
+(0,689)
+−0,729
+(1,772)
+Industrie, ´energie, eau et d´echets
+0,700∗∗∗
+(0,042)
+−2,039∗∗∗
+(0,036)
+−1,190∗∗∗
+(0,074)
+Construction
+1,030∗∗∗
+(0,064)
+1,649∗∗∗
+(0,055)
+0,984∗∗∗
+(0,112)
+Information et communication
+−7,962∗∗∗
+(0,060)
+−6,721∗∗∗
+(0,052)
+−2,782∗∗∗
+(0,105)
+Activit´es financi`eres et d’assurance
+5,123∗∗∗
+(0,120)
+−2,892∗∗∗
+(0,072)
+−7,611∗∗∗
+(0,227)
+Activit´es immobili`eres
+−10,314∗∗∗
+(0,070)
+−4,836∗∗∗
+(0,068)
+0,856∗∗∗
+(0,139)
+Services scientifiques, techniques et soutien
+−9,252∗∗∗
+(0,050)
+−8,960∗∗∗
+(0,041)
+0,439∗∗∗
+(0,090)
+Administration, enseignement, sant´e
+−1,986∗∗∗
+(0,102)
+−1,640∗∗∗
+(0,081)
+0,038
+(0,200)
+Autres activit´es de services
+−3,583∗∗∗
+(0,133)
+−6,124∗∗∗
+(0,112)
+−4,907∗∗∗
+(0,233)
+Cat´egorie d’entreprise (r´ef. : ETI)
+TPE
+−1,249∗∗∗
+(0,050)
+1,157∗∗∗
+(0,044)
+1,083∗∗∗
+(0,095)
+PME
+2,362∗∗∗
+(0,042)
+3,144∗∗∗
+(0,038)
+−0,918∗∗∗
+(0,077)
+GE
+−1,639∗∗∗
+(0,040)
+−3,073∗∗∗
+(0,034)
+−0,985∗∗∗
+(0,071)
+Observations
+859 857
+964 536
+374 623
+R2
+0,099
+0,105
+0,009
+Adj. R2
+0,099
+0,105
+0,009
+Note : *p<0,1 ; **p<0,05 ; ***p<0,01
+— Lecture : En 2022, en prenant pour r´ef´erence une ETI, une PME a un taux implicite
+sup´erieur de 3,1 points (colonne 2022), en contrˆolant du secteur d’activit´e.
+— Champ : entreprises profil´ees des secteurs principalement marchands non agricoles et non
+financiers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe sp´eciale au ton-
+nage. ∗entreprises pr´esentes dans le champ sur toute la p´eriode 2016-2022 (panel cylindr´e).
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane.
+62
+
+=== page 67 ===
+B
+Donn´ees
+Liasses fiscales
+Les principales donn´ees mobilis´ees dans cette ´etude sont les liasses fiscales, documents
+renseign´es par les entreprises avec pour objectif principal de communiquer `a la DGFiP le
+montant d’impˆot dˆu. S’agissant de l’impˆot sur les soci´et´es (IS), ce montant est calcul´e `a
+partir du compte de r´esultat et fait l’objet de retraitements comptables d´etaill´es dans la
+liasse, aboutissant au calcul du b´en´efice fiscal. L’impˆot dˆu correspond aux b´en´efices g´en´er´es
+par l’entreprise au cours d’une ann´ee N. Il ne correspond pas aux recettes de l’impˆot sur les
+soci´et´es au cours de cette mˆeme ann´ee N. En effet, les entreprises soldent leur impˆot sur les
+soci´et´es en juin N+1. Par ailleurs, des ´ecarts peuvent subsister entre les montants d´eclar´es et
+les montants effectivement per¸cus, en raison de d´elais de paiement, de redressements fiscaux
+ou d’autres ajustements. A titre d’illustration, en 2022, les recettes budg´etaires d’impˆot
+net sur les soci´et´e s’´el`event `a 64,3 Md€ alors que l’IS net d´eclar´e par les entreprises pour
+l’exercice 2022 est de 61,6 Md€ (DGFiP Statistiques - n°26 - juillet 2024 : Les recettes
+fiscales collect´ees par la DGFiP en 2023. Ces liasses sont diff´erentes en fonction du r´egime
+d´eclaratif choisi par l’entreprise, qu’elle soit fiscalement ind´ependante ou int´egr´ee dans un
+groupe fiscal, et selon qu’elle rel`eve du r´egime normal ou du r´egime simplifi´e d’imposition.
+Dans tous les cas, les entreprises remplissent les formulaires 2065 permettant de calculer
+l’impˆot sur les soci´et´es dˆu `a partir des bases imposables.
+Les entreprises ind´ependantes.
+Comme signal´e pr´ec´edement, il existe deux r´egimes
+pour les entreprises ind´ependantes, en fonction de leur chiffre d’affaires. Les plus petites
+d’entre elles sont au r´egime simplifi´e (RSI) et remplissent les formulaires 2033. Les autres
+sont au r´egime normal et remplissent les formulaires 2050 22.
+22. Voir Annexe 2
+63
+
+=== page 68 ===
+Les groupes fiscaux.
+Dans ce cas, chaque entreprise int´egr´ee ou soci´et´e fille remplit
+isol´ement sa d´eclaration 2050 et tandis que la tˆete de groupe ou soci´et´e m`ere remplit le
+formulaire 2058TS sp´ecifique aux groupes fiscaux 23.
+Fichiers de cr´eances MVC
+La deuxi`eme source de donn´ees fiscales correspond aux fichiers de cr´eances de cr´edits
+d’impˆot des entreprises. Celles-ci peuvent en effet imputer un cr´edit d’impˆot sur leur impˆot
+sur les soci´et´es ou en demander le remboursement. Les deux principaux cr´edits d’impˆot en
+terme sde montant sont le CICE et le cr´edit impˆot recherche (CIR) 24. En 2018, les entreprises
+initialisent 25 une cr´eance de 19,2 Md€ de CICE, de 7,2 Md€ de CIR et d´eclarent 42,0 Md€
+d’impˆot net sur les soci´et´es . D’autres cr´edits d’impˆot moins importants existent (par exemple
+le m´ec´enat) mais les fichiers disponibles sur le CASD ne contiennent que les montants de
+CICE et de CIR, qui repr´esentent `a eux seuls pr`es de quatre cinqui`emes du total des cr´edits
+d’impˆot.
+Fichiers Fare/Esane
+Le dispositif Esane (´Elaboration des Statistiques Annuelles d’Entreprise) vise `a constituer
+un ensemble coh´erent de statistiques sur les entreprises. Il combine des donn´ees administra-
+tives (obtenues `a partir des d´eclarations annuelles de b´en´efices que font les entreprises `a
+l’administration fiscale, et `a partir des donn´ees annuelles de donn´ees sociales qui fournissent
+des informations sur les salari´es) et des donn´ees obtenues `a partir d’un ´echantillon d’entre-
+prises enquˆet´ees par un questionnaire sp´ecifique pour produire les statistiques structurelles
+d’entreprises. Ces donn´ees porte sur le champ des entreprises marchandes et productives,
+23. Voir Annexe 2
+24. accessibles `a certaines entreprises qui ont des activit´es de recherche fondamentale, de recherche ap-
+pliqu´ee et de d´eveloppement exp´erimental
+25. Le fichier MVC permet de suivre la cr´eance en fonction de sa nature : si elle est initialis´ee, restitu´ee,
+imput´ee ou transf´er´ee. On prendra toujours les montants initialis´es par coh´erence d’exercice comptable de
+l’entreprise : si on calcule l’IS 2022 d’une entreprise, on lui retranche sa cr´eance initialis´ee en 2022.
+64
+
+=== page 69 ===
+hors secteurs agricoles et financiers.
+Ce travail s’appuie sur la base Fare (fichier approch´e des r´esultats d’Esane) produite par
+l’Insee. Principalement construite `a partir des liasses fiscales, cette source pr´esente l’avantage
+de fournir des r´esultats sur un p´erim`etre align´e avec la d´efinition ´economique de l’entreprise.
+Elle est donc particuli`erement bien adapt´ee `a l’analyse des variations de l’imposition selon
+le secteur d’activit´e ou la taille.
+Base Tout Salari´e (BTS)
+Le BTS permet de d´eterminer de mani`ere pr´ecise la masse salariale de l’entreprise, selon
+les diff´erents niveaux de r´emun´eration, les liasses fiscales indiquant uniquement le montant
+total. La BTS est fond´ee sur les d´eclarations sociales nominatives (DSN) et est une forma-
+lit´e d´eclarative que doit accomplir toute entreprise employant des salari´es. Elle contient les
+informations destin´ees `a l’usage de diff´erentes institutions (URSSAF, CPAM, IRCANTEC,
+UNEDIC, CNRACL, etc.) et de l’Insee pour l’observation des salaires et du volume de travail
+associ´e. La D´eclaration sociale nominative (DSN), se substitue `a la D´eclaration annuelle des
+donn´ees sociales (DADS), `a partir de 2017.
+Pour chaque salari´e les informations suivantes sont disponibles : la nature de l’emploi et la
+qualification, les dates de d´ebut et de fin de p´eriode de paie, le nombre d’heures, la condition
+d’emploi (temps complet, temps partiel), le montant des r´emun´erations vers´ees, etc. Dans
+cette ´etude, nous utilisons plus pr´ecis´ement le fichier BTS-Postes. Chaque enregistrement
+correspond `a un poste, c’est-`a-dire la consolidation des p´eriodes de travail d’un salari´e au
+sein d’un mˆeme ´etablissement au cours d’une ann´ee.
+65
+
+=== page 70 ===
+Table 10 – Comparaison des CICE calcul´e et vers´e en 2016 (en Mds€)
+Secteur A10
+CICE d´eclar´e
+CICE calcul´e
+Exploitation foresti`ere
+0,1
+0,1
+Industrie manufacturi`ere et extractives
+2,1
+2,1
+Construction
+1,0
+1,1
+Commerce
+3,9
+4,2
+Information et communication
+0,6
+0,6
+Activit´es financi`eres
+3,5
+3,5
+Activit´es immobili`eres
+0,2
+0,3
+Activit´es scientifiques
+5,0
+5,1
+Administration publique
+0,5
+1,1
+Autres activit´es de services
+0,3
+0,4
+NA
+0,1
+0,1
+Total
+17,4
+18,5
+— Champ : ensemble des redevables de l’IS.
+— Source : DGFiP, BIC-IS
+C
+Effets retour des baisses de charge et des impˆots de
+production
+Calcul du CICE contrefactuel `a partir des BTS
+Afin de valider la qualit´e de l’estimation du CICE contrefactuel, nous comparons sa va-
+leur recalcul´ee au montant effectivement vers´e en 2016, ann´ee pour laquelle les deux variables
+sont disponibles. Cette comparaison repose sur une r´egression lin´eaire du CICE observ´e sur
+le CICE simul´e. Les r´esultats (figure 11) montrent une forte corr´elation entre les deux s´eries,
+avec un R2 de 85 %. La constante de la r´egression est tr`es proche de z´ero et le coefficient
+associ´e au CICE simul´e n’est pas significativement diff´erent de 1, ce qui indique que le CICE
+recalcul´e constitue un bon pr´edicteur du montant effectivement vers´e. Le tableau 10 met
+toutefois en ´evidence des ´ecarts entre les totaux par grands secteurs ´economiques, bien que
+ceux-ci restent globalement limit´es.
+66
+
+=== page 71 ===
+Figure
+11
+–
+R´egression
+du
+CICE
+calcul´e
+sur
+le
+CICE
+vers´e
+en
+2016
+— Champ : ensemble des redevables de l’IS.
+— Source : DGFiP, BIC-IS
+67
+
+=== page 72 ===
+Effet retour et taux implicite
+Cette section analyse l’effet de retour de la baisse des impˆots de production sur la profi-
+tabilit´e des entreprises, en comparant les niveaux d’exc´edent net d’exploitation (ENE) et le
+taux implicite d’imposition sur les soci´et´es avant et apr`es neutralisation de ces effets.
+Marge extensive.
+La premi`ere cons´equence des effets indirects li´es `a ces r´eformes est
+d’augmenter le nombre d’entreprises profitables, que l’on nomme ici marge extensive. Ainsi,
+on estime que 86 000 entreprises n’auraient pas ´et´e profitables en 2022 si le CICE avait ´et´e
+maintenu `a la place de l’all´egement de cotisations. Par ailleurs, sans la baisse de la CET `a
+partir de 2021, 7 000 entreprises suppl´ementaires n’auraient pas ´et´e profitables.
+Marge intensive.
+Pour les 965 000 entreprises qui auraient ´et´e dans tous les cas exc´edentaires,
+y compris sans ces deux mesures, les profits se sont accrus, cet effet est qualifi´e de marge
+intensive. On estime en 2022 que l’ENE de ces entreprises aurait ´et´e inf´erieur de 5,9 % si le
+CICE avait ´et´e conserv´e en lieu et place de l’all´egement de cotisation. Si, en outre, la CET
+avait ´et´e maintenue `a son niveau initial, leur profit aurait ´et´e inf´erieur de 8,2 % par rapport
+au niveau observ´e.
+En r´esum´e, on estime ainsi que l’ENE g´en´er´e en 2022, s’´elevant `a 304,6 milliards d’euros,
+aurait ´et´e inf´erieur de 25 Md€ si le CICE avait ´et´e maintenu plutˆot que remplac´e par un
+all`egement de charges et que la CET ´etait rest´ee `a son niveau initial. Le taux implicite passe
+ainsi `a 17,7 % en 2022 au lieu de 17,8 % sans retraitement du CICE. En int´egrant ´egalement
+le retraitement li´e `a la CET, le taux implicite s’´etablit `a 17,5 %.
+68
+
+=== page 73 ===
+Table 11 – Effet de transformation du CICE et de la baisse de la CET sur l’impˆot sur les
+soci´et´es en 2022
+Entreprises
+profitables sans
+ajustement
+Entreprises
+profitables avec
+CICE
+Entreprises profitables
+avec CICE et sans
+r´eduction de CET
+Nombre d’entreprises (en milliers)
+1 057
+971
+965
+ENE total (Md€)
+Sans ajustement
+304,6
+302,1
+301,6
+Ajustement CICE
+nd
+283,9
+283,8
+Ajustement CICE+CET
+nd
+nd
+276,9
+IS brut total (Md€)
+Sans ajustement
+54,3
+53,6
+53,4
+Ajustement CICE
+nd
+50,2
+50,0
+Ajustement CICE+CET
+nd
+nd
+48,6
+Taux implicite (%)
+Sans ajustement
+17,8
+17,8
+17,7
+Ajustement CICE
+nd
+17,7
+17,6
+Ajustement CICE+CET
+nd
+nd
+17,5
+— Champ : entreprises redevables de l’IS des secteurs principalement marchands non
+agricoles et non financiers, (hors armateurs et entreprises soumises `a la taxe sp´eciale
+au tonnage)
+— Lecture : en 2022, 965 millions d’entreprises d´egagent un ENE > 0 en r´etablissant
+un CICE et une CET contrefactuels et les charges associ´ees, contre 1,057 millions
+sans ce traitement ; ces 965 milions d’entreprises repr´esentent une masse ´economique
+de 301,6 Md€ d’ENE en 2022, et 276,9 Md€ apr`es r´etablissement des charges, du
+CICE contrefactuel et de la CET contrefactuelle
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+69
+
+=== page 74 ===
+D
+Entreprises et redevables fiscaux
+Diff´erences de champ
+Outre les diff´erences d’unit´es d’observation, d´etaill´ees dans le tableau 14, le champ usuel
+de la statistique d’entreprise ne recoupe pas exactement celui des entreprises redevables de
+l’impˆot sur les soci´et´es. D’une part, certaines soci´et´es ´echappent au champ dit ≪Esane ≫, le
+dispositif d’´elaboration des statistiques annuelles d’entreprises : il ne r´epertorie que les unit´es
+l´egales marchandes et productives, hors agriculture (mais y compris exploitation foresti`ere)
+et hors finance (mais y compris les auxiliaires de finance et les activit´es de holding) 26. Par
+ailleurs, seules les entreprises dont l’ENE est positif sont prises en consid´eration dans l’´etude,
+les autres, bien sˆur incluses dans le champ Esane, ´etant retir´ee. D’autre part, certaines en-
+tit´es couvertes par Esane ne sont pas redevables de l’impˆot sur les soci´et´es, en particulier
+les autoentrepreneurs et entreprises individuelles qui sont assujetties `a l’impˆot sur le revenu
+et ne sont donc pas concern´ees par cette ´etude. La figure 12 d´etaille ces recouvrements de
+champ pour le mill´esime 2022.
+Redevables fiscaux appartenant au champ Esane.
+Le tableau 12 d´etaille pour chaque
+mill´esime la proportion d’entreprises redevables de l’impˆot sur les soci´et´es qui appartiennent
+au champ Esane. Les comptages sont r´ealis´es en nombre d’unit´es l´egales, mais int`egrent
+´egalement le volume ´economique (ENE, BFI, impˆot dˆu...) qu’elles repr´esentent. Approchant
+les 92 % en 2016, la proportion d’UL retrouv´ees dans le champ Esane descend progres-
+sivement pour atteindre moins de 85 % en 2022. En termes de poids ´economique, ces UL
+repr´esentent entre 67 et 80 % de l’ENE et entre 78 et 85 % de l’impˆot sur les soci´et´es d´eclar´e.
+Les pourcentages indiqu´es correspondent ainsi sch´ematiquement dans la figure 12 `a la partie
+hachur´ee du cercle par rapport au total du cercle rouge.
+Tous les redevables fiscaux appartenant au champ Esane ne sont pas retenus dans le
+26. Pour plus de d´etail sur le champ Esane, voir annexe F
+70
+
+=== page 75 ===
+Figure 12 – Recouvrement des champs DGfip et Esane en 2022
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+Table 12 – Redevables fiscaux retrouv´ees dans le champ Esane
+Ann´ees
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Nombre
+d’unit´es
+l´egales
+(milliers)
+Total redevables fiscaux
+1708
+1765
+1897
+2001
+2136
+2284
+2437
+Dont retrouv´es dans champ Esane
+1566
+1612
+1699
+1777
+1859
+1969
+2067
+Part retrouv´ee dans Esane
+91,7% 91,3% 89,6% 88,8% 87,0% 86,2% 84,8%
+BFI > 0
+(Md€)
+Total redevables fiscaux
+194
+217
+211
+255
+223
+347
+332
+Dont retrouv´es dans champ Esane
+152
+171
+170
+201
+181
+282
+282
+Part retrouv´ee dans Esane
+78,3% 78,7% 80,6% 78,9% 81,0% 81,3% 85,0%
+ENE > 0
+(Md€)
+Total redevables fiscaux
+275
+248
+284
+296
+303
+390
+530
+Dont retrouv´es dans champ Esane
+186
+196
+201
+219
+201
+286
+331
+Part retrouv´ee dans Esane
+67,5% 79,0% 70,8% 73,8% 66,2% 73,3 % 62,6%
+IS brut
+(Md€)
+Total redevables fiscaux
+53
+54
+56
+65
+50
+72
+69
+Dont retrouv´es dans champ Esane
+41
+43
+44
+51
+40
+57
+59
+Part retrouv´ee dans Esane
+78,7% 78,9% 79,0 % 78,8% 79,4% 80,0% 84,8%
+— Note de lecture : En 2022, parmi les 2,437 millions d’unit´es l´egales redevables de l’IS r´epertori´ees
+par la DGfip et repr´esentant un b´en´efice fiscal de 282 milliards d’euros, 2,067 millions appartiennent
+au champ Esane et sont retrouv´ees dans le FARE en entreprise profil´ee, pour un total de 238 milliards
+d’euros de b´en´efice fiscal.
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+71
+
+=== page 76 ===
+champ de l’´etude. Comme mentionn´e pr´ec´edemment, les entreprises dont l’ENE est n´egatif
+et celles soumises `a la taxe sp´eciale au tonnage sont exclues. En 2022, cette restriction r´eduit
+le montant total d’IS brut couvert par l’´etude de 58,7 `a 54,3 milliards d’euros, ce qui fait
+passer la part de cet agr´egat de 84,8 `a 78,4 % par rapport au champ initial des redevables
+fiscaux. A l’inverse, l’exclusion des ENE < 0 fait bondir l’ENE total du champ d’´etude de
+240,4 `a 304,6 milliards d’euros.
+Entreprises du champ Esane redevables de l’impˆot sur les soci´et´es
+R´eciproquement,
+le tableau 13 vise `a s’assurer que l’analyse globale de l’appareil productif (champ ”Esane”)
+offre une bonne repr´esentativit´e du champ des redevables de l’impˆot sur les soci´et´es. Les
+pourcentages mentionn´es correspondent cette fois dans la figure 12 `a la partie hachur´ee par
+rapport au total du cercle vert.
+Quel que soit le mill´esime consid´er´e, le nombre d’unit´es l´egales soumises `a l’impˆot sur les
+soci´et´es ne repr´esente gu`ere plus du quart du nombre total des unit´es l´egales marchandes
+et productives du champ Esane. Ce chiffre peut paraˆıtre assez faible mais doit ˆetre mis en
+perspective avec leur poids ´economique : pr`es des trois quarts de la valeur ajout´ee ou des
+effectifs salari´es en 2022. Les autres unit´es l´egales r´epertori´ees du champ Esane sont en effet
+dans leur tr`es grande majorit´e impos´ees `a l’impˆot sur le revenu, c’est-`a-dire pour l’essentiel
+des microentreprises ou des petites entreprises sans salari´es, dont le poids ´economique est
+faible.
+Ces retraitements, qui visent `a rapporter la fiscalit´e au p´erim`etre des entreprises tel
+que d´efini par l’Insee `a des fins d’analyse ´economique, ont des effets importants sur les
+r´esultats de l’´etude. Ils modifient la r´epartition sectorielle de l’activit´e ´economique et font
+´egalement varier les taux d’imposition calcul´es. La sous-section D expose les cons´equences
+72
+
+=== page 77 ===
+Table 13 – Poids des UL retrouv´ees parmi les redevables de l’IS par rapport au champ
+total Esane (hors agriculture et finance)
+Ann´ees
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Nombre
+d’unit´es
+l´egales
+(milliers)
+champ Esane total
+4210
+4088
+4118
+4385
+4563
+4998
+5238
+dont UL redevables IS retrouv´ees
+1566
+1612
+1699
+1777
+1859
+1969
+2067
+dont UL champ ´etude (ENE > 0) 27
+1034
+1080
+1116
+1181
+1160
+1324
+1301
+Part retrouv´ee dans champ ´etude
+24,6 % 26,4% 27,1% 26,9% 25,4% 26,5% 24,8%
+valeur
+ajout´ee
+(G€)
+champ Esane total
+1120
+1162
+1192
+1237
+1136
+1298
+1395
+dont UL redevables IS retrouv´ees
+994
+1048
+1081
+1129
+1035
+1190
+1287
+dont UL champ ´etude (ENE > 0)
+808
+867
+890
+933
+797
+958
+1054
+Part retrouv´ee dans champ ´etude
+72,1% 74,7% 74,7% 75,4% 70,2% 73,8% 75,6%
+salari´es
+ETP
+(millions)
+champ Esane total
+12,8
+13,0
+12,8
+14,8
+13,6
+14,8
+15,6
+dont UL redevables IS retrouv´ees
+11,8
+12,1
+12,1
+14,1
+12,9
+14,1
+14,9
+dont UL champ ´etude (ENE > 0)
+9,0
+9,3
+9,2
+11,0
+8,9
+10,7
+11,4
+Part retrouv´ee dans champ ´etude
+70,3% 71,6% 72,3% 74,1% 66,0% 72,6% 73,0%
+— Note de lecture : En 2022, parmi les 5,238 millions d’unit´es l´egales appartenant `a des entreprises
+r´epertori´ees dans le FARE et repr´esentant une valeur ajout´ee de 1395 milliards d’euros, 2,067 millions
+rel`event d’entreprises qui s’acquittent de l’IS et sont r´epertori´ees dans les liasses fiscales de la DGfip,
+pour un total de 1287 milliards d’euros de valeur ajout´ee.
+— Source : Insee, Base Tous Salari´es, Esane, DGFiP, BIC-IS
+73
+
+=== page 78 ===
+de ces traitements sur les taux fiscal et implicite calcul´es par secteur.
+Calcul de l’imposition des entreprises profil´ees
+Construction des donn´ees
+Les diff´erents traitements op´er´es `a partir de la base initiale
+des redevables DGFIP (d´ecomposition des groupes fiscaux, appariement avec Esane, restric-
+tions de champ...) engendrent un certain nombre d’impacts sur le taux implicite affich´e. Le
+tableau 14 r´esume les principaux cas possibles et la mani`ere dont ils sont trait´es.
+74
+
+=== page 79 ===
+Table 14 – Construction des variables comptables selon diff´erents cas types d’entreprises
+Variable
+Cas 1 : EP = une
+UL ind´ependante
+Cas 2 : EP = un
+groupe
+fiscal
+com-
+pos´e
+de
+plusieurs
+UL
+Cas
+3
+:
+EP
+=
+plusieurs redevables
+(UL ou GF) tous in-
+clus dans l’EP
+Cas 4 : EP = une
+partie d’un groupe
+fiscal
+Cas 5 : EP =
+plusieurs
+redevables,
+certains par-
+tag´es
+avec
+d’autres EP
+ENE
+P ENEUL
+Somme des ENE des UL de l’EP (cette variable n’existe qu’`a l’´echelle de
+l’UL). Seules les EP dont l’ENE est positif sont retenues dans le champ de
+l’´etude. En effet, cet indicateur n’est pas pertinent pour les EP dont l’ENE est
+n´egatif, car il peut alors prendre des valeurs n´egatives pour des EP soumises
+`a l’impˆot.
+Les
+agr´egats
+comp-
+tables
+du
+GF
+sont
+calcul´es
+comme
+in-
+diqu´e au cas 2 puis
+r´epartis
+entre
+ses
+diff´erentes
+EP
+selon
+leur
+poids
+respectif.
+La pond´eration d’une
+EP
+correspond
+`a
+la
+proportion de la masse
+salariale des UL qui lui
+sont rattach´ees dans la
+masse salariale totale
+du GF. Ces agr´egats
+recalcul´es
+peuvent
+donc ˆetre distincts `a
+la somme des valeurs
+d´eclar´ees par les UL
+constituant cette EP.
+Par exemple, si l’EP
+repr´esente
+80%
+de
+la masse salariale du
+groupe
+fiscal,
+il
+lui
+est
+attribu´e
+80%
+de
+l’ENE
+de
+ce
+groupe
+fiscal, quelle que soit la
+fraction d’ENE que ses
+UL g´en`erent au sein
+du groupe fiscala.
+Pour les GF `a
+cheval sur plu-
+sieurs
+EP,
+les
+agr´egats comp-
+tables
+sont
+ventil´es
+entre
+les
+diff´erentes
+EP
+de
+rat-
+tachement
+comme
+d´ecrit
+dans le cas 4.
+Les
+agr´egats
+ainsi
+r´epartis
+des
+diff´erents
+redevables sont
+ensuite agr´eg´es
+`a
+l’´echelle
+de
+l’EP
+comme
+d´ecrit pour le
+cas 3.
+BFI : utilis´e pour le calcul de
+l’impˆot, ´egal au RFI pour une
+redevable
+fiscal
+b´en´eficiaire,
+´egal `a z´ero pour un redevable
+fiscal d´eficitaire car non impo-
+sable.
+max(0, RFIUL)
+max(0, RFIGF )
+Calcul´e
+`a
+partir
+du
+r´esultat fiscal du GF
+P max(0, RFIRF )
+Somme des RFI des re-
+devables fiscaux fiscale-
+ment b´en´eficiaire (pas
+de consolidation fiscale
+entre les diff´erents re-
+devables de l’EP).
+Agr´egats
+comptables
+in-
+term´ediaires : utilis´es pour
+calculer le RFI `a partir de
+l’ENE. Dans la d´ecomposition
+du passage de l’ENE au BFI,
+ces agr´egats interm´ediaires ne
+sont plus pertinents pour les
+redevables d´eficitaires.
+1RF IUL>0 × ACUL
+Ramen´es `a z´ero pour
+les UL d´eficitaires.
+1RF IGF >0 × P ACUL
+Sommes des agr´egats
+des
+UL
+(non
+conso-
+lid´es). Ramen´es `a z´ero
+pour les redevables fis-
+caux d´eficitaires.
+P
+RF IRF >0 ACUL
+Sommes des agr´egats
+des UL des redevables
+fiscaux
+b´en´eficiaires
+(non consolid´es).
+R´egime de groupe : ´ecart
+entre la somme des agr´egats
+comptables
+interm´ediaires
+et
+le BFI, li´e `a la consolidation
+comptable des GF. Construc-
+tion par solde.
+Sans objet
+1RF IGF >0
+×
+(RFIGF −P RFIUL)
+Diff´erence entre le BFI
+du groupe fiscal et la
+somme
+des
+BFI
+des
+UL.
+Ramen´e
+`a
+z´ero
+pour
+les
+redevables
+fiscaux d´eficitaires.
+P
+RF IGF >0 RFIGF −
+P
+RF IGF >0 RFIUL
+Diff´erence
+entre
+la
+somme
+des
+BFI
+des
+redevables
+fiscaux
+et
+la somme des BFI des
+UL.
+Ramen´e
+`a
+z´ero
+pour
+les
+redevables
+fiscaux d´eficitaires.
+Effet de champ : L’effet de
+champ correspond `a la contri-
+bution des redevables fiscale-
+ment d´eficitaires au taux impli-
+cite. Il est construit par solde
+du taux implicite agr´eg´e et du
+taux implicite calcul´e sur les
+redevables b´en´eficiairesb.
+1RF IRF <0 × P ENEUL
+ENE des redevables d´eficitaires uniquement.
+Ces ENE sont n´ecessairement positifs, l’effet
+de champ entraˆıne donc toujours une diminu-
+tion du taux implicite.
+P
+RF IRF <0 ENEUL
+Outre les cas d´efinis
+dans les cas 1 et 2, cer-
+taines EP contiennent
+des redevables fiscale-
+ment d´eficitaires dont
+l’ENE est n´egatifc. Ce
+cas de figure joue en
+sens
+inverse
+`a
+celui
+d´ecrit dans les cas 1 et
+2, le signe de l’effet de
+champ est donc incer-
+tain.
+Idem cas 1 et 2
+Idem cas 3
+EP : entreprise au sens de la LME
+Redevable fiscal (RF) : unit´e l´egale (UL) ind´ependante ou groupe fiscal (GF)
+R´esultat fiscal (RFI) : d´etermin´e `a partir du r´esultat comptable, retrait´e pour tenir compte des r`egles fiscales. Il provient directement des liasses
+transmises `a l’administration fiscale. S’il est positif, l’entit´e est b´en´eficiaire, s’il est n´egatif, l’entit´e est d´eficitaire au sens fiscal. Le r´esultat fiscal d’un
+groupe fiscal ne correspond pas `a la somme des r´esultats fiscaux des unit´es l´egales qui le compose, du fait de la neutralisation de certaines op´erations
+intra-groupe (consolidation comptable).
+a Cette imputation permet que toutes les EP appartenant au mˆeme groupe fiscal aient le mˆeme taux implicite du GF - ceci ´evite donc de cr´eer des taux
+distincts qui s’appliqueraient pour le mˆeme redevable fiscal. En particulier, si un groupe fiscal g´en`ere un ENE positif et qu’il est constitu´e de deux EP dont
+l’une a un ENE n´egatif, la r`egle utilis´ee ici permet de ne pas exclure du champ une partie du GF.
+b Les redevables d´eficitaires n’entrent pas dans la d´ecomposition du BFI : la d´ecomposition ferait apparaˆıtre leur RFI, n´egatif, alors que leur BFI est nul. Ils
+contribuent en revanche au taux implicite, leurs ENE n’´etant g´en´eralement pas nuls.
+c Car le choix de l’inclusion dans le champ se fait `a partir du signe de l’ENE de l’EP.
+75
+
+=== page 80 ===
+Unit´e d’observation et agr´egats comptables
+La table 15 pr´esente la r´epartition des
+agr´egats ´etudi´es (ENE, IS brut...) en fonction des diff´erents cas r´epertori´es dans la table 14.
+Les cas 2-3 repr´esentent une part mod´er´ee mais croissante des agr´egats observ´es : leur poids
+dans le nombre total d’UL reste stable autour de 6 `a 7 %, mais ils concentrent entre 35 et
+40 % de la BFI et environ 30 `a 35 % de l’ENE. Leur contribution `a l’IS brut est un peu plus
+faible, autour de 30 %. Les cas 4-5, bien que tr`es minoritaires en nombre (moins de 1 % des
+UL), p`esent significativement sur les agr´egats financiers : jusqu’`a 20 % du BFI et de l’ENE
+certaines ann´ees, avec une contribution `a l’IS brut qui oscille entre 10 et 15 %.
+Table 15 – R´epartition des agr´egats par type de traitement et par ann´ee
+Ann´ee
+Nombre d’UL (en milliers)
+BFI (en Mds €)
+Cas 1
+Cas 2-3
+Cas 4-5
+Total
+Cas 1
+Cas 2-3
+Cas 4-5
+Total
+2016
+937,1
+70,7
+8,5
+1016,3
+64,1
+47,3
+21,7
+133,1
+2017
+973,3
+75,4
+8,9
+1057,6
+71,3
+49,4
+24,1
+144,9
+2018
+1012,4
+75,9
+10,2
+1098,5
+73,9
+55,8
+20,4
+150,1
+2019
+973,8
+73,8
+7,2
+1054,9
+79,6
+58,7
+25,5
+163,8
+2020
+980,8
+69,1
+5,9
+1055,8
+81,3
+50,4
+12,9
+144,6
+2021
+1116,9
+79,0
+7,9
+1203,8
+103,1
+66,7
+57,1
+226,9
+2022
+1073,2
+82,5
+7,1
+1162,8
+115,2
+81,4
+27,1
+223,7
+Ann´ee
+ENE (en Mds €)
+IS brut (en Mds €)
+Cas 1
+Cas 2-3
+Cas 4-5
+Total
+Cas 1
+Cas 2-3
+Cas 4-5
+Total
+2016
+88,6
+60,9
+31,5
+181,0
+18,4
+13,4
+5,6
+37,5
+2017
+93,5
+62,2
+33,7
+189,3
+20,1
+13,7
+4,7
+38,5
+2018
+95,7
+75,6
+29,0
+200,3
+20,1
+16,0
+4,2
+40,3
+2019
+91,5
+80,9
+27,8
+200,2
+20,2
+16,4
+6,6
+43,2
+2020
+92,4
+62,0
+29,9
+184,3
+20,3
+11,4
+2,7
+34,5
+2021
+117,9
+81,9
+41,9
+241,8
+25,2
+16,0
+6,2
+47,3
+76
+
+=== page 81 ===
+Ann´ee
+Nombre d’UL (en milliers)
+BFI (en Mds €)
+Cas 1
+Cas 2-3
+Cas 4-5
+Total
+Cas 1
+Cas 2-3
+Cas 4-5
+Total
+2022
+125,1
+96,7
+55,2
+276,9
+25,7
+17,7
+5,1
+48,6
+— Note : les diff´erents cas correspondent `a ceux d´ecrits dans la table 14 : le cas 1
+regroupe les EP constitu´es d’une seule UL ind´ependante ; les cas 2 et 3 regroupent les
+EP constitu´es d’un ou plusieurs GF et/ou UL ; les cas 4 et 5 correspondent aux EP
+de fractions de GF.
+— Source : Insee, Base Tous Salari´es, Esane, DGFiP, BIC-IS.
+Unit´e d’observation et secteurs d’activit´e
+L’utilisation des concepts (champ et unit´e
+statistique) de la statistique structurelle d’entreprise am`ene, comme nous l’avons vu, `a ca-
+ract´eriser les r´esultats selon le secteur d’activit´e de l’entreprise profil´ee `a laquelle est rattach´ee
+l’unit´e l´egale. Celui-ci ne correspond pas forc´ement `a l’activit´e d´eclar´ee par le redevable fis-
+cal (groupe fiscal ou unit´e l´egale ind´ependante) qui remplit la liasse collect´ee par la DGFIP.
+Pour ces raisons, les activit´es d´eclar´ees peuvent ˆetre assez diff´erentes suivant si l’on se posi-
+tionne sur celles du groupe fiscal ou de l’entreprise profil´ee. Les tableaux 13, 14, 15 montrent
+comment les diff´erentes grandeurs fiscales (ENE, BFI, IS brut pay´e) peuvent ˆetre d´eform´ees
+en fonction de la d´efinition du secteur d’activit´e qui est retenue.
+77
+
+=== page 82 ===
+Figure 13 – Ecarts de BFI entre secteurs de l’entreprise profil´ee et du groupe fiscal en 2022
+Figure 14 – Ecarts d’ENE entre secteurs de l’entreprise profil´ee et du groupe fiscal en 2022
+78
+
+=== page 83 ===
+Figure 15 – Ecarts d’impˆot brut pay´e entre secteurs de l’entreprise profil´ee et du groupe
+fiscal en 2022
+— Note : les activit´es sp´ecialis´ees, scientifiques, et techniques correspondent `a diff´erents
+services aux entreprises, `a forte valeur ajout´ee, mais dans des domaines tr`es divers :
+cabinets juridiques et comptables, g´eom`etres, laboratoires de recherches, activit´es de
+R&D, publicit´e, conseil en gestion, v´et´erinaires, etc...
+— Lecture : en 2022, les unit´es l´egales rattach´ees `a des groupes fiscaux des industries
+extractives d´egagent un ENE de 494 milliards d’euros ; ce chiffre descend `a 480 mil-
+liards d’euros si on raisonne suivant le secteur de l’entreprise profil´ee
+— Champ : unit´es l´egales des entreprises des secteurs principalement marchands non
+agricoles et non financiers, avec ENE > 0, hors armateurs et entreprises soumises `a
+la taxe sp´eciale au tonnage
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+Dans plusieurs secteurs, les ´ecarts peuvent ˆetre tr`es significatifs. C’est le cas de l’in-
+dustrie manufacturi`ere et de la construction, o`u le BFI et l’ENE sont largement sup´erieurs
+lorsqu’on raisonne selon le secteur de l’entreprise profil´ee, tout comme pour l’information
+communication. A l’inverse, dans la finance et les activit´es sp´ecialis´ees scientifiques et tech-
+79
+
+=== page 84 ===
+niques, le rattachement au secteur de l’entreprise profil´ee engendre une forte diminution
+de ces agr´egats. Ces r´esultats rejoignent les travaux d´ej`a effectu´es sur le sujet (Briant and
+Skl´enard, 2019), qui d´emontrent que le raisonnement en entreprise profil´ee tend `a augmenter
+le poids ´economique des secteurs industriels et de la construction, au d´etriment des services
+marchands. On remarquera toutefois pour ces secteurs que le volume d’IS brut collect´e varie
+souvent dans les mˆemes proportions, ce qui limite l’impact sur les taux calcul´es et comment´es
+par la suite.
+Effet des traitements statistiques sur le taux implicite
+Unit´e d’observation et taux implicite agr´eg´e
+Le graphique 16 compare les niveaux
+et les ´evolutions du taux implicite d’imposition sur quatre p´erim`etres : l’ensemble des re-
+devables fiscaux, les redevables fiscaux relevant du champ de l’´etude, ceux retrouv´es sous
+forme d’entreprises profil´ees dans Esane, et celles du champ final de l’´etude. Il ressort que
+le passage du champ Esane au champ final entraˆıne une diminution du taux implicite, en
+raison d’un d´enominateur plus ´elev´e : la restriction aux entreprises ayant un ENE positif aug-
+mente m´ecaniquement le montant global d’ENE. Autre diff´erence, le champ des redevables
+fiscaux prend en compte les soci´et´es financi`eres, ce qui contribue `a une plus forte volati-
+lit´e d’une ann´ee sur l’autre, en lien avec la plus forte variabilit´e annuelle de leurs r´esultats.
+Il est int´eressant ainsi de noter que lorsque l’on restreint les redevables fiscaux au champ
+Esane de l’´etude, cette volatilit´e disparaˆıt et l’on retrouve des ´evolutions parall`eles `a celles
+des entreprises profil´ees retrouv´ees dans Esane. Au final, malgr´e ces ´ecarts de niveau et de
+volatilit´e entre champs, l’´evolution globale du taux implicite entre 2016 et 2022 n’est pas
+boulevers´ee et les tendances demeurent tout de mˆeme semblables. En 2023, les taux calcul´es
+(observables uniquement sur le champ des redevables) montrent une relative stabilit´e, dans
+la prolongation de ceux observ´es en 2022.
+A partir du champ initial des redevables fiscaux, la figure 17 r´ecapitule l’impact des
+80
+
+=== page 85 ===
+Figure 16 – Evolution du taux implicite d’imposition en fonction du champ consid´er´e
+— Note de lecture : En 2016, le taux implicite brut s’´el`eve `a 19,1 % sur les UL
+r´epertori´ees par la DGFIP comme redevables de l’IS. Parmi celles retrouv´ees comme
+entreprises profil´ees dans le champ Esane, le taux implicite s’´el`eve `a 22,3 %.
+— Champ : La courbe rouge pleine correspond `a l’ensemble des redevables fiscaux ; la
+courbe rouge en pointill´es aux redevables fiscaux hors armateurs et finance, assurance ;
+la courbe vert fonc´e correspond au mˆeme champ sectoriel mais est calcul´ee pour des
+entreprises au sens de la LME ; la courbe vert clair est enfin calcul´ee en retirant les
+entreprises `a ENE n´egatif et les armateurs soumis `a la taxe au tonnage, et celle en
+pointill´e prend en compte le contrefactuel du CICE et de la CET.
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+81
+
+=== page 86 ===
+traitements en reprenant les cas d´ecrits dans le tableau 14. On peut observer une premi`ere
+diff´erence entre unit´es l´egales ind´ependantes (c’est-`a-dire non int´egr´ees `a un groupe fiscal)
+et groupes fiscaux, ces derniers affichant un taux implicite plus faible, et qui diminue plus
+rapidement. Cet ´ecart s’explique plutˆot par un facteur taille, les groupes fiscaux concernant
+principalement les entreprises de taille importante, qui pr´esentent par ailleurs un taux im-
+plicite plus faible, que par une sp´ecificit´e li´ee `a la construction des donn´ees.
+Par la suite, le cas le plus probl´ematique demeure celui des groupes fiscaux constitu´es
+d’UL r´epartis sur plusieurs entreprises profil´ees (cas 4 et 5 de la table 14) : le taux implicite
+de ces groupes fiscaux varie de mani`ere beaucoup plus heurt´ee que ceux englob´es dans une
+entreprise profil´ee. Comme vu pr´ec´edemment, ce cas repr´esente un peu plus de 7000 unit´es
+l´egales et pr`es de 20 % de l’ENE total. L`a encore, le facteur taille est privil´egi´e pour expliquer
+ces ´ecarts :les entreprises des cas 4 et 5 appartiennent n´ecessairement aux 89 plus grands
+groupes fran¸cais (cible 1 du profilage) comme expliqu´e plus haut. Il peut ´egalement s’agir
+d’entit´es constitu´ees d’UL du champ Esane cohabitant avec des UL financi`eres (donc hors
+champ Esane), ce qui peut expliquer cette forte variabilit´e due `a la volatilit´e des r´esultats
+financiers.
+Influence de l’unit´e d’observation sur le taux implicite par secteur d’activit´e.
+Le caclul du taux implicite par `a l’´echelle de l’entreprise au sens de la LME a un impact
+relativement limit´e sur les r´esultats obtenus par secteur d’activit´e, tant en niveau (figure 18)
+qu’en ´evolution (figure 19). En effet, num´erateur et d´enominateur varient dans des propor-
+tions similaires (`a l’exception de certains secteurs o`u le passage en entreprises au sens de
+la LME modifie nettement les unit´es consid´er´ees). Pour l’industrie manufacturi`ere, l’´ecart
+concernant le taux fiscal est d’environ 2 points, alors que celui pour le taux implicite est de
+2,6 points en 2022. En ´evolution, entre 2016 et 2022, le taux implicite diminue moins vite
+82
+
+=== page 87 ===
+Figure 17 – Evolution du taux implicite d’imposition selon le type d’int´egration fiscale
+— Note de lecture : En 2016, le taux implicite brut s’´el`eve `a 20,8 % sur les UL
+ind´ependantes redevables de l’IS (non int´egr´ees fiscalement), alors que celui des
+groupes fiscaux s’´el`eve `a 20,6 %. Parmi ces derniers, ceux englob´es `a l’int´erieur d’une
+entreprise profil´ee affichent un taux implicite de 22,1 %, tandis que pour ceux `a cheval
+sur plusieurs EP, le taux s’´el`eve `a 17,9 %.
+— Champ : redevables de l’IS de 2016 `a 2022
+— Source : Dgfip – Fichiers des redevables des professionnels (2016-2022)
+83
+
+=== page 88 ===
+pour ce secteur en entreprise profil´ee qu’en redevable fiscal, avec un delta de -1,2 point. Pour
+le secteur de la construction, l’impact est limit´e sur la progression du taux fiscal (+ 1 point),
+mais plus marqu´e pour celle du taux implicite (+ 2,7 points). C’est le cas ´egalement pour le
+secteur du commerce, pour lequel le taux implicite augmente de 2,9 points lorsqu’on raisonne
+en entreprise profil´ee, alors que, `a l’inverse, le taux fiscal diminue (- 0,5 point). Concernant
+les activit´es financi`eres enfin, le taux implicite varie plus nettement (+ 5,5 points).
+Figure 18 – Ecarts de taux entre l’entreprise profil´ee et le redevable fiscal en 2022 selon le
+secteur d’activit´e
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Lecture : En 2022, le taux implicite des industries extractives est sup´erieur de 1,3 point lorsqu’on
+raisonne selon le secteur de l’entreprise profil´ee par rapport au groupe fiscal, alors que le taux fiscal
+est inf´erieur de 3,5 points.
+— Champ : unit´es l´egales des entreprises des secteurs principalement marchands non agricoles et non
+financiers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe sp´eciale au tonnage
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+84
+
+=== page 89 ===
+A noter le cas particulier des activit´es administratives et de soutien, pour lequel le cal-
+cul des taux est boulevers´e par le passage en entreprise profil´ee : le taux implicite diminue
+fortement (-14,9 points) alors que le taux fiscal progresse (+4,5 points). L’effondrement du
+taux implicite pour ce secteur tient `a un ENE qui est presque multipli´e par trois (+ 181 %)
+lorsqu’on passe en entreprise profil´ee, alors que l’IS brut tend plutˆot `a diminuer (- 38 %),
+tout comme le BFI (- 51 %). Ceci est dˆu `a un effet de champ : une part importante des
+redevables fiscaux rattach´es `a ce secteur appartient `a une entreprise, au sens ´economique,
+d’un autre secteur, pour laquelle ces redevables assurent des fonctions de support.
+85
+
+=== page 90 ===
+Figure 19 – Diff´erences d’´evolution 2016-2022 sur les taux entre entreprise profil´ee et
+redevable fiscal
+— Note : hors effets des r´eformes du CICE et de la CET.
+— Lecture : Entre 2016 et 2022, le taux implicite des industries extractives diminue de 4,7 points en
+redevable fiscal, mais de 2,8 points seulement en entreprise profil´ee, soit un diff´erentiel `a +1,9 point
+en faveur des EP ; `a l’inverse, le taux fiscal recule plus vite pour ce secteur en entreprise profil´ee
+qu’en redevable fiscal, avec un delta d’´evolution de -0,5 point. Par soucis de lisibilit´e, seul l’´ecart
+d’´evolution entre redevables fiscaux et entreprises profil´ees est report´e sur ce graphique.
+— Champ : unit´es l´egales des entreprises des secteurs principalement marchands non agricoles et non
+financiers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe sp´eciale au tonnage
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane
+86
+
+=== page 91 ===
+E
+Impˆot sur les soci´et´es
+Les r´egimes d’imposition
+Impˆot sur les soci´et´es et impˆot sur le revenu
+Il existe deux types d’imposition auxquels les profits d’une entreprise peuvent ˆetre soumis.
+Les entrepreneurs individuels et les soci´et´es de personnes rel`event de l’impˆot sur le revenu
+(IR), tandis que les autres soci´et´es sont soumises `a l’impˆot sur les soci´et´es. Lorsqu’une
+entreprise est soumise `a l’IR, ce sont l’entrepreneur ou les associ´es qui sont directement im-
+pos´es. Les b´en´efices r´ealis´es par l’entreprise s’ajoutent aux autres sources de revenu de leur
+m´enage et sont soumis au bar`eme progressif de l’IR. Pour les entreprises `a l’IS, il n’existe
+pas de bar`eme progressif d’imposition, un taux unique s’applique (25 % en 2022). Toutefois,
+les petites entreprises (en termes de chiffre d’affaires et de capital) peuvent b´en´eficier d’un
+taux r´eduit de 15% sur la fraction de leur b´en´efice inf´erieure `a 38 120 euros (42 500 euros `a
+compter du 01/01/2023). S’y ajoutent ´egalement plusieurs taux r´eduits applicables `a certains
+types de profits, tels que ceux issus de brevets ou de plus-values, qui seront d´etaill´es plus loin.
+Trois r´egimes d’impˆot sur les soci´et´es
+Le r´egime r´eel normal (RN) est le r´egime par d´efaut des entreprises soumises `a l’impˆot sur
+le revenu comme `a l’impˆot sur les soci´et´es. Il s’applique obligatoirement aux entreprises dont
+le chiffre d’affaires annuel hors taxes est sup´erieur pour 2023 `a 840 000 € pour les activit´es
+de vente de marchandises et `a 254 000 € pour les prestations de services. Les entreprises
+au r´egime normal transmettent leur situation comptable `a l’administration fiscale via les
+formulaires 2050, ´egalement appel´es liasses fiscales.
+Les entreprises dont le chiffre d’affaires est inf´erieur `a ces seuils rel`event du r´egime r´eel
+simplifi´e d’imposition (RSI) bien qu’elles puissent, sur demande, opter pour le r´egime nor-
+87
+
+=== page 92 ===
+mal d’imposition. L’int´erˆet du r´egime r´eel simplifi´e r´eside dans l’all`egement des obligations
+comptables et fiscales. Les entreprises relevant du RSI transmettent les d´eclarations 2033 `a
+l’administration fiscale.
+Un troisi`eme r´egime, appel´e r´egime de groupe, s’adresse aux groupes d’entreprises, c’est-
+`a-dire les unit´es l´egales reli´ees entre elles par des liens de d´etention capitalistique. Les soci´et´es
+´eligibles peuvent former un groupe fiscal, constitu´e d’une soci´et´e m`ere, dite tˆete de groupe,
+et de ses filiales. Au moins 95% du capital de chaque filiale doit ˆetre d´etenu directement ou
+indirectement par la soci´et´e m`ere pour former un groupe fiscal. Cette condition garantit un
+contrˆole substantiel de la tˆete de groupe sur ses filiales. L’objectif principal du r´egime du
+groupe fiscal est de permettre `a une soci´et´e m`ere et `a ses filiales d’ˆetre impos´ees comme si
+elles formaient une entit´e unique. Il vise `a neutraliser les effets li´es `a la structure juridique
+du groupe, qu’il soit organis´e en une seule ou en plusieurs entit´es distinctes.
+Concr`etement, ce r´egime permet d’imputer directement les pertes de certaines filiales sur
+les b´en´efices des soci´et´es b´en´eficiaires du groupe, ce qui r´eduit l’imposition globale par rap-
+port `a une imposition individualis´ee. Chaque soci´et´e du groupe ´etablit et d´eclare son propre
+r´esultat fiscal mais ne paie pas directement l’impˆot sur les soci´et´es. La soci´et´e m`ere d´etermine
+le r´esultat d’ensemble du groupe fiscal en sommant les r´esultats des soci´et´es membres du
+groupe et calcule le montant de l’impˆot dˆu `a partir de ce r´esultat consolid´e. Elle est seule re-
+devable de l’impˆot sur les soci´et´es pour l’ensemble du groupe. Les entreprises plac´ees sous le
+r´egime de groupe d´eclarent les formulaires 2050 ainsi qu’une d´eclaration consolid´ee sp´ecifique
+`a la tˆete de groupe, le formulaire 2058SD.
+88
+
+=== page 93 ===
+Table 16 – Elaboration du r´esultat fiscal
+CA (en Me)
+Tranches (en e)
+Exercice ouvert en
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+< 7,63
+0 `a 38 120
+15%
+15%
+15%
+15%
+15%
+15%
+15%
+38 120 `a 75 000
+33,3%
+28%
+28%
+28%
+28%
+26,5%
+25%
+75 000 `a 500 000
+33,3%
+> 500 000
+33,3%
+31%
+7,63-250
+0 `a 500 000
+33,3%
+33,3%
+28%
+28%
+28%
+26,5%
+25%
+> 500 000
+33,3%
+31%
+> 250
+0 `a 500 000
+33,3%
+33,3%
+28%
+28%
+28%
+27,5%
+25%
+> 500 000
+33,3%
+31%
+31%
+— Attention : En 2022, le seuil d’acc`es au taux r´eduit de l’IS n’est plus de 7,63M€ de Chiffre d’affaires (CA) mais
+10M€.
+— Note de lecture : En 2021, une entreprise ayant un CA de moins de 7,63M€ a ses 38 120 premiers euros de b´en´efice
+imposables `a 15% et tout euro sup´erieur est impos´e `a 26,5%.
+— Champ : Entreprises redevables de l’impˆot sur les soci´et´es
+— Source : Minist`ere de l’´Economie, des Finances, et de la Souverainet´e industrielle et num´erique, Direction G´en´erale
+des Finances Publiques
+Taux, assiette et montant de l’impˆot sur les soci´et´es
+Le taux normal d’imposition
+Le taux dit normal de l’impˆot sur les soci´et´es d´esigne le taux appliqu´e par d´efaut, en
+l’absence de dispositions sp´ecifiques (petites entreprises, plus-values, brevets). En 2016, ce
+taux s’´el`eve `a 33 1/3%.
+La baisse du taux normal, aboutissant `a un taux normal unique de 25 % en 2022, a ´et´e
+mise en place progressivement, selon un calendrier ´echelonn´e (voir tableau 16). D`es 2017, les
+entreprises ´eligibles au taux r´eduit `a 15% voient s’appliquer un second taux r´eduit `a 28%
+sur la tranche de b´en´efice comprise entre 38 120 et 75 000 euros. L’exercice 2018 est ensuite
+la premi`ere ann´ee o`u la r´eforme touche l’ensemble des entreprises : toutes b´en´eficient alors
+d’un taux maximal de 28% sur leurs 500 000 premiers euros de b´en´efice.
+Les plus grandes entreprises ne b´en´eficient d’une r´eduction de leur taux marginal sup´erieur
+qu’`a partir de l’exercice 2020, la mise en œuvre de la r´eforme est donc diff´er´ee pour ces
+derni`eres. Par ailleurs, les petites entreprises sont, de fait, moins concern´ees par cette r´eforme :
+disposant d´ej`a d’un taux r´eduit, inchang´e par la r´eforme, seule l’´eventuelle fraction du
+89
+
+=== page 94 ===
+b´en´efice exc´edant 38 120 euros est affect´ee. Enfin, certaines entreprises d´eclarent leurs r´esultats
+`a cheval sur deux ann´ees civiles. En cons´equence, une partie r´esiduelle des b´en´efices peut
+encore ˆetre impos´ee `a des taux de 26,5 ou 27,5% pour certains exercices clˆotur´es en 2022
+mais dont une partie rel`eve de 2021.
+Le b´en´efice fiscal imposable
+Pour d´eterminer le montant brut de l’impˆot sur les soci´et´es, l’entreprise commence par
+´etablir son r´esultat comptable, tel qu’il ressort de ses comptes annuels. Il est la somme de
+trois composantes principales :
+— Le r´esultat d’exploitation, qui refl`ete la performance de l’activit´e courante de l’en-
+treprise. Il correspond `a la diff´erence entre les produits d’exploitation (chiffre d’af-
+faires, subventions d’exploitation, production stock´ee, etc.) et les charges d’exploita-
+tion (achats, salaires, dotations aux amortissements, loyers, etc.). Il traduit la capacit´e
+de l’entreprise `a d´egager un profit `a partir de son activit´e principale lorsque celle-ci
+n’est pas financi`ere.
+— Le r´esultat financier, qui int`egre les charges et produits li´es aux op´erations de finan-
+cement et de placement. Il comprend notamment les int´erˆets d’emprunts ou encore
+les produits des titres de participation. Ce r´esultat peut aussi contenir les amortisse-
+ments physiques de certaines filiales non int´egr´ees fiscalement, par exemple, les filiales
+´etrang`eres. Ceci peut compliquer l’analyse ´economique des r´esultats d’exploitation et
+financier, notamment pour les grands groupes.
+— Le r´esultat exceptionnel, qui regroupe les ´el´ements non r´ecurrents, issus d’op´erations
+inhabituelles ou ponctuelles. Il peut s’agir par exemple de plus-values de cession d’ac-
+tifs, de p´enalit´es ou d’amendes, ou encore de d´epr´eciations exceptionnelles.
+Le r´esultat comptable peut ˆetre positif (b´en´efice comptable) ou n´egatif (d´eficit comp-
+table). Ce r´esultat ne constitue pas directement la base imposable.
+90
+
+=== page 95 ===
+Le b´en´efice fiscal (BFI) est obtenu `a partir du r´esultat comptable, apr`es application
+d’ajustements dits extra-comptables, n´ecessaires en raison des divergences entre r`egles comp-
+tables et fiscales. Tandis que la comptabilit´e vise `a refl´eter fid`element la performance et
+la situation financi`ere de l’entreprise pour ses parties prenantes (dirigeants, associ´es, sa-
+lari´es, cr´eanciers, investisseurs. . .), la logique fiscale vise `a assurer une r´epartition ´equitable
+de l’impˆot entre les entreprises, tout en assurant des incitations. Les ajustements fiscaux
+prennent la forme de r´eint´egrations et de d´eductions extra-comptables. Leur p´erim`etre peut
+aussi traduire des objectifs de politique ´economique, comme l’encouragement `a l’investisse-
+ment ou le soutien `a certains secteurs. Autre exemple, l’impˆot sur les soci´et´es est d´eductible
+comptablement, car il constitue une charge support´ee par l’entreprise, mais ne l’est pas fis-
+calement et doit ˆetre r´eint´egr´e, car il serait incoh´erent de le soustraire de l’assiette servant
+elle-mˆeme `a le calculer.
+Le r´esultat fiscal ainsi obtenu peut ˆetre un b´en´efice ou un d´eficit. En cas de b´en´efice,
+l’entreprise est redevable de l’impˆot sur les soci´et´es. En cas de d´eficit, celui-ci peut ˆetre
+imput´e sur les b´en´efices futurs ou, sous certaines conditions, sur les b´en´efices des exercices
+ant´erieurs (report en arri`ere).
+Les taux r´eduits
+Le b´en´efice fiscal d’une entreprise n’est pas n´ecessairement impos´e dans son int´egralit´e au
+taux normal. Plusieurs dispositifs d´erogatoires permettent de b´en´eficier de taux plus faibles
+sous certaines conditions.
+Premi`erement, un taux r´eduit `a 15 % s’applique `a une fraction du b´en´efice des plus petites
+entreprises. Ce taux concerne la part du b´en´efice n’exc´edant pas 38 120 € (port´ee `a 42 500 €
+`a compter du 1er janvier 2023), `a condition que l’entreprise r´ealise un chiffre d’affaires annuel
+inf´erieur ou ´egal `a 10 millions d’euros et que son capital soit d´etenu, `a hauteur d’au moins
+91
+
+=== page 96 ===
+75 %, par des personnes physiques. Au-del`a de ce seuil, le b´en´efice est impos´e au taux normal.
+Deuxi`emement, les entreprises peuvent opter pour le r´egime de l’≪IP Box ≫(ou ≪Pa-
+tent Box ≫), qui s’applique aux revenus tir´es de l’exploitation ou de la cession d’actifs de
+propri´et´e intellectuelle (brevets, logiciels, etc.). Ce r´egime, r´eform´e en 2019 pour renforcer
+l’attractivit´e de la fiscalit´e de l’innovation, permet d’imposer ces revenus `a un taux r´eduit
+de 10 % (15 % avant cette date).
+Les plus-values professionnelles sont, quant `a elles, en principe impos´ees au taux normal
+de 25 % (ou 15 % pour les PME). Elles correspondent `a la diff´erence entre le prix de cession
+et la valeur nette comptable des ´el´ements c´ed´es. Certaines plus-values b´en´eficient toutefois
+d’un r´egime fiscal all´eg´e, notamment celles issues de cessions de participations d´etenues de-
+puis plus de deux ans, de titres de soci´et´es `a pr´epond´erance immobili`ere cot´ees ou de parts de
+fonds communs de placement `a risques. Ces plus-values peuvent ˆetre totalement exon´er´ees,
+ou impos´ees selon les situations `a un taux de 15 % ou 19 %. 28
+Les deux premiers dispositifs permettent d’imposer `a taux r´eduit une fraction du b´en´efice
+fiscal imposable. `A l’inverse, les plus-values professionnelles b´en´eficiant d’un taux r´eduit
+correspondent `a des profits comptabilis´es en dehors du b´en´efice fiscal.
+Glossaire de la d´ecomposition
+Taux normal d’imposition
+Le taux normal d’imposition correspond au taux auquel sont impos´es les b´en´efices de
+la majorit´e des entreprises `a l’impˆot sur les soci´et´es (IS). Entre 2016 et 2022, la France a
+ramen´e le taux normal de l’IS de 33,1/3% `a 25% des b´en´efices.
+28. Les plus-values non impos´ees (taux de 0 %) ne sont pas comptabilis´ees avec le reste des plus-values
+mais plutˆot dans le r´esultat fiscal car elles sont r´eint´egr´ees `a ce dernier `a hauteur de 12 % de leur montant.
+92
+
+=== page 97 ===
+Contribution sociale (3,3%)
+La contribution sociale sur l’IS est ´egale `a 3,3 % de l’impˆot sur les soci´et´es dˆu par
+l’entreprise, apr`es application d’un abattement annuel de 763 000 € sur le montant de cet
+impˆot. Cette contribution est due par les entreprises dont le chiffre d’affaires exc`ede 7,63M€
+et dont le capital n’est pas d´etenu pour au moins 75% par des personnes physiques. Elle
+vient s’ajouter `a l’IS net `a payer.
+Taux r´eduit (15%)
+Pour les entreprises `a l’IS, un taux unique s’applique sur leur b´en´efice (appel´e ici taux
+normal d’imposition), sauf pour les petites entreprises (en termes de chiffre d’affaires et de
+capital), qui peuvent b´en´eficier d’un taux r´eduit de 15 % jusqu’`a 38.120 euros de b´en´efices
+(seuil valable jusqu’en 2022).
+Taux r´eduit sur les plus-values
+Le r´egime des plus-values professionnelles est applicable lors de la cession d’une immo-
+bilisation. La plus-value correspond `a la diff´erence entre le prix de cession et la valeur nette
+comptable de chaque ´el´ement c´ed´e. La plupart des cessions d’actifs r´ealis´ees sont imposables
+au taux normal. D’autres plus-values b´en´eficient d’un r´egime d’imposition `a taux r´eduit de
+0%, 15% ou 19%.
+Les montants de ces derni`eres ont ´et´e int´egr´es pour calculer un taux fiscal. Plus de 90%
+des plus-values sont impos´ees `a 0% (cessions de titres de participation).
+Taux r´eduit sur les brevets
+Les concessions de brevets impos´es au taux de 15% entre 2016 et 2018 et 10% entre 2019
+et 2022 ont ´egalement ´et´e prises en compte pour calculer le taux fiscal (ces concessions ´etant
+d´eduites extra-comptablement).
+Taux fiscal
+Le nouveau taux calcul´e int´egrant le taux normal, la contribution sociale et les diff´erents
+93
+
+=== page 98 ===
+taux r´eduits repr´esente le taux fiscal, soit le taux d’imposition appliqu´e sur le b´en´efice de
+l’entreprise.
+R´esultat financier
+Le r´esultat financier permet d’´evaluer la performance financi`ere de l’entreprise surtout
+en ce qui concerne la gestion des ressources financi`eres et les dettes. Il est calcul´e en faisant
+la diff´erence entre les produits et les charges financi`eres.
+R´esultat exceptionnel
+Le r´esultat exceptionnel regroupe les produits et charges qui ne rel`event pas de l’activit´e
+normale de l’entreprise comme les plus ou moins-values de cessions d’actifs, les litiges, etc.
+R´eint´egrations et d´eductions extra-comptables
+Les r´eint´egrations et d´eductions extra-comptables apparaissent sur le feuillet 2058A et
+permettent le passage du r´esultat comptable au r´esultat fiscal, les r`egles comptables et fiscales
+n’´etant pas les mˆemes.
+Report de d´eficit
+Les d´eficits des ann´ees ant´erieures sont imputables sur les b´en´efices des ann´ees futures
+sans limitation de temps.
+Autres produits et autres charges
+Les ≪autres produits ≫incluent des revenus comme les subventions d’exploitation, les
+reprises sur provisions et amortissements ou les indemnit´es d’assurance.
+Les
+≪autres charges
+≫incluent des d´epenses non r´ecurrentes comme les pertes sur
+cr´eances irrecouvrables, les coˆuts li´es `a des litiges, les dotations aux amortissements et pro-
+visions, etc.
+R´egime de groupe
+Les soci´et´es soumises `a l’impˆot sur les soci´et´es peuvent constituer un groupe fiscal dans
+lequel la soci´et´e m`ere est seule redevable de l’IS.
+Participation des salari´es
+94
+
+=== page 99 ===
+Les entreprises de 50 salari´es et plus doivent redistribuer une partie des b´en´efices sous
+forme de primes aux salari´es.
+B´en´efice attribu´e
+Le b´en´efice attribu´e fait r´ef´erence `a la part du b´en´efice qui est distribu´ee aux associ´es ou
+actionnaires.
+Perte support´ee
+Les pertes support´ees font r´ef´erence aux pertes que l’entreprise a d´ecid´e de ne pas imputer
+sur ses b´en´efices futurs.
+Plus-values et brevets
+Les montants en base des plus-values et brevets sont r´eint´egr´es pour calculer le taux
+implicite d’imposition.
+Entreprises d´eficitaires
+Les entreprises ayant un d´eficit fiscal ou un b´en´efice fiscal nul ont ´et´e int´egr´ees `a la
+d´ecomposition. Ces entreprises ont un impact sur le taux implicite car elles ont un exc´edent
+net d’exploitation positif.
+Diff´erentes d´efinitions du b´en´efice fiscal
+On peut distinguer trois types d’entreprises, du fait de la comptabilisation `a part des
+plus-values ´eligibles `a un taux r´eduit :
+1. Les entreprises b´en´eficiaires au sens du r´esultat fiscal repr´esentent 89% de
+l’ENE en 2022. Elles ont un ENE et un b´en´efice fiscal (hors plus-values) strictement
+positifs, leur liasse est donc d´ecomposable, c’est-`a-dire que l’ENE et les diff´erents
+agr´egats comptables somment bien au BFI.
+2. Les entreprises d´eficitaires au sens du r´esultat fiscal (hors plus-values) et
+qui ne g´en`erent pas de plus-values tax´es `a taux r´eduit repr´esentent 9% de
+95
+
+=== page 100 ===
+l’ENE en 2022. Elles ont un ENE positif mais un BFI (hors plus-values) nul, leur
+liasse n’est donc pas directement d´ecomposable.
+3. Les entreprises d´eficitaires au sens du r´esultat fiscal (hors plus-values) mais
+qui g´en`erent des plus-values tax´ees `a taux r´eduit repr´esentent 2% de l’ENE
+en 2022. Elles ont un ENE positif mais un BFI (hors plus-values) nul, leur liasse n’est
+donc pas d´ecomposable. Cependant, elles payent un impˆot sur leurs plus-values.
+La figure 20 rend compte des effets de champ sur le taux implicite en comparant le
+taux implicite selon l’inclusion de ces trois types d’entreprises. La courbe noire correspond `a
+l’ensemble des entreprises b´en´eficiaires au sens de l’ENE, champ adopt´e pour cette ´etude, et
+couvre les cas 1, 2 et 3. Le fait de sortir de notre champ des entreprises qui ne payent aucun
+impˆot, ni sur les plus-values, ni sur le reste de l’assiette fiscale augmente le taux implicite
+m´ecaniquement (courbe bleue, cumulant les cas 1 et 3) : cela accroˆıt le d´enominateur sans
+effet sur le num´erateur. La courbe rouge isole, quant `a elle, le taux implicite des seules
+entreprises g´en´erant un b´en´efice fiscal hors plus-values, qu’elles soient ou non redevables
+d’un impˆot sur des plus-values ´eligibles au taux r´eduit (cas 1 uniquement).
+D´ecomposition agr´eg´ee de l’assiette fiscale
+D´ecomposition par taille
+F
+Champ Esane
+S´election sur l’activit´e ´economique (codes APE)
+La s´election du champ Esane sur le code APE correspond, en Naf r´ev. 2, aux activit´es :
+- des sections :
+B - Industries extractives
+96
+
+=== page 101 ===
+Figure 20 – Comparaison des taux implicites en fonction de la d´efinition du b´en´efice
+— Champ : Ensemble des entreprises redevables de l’impˆot sur les soci´et´es
+— Source : DGFIP – BIC-IS, fichiers des professionnels redevables de l’IS (2016-2022)
+Table 17 – Passage de l’ENE au BFI (en Md€)
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+ENE
+181,0
+189,3
+200,3
+200,2
+184,3
+241,8
+276,9
+R´esultat financier
+-32,8
+-28,9
+-20,0
+-22,1
+-33,8
+-16,6
+-30,6
+R´esultat exceptionnel
+15,1
+23,7
+12,7
+16,1
+13,4
+50,7
+23,3
+R´eint´egrations/d´eductions extracomptable
+-12,7
+-20,5
+-21,3
+-12,2
+-6,7
+-41,6
+-22,9
+Report de d´eficit
+-6,0
+-7,3
+-7,2
+-8,8
+-5,9
+-10,7
+-13,5
+Autres produits/autres charges
+-14,4
+-13,0
+-13,8
+-21,0
+-19,8
+-17,0
+-15,6
+R´egime de groupe
+-0,1
+-0,1
+-0,4
+-0,7
+0,2
+-1,0
+-0,6
+Participations des salari´es
+-5,2
+-5,4
+-5,6
+-6,8
+-5,4
+-8,3
+-9,3
+B´en´efice attribu´e
+2,1
+2,1
+2,5
+2,5
+1,7
+2,3
+2,8
+Perte support´ee
+-1,0
+-1,2
+-1,4
+-1,2
+-0,9
+-1,2
+-1,2
+Plus-values et brevets
+11,7
+17,7
+10,9
+17,5
+15,8
+47,3
+25,4
+Redevables d´eficitaires
+-4,6
+-11,7
+-6,5
+0,2
+1,5
+-18,8
+-11,2
+B´en´efice Fiscal yc Plus-values
+133,1
+144,9
+150,1
+163,8
+144,6
+226,9
+223,7
+— Note : hors effets des r´eformes du CICE et de la CET. L’effet de champ correspond `a
+la contribution des redevables fiscalement d´eficitaires et le reste de la d´ecomposition est
+r´ealis´ee sur les redevables fiscalement b´en´eficiaires de l’entreprise.
+97
+
+=== page 102 ===
+Table 18 – D´ecomposition du taux d’imposition moyen entre 2016 et 2022 – TPE
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Taux normal d’imposition
+33,3
+33,3
+33,3
+33,3
+31,0
+27,5
+25,0
+Contribution sociale 3,3%
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+Taux r´eduit de 15%
+-9,4
+-9,2
+-8,8
+-9,1
+-7,5
+-5,1
+-4,5
+Taux r´eduit plus-values
+-0,5
+-0,6
+-0,5
+-0,7
+-0,9
+-0,7
+-0,5
+Taux r´eduit brevet
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+Baisse progressive du taux normal
+0,0
+-0,5
+-1,9
+-1,9
+-1,0
+-0,3
+0,8
+Total contribution des taux r´eduits
+-9,9
+-10,3
+-11,3
+-11,6
+-9,4
+-6,1
+-4,2
+Taux fiscal
+23,4
+23,0
+22,0
+21,7
+21,5
+21,4
+20,8
+R´eint´egrations/d´eductions extracomptable
+-1,3
+-1,5
+-1,3
+-0,7
+-1,5
+-1,8
+-0,9
+Report de d´eficit
+-0,7
+-0,7
+-0,6
+-0,7
+-0,6
+-0,7
+-0,7
+Plus-values et brevets
+0,3
+0,3
+0,2
+0,4
+0,5
+0,4
+0,3
+Passage du r´esultat fiscal au r´esultat comptable
+-1,8
+-1,8
+-1,7
+-1,1
+-1,7
+-2,1
+-1,3
+R´esultat financier
+-0,3
+-0,1
+-0,1
+0,3
+0,5
+0,7
+0,6
+R´esultat exceptionnel
+0,6
+0,8
+0,9
+1,1
+1,2
+1,2
+1,3
+Autres produits/autres charges
+-0,4
+-0,4
+-0,4
+-0,4
+-0,3
+-0,2
+-0,3
+Participations des salari´es
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+B´en´efice attribu´e
+0,1
+0,1
+0,1
+0,2
+0,2
+0,1
+0,1
+Perte support´ee
+0,0
+0,0
+0,0
+-0,1
+0,0
+0,0
+0,0
+Passage du r´esultat comptable `a l’ENE
+-0,1
+0,3
+0,5
+1,0
+1,6
+1,7
+1,5
+Effet de champ
+-3,0
+-2,6
+-2,5
+-2,1
+-2,4
+-3,4
+-2,1
+Consolidation des groupes fiscaux
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+Taux implicite brut d’imposition
+18,6
+18,8
+18,3
+19,5
+19,1
+17,7
+19,0
+— Note : hors effets des r´eformes du CICE et de la CET. L’effet de champ correspond `a
+la contribution des redevables fiscalement d´eficitaires et le reste de la d´ecomposition est
+r´ealis´ee sur les redevables fiscalement b´en´eficiaires de l’entreprise. Les lignes Total contribu-
+tion des taux r´eduits, Passage du r´esultat fiscal au r´esultat comptable et Passage du r´esultat
+comptable `a l’ENE sont des sous-totaux.
+— Champ : TPE profil´ees des secteurs principalement marchands non agricoles et non finan-
+ciers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe sp´eciale au tonnage.
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane.
+98
+
+=== page 103 ===
+Table 19 – D´ecomposition du taux d’imposition moyen entre 2016 et 2022 – PME
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Taux normal d’imposition
+33,3
+33,3
+33,3
+33,3
+31,0
+27,5
+25,0
+Contribution sociale 3,3%
+0,1
+0,1
+0,1
+0,1
+0,1
+0,1
+0,1
+Taux r´eduit de 15%
+-1,4
+-1,5
+-1,4
+-1,4
+-1,2
+-0,9
+-0,7
+Taux r´eduit plus-values
+-1,4
+-1,3
+-1,3
+-2,2
+-1,2
+-1,3
+-1,8
+Taux r´eduit brevet
+0,0
+0,0
+0,0
+-0,1
+-0,1
+-0,1
+-0,1
+Baisse progressive du taux normal
+0,0
+-0,3
+-1,8
+-3,0
+-2,3
+-0,2
+0,5
+Total contribution des taux r´eduits
+-2,7
+-3,0
+-4,4
+-6,6
+-4,6
+-2,3
+-2,0
+Taux fiscal
+30,6
+30,4
+28,9
+26,8
+26,4
+25,2
+23,0
+R´eint´egrations/d´eductions extracomptable
+-3,4
+-3,4
+-3,0
+-2,0
+-1,6
+-2,1
+-2,5
+Report de d´eficit
+-0,8
+-0,8
+-0,8
+-1,0
+-0,8
+-0,9
+-0,9
+Plus-values et brevets
+0,9
+0,8
+0,7
+1,5
+0,8
+0,8
+1,5
+Passage du r´esultat fiscal au r´esultat comptable
+-3,3
+-3,4
+-3,1
+-1,6
+-1,6
+-2,2
+-2,0
+R´esultat financier
+-0,2
+-0,1
+0,1
+0,8
+0,4
+1,2
+1,0
+R´esultat exceptionnel
+1,6
+1,7
+1,5
+1,7
+1,4
+1,3
+2,4
+Autres produits/autres charges
+-2,4
+-1,5
+-1,6
+-1,7
+-1,5
+-1,3
+-1,2
+Participations des salari´es
+-0,6
+-0,5
+-0,5
+-0,5
+-0,5
+-0,5
+-0,4
+B´en´efice attribu´e
+0,2
+0,2
+0,2
+0,2
+0,2
+0,2
+0,2
+Passage du r´esultat comptable `a l’ENE
+-1,5
+-0,4
+-0,3
+0,5
+-0,1
+0,7
+1,8
+Effet de champ (redevables en d´eficit)
+-2,6
+-2,6
+-2,3
+-1,5
+-1,5
+-1,3
+-1,3
+Consolidation des groupes fiscaux
+-0,1
+-0,1
+-0,2
+0,0
+0,0
+0,0
+-0,1
+Taux implicite brut d’imposition
+23,1
+23,9
+23,0
+24,2
+23,2
+22,5
+21,4
+— Note : hors effets des r´eformes du CICE et de la CET. L’effet de champ correspond `a
+la contribution des redevables fiscalement d´eficitaires et le reste de la d´ecomposition est
+r´ealis´ee sur les redevables fiscalement b´en´eficiaires de l’entreprise. Les lignes Total contribu-
+tion des taux r´eduits, Passage du r´esultat fiscal au r´esultat comptable et Passage du r´esultat
+comptable `a l’ENE sont des sous-totaux.
+— Champ : PME profil´ees des secteurs principalement marchands non agricoles et non finan-
+ciers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe sp´eciale au tonnage.
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane.
+99
+
+=== page 104 ===
+Table 20 – D´ecomposition du taux d’imposition moyen entre 2016 et 2022 – ETI
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Taux normal d’imposition
+33,3
+33,3
+33,3
+33,3
+31,0
+27,5
+25,0
+Contribution sociale 3,3%
+0,8
+0,7
+0,8
+0,7
+0,7
+0,7
+0,6
+Taux r´eduit de 15%
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+Taux r´eduit plus-values
+-3,5
+-6,2
+-3,3
+-4,0
+-3,4
+-1,4
+-2,3
+Taux r´eduit brevet
+-0,3
+-0,2
+-0,3
+-0,3
+-0,2
+-0,2
+-0,2
+Baisse progressive du taux normal
+0,0
+-0,2
+-0,5
+-1,5
+-1,3
+-0,1
+0,2
+Total contribution des taux r´eduits
+-3,1
+-5,9
+-3,3
+-5,1
+-4,3
+-0,9
+-1,7
+Taux fiscal
+30,3
+27,5
+30,0
+28,2
+26,7
+26,6
+23,3
+R´eint´egrations/d´eductions extracomptable
+-0,9
+-1,8
+-3,1
+-0,8
+-0,4
+-1,4
+-1,0
+Report de d´eficit
+-1,3
+-1,2
+-1,2
+-1,4
+-1,1
+-1,6
+-1,3
+Plus-values et brevets
+1,4
+3,5
+2,2
+2,6
+2,0
+1,2
+1,6
+Passage du r´esultat fiscal au r´esultat comptable
+-0,9
+0,6
+-2,1
+0,4
+0,5
+-1,8
+-0,8
+R´esultat financier
+-2,9
+-5,2
+-3,1
+-3,2
+-4,2
+-0,8
+-3,0
+R´esultat exceptionnel
+0,5
+3,6
+1,5
+1,6
+0,2
+1,2
+1,2
+Autres produits/autres charges
+-2,6
+-2,2
+-1,8
+-2,5
+-2,1
+-1,9
+-1,7
+Participations des salari´es
+-1,4
+-1,2
+-1,3
+-1,6
+-1,4
+-1,6
+-1,3
+B´en´efice attribu´e
+0,3
+0,2
+0,2
+0,4
+0,2
+0,3
+0,3
+Perte support´ee
+-0,1
+-0,1
+-0,1
+-0,1
+-0,1
+-0,1
+-0,1
+Passage du r´esultat comptable `a l’ENE
+-6,2
+-4,9
+-4,6
+-5,5
+-7,3
+-2,9
+-4,5
+Effet de champ (redevables en d´eficit)
+-2,1
+-1,5
+-1,4
+-0,6
+0,2
+-0,9
+-0,1
+Consolidation des groupes fiscaux
+0,0
+-0,1
+-0,1
+-0,1
+0,1
+-0,1
+-0,1
+Taux implicite brut d’imposition
+21,2
+21,6
+21,8
+22,4
+20,2
+20,9
+17,8
+— Note : hors effets des r´eformes du CICE et de la CET. L’effet de champ correspond `a
+la contribution des redevables fiscalement d´eficitaires et le reste de la d´ecomposition est
+r´ealis´ee sur les redevables fiscalement b´en´eficiaires de l’entreprise. Les lignes Total contribu-
+tion des taux r´eduits, Passage du r´esultat fiscal au r´esultat comptable et Passage du r´esultat
+comptable `a l’ENE sont des sous-totaux.
+— Champ : ETI profil´ees des secteurs principalement marchands non agricoles et non finan-
+ciers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe sp´eciale au tonnage.
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane.
+100
+
+=== page 105 ===
+Table 21 – D´ecomposition du taux d’imposition moyen entre 2016 et 2022 – GE
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Taux normal d’imposition
+33,3
+33,3
+33,3
+33,3
+31,0
+27,5
+25,0
+Contribution sociale 3,3%
+0,9
+0,8
+0,8
+0,9
+0,7
+0,5
+0,6
+Taux r´eduit de 15%
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+Taux r´eduit plus-values
+-7,2
+-9,3
+-8,5
+-5,9
+-10,1
+-12,4
+-4,9
+Taux r´eduit brevet
+-0,4
+-0,4
+-0,4
+-0,8
+-1,0
+-0,5
+-0,9
+Baisse progressive du taux normal
+0,0
+-0,1
+-0,3
+-0,4
+-0,2
+0,0
+0,1
+Total contribution des taux r´eduits
+-6,7
+-9,1
+-8,4
+-6,2
+-10,6
+-12,4
+-5,2
+Taux fiscal
+26,6
+24,3
+25,0
+27,1
+20,4
+15,1
+19,8
+R´eint´egrations/d´eductions extracomptable
+-2,2
+-4,2
+-3,3
+-2,4
+-0,3
+-5,7
+-2,2
+Report de d´eficit
+-0,9
+-1,2
+-1,1
+-1,3
+-0,5
+-0,7
+-1,1
+Plus-values et brevets
+3,8
+3,8
+2,0
+3,6
+3,5
+8,0
+3,2
+Passage du r´esultat fiscal au r´esultat comptable
+0,7
+-1,6
+-2,4
+-0,1
+2,7
+1,6
+-0,1
+R´esultat financier
+-13,3
+-7,7
+-5,5
+-6,8
+-9,7
+-3,6
+-5,0
+R´esultat exceptionnel
+5,5
+5,5
+2,3
+3,3
+3,1
+8,1
+2,1
+Autres produits/autres charges
+-2,8
+-2,3
+-2,8
+-4,9
+-4,6
+-1,7
+-1,2
+Participations des salari´es
+-1,0
+-0,9
+-0,9
+-1,1
+-0,7
+-0,6
+-0,8
+B´en´efice attribu´e
+0,6
+0,6
+0,6
+0,5
+0,3
+0,2
+0,3
+Perte support´ee
+-0,3
+-0,4
+-0,4
+-0,3
+-0,2
+-0,1
+-0,1
+Passage du r´esultat comptable `a l’ENE
+-11,3
+-5,3
+-6,6
+-9,2
+-11,8
+2,3
+-4,8
+Effet de champ (redevables en d´eficit)
+3,1
+-0,5
+1,4
+2,6
+2,6
+-1,4
+-0,7
+Consolidation des groupes fiscaux
+0,0
+0,1
+0,0
+-0,2
+0,0
+-0,1
+0,0
+Taux implicite brut d’imposition
+19,3
+16,9
+17,3
+20,2
+13,8
+17,4
+14,3
+— Note : hors effets des r´eformes du CICE et de la CET. L’effet de champ correspond `a
+la contribution des redevables fiscalement d´eficitaires et le reste de la d´ecomposition est
+r´ealis´ee sur les redevables fiscalement b´en´eficiaires de l’entreprise. Les lignes Total contribu-
+tion des taux r´eduits, Passage du r´esultat fiscal au r´esultat comptable et Passage du r´esultat
+comptable `a l’ENE sont des sous-totaux.
+— Champ : GE profil´ees des secteurs principalement marchands non agricoles et non finan-
+ciers, avec ENE > 0, hors armateurs et entreprises soumises `a la taxe sp´eciale au tonnage.
+— Source : DGFiP, BIC-IS, Insee, Base Tous Salari´es, Esane.
+101
+
+=== page 106 ===
+C - Industrie manufacturi`ere
+D - Production et distribution d’´electricit´e, de gaz, de vapeur et d’air conditionn´e
+E - Production et distribution d’eau ; assainissement, gestion des d´echets et d´epollution
+F - Construction
+G - Commerce ; r´eparation d’automobiles et de motocycles
+H - Transports et entreposage
+I - H´ebergement et restauration
+J - Information et communication
+L - Activit´es immobili`eres
+M - Activit´es sp´ecialis´ees, scientifiques et techniques
+N - Activit´es de services administratifs et de soutien
+P - Enseignement
+Q - Sant´e humaine et action sociale
+R - Arts, spectacles et activit´es r´ecr´eatives
+S - Autres activit´es de services
+- des groupes `a trois chiffres de la NAF :
+02.2 - Exploitation foresti`ere (section A)
+66.1 - Activit´es auxiliaires de services financiers, hors assurance et caisses de retraite
+(section K)
+66.2 - Activit´es auxiliaires d’assurance et caisses de retraite (section K)
+- Et du 64.20Z (Holdings) (section K)
+102
+
+=== page 107 ===
+S´election sur les cat´egories juridiques
+Les cat´egories juridiques list´ees dans le tableau suivant sont exclues du champ Esane de
+la statistique d’entreprise.
+Cat´egories
+juridiques
+exclues
+du
+champ
+Observations et exceptions
+1800 - Associ´e - g´erant de soci´et´e
+2210 - Soci´et´e de fait entre personnes phy-
+siques
+R´eint´egr´ee `a partir de la campagne
+2012
+2220 - Soci´et´e cr´e´ee de fait avec une personne
+morale
+hormis les unit´es profil´ees
+2310 - Soci´et´e en participation entre per-
+sonnes physiques
+Si non employeur hormis une liste
+d’unit´es d´efinie par la division ´Esane
+2320 - Soci´et´e en participation avec une per-
+sonne morale
+6316 - Coop´erative d’utilisation de mat´eriel
+agricole (CUMA)
+6589 - Soci´et´e civile de moyens (SCM)
+71XX - Administration de l’´Etat
+72XX - Collectivit´e territoriale
+103
+
+=== page 108 ===
+73XX - ´Etablissement public administratif
+sauf exceptions (Cf. ci-contre)
+La cat´egorie juridique
+≪7371
+≫29 est
+dans le champ ´Esane.
+Les cat´egories juridiques
+≪7353
+≫30,
+≪7354 ≫31, ≪7355 ≫32 (correspondant
+aux syndicats des eaux) sont dans le
+champ ´Esane pour les divisions ≪36 ≫,
+≪37 ≫et ≪96 ≫de la Naf r´ev. 2.
+Les 28 CROUS class´es dans la cat´egorie
+juridique ≪7385 ≫‘ 33 sont inclus dans
+le champ ´Esane.
+74XX - Autre personne morale de droit pu-
+blic administratif
+81XX - Organisme de protection sociale
+82XX - Organisme mutualiste
+83XX - Comit´e d’entreprise
+91XX - Syndicat de propri´etaires
+93XX - Fondation
+99XX - Autre personne morale de droit priv´e
+29. Office public d’habitation `a loyer mod´er´e (OPHLM)
+30. Syndicat intercommunal `a vocation unique (SIVU)
+31. Syndicat mixte communal
+32. Autre syndicat mixte
+33. Autre ´etablissement public national administratif `a comp´etence territoriale limit´ee
+104
+
+=== page 109 ===
+Liste des documents de travail récents de la Direcfion des Études et 
+Synthèses Économiques* 
+* L’ensemble des documents de travail est disponible sur le site Insee.fr 
+Les documents de travail du Département des Etudes Economiques sont aussi référencés sur 
+le site Repec.  
+ 
+Les derniers DT parus sont les suivants : 
+2025-16
+Eﬀets de l'isolafion thermique des logements sur la consommafion réelle d'énergie résidenfielle
+W. BABA MOUSSA, A. PAURON, J-B. SALOMOND, J. SIXOU 
+2025-10
+Balance sheet policies and Central Bank losses in a HANK model
+C. LABROUSSE, Y. PERDEREAU 
+2025-09
+Teleworking in the French private sector : a lasfing but heterogenous shift shaped by collecfive 
+agreements (2019-2024) 
+P. ASKENAZY, U. DI NALLO, I. RAMAJO, C. THIOUNN 
+2025-08
+Quels eﬀets budgétaires et redistribufifs des règles d’indexafion des retraites ?
+D. BLANCHET, M. CHABAUD, T. OLIVIA, J. RUBIN 
+2025-07
+Ralenfissement de la producfivité et démographie des entreprises : quel lien ?
+C. ALAIS, S. SCOTT 
+2025-06
+Flood and Residenfial Mobility in France
+C. LE THI, K. MILLOCK, J. SIXOU 
+2025-05
+Vers une meilleure prise en compte de l’hébergement via des plates-formes en ligne au sein des 
+comptes nafionaux 
+P. ASKENAZY, A. BOURGEOIS  
+2025-04
+Le bonheur est dans le prix : Esfimafion du patrimoine immobilier brut des ménages sur données 
+administrafives exhausfives 
+M. ANDRÉ, O. MESLIN 
+2025-03
+Mulfinafionales, balance commerciale et fissu producfif (France 2000-2015)
+F. BOCCARA 
+2025-02
+Made in France et réindustrialisafion : une approche par les tableaux entrées-sorfies 
+internafionaux 
+A. BOURGEOIS, J. MONTORNES 
+2024/24
+Reorganizing global supply-chains: Who, What, How and Where
+G. BARATTE, L. FONTAGNE, R. LAFROGNE-JOUSSIER 
+2024/23
+The consumpfion response to unemployment - Evidence from French bank account data
+O. BONNET, F. LE GRAND, T. OLIVIA - X. RAGOT, L. WILNER 
+2024/21
+Urban Heat Islands and Inequalifies : Evidence from French Cifies
+J. SIXOU - C. GRISLAIN-LETREMY - A. SOTURA 
+2024/20
+Les déterminants de la dynamique des salaires en France : approches macro et sectorielles par la 
+courbe de Phillips 
+A. MOUTAABBID 
+2024/19
+Follow the money? Workers’ mobility, wages and amenifies
+D. BABET - M. CHABAUD 
+2024/18
+L’inﬂuence de l'âge d'entrée à l'école sur les compétences scolaires et socio-émofionnelles : une 
+étude à parfir de PISA 
+P. GIVORD 
+ 

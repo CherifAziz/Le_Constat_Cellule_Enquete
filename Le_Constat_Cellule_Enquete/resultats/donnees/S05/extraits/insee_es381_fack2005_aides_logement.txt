@@ -1,0 +1,3480 @@
+
+===== PAGE 1 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+17
+Pourquoi les ménages à bas revenus 
+paient-ils des loyers 
+de plus en plus élevés ?
+L’incidence des aides au logement en France (1973-2002)
+Gabrielle Fack*
+Depuis la fin des années 1970, les aides directes à la personne sont devenues l’instrument
+majeur de la politique du logement au détriment des aides à la pierre, dont l’efficacité
+avait été remise en cause lors de la réforme de 1977. Les aides à la personne permettent,
+en théorie, de mieux cibler les populations pour qui le logement, qui demeure le premier
+poste de consommation des ménages, représente une charge jugée trop importante. Or le
+développement de ces aides s’est accompagné d’une augmentation du coût du logement
+pour les ménages locataires les plus défavorisés. L’objet de cette étude est d’évaluer leur
+impact sur l’augmentation des loyers des ménages à bas revenus.
+La réforme de l’extension des aides du début des années 1990 constitue une expérience
+naturelle qui permet d’isoler les effets des allocations logement, car elle s’est appliquée
+seulement à certains types de ménages et non à d’autres. On peut ainsi comparer
+l’évolution des loyers des ménages à bas revenus bénéficiaires de la réforme à celle des
+ménages qui n’ont pas été touchés et identifier les effets de la réforme pour les ménages
+concernés. À partir de données des enquêtes Logement de l’Insee, on montre que les
+aides pourraient bien être, pour une bonne partie, responsables de la hausse du loyer au
+mètre carré des ménages à bas revenus. D’après les estimations obtenues, entre 50 % et
+80 % des allocations logement perçues par ces ménages auraient été absorbées par les
+augmentations de leurs loyers.
+Si ces allocations ont pu entraîner une certaine amélioration du confort de l’habitat, cet
+effet semble bien trop faible pour suffire à expliquer la hausse des loyers, du moins à
+partir des mesures possibles d’après les enquêtes Logement. La hausse de la demande des
+locataires provoquée par les aides semble s’être heurtée à une offre de logement trop
+inélastique de la part des bailleurs, entraînant ainsi une forte hausse des loyers. Cet effet
+a pu être renforcé par l’arrivée massive des étudiants sur le marché du logement à la suite
+de la réforme de ces aides.
+LOGEMENT
+*  Gabrielle Fack appartient au PSE Paris Jourdan Sciences Économiques, unité mixte de recherche CNRS – EHESS –
+ENPC – ENS.
+Les idées et opinions exprimées dans cet article sont de la responsabilité de l’auteur qui tient à remercier particulièrement
+Thomas Piketty pour son soutien tout au long de ce travail, ainsi qu’Esther Duflo, Alain Jacquot, Françoise Maurel, Cyrille
+Hagneré et deux rapporteurs anonymes pour leurs remarques constructives.
+Les noms et dates entre parenthèses renvoient à la bibliographie en fin d’article.
+
+===== PAGE 2 =====
+18
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+i les recherches empiriques sur les différents
+effets des aides au logement se sont déve-
+loppées depuis les années 1970, les études de
+l’impact des aides personnelles sur les loyers
+sont très récentes. Un premier article de Susin
+(2002) évalue un programme d’aides person-
+nelles au logement distribuées sous formes de
+bons aux États-Unis, le Section 8 Voucher pro-
+gram. Susin utilise des données par aire urbaine
+pour estimer l’impact de la proportion de béné-
+ficiaires d’aides dans une aire sur les loyers. Il
+exploite le fait qu’aux États-Unis, seulement
+10 % des ménages pauvres éligibles pour les
+aides en reçoivent et que leur proportion varie
+considérablement d’une aire urbaine à l’autre. Il
+conclut que le Section 8 program a entraîné une
+augmentation des loyers pour tous les ménages
+pauvres, affectant particulièrement les ménages
+éligibles qui ne reçoivent pas d’aides. Ainsi,
+d’après les calculs de l’auteur, les hausses de
+loyers payées par l’ensemble des locataires à
+bas revenus ont été supérieures au montant total
+des aides versées, conduisant à un transfert net
+des locataires à bas revenus vers les proprié-
+taires. Cependant, il apparaît que l’allocation
+des aides est en grande partie endogène à la
+hausse des loyers, et il n’est pas sûr que les
+méthodes employées par Susin permettent de
+corriger parfaitement ce problème. 
+L’étude sur données françaises de Laferrère et
+Le Blanc (2002) conclut aussi à un effet des
+aides sur les loyers. Les auteurs exploitent la
+structure de panel de l’enquête Loyer et Charges,
+où un logement est suivi pendant plusieurs
+trimestres : ils comparent l’évolution des loyers
+des logements dont les locataires ont commencé
+– ou arrêté – de recevoir des aides sur la période
+à celle des loyers de logements dont les locatai-
+res n’ont pas changé de statut sur la période. Ils
+trouvent un effet significatif des aides sur les
+loyers, mais leur méthode ne leur permet pas
+d’en donner une mesure précise. 
+Enfin, une étude anglaise de Gibbons et Manning
+(2003) estime l’impact d’une réforme à la baisse
+du système d’aides au logement sur les loyers.
+Les auteurs identifient un effet substantiel sur la
+baisse des loyers, mais son amplitude varie du
+simple au double suivant les données utilisées.
+Toutes ces études vont dans le même sens, sug-
+gérant une très faible élasticité de l’offre de
+logement ainsi qu’un confinement des ménages
+à bas revenus dans certaines catégories de loge-
+ment. Cependant, elles ne donnent pas une
+mesure précise de la part des aides qui est absor-
+bée par la hausse de loyer. Or une estimation
+chiffrée de ce coût « indirect » des aides au
+logement est indispensable pour évaluer l’effi-
+cacité de ce type de programme.
+Loyers et aides au logement 
+des ménages à bas revenus
+es sept enquêtes Logement réalisées de
+1973 à 2002 permettent d’étudier l’évolu-
+tion des loyers au m2 en fonction du revenu des
+ménages sur longue période. Elles ont l’avan-
+tage de comporter des données sur les caracté-
+ristiques des logements mais aussi sur celles des
+ménages, notamment le revenu. Pour chaque
+année d’enquête, on dispose d’un grand nombre
+d’observations (entre 20 000 et 45 000 ménages
+selon les années, dont un peu moins de la moitié
+de locataires). On peut ainsi calculer l’évolution
+des loyers au m2 par décile de revenu sur la
+période 1973-2002. On a pris en compte les
+revenus tels qu’ils sont mesurés dans ces
+enquêtes, c’est-à-dire les revenus avant impôts.
+On utilise les revenus par ménage et non par
+unité de consommation. Ce choix est guidé par
+le fait que l’on n’étudie pas les ménages à bas
+revenus en tant que tels, mais qu’on cherche à
+estimer les effets des aides au logement sur les
+loyers : l’objectif est donc d’identifier les prin-
+cipaux bénéficiaires de la réforme de 1991-
+1993, à savoir les petits ménages à faibles reve-
+nus. Or il est plus facile de repérer ces derniers
+avec une distribution des revenus bruts qu’avec
+une distribution des revenus par unité de con-
+sommation, où ils seraient mêlés davantage
+avec les autres types de ménages. Ce choix, qui
+nous permet d’étudier précisément l’évolution
+des loyers et des aides aux ménages les plus
+concernés par la réforme des aides, implique
+aussi que les analyses menées ici ne sont pas
+directement comparables avec les études qui
+mesurent la pauvreté et qui prennent en compte
+pour cela des échelles d’équivalence. La situa-
+tion des petits ménages à bas revenus par rap-
+port au logement présentée ici ne prétend pas
+décrire celle de tous les ménages modestes en
+France. L’évolution des loyers au m2 par décile
+pour tous les locataires, en euros constants de
+2002, est retracée dans le graphique I.
+Sur la période retenue (1973-2002), les loyers
+au m2 ont tous augmenté plus vite que l’indice
+des prix, mais la hausse est beaucoup plus forte
+pour les ménages des deux premiers déciles que
+pour les autres ménages. La chronologie de
+cette augmentation est intéressante. Les loyers
+au m2 des ménages des premiers déciles, nette-
+S
+L
+
+===== PAGE 3 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+19
+ment plus faibles que ceux des autres déciles en
+1973 et 1978, les rattrapent dans les années
+1980 puis connaissent encore une forte augmen-
+tation dans les années 1990. En 1996 et 2002,
+les ménages du premier décile paient un loyer
+au m2 aussi élevé que ceux du dernier décile,
+formant une courbe en U.
+Ce fait est d’autant plus frappant que, par ailleurs,
+la taille des logements varie de façon attendue
+avec le revenu. Le logement est un bien normal :
+sa taille augmente en fonction du revenu du
+ménage, quelle que soit l’année étudiée. De
+même, le loyer annuel moyen est croissant avec
+le décile de revenu du ménage. Comment expli-
+quer alors que les ménages les plus modestes
+paient de plus en plus cher leur loyer au m2 ?
+Forte hausse des loyers des ménages à bas 
+revenus entre 1973 et 2002...
+Cette hausse est, en partie, due aux transforma-
+tions de la population des ménages à bas reve-
+nus (1). Alors qu’en 1973 les ménages à faibles
+revenus sont davantage des personnes âgées
+vivant en milieu rural, il s’agit plutôt, en 2002,
+d’une population jeune et citadine (cf. statis-
+tiques descriptives en annexe 1). Or ces évolu-
+tions socio-démographiques ont des répercus-
+sions sur le type de logement consommé par les
+ménages les plus modestes, en impliquant des
+loyers au m2 plus chers.
+Une méthode pour prendre en compte les effets
+de ces évolutions socio-démographiques sur les
+loyers consiste à régresser, pour chaque année,
+les loyers au m2 sur les variables socio-démo-
+graphiques qui ont pu évoluer sur la période : 
+Li = α + Σ βk decileik + Σ γj Xij + εi 
+avec k = 2, 3,..., 10 ;  (1)
+où :
+Li est le loyer annuel au m2 du logement du
+ménage i ;
+decileik est l’indicatrice d’appartenance du
+ménage i au décile de revenu k ;
+Xij est la valeur de la caractéristique j propre au
+ménage i.
+Les variables socio-démographiques incluses
+dans les régressions sont le type de famille
+(nombre d’adultes et nombre d’enfants), le type
+d’unité urbaine croisé avec la région et l’âge de
+la personne de référence regroupé en cinq pos-
+tes. Chaque modalité de variable est introduite
+par une indicatrice dans les régressions. 
+Le graphique II résume les résultats des régres-
+sions en représentant les coefficients des indica-
+1.  Voir aussi sur ce sujet l’article de Driant et Jacquot dans ce
+même numéro.
+Graphique I
+Loyer au m2 en fonction du décile de revenu calculé sur la population des ménages locataires, 
+1973-2002
+Lecture : en 1973, le loyer moyen au m2 des 10 % des ménages locataires les plus pauvres (1er décile) était de 31 euros constants de
+2002.
+Champ : ménages locataires, tous secteurs.
+Sources : Calculs de l'auteur à partir des enquêtes Logement, Insee.
+100
+90
+80
+70
+60
+50
+40
+30
+20
+1er décile
+2e décile
+3e décile
+4e décile
+5e décile
+6e décile
+7e décile
+8e décile
+9e décile
+10e décile
+1973
+1978
+1984
+1988
+1992
+1996
+2002
+Euros de 2002 (/an/m2)
+
+===== PAGE 4 =====
+20
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+trices des déciles de revenus obtenus à partir des
+différentes régressions. Par souci de clarté et
+pour pouvoir comparer les courbes issues des
+résultats des régressions avec celles du
+graphique I, on a pris comme valeur de réfé-
+rence le loyer moyen au m2 du premier décile
+calculé à partir de l’enquête Logement.
+La comparaison des courbes avant et après cor-
+rection des effets de structure de la population
+montre une légère atténuation de la hausse des
+loyers au m2 pour les ménages des premiers
+déciles, mais l’effet persiste. On retrouve la
+courbe en U pour les années 1996 et 2002, bien
+que la pente soit légèrement moins forte.
+Ainsi, la hausse des loyers au m2 des ménages à
+bas revenus n’est donc pas un artefact dû aux
+changements dans la composition socio-démo-
+graphique des ménages du premier quartile sur
+la période. Il faut donc envisager une autre
+explication : dans quelle mesure cette hausse
+des loyers au m2 est-elle liée à la hausse des
+aides personnelles au logement ? Les aides à la
+personne ont, en effet, été fortement dévelop-
+pées sur la période, et la chronologie de l’exten-
+sion des aides au logement correspond à celle de
+la hausse des loyers.
+... parallèlement à une très forte 
+augmentation des aides au logement
+L’essor des aides personnelles au logement
+date de la fin des années 1970 (cf. encadré 1).
+La création de l’aide personnalisée au loge-
+ment (APL) en 1977 a conduit à une première
+augmentation du nombre de bénéficiaires, en
+particulier dans le secteur social. Le dispositif
+est monté en puissance au cours des années
+1980, mais un grand nombre de ménages à fai-
+bles revenus, en particulier les petits ménages,
+en restait exclu. La réforme du bouclage, mise
+en place entre 1990 et 1993, a consisté à éten-
+dre le bénéfice des aides à tous les ménages à
+faibles revenus, touchant le secteur social
+comme le secteur privé (2). D’après les enquê-
+tes Logement, le pourcentage de bénéficiaires
+d’aides est passé de 31 % en 1988 à 43 % en
+1996 (de 24 % à 37 % si l’on se restreint au
+secteur privé et de 42 % à 50 % dans le secteur
+social). Dans le même temps, le montant
+d’aide pour un bénéficiaire a peu augmenté,
+passant de 143 euros à 156 euros (en euros
+constants de 2002), ce qui correspond à une
+hausse plus faible que celle des loyers. La
+réforme a bénéficié principalement aux ména-
+ges des deux premiers déciles. La hausse de
+l’aide moyenne au m2 est surtout forte pour les
+ménages du premier et, dans une moindre
+mesure, des deuxième et troisième déciles, à la
+suite des deux réformes évoquées (cf. graphi-
+que III). Une constatation s’impose : les haus-
+ses de loyer ont eu lieu au même moment que
+l’augmentation des aides pour les ménages des
+premiers déciles.
+2.  Dans cette étude, le secteur privé correspond aux logements
+loués vides hors loi de 1948, le secteur social correspond aux
+HLM uniquement. 
+Graphique II
+Loyer au m2 en fonction du décile de revenu après correction des effets de structure 
+de la population, ménages locataires, 1973-2002
+Lecture : après correction des effets de structure de la population, le loyer moyen au m2 des ménages du second décile est de 6 euros
+plus élevé que celui des ménages du premier décile en 1973.
+Champ : ménages locataires, tous secteurs.
+Sources : calculs de l'auteur à partir des enquêtes Logement, Insee.
+100
+90
+80
+70
+60
+50
+40
+30
+20
+1er décile
+2e décile
+3e décile
+4e décile
+5e décile
+6e décile
+7e décile
+8e décile
+9e décile
+10e décile
+1973
+1978
+1984
+1988
+1992
+1996
+2002
+Euros constants de 2002 (/an/m2)
+
+===== PAGE 5 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+21
+Pour avoir une idée des coûts de logement réel-
+lement supportés par les ménages et qui déter-
+minent leurs choix de consommation, on calcule
+le loyer au m2 après déductions des aides per-
+sonnelles au logement, appelé « loyer net ».
+Le graphique IV, qui présente l’évolution de ce
+loyer net des aides par décile entre 1973 et 2002
+peut être comparé au graphique I. La courbe en
+U disparaît après déduction des aides, car le
+loyer net des ménages à bas revenus croît beau-
+coup moins que leur loyer brut sur la période.
+Ainsi, après déduction des aides, le loyer au m2
+des ménages des premier déciles reste plus fai-
+ble que celui des déciles supérieurs, excepté
+pour le petit pic du premier décile en 1996 et
+2002 dû aux étudiants (mais on reviendra dans
+la troisième partie sur leur cas). Il reste à com-
+prendre pourquoi les ménages à bas revenus
+paient des loyers bruts aussi élevés.
+Modélisation des effets 
+des aides à la personne
+l est possible de construire un modèle simple
+pour comprendre les effets de l’attribution
+d’aides à la personne sur les loyers. On suit le
+cadre méthodologique proposé par Susin (2002)
+dans son article sur les aides au logement aux
+États-Unis en supposant que les marchés
+I
+Encadré 1
+LA POLITIQUE DU LOGEMENT EN FRANCE DEPUIS LES ANNÉES 1950
+L’intervention de l’État en matière de logement s’est
+développée massivement à partir des années 1950,
+devant la pénurie de logement causée par le retard
+accumulé de la construction dans l’entre-deux-guer-
+res et les destructions lors de la Seconde Guerre mon-
+diale. Jusqu’aux années 1970, l’intervention de l’État
+s’est essentiellement effectuée sous la forme d’aide à
+la pierre, avec la mise en place dans les années 1950
+d’un dispositif de mesures pour assurer le financement
+public de la construction d’un parc locatif social, dans
+une période de rareté des capitaux. Un premier désen-
+gagement de l’État s’observe entre les années 1965 et
+1975, avec l’ouverture sur un financement bancaire
+d’origine privée pour compléter les prêts publics ainsi
+que des efforts pour favoriser le développement d’un
+secteur libre ou encore l’accession à la propriété avec
+la mise en place des comptes puis des plans d’épar-
+gne logement. Durant cette période, les allocations de
+logement existent mais concernent une minorité
+de ménages, essentiellement des familles avec
+enfants et des personnes âgées.
+Aides à la pierre ou aides à la personne ?
+Le tournant majeur de la politique de l’État en matière
+de logement s’effectue avec la réforme de 1977 menée
+sous le gouvernement de Raymond Barre (1). À la suite
+de cette réforme, l’aide à la pierre diminue fortement,
+remplacée par l’aide à la personne, avec en particulier
+la création de l’aide personnalisée au logement (APL),
+l’objectif étant d’inverser la proportion entre les deux
+types d’aides : un tiers d’aide à la pierre maintenu et
+deux tiers d’aide à la personne.
+Ce changement de politique correspond à une volonté
+de l’État de se désengager de l’intervention directe en
+matière de logement et de laisser jouer les mécanis-
+mes du marché.
+L’efficacité des aides à la pierre est en effet remise en
+cause sur plusieurs points, en particulier sur la qualité
+des logements construits, mais aussi sur la réalisation
+de l’objectif de logement des ménages modestes. Les
+aides à la personne sont privilégiées dans l’optique de
+mieux cibler les dépenses.  (1)
+Les aides au logement, qui prennent la forme d’aides
+à l’accession à la propriété et d’aides pour les locatai-
+res, n’ont cessé de s’étendre depuis à différentes
+catégories de personnes. Le principe d’universalité de
+l’aide s’est progressivement affirmé, d’abord avec
+l’aide personnalisée au logement (APL), dont l’attribu-
+tion n’est pas réservée à un groupe précis de la popu-
+lation, mais dépend du conventionnement du loge-
+ment et des ressources du ménage. L’extension des
+aides personnelles à l’ensemble de la population a été
+réalisée au début des années 1990, avec la reconnais-
+sance du droit à l’allocation de logement sociale (ALS)
+pour toute personne non couverte par une autre aide
+au logement, sur critère de revenu mais sans autre
+condition particulière  (2). Cette réforme a été menée
+en plusieurs étapes, en commençant par l’Île-de-
+France en 1991, puis les agglomérations de plus de
+100 000 habitants en 1992. En 1993, elle était effective
+sur l’ensemble du territoire. Cette extension des aides
+a conduit à une forte augmentation du nombre de
+bénéficiaires entre 1991 et 1993.
+Enfin, en 2001, le barème des différents types d’aides
+a été unifié, pour simplifier le système mais aussi pour
+supprimer les différences d’aides existant entre des
+ménages de revenus identiques, mais provenant de
+sources différentes : le barème était jusqu’alors plus
+favorable aux revenus des minima sociaux qu’aux
+revenus d’activité.
+1.   Pour un résumé de la politique du logement depuis les
+années 1950 ainsi que l’exposé des enjeux et des objectifs de
+la réforme de 1977, cf. Granelle (1998).
+2.   En 1988, un premier bouclage des aides à la personne dans
+le parc locatif social avait étendu le champ des APL en facilitant
+le conventionnement des logements (conventionnement sans
+travaux).
+
+===== PAGE 6 =====
+22
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+immobiliers sont segmentés selon leurs qualités
+et sont destinés à des ménages de revenus dif-
+férents. Cette hypothèse se justifie par la
+nature hétérogène du logement : deux loge-
+ments peuvent avoir des caractéristiques diffé-
+rentes de qualité et de localisation pour un
+même loyer. Cette hétérogénéité est un obsta-
+cle au fonctionnement concurrentiel du mar-
+ché, car elle rend l’information sur le prix
+d’une unité homogène de logement coûteuse et
+difficile à obtenir.
+Les logements de différentes qualités sont plus ou
+moins fortement substituables. À court terme, les
+marchés sont considérés comme indépendants.
+Ce n’est pas le cas à long terme, car les bailleurs
+ont la possibilité de faire construire de nouveaux
+logements, ou de faire du « filtering », ce qui con-
+siste à laisser se dégrader un logement pour le
+faire changer de catégorie. Ainsi, des logements
+construits pour des catégories moyennes peuvent
+à long terme se retrouver sur le sous-marché des
+logements pour les ménages plus modestes.
+Graphique III
+Aide au logement par m2 en fonction du décile de revenu, ménages locataires, 1973-2002
+Lecture : en 1973, l'aide au logement moyenne au mètre carré pour les 10 % des ménages les plus pauvres (1er décile)  était de 4,5 euros
+constants de 2002.
+Champ : ménages locataires, tous secteurs.
+Sources : calculs de l'auteur à partir des enquêtes Logement, Insee.
+Graphique IV
+Loyer au m2 après déduction des aides au logement en fonction du décile de revenu,  
+ménages locataires, 1973-2002
+Lecture : en 1973, le loyer moyen au mètre carré après déduction des aides au logement des 10 % des ménages locataires les plus pau-
+vres (1er décile) était de 27 euros constants de 2002.
+Champ : ménages locataires, tous secteurs.
+Sources : calculs de l'auteur à partir des enquêtes Logement, Insee.
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+1er décile
+2e décile
+3e décile
+4e décile
+5e décile
+6e décile
+7e décile
+8e décile
+9e décile
+10e décile
+1973
+1978
+1984
+1988
+1992
+1996
+2002
+Euros constants de 2002 (/an/m2)
+100
+90
+80
+70
+60
+50
+40
+30
+20
+1er décile
+2e décile
+3e décile
+4e décile
+5e décile
+6e décile
+7e décile
+8e décile
+9e décile
+10e décile
+1973
+1978
+1984
+1988
+1992
+1996
+2002
+Euros constants de 2002 (/an/m2)
+
+===== PAGE 7 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+23
+L’équilibre sans allocation
+Pour simplifier, on suppose qu’il existe deux
+types de marchés immobiliers qui s’adressent à
+deux types de ménages de revenu yi différents.
+En l’absence d’aide au logement (période 1), un
+ménage 
+détermine 
+sa 
+consommation 
+de
+logement si ainsi et celle d’un bien composite
+numéraire ci en maximisant sa fonction d’utilité
+sous contrainte de budget :
+Max U (ci1, si1)
+sous contrainte ci1 + si1.li1 < yi
+où li1 est le loyer au m2 des ménages de types yi
+en période 1, si1 leur consommation de loge-
+ment en période 1 et ci1 leur consommation de
+bien composite en période 1.
+L’agrégation des demandes individuelles de
+logement permet de construire la fonction
+(li1) de demande de logement des ménages
+sur chaque sous-marché. L’intersection avec la
+courbe d’offre 
+(li1) détermine le loyer d’équi-
+libre li1* en période 1.
+L’effet de l’introduction d’une allocation
+On suppose qu’une réforme instaure une alloca-
+tion de logement en période 2 pour les ménages
+à faibles revenus. L’allocation est de la forme
+A = ai. si où si est la quantité de logement con-
+sommée par les ménages de revenu yi et ai le
+montant d’aide par m2. L’allocation est donc
+fonction de la quantité consommée du bien
+logement. Seuls les ménages de revenu y1 peu-
+vent en bénéficier : a12 > 0 et a22 = 0 (et
+a11 = a21 = 0 car aucun ménage ne reçoit d’aide
+au logement avant la réforme).
+La contrainte de budget des ménages bénéficiai-
+res d’une allocation (ménages 1) devient alors
+en période 2 : 
+c12 + (l12 – a12).s12 < y1
+Les aides réduisent les prix des logements par
+rapport aux autres biens. Comme le logement
+est un bien normal, les bénéficiaires de l’aide
+augmentent leur demande de logement sur le
+marché : 
+(l12 – a12) > 
+(l11). L’augmenta-
+tion des loyers sur ce marché dépend alors de
+l’élasticité de l’offre. 
+Formellement, si l’on suppose que l’élasticité
+de l’offre de logement par rapport au loyer es et
+l’élasticité de la demande de logement ed sont
+constantes, on a, pour les ménages 1 : 
+∆s/s11 = es.∆l1/l11 = – ed. (∆l1 – ∆a1)/(l11 – a11)
+D’où : 
+∆l1 = θ.∆a1 avec θ = ed / [es.((l11 – a11)/l11) + ed]
+Si, comme dans le modèle, a11 = 0 (le montant
+de l’aide en période 1 est nul) alors :
+θ = ed /[es + ed]
+Dans ce modèle, c’est l’écart entre les deux élas-
+ticités qui est important (cf. schéma 1) : θ est
+Si
+D
+Si
+S
+S1
+D
+S1
+D
+Schéma 1
+Équilibre sur le marché 1 avec offre élastique 
+Schéma 2
+Équilibre sur le marché 1 avec offre inélastique
+SS
+1
+SD
+1(l11)
+SD
+1(l12)
+S
+l12*
+l11*
+l
+SD
+1(l11)
+SD
+1(l12)
+S
+l12*
+l11*
+l
+S1*
+
+===== PAGE 8 =====
+24
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+d’autant plus élevé que l’élasticité de l’offre est
+faible par rapport à l’élasticité de la demande.
+Or un niveau élevé de θ correspond à une situa-
+tion où l’augmentation d’aide au logement se
+traduit par une hausse de loyer sur le marché 1.
+Dans le cas extrême d’une offre de logement
+inélastique (es = 0) où le stock de logement pro-
+posé par les bailleurs est fixe, la demande de
+logement supplémentaire due aux aides ne sera
+pas satisfaite. Le montant des aides sera alors
+entièrement absorbé par la hausse des loyers
+(θ = 1), comme le montre le schéma 2.
+À titre de comparaison, s’il existait un marché
+unique en concurrence pure et parfaite pour tous
+les logements, l’augmentation de la demande de
+logement des ménages de revenu y1 conduirait à
+un déplacement de la courbe d’offre globale.
+L’augmentation consécutive du loyer serait plus
+faible et elle se répercuterait sur l’ensemble des
+ménages, qu’ils soient aidés ou non. Ainsi, si les
+ménages de revenu y1 consommaient initiale-
+ment une proportion α de la consommation
+totale de logement, alors la hausse pour
+l’ensemble des ménages serait : 
+∆l = α.θ.∆a.
+Estimation des effets des aides 
+sur les loyers du secteur privé
+’objectif de cette partie empirique est de
+mesurer θ, c’est-à-dire la part des aides au
+logement qui s’est traduite par une hausse des
+loyers. Quelques remarques s’imposent d’abord.
+Trois jeux d’hypothèses
+i)  Sans hypothèse supplémentaire, on ne peut
+se prononcer sur le caractère pérenne de l’effet
+constaté. Il est possible que la hausse des loyers
+résultant des aides soit un phénomène transi-
+toire de court terme qui s’ajustera progressive-
+ment à long terme. Ainsi pour Galster (1997),
+l’imperfection de la substitution à court terme
+entre les sous-marchés rend l’offre inélastique
+sur chacun d’entre eux avant que ne s’opère
+l’ajustement. Comme les enquêtes Logement
+permettent d’observer les évolutions de loyers
+sur une période relativement longue, on peut
+estimer si les effets sont des effets de court ou de
+plus long terme.
+On peut aussi faire l’hypothèse que les loge-
+ments des différents sous-marchés sont très peu
+substituables. Cette hypothèse est plausible
+jusqu’à un certain point pour certaines catégo-
+ries de population. Par exemple, les logements
+des étudiants, souvent de petite taille et situés
+dans les centres villes, sont difficilement substi-
+tuables aux logements familiaux localisés en
+périphérie. Mais on ne peut accepter cette hypo-
+thèse de manière globale pour toute la popula-
+tion étudiée.
+ii)  Le modèle simple de marchés segmentés
+développé ici permet de mettre en évidence un
+effet inflationniste des aides causé par la con-
+frontation entre une demande et une offre moins
+élastique de logement, sans présupposer que les
+bailleurs cherchent à capter une part de l’aide.
+En effet, l’offre de logement peut être faible-
+ment élastique pour des raisons techniques de
+production.
+Mais on peut aussi supposer que l’effet infla-
+tionniste des aides s’explique par la structure
+non concurrentielle des marchés, avec des
+bailleurs ayant un certain pouvoir de négocia-
+tion face aux locataires. Dans ce cas, si les
+bailleurs sont capables de discriminer entre les
+ménages qui reçoivent des aides et les autres, ils
+pourront en tirer parti. Laferrère et Le Blanc
+(2002) évoquent l’hypothèse, avancée aussi par
+Gibbons et Manning (2003), d’une discrimina-
+tion opérée par les propriétaires envers les
+ménages bénéficiaires d’allocations. Si les pro-
+priétaires ont des informations suffisantes sur
+les ménages locataires, ils peuvent savoir qui
+sont les bénéficiaires d’allocations et augmenter
+le loyer des locataires bénéficiaires d’aides plus
+que celui des ménages non bénéficiaires.
+Cornuel et Calcoen (2002) montrent aussi que
+l’on peut concevoir des contrats séparateurs qui
+permettent en théorie aux bailleurs de discrimi-
+ner entre ménages aidés et non aidés et de récu-
+pérer une part de l’aide. Dans tous les cas, il
+importe de savoir quelle est la part de l’aide qui
+s’est traduite en hausses de loyers.
+iii)  On peut aussi expliquer la hausse des loyers
+des ménages à faibles revenus en avançant
+l’hypothèse que les aides ont permis à ces der-
+niers d’accéder à des logements de meilleure
+qualité. Dans ce cas, la hausse de loyer devrait
+se répercuter sur le deuxième marché. Pour tes-
+ter cette hypothèse, il faut estimer si la qualité
+des logements des ménages aidés s’est amélio-
+rée sur la période.
+Pour estimer les effets des aides sur les loyers,
+on se restreint au secteur privé. En effet, les
+logiques de fixation du prix des loyers ne sont
+L
+
+===== PAGE 9 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+25
+pas les mêmes dans le secteur privé et dans le
+secteur social. Les loyers du secteur privé ne
+sont d’ailleurs pas véritablement des loyers de
+marché libre, car les révisions de loyers sont
+encadrées, sauf dans le cas d’un changement de
+locataire. De plus, on exploite le fait que la
+réforme du bouclage des aides a eu des effets
+très nets dans le secteur privé, la législation des
+aides n’ayant quasiment pas changé dans les
+années qui ont précédé et suivi la réforme. Dans
+le secteur social, la réforme de l’extension des
+APL en 1988 compliquerait les stratégies
+d’identification.
+Les biais potentiels de la méthode 
+des moindres carrés ordinaires
+L’estimation des effets des aides sur les loyers
+pose des problèmes difficiles à résoudre avec
+les techniques de régression habituelles (estima-
+teurs des moindres carrés ordinaires). En effet,
+plusieurs sources de biais sont susceptibles
+d’affecter ces estimateurs. Concrètement, l’esti-
+mation par les moindres carrés ordinaires con-
+siste à ajouter aux régressions de la première
+partie une variable pour le montant de
+l’allocation : 
+Lit = α + Σ βk quartileik + δt + Σγj Xij 
++ θ Aidei + εi
+où Li est le loyer annuel au m2 du logement i,
+quartileik sont des indicatrices de quartile de
+revenu, δt est un effet temporel, Xij est la valeur de
+la caractéristique j propre au logement i et Aidei
+est le montant annuel au m2 d’allocation (3).
+Le problème est que différents types de biais
+peuvent affecter cette régression simple. Tout
+d’abord, comme l’aide dépend en partie du
+loyer, des facteurs non observables affectant les
+loyers peuvent avoir un effet sur les aides. Cet
+effet est très gênant à la hausse, car il conduirait
+à une surestimation du coefficient θ. Cette
+source de biais est en fait limitée, car les loyers
+pris en compte dans le calcul des aides sont limi-
+tés par un plafond. Pour les ménages dont le
+loyer dépasse le plafond, une augmentation sup-
+plémentaire n’aura aucun effet sur leur aide au
+logement. Or en 1988, déjà 65 % des ménages
+du secteur privé ont un loyer égal au supérieur
+au plafond (respectivement 61 % pour les
+ménages bénéficiaires et 67 % pour les non
+bénéficiaires), ce qui minimise le biais poten-
+tiel. Cependant, d’autres types de biais peuvent
+affecter les régressions. En effet, comme on ne
+sait pas précisément pourquoi certains ménages
+reçoivent l’aide et d’autres non, il est tout à fait
+possible que des caractéristiques inobservables
+des ménages affectent à la fois les aides et les
+loyers, introduisant d’autres biais dans l’estima-
+tion. Par exemple, si ce sont les ménages qui ont
+les loyers les plus élevés qui cherchent davan-
+tage à recevoir les aides, la méthode des moin-
+dres carrés ordinaires donnera une estimation
+trop élevée de la part θ des aides au logement
+qui est partie en hausse de loyer. En revanche,
+cette part sera sous-estimée si les ménages qui
+reçoivent l’aide sont des ménages très modestes
+qui se logent dans des logements de moins
+bonne qualité avec des loyers faibles (et si le
+revenu observable ne fournit qu’une mesure
+imparfaite de leur situation). Enfin, si certaines
+variables explicatives (revenu et taille de la
+famille) déterminent entièrement la réception de
+l’aide, alors l’impact de l’aide n’est pas identifié
+avec les estimateurs classiques. Par exemple, si
+toutes les personnes ayant le même revenu et la
+même taille de famille recevaient la même aide,
+il serait impossible d’estimer θ. En pratique, les
+variables explicatives ne déterminent pas entiè-
+rement la réception d’aide, pour différentes rai-
+sons. D’une part, tous ceux qui auraient théori-
+quement droit à l’aide ne la reçoivent pas et,
+d’autre part, les déclarations de certains ména-
+ges peuvent être erronées. Ainsi en 1996, seule-
+ment 75 % des ménages locataires du premier
+quartile déclarent recevoir des aides alors qu’ils
+devraient théoriquement quasiment tous en
+bénéficier (4). Cette situation rend cependant
+problématique l’interprétation de l’effet identi-
+fié par les moindres carrés ordinaires, car il est
+difficile de savoir s’il ne vient pas d’erreurs de
+déclaration.  (3)  (4)
+La stratégie d’estimation en doubles 
+différences
+Pour résoudre ces problèmes, on utilise la
+méthode des doubles différences, en exploitant
+la réforme de l’extension des aides de 1991-
+1993. La méthode des doubles différences con-
+siste à comparer les loyers d’un groupe de trai-
+tement (groupe T), qui correspond aux ménages
+3.  L’effet temporel est ajouté lorsque l’on effectue la régression
+sur plusieurs années d’enquête.
+4.  Ce résultat semble essentiellement dû à la mauvaise qualité
+des déclarations des ménages enquêtés qui perçoivent une aide
+en tiers-payant : comme l’aide est directement versée au
+bailleur, certains ménages omettent de la signaler. Il y a sans
+doute aussi un peu de non-recours, mais ce n’est pas l’explica-
+tion principale de l’écart entre le pourcentage de ménages qui
+déclarent recevoir l’aide et le pourcentage de réception théorique
+(proche de 100 % pour les ménages du premier décile). Le chiffre
+de 75 % sous-estime donc très certainement la réalité.
+
+===== PAGE 10 =====
+26
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+qui ont été affectés par la réforme à ceux d’un
+groupe de contrôle (groupe C), de ménages qui
+n’ont pas été affectés par la réforme
+(cf. encadré 2). L’intérêt d’utiliser une réforme
+est que les nouveaux ménages bénéficiaires
+reçoivent des aides d’une façon exogène : la
+réception d’aides n’est pas due à une modifica-
+tion des caractéristiques des ménages (qui pour-
+rait influencer leur loyer). On regarde l’évolu-
+tion différentielle des loyers des deux groupes
+avant et après la réforme du bouclage des aides,
+ce qui permet d’éliminer toutes les évolutions
+des loyers communes aux deux groupes qui ne
+sont donc pas causées par la réforme. Cette tech-
+nique permet de s’assurer que ce sont bien les
+aides qui causent la hausse des loyers et non
+l’inverse. En effet, si la causalité était inversée,
+on devrait observer une hausse des loyers aussi
+forte pour le groupe de contrôle que pour le
+groupe de traitement, ce qui, on le verra, n’est
+pas le cas. 
+L’analyse des données montre que ce sont prin-
+cipalement les ménages du premier quartile qui
+Encadré 2
+L’ESTIMATION EN DOUBLES DIFFÉRENCES
+La méthode des doubles différences est très souvent
+utilisée pour l’évaluation des politiques publiques. Elle
+consiste à comparer les « performances » d’un groupe
+de traitement (groupe T) qui a été affecté par un chan-
+gement de politique à celles d’un groupe de contrôle
+(groupe C), de personnes qui ne sont pas concernées,
+avant et après cette réforme. La validité de la méthode
+repose sur deux hypothèses identifiantes.
+Hypothèse 1. Aucun facteur non observable ne modi-
+fie la composition des groupes de traitement et de
+contrôle au même moment que le changement de poli-
+tique.
+Hypothèse 2. Les effets fixes temporels jouent de la
+même façon dans les deux groupes.
+En d’autres termes, on suppose que, s’il n’y avait pas
+eu de réforme, l’évolution des deux groupes sur la
+période 
+aurait 
+été 
+la 
+même 
+(« parallel 
+trend
+assumption »). Ainsi, en comparant les loyers des deux
+groupes avant et après la mise en place de la réforme,
+on peut identifier les écarts constants dans le temps
+qui les différencient, indépendamment de l’effet de la
+réforme. De cette manière, on évite d’attribuer à la
+réforme des différences de loyer qui ne lui seraient pas
+liées, ce que la seule prise en compte de variables
+observées ne suffirait pas, a priori, à neutraliser. 
+Sous ces hypothèses, on peut estimer sans biais la
+part  qui s’est traduite par une hausse de loyer avec la
+formule suivante : 
+θ = [(LT,1 - LT,2) - (LC,1 - LC,2)] / [(AideT,1 - AideT,2) 
+- (AideC,1 - AideC,2)] 
+Où Li,j est la moyenne du loyer au m2 et Aidei,j la
+moyenne de l’aide au m2 pour les ménages du groupe
+i (i = T, C) à la période j (j = 1, 2).
+Certaines précautions sont nécessaires pour assurer
+la validité de la méthode (Bertrand, Duflo et Mullaina-
+than, 2004). D’une part, le choix de groupes de traite-
+ment et de contrôle les plus proches possibles est
+essentiel, et d’autre part, il faut que la rupture de ten-
+dance soit clairement identifiée avec la mise en place
+de la réforme.
+La mise en pratique de l’estimation
+Faire une estimation en doubles différences revient en
+fait à utiliser la méthode des variables instrumentales.
+L’aide reçue est instrumentée par une indicatrice qui
+vaut 1 pour les ménages touchés par la réforme, c’est-
+à-dire ici les ménages du premier quartile à la période
+2. En pratique, l’estimation se fait en deux étapes.
+Première étape
+L’aide au m2 est d’abord régressée sur l’instrument
+ainsi que les autres variables explicatives : 
+Aideit = a + b.quartile1 + c.post + Σdj Xij 
++ e.quartile1*post + uit
+Où Aidei est le montant annuel au m2 d’allocation,
+quartile1 est une indicatrice du premier quartile, post
+est une indicatrice qui vaut 1 pour les années suivant
+la réforme, Xij est la valeur de la caractéristique j propre
+au logement i et uit est un résidu.
+Seconde étape
+On effectue alors une estimation par les MCO du loyer au
+m2 sur l’aide au m2 prédite par l’équation qui précède en
+incluant éventuellement d’autres variables explicatives : 
+Lit = α + βquartile1 + γ.post + Σδj Xij + θPAideit + εi
+Où Li est le loyer annuel au m2 du logement i et PAideit
+est l’aide annuelle au m2 prédite par la première
+régression.
+Lorsque le loyer est régressé uniquement sur l’aide
+prédite, le coefficient  est équivalent à l’estimateur de
+Wald : 
+θ = [(LT,1 - LT,2) - (LC,1 - LC,2)] / [(AideT,1 - AideT,2) 
+- (AideC,1 - AideC,1)]
+L’ajout d’autres variables explicatives permet de pren-
+dre en compte dans les régressions les éventuelles
+évolutions de facteurs observables qui ont pu modifier
+la composition des deux groupes T et C au même
+moment que le changement de politique.
+
+===== PAGE 11 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+27
+ont été bénéficiaires de la réforme. Le pourcen-
+tage de bénéficiaires d’aides est passé d’une
+moyenne de 42 % en 1984 et 1988 à plus de
+70 % après la réforme en 1996 et 2002 chez les
+ménages du premier quartile du secteur privé,
+soit un saut de 30 points (cf. graphique V). Sur
+la même période, il a augmenté d’à peine
+10 points pour le deuxième quartile. L’effet de
+la réforme sur les deux groupes est d’autant plus
+net que le pourcentage de bénéficiaires d’aides
+est stable avant la réforme, entre 1984 et 1988,
+de même qu’après la réforme, en 1996 et
+2002 (5). On choisit donc de prendre le premier
+quartile comme groupe de traitement et le
+deuxième quartile comme groupe de contrôle,
+car ce sont les ménages qui ont les caractéristi-
+ques les plus proches des premiers.
+L’évolution des différentiels d’aide et de loyer
+annuels au m2 permet de comparer les deux
+groupes avant et après la réforme (cf. graphi-
+que VI). Le parallélisme des deux courbes est
+frappant : les différentiels de loyer et d’aide ont
+évolué de concert sur la période. Mais surtout, la
+rupture de tendance au moment de la réforme
+est remarquable : alors qu’entre 1984 et 1988,
+les différentiels de loyer et d’aide entre les deux
+premiers quartiles ne varient quasiment pas, ces
+derniers connaissent une forte croissance entre
+1988 et 1996, puis diminuent légèrement après.
+Ainsi, en comparant les résultats entre 1988 et
+1996, on s’aperçoit qu’au moment où les aides
+augmentent, les ménages du premier quartile
+voient leur loyer augmenter beaucoup plus que
+ceux du deuxième quartile, alors que ce n’est le
+cas ni avant, ni après la réforme. La stabilité du
+différentiel de loyer entre 1996 et 2002 suggère
+aussi que cet effet ne correspond pas à un pro-
+blème d’ajustement à court terme mais qu’il
+s’inscrit dans le moyen terme (6).  (5)  (6)
+Logiquement, cette évolution ne devrait affecter
+que les ménages concernés par la réforme. Pour
+le vérifier, le graphique VII montre l’évolution
+des différentiels de loyer et d’aide entre les
+ménages du deuxième quartile et du troisième
+quartile. Ce graphique « placebo » compare
+ainsi deux groupes qui n’ont presque pas été
+concernés par la réforme et dont les évolutions
+de loyer et d’aide ne devraient donc pas être
+affectées par cette dernière. On remarque en
+effet que l’amplitude des évolutions est beau-
+coup plus faible pour le différentiel de loyer
+comme pour le différentiel d’aide et qu’aucune
+rupture de tendance n’est visible entre 1988 et
+5.  On a choisi de ne pas utiliser les données de l’enquête Loge-
+ment 1992 car elle a lieu pendant la réforme, ce qui rend problé-
+matique l’interprétation des données. En effet, la mise en place
+de la réforme s’est déroulée sur trois ans, entre 1990 et 1993, et
+il est difﬁcile de distinguer parmi les ménages de l’enquête 1992
+ceux qui bénéﬁcient déjà des nouvelles dispositions de ceux qui
+ne sont pas encore concernés.
+6.  Pour vériﬁer que les résultats ne se sont pas dus à des parti-
+cularités des années des enquêtes Logement, les mêmes analy-
+ses ont été menées avec l’enquête Budget des familles, sur 1984,
+1989, 1995, et 2001. Elles conduisent aux mêmes conclusions :
+la hausse des loyers du premier quartile relativement au
+deuxième se produit uniquement entre les années 1989 et 1995,
+c’est-à-dire au moment où a lieu la réforme (Fack, 2004). Ainsi on
+peut vériﬁer que l’effet des aides sur les loyers se retrouve indé-
+pendamment des années d’enquête disponibles.
+Graphique V
+Pourcentage de bénéﬁciaires d'aides au logement avant et après la réforme
+Lecture : en 1984, 43 % des ménages du premier quartile  (les 25 % des ménages les plus pauvres) reçoivent des aides personnelles au
+logement dans le secteur locatif privé.
+Champ : ménages locataires, secteur privé.
+Sources : calculs de l'auteur à partir des enquêtes Logement, Insee.
+80
+70
+60
+50
+40
+30
+20
+10
+0
+1er quartile
+2e quartile
+3e quartile
+4e quartile
+1984
+1988
+1996
+2002
+En %
+
+===== PAGE 12 =====
+28
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+1996. Ce graphique de contrôle confirme que ce
+sont bien les aides au logement qui semblent à
+l’origine de la hausse des loyers. Pour le mesu-
+rer rigoureusement, on effectue des régressions
+en incluant des variables socio-démographiques
+pour corriger des caractéristiques structurelles
+permanentes qui pourraient différencier le pre-
+mier quartile du deuxième quartile.
+Les résultats
+Le tableau 1 permet de comprendre le principe
+des doubles différences, en montrant comment
+se calcule la part θ des aides au logement qui
+est partie en hausse de loyer. Le loyer annuel
+au m2 du premier quartile a augmenté de
+14,9 euros de plus que celui du deuxième quar-
+tile entre 1988 et 1996, c’est-à-dire avant et
+après la réforme. Sur la même période, l’aide
+au logement par m2 du premier décile a crû de
+15,8 euros de plus que celle du deuxième quar-
+tile. Le ratio de ces deux chiffres, appelé l’esti-
+mateur de Wald, donne une estimation du
+coefficient θ de 0,94. Cela signifie qu’un euro
+d’aide supplémentaire entraîne une augmenta-
+tion de loyer de 0,94 euros. Mais cette estima-
+tion ne prend pas en compte les différences
+structurelles qui existent entre les ménages du
+premier et du deuxième quartile.
+Graphique VI
+Différentiels d'aide et de loyer moyens au m2 
+entre le premier et le deuxième quartile avant 
+et après la réforme
+Lecture : en 1996, les ménages du 1er quartile reçoivent 23 euros
+d'aide en plus et paient 11 euros en plus de loyer par m2 que les
+ménages du 2e quartile.
+Champ : ménages locataires, secteur privé.
+Sources : calculs de l'auteur à partir des enquêtes Logement,
+Insee.
+Graphique VII
+Différentiels d'aide et de loyer moyens au m2 
+entre le 2e et le 3e quartile avant et après la 
+réforme
+Lecture : en 1996, les ménages du 2e quartile reçoivent 6 euros
+d'aide en plus et paient 4 euros en en moins de loyer par m2 que
+les ménages du 3e quartile.
+Champ : ménages locataires, secteur privé.
+Sources : calculs de l'auteur à partir des enquêtes Logement,
+Insee.
+25
+20
+15
+10
+5
+0
+- 5
+- 10
+- 15
+Différentiel de loyer au m2
+Différentiel d'aide au m2
+Euros constants de 2002 (/an/m2)
+1984
+1988
+1996
+2001
+25
+20
+15
+10
+5
+0
+- 5
+- 10
+- 15
+Différentiel de loyer au m2
+Différentiel d'aide au m2
+Euros constants de 2002 (/an/m2)
+1984
+1988
+1996
+2001
+Lecture : la différence de loyer au m2 entre 1988 et 1996 est de 26,1 euros pour le premier quartile et de 11,2 euros pour le deuxième
+quartile. Le loyer au m2 du premier quartile a donc augmenté de 14,9 euros de plus que celui du deuxième quartile entre 1988 et 1996.
+L’aide au logement par m2 du premier quartile a augmenté de 15,8 euros de plus que celle du deuxième quartile entre 1988 et 1996. Il
+en résulte qu’un euro d’aide supplémentaire entraîne une augmentation de 0,94 euro du loyer.
+Les écarts-types sont entre parenthèses.
+Champ : ménages locataires du secteur privé.
+Source : calculs de l’auteur d’après les enquêtes Logement, Insee.
+Tableau 1
+Une première estimation de l’effet des aides avec l’estimateur en doubles différences
+1988
+1996
+Évolution
+de 1988 à 1996
+Loyer annuel
+au m2
+(en euros de 2002)
+1er quartile
+64,1
+(2,2)
+90,2
+(2,5)
+26,1
+(2,3)
+2e quartile
+67,8
+(2,2)
+79,0
+(2,2)
+11,2
+(2,2)
+Différence
+- 3,7
+(2,4)
+11,2
+(2,1)
+14,9
+(3,2)
+Aide au logement
+annuelle par m2
+(en euros de 2002)
+1er quartile
+14,3
+(0,5)
+34,9
+(1,0)
+20,6
+(1,4)
+2e quartile
+7,5
+(0,2)
+12,3
+(0,3)
+4,8
+(0,8)
+Différence
+6,8
+(1,0)
+22,6
+(1,2)
+15,8
+(1,5)
+Estimateur de Wald (14,9/15,8)
+0,94
+(0,20)
+
+===== PAGE 13 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+29
+Plusieurs types de variables explicatives sont
+inclus dans les régressions suivantes. La com-
+position de la famille est prise en compte par
+11 indicatrices, en fonction du nombre d’adul-
+tes et d’enfants. Ces variables permettent de
+prendre en compte le fait que les familles nom-
+breuses vivent dans des logements plus grands,
+qui ont généralement un loyer par m2 plus fai-
+ble. On introduit aussi des variables de localisa-
+tion, en croisant des indicatrices d’unité urbaine
+(espace rural, petite, moyenne ou grande ville,
+Paris et l’agglomération parisienne) avec la
+région (7). Enfin l’âge de la personne de réfé-
+rence du ménage est introduit en 5 tranches,
+pour prendre en compte le fait que les ménages
+plus âgés ont, en général, une ancienneté
+d’occupation plus élevée, et donc des loyers au
+m2 plus faibles. On a préféré inclure l’âge de la
+personne de référence dans les régressions plu-
+tôt que l’ancienneté d’occupation directement,
+parce que l’ancienneté d’occupation a pu être
+affectée par la réforme. En effet, il est possible
+que les nouveaux bénéficiaires d’aide aient
+cherché à déménager dans un meilleur loge-
+ment, réduisant ainsi leur ancienneté d’occupa-
+tion. L’âge de la personne de référence est
+donc une meilleure variable explicative que
+l’ancienneté d’occupation (8). Les variables
+explicatives choisies, qui reflètent uniquement
+les caractéristiques intrinsèques des ménages,
+correspondent à la modélisation d’une équation
+de demande. Les premières régressions sur le
+secteur privé incluant les variables explicatives
+(cf. tableau 2) donnent des estimations de l’aug-
+mentation du loyer au m2 à la suite d’une aug-
+mentation de 1 euro d’aide au logement au m2
+autour de 0,5 centimes d’euros et tous les résul-
+tats sont très significatifs. Cependant, quand on
+passe de la régression sans aucune variable
+explicative additionnelle à la régression
+incluant toutes les variables explicatives choi-
+sies, la forte baisse du coefficient θ dans les
+régressions en doubles différences laisse penser
+qu’un effet lié aux différences de composition
+entre les deux groupes se confond avec l’effet
+mesuré. Les analyses de la première partie ont
+effectivement montré que la structure de la
+population joue un rôle dans l’évolution des
+loyers.  (7)  (8)
+Une façon de répondre à ce problème est
+d’effectuer les régressions sur 1984, 1988, 1996
+et 2002 en ajoutant une indicatrice pour tester
+l’existence d’une tendance différentielle d’évo-
+lution entre les quartiles sur toute la période.
+Cette méthode, dite des triples différences, per-
+met de tirer profit de l’information sur l’évolu-
+tion des loyers et des aides avant et après la
+réforme en employant plus d’années d’enquête.
+En effet, la régression en doubles différences,
+qui n’utilise que les années 1988 et 1996,
+n’exploite pas les ruptures de tendance qui ont
+lieu avant et après la réforme. Il faut cependant
+garder à l’esprit que l’emploi de la méthode des
+triples différences entraîne automatiquement
+une augmentation de la variance qui diminue
+d’autant la significativité des coefficients. Les
+estimations du coefficient θ sont beaucoup plus
+7.  Il est possible d’inclure dans la régression une variable indi-
+quant si le logement est localisé dans le centre-ville ou en ban-
+lieue d’une agglomération, mais cela ne change pas les résultats. 
+8.  En pratique, l’inclusion de l’ancienneté d’occupation dans les
+régressions ne change presque pas les résultats, car l’âge de la
+personne de référence y est fortement corrélé. 
+Lecture : d’après la régression en triples différences avec les variables explicatives de la colonne (2), une augmentation de un euro de
+l’aide au m2 entraîne une augmentation de 0,78 euro de loyer au m2.
+Les écart-types sont entre parenthèses. *** : significatif à 5 %, ** : significatif à 10 %.
+Champ : ménages locataires du secteur privé.
+Tableau 2
+L’effet des aides sur les loyers pour les ménages du secteur privé
+Échantillon des ménages locataires du secteur privé, 1er et 2e quartiles
+Méthode
+Variable
+Nombre 
+d'observations
+(1)
+(2)
+Doubles différences
+(sur 1988 et 1996)
+Aide au m2 instrumentée par l’indicatrice 
+année x 1er quartile
+4 476
+0,94***
+(0,20)
+0,45***
+(0,18)
+Triples différences
+(sur 1984, 1988, 1996, 2002)
+Aide au m2 instrumentée par l’indicatrice 
+année x 1er quartile
+9 635
+1,33***
+(0,37)
+0,78***
+(0,31)
+Autres variables explicatives
+Indicatrice d'unité urbaine croisée avec la région
+ 
+non
+oui
+Type et taille de famille (11 postes)
+non
+oui
+Âge de la personne de référence (5 postes)
+ 
+non
+oui
+Régressions pondérées à partir des enquêtes Logement Insee.
+
+===== PAGE 14 =====
+30
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+élevées avec les régressions en triples différen-
+ces et restent significatives. D’après les résultats
+de la régression en triples différences avec les
+variables explicatives (colonne 2 du tableau 2)
+qui constitue sans doute l’estimation la plus
+satisfaisante, lorsque l’aide au m2 augmente
+d’un euro, le loyer au m2 augmente de
+0,78 euro. Autrement dit, 78 % des aides au
+logement ont été absorbées par la hausse des
+loyers et seulement 22 % des allocations ont
+réellement permis aux ménages de diminuer
+leur charge de logement. Ce chiffre correspond
+à une situation où l’élasticité de l’offre de loge-
+ment est nettement plus faible que l’élasticité de
+la demande. 
+À partir de ces estimations, on peut aussi calcu-
+ler quelle est la part de la hausse des loyers des
+ménages à bas revenus due aux aides. Entre
+1988 et 2002, les aides au logement du premier
+quartile ont augmenté de 22,2 euros et les loyers
+de 29,9 euros. L’estimation du coefficient θ
+étant de 0,78 pour la régression en triples diffé-
+rences avec les variables explicatives, on en
+déduit que les aides sont responsables jusqu’à
+58 % de la hausse des loyers des ménages à bas
+revenus 
+sur 
+la 
+période 
+considérée (9)
+(cf. tableau 2).
+Mais cette estimation de 58 % mélange plu-
+sieurs effets. D’une part, la réforme a eu un effet
+sur la décohabitation des étudiants. En effet, les
+ménages étudiants ont eu droit aux aides avec la
+réforme, alors qu’ils n’en bénéficiaient pas
+avant, à moins d’habiter dans un logement
+conventionné. L’augmentation du nombre de
+ménages étudiants a donc pu contribuer à la
+hausse des loyers pour les autres ménages à bas
+revenus.
+D’autre part, la hausse des prix peut être due à
+une amélioration des logements des ménages
+bénéficiaires d’aide. Quelle est la part de la
+hausse qui correspond à une amélioration de la
+qualité des logements et quelle est celle qui a été
+directement captée par les propriétaires ? 
+Les étudiants et la réforme 
+des aides
+a réforme du bouclage des aides a eu un
+effet qui n’avait pas été prévu : elle a
+entraîné le départ de certains étudiants de chez
+leurs parents et la formation de nouveaux ména-
+ges. En effet, les étudiants ont été les premiers
+bénéficiaires de cette réforme : ils représen-
+taient, en 1994, 58 % des bénéficiaires de
+l’extension de l’allocation de logement à carac-
+tère social (ALS) et le quart des allocataires de
+cette prestation (10). Ainsi, parmi les locataires
+du secteur privé dont la personne de référence
+est étudiante (11), seulement 6 % recevaient des
+aides au logement en 1988 alors qu’ils sont
+79 % en 2002. Dans le même temps, le pourcen-
+tage de ménages étudiants a plus que doublé.
+Certes, il faut tenir compte du fait que le nombre
+d’étudiants du supérieur a beaucoup augmenté
+sur la période, mais Laferrère et Le Blanc
+(2003) montrent bien que les aides ont joué un
+rôle dans la décohabitation des étudiants. Cet
+effet est intéressant, mais pose un problème
+pour la mesure de l’impact des aides : on peut se
+demander dans quelle mesure la hausse des
+loyers des ménages à bas revenus est liée à
+l’arrivée de nouveaux ménages étudiants sur le
+marché du logement.  (9)  (10)  (11)
+Pour répondre à ce problème, on a dans un pre-
+mier temps réestimé les régressions en excluant
+les ménages étudiants de l’échantillon. La com-
+position des groupes est ainsi plus stable entre
+1988 et 1996 (cf. annexes 2 et 3). Les différen-
+tiels d’aide et de loyer annuels au m2 sans les
+étudiants ont la même évolution que ceux de
+l’échantillon complet, même si la rupture de
+tendance 
+est 
+un 
+peu 
+moins 
+prononcée
+(cf. graphique VIII).
+Les estimations de θ sont toutes significatives,
+et pour les régressions en doubles différences,
+elles restent proches des estimations effectuées
+sur l’échantillon avec l’ensemble des ménages
+du secteur privé (cf. tableau 3). La méthode des
+triples différences donne des estimations encore
+plus élevées suggérant que la totalité des aides
+au logement a été absorbée par des hausses de
+loyers.
+Ainsi, l’effet des aides sur les loyers reste fort
+même sans lorsque le champ d’estimation est
+restreint aux ménages non étudiants. Cepen-
+dant, on peut supposer que l’arrivée des ména-
+ges étudiants a exercé une pression sur la
+demande des logements pour les ménages
+L
+9.  Le chiffre est obtenu en divisant 0,78.22,2 par 29,9.
+10.  Ces chiffres donnés par Steck (1995) sont à rapprocher des
+statistiques des enquêtes Logement : les étudiants représentent
+13,4 % des allocataires du secteur privé en 1996, tous types
+d’aide confondus, contre 0,6 % en 1988.
+11.  Dans la suite du texte, l’expression « ménages étudiants »
+est utilisée à la place des ménages « dont la personne de réfé-
+rence est étudiante ».
+
+===== PAGE 15 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+31
+modestes non étudiants, entraînant ainsi une
+hausse de leur loyer. En effet, vu la pénurie de
+résidences universitaires, beaucoup d’étudiants
+sont allés se loger dans le secteur privé, dans
+des petits logements, entrant ainsi en concur-
+rence avec les autres ménages à bas revenus.
+L’effet des aides aux étudiants peut être décom-
+posé en deux effets : un effet direct sur les
+loyers étudiants, et un effet indirect sur les
+loyers des ménages à faibles revenus non étu-
+diants, lié à la concurrence entraînée par l’arri-
+vée de nouveaux ménages étudiants sur le mar-
+ché 
+du 
+logement. 
+Les 
+estimations 
+sur
+l’échantillon des ménages non étudiants ne per-
+mettent pas de distinguer clairement les deux
+effets. Il faut développer une autre méthode
+pour les estimer séparément.
+Une évaluation de l’impact de l’arrivée 
+des étudiants sur le marché du logement
+Pour mesurer l’effet indirect, on distingue deux
+zones suivant leur densité en ménages étudiants.
+On peut alors comparer les résultats des régres-
+sions sur ces deux sous-populations. On cons-
+truit la première zone (« zone 1 ») en remar-
+quant que les étudiants habitent essentiellement
+dans les centres des grandes agglomérations.
+Plus précisément, la zone 1 regroupe les villes
+de province de plus de 100 000 habitants, les
+communes centres des agglomérations ayant
+entre 50 000 et 100 000 habitants et Paris, mais
+pas l’agglomération parisienne. La zone 2
+regroupe les agglomérations de moins de
+20 000 habitants, les communes périphériques
+des agglomérations ayant entre 50 000 et
+100 000 habitants (12).
+Pour isoler l’effet indirect dû aux étudiants, le
+découpage des zones ne réplique pas la distinc-
+tion entre grandes et petites villes. Ainsi, l’effet
+étudiant sera identifié même si l’évolution des
+loyers dans les grandes agglomérations diffère
+de celle des petites villes. Les ménages étu-
+diants locataires du secteur privé sont en fait
+regroupés dans la zone 1 (cf. tableau 4).
+Si l’arrivée des étudiants a réellement causé la
+hausse des loyers, on devrait trouver une hausse
+des loyers beaucoup plus forte à la suite de la
+réforme des aides dans la zone 1 où les étudiants
+se sont massivement installés que dans la
+zone 2. On estime donc la part des aides qui est
+12.  On a préféré ne pas inclure les zones rurales pour plus
+d’homogénéité entre les deux zones. 
+Graphique VIII
+Différentiels d'aide et de loyer au m2 entre le 
+1er et le 2e quartile avant et après la réforme, 
+sans les ménages étudiants
+Lecture : en 1996 les ménages du 1er quartile reçoivent 18 euros
+d'aide en plus et paient 1 euro en plus de loyer par mètre carré
+que les ménages du 2e quartile.
+Champ : ménages locataires, secteur privé, ménages étudiants
+exclus.
+Sources : calculs de l'auteur à partir des enquêtes Logement,
+Insee.
+25
+20
+15
+10
+5
+0
+- 5
+- 10
+- 15
+Différentiel de loyer au m2
+Différentiel d'aide au m2
+Euros constants de 2002 (/an/m2)
+1984
+1988
+1996
+2002
+Lecture : d’après la régression en triples différences avec les variables explicatives de la colonne (2), une augmentation de un euro de
+l’aide au m2 entraîne une augmentation de 1,02 euro de loyer au m2.
+Les écarts-types sont entre parenthèses. ***: significatif à 5 %, ** : significatif à 10 %.
+Champ : ménages locataires du secteur privé.
+Tableau 3
+L’effet des aides sur les loyers pour les ménages du secteur privé (hors étudiants)
+Échantillon des ménages locataires du secteur privé, 1er et 2e quartiles
+Méthode
+Variable
+Nombre 
+d'observations
+(1)
+(2)
+Doubles différences
+(sur 1988 et 1996)
+Aide au m2 instrumentée par l’indicatrice 
+année x 1er quartile
+4 248
+0,76***
+(0,26)
+0,39**
+(0,24)
+Triples différences
+(sur 1984, 1988, 1996, 2002)
+Aide au m2 instrumentée par l’indicatrice 
+année x 1er quartile
+9 180
+1,42***
+(0,63)
+1,02***
+(0,52)
+Autres variables explicatives
+Indicatrice d'unité urbaine croisée avec la région
+ 
+non
+oui
+Type et taille de famille (11 postes)
+non
+oui
+Âge de la personne de référence (5 postes)
+ 
+non
+oui
+Régressions pondérées à partir des enquêtes Logement Insee.
+
+===== PAGE 16 =====
+32
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+partie en hausse de loyers dans chaque zone, en
+ne retenant que les ménages du secteur privé
+sans les étudiants. Comme les échantillons sont
+deux fois plus petits, la précision des estima-
+tions est plus faible et affecte la significativité
+des coefficients. Les résultats montrent que la
+part des aides qui s’est traduite par une hausse
+loyer est plus élevée dans la zone où se concen-
+trent les étudiants que dans celle où ils sont peu
+présents, même si la différence entre les coeffi-
+cients n’est pas, en général, statistiquement
+significative (13) (cf. tableau 5). 
+Ces résultats semblent confirmer que l’arrivée
+de ménages étudiants sur le secteur privé du
+marché immobilier a eu un impact sur les loyers
+des ménages à bas revenus, mais c’est un effet
+indirect qui domine. On a en effet vu que les
+loyers des étudiants n’expliquent pas vraiment
+la hausse, car les estimations de la part des aides
+qui est partie en hausse de loyer ne baissent pas
+lorsqu’on retire les étudiants de l’échantillon. Si
+les ménages étudiants ont contribué à la hausse
+des loyers, c’est indirectement, en exerçant une
+pression sur la demande dans les quartiers où ils
+se sont installés, comme le montrent les estima-
+tions selon les zones de présence étudiante.
+13.  Les tests de Chow conduisent à accepter l’hypothèse d’éga-
+lité des coefﬁcients entre les deux sous-échantillons.
+Lecture : la zone 1 regroupe les agglomérations de plus de
+100 000 habitants, les communes-centres des agglomérations
+de plus de 50 000 et de moins de 100 000 habitants et Paris (sans
+la région parisienne). La zone 2 correspond au reste de la France
+métropolitaine, sauf les communes rurales.
+Source : calculs de l’auteur d’après les enquêtes Logement,
+Insee.
+Tableau 4
+Évolution de la proportion de ménages 
+étudiants parmi les locataires du secteur privé 
+en fonction des zones de concentration 
+d’étudiants
+En  %
+1984
+1988
+1996
+2002
+Zone 1
+2
+5
+12
+12
+Zone 2
+0
+1
+  2
+  2
+Lecture : d’après la régression en triples différences sur l’échantillon de référence avec les variables explicatives de la colonne (2), une
+augmentation de un euro de l’aide au m2 entraîne une augmentation de 1,02 euro de loyer au m2.
+Les écarts-types sont entre parenthèses. *** : significatif à 5 %, ** : significatif à 10 %.
+Champ : ménages locataires du secteur privé hors étudiants.
+Tableau 5
+Mesure de « l’effet étudiant » : estimation par zones de présence étudiante
+Échantillon de référence :
+ménages locataires du secteur privé hors étudiants, 1er et 2e quartiles 
+Méthode
+Variable
+Nombre 
+d'observations
+(1)
+(2)
+Doubles différences
+(sur 1988 et 1996)
+Aide au m2 instrumentée par l’indicatrice 1996 
+x 1er quartile
+4 248
+0,76***
+(0,26)
+0,39**
+(0,24)
+Triples différences
+(sur 1984, 1988, 1996, 2002)
+Aide au m2 instrumentée par l’indicatrice 
+année x 1er quartile
+9 180
+1,42***
+(0,63)
+1,02***
+(0,52)
+Échantillon 1 : zone de forte présence étudiante
+Méthode
+Variable
+Nombre 
+d'observations
+(1)
+(2)
+Doubles différences
+(sur 1988 et 1996)
+Aide au m2 instrumentée par l’indicatrice 1996 
+x 1er quartile
+2 043
+0,91***
+(0,41)
+0,58**
+(0,32)
+Triples différences
+(sur 1984, 1988, 1996, 2002)
+Aide au m2 instrumentée par l’indicatrice 
+année x 1er quartile
+4 521
+1,37
+(1,07)
+1,34
+(0,86)
+Échantillon 2 : zone de faible présence étudiante
+Méthode
+Variable
+Nombre 
+d'observations
+(1)
+(2)
+Doubles différences
+(sur 1988 et 1996)
+Aide au m2 instrumentée par l’indicatrice 1996 
+x 1er quartile
+1 486
+0,63**
+(0,34)
+0,10
+(0,37)
+Triples différences
+(sur 1984, 1988, 1996, 2002)
+Aide au m2 instrumentée par l’indicatrice 
+année x 1er quartile
+3 196
+ 
+  1,23***
+(0,55)
+0,71
+(0,47)
+Autres variables explicatives
+Indicatrice d'unité urbaine croisée avec la région
+ 
+non
+oui
+Type et taille de famille (11 postes)
+non
+oui
+Âge de la personne de référence (5 postes)
+ 
+non
+oui
+Régressions pondérées à partir des enquêtes Logement, Insee.
+
+===== PAGE 17 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+33
+L’augmentation des loyers à la suite de la
+réforme des aides au logement s’explique donc
+par la conjonction de plusieurs effets. D’une
+part, les ménages à bas revenus ont augmenté
+leur demande de logement à la perception des
+aides ; d’autre part, l’attribution des aides aux
+étudiants a aussi entraîné une nouvelle demande
+pour le même sous-marché. Or, comme d’après
+nos estimations, l’offre n’a pas répondu à cette
+augmentation de la demande, les hausses d’aide
+se sont traduites en hausses de loyer. Pour vali-
+der cette interprétation, il reste à vérifier que la
+hausse des loyers ne cache pas une augmenta-
+tion de la qualité des logements.
+Faible effet des aides 
+sur la qualité du logement
+i les aides ont permis aux ménages du pre-
+mier quartile d’améliorer leur habitat, on
+doit observer une amélioration soit de la sur-
+face, soit de la qualité de leur logement. On peut
+remarquer qu’il est plus facile pour un ménage
+locataire d’améliorer la qualité du logement que
+d’augmenter la surface, car dans ce dernier cas
+il faut déménager, ce qui est long et coûteux.
+Les rares études sur les locataires montrent
+d’ailleurs que la demande de surface est en
+général moins sensible au prix et au revenu que
+la demande de qualité (Granelle, 1998). On peut
+donc supposer que la demande de confort aug-
+mente davantage à la suite de la perception
+d’aide que la demande de surface.
+Il faut aussi ajouter qu’un ménage peut chercher
+à se loger dans un meilleur quartier pour amélio-
+rer son habitat, mais les données des enquêtes
+Logement ne permettent pas de tester cette
+hypothèse. Mais il faudrait, là aussi, que les
+locataires déménagent  (14).
+Une très faible augmentation de la surface 
+des logements
+La surface moyenne des logements des ménages
+locataires du secteur privé a peu évolué entre
+1988 et 1996. Quand on ne prend pas en compte
+les ménages étudiants, elle est en effet restée
+stable sur la période pour les ménages du pre-
+mier quartile et elle a légèrement diminué pour
+les 
+ménages 
+du 
+deuxième 
+quartile
+(cf. annexes 2 et 3). Comme le différentiel entre
+les deux quartiles n’est pas significatif, on peut
+conclure que la taille des logements des ména-
+ges du premier quartile n’a pas augmenté plus
+que celle des ménages du deuxième quartile sur
+la période. Les aides n’ont donc pas servi à aug-
+menter la surface des logements des ménages à
+bas revenus. Cependant, on a vu que l’évolution
+de la taille du logement ne mesure que très
+imparfaitement l’amélioration de l’habitat : les
+ménages ont pu améliorer la qualité de leur
+logement à défaut de la quantité. Mais il est plus
+difficile de mesurer l’évolution de la qualité que
+celle de la surface car il n’existe pas d’indica-
+teur unique de la qualité d’un logement, notion
+multidimensionnelle et parfois subjective.  (14)
+L’amélioration du confort : 
+un effet des aides ?
+L’étude de la qualité des logements est limitée
+par les variables présentes dans les enquêtes
+Logement 1984 et 1988. L’évolution du confort
+de base du logement (eau courante, sanitaires,
+chauffage) peut être observée avant et après la
+réforme. Cet indicateur basique de la qualité a
+l’avantage d’être objectif. Ainsi en 1984, plus
+de 30 % des logements des ménages du premier
+quartile sont dépourvus d’installations sanitai-
+res, alors que cela ne concerne même pas
+3 % des logements de ce quartile en 2002
+(cf. tableau 6). Le confort de base des loge-
+ments des ménages du premier quartile s’est
+donc fortement amélioré sur la période, mais
+celui des ménages du deuxième quartile a aussi
+fortement augmenté : la progression de la qua-
+lité des logements ne concerne pas uniquement
+le premier quartile. Ces observations suggèrent
+que les allocations logement n’ont peut-être pas
+joué un grand rôle dans l’amélioration du con-
+fort. De plus, si les aides avaient vraiment un
+effet sur l’amélioration de la qualité des loge-
+ments, on devrait observer une rupture de ten-
+dance dans l’augmentation du confort au
+moment de la réforme. Or l’équipement en eau,
+sanitaires et chauffage progresse au moins aussi
+vite avant la réforme (entre 1984 et 1988) que
+pendant (entre 1988 et 1996), sans aucune rup-
+ture de tendance. Ainsi, si l’on observe une forte
+augmentation du confort de base des logements
+des deux premiers quartiles entre 1984 et 2002,
+S
+14.  L’ancienneté des ménages du premier quartile a fortement
+chuté entre 1984 et 2002, mais cette baisse ne semble pas avoir
+été directement causée par la réforme des aides car on n’observe
+pas de rupture de tendance au moment où celle-ci est mise en
+place. Cette chute de l’ancienneté semble plus directement liée
+à l’abaissement de l’âge de la personne de référence des ména-
+ges du premier quartile. Si on peut supposer que ces ménages
+ont pu proﬁter de déménagements plus fréquents pour se loger
+mieux, il est difﬁcile d’identiﬁer clairement un effet de la réforme
+sur la mobilité des ménages. 
+
+===== PAGE 18 =====
+34
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+la réforme des aides ne semble pas être la prin-
+cipale cause de cette évolution.
+Afin de tester de façon plus systématique dans
+quelle mesure l’estimation du coefficient θ cal-
+culée précédemment peut associer à la hausse
+des prix une composante liée à l’amélioration de
+la qualité, on simule un prix des logements à
+qualité constante en utilisant la méthode des
+indices de prix hédoniques. On évalue, dans un
+premier temps, le prix de chaque caractéristique
+de confort pour chaque année en régressant le
+loyer au m2 sur les indicateurs de confort, puis
+on reconstitue le prix des logements en suppo-
+sant qu’ils ont tous le meilleur confort de base
+possible. Les loyers ainsi obtenus n’incorporent
+plus les hausses liées à l’amélioration du confort
+et permettent de se focaliser sur les hausses
+« brutes de loyer ». Les coefficients des régres-
+sions sur ces loyers corrigés de leur composante
+confort ne varient pas beaucoup (cf. tableau 7).
+L’amélioration de la qualité des logements
+telle qu’on peut la mesurer ne semble donc pas
+jouer un grand rôle dans la hausse des loyers
+des ménages à bas revenus. Il faut cependant
+reconnaître que les indicateurs de qualité utili-
+sés sont très imparfaits : ils ne repèrent que les
+changements majeurs de la qualité du loge-
+ment. On ne peut pas savoir si les propriétaires
+ont effectué des travaux de réfection ou de
+mise aux normes justifiant des augmentations
+de loyer. Il est possible que l’effet qualité soit
+donc sous-estimé.
+*    *
+*
+Le point de départ de cette étude est l’observa-
+tion selon laquelle sur les trente dernières
+années, le loyer des locataires appartenant aux
+couches les moins riches de la population a aug-
+menté plus rapidement que celui des locataires
+plus riches. Les résultats montrent que la
+réforme de l’extension des aides au logement au
+début des années 1990 a fortement contribué à
+cette évolution : selon les estimations réalisées,
+entre 50 % et 80 % des allocations de logement
+ont été absorbées par des hausses de loyer dans
+le secteur privé, sans que cela traduise une forte
+amélioration de la qualité des logements. Cette
+situation semble pour l’essentiel être due à la
+faible élasticité de l’offre de logement des
+bailleurs à court et moyen terme, à laquelle s’est
+Lecture : en 1984, 21,9 % des logements des ménages du premier quartile n’ont que l’eau courante.
+Champ : ménages locataires du secteur privé.
+Source : enquêtes Logement, Insee.
+Tableau 6
+Évolution du confort du logement selon les quartiles
+En  %
+1er quartile
+2e quartile
+3e quartile
+4e quartile
+1984
+Pas d'eau courante
+Eau courante seulement
+Eau et W.-C. sans installation sanitaire
+Eau et installations sanitaires
+W.-C. et installations sans chauffage central
+W.-C. et installations avec chauffage central
+  1,1
+21,9
+  9,1
+  3,9
+24,7
+39,4
+  0,5
+10,2
+  3,8
+  5,0
+24,8
+55,8
+  0,0
+  4,5
+  2,8
+  2,6
+23,3
+66,8
+  0,0
+  1,5
+  1,1
+  2,3
+10,9
+84,2
+1988
+Pas d'eau courante
+Eau courante seulement
+Eau et W.-C. sans installation sanitaire
+Eau et installations sanitaires
+W.-C. et installations sans chauffage central
+W.-C. et installations avec chauffage central
+  0,4
+11,9
+  5,4
+  3,5
+31,0
+47,9
+  0,1
+  6,2
+  2,3
+  2,2
+24,9
+64,3
+  0,0
+  1,7
+  1,4
+  2,1
+20,3
+74,5
+  0,0
+  1,2
+  0,3
+  0,7
+13,2
+84,7
+1996
+Pas d'eau courante
+Eau courante seulement
+Eau et W.-C. sans installation sanitaire
+Eau et installations sanitaires
+W.-C. et installations sans chauffage central
+W.-C. et installations avec chauffage central
+  0,2
+  3,3
+  2,3
+  2,2
+28,5
+63,6
+  0,1
+  1,3
+  1,2
+  2,0
+23,1
+72,4
+  0,0
+  0,6
+  0,3
+  0,6
+19,8
+78,7
+  0,0
+  0,1
+  0,3
+  0,3
+14,6
+84,7
+2002
+Pas d'eau courante
+Eau courante seulement
+Eau et W.-C. sans installation sanitaire
+Eau et installations sanitaires
+W.-C. et installations sans chauffage central
+W.-C. et installations avec chauffage central
+  0,1
+  1,3
+  1,5
+  1,5
+  9,4
+86,2
+  0,0
+  0,2
+  0,4
+  2,1
+  7,6
+89,7
+  0,0
+  0,4
+  0,3
+  0,4
+  7,5
+91,4
+  0,0
+  0,0
+  0,1
+  0,4
+  2,8
+96,7
+
+===== PAGE 19 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+35
+heurtée l’augmentation de la demande des
+ménages bénéficiaires d’aides. L’arrivée de
+nouveaux ménages étudiants suite à la réforme
+des aides a pu aussi renforcer cet effet.
+Les résultats obtenus paraissent donc conduire
+à une évaluation négative du système des aides
+personnelles au logement. Les aides personnel-
+les sont certes ciblées sur les faibles revenus,
+mais la très faible élasticité de l’offre privée de
+logement – à court et moyen terme – réduit for-
+tement la somme utilisable par les ménages à
+bas revenus, diminuant d’autant l’impact redis-
+tributif. Il serait pour autant hâtif d’en conclure
+que les aides personnelles sont moins efficaces
+que les aides à la pierre, qui constituent l’autre
+grand type d’aides utilisées en France. Les
+aides à la pierre sont en effet mal ciblées
+(Laferrère, Le Blanc et Pigois, 1999). Elles
+engendrent des problèmes de ségrégation spa-
+tiale souvent difficiles à résoudre, et l’attribu-
+tion des logements HLM est beaucoup plus
+opaque que celle des aides personnelles qui
+repose sur des barèmes universels. Il serait
+peut-être plus intéressant de se demander pour-
+quoi l’offre de logement à court et à moyen
+terme en France a été si peu élastique sur la
+période et en tenir compte dans l’élaboration
+des politiques du logement.
+On peut aussi se demander, dans une perspec-
+tive plus générale, quels sont les avantages à lier
+la redistribution – par ailleurs indispensable –
+en faveur des ménages à bas revenus à un bien
+précis comme le logement (bien essentiel mais
+malheureusement peu élastique) par rapport aux
+transferts monétaires (tels que le RMI ou la
+prime pour l’emploi) que les ménages peuvent
+utiliser librement. La justification théorique
+d’aides affectées à un bien particulier repose en
+effet sur l’existence d’externalités non prises en
+compte par les ménages, par exemple sur la
+santé ou les résultats scolaires des enfants, qui
+les conduiraient à choisir une consommation de
+logement inférieure à l’optimum social. Les tra-
+vaux empiriques sur cette question sont encore
+peu nombreux en France (Goux et Maurin,
+2005) et mériteraient d’être développés afin de
+savoir si les externalités sont suffisamment for-
+tes pour compenser la moindre efficacité des
+aides au logement par rapport aux transferts
+monétaires. 
+■
+Lecture : d’après la régression en triples différences avec les variables explicatives de la colonne (2), une augmentation de un euro d’aide
+entraîne, à qualité constante, une augmentation de 0,76  euro de loyer pour les ménages locataires du secteur privé.
+Les écarts-types sont entre parenthèses. ***: significatif à 5 %, ** : significatif à 10 %.
+Champ : ménages du secteur privé.
+Tableau 7
+L’effet des aides sur les loyers après correction pour le confort
+Échantillon des ménages locataires du secteur privé, 1er et 2e quartiles
+Méthode
+Variable
+Nombre 
+d'observations
+(1)
+(2)
+Doubles différences
+(sur 1988 et 1996)
+Aide au m2 instrumentée par l’indicatrice 1996 
+x 1er quartile
+4 476
+0,81***
+(0,25)
+0,29
+(0,25)
+Triples différences
+(sur 1984, 1988, 1996, 2002)
+Aide au m2 instrumentée par l’indicatrice 
+année x 1er quartile
+9 635
+ 
+1,32***
+(0,45)
+0,76**
+(0,40)
+Échantillon des ménages locataires du secteur privé hors étudiants, 1er et 2e quartiles
+Méthode
+Variable
+Nombre 
+d'observations
+(1)
+(2)
+Doubles différences
+(sur 1988 et 1996)
+Aide au m2 instrumentée par l’indicatrice 1996 
+x 1er quartile
+4 248
+0,62**
+(0,33)
+0,20
+(0,33)
+Triples différences
+(sur 1984, 1988, 1996, 2002)
+Aide au m2 instrumentée par l’indicatrice 
+année x 1er quartile
+9 180
+ 
+1,45
+(0,76)
+0,92
+(0,64)
+Autres variables explicatives
+Indicatrice d'unité urbaine 
+ 
+non
+oui
+Type et taille de famille (11 postes)
+non
+oui
+Âge de la personne de référence (5 postes)
+ 
+non
+oui
+Régressions pondérées à partir des enquêtes Logement, Insee.
+
+===== PAGE 20 =====
+36
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+BIBLIOGRAPHIE
+Bertrand M., Duflo E. et Mullainathan S.
+(2004), « How Much Should We Trust Differen-
+ces-in-Differences Estimates », Quarterly Journal
+of Economics, vol. 119, n˚ 1, pp. 249-275.
+Calcoen F. et Cornuel D. (2002), « Les aides
+personnelles au logement : finalités, impacts et
+perspectives », dossier d’études, Allocations
+familiales, n˚ 34.
+Curci G. (1991), « Portrait du locataire », Économie
+et Statistique, n˚ 240, pp. 19-28.
+Curci G. et Taffin C. (1991), « Les écarts de
+loyer », Économie et Statistique, n˚ 240, pp. 29-
+36.
+Driant J.-C., Jacquot A. (2005), « Loyers impu-
+tés et inégalités de niveaux de vie », Économie et
+Statistique, ce numéro.
+Fack G. (2004), « Pourquoi les ménages pauvres
+paient-ils des loyers de plus en plus élevés ?
+L’incidence des aides au logement en France,
+1973-2002 », document de travail, ENS-EHESS
+Paris-Jourdan.
+Galster G. (1997), « Comparing Demand-Side
+and Supply-Side Housing Policies: Sub-Market
+and Spatial Perspectives », Housing Studies,
+vol. 12, n˚ 4, pp. 561-577.
+Gibbons S. et Manning A. (2003), « The Inci-
+dence of UK Housing Benefit: Evidence from the
+1990s Reforms », CEP discussion paper, n˚ 597.
+Goux D. et Maurin É. (2003), « Surpeuplement
+du logement et retard scolaire des enfants »,
+Données Sociales 2002-2003, Insee, pp. 455-459.
+Goux D. et Maurin É. (2005), « The Impact of
+Overcrowded Housing on Children’s Performance
+at School », Journal of Public Economics, vol. 89,
+n˚ 5, pp. 797-820.
+Granelle J.-J. (1998), Économie immobilière,
+Éditions Économica, Paris.
+Insee (2002), « Les indices de prix des logements
+anciens », Insee Méthodes, n˚ 98.
+Laferrère A., Le Blanc D. et Pigois R. (1999),
+« Les effets de l'existence du parc HLM sur les
+profils de consommation des ménages », Écono-
+mie et Statistique, n˚ 328, pp. 37-60.
+Laferrère A. et Le Blanc D. (2002), « Comment
+les aides au logement affectent-elles les loyers ? »,
+Économie et Statistique, n˚ 351, pp. 3-30.
+Laferrère A. et Le Blanc D. (2004), « Gone with
+the Windfall: How do Housing Allowance Affect
+Student 
+co-Residence? », 
+CESifo 
+Economic
+Studies, vol. 50, n˚ 3, pp. 451-477.
+Marchand O. et Skhiri E. (1995), « Prix hédoni-
+ques et estimation d’un modèle structurel d’offre et
+de demande de caractéristiques : une application au
+marché de la location de logements en France »,
+Économie et Prévision, n˚ 121, pp. 127-140.
+Olsen E. (2001), « Housing Programs for Low-
+Income Households », Working Paper, n˚ 8208,
+NBER.
+Sinai T. et Waldfogel J. (2002), « Do Low-
+Income 
+Subsidies 
+Increase 
+Housing
+Consumption? », Working Paper, n˚ 8709, NBER.
+Steck P. (1995), « La logique des aides à la per-
+sonne et ses limites », Revue française des Finan-
+ces publiques, n  49, pp. 119-135.
+Susin S. (2002), « Rent Vouchers and the Price of
+Low-Income Housing », Journal of Public
+Economics, vol. 83, n˚ 1, pp. 109-152.
+Villeneuve-Gokalp C. (2000), « Les jeunes par-
+tent toujours au même âge de chez leurs parents »,
+Économie et Statistique, n˚ 337-338, pp. 61- 80.
+
+===== PAGE 21 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+37
+LES MÉNAGES LOCATAIRES, TOUS SECTEURS, PAR QUARTILE DE REVENU
+Source : calculs de l’auteur d’après les enquêtes Logement, Insee.
+1973
+1978
+1984
+1988
+1992
+1996
+2002
+Loyer annuel au m2
+(euros de 2002)
+1er quartile
+36,3
+36,7
+46,4
+60,1
+68,3
+79,9
+83,0
+2e quartile
+42,9
+40,7
+46,4
+56,1
+62,7
+65,4
+72,9
+3e quartile
+42,5
+38,0
+45,0
+54,4
+61,8
+65,1
+70,6
+4e quartile
+51,3
+45,4
+53,5
+64,5
+74,6
+74,1
+80,7
+Ensemble
+43,3
+40,2
+47,8
+58,8
+66,8
+71,1
+76,8
+Surface du logement
+(m2)
+1er quartile
+46,4
+49,3
+53,2
+52,8
+53,4
+52,0
+52,3
+2e quartile
+57,7
+59,5
+61,7
+62,4
+63,2
+63,0
+63,0
+3e quartile
+64,8
+68,7
+70,5
+71,8
+71,0
+72,0
+70,3
+4e quartile
+75,4
+81,4
+82,3
+82,5
+82,9
+84,5
+82,5
+Ensemble
+61,1
+64,7
+66,9
+67,3
+67,5
+67,9
+67,0
+Aide annuelle au m2
+(euros de 2002)
+1er quartile
+3,1
+7,5
+15,9
+17,4
+25,1
+34,4
+36,3
+2e quartile
+3,7
+4,7
+  9,0
+  9,6
+12,1
+13,6
+16,4
+3e quartile
+3,5
+3,6
+  5,8
+  6,4
+  7,2
+  8,7
+  8,0
+4e quartile
+1,4
+1,4
+  1,7
+  2,2
+  1,9
+  2,7
+  2,7
+Ensemble
+2,94
+4,33
+  8,11
+  8,90
+11,60
+14,86
+15,90
+Proportion de bénéﬁciaires 
+d’aide au logement (%)
+1er quartile
+16
+35
+48
+49
+62
+75
+77
+2e quartile
+22
+28
+38
+37
+41
+48
+48
+3e quartile
+22
+25
+28
+28
+29
+35
+30
+4e quartile
+10
+10
+11
+10
+  8
+12
+11
+Ensemble
+17
+25
+31
+31
+35
+43
+42
+Revenu des ménages 
+(euros de 2002)
+1er quartile
+  7 319
+  8 180
+  8 336
+  8 582
+  8 217
+ 7 323
+  7 378
+2e quartile
+15 352
+15 831
+15 316
+15 408
+15 152
+14 319
+14 226
+3e quartile
+22 667
+23 368
+22 920
+22 813
+22 718
+21 732
+21 902
+4e quartile
+40 418
+41 029
+41 668
+40 927
+44 012
+39 705
+42 781
+Ensemble
+21 436
+22 094
+21 993
+21 920
+22 381
+20 766
+21 553
+Âge moyen de la personne 
+de référence
+1er quartile
+59
+57
+54
+52
+49
+45
+45
+2e quartile
+42
+42
+42
+42
+45
+46
+45
+3e quartile
+39
+39
+39
+40
+41
+42
+43
+4e quartile
+41
+41
+41
+41
+41
+42
+42
+Ensemble
+45
+45
+44
+44
+44
+44
+44
+Nombre de personnes 
+du ménage
+1er quartile
+1,6
+1,6
+1,7
+1,6
+1,5
+1,5
+1,5
+2e quartile
+2,8
+2,5
+2,3
+2,3
+2,2
+2,1
+2,0
+3e quartile
+3,5
+3,2
+3,0
+2,9
+2,7
+2,8
+2,5
+4e quartile
+3,7
+3,4
+3,2
+3,1
+3,0
+3,1
+3,0
+Ensemble
+2,9
+2,7
+2,6
+2,4
+2,4
+2,3
+2,3
+Proportion des ménages 
+habitant en milieu rural (%)
+1er quartile
+17
+14
+12
+12
+11
+10
+  9
+2e quartile
+12
+11
+10
+  9
+10
+11
+10
+3e quartile
+10
+10
+10
+11
+11
+11
+11
+4e quartile
+  6
+  6
+  7
+  7
+  9
+11
+11
+Ensemble
+11
+10
+10
+10
+10
+11
+10
+Proportion des ménages 
+dont la personne de 
+référence est étudiante (%)
+1er quartile
+2,9
+4,2
+3,9
+7,6
+12,2
+17,1
+18,3
+2e quartile
+1,2
+1,2
+0,9
+1,1
+  2,0
+  2,0
+  2,7
+3e quartile
+0,4
+0,4
+0,3
+0,8
+  0,6
+  0,6
+  0,4
+4e quartile
+0,2
+0,1
+0,1
+0,2
+  0,3
+  0,3
+  0,5
+Ensemble
+1,2
+1,5
+1,3
+2,4
+  3,8
+  5,0
+ 5,5
+ANNEXE 1
+
+===== PAGE 22 =====
+38
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+LES MÉNAGES LOCATAIRES DU SECTEUR PRIVÉ
+PAR QUARTILE DE REVENU
+Source : calculs de l’auteur d’après les enquêtes Logement, Insee.
+1973
+1978
+1984
+1988
+1992
+1996
+2002
+Loyer annuel au m2
+(euros de 2002)
+1er quartile
+32,3
+37,1
+46,8
+64,1
+76,0
+90,2
+94,0
+2e quartile
+45,6
+44,8
+52,8
+67,8
+77,7
+79,0
+88,9
+3e quartile
+46,6
+44,5
+55,7
+66,4
+75,2
+83,2
+86,3
+4e quartile
+59,8
+53,9
+67,1
+78,7
+93,9
+90,3
+95,4
+Ensemble
+45,9
+45,1
+55,5
+69,2
+80,7
+85,7
+91,1
+Surface du logement
+(m2)
+1er quartile
+49,7
+51,8
+54,4
+52,0
+53,3
+50,2
+49,2
+2e quartile
+59,0
+61,2
+61,7
+62,8
+61,5
+61,4
+60,1
+3e quartile
+65,5
+68,5
+69,0
+71,1
+71,7
+70,7
+70,4
+4e quartile
+78,9
+87,2
+85,6
+86,3
+87,0
+88,6
+85,8
+Ensemble
+63,2
+67,2
+67,6
+68,0
+68,3
+67,7
+66,4
+Aide annuelle au m2
+(euros de 2002)
+1er quartile
+2,9
+7,3
+13,9
+14,3
+23,2
+34,9
+36,6
+2e quartile
+3,6
+4,9
+  7,9
+  7,5
+11,5
+12,3
+14,7
+3e quartile
+3,4
+3,1
+  4,1
+  4,1
+  5,4
+  6,3
+  5,9
+4e quartile
+1,3
+1,1
+  1,1
+  1,0
+  1,1
+  1,4
+  1,5
+Ensemble
+2,8
+4,1
+  6,8
+  6,8
+10,4
+13,7
+14,7
+Proportion de bénéﬁciaires 
+d’aide au logement (%)
+1er quartile
+14
+31
+43
+39
+54
+71
+74
+2e quartile
+18
+26
+33
+31
+35
+42
+40
+3e quartile
+19
+19
+21
+19
+22
+27
+22
+4e quartile
+  8
+  8
+  7
+  5
+  5
+  7
+  6
+Ensemble
+15
+21
+26
+24
+29
+37
+36
+Revenu des ménages 
+(euros de 2002)
+1er quartile
+  7 237
+  8 158
+  8 510
+  8 837
+  8 714
+  7 223
+  7 333
+2e quartile
+15 533
+16 172
+15 962
+16 375
+16 398
+14 959
+14 845
+3e quartile
+23 180
+24 197
+24 278
+24 705
+24 634
+23 237
+23 597
+4e quartile
+42 760
+44 410
+45 740
+46 302
+49 529
+45 131
+48 157
+Ensemble
+22 020
+23 226
+23 555
+24 047
+24 744
+22 620
+23 480
+Âge moyen de la personne 
+de référence
+1er quartile
+59
+56
+53
+49
+44
+41
+41
+2e quartile
+41
+41
+40
+40
+41
+43
+42
+3e quartile
+38
+38
+37
+38
+38
+39
+41
+4e quartile
+40
+40
+40
+40
+40
+41
+41
+Ensemble
+44
+44
+42
+42
+41
+41
+41
+Nombre de personnes 
+du ménage
+1er quartile
+1,7
+1,7
+1,7
+1,5
+1,5
+1,4
+1,4
+2e quartile
+2,9
+2,5
+2,3
+2,2
+2,1
+2,0
+1,8
+3e quartile
+3,4
+3,0
+2,7
+2,6
+2,5
+2,4
+2,3
+4e quartile
+3,5
+3,3
+3,1
+2,9
+2,9
+2,8
+2,8
+Ensemble
+2,9
+2,6
+2,4
+2,3
+2,3
+2,2
+2,1
+Proportion des ménages 
+habitant en milieu rural (%)
+1er quartile
+31
+24
+19
+17
+16
+15
+12
+2e quartile
+20
+18
+17
+16
+14
+16
+13
+3e quartile
+16
+15
+16
+17
+15
+17
+16
+4e quartile
+10
+  8
+  9
+  9
+10
+13
+12
+Ensemble
+19
+16
+15
+14
+14
+15
+13
+Proportion des ménages 
+dont la personne de 
+référence est étudiante (%)
+1er quartile
+1,7
+3,9
+3,5
+8,6
+14,8
+22,2
+23,3
+2e quartile
+1,4
+1,5
+1,2
+1,4
+  2,0
+  3,2
+  3,6
+3e quartile
+0,6
+0,5
+0,3
+0,5
+  0,8
+  0,7
+  0,4
+4e quartile
+0,1
+0,1
+0,1
+0,1
+  0,3
+  0,4
+  0,7
+Ensemble
+0,9
+1,5
+1,3
+2,7
+  4,6
+  6,6
+  7,0
+ANNEXE 2
+
+===== PAGE 23 =====
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+39
+LES MÉNAGES LOCATAIRES, TOUS SECTEURS, PAR QUARTILE DE REVENU
+Source : calculs de l’auteur d’après les enquêtes Logement, Insee.
+1973
+1978
+1984
+1988
+1992
+1996
+2002
+Loyer annuel au m2
+(euros de 2002)
+1er quartile
+31,5
+36,6
+45,7
+59,8
+69,8
+78,8
+84,2
+2e quartile
+44,5
+42,8
+52,3
+67,7
+77,0
+78,0
+88,0
+3e quartile
+46,1
+44,6
+55,9
+65,4
+74,9
+83,0
+86,4
+4e quartile
+59,7
+54,1
+67,1
+79,1
+94,2
+90,9
+95,5
+Ensemble
+45,4
+44,4
+55,2
+68,0
+79,0
+82,6
+88,5
+Surface du logement
+(m2)
+1er quartile
+49,8
+52,3
+55,0
+54,3
+56,5
+55,3
+54,7
+2e quartile
+59,3
+62,4
+62,0
+63,2
+62,4
+63,3
+61,7
+3e quartile
+65,6
+68,5
+69,1
+71,8
+72,5
+71,8
+71,0
+4e quartile
+78,9
+87,5
+85,9
+86,5
+87,7
+89,6
+87,1
+Ensemble
+63,3
+67,6
+68,0
+68,9
+69,8
+69,9
+68,6
+Aide annuelle au m2
+(euros de 2002)
+1er quartile
+2,9
+7,1
+14,2
+14,7
+20,4
+28,9
+31,5
+2e quartile
+3,7
+5,1
+  7,7
+  7,7
+11,0
+10,5
+11,7
+3e quartile
+3,4
+3,0
+  4,1
+  3,9
+  5,0
+  5,5
+  5,0
+4e quartile
+1,3
+1,1
+  1,1
+  1,0
+  1,0
+ 1,3
+  1,3
+Ensemble
+2,8
+4,1
+  6,8
+  6,8
+  9,4
+11,6
+12,4
+Proportion de bénéﬁciaires 
+d’aide au logement (%)
+1er quartile
+14
+30
+44
+42
+53
+67
+69
+2e quartile
+19
+27
+32
+31
+34
+38
+34
+3e quartile
+19
+18
+21
+18
+21
+24
+20
+4e quartile
+  8
+  7
+  7
+  5
+  5
+  6
+  6
+Ensemble
+15
+21
+26
+24
+28
+34
+32
+Revenu des ménages 
+(euros de 2002)
+1er quartile
+  7 263
+  8 523
+  8 575
+  9 384
+  9 393
+  8 320
+  8 482
+2e quartile
+15 550
+16 504
+16 064
+16 812
+17 007
+16 170
+16 040
+3e quartile
+23 183
+24 383
+24 441
+25 066
+25 285
+24 370
+24 634
+4e quartile
+42 775
+44 628
+45 936
+46 726
+50 423
+46 415
+49 486
+Ensemble
+22 105
+23 418
+23 731
+24 467
+25 510
+23 678
+24 652
+Âge moyen de la personne 
+de référence
+1er quartile
+59,9
+56,5
+53,5
+50,3
+47,9
+46,7
+46,6
+2e quartile
+40,7
+41,5
+39,8
+39,8
+41,4
+42,6
+42,4
+3e quartile
+37,9
+38,2
+37,4
+38,4
+38,3
+39,3
+40,3
+4e quartile
+39,8
+40,4
+39,8
+40,6
+39,7
+41,1
+41,2
+Ensemble
+44,6
+44,3
+42,7
+42,3
+41,8
+42,4
+42,6
+Nombre de personnes 
+du ménage
+1er quartile
+1,7
+1,7
+1,7
+1,6
+1,6
+1,5
+1,5
+2e quartile
+2,9
+2,6
+2,3
+2,2
+2,1
+2,0
+1,9
+3e quartile
+3,4
+3,0
+2,7
+2,6
+2,6
+2,5
+2,3
+4e quartile
+3,5
+3,3
+3,1
+2,9
+2,9
+2,9
+2,8
+Ensemble
+2,9
+2,7
+2,4
+2,3
+2,3
+2,2
+2,1
+Proportion des ménages 
+habitant en milieu rural (%)
+1er quartile
+31
+24
+19
+18
+19
+18
+15
+2e quartile
+20
+19
+17
+16
+14
+16
+14
+3e quartile
+16
+16
+15
+16
+15
+18
+17
+4e quartile
+10
+  8
+  9
+  9
+10
+13
+12
+Ensemble
+19
+17
+15
+15
+14
+16
+14
+ANNEXE 3
+
+===== PAGE 24 =====
+40
+ÉCONOMIE ET STATISTIQUE N° 381-382, 2005
+LES DIFFÉRENTS TYPES D’AIDE À LA PERSONNE
+L’allocation de logement familiale (ALF) 
+C’est la première aide à la personne créée en France, en
+1948 à l’occasion de la réforme des loyers, pour com-
+penser la hausse des loyers neufs libérés. Cette presta-
+tion familiale a été d’abord attribuée, sous conditions de
+ressources, aux familles logeant dans des logements
+relevant de la loi de 1948 et ayant au moins deux enfants
+à charges. Elle a été étendue par la suite à un plus grand
+nombre de bénéficiaire, tout en gardant son caractère
+familial.
+L’allocation de logement à caractère social (ALS)
+Créée en 1971, son but est d’aider les catégories de per-
+sonnes autres que les familles, mais qui sont caractéri-
+sées, comme pour l’ALF, par le niveau souvent modeste
+de leurs ressources. Elle concernait à l’origine les per-
+sonnes âgées de plus de 65 ans, les personnes infirmes
+et les jeunes travailleurs âgés de moins de 25 ans. Elle a
+progressivement été étendue à d’autres catégories de
+personnes (personnes en chômage de longue durée en
+1986, bénéficiaires du RMI en 1988, etc.). À partir de
+1991, avec le bouclage des aides l’ALS a été étendue
+progressivement à toute personne non encore couverte
+par une aide au logement, sous conditions de ressour-
+ces. L’ALS est destinée aussi bien aux locataires qu’aux
+ménages propriétaires remboursant un prêt pour l’acqui-
+sition ou l’amélioration de leur logement.
+L’aide personnalisée au logement (APL)
+L’aide personnalisée au logement (APL) a été créée lors
+de la réforme du logement de 1977. Versée sous condi-
+tions de ressources uniquement aux locataires d’un
+logement ayant fait l’objet d’une convention avec l’État
+assurant sa qualité minimale, en particulier les HLM, elle
+peut aussi être versée aux propriétaires d’un logement
+acheté ou amélioré avec différents types de prêts aidés.
+Elle est versée selon le principe du tiers payant.
+Le calcul du montant de l’aide se fait selon la même for-
+mule que pour les aides au logement, mais les valeurs
+planchers et les coefficients ont un barème différent :
+l’APL est en général plus solvabilisatrice que l’aide au
+logement.  
+L’ALS et l’ALF sont des prestations familiales, alors que
+l’aide personnalisée au logement (APL) est une presta-
+tion de logement  (1), même si son versement est assuré
+par les organismes payeurs des allocations familiales.
+Le barème des aides
+Le montant de l’aide dépend à la fois des caractéristi-
+ques du logement (montant du loyer et zone géographi-
+que) et des caractéristiques du ménage (son revenu et
+sa taille).
+Jusqu’en 1997, la formule de calcul du montant des
+aides au logement était la suivante : 
+A = K (L + C - L0)
+avec A le montant de l’allocation, L la dépense de loge-
+ment – le loyer pour les locataires, la mensualité de rem-
+boursement en cas d’accession à la propriété –, dans la
+limite d’un loyer plafond qui est fonction du revenu, de la
+taille du ménage et de la zone, C une majoration forfai-
+taire pour les charges et L0 la dépense de logement mini-
+male devant rester à la charge du ménage, croissante
+avec le revenu. K était un coefficient de prise en charge,
+compris entre 0 et 0,9 décroissant avec le revenu aug-
+mente et croissant avec la taille N du ménage.
+La formule de calcul était alors la même pour les trois
+types d’aides, mais les coefficients étaient calculés
+selon un barème différent, l’APL étant en général plus
+généreuse que les autres allocations de logement. En
+1997, la formule de calcul de l’APL a été modifiée pour
+faire apparaître plus clairement le taux d’effort du
+ménage et cette formule a été étendue en 2001 aux
+autres aides lors de l’unification des barèmes : 
+APL= L + C - Pp
+Pp est la participation qui reste à la charge du ménage.
+Le montant de l’aide croît avec la dépense de logement
+du ménage et la taille de la famille et décroît avec le
+revenu du ménage.
+ANNEXE 4
+1.  Ainsi, les aides au logement relèvent du Code de la sécurité
+sociale alors que l’aide personnalisée au logement relève du
+Code de la construction et de l’habitation.

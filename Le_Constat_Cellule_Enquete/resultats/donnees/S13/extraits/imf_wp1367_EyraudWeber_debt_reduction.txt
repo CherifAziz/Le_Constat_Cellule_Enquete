@@ -1,0 +1,2387 @@
+
+=== page 1 ===
+ 
+The Challenge of Debt Reduction during Fiscal 
+Consolidation  
+Luc Eyraud and Anke Weber 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WP/13/67
+
+=== page 2 ===
+ 
+ 
+ 
+© 2013 International Monetary Fund 
+WP/13/67  
+IMF Working Paper 
+Fiscal Affairs Department 
+The Challenge of Debt Reduction during Fiscal Consolidation 
+Prepared by Luc Eyraud and Anke Weber1 
+Authorized for distribution by Martine Guerguil   
+March 2013 
+ 
+Abstract 
+Studies suggest that fiscal multipliers are currently high in many advanced economies. One 
+important implication is that fiscal tightening could raise the debt ratio in the short term, as 
+fiscal gains are partly wiped out by the decline in output. Although this effect is not long-
+lasting and debt eventually declines, it could be an issue if financial markets focus on the 
+short-term behavior of the debt ratio, or if country authorities engage in repeated rounds of 
+tightening in an effort to get the debt ratio to converge to the official target. We discuss 
+whether these problems could be addressed by setting and monitoring debt targets in 
+cyclically-adjusted terms.  
+JEL Classification Numbers: C54, E62, H60 
+Keywords: fiscal consolidation, fiscal multipliers, public debt 
+Authors’ E-Mail Addresses: leyraud@imf.org; aweber@imf.org 
+                                                 
+1 This paper received useful comments and suggestions from Swarnali Ahmed, Jochen Andritzky, Nathaniel 
+Arnold, Aqib Aslam, Benjamin Carton, Carlo Cottarelli, Lorenzo Forni, Dmitry Gershenson, Phillip Gerson, 
+Emine Hanedar, Martine Guerguil, Kotaro Ishi, Bernd Lucke, Esther Perez Ruiz, Alasdair Scott, Ikuo Saito, 
+Justin Tyson, and Yingbin Xiao. It also benefited from the discussions during the surveillance meeting seminar 
+held at the IMF on April 10, 2012, and the joint IMF-OECD Workshop on December 12, 2012 (OECD, Paris). 
+Raquel Gomez provided excellent research assistance.  
+This Working Paper should not be reported as representing the views of the IMF. 
+The views expressed in this Working Paper are those of the author(s) and do not necessarily 
+represent those of the IMF or IMF policy. Working Papers describe research in progress by 
+the author(s) and are published to elicit comments and to further debate. 
+
+=== page 3 ===
+ 
+2 
+ 
+ 
+I.   INTRODUCTION 
+With large fiscal adjustments underway in many advanced economies, there is a renewed 
+interest in the effects of fiscal policy on economic activity. Surprisingly, the feedback effect 
+from growth to fiscal aggregates, and in particular to public debt, has received less attention. 
+This issue is becoming more pressing as debt reduction has become a key target of fiscal 
+policy in a number of advanced economies.  
+This paper examines the impact of fiscal consolidation on debt dynamics.2 We first analyze 
+the size of short-term fiscal multipliers, which are key parameters in the nexus between fiscal 
+consolidation, growth, and debt reduction. We show that in the current environment, 
+multipliers for advanced economies could be close to 1, significantly above the average 
+multiplier found in the literature before the recent financial crisis. The negative impact of 
+fiscal tightening on economic activity in the near term is indeed amplified by some features 
+of the current environment, including the proportion of credit-constrained agents, the 
+depressed external demand, and the limited room for monetary policy to be more 
+accommodative. 
+With multipliers close to 1, fiscal consolidation is likely to raise the debt ratio in the short-
+run in many countries. Although the debt ratio eventually declines, its slow response to fiscal 
+adjustment could raise concerns if financial markets react to its short-term behavior. It may 
+also lead country authorities to engage in repeated rounds of tightening in an effort to get the 
+debt ratio to converge to the official target. Not explicitly taking into account multipliers or 
+underestimating their value may lead policymakers to set unachievable debt targets and 
+miscalculate the amount of adjustment necessary to bring the debt ratio down.  
+These findings do not imply that fiscal consolidation is undesirable or that debt is 
+unsustainable. The short-term effects of fiscal policy on economic activity are only one of the 
+many factors that need to be considered in determining the appropriate pace of fiscal 
+adjustment. Our results rather highlight the need for care in projecting the debt path and the 
+benefits of setting and monitoring debt targets in cyclically-adjusted terms.  
+Our paper contributes to the literature in several ways. First, it formalizes the relation 
+between fiscal adjustment and debt dynamics by explicitly taking into account how this 
+relation is influenced by fiscal multipliers. Second, it provides empirical evidence supporting 
+the hypothesis that fiscal consolidation can raise the debt ratio in the short-term. Third, to our 
+knowledge, it provides one of the first extensive analyses of the “cyclically adjusted debt 
+ratio” concept.3  
+The paper is organized as follows: Section II reviews the literature and discusses the 
+                                                 
+2 This analysis builds on and extends Eyraud and Weber (2012). 
+3 The European Commission has analyzed a similar concept in the context of the discussions on the debt 
+reduction benchmark (see EC, 2011).  
+
+=== page 4 ===
+ 
+3 
+analytical framework, including the fiscal multiplier assumptions. Sections III and IV 
+analyze the impact of fiscal consolidation on debt dynamics through simulations and 
+econometric estimations. Section V draws policy implications, and in particular, evaluates 
+the relevance of debt indicators in cyclically-adjusted terms. Section VI concludes. 
+ 
+II.   FISCAL CONSOLIDATION AND DEBT REDUCTION: THE ANALYTICAL FRAMEWORK 
+ 
+A.   Literature Review 
+Although debt dynamics have been the focus of many theoretical and empirical papers (in 
+particular those dealing with fiscal sustainability, like Escolano 2010), few have specifically 
+analyzed the effect of fiscal policy on the debt ratio, probably because the existence of an 
+accounting relationship suggests that the relation between these variables is straightforward. 
+From a conceptual point of view, Gros (2011) and the European Commission (2012) develop 
+a framework akin to ours. Gros (2011) shows that austerity could be self-defeating and 
+increase the debt ratio in the short-term. However, Gros does not examine the impact of 
+repeated episodes of tightening; neither does he explore the implications of multiplier 
+persistence—two key factors affecting the debt response, as we show below.   
+ 
+Model-based simulations are an important instrument to assess the effect of fiscal policy on 
+the debt ratio. Many dynamic stochastic general equilibrium (DSGE) models incorporate the 
+government budget constraint and report fiscal multipliers on this basis, while explicitly 
+tracking the behavior of the public debt-to-GDP ratio. For instance, Forni and others (2009) 
+analyze the response of macro variables to a range of fiscal shocks in the Euro Area using 
+quarterly data. They find that following a 1 percent increase in government purchases of 
+goods and services, the debt ratio initially declines by about 1 percent before increasing from 
+the fourth quarter onwards. The response is symmetric, so that in case of a negative shock to 
+government spending, the model would predict an initial increase in the public debt-to-GDP 
+ratio. 
+ 
+Until recently, empirical papers analyzing the impact of fiscal policy on output have omitted 
+the debt variable. Favero and Giavazzi (2007, 2009) have shown that this omission may 
+result in incorrect estimates of the dynamic effects of fiscal shocks. They argue that by not 
+taking into account the government intertemporal budget constraint, previous studies may 
+have assessed the effects of fiscal policy along unsustainable debt paths. They incorporate 
+debt dynamics into a structural vector autoregression (SVAR) for the United States, allowing 
+for the possibility that taxes, spending and interest rates respond to the debt level. They show 
+that fiscal multipliers differ in models with and without debt feedbacks. Building on the 
+Favero and Giavazzi framework, Cherif and Hasanov (2010) use generalized impulse 
+responses to analyze macro variable dynamics, and find that positive shocks to the primary 
+surplus reduce public debt. Ilzetzki (2011) extends the analysis to a sample of developing 
+countries but concludes that in most countries, including a debt feedback effect does not 
+change the size of fiscal multipliers significantly. 
+  
+
+=== page 5 ===
+ 
+4 
+B.   Some Unpleasant Fiscal Arithmetic 
+The debt ratio does not decrease one-for-one with fiscal tightening.4 The reason is that fiscal 
+tightening reduces GDP in the near-term—an effect referred to as the “fiscal multiplier.”5 
+Lower GDP in turn reduces the denominator of the debt ratio and also partly offsets the 
+consolidation effort, thus affecting the numerator (automatic stabilizers). This may mitigate 
+or even eliminate the direct tightening effect, at least in the short run.   
+ 
+The mitigating effect is stronger if fiscal multipliers, the initial debt ratio, and/or automatic 
+stabilizers are larger (see Appendix 1 for detailed formulas).6 For instance, a 1 percent of 
+GDP consolidation relative to the baseline should reduce the debt ratio in the first year by:  
+ 
+∆ቀdebt GDP
+ൗ
+ቁכ 100 ൎ
+െ1
+ฏୢ
+୧୰ୣୡ୲ ୣ୤୤ୣୡ୲
+൅݉
+ݑ݈ݐ݅݌݈݅݁
+ݎכܾ݀݁
+ݐ ݎܽݐ݅݋
+ᇣᇧᇧᇧᇧᇧᇧᇧᇤᇧᇧᇧᇧᇧᇧᇧᇥ
+ௗ௘௡௢௠௜௡௔௧௢௥ ௘௙௙௘௖௧
+൅݉
+ݑ݈ݐ݅݌݈݅݁
+ݎכ ݎ݁ݒ݁݊
+ݑ݁ ݎܽݐ݅݋
+ᇣᇧᇧᇧᇧᇧᇧᇧᇧᇤᇧᇧᇧᇧᇧᇧᇧᇧᇥ
+௡௨௠௘௥௔௧௢௥ ௘௙௙௘௖௧ ሺ௔௨௧௢௠௔௧௜௖ ௦௧௔௕௜௟௜௭௘௥௦ሻ
+ᇩᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇪᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇫ
+௠௜௧௜௚௔௧௜௡௚ ௘௙௙௘௖௧
+ 
+ 
+In a country with a debt ratio of 80 percent of GDP, a revenue ratio of 40 percent of GDP, 
+and a first-year multiplier of 0.6, a fiscal tightening of 1 percent of GDP lowers the debt ratio 
+by only 0.3 percentage points of GDP in the first year (other factors being equal, including 
+the interest rate). The offsetting effect of the multiplier amounts to 0.7 percent of GDP, of 
+which 0.5 is due to the denominator effect and 0.2 is due to automatic stabilizers in the 
+numerator.   
+ 
+In addition, this mitigating effect is persistent. After some time, multipliers are likely to 
+decline, and GDP eventually reverts to its baseline level,7 but the debt ratio will not fully 
+catch up. The effect on the debt ratio will still be less than the cumulated amount of fiscal 
+tightening, because unlike the denominator, the numerator of the debt ratio, the debt stock, 
+has increased relative to the baseline and does not fully revert. The following formula 
+illustrates this point. A permanent tightening of 1 percent of GDP should reduce the debt 
+                                                 
+4 In this paper, “debt” refers to public debt in gross terms, unless otherwise indicated. 
+5 Fiscal multipliers are defined as the ratio of a change in output to an exogenous change in the fiscal deficit 
+with respect to their respective baselines. In the formulas of Appendix 1 and the simulations of Section III, 
+multipliers are calculated as ratios of nominal variables. These “nominal” multipliers may be larger than 
+standard multipliers calculated in real terms. Indeed, when real GDP declines with fiscal tightening, inflation 
+also decelerates; thus, the decline in nominal GDP is larger than the decline in real GDP. This is one of the 
+reasons why our simulations should be based on higher-than-average multipliers (see Section II.C).    
+6 We use a simplified framework where the size of automatic stabilizers is measured by the revenue ratio.   
+7 Several factors explain why the negative effect of fiscal tightening on output eventually disappears (even when 
+the tightening is permanent). These include: (i) anticipating lower output and inflation in the future, the central 
+bank may lower interest rates; (ii) fiscal tightening may be perceived as credible and reduce the risk premium 
+on interest rates; (iii) the currency may depreciate in response to lower interest rates; and (iv) households may 
+anticipate a decline in their tax burden in the future and increase current consumption.   
+
+=== page 6 ===
+ 
+5 
+ratio by N percent of GDP after N periods if there is no fiscal multiplier.8 But with the fiscal 
+multiplier effect, both the denominator and the numerator of the debt ratio deviate from their 
+expected path (in a cumulative way for the numerator). If multipliers decline over time and 
+the N-year multiplier is zero, the denominator effect disappears but the numerator effect does 
+not, reflecting the impact of automatic stabilizers on past deficits. As a result, the mitigating 
+effect does not fully disappear. 
+ 
+∆ቀdebtN YN
+ൗ
+ቁכ 100 ൎ
+െN
+ฏୢ
+୧୰ୣୡ୲ ୣ୤୤ୣୡ୲
+൅݉
+ݑ݈ݐ݅݌݈݅݁
+ݎேכܾ݀݁
+ݐ ݎܽݐ݅݋ே
+ᇣᇧᇧᇧᇧᇧᇧᇧᇤᇧᇧᇧᇧᇧᇧᇧᇥ
+ௗ௘௡௢௠௜௡௔௧௢௥ ௘௙௙௘௖௧
+൅
+෍݉
+ݑ݈ݐ݅݌݈݅݁
+ݎ௜
+ே
+௜ୀଵ
+כ ݎ݁ݒ݁݊
+ݑ݁ ݎܽݐ݅݋
+ᇣᇧᇧᇧᇧᇧᇧᇧᇧᇧᇤᇧᇧᇧᇧᇧᇧᇧᇧᇧᇥ
+௡௨௠௘௥௔௧௢௥ ௘௙௙௘௖௧ ሺ௔௨௧௢௠௔௧௜௖ ௦௧௔௕௜௟௜௭௘௥௦ሻ
+ᇩᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇪᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇭᇫ
+௠௜௧௜௚௔௧௜௡௚ ௘௙௙௘௖௧
+ 
+ 
+ 
+C.   Fiscal Multipliers in the Current Environment 
+The near-term path of the debt and deficit in response to a discretionary tightening depends 
+on the size of fiscal multipliers. We need to make an assumption on multipliers before 
+conducting simulations in Section III. While the literature suggests an average first year 
+fiscal multiplier of around 0.6 for advanced economies,9 there are reasons to believe that in 
+the current environment, it could be closer to 1.10 
+ 
+Recent empirical research finds that fiscal multipliers are significantly larger in downturns 
+than in expansions (Auerbach and Gorodnichenko, 2012; Batini and others, 2012; Baum and 
+others, 2012). Intuitively, in recessions, the proportion of credit-constrained households and 
+firms, which adjust spending in response to a change in disposable income, is higher. For G7 
+economies, Baum and others (2012) find that first year spending and revenue multipliers in 
+downturns are, on average, estimated at 1.3 and 0.4, respectively.11 Assuming, in line with 
+                                                 
+8 All formulas are calculated relative to baseline. Absent fiscal multipliers, a one-off permanent tightening 
+would improve the fiscal balance by 1 percent of GDP in each period, and lower public debt by N percent of 
+GDP relative to the baseline after N periods.   
+9A recent literature review extends and updates earlier IMF work by Spilimbergo and others (2009) and finds 
+that average first-year multipliers amount to 0.8 for spending and 0.3 for revenue measures (Mineshima and 
+others, 2013). Since about two-thirds of recent fiscal adjustments in advanced economies rely on spending 
+measures, this gives an average overall multiplier of 0.6 for the first year.  
+10 Obviously not all countries may currently experience multipliers close to 1. Multipliers depend on country 
+characteristics, as reflected in the wide range of spending multipliers across OECD economies. In line with the 
+theory, simple correlations suggest, in particular, that fiscal multipliers tend to be smaller in more open 
+economies, in countries with larger automatic stabilizers and higher interest rates (IMF, 2012).  
+11The finding that first year spending multipliers are higher than revenue multipliers is in line with a number of 
+recent studies (Mineshima and others, 2013), although this result is debated. For instance, IMF (2010) finds that 
+spending-based adjustments are less contractionary and notes that this is partly due to the fact that central banks 
+lower interest rates more in case of expenditure-based consolidations (perhaps because they regard them as 
+more long-lasting). However, when policy rates are already low, the interest rate response becomes less likely, 
+which may imply that, in the current environment, the Keynesian theory prediction prevails. 
+
+=== page 7 ===
+ 
+6 
+recent fiscal adjustment packages in advanced economies, that two thirds of the adjustment 
+come from spending measures, a weighted average of spending and revenue multipliers in 
+downturns yields an overall fiscal multiplier of about 1, which we will use in the next section 
+for simulating the impact of fiscal consolidations.  
+ 
+Several other factors also explain why multipliers are currently likely to be above average in 
+advanced economies. In many countries there is limited room for monetary policy to become 
+more accommodative. Policy rates have been near the zero lower bound since the onset of the 
+Great Recession and, as shown by simulations in IMF (2010), under such conditions the 
+multiplier would be close to 1. Also, a number of advanced economies experienced a major 
+credit boom and financial crisis in the past decade. Post-crisis deleveraging by the financial 
+sector and households, both of whom are seeking to rebuild their balance sheets, can further 
+impair the transmission of easier monetary policy as both the supply (banks tighten lending 
+standards) and demand (more credit constrained households trying to cut their debts) for 
+credit fall.12  
+ 
+In addition, at present, a country cannot rely as much as before on external demand to help 
+cushion the impact of fiscal consolidation on growth because many of the advanced 
+economies are growing slowly or not at all. Results from simulations support these 
+conclusions. IMF (2010) finds that when the rest of the world is tightening at the same time, 
+the output cost of a 1 percent of GDP fiscal consolidation can double to 2 percent for a small 
+open economy where the interest rate is at the zero lower bound.  
+ 
+High multipliers do not necessarily imply that fiscal consolidation should be avoided or 
+postponed. As mentioned above, many other factors have an impact on the choice or the 
+desired pace and size of fiscal adjustment. Nonetheless, the level and persistence of 
+multipliers shape the near term paths of deficits and debt. The simulations in the next section 
+illustrate specifically how. 
+ 
+III.   SIMULATION RESULTS 
+This section assesses the impact of discretionary fiscal tightening on the debt ratio, based on 
+the debt dynamics formulas of Appendix 1. It shows that fiscal consolidation can increase the 
+debt ratio in the short-term, and estimates how long it would take for the debt ratio to decline 
+substantially. Section A presents the results for a one-off consolidation, while section B 
+extends the analysis to repeated episodes of tightening with persistent multipliers.  
+ 
+ 
+                                                 
+12 For certain countries the argument that the constraint imposed by the zero lower bound restricts the ability of 
+monetary policy to become more accommodative needs to be qualified somewhat. In those countries where 
+sovereign debt spreads and private sector borrowing rates are high, despite the fact that the policy rate is near 
+the zero lower bound, monetary policy would effectively become more accommodative if further actions caused 
+spreads to fall in those countries. 
+ 
+ 
+
+=== page 8 ===
+ 
+7 
+A.   Short-Term and Medium-Term Impacts of Fiscal Consolidation on Debt 
+When multipliers are close to 1, fiscal consolidation is likely to raise the debt ratio in the first 
+year in most advanced economies.13 Figure 1 shows the first-year impact of a 1 percent of 
+GDP discretionary tightening on the debt ratio. The impact is simulated for a range of fiscal 
+multipliers and initial debt ratios (assuming other factors, such as interest rates, remain 
+constant).  
+ 
+We find that, with a multiplier of 1—a reasonable level in downturns (as discussed in Section 
+II)—fiscal consolidation leads to a debt ratio increase in the first year in countries where the 
+debt ratio initially lies above 60 percent. The debt threshold varies with the multiplier, which 
+itself depends on the composition of the adjustment (spending vs. revenue) and other 
+country-specific factors.   
+ 
+Figure 1. Impact on the Debt Ratio of a 1 Percent of GDP  
+Discretionary Tightening In the First Year 
+(Relative to Baseline) 
+ 
+Source: IMF Staff calculations. Note: Multipliers are weighted 
+averages of spending and revenue multipliers. High and low 
+multipliers are based on the empirical literature (excluding outliers). 
+ 
+To assess the impact of fiscal tightening after the first year, we simulate the debt response 
+over a 5-year period. The impact on the debt ratio is calculated for three groups of countries 
+with different initial debt ratios, using a range of fiscal multipliers. For the simulations 
+presented in the following charts, we use the 2011 debt and revenue ratios of the euro area 
+countries, but the conclusions hold beyond this sample of countries.14 The calculations 
+assume that other factors remain constant, in particular interest rates. 
+                                                 
+13The first year is the year when fiscal policy is tightened; in the following charts, this is year t+1. All the 
+simulations are relative to the baseline (or counterfactual scenario) with zero GDP growth, a balanced budget, 
+and a constant debt ratio.   
+14The three groups are defined on the basis of the debt ratios observed in 2011 for the 17 euro area countries. 
+The average debt and revenue ratios for each group are then used in the simulations (the average debt ratios are, 
+respectively, 38, 73, and 113 percent of GDP). Simulations use different multipliers (high, low, and downturn), 
+derived from the literature survey by Mineshima and others (2013). 
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+10
+60
+110
+160
+Change in the debt ratio
+(percent of GDP)
+Initial public debt ratio
+(percent of GDP)
+High multiplier = 1.3
+Downturn multiplier = 1
+Low multiplier = 0.1 
+
+=== page 9 ===
+ 
+8 
+If fiscal policy is tightened in the first year only, the debt ratio would generally decline from 
+the second year. Figure 2 shows the change in the public debt ratio with respect to the 
+baseline when the government tightens fiscal policy by 1 percent of GDP in the first year t+1. 
+The tightening is permanent (not reversed in the following years), but it is assumed that its 
+effect on output is temporary and fades away within 5 years—a standard assumption in the 
+literature. In medium- and high-debt countries, the debt ratio would decrease from the second 
+year while, consistent with the previous results, in low-debt countries the debt ratio already 
+declines in the first year.  
+ 
+Figure 2. Impact on the Debt Ratio of a Discretionary Fiscal Tightening 
+of 1 Percent of GDP in the First Year  
+(Relative to Baseline) 
+ 
+Source: IMF Staff calculations. 
+Note: These simulations measure the change in the debt ratio relative to a baseline determined by 2011 WEO 
+data and constant thereafter. Cumulative multipliers: High is 1.3 in the first year, 1.6 in the second year; 
+Downturn is 1 in the first year, 0.8 in the second year; Low is 0.1 in the first year, 0.1 in the second year. 
+Multipliers steadily decline to zero between the second and the fifth year. 
+ 
+ 
+B.   Implications of Repeated Tightening and Persistent Multipliers  
+The previous results rely on two key assumptions; that fiscal tightening only takes place in 
+the first year, and that the negative effect of fiscal tightening on GDP fades away within 
+5 years. These two assumptions are questionable, particularly in the current environment. 
+Most countries are engaged in repeated rounds of fiscal tightening. Moreover, the negative 
+effect of fiscal consolidation on output may in fact be more persistent or even permanent 
+(i.e., GDP may stay durably below the baseline).15 We relax these two assumptions in the 
+following simulations. The formulas used in the simulations are provided in Appendix 1.  
+ 
+In high-debt countries that undertake repeated episodes of fiscal tightening, the decline in the 
+debt ratio may not occur before the third year. Figure 3 shows the change in the debt ratio 
+with respect to the baseline when the government introduces a cumulative 5-year package of 
+                                                 
+15For example, the IMF (2011) shows that fiscal consolidation has negative effects on output which persist into 
+the medium term. DeLong and Summers (2012) also argue that fiscal tightening may have hysteresis effects on 
+potential output. 
+ 
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+t
+t+1
+t+2
+t+3
+t+4
+t+5
+Medium Debt Countries
+High multipliers
+Downturn multipliers
+Low multipliers
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+t
+t+1
+t+2
+t+3
+t+4
+t+5
+Low Debt Countries
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+t
+t+1
+t+2
+t+3
+t+4
+t+5
+High Debt Countries
+Change in debt ratio
+(percent of GDP)
+
+=== page 10 ===
+ 
+9 
+permanent measures equivalent to 1 percent of GDP per year, starting in year t+1.16 As 
+shown above, the debt ratio is projected to decline from the first year in low-debt countries 
+and from the second year in medium-debt countries. However, in contrast to the previous 
+simulation, a notable decline may only occur in the third year in high-debt countries, 
+especially if the economy is experiencing a downturn. Incorporating an interest rate response 
+to take into account possible credibility effects does not significantly alter these results.17  
+ 
+The debt ratio eventually declines as the effect of past fiscal shocks on growth fades away 
+and their debt-reducing impact grows accordingly. This means that debt sustainability is not 
+affected by the multiplier effect. However, the slow response of the debt ratio could lead to 
+an increase in spreads if financial markets focus on its short-term behavior. 
+ 
+Figure 3. Impact on the Debt Ratio of a Discretionary Fiscal Tightening 
+of 1 Percent of GDP per Year over 5 Years  
+(Relative to Baseline) 
+ 
+Source: IMF Staff calculations. 
+Note: These simulations measure the change in the debt ratio relative to a baseline determined by 2011 WEO data and 
+constant thereafter. Cumulative multipliers: High is 1.3 in the first year, 1.6 in the second year; Downturn is 1 in the first 
+year, 0.8 in the second year; Low is 0.1 in the first year, 0.1 in the second year. Multipliers steadily decline to zero between 
+the second and the fifth year. 
+ 
+A combination of high and persistent multipliers, repeated tightening, and high debt would 
+make debt reduction more challenging. Previous simulations assume that the negative effect 
+of fiscal tightening on GDP fades away within 5 years. However, this assumption is debated 
+and fiscal consolidation could have a more persistent or even permanent effect on output 
+(i.e., GDP may stay durably below the baseline). Figure 4 shows the change in the debt ratio 
+under the assumption that multipliers remain constant instead of declining after the second 
+year. Persistence significantly raises the debt ratio response. For instance, if we use the 
+downturn multipliers, the fiscal adjustment necessary to bring the debt ratio down to a 
+                                                 
+16This could for instance consist in cutting expenditure by 1 percent of GDP in the first year, another percent in 
+the second year etc. 
+17We found broadly similar results under an alternative scenario with long-term interest rates decreasing by 
+50bp for each percentage point of GDP of fiscal consolidation (elasticities are derived from Haugh and others, 
+2009). 
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+t
+t+1
+t+2
+t+3
+t+4
+t+5
+Medium Debt Countries
+High multipliers
+Downturn multipliers
+Low multipliers
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+t
+t+1
+t+2
+t+3
+t+4
+t+5
+Low Debt Countries
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+t
+t+1
+t+2
+t+3
+t+4
+t+5
+High Debt Countries
+Change in debt ratio
+(percent of GDP)
+
+=== page 11 ===
+ 
+10 
+specific level after 5 years would be 70 percent larger in medium-indebted euro area 
+countries if shocks had permanent effects. These results point to a potentially important 
+effect that should be taken into account in the design of fiscal consolidation. However, these 
+are simplified calculations with an illustrative purpose. They ignore other key mechanisms, 
+such as the monetary policy response, the impact on growth of interest rate movements, and 
+credibility effects. To obtain a more complete assessment, a persistent shock scenario should 
+be simulated within a macroeconomic model. 
+ 
+ 
+Figure 4. Impact on the Debt Ratio of a Discretionary Fiscal Tightening 
+of 1 Percent of GDP per Year over 5 Years (With Persistent Effects on Output) 
+(Relative to Baseline) 
+ 
+Source: IMF Staff calculations.  
+Note: These simulations measure the change in the debt ratio relative to a baseline determined by 2011 WEO data and 
+constant thereafter. First-year multipliers: High multiplier is 1.3; Downturn multiplier is 1; Low multiplier is 0.1. Multipliers are 
+constant thereafter.  
+ 
+ 
+IV.   EMPIRICAL EVIDENCE  
+This section presents empirical evidence supporting the conclusions drawn from the 
+simulations, namely, that fiscal consolidation can raise the public debt ratio in the short-term. 
+Our empirical analysis is based on comparing actual debt ratios with those that our 
+simulations would predict and on some simple correlations (section A); as well as on a 
+structural vector autoregression incorporating a debt feedback rule (section B).  
+ 
+A.   Descriptive Analysis 
+A first rough test of the validity of the previous simulations is to see how they compare to 
+actual debt dynamics in advanced economies. Table 1 compares actual gross public debt 
+ratios in 2011 with simulation results in a sample of advanced economies that have carried 
+out large fiscal adjustments in 2010-11. Simulations assume that the effect of fiscal shocks 
+on GDP fades away within 5 years. Therefore, in order to calculate the debt ratio that our 
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+t
+t+1
+t+2
+t+3
+t+4
+t+5
+High Debt Countries
+Change in debt ratio
+(percent of GDP)
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+t
+t+1
+t+2
+t+3
+t+4
+t+5
+Medium Debt Countries
+High multipliers
+Downturn multipliers
+Low multipliers
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+t
+t+1
+t+2
+t+3
+t+4
+t+5
+Low Debt Countries
+
+=== page 12 ===
+ 
+11 
+model would predict in 2011, we have to start the simulation with actual 2007 data18. We set 
+the first year multiplier to 1 in all countries. While we recognize that multipliers are country 
+specific, this ensures that results are transparent and comparable across countries. 
+Simulations also assume that the underlying trend growth rate over 2008-11 is equal to the 
+2008 potential growth taken from the WEO database. We then add to this baseline the 
+cumulative effects of fiscal policy measures, which are proxied by the annual changes in the 
+structural primary balance (in percent of potential output) over the period. 
+ 
+Table 1. Actual versus Simulated Gross Public Debt Ratios in Selected 
+Advanced Economies in 2011 
+ 
+ 
+2007 Actual 
+2011 Actual 
+2011 Simulated 
+Greece 
+107.4 
+165.4 
+167.3 
+Iceland 
+29.1 
+99.2 
+93.2 
+Ireland 
+25.0 
+106.5 
+68.1 
+Portugal 
+68.3 
+107.8 
+92.0 
+Spain 
+36.3 
+69.1 
+61.6 
+ 
+Source: IMF Staff calculations and WEO database.  
+Note: The simulation uses actual data for 2007 as the starting point.  We use a first year multiplier of 1, which slowly declines to 
+zero after five years. We assume that the underlying trend growth rate is 2008 potential growth. We then add to the baseline 
+the cumulative effects of discretionary fiscal policy, which we proxy by the annual changes in the structural primary balance 
+ratio. The structural balance is extracted from the WEO database.  
+ 
+Table 1 shows that 2011 actual and simulated gross public debt ratios are very close in those 
+countries where output fluctuations have been mainly driven by fiscal measures. Of course, 
+non-fiscal factors also explain debt dynamics, such as banking sector recapitalization 
+measures for example. These are particularly important in countries like Ireland, where 
+simulations fail to explain the large debt increases observed since 2007.19 
+ 
+As a second step to test the validity of the Section III findings, we investigate whether 
+episodes of discretionary tightening are associated with debt increases in a broader sample of 
+countries. We identify annual episodes of discretionary fiscal tightening in European (EU27) 
+and other G20 economies since 1980, using, as a criterion, a positive increase in the 
+structural primary balance. In general, the debt ratio does not decline when the structural 
+primary balance ratio improves from one year to the next. Instead, we find a (small) positive 
+correlation between fiscal consolidation and annual change in the debt ratio, as indicated by 
+the positive slope of 0.3 in Figure 5. This result is of course only illustrative, as correlation 
+does not entail causality and the data dispersion is quite large. Therefore, a more advanced 
+econometric analysis is warranted to determine whether a robust empirical relationship exists 
+between fiscal consolidation and the initial increase in the debt ratio. 
+                                                 
+18While most of the countries listed in Table 1 did not start consolidating before 2010, some introduced fiscal 
+stimulus measures in 2008 and 2009.   
+19In Portugal, a statistical reclassification required by Eurostat raised the debt stock by including some public 
+sector enterprises in the consolidated accounts of the public sector. 
+
+=== page 13 ===
+ 
+12 
+Figure 5. Correlation between Discretionary Fiscal Policy and Change in the 
+Debt Ratio in European and G20 economies (1980-2011) 1/ 
+ 
+ 
+ 
+Source: IMF Staff calculations. 
+1/ The figure plots the annual changes in both variables for all years between 1980 and 2011.  
+ 
+ 
+B.   Econometric Estimation 
+We investigate whether a structural VAR estimation provides further support to the 
+simulation results of Section III, taking into account that the government has to meet its 
+intertemporal budget constraint. This approach allows us to investigate the effect of fiscal 
+shocks on various macroeconomic variables, while keeping track of the debt dynamics. The 
+empirical analysis, which is based on Japanese data, only has an illustrative purpose. It shows 
+that, if multipliers and the debt-to-GDP ratio are high, it is possible to observe an initial 
+increase in the debt ratio in the aftermath of a fiscal consolidation.  
+ 
+General Approach 
+ 
+The VAR specification follows the setup of Favero and Giavazzi (2007, 2009). The main 
+difference between their approach and a more standard VAR analysis of fiscal policy lies in 
+the treatment of the debt-to-GDP ratio. Most studies do not include the public debt ratio in 
+the VAR specification, even though it is an important factor since taxes and spending are 
+likely to respond to the debt level (Bohn, 1998).20 Favero and Giavazzi show that the VAR 
+estimates are likely to be biased when this feedback effect is omitted. The estimated residuals 
+of the regression would include the response of other macroeconomic variables to the level of 
+debt. The regressors would be correlated with the error terms and therefore would not be 
+exogenous.  
+                                                 
+20 Chung and Leeper (2007) also estimate a structural VAR, explicitly incorporating an inter-temporal budget 
+constraint. 
+y = 0.3x - 0.3
+-6
+-4
+-2
+0
+2
+4
+6
+0
+1
+2
+3
+∆ Debt-to-GDP Ratio 
+∆ Structural primary balance as a share of potential GDP
+
+=== page 14 ===
+ 
+13 
+ 
+Simple solutions that consist of either (i) omitting the debt variable but including in the VAR 
+all the variables that are part of the standard debt accumulation equation, or (ii) directly 
+including in the VAR the debt ratio as an endogenous variable, are not fully satisfactory. This 
+is because the VAR has a linear structure, while the debt dynamics equation is non-linear: 
+taxes, government spending, output, inflation and the interest rate are known to be related to 
+the debt ratio through an accounting identity (see equation (2) below). Favero and Giavazzi 
+(2007, 2009) therefore propose to introduce the debt ratio as an exogenous variable in the 
+VAR, and add a separate equation describing the debt accumulation. Box 1 provides details 
+on the estimation technique. 
+ 
+We apply this method to Japan and estimate the impact of fiscal policy on the gross debt-to-
+GDP ratio. The choice of Japan is motivated by two considerations. First, Japan has 
+experienced high public debt ratios of at least 60 percent of GDP for several decades. 
+Second, as shown by the OECD (2009) and Baum, Weber and Poplawski-Ribeiro (2012), 
+Japan has comparatively high multipliers, exceeding 1, especially for spending, since it is a 
+relatively closed economy and interest rates have been at the zero lower bound since the late 
+1990s. In light of our simulation results, this combination suggests that the debt ratio should 
+initially increase following a discretionary fiscal consolidation. This is the hypothesis that we 
+test empirically.   
+ 
+Specification and Data 
+ 
+We estimate the following VAR including the ratio of gross public debt to GDP, ݀
+௧, as an 
+exogenous variable and explicitly modeling its dynamic with a separate equation: 
+ 
+ࢅ௧ൌ∑
+࡯௜ࢅ௧ି௜൅∑
+ࢽ௜݀
+௧ି௜൅࢛
+௧
+௞
+௜ୀଵ
+௞
+௜ୀଵ
+                                                                                    (1) 
+ ݀
+௧ൌ
+ଵା௜೟
+ሺଵା∆௣೟ሻሺଵା∆௬೟ሻ݀
+௧ିଵ൅݌݀
+௧                                                                                                (2) 
+ 
+where ࢅ௧ denotes a vector of endogenous variables, including real GDP (ݕ௧, in logarithms), 
+the average cost of servicing debt (݅௧, in percent), inflation21 (∆݌௧, in percent), and the 
+primary deficit in percent of GDP (݌݀
+௧).  
+ 
+Our analysis uses quarterly data for Japan between 1970Q1 and 2012Q1. Inflation is defined 
+as the change in the logarithm of the GDP deflator and the average cost of servicing debt is 
+obtained by dividing net interest payments by the total gross public debt stock at time t-1. 
+The primary balance is computed as total revenue minus total expenditure plus net interest 
+payments. We focus on the primary balance-to-GDP ratio instead of including expenditure 
+and revenue separately. This is because we want to model the effects of fiscal consolidation 
+on the debt ratio. If we included expenditures and revenues separately, revenues would 
+                                                 
+21 The VAR estimation takes into account the possible deceleration of inflation caused by the real GDP decline 
+(which is itself due to fiscal tightening).   
+
+=== page 15 ===
+ 
+14 
+evolve endogenously following a shock to expenditures (and vice versa) and, therefore, an 
+improvement in the overall balance could not be guaranteed in the short-term.22 All data are 
+obtained from the OECD Economic Outlook (No. 91 – June 2012). 
+                                                 
+22 In this case, the estimated relationship between revenue and spending would partly reflect historical patterns. 
+It could be that in the past, changes have offset each other, leaving the fiscal balance broadly unchanged.  
+Box 1: Calculation of Impulse Response Functions 
+ 
+Our objective is to estimate the impact of structural fiscal shocks on the variables entering the VAR and to 
+investigate how the debt ratio evolves along the path induced by these shocks. In practice, the structural fiscal 
+shocks are not directly observed since the matrix of reduced form residuals (࢛
+௧) in (1) contains: (i) the 
+automatic response of the fiscal balance to macroeconomic variables; and (ii) truly exogenous shifts in fiscal 
+policy ࢋ࢚, which are the shocks we need to identify.1  
+ 
+We compute the impulse response functions following a shock to the primary deficit in four steps: 
+ 
+1. We estimate the VAR specified in equations (1), with ࢅ௧ൌሺ݌݀
+௧, ݕ௧, ∆݌௧,݅௧ሻ as the vector of 
+endogenous variables and including ݀
+௧ as an exogenous variable. Based on the Schwartz Information 
+criterion, two lags are included in this estimation.  
+ 
+2. The structural fiscal shocks ࢋ࢚ are retrieved from the estimated VAR residuals ࢛
+௧ by employing the 
+structural identification methodology proposed by Blanchard and Perotti (2002). This method consists 
+in identifying the elements of the transformation matrices A and B relating structural shocks and 
+reduced-form VAR residuals:2  
+A࢛࢚
+, =Bࢋ࢚: 
+ 
+11
+1
+21
+22
+2
+31
+32
+33
+3
+41
+42
+43
+44
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+t
+pd
+pd
+pdy
+pd p
+t
+t
+y
+t
+t
+p
+t
+t
+i
+t
+t
+a
+a
+b
+u
+e
+a
+b
+u
+e
+a
+a
+b
+u
+e
+a
+a
+a
+b
+u
+e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (3) 
+                                            
+where
+i
+te (i=1,2,3) are the non fiscal shocks.  
+ 
+Some of the unknown elements of (3) can be determined without resorting to econometric estimation: 
+ 
+ 
+Economic theory allows us to impose some exclusion restrictions (translating into zero 
+coefficients in the matrix). For example, we assume that the impact of an unexpected change in 
+interest rate on the primary deficit is zero.  
+ 
+ 
+We also use some external information about the value of the elasticities of fiscal variables to 
+fluctuations in output and inflation. (i) The semi-elasticity of the budget deficit with respect to 
+output, (ߙ௣ௗ௬ሻ, is provided by the OECD (André and Girouard, 2005), and is estimated at -0.33 for 
+Japan. (ii) To our knowledge, the elasticity of the budget deficit with respect to inflation (ߙ௣ௗ∆௣ሻ 
+is not publically available. Therefore we had to estimate it, by regressing the change in the 
+revenue-to-GDP ratio or the change in the primary expenditure-to-GDP ratio on a constant, the 
+lagged debt-to-GDP ratio, the lagged primary balance-to-GDP ratio, real GDP growth and 
+inflation, as suggested by Marin (1998). The results show a negative significant impact of inflation 
+
+=== page 16 ===
+ 
+15 
+ 
+Results 
+ 
+The empirical results support the insights from our simulations.23 In Japan, the combination 
+of high debt and relatively large fiscal multipliers leads to an initial increase in the debt-to-
+GDP ratio for about one and a half year following an exogenous fiscal consolidation.  
+ 
+Following a fiscal tightening of 1 percent of GDP, the debt-to-GDP ratio initially rises by 
+about 1 percentage point (Figure 6).24 It takes about 6 quarters until the debt-to-GDP ratio 
+                                                 
+23 Our empirical results are subject to caveats, including issues related to the predictability of structural shocks, 
+since economic agents may receive news about future fiscal measures. Leeper and others (2012) show that such 
+“news shocks” are particularly relevant for tax measures, because the process of changing taxes is subject to 
+long lags. This may result in incorrect identification of structural shocks. Since this section merely serves as an 
+illustration of our simulation results, we abstract from these considerations. 
+ 
+Box 1: Calculation of Impulse Response Functions (concluded) 
+ 
+on the primary expenditure-to-GDP ratio of 0.2 but no significant influence on the revenue-to-
+GDP ratio. We therefore set the elasticity of the primary deficit-to-GDP to inflation at -0.2. Given 
+the uncertainty surrounding this estimate, we conduct a sensitivity analysis with elasticities 
+ranging from 0 to -0.4.  
+ 
+The remaining coefficients of the matrixes are estimated using a Cholesky decomposition (but without 
+the debt ratio since this does not enter the identification problem). The estimated variance-covariance 
+matrix of the four equation VAR innovations contains 10 different elements and with 10 parameters to 
+be estimated, the model is just-identified. 
+  
+3. We use the results from both the identification problem in (3) and the coefficient estimates from the 
+estimation of (1), (࡯௜, ࢽ௜), to compute predictions of the variables, based on a no shock scenario and a 
+scenario in which an exogenous fiscal tightening of 1 percent is implemented in period 1. The third 
+step involves solving dynamically forward the identified system under the two scenarios (
+1
+1
+pd
+e
+ 
+and 
+1
+0) :
+pd
+e
+
+ 
+ 
+ࢅ௧ൌ∑
+࡯௜ࢅ௧ି௜൅∑
+ࢽ࢏݀
+௧ି௜൅࡭ିଵ࡮ࢋ࢚
+௞
+௜ୀଵ
+௞
+௜ୀଵ
+                                                      (4)                         
+ ݀
+௧ൌ
+ଵା௜೟
+ሺଵା∆௣೟ሻሺଵା∆௬೟ሻ݀
+௧ିଵ൅݌݀
+௧                                                                           (5) 
+                                                                            
+ 
+A and B are the solution of the structural identification problem in (3) and (࡯௜, ࢽ௜) are the coefficient 
+estimates of (1) with two lags. 
+ 
+4. We compute the difference between the two scenarios, which corresponds to the impulse response 
+functions.  
+ 
+1As in Blanchard and Perotti (2002) and given the quarterly frequency of our data, we assume that there is no discretionary response 
+of fiscal policy to news in macroeconomic variables, since this response typically takes longer than a quarter. 
+2The assumptions regarding the interaction of ݑ௧
+௜with other variables in Matrix A follow Perotti (2008) and Favero and Giavazzi 
+(2007). 
+
+=== page 17 ===
+ 
+16 
+begins to decline. The response in the debt ratio can be explained by the evolution of the 
+endogenous variables following the fiscal shock. Inflation and real output immediately fall, 
+offsetting about half of the decrease in the primary deficit-to-GDP ratio (flow effect). In 
+addition, the decline in output also raises the debt ratio because of the denominator decrease 
+(stock effect).   
+ 
+Figure 6. Response of Macro Variables to 1 percent of GDP  
+Discretionary Fiscal Tightening 
+ 
+ 
+Source: IMF Staff calculations. 
+ 
+ 
+Given the uncertainty surrounding the inflation elasticity estimate, we perform a robustness 
+analysis as indicated above. Figure 7 compares the evolution of the debt-to-GDP ratio 
+following a 1 percent fiscal tightening under different assumptions about the elasticity of the 
+primary fiscal deficit to inflation (0, -0.2, and -0.4). The higher the elasticity of the primary 
+deficit, the longer it takes until the debt ratio eventually declines. This is intuitive since the 
+initial tightening leads to a fall in inflation, which increases the fiscal deficit, with this 
+response being stronger if the elasticity is larger. When the elasticity is -0.4, it takes 2.5 years 
+until the debt ratio eventually declines following the discretionary fiscal tightening. When the 
+elasticity is zero, the debt ratio starts declining after the third quarter. 
+ 
+ 
+                                                                                                                                                       
+24 This empirical estimate is consistent with previous simulation results. With a revenue ratio of 30 percent of 
+GDP, a public debt ratio of 100 percent of GDP (corresponding to the 1970-2011 averages), and a spending 
+multiplier of 1.5, the formula of Section II.B. predicts that a fiscal shock of 1 percent of GDP would initially 
+increase the debt ratio by about 1 percentage point in the first year.   
+‐0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0
+0.1
+0
+2
+4
+6
+8 10 12 14 16 18 20
+percentage points
+Quarters
+Primary Fiscal Deficit (in percent of GDP)
+Real GDP
+Inflation
+Average Cost of Servicing Debt
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+0
+2
+4
+6
+8
+10 12 14 16 18 20
+Quarters
+Public Debt-to-GDP Ratio
+
+=== page 18 ===
+ 
+17 
+ 
+ 
+Figure 7. Sensitivity Analysis: Response of the Debt Ratio with Alternative 
+Parameters 
+ 
+ 
+Source: IMF Staff calculations. 
+ 
+ 
+V.   IMPLICATIONS FOR THE DEBT RATIO INDICATOR 
+This section examines whether there is scope for using cyclically-adjusted debt ratios for 
+monitoring purposes and/or as fiscal targets, particularly for high-debt countries.  
+ 
+A.   Cyclicality of Nominal Debt Ratios 
+The nominal debt ratio is a highly cyclical fiscal indicator. Figure 8 illustrates the evolution 
+of the debt and fiscal balance ratios over the cycle (under the assumptions described below 
+the chart). Interestingly the cyclicality of the debt ratio is far more pronounced than that of 
+the overall balance. In our example, the debt ratio oscillations are about twice as large as 
+those of the overall balance ratio (7 compared to 3 percent of GDP). The reason is that a 
+decline in output raises the debt ratio not only because it deteriorates the fiscal balance, but 
+also because it increases the initial debt-to-GDP ratio (“scaling factor”).  
+A simple equation illustrates this point. The changes in the debt ratio overtime are amplified 
+by a factor proportional to the size of the initial debt ratio. One implication is that the cyclical 
+fluctuations of the debt ratio are likely to be wider in high debt countries. 
+∆ሺdebt ratio୲ሻൌdeficit ratio୲െ
+g୲
+1 ൅g୲
+כ debt ratio୲ିଵ25 
+                                                 
+25 g୲ denotes nominal GDP growth . ∆ denotes a change over time; ∆ܺ
+ൌܺ
+௧െܺ
+௧ିଵ. 
+-16
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20
+percentage points
+Quarters
+Inflation elasticity of 0.2
+Inflation elasticity of 0.4
+Inflation elasticity of 0
+
+=== page 19 ===
+ 
+18 ֞
+∆ሺdebt ratio୲ሻെ∆ሺdeficit ratio୲ሻൎdeficit ratio୲ିଵെg୲כ debt ratio୲ିଵ
+ᇣᇧᇧᇧᇧᇧᇧᇧᇧᇧᇧᇤᇧᇧᇧᇧᇧᇧᇧᇧᇧᇧᇥ
+ୟ୫୮୪୧f୧ୡୟ୲୧୭୬ ୤ୟୡ୲୭୰
+ 
+When public finances deteriorate, it is likely that deficit ratio୲ିଵ൐g୲כ debt ratio୲ିଵ, at least 
+at the lowest point of the economic cycle. Thus, ∆ቀdebt GDP
+ൗ
+ቁ൐∆ቀdeficit GDP
+ൗ
+ቁ and the debt 
+ratio increase exceeds that of the deficit ratio. Conversely, when fiscal performance 
+improves, it is likely that deficit ratio୲ିଵ൏g୲כ debt ratio୲ିଵ, at least at the peak of the 
+economic cycle. Thus, ∆ቀdebt GDP
+ൗ
+ቁ൏∆ቀdeficit GDP
+ൗ
+ቁ and the debt ratio decline is larger than 
+that of the deficit ratio.    
+Figure 8. Debt and Deficit Ratios over the Cycle 
+ 
+ 
+Source: IMF Staff Estimates. 
+Hypotheses: (i) Potential growth is 3 percent per year (in nominal terms); (ii) the fiscal position is 
+initially balanced in period 0; (iii) the output gap oscillates in the -5 /+5 percent range; (iv) no change 
+in the structural stance; the revenue-to-GDP ratio is constant; spending grows with potential output; 
+there is a no cyclical component in spending; and (v) the initial debt ratio is 60 percent of GDP.   
+In general, debt ratios are used as medium-term fiscal anchors; they are not meant to inform 
+short-term fiscal policy. Indeed, debt rules do not provide sufficient guidance for fiscal 
+policy when debt is well below its ceiling. In addition, the link between the fiscal stance and 
+public debt is not stable since debt dynamics are affected by exogenous and/or volatile 
+factors, such as the exchange rate, the global component of the sovereign risk premium, and 
+off-budget operations.  
+Despite the problems with using the nominal debt ratio as a short-term fiscal target, in the 
+post-crisis period, a number of advanced economies have begun to so. Indeed, debt reduction 
+is increasingly perceived as a pressing objective in order to restore market confidence and 
+fiscal sustainability. European countries are probably the most striking examples of this new 
+approach, with the 1/20th rule setting annual debt reduction objectives for countries in breach 
+of the 60 percent ceiling (European Commission, 2011 and 2012). 
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Fiscal Balance (in percent of GDP)
+Public Debt (in percent of GDP)
+Output gap (in percent)
+
+=== page 20 ===
+ 
+19 
+B.   Towards Cyclically-Adjusted Debt Indicators? 
+In light of recent trends towards using the debt ratio as a short-term fiscal target, the previous 
+results have two important implications for fiscal policy: 
+Looking backward, the use of the nominal debt ratio for monitoring purposes may be 
+problematic, as this ratio is blurred by considerable cyclical “noise.” In the same way as the 
+structural fiscal balance strips away the part of the deficit related to the economic cycle to 
+isolate the fiscal stance, a cyclically-adjusted debt ratio (CADR) could be calculated to filter 
+out debt ratio fluctuations, and isolate underlying trends. In addition, exploring the 
+discrepancies between the past evolutions of the nominal debt ratio and the CADR could be 
+informative. 
+Looking forward, using the nominal debt ratio as an operational fiscal target poses three 
+practical difficulties:  
+ 
+First, targeting a nominal debt ratio would result in a highly procyclical fiscal 
+stance.26 In fact, procyclicality is likely to be stronger with a nominal debt rule than 
+with a nominal budget balance rule. In downturns, a nominal debt rule requires 
+additional fiscal effort to offset the cyclical deterioration in the budget, but also to 
+compensate for the “scaling effect” of the initial debt.  
+ 
+ 
+Second, even if the government was willing to pursue a procyclical fiscal stance to 
+bring the debt ratio to its target, it may not be able to do so in the short-term because 
+of the fiscal multiplier effect. Previous sections have shown that there is not a one-
+for-one relation between discretionary fiscal measures and changes in the nominal 
+debt-to-GDP ratio. Fiscal tightening, for instance, has generally a small or even an 
+adverse immediate impact on debt. Therefore targeting the nominal debt ratio would 
+be either very costly in terms of discretionary measures, or even impossible in the 
+short-term.27  
+ 
+ 
+Third, debt targeting could be self-defeating: if authorities focus on the short-term 
+behavior of the nominal debt ratio, they may engage in repeated rounds of tightening 
+in an effort to get the debt ratio to converge to the official target, undermining 
+confidence, and setting off a vicious circle of slow growth, deflation, and further 
+tightening.  
+                                                 
+26Targeting the nominal debt ratio is only one of the many reasons for which fiscal policy can be procyclical. 
+For instance, some governments are forced to follow such course of action, because they have lost market 
+access.   
+27 The size of the required discretionary tightening needed to bring down the debt ratio increases when fiscal 
+multipliers and/or the initial debt ratio are larger. 
+
+=== page 21 ===
+ 
+20 
+In light of these three issues, policymakers could consider setting debt targets in cyclically-
+adjusted terms. This would mitigate the procyclical bias of nominal debt ratios by letting 
+automatic stabilizers operate, while still constraining the discretion of fiscal policy. 
+However, measuring the CADR raises several practical and conceptual difficulties (see 
+Appendix 2 for more details). The CADR level is sensitive to the start date, as the calculation 
+starts from an initial debt in nominal terms and adds the subsequent cyclically-adjusted 
+deficits. It can be demonstrated that direction and rate of change (i.e., the slope) of the CADR 
+is more informative than its level. In addition, several variants of the indicator can be 
+contemplated, depending on whether the numerator and/or the denominator of the ratio are 
+corrected for the cycle. Appendix 2 shows that the simplest ratio consisting in dividing 
+nominal debt by potential GDP is not the most useful indicator. Also, like a structural 
+balance, calculating a CADR requires measuring the output gap, which is a tricky task. 
+Measurement errors are likely to be larger than with a structural balance rule, because errors 
+cumulate in the CADR numerator (if they all go in the same direction, which may be the case 
+if potential output is misestimated).  
+Another question is whether the CADR improves upon the existing cyclically-adjusted 
+balance both in terms of monitoring and objective setting. If a country follows a fiscal rule 
+based on the latter, shouldn’t a rule based on the former also be met? There is no simple 
+answer to this question, although two elements warrant the use of the CADR. First, changes 
+in the CADR are not only due to the cyclically-adjusted fiscal stance. As explained above, 
+the CADR also depends on potential growth, and on a scaling factor related to the size of the 
+initial debt ratio. Therefore, the cyclically-adjusted balance alone does not contain enough 
+information to infer the path of the CADR.  Second, the debt ratio has become an operational 
+target of fiscal policy in many advanced economies. Correcting the debt ratio may be 
+necessary to make the fiscal balance and debt targets consistent.28 Otherwise, the procyclical 
+fiscal stance induced by the nominal debt target would conflict with the automatic 
+stabilization pursued by many countries with cyclically-adjusted balance rules (or 
+expenditure rules).   
+VI.   CONCLUSIONS 
+This paper examines the effect of fiscal consolidation on the debt ratio. It first assesses the 
+importance of the fiscal multiplier assumption in the nexus between fiscal consolidation, 
+growth, and debt reduction. With multipliers close to 1 in the current environment, fiscal 
+consolidation is likely to raise the debt ratio in the short-run in most advanced countries. We 
+provide empirical evidence supporting this hypothesis. The slow response of the debt ratio to 
+fiscal adjustment could be an issue if financial markets focus on its short-term behavior.  
+                                                 
+28 Most countries pursue both debt and fiscal balance targets (see the EU fiscal governance framework, for 
+instance).  
+
+=== page 22 ===
+ 
+21 
+ 
+Our analysis suggests three main operational conclusions, which are particularly relevant for 
+Europe today. First, underestimating fiscal multipliers may cause unpleasant surprises. As 
+fiscal consolidations generally take place in a depressed economic environment with 
+relatively high multipliers, fiscal tightening may initially raise the debt ratio. Not explicitly 
+taking into account multipliers or underestimating their value could lead authorities to set 
+unachievable debt (and deficit) targets and miscalculate the amount of adjustment necessary 
+to curb the debt ratio. Missing announced targets could impact the credibility of adjustment 
+programs and increase uncertainty about the future path of fiscal policy. 
+ 
+Second, using the debt ratio as an operational fiscal target presents risks. If country 
+authorities focus on the short-term behavior of the debt ratio, they may engage in repeated 
+rounds of tightening in an effort to get the debt ratio to converge to the official target, 
+undermining confidence, and setting off a vicious circle of slow growth, deflation, and 
+further tightening. A possible solution could be to monitor debt ratios and set debt targets in 
+cyclically-adjusted terms, though, as explained in Section V, using the CADR for this 
+purpose can entail certain difficulties as well.   
+ 
+Third, an appropriate design of consolidation packages can minimize adverse loops involving 
+fiscal tightening and short-term debt dynamics. As Cottarelli and Jaramillo (2012) highlight, 
+in many countries, the composition of fiscal adjustment can be rebalanced to make it more 
+“growth friendly.” Setting the right pace of consolidation is also important: if financing 
+allows, a more gradual approach is preferable, since adjustment measures can be taken when 
+the economy recovers and multipliers are lower. For example, Bagaria and others (2012) 
+simulate scenarios with alternative timings for the UK government’s fiscal consolidation 
+plans. The results indicate that delaying the consolidation effort until more normal economic 
+conditions prevail would substantially lessen the size and duration of the fiscal adjustment’s 
+impact on growth. Finally, structural reforms can also contribute to breaking adverse loops. 
+While their benefits usually take time to materialize, there is evidence that some structural 
+reforms deliver gains already in the short run, and can boost growth relatively quickly 
+(OECD, 2012). 
+ 
+Our results should be interpreted with caution. In particular, they do not imply that fiscal 
+consolidation is undesirable or could place public debt on an unsustainable path. Almost all 
+advanced economies face the challenge of fiscal adjustment in response to elevated 
+government debt levels and future pressures on public finances from demographic change. 
+The short-term effects of fiscal policy on economic activity are only one of the many factors 
+that need to be considered in determining the appropriate pace of fiscal consolidation. In 
+addition, multipliers differ across countries and time. In some cases, confidence effects may 
+partly offset the negative impact of fiscal tightening on growth.  
+ 
+
+=== page 23 ===
+ 
+22 
+APPENDIX 1: IMPACT OF FISCAL CONSOLIDATION ON THE DEBT RATIO 
+ 
+1.      Impact of a one-off Permanent Fiscal Tightening on the Debt Ratio 
+If fiscal policy is tightened by 1 percent of GDP in the first year and the tightening is 
+permanent, the debt ratio increases relative to the baseline29 by: 
+ 
+∆൭debtN YN
+ൗ
+൱כ 100 ൎെN ൅ܾ݀݁
+ݐݎܽݐ݅݋ேכ݉
+ݑ݈ݐே൅ݎ݁ݒݎܽݐ݅݋כ ෍݉
+ݑ݈ݐ௜
+ே
+௜ୀଵ
+ 
+with ݉
+ݑ݈ݐ௜ denoting the N-year multiplier, and debtN the debt stock at the end of period N. 
+In the case of a tightening larger than 1 percent of GDP, the formula should be multiplied by 
+the size of the adjustment.  
+ 
+The following sections demonstrate this result.  
+ 
+a. Impact of GDP Revisions on the Deficit and Debt Ratios 
+Assumptions 
+-  ∆ܻܻൗ
+ൌെ1% 
+ - ∆൫ܴ݁
+ݒܻൗ൯ൌ0; the elasticity of revenue with respect to GDP is 1. 
+- ∆ܧݔ݌ൌ0 
+ 
+Effect on the deficit ratio 
+ ∆൭݂݀݁݅ܿ݅
+ݐܻൗ൱ൌ∆൭ܧݔ݌ܻൗ൱െ∆൫ܴ݁
+ݒܻൗ൯ൌ∆൭ܧݔ݌ܻൗ൱ 
+ൌ൭ܧݔ݌ܻൗ൱. ൭∆ܧݔ݌
+ܧݔ݌
+ൗ
+െ∆ܻܻൗ
+൱     ֜
+∆൭݂݀݁݅ܿ݅
+ݐܻൗ൱ൌെ൭ܧݔ݌ܻൗ൱. ൫∆ܻܻൗ൯                                                              (1)                                      
+ 
+                                                 
+29 In this appendix, ∆ refers to a change relative to baseline (not relative to the previous period). 
+
+=== page 24 ===
+ 
+23 
+Effect on the debt ratio 
+∆ቀdebt Y
+ൗቁൌ∆ቀୢୣ
+ୠ୲షభାୢୣ
+f୧ୡ୧୲
+Y
+ቁൌdebtିଵ. ∆൫1 Y
+ൗ൯൅∆ቀdeficit Y
+ൗቁ  
+= െቌ൭ܾ݀݁
+ݐିଵܻൗ൱൅൭ܧݔ݌ܻൗ൱ቍ൫∆ܻܻൗ൯   given (1) and ∆൫1 Y
+ൗ൯ൌെ∆ܻܻ
+ଶ
+ൗ
+   ֜
+∆ቀdebt Y
+ൗቁ = െ൬ቀܾ݀݁
+ݐܻൗቁ൅൫ܴ݁
+ݒܻൗ൯൰൫∆ܻܻൗ൯             (2)                                           
+ 
+b. Impact of a One-Off Fiscal Tightening on the Debt Ratio 
+Assumptions 
+- 
+A 1 percent of GDP fiscal tightening takes place in year 1, in the form of a permanent 
+spending cut; there is no further adjustment in subsequent periods: 
+o ∆ܧݔ݌ଵൌ∆ܧݔ݌ଶൌڮ ൌ∆ܧݔ݌ேൌെܻ
+ଵ100
+ൗ
+  
+- 
+The elasticity of revenue with respect to GDP is 1: 
+o ܴ݁
+ݒଵܻ
+ଵ
+ൗ
+ൌܴ݁
+ݒଶܻ
+ଶ
+ൗ
+ൌڮ ൌܴ݁
+ݒேܻ
+ே
+ൗ
+ 
+o ∆൭ܴ݁
+ݒଵܻ
+ଵ
+ൗ൱ൌ∆൭ܴ݁
+ݒଶܻ
+ଶ
+ൗ
+൱ൌڮ ൌ∆൭ܴ݁
+ݒேܻ
+ே
+ൗ
+൱ൌ0 
+- 
+Multipliers:30 
+o ݉
+ݑ݈ݐଵൌ∆ܻଵ∆ܧݔ݌ଵ
+ൗ֜
+∆ܻଵܻ
+ଵ
+ൗ
+ൌെ
+ଵ
+ଵ଴଴.݉
+ݑ݈ݐଵ  
+and ∆ܴ݁
+ݒଵൌ∆ܻଵܻ
+ଵ
+ൗ
+.ܴ݁
+ݒଵ= - ݉
+ݑ݈ݐଵ.ܴ݁
+ݒଵ100
+ൗ
+ 
+o ݉
+ݑ݈ݐேൌ∆ܻே∆ܧݔ݌ଵ
+ൗ֜
+∆ܻேܻ
+ே
+ൗ
+ൌെ
+ଵ
+ଵ଴଴.݉
+ݑ݈ݐே.ܻ
+ଵܻ
+ே
+ൗ
+  
+                                                 
+30 Fiscal multipliers are defined as the ratio of a change in output to an exogenous change in the fiscal deficit 
+with respect to their respective baselines. In our definition, multipliers are cumulative.  
+
+=== page 25 ===
+ 
+24 
+and ∆ܴ݁
+ݒேൌ∆ܻேܻ
+ே
+ൗ
+.ܴ݁
+ݒே= - ݉
+ݑ݈ݐே.ܻ
+ଵܻ
+ே
+ൗ
+.ܴ݁
+ݒே100
+ൗ
+31 
+ 
+First year 
+∆൭debtଵYଵ
+ൗ
+൱ൌ∆ቀୢୣ
+ୠ୲బାୢୣ
+f୧ୡ୧୲భ
+Yభ
+ቁൌdebt଴. ∆ቀ1 Yଵ
+ൗ
+ቁ൅∆൭deficitଵYଵ
+ൗ
+൱  
+ ൌ െ൭debt଴Yଵ
+ൗ
+൱. ൭∆YଵYଵ
+ൗ
+൱
+൅∆൭ܧݔ݌ଵYଵ
+ൗ
+൱    
+= െ൭ܾ݀݁
+ݐଵYଵ
+ൗ
+െܧݔ݌ଵYଵ
+ൗ
+൅ܴ݁
+ݒଵYଵ
+ൗ
+൱. ൭∆YଵYଵ
+ൗ
+൱+ ൭ܧݔ݌ଵYଵ
+ൗ
+൱. ൭∆ܧݔ݌ଵܧݔ݌ଵ
+ൗ
+െ∆YଵYଵ
+ൗ
+൱     
+= െ൭ܾ݀݁
+ݐଵYଵ
+ൗ
+െܧݔ݌ଵYଵ
+ൗ
+൅ܴ݁
+ݒଵYଵ
+ൗ
+൱. ൭∆YଵYଵ
+ൗ
+൱
+െ 1 100
+ൗ
+െ൭ܧݔ݌ଵYଵ
+ൗ
+൱. ൭∆YଵYଵ
+ൗ
+൱  ֜
+∆൭debtଵYଵ
+ൗ
+൱כ 100 ൌ െ1 ൅ ݉
+ݑ݈ݐଵ. ൭debtଵYଵ
+ൗ
+൅ܴ݁
+ݒଵYଵ
+ൗ
+൱  
+ 
+Intuitively, the impact of a fiscal consolidation on the debt ratio combines two effects: 
+- 
+Direct effect: absent the multiplier effect, a fiscal consolidation of one percent of 
+GDP should decrease the debt ratio by 1 percentage point.  
+- 
+Multiplier effect: the direct effect is (partly) offset by the lower GDP which increases 
+the debt ratio according to equation (2). The multiplier effect is channeled through 
+two terms: the effect of a lower GDP on the debt ratio (captured by the debt ratio) and 
+that of automatic stabilizers (captured by the revenue ratio). 
+Year N 
+∆൭debtN YN
+ൗ
+൱ൌ∆൬debt଴൅deficitଵ൅deficitଶ൅ڮ ൅deficitN
+YN
+൰ 
+ൌdebt଴. ∆ቀ1 YN
+ൗ
+ቁ൅∆൭deficitଵYN
+ൗ
+൱൅ڮ ൅∆൭deficitN YN
+ൗ
+൱ 
+                                                 
+31 ܻே is only affected by the initial shock (with a N-year multiplier), as there are no further shocks in subsequent 
+years.  
+
+=== page 26 ===
+ 
+25 
+= െ൭debtN YN
+ൗ
+െdeficitଵYN
+ൗ
+െdeficitଶYN
+ൗ
+… െdeficitN YN
+ൗ
+൱.൭∆YN YN
+ൗ
+൱ 
++ deficitଵYN
+ൗ
+. ൭∆deficitଵdeficitଵ
+ൗ
+െ∆YN YN
+ൗ
+൱ +… ൅deficitN YN
+ൗ
+. ൭∆deficitN deficitN
+ൗ
+െ∆YN YN
+ൗ
+൱ 
+= െ൭debtN YN
+ൗ
+൱.൭∆YN YN
+ൗ
+൱ +ቆሺ∆ܧݔ݌ଵ൅ڮ ൅∆ܧݔ݌ேሻ
+YN
+ൗ
+ቇെቆሺ∆Revଵ൅ڮ ൅∆RevNሻ
+YN
+ൗ
+ቇ 
+= debtN YN
+ൗ
+כܻ
+ଵܻ
+ே
+ൗ
+.݉
+ݑ݈ݐே100
+ൗ
+െܻ
+ଵܻ
+ே
+ൗ
+.ܰ
+100
+ൗ
++ ݉
+ݑ݈ݐଵ100
+ൗ
+.ܴ݁
+ݒଵYଵ
+ൗ
+. YଵYN
+ൗ
+ 
++ ݉
+ݑ݈ݐଶ100
+ൗ
+.ܴ݁
+ݒଶYଶ
+ൗ
+. YଵYN
+ൗ
++…+݉
+ݑ݈ݐே100
+ൗ
+.ܴ݁
+ݒேYN
+ൗ
+. YଵYN
+ൗ
+ ֜
+∆൭debtN YN
+ൗ
+൱כ 100 ൌܻ
+ଵܻ
+ே
+ൗ
+. ൭െN ൅ܾ݀݁
+ݐ ݎܽݐ݅݋ேכ݉
+ݑ݈ݐே൅ݎ݁ݒ ݎܽݐ݅݋כ ෍݉
+ݑ݈ݐ௜
+ே
+௜ୀଵ
+൱ 
+ൎെN ൅ܾ݀݁
+ݐ ݎܽݐ݅݋ேכ݉
+ݑ݈ݐே൅ݎ݁ݒ ݎܽݐ݅݋כ ∑݉
+ݑ݈ݐ௜
+ே
+௜ୀଵ
+ if  ܻଵܻ
+ே
+ൗ
+ൎ1               (3) 
+ 
+Comment 1 
+By dividing both sides of equation (3) by N and as N tends to infinity, 
+limN՜ஶ∆൭debtN YN
+ൗ
+൱/N ൌ1 ሺunder plausible assumptionsሻ.  This means that, after 
+some time, the multiplier effect should eventually vanish, and the debt ratio response solely 
+reflects the direct consolidation effect. 
+ 
+Comment 2  
+If fiscal consolidation permanently lowers GDP, the multiplier does not decrease over time.32 
+For instance, if the multipliers are constant after the first year, ݉
+ݑ݈ݐ௜ൌ݉
+ݑ݈ݐଵ, ׊݅൒2 . 
+Then: 
+∆൭debtN YN
+ൗ
+൱כ 100 ൎെN ൅ܾ݀݁
+ݐ ݎܽݐ݅݋ேכ݉
+ݑ݈ݐଵ൅ܰ
+כ ݎ݁ݒ ݎܽݐ݅݋כ݉
+ݑ݈ݐଵ      (4) 
+                                                 
+32 The impact of a permanent tightening on GDP could well be temporary.  Equation (4) assumes that a 
+permanent consolidation has a permanent output effect.  
+
+=== page 27 ===
+ 
+26 
+  
+2.      Impact of Repeated Tightening on the Debt Ratio 
+ 
+In case of repeated tightening, the formula becomes: 
+∆൭debtN YN
+ൗ
+൱כ 100 ൎെNሺN ൅1ሻ/2 ൅ܾ݀݁
+ݐ ݎܽݐ݅݋ேכ ෍݉
+ݑ݈ݐ௜
+ே
+௜ୀଵ
+൅ݎ݁ݒ ݎܽݐ݅݋כ ෍ሺܰ
+െ݅൅1ሻכ݉
+ݑ݈ݐ௜
+ே
+௜ୀଵ
+ 
+ 
+Assumptions 
+- 
+Spending is permanently cut by 1 percent of GDP in year 1 relative to baseline, then 
+reduced by another percent of GDP in year 2 etc.   
+o ∆ܧݔ݌ଵൌെܻ
+ଵ100
+ൗ
+ ; ∆ܧݔ݌ଶൌെܻ
+ଵ100
+ൗ
+െܻ
+ଶ100
+ൗ
+ ; etc. 
+- 
+The elasticity of revenue with respect to GDP is 1. 
+- 
+Multipliers: 
+o ݉
+ݑ݈ݐଵൌ∆ܻଵ∆ܧݔ݌ଵ
+ൗ֜
+∆ܻଵܻ
+ଵ
+ൗ
+ൌെ
+ଵ
+ଵ଴଴.݉
+ݑ݈ݐଵ  
+and ∆ܴ݁
+ݒଵൌ∆ܻଵܻ
+ଵ
+ൗ
+.ܴ݁
+ݒଵ= െ ݉
+ݑ݈ݐଵ.ܴ݁
+ݒଵ100
+ൗ
+ 
+o ݉
+ݑ݈ݐଶൌ∆ܻଶ
+ᇱ
+∆ܧݔ݌ଵ
+൘
+(reflecting the impact on ܻଶ of the first-period shock, but 
+excluding the effect of the second-period shock). 
+o ∆ܻଶൌ݉
+ݑ݈ݐଵ. ሺ∆ܧݔ݌ଶെ∆ܧݔ݌ଵሻ൅݉
+ݑ݈ݐଶ. ∆ܧݔ݌ଵ. Indeed, ܻଶ is affected by 
+both the first- and the second-period shocks.  
+∆ܻଶܻ
+ଶ
+ൗ
+ൌെ
+ଵ
+ଵ଴଴.݉
+ݑ݈ݐଵെ
+ଵ
+ଵ଴଴.݉
+ݑ݈ݐଶ.ܻ
+ଵܻ
+ଶ
+ൗ
+, and ∆ܴ݁
+ݒଶൌ∆ܻଶܻ
+ଶ
+ൗ
+.ܴ݁
+ݒଶൌ
+െ൭ ݉
+ݑ݈ݐଵ൅ ݉
+ݑ݈ݐଶ.ܻ
+ଵܻ
+ଶ
+ൗ
+൱.ܴ݁
+ݒଶ100
+ൗ
+ 
+ 
+ 
+
+=== page 28 ===
+ 
+27 
+Year 2 
+∆൭debtଶYଶ
+ൗ
+൱ൌ∆൬debt଴൅deficitଵ൅deficitଶ
+Yଶ
+൰ 
+ൌdebt଴. ∆ቀ1 Yଶ
+ൗ
+ቁ൅∆൭deficitଵYଶ
+ൗ
+൱൅∆൭deficitଶYଶ
+ൗ
+൱ 
+= െ൭debtଶYଶ
+ൗ
+െdeficitଵYଶ
+ൗ
+െdeficitଶYଶ
+ൗ
+൱. ൭∆YଶYଶ
+ൗ
+൱ + deficitଵYଶ
+ൗ
+. ൭∆݂݀݁݅ܿ݅
+ݐଵ݂݀݁݅ܿ݅
+ݐଵ
+ൗ
+െ
+∆YଶYଶ
+ൗ
+൱ + deficitଶYଶ
+ൗ
+. ൭∆݂݀݁݅ܿ݅
+ݐଶ݂݀݁݅ܿ݅
+ݐଶ
+ൗ
+െ∆YଶYଶ
+ൗ
+൱ 
+= െ൭debtଶYଶ
+ൗ
+൱. ൭∆YଶYଶ
+ൗ
+൱ +ቆሺ∆ܧݔ݌ଵ൅∆ܧݔ݌ଶሻ
+Yଶ
+ൗ
+ቇെቆሺ∆ܴ݁
+ݒଵ൅∆ܴ݁
+ݒଶሻ
+Yଶ
+ൗ
+ቇ ֜
+∆൭debtଶYଶ
+ൗ
+൱כ 100 ൎെ3 ൅ܾ݀݁
+ݐ ݎܽݐ݅݋ଶכ ሺ݉
+ݑ݈ݐଵ൅݉
+ݑ݈ݐଶሻ൅ݎ݁ݒ ݎܽݐ݅݋כ ሺ2.݉
+ݑ݈ݐଵ൅݉
+ݑ݈ݐଶሻ  
+if  ܻଵܻ
+ଶ
+ൗ
+ൎ1 
+This calculation can easily be extended to subsequent years. 
+ 
+
+=== page 29 ===
+ 
+28 
+APPENDIX 2: THE CYCLICALLY-ADJUSTED DEBT RATIO: DEFINITION AND MEASUREMENT  
+This appendix analyzes some practical issues raised by the concept of cyclically-adjusted 
+debt ratio (CADR).  
+What is a CADR?  
+If it was possible to go sufficiently far back in time, it would be possible to compute a CADR 
+as the sum of all past cyclically-adjusted deficits divided by potential GDP. Given that it is 
+not feasible to do so, the concept is more modest. It starts from an initial debt level (in 
+nominal terms), and adds the cyclically-adjusted deficits since the start date.33 As such, the 
+CADR is a counterfactual series, describing the path the debt ratio would have taken, had 
+GDP been growing at potential between ݐെܰ
+ and ݐ.  
+CADR୲ൌ൫Nominal debt୲ିN ൅∑
+CA deficit୧
+୧ୀ୲
+୧ୀ୲ିNାଵ
+൯Potential GDP୲
+⁄
+ ,       (1) 
+with ݐെܰ
+ being the starting year for the calculation.  
+Does the choice of the start date matter? What is most informative: the level or the slope of 
+the CADR? 
+The CADR should not be understood as a measure of “structural debt” in the sense given to 
+the “structural balance.”34  Indeed there is not a structural debt ratio around which debt would 
+oscillate. There are alternative CADRs depending on the initial debt ratio chosen to compute 
+the series. Appendix Figure 1 plots CADRs using alternative start dates, calculated with 
+formula (1). The chart shows that the level of the CADR depends on initial conditions, and is 
+not, in itself, very informative.  
+What is informative is the trend of the CADR. As is the case with a price index, we could say 
+that the CADR is most usefully interpreted in terms of changes, not in levels. As illustrated 
+by Appendix Figure 1, the choice of the start date has only a marginal effect on the CADR 
+slope. The reason is that the CADR dynamics are mainly driven by the structural fiscal stance 
+and potential growth—two factors that are unrelated to the starting point of the series.35 A 
+sensitivity analysis confirms that the CADR is not too sensitive to the start date.36 Thus, there 
+                                                 
+33 For instance, the CADR proposed by the European Commission only corrects the numerator and the 
+denominator for the cyclical developments over the period t-3 to t (EC, 2011). 
+34 This point is also noted by European Commission (2011). 
+35 CADR୲ is affected by the start date but the effect is unlikely to be large. Indeed, the only difference between 
+two alternative CADRs in period t is the sum of the cyclical deficits between their respective start dates, and 
+this sum is bounded, as cyclical deficits eventually zero out over a full cycle.     
+36 We used different assumptions on potential growth, discretionary fiscal policy, and initial fiscal conditions. 
+
+=== page 30 ===
+ 
+29 
+seems to be little room for manipulating the CADR by choosing the date associated with the 
+most favorable debt path.37   
+Appendix Figure 1. Alternative Cyclically-Adjusted Debt Ratios 
+ 
+ 
+Source: IMF Staff Estimates. 
+Note: The nominal debt ratio is the ratio of nominal debt to nominal 
+GDP. The CADR measures are in percent of potential GDP. 
+Hypotheses are similar to Figure 8. 
+ 
+ 
+Is it enough to calculate the nominal debt-to-potential GDP ratio? 
+Several variants of the indicator could be contemplated. Instead of correcting both the 
+numerator and the denominator for the cycle, as done in (1), a short-cut could be taken by 
+correcting only one of them. For instance, a simple measure of the CADR could be the ratio 
+of nominal debt to potential GDP.  
+Box 2 simulates alternative CADRs over the cycle. We find that the cyclicality of the debt 
+ratio mostly comes from the numerator, where the cyclical components of past fiscal 
+balances build up. Correcting the denominator seems to be less critical. Consequently, 
+calculating the ratio of nominal debt stock to potential GDP is not sufficient to strip away the 
+                                                 
+37 Nonetheless, selecting a start date when the output gap is zero would result in the CADR presenting an 
+interesting feature. In this case, the nominal debt ratio and the CADR would coincide at the beginning of each 
+cycle—a property that would bring the CADR closer to the cyclically-adjusted balance concept. Appendix 
+Figure 1 provides a visual illustration of this point. 
+40
+50
+60
+70
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Nominal Debt Ratio
+CADR starting in period 0
+CARD Starting in Period 1
+CADR Starting in Period 2
+CADR Starting in Period 3
+CADR Starting in Period 4
+
+=== page 31 ===
+ 
+30 
+part of the debt related to the economic cycle.   
+Is there a rule of thumb for the CADR? 
+There is no simple formula equivalent to the one existing for the cyclically-adjusted 
+balance.38 To quickly assess the CADR, Box 2 proposes a formula (ܥܣܦܴ
+௧
+ସ) that performs 
+well under the restrictive assumption that changes to the structural stance are not too large. In 
+this case, the path of the CADR is mostly driven by long-term growth and the initial 
+structural fiscal position. This simple indicator should not be used during large fiscal 
+consolidation episodes (in which case, the hypothesis of stable structural balance is not 
+valid). 
+                                                 
+38 Under simple assumptions, the cyclically-adjusted balance ratio is approximately equal to the difference 
+between the nominal balance ratio and the product of the expenditure ratio and the output gap. 
+
+=== page 32 ===
+ 
+31 
+Box 2: Alternative Measures of the CADR 
+We simulate the behavior of four CADRs over the economic cycle. Appendix Figure 2 illustrates the evolution 
+of these indicators over the cycle.  
+ 
+The first indicator is based on our initial definition, and is used as a benchmark. It applies the cyclical 
+correction to both the numerator and the denominator:                      
+ܥܣܦܴ
+௧
+ଵൌ൫Nominal Debt୲ିN ൅∑
+CA Deficit୧
+୧ୀ୲
+୧ୀ୲ିNାଵ
+൯Potential GDP୲
+⁄
+ 
+ 
+For the second indicator, the numerator of the debt ratio is corrected for the cycle (but the denominator is 
+not):  ܥܣܦܴ
+௧
+ଶൌ൫Nominal Debt୲ିN ൅∑
+CA Deficit୧
+୧ୀ୲
+୧ୀ୲ିNାଵ
+൯Nominal GDP୲
+⁄
+ 
+ 
+The third one does the opposite, and uses as a target the nominal debt stock divided by potential GDP: 
+ܥܣܦܴ
+௧
+ଷൌሺNominal Debt୲ሻPotential GDP୲
+⁄
+ 
+ 
+Finally the fourth indicator is a simple “growth-based” debt indicator (the formula is calculated in 
+Appendix 3):  
+ ܥܣܦܴ
+௧
+ସൌ൫Deficit Ratio୲ିNାଵ
+CA
+൯כ 1 െሺ1 െGሻN
+G
+൅Nominal Debt Ratio୲ିN כ ሺ1 െGሻN 
+ 
+where G is potential growth (in nominal terms). ܥܣܦܴ
+௧
+ସ is close to ܥܣܦܴ
+௧
+ଷ in the absence of major structural 
+changes in fiscal policy. For G, long-term growth could be used, while the average deficit ratio over a full cycle 
+could proxy Deficit Ratio୲ାଵିN
+CA
+.   
+ 
+Appendix Figure 2. Alternative CADR Indicators Over The Cycle 
+ 
+ 
+Source: IMF Staff Estimates. 
+Note: CADR1 is the benchmark.  
+Hypotheses: (i) Potential growth is 2 percent per year (in nominal terms); (ii) the initial deficit is 2 
+percent of GDP in period 0; (iii) the output gap oscillates in the [-5;+5] range; (iv) the revenue-to-
+GDP ratio is constant; (v) there is a no cyclical component in spending; (v) spending is affected 
+by ad hoc variation, so that the structural balance oscillates around 2 percent within the -3.5/ -
+0.5 range, and (vii) the initial debt ratio is 60 percent of GDP.   
+ 
+50
+52
+54
+56
+58
+60
+62
+64
+66
+68
+70
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Nominal debt in percent of nominal GDP
+CADR1: CA Debt in percent of potential GDP
+CADR2: CA Debt in percent of nominal GDP
+CADR3: Nominal debt in percent of potential GDP
+CADR4: Growth-based debt ratio 
+
+=== page 33 ===
+ 
+32 
+APPENDIX 3: A RULE OF THUMB FOR THE CYCLICALLY-ADJUSTED DEBT RATIO 
+ 
+We propose a simple formula to compute the CADR under the assumption that there is no 
+large change in the structural fiscal position over the period considered:  ∆ቀ
+Dୣf୧ୡ୧୲౪
+CA
+Y౪
+POT ቁൌ0 
+ 
+With Deficit Ratio୲
+CA ൌ
+Dୣf୧ୡ୧୲౪
+CA
+Y౪
+POT , and G୲ൌ
+Y౪
+POT
+Y౪షభ
+POT െ1 ؠ G, then: 
+ 
+ܥܣܦܴ
+௧
+ସൌDeficit Ratio୲
+CA ൅ሺ
+1
+1 ൅Gሻכ ܥܣܦܴ
+௧ିଵ
+ସ
+ ֜
+ܥܣܦܴ
+௧
+ସൎDeficit Ratio୲
+CA ൅ሺ1 െGሻכ ܥܣܦܴ
+௧ିଵ
+ସ
+ ֜
+ܥܣܦܴ
+௧
+ସൎሺDeficit Ratio୲ିNାଵ
+CA
+ሻכ ෍ሺ1 െGሻ୧
+Nିଵ
+୧ୀ଴
+൅ܥܣܦܴ
+௧ିே
+ସ
+כ ሺ1 െGሻN ֜
+ܥܣܦܴ
+௧
+ସൌሺDeficit Ratio୲ିNାଵ
+CA
+ሻכ 1 െሺ1 െGሻN
+G
+൅ܥܣܦܴ
+௧ିே
+ସ
+כ ሺ1 െGሻN 
+ ֜
+ܥܣܦܴ
+௧
+ସൌ൫Deficit Ratio୲ିNାଵ
+CA
+൯כ 1 െሺ1 െGሻN
+G
+൅Nominal Debt Ratio୲ିN כ ሺ1 െGሻN 
+ 
+as the CADR and nominal debt ratios are equal at the start date. 
+ 
+For G, long-term growth could be used, while the average deficit ratio over a full cycle (for 
+instance, over the last 5 years) could proxy the variable: Deficit Ratio୲ିNାଵ
+CA
+.      
+
+=== page 34 ===
+ 
+33 
+References 
+ 
+André, C., and N. Girouard, 2005, “Measuring Cyclically Adjusted Budget Balances for 
+OECD Countries,” OECD Economics Department Working Papers, No. 434  
+(Paris: Organization for Economic Cooperation and Development). 
+Auerbach, A.J., and Y. Gorodnichenko, 2012b, “Fiscal Multipliers in Recession and 
+Expansion,” in “Fiscal Policy after the Financial Crisis,” A. Alesina and F. Giavazzi, 
+(eds.), University of Chicago Press. 
+Bagaria, N., D. Holland and J. van Reenen, 2012, “Fiscal Consolidation during a 
+Depression,” Center for Economic Performance, Special Paper No. 27 (London: 
+London School of Economics and Political Science) 
+Batini, N., G. Callegari, and G. Melina, 2012, “Successful Austerity in the United States, 
+Europe and Japan,” IMF Working Paper 12/190 (Washington: International Monetary 
+Fund). 
+ 
+Baum, A., M. Poplawski-Ribeiro, and A. Weber, 2012, “Fiscal Multipliers and the State of 
+the Economy,” IMF Working Paper 12/286 (Washington: International Monetary 
+Fund). 
+Blanchard, O., and R. Perotti, 2002, “An Empirical Characterization of the Dynamic Effects 
+of Changes in Government Spending and Taxes on Output,” Quarterly Journal of 
+Economics, Vol. 117, pp. 1329–1368. 
+ 
+Bohn, H., 1998, “The Behaviour of U.S. Public Debt and Deficits,” Quarterly Journal of 
+Economics, 113, pp. 949-963. 
+Cherif, R., and F. Hasanov, 2010, “Public Debt Dynamics and Debt Feedback,” MPRA Paper 
+No. 27918. 
+Chung, H., and E.M. Leeper, 2007, “What has Financed Government Debt,” NBER Working 
+Paper 13425. 
+Cottarelli, C., and L. Jaramillo (2012), “Walking Hand-in-Hand: Fiscal Policy and Growth in 
+Advanced Economies,” IMF Working Paper 12/137 (Washington: International 
+Monetary Fund). 
+ 
+DeLong, B.J., and L.H. Summers, 2012, “Fiscal Policy in a Depressed Economy,” presented 
+to Brookings Papers on Economic Activity, March 2012. 
+Escolano, J., 2010, “A Practical Guide to Public Debt Dynamics, Fiscal Sustainability, and 
+Cyclical Adjustment of Budgetary Aggregates,” IMF Technical Notes and Manuals 
+10/02 (Washington: International Monetary Fund).  
+European Commission, 2011, “Public Finances in EMU-2011,” European Economy. 3. 
+
+=== page 35 ===
+ 
+34 
+ISBN: 978-92-79-19297-5 (Brussels: European Commission).  
+European Commission, 2012, “Report on Public Finances in EMU-2012,” European 
+Economy. 4. ISBN: 978-92-79-22852-0 (Brussels: European Commission).  
+Eyraud, L., and A. Weber, 2012, “Debt Reduction during Fiscal Consolidations: The role of 
+Fiscal Multipliers,” unpublished paper presented at the IMF surveillance meeting 
+seminar of April 10, 2012.  
+Favero, C., and F. Giavazzi, 2007, “Debt and the Effect of Fiscal Policy,” NBER Working 
+Paper 12822. 
+Favero, C., and F. Giavazzi, 2009, “How Large Are The Effects of Tax Changes?” NBER 
+Working Paper 15303. 
+Forni, L., L. Monteforte and L. Sessa, 2009, “The General Equilibrium Effects of Fiscal 
+Policy: Estimates for the Euro Area,” Journal of Public Economics, vol. 93(3-4), pp. 
+559-585. 
+Gros, D., 2011, “Can Austerity Be Self-Defeating?”, Economic Policy, CEPS Commentaries. 
+Haugh, D., P. Ollivaud, and D. Turner, 2009, “What Drives Sovereign Risk Premiums? An 
+Analysis of Recent Evidence from the Euro Area,” Economics Department Working 
+Papers N. 718, (Paris: Organization for Economic Cooperation and Development). 
+International Monetary Fund, 2009, “Fiscal Rules—Anchoring Expectations for Sustainable 
+Public Finances” (Washington: International Monetary Fund). 
+———, 2010, World Economic Outlook, October (Washington: International Monetary 
+Fund). 
+———, 2011, World Economic Outlook, October (Washington: International Monetary 
+Fund). 
+———, 2012, Fiscal Monitor, April (Washington: International Monetary Fund). 
+Ilzetzki, E., 2011, “Fiscal Policy and Debt Dynamics in Developing Countries,” World Bank 
+Policy Research Working Paper 5666. 
+Leeper, E.M., T. B. Walker and S.S. Yang, 2012. "Fiscal Foresight and Information Flows," 
+IMF Working Paper 12/153 (Washington: International Monetary Fund). 
+ 
+Marin, J., 1998, “Monitoring Budgetary Discipline: Some Simple Indicators“ Bank of Italy –
+Indicators of Structural Budget Balances Conference, p. 285. Available at SSRN: 
+http://ssrn.com/abstract=2109658 
+Mineshima, A., M. Poplawski-Ribeiro, and A. Weber, 2013, “Fiscal Multipliers,” in Post-
+Crisis Fiscal Policy, C. Cottarelli, P. Gerson, and A. Senhadji (eds.) (forthcoming; 
+
+=== page 36 ===
+ 
+35 
+Washington, International Monetary Fund). 
+Olivera, J. G.H., 1967, “Money, Prices and Fiscal Lags: A Note on the Dynamics of 
+Inflation”, Quarterly Review (Banca Nazionale del Lavoro) 20, pp.258–267. 
+Organization for Economic Cooperation and Development, 2009, Economic Outlook Interim 
+Report. 
+Organization for Economic Cooperation and Development, 2012, Economic Policy Reforms 
+2012: Going for Growth. 
+Perotti, R., 2008, “In Search of the Transmission Mechanism of Fiscal Policy”, NBER 
+Chapters, in: NBER Macroeconomics Annual 2007, Volume 22, pages 169-226 
+(National Bureau of Economic Research). 
+Spilimbergo, A., S. Symansky, and M. Schindler, 2009, “Fiscal Multipliers,” IMF Staff 
+Position Note, SPN/09/11, May (Washington: International Monetary Fund). 
+ 
+ 
+ 

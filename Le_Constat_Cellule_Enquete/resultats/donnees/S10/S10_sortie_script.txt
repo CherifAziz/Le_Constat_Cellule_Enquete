@@ -1,0 +1,16 @@
+1 ASA 1974                                    src 1978  0.296 pt | 1985 Md F   0.00   0.00   5.65 | pts 0.000 0.000 0.115
+2 Loi 30/12/1975                              src 1977  0.061 pt | 1985 Md F   0.00   0.00   3.00 | pts 0.000 0.000 0.061
+3 GR et préretraites                          src 1985  0.590 pt | 1985 Md F  14.18  29.00  46.20 | pts 0.288 0.590 0.940
+4 Complément familial                         src 1978  0.163 pt | 1985 Md F   5.65   8.03   8.03 | pts 0.115 0.163 0.163
+5 Généralisation 1978                         src 1978    nan pt | 1985 Md F   0.00   0.00   9.62 | pts 0.000 0.000 0.196
+6 AF et AL 1981-1982                          src 1982  0.313 pt | 1985 Md F  10.17  15.41  15.41 | pts 0.207 0.313 0.313
+7 Contrats de solidarité (39 h, 5e semaine : non chiffrés) src 1985  0.203 pt | 1985 Md F  10.00  10.00  10.00 | pts 0.203 0.203 0.203
+PIB 1985 base 2020 = 4917 Md F ; époque = 4635 Md F
+santé par habitant 1985 = 8019 F ; borne généralisation = 9.62 Md F
+TOTAL 1985 Md F bas/central/haut: [40.0, 62.4, 97.9]
+TOTAL 1985 pts (base 2020): [0.81, 1.27, 1.99]
+TOTAL 1985 pts (PIB d'époque): [0.86, 1.35, 2.11]
+Plafond extrême (masses brutes) : 118.4 Md F = 2.41 pt (base 2020), 2.55 pt (époque)
+Pour info : ASA 1978 complément = 0.115 pt ; part démission GR = 0.489
+Hors liste (AAH reportée PC + FNE + sidérurgie) : 24.5 Md F = 0.50 pt ; central + hors liste = 1.77 pt
+Haut + AAH = 2.20 pt ; extrême + AAH = 2.62 pt (2.78 pt au PIB d'époque)

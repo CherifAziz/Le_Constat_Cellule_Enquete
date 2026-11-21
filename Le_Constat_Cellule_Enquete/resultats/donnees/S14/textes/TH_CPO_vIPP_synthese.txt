@@ -1,0 +1,294 @@
+
+=== page 1 ===
+RAPPORT IPP n°48 – Décembre 2023
+Évaluation de la réforme de la taxe
+d’habitation
+Laurent Bach
+Antoine Bozio
+Paul Dutronc-Postel
+Étienne Fize
+Arthur Guillouzouic
+Clément Malgouyres
+
+=== page 2 ===
+
+=== page 3 ===
+L’Institut des politiques publiques (IPP) a été créé par l’École
+d’économie de Paris (PSE) et est développé dans le cadre d’un
+partenariat scientiﬁque entre PSE et le Groupe des écoles natio-
+nales d’économie et statistique (GENES) avec le soutien de l’ANR
+au titre du programme Investissements d’avenir. L’IPP vise à pro-
+mouvoir l’analyse et l’évaluation quantitatives des politiques pu-
+bliques en s’appuyant sur les méthodes les plus récentes de la
+recherche en économie.
+www.ipp.eu
+
+=== page 4 ===
+RAPPORT IPP - Septembre 2023
+Évaluation de la réforme de la taxe
+d’habitation
+Laurent Bach
+Antoine Bozio
+Paul Dutronc-Postel
+Étienne Fize
+Arthur Guillouzouic
+Clément Malgouyres
+
+=== page 5 ===
+L’ÉQUIPE
+Laurent Bach est professeur associé de finance à l’ESSEC Business School et co-
+directeur du programme Entreprises à l’Institut des politiques publiques (IPP).
+Ses travaux de recherche sont principalement consacrés à l’analyse quantitative
+des politiques publiques. Il est spécialiste de finance d’entreprise et des ménages.
+Page personnelle : https ://sites.google.com/site/laurentbach/
+Antoine Bozio est maître de conférences à l’École des hautes études en sciences so-
+ciales (EHESS), chercheur associé à l’École d’économie de Paris (PSE) et directeur
+de l’Institut des politiques publiques (IPP). Ses travaux de recherche concernent
+en particulier le système de retraite et la fiscalité.
+Page personnelle : https ://www.parisschoolofeconomics.com/bozio-antoine/fr/
+Paul Dutronc-Postel est économiste-senior et directeur du programme Environ-
+nement à l’Institut des politiques publiques (IPP). Il est titulaire d’une thèse en
+économie du développement au sein de l’École d’économie de Paris. Ses travaux
+au sein de l’IPP portent sur les problématiques liées à la fiscalité des ménages, aux
+politiques environnementales, au marché du travail, et aux entreprises.
+Page personnelle : https ://www.parisschoolofeconomics.eu/fr/dutronc-postel-
+paul/
+Étienne Fize est économiste-senior à l’Institut des politiques publiques (IPP). Il est
+titulaire d’un doctorat en sciences économiques de Sciences Po. Ses travaux récents
+portent sur la fiscalité des successions et les comportements de consommation des
+ménages.
+
+=== page 6 ===
+Page personnelle : https ://sites.google.com/view/etiennefize/home?authuser=0
+Arthur Guillouzouic est économiste-senior et co-directeur du programme En-
+treprises à l’Institut des politiques publiques (IPP). Ancien élève de l’École nor-
+male supérieure de Cachan et titulaire d’un doctorat en sciences économiques de
+Sciences Po, ses recherches se situent dans les champs de l’économie publique et
+de l’économie de l’innovation.
+Page personnelle : https://arthurguileco.wixsite.com/aguillouzouiclecorff
+Clément Malgouyres est chargé de recherches CNRS au CREST et économiste-
+senior à l’Institut des politiques publiques (IPP). Il s’intéresse à des questions em-
+piriques en économie publique, économie internationale et économie du travail.
+Ses travaux récents portent sur la fiscalité des entreprises et l’évaluation quantita-
+tive des politiques publiques.
+Page personnelle : https://sites.google.com/site/clementmalgouyres
+
+=== page 7 ===
+REMERCIEMENTS
+Nous remercions le Conseil des prélèvements obligatoires pour le financement
+de cette étude, et pour les interactions fructueuses que nous avons eues tout au
+long du projet. Nous remercions particulièrement Guilhem Blondy, Vincent De-
+drie, Olivier Pau et Nicolas Thervet.
+Nous souhaitons également remercier les services producteurs des données
+que nous avons utilisées, notamment l’Institut national de la statistique et des
+études économiques (Insee) et la Direction générale des Finances publiques (DG-
+FiP), ainsi que les équipes du centre d’accès sécurisé aux données (CASD) pour
+la mise à disposition des données et pour avoir répondu à nos demandes de sor-
+ties de façon réactive. Nous remercions aussi Guillaume Chapelle pour nous avoir
+partagé ses données sur les loyers ainsi que ses réflexions.
+Les conclusions et opinions émises dans ce rapport sont propres aux auteurs et
+n’engagent pas le Conseil des prélèvements obligatoires.
+1
+
+=== page 8 ===
+Évaluation de la réforme de la taxe d’habitation
+2
+
+=== page 9 ===
+SYNTHÈSE DES RÉSULTATS
+Contexte
+En 2017, le candidat à la présidentielle Emmanuel Macron annonçait dans son
+programme la suppression de la taxe d’habitation pour la résidence principale
+pour quatre français sur cinq. Cette taxe représentait 23,4 milliards de recettes en
+2016 pour les collectivités locales, dont 18,7 payés par les ménages contribuables.
+Après son adoption, la réforme a été mise en place de façon progressive dès 2018.
+Les trois premières années, la réforme allait se concentrer sur les 80 % des foyers
+fiscaux les plus modestes ciblés via un seuil sur le revenu fiscal de référence dépen-
+dant du nombre de parts fiscales. Pendant ces trois années, le dégrèvement était
+progressif et en 2020, ces foyers ont été totalement exonérés de taxe d’habitation
+pour leur résidence principale. A partir de 2021, le même dégrèvement progressif
+était appliqué au restant de la population. Enfin, la taxe d’habitation sur les rési-
+dences principales a été supprimée en 2023 pour l’ensemble des ménages français
+(le 1/5e restant).
+L’objectif de ce rapport est d’évaluer les effets de la réforme de suppression de
+la taxe d’habitation sur les marchés immobiliers (à l’achat, à la location et la mobi-
+lité résidentielle). Enjeu majeur de toute réforme fiscale, la question de l’incidence
+– qui bénéficie de cette baisse d’impôt – a de multiples facettes dans ce contexte
+précis, que l’on cherche à explorer.
+3
+
+=== page 10 ===
+Évaluation de la réforme de la taxe d’habitation
+Objectifs du rapport
+●Il s’agit d’abord de documenter les effets possibles de la réforme sur les ré-
+actions des communes, privées d’une importante source de contrôle de leurs
+recettes fiscales à terme (même si la réforme compense les pertes fiscales pour
+les communes). En effet, les communes auraient pu réagir à la suppression
+de la taxe d’habitation en augmentant le poids du reste de la fiscalité locale,
+ce qui aurait pu compenser les effets sur le niveau de vie des ménages, avec
+un potentiel limité pour des effets sur le marché immobilier. On détaille au
+passage le mécanisme de compensation qui a participé à neutraliser cet effet
+possible.
+●La deuxième partie de ce rapport s’intéresse aux effets de la réforme sur les
+prix associés aux services de logement, soit associés à la propriété d’un bien
+immobilier, soit associés à la location d’un logement. Le montant de la taxe
+d’habitation étant intrinsèquement lié à la commune de résidence, c’est bien
+sur le prix à payer pour résider dans telle ou telle commune que porte la
+question de l’incidence fiscale. Il s’agit de savoir si le bénéfice de cette baisse
+de la fiscalité a pu être capté par les propriétaires de biens immobiliers, à tra-
+vers les prix de vente de leurs biens, ou à travers les loyers qu’ils perçoivent
+de leurs locataires.
+●Enfin, le pendant des prix immobiliers – prix de vente et loyers – est la quan-
+tité de transactions immobilières, ventes et locations confondues, qui ont lieu
+sur les marchés. Nous apprécions cette dimension dans une dernière partie,
+en nous penchant à l’échelle individuelle, sur les comportements de mobilité
+résidentielle; de manière à répondre à la question de savoir si la taxe d’habi-
+tation a eu pour conséquence des mobilités accrues.
+4
+
+=== page 11 ===
+Synthèse des résultats
+La forte hétérogénéité du poids de la taxe d’habita-
+tion
+●L’importance que représentait la taxe d’habitation pour les communes est
+très variable. Le rapport documente l’hétérogénéité des communes selon la
+part de la taxe d’habitation dans les recettes globales de la commune.
+●Bien que positivement reliée à la taille de la commune, on remarque cepen-
+dant toujours une grande variation au sein de communes de même taille.
+●On mesure également le poids de la TH du point de vue des ménages rési-
+dant dans différentes communes. À cette fin, on calcule le ratio de la somme
+de la taxe d’habitation payée par les ménages résidant dans la commune
+divisée par la somme des revenus fiscaux des ménages résidant dans la com-
+mune.
+●Cette statistique permet d’appréhender le poids que représentait la taxe d’ha-
+bitation sur le revenu des ménages et donc, en creux, de l’importance que sa
+suppression implique pour eux.
+●Lorsque nous fixons cette mesure en 2016 (année pré-réforme) nous pouvons
+documenter sa très grande hétérogénéité. À l’inverse de la première mesure,
+cette exposition à la réforme est particulièrement croissante avec la popula-
+tion (hors commune de Paris qui est un cas particulier à plusieurs égards).
+●Cette exposition à la réforme est aussi négativement corrélée au taux de taxa-
+tion foncière sur le bâti au niveau du département de la commune, ce qui est
+important dans le contexte de cette réforme.
+5
+
+=== page 12 ===
+Évaluation de la réforme de la taxe d’habitation
+Mécanismes de compensation et taxe foncière
+●La perte de taxe d’habitation représentant une importante perte de recettes
+fiscales pour les collectivité locales, il a été mis en place un mécanisme de
+compensation financière des communes.
+●Ce mécanisme consiste à transférer la part départementale de la taxe fon-
+cière sur le bâti à la commune. Cependant, dans la plupart des cas, le mon-
+tant de la part départementale de taxe foncière et l’ancien montant de la taxe
+d’habitation ne sont pas égaux. Afin de faire correspondre les montants com-
+pensatoires aux pertes de taxe d’habitation, le législateur a mis en place un
+dispositif de coefficient correcteur. Ainsi, les communes sur-compensées par
+le montant de taxe foncière qui leur est attribué reversent cette surcompen-
+sation aux communes sous-compensées, de telle sorte que les pertes de taxe
+d’habitation sont compensées « à l’euro près ».
+●Bien que les communes sur-compensées ont tendance à être plus petites que
+les sous-compensées, on remarque encore une fois une grande hétérogénéité.
+●On ne détecte pas de modification significative des taux de fiscalité locale
+depuis l’introduction de la réforme lorsque l’on compare les communes plus
+ou moins affectées. Ceci s’explique par le gel de certains taux de fiscalité
+locale.
+Méthodologie
+●Afin d’évaluer l’impact de la réforme sur les marchés immobiliers, le rapport
+utilise une approche de régression des prix sur l’exposition à la réforme des
+communes.
+6
+
+=== page 13 ===
+Synthèse des résultats
+●La mesure d’exposition retenue est le rapport entre la taxe payée par les mé-
+nages sur la somme des revenus de ces ménages, c’est-à-dire celle qui reflète
+le poids de la TH du point de vue des ménages.
+●La réforme s’appliquant simultanément à toutes les communes l’approche
+classique de différence en différences n’est pas possible, en l’absence de vrai
+groupe de contrôle qui n’aurait pas subi le traitement.
+●Notre méthode permet ici de comparer les communes selon l’importance que
+relevait la taxe d’habitation avant la réforme parmi les ménages résidents.
+Principaux résultats : un effet positif sur les prix im-
+mobiliers
+●Grâce à l’utilisation de données locales sur les prix immobiliers, le rapport
+procède à l’analyse de l’effet de la réforme sur les marchés immobiliers lo-
+caux.
+●Nous analysons l’effet de la réforme sur les marchés immobiliers locaux, et
+en particulier sur les prix. Nous mesurons les prix immobiliers au niveau
+communal, grâce aux données issues des Déclarations de valeur foncière
+(DVF).
+●Les résultats principaux montrent que la hausse des prix immobiliers sur
+la période après la réforme a été plus élevée dans les communes les plus
+concernées par la fin de la taxe d’habitation. A trois ans, l’effet sur les prix
+immobiliers d’un point de pourcentage de TH/revenu supplémentaire était
+de presque 50€ en plus par m2.
+●On note un effet immédiat dès 2018 et croissant dans le temps jusqu’à 2022,
+la dernière année d’observation.
+7
+
+=== page 14 ===
+Évaluation de la réforme de la taxe d’habitation
+●Cet effet est robuste à plusieurs spécifications, notamment celles prenant en
+compte la corrélation entre l’exposition à la réforme et la taille de la com-
+mune ou encore au revenus moyens dans la commune. Les résultats sont
+également robustes lorsque l’on agrège les données à un niveau supérieur, et
+que l’on mène l’analyse au niveau des bassins de vie ou des zones d’emploi.
+●On remarque une certaine hétérogénéité des résultats. L’effet sur les prix im-
+mobiliers semble plus fort dans les communes avec un fort taux de proprié-
+taires occupants. On remarque également qu’au sein d’un même bassin de
+vie l’effet de la réforme est plus fort pour les communes les plus concernées.
+L’effet est cependant moins fort que lorsque l’on compare toutes les com-
+munes.
+●L’analyse des effets de la réforme sur les prix de vente des biens immobiliers
+suggère que les variations de taxe d’habitation sont capitalisées au moins en
+partie par le marché immobilier, c’est-à-dire que la valeur des biens immobi-
+liers reflète le niveau de taxe d’habitation auquel correspond le fait de résider
+dans telle ou telle commune.
+Résultats sur les loyers
+●Une question intéressante est dès lors de savoir si cette capitalisation porte
+également sur les locations immobilières. Nous mobilisons le même cadre
+d’analyse pour l’examen des niveaux de loyers. Grâce à une base de don-
+nées sur les nouvelles offres de loyers du parc locatif privé, nous étudions la
+corrélation entre l’exposition au traitement et les prix des loyers.
+●Nous obtenons un résultat similaire à celui sur les prix à l’achat : un effet
+positif et croissant sur les loyers au m2. En 2020, soit trois ans après le début
+8
+
+=== page 15 ===
+Synthèse des résultats
+de la réforme, l’effet d’un point de pourcentage de TH/revenus sur les loyers
+mensuels était de 0,2€ par m2.
+●L’hétérogénéité selon la proportion de propriétaires occupants est moins claire :
+ce sont bien dans les communes avec le moins de propriétaires occupants que
+les prix ont le plus augmenté, mais la corrélation avec la mesure d’intensité
+de la réforme est plus forte dans les autres communes. A l’instar des résul-
+tats sur les prix immobiliers, nous remarquons un effet de la réforme pour
+les communes d’un même bassin de vie. L’effet estimé est quasiment aussi
+important que celui obtenu en comparant toutes les communes.
+Résultats sur la mobilité résidentielle
+●La dernière partie du rapport porte sur la question de la mobilité résidentielle
+des foyers. Pour étudier cette question nous faisons appel à d’autres sources
+de données à un niveau plus fin : celui du foyer fiscal.
+●L’utilisation de données au niveau individuel invite également à utiliser une
+méthodologie différente. En effet, nous exploitons ici directement le seuil
+basé sur le revenu fiscal de référence qui exonère une partie des ménages
+(environ 80 %). L’existence d’un tel seuil suggère de mobiliser une méthode
+d’analyse basée sur cette discontinuité qui, par exemple, comparerait les
+foyers situés immédiatement de part et d’autre du seuil. Nous mettons ainsi
+en œuvre une version adaptée de la régression sur discontinuité, qui prend
+en compte l’existence d’un deuxième seuil de sortie du dispositif, rendant
+l’exposition à la réforme progressive en-dessous d’un certain niveau de re-
+venu.
+●Pour cette partie, nous utilisons trois sources de données différentes. Nous
+utilisons l’enquête revenus fiscaux et sociaux (ERFS), l’enquête sur les statis-
+tiques sur les ressources et conditions de vie (SRCV) ainsi qu’un appariement
+9
+
+=== page 16 ===
+Évaluation de la réforme de la taxe d’habitation
+entre les sources Fidéli (FIchiers DÉmographiques sur les Logements et les
+Individus) et Félin (Fichier échantillonné de l’impôt sur le revenu).
+●Nos estimations sur ces trois différentes bases de données ne nous permettent
+pas de conclure à un effet clair de la réforme sur la mobilité résidentielle.
+10

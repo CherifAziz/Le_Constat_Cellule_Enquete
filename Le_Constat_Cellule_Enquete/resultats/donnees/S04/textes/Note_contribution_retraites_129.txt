@@ -1,0 +1,850 @@
+
+=== p.1 ===
+Notes IPP
+n◦129
+Septembre 2026
+Patrick Aubert
+Sylvain Duchesne
+Maxime Tô
+Todor Tochev
+www.ipp.eu
+Modèle de citation :
+Aubert, Patrick, Duchesne, Sylvain, Tô,
+Maxime et Tochev, Todor,
+Comment
+mettre à contribution les retraités pour
+le redressement des ﬁnances publiques?
+, Notes IPP, no 129, Institut des politiques
+publiques, septembre 2026.
+L’Institut des politiques publiques (IPP) a été
+créé par PSE et est développé dans le cadre
+d’un partenariat scientiﬁque entre PSE-École
+d’Économie de Paris et le Groupe ENSAE-
+ENSAI. L’IPP vise à promouvoir l’analyse et
+l’évaluation quantitatives des politiques pu-
+bliques en s’appuyant sur les méthodes les
+plus récentes de la recherche en économie.
+Comment mettre à contribution les
+retraités pour le redressement des
+ﬁnances publiques?
+Face à des déﬁcits publics durablement élevés, des appels à « mettre à contribution »
+les retraités pour participer à l’eﬀort de redressement sont régulièrement lancés. Trois
+instruments dominent le débat : la suppression de l’abattement de 10 % sur les pen-
+sions à l’impôt sur le revenu, la désindexation ou la sous-indexation des retraites, et
+l’alignement des taux de CSG appliqués aux pensions de retraite sur celui appliqué aux
+revenus d’activité. Cette note évalue, à l’aide du modèle de microsimulation TAXIPP,
+le rendement budgétaire de ces mesures et la façon dont l’eﬀort se répartirait le long
+de la distribution des niveaux de vie.
+Les trois instruments diﬀèrent par leur rendement, c’est à dire l’économie budgétaire
+qu’ils génèrent, et par leur incidence. La suppression de l’abattement rapporterait en-
+viron 5,4 Mde, mais pourrait avoir comme eﬀet indirect de pénaliser les ménages re-
+traités modestes, via la baisse des aides au logement; la désindexation a l’eﬀet direct
+le plus fort pour les régimes de retraite (6,6 Mde) mais son rendement net pour les
+ﬁnances publiques (5,2 Mde) est rogné par les eﬀets de second tour, et son proﬁl est
+anti-redistributif; l’alignement des taux médian et plein de CSG a un rendement un
+peu plus bas (4,2 Mde) mais épargne le bas de la distribution. À économie strictement
+identique pour les ﬁnances publiques, la hausse de la CSG et la baisse du plafond de
+l’abattement concentrent l’eﬀort sur la moitié supérieure de la distribution, tandis que
+la sous-indexation, même limitée aux pensions supérieures à la médiane, continue de
+peser sur des ménages relativement modestes.
+ Si les mesures sont habituellement comparées du point de vue de leur eﬀet sur les ﬁnances
+publiques, elles ne sont pas équivalentes pour le système de retraite. La désindexation
+améliore directement sa situation ﬁnancière en modérant ses dépenses, tandis que les
+deux autres mesures ne le font que si leur produit est ré-aﬀecté à son ﬁnancement.
+ La suppression de l’abattement de 10 % sur les pensions rapporterait 5,4 Mde par an aux
+ﬁnances publiques, la désindexation complète des retraites de base rapporterait 5,2 Mde,
+tandis que l’alignement des deux taux les plus hauts de CSG des retraités sur le taux des
+actifs a un rendement un peu moindre, de 4,2 Mde.
+ Les proﬁls redistributifs sont contrastés : la suppression de l’abattement pèse aussi sur
+les premiers vingtièmes via son eﬀet indirect sur les aides au logement, la désindexation
+complète est anti-redistributive en ce qu’elle a un impact plus négatif pour les retraités les
+plus modestes. L’alignement de la CSG touche surtout le milieu de la distribution s’il porte
+aussi sur le taux médian.
+ À économie identique, hausse de la CSG et baisse du plafond de l’abattement concentrent
+l’eﬀort en haut de la distribution; la sous-indexation des pensions supérieures à la médiane
+touche aussi des ménages modestes.
+
+=== p.2 ===
+Note IPP n◦129
+Mise à contribution des retraités
+Les récentes analyses de la trajectoire des ﬁnances pu-
+bliques françaises rendent compte d’une situation très dé-
+favorable et invitent à un eﬀort budgétaire important. En
+l’absence de mesures nouvelles, le déﬁcit public passerait
+de 5 % du PIB en 2026 à 5,9 % en 2027, puis 6,8 % en
+2030, et la dette de 118,4 % à 130,5 % du PIB. Pour stabi-
+liser le ratio de dette publique, un eﬀort de 20 à 25 Mde
+par an est nécessaire (Ragot et al., 2026).
+Dans ce contexte, des appels à « mettre à contribution »
+les retraités à l’eﬀort de redressement des dépenses pu-
+bliques sont régulièrement exprimés. Les retraites consti-
+tuent en eﬀet le premier poste de la dépense publique,
+dont le vieillissement démographique tire largement la
+progression. Par ailleurs, le niveau de vie moyen des re-
+traités est aujourd’hui proche de celui de l’ensemble de la
+population, et leur taux de pauvreté est sensiblement plus
+faible (Secrétariat général du COR, 2026).
+Trois pistes sont souvent citées : la suppression (ou la ré-
+duction) de l’abattement de 10 % sur les pensions à l’im-
+pôt sur le revenu; la sous-indexation des retraites de base,
+c’est-à-dire une revalorisation inférieure à l’inﬂation (envi-
+sagée dans les deux derniers PLFSS et de nouveau évo-
+quée pour le budget 2027) (Aubert, 2026); et l’alignement
+des taux de CSG appliqués aux pensions de retraite sur
+celui appliqué aux revenus d’activité (encadré 1). Dans la
+préparation du budget 2027, le gouvernement met expli-
+citement les deux premières en balance, indiquant qu’il ne
+sera pas possible de conserver l’abattement et de revalo-
+riser les retraites sur l’inﬂation.
+Ces mesures n’ont pas nécessairement le même impact
+budgétaire et les eﬀorts demandés ne sont pas répartis
+de la même manière entre les ménages, selon leur niveau
+de vie. L’objectif de cette note est d’éclairer ces deux di-
+mensions budgétaires et redistributives des réformes pro-
+posées – ces deux critères étant appréciés en prenant
+chaque mesure prise isolément, même si, en toute rigueur,
+elles s’inscriraient en réalité dans un ensemble plus large
+de modiﬁcations réglementaires, qui peuvent venir corri-
+ger les eﬀets anti-redistributif ou modiﬁer le rendement.
+À l’aide du modèle de microsimulation TAXIPP (encadré 2),
+nous chiﬀrons le rendement budgétaire de chaque me-
+sure et ses eﬀets sur le niveau de vie des ménages par
+vingtième de niveau de vie.
+Des mesures de nature diﬀérente
+Précisons au préalable que, si les trois mesures sont habi-
+tuellement mises sur le même plan, et présentées comme
+trois façons interchangeables de « mettre à contribution »
+les retraités – au sens où elles ont toutes trois pour ef-
+fet de modérer le niveau de vie de tout ou partie d’entre
+eux – cette expression est également trompeuse, car les
+mesures renvoient à des fondements et des arbitrages dif-
+férents.
+La désindexation (ou la sous-indexation) des pensions
+s’inscrit dans le cadre du pilotage du système de retraite,
+en touchant directement un de ses leviers. Elle cherche
+à répondre à l’objectif de soutenabilité ﬁnancière de ce
+système, qui renvoie, à court terme, à un équilibre à trou-
+ver entre la hausse des cotisations et la modération du
+niveau des retraites – le levier d’âge étant écarté à très
+court terme, compte tenu de la montée en charge encore
+inachevée de la dernière réforme. La notion de « mise à
+contribution » renvoie alors, dans ce cadre, plus fonda-
+mentalement à celle d’équité entre les générations, et à
+la conciliation entre deux « promesses » qu’il apparaît dif-
+ﬁcile de tenir conjointement : celle de garantir le pouvoir
+d’achat des retraités une fois ceux-ci partis à la retraite et
+celle de partager équitablement les eﬀorts entre les géné-
+rations (Aubert et al., 2026).
+À l’inverse, la suppression de l’abattement ou la hausse
+des taux de CSG sur les pensions ne jouent pas directe-
+ment sur le système de retraite. Elles n’améliorent sa si-
+tuation ﬁnancière que si leur produit lui est ré-aﬀecté – ce
+qui pose alors question au regard de la nature contributive
+du système, qui fait qu’il a vocation à être ﬁnancé princi-
+palement par des cotisations sociales. Par ces mesures, la
+notion de « mise à contribution » ne doit pas être interpré-
+tée comme consistant à créer de nouveaux prélèvements
+spéciﬁques aux seuls retraités – ce qui poserait question
+du point de vue du principe d’égalité devant l’impôt – mais
+plutôt de mettre ﬁn à un cadre actuel jugé dérogatoire.
+Les trois mesures diﬀèrent également par leurs impacts
+au-delà de la première année – sachant que le besoin de
+ﬁnancement du système de retraites n’est pas propre à
+la seule année qui vient, mais se creuse à moyen et long
+terme d’après les projections du COR. Les rendements
+d’une suppression de l’abattement ou d’un alignement des
+taux de CSG restent a priori stables au cours du temps;
+le rendement d’une sous-indexation est en revanche dé-
+croissant, au fur et à mesure que des nouveaux retraités
+remplacent ceux qui décèdent. Il est toutefois possible
+d’obtenir un eﬀet cumulé plus important, en appliquant
+des sous-indexations pendant plusieurs années succes-
+sives, alors que les autres mesures ne peuvent être mises
+en œuvre qu’une seule fois. Rappelons cependant, à cet
+égard, que la sous-indexation ne doit pas pour autant être
+vue comme un instrument cohérent de pilotage du sys-
+tème de retraite sur le long terme, celui-ci devant aussi por-
+ter sur les niveaux initiaux de pension.
+Rappelons enﬁn que le principe d’une sous-indexation dif-
+férenciée selon le niveau de revenu – tel qu’il est formulé
+actuellement dans le débat public –, s’il se comprend du
+point de vue de ses eﬀets sociaux, pose question au re-
+gard du caractère contributif du système de retraite. Il y
+a ainsi là une contradiction importante, et donc un arbi-
+trage à faire entre les eﬀets sociaux de la mesure et sa
+2
+
+=== p.3 ===
+Note IPP n◦129
+Mise à contribution des retraités
+Abattement de 10 % sur les pensions. Institué par la loi de ﬁnances pour 1978, il s’applique automatiquement au montant des pensions de retraite,
+de réversion et d’invalidité pour le calcul de l’impôt sur le revenu (art. 158, 5-a du CGI). Pour les revenus 2025 déclarés en 2026, l’abattement
+est plafonné à 4439 euros par foyer ﬁscal, avec un plancher de 454 euros par pensionné; ces limites sont revalorisées chaque année comme la
+première tranche du barème.
+Indexation des pensions. Les pensions des régimes de base sont revalorisées chaque année selon l’inﬂation constatée (moyenne annuelle des prix
+hors tabac, art. L. 161-25 du CSS), au 1er janvier, sans pouvoir baisser en valeur nominale. Les complémentaires (Agirc-Arrco notamment) sont
+pilotées par les partenaires sociaux. Des sous-indexations dérogatoires ont déjà été votées en LFSS : revalorisation limitée à 0,3 % en 2019, puis
+en 2020 pour les pensions supérieures à 2000 euros par mois.
+CSG sur les pensions. Les revenus d’activité supportent une CSG de 9,2 % (dont 6,8 points déductibles du revenu imposable). Les pensions relèvent
+de quatre taux – 0 %, 3,8 %, 6,6 % et 8,3 % – selon le RFR du ménage et son nombre de parts (art. L. 136-8 du CSS); pour 2025, les seuils pour une
+part sont de 12 817, 16 755 et 26 004 euros. La part non déductible de la CSG (2,4 points) ne concerne que les deux taux les plus élevés.
+Encadré 1 : Repères législatifs : abattement, indexation, CSG
+Encadré 1 : Repères législatifs : abattement, indexation, CSG
+cohérence avec les principes fondamentaux du système.
+Nous laissons ces considérations de côté dans la suite
+de cette note, en prenant les propositions telles qu’elles
+sont posées dans le débat budgétaire actuel, sans les
+confondre avec la question distincte du pilotage de moyen
+terme du système de retraite.
+Des rendements importants, mais am-
+putés par les eﬀets de second tour
+Nous examinons d’abord les trois réformes telles qu’elles
+sont formulées dans le débat public : la suppression de
+l’abattement de 10 %, la désindexation complète des re-
+traites, c’est-à-dire l’absence totale de revalorisation des
+pensions de base sur l’inﬂation, et l’alignement des deux
+taux les plus hauts de CSG sur celui appliqué aux reve-
+nus d’activité. Pour plus de clarté, ces trois mesures sont
+chiﬀrées séparément, même si in ﬁne une combinaison de
+plusieurs d’entre elles peut être retenue. Toutes trois dé-
+gagent des économies importantes, mais leur rendement
+net diﬀère sensiblement de leur eﬀet direct une fois pris
+en compte les eﬀets de second tour, c’est-à-dire les im-
+pacts sur les autres recettes ou dépenses publiques, que
+le modèle TAXIPP (encadré 2) permet de calculer. Ces ef-
+fets sont détaillés dans la ﬁgure 1.
+La suppression de l’abattement de 10 % rapporterait
+5,4 Mde : c’est, des trois mesures, celle au rendement
+net le plus élevé. En relevant le revenu imposable de l’en-
+semble des foyers percevant une pension, elle accroît les
+recettes d’impôt sur le revenu de 5,0 Mde en 2027. On
+observe ici un eﬀet de second tour qui renforce le rende-
+ment, les aides au logement intégrant directement l’abat-
+tement dans leur base ressources ce qui conduit à un ren-
+dement supplémentaire de 0,4 Mde (Duchesne, 2025).
+La désindexation complète des retraites de base a l’eﬀet
+direct le plus fort. Compte tenu d’une d’inﬂation estimée
+à 2,5 % en 2026 1, le gel nominal des pensions de base
+réduit la dépense de retraite de 6,6 Mde, soit davantage
+que la suppression de l’abattement. Mais la baisse des pen-
+sions diminue les revenus primaires des ménages, donc
+les recettes d’impôt sur le revenu et de prélèvements so-
+ciaux (CSG, CRDS, CASA), tout en accroissant certaines
+dépenses sociales (minimum vieillesse, aides au logement).
+Dans l’ensemble, les eﬀets de second tour sont importants
+et le gain net pour l’ensemble des ﬁnances publiques n’est
+plus que de 5,2 Mde, inférieur d’environ 20 % à l’écono-
+mie réalisée par les seuls régimes de retraite.
+Enﬁn, l’alignement des deux taux les plus hauts de CSG
+a un rendement net un peu moindre : porter à 9,2 % les
+taux de 6,6 % et 8,3 % rapporterait 4,2 Mde. Là encore, un
+eﬀet de second tour réduit le produit de la mesure d’en-
+viron 0,6 Mde : la hausse portant sur la part déductible
+de la CSG, elle abaisse le revenu imposable des ménages
+concernés et, partant, les recettes d’impôt sur le revenu.
+Des eﬀets redistributifs contrastés
+Au-delà de leur rendement, les trois mesures se dis-
+tinguent par la façon dont elles répartissent l’eﬀort entre
+les retraités. La ﬁgure 2 décrit, pour chaque réforme, la
+variation moyenne des niveaux de vie des retraités selon
+leur position dans la distribution des niveaux de vie de
+l’ensemble de la population.
+La suppression de l’abattement est globalement progres-
+sive : l’avantage ﬁscal supprimé étant concentré sur les
+foyers imposables, les pertes relatives croissent avec le
+niveau de vie. Font exception les quatre premiers ving-
+tièmes, qui perdent davantage que les vingtièmes immé-
+diatement supérieurs : comme indiqué précédemment, le
+revenu pris en compte pour les aides au logement étant
+le revenu après abattement, la suppression de ce dernier
+1. D’après la Loi, la revalorisation appliquée au 1er janvier 2027 est
+calculée d’après l’inﬂation constatée sur les 12 mois précédents, donc
+pour l’essentiel sur l’année 2026.
+3
+
+=== p.4 ===
+Note IPP n◦129
+Mise à contribution des retraités
+Modèle et champ. L’analyse s’appuie sur le modèle de microsimulation TAXIPP (version 2.4.2), enrichi du détail du partage entre retraites de base
+et complémentaires, imputé à partir de l’échantillon interrégimes de retraités (EIR) de la Drees. Pour chaque ménage, le modèle simule la variation
+de niveau de vie induite par chaque scénario, en tenant compte de la composition du ménage, de la structure de ses revenus, de la ﬁscalité (impôt
+sur le revenu, CSG, CRDS, CASA) et des prestations sous condition de ressources (aides au logement, minimum vieillesse, prime d’activité, etc.)
+C’est ce modèle complet qui permet de mesurer les eﬀets de second tour des réformes sur les ﬁnances publiques, c’est-à-dire les impacts indirects
+sur les autres recettes ou dépenses publiques. Les eﬀets redistributifs sont mesurés sur les seuls retraités, agrégés par vingtième de niveau de
+vie dans l’ensemble de la population, mesuré sur la situation initiale (avant réforme). Par exemple, le premier vingtième regroupe les retraités
+dont le niveau de vie se situe parmi les 5 % les plus modestes de l’ensemble de la population. L’année de référence est 2027. La simulation est
+« statique » : elle n’intègre ni réactions comportementales (activité, épargne, âge de départ) ni bouclage macroéconomique, et ne calcule pas les
+eﬀets dynamiques sur les années après 2027.
+Scénario simulés. Chaque scénario est comparé à une situation de référence sans réforme, dans laquelle les retraites de base ainsi que les
+montants du plafond et du plancher de l’abattement sont revalorisés comme l’inﬂation prévue (+2,5 % au 1er janvier 2027, conformément à
+l’inﬂation estimée pour 2026). La lettre du code désigne l’instrument : A – abattement de 10 % sur les pensions, C – CSG sur les pensions, D –
+indexation des retraites de base.
+(i) Mesures principales.
+— A1 Suppression de l’abattement de 10 %. L’abattement sur les pensions à l’impôt sur le revenu est supprimé pour l’ensemble des foyers ﬁscaux.
+— D1 Désindexation complète des retraites de base. Gel nominal des pensions des régimes de base (régime général et régimes spéciaux) pour les
+individus déjà à la retraite en 2026. L’indexation des régimes complémentaires est inchangée.
+— C1 Alignement des deux taux les plus hauts de CSG. Les taux médian (6,6 %) et plein (8,3 %) de CSG sur les pensions sont portés au taux des
+revenus d’activité (9,2 %), avec la même part déductible (6,8 points). Les taux nul et réduit (3,8 %) sont inchangés.
+(ii) Variantes de seuil de la désindexation. Scénarios identiques à D1, mais le gel ne s’applique qu’aux retraités dont la retraite brute totale (tous
+régimes) dépasse un seuil mensuel :
+— D2 : la pension médiane, soit 1639 euros par mois;
+— D3 : 2000 euros par mois;
+— D4 : 3000 euros par mois.
+(iii) Scénarios à économie identique. Trois scénarios calibrés pour produire le même gain net pour les ﬁnances publiques (1,5 Mde) :
+— C2 Alignement du seul taux plein de CSG : le taux plein de 8,3 % est porté à 9,2 %; le taux médian de 6,6 % est inchangé.
+— D5 Sous-indexation calibrée au-delà de la médiane : les retraites de base des retraités dont la pension totale dépasse 1639 euros par mois sont
+revalorisées de 1,5 % au lieu de 2,5 % (soit −1,0 point par rapport à l’inﬂation), ampleur ajustée pour produire la même économie que C2.
+— A2 Abaissement du plafond de l’abattement : le taux de l’abattement de 10 % est maintenu, mais son plafond annuel par foyer ﬁscal est ramené
+à 2545 euros (contre 4439 euros pour les revenus de 2025), montant calibré sur le rendement de C2.
+Encadré 2 : Les scénarios simulés à partir du modèle de microsimulation TAXIPP
+Encadré 2 : Les scénarios simulés à partir du modèle de microsimulation TAXIPP
+Figure 1 – Eﬀets budgétaires des scénarios : économie directe et eﬀets de second tour
+Gain pour les
+finances publiques
+Pertes de recettes et
+hausse des dépenses
+−1 000
+0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+A1
+Suppression
+abattement
+D1
+Désindex.
+complète
+C1
+CSG 9,2 %
+(médian + plein)
+D2
+Désindex.
+> médiane
+D3
+Désindex.
+> 2000
+D4
+Désindex.
+> 3000
+C2
+CSG 9,2 %
+(plein)
+D5
+Sous−index.
+calibrée
+A2
+Plafond
+abattement
+Effet sur les finances publiques (M euros)
+Pensions brutes
+Prélèvements sociaux (CSG, CRDS, CASA)
+Impôt sur le revenu
+Prestations sociales
+Solde net
+Cible : rendement du C2
+Lecture : La suppression de l’abattement de 10 % (A1) améliore le solde des ﬁnances publiques de 5,4 milliards d’euros, dont 5,0 milliards de recettes supplémentaires d’impôt
+sur le revenu et 0,4 milliard de moindres dépenses de prestations sociales (aides au logement).
+Notes : Chaque barre décompose l’eﬀet budgétaire total d’un scénario (A1, D1, C1, D2 à D4, C2, D5, A2, cf. encadré 2) entre eﬀet direct (économie de dépense de retraite ou
+recette supplémentaire) et eﬀets de second tour (impôt sur le revenu, CSG-CRDS-CASA, prestations sociales). Les scénarios D5 et A2 sont calibrés de façon à avoir le même
+solde net que le scénario C2.
+Champ : France, année 2027.
+Sources : Modèle TAXIPP 2.4.2 enrichi (EIR, Drees); calculs IPP.
+4
+
+=== p.5 ===
+Note IPP n◦129
+Mise à contribution des retraités
+fait mécaniquement baisser ces aides pour les ménages
+retraités modestes qui en bénéﬁcient.
+La désindexation complète produit, à l’inverse, un pro-
+ﬁl anti-redistributif. Les pertes relatives, comprises entre
+0,8 % et 1,5 % dans la moitié la plus modeste, décroissent
+ensuite le long de la distribution, jusqu’à 0,4 % pour le
+vingtième le plus aisé. Ce proﬁl s’explique par la structure
+des revenus : la pension de base représente une part d’au-
+tant plus faible du revenu du ménage que celui-ci est aisé,
+les retraites complémentaires, les revenus du capital et
+d’activité représentant alors une part plus élevée.
+L’alignement de la CSG dessine, quant à lui, un proﬁl en
+U : ce sont les vingtièmes du milieu de la distribution qui
+perdent le plus. Ce proﬁl reﬂète la façon dont l’ampleur de
+la hausse de taux varie selon la position dans la distribu-
+tion. En bas, les retraités relèvent des taux nul ou réduit,
+que la réforme simulée ici ne modiﬁe pas : ils ne subissent
+aucune hausse et sont épargnés. Les ménages les plus ai-
+sés perdent eux aussi relativement peu, pour deux raisons
+qui se cumulent : les pensions ne représentent qu’une part
+limitée de leurs ressources, et la hausse de taux qui les
+concerne est la plus faible (le taux plein n’est relevé que
+de 0,9 point, de 8,3 à 9,2 %). L’eﬀort se concentre ainsi sur
+les classes moyennes, assujetties au taux médian, pour les-
+quelles la hausse est à la fois la plus marquée (+2,6 points,
+de 6,6 à 9,2 %) et assise sur des pensions qui représentent
+encore une part importante du revenu. N’aligner que le
+taux plein préserverait un proﬁl plus redistributif (ﬁgure 4),
+au prix d’un rendement réduit (1,5 contre 4,2 Mde).
+Dans l’ensemble, c’est la suppression de l’abattement qui
+présente le proﬁl le plus redistributif des trois mesures, à
+une spéciﬁcité importante près : elle peut poser question
+sur le sort des ménages les plus modestes, davantage pé-
+nalisés par la baisse induite des aides au logement que les
+vingtièmes immédiatement supérieurs. Des mesures d’at-
+ténuation complémentaires seraient nécessaires pour cor-
+riger ce point, si l’on souhaitait préserver la progressivité
+de la mesure jusqu’en bas de la distribution. Le proﬁl en U
+de l’alignement de la CSG, s’il peut sembler contre-intuitif,
+tient quant à lui autant à la situation initiale des retraités
+dans le barème qu’à la réforme elle-même. La désindexa-
+tion des pensions présente enﬁn le proﬁl le plus régressif;
+on peut toutefois chercher à la rendre plus redistributive
+en la diﬀérenciant selon le niveau de pension, ce que nous
+examinons dans la partie suivante.
+Désindexation diﬀérenciée : un arbi-
+trage entre rendement budgétaire et re-
+distribution
+La désindexation étudiée dans la partie précédente est ap-
+pliquée à tous les retraités. En gelant l’ensemble des pen-
+sions de base, le scénario D1 décrit ainsi la borne haute de
+ce que peut produire l’instrument. Aussi le débat public ac-
+tuel envisage-t-il plutôt des désindexations diﬀérenciées,
+qui épargnent les retraites les plus faibles en réservant le
+gel aux pensions dépassant un seuil 2.
+Nous simulons trois variantes de ce type, qui désindexent
+les pensions de base des retraités dont la retraite brute to-
+tale (tous régimes) dépasse la médiane (D2, soit 1639 eu-
+ros par mois), 2000 euros (D3) ou 3000 euros par mois
+(D4). La part des retraités concernés par ces réformes di-
+minue avec le seuil : si la moitié des retraités ont une pen-
+sion supérieure à 1639 euros, 35 % ont une pension supé-
+rieure à 2000 euros et seuls 13 % ont une pension supé-
+rieure à 3000 euros en 2027.
+La ﬁgure 1 montre que le rendement budgétaire décroît
+rapidement avec le seuil retenu : restreindre la désindexa-
+tion aux pensions supérieures à la médiane ramène l’éco-
+nomie nette de 5,2 à 3,7 Mde, un seuil de 2000 euros la
+réduit à 2,8 Mde, et un seuil de 3000 euros à 1,2 Mde
+seulement. L’assiette se contracte en eﬀet plus que pro-
+portionnellement au relèvement du seuil, les pensions éle-
+vées étant peu nombreuses.
+En contrepartie, la redistributivité s’améliore avec le seuil,
+mais de façon imparfaite. Si le relèvement du seuil
+épargne progressivement le bas de la distribution, une
+partie de l’eﬀort continue, même avec un seuil élevé, de
+peser sur des ménages modestes ﬁgure 3. Les pertes dé-
+croissent en outre toujours avec le niveau de vie dans le
+haut de la distribution. Ce ciblage imparfait tient au cri-
+tère retenu : la désindexation s’applique à la pension in-
+dividuelle, alors que le niveau de vie s’apprécie à l’échelle
+du ménage. Une pension supérieure au seuil peut ainsi ap-
+partenir à un ménage par ailleurs modeste, de sorte que
+l’eﬀort n’épargne jamais tout à fait le bas de la distribu-
+tion. Comme expliqué plus haut, la régressivité en haut de
+la distribution des revenus provient, elle, de la structure
+des revenus diﬀérente pour les retraités plus aisés, qui ont
+une part plus importante de retraite complémentaire et de
+revenus du capital.
+Rappelons par ailleurs que la désindexation diﬀérenciée
+pose également question de façon plus fondamentale, en
+entrant en contradiction avec le principe contributif des
+retraites; revaloriser diﬀéremment les pensions selon leur
+niveau remet en eﬀet en question le calcul des niveaux
+initiaux de ces pensions, et interroge donc sur une éven-
+tuelle réforme de ce calcul initial (Aubert et al., 2026).
+2. Cette logique a déjà été mise en œuvre en 2020, lorsque la revalo-
+risation avait été limitée pour les seules pensions supérieures à 2000 eu-
+ros par mois (Aubert, 2025).
+5
+
+=== p.6 ===
+Note IPP n◦129
+Mise à contribution des retraités
+Figure 2 – Variation du niveau de vie des retraités, par vingtième de niveau de vie avant réforme : suppression de
+l’abattement, désindexation complète et alignement du taux de CSG sur celui appliqué aux revenus d’activité
+Niveau de vie moins élevé
+Niveau de vie plus élevé
+−1,5 %
+−1,0 %
+−0,5 %
+0,0 %
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Vingtième de niveau de vie
+Variation du niveau de vie des retraités
+A1 : Suppression de l'abattement
+D1 : Désindexation complète des
+retraites de base
+C1 : CSG sur les pensions à 9,2 %
+(taux médian et plein)
+Lecture : Dans le scénario A1 (suppression de l’abattement), le niveau de vie des retraités du 18e vingtième baisse de 1,5 %, et celui des retraités du 3e vingtième de 0,9 %.
+Notes : Variation relative du niveau de vie des retraités par vingtième de niveau de vie initial, pour les scénarios A1 (abattement), D1 (désindexation complète) et C1 (CSG,
+deux taux les plus hauts), cf. encadré 2. Seules les personnes percevant une pension de retraite sont représentées, mais les vingtièmes sont ceux de la distribution du niveau
+de vie de l’ensemble de la population. Le nombre de personnes représentées n’est donc pas égal entre chaque vingtième (il est notamment plus faible dans les tout premiers
+vingtièmes).
+Champ : France, individus percevant au moins une pension de retraite, année 2027.
+Sources : Modèle TAXIPP 2.4.2 enrichi (EIR, Drees); calculs IPP.
+Figure 3 – Variation du niveau de vie des retraités, par vingtième de niveau de vie : désindexation selon le seuil de
+pension
+Niveau de vie moins élevé
+Niveau de vie plus élevé
+−1,5 %
+−1,0 %
+−0,5 %
+0,0 %
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Vingtième de niveau de vie
+Variation du niveau de vie des retraités
+D1 : Désindexation complète des
+retraites de base
+D2 : Désindexation des pensions
+supérieures à la médiane
+D3 : Désindexation des pensions
+supérieures à 2000 euros
+D4 : Désindexation des pensions
+supérieures à 3000 euros
+Lecture : Dans le scénario D2 (désindexation des pensions supérieures à la pension médiane), le niveau de vie des retraités du 10e vingtième baisse de 0,9 %, contre 0,1 %
+pour ceux du 3e vingtième.
+Notes : Variation relative du niveau de vie des retraités par vingtième de niveau de vie initial, pour les scénarios D1 (désindexation complète), D2 (au-delà de la pension
+médiane), D3 (au-delà de 2000 euros/mois) et D4 (au-delà de 3000 euros/mois), cf. encadré 2. Seules les personnes percevant une pension de retraite sont représentées, mais
+les vingtièmes sont ceux de la distribution du niveau de vie de l’ensemble de la population.
+Champ : France, individus percevant au moins une pension de retraite, année 2027.
+Sources : Modèle TAXIPP 2.4.2 enrichi (EIR, Drees); calculs IPP.
+À économie donnée, quels eﬀets redis-
+tributifs?
+Comme le montre le cas de la désindexation, il est diﬃ-
+cile d’apprécier le proﬁl redistributif d’une mesure indé-
+pendamment de l’économie qu’elle dégage, une réforme
+qui rapporte plus de quatre fois plus répartissant néces-
+sairement un eﬀort plus lourd. Pour comparer de manière
+plus ﬁable les proﬁls redistributifs des trois instruments,
+il convient donc de les ramener à un rendement com-
+mun. Nous examinons ainsi trois scénarios, un par instru-
+ment, calibrés pour produire exactement la même écono-
+mie pour les ﬁnances publiques.
+Pour que cette comparaison entre les trois instruments
+soit réalisable, il est nécessaire de rester dans l’espace des
+ajustements possibles (pour éviter, par exemple, de de-
+voir considérer une revalorisation négative des pensions),
+ce qui conduit à s’aligner sur un scénario associée à une
+6
+
+=== p.7 ===
+Note IPP n◦129
+Mise à contribution des retraités
+Tableau 1 – Rendements et eﬀets sur les retraités des scénarios de réforme (2027)
+Eﬀets sur les retraités
+Scénario
+Rendement
+(Mde)
+Retraités
+concernés
+par la
+désindexation
+(%)
+Perdants
+(%)
+Perte
+moyenne
+(e/mois)
+Variation
+du niveau
+de vie
+moyen (%)
+Perte
+moyenne
+des
+perdants
+(e/mois)
+Retraite
+moyenne
+des
+perdants
+(e/mois)
+(i) Mesures principales
+A1 : Suppression de l’abattement
+5,4
+–
+65 %
+−27
+−1,04 %
+−41
+2 203
+D1 : Désindexation complète des retraites de base
+5,2
+93 %
+94 %
+−27
+−1,07 %
+−29
+1 922
+C1 : CSG sur les pensions à 9,2 % (taux médian et plein)
+4,2
+–
+69 %
+−22
+−0,85 %
+−32
+2 218
+(ii) Variantes de seuil de la désindexation
+D2 : Désindexation des pensions supérieures à la médiane
+3,7
+49 %
+61 %
+−19
+−0,75 %
+−31
+2 376
+D3 : Désindexation des pensions supérieures à 2000 euros
+2,8
+35 %
+46 %
+−15
+−0,58 %
+−32
+2 621
+D4 : Désindexation des pensions supérieures à 3000 euros
+1,2
+13 %
+18 %
+−6
+−0,24 %
+−33
+3 414
+(iii) Scénarios à économie identique
+C2 : CSG sur les pensions à 9,2 % (taux plein seulement)
+1,5
+–
+38 %
+−8
+−0,30 %
+−20
+2 623
+D5 : Sous-indexation au-delà de la médiane, calibrée (C2)
+1,5
+49 %
+61 %
+−8
+−0,30 %
+−12
+2 376
+A2 : Plafond de l’abattement abaissé, calibré (C2)
+1,5
+–
+40 %
+−8
+−0,30 %
+−19
+2 715
+Champ : individus percevant au moins une pension de retraite en 2027.
+Note : rendement net pour les ﬁnances publiques. La simulation est statique et prend en compte les eﬀets de second tour, mais ne quantiﬁe ni les eﬀets
+comportementaux ni les eﬀets macroéconomiques. Les paramètres de chaque scénario (seuils, plafond, taux) sont détaillés dans l’encadré 2. Retraités
+concernés par la désindexation : part des retraités dont la pension est désindexée, c’est-à-dire déjà retraités en 2026 et dont la pension brute totale
+(tous régimes) dépasse le seuil de désindexation, parmi l’ensemble des retraités percevant une pension en 2027. Perdants : retraités dans les ménages
+ayant une baisse du niveau de vie supérieure à 1 e par an. Perte moyenne : variation, en e par mois, du niveau de vie moyen de l’ensemble des retraités;
+variation du niveau de vie moyen : variation en % du niveau de vie moyen des retraités, par rapport à la situation sans réforme; perte moyenne des
+perdants : variation du niveau de vie moyen calculé parmi les seuls retraités perdants; retraite moyenne des perdants : retraite mensuelle brute totale
+(tous régimes) dans le scénario sans réforme, parmi les seuls perdants.
+Source : Modèle de microsimulation TAXIPP, Institut des politiques publiques, 2026.
+recette relativement modeste. Le rendement budgétaire
+sera donc ici inférieur à celui qui est visé par le gouver-
+nement, cette hypothèse étant nécessaire pour calibrer
+des scénarios ayant un rendement identique. Nous choi-
+sissons ainsi un scénario où seul le taux plein de CSG des
+retraités est aligné sur celui des actifs (C2) : il porte ce
+taux de 8,3 % à 9,2 % pour une recette nette de 1,5 Mde.
+Les deux autres scénarios sont calés sur ce montant. Le
+premier (D5) est une sous-indexation des pensions supé-
+rieures à la médiane : les retraites de base concernées
+sont revalorisées de 1,5 % au lieu de 2,5 %, soit un point
+de moins que l’inﬂation, ampleur ajustée pour dégager la
+même économie. Le second (A2) abaisse le plafond de
+l’abattement de 10 % à 2545 euros par foyer ﬁscal, mon-
+tant lui aussi calibré sur le rendement de C2.
+À eﬀort global identique, les incidences restent très dif-
+férentes. Les proﬁls de la hausse de la CSG et de l’abais-
+sement du plafond de l’abattement, présentés dans la ﬁ-
+gure 4, sont très proches : les premiers vingtièmes sont
+peu ou pas touchés, et les pertes croissent ensuite avec le
+niveau de vie. Cette proximité n’est pas fortuite. Dans les
+deux cas, l’eﬀet de la mesure dépend de la situation d’en-
+semble du foyer, à travers le revenu ﬁscal de référence qui
+commande le taux de CSG, ou le taux marginal d’imposi-
+tion qui détermine le gain procuré par l’abattement : ces
+deux instruments sont, de fait, assis sur la capacité contri-
+butive du ménage. La sous-indexation fait au contraire
+porter l’eﬀort dès le milieu de la distribution. Assise sur la
+pension individuelle, elle atteint des pensions supérieures
+à la médiane logées dans des ménages modestes, pour les
+raisons exposées dans la partie précédente.
+Conclusion
+Les neuf scénarios simulés, dont le tableau 1 récapitule
+les eﬀets, éclairent à la fois le potentiel budgétaire des
+réformes en débat et la répartition de l’eﬀort qu’elles im-
+pliquent. Aucune des trois mesures n’est à la fois la plus
+rentable et la mieux ciblée. La suppression de l’abattement
+dégage l’économie la plus importante et son incidence est
+globalement progressive, mais elle pénalise les ménages
+retraités les plus modestes via la baisse des aides au loge-
+ment, un canal discret mais quantitativement décisif pour
+les personnes concernées (Duchesne, 2025); si elle devait
+être retenue pour son rendement, des mesures d’atténua-
+tion de cet eﬀet pourraient être justiﬁées. La désindexa-
+tion a l’eﬀet direct le plus fort, mais les eﬀets de second
+tour en rognent le rendement d’environ 20 % et son pro-
+ﬁl est le plus régressif. L’alignement des taux médian et
+plein de CSG épargne le bas de la distribution, au prix d’un
+eﬀort concentré sur les classes moyennes de retraités –
+l’alignement du seul taux plein, qui épargne ces classes
+moyennes, ayant, lui, un rendement atténué. Des combi-
+naisons de ces instruments restent évidemment possibles,
+et permettraient d’arbitrer entre rendement et ciblage.
+À rendement égal pour les ﬁnances publiques, ces me-
+sures n’ont enﬁn pas le même eﬀet sur le système de re-
+traite. Seule la désindexation agit sur la dépense de re-
+7
+
+=== p.8 ===
+Note IPP n◦129
+Mise à contribution des retraités
+Figure 4 – Variation du niveau de vie des retraités, par vingtième de niveau de vie : trois scénarios à rendement identique
+Niveau de vie moins élevé
+Niveau de vie plus élevé
+−1,5 %
+−1,0 %
+−0,5 %
+0,0 %
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Vingtième de niveau de vie
+Variation du niveau de vie des retraités
+C2 : CSG sur les pensions à 9,2 %
+(taux plein seulement)
+D5 : Sous−indexation des pensions
+supérieures à la médiane,
+calibrée (C2)
+A2 : Plafond de l'abattement
+abaissé, calibré (C2)
+Lecture : Dans le scénario C2 (alignement du seul taux plein de CSG), le niveau de vie des retraités du 17e vingtième baisse de 0,6 %, alors que les dix premiers vingtièmes
+sont pratiquement épargnés.
+Notes : Variation relative du niveau de vie des retraités par vingtième de niveau de vie initial, pour les scénarios C2 (CSG taux plein), D5 (sous-indexation des pensions
+supérieures à la médiane, calibrée) et A2 (plafond de l’abattement abaissé, calibré), tous trois d’économie identique pour les ﬁnances publiques, cf. encadré 2. Seules les
+personnes percevant une pension de retraite sont représentées, mais les vingtièmes sont ceux de la distribution du niveau de vie de l’ensemble de la population.
+Champ : France, individus percevant au moins une pension de retraite, année 2027.
+Sources : Modèle TAXIPP 2.4.2 enrichi (EIR, Drees); calculs IPP.
+traite elle-même : en abaissant le niveau relatif des pen-
+sions, elle réduit le besoin de ﬁnancement du système, là
+où la suppression de l’abattement ou la hausse de la CSG
+ne font qu’accroître les recettes publiques sans améliorer
+le solde du système de retraite. Ces recettes pourraient
+bien sûr être réaﬀectées au ﬁnancement des retraites,
+mais cela contribuerait alors à aﬀaiblir encore la nature
+contributive du système et son principe de ﬁnancement
+en premier lieu par des cotisations sociales. En outre, ap-
+pliquées une seule année, ces mesures ne suﬃraient pas à
+rétablir la soutenabilité ﬁnancière du système : comme le
+souligne le Comité de suivi des retraites dans son dernier
+avis (Comité de suivi des retraites, 2026), un rééquilibrage
+durable supposerait un eﬀort d’une tout autre ampleur,
+c’est-à-dire une sous-indexation reconduite plusieurs an-
+nées de suite, là où les hausses de prélèvements, une fois
+en place, pourraient diﬃcilement être reproduites d’an-
+née en année. Rappelons que la sous-indexation ne consti-
+tue pas non plus, en tant que telle, un instrument cohé-
+rent de pilotage du système de retraite sur le long terme,
+celui-ci devant aussi porter sur les niveaux initiaux de pen-
+sion (Blanchet, 2024; Aubert et al., 2026).
+Auteurs
+Patrick Aubert est économiste senior à l’IPP.
+Sylvain Duchesne est économiste à l’IPP.
+Maxime Tô est responsable du pôle Retraite de l’IPP, cher-
+cheur associé au CREST et à l’IFS.
+Todor Tochev est économiste senior à l’IPP.
+Références bibliographiques
+Aubert, P. (2026). « Sous-indexation / désindexation des
+retraites : bien poser les termes du débat », Billet de blog,
+Institut des politiques publiques, août 2026.
+Aubert, P. (2025). « Sous-indexer certaines pensions de re-
+traite : pourquoi et comment? », Billet de blog, Institut des
+politiques publiques, 8 avril 2025.
+Aubert, P., Tô, M. et Tochev, T. (2026). « Sous-indexer les
+retraites : impacts redistributifs et enjeux de pilotage »,
+Perspectives budgétaires, chapitre 3, Institut des politiques
+publiques.
+Blanchet, D. (2024). « Retraites : quelles règles d’indexa-
+tion dans un régime en annuités? », Notes de l’IPP, no 106,
+Institut des politiques publiques.
+Comité de suivi des retraites (2026). « Avis annuel du Co-
+mité de suivi des retraites », Comité de suivi des retraites,
+juillet 2026.
+Duchesne, S. (2025). « Quels eﬀets d’une modiﬁcation de
+l’abattement sur les pensions de retraite? Le rôle discret
+mais charnière des aides au logement », Billet de blog, Ins-
+titut des politiques publiques, 29 juillet 2025.
+Ragot, X., Tavernier, J.-L., Jaravel, X. et Valla, N. (2026).
+« Rapport de la mission sur la trajectoire des ﬁnances pu-
+bliques », Rapport remis au Gouvernement le 15 juillet
+2026.
+Secrétariat général du COR (2026). « Le niveau de vie des
+retraités », Document no 2, séance du Conseil d’orienta-
+tion des retraites du 5 février 2026.
+Notes IPP
+Comité éditorial :
+P. Boyer, A. Bozio, A. Charpin
+E. Fize, J. Grenet

@@ -1,0 +1,12 @@
+
+=== Toutes annees : 13 legislatures ===
+enp->dsp: n=13 pente=+0.434 IC=[+0.103;+0.764] | ponderee par exercices +0.424 [-0.012;+0.860] | retrait d'une legislature : IC exclut -0,3 dans 13/13 cas, IC entierement negatif 0/13, exclut 0 dans 12/13 ; pire cas sans XVII : +0.339 [-0.203;+0.881]
+enp->dspcc: n=12 pente=+0.428 IC=[+0.039;+0.817] | ponderee par exercices +0.332 [-0.118;+0.783] | retrait d'une legislature : IC exclut -0,3 dans 11/12 cas, IC entierement negatif 0/12, exclut 0 dans 8/12 ; pire cas sans XVII : +0.109 [-0.464;+0.682]
+grp->dsp: n=13 pente=+0.201 IC=[-0.069;+0.472] | ponderee par exercices +0.149 [-0.153;+0.451] | retrait d'une legislature : IC exclut -0,3 dans 13/13 cas, IC entierement negatif 0/13, exclut 0 dans 1/13 ; pire cas sans XVII : +0.047 [-0.299;+0.394]
+grp->dspcc: n=12 pente=+0.158 IC=[-0.162;+0.479] | ponderee par exercices +0.018 [-0.294;+0.330] | retrait d'une legislature : IC exclut -0,3 dans 11/12 cas, IC entierement negatif 0/12, exclut 0 dans 0/12 ; pire cas sans XVII : -0.128 [-0.456;+0.200]
+
+=== Annees de crise exclues : 13 legislatures ===
+enp->dsp: n=13 pente=+0.185 IC=[-0.239;+0.610] | ponderee par exercices +0.134 [-0.369;+0.638] | retrait d'une legislature : IC exclut -0,3 dans 11/13 cas, IC entierement negatif 0/13, exclut 0 dans 0/13 ; pire cas sans XVII : -0.081 [-0.741;+0.578]
+enp->dspcc: n=12 pente=+0.306 IC=[-0.182;+0.793] | ponderee par exercices +0.196 [-0.369;+0.762] | retrait d'une legislature : IC exclut -0,3 dans 11/12 cas, IC entierement negatif 0/12, exclut 0 dans 0/12 ; pire cas sans XVII : -0.107 [-0.817;+0.604]
+grp->dsp: n=13 pente=+0.046 IC=[-0.257;+0.349] | ponderee par exercices -0.003 [-0.311;+0.306] | retrait d'une legislature : IC exclut -0,3 dans 9/13 cas, IC entierement negatif 0/13, exclut 0 dans 0/13 ; pire cas sans XVII : -0.149 [-0.523;+0.226]
+grp->dspcc: n=12 pente=+0.081 IC=[-0.282;+0.444] | ponderee par exercices -0.052 [-0.403;+0.298] | retrait d'une legislature : IC exclut -0,3 dans 6/12 cas, IC entierement negatif 0/12, exclut 0 dans 0/12 ; pire cas sans XVII : -0.230 [-0.615;+0.155]

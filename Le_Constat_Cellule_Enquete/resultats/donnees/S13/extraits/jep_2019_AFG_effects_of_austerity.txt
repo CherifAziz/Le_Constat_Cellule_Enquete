@@ -1,0 +1,1152 @@
+
+=== page 1 ===
+Journal of Economic Perspectives—Volume 33, Number 2—Spring 2019—Pages 141–162
+S
+ometimes governments need to reduce their budget deficits aggressively. 
+These policies are labeled “austerity.” Almost always austerity is needed 
+because excessive debt has been accumulated, as a result of policy mistakes 
+and political distortions (Alesina and Passalacqua 2016; Yared, in this issue). 
+The austerity policies embraced by several European countries starting in 
+2010 have generated an extraordinarily harsh policy debate. One side has argued 
+that austerity is (almost) always a bad idea. From this perspective, even European 
+countries that were experiencing serious difficulties in financial markets—either by 
+being totally cut off from borrowing like Greece, or by paying high risk premia like 
+Portugal, Spain, Ireland, and Italy—should have continued to stimulate their econ-
+omies with high levels of government spending. Austerity, the argument continues, 
+was self-defeating because the recessions it induced, or extended, only increased 
+government debt as a ratio of GDP. Blanchard and Leigh (2014) argued that this 
+round of austerity was particularly costly: in other words, fiscal multipliers were 
+especially high. The other side argued that postponing austerity would have caused 
+Effects of Austerity: Expenditure- and 
+Tax-based Approaches
+■ Alberto Alesina is Professor of Political Economy, Harvard University, Cambridge, 
+Massachusetts. Carlo Favero is Professor of Finance, and Francesco Giavazzi is Professor of 
+Economics, both at Bocconi University, Milan, Italy. Alesina and Giavazzi are Research Asso-
+ciates, National Bureau of Economic Research, Cambridge, Massachusetts. All three authors 
+are Fellows at the Innocenzo Gasparini Institute for Economic Research (IGIER), Università 
+Bocconi, Milan, Italy, and also Research Fellows at the Centre for Economic Policy Research, 
+London, United Kingdom. Their email addresses are aalesina@harvard.edu, carlo.favero@
+unibocconi.it, and francesco.giavazzi@unibocconi.it.
+† For supplementary materials such as appendices, datasets, and author disclosure statements, see the 
+article page at
+https://doi.org/10.1257/jep.33.2.141	
+doi=10.1257/jep.33.2.141
+Alberto Alesina, Carlo Favero, and Francesco Giavazzi
+
+=== page 2 ===
+142     Journal of Economic Perspectives
+debt defaults and bank runs, another round of financial collapses and, possibly, 
+the crumbling of the European monetary union with unpredictable and potentially 
+disastrous economic and political consequences.
+In this paper, we argue that the focus on austerity as such misses an important 
+distinction: austerity based upon spending cuts is much less costly than that based 
+upon tax increases. In our 2019 book, Austerity: When It Works and When it Doesn’t, we 
+documented close to 200 austerity plans in 16 high-income OECD economies from 
+the late 1970s until 2014. These plans have been reconstructed consulting original 
+documents concerning about 3,500 individual fiscal measures.1 Our analysis of these 
+episodes finds a large and statistically significant difference between the effects on 
+output of expenditure-based and tax-based austerity plans. On average, an expenditure- 
+based austerity plan the size of 1 percent of GDP implies a loss of about 1/4 of a 
+percentage point of GDP and lasts less than two years. In contrast, tax-based austerity 
+plans of the same size on average generate losses of more than two percentage points 
+of GDP and the effect lasts 3–4 years. Of course, these averages conceal a broader 
+range of outcomes. We even find a few cases of “expansionary austerity”—namely 
+cases in which the output costs associated with an expenditure-based austerity plan 
+have instead turned out to be output gains. Examples include Ireland, Denmark, 
+Belgium, and Sweden in the 1980s and Canada in the 1990s. There has been vitriolic 
+criticism of the possibility that expansionary austerity could ever exist. This dispute 
+has sometimes distracted from what we see as the most policy-relevant result: the enor-
+mous difference, on average, between expenditure- and tax-based austerity plans. 
+Our conclusions are very consistent with the findings of the literature on tax versus 
+spending multipliers as reviewed by Ramey in this symposium.
+We begin with a brief overview of some reasons why one might plausibly expect 
+the effects of spending cuts on output, and eventually on the debt/GDP ratio, 
+to differ from those of tax increases. We then turn to three key methodological 
+issues that arise in measuring the effects of austerity empirically: 1) endogeneity, 
+which in this case involves separating the effects on output of fiscal tightening from 
+those of changes in output on the fiscal balance; 2) multiyear horizons, namely 
+embracing the fact that austerity plans are almost always multiyear events involving a 
+mixture of announcements of future changes in policy and immediate changes; and 
+3) the choice of the empirical model needed to design the experiment to measure 
+the macroeconomic effects of austerity. In each case, we describe some common 
+approaches in the earlier literature and how our own recent work draws upon them.
+After having walked the reader through these three aspects of the austerity 
+debate, we move to a more detailed discussion of our own findings. Together 
+with our overall finding that expenditure-based austerity has on average smaller 
+effects on output than tax-based austerity, we look for the channels that might be 
+responsible for this result. We find that a main difference between expenditure- and 
+tax-based austerity plans is the reaction of private capital investment. We also find 
+1 Our data are available in a user-friendly form at http://www.igier.unibocconi.it/fiscalplans.
+
+=== page 3 ===
+Alberto Alesina, Carlo Favero, Francesco Giavazzi     143
+that the smaller negative effect of expenditure-based austerity plans looks much the 
+same both before and after the Great Recession. In this discussion, we also review 
+how the policy and the academic debates about austerity have evolved over time. In 
+a concluding section, we offer some additional thoughts about how our framework 
+of expenditure- and tax-based austerity plans relates to issues of redistribution, the 
+electoral consequences of austerity, the case of Greece, and whether nations of 
+Europe should have been slower after the Great Recession to seek out austerity.
+Why Might Expenditure- and Tax-based Austerity Have Different 
+Effects?
+When analyzing austerity measures, it has been common for both policymakers 
+and researchers to consider only the overall change in the fiscal balance, while paying 
+much less attention to how that change is achieved. There are a number of reasons 
+to suspect that the effects of expenditure-based and tax-based austerity may not be 
+the same. The basic workhorse IS–LM model informs much of the public debate 
+amongst politicians and the vast majority of the public. This model implies that 
+spending cuts are (much) more recessionary than tax increases because spending 
+multipliers in the model are (much) higher, in absolute value, than tax multipliers. 
+This assumption on the size of multipliers has been called into question in recent 
+research, as Ramey (in this issue) points out. Why? Several arguments concerning 
+both the demand side and the supply side are in order. First, with expenditure-based 
+austerity, forward-looking households will react to the lower path of spending by 
+realizing that future taxes will not rise as much as previously expected, or may even 
+fall. Thus, the permanent expected income of consumers increases—supporting 
+more private consumption. This, however, is not true for hand-to-mouth consumers 
+who cut spending one-to-one when their disposable income falls and do not react to 
+changes in permanent income. In the case of expenditure-based austerity, investors 
+will also perceive their future tax burden reduced, or at least not increased as much 
+as in the case of tax-based austerity. These effects will be stronger the more credible 
+and long-lasting the expenditure cuts are perceived to be. Tax-based austerity, which 
+does not tackle automatic increases in spending programs (like entitlements), will 
+generate expectations of additional taxes in the future, thus having the opposite 
+effects on consumers and investors.
+Second, debt consolidation policies often occur in a state of crisis or close to 
+it when investors (and consumers) are worried and uncertain about the future. 
+Imagine an economy that finds itself on an unsustainable path with an exploding 
+public debt (for instance, as described in Alesina and Drazen 1991; Blanchard 
+1990). The longer it waits before launching a fiscal stabilization, the bigger the 
+future austerity package will need to be. When the stabilization eventually occurs, 
+it removes the uncertainty about further delays, which would have increased its 
+costs even more. Croce, Kung, Nguyen, and Schmid (2012) show that increases in 
+government expenditure generate tax risks for firms: the extent of this uncertainty 
+
+=== page 4 ===
+144     Journal of Economic Perspectives
+depends on the government’s ability to pin down long-run tax dynamics. The 
+removal of uncertainty is another force that boosts entrepreneurs’ confidence and 
+supports investment spending.
+Third, demand-side effects may differ at different points of the cycle. For 
+instance, the relative shares of the two types of consumers (forward-looking and 
+hand-to-mouth) may vary over the business cycle, with hand-to-mouth consumers 
+likely to be more numerous during recessions. 
+Fourth, spending cuts and tax increases have different supply-side effects. Tax 
+distortions may affect the supply in a variety of ways. In the case of labor taxes, 
+the elasticity of prime age males is low, but it is higher for the second earner in 
+a family. Faced with higher labor taxes, youngsters may delay their entry into the 
+labor market, weighing on their family income, and the elderly may retire sooner, 
+putting additional burden on already stressed social security systems.
+Fifth, for both these demand-side and supply-side effects, the consequences of 
+expenditure- and tax-based plans vary with the persistence of the fiscal adjustment. 
+Expenditure-based plans are less recessionary the longer-lived is the reduction in 
+government spending, because the longer lasting the spending cuts, the larger 
+the expected reduction in taxes for consumers and investors. On the other hand, 
+the distortions associated with tax-based plans are larger the longer lasting is the 
+increase in the tax burden.2
+Austerity policies are rarely implemented in isolation: accompanying policies 
+matter. Clearly monetary policy has a role: by lowering interest rates and buying 
+government bonds, the central bank can help. This help is harder to come by at the 
+zero lower bound, like in the latest round of austerity in Europe. The behavior of the 
+exchange rate matters as well, especially for small open economies. Austerity poli-
+cies that are more successful in reducing interest rates—for instance, by reducing 
+risk premia on domestic bonds—may lead to a devaluation, which may help net 
+exports. Austerity programs have often been accompanied by structural reforms, 
+like labor or goods market liberalizations, which may affect the growth rate. The 
+question is whether systematic differences in accompanying policies can explain 
+the different output effects of expenditure-based versus tax-based austerity. We will 
+show that the answer to this question is negative. This of course does not mean that 
+accompanying policies are irrelevant, but simply that they do not explain the differ-
+ences between the two types of austerity policies. 
+Measuring the Effects of Austerity: Three Issues
+Because different theoretical models imply different multipliers—not only in 
+size but sometimes even in sign—empirical evidence is critical in selecting among 
+2 To the extent that fiscal adjustments are carried out in the form of multiyear plans, and thus perceived 
+to be relatively permanent, a standard neo-Keynesian model implies that spending cuts are less reces-
+sionary than tax increases, as shown in Alesina, Barbiero, Favero, Giavazzi, and Paradisi (2017).
+
+=== page 5 ===
+Effects of Austerity: Expenditure- and Tax-based Approaches     145
+different theories. To this end, the empirical specification and the design of the 
+identification strategy should be chosen independently from any specific theoretical 
+mechanism behind differential effects of austerity. In this section, we discuss the design 
+of empirical evidence on the macroeconomic consequences of fiscal adjustments. 
+Such a design is difficult for three reasons: 1) endogeneity, (2) the multiyear nature 
+of fiscal adjustments, and 3) that the problem of choosing the empirical model used 
+to measure the effects of exogenous shifts in fiscal policy on output growth.
+Endogeneity 
+The issue of endogeneity arises from the two-way interaction between fiscal 
+policy and output growth. Suppose you observe a reduction in the government 
+deficit together with an economic boom. It would be preposterous to jump to 
+the conclusion that the policies that reduced deficits also generated growth. The 
+causality is quite likely to run the other way: different factors (other than fiscal 
+policy) increased economic growth, and by doing so led to higher tax revenues 
+(for given tax rates), or reduced spending, say for unemployment compensa-
+tion or welfare. This question has of course been at the very core of all empirical 
+work on the effects of fiscal policy. Identification assumptions are thus needed to 
+measure the effects of shifts in fiscal policy on output growth, and such assump-
+tions should be as neutral as possible with respect to competing theories.
+An early literature addressed this issue by considering episodes of large 
+reductions in the cyclically adjusted budget deficit, arguing that this approach 
+would, supposedly, mute the reverse effects of the business cycle on the govern-
+ment balance. (The cyclically adjusted budget deficit is the deficit a country would 
+have if the economy ran at full potential.) For example, Giavazzi and Pagano 
+(1990) analyzed three cases of fiscal consolidations, which occurred in the 
+1980s, two in Denmark and one in Ireland. They argued that reductions in the 
+budget deficit signal that taxes may be lower in the future, with positive effects 
+on consumers’ permanent income and thus on consumption. Later, Alesina and 
+Ardagna (1998) identified five additional episodes of large fiscal consolidation: 
+Belgium 1984–86, Canada 1986–88, Italy 1989–92, Portugal 1984–86, and Sweden 
+1983–89. In each case, the cyclically adjusted primary deficit two years after the 
+consolidation was at least 4 percentage points of GDP smaller than before the 
+adjustment. These episodes were accompanied by growth of private consumption 
+and investment in almost every year of the adjustment, sometimes with a year delay 
+or so.
+One finding of this early literature was that deficit reductions implemented via 
+spending cuts were much less costly than those based upon tax increases, and that 
+the former were sometimes associated with an expansion of GDP, even on impact. 
+For example, McDermott and Wescott (1996) and Lambertini and Tavares (2005) 
+show that a fiscal consolidation that concentrates on the expenditure side, and espe-
+cially on transfers and government wages, is more likely to succeed in reducing the 
+public debt ratio than tax-based consolidation. These results were robust to alter-
+native measures of the cyclically adjusted budget deficit (for example, Alesina and 
+
+=== page 6 ===
+146     Journal of Economic Perspectives
+Perotti 1996). Using panel data for 19 OECD countries, Perotti (1999) estimates a 
+model that predicts expansionary adjustments in “bad times” and contractionary 
+adjustments in “good times.” In bad times, when public debt is growing rapidly, 
+a tax hike that rules out an even larger tax hike in the future can induce a posi-
+tive response of consumption. In this vein, Alesina and Ardagna (2010) study a 
+panel of OECD countries from 1970 to 2007. They define a fiscal adjustment as a 
+year in which the primary cyclically adjusted budget balance improves by at least 
+1.5 percent of GDP. They find that these fiscal adjustments are expansionary only 
+when they are spending-based. Moreover, they find that the fiscal adjustments asso-
+ciated with higher GDP growth are those in which a larger share of the reduction in 
+the primary deficit is accounted for by cuts in current government spending, rather 
+than in investment spending. They also find a positive reaction of private invest-
+ment spending to government spending cuts.
+One problem with this early literature is that cyclically adjusted measures 
+of the deficit likely suffer from measurement error (Perotti 2013) in a way that 
+means they still suffer from endogeneity. Even if the change in the fiscal balance is 
+cyclically adjusted, so that it excludes changes induced by automatic stabilizers, it 
+still includes other legislated changes in taxes and spending that are motivated by 
+the state of the economy.  
+An alternative way of identifying exogenous fiscal adjustments—and one 
+that has been increasingly adopted in recent years—is the “narrative approach” 
+launched by Romer and Romer (2010). These authors have recovered exogenous 
+shifts in taxes from a painstaking analysis of the motivations that US legislatures have 
+offered for each of their tax decisions. This approach has been labeled “narrative 
+identification.” The motivation underlying each tax decision is assessed consulting 
+original sources: budget documents, records of Congressional debates, speeches, 
+and so on. The authors define as exogenous—that is, not related to the business 
+cycle—all episodes of changes (up and down) in US federal taxes from 1947 to 2007 
+that were motivated by the aim of either improving long-run growth or reducing 
+an inherited deficit. Economists in the research department of the IMF (Devries, 
+Guarjardo, Leigh, and Pescatori 2011) used the narrative methodology to construct 
+a panel of exogenous shifts in fiscal variables for 17 OECD countries over the sample 
+1978–2009. These data only cover episodes of deficit reduction, but include both 
+changes in taxes and expenditures. 
+In Alesina, Favero, and Giavazzi (2019), we addressed endogeneity using the 
+narrative approach.3 We have documented close to 200 exogenous austerity plans—
+that is plans not adopted by considerations related to the business cycle—in 16 OECD 
+3 Jordá and Taylor (2016) use narratively identified shifts in fiscal variables as an instrument for studying 
+the effects of the changes in the cyclically adjusted fiscal balance. They overlook the difference between 
+tax-based and expenditure-based austerity and concentrate on the issue of the recessionary versus 
+expansionary effect of fiscal consolidations. These authors also question the validity of the narrative 
+fiscal instrument used by Guajardo, Leigh, and Pescatori (2014) and propose an alternative econometric 
+strategy. We discuss their criticism and their proposed strategy in the online Appendix available with this 
+paper at the journal website.
+
+=== page 7 ===
+Alberto Alesina, Carlo Favero, Francesco Giavazzi     147
+economies (Australia, Austria, Belgium, Canada, Denmark, Finland, France, 
+Germany, Ireland, Italy, Japan, Portugal, Spain, Sweden, the United Kingdom, and 
+the United States) from the late 1970s until 2014. To construct this time series of 
+exogenous shifts in fiscal variables, we took the Devries et al. (2011) dataset as a 
+starting point and extended it in many important dimensions. First, we added the 
+period 2010 to 2014, which is of course critical given the large amount of austerity 
+plans that occurred in those years. Second, going back to the original sources, we 
+complemented their data so as to keep track of the implementation of austerity 
+plans over time—an issue whose importance we address in the next section. Third, 
+we disaggregated these austerity plans depending on their composition. Our main 
+disaggregation is between austerity plans mostly based on expenditure cuts and 
+plans mostly based on tax hikes. But in addition, spending measures were further 
+disaggregated between cuts in transfers and cuts in other government consumption 
+(and investment). The measures on the tax side were broken down into indirect 
+and direct taxes. While doing this, we double-checked the Devries et al. (2011) clas-
+sifications and introduced some modifications.
+Multiyear Austerity
+Much of the literature on fiscal policy in general, and austerity in particular, 
+has evaluated the effects of individual shifts in taxes or spending on a year-by-year 
+(or even quarter-by-quarter) basis. Especially when this approach is applied to 
+austerity policies, it overlooks two important facts. One is the multiyear nature of 
+fiscal adjustments. Virtually all austerity programs are multiyear plans announced 
+in advance and sometimes revised along the way. Because expectations matter for 
+consumers’ and investors’ decisions, these announcements and the multiyear nature 
+of these plans need to be taken into account. The other point is that decisions about 
+how much to cut spending and how much to raise taxes are interconnected and 
+cannot be assumed to be independent of one another. Typically, a legislature first 
+decides by how much the deficit should be reduced (in the case of EU countries, 
+this target has to be agreed upon with the European Commission). Given this target, 
+its allocation between spending cuts and tax hikes is then decided through political 
+bargaining in the legislature.
+For example, the round of austerity which took place in Europe around 2010–
+2014 typically took the form of three-year plans of deficit reduction, announced 
+by various countries in agreement with the EU or the “Troika” (the European 
+Commission, the European Central Bank, and the International Monetary Fund). 
+In some cases, these signposts were a precondition for receiving financing from the 
+EU and the IMF, as happened in Greece, Portugal, and Ireland. In other cases, they 
+were the conditions needed to avoid the “excessive deficit procedure,” a status that 
+implies automatic deficit reduction targets. In these agreements, the Troika did not 
+care much about the composition of deficit reduction policies: they just cared about 
+the bottom line in terms of multiyear deficit targets. 
+We used our narrative data to construct multiyear austerity plans. For each 
+of the austerity plans, the total fiscal adjustment over time was divided into three 
+
+=== page 8 ===
+148     Journal of Economic Perspectives
+categories: 1) measures announced and implemented immediately; 2) announce-
+ments of measures to be implemented in future periods; and 3) measures which had 
+been legislated in the past but are implemented in the current year. (For simplicity 
+of exposition here, we use only two time periods, one for the present and one for 
+the future, but in our empirical work we consider three-year plans.) Of course, not 
+all austerity plans need involve all three of these components. For each of these 
+three categories, we estimate separately the increase in taxes and the cut in expen-
+ditures. Tax increases are measured by the expected revenue effect of each change 
+in the tax code, either due to a change in tax rates or in the tax base, as a percent 
+of GDP the year before the tax change is introduced. Ideally, one would want to 
+distinguish between changes in the tax base and the tax rate because they may have 
+different economic effects (Riera-Crichton, Vegh, and Vuletin 2016), but this was 
+not feasible with our data. Spending cuts are changes in expenditure relative to the 
+level that would have occurred absent the change in policy, as is standard. We then 
+calculate, for each plan, which component dominates, whether spending cuts or tax 
+increases. In the data, very few plans are close to being half and half, and our results 
+are robust to dropping them. Note that considering tax hikes and expenditure cuts 
+as independent would overlook the fact that they are linked by the decided target 
+of deficit reduction. In any event, our results are robust (although more difficult to 
+interpret) if tax hikes and spending cuts were considered as independent variables 
+(for details, see Alesina, Favero, and Giavazzi 2019).
+We call the first category of measures (those announced and immediately 
+implemented) unexpected policy changes, where the total adjustment, or primary 
+deficit reduction e, is given by the sum of tax increases τ and spending cuts g 
+(that is, ​e​ i,t​ 
+u ​ = ​τ​ i,t​ 
+u ​ + ​g​ i,t​ 
+u ​). Of course, we recognize that even a measure announced 
+and implemented immediately could have been anticipated based upon the 
+legislative discussions that preceded its adoption (​e​ i,t,t–1​ 
+a 
+​  = ​τ​ i,t,t–1​ 
+a 
+​ + ​g​ i,t,t–1​ 
+a 
+​). For the 
+second category (announcements of policies to be adopted in the future), we make 
+the admittedly restrictive assumption that these announcements are believed by 
+economic agents, even though we of course also take account of changes when 
+they happen. An important improvement in this line of research would be a better 
+characterization of expectations of the public and different degrees of credibility 
+of policy announcements. Finally, we consider policy announced at time t, to be 
+implemented in the following years (​e​ i,t,t+1​ 
+a 
+​  = ​τ​ i,t,t+1​ 
+a 
+​ + ​g​ i,t,t+1​ 
+a 
+​). 
+Consider a specific example: the fiscal consolidation in Belgium in 1992–94. 
+The first column of Table 1 shows in 1992, 1993, and 1994 new immediate overall 
+reductions in the primary deficit equivalent respectively to 1.85, 0.52, and 0.38 
+percent of GDP in the previous year are announced and carried out. The second 
+column says that no previously announced austerity was carried out in 1992, while 
+in 1993 and 1994 previously announced measures for, respectively, 0.47 and 0.83 
+of GDP, were carried out. The third column notes that further deficit reductions 
+to be implemented in the following year are announced in 1992 and 1993, equiva-
+lent respectively to 0.47 and 0.83 percent of GDP. The next three columns show 
+tax increases. For instance, for 1992, the tax increase carried out immediately, the 
+
+=== page 9 ===
+Effects of Austerity: Expenditure- and Tax-based Approaches     149
+zero tax increase that had been preannounced in an earlier year, and the small tax 
+increase announced for the future. The final three columns show the spending 
+cuts: the immediate spending cuts, the cuts that had been announced in an 
+earlier year, and the spending cuts announced for the future. The adjustments in 
+1992 and 1994 are counted as expenditure-based (EB) because the sum over all 
+measures on the expenditure side are larger ((.82 + 0 + .42  > 1.03 + 0 + .05) and 
+(.38 + .28 + 0 > 0 + .55 + 0)), while the adjustment in 1993 is tax-based (TB) because 
+(.40 +.05 +.55 > .12 +.42 + .28). 
+The Model
+To analyze the effects of austerity, one needs an empirical model to generate two 
+paths for macroeconomic variables: in the presence and in the absence of the shift 
+in fiscal variables.4 The difference between these two paths is the impulse response 
+that describes the dynamic reaction of the economy to the policy correction. 
+One example is the model used by Romer and Romer (2010) in their study: a 
+truncated moving average representation of output growth in terms of (narratively 
+identified) tax changes only. In practice, they estimate an ordinary least squares 
+regression of output growth on (three-year lags) of exogenous changes in taxes. The 
+implicit assumption is that narratively identified changes in taxes are orthogonal to 
+all other structural shocks in the economy. The truncation at a three-year horizon 
+is not a problem provided the variables excluded are correlated with the included 
+narrative adjustments. Their regression also lumps together unexpected shifts in 
+taxes and announcements, assuming that the responses of economic agents to the 
+two kinds of policy shifts are identical. These assumptions have been relaxed in a 
+4 In the online Appendix available at the journal website, we describe several alternative empirical models 
+that can be used to simulate the macroeconomic effects of a plan. Along with moving averages and vector 
+autoregressions, we discuss an alternative empirical strategy, the local projection method proposed by 
+Jordá (2005), which implies computing impulse responses through the estimation of a battery of single 
+equations, each of them capturing the effect of an exogenous shift in fiscal variables at a given horizon.
+Table 1 
+The Multiyear Plan Introduced in Belgium in 1992 (% of GDP)
+Adjustment (e)
+Tax increase (τ)
+Expenditure cut (g)
+Year
+​e​ t​ u​
+​e​ t−1,t​ 
+a  ​
+​e​ t,t+1​ 
+u  ​
+​τ​ t​ u​
+​τ​ t–1,t​ 
+a 
+​
+​τ​ t,t+1​ 
+a 
+​
+​g​ t​ u​
+​g​ t−1,t​ 
+a  ​
+​g​ t,t+1​ 
+a  ​
+1992
+1.85
+0
+0.47
+1.03
+0
+0.05
+0.82
+0
+0.42
+EB
+1993
+0.52
+0.47
+0.83
+0.40
+0.05
+0.55
+0.12
+0.42
+0.28
+TB
+1994
+0.38
+0.83
+0
+0
+0.55
+0
+0.38
+0.28
+0
+EB
+Note: ​e​ t​ u​ is the unanticipated adjustment implemented in year t; ​e​ t−1​ 
+a  ​, t is the anticipated adjustment, 
+announced in the year t  – 1 and implemented in year t; ​e​ t,t +1​ 
+a 
+​ is the adjustment announced in the year 
+t for implementation in the year t + 1; and analogously for the tax increases τ and expenditure cuts g. 
+To decide whether something is expenditure-based (EB) or tax-based (TB), we sum over all g and τ 
+measures and pick the category whose sum is larger.
+
+=== page 10 ===
+150     Journal of Economic Perspectives
+number of subsequent contributions. For example, Mertens and Ravn (2013) find 
+that unexpected changes in taxes produce short-run effects on aggregate output 
+that are larger than those associated with announcements. Favero and Giavazzi 
+(2012) avoid the truncation problem by including narrative shocks in a vector 
+autoregression, which includes government expenditure, government receipts, 
+output growth, inflation, and the average interest cost of the public debt.
+In our view, dynamic models such as vector autoregressions have several advan-
+tages. First, the estimated coefficients on the narratively identified shifts in fiscal 
+variables measure the effect on output growth of the component of such shifts 
+that is orthogonal to lagged included variables: thus, the estimated multipliers are 
+not affected by the possible predictability of plans on the basis of past informa-
+tion. Second, by including in the vector autoregression changes in revenues and 
+spending (as a fraction of GDP), one can track the effect of the narratively iden-
+tified shifts in fiscal variables on total revenues and total spending. This allows a 
+researcher to check the strength of narratively identified instruments: for instance 
+verifying if, following a positive shift in taxes, revenues indeed increase. Finally, 
+dynamic models allow a researcher to reconstruct the response of the debt/GDP 
+ratio to a fiscal adjustment.
+In our book, we detail how to insert narratively identified expenditure- and 
+tax-based austerity plans into a fiscal vector autoregressive model (Alesina, Favero, 
+and Giavazzi 2019). The parameters estimated in such a vector autoregression can 
+then be used to generate two alternative paths for the macroeconomic and policy 
+variables, in the presence or absence of the austerity plan. This vector autoregres-
+sion can be linear or nonlinear. The nonlinearity allows for the dynamic response 
+to a fiscal plan to differ depending on the regime the economy is in when the 
+plan is introduced—for example, during an expansion or a recession, or with an 
+increasing or stable debt/GDP ratio.5
+Finally, how to measure the fiscal multipliers? In this symposium, Ramey discusses 
+several alternatives used in the literature. The most common approach considers the 
+total output response over time to a given fiscal adjustment (typically 1 percent of 
+GDP), as in Romer and Romer (2010). We prefer the option of looking at the total 
+output response over time divided by total change in fiscal variables over time, an 
+approach suggested by Woodford (2011) and used by Mountford and Uhlig (2009), 
+Uhlig (2010), Fisher and Peters (2010), and Auerbach and Gorodnichenko (2013). 
+This approach has the advantage of taking into account the response of taxes and 
+spending to the fiscal plan, as well as considering the persistence of fiscal shocks.
+5 In a multiyear plan, unexpected measures are typically accompanied by the announcement of future 
+measures. This means that one cannot simulate the effect of an unexpected measure in isolation (unless 
+it is unaccompanied by any other announcement). Doing so would assume that unexpected measures 
+and announcements are uncorrelated—which they are not in our data. This problem can be addressed 
+by exploiting the in-sample correlation between announcements and unexpected measures. More 
+specifically, one can estimate parameters that relate announcements to unanticipated shifts in fiscal 
+variables. Then, when simulating the effects of an unexpected measure, one can accompany it with an 
+“artificial” announcement constructed using the value estimated in the sample.
+
+=== page 11 ===
+Alberto Alesina, Carlo Favero, Francesco Giavazzi     151
+Tax-based versus Expenditure-based Austerity: Results
+Several graphs summarize our key results (for details, see Alesina, Favero, and 
+Giavazzi 2019). Figure 1 shows the effect on per capita GDP (panel A) and on private 
+investment (panel B) of an expenditure-based austerity plan (blue line) and a tax-
+based austerity plan (red line). The two continuous lines in the figures show the 
+response of GDP (and private investment) to a plan that reduces the deficit-to-GDP 
+ratio 1 percent relative to the path that these variables would have followed in the 
+absence of the fiscal plan. The figures are based on the simulation of a panel vector 
+Figure 1 
+The Response to Two Different Austerity Plans
+Source: Based on the author’s simulation of a panel vector autoregression approach for about 200 
+episodes of austerity across the 16 countries in our sample for the period 1978–2014.
+Note: The Figure shows the effect on per capita GDP (panel A) and on private investment (panel B) of 
+an expenditure-based austerity plan (blue line) and a tax-based austerity plan (red line). The continuous 
+lines show the response to a plan which reduces the deficit-over-GDP ratio of 1 percent relative to the 
+path that these variables would have followed in the absence of the fiscal plan. The dotted lines indicate 
+the 90 percent confidence intervals. 
+A: Response of GDP 
+B: Response of Private Investment 
+1
+0
+0
+1
+2
+3
+4
+−1
+−2
+−3
+0
+1
+2
+3
+4
+−5
+−4
+−3
+−2
+−1
+0
+1
+Horizon, years 
+Horizon, years 
+Cumulative response, %
+Cumulative response, %
+Spending based
+Tax based
+Spending based
+Tax based
+
+=== page 12 ===
+152     Journal of Economic Perspectives
+autoregression approach for about 200 episodes of austerity across the 16 coun-
+tries in our sample for the period 1978–2014, as mentioned above. The difference 
+between the effects of expenditure- and tax-based plans is striking. As we can see 
+from the dotted lines indicating the 90 percent confidence intervals, the two types 
+of austerity plans are statistically different from one another. Tax-based austerity 
+plans lead to deep and prolonged recessions, lasting several years. Expenditure-
+based plans on average exhaust their mild recessionary effect within two years after 
+a plan is introduced. Of course, these findings represent averages of many plans. We 
+provide details on specific episodes and detailed case studies in our book (Alesina, 
+Favero, and Giavazzi 2019).6 
+The detailed data from our narrative approach also allows us to look at some 
+broad categories of spending and taxes. For example, when we distinguish the effect 
+of cuts in expenditure on goods, services, and investment from cuts in transfer 
+payments (where transfers include both monetary transfers, such as social security, 
+and in-kind transfers, such as health expenditures), we find that the results are 
+broadly similar, although cuts in transfers imply even lower costs in terms of GDP 
+growth than cuts in spending on goods and investment. This finding suggests that if 
+one wishes to aggregate transfers with other items of the government budget, they 
+ought to be aggregated with spending and not considered akin to negative taxes. In 
+constructing our expenditure-based austerity plans, we would have liked to separate 
+current government consumption from public investment but there are almost no 
+austerity plans where the main component is a cut in public investment. Across 
+the austerity plans we consider, when aggregating cuts in government consumption 
+and investment, the former component represents around 80 percent of the total 
+correction. The spending-based plans we study thus describe austerity programs 
+mostly based on cuts in current government spending. The effects of cuts in public 
+investment spending is obviously an important question for future research since 
+they may have long-term costs that are not considered here.
+The component of aggregate demand that mostly drives the heterogeneity 
+between the effects of tax- and expenditure-based austerity is private investment. 
+Figure 1B reports the responses of private investments to fiscal plans and illustrates an 
+even stronger heterogeneity than that observed for output growth. Private consump-
+tion instead behaves relatively similarly in the two cases of austerity. Net exports also 
+do not behave differently during expenditure- and tax-based episodes. This fact makes 
+it unlikely that movements in the exchange rate are an important factor in explaining 
+the differences in the effects of expenditure- versus tax-based austerity. 
+Figure 2 shows the effects of tax- and expenditure-based austerity plans on the 
+debt/GDP ratio. The effects vary depending on the initial level of debt and its cost. 
+We consider two situations: a low level of debt (around 60 percent of GDP) and a 
+high level of debt (around 120 percent of GDP) at the time the fiscal adjustment 
+is implemented. In both cases, the cost of debt service is the same and assumed 
+6 Estimating the truncated moving average representation of these variables, as done in Romer and 
+Romer (2010), instead of simulating a vector autoregression, gives very similar results.
+
+=== page 13 ===
+Effects of Austerity: Expenditure- and Tax-based Approaches     153
+to be relatively low. Figure 2 is derived from a vector autoregression that includes 
+taxes, government expenditure, net interest expenses on government debt, output 
+growth and inflation, along with the narratively identified austerity plans. In the 
+scenario with high public debt, an expenditure-based austerity plan (blue line) has 
+a stabilizing effect on the debt dynamics, as debt goes down, while a tax-based plan 
+(red line) has a destabilizing effect: that is, public debt tends to increase in the first 
+years following a tax-based austerity plan. In the scenario with low public debt, the 
+expenditure-based adjustment remains stabilizing, while the effect of a tax-based 
+plan becomes neutral and not statistically different from zero. 
+Summing up: the anti-austerity argument—namely, that the latter creates 
+large recessions and is self-defeating because it does not reduce the debt/GDP 
+ratio—applies only to tax-based austerity, not to expenditure-based austerity. This 
+distinction has been vastly overlooked. To our knowledge, only the government of 
+Ireland in presenting its austerity plan in 2010 made an explicit reference to the 
+academic literature emphasizing the different effects of tax hikes versus spending 
+cuts. The European Commission’s Ireland Stability Programme Update (December 
+2009, p.15) explains:
+Figure 2 
+Public Debt Response to a Fiscal Consolidation Plan with Low and High Initial 
+Debt-to-GDP Ratios (Assuming a Low Cost of Debt in Each Case)
+Source: : Authors. 
+Note: Figure 2 shows the effects of tax- and expenditure-based austerity plans on the debt-to-GDP ratio. 
+The effects vary depending on the initial level of debt and its cost. We consider two situations: a high 
+debt (around 120 percent of GDP), and a low level of debt (around 60 percent of GDP), at the time 
+the fiscal adjustment is implemented. In both cases, the cost of debt service is the same and assumed 
+to be relatively low. Figure 2 is derived from a vector autoregression that includes taxes, government 
+expenditure, net interest expenses on government debt, output growth, and inflation, along with the 
+narratively identified austerity plans.
+A: Low Debt
+B:  High debt
+Expenditure-based
+Tax-based
+90% conﬁdence interval (tax-based)
+90% conﬁdence interval (expenditure-based)
+0
+−3.0
+−2.0
+−1.0
+0.0
+1.0
+2.0
+3.0
+1
+2
+3
+4
+0
+−3.0
+−2.0
+−1.0
+0.0
+1.0
+2.0
+3.0
+1
+2
+3
+4
+Cumulative debt response, %
+Cumulative debt response, %
+Horizon, years
+Horizon, years
+
+=== page 14 ===
+154     Journal of Economic Perspectives
+In framing Budget 2010, the Government focused on curbing spending as 
+expenditure needs to adjust to the revenue base which has been reduced as a 
+result of the overall contraction of the economy and the loss of certain income 
+streams. In addition, in formulating policy the Government took on board 
+evidence from international organizations, such as the EU Commission, the 
+OECD and the IMF, as well as the relevant economic literature which indicates 
+that consolidation driven by cuts in expenditure is more successful in reducing 
+deficits than consolidation based on tax increases. Past Irish experience also 
+supports this view and suggests that confidence is more quickly restored when 
+adjustment is achieved by cutting expenditure rather than by tax increases. 
+Although our work focused on 16 high-income OECD economies, many of 
+our results may apply to other countries. Gunter, Riera-Crichton, Vegh, and Vuletin 
+(2018) show that this is indeed the case for Latin American countries with a rela-
+tively large government sector. They find that fiscal adjustments carried out mainly 
+through tax increases might be heavily recessionary in Latin American countries 
+with high levels of taxation, such as Argentina and Uruguay (similarly to our OECD 
+countries), but be fairly innocuous where initial taxation is low. They also find that 
+the output costs of spending cuts are lower the more gradual is the fiscal adjustment.
+In the remainder of this section, we address various questions which we suspect 
+may have already occurred to the readers: whether the effects of expenditure- and 
+tax-based austerity might differ in expansions versus recessions or at the zero lower 
+bound, as well as whether the milder effects of expenditure-based, compared to tax-
+based austerity, might be more likely when austerity is implemented in combination 
+with structural reforms or accommodative monetary policies. None of these possibly 
+confounding factors alters our central finding that expenditure-based austerity plans 
+are less costly to the economy and more effective in reducing the debt/GDP ratio.
+Austerity during Expansions and Recessions
+Government spending is likely to have larger expansionary effects in recessions 
+than in expansions because, when the economy has slack, an increase in govern-
+ment spending is less likely to crowd out private demand. It might seem intuitively 
+obvious that, conversely, a cut in government spending should have a larger effect 
+in recessions than in expansions. But while this argument seems intuitive, testing it 
+proves to be difficult. A central problem is that recessions and booms evolve dynam-
+ically. An economy in a recession may already have in place a dynamic recovery 
+mechanism, or a growing economy may already be sputtering. 
+Auerbach and Gorodnichenko (2012, 2013) allow for the effects of shifts in 
+fiscal policy to differ depending on whether they are introduced during an expan-
+sion or a recession, using a version of the model of taxes, government spending, and 
+output by Blanchard and Perotti (2002) that allows for the estimated parameters to 
+be different in expansions and recessions. They find very different tax and expen-
+diture multipliers in recessions and in expansions. These authors, however, when 
+simulating a shift in fiscal policy do not allow the economy to change state during 
+
+=== page 15 ===
+Alberto Alesina, Carlo Favero, Francesco Giavazzi     155
+recessions and booms: they assume that the state of the economy is constant for 
+at least the 20 quarters over which multipliers are computed. Ramey and Zubairy 
+(forthcoming) note that this is not a reasonable assumption for recessions, which in 
+their sample have a mean duration of only 3.3 quarters. Ramey and Zubairy, instead, 
+compute multipliers allowing the state of the economy to evolve during their simu-
+lation. Using quarterly US data covering wars and deep recessions (1889–2015), 
+they find that government spending multipliers are less than one both in recessions 
+and in booms. 
+Those papers consider both fiscal expansions and contractions. In our own 
+work, we instead look only at periods of austerity (Alesina, Favero, and Giavazzi 
+2019). We find that, on average, expenditure-based adjustments have consistently 
+much lower costs than tax-based ones, and that the costs of the former are close to 
+zero regardless of the state of the economy. If austerity begins in a recession, it does 
+look a bit more costly than if it starts in a boom, but the difference is small, and it 
+does not affect the comparison between expenditure- and tax-based plans. When 
+we use the methodology of Auerbach and Gorodnichenko (2012, 2013), we find 
+larger negative effects of austerity during recessions, but the difference between 
+expenditure- and tax-based episodes remains clear.
+Whether expansionary fiscal policies and austerity measures have perfectly 
+symmetrical effects with opposite signs remains an open question and a topic for 
+future research. (For some evidence of an asymmetric effect of positive and nega-
+tive fiscal measures, Barnichon and Matthes (2016) is a useful starting point.) 
+However, there is a problem in that the narrative identification of exogenous 
+expansionary episodes is difficult. Fiscal expansions typically occur during an 
+economic downturn and are motivated by the state of the cycle, thus they are 
+endogenous. Conversely, the narrative identification strategy that we adopt tends 
+to exclude austerity plans beginning in a boom, because they could be confused 
+with stabilization policies. Thus, our estimates of the cost of austerity should be 
+considered an upper bound, because austerity starting in booms may be less costly. 
+In any case, these considerations do not affect the comparisons between expendi-
+ture- and tax-based plans, with the former being more likely to be expansionary 
+when started in a boom. 
+Austerity at the Zero Lower Bound
+Do our results on the comparisons between expenditure- and tax-based plans 
+also hold when the policy interest rate set by the central bank is at the zero lower 
+bound? This question is difficult to answer because cases of austerity at the zero 
+lower bound are essentially those that occurred in Europe in 2010–2014, plus a few 
+episodes in Japan. There were many other factors at play in these episodes: the cases 
+of European austerity started in the middle of very large recessions and occurred 
+at the same time in many highly integrated economies, with some countries also 
+facing major banking problems, like Ireland and Spain. Thus, it is hard to identify 
+what caused what, given that so many factors were at play at the same time and the 
+relatively few data points we have. 
+
+=== page 16 ===
+156     Journal of Economic Perspectives
+In order to shed some tentative light on this issue, we split our data into two 
+subsamples: 1) euro area countries (Austria, Belgium, France, Finland, Germany, 
+Ireland, Italy, Portugal, and Spain) from 1999, when the euro was introduced, 
+onwards; and 2) non-euro-area countries (Australia, Denmark, UK, Japan, Sweden, 
+United States, and Canada) together with euro area countries before 1999. We do 
+this because, as in the case of the zero lower bound, the presence of a common 
+currency prevents monetary policy from responding to fiscal developments in a 
+specific country, while the presence of year fixed effects allows us to control for the 
+fact that the European Central Bank might have responded to fiscal consolidations 
+implemented in a large number of countries at the same time. Obviously, our test is 
+imperfect, but the result is that we do not find a large difference between consolida-
+tions at or away from the zero lower bound. 
+European Austerity in 2010–2014
+Did the recent episodes of austerity that occurred after the financial crisis—
+mostly in Europe in the aftermath of the euro crisis—differ from previous cases? 
+Blanchard and Leigh (2014) answer “yes” to this question, considering the results 
+of an ordinary least squares regression on a cross-section of 27 advanced econo-
+mies. The dependent variable is the difference between actual cumulated real GDP 
+growth (year-over-year) during 2010–11 (based on the latest available data) and the 
+forecast prepared for the April 2010 IMF World Economic Outlook. The explanatory 
+variable is the forecasted change, over the same period, of the general govern-
+ment cyclically adjusted fiscal balance measured in percent of potential GDP. They 
+interpret the significant coefficient (- 1.09) on the regressor as evidence that fiscal 
+multipliers generated by the fiscal adjustments in 2011 were higher than those 
+predicted by forecasters.
+In our opinion, these results should be interpreted extremely cautiously. To 
+begin, we discussed above the limitations of the cyclically adjusted budget balance 
+as a measure of fiscal stance. In addition, one-third of the fiscal adjustments consid-
+ered in Blanchard and Leigh (2014) were fiscal expansions, not contractions, and 
+so asymmetries between the effects of expansions and contractions could invalidate 
+the result. Finally, as we show in Alesina, Favero, and Giovazzi (2019), the fiscal 
+adjustments expected as of April 2010 were in fact correlated with the change in 
+long-term interest rates: the estimated coefficient in the regression run by Blanchard 
+and Leigh (2014) could thus simply measure the recessionary effect of the contem-
+poraneous rise in the long-term interest rates.
+In other words, suppose that harsher austerity was implemented in those Euro-
+pean countries that were fiscally weaker and more exposed to a sudden increase 
+in the cost of financing the debt because of the high level of debt and because of 
+the “doom loop”—in which government debt becomes riskier, bank balance sheets 
+become weaker, the government bails out the banks with additional debt, which in 
+turn weakens bank balance sheets further, and so on. As a consequence of the Greek 
+crisis, eventually the worst-case scenario materialized: not only the feared hike in 
+interest rates, but also the amplification via the “doom loop” (Brunnermeier et al. 
+
+=== page 17 ===
+Effects of Austerity: Expenditure- and Tax-based Approaches     157
+2016). The contractionary effect of the increase of long-term rates was amplified by 
+an unusual contraction in lending and caused weakening of banks’ balance sheets, 
+which were heavily invested in government bonds. In this case, the stronger reces-
+sionary impact of austerity on growth could simply measure the unusual strength 
+of the effect of the hike in long-term rates caused by this “doom loop.” If the doom 
+loop channel is not included in the model used to produce the forecasts, then the 
+forecast error for output is correlated with the shock to interest rates, for which the 
+fiscal correction works as an instrument.
+If Blanchard and Leigh (2014) are taken at face-value, they would suggest that 
+the multipliers assumed by the IMF models, as by the models used by other interna-
+tional organizations, were “too small,” around 0.5. However, at least in the case of 
+tax-based plans, those multipliers are much smaller than the multipliers revealed by 
+our plan-based reduced-form empirical evidence, which hover around 2. 
+When we investigate in detail these European episodes of austerity, we 
+conclude that one cannot reject the hypothesis that their effects on output were not 
+statistically different from previous cases (Alesina, Favero, and Giavazzi 2019). The 
+analysis of these episodes also confirms that countries that chose tax-based austerity 
+suffered deeper recessions compared to those that decided to adopt expenditure-
+based plans. The very large size of recessions in some countries (Greece, Spain, 
+Portugal, Italy) are consistent with the large “tax multipliers” which we found for 
+previous periods, given the size and composition of some plans adopted in 2010–14. 
+Most of these plans included large tax increases. The two countries that adopted 
+expenditure cuts almost exclusively (Ireland) or adopted mostly expenditure cuts 
+(the United Kingdom) had much smaller and shorter recessions, and, in the case 
+of Ireland, this was despite a massive banking problem. The United Kingdom, 
+which had kept the pound rather than switching to the euro, was also helped by an 
+exchange rate devaluation. 
+Accompanying Policies
+If expenditure-based plans were systematically accompanied by more accom-
+modative policies, then the difference between expenditure- and tax-based plans 
+would result from these other policies and have nothing to do with different fiscal 
+multipliers. Guajardo et al. (2014) suggest that the stance of monetary policy may 
+explain the difference between expenditure- and tax-based measures. In Alesina, 
+Favero, and Giavazzi (2015), we show that only a very small fraction of the different 
+effect on output of expenditure- and tax-based adjustments can be ascribed to mone-
+tary policy. We come to this conclusion by augmenting the model used throughout 
+with a monetary policy channel.7 When this channel is closed, in a counterfactual 
+that prevents monetary policy from reacting to fiscal adjustments, an important 
+7 This channel produces estimates of the impact of monetary policy on output which lie in between the 
+typical response obtained on US data (see for example, Christiano, Eichenbaum, and Evans (1999) and 
+that obtained on euro area data, which is smaller than that observed for the United States (for example, 
+see Peersman and Smets 2001).
+
+=== page 18 ===
+158     Journal of Economic Perspectives
+heterogeneity between expenditure- and tax-based austerity plans is still observed. 
+Finally, note that the response of monetary policy may be endogenous in the sense 
+that the central bank may on purpose react differently to more or less credible 
+austerity plans, and credibility of a fiscal plan may be related to its composition.
+The same line of analysis applies to the behavior of the exchange rate. If an 
+expenditure-based austerity plan reduces interest rates and leads to a devaluation, 
+it may in turn sustain output growth. However, a devaluation occurring before the 
+beginning of an expenditure-based austerity plan (ignoring the possible significant 
+effects of expectations of a plan on exchange rates) may lead to a spurious attri-
+bution of low output cost to the plan, since the benefits of the devaluation are 
+overlooked. In Alesina, Favero, and Giavazzi (2019), we find no systematic differ-
+ence in the behavior of the exchange rate before expenditure- or tax-based austerity 
+plans. We also exclude, in a variety of different ways, plans that were preceded by 
+significant (or even small) devaluations, and show that our results are robust. Also, 
+if the main explanation for the difference between the output effects of expendi-
+ture- and tax-based plans were the exchange rate, then the component of aggregate 
+demand that should reflect it would be net exports. This is not the case.
+Periods of austerity are sometimes accompanied by structural reforms, which 
+may include product and/or labor market liberalizations. The latter may stimu-
+late growth and, if they were systematically occurring along with expenditure-based 
+austerity plans, that could explain our findings. But the answer to this conjecture 
+is also “no.” In fact, structural reforms do not occur systematically during periods 
+of spending cuts according to our findings. Although, Perotti (2013), Alesina, 
+Perotti, Tavares, Obstfeld, and Eichengreen (1998), and Alesina and Ardagna 
+(2013) show that amongst all fiscal adjustments, the least costly were those accom-
+panied by supply-side reforms and by wage moderation, this is not inconsistent with 
+our results. Our robustness check is different: we checked whether the choice of 
+­expenditure- or tax-based austerity plans can be explained by supply-side reforms, 
+and we found that it cannot. 
+Further Thoughts
+In this final section, we briefly discuss a few additional issues regarding the 
+trade-offs between expenditure-based and tax-based austerity. First, redistributive 
+effects may differ between austerity achieved through tax hikes or spending cuts. 
+There is a common, though untested, perception that spending cuts may raise 
+inequality more than tax increases, but clearly this conclusion depends on which 
+taxes are raised and which spending items are cut. In the context of high-income 
+OECD countries, total government spending is close to 50 percent of GDP. It seems 
+quite plausible then that budget cuts of the magnitudes needed to reduce a deficit 
+by, say, 3–4 percent of GDP can be achieved without affecting the welfare of the 
+really poor. In fact, much of the modern welfare state supports the middle class and 
+in some cases even the upper-middle class, which often enjoys almost free health 
+
+=== page 19 ===
+Alberto Alesina, Carlo Favero, Francesco Giavazzi     159
+care regardless of income levels, heavily subsidized university education, and (espe-
+cially in continental Europe) subsidized services like transportation. In addition, 
+issues of redistribution arise not just at a point in time, but also across genera-
+tions. For example, an increase in the mandatory retirement age may lead to a 
+more equitable distribution of resources across generations. Cuts in current public 
+investment, rather than current transfers, also have important redistributive conse-
+quences across generations. Passing a large debt burden to future generations will 
+have consequences for intergenerational redistribution. Of course, the question of 
+how different spending or tax changes might affect redistribution is separate from 
+an analysis of whether austerity plans adopted in this or that country had these goals 
+in mind.
+Second, what are the electoral consequences of austerity? A common view 
+amongst commentators is that deficit reduction polices are the kiss of death for the 
+governments which implement them. However, the electoral effects of austerity are 
+not clear-cut or easy to predict (Alesina, Favero, and Giavazzi 2019). Several govern-
+ments (and not only in Germany) have extended their time in office during periods 
+of austerity.
+Third, although a great deal has been written about the experience of Greece 
+during 2010–2014, and the many errors, confusion, messy choices made during 
+that time, we have not discussed it specifically here.  In our book we discuss Greece 
+in more detail (Alesina, Favero, and Giavazzi 2019); also see the excellent work by 
+Gourinchas, Philippon, and Vayanos (2017) and Ardagna and Caselli (2014). As the 
+Greek situation unfolded, the “Troika” (the European Commission, the European 
+Central Bank, and the International Monetary Fund) paid very little attention to the 
+composition of austerity plans, whether in Greece or anywhere else, and demanded 
+an extraordinarily heavy dose of both tax increases and spending cuts, which were 
+then implemented in a very unclear and hard-to-measure way. Using the (admittedly 
+rough) data available for Greece, we used our model of fiscal adjustments, developed 
+in Alesina, Favero, and Giavazzi (2019), to simulate the effects of the Greek austerity 
+plans. This exercise predicts the Greek recession quite well. It is baffling that the 
+Troika seemed surprised by the size of the Greek recession. Indeed, the “surprise” of 
+the Troika seems to be a hypocritical attempt at deflecting responsibility.
+Fourth, was 2010 too soon to start austerity plans in some European countries? 
+It is obviously impossible to know what would have happened if countries across 
+Europe had continued to expand their borrowing beyond 2010 and for several years 
+afterwards. We suspect that the rosy scenario painted by the anti-austerity side is 
+too optimistic. However, our analysis suggests that the effects of austerity would 
+have been lighter if it had been focused mostly on the spending side: Ireland and 
+(in part) the United Kingdom, did exactly that and had much smaller and shorter 
+recessions than Italy, Portugal, and Spain, where a large portion of austerity was on 
+the tax side. Spending-based austerity plans that were less front-loaded, but cred-
+ible, would probably have worked better, leading to smaller recessions and debt 
+stabilization. An earlier intervention by the European Central Bank would have 
+been a welcome help, too.
+
+=== page 20 ===
+160     Journal of Economic Perspectives
+Finally, one may wonder: if spending cuts are so much less contractionary than 
+tax increases, why didn’t policymakers incorporate this knowledge into their deci-
+sions? They typically did not, with the exception of the Irish government in 2010 
+as we showed above. One possibility is that when the IMF and others argued for 
+austerity, the advice failed to distinguish between the expenditure- and tax-based 
+policies, implicitly sending the message that it did not much matter how deficits 
+were reduced. In addition, policymakers may find it harder to cut spending than to 
+raise taxes. Tax hikes are faster to implement and bring revenue more rapidly than 
+cuts in government spending programs, and so policymakers might adopt them 
+even if they suspect that they may be more recessionary. Moreover, spending cuts 
+often affect specific groups, like retirees, students, and public sector unions, who 
+are often organized and able to oppose spending cuts with strikes, protests, cuts of 
+campaign contributions, and other political activities which go above and beyond 
+voting. By comparison, taxpayers as a group are less politically organized. This is 
+a vivid example of a situation where the concentrated costs of blocking specific 
+spending cuts may loom larger to politicians than generalized costs of higher taxes.
+■ We thank the board of editors of the Journal of Economic Perspectives for guidance and 
+comments. Pierfrancesco Mei provided excellent research assistantship.
+References
+Alesina, Alberto, and Silvia Ardagna. 1998. 
+“Tales of Fiscal Adjustment.” Scholarly Articles 
+2579822, Harvard University Department of 
+Economics. 
+Alesina, Alberto, and Silvia Ardagna. 2010. 
+“Large Changes in Fiscal Policy: Taxes versus 
+Spending.” Chap. 2 in Tax Policy and the Economy, 
+vol. 24. University of Chicago Press.
+Alesina, Alberto, and Silvia Ardagna. 2013. “The 
+Design of Fiscal Adjustments.” Tax Policy and the 
+Economy vol. 27, pp. 19–68. University of Chicago 
+Press.
+Alesina, Alberto, Omar Barbiero, Carlo Favero, 
+Francesco Giavazzi, and Matteo Paradisi. 2017. 
+“The Effects of Fiscal Consolidations: Theory and 
+Evidence.” NBER Working Paper 23385, May.
+Alesina, Alberto, and Allan Drazen. 1991. “Why 
+Are Stabilizations Delayed?” American Economic 
+Review 81(5): 1170–88.
+Alesina, Alberto, Carlo Favero, and Francesco 
+Giavazzi. 2015. “The Output Effect of Fiscal 
+Consolidation Plans.” Journal of International 
+Economics 96(S1): S19–S42.
+Alesina, Alberto, Carlo Favero, and Francesco 
+Giavazzi. 2019. Austerity: When It Works and When It 
+Doesn’t. Princeton University Press.
+Alesina, Alberto, and Andrea Passalacqua. 
+2016. “The Political Economy of Government 
+Debt.” Chap. 33 in Handbook of Macroeconomics, 
+vol. 2, edited by John Taylor and Harold Uhlig, 
+2599–2651. Elsevier.
+Alesina, Alberto, and Roberto Perotti. 1996. 
+“Fiscal Adjustments in OECD Countries: Composi-
+tion and Macroeconomic Effects.” NBER Working 
+Paper 5730, August.
+Alesina, Alberto, Roberto Perotti, José Tavares, 
+Maurice Obstfeld, and Barry Eichengreen. 1998. 
+“The Political Economy of Fiscal Adjustments.” 
+
+=== page 21 ===
+Effects of Austerity: Expenditure- and Tax-based Approaches     161
+Brookings Papers on Economic Activity no. 1, pp. 
+197–266.
+Ardagna, Silvia, and Francesco Caselli. 2014. 
+“The Political Economy of the Greek Debt Crisis: 
+A Tale of Two Bailouts.” American Economic Journal: 
+Macroeconomics 6(4): 291–323. 
+Auerbach, Alan J., and Yuriy Gorodnichenko. 
+2013. “Fiscal Multipliers in Recession and Expan-
+sion.” Chap. 2 in Fiscal Policy after the Financial 
+Crisis, edited by Alberto Alesina and Francesco 
+Giavazzi. University of Chicago Press. 
+Auerbach, Alan J., and Yuriy Gorodnichenko. 
+2016. “Effects of Fiscal Shocks in a Globalized 
+World.” IMF Economic Review 64(1): 177–215.
+Barnichon, Régis, and Christian Matthes. 2016. 
+“Understanding the Size of the Government 
+Spending Multiplier: It’s in the Sign.” CEPR 
+Discussion Papers 11373, July.
+Blanchard, Olivier J. 1990. “Comments on 
+Giavazzi and Pagano.” In NBER Macroeconomics 
+Annual, 5: 110–117. 
+Blanchard, Olivier J., and Daniel Leigh. 2014. 
+“Learning about Fiscal Multipliers from Growth 
+Forecast Errors.” IMF Economic Review 62(2): 
+179–212.
+Blanchard, Olivier J., and Roberto Perotti. 2002. 
+“An Empirical Characterization of the Dynamic 
+Effects of Changes in Government Spending and 
+Taxes on Output.” Quarterly Journal of Economics 
+117(4): 1329–68.
+Brunnermeier, Marcus K., Luis Garicano, 
+Philip R. Lane, Marci Pagano, Ricardo Reis, Tano 
+Santos, David Thesmar, Stijn Van Nieuwerburgh, 
+and Dimitri Vayanos. 2016. “The Sovereign-Bank 
+Diabolic Loop and ESBies.” American Economic 
+Review 106(5): 508–12.
+Christiano, Lawrence J., Martin Eichenbaum, 
+and Charles L. Evans. 1999. “Monetary Policy 
+Shocks: What Have We Learned and To What 
+End?” Chap. 2 in Handbook of Macroeconomics vol. 
+1, edited by J. B. Taylor and M. Woodford. Elsevier.
+Croce, M. Max, Howard Kung, Thien T. 
+Nguyen, and Lukas Schmid. 2012. “Fiscal Policies 
+and Asset Prices.” Review of Financial Studies 25(9): 
+2635–72.
+Devries, Pete, Jamie Guajardo, Daniel Leigh, 
+and Andrea Pescatori. 2011. “A New Action-based 
+Dataset of Fiscal Consolidation.” IMF Working 
+Papers WP/11/128, June. 
+European 
+Commission. 
+2009. 
+“Ireland—
+Stability Programme Update: December 2009.” 
+http://ec.europa.eu/economy_finance/
+economic_governance/sgp/pdf/20_scps/2009-
+10/01_programme/ie_2009-12-09_sp_en.pdf.
+Favero, Carlo, and Francesco Giavazzi. 2012. 
+“Measuring 
+Tax 
+Multipliers: 
+The 
+Narrative 
+Method in Fiscal VARs.” American Economic Journal: 
+Economic Policy 4(2): 69–94.
+Fisher, Jonas D. M., and Ryan Peters. 2010. 
+“Using Stock Returns to Identify Government 
+Spending Shocks.” Economic Journal 120(544): 
+414–36.
+Giavazzi, Francesco, and Marco Pagano. 1990. 
+“Can Severe Fiscal Contractions Be Expansionary? 
+Tales of Two Small European Countries.” In NBER 
+Macroeconomics Annual 5: 75–122. 
+Gourinchas, Pierre-Olivier, Thomas Philippon, 
+and Dimitri Vayanos. 2017. “The Analytics of the 
+Greek Crisis.” NBER Macroeconomics Annual 31: 
+1–81.
+Guajardo, Jaime, Daniel Leigh, and Andrea 
+Pescatori. 2014. “Expansionary Austerity? Interna-
+tional Evidence.” Journal of the European Economic 
+Association 12(4): 949–68.
+Gunter, Samara, Daniel Riera-Crichton, Carlos 
+Vegh, and Guillermo Vuletin. 2018. “Non-Linear 
+Effects of Tax Changes on Output: The Role of 
+the Initial Level of Taxation.” World Bank Policy 
+Research Working Paper, WPS8668. 
+International Monetary Fund (IMF). 2010. 
+World Economic Outlook: April 2010: Rebalancing 
+Growth. World Economic and Financial Surveys. 
+International Monetary Fund.
+Jordá, Òscar. 2005. “Estimation and Inference 
+of Impulse Responses by Local Projections.” 
+American Economic Review 95(1): 161–82.
+Jordá, Òscar, and Alan M. Taylor. 2016. “The 
+Time for Austerity: Estimating the Average Treat-
+ment Effect of Fiscal Policy.” Economic Journal 
+126(590): 219–55.
+Lambertini, Luisa, and Jose A. Tavares. 2005. 
+“Exchange Rates and Fiscal Adjustments: Evidence 
+from the OECD and Implications for the EMU.” 
+Contributions in Macroeconomics 5(1): 1–28. 
+McDermott, C. John, and Robert F. Wescott. 
+1996. “An Empirical Analysis of Fiscal Adjust-
+ments.” International Monetary Fund Staff Papers 
+43(4): 725 –54.
+Mertens, Karel, and Morten O. Ravn. 2013. 
+“The Dynamic Effects of Personal and Corporate 
+Income Tax Changes in the United States.” 
+American Economic Review 103(4): 1212–47.
+Mountford, Andrew, and Harald Uhlig. 2009. 
+“What Are the Effects of Fiscal Policy Shocks?” 
+Journal of Applied Econometrics 24(6): 960–92.
+Peersman, Gert, and Frank Smets. 2001. “The 
+Monetary Transmission Mechanism in the Euro 
+Area: More Evidence from VAR Analysis.” Available 
+at SSRN: https://ssrn.com/abstract=356269.
+Perotti, Roberto. 1999. “Fiscal Policy in Good 
+Times and Bad.” Quarterly Journal of Economics 
+114(4): 1399–1436.
+Perotti, Roberto. 2013. “The ‘Austerity Myth’: 
+Gain without Pain?” Chap. 8 in Fiscal Policy after 
+
+=== page 22 ===
+162     Journal of Economic Perspectives
+the Financial Crisis, edited by Alberto Alesina and 
+Francesco Giavazzi. Elsevier. 
+Ramey, Valerie A., and Sarah Zubairy. Forth-
+coming. “Government Spending Multipliers in 
+Good Times and in Bad: Evidence From U.S. 
+Historical Data.” Journal of Political Economy 
+Riera-Crichton, Daniel, Carlos A. Vegh, and 
+Guillermo Vuletin. 2016. “Tax Multipliers: Pitfalls 
+in Measurement and Identification.” Journal of 
+Monetary Economics 79: 30–48.
+Romer, Christina D., and David H. Romer. 2010. 
+“The Macroeconomic Effects of Tax Changes: Esti-
+mates Based on a New Measure of Fiscal Shocks.” 
+American Economic Review 100(3): 763–801.
+Uhlig, Harald. 2010. “Some Fiscal Calculus.” 
+American Economic Review 100(2): 30–34.
+Woodford, Michael. 2011. “Simple Analytics 
+of the Government Expenditure Multiplier.” 
+American Economic Journal: Macroeconomics 3(1): 
+1–35.

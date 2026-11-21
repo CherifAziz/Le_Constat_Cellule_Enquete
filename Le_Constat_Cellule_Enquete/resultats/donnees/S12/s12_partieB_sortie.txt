@@ -1,0 +1,71 @@
+code_fonction présents : ['HC', 'M', 'MC', 'MD', 'ME', 'PE', 'PM', 'SE']
+Contrôle data.gouv / pièce officielle : 31 gouvernements, écart |ME+M| > 1 : 3 (10 %)
+   511 Jacques Chirac n°1           off=15 datagouv=15 écart=+0 | total off=36 dg=36
+   512 Raymond Barre n°1            off=16 datagouv=15 écart=-1 | total off=35 dg=34
+   513 Raymond Barre n°2            off=13 datagouv=13 écart=+0 | total off=39 dg=39
+   514 Raymond Barre n°3            off=19 datagouv=19 écart=+0 | total off=37 dg=37
+   515 Pierre Mauroy n°1            off=24 datagouv=24 écart=+0 | total off=42 dg=30
+   516 Pierre Mauroy n°2            off=26 datagouv=26 écart=+0 | total off=43 dg=43
+   517 Pierre Mauroy n°3            off=14 datagouv=14 écart=+0 | total off=42 dg=41
+   518 Laurent Fabius               off=16 datagouv=16 écart=+0 | total off=42 dg=42
+   519 Jacques Chirac n°2           off=14 datagouv=14 écart=+0 | total off=37 dg=37
+   520 Michel Rocard n°1            off=18 datagouv=18 écart=+0 | total off=41 dg=41
+   521 Michel Rocard n°2            off=21 datagouv=21 écart=+0 | total off=49 dg=49
+   522 Édith Cresson                off=19 datagouv=19 écart=+0 | total off=45 dg=45
+   523 Pierre Bérégovoy             off=20 datagouv=20 écart=+0 | total off=41 dg=41
+   524 Édouard Balladur             off=23 datagouv=23 écart=+0 | total off=29 dg=29
+   525 Alain Juppé n°1              off=26 datagouv=26 écart=+0 | total off=42 dg=42
+   526 Alain Juppé n°2              off=16 datagouv=16 écart=+0 | total off=32 dg=32
+   527 Lionel Jospin                off=14 datagouv=14 écart=+0 | total off=26 dg=26
+   528 Jean-Pierre Raffarin n°1     off=15 datagouv=15 écart=+0 | total off=27 dg=27
+   529 Jean-Pierre Raffarin n°2     off=15 datagouv=15 écart=+0 | total off=38 dg=38
+   530 Jean-Pierre Raffarin n°3     off=17 datagouv=17 écart=+0 | total off=43 dg=43
+   531 Dominique de Villepin        off=16 datagouv=16 écart=+0 | total off=31 dg=31
+   532 François Fillon n°1          off=15 datagouv=15 écart=+0 | total off=20 dg=20
+   533 François Fillon n°2          off=15 datagouv=15 écart=+0 | total off=31 dg=31
+   534 François Fillon n°3          off=22 datagouv=15 écart=-7 | total off=30 dg=31
+   535 Jean-Marc Ayrault n°1        off=18 datagouv=18 écart=+0 | total off=34 dg=34
+   536 Jean-Marc Ayrault n°2        off=20 datagouv=20 écart=+0 | total off=38 dg=38
+   537 Manuel Valls n°1             off=16 datagouv=16 écart=+0 | total off=30 dg=30
+   538 Manuel Valls n°2             off=16 datagouv=16 écart=+0 | total off=33 dg=33
+   539 Bernard Cazeneuve            off=17 datagouv=17 écart=+0 | total off=37 dg=37
+   540 Edouard Philippe n°1         off=18 datagouv=16 écart=-2 | total off=22 dg=22
+   541 Edouard Philippe n°2         off=19 datagouv=16 écart=-3 | total off=29 dg=29
+Variante X3 retenue (règle § 4) : True
+Années de récession (Eurostat, pièce S11) : [1975, 1993, 2009, 2020] ; exclues avec l'année suivante : [1975, 1976, 1993, 1994, 2009, 2010, 2020, 2021]
+
+X1 : min 12, max 25, moyenne 16.3, écart-type 3.24 ; Y1 écart-type 1.54 ; Y2 écart-type 1.51
+Puissance (bilatérale, 5 %) : r=0,3 n=51 -> 0.57 ; r=0,3 n=25 gouvernements -> 0.31
+Effet minimal +0,05 pt/ministre <=> r équivalent = 0.105 ; puissance n=51 -> 0.11 ; n=25 -> 0.08
+
+--- Test principal ---
+Y1 (Δ dépense primaire) ~ X1                            n=51 pente=+0.0542 IC95=[-0.0814 ; +0.1899] MDE80=0.1930 r=+0.114 Spearman=+0.102 p_perm=0.431
+Y2 (Δ solde primaire) ~ X1                              n=51 pente=+0.0055 IC95=[-0.1283 ; +0.1393] MDE80=0.1903 r=+0.012 Spearman=+0.046 p_perm=0.937
+
+--- Contrôle (a) hors récessions et années suivantes ---
+Y1 ~ X1 hors crise                                      n=43 pente=+0.0589 IC95=[-0.0213 ; +0.1390] MDE80=0.1139 r=+0.226 Spearman=+0.192 p_perm=0.146
+Y2 ~ X1 hors crise                                      n=43 pente=+0.0210 IC95=[-0.0616 ; +0.1036] MDE80=0.1174 r=+0.080 Spearman=+0.053 p_perm=0.606
+
+--- Contrôle (b) régression multiple : X1 + récession + premier exercice du gouvernement + pré-électoral ---
+Y1 : pente X1=+0.0481 IC95=[-0.0359 ; +0.1321] ; récession=+4.25 ; premier=-0.35 ; pré-élect.=-0.32
+Y2 : pente X1=+0.0105 IC95=[-0.0804 ; +0.1014] ; récession=-3.87 ; premier=+0.49 ; pré-élect.=+0.24
+
+--- Contrôle (c) variantes de mesure ---
+Y1 ~ X2 (tous les membres)                              n=51 pente=+0.0390 IC95=[-0.0312 ; +0.1092] MDE80=0.0999 r=+0.158 Spearman=+0.303 p_perm=0.267
+Y2 ~ X2                                                 n=51 pente=-0.0331 IC95=[-0.1021 ; +0.0359] MDE80=0.0982 r=-0.136 Spearman=-0.280 p_perm=0.338
+Y1 ~ X3 (à la date du vote, data.gouv [S])              n=51 pente=+0.0049 IC95=[-0.1508 ; +0.1605] MDE80=0.2214 r=+0.009 Spearman=+0.091 p_perm=0.949
+Y2 ~ X3                                                 n=51 pente=+0.0426 IC95=[-0.1094 ; +0.1946] MDE80=0.2162 r=+0.080 Spearman=+0.040 p_perm=0.576
+
+--- Contrôle (d) un point par gouvernement (moyenne des exercices) ---
+Y1 moyen ~ X1, par gouvernement                         n=25 pente=+0.0412 IC95=[-0.0910 ; +0.1734] MDE80=0.1870 r=+0.133 Spearman=+0.085 p_perm=0.522
+Y2 moyen ~ X1, par gouvernement                         n=25 pente=+0.0041 IC95=[-0.1206 ; +0.1288] MDE80=0.1764 r=+0.014 Spearman=+0.098 p_perm=0.945
+
+VERDICT (règle figée) : dépense (Y1) -> ni l'un ni l'autre ; solde (Y2, recoupement) -> ni l'un ni l'autre
+
+--- POST HOC (ajouté après gel) : écart entre effectif au vote (X3) et à la formation (X1) ---
+écart X3 - X1 : moyenne -0.75, min -8, max +2
+Y1 ~ X1 + (X3-X1) : pente X1=+0.0144 IC95=[-0.1408 ; +0.1696] ; pente écart=-0.1440 IC95=[-0.4171 ; +0.1291]
+
+--- POST HOC : sans les exercices 2021-2025 (gouvernements mesurés sur data.gouv [S]) et sans 1996 (Juppé 2 formé le 7/11/1995) ---
+Y1 ~ X1, 1975-2020                                      n=46 pente=+0.0357 IC95=[-0.1016 ; +0.1730] MDE80=0.1952 r=+0.079 Spearman=+0.115 p_perm=0.611
+Y1 ~ X1, sans 1996                                      n=50 pente=+0.0532 IC95=[-0.0841 ; +0.1905] MDE80=0.1953 r=+0.112 Spearman=+0.092 p_perm=0.443

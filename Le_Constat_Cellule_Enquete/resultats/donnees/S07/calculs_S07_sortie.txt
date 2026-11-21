@@ -1,0 +1,36 @@
+C-S07-001 France effort discretionnaire execute 2011-2014
+  2011: recettes 0.7 depenses 0.2 total 0.9
+  2012: recettes 1.1 depenses 0.1 total 1.2
+  2013: recettes 1.4 depenses 0.0 total 1.4
+  2014: recettes 0.2 depenses 0.4 total 0.6
+  cumul: recettes 3.4 depenses 0.7 total 4.1 ; part recettes 83%
+  (clef credit d'impot 2014 -0,1 et contrecoup du plan de relance 2011 +0,6 hors effort)
+
+C-S07-002 Multiplicateurs implicites (perte de PIB / effort)
+  OFCE 2016 : somme effet direct national 2011-14 = 3.1 pt ; total (avec partenaires) = 4.9 pt
+    [NON COMPARABLE : numerateur OFCE (impulsion OFCE, e-mod), denominateur = effort du gouvernement ; indicatif seulement]
+    rapporte a l'effort execute du gouvernement (4.1) : direct 0.76 ; total 1.20
+    avec contrecoup de la relance (+0,6) au denominateur : direct 0.66
+  OFCE 2015 : impulsion 2011-13 = 4.3 ; freinage total = 5.5 ; ratio total/impulsion = 1.28
+    meme impulsion, effet direct OFCE 2016 sur 2011-13 (2.3) : ratio 0.53 (millesimes melanges, indicatif)
+  QUEST France seule, perte de PIB par point d'effort cumule (annees 1 a 8): 0.82, 0.83, 0.83, 0.51, 0.27, 0.13, 0.03, -0.04
+  QUEST 2011-13 simultane (avec retombees) : 1.01, 1.23, 1.30
+  Blanchard-Leigh prev. 2010 (2010-11): 0,5 + 1.095 = 1.59 (lecture conditionnelle a un multiplicateur suppose de 0,5 ; les auteurs excluent d'en tirer une estimation ponctuelle, p.13)
+  Blanchard-Leigh panel 2009-12: 0,5 + 0.667 = 1.17 (lecture conditionnelle a un multiplicateur suppose de 0,5 ; les auteurs excluent d'en tirer une estimation ponctuelle, p.13)
+  Blanchard-Leigh prev. 2011: 0,5 + 0.467 = 0.97 (lecture conditionnelle a un multiplicateur suppose de 0,5 ; les auteurs excluent d'en tirer une estimation ponctuelle, p.13)
+  Blanchard-Leigh prev. 2012: 0,5 + 0.357 = 0.86 (lecture conditionnelle a un multiplicateur suppose de 0,5 ; les auteurs excluent d'en tirer une estimation ponctuelle, p.13)
+  GLP a 2 ans : moyenne 0.62 ; depenses 0.43 ; recettes 1.29
+    pondere composition France 2011-14 (83% recettes) : 1.14
+    pondere composition 50/50 (hypothese A15) : 0.86
+  Mesange 2010, horizons 1,2,3,5,10 ans, LT : hausse generique des PO de 1 pt -> PIB -0.3, -0.6, -0.8, -1.0, -1.1, -1.3 ; investissement public +1 pt -> PIB 1.12, 1.32, 1.33, 1.03, 0.74, 0.19 (variantes naives, taux reels exogenes)
+
+C-S07-003 Persistance : perte de PIB pour 1 pt d'effort permanent
+  A15 (multiplicateur 0,6 x profil A13) : 0.6, 0.6, 0.3, 0.3, 0.3, 0.12, 0.12, 0.12
+  QUEST : seul le profil de 3 efforts successifs est publie (ci-dessus) ; retour a 0 en annee 7-8 sous hypothese de credibilite pleine en annee 4
+
+C-S07-004 Programmes : croissance cumulee et dette (Eurostat)
+  EL 2010-2013: PIB volume cumule -23.9 % ; dette 128.5 -> 180.4 (+51.9 pts) ; pic 189.0 en 2018 ; d recettes +10.9 ; d depenses +9.1 (ratios observes, non mesures)
+  PT 2011-2014: PIB volume cumule -6.0 % ; dette 99.9 -> 132.5 (+32.6 pts) ; pic 132.5 en 2014 ; d recettes +3.8 ; d depenses -0.2 (ratios observes, non mesures)
+  IE 2011-2013: PIB volume cumule +3.4 % ; dette 86.3 -> 117.8 (+31.5 pts) ; pic 119.0 en 2012 ; d recettes +0.8 ; d depenses -25.1 (ratios observes, non mesures)
+  ES 2012-2014: PIB volume cumule -2.8 % ; dette 69.5 -> 104.4 (+34.9 pts) ; pic 104.4 en 2014 ; d recettes +2.8 ; d depenses -0.9 (ratios observes, non mesures)
+  FR 2011-2014: PIB volume cumule +4.5 % ; dette 86.3 -> 96.2 (+9.9 pts) ; pic 98.8 en 2017 ; d recettes +3.2 ; d depenses +0.7 (ratios observes, non mesures)

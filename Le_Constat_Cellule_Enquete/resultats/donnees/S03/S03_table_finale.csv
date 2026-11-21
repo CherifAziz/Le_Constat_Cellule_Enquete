@@ -1,0 +1,85 @@
+convention_vieillesse;convention_famille;fenetre;risque;hausse_pts;T1_denominateur;T2_beneficiaires;T3_inertie_montee_en_charge;T3_dont_ecart_revalorisation_regle;T3_decisions_chiffrees_bas;T3_decisions_chiffrees_haut;T4_residu_bas;T4_residu_haut
+par60;tendance;1964-1974;Vieillesse-survie;3.482;0.288;-0.092;2.333;-0.037;0.212;0.519;0.433;0.74
+par60;tendance;1964-1974;Santé (maladie, invalidité, AT-MP);1.791;0.176;0.0;1.038;0.0;0.0;0.0;0.577;0.577
+par60;tendance;1964-1974;Famille;0.173;0.069;-0.331;-0.882;0.0;0.0;0.0;1.317;1.317
+par60;tendance;1964-1974;Logement;0.368;0.011;0.0;0.236;0.0;0.0;0.0;0.121;0.121
+par60;tendance;1964-1974;Pauvreté-exclusion;0.033;0.002;0.0;-0.133;0.0;0.0;0.0;0.164;0.164
+par60;tendance;1964-1974;Emploi (chômage, préretraites, insertion);1.93;0.027;1.333;0.0;0.0;0.0;0.0;0.57;0.57
+par60;tendance;1964-1974;TOTAL;7.777;0.573;0.91;2.592;-0.037;0.212;0.519;3.182;3.489
+par60;tendance;1969-1974;Vieillesse-survie;3.482;0.288;-0.092;1.141;-0.037;0.212;0.519;1.625;1.932
+par60;tendance;1969-1974;Santé (maladie, invalidité, AT-MP);1.791;0.356;0.0;1.21;0.0;0.0;0.0;0.225;0.225
+par60;tendance;1969-1974;Famille;0.173;0.139;-0.331;-0.721;0.0;0.0;0.0;1.086;1.086
+par60;tendance;1969-1974;Logement;0.368;0.023;0.0;0.167;0.0;0.0;0.0;0.178;0.178
+par60;tendance;1969-1974;Pauvreté-exclusion;0.033;0.003;0.0;-0.007;0.0;0.0;0.0;0.037;0.037
+par60;tendance;1969-1974;Emploi (chômage, préretraites, insertion);1.93;0.055;1.333;0.0;0.0;0.0;0.0;0.542;0.542
+par60;tendance;1969-1974;TOTAL;7.777;0.864;0.91;1.79;-0.037;0.212;0.519;3.693;4.0
+par60;tendance;1959-1974;Vieillesse-survie;3.482;0.288;-0.092;1.934;-0.037;0.212;0.519;0.832;1.139
+par60;tendance;1959-1974;Santé (maladie, invalidité, AT-MP);1.791;-0.075;0.0;2.313;0.0;0.0;0.0;-0.447;-0.447
+par60;tendance;1959-1974;Famille;0.173;-0.029;-0.331;-0.787;0.0;0.0;0.0;1.32;1.32
+par60;tendance;1959-1974;Logement;0.368;-0.005;0.0;0.363;0.0;0.0;0.0;0.01;0.01
+par60;tendance;1959-1974;Pauvreté-exclusion;0.033;-0.001;0.0;-0.011;0.0;0.0;0.0;0.045;0.045
+par60;tendance;1959-1974;Emploi (chômage, préretraites, insertion);1.93;-0.012;1.333;0.0;0.0;0.0;0.0;0.609;0.609
+par60;tendance;1959-1974;TOTAL;7.777;0.166;0.91;3.812;-0.037;0.212;0.519;2.369;2.676
+par60;ratio constant;1964-1974;Vieillesse-survie;3.482;0.288;-0.092;2.333;-0.037;0.212;0.519;0.433;0.74
+par60;ratio constant;1964-1974;Santé (maladie, invalidité, AT-MP);1.791;0.176;0.0;1.038;0.0;0.0;0.0;0.577;0.577
+par60;ratio constant;1964-1974;Famille;0.173;0.069;-0.331;0.0;0.0;0.0;0.0;0.435;0.435
+par60;ratio constant;1964-1974;Logement;0.368;0.011;0.0;0.236;0.0;0.0;0.0;0.121;0.121
+par60;ratio constant;1964-1974;Pauvreté-exclusion;0.033;0.002;0.0;-0.133;0.0;0.0;0.0;0.164;0.164
+par60;ratio constant;1964-1974;Emploi (chômage, préretraites, insertion);1.93;0.027;1.333;0.0;0.0;0.0;0.0;0.57;0.57
+par60;ratio constant;1964-1974;TOTAL;7.777;0.573;0.91;3.474;-0.037;0.212;0.519;2.3;2.607
+par60;ratio constant;1969-1974;Vieillesse-survie;3.482;0.288;-0.092;1.141;-0.037;0.212;0.519;1.625;1.932
+par60;ratio constant;1969-1974;Santé (maladie, invalidité, AT-MP);1.791;0.356;0.0;1.21;0.0;0.0;0.0;0.225;0.225
+par60;ratio constant;1969-1974;Famille;0.173;0.139;-0.331;0.0;0.0;0.0;0.0;0.365;0.365
+par60;ratio constant;1969-1974;Logement;0.368;0.023;0.0;0.167;0.0;0.0;0.0;0.178;0.178
+par60;ratio constant;1969-1974;Pauvreté-exclusion;0.033;0.003;0.0;-0.007;0.0;0.0;0.0;0.037;0.037
+par60;ratio constant;1969-1974;Emploi (chômage, préretraites, insertion);1.93;0.055;1.333;0.0;0.0;0.0;0.0;0.542;0.542
+par60;ratio constant;1969-1974;TOTAL;7.777;0.864;0.91;2.511;-0.037;0.212;0.519;2.972;3.279
+par60;ratio constant;1959-1974;Vieillesse-survie;3.482;0.288;-0.092;1.934;-0.037;0.212;0.519;0.832;1.139
+par60;ratio constant;1959-1974;Santé (maladie, invalidité, AT-MP);1.791;-0.075;0.0;2.313;0.0;0.0;0.0;-0.447;-0.447
+par60;ratio constant;1959-1974;Famille;0.173;-0.029;-0.331;0.0;0.0;0.0;0.0;0.533;0.533
+par60;ratio constant;1959-1974;Logement;0.368;-0.005;0.0;0.363;0.0;0.0;0.0;0.01;0.01
+par60;ratio constant;1959-1974;Pauvreté-exclusion;0.033;-0.001;0.0;-0.011;0.0;0.0;0.0;0.045;0.045
+par60;ratio constant;1959-1974;Emploi (chômage, préretraites, insertion);1.93;-0.012;1.333;0.0;0.0;0.0;0.0;0.609;0.609
+par60;ratio constant;1959-1974;TOTAL;7.777;0.166;0.91;4.599;-0.037;0.212;0.519;1.582;1.889
+masse;tendance;1964-1974;Vieillesse-survie;3.482;0.288;-0.092;3.358;-0.037;0.212;0.519;-0.591;-0.284
+masse;tendance;1964-1974;Santé (maladie, invalidité, AT-MP);1.791;0.176;0.0;1.038;0.0;0.0;0.0;0.577;0.577
+masse;tendance;1964-1974;Famille;0.173;0.069;-0.331;-0.882;0.0;0.0;0.0;1.317;1.317
+masse;tendance;1964-1974;Logement;0.368;0.011;0.0;0.236;0.0;0.0;0.0;0.121;0.121
+masse;tendance;1964-1974;Pauvreté-exclusion;0.033;0.002;0.0;-0.133;0.0;0.0;0.0;0.164;0.164
+masse;tendance;1964-1974;Emploi (chômage, préretraites, insertion);1.93;0.027;1.333;0.0;0.0;0.0;0.0;0.57;0.57
+masse;tendance;1964-1974;TOTAL;7.777;0.573;0.91;3.617;-0.037;0.212;0.519;2.158;2.465
+masse;tendance;1969-1974;Vieillesse-survie;3.482;0.288;-0.092;1.991;-0.037;0.212;0.519;0.775;1.082
+masse;tendance;1969-1974;Santé (maladie, invalidité, AT-MP);1.791;0.356;0.0;1.21;0.0;0.0;0.0;0.225;0.225
+masse;tendance;1969-1974;Famille;0.173;0.139;-0.331;-0.721;0.0;0.0;0.0;1.086;1.086
+masse;tendance;1969-1974;Logement;0.368;0.023;0.0;0.167;0.0;0.0;0.0;0.178;0.178
+masse;tendance;1969-1974;Pauvreté-exclusion;0.033;0.003;0.0;-0.007;0.0;0.0;0.0;0.037;0.037
+masse;tendance;1969-1974;Emploi (chômage, préretraites, insertion);1.93;0.055;1.333;0.0;0.0;0.0;0.0;0.542;0.542
+masse;tendance;1969-1974;TOTAL;7.777;0.864;0.91;2.64;-0.037;0.212;0.519;2.843;3.15
+masse;tendance;1959-1974;Vieillesse-survie;3.482;0.288;-0.092;3.204;-0.037;0.212;0.519;-0.438;-0.131
+masse;tendance;1959-1974;Santé (maladie, invalidité, AT-MP);1.791;-0.075;0.0;2.313;0.0;0.0;0.0;-0.447;-0.447
+masse;tendance;1959-1974;Famille;0.173;-0.029;-0.331;-0.787;0.0;0.0;0.0;1.32;1.32
+masse;tendance;1959-1974;Logement;0.368;-0.005;0.0;0.363;0.0;0.0;0.0;0.01;0.01
+masse;tendance;1959-1974;Pauvreté-exclusion;0.033;-0.001;0.0;-0.011;0.0;0.0;0.0;0.045;0.045
+masse;tendance;1959-1974;Emploi (chômage, préretraites, insertion);1.93;-0.012;1.333;0.0;0.0;0.0;0.0;0.609;0.609
+masse;tendance;1959-1974;TOTAL;7.777;0.166;0.91;5.082;-0.037;0.212;0.519;1.099;1.406
+masse;ratio constant;1964-1974;Vieillesse-survie;3.482;0.288;-0.092;3.358;-0.037;0.212;0.519;-0.591;-0.284
+masse;ratio constant;1964-1974;Santé (maladie, invalidité, AT-MP);1.791;0.176;0.0;1.038;0.0;0.0;0.0;0.577;0.577
+masse;ratio constant;1964-1974;Famille;0.173;0.069;-0.331;0.0;0.0;0.0;0.0;0.435;0.435
+masse;ratio constant;1964-1974;Logement;0.368;0.011;0.0;0.236;0.0;0.0;0.0;0.121;0.121
+masse;ratio constant;1964-1974;Pauvreté-exclusion;0.033;0.002;0.0;-0.133;0.0;0.0;0.0;0.164;0.164
+masse;ratio constant;1964-1974;Emploi (chômage, préretraites, insertion);1.93;0.027;1.333;0.0;0.0;0.0;0.0;0.57;0.57
+masse;ratio constant;1964-1974;TOTAL;7.777;0.573;0.91;4.499;-0.037;0.212;0.519;1.276;1.583
+masse;ratio constant;1969-1974;Vieillesse-survie;3.482;0.288;-0.092;1.991;-0.037;0.212;0.519;0.775;1.082
+masse;ratio constant;1969-1974;Santé (maladie, invalidité, AT-MP);1.791;0.356;0.0;1.21;0.0;0.0;0.0;0.225;0.225
+masse;ratio constant;1969-1974;Famille;0.173;0.139;-0.331;0.0;0.0;0.0;0.0;0.365;0.365
+masse;ratio constant;1969-1974;Logement;0.368;0.023;0.0;0.167;0.0;0.0;0.0;0.178;0.178
+masse;ratio constant;1969-1974;Pauvreté-exclusion;0.033;0.003;0.0;-0.007;0.0;0.0;0.0;0.037;0.037
+masse;ratio constant;1969-1974;Emploi (chômage, préretraites, insertion);1.93;0.055;1.333;0.0;0.0;0.0;0.0;0.542;0.542
+masse;ratio constant;1969-1974;TOTAL;7.777;0.864;0.91;3.361;-0.037;0.212;0.519;2.122;2.429
+masse;ratio constant;1959-1974;Vieillesse-survie;3.482;0.288;-0.092;3.204;-0.037;0.212;0.519;-0.438;-0.131
+masse;ratio constant;1959-1974;Santé (maladie, invalidité, AT-MP);1.791;-0.075;0.0;2.313;0.0;0.0;0.0;-0.447;-0.447
+masse;ratio constant;1959-1974;Famille;0.173;-0.029;-0.331;0.0;0.0;0.0;0.0;0.533;0.533
+masse;ratio constant;1959-1974;Logement;0.368;-0.005;0.0;0.363;0.0;0.0;0.0;0.01;0.01
+masse;ratio constant;1959-1974;Pauvreté-exclusion;0.033;-0.001;0.0;-0.011;0.0;0.0;0.0;0.045;0.045
+masse;ratio constant;1959-1974;Emploi (chômage, préretraites, insertion);1.93;-0.012;1.333;0.0;0.0;0.0;0.0;0.609;0.609
+masse;ratio constant;1959-1974;TOTAL;7.777;0.166;0.91;5.869;-0.037;0.212;0.519;0.312;0.619

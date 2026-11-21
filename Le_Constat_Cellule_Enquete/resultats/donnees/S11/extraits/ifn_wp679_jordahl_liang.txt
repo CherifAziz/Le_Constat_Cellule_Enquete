@@ -1,0 +1,3041 @@
+
+=== page PDF 1 ===
+ 
+Research Institute of Industrial Economics 
+P.O. Box 55665 
+SE-102 15 Stockholm, Sweden
+info@ifn.se
+www.ifn.se
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IFN Working Paper No. 679, 2006 
+ 
+ 
+Merged Municipalities, Higher Debt:  
+On Free-riding and the Common Pool Problem 
+in Politics  
+Henrik Jordahl and Che-Yuan Liang 
+ 
+ 
+
+=== page PDF 2 ===
+ 
+ 
+ 
+Merged Municipalities, Higher Debt: 
+On Free-riding and the Common Pool Problem in Politics∗ 
+ 
+ 
+October 19, 2006 
+Henrik Jordahl§ and Che-Yuan Liang# 
+ 
+Abstract 
+We use the 1952 Swedish municipal amalgamation reform to study free-
+riding and the common pool problem in politics. We expect municipalities 
+that were affected by the reform to increase their debt in anticipation of a 
+merger, and this effect to be larger if they were merged with many other 
+populous municipalities (i.e. facing a large common pool). We use ordinary 
+least squares and matching on the complete cross section of rural 
+municipalities for the period 1947−1951, fixed effects when exploiting the 
+panel features, as well as a geographical instrumental variables strategy. We 
+find an average treatment effect close to the amount that the average merged 
+municipality increased its debt with during this period, which corresponds to 
+2.8 percent of average income or 63 percent of the average increase in income. 
+However, we do not find larger increases in municipalities that were part of a 
+larger common pool. 
+ 
+Keywords: Common pool, municipal amalgamation, local governments 
+JEL Classifications: D72, H73, H74, H77, R53 
+                                                
+∗ We wish to thank Niclas Berggren, Sören Blomquist, Mikael Elinder, Panu Poutvaara, Björn Tyrefors, and 
+seminar participants at Uppsala University for valuable comments and suggestions, as well as the Jan Wallander 
+and Tom Hedelius Foundation (Jordahl and Liang), and the Torsten and Ragnar Söderberg Foundations 
+(Jordahl) for financial support. 
+§ Research Institute of Industrial Economics, P.O. Box 55665, SE-102 15 Stockholm, Sweden; and The Ratio 
+Institute; henrik.jordahl@riie.se  
+# Uppsala University, Department of Economics, P.O. Box 513, SE-751 20 Uppsala, Sweden; che-
+yuan.liang@nek.uu.se 
+
+=== page PDF 3 ===
+ 
+2 
+1. INTRODUCTION 
+The common pool problem arises in situations where the costs of an activity which benefits a 
+small group are shared among a wider group of people. An everyday example would be a 
+dinner where the participants have decided to split the bill. Fishing and oil drilling provide 
+larger-scale examples. As suggested by Tullock (1959) and Buchanan and Tullock (1962) the 
+problem can also arise in politics. In many cases each politician represents only a group of 
+voters, but has access to a common pool in the form of the total tax base of all voters. 
+Situations of this kind could explain phenomena like logrolling and pork barrel politics.  
+Weingast et al. (1981) formalize this line of reasoning. In their setting, each district or 
+political unit determines the size of a project. This is done exclusively on the basis of benefits 
+and costs that are associated with the own district. A crucial assumption is what they label 
+universalism, which means that all projects are accepted by the central decisive instance 
+(conceivably in one omnibus budget bill). The costs of all projects are financed through taxes 
+levied on people in all districts in a common pool area. The simplest case is one with 
+identical districts and with a proportional income tax. In that case, each district internalizes 
+all marginal benefits from its own projects, but faces only 1/n-th of the marginal cost, 
+inducing larger projects than what is efficient. This principle is usually referred to as the “law 
+of 1/n”. 
+Several articles have examined the common pool problem empirically and most of them 
+assume that each legislator represents one district. The number of legislators determines the 
+size of the common pool and expenditures are expected to grow with its size. Most studies, 
+e.g. Baqir (2002) and Gilligan and Matsusaka (1995), support the law of 1/n, but recently 
+Petterson-Lidbom (2006) reports serious empirical doubts.  
+As pointed out by Primo and Snyder (2005), there are also a few theoretical caveats to 
+the intuitive common pool story. When the number of citizens in a common pool area is fixed 
+while the number of districts and district size vary, which is the case in most empirical 
+studies, the law of 1/n only holds for publicly provided private goods. For local district-
+specific public goods, spending per capita is independent of the number of districts.1 Primo 
+and Snyder also show that crowding enhances the law of 1/n, while deadweight cost and 
+partial cost-sharing diminishes it. A “reverse law of 1/n” may even apply for goods that are 
+                                                
+1 Weingast et al’s (1981) original model takes district population as fixed when increasing the number of 
+districts. However, since the number of citizens in the common pool area M is fixed, district population m 
+depends on the number of districts n (i.e. M = n*m applies). With M fixed, more districts means smaller 
+districts, each of them with fewer persons who can take advantage of the local public goods. This reduces the 
+marginal benefit of larger projects and cancels out the common pool effect exactly. 
+
+=== page PDF 4 ===
+ 
+3 
+sufficiently public in nature and have considerable deadweight costs in taxation or partial 
+cost-sharing.2 
+Another line of criticism takes a step back by asking why a political assembly would 
+adopt decision making rules, or adhere to norms, that allow for taxation which is independent 
+of individual districts’ project size. Finally, the degree to which a politician can be said to 
+represent a district varies between electoral systems and political assemblies; it may for 
+instance be greater at the national than at the local level. 
+In a situation with theoretical objections and mixed empirical evidence there is need for 
+additional studies. We hope to contribute by investigating a case where the conditions are 
+very favorable for the appearance of a common pool effect. We test the common pool 
+hypothesis by studying the 1952 Swedish municipal amalgamation reform. According to 
+theory we expect the municipalities (our units) that knew that they would soon be 
+amalgamated with others to increase their debt before the amalgamation was carried through; 
+especially units that made up a small part of the forthcoming amalgam. Prior to 
+amalgamation, expenditures almost exclusively benefit the own unit, while the financing of 
+debt is shared with the other units in the amalgam. The amalgam is thus a unit’s common 
+pool area and changes in debt measure the financial exploitation of the common pool. In our 
+case district size is fixed. It is also clear that the politicians in each unit represent the 
+constituents in their unit in relation to other units in the common pool. Thus, our approach 
+avoids all mentioned theoretical objections. 
+Our study combines several ways of estimating the common pool effect. First, we 
+analyze the cross section for the whole period 1947−1951. We start with ordinary least 
+squares (OLS). Then, we use geographical instrumental variables (IV) to correct for unit 
+specific and idiosyncratic unobservables as well as measurement errors. Further, we use 
+matching to check the robustness against non-linearities. Second, we exploit the panel 
+feature, which allow us to examine the dynamics by introducing year specific treatment 
+effects. We can also control for macro shocks by using year dummies. We use a within 
+identification strategy with fixed effects (FE) to correct for unit specific unobservables. Also 
+in the panel analyses, we use a geographical IV strategy to adjust for remaining idiosyncratic 
+unobservables and measurement errors. Finally, we divide the sample into three groups based 
+                                                
+2 Another theoretical issue which Crain (1999) addresses it that of district heterogeneity. When districts are 
+similar there are fewer reasons to seek district-specific projects, since all districts favor the same global public 
+goods. For intra-district heterogeneity the reverse is true. Consider a case with two groups of constituents with 
+opposing demands in a district. This district will probably not invest in programs that favor any of those groups, 
+leading to fewer district-specific projects. Inter-district homogeneity and intra-district heterogeneity reduces the 
+common pool effect (but cannot reverse it). Crain finds some empirical support for these two hypotheses. 
+
+=== page PDF 5 ===
+ 
+4 
+on population, and perform both cross section and panel analysis allowing for group specific 
+treatment effects. 
+We find an average treatment effect (ATE) of a merger of 28.7 SEK per capita (in 1951 
+prices) in the OLS cross section analysis, and 28.6 SEK per capita in the FE panel analysis, 
+both for the period 1947−1951. This explains the whole increase of 27.7 SEK per capita for 
+the treated units during this period, which corresponds to 2.8 percent of average income or 63 
+percent of the average increase in income. The direction of correction when using matching 
+and IV is ambiguous, but ATE always stays positive and economically sizeable. The positive 
+ATE supports the presence of a common pool effect. However, the treatment effect we find is 
+independent of common pool size with OLS, and varies even negatively with common pool 
+size with FE, contrary to what the law of 1/n predicts. When combined with FE, the use of IV 
+strengthens the negative effect. Allowing for group specific treatment effects, we find that the 
+negative effect only prevails for units with less than 500 inhabitants, and there is some 
+support for a positive effect for units with more than 1,000 inhabitants. These effects are 
+however small compared to the constant treatment effect. The general picture is one of free-
+riding but without clear support for the law of 1/n. 
+ 
+ 
+2. RELATED EMPIRICAL LITERATURE 
+To highlight the differences between our strategy and previous approaches, we briefly review 
+the empirical literature. Baqir (2002) uses cross sectional data from U.S. cities in the 1990s to 
+examine the common pool problem due to districting. He finds a positive relationship 
+between council size − a proxy for the number of districts − and government spending. This 
+effect is strengthened when using council size in 1960 as an instrument for council size in 
+1990 in order to remedy possible reverse causation. The main problem with this strategy is 
+that there might be omitted city specific unobserved variables that correlate with both 
+spending and council size that are persistent over time.  
+Unit specific unobservables can be taken care of with a fixed effects strategy. Gilligan 
+and Matsusaka (1995) use a panel of U.S. states between 1960 and 1990 and find that the 
+number of seats in the upper house is positively associated with both state and local per 
+
+=== page PDF 6 ===
+ 
+5 
+capita spending.3 Although the fixed effects approach nicely handles some of the econometric 
+difficulties, several problems remain unsolved. First, we need significant variation over time 
+in council sizes since the time-invariant variation can not be used when employing fixed 
+effects. Second, council size and spending might be determined simultaneously. Third, there 
+might be idiosyncratic omitted variables, such as changing voter preferences. Finally, the use 
+of within variation in the number of districts (seats) means that the district size is varying 
+since the common pool size is fixed. When this is the case, theory does not predict a common 
+pool effect if the projects provide district-specific public goods, as mentioned in the 
+introduction. 
+Petterson-Lidbom (2006) finds an exogenous source of common pool size in statutory 
+determinants of council size in Finnish and Swedish local governments and implements a 
+regression discontinuity design. He uses discontinuities which are imposed by statutory law 
+to instrument for council size, which in turn proxies for common pool size.4 Studying both a 
+panel of Swedish and a panel of Finnish municipalities, he finds the opposite of what the 
+common pool theory predicts. However, also in his set-up we expect a common pool effect 
+only for public goods that are district-specific. 
+In a paper closely related to ours, Tyrefors (2006) studies the later Swedish 
+amalgamation reform of 1969−1973. The empirical strategy relies on controlling for 
+observable characteristics to account for the principles which were laid out by a 
+governmental committee in 1961: population since the new municipalities were required to 
+have at least 8,000 inhabitants, and a set of mostly economic variables that should capture 
+what is called “scientific principles of functionality”. Tyrefors finds a sizable common pool 
+effect; municipalities making up a relatively small part of an amalgam increased their per 
+capita debt more before the amalgamation. However, selection only on observables is often 
+too bold an assumption when it comes to political processes. As an example, studies by 
+Alesina and Spolaore (1997), Bolton and Roland (1997), and Persson and Tabellini (2000) 
+point out that economic factors and underlying voter preferences influence the unification 
+and break-up of political units. Since it is unlikely that all of these factors can be observed, 
+we have to consider selection on unobservables in our empirical strategy. By using matching 
+estimators, we also allow for non-linear effects. Moreover, there are several reasons − 
+                                                
+3 Other papers using the same strategy are Gilligan and Matsusaka (2001), Bradbury and Crain (2001) and 
+Bradbury and Stephenson (2003). The first analyze an earlier period, the second uses cross country data, and the 
+latter employs local county data in Georgia. They all reach the same conclusion in favor of the law of 1/n.  
+4 Note, however, the downside of using this convincing instrument: only a small fraction of the whole sample 
+can be used. 
+
+=== page PDF 7 ===
+ 
+6 
+explained in the next section − for believing that the earlier reform of 1952 is more suitable 
+than the later one of 1969−1973 when it comes to estimating a causal and precise common 
+pool effect.5  
+ 
+ 
+3. SWEDISH MUNICIPAL REFORMS 
+Through the municipal reform of 1862 Sweden received a uniform administrative system 
+with approximately 2,500 municipalities in 24 counties (SOU, 1978). Formally, there were 
+also 267 districts,6 which was a level between municipalities and counties, but this 
+historically important level lost its administrative importance in the reform. Each 
+municipality was also classified as rural municipality, borough or city7. The municipal 
+districting was based on the old parish borders and less due to functional and economical 
+considerations. Soon the flaws became obvious as the rural municipalities could not provide 
+for increasing welfare demands of the citizens. Emigration from rural areas to the cities 
+worsened the problem.  
+In 1939 the legislature recognized the problem and in 1943 a commission was appointed 
+to investigate possible remedies (Sandalow, 1971). In 1945 the commission proposed large 
+scale amalgamations of municipalities aiming at more than 2,000 citizens in the new units. It 
+also provided a detailed recommendation on the new districting. The idea was to merge small 
+municipalities without splitting them. The functionality of the new units received little 
+attention. In 1946 a unanimous parliament decided and publicly announced a revision of local 
+government boundaries on the detailed recommendation proposed by the commission 
+(Strömberg and Westerståhl, 1984). After four years of preparatory work, the government 
+decided in 1950 that the new apportionment be executed in 1952, and this was also 
+accomplished. Figure 1 shows a timeline on how the reform process progressed. General 
+                                                
+5 Hanes (2003) is a somewhat related study since he investigates the same municipal amalgamation reform as 
+we do. The important difference is that he studies the period after the reform. He finds economies of scale for 
+small municipalities, but reduced effects for larger ones. His study also addresses the problem of unit specific 
+unobservables, such as the natural affinity between amalgamated municipalities. He uses a Probit model in a 
+first stage to predict amalgamation probabilities, and uses these predicted probabilities in a second stage 
+regression with expenditure as dependent variable. He finds no amalgamation effect in the second stage with 
+this strategy. 
+6 The Swedish term is “härad” which often is translated as “hundred”. We use the term “district”, which is used 
+by some authors. This should not be confused with the modern Swedish districts which are subunits of the 
+municipalities.  
+7 The Swedish terms are “landskommun”, “köping” and “stad”. The first is sometimes translated as “rural 
+commune”. We use “rural municipality” due to its lack of normative flavor. 
+
+=== page PDF 8 ===
+ 
+7 
+elections were held in 1940, 1944, 1948 and 1952. Municipal elections were held in 1942, 
+1946 and 1950.  
+ 
+Figure 1. Timeline on the progress of the reform 
+ 
+The reform reduced the number of rural municipalities from 2,284 to 823, while all 81 
+boroughs and 133 cities remained intact and most of them without any changes in borders. 
+Thus, the total number of municipalities declined from 2,498 in 1951 to 1,037 in 1952. Most 
+merging was between rural municipalities in the same district. 304 rural municipalities were 
+unaffected by the reform. The average population increased from about 1,500 to 4,000 due to 
+the reform. The average tax base per municipality more than doubled. 
+The 1952 reform turned out to insufficient to achieve the intended objectives 
+(Gustafsson, 1978). The growing industrialization and urban development following the 
+Second World War further worsened the situation by making small municipalities even 
+smaller. In 1959 a new commission was appointed and in 1961 a new report suggested 
+further amalgamations targeting 7,000 citizens as the minimum municipality size. This time 
+economic considerations were given much higher priority (SOU, 1978). The main guideline 
+was to form units that should be able to efficiently provide social services. The social 
+structure and geographic unity of the new units were of primary concern. In 1962 the new 
+reform started, and by 1963 the new borders were determined. 1,006 municipalities 
+temporarily formed 282 new blocks, but the final amalgamation was voluntary. 37 
+municipalities were unaffected by the reform. By 1969, only 38 new municipalities had been 
+formed. The government found the proceedings too slow and decided that the reform should 
+be fully implemented by 1974, and this was also achieved. 
+We choose to work with the 1952 amalgamation reform because it seems to be more 
+exogenous, with less severe selection problems. First, all amalgamations were compulsory in 
+the 1952 reform but not in the last reform, and voluntariness worsens selection problems. 
+The legislature 
+raises the issue. 
+Commission 
+appointed to 
+investigate problem. 
+Commission 
+recommends reform 
+and provides a 
+detailed plan. 
+Government’s 
+final decision. 
+Execution 
+of reform. 
+Parliament approves 
+commission’s 
+proposal. 
+1939 
+1952 
+1950 
+1945 
+1946 
+1943 
+
+=== page PDF 9 ===
+ 
+8 
+Second, the last reform was more carefully planned with specific economic guidelines, while 
+the 1952 reform was more random in an economic sense. Thus, efficiency arguments 
+permeated the 1952 reform much less than the last reform, which is why the 1952 reform 
+soon was considered inadequate. This means that unobservables are less likely to influence 
+an econometric investigation of the 1952 reform. Third, the different dates of amalgamations 
+in the last reform make the panel unbalanced. Fourth, more rural municipalities were 
+unaffected in the first reform, which provides a better control group to the majority of treated 
+rural municipalities. Fifth, there were more units in the 1952 reform.  
+The Municipal Administration Act of 1862, which is part of the Swedish Constitution, 
+gives the Swedish municipalities the right to run their own affairs (Sandalow, 1971). 
+However the meaning of this right is not further specified, other than that they have to obey 
+special legislations on some issues. Although this feature often gives the central government 
+the upper hand in conflicts, the Swedish municipalities have much freedom in running their 
+own projects. Generally, they do not have to consult the central government when deciding 
+about municipal specific issues (Gustafsson, 1978). Although there are restrictions on long 
+term debt, there are none on short term debt, and there is no balanced budget rule. According 
+to the Constitution, the municipalities are also entitled to levy local income tax, impose 
+certain charges, and demand remuneration for services and benefits. The municipalities also 
+have a planning monopoly, which means that they can decide how land should be used, even 
+though this formally has to be approved by a central authority. In consequence, Swedish 
+municipalities are major economic actors, even if the large expansion of the public sector and 
+the welfare state is a more recent development after the Second World War.  
+The Municipal Apportionment Act of 1919 governs the procedure when municipal 
+boundaries are changed. Relevant for us is the Universal Succession law in Paragraph 4, 
+which states that a newly amalgamated municipality inherits the old municipalities’ assets 
+and debts. Altogether this means that a municipality can be considered as an economically 
+independent unit with the capacity and possibility to run an economic policy of its own and 
+that a forthcoming amalgamation area is a common pool area. 
+ 
+ 
+4. DATA AND DESCRIPTIVE STATISTICS 
+We use panel data for the period 1946−1951 for all rural municipalities. During this period, 
+there are only a few minor changes in borders. The largely unaffected boroughs and cities are 
+
+=== page PDF 10 ===
+ 
+9 
+excluded to improve the control group’s characteristics. We obtain data from statistical 
+yearbooks published by Statistics Sweden (SCB).8 We have data for all rural municipalities 
+during this period. Five of them contain missing values in some variables, and are left out. 
+Since we need some first differenced variables we lose one year and are left with five years. 
+The variables we construct and use are presented in Table 1 which describes and shows the 
+means of the untreated control group and the treated (merged in 1952). The sample means are 
+close to the means for the treated since these constitute 86.7 percent of the sample. For more 
+descriptive statistics, see Table A1 in Appendix 1. 
+ 
+Table 1. Description of variables and means 
+Variable 
+Description 
+Untreated 
+Treated 
+Treat 
+Dummy: 0 if not  amalgamated, 1 if amalgamated 
+0 
+1 
+Ratio 
+Amalgam’s Popstart of 51/Old unit’s Popstart of 51 – 1 
+0.000 
+6.600 
+NewPop 
+Amalgam’s Popstart of 51 – Old unit’s Popstart of 51 *   
+0.000 
+3.357 
+Debti 
+Per capita debtend of 46 
+68.778 
+42.058 
+Debti 
+Per capita debtend of 51 – Per capita debtend of 46 
+37.709 
+27.749 
+Inci 
+Sum of per capita income 1947 to 1951 
+1362.450 
+1004.837 
+Inci 
+Per capita income51 – Per capita income46 
+72.230 
+43.976 
+Popi 
+Populationstart of 47 *  
+4.258 
+1.073 
+Popi 
+Populationstart of 52/Populationstart of 47 – 1 
+0.016 
+-0.025 
+Densi 
+Populationstart of 47/Land Area 
+0.276 
+0.251 
+Debti,t 
+Per capita debtend of last year 
+79.939 
+49.790 
+Debti,t  
+Debti,t+1 – Debti,t 
+7.542 
+5.550 
+Inci,t 
+Per capita income  
+272.490 
+200.968 
+Inci,t 
+Inci,t – Inci,t-1 
+14.446 
+8.795 
+Popi,t 
+Populationstart of year *  
+4.308 
+1.066 
+Popi,t 
+Popi,t+1/Popi,t – 1 
+0.001 
+-0.001 
+Densi,t 
+Populationstart of year/Land Area 
+0.285 
+0.250 
+Area 
+Land area* (km2) 
+78.893 
+7.617 
+AreaCoun 
+Land area/County land area 
+0.025 
+0.008 
+PopDist 
+District Populationstart of 51/Unit Populationstart of 51 – 1 
+6.933 
+26.241 
+Units 
+Number of units: Totally 2,280 units 
+300 
+1980 
+Notes: i indexes units and t year. Variables with index t are the panel version of the cross-
+section variables. Currency is SEK in 1951 year’s prices. The means are displayed. * Values are 
+in thousands. 
+ 
+The first group is our main variables of interest. Treat is the treatment dummy which takes 
+the value zero for the untreated and one if a unit is merged in the beginning of 1952. It is a 
+                                                
+8 We gather population and other geographical data from the publication Årsbok för Sveriges kommuner and 
+data on financial variables from Kommunernas finanser. 
+
+=== page PDF 11 ===
+ 
+10 
+common pool dummy. Ratio is the ratio between the amalgam’s and the old unit’s population 
+minus one, which is the proportional increase in population that, due to the amalgamation, 
+has to share the old unit’s debt. It measures the size of the common pool. Ratio is zero for the 
+untreated and positive for the treated. On average, a treated unit is merged with 6.6 times its 
+own population. NewPop is the amalgam’s population minus the old unit’s population, which 
+is the increase in population due to the amalgamation. NewPop equals Ratio*Pop51 and is 
+thus the interaction term between Ratio and Pop. 
+We use the second group of variables in the cross section analysis for the whole period. 
+Debti is the debt in the start of the period. Debti is the change in per capita debt during the 
+period and is the dependent variable. The rest are covariates. The treated has lower means on 
+all covariates in this group. During these 5 years, the average of Debti increases 54 percent 
+from 69 SEK to 106 SEK for the untreated, and 67 percent from 69 SEK to 106 SEK for the 
+treated. Whereas the percentage per capita increase is higher for the treated, the per capita 
+increase is actually higher for the untreated. This may be unexpected from theory, even 
+though we are still at the descriptive stage. Average Inci increases about 5 percent for both 
+untreated and treated. If we compare Debti with Inci and Inci we see that the average 
+increase in debt during this period corresponds to 2.8 percent of the average income or 63 
+percent of the average increase in income. The third group of variables is the panel equivalent 
+to the second group. The means show the same pattern as for the cross section equivalents. 
+Average Inci,t is about 4 times average Debti,t.9  
+The last group of variables is our instrumental variables. These are land area, Area, share 
+of county’s land area, AreaCoun, and district’s population relative to own population minus 
+1, PopDist. The treated have on average higher values for all instruments. 
+Figure 2 and 3 plots the evolution of the average Debti,t and Debti,t during 19471952. 
+We use dashed lines for the untreated and solid lines for the treated. The figures show that the 
+average debt increases substantially and in all years during this period. The increase in per 
+capita debt is lower for the treated in 1947, 1950 and 1951 but higher in 1948 and 1949. The 
+figures do not show a clear pattern on how the anticipation of the reform affects the change in 
+debt. However, they suggest that the difference between the treated and the untreated is 
+radically different in 1948 and 1949 compared to 1947, 1950 and 1951, indicating a common 
+pool effect in 1948 and 1949, just before the municipal election in 1950. This timing 
+coincides with predictions from models of electoral budget cycles.  
+                                                
+9 About 50 percent of the municipalities’ incomes are taxes and about 15 percent government grants. About 25 
+percent of the expenditures are used for education and 25 percent for health care.   
+
+=== page PDF 12 ===
+ 
+11 
+0
+50
+100
+150
+47
+48
+49
+50
+51
+52
+Year
+Debt (SEK/Capita)
+Untreated
+Treated
+ 
+Figure 2. Descriptive statistics – Evolution of average Debti,t 
+ 
+0
+5
+10
+15
+47
+48
+49
+50
+51
+Year
+Change in Debt (SEK/Capita)
+Untreated
+Treated
+ 
+Figure 3. Descriptive statistics – Evolution of average Debti,t 
+ 
+In the group analysis, we divide the sample into three roughly equal sized groups: A, B and 
+C, with populations in the intervals 0-500, 501-1,000 and over 1,000 inhabitants. Table 2 
+shows the number of units in each group as well as the mean of Ratio and Debti (for the 
+whole period) for the untreated and the treated in each group. The mean of Ratio is much 
+higher in units with lower population, since these are generally merged with more units 
+which are populous relative to the own unit. We also see that the average increase in debt is 
+higher for the treated in the two groups with fewer than 1,000 inhabitants (as expected from 
+theory), but that the opposite is true for the group with more than 1,000 inhabitants. The 
+
+=== page PDF 13 ===
+ 
+12 
+result for the whole sample obtained earlier, and shown in Figures 2 and 3, is therefore 
+heavily influenced by the most populous units.   
+ 
+Table 2. Division of subgroups based on population 
+Interval on Pop  
+Units 
+Mean Ratio 
+Mean Debti,Untreated 
+Mean Debti,Treated 
+A: 0 – 0.5 
+559 
+14.792 
+11.986 
+37.309 
+B: >0.5 – 1 
+632 
+5.268 
+2.690 
+40.613 
+C: >1 
+789 
+1.862 
+69.190 
+46.581 
+Notes: Populations are in thousands and the average debts in SEK per capita. 
+ 
+ 
+5. EMPIRICAL STRATEGIES 
+To start with, the choice of change in per capita debt rather than expenditures as our 
+dependent variable avoids some of the possible bias due to unobservables. Compared with 
+studies of government size, factors such as economic growth, scale effects and monopoly 
+rents are not expected to cause us any problems. Omitted variables may still concern us, since 
+there may be selection to treatment (amalgamation) on unobservables, be it economic 
+variables, voter preferences, or natural affinity with neighbor municipalities. We use fixed 
+effects and instrumental variables to mitigate this problem. 
+ 
+5.1 Ordinary Least Squares 
+Here, we study the aggregate change during the whole period 1947−1951, with the almost 
+complete cross-section of 2,280 municipalities. We assume throughout this paper that the 
+treatment effects are the same for the treated and the untreated. When this is the case, the 
+average treatment effect (ATE) coincides with the average treatment effect for the treated 
+(ATT). To control for selection on observables, we use the control function approach, which 
+is the usual OLS with control variables. To find ATE, we estimate:  
+i
+i
+i
+i
+Treat
+i
+Treat
+Debt
+ε
+β
++
++
++
+=
+∆
+D
+'
+
+X
+'
+
+D
+X
+, 
+(1) 
+where i indexes rural municipality units. Debti is the dependent variable, Treati is the 
+treatment variable, Xi = (Inci, Inci, Popi, Popi, Deni, 1)’ is a vector of control variables and 
+Di is a vector of district dummies, dropping one district to avoid multicollinearity. i is the 
+unit specific error term. From common pool theory, we expect ATE = Treat to be positive. 
+
+=== page PDF 14 ===
+ 
+13 
+We use the between unit variation to identify ATE here. The controls correct for observed 
+differences between units and the district dummies correct for some of the possible selection 
+on unobservables.  
+We are also interested in the variation of the common pool effect to test the finer details 
+of the law of 1/n. To analyze this, we estimate the following for the treated: 
+i
+i
+i
+i
+Ratio
+i
+Ratio
+Debt
+ε
+β
++
++
++
+=
+∆
+D
+'
+
+X
+'
+
+D
+X
+, 
+(2) 
+where Ratioi is the size of the common pool. We call the variation of the treatment effect 
+among the treated the “ ratio effect”. The law of 1/n predicts the ratio effect (Ratio) to be 
+positive. We confine ourselves to the treated, since there might be other differences between 
+the treated and the untreated interacting with the ratio effect. However, the results turn out to 
+be independent of this restriction. 
+We also estimate the following for the whole sample:  
+i
+i
+i
+i
+Ratio
+i
+Treat
+i
+Ratio
+Treat
+Debt
+ε
+β
+β
++
++
++
++
+=
+∆
+D
+'
+
+X
+'
+
+D
+X
+. 
+(3) 
+Here, Treat and Ratio are the constant treatment and ratio effects, net the interaction between 
+them. We thus allow an intercept and a linear treatment effect. In this setting Treat is no 
+longer ATE, which has to be recovered by adding Treat to the product of Ratio and the mean 
+of Ratio. 
+ 
+5.2 Fixed Effects 
+The cross section strategy do not allow us to examine the dynamics, control for time effects 
+or use within-variation. To mitigate this problem, we exploit the panel dimension in our data, 
+which allows us to include year specific treatment effects and year dummies. Because we 
+only have five years, there is still a risk that all years were exceptional. If there are no unit 
+specific unobservables, pooled OLS is efficient. Otherwise the random effects (RE) estimator 
+is more efficient. However, if there are unit specific unobservables which are correlated with 
+the regressors, both pooled OLS and RE are inconsistent. This is the case if we have selection 
+on unit specific unobservables. If the treatment effects are different in different years, we can 
+exploit a within strategy to solve this. When applying an LM-test we reject the null of equal 
+treatment effects in different years, justifying a within approach. The cost is that we cannot 
+identify the levels, but only differences in effects between the years.  
+
+=== page PDF 15 ===
+ 
+14 
+We use the FE estimator in the unit dummy equation: 
+t
+i
+i
+t
+t
+i
+t
+i
+t
+i
+e
+Treat
+Debt
+,
+,
+,
++
++
++
++
+=
+∆
+U
+'
+
+Y
+'
+
+X
+'
+
+Y
+'
+U
+Y
+X
+Treat
+, 
+(4) 
+where i indexes units and t years. Debti,t is our dependent variable. Treati and Ratioi are 
+multiplied with a vector of year dummies Yt = (Y48t, Y49t, Y50t, Y51t)’ , to allow different 
+effects in different years. We have to leave out one year, 1947 here, and the estimated effects 
+are differences relative the effect in 1947. Xi,t = (Inci.t, Inci.t, Popi,t, Popi,t, Deni,t, 1)’ is a 
+vector of control variables, and Ui is a vector of unit dummies, dropping one unit. ei,t is the 
+observation specific idiosyncratic error. We drop district dummies since we include unit fixed 
+effects. We also estimate equation (4) with ’TreatTreatiYt replaced by ’RatioRatioiYt  for the 
+treated sample to analyze the ratio effect for the treated, as well as the FE equivalent to 
+equation (3) to co-estimate the intercept and ratio effects.  
+Since the amalgamation decision is based on unit specific characteristics, FE efficiently 
+solves the selection issue. However, to recover the levels, we need to assume the level for one 
+year. If we use RE instead, we can include year specific treatment effects for all years and get 
+level estimates. To control for some unit specific effects, we can include district dummies. 
+However, a Hausman test (when Treati and Ratioi are co-estimated) gives χ2 = 81.5, and 
+rejects the null of consistency of RE, which is why we resort to FE. The FE strategy produces 
+no estimates in levels and to recover the levels we make the cautious assumption that there 
+are no treatment effects in 1947. We report the RE estimates in 1947, which are close to zero, 
+as (weak) support for this.10 With this assumption, the FE estimates can be interpreted as 
+levels, and mark a lower bound since the level is β47+βY in year Y = 48, 49, 50 and 51, which 
+is higher than βY if the effects are positive already in 1947. 
+ 
+5.3 Instrumental Variables 
+FE does not adjust for selection on idiosyncratic unobservables. However, since the details of 
+the amalgamation reform were settled in 1946, which is before our period of study, it seems 
+far-fetched to believe that idiosyncratic unobserved factors during 19471951 determined the 
+selection into treatment. For this to be the case, the treatment decision had to be based on 
+variables before 1947 that correlate with unobservables some particular (but not all) years 
+between 1947 and 1951, or on what the decision makers before 1947 expected about the 
+                                                
+10 The RE estimates mostly do not differ much from the FE estimates by visual inspection and we do not find 
+the RE estimates totally useless despite the rejection of RE in the Hausman test. 
+
+=== page PDF 16 ===
+ 
+15 
+outcome of the unobservables in some particular years between 1947 and 1951. Reverse 
+causation is implausible for the same kind of reason. But, treatment is a political decision, 
+and the actors could have called off the reform, or changed the details of the 1946 decision 
+between 1947 and 1951. The fact that they did not do any of this can be seen as a determinant 
+of treatment and might depend on idiosyncratic unobservables, in which case FE is not 
+enough. We use an IV strategy to address this issue. IV also corrects for possible simultaneity 
+and measurement errors. Further, IV can be applied on the cross section of municipalities to 
+provide level estimates, and at the same time correct for more endogeneity than FE does – 
+given that the instruments can be trusted.  
+We apply IV on both the cross section OLS and the panel FE set-ups. In the OLS set-up, 
+there are three sources of omitted variables – time effects, unit specific unobservables and 
+idiosyncratic unobservables. IV corrects for all three sources of endogeneity, but in the FE 
+set-up, we only have to deal with the last factor. We use an IV strategy for Treati and Ratioi 
+one at a time as well as on both at once. 
+We use land area, Areai, and share of land area in the county, AreaCouni, as instruments 
+for Treati
+11 and estimate the following first-stage equation in the OLS set-up:  
+i
+i
+i
+i
+AreaCoun
+i
+Area
+i
+u
+AreaCoun
+Area
+Treat
++
++
++
++
+=
+D
+'
+X
+'
+D
+X
+α
+α
+. 
+(5) 
+Table 1 shows a negative correlation between our instruments and Treati. The ceteris paribus 
+sign is however a priori unclear, once we include controls. The estimates of (5) are in column 
+[5] in Table A2 in Appendix 2 and show positive estimate on Areai and negative on 
+AreaCouni.  
+The intuition behind our instruments is that geographically large units have more 
+neighbors which they may be merged with and that the amalgams are of roughly the same 
+size within each county. The reason for including AreaCouni is that Areai alone turns out to 
+be a weak instrument. With both instruments, partial F(2, 2006) = 32.3 and partial R2 = 0.031 
+indicating no problems with weak instruments. Land area measures are geographically given 
+and not politically determined, and therefore arguably exogenous. It is not a socio-economic 
+variable, and is not expected to influence Debti, other than through Treati, when population 
+and density has been controlled for. The two instruments for Treati, Areai and AreaCouni 
+pass the overidentification test with Sargan’ s statistic = 0.75 and p(2) = 0.38. We extend 
+                                                
+11 Wu-Hausman’ s test of endogeneity fails to reject the null of exogeneity of Treati with F(1, 2006) = 0.57 and 
+p(F) = 0.45. To the extent that one is willing to trust this test, OLS is enough. For reasons of precaution we use 
+IV anyway. 
+
+=== page PDF 17 ===
+ 
+16 
+equation (5) by instrumenting TreatiYt with AreaiYt and AreaCouniYt in the FE and RE set-
+ups. 
+We use district’ s population/own population minus one, PopDisti, as instrument for the 
+common pool size Ratioi
+12 and estimate the following first-stage equation in the OLS set-up:  
+i
+i
+i
+i
+PopHun
+i
+u
+PopDist
+Ratio
++
++
++
+=
+D
+'
+X
+'
+D
+X
+α
+. 
+(6) 
+Since most mergers are between units in the same district, we have high positive correlation 
+between Ratioi and PopDisti as seen in Table 1. The estimates of (6) in column [6] in Table 
+A2 in Appendix 2 also show positive estimate on PopDisti. We get partial F(1, 1737) = 189.3 
+and partial R2 = 0.098 for (6), indicating that Ratioi is a sufficiently strong instrument. The 
+districts’ borders are geographical properties, with only historical interest, and are clearly 
+exogenous. Nor do we expect Popdisti to affect Debti except through Ratioi. We extend 
+equation (6) by instrumenting RatioiYt with PopDistiYt in the FE and RE set-ups. 
+When including both Treati and Ratioi we use Areai, AreaCouni and PopDisti as 
+instruments. For FE and RE, we analogously instrument TreatiYt and RatioiYt with AreaiYt, 
+AreaCouniYt and PopDistiYt. 
+ 
+5.4 Matching 
+In the regression approaches, we assume that the nature of the selection on observables is 
+such that the observables affect the dependent variable linearly (in parameter), which might 
+not be a good approximation. A strategy that does not rely on this functional form is 
+matching. In matching we match treated and untreated units according to similarities in 
+observed variables, and we do not have to specify how the variables affect the dependent 
+variable. Thus, selection bias caused by misspecification can be avoided. The identification 
+uses local differences between observations with similar characteristics with respect to 
+observables. This strategy can only be used to evaluate the ATE (which equals the ATT when 
+we assume the absence of group specific treatment effects) and not the ratio effect.  
+Exact matching is not possible since the variables can take a continuum of values. We 
+use a matching strategy based on propensity scores, which is the estimated propensity for 
+treatment. In the first stage, we estimate the propensity scores. In this we are interested in 
+obtaining as good propensity scores as possible, not in getting the parameter estimates right. 
+                                                
+12 Wu-Hausman’ s test of endogeneity fails to reject the null of exogeneity also for Ratioi with 
+F(1, 1736) = 0.030 and p(F) = 0.86. We use IV anyway here as well. 
+
+=== page PDF 18 ===
+ 
+17 
+We estimate the following Probit model for the cross section on the whole period 
+19471951: 
+(
+)
+(
+)
+i
+i
+Treat
+P
+S
+'
+S
+Φ
+=
+= 1
+, 
+(7) 
+where P(*) is the probability of treatment and (*) is the cumulative standard normal 
+distribution. Si = (Inci, Inci
+2, Inc, Popi, Popi
+2, Areai, AreaCouni, 1)’ .   
+We impose common support, which means that for all sets of regressors, there should be 
+a positive probability of nonparticipation. This is to ensure that we have untreated matches 
+for all treated observations. Roughly, the treated and the untreated should be comparable with 
+respect to the observables. Most districts contain only untreated or treated units, and 
+including district dummies in (7) leads to perfect prediction for most units. Perfectly 
+predicted observations violate the common support assumption and cannot be used. Including 
+district dummies would therefore lead to a massive loss of observations. 
+A basic matching assumption is that the sample is balanced, which means that the treated 
+and the untreated units are similar with respect to each observable. We check that the means 
+of each variable are the same for the two groups. This is seldom the case for the whole 
+sample, since the treated differ from the untreated on average. But by dividing the sample 
+into propensity score intervals, balancing can be achieved in each interval. If not we have to 
+try another specification. Equation (7) is chosen such that the balancing property is satisfied. 
+The final matching estimation can be carried out with different algorithms. We use 
+nearest neighbor, kernel, stratification and radius matching. In nearest neighbor matching, 
+each treated is matched with its nearest untreated neighbor. In kernel matching, several 
+neighbors are used with weights given according to a kernel function. In stratification 
+matching, a treated unit is compared with the untreated units within an interval. We use 
+propensity score intervals that fulfill the balancing property. In radius matching, each treated 
+unit is compared with all untreated units with a propensity score in a predefined 
+neighborhood of the treated unit.  
+ 
+ 
+6. RESULTS 
+6.1 Cross Section Results 
+The OLS results based on equations (1) – (3) are in column [1] – [3] and the IV result based 
+on (5) – (6) are in column [4] – [6] in Table 3 and apply to the cross section for the period 
+
+=== page PDF 19 ===
+ 
+18 
+19471951. When estimating the ratio effect, we confine us to the treated. White’ s test 
+indicates heteroskedasticity and we report White’ s robust standard errors throughout this 
+paper. Additional results can be found in Table A2 in Appendix 2.13  
+ 
+Table 3. Cross section OLS and IV regression estimates 
+Dep. Var: 
+[1] 
+[2] 
+[3] 
+[4] 
+[5] 
+[6] 
+Debti 
+OLS:Treat 
+OLS:Ratio 
+OLS:Both 
+IV:Treat 
+IV:Ratio 
+IV:Both 
+Treati 
+28.711*** 
+ 
+28.745*** 
+60.236 
+ 
+58.667 
+ 
+(8.383) 
+ 
+(8.374) 
+(46.121) 
+ 
+(45.300) 
+Ratioi 
+ 
+-0.077 
+-0.052 
+ 
+0.013 
+0.041 
+ 
+ 
+(0.146) 
+(0.152) 
+ 
+(0.426) 
+(0.448) 
+Inci 
+0.049*** 
+0.056*** 
+0.049*** 
+0.055*** 
+0.056*** 
+0.055*** 
+ 
+(0.016) 
+(0.019) 
+(0.016) 
+(0.018) 
+(0.019) 
+(0.019) 
+Inci 
+0.626*** 
+0.621*** 
+0.625*** 
+0.630*** 
+0.623*** 
+0.631*** 
+ 
+(0.068) 
+(0.073) 
+(0.069) 
+(0.069) 
+(0.075) 
+(0.071) 
+Popi 
+3.665 
+1.660 
+3.602 
+5.349 
+1.958 
+5.316 
+ 
+(2.602) 
+(2.165) 
+(2.658) 
+(4.215) 
+(2.410) 
+(4.138) 
+Popi 
+54.191 
+82.695** 
+53.684 
+60.030 
+83.201** 
+60.147 
+ 
+(44.027) 
+(41.513) 
+(43.981) 
+(43.293) 
+(41.819) 
+(43.413) 
+Deni 
+15.600** 
+17.361** 
+15.587** 
+16.506** 
+17.367** 
+16.472** 
+ 
+(6.881) 
+(7.010) 
+(6.884) 
+(6.657) 
+(7.005) 
+(6.653) 
+Districts 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Units 
+2,280 
+1,980 
+2,280 
+2,280 
+1,980 
+2,280 
+R2 
+0.332 
+0.319 
+0.332 
+- 
+- 
+- 
+Notes: Robust standard errors in parentheses.* significant at 10%; ** significant at 5%; *** 
+significant at 1%. 
+ 
+We get an ATE of 28.7 SEK per capita with statistical significance at 1 percent in column 
+[1]. The ratio effect is -0.077 SEK per capita (for each 100 percent increase in population due 
+to amalgamation) in column [2]. This estimate is statistically insignficiant and yields a tiny -
+0.51 SEK per capita for the average treated unit. The co-estimated effects in column [3] are 
+close to the separately estimated effects. However, the estimates are not directly comparable 
+since the interaction between Treati and Ratioi is corrected for in column [3]. βTreat is ATE in 
+column [1] and an intercept effect in column [3], and the ratio effect in column [2] excludes 
+the untreated but not the ratio effect in column [3]. ATE can be recovered from column [3] as 
+βTreat+βRatio*RatioMean = 28.4 SEK per capita which is close to the separately estimated effect. 
+IV about doubles ATE but makes it statistically insignificant in column [4], and turns the 
+                                                
+13 In Table A2, column [1] – [2] show OLS with a subgroup of controls and column [3] is equivalent to the ratio 
+estimates in column [2] in Table 3 but includes the untreated. Column [4] and [5] in Table A2 show the first step 
+estimates to the IV results in column [4] and [5] in Table 3.   
+
+=== page PDF 20 ===
+ 
+19 
+ratio effect for the treated positive in column [5] but the effect is tiny and statistically 
+insignificant. The co-estimated result in column [6] is on par with the separately estimated 
+results.  
+The positive ATE supports a common pool effect, while the low and statistically 
+insignificant ratio effect is unfavorable of the finer details of the law of 1/n which predicts a 
+positive and sizeable ratio effect. The size of ATE is economically significant since the mean 
+increase in debt for the treated during the period is only 27.7 SEK per capita which 
+corresponds to 2.8 percent of the average income or 63 percent of the average increase in 
+income. Thus, the whole increase can be attributed to the common pool effect. 
+We get positive estimates for all controls and very small differences between OLS and 
+IV. Higher Inci and Inci plausibly makes the municipalities afford a higher increase in debt. 
+Higher Densi and Popi also increase Debti, as do Popi which is perhaps counterintuitive. 
+But once we recall that we base identification on the cross section variation here, this last fact 
+might not be that surprising. Inci and Inci are always statistically significant at 1 percent, 
+while Popi and Popi are mostly insignificant. 
+When employing matching, we first estimate the propensity score equation (7). The 
+estimates as well as the percentage correctly predicted are reported in equation (A1) and 
+Table A3 in Appendix 2. The distribution of propensity scores across 8 strata fitted from the 
+estimates is in Table 5. The common support condition leaves 2,268 usable observations out 
+of 2,280 (12 untreated observations are dropped). The division of strata guarantees that the 
+balancing property is fulfilled. Some strata contain a small number of treated or untreated 
+which might reduce efficiency. 
+ 
+Table 4. Distribution of propensity scores and division of strata 
+Minimum Pscore 
+Untreated 
+Treated 
+Total 
+0.0003125 
+75 
+13 
+88  
+0.20 
+35 
+18 
+53  
+0.40 
+43 
+45 
+88  
+0.60 
+67 
+90 
+157  
+0.80 
+45 
+135 
+180  
+0.90 
+16 
+244 
+260  
+0.95 
+4 
+360 
+364  
+0.975 
+3 
+1,075 
+1,078  
+Total 
+288 
+1,980 
+2,268 
+Note: There are thus 45 treated with a propensity score in the interval 0.40–0.60.  
+ 
+
+=== page PDF 21 ===
+ 
+20 
+In Table 5 we present matching estimates based on the common support region outlined in 
+Table 4. In the stratification procedure, we use the division of strata according to Table 4, 
+which ensures balancing within each stratum. With the stratification, the kernel and the radius 
+(r = 0.1) procedures, we use the full set of treated and controls. We also use the full set of 
+treated in all except the radius (r = 0.01) procedure. The ATE estimates are between 13.3 and 
+35.6 SEK per capita and statistically significant at 10 percent when using kernel and 
+stratification matching. Compared to OLS, the direction of adjustment is ambiguous while 
+the standard errors increase. But the most important result is that ATE stays positive and 
+sizeable. 
+ 
+Table 5. Matching estimates 
+Matching Procedure 
+Untreated 
+Treated 
+ATE 
+St. Err. 
+Nearest neighbor 
+148 
+1,980 
+33.968 
+22.152b 
+Kernel 
+288 
+1,980 
+16.133* 
+9.622b 
+Stratification 
+288 
+1,980 
+23.792* 
+13.943a 
+Radius, r = 0.1 
+288 
+1,980 
+13.326 
+13.794a 
+Radius, r = 0.01 
+267 
+1,980 
+19.541 
+23.072a 
+Radius, r = 0.001 
+128 
+583 
+35.553 
+28.367a 
+Notes: a Analytical standard errors. b Bootstrapped standard errors with 200 replications. 
+* significant at 10%; ** significant at 5%; *** significant at 1%. 
+ 
+ 
+6.2 Panel Results 
+The FE and FE-IV panel results based on equation (4) are reported in column [1] – [3] and  
+[4] – [6] in Table 6. The ratio effect is still estimated only for the treated. Compared to the 
+cross section approach, year specific treatment effect and year dummies are introduced as 
+well as unit fixed effects instead of district dummies. In FE, we need to leave out the 
+treatment effect for one year and we do so for 1947. The aggregate effect can be calculated 
+by summing the effects from 1947 to 1951, i.e. 
+(
+)
+
+
+=
+=
++
+=
++
++
+51
+48
+47
+51
+48
+47
+47
+5
+Y
+Y
+Y
+Y
+β
+β
+β
+β
+β
+. 
+When doing this we assume that there is no effect in 1947. We report the RE estimates14 for 
+1947 as a justification for this assumption. The aggregate effect then becomes =
+51
+48
+Y
+Y
+β . RE 
+equivalents to Table 6 are in Table A4 in Appendix 3 and are qualitatively similar to the FE 
+results. 
+                                                
+14 The RE estimation includes year-specific effect for all years and replaces fixed effects with district dummies. 
+
+=== page PDF 22 ===
+ 
+21 
+Table 6. Panel FE and IV-FE estimates  
+Dep. Var: 
+[1] 
+[2] 
+[3] 
+[4] 
+[5] 
+[6] 
+Debti,t 
+FE:Treat 
+FE:Ratio 
+FE:Both 
+IV:Treat 
+IV:Ratio 
+IV:Both 
+YTreatY 
+28.631*** 
+ 
+30.563*** 
+14.238 
+ 
+32.027 
+ 
+(9.782) 
+ 
+(9.837) 
+(26.118) 
+ 
+(35.504) 
+YRatioY 
+ 
+-0.288 
+-0.349 
+ 
+-1.524 
+-1.229 
+ 
+ 
+(0.271) 
+(0.271) 
+ 
+(1.030) 
+(1.205) 
+TreatiY47t 
+0.244 
+ 
+-0.195 
+16.263 
+ 
+22.305* 
+(RE) 
+(2.220) 
+ 
+(2.219) 
+(10.380) 
+ 
+(12.442) 
+RatioiY47t 
+ 
+0.021 
+0.022 
+ 
+0.138 
+ 
+(RE) 
+ 
+(0.045) 
+(0.045) 
+ 
+(0.232) 
+ 
+TreatiY48t 
+7.042*** 
+ 
+7.331*** 
+-1.452 
+ 
+4.570 
+ 
+(2.677) 
+ 
+(2.699) 
+(7.907) 
+ 
+(10.985) 
+TreatiY49t 
+11.451*** 
+ 
+11.267*** 
+10.235 
+ 
+10.788 
+ 
+(3.594) 
+ 
+(3.625) 
+(8.269) 
+ 
+(11.318) 
+TreatiY50t 
+3.121 
+ 
+3.643 
+3.730 
+ 
+9.753 
+ 
+(3.661) 
+ 
+(3.680) 
+(8.443) 
+ 
+(11.371) 
+TreatiY51t 
+7.018** 
+ 
+8.322** 
+1.726 
+ 
+6.916 
+ 
+(3.423) 
+ 
+(3.514) 
+(8.182) 
+ 
+(11.110) 
+RatioiY48t 
+ 
+-0.042 
+-0.048 
+ 
+-0.553* 
+-0.399 
+ 
+ 
+(0.075) 
+(0.075) 
+ 
+(0.319) 
+(0.380) 
+RatioiY49t 
+ 
+0.030 
+0.016 
+ 
+-0.131 
+-0.068 
+ 
+ 
+(0.094) 
+(0.094) 
+ 
+(0.322) 
+(0.380) 
+RatioiY50t 
+ 
+-0.077 
+-0.096 
+ 
+-0.423 
+-0.422 
+ 
+ 
+(0.067) 
+(0.067) 
+ 
+(0.326) 
+(0.379) 
+RatioiY51t 
+ 
+-0.199 
+-0.220 
+ 
+-0.416 
+-0.339 
+ 
+ 
+(0.140) 
+(0.140) 
+ 
+(0.333) 
+(0.385) 
+Inci,t 
+0.139*** 
+0.164*** 
+0.136*** 
+0.143*** 
+0.161*** 
+0.139*** 
+ 
+(0.035) 
+(0.041) 
+(0.035) 
+(0.021) 
+(0.022) 
+(0.021) 
+Inci,t 
+-0.032 
+-0.048 
+-0.030 
+-0.035** 
+-0.045*** 
+-0.033** 
+ 
+(0.030) 
+(0.035) 
+(0.030) 
+(0.016) 
+(0.017) 
+(0.016) 
+Popi,t 
+-6.679 
+-3.885 
+-5.936 
+-6.381 
+-3.490 
+-5.038 
+ 
+(11.073) 
+(18.776) 
+(11.083) 
+(8.384) 
+(16.662) 
+(8.746) 
+Popi,t 
+-27.343* 
+-21.591 
+-25.431 
+-24.996* 
+-23.664 
+-25.451* 
+ 
+(15.406) 
+(17.243) 
+(15.472) 
+(13.632) 
+(15.122) 
+(13.778) 
+Deni,t 
+59.277 
+116.899 
+56.434 
+59.640 
+110.343** 
+56.150 
+ 
+(57.711) 
+(98.373) 
+(57.751) 
+(38.904) 
+(54.791) 
+(39.010) 
+Years 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+R2 
+0.016 
+0.018 
+0.017 
+- 
+- 
+- 
+Notes: Robust standard errors in parentheses.* significant at 10%; ** significant at 5%; *** 
+significant at 1%. 
+ 
+We get the dynamic pattern of ATE from FE in column [1]. The effects are positive in all 
+years relative to 1947. The effects are statistically significant at 1 percent in 1948 and 1949 
+and at 5 percent in 1950. The solid line in Figure 4 plots the development. The effect peaks at 
+11.5 SEK per capita in 1949, 3 years before the reform and 1 year before the municipal 
+
+=== page PDF 23 ===
+ 
+22 
+election in 1950. The RE estimate for 1947 is tiny 0.24 and statistically insignificant, which 
+supports that the effects in the following years are due to the anticipation of the reform. 1947 
+is the first year after the parliament’ s approval of the reform and long enough before the 
+execution of the reform to serve as baseline year of no ATE. Assuming the absence of ATE 
+in 1947, the FE estimates can be interpreted as levels of the effects. The aggregate ATE is 
+then 28.6 SEK per capita and statistically significant at 1 percent and very close to the OLS 
+estimate of 28.7 SEK per capita. Thus, allowing year specific effects, including year 
+dummies, exploiting the within-variation and controlling for unit specific unobservables do 
+not change the overall effect.15  
+With IV-FE in column [4], the effect turns negative in 1948 and is very much reduced in 
+1951. None of the estimates are statistically significant. But the dashed line in Figure 4 shows 
+that the dynamic pattern stays the same and ATE still peaks in 1949. The IV-RE estimate for 
+1947 is now positive and large. Thus the aggregate effect assuming no effect in 1947 
+probably underestimates the real total effect, and is statistically insignificant at 14.2 SEK per 
+capita, which is half of the estimated aggregate effect in the FE case. In sum, controlling for 
+idiosyncratic errors yield a similar dynamic pattern and still renders a sizeable aggregate 
+effect, but the standard errors increase.16  
+ 
+-5
+0
+5
+10
+15
+47
+48
+49
+50
+51
+Year
+ATE (SEK/Capita)
+FE
+IV-FE
+ 
+Figure 4. Dynamic evolution of ATE 
+ 
+                                                
+15 The RE estimates in column [1] in Table A4 in Appendix 3 resemble the FE estimates. 
+16 The IV-RE estimates in column [4] in Table A4 in Appendix 3 are higher than the IV-FE estimates, but show 
+similar variation in effects between years. The dynamic pattern is thus robust, but not the aggregate effect 
+estimates. 
+
+=== page PDF 24 ===
+ 
+23 
+We get the dynamic pattern of the ratio effect from FE in column [2]. The effects are small 
+and insignificant relative to 1947. The solid line in Figure 5 plots the development. The 
+largest effect is -0.20 SEK per capita, one year before the reform. The RE estimate for 1947 
+is very close to zero, 0.021 SEK per capita. The aggregate ratio effect is -0.29 SEK per 
+capita, which is larger in size than the OLS estimate, and gives -1.9 SEK per capita for the 
+average unit. Thus, with the FE correction, we obtain a small unexpected negative ratio 
+effect.17  
+With IV-FE, the effects turn highly negative for all years with statistical significance in 
+1948. The dashed line in Figure 5 plots the dynamic pattern. The IV-RE estimate for 1947 is 
+close to zero and the IV-FE estimate can be interpreted as levels. The aggregate ratio effect is 
+-1.5 SEK per capita and much larger than the unexpected negative ratio effect found using 
+FE.18    
+ 
+-0,6
+-0,4
+-0,2
+0,0
+0,2
+47
+48
+49
+50
+51
+Year
+Ratio Effect (SEK/Capita)
+FE
+IV-FE
+ 
+Figure 5. Dynamic evolution of the ratio effect for the treated 
+ 
+The co-estimated intercept and ratio effects from FE in column [3] in Table 6 are close to the 
+separately estimated effects in both size and pattern. Aggregate ATE can be recovered as 
+Mean
+Y
+Treat
+Y
+Treat
+Ratio
+*
+51
+48
+51
+48
+
+
+=
+=
++
+β
+β
+ = 28.3 SEK per capita. The co-estimated effects from 
+FE-IV in column [6] give a similar pattern and the same size on the aggregate ratio effect as 
+the separately estimated effects, but an aggregate ATE of 23.9 SEK per capita, which is much 
+higher than the separately estimated effect, but close to the FE result.  
+                                                
+17 The RE estimates in column [2] in Table A4 in Appendix 3 also resemble the FE estimates. 
+18 The RE estimates in column [4] in Table A4 in Appendix 3 resemble the FE estimates as well. 
+
+=== page PDF 25 ===
+ 
+24 
+The aggregate co-estimated intercept and ratio effects are plotted in Figure 6, where we 
+show the effects when varying Ratio. The fat solid line shows the FE result and the fat dashed 
+line the IV-FE result. The co-estimated OLS and IV results are also shown, the former in the 
+thin solid line and the latter in the thin dashed line. While the common pool effect is constant 
+in the cross section analysis, it decreases with the common pool area in the panel analysis. 
+For units with very large common pools the panel result even suggest a negative treatment 
+effect, since the negative ratio effect becomes larger than the positive intercept effect. While 
+the mean Ratio for the treated is 6.6, the largest Ratio is 218.3, and the panel result certainly 
+predicts an unexpected negative treatment effect for some units (9 units with the FE-
+estimates). 
+ 
+-50
+0
+50
+100
+0
+10
+20
+30
+40
+50
+Ratio
+Treatment Effect (SEK/Capita)
+OLS
+IV
+FE
+IV-FE
+ 
+Figure 6. Intercept and ratio effect for different years and in aggregate 
+ 
+ 
+Looking at the controls we see that while the signs on Inc and Dens are positive as in the 
+cross section analysis, Inc, Pop and Pop now have negative signs. Since we only use 
+within-variation and no between-variation there is no reason to believe that the signs on the 
+controls should stay the same. Higher Inci,t and Densi,t still means a better economy which 
+makes the units afford a higher Debti,t. Higher Inci,t on the other hand causes the units to 
+reduce Debti,t. For Popi,t and Popi,t, an increase in population within a unit means more 
+persons to spread the debts on, which plausibly decreases Debti,t since it is measured in per 
+capita terms.  
+ 
+
+=== page PDF 26 ===
+ 
+25 
+6.3 Ratio Results by Population Groups 
+To analyze the unexpected ratio effect for the treated, we divide the sample into 3 groups, A, 
+B and C with 0500, 5011,000 and >1,000 inhabitants, and estimate the ratio effects with 
+all previous set-ups but allowing for group specific effects. The results are presented in Table 
+7. In the panel set-ups, we report the usual aggregate effect assuming no effect in 1947. 
+Alternative results, estimating the groups separately, or including an interaction term between 
+Ratio and Pop (in 1951), NewPop, that restricts the ratio effect to depend linearly on 
+population, are in Table A5 and A6 and equations (A2) and (A3) in Appendix 4.  
+The results for the least populous units in group A are close to the results for the whole 
+sample. The OLS estimate in column [1] is small and negative and the IV estimate in column 
+[2] is small and positive. The FE and FE-IV estimates in column [3] and [4] show the same 
+dynamic pattern as in Figure 5. The aggregate effect is negative for FE and highly negative 
+for FE-IV. The other groups’ ratio effects differ very much from the ratio effect for the whole 
+sample which suggests that the ratio effect is different across groups.19 Thus, the size of the 
+ratio effect for the whole sample is highly influenced by and only representative for the small 
+units. The standard errors are high and none of the group-specific effects are statistically 
+significant. 
+The ratio effect appears to increase with population as the group-specific estimates are 
+mostly lowest for group A and highest for group C. On the other hand, the FE-IV estimates 
+show a reverse trend. The results also suggest that there is a negative ratio effect for group A, 
+no effect for group B and a positive effect for group C. But the IV estimate in column [2] 
+hints at the absence of a ratio effect for small units rather than a negative effect. In sum, there 
+is no robust evidence for the presence of a ratio effect, neither a clear pattern of how such an 
+effect varies with population.20 
+ 
+ 
+                                                
+19 A similar analysis for ATE, either with Treati estimated alone or co-estimated with Ratioi, reveals only small 
+and non-systematic group specific effects, and does not change the overall qualitative pattern obtained without 
+group specific effects. 
+20 The group by group estimation results in Table A5 and A6 as well as the interaction term specification results 
+in Appendix 4 give some further support that the ratio effect increases with population with a negative effect for 
+less populous units but a positive effect for more populous ones, and some estimates are sizeable and 
+statistically significant. 
+
+=== page PDF 27 ===
+ 
+26 
+Table 7. Group specific ratio effects 
+Dep. Var: 
+[1] 
+[2] 
+[3] 
+[4] 
+Debti,t/Debti,t 
+OLS 
+IV 
+FE 
+IV-FE 
+AiRatioi/YARatioY 
+-0.122 
+0.530 
+-0.350 
+-2.158 
+  
+(0.175) 
+(0.556) 
+(0.311) 
+(1.972) 
+BiRatioi/YBRatioY 
+0.170 
+1.717 
+0.133 
+-4.552 
+ 
+(0.193) 
+(1.706) 
+(0.276) 
+(6.295) 
+CiRatioi/YCRatioY 
+1.613 
+5.129 
+2.277 
+-9.048 
+ 
+(1.576) 
+(3.522) 
+(2.102) 
+(13.851) 
+AiRatioiY48t 
+ 
+ 
+-0.021 
+-1.007 
+ 
+ 
+ 
+(0.086) 
+(0.633) 
+AiRatioiY49t 
+ 
+ 
+0.013 
+-0.416 
+ 
+ 
+ 
+(0.110) 
+(0.653) 
+AiRatioiY50t 
+ 
+ 
+-0.103 
+-0.836 
+ 
+ 
+ 
+(0.075) 
+(0.672) 
+AiRatioiY51t 
+ 
+ 
+-0.238 
+0.101 
+ 
+ 
+ 
+(0.159) 
+(0.693) 
+BiRatioiY48t 
+ 
+ 
+-0.061 
+-2.868 
+ 
+ 
+ 
+(0.088) 
+(2.056) 
+BiRatioiY49t 
+ 
+ 
+0.102 
+-0.856 
+ 
+ 
+ 
+(0.114) 
+(2.147) 
+BiRatioiY50t 
+ 
+ 
+0.043 
+-2.179 
+ 
+ 
+ 
+(0.114) 
+(2.204) 
+BiRatioiY51t 
+ 
+ 
+0.049 
+1.350 
+ 
+ 
+ 
+(0.100) 
+(2.274) 
+CiRatioiY48t 
+ 
+ 
+0.795 
+-5.511 
+ 
+ 
+ 
+(0.636) 
+(4.636) 
+CiRatioiCiY49t 
+ 
+ 
+0.135 
+-3.973 
+ 
+ 
+ 
+(0.809) 
+(4.774) 
+CiRatioiY50t 
+ 
+ 
+0.154 
+-5.446 
+ 
+ 
+ 
+(0.794) 
+(4.972) 
+CiRatioiY51t 
+ 
+ 
+1.193 
+5.882 
+ 
+ 
+ 
+(0.952) 
+(5.279) 
+Controls 
+Yes 
+Yes 
+Yes 
+Yes 
+Years 
+No 
+No 
+Yes 
+Yes 
+Districts 
+Yes 
+Yes 
+No 
+No 
+R2 
+0.320 
+- 
+0.019 
+- 
+Notes: Robust standard errors in parentheses.* significant at 10%; ** significant at 5%; *** 
+significant at 1%. Ai, Bi and Ci are group dummies. 
+ 
+When evaluating the size of the ratio effect, we need to have the mean Ratio for each 
+group in mind, which is 14.8 for group A, 5.3 for group B and 1.8 for group C as shown in 
+Table 2. The average ratio effect which is βRatioRatioMean is therefore only -5.2 SEK per capita 
+for group A, 0.7 SEK per capita for group B and 4.1 SEK per capita for group C when using 
+
+=== page PDF 28 ===
+ 
+27 
+the FE estimates. Compared to the intercept effect or the ATE, these effects are very small. 
+The ratio effect appears to be of relatively low importance. 
+To speculate, a negative ratio effect for small units could be due to reduced activity when 
+small units will be merged with populous units, since the chance of remaining in office is 
+reduced with the size of the amalgam. A positive ratio effect for large units could possibly be 
+explained by organizational differences which influence the ability to exploit the common 
+pool. Although speculation about such finer details can be exciting, our results mostly 
+indicate that the ratio effect is either small or absent. The exploitation of the common pool is 
+largely non-systematic with respect to common pool size. The treated units increase their 
+debt in face of amalgamation, but without much consideration of how large the optimal 
+increase is. It might be that the municipalities simply spend extra resources on available 
+projects as much as they could when facing an amalgamation and finance this by taking 
+loans. 
+ 
+ 
+7. CONCLUSIONS 
+We argue that the Swedish amalgamation reform of 1952 is ideally suited for studying the 
+common pool model of political decision making. We find that the treated (i.e. later 
+amalgamated) municipalities increase their debt considerably more than the untreated 
+municipalities before amalgamation. For the treated units, the common pool effect is of the 
+same size as the increase in debt during the years before the reform, which is a sizeable share 
+of total income (2.8 percent). However, we find no support for the common pool model as it 
+is formulated by Weingast et al. (1981), which predicts the effect to increase with common 
+pool size. Our results show that the common pool size has a small and mostly statistically 
+insignificant effect on the change in debt (in contrast to Tyrefors, 2006). Possibly, this could 
+be caused by limited opportunities for exploiting the common pool, resulting in less than 
+optimal exploitation from each unit’ s opportunistic perspective.  
+The reform of 1952 gives rise to a situation very much like the basic common pool 
+model. Failing to find any treatment effect in such an ideal case would have provided rather 
+strong evidence against the common pool model. Interestingly, we do not find complete 
+support for the model even in this clear case. Caution is therefore called for when applying 
+the common pool model to other less typical political situations. However, we do find 
+evidence of free-riding when a common pool is present. The power to tax was used to shift 
+
+=== page PDF 29 ===
+ 
+28 
+the burden of taxation to people in other political units, and our results indicate that such 
+exploitation can be quite sizeable.  
+As argued by Weingast et al. (1981) the common pool problem is likely to permeate 
+extensive parts of political decision making. Our results underscore such concerns even 
+though fiscal exploitation before the Swedish amalgamation reform of 1952 appears to have 
+been rather crude and unsophisticated when compared with their theory. Further empirical 
+studies should therefore allow for a very imprecise reflection of the law of 1/n in political 
+outcomes. In any respect, it ought to be an issue of constitutional importance to neutralize 
+incentives for fiscal exploitation.  
+ 
+ 
+
+=== page PDF 30 ===
+ 
+29 
+REFERENCES 
+Alesina, Alberto and Spolaore, Enrico (1997), “ On the Number and Size of Nations,” 
+Quarterly Journal of Economics 112: 1027–1056. 
+Baqir, Reza (2002), “ Districting and Government Overspending,” Journal of Political 
+Economy, 110:6, 1318−1354. 
+Bolton, Patrick and Roland, Gerard (1997), “ The Breakup of Nations: A Political Economy 
+Analysis,” Quarterly Journal of Economics 112: 1058–1090. 
+Bradbury, John C. and Crain, W. Mark (2001), “ Legislative Organization and Government 
+Spending: Cross-Country Evidence,” Journal of Public Economics, 82: 3, 309−325. 
+Bradbury, John C. and Stephenson, E. Frank (2003), “ Local Government Structure and 
+Public Expenditures,” Public Choice, 115:1-2, 185198. 
+Buchanan, James M. and Tullock, Gordon (1962), The Calculus of Consent: Logical 
+Foundations of Constitutional Democracy, Ann Arbor, The University of Michigan Press. 
+Crain, W. Mark (1999), “ Districts, Diversity, and Fiscal Biases: Evidence from the American 
+States,” Journal of Law and Economics, 42:2, 675−698. 
+Gilligan, Thomas W. and Matsusaka, John G. (1995), “ Deviations from Constituent Interests: 
+The Role of Legislative Structure and Political Parties in the States,” Economic Inquiry, 
+33:3, 383−401. 
+Gilligan, Thomas W. and Matsusaka, John G. (2001), “ Fiscal Policy, Legislature Size, and 
+Political Parties: Evidence from State and Local Governments in the First Half of the 20th 
+Century,” National Tax Journal, 54:1, 57−82. 
+Gustafsson, Agne (1978), Local Government in Sweden, Ministry of Local Government, 
+Stockholm, Liber. 
+Hanes, Niklas (2003), “ Amalgamation impact on local public expenditures in Sweden”, 
+Working Paper, Umeå University. 
+Persson, Torsten and Tabellini, Guido (2000), Political Economics: Explaining Economic 
+ 
+Policy, Cambridge: MIT Press. 
+Pettersson-Lidbom, Per (2006), “ Does the Size of the Legislature Affect the Size of 
+Government? Evidence from Two Natural Experiments,” mimeo, Stockholm University, 
+Department of Economics. 
+Primo, David M. and Snyder, James M. Jr. (2005), “ Public Goods and the Law of 1/n,” 
+Working Paper, University of Rochester. 
+
+=== page PDF 31 ===
+ 
+30 
+Sandalow, Terrance (1971), “ Local Government in Sweden”, The American Journal of 
+Comparative Law, 19:4, 766785. 
+SOU (1978), Ny Indelningslag för Kommuner, Landstingskommuner och Församlingar, SOU 
+1978:32. 
+Strömberg, Lars and Westerstål, Jörgen (1984), The New Swedish Communes, Stockholm, 
+Lerums Boktryckeri. 
+Tullock, Gordon (1959), “ Problems of Majority Voting,” Journal of Political Economy 67:6, 
+571−579. 
+Tyrefors, Björn (2006), “ Do Politicians Free Ride? An Empirical Test of the Common Pool 
+Model,” SSE/EFI Working Paper Series in Economics and Finance, no 626, Stockholm 
+School of Economics, Department of Economics. 
+Weingast, Barry R., Shepsle, Kenneth A., and Johnsen, Christopher (1981), “ The Political 
+Economy of Benefits and Costs: A Neoclassical Approach to Politics,” Journal of 
+Political Economy, 89:4, 642−664. 
+ 
+ 
+
+=== page PDF 32 ===
+ 
+31 
+APPENDICES 
+Appendix 1. Additional Descriptive Statistics 
+Table A1. Detailed description of variables for the whole population 
+Variable 
+Mean 
+Std. Dev. 
+Min 
+Max 
+Treat 
+0.868 
+0.338 
+0 
+1 
+Ratio 
+5.731 
+11.596 
+0.000 
+218.252 
+New 
+2.916 
+5.507 
+0.000 
+192.498 
+Debti 
+29.059 
+91.887 
+-287.476 
+1,100.804 
+Debti 
+45.574 
+56.913 
+0.000 
+508.786 
+Inci 
+1,051.892 
+299.084 
+261.741 
+2,583.301 
+Inci 
+47.693 
+49.044 
+-297.525 
+524.183 
+Popi 
+1.492 
+1.822 
+0.067 
+24.841 
+Popi 
+-0.019 
+0.064 
+-0.359 
+0.479 
+Densi 
+0.254 
+0.441 
+0.002 
+10.404 
+Debti,t  
+5.812 
+40.793 
+-403.555 
+557.003 
+Debti,t 
+53.757 
+71.791 
+0.000 
+966.903 
+Inci,t 
+210.378 
+70.308 
+31.126 
+689.051 
+Inci,t 
+9.539 
+43.883 
+-362.972 
+393.913 
+Popi,t 
+1.493 
+1.857 
+0.067 
+25.230 
+Popi,t 
+0.000 
+0.035 
+-0.310 
+0.420 
+Densi,t 
+0.254 
+0.447 
+0.002 
+10.521 
+Area 
+16.996 
+72.225 
+0.045 
+1,814.364 
+AreaCoun 
+0.010 
+0.013 
+0.00009 
+0.184 
+PopDist 
+23.701 
+32.443 
+0.000 
+483.641 
+ 
+
+=== page PDF 33 ===
+ 
+32 
+Appendix 2. Additional Cross Section Results 
+Table A2. OLS with subset of controls, Ratio with all obs., and First step IV estimates 
+Dep. Var: 
+[1] 
+[2] 
+[3] 
+[4] 
+[5] 
+Debti 
+OLS:Inc 
+OLS:Pop 
+OLS:Ratio+ 
+IV:TreatI 
+IV:RatioI 
+Treati 
+19.513*** 
+17.981** 
+ 
+ 
+ 
+ 
+(6.618) 
+(8.259) 
+ 
+ 
+ 
+Ratioi 
+-0.248 
+-0.484*** 
+-0.042 
+ 
+ 
+ 
+(0.170) 
+(0.185) 
+(0.153) 
+ 
+ 
+Areai 
+ 
+ 
+ 
+0.001*** 
+ 
+ 
+ 
+ 
+ 
+(0.0003) 
+ 
+AreaCouni 
+ 
+ 
+ 
+-8.201*** 
+ 
+ 
+ 
+ 
+ 
+(1.087) 
+ 
+PopDisti 
+ 
+ 
+ 
+ 
+0.149*** 
+ 
+ 
+ 
+ 
+ 
+(0.009) 
+Inci 
+0.024*** 
+ 
+0.044*** 
+-0.0002*** 
+-0.002* 
+ 
+(0.009) 
+ 
+(0.016) 
+(0.00003) 
+(0.001) 
+Inci 
+0.682*** 
+ 
+0.622*** 
+-0.0001 
+-0.011** 
+ 
+(0.079) 
+ 
+(0.070) 
+(0.0001) 
+(0.006) 
+Popi 
+ 
+4.749 
+2.079 
+-0.033*** 
+-0.359* 
+ 
+ 
+(3.039) 
+(2.543) 
+(0.005) 
+(0.187) 
+Popi 
+ 
+226.039*** 
+48.457 
+-0.253*** 
+0.475 
+ 
+ 
+(46.891) 
+(45.191) 
+(0.096) 
+(4.040) 
+Deni 
+ 
+14.188* 
+14.764** 
+-0.054*** 
+0.248 
+ 
+ 
+(7.282) 
+(7.181) 
+(0.014) 
+(0.582) 
+Districts 
+No 
+No 
+Yes 
+Yes 
+Yes 
+Units 
+2,280 
+2,280 
+2,280 
+2,280 
+1,980 
+R2 
+0.159 
+0.050 
+0.327 
+0.577 
+0.371 
+Notes: Robust standard errors in parentheses.* significant at 10%; ** significant at 5%; *** 
+significant at 1%. 
+ 
+Propensity score estimates: 
+)
+586
+.0
+(
+)
+970
+.4
+(
+)
+002
+.0
+(
+44
+.0
+622
+.3
+697
+.4
+006
+.0
+)
+003
+.0
+(
+)
+048
+.0
+(
+)
+009
+.0
+(
+)
+0000004
+.0
+(
+)
+0009
+.0
+(
+027
+.0
+667
+.0
+001
+.0
+0000002
+.0
+001
+.0
+[
+)1
+(ˆ
+*
+*
+*
+2
+*
+*
+*
+*
+*
+*
+2
+2
+=
++
+−
+−
++
+−
+∆
+−
++
+−
+Φ
+=
+=
+R
+Pseudo
+AreaCoun
+Area
+Pop
+Pop
+Inc
+Inc
+Inc
+Treat
+P
+i
+i
+i
+i
+i
+i
+i
+(A1) 
+ 
+Table A3. Number and percentage (in parenthesis) correctly predicted from eq. (A1) 
+Treat / Predicted Treat 
+0 
+1 
+Total 
+0  
+147 
+153         
+300  
+ 
+(0.49) 
+(0.51) 
+(1.00)  
+1 
+53 
+1,927 
+,1980  
+ 
+(0.03) 
+(0.97) 
+(1.00)  
+Total 
+200 
+2,080 
+2,280  
+ 
+(0.09) 
+(0.91) 
+(1.00) 
+
+=== page PDF 34 ===
+ 
+33 
+Appendix 3. Additional Panel Results 
+Table A4. Panel RE estimates 
+Dep. Var: 
+[1] 
+[2] 
+[3] 
+[4] 
+[5] 
+[6] 
+Debti,t 
+RE:Treat 
+RE:Ratio 
+RE:Both 
+IV:Treat 
+IV:Ratio 
+IV:Both 
+YTreatY 
+24.955*** 
+ 
+25.229*** 
+89.035* 
+ 
+140.286*** 
+ 
+(8.260) 
+ 
+(8.254) 
+(47.124) 
+ 
+(53.103) 
+YRatioY 
+ 
+-0.299* 
+-0.312* 
+ 
+-1.201** 
+-1.445** 
+ 
+ 
+(0.180) 
+(0.180) 
+ 
+(0.595) 
+(0.574) 
+TreatiY47t 
+0.244 
+ 
+-0.195 
+16.263 
+ 
+22.305* 
+ 
+(2.220) 
+ 
+(2.219) 
+(10.380) 
+ 
+(12.442) 
+TreatiY48t 
+7.059*** 
+ 
+6.962*** 
+14.638 
+ 
+27.101** 
+ 
+(2.037) 
+ 
+(2.036) 
+(10.517) 
+ 
+(12.543) 
+TreatiY49t 
+10.991*** 
+ 
+10.467*** 
+26.150** 
+ 
+33.580*** 
+ 
+(2.826) 
+ 
+(2.852) 
+(10.863) 
+ 
+(12.893) 
+TreatiY50t 
+1.064 
+ 
+1.346 
+16.175 
+ 
+29.084** 
+ 
+(3.425) 
+ 
+(3.455) 
+(10.905) 
+ 
+(12.949) 
+TreatiY51t 
+5.597* 
+ 
+6.649** 
+15.809 
+ 
+28.215** 
+ 
+(3.233) 
+ 
+(3.327) 
+(10.730) 
+ 
+(12.691) 
+RatioiY47t 
+ 
+0.021 
+0.022 
+ 
+0.138 
+ 
+ 
+ 
+(0.045) 
+(0.045) 
+ 
+(0.232) 
+ 
+RatioiY48t 
+ 
+-0.033 
+-0.033 
+ 
+-0.460** 
+ 
+ 
+ 
+(0.051) 
+(0.051) 
+ 
+(0.232) 
+ 
+RatioiY49t 
+ 
+0.027 
+0.025 
+ 
+-0.068 
+ 
+ 
+ 
+(0.049) 
+(0.050) 
+ 
+(0.231) 
+ 
+RatioiY50t 
+ 
+-0.096** 
+-0.100** 
+ 
+-0.407* 
+ 
+ 
+ 
+(0.048) 
+(0.048) 
+ 
+(0.232) 
+ 
+RatioiY51t 
+ 
+-0.218 
+-0.226 
+ 
+-0.403* 
+ 
+ 
+ 
+(0.146) 
+(0.145) 
+ 
+(0.237) 
+ 
+Controls  
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Years 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Districts 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+R2 
+0.064 
+0.061 
+0.065 
+- 
+- 
+- 
+Notes: Robust standard errors in parentheses.* significant at 10%; ** significant at 5%; *** 
+significant at 1%. 
+ 
+
+=== page PDF 35 ===
+ 
+34 
+Appendix 4. Additional Results by Population Groups 
+Table A5. Cross section OLS and IV estimates for each subgroup 
+Dep. Var: 
+[1] 
+[2] 
+[3] 
+[4] 
+[5] 
+[6] 
+Debti 
+OLS:A 
+OLS:B 
+OLS:C 
+IV:A 
+IV:B 
+IV:C 
+Ratioi 
+-0.262 
+0.138 
+1.720 
+-1.317 
+-48.051 
+19.818* 
+ 
+(0.299) 
+(0.150) 
+(2.186) 
+(1.954) 
+(268.836) 
+(10.383) 
+Controls 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Districts 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Units 
+559 
+632 
+789 
+559 
+632 
+789 
+R2 
+0.518 
+0.457 
+0.583 
+- 
+- 
+- 
+Notes: Robust standard errors in parentheses.* significant at 10%. 
+ 
+ 
+Table A6. Panel FE and IV-FE estimates for each subgroup 
+ 
+Dep. Var: 
+[1] 
+[2] 
+[3] 
+[4] 
+[5] 
+[6] 
+Debti,t 
+FE:A 
+FE:B 
+FE:C 
+IV:A 
+IV:B 
+IV:C 
+YRatioY 
+-0.530 
+0.228 
+7.269* 
+-4.201 
+15.965 
+18.030 
+ 
+(0.355) 
+(0.232) 
+(2.863) 
+(2.682) 
+(47.339) 
+(18.408) 
+RatioiY48t 
+-0.072 
+0.028 
+1.262 
+-1.711** 
+0.660 
+0.629 
+ 
+(0.089) 
+(0.076) 
+(0.897) 
+(0.822) 
+(15.202) 
+(5.404) 
+RatioiY49t 
+-0.002 
+0.035 
+2.245** 
+-0.431 
+6.295 
+1.396 
+ 
+(0.132) 
+(0.078) 
+(0.959) 
+(0.824) 
+(14.406) 
+(5.595) 
+RatioiY50t 
+-0.107 
+0.051 
+1.184 
+-0.794 
+7.764 
+-0.887 
+ 
+(0.080) 
+(0.115) 
+(0.997) 
+(0.831) 
+(14.889) 
+(5.911) 
+RatioiY51t 
+-0.350* 
+0.115 
+2.578** 
+-1.264 
+1.245 
+16.892*** 
+ 
+(0.207) 
+(0.073) 
+(1.226) 
+(0.877) 
+(14.870) 
+(6.499) 
+Controls 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Years 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Districts 
+No 
+No 
+No 
+No 
+No 
+No 
+R2 
+0.011 
+0.053 
+0.020 
+- 
+- 
+- 
+Notes: Robust standard errors in parentheses.* significant at 10%; ** at 5%; *** at 1%. 
+ 
+Interaction term specification, OLS on the cross section and FE on the panel: 
+)
+357
+.0
+(
+)
+208
+.0
+(
+32
+.0
+127
+.0
+127
+.0
+ˆ
+2 =
++
++
++
+−
+=
+∆
+R
+NewPop
+Ratio
+Debt
+i
+i
+i
+i
+i
+D
+'
+
+X
+'
+
+D
+X
+   
+(A2) 
+(A3)
+016
+.0
+)
+272
+.0
+(
+)
+175
+.0
+(
+)
+195
+.0
+(
+)
+171
+.0
+(
+254
+.0
+320
+.0
+269
+.0
+142
+.0
+)
+135
+.0
+(
+)
+071
+.0
+(
+)
+083
+.0
+(
+)
+105
+.0
+(
+318
+.0
+220
+.0
+079
+.0
+092
+.0
+ˆ
+2
+,
+*
+51
+50
+49
+48
+*
+*
+*
+*
+*
+50
+49
+48
+,
+=
++
++
++
++
++
++
++
+−
+−
+−
+−
+=
+∆
+R
+Y
+NewPop
+Y
+NewPop
+Y
+NewPop
+Y
+NewPop
+Y
+Ratio
+Y
+Ratio
+Y
+Ratio
+Y
+Ratio
+Debt
+i
+t
+t
+i
+i
+i
+i
+i
+i
+i
+i
+i
+t
+i
+U
+'
+
+Y
+'
+
+X
+'
+
+U
+Y
+X
+ 
+YRatioY 
+-0.709 
+ 
+YNewPopY 
+0.985 
+ 
+ 
+(0.225)*** 
+ 
+ 
+(0.423)** 

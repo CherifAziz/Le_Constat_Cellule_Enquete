@@ -1,0 +1,52 @@
+exercice;date_vote;gouvernement;source_X1;X1;X2;X3;d_dep_prim;d_solde_prim;recession;crise_ou_suivante;premier_exercice_gouv;pre_electoral
+1975;1974-11-20;Jacques Chirac n°1;officiel (formation);14;35;13;4.521;-2.712;1;1;0;0
+1976;1975-11-19;Jacques Chirac n°1;officiel (formation);14;35;14;0.619;1.217;0;1;0;0
+1977;1976-11-20;Raymond Barre n°1;officiel (formation);15;34;15;-0.975;0.613;0;0;1;1
+1978;1977-11-18;Raymond Barre n°2;officiel (formation);12;38;13;0.815;-0.572;0;0;1;0
+1979;1978-11-20;Raymond Barre n°3;officiel (formation);18;36;17;0.178;1.43;0;0;1;0
+1980;1979-11-20;Raymond Barre n°3;officiel (formation);18;36;17;0.9;0.141;0;0;0;1
+1981;1980-11-20;Raymond Barre n°3;officiel (formation);18;36;17;2.13;-1.513;0;0;0;0
+1982;1981-11-20;Pierre Mauroy n°2;officiel (formation);25;42;25;1.324;-0.385;0;0;1;0
+1983;1982-11-20;Pierre Mauroy n°2;officiel (formation);25;42;23;0.075;0.764;0;0;0;0
+1984;1983-11-20;Pierre Mauroy n°3;officiel (formation);13;41;13;0.873;-0.074;0;0;1;0
+1985;1984-11-20;Laurent Fabius;officiel (formation);15;41;15;0.415;-0.042;0;0;1;1
+1986;1985-11-20;Laurent Fabius;officiel (formation);15;41;17;-0.806;-0.196;0;0;0;0
+1987;1986-11-14;Jacques Chirac n°2;officiel (formation);13;36;13;-0.514;1.102;0;0;1;1
+1988;1987-11-13;Jacques Chirac n°2;officiel (formation);13;36;13;-0.666;-0.652;0;0;0;0
+1989;1988-11-20;Michel Rocard n°2;officiel (formation);20;48;20;-1.236;0.873;0;0;1;0
+1990;1989-11-20;Michel Rocard n°2;officiel (formation);20;48;19;0.509;-0.436;0;0;0;0
+1991;1990-11-20;Michel Rocard n°2;officiel (formation);20;48;20;0.982;-0.302;0;0;0;0
+1992;1991-11-20;Édith Cresson;officiel (formation);18;44;18;1.111;-1.579;0;0;1;1
+1993;1992-11-20;Pierre Bérégovoy;officiel (formation);19;40;18;2.304;-1.533;1;1;1;0
+1994;1993-11-20;Édouard Balladur;officiel (formation);22;28;21;-0.773;1.057;0;1;1;1
+1995;1994-11-20;Édouard Balladur;officiel (formation);22;28;20;0.052;0.466;0;0;0;0
+1996;1995-11-20;Alain Juppé n°2;officiel (formation);15;31;15;-0.191;1.371;0;0;1;1
+1997;1996-11-20;Alain Juppé n°2;officiel (formation);15;31;15;-0.386;0.121;0;0;0;0
+1998;1997-11-20;Lionel Jospin;officiel (formation);13;25;13;-1.425;1.155;0;0;1;0
+1999;1998-11-20;Lionel Jospin;officiel (formation);13;25;13;-0.014;0.539;0;0;0;0
+2000;1999-11-20;Lionel Jospin;officiel (formation);13;25;13;-0.919;0.113;0;0;0;0
+2001;2000-11-20;Lionel Jospin;officiel (formation);13;25;14;0.111;-0.011;0;0;0;1
+2002;2001-11-20;Lionel Jospin;officiel (formation);13;25;14;1.126;-1.783;0;0;0;0
+2003;2002-11-20;Jean-Pierre Raffarin n°2;officiel (formation);14;37;14;0.581;-1.064;0;0;1;0
+2004;2003-11-20;Jean-Pierre Raffarin n°2;officiel (formation);14;37;14;-0.278;0.458;0;0;0;0
+2005;2004-11-20;Jean-Pierre Raffarin n°3;officiel (formation);16;42;16;0.349;-0.038;0;0;1;0
+2006;2005-11-20;Dominique de Villepin;officiel (formation);15;30;15;-0.401;0.738;0;0;1;1
+2007;2006-11-21;Dominique de Villepin;officiel (formation);15;30;15;-0.205;-0.247;0;0;0;0
+2008;2007-11-20;François Fillon n°2;officiel (formation);14;30;13;0.468;-0.328;0;0;1;0
+2009;2008-11-20;François Fillon n°2;officiel (formation);14;30;13;4.035;-4.203;1;1;0;0
+2010;2009-11-20;François Fillon n°2;officiel (formation);14;30;13;-0.274;0.221;0;1;0;0
+2011;2010-11-17;François Fillon n°3;officiel (formation);21;29;13;-0.873;2.023;0;0;1;1
+2012;2011-11-16;François Fillon n°3;officiel (formation);21;29;14;0.963;0.049;0;0;0;0
+2013;2012-11-20;Jean-Marc Ayrault n°2;officiel (formation);19;37;19;1.0;-0.067;0;0;1;0
+2014;2013-11-19;Jean-Marc Ayrault n°2;officiel (formation);19;37;19;-0.064;0.231;0;0;0;0
+2015;2014-11-18;Manuel Valls n°2;officiel (formation);15;32;14;-0.628;0.515;0;0;1;0
+2016;2015-11-17;Manuel Valls n°2;officiel (formation);15;32;14;-0.089;-0.002;0;0;0;1
+2017;2016-11-22;Manuel Valls n°2;officiel (formation);15;32;16;0.393;0.291;0;0;0;0
+2018;2017-11-20;Edouard Philippe n°2;officiel (formation);18;28;14;-1.275;1.022;0;0;1;0
+2019;2018-11-20;Edouard Philippe n°2;officiel (formation);18;28;14;-0.766;-0.328;0;0;0;0
+2020;2019-11-20;Edouard Philippe n°2;officiel (effectifs 27/05/2019);19;34;14;6.586;-6.772;1;1;0;0
+2021;2020-11-20;Jean Castex;data.gouv [S] (formation 2020-07-06);15;30;15;-2.34;2.453;0;1;1;1
+2022;2021-11-20;Jean Castex;data.gouv [S] (formation 2020-07-06);15;30;15;-1.581;2.373;0;0;0;0
+2023;2022-11-20;Élisabeth Borne;data.gouv [S] (formation 2022-07-04);15;40;15;-1.628;-0.652;0;0;1;1
+2024;2023-11-20;Élisabeth Borne;data.gouv [S] (formation 2022-07-04);15;40;15;0.067;-0.237;0;0;0;0
+2025;2025-02-05;François Bayrou;data.gouv [S] (formation 2024-12-13);13;34;13;0.176;0.842;0;0;1;0

@@ -1,0 +1,976 @@
+
+=== p.1 ===
+Ce Focus est publié sous la responsabilité des auteurs et n’engage qu’eux.
+L
+es exonérations de cotisations sociales constituent aujourd’hui un élément central du système socio-
+fiscal français. Initialement conçues au début des années 1990 pour soutenir l’emploi peu qualifié en 
+réduisant le coût du travail au voisinage du salaire minimum, elles se sont progressivement étendues et 
+avoisinent désormais 75 Md€ par an.
+Longtemps abordées sous le seul angle de leurs effets sur l’emploi, elles soulèvent aujourd’hui des interrogations 
+plus larges sur les trajectoires salariales, la progression professionnelle, la productivité ou encore les effets 
+potentiels de tassement des salaires, liés à la forte concentration des exonérations autour du Smic. Dans 
+un contexte de contraintes budgétaires accrues, le débat porte également sur les arbitrages entre soutien à 
+l’emploi peu qualifié, redistribution, efficacité économique et soutenabilité des finances publiques.
+Ce Focus propose une synthèse des principaux enseignements d’un workshop organisé par le Conseil 
+d’analyse économique et le Haut-Commissariat à la Stratégie et au Plan en octobre 2025, réunissant plusieurs 
+économistes français et étrangers de premier plan. Il revient d’abord sur les résultats empiriques relatifs aux 
+effets du coût du travail sur l’emploi, puis examine les mécanismes économiques plus larges mis en évidence 
+par les travaux récents : effets sur les trajectoires salariales, les incitations individuelles, la réallocation entre 
+entreprises ou les inégalités. Enfin, il présente les principaux arbitrages de politique économique discutés lors 
+de la table ronde de clôture.
+Focus
+n° 136
+juin 2026
+Nicolas Grimprel, CAE, Arthur Poirier, université Paris Dauphine - PSL et CAE
+Les effets des exonérations 
+de cotisations sociales 
+Enseignements d’un workshop international
+
+=== p.2 ===
+Focus, no 136, juin 2026
+2
+Les exonérations de cotisations sociales constituent depuis plus de trois décennies un pilier central de la politique du 
+coût du travail en France. Initialement ciblées sur les bas salaires et l’emploi peu qualifié, elles ont progressivement 
+pris une ampleur budgétaire et économique importante, au point de structurer durablement le système socio-fiscal 
+français. 
+Avec un coût pour les finances publiques aujourd’hui élevé (de l’ordre de 74 Md€ pour les exonérations générales et 
+85 Md€ en intégrant les exonérations ciblées) et dans un contexte de contraintes budgétaires accrues et de question-
+nements renouvelés sur l’efficacité des dépenses publiques, le débat sur les exonérations de cotisations sociales est 
+régulièrement rouvert. Faut-il en maintenir le niveau actuel, les recentrer ou en repenser l’architecture ? Ces interro-
+gations appellent une lecture rigoureuse des enseignements de la recherche économique et une mise en perspective 
+des mécanismes à l’œuvre et des arbitrages implicites que ces dispositifs engendrent.
+Graphique 1. Évolution du montant annuel d’allègements de cotisations générales, 1993-2025
+0
+10
+20
+30
+40
+50
+60
+70
+80
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+1993
+2000
+2005
+2010
+2015
+2020
+2025
+Allègements de cotisations (en % du PIB)
+Allègements de cotisations (en Md€)
+% du PIB
+Md€
+Note de lecture : En 2025, les allègement généraux de cotisations représentaient 75 milliards d’euros, et 2,5% du PIB.
+Source : Dares, URSSAF, PLFSS 2026 Annexe 4,  Eurostat. 
+C’est dans cette optique que s’est inscrit le workshop organisé conjointement par le Conseil d’analyse économique et 
+le Haut-Commissariat à la Stratégie et au Plan en octobre 2025. Ce séminaire de recherche, consacré aux effets des 
+variations du coût du travail, a réuni des interventions académiques de premier plan afin de permettre une discus-
+sion approfondie entre chercheurs et experts de la politique économique. Le workshop s’est déroulé en trois temps :
+La première vague de présentations était consacrée aux effets des variations du coût du travail sur l’emploi, avec la 
+participation d’Arindrajit Dube (Université de Massachusetts Amherst), Fabrice Gilles (Université de Lille, LEM-CNRS, 
+TEPP), Jakob Søgaard (Université de Copenhague), Attila Lindner (UCL) et Alan Manning (CEP, LSE) ;
+La deuxième vague de présentations portait sur les effets plus indirects du coût du travail (analyses en équilibre 
+général, modèles structurels d’incitations et lectures redistributives), avec la participation de Thomas Breda (École 
+d’Économie de Paris, CNRS, IPP), Étienne Wasmer (NYU Abu Dhabi), Christian Dustmann (UCL, RFBerlin), et Jonathan 
+Heathcote (Federal Reserve Bank of Minneapolis) ;
+La troisième partie du workshop s’est organisée autour d’une table ronde, incluant Antoine Bozio (EHESS, École d’Éco-
+nomie de Paris, IPP), Pierre Cahuc (Sciences Po, IZA, CEPR), Stéphane Carcillo (OCDE, IZA, Sciences Po), Dorothée 
+Rouzet (DG Trésor) et Arindrajit Dube. 
+* Le Conseil d’analyse économique remercie tous les participants à ce colloque.
+
+=== p.3 ===
+3
+Les effets des exonérations de cotisations sociales
+L’objectif de ce Focus est de tirer parti de ces interventions pour proposer une synthèse structurée des enseigne-
+ments du workshop, afin de clarifier ce que l’on sait aujourd’hui des effets des exonérations de cotisations sociales 
+sur l’emploi, les salaires et la structure productive ; d’identifier les mécanismes qui sous-tendent ces effets ; et de 
+mettre en lumière les zones d’incertitude et les arbitrages de politique économique qu’ils impliquent.
+Le Focus est organisé en trois parties suivant la structure du workshop. La première revient sur les résultats empi-
+riques les plus robustes concernant les variations du coût du travail. La deuxième partie propose une lecture inter-
+prétative de ces résultats, en mobilisant des cadres d’équilibre général, des analyses d’incitations et des approches 
+distributives, afin de mieux comprendre les effets de moyen et long terme. Enfin, la troisième partie synthétise les 
+points de convergence et de débat mis en évidence lors de la discussion finale, et explicite les principaux enjeux pour 
+la conception des politiques publiques.
+Enseignements empiriques des liens entre coût du travail et emploi
+Les enseignements de la littérature sur le salaire minimum
+Les variations du salaire minimum constituent un cadre empirique privilégié pour analyser les effets d’un choc sur 
+le coût du travail. Elles ont donné lieu à une littérature abondante, mobilisant des stratégies quasi expérimentales 
+variées et couvrant un large éventail de contextes institutionnels. Lors du workshop, trois interventions complémen-
+taires ont permis de faire le point sur cet ensemble de résultats. Arindrajit Dube a d’abord présenté une synthèse 
+internationale des effets du salaire minimum sur l’emploi, Attila Lindner s’est ensuite concentré sur les mécanismes 
+d’ajustement mobilisés par les entreprises à la suite d’une hausse du coût du travail et sur les enseignements microé-
+conomiques récents. Enfin, Alan Manning est revenu sur l’expérience britannique sur la hausse du salaire minimum et 
+sur les marges d’ajustement mobilisées par les entreprises.
+Des effets du salaire minimum sur l’emploi généralement faibles ou modérés dans la littérature récente
+L’intervention d’Arindrajit Dube vise à répondre à une question centrale : que nous apprend la littérature empirique 
+sur l’impact des hausses du salaire minimum sur l’emploi ? 
+Pour ce faire, il mobilise l’« own-wage elasticity of employment » (encadré), qui rapporte la variation de l’emploi à la 
+hausse des salaires induite par une réforme du salaire minimum. Cette approche permet de comparer directement 
+les pertes d’emploi éventuelles aux gains salariaux effectivement reçus par les travailleurs concernés, plutôt qu’à la 
+seule hausse nominale du salaire minimum. 
+Own wage elasticity of employment (OWE)
+L’own-wage elasticity of employment (OWE) mesure la variation de l’emploi d’un groupe de travailleurs rapportée à la 
+variation effective de leurs salaires induite par une réforme du salaire minimum. Elle est définie comme :
+OWE =  % ∆ Emploi
+ % ∆ Salaire
+Cette mesure a l’avantage d’avoir une interprétation économique directe : une OWE égale à −1 signifie que les pertes 
+d’emploi compensent exactement les gains salariaux, laissant la masse salariale inchangée ; une OWE proche de zéro 
+implique au contraire que les pertes d’emploi associées à la hausse du salaire minimum restent limitées relativement 
+aux gains salariaux obtenus.
+La synthèse présentée, qui s’appuie directement sur Dube & Zipperer (2025), repose sur 97 estimations publiées cou-
+vrant les États-Unis, l’Europe et d’autres pays de l’OCDE. Comme le montre le graphique 2 ci-dessous, cette synthèse 
+met en évidence une distribution des effets largement concentrée autour de zéro. La médiane des estimations est 
+proche de −0,15, signifiant que, dans le cas médian, une augmentation du salaire minimum qui induirait une hausse 
+effective de 1 % des salaires parmi les travailleurs engendrerait une baisse de l’emploi de 0,15 %. 
+
+=== p.4 ===
+Focus, no 136, juin 2026
+4
+Ces estimations suggèrent que les pertes d’emploi, lorsqu’elles existent, sont relativement faibles par rapport aux 
+gains salariaux potentiels. Plus globalement, les auteurs observent que la majorité des estimations empiriques se 
+situent dans une plage d’effets faibles sur l’emploi, tandis que les effets fortement négatifs sont minoritaires. Ces 
+résultats prolongent et confirment les conclusions de plusieurs synthèses influentes de la littérature récente (Dube, 
+2019 ; Dube & Lindner, 2024)
+Graphique 2. Distribution des estimations des effets du salaire minimum sur l’emploi dans la littérature 
+internationale
+0
+5
+10
+15
+20
+25
+30
+35
+Plus positif que 1,2
+0,8 à 1,2
+0,4 à 0,8
+0,0 à 0,4
+-0,4 à 0,0
+-0,8 à -0,4
+-1,2 à -0,8
+Plus négatif que -1,2
+très négatif :16 études (16%)
+négatif : 10 (10%)
+légèrement négatif : 34 (35%)
+positif : 37 (38%)
+médiane OWE -0,15
+Nb d’études
+Note de lecture : parmi les 107 études incluses dans la méta-analyse, seules 8 études trouvent qu’une augmentation de 1 % du Smic 
+entraînerait une perte d’emploi de 1,2 % ou plus.
+Source : Dube et Zipperer (2025)
+Pas d’évidence empirique claire d’un seuil dans les effets emploi, y compris pour des hausses 
+importantes du salaire minimum
+Sur le plan théorique, des modèles de concurrence imparfaite suggèrent que les hausses du salaire minimum peuvent 
+avoir des effets nuls ou positifs lorsque le salaire minimum est initialement fixé à un niveau bas, mais devenir néga-
+tives lorsque le coût du travail devient suffisamment élevé pour contraindre la demande de travail. Afin d’examiner 
+empiriquement cette hypothèse, Arindrajit Dube présente des travaux en cours menés avec Attila Lindner et Jon 
+Piqueras (Dube, Lindner & Piqueras, à paraître), fondés sur l’analyse de 60 hausses du salaire minimum au niveau des 
+États américains depuis 2010, mis au regard du niveau du salaire minimum dans chaque contexte (appelé «  bite  », 
+cf. encadré). 
+«  Bite  » du salaire minimum
+Le « bite » du salaire minimum désigne l’intensité avec laquelle une hausse du salaire minimum affecte la distribution 
+des salaires. Il est généralement mesuré par le ratio de Kaitz, défini comme :
+Ratio Kaitz =           Salaire minimum     
+     Salaire médian ou moyen
+Un ratio de Kaitz élevé signifie que le salaire minimum se situe proche du salaire médian/moyen, et qu’une variation 
+du salaire minimum affecte une part importante de la main-d’œuvre. À l’inverse, un ratio faible implique un choc plus 
+concentré sur les bas salaires.
+En s’appuyant sur une méthodologie d’étude d’événements avec groupes de contrôle, ces travaux montrent que 
+les effets sur les salaires augmentent avec le ratio Kaitz : l’élasticité de salaire relative au salaire minimum est ainsi 
+
+=== p.5 ===
+5
+Les effets des exonérations de cotisations sociales
+estimée à environ 0,17 pour l’ensemble des États considérés, contre 0,09 pour le tiers d’États étudiés avec les ratios 
+Kaitz les plus faibles, et 0,23 pour le tiers d’États avec les ratios Kaitz les plus élevés. En revanche, aucune détériora-
+tion systématique de l’emploi n’est observée, y compris lorsque le ratio Kaitz approche un niveau qui combine néan-
+moins Smic net élevé, allègements massifs et prime d’activité. Ces résultats, obtenus sur données américaines, ne 
+sont toutefois pas directement transposables au contexte français ou européen.
+En France, un salaire minimum élevé mais un coût du travail proche de la moyenne de l’OCDE
+Plusieurs intervenants soulignent ainsi que si le salaire minimum net français est élevé relativement au salaire médian, 
+les exonérations de cotisations sociales réduisent substantiellement le coût du travail effectif au voisinage du Smic. 
+Comme le rappellent Bozio & Wasmer (2024), le coût du travail au niveau du salaire minimum français est proche de 
+celui observé dans la plupart des pays développés, autour de 44 % de celui du salaire médian. Dans cette perspective, 
+les effets sur l’emploi d’une hausse du salaire minimum en France peuvent être comparables à ceux observés dans 
+d’autres pays de l’OCDE, pour lesquels la littérature internationale met en évidence des effets sur l’emploi modestes. 
+Les ajustements passent principalement par les prix, les marges et la productivité
+L’intervention d’Attila Lindner complète cette lecture en se concentrant sur les mécanismes d’ajustement des entre-
+prises à une hausse du salaire minimum. En s’appuyant sur plusieurs études microéconomiques, notamment Harasztosi 
+et Lindner (2019) pour la Hongrie ou Draca, Machin et Van Reenen (2011) pour le Royaume-Uni, il montre que l’ab-
+sence d’effets importants sur l’emploi ne signifie pas absence d’ajustement. Les entreprises absorbent la hausse du 
+coût du travail, d’une part, par des hausses de prix, bien que celles-ci soient modérées du fait du poids généralement 
+faible des travailleurs au salaire minimum dans la population active. D’autre part, les entreprises s’ajustent aussi aux 
+hausses du coût du travail par une compression limitée des marges et, dans certains cas, des gains de productivité 
+liés à des réorganisations internes ou à des effets de sélection. À l’inverse, les données disponibles ne mettent pas 
+en évidence, en moyenne, de réduction marquée de l’emploi ni de baisse significative des composantes non salariales 
+de la rémunération.
+L’exemple britannique : hausse du salaire minimum et réaction des entreprises
+Dans son intervention, Alan Manning revient sur l’expérience du Royaume-Uni, dont la trajectoire initiale diffère forte-
+ment de la trajectoire française, mais qui s’en est aujourd’hui rapprochée. Le Royaume-Uni ne disposait pas de salaire 
+minimum dans les années 1990. Les cotisations y étaient plus faibles et les inégalités salariales en bas de la distribu-
+tion y étaient plus élevées qu’en France. La mise en place du salaire minimum en 1999 1, puis sa hausse importante 2 
+depuis, ont peu à peu rapproché le niveau du salaire minimum des deux tiers du salaire médian. Les inégalités au bas 
+de la distribution se sont progressivement comprimées, rapprochant le Royaume-Uni du cas français.
+Les études menées au Royaume-Uni suggèrent que les fortes hausses du salaire minimum observées depuis la fin 
+des années 1990 ne se sont pas accompagnées d’une baisse significative de l’emploi peu qualifié, et ont contribué à 
+diminuer les inégalités salariales. Alan Manning souligne toutefois que ces résultats ne permettent pas de conclure à 
+l’absence de tout effet négatif lorsque le coût du travail augmente fortement. Les effets peuvent dépendre du niveau 
+du salaire minimum et des cotisations, du rythme de hausse et du contexte macroéconomique.
+Au-delà des effets sur l’emploi, l’intervention d’Alan Manning souligne que les entreprises peuvent aussi s’ajuster face 
+à une hausse du coût du travail, en modifiant les conditions d’emploi. Ces ajustements peuvent notamment prendre la 
+forme d’une plus grande flexibilité des horaires travaillés, du recours à des contrats peu protecteurs ou sans garantie 
+d’heures minimales, plus fréquents au Royaume-Uni (zero-hour contracts) ou encore d’une intensification du travail. 
+Ainsi, les effets d’une hausse du salaire minimum ne se limitent pas nécessairement à l’évolution du nombre d’em-
+plois ou des heures travaillées, mais peuvent également concerner la qualité de l’emploi et les conditions de travail. 
+Ces éléments sont plus compliqués à mesurer qu’un simple changement de niveau d’emploi.
+Le message d’Alan Manning est donc double. D’une part, les hausses du coût du travail ne se traduisent pas méca-
+niquement par des destructions d’emplois situés au niveau du salaire minimum, y compris lorsque celui-ci atteint 
+un niveau relativement élevé. D’autre part, les ajustements des entreprises peuvent prendre d’autres formes que la 
+1 Voir National Minimum Wage Act 1998
+2 Avec notamment le National Living Wage en 2016.
+
+=== p.6 ===
+Focus, no 136, juin 2026
+6
+réduction de l’emploi ou des heures travaillées : évolution des formes contractuelles, variabilité accrue des horaires, 
+intensification du travail ou dégradation de certaines dimensions de la qualité de l’emploi.
+Les résultats sur les effets du salaire minimum ne sont pas mécaniquement transposables aux exonérations de coti-
+sations sociales
+La littérature empirique récente met en évidence des effets généralement modestes des augmentations de salaire 
+minimum sur l’emploi peu qualifié, aux États-Unis comme dans plusieurs pays européens. La présentation d’Attila 
+Lindner ainsi que les discussions en panel soulignent cependant que ces résultats ne sont pas directement transpo-
+sables aux exonérations de cotisations sociales. Une baisse du coût du travail résultant d’allègements de cotisations 
+peut en effet agir par des mécanismes différents et produire des effets d’ampleur distincte sur l’emploi. 
+1/ Les canaux de transmission ne sont pas les mêmes. Une hausse du salaire minimum augmente à la fois le coût du 
+travail pour l’employeur et le salaire net perçu par le salarié. Elle affecte donc simultanément la demande de travail 
+(coût pour l’entreprise) et, potentiellement, l’offre de travail (incitations, participation, attractivité des emplois). À l’in-
+verse, une baisse de cotisations employeur ciblée sur les bas salaires réduit principalement le coût du travail à salaire 
+net inchangé et agit donc d’abord par la demande de travail. Cette différence est importante pour l’interprétation des 
+élasticités : l’effet emploi observé après une hausse de salaire minimum n’est pas l’effet pur d’un choc de coût pour 
+l’employeur, car il combine des effets passant à la fois par la demande et par l’offre de travail.
+2/ L’incidence et les effets de réallocation peuvent différer. Dans le cas du salaire minimum, l’augmentation du coût 
+est concentrée sur les emplois payés au voisinage du minimum légal et s’accompagne mécaniquement d’une hausse 
+des salaires pour ces travailleurs. Une hausse de cotisations, a contrario, peut être en partie absorbée par les travail-
+leurs via une baisse des salaires nets, ou par l’entreprise via une compression des marges. Cette incidence sur les 
+salaires est par ailleurs d’autant plus limitée que la hausse des cotisations se concentre sur les salaires proches du 
+minimum légal.
+3/ Une hausse et une baisse du coût du travail n’ont pas nécessairement des effets symétriques, même si leur ampli-
+tude est comparable. La plupart des travaux sur le salaire minimum étudient des hausses du coût du travail, tandis 
+que ceux portant sur les cotisations sociales étudient généralement des baisses de taux. Les entreprises peuvent 
+cependant, en théorie, réagir différemment à une hausse (compression des marges, hausse des prix, substitution 
+capital-travail, gains de productivité) et à une baisse (captation sous forme de rentes, moindre incitation à la réalloca-
+tion, maintien de structures productives moins efficaces). Les rigidités d’ajustement (coûts d’embauche et de licen-
+ciement, contraintes organisationnelles, contrats, frictions de recrutement) et les contraintes financières peuvent 
+également générer des réponses non linéaires.
+Les évaluations directes des exonérations de cotisations sociales en France
+Au-delà de la littérature sur le salaire minimum, plusieurs travaux ont directement évalué les effets des exonérations 
+de cotisations sociales mises en œuvre en France depuis les années 1990. Dans sa présentation de l’étude coécrite 
+avec Yannick L’Horty et Ferhat Mihoubi, Fabrice Gilles propose une synthèse des évaluations existantes des exonéra-
+tions de cotisations sociales en France, ainsi qu’une réévaluation de deux réformes récentes : le crédit d’impôt pour 
+la compétitivité et l’emploi (CICE, 2013) et le Pacte de responsabilité (2015).
+Les exonérations ciblées des années 1990 sur les bas salaires en France : des effets positifs sur l’emploi
+Les exonérations de cotisations sociales ont une longue histoire en France, marquée par une succession de dispositifs 
+fortement ciblés au voisinage du Smic depuis le début des années 1990. Les évaluations de ces dispositifs (Kramarz 
+& Philippon, 2001 ; Crépon & Desplatz, 2001) mettent en évidence des élasticités négatives relativement élevées de 
+la demande de travail au coût du travail pour les bas salaires. Les ordres de grandeur généralement retenus se situent 
+entre −0,5 et −2, ce qui suggère des effets sur l’emploi positifs et élevés pour les dispositifs les plus ciblés.
+Ces résultats se distinguent des effets plus faibles observés dans la littérature sur le salaire minimum, suggérant que 
+les deux instruments pourraient engendrer des effets distincts sur l’emploi. Pour autant, plusieurs intervenants notent 
+que les études trouvant une forte élasticité sont peu nombreuses et concentrées sur des réformes des années 1990. 
+À cette période, le coût du travail au voisinage du Smic et le taux de chômage des peu qualifiés étaient particulière-
+ment élevés. L’extrapolation de ces élasticités au contexte français actuel doit donc être interprétée avec prudence. 
+
+=== p.7 ===
+7
+Les effets des exonérations de cotisations sociales
+Le ciblage sur les bas salaires comme déterminant important des effets sur l’emploi
+Le message principal porté par Fabrice Gilles est que l’ampleur des effets sur l’emploi dépend fortement du degré de 
+ciblage des exonérations. Les dispositifs concentrés sur les salaires proches du Smic produisent les élasticités les 
+plus élevées, tandis que l’extension des allégements à des niveaux de salaire plus élevés s’accompagne d’une baisse 
+rapide des effets sur l’emploi.
+Le CICE : un dispositif large, aux effets sur l’emploi modestes
+L’introduction du CICE en 2013 constitue un changement d’échelle et de logique par rapport aux exonérations tradi-
+tionnelles. Comme le souligne Fabrice Gilles, le CICE est un crédit d’impôt assis sur l’ensemble des salaires inférieurs 
+à 2,5 Smic, pour un coût budgétaire élevé et avec un versement différé dans le temps. Ces caractéristiques en font 
+un dispositif moins ciblé et plus complexe à évaluer. Il a ensuite été transformé en allégements pérennes de cotisa-
+tions sociales en 2019, rapprochant davantage encore ce dispositif des exonérations générales de charges sur les 
+bas salaires.
+Le dispositif a fait l’objet de nombreuses évaluations, notamment dans le cadre du Comité de suivi du CICE auquel 
+Fabrice Gilles a contribué. Les travaux conduits dans ce cadre mettaient généralement en évidence des effets positifs 
+mais relativement modestes sur l’emploi au regard du coût budgétaire du dispositif, ainsi que des effets plus visibles 
+sur les marges des entreprises (Baïz et al., 2020). Fabrice Gilles propose ici une réévaluation du dispositif à partir d’un 
+large panel d’entreprises françaises sur la période 2009-2016, en exploitant les différences d’exposition des entre-
+prises à la réforme.
+Les résultats indiquent un effet positif sur l’emploi dans les entreprises les plus exposées, mais d’ampleur modérée. 
+L’élasticité emploi estimée (-0,5) est inférieure à celles estimées précédemment pour les exonérations concentrées 
+sur les bas salaires dans les années 1990 (Kramarz & Philippon, 2001 ;Crépon & Desplatz, 2001), ce qui est cohé-
+rent à la fois avec le moindre ciblage du dispositif, mais aussi avec l’évolution du marché du travail français depuis 
+les années 1990, marquée notamment par une baisse du ratio de Kaitz et donc du coût relatif du travail au voisinage 
+du Smic.
+Le Pacte de responsabilité : des effets modestes, plus faibles que pour les allègements généraux
+Le Pacte de responsabilité, mis en œuvre à partir de 2015, introduit des baisses directes de cotisations sociales 
+s’étendant jusqu’à 3,5 Smic. Par rapport au CICE, il se rapproche davantage des exonérations classiques par son 
+mode de versement, tout en restant relativement large dans son champ d’application, dans une logique d’amélioration 
+de la compétitivité des secteurs industriels et de reconquête des marchés extérieurs.
+Les estimations présentées par Fabrice Gilles montrent également un impact positif sur l’emploi dans les entreprises 
+les plus concernées, en particulier pour les travailleurs peu qualifiés et les contrats à durée indéterminée. Toutefois, 
+les élasticités estimées restent encore une fois sensiblement plus faibles (-0,2) que celles associées aux dispositifs 
+très ciblés sur les bas salaires, confirmant le rôle essentiel du ciblage dans l’efficacité des exonérations.
+Une tension persistante avec les résultats sur le salaire minimum
+Pris ensemble, les résultats présentés mettent en évidence une tension empirique avec les enseignements de la lit-
+térature sur le salaire minimum discutés auparavant. Les premières évaluations des exonérations ciblées sur les bas 
+salaires mises en œuvre dans les années 1990 montrent des effets sur l’emploi plus importants que ceux généra-
+lement observés à la suite d’une hausse du salaire minimum, tandis que les dispositifs plus larges et plus récents, 
+comme le CICE ou le Pacte de responsabilité, produisent des effets plus modestes.
+Plusieurs pistes explicatives, discutées au cours du workshop, permettent d’éclairer cette tension empirique. Elles 
+tiennent notamment, comme détaillé auparavant, aux différences de canaux de transmission entre hausses du salaire 
+minimum et baisses de cotisations sociales, ainsi qu’à l’asymétrie potentielle entre hausses et baisses du coût du 
+travail. 
+Par ailleurs, plusieurs intervenants notent que les résultats sur les exonérations sont potentiellement moins robustes 
+empiriquement, du fait des méthodes d’évaluation empiriques utilisées. L’évaluation empirique des exonérations 
+repose en effet souvent sur des variations d’emploi au niveau des entreprises affectées et peut ainsi surestimer les 
+
+=== p.8 ===
+Focus, no 136, juin 2026
+8
+effets sur l’emploi agrégé, en ne capturant pas les effets d’équilibre général et de réallocation (notamment lorsqu’une 
+partie des pertes d’emplois dans les entreprises affectées par une hausse des cotisations sont compensées par une 
+hausse d’emploi dans les entreprises peu ou pas affectées).
+Les effets des prélèvements sur le travail au-delà du seul emploi : le cas danois
+Alors que les première et deuxième sections se concentrent principalement sur les effets des variations du coût du 
+travail sur l’emploi, c’est-à-dire sur la marge extensive, l’intervention de Jakob Søgaard offre un point de vue complé-
+mentaire en s’intéressant aux ajustements sur la marge intensive de l’offre de travail, en particulier les réponses en 
+termes d’heures travaillées, d’effort et de revenus. Cette approche, centrale dans le contexte danois, permet d’éclai-
+rer une dimension différente mais essentielle des politiques de prélèvements sur le travail. 
+La marge intensive comme objet central d’analyse dans le contexte danois
+Jakob Søgaard souligne que, dans le cas danois, la fiscalité du travail repose presque exclusivement sur l’imposition 
+des revenus des personnes physiques, avec un rôle très limité des cotisations sociales employeurs. Dans ce cadre 
+institutionnel, l’incidence statutaire des prélèvements porte principalement sur les travailleurs, ce qui conduit les 
+autorités publiques et les chercheurs à privilégier l’analyse des réponses de l’offre de travail, plutôt que celles de la 
+demande. Les évaluations des réformes fiscales danoises s’inscrivent ainsi dans un cadre inspiré de Saez (2001), 
+qui suppose une demande de travail parfaitement élastique et se concentre sur les réactions comportementales des 
+individus. 
+Des estimations empiriques contrastées mais informatives
+Jakob Søgaard mentionne d’abord que les estimations utilisées par les décideurs publics reposent généralement sur 
+des élasticités de la base taxable ou des revenus de l’ordre de 0,1, correspondant à des réponses faibles de l’offre de 
+travail à la marge intensive.
+Il souligne toutefois que des travaux récents, notamment Kleven, Kreiner, Larsen et Søgaard (2025), mettent en évi-
+dence des réponses plus élevées dans certains contextes, avec des élasticités pouvant atteindre 0,4 à 0,5. Søgaard 
+insiste néanmoins sur le caractère contextuel de ces estimations et adopte une lecture prudente de ces résultats, 
+soulignant que les réponses observées dépendent fortement du niveau de revenu, du type de réforme et de l’horizon 
+temporel considéré.
+Une complémentarité, mais une comparabilité limitée avec le cas français
+L’intervention souligne que ces résultats ne sont pas directement transposables au cas français. D’une part, le salaire 
+minimum joue en France un rôle central dans la formation des salaires, ce qui limite mécaniquement les ajustements 
+sur la marge intensive pour les travailleurs situés au bas de la distribution. D’autre part, les exonérations de cotisa-
+tions sociales modifient principalement le coût du travail du point de vue des employeurs, ce qui oriente les ajuste-
+ments vers la demande de travail plutôt que vers l’offre.
+Les résultats danois apportent ainsi surtout un éclairage qualitatif sur l’importance potentielle des réponses sur la 
+marge intensive dans des contextes où l’incidence sur les travailleurs est forte, sans fournir d’ordres de grandeur 
+directement applicables aux politiques françaises d’exonérations de cotisations sociales.
+Les effets du coût du travail varient également selon les entreprises et les travailleurs
+Les sections précédentes ont montré que l’ampleur des effets des variations du coût du travail sur l’emploi dépend 
+fortement du niveau de salaire ciblé, les dispositifs concentrés sur les bas salaires étant associés à des élasticités 
+plus élevées que les dispositifs plus larges. 
+Les discussions lors du workshop montrent que cette dimension n’épuise toutefois pas la diversité des réponses 
+observées. Les effets des politiques de coût du travail peuvent ainsi également varier sensiblement selon les carac-
+téristiques des entreprises et des travailleurs concernés. Les résultats présentés mettent ainsi en évidence une hété-
+rogénéité supplémentaire, qui s’ajoute aux effets liés au ciblage par niveau de salaire.
+
+=== p.9 ===
+9
+Les effets des exonérations de cotisations sociales
+Les entreprises exposées à la concurrence internationale réagissent davantage aux variations du coût du 
+travail
+Les résultats présentés par Fabrice Gilles indiquent que, pour un même dispositif d’exonération, les effets sur l’emploi 
+peuvent différer selon le type d’entreprise. En particulier, les estimations montrent des effets plus marqués dans les 
+entreprises exportatrices, suggérant qu’elles réagissent davantage aux variations du coût du travail. Cette hétérogé-
+néité reflète des différences structurelles, notamment en termes d’exposition à la concurrence internationale et de 
+marges d’ajustement.
+Les entreprises les plus contraintes financièrement ajustent davantage l’emploi
+Les travaux discutés par Attila Lindner sur les baisses de cotisations sociales, notamment Bíró et al. (2022), mettent 
+également en évidence la variabilité des réponses selon les entreprises. Les résultats suggèrent que les entreprises 
+contraintes en termes de liquidité, avec une productivité relativement plus faible et une part plus importante de bas 
+salaires dans leur masse salariale, traduisent davantage la baisse de cotisations en ajustements d’emploi, tandis que 
+les entreprises plus productives absorbent une part plus importante du choc par les marges ou les salaires. 
+Les effets des exonérations semblent plus marqués pour les jeunes 
+Les interventions soulignent également que les effets des variations du coût du travail diffèrent selon les caractéris-
+tiques des travailleurs, au-delà du simple niveau de salaire ciblé par les dispositifs. Les résultats présentés par Fabrice 
+Gilles montrent que les exonérations de cotisations sociales bénéficient davantage aux travailleurs peu qualifiés et 
+aux contrats à durée indéterminée, tandis que les travaux présentés par Attila Lindner montrent que les réponses 
+peuvent également s’accentuer pour les jeunes travailleurs. 
+Aller au-delà des constats à court terme : mécanismes, 
+effets indirects et de long terme
+Les résultats empiriques présentés dans la première partie montrent que les variations du coût du travail ont des 
+effets souvent modestes sur l’emploi mais qui restent très dépendants du contexte institutionnel et du type de dis-
+positif considéré. 
+Les interventions de la seconde partie du workshop proposent d’aller au-delà de ces constats de court terme pour 
+analyser les mécanismes économiques sous-jacents et les effets indirects des exonérations de cotisations sociales : 
+incitations individuelles, trajectoires professionnelles, structure des salaires, réallocation des entreprises ou encore 
+effets redistributifs.
+Un cas français singulier : structure des prélèvements, 
+salaire minimum et contraintes de politique économique
+Avant d’examiner les différents mécanismes à l’œuvre, il est utile de rappeler une spécificité centrale du cas français, 
+mise en évidence par l’intervention de Jonathan Heathcote. Son analyse propose une lecture d’ensemble du système 
+socio-fiscal, en s’appuyant sur les enseignements de la littérature sur la fiscalité optimale et sur les caractéristiques 
+institutionnelles françaises.
+Un premier point souligné est que la question de la fiscalité en bas de la distribution est au moins aussi importante 
+que celle portant sur les hauts revenus. Le niveau des prélèvements au voisinage du salaire minimum influence en 
+effet directement le coût du travail, les incitations salariales et les possibilités de redistribution. 
+Dans la tradition de Mirrlees (1971), une vaste littérature étudie la manière dont les taux marginaux de prélèvement 
+(cf. encadré) doivent évoluer avec le revenu, en arbitrant entre redistribution et incitations économiques. 
+
+=== p.10 ===
+Focus, no 136, juin 2026
+10
+Taux marginaux de prélèvement
+Le taux marginal de prélèvement mesure la part d’un euro supplémentaire de revenu qui est prélevée par le système 
+socio-fiscal. Autrement dit, il indique ce qu’il reste effectivement lorsqu’un revenu augmente. Par exemple, si l’em-
+ployeur d’un salarié augmente de 100 euros supplémentaires son salaire, mais que le salarié n’en conserve effective-
+ment que 40 après prélèvements et perte de certaines aides, son taux marginal effectif est de 60  %.
+Il se distingue du taux moyen, qui rapporte l’ensemble des prélèvements au revenu total. Le taux marginal s’intéresse 
+uniquement aux variations « à la marge », par exemple à la suite d’une augmentation de salaire ou d’une hausse des 
+heures travaillées.
+En pratique, le taux marginal effectif intègre l’ensemble des prélèvements et transferts : impôt sur le revenu, coti-
+sations sociales, ainsi que la diminution éventuelle de certaines prestations. Il peut ainsi être significativement plus 
+élevé que les seuls taux statutaires.
+Dans le cadre de la politique d’exonérations de cotisations sociales, une partie de ce taux provient d’un taux mar-
+ginal dit implicite. C’est un prélèvement supplémentaire créé de manière indirecte par la dégressivité du dispositif. 
+L’employeur perd une partie des exonérations à mesure que le salaire augmente, ce qui augmente le coût marginal 
+d’une hausse de salaire. 
+Un taux marginal qui augmente avec les revenus (dit «  progressif  ») peut ainsi permettre de procéder à une certaine 
+redistribution, en mettant une contribution fiscale plus forte sur les plus hauts revenus. Cependant, puisque ce taux 
+détermine aussi le gain net associé à une augmentation du revenu, un taux élevé peut aussi affecter les incitations 
+économiques, que ce soit pour les salariés (ex : effort) ou les entreprises (ex : augmentation des salaires). 
+Voir également le Focus 137 3 pour la façon dont le taux marginal implicite est calculé en fonction de deux grandeurs 
+importantes ; le taux marginal implicite lié aux cotisations employeur et le taux marginal implicite lié aux cotisations 
+employé, aux transferts vers les ménages (APL, prime d’activité) et au taux de prélèvement et taxation bruts (CSG, 
+IR) et les effets théoriques attendus sur l’offre et la demande de travail en fonction du mode de détermination des 
+salaires.
+La littérature économique ne conduit pas à une forme unique de fiscalité optimale. Selon les hypothèses retenues sur 
+les comportements des travailleurs et les objectifs redistributifs, certains modèles recommandent des taux margi-
+naux constants (Mirrlees, 1971), en U (Saez, 2001) ou croissants (Heathcote & Tsujiyama, 2021). Néanmoins la litté-
+rature converge sur un point : la forme du barème de prélèvements est déterminante pour les incitations individuelles 
+et les performances agrégées de l’économie. 
+Le système français de cotisations employeurs présente une structure particulière au voisinage du salaire minimum. 
+Comme le montre le graphique 3, les taux marginaux effectifs sont faibles dans le plus bas de la distribution (temps 
+partiel et apprentissage, notamment), mais augmentent au-delà de 60 % (voire 65 à 70 % pour certaines configurations 
+familiales : personnes seules ou familles monoparentales) lorsqu’on se rapproche du Smic (qui est approximativement 
+autour du 30e centile) et ne redescendent sous 55 % qu’autour du 60e centile (à peu près 1,6 fois le Smic). Autrement 
+dit, lorsqu’une entreprise augmente le salaire d’un travailleur situé juste au-dessus du Smic, cette hausse s’accom-
+pagne d’une réduction conséquente des exonérations de cotisations sociales et d’une perte de transferts sociaux 
+(allocation logement ou prime d’activité), ce qui accroît fortement le coût total de cette augmentation salariale.
+Heathcote décrit ainsi une forme en « U inversé », qui contraste avec les profils optimaux généralement étudiés 
+dans la littérature. Cette configuration est d’autant plus importante qu’elle concerne une zone de la distribution des 
+salaires où se concentre une large part des travailleurs puisque plus de 30 % des salariés ont des salaires entre 0,3 et 
+1,3 Smic. Cette concentration des individus là où les taux marginaux sont les plus élevés amplifie les effets potentiels 
+sur les comportements d’offre de travail, d’effort et de progression salariale.
+3 Aleman-Pericon C., Mimani P., Santaeulàlia-Llopis R. et Wasmer E. (2026) : « Le rôle des taux marginaux implicites de prélèvement dans la 
+formation des salaires et de l’emploi », Les Focus du CAE n° 138. 
+
+=== p.11 ===
+11
+Les effets des exonérations de cotisations sociales
+Graphique 3. Taux marginaux effectifs en fonction du coût du travail
+Taux marginal de prélèvement (%)
+Multiples du Smic
+Densité (%)
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+4,0
+0,0
+0,1
+0,2
+0,3
+0,4
+0,5
+0,6
+45
+50
+55
+60
+65
+70
+Taux marginal de prélèvement
+Densité d’emploi
+Note : Les estimations présentées ici portent sur l’ensemble des actifs occupés. Elles incluent notamment des salariés du secteur public, 
+des indépendants et des salariés à temps partiel qui ne bénéficient pas des allègements généraux dans les mêmes conditions que les 
+salariés du secteur privé. Les taux marginaux implicites des salariés du privé rémunérés autour du Smic sont donc supérieurs de plusieurs 
+points à ceux observés dans ces estimations.
+Lecture : Le taux marginal de prélèvement est au plus haut entre 1 et 1,6 Smic (environ 60 à 65 %). La distribution (ou «densité») des 
+salariées se concentre quant à elle entre 1 et 2 Smic.
+Source : Sicsic et Vermersch (2021) : « Les incitations monétaires au travail sont plus élevées en 2019 qu’en 2014 », Insee Analyses, n° 66, 
+Graphique 3.
+Pour comprendre cette forme, Jonathan Heathcote met en avant le rôle de la pression fiscale, c’est-à-dire le niveau 
+élevé de dépenses publiques et de redistribution que doit financer le système français. Dans un tel contexte, la théo-
+rie suggère qu’il est nécessaire de lever des recettes importantes, ce qui tend à accroître les taux marginaux, y com-
+pris à des niveaux de revenu relativement faibles, quand, comme en France, une part importante des travailleurs se 
+situe à proximité du Smic. Toutefois, cette logique entre en tension avec une autre contrainte propre au cas français : 
+l’existence d’un salaire minimum net relativement élevé. En présence d’un Smic contraignant, appliquer des cotisa-
+tions employeur élevées aux bas salaires renchérit fortement leur coût et peut peser sur l’emploi des travailleurs les 
+moins productifs.
+L’architecture actuelle du système peut ainsi être interprétée comme le résultat de cette contrainte. Pour préserver 
+l’emploi au voisinage du Smic, les cotisations employeur ont été fortement réduites à ce niveau, ce qui revient à exo-
+nérer en grande partie la première tranche de revenus. Mais cette perte de recettes doit être compensée ailleurs, 
+ce qui conduit à concentrer les prélèvements sur les salaires légèrement supérieurs, d’où les taux marginaux élevés 
+observés entre 1 et 1,6 Smic. Le système français apparaît ainsi comme une tentative de concilier trois objectifs dif-
+ficiles à atteindre simultanément : un salaire minimum élevé, un niveau important de protection sociale et un finance-
+ment reposant largement sur les cotisations patronales et salariales.
+Dans ce contexte, les exonérations de cotisations sociales ne peuvent être analysées indépendamment de l’ensemble 
+du système socio-fiscal. Elles participent à une architecture globale qui influence simultanément la répartition des 
+salaires, les incitations individuelles et les décisions des entreprises. Les sections suivantes déclinent ces effets selon 
+trois dimensions complémentaires : les réallocations et les trajectoires de carrière, les incitations à l’effort et à la for-
+mation des compétences, et les effets redistributifs sur la structure des salaires.
+Les variations du coût du travail affectent le tissu productif et les trajectoires professionnelles
+Les résultats empiriques présentés dans la première partie mesurent principalement les effets directs des variations 
+du coût du travail sur l’emploi. Les interventions de Thomas Breda et Christian Dustmann invitent à compléter cette 
+
+=== p.12 ===
+Focus, no 136, juin 2026
+12
+lecture par une analyse en équilibre général, attentive aux effets indirects des exonérations sur la composition des 
+entreprises, la qualité des appariements et les trajectoires professionnelles. 
+La fiscalité des entreprises peut affecter la composition du tissu productif
+Thomas Breda, dans la première partie de son intervention, s’appuie ainsi sur les récents travaux issus de Breda, 
+Haywood & Wang (2024) afin d’analyser les effets d’équilibre induits par une réduction de cotisations sociales ciblée 
+sur les bas salaires, à l’aide d’un modèle structurel théorique. Dans ce cadre, une réduction du coût du travail au bas 
+de l’échelle salariale peut attirer vers l’emploi des travailleurs auparavant inactifs ou difficilement employables, mais 
+aussi favoriser l’ouverture ou le maintien d’entreprises peu productives ou peu intensives en capital. Les créations 
+d’emplois peuvent donc affecter la productivité moyenne de l’économie et l’efficacité des appariements. 
+Les travaux de Christian Dustmann portent, eux, sur l’Allemagne et ne concernent pas directement sur les exonéra-
+tions de cotisations sociales. Ils donnent néanmoins un éclairage empirique complémentaire sur les effets de la fis-
+calité des entreprises. À partir de près de 5 000 variations de taux d’imposition au niveau municipal en Allemagne 
+entre 1999 et 2014, ils montrent qu’une hausse d’un point de pourcentage de la fiscalité locale sur les entreprises 
+réduit le capital local d’environ 4  %, l’emploi local d’environ 1,2  % et les salaires d’environ 0,5 % après trois ans. Une 
+partie importante de l’effet sur l’emploi passe par la fermeture d’établissements, surtout parmi les petites entreprises 
+moins rémunératrices. 
+Ces résultats font écho à la prédiction théorique de Breda, Haywood & Wang (2024) : un changement de fiscalité des 
+entreprises n’affecte pas seulement le comportement économique des entreprises existantes mais aussi la composi-
+tion du tissu productif, en obérant la survie des entreprises les moins productives. 
+La fiscalité affecte aussi les opportunités de progression des travailleurs
+Dans le cadre d’une baisse de la fiscalité ciblée sur les bas salaires, et donc sur les entreprises les moins rémuné-
+ratrices, Thomas Breda montre que les effets induits sur le tissu productif, notamment par la création d’entreprises 
+moins productives, peuvent certes créer davantage d’emplois, mais aussi limiter la progression salariale, en induisant 
+des appariements de moindre qualité entre travailleurs et entreprises. Les travaux présentés par Christan Dustmann, 
+qui s’appuient eux sur des hausses non ciblées de la fiscalité des entreprises, montrent pour leur part que malgré la 
+recomposition du tissu productif vers des entreprises plus productives, les entreprises les plus rémunératrices réa-
+gissent aussi à la hausse de fiscalité en réduisant leurs embauches. Lorsque ces entreprises embauchent moins, les 
+travailleurs employés dans des firmes moins rémunératrices perdent des opportunités de progression vers de meil-
+leurs emplois : en moyenne, Christian Dustmann et ses coauteurs estiment qu’une augmentation de 1 point de pour-
+centage de la fiscalité locale des entreprises réduit  d’environ 1 % la probabilité pour les travailleurs de progresser vers 
+un meilleur emploi dans une nouvelle entreprise. 
+La hausse de la fiscalité entraine aussi un ralentissement des trajectoires salariales des travailleurs, de l’ordre de 
+-0,5 % pour les travailleurs restant dans leur entreprise, et de -0,7 % pour ceux changeant d’emploi. Dustmann décrit 
+ces mécanismes comme une perturbation du « job ladder », c’est-à-dire de l’échelle de progression professionnelle. 
+Pour les salariés déjà en place dans les entreprises les plus rémunératrices, les pertes salariales (-0,8 %) induites 
+par la hausse de la fiscalité proviennent à 75 % d’ajustements au sein même de l’établissement. Pour les travailleurs 
+recevant des salaires bas, et en particulier les jeunes, la hausse de la fiscalité d’un point de pourcentage entraine un 
+ralentissement plus marqué de leur progression salariale, de l’ordre de -1 %, et contrairement aux hauts salaires, la 
+quasi-totalité de cette baisse peut être attribuée à la réduction des opportunités d’emplois dans d’autres entreprises 
+plus rémunératrices. 
+Pris ensemble, les résultats de Thomas Breda et Christian Dustmann mettent en avant les effets complexes que des 
+variations de la fiscalité peuvent avoir sur les trajectoires salariales. D’une part, une fiscalité plus clémente sur les bas 
+salaires peut favoriser davantage les entreprises moins productives, réduisant à terme les rémunérations des travail-
+leurs. D’autre part, une hausse de la fiscalité non ciblée, bien qu’elle puisse améliorer la composition du tissu produc-
+tif, peut aussi entrainer une réduction des embauches dans les entreprises les plus rémunératrices, et donc limiter 
+les perspectives de progression salariale des travailleurs. Ces résultats montrent que les effets d’une politique fiscale 
+sur le travail ne peuvent se résumer à une variation instantanée de l’emploi : ils passent aussi par la transformation 
+du tissu productif et des embauches, affectant à terme les trajectoires futures des travailleurs.
+
+=== p.13 ===
+13
+Les effets des exonérations de cotisations sociales
+Les exonérations peuvent aussi affecter les trajectoires salariales et les incitations individuelles
+L’intervention d’Étienne Wasmer propose une lecture complémentaire des exonérations de cotisations sociales, cen-
+trée non plus seulement sur les effets sur l’emploi, mais sur les incitations qu’elles créent pour les travailleurs et les 
+entreprises. Son point de départ est que ces politiques doivent être analysées comme un arbitrage entre baisse du 
+coût du travail et augmentation de la progressivité du système socio-fiscal, qui peut affecter à la fois les décisions 
+salariales des entreprises et les incitations des travailleurs à progresser salarialement, à accepter davantage de res-
+ponsabilités ou à investir dans leurs compétences.
+Une hausse des taux marginaux entre 1 et 1,6 Smic 
+Ce diagnostic s’appuie sur une étude de la forte évolution des prélèvements sur le travail en France à partir des 
+années 1990. Wasmer souligne que les exonérations de cotisations employeur, introduites graduellement entre 1993 
+et 2024, ont créé une forte pente des cotisations entre le Smic et 1,6 Smic. Une approximation de cette pente conduit 
+à un coefficient proche de 0,93, ce qui correspond à lui seul à un taux marginal effectif d’environ 48 % entre coût du 
+travail et salaire brut, contre environ 30 % dans le système plus linéaire du début des années 1990. Pris isolément, 
+cet écart reste modéré. Mais il s’ajoute aux autres composantes du système socio-fiscal, en particulier aux transferts 
+dégressifs, tels que la prime d’activité, qui ont largement augmenté pour les bas salaires à partir de 2015, si bien que 
+les taux marginaux effectifs auxquels font face les ménages atteignent désormais 60 à 70  %, voire davantage dans 
+certaines configurations. 
+Des effets positifs sur l’emploi, mais défavorables sur l’effort et les trajectoires salariales
+Bien que les évaluations de ces politiques ciblées sur les bas salaires indiquent qu’elles semblent avoir eu un effet 
+positif sur l’emploi (Kramarz & Philippon, 2001 ; Crépon & Desplatz, 2001 ; Bunel & L’Horty, 2012), peu d’études se 
+penchent sur les autres effets potentiellement défavorables qu’a pu générer la forte hausse des taux marginaux effec-
+tifs : effets négatifs sur l’effort, la motivation et les gains de productivité, ainsi que sur la distribution des trajectoires 
+d’emploi. Les travaux préliminaires présentés par Étienne Wasmer lors de cette conférence permettent d’apporter 
+des premiers éléments de réponse.  
+Dans un cadre théorique d’abord, l’auteur rappelle que les modèles de négociation salariale standards dans la littéra-
+ture économique prédisent que le gain de productivité effectivement conservé par le salarié dépend de son pouvoir 
+de négociation et des taux marginaux applicables. En prenant les taux marginaux observés en France dans le bas de 
+la distribution salariale, Étienne Wasmer montre qu’un travailleur peut ne conserver qu’environ 10  % du surplus asso-
+cié à une amélioration de sa productivité, par exemple après une promotion, une montée en compétences ou une 
+augmentation de ses responsabilités. 
+Dans ces conditions, les incitations à fournir un effort supplémentaire, à accepter une promotion ou à investir dans 
+des compétences spécifiques sont fortement réduites, puisque les gains de revenu effectivement conservés sont limi-
+tés. Lorsque la contrainte du salaire minimum est active, l’effet est encore plus important : si l’effort marginal ne se 
+traduit pas par une hausse de salaire immédiate, il n’est valorisé que s’il diminue la probabilité d’être au chômage ou 
+de sortir durablement du voisinage du Smic.
+L’auteur introduit ensuite les résultats préliminaires de l’analyse de ces incitations par la calibration d’un modèle de 
+random search & matching, correspondant à une extension du modèle de Shimer & Smith (2001). Les simulations 
+présentées, bien que préliminaires, illustrent l’ampleur potentielle des effets de désincitation induits par la politique 
+d’exonération sur les bas salaires en France. En simulant le passage d’une économie stylisée du début des années 
+1990 à la structure actuelle de prélèvements et de transferts mais sans prendre en compte d’autres changements 
+structurels de l’économie intervenus sur la période afin d’isoler le rôle des taux marginaux implicites, Étienne Wasmer 
+obtient une forte hausse de la concentration des emplois autour du Smic (la part des travailleurs concernés augmen-
+tant de plusieurs points de pourcentage) une baisse de « l’effort moyen » de 15 à 19 % et un ralentissement de la crois-
+sance salariale d’environ 0,6 points de pourcentage. En revanche, l’effet sur le chômage agrégé est limité dans cette 
+simulation (−0,2 point), ce qui suggère que les gains sur la marge extensive peuvent être partiellement compensés 
+par des effets défavorables sur la marge intensive et la productivité. 
+L’intervention d’Étienne Wasmer met ainsi en évidence un arbitrage central des politiques de coût du travail : soutenir 
+l’emploi peu qualifié à court terme peut s’accompagner d’un affaiblissement des incitations à l’effort et à la progres-
+sion salariale à moyen terme. Les exonérations ne modifient donc pas seulement le niveau d’emploi, mais aussi la 
+
+=== p.14 ===
+Focus, no 136, juin 2026
+14
+dynamique des trajectoires salariales et de formation, ce qui invite à élargir l’évaluation de ces dispositifs au-delà de 
+leurs seuls effets immédiats sur l’emploi.
+Les exonérations de cotisations sociales comme instrument de redistribution 
+La seconde partie de l’intervention de Thomas Breda propose une lecture complémentaire des exonérations de coti-
+sations sociales en les analysant comme un instrument redistributif, au-delà de leur objectif initial de soutien à l’em-
+ploi. L’auteur s’appuie sur un papier académique récent (Bozio, Breda & Guillot, 2023). Son point de départ est le 
+fait stylisé suivant : comme le montre le graphique 4, contrairement à la plupart des pays développés, les inégalités 
+salariales ont stagné voire légèrement diminué en France depuis les années 1980 (mesurées par le ratio entre le der-
+nier et premier décile des salaires bruts). L’enjeu est alors d’expliquer cette spécificité française et d’en identifier les 
+mécanismes sous-jacents. 
+Graphique 4. Comparaison internationale des inégalités salariales à partir de la distribution de salaire brut
+1
+2
+3
+4
+5
+France
+Suède
+Australie
+Allemagne
+Royaume-Uni
+Etats-Unis
+1975
+1985
+1995
+2005
+2015
+ratio P90/P10
+ 
+Note de lecture : En 2020 aux États-Unis, les 10 % des salaires bruts les plus hauts étaient en moyenne 4,8 fois plus élevés que les 10 % des 
+salaires bruts les plus faibles, contre 3,1 fois pour la France.
+Source : Bozio, Breda & Guillot (2023)
+Le rôle central des cotisations sociales dans la baisse des inégalités salariales
+Bozio, Breda & Guillot (2023) montrent que cette évolution s’explique largement par la transformation de la structure 
+des cotisations sociales depuis les années 1990. Alors que les taux de cotisations étaient relativement homogènes 
+auparavant, les réformes ont progressivement réduit les prélèvements sur les bas salaires tout en les augmentant 
+au niveau médian et en haut de la distribution. Concrètement, le taux de cotisations totales (employeur + salarié) au 
+niveau du premier décile a diminué d’environ 15 points de pourcentage, tandis qu’il a augmenté de 30 à 40 points au 
+sommet de la distribution. Un second point important est que cette redistribution s’opère à des niveaux de revenus 
+beaucoup plus bas que celle de l’impôt sur le revenu. Alors que ce dernier concentre ses effets au sommet de la dis-
+tribution (au-delà du 90e ou 99e percentile), les cotisations sociales modifient fortement la distribution dès les bas et 
+moyens salaires.
+Cette évolution a des implications directes sur la mesure des inégalités. Breda distingue trois notions de salaire : le 
+salaire net (après cotisations), le salaire « affiché » ou brut (incluant les cotisations salariales), et le coût du travail 
+(incluant l’ensemble des cotisations). Comme le montre le graphique 5, si les inégalités de coût du travail ont suivi une 
+hausse comparable aux autres pays, les inégalités de salaires nets et bruts ont, elles, diminué en France. Autrement 
+dit, la hausse des inégalités « primaires » a été compensée par un mécanisme redistributif opéré directement via les 
+cotisations sociales. 
+
+=== p.15 ===
+15
+Les effets des exonérations de cotisations sociales
+Graphique 5. Évolution du ratio P90/P10 pour le salaire net, brut et le coût du travail en France, 1965-2015
+2,5
+3,0
+3,5
+4,0
+Coût du travail
+Salaire brut
+Salaire net
+1967
+1977
+1987
+1997
+2007
+2015
+Ratio P90/P10
+Note de lecture : En 2015, en France, les 10 % des salaires nets les plus élevés étaient en moyenne 2,9 fois plus élevés que les 10 % des 
+salaires nets les plus faibles, alors que le coût de ces salaires pour l’employeur était 3,6 fois plus élevé.
+Source : Bozio, Breda & Guillot (2023)
+Les effets redistributifs des exonérations dépendent de leur incidence fiscale
+La question de l’incidence est au cœur de cette analyse. Il s’agit ici de savoir qui, du salarié ou de l’employeur, paie 
+la cotisation et qui en paie effectivement le coût économique. Thomas Breda souligne que, dans le cas français, 
+l’existence d’un salaire minimum élevé contraint fortement les mécanismes d’incidence au bas de la distribution. Les 
+baisses de cotisations au niveau du Smic ne peuvent pas être absorbées par une baisse des salaires bruts, puisque le 
+salaire minimum fixe un plancher légal en dessous duquel les rémunérations ne peuvent pas descendre. 
+Bozio, Breda & Guillot (2023) montrent par ailleurs que les baisses successives du coût du travail sur les bas salaires 
+en France ont été pour la plupart accompagnées de hausses du salaire minimum dans des proportions équivalentes, 
+renforçant l’aspect redistributif de la baisse du coût du travail. Pour les salaires élevés, la littérature académique inter-
+nationale suggère au contraire qu’une hausse du coût du travail aura tendance à se répercuter négativement sur les 
+salaires nets, ce qui expliquerait aussi la baisse relative des salaires dans le haut de la distribution. 
+Un instrument hybride entre politique de l’emploi et redistribution
+L’intervention met ainsi en évidence la nature hybride de la politique française. La combinaison d’un salaire minimum 
+élevé et d’exonérations ciblées permet d’agir simultanément sur la demande de travail (via la baisse du coût du travail) 
+et sur les revenus des travailleurs (via la hausse du salaire net). Ce dispositif peut ainsi être interprété comme une 
+alternative aux crédits d’impôt sur le revenu, avec l’avantage de garantir que les transferts bénéficient effectivement 
+aux travailleurs.
+Cette architecture présente toutefois des limites. D’une part, la redistribution opérée est peu ciblée au niveau des 
+ménages, puisqu’elle dépend du salaire individuel et non de la situation familiale ou des autres sources de revenu. 
+D’autre part, elle reste largement implicite et peu visible dans le débat public, ce qui peut brouiller la perception des 
+politiques mises en œuvre.
+Pris ensemble, ces résultats complètent les analyses des sections précédentes. Là où Christian Dustmann mettait 
+en évidence des effets de réallocation, et Etienne Wasmer des effets d’incitation, Thomas Breda montre que les exo-
+nérations de cotisations sociales constituent également un instrument redistributif de grande ampleur, qui a profon-
+dément transformé la structure des salaires en France. Cette dimension distributive est indissociable des effets sur 
+
+=== p.16 ===
+Focus, no 136, juin 2026
+16
+l’emploi et les incitations, et contribue à structurer les arbitrages de politique économique associés aux politiques de 
+coût du travail. 
+Quelle politique économique ? Des résultats aux arbitrages
+Cette partie s’appuie sur les échanges des intervenants durant la table ronde de clôture du workshop. Cet échange, 
+auquel ont participé Antoine Bozio, Pierre Cahuc, Stéphane Carcillo, Dorothée Rouzet et Arindrajit Dube, a permis de 
+mettre en évidence plusieurs diagnostics partagés sur les effets des exonérations de cotisations sociales, mais aussi 
+plusieurs points de tension quant à leur évaluation globale et aux orientations de réforme à privilégier.
+Un système devenu complexe et peu lisible, avec des taux marginaux effectifs élevés
+Un diagnostic largement partagé porte à la fois sur la complexité du système français et sur une de ses caractéris-
+tiques les plus saillantes : la concentration de taux marginaux effectifs élevés dans la partie centrale de la distribution 
+des salaires, là où se situe la majorité des travailleurs.
+Cette configuration est décrite comme le produit d’un empilement de réformes successives poursuivant des objec-
+tifs multiples (soutien à l’emploi peu qualifié, amélioration du pouvoir d’achat, préoccupations de compétitivité), sans 
+cohérence d’ensemble. Il en résulte une architecture fragmentée, marquée par une multiplicité de dispositifs, de 
+seuils et de règles spécifiques. Cette complexité se reflète notamment dans l’existence d’un très grand nombre de 
+configurations possibles du barème de cotisations, rendant le système difficilement lisible et peu transparent pour 
+les agents économiques.
+Au sein de cette architecture, un point fait consensus : les taux marginaux effectifs les plus élevés se situent dans 
+une zone intermédiaire de la distribution, typiquement entre 1 et 1,6 Smic, où se concentre une part importante des 
+salariés. Cette situation résulte de la combinaison de deux mécanismes. D’un côté, les exonérations de cotisations 
+employeur sont maximales au niveau du Smic puis décroissent rapidement avec le salaire. De l’autre, certains trans-
+ferts, en particulier la prime d’activité, atteignent un maximum autour du Smic avant d’être progressivement retirés. 
+La superposition de ces deux profils conduit à des taux marginaux élevés dans la zone où les exonérations dispa-
+raissent et où les transferts sont retirés.
+Les ordres de grandeur évoqués au cours de la discussion situent ces taux marginaux autour de 60 à 70 % en moyenne 
+dans cette zone, avec des niveaux parfois plus élevés dans certaines configurations individuelles. Cette concentration 
+des prélèvements marginaux est d’autant plus significative qu’elle concerne une zone de la distribution très dense, ce 
+qui amplifie potentiellement ses effets.
+L’existence de taux marginaux effectifs élevés est analysée par la majorité des intervenants comme problématique du 
+point de vue des incitations. Dans le cadre d’analyse de la fiscalité optimale, il est en effet généralement recommandé 
+d’éviter de placer les taux marginaux les plus élevés là où se concentre la majorité des individus. Or le système fran-
+çais présente une configuration inverse, ce qui soulève des questions quant aux incitations à la progression salariale, 
+à l’augmentation du temps de travail ou à l’investissement en compétences. Certains intervenants soulignent toute-
+fois que l’ampleur effective de ces effets sur les comportements reste incertaine du fait d’une littérature empirique 
+encore limitée et peu convergente. Dans ce contexte, ils appellent à la prudence dans l’interprétation des taux mar-
+ginaux élevés, en soulignant que leur impact sur les décisions individuelles n’est pas nécessairement proportionnel à 
+leur niveau, notamment en raison de la faible lisibilité du système pour les agents et de la multiplicité des dispositifs 
+qui s’y superposent. 
+Au-delà des effets du système actuel sur les incitations, plusieurs intervenants soulignent qu’une politique réduisant 
+le coût du travail des travailleurs peu qualifiés peut aussi orienter l’économie vers des activités à plus faible producti-
+vité. Déplacer une partie de ces exonérations vers des emplois plus productifs et mieux rémunérés pourrait ainsi favo-
+riser des recrutements dans des entreprises plus productives, et donc des activités économiques bénéfiques pour 
+la croissance. Mais plusieurs intervenants notent que ce type de réforme, bien que souhaitable en théorie, pourrait 
+engendrer des effets négatifs sur l’emploi, notamment parce que le chômage en France se concentre en grande partie 
+sur les travailleurs peu qualifiés et les jeunes.
+
+=== p.17 ===
+17
+Les effets des exonérations de cotisations sociales
+Les effets des exonérations sur l’emploi au niveau du Smic restent discutés 
+Les échanges font apparaître deux points de consensus. D’une part, la littérature académique française comme inter-
+nationale suggère que les effets du coût du travail sur l’emploi se concentrent sur les bas salaires, et sont générale-
+ment faibles voire inexistants pour les emplois mieux rémunérés (notamment au-delà de 2 Smic). 
+D’autre part, les intervenants s’accordent sur le fait que les effets du coût du travail sur l’emploi au bas de la distribu-
+tion semblent aujourd’hui plus faibles qu’ils ne l’étaient dans les années 1990. Plusieurs intervenants font ainsi valoir 
+qu’à cette époque, la combinaison d’un coût du salaire minimum élevé et de cotisations importantes pouvait susciter 
+des effets plus marqués sur l’emploi. Aujourd’hui, du fait des exonérations, le coût du travail au salaire minimum se 
+situerait autour de 44 % du salaire médian. 
+Dans cette perspective, une légère hausse du coût du travail au voisinage du Smic pourrait avoir des effets limités 
+sur l’emploi, ce qui ouvrirait des marges pour réduire les taux marginaux élevés observés juste au-dessus du Smic et 
+ainsi améliorer les incitations à la progression salariale. Cette évolution est cohérente avec les comparaisons interna-
+tionales discutées au cours du workshop, qui suggèrent des effets sur l’emploi plus faibles que ceux obtenus lors des 
+évaluations des baisses du coût du travail des années 1990 en France. 
+Néanmoins, certains intervenants insistent sur le fait que le niveau agrégé des élasticités dans la littérature interna-
+tionale ne doit pas masquer une hétérogénéité potentielle selon les contextes institutionnels. Dans le cas français, 
+les évaluations empiriques disponibles, notamment celles menées sur les réformes des années 1990, du début des 
+années 2000 ou sur des dispositifs plus récents, continuent de mettre en évidence une sensibilité significative de la 
+demande de travail au coût du travail au voisinage du Smic. Certains rappellent par ailleurs que le chômage demeure 
+encore élevé pour les travailleurs peu qualifiés, et en particulier pour les jeunes. Dans cette optique, maintenir un coût 
+du travail faible au bas de la distribution demeure pour ces intervenants un levier central.
+Globalement, si un consensus se dégage sur le fait que les élasticités emploi sont aujourd’hui plus faibles qu’aupara-
+vant, les échanges montrent que la valeur exacte des effets sur l’emploi pour les bas salaires reste débattue. 
+Un débat sur le coût des exonérations et les objectifs poursuivis
+Un aspect très important des débats concerne le mode de calcul du coût des exonérations. Ce coût parfois présenté 
+de manière purement comptable ne peut pas se calculer complètement sans une prise en compte de divers effets de 
+bouclage (retour à l’emploi, changement des transferts et des taxes). 
+Certains participants distinguent le coût budgétaire important des allègements, en forte progression au cours de la 
+dernière décennie, du coût net des allègements. Sur le coût budgétaire, l’ensemble des exonérations devrait repré-
+senter 74 milliards d’euros en 2026 4 et l’évolution de leur coût pour les finances publiques est difficile à anticiper. 
+L’indexation du Smic joue ici un rôle central. Lorsque le salaire minimum progresse plus rapidement que le reste de 
+la distribution, de nouveaux travailleurs deviennent éligibles aux exonérations, ce qui accroît mécaniquement leur 
+coût. Cette dynamique cumulative, liée à la combinaison d’une forte concentration des salariés autour du Smic et à 
+l’indexation automatique des exonérations en fonction du Smic, contribue à la progression des dépenses associées 
+à ces dispositifs. 
+En revanche, plusieurs intervenants soulignent toutefois que ce montant budgétaire reste partiel et ne correspond 
+qu’au coût budgétaire brut des exonérations, c’est-à-dire la compensation de l’État aux organismes de sécurité 
+sociale, et non à leur coût économique net. Celui-ci dépend des effets de retour sur l’emploi, des salaires, des profits, 
+des prestations sociales et autres recettes fiscales. Une partie du coût budgétaire peut ainsi être compensée par des 
+effets de retour liés à l’activité économique et à l’emploi.
+Il s’ensuit que ce coût budgétaire  ne peut se limiter à une lecture purement statique des exonérations. Il ne s’agit 
+pas d’une dépense autonome que l’on pourrait supprimer pour « récupérer » mécaniquement des recettes publiques, 
+mais plus d’un élément de l’architecture globale du système socio-fiscal français. Dans cette perspective, la question 
+4 Voir Bozio A. et Wasmer E. (2024) : annexe 4 « Présentation des mesures de réduction et d’exonération de cotisations et contributions ainsi que 
+de leur compensation » au PLFSS 2026 (tableau 22). Les exonérations « ciblées et non ciblées » ajoutent 11 Md€ à ce total. 
+
+=== p.18 ===
+Focus, no 136, juin 2026
+18
+centrale devient moins celle du « coût » des exonérations que celle des effets comparés des différents modes de 
+financement de la protection sociale sur l’emploi, la redistribution et les incitations économiques.
+Des pistes de réforme partagées : simplification, ciblage et rééquilibrage
+À court terme, une priorité largement partagée est celle de la simplification du système, caractérisé par une multi-
+plicité de dispositifs et de seuils qui nuisent à sa lisibilité et à son efficacité. La réduction des exonérations sur les 
+salaires élevés, notamment au-delà de 2 Smic, semble également une mesure relativement consensuelle, en raison 
+de leur faible impact sur l’emploi.
+À plus long terme, plusieurs intervenants plaident pour une réflexion plus ambitieuse sur l’architecture du système 
+socio-fiscal. Cela pourrait passer par une meilleure distinction entre les cotisations finançant des droits contributifs 
+(notamment les retraites) et celles finançant des dépenses de nature redistributive, qui pourraient être transférées 
+vers d’autres assiettes fiscales, notamment l’impôt sur le revenu. 
+Enfin, la question du salaire minimum lui-même apparaît comme un élément central des réformes. Plusieurs interven-
+tions soulignent que l’indexation automatique du Smic contribue à la compression des salaires et à la hausse du coût 
+des exonérations, et qu’une réforme de cette règle pourrait être nécessaire pour redonner de la flexibilité au système.
+Un débat sur l’ampleur des réformes souhaitables
+Les principaux désaccords portent sur l’ampleur et la nature des réformes à envisager.
+Une première ligne de débat concerne l’arbitrage entre soutien à l’emploi peu qualifié et réduction des taux marginaux 
+élevés observés juste au-dessus du Smic. Plusieurs intervenants mettent en avant l’idée qu’une légère hausse du coût 
+du travail au voisinage du Smic permettrait de réduire la forte dégressivité des exonérations entre 1 et 1,6 Smic, et 
+ainsi améliorer les incitations à la progression salariale et à l’augmentation des rémunérations. 
+Les simulations présentées dans le rapport Bozio & Wasmer (2024) illustrent cette logique. Le scénario étudié consiste 
+notamment à réduire légèrement le niveau maximal des exonérations au niveau du Smic, tout en étendant et en lis-
+sant davantage les allègements jusqu’à 2,5 Smic. Selon les auteurs, une telle réforme pourrait réduire les taux mar-
+ginaux implicites pesant sur les progressions salariales, favoriser l’évolution des travailleurs vers des emplois mieux 
+rémunérés et améliorer la dynamique salariale, tout en conservant un effet global sur l’emploi proche de la neutralité 
+dans leur scénario central.
+Cette approche reste cependant discutée. Certains soulignent les incertitudes persistantes sur les effets des taux 
+marginaux sur les comportements de progression salariale, de formation ou de mobilité professionnelle, en raison 
+d’une littérature empirique encore limitée sur ces dimensions, et appellent à la prudence avant toute augmentation 
+du coût du travail au niveau du Smic. De même, le contexte macroéconomique, notamment la croissance faible et 
+un chômage encore élevé des jeunes et des travailleurs peu qualifiés, est avancé comme un argument en faveur du 
+maintien d’un soutien fort à l’emploi au voisinage du Smic.
+
+=== p.19 ===
+19
+Les effets des exonérations de cotisations sociales
+Conclusion
+Les échanges du workshop conduisent à un diagnostic nuancé sur les exonérations de cotisations sociales. Ces dis-
+positifs ont vraisemblablement joué un rôle important dans le soutien à l’emploi peu qualifié, en particulier dans les 
+années 1990, lorsque le coût du travail au niveau du Smic était plus élevé et le chômage des travailleurs peu quali-
+fiés particulièrement important. Un consensus se dégage sur la nécessité de simplifier un système devenu très com-
+plexe, de limiter les exonérations dont les effets sur l’emploi sont faibles, notamment pour les salaires élevés, et de 
+mieux intégrer les effets de moyen et long terme dans l’évaluation des réformes. Les désaccords portent davantage 
+sur l’ampleur du rééquilibrage souhaitable. Une réduction de la concentration des allégements au voisinage du Smic 
+pourrait améliorer les incitations à la progression salariale et favoriser des emplois plus productifs, mais elle pourrait 
+aussi fragiliser l’emploi des travailleurs les moins qualifiés si elle se traduit par une hausse trop importante du coût 
+du travail au bas de la distribution.
+Le principal enseignement du workshop est donc que les exonérations doivent être évaluées au regard de leurs mul-
+tiples fonctions. Elles sont à la fois un outil de soutien à l’emploi, un mécanisme de redistribution implicite, un élé-
+ment central du financement de la protection sociale et un déterminant des incitations économiques. Leur efficacité 
+dépend ainsi de leur ciblage, de leur profil de dégressivité, de leur articulation avec le salaire minimum et de leur place 
+dans l’ensemble du système socio-fiscal.
+Le cœur du débat réside notamment dans l’arbitrage entre soutien à l’emploi peu qualifié et limitation des effets de 
+tassement des salaires induits par la forte concentration des allègements autour du Smic. Il ne s’agit pas simple-
+ment de maintenir ou de supprimer les exonérations, mais de déterminer quelle architecture permet de concilier au 
+mieux soutien à l’emploi peu qualifié, progression salariale, efficacité productive, lisibilité du système et soutenabilité 
+budgétaire.
+Références
+Baïz A., Naboulet A., Tabarly G. (2020) : Évaluation du Crédit d’impôt pour la compétitivité et l’emploi : synthèse des 
+travaux d’approfondissement, France Stratégie, rapport.
+Bíró A., Branyiczki R., Lindner A., Márk L. et Prinz D. (2022) : « Firm Heterogeneity and the Impact of Payroll Taxes », 
+KRTK-KTI Working Papers 2223, Institute of Economics, Centre for Economic and Regional Studies.
+Bozio A. et Wasmer E. (2024) : « Les politiques d’exonérations de cotisations sociales : une inflexion nécessaire », 
+Rapport final, France Stratégie.
+Bozio A., Breda T. et Guillot M. (2023) : « Using payroll taxes as a redistributive tool », Journal of Public Economics, 
+226, 104986.
+Breda T., Haywood L. et Wang H. (2024) : « Equilibrium effects of payroll tax reductions and optimal policy design », 
+Labour Economics, 91, 102646.
+Bunel M. et L’Horty Y. (2012) : « The Effects of Reduced Social Security Contributions on Employment: An Evaluation 
+of the 2003 French Reform », Fiscal Studies, 33(3), p. 371-398.
+Crépon B. et Desplatz R. (2001) : « Une nouvelle évaluation des effets des allégements de charges sociales sur les 
+bas salaires », Économie et Statistique, 348, p. 3-34.
+Draca M., Machin S. et Van Reenen J. (2011) : « Minimum Wages and Firm Profitability », American Economic Journal: 
+Applied Economics, 3(1), p. 129-151.
+Dube A. (2019) : « Impacts of minimum wages: review of the international evidence », Independent Report, UK 
+Government Publication.
+
+=== p.20 ===
+Focus, no 136, juin 2026
+20
+Dube A. et Lindner A. (2024) : « Minimum Wages in the 21st Century », in C. Dustmann et T. Lemieux, Handbook of 
+Labor Economics, vol. 5, Elsevier, p. 261-383.
+Dube A. et Zipperer B. (2025) : « Minimum wage own-wage elasticity repository », Minimum Wage Own-Wage 
+Elasticity Repository.
+Dube A., Lindner A. S. et Piqueras J. (à paraître) : « Heterogeneous Effects of Minimum Wage Policies », Manuscrit 
+en cours.
+Harasztosi P. et Lindner A. (2019) : « Who Pays for the Minimum Wage? », American Economic Review, 109(8), 
+p. 2693-2727.
+Heathcote J. et Tsujiyama H. (2021) : « Optimal Income Taxation: Mirrlees Meets Ramsey », Journal of Political 
+Economy, 129(11), p. 3141-3184.
+Kleven H., Kreiner C., Larsen K. et Søgaard J. (2025) : « Micro versus Macro Labor Supply Elasticities: The Role of 
+Dynamic Returns to Effort », American Economic Review, 115(9), 2849-2890.
+Kramarz F. et Philippon T. (2001) : « The Impact of Differential Payroll Tax Subsidies on Minimum Wage 
+Employment », Journal of Public Economics, 82(1), p. 115-146.
+Mirrlees J. A. (1971) : « An Exploration in the Theory of Optimum Income Taxation », The Review of Economic Studies, 
+38(2), p. 175-208.
+Saez E. (2001) : « Using Elasticities to Derive Optimal Income Tax Rates », Review of Economic Studies, 68(1), 
+p. 205-229.
+Shimer R. et Smith L. (2001) : « Matching, Search, and Heterogeneity », The B.E. Journal of Macroeconomics, 1(1), p. 1-18.
+Le Conseil d’analyse économique, créé auprès du Premier ministre, a pour mission d’éclairer, par la confrontation 
+des points de vue et des analyses de ses membres, les choix du gouvernement en matière économique.
+20 avenue de Ségur 75007 Paris — @CAE-eco (LinkedIn) @caeeco.bsky.social — www.cae-eco.fr
+Président délégué Xavier Jaravel
+Secrétaire général Augustin Vicard
+Conseillers scientifiques 
+Jean Beuve, Samuel Delpeuch, 
+Claudine Desrieux, Arthur Poirier
+Économistes/Chargés d’études 
+Nicolas Grimprel, Lucie Huang, Iris Laugier, 
+Antoine Lopes, Rose Salaün
+Assistante du président délégué 
+Orkia Saïb
+Membres Adrien Auclert, Emmanuelle Auriol, 
+Antonin Bergeaud, Antoine Bozio, François Fontaine, 
+Julien Grenet, Fanny Henriet, Xavier Jaravel, 
+Florence Jusot, Sébastien Jean, Isabelle Méjean, 
+Thomas Philippon, Vincent Pons, Xavier Ragot, 
+Alexandra Roulet, Katheline Schubert, 
+Emmanuelle Taugourdeau, Jean Tirole
+Correspondants
+Dominique Bureau, Benoît Mojon, Anne Perrot, 
+Aurélien Saussay, Ludovic Subran
+Toutes les publications du Conseil d’analyse 
+économique sont téléchargeables sur son site   : 
+www.cae-eco.fr
+ISSN 2971-3560 (imprimé)
+ISSN 2999-2524 (en ligne)
+Directeur de la publication Xavier Jaravel
+Directeur de la rédaction Augustin Vicard
+Édition et contact presse Hélène Spoladore 
+helene.spoladore@cae-eco.fr — Tél. : 01 42 75 77 47

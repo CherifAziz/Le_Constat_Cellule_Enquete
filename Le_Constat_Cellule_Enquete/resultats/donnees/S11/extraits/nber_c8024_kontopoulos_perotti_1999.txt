@@ -1,0 +1,1657 @@
+
+=== page PDF 1 ===
+This PDF is a selection from an out-of-print volume from the National Bureau
+of Economic Research
+Volume Title: Fiscal Institutions and Fiscal Performance
+Volume Author/Editor: James M. Poterba and , editors
+Volume Publisher: University of Chicago Press
+Volume ISBN: 0-226-67623-4
+Volume URL: http://www.nber.org/books/pote99-1
+Publication Date: January 1999
+Chapter Title: Government Fragmentation and Fiscal Policy Outcomes: Evidence
+from OECD Countries
+Chapter Author: Yianos Kontopoulos, Roberto Perotti
+Chapter URL: http://www.nber.org/chapters/c8024
+Chapter pages in book: (p. 81 - 102)
+
+=== page PDF 2 ===
+4 
+Government Fragmentation 
+and Fiscal Policy Outcomes: 
+Evidence from OECD Countries 
+Yianos Kontopoulos and Roberto Perotti 
+4.1 Introduction 
+This paper investigates on a yearly panel of 20 OECD countries the role of 
+fragmentation in decision making as a determinant of fiscal outcomes. 
+In very broad terms, fragmentation arises when several agents or groups 
+participate in the fiscal decision-making process, each with its own interests 
+and constituency to satisfy, and each with some weight in the final decision. 
+To participate in the majority, each group demands a share in the budget; as all 
+groups do this, the end result is a high level of expenditure or a large deficit.’ 
+At this level of generality, the view that fragmentation is responsible for the 
+high levels of expenditure and deficits observed in industrialized countries in 
+the last 25 years is widely held in both academic and policy circles. Yet, when it 
+comes to empirically testing this notion, one quickly realizes that conceptually 
+fragmentation can take many forms, and each concept can be measured in 
+many ways. Some theoretical guidance is needed. 
+As we argue in Kontopoulos and Perotti 1997, fragmentation of the fiscal 
+policy decision-making process is closely related to the notion of internaliza- 
+tion of the costs of fiscal policy. High expenditure and possibly high deficits 
+result when individual policymakers do not fully internalize the costs of aggre- 
+Yianos Kontopoulos is a currency strategist at Menill Lynch, Pierce, Fenner & Smith Inc. Ro- 
+berto Perotti is professor of economics at Columbia University and a research associate of the 
+Centre for Economic Policy Research, London. 
+This paper was written while Yianos Kontopoulos was at Columbia University. The views ex- 
+pressed here are solely those of the authors. The authors thank seminar participants at the Colum- 
+bia University Political Economy Workshop for comments on an earlier version of the paper. 
+Yianos Kontopoulos gratefully acknowledges financial support from the Onassis Foundation. 
+1. In its basic form, this intuition has been first formalized in the static “common pool” models 
+of Weingast, Shepsle, and Johnsen (1981) and Shepsle and Weingast (1981), and subsequently 
+extended in numerous papers. See Alesina and Perotti 1995 and Velasco 1995 for a survey of 
+this literature. 
+81 
+
+=== page PDF 3 ===
+82 
+Yianos Kontopoulos and Roberto Perotti 
+gate expenditure and the associated taxation. This occurs because the expendi- 
+ture proposed by each agent in the majority can be closely targeted to the group 
+he or she represents, while revenues with their distortionary costs can be 
+spread over a large number of groups. 
+Two key factors determine how much each agent in the majority internalizes 
+the costs of the fiscal outcome: the number of decision makers participating in 
+the process and the rules that govern the aggregation of preferences, that is, 
+the set of procedures whereby a final decision is arrived at. As the number of 
+decision makers gets larger, each will pay a smaller share of the revenue costs 
+of each dollar of expenditure he or she proposes; the marginal cost of expendi- 
+ture to each policymaker falls, and in equilibrium each will propose a higher 
+expenditure. As a result, aggregate expenditure will also increase. The budget 
+process is the second important determinant because it determines the game 
+played by decision makers. For example, if the finance minister sets the total 
+size of expenditure first, theoretically he or she is in a position to better inter- 
+nalize the costs of aggregate expenditure, and individual policymakers can 
+only bargain over the distribution of this expenditure. At the other extreme, if 
+the budget is just the sum of bids made by individual ministers, without any 
+coordination from the top, the degree of internalization of the costs of expendi- 
+ture will be at a minimum. 
+In this paper, we focus on the first determinant, the number of decision mak- 
+ers. As we show in Kontopoulos and Perotti 1997, conceptually there are two 
+very different interpretations of this notion, depending on the basic decision- 
+making unit one assumes. In one interpretation, the emphasis is on the legisla- 
+tive side of the fiscal decision-making process. In this case, the elementary unit 
+could be the individual legislator. An empirically more relevant rendition of 
+this interpretation would view the party in the ruling coalition as the basic 
+decision-making unit, on the ground that-for 
+the purposes of fiscal decision 
+making-a 
+party is a more or less cohesive entity representing the interests of 
+specific groups. Thus, the first measure of fragmentation we use is simply the 
+number of parties in the coalition, which we also call coalition size. 
+The second interpretation emphasizes the executive side of the fiscal 
+decision-making process. Hence, the elementary unit is a spending minister. 
+The rationale is that each spending minister participates in the formulation of, 
+and makes demands on, the overall budget. Thus, the second measure of frag- 
+mentation we use is the number of spending ministers, which we also call cabi- 
+net size. 
+Conceptually, we see no a priori reason to privilege the first, “legislative” 
+interpretation over the second, “executive” interpretation. In fact, all the mod- 
+els that apply to the former-in 
+particular, the seminal “common pool” models 
+of Weingast, Shepsle, and Johnsen (1981) and Shepsle and Weingast (1981) 
+and their numerous extensions-can 
+be applied, with a simple relabeling of 
+variables, to the latter. 
+Yet without exception, all the existing empirical literature has focused on 
+
+=== page PDF 4 ===
+83 
+Government Fragmentation and Fiscal Policy Outcomes 
+the first, “legislative” interpretation of fragmentation, and almost invariably on 
+a very specific variant of this notion. In a seminal contribution, Roubini and 
+Sachs (1989a,b) focused on the effects of a variable that can be termed “gov- 
+ernment weakness,” assigning progressively higher scores to single-party ma- 
+jority, small coalition, large coalition, and minority governments. Based on a 
+sample of 20 OECD countries over the period 1960-85, they concluded that 
+deficits do tend to be positively associated with this variable. In subsequent 
+research, Edin and Ohlsson (1991) found that practically all this effect was due 
+to minority governments. Still later, de Haan and Sturm (1994) concluded that, 
+over the period 1982-95, even this effect does not seem to be robust. Much of 
+the difference in these findings seems to be due to considerable differences in 
+the coding of several governments in several countries. 
+We see three main shortcomings in this exclusive emphasis on the notion of 
+government weakness. First, this measure has a weak theoretical underpinning, 
+and it can be unrelated to the notion of fragmentation. For instance, it is not 
+clear that a minority government with many parties should be regarded as more 
+fragmented than a single-party majority government. Second, it can be highly 
+subjective: witness the large discrepancy in the classification between, say, 
+Roubini and Sachs (1989b) and de Haan and Sturm (1994). Third, it neglects 
+entirely any notion of “executive” fragmentation. 
+Thus, throughout this paper, we try to use measures of fragmentation with a 
+well-defined theoretical counterpart, and as objectively measurable and quanti- 
+fiable as possible. Armed with these measures, we explicitly test the two inter- 
+pretations of the notion of fragmentation-“legislative” 
+and “executive”- 
+against each other. 
+As we first showed in Kontopoulos and Perotti 1997, executive fragmenta- 
+tion appears to be extremely important-both 
+economically and statistically- 
+as a determinant of fiscal outcomes. By contrast, legislative fragmentation, 
+in its various forms-government 
+weakness and coalition size-seems 
+to be 
+much less important and robust. These conclusions are of potential policy rele- 
+vance because the size of a cabinet is typically not a constitutional issue, and 
+in fact it can vary considerably over time within each country. By contrast, the 
+size of a coalition is typically the result of historical traditions and of the whole 
+structure of the political process-such 
+as the electoral system-which 
+are 
+often deeply grounded in the constitutional framework and in the historical 
+and cultural background of a country, and therefore are much less likely to be 
+amenable to change. 
+Because of their potential policy relevance, it is important to check the ro- 
+bustness of our basic results. This is particularly so because the conclusions of 
+the literature in the tradition of Roubini and Sachs have proved to be extremely 
+sensitive to the sample of countries, the sample period, the specification, the 
+form of the government weakness variable (whether as separate dummy vari- 
+ables or a single variable), the form of the fiscal policy variables (whether as 
+shares of GDP or logarithms of real variables, whether in levels or differences, 
+
+=== page PDF 5 ===
+84 
+Yianos Kontopoulos and Roberto Perotti 
+etc.), to the point that hardly any definite conclusion can be drawn with any 
+reasonable degree of confidence. 
+Thus, in this paper we conduct an extensive sensitivity and robustness anal- 
+ysis of our basic results on “legislative” and “executive” fragmentation. As a 
+consequence, we must necessarily narrow the scope of our empirical investiga- 
+tion. As mentioned above, we exclude from the present investigation the role 
+of procedural fragmentation, that is, of the set of rules that constitute the bud- 
+get process. The effects of procedural variables have been studied on panels of 
+OECD countries by de Haan and Sturm (1994), Hallerberg and von Hagen 
+(chap. 9 in this volume), and Kontopoulos and Perotti (1997), with mixed con- 
+clusions. One reason for these inconclusive results is that the budget process 
+varies very little over time, so that it is very difficult to estimate its effects 
+given the small cross-sectional dimension of the panel of OECD countries.2 
+We also exclude from our investigation the role of fragmentation over time, 
+that is, the effects of government instability and of the frequency of govern- 
+ment turnovers. Grilli, Masciandaro, and Tabellini (1991) show that this vari- 
+able seems to be positively associated with budget deficits, although here also 
+there are considerable problems of definition, measurement, and robustness.3 
+Our main finding is that the relationship between executive fragmentation 
+(i.e., cabinet size) and fiscal outcome is indeed very robust during the seventies 
+and early eighties. In the following period, it is legislative fragmentation (i.e., 
+coalition size) that is more strongly related to fiscal outcomes, although this 
+relationship is somewhat less robust. We argue that these differences across 
+the two periods make sense, given the different types of shocks policymakers 
+faced. 
+The organization of the chapter is as follows. In the next section we briefly 
+describe our data set. Section 4.3 introduces the basic estimation framework 
+and discusses some key aspects of it. Section 4.4 presents the basic regressions. 
+In section 4.5, we perform a number of robustness and sensitivity tests on our 
+benchmark regressions. Section 4.6 concludes. 
+4.2 The Data 
+Our database includes 20 countries and covers the period 1960-95.4 In this 
+section, we describe the fiscal and political variables. 
+All the budget data we use refer to the general government and come, with 
+a few exceptions mentioned later, from the OECD Economic Outlook and Na- 
+tional Income Account data sets. The available data sets contain several gaps, 
+2. The empirical literature on the effects of procedural variables in U.S. states is much larger, 
+and growing. For a survey, see Poterba 1994 and Inman 1996. 
+3. Estimating the effects of fragmentation over time poses problems similar to those of proce- 
+dural fragmentation: the frequency of government turnover must be measured over time, and there- 
+fore one essentially ends up with cross-sectional estimates. 
+4. The countries are Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, 
+Greece, Ireland, Italy, Japan, Netherlands, Norway, Portugal, Spain, Switzerland, Sweden, United 
+Kingdom, and United States. 
+
+=== page PDF 6 ===
+85 
+Government Fragmentation and Fiscal Policy Outcomes 
+mainly due to the shift from the old to the new system of national accounts in 
+many OECD countries during the seventies. We combine the two sets of data 
+to fill most of the gaps without sacrificing comparability of the data. In a few 
+country-years, the two data sets mentioned above were supplemented with data 
+from two other sources: the Revenue Statistics of OECD Member Countries, 
+and EUROSTAT’s National Income Accounts. Both these data sets also follow 
+the guidelines of the new system of national accounts and are usually identical 
+to the other two sources when they overlap. Perotti 1998 contains more details 
+on the construction of this data set. As a result of these amendments, the data 
+set contains consistent series on the primary deficit and all its major compo- 
+nents covering all the years 1960-95 for all the 20 countries in the sample, 
+with the exception of 23 country-years. 
+To preserve the comparability of the definitions both over time and across 
+countries, our definition of the primary deficit is slightly different from the 
+conventional one. We define the primary deficit as the difference between ex- 
+penditure and taxes, net of all net property income. On the expenditure side, 
+property income comprises mainly interests, but on the revenues side it also 
+comprises items like rents and the “operating surplus” of the government that 
+are normally included in the definition of the primary deficit. These items seem 
+to be less consistently defined across countries, and the breakdown between 
+interest and other property income is not available before 1970. We also ex- 
+clude capital transfers paid by the government from the expenditure side, and 
+current and capital transfers received by the government on the revenue side. 
+These three items have a rather spotty coverage in the databases that we use, 
+particularly for the 1960s and for some countries, so that their inclusion would 
+have introduced substantial breaks in the series and in the consistency of the 
+definitions; in any case, these items are typically very small and therefore are 
+unlikely to affects our results ~ubstantially.~ 
+In addition, there is no reason to 
+expect that their exclusion biases the year-to-year movements in fiscal out- 
+comes-on 
+which we focus in our paper-in 
+any particular direction. 
+We used three principles in constructing our political data. First, because we 
+have a precise definition of fragmentation, we concentrate on measuring its two 
+interpretations-“legislative” and “executive”-as 
+directly as possible; that is, 
+we try to construct the variable that most immediately captures each compo- 
+nent of the definition of fragmentation. Second, while some element of subjec- 
+tivity is unavoidable when political variables are involved, we focus on quanti- 
+fiable measures as much as possible. In classifying these governments, we rely 
+exclusively on external sources (from the political science literature mostly) 
+that were also cross-checked several times. Third, we exert a specific effort to 
+match the political variables with fiscal data by tracking the investiture date 
+and thus the duration of the governments, so that we can establish an accurate 
+connection between the institutional framework and the fiscal policy outcome. 
+5. Recall that our fiscal variables refer to the general government, and therefore all intergovern- 
+mental transfers-which can be substantial-are consolidated in our figures. 
+
+=== page PDF 7 ===
+86 
+Yianos Kontopoulos and Roberto Perotti 
+To classify governments, we must first define them. With annual data, it is not 
+always obvious how to associate the fiscal outcome of a given calendar year 
+with a specific type of government. We follow two criteria. First, we exclude 
+all governments with a duration of less than 60 days, under the assumption that 
+they are too short-lived to have any influence on fiscal outcomes. Second, we 
+pay particular attention to the month of investiture of a government. Because 
+of the long decision and implementation lags, a new government that is formed 
+toward the end of a year is most likely irrelevant for the fiscal results of that 
+year. Hence, we assume that only governments that were formed before the 
+beginning of August of any given year have any significant impact on the fiscal 
+outcome of that year. Obviously, this cutoff point is somewhat arbitrary; hence, 
+we also run our regressions with three different cutoff dates (June, July, Sep- 
+tember). Since the results are robust to these variations, we present only one 
+set of results in order to economize on space. When there is more than one 
+government before August, all lasting longer than two months, we average the 
+characteristics of the governments of that year, with weights equal to the dura- 
+tion of each government.6 
+In the following two subsections, we briefly describe the construction of the 
+two political variables. 
+4.2.1 
+As we discuss above, one key criterion in our investigation is to use a direct 
+and unambiguous measure of the two notions of fragmentation that we are 
+investigating. The measure of coalition size that most closely matches its defi- 
+nition is just the total number of parties in the coalition, which we denote 
+“NPC.” 
+The primary source for this variable is Woldendorp, Keman, and Budge 
+1993, a special issue of the European Journal of Political Research (EJPR) 
+with a wealth of information on each government in parliamentary democra- 
+cies in the postwar period. The data set has been updated annually. The United 
+States, Greece, Portugal, and Spain are not covered in the EJPR databa~e;~ 
+the 
+first, because it is a presidential system; the latter three, because in the initial 
+parts of the period they were not run by democratic regimes. For these coun- 
+tries, we used the Europa Yearbook (EY), an annual publication with informa- 
+tion on each country in the world and its government. 
+Number of Parties in Coalition (NPC) 
+4.2.2 Number of Spending Ministers (NSM) 
+The most immediate measure of the notion of cabinet size that descends 
+from the discussion in the introductory section is simply the number of spend- 
+ing ministers. We construct this variable as the sum of the following ministers: 
+(i) industry, trade, or ministers with related or subdivided competencies like 
+6. In another robustness exercise we also ran the bulk of our regressions with a data set that 
+included all governments irrespective of their duration and averaged (weighted) their characteris- 
+tics in each year. This somewhat agnostic procedure did not significantly alter any of our results. 
+7. The annual updates cover these countries. 
+
+=== page PDF 8 ===
+87 
+Government Fragmentation and Fiscal Policy Outcomes 
+foreign trade, commerce, and state industries (if not attributed to public 
+works-see 
+next); (ii) public works, infrastructure, or ministers with related 
+or subdivided competencies like (public) transportation, energy, post, telecom- 
+munications, merchant marine, civil aviation, national resources, construction 
+(if not specifically attributed to housing-see 
+below), urban development, and 
+so forth; (iii) defense; (iv) justice; (v) labor; (vi) education; (vii) health; 
+(viii) housing; (ix) agriculture. We also add all ministers with economics port- 
+folios: (x) finance or ministers with related or subdivided competencies like 
+First Lord of the Treasury, budget, taxation, and so on; (xi) economic affairs 
+or ministers with related or subdivided competencies like (regional) economic 
+planning or development, or small business. 
+The primary source for this variable is Woldendorp, Keman, and Budge 
+1993. However, because this source also reports, under each portfolio, all 
+the ministers that held the same portfolio sequentially due to government re- 
+shuffles, to avoid overcounting portfolios we cross-checked each entry with the 
+annual volumes of the Europa Yearbook. 
+4.3 Setting up the Basic Framework 
+Before we can start estimating the effects of fragmentation, we need to dis- 
+cuss the basic approach to estimating the model. Some of this discussion fol- 
+lows Kontopoulos and Perotti 1997; therefore we will keep it at a minimum 
+here. 
+Our basic specification is of the following form: 
+XI - X,+, = 
++ a,NPC, + a,NSM, + a,NPC,*DY, 
+(1) 
++ a,NSM,*DY, + a5DYl + a6DUl + a,=, 
++ E,, 
+where XI is a fiscal policy variable, which can be the deficit, total expenditure, 
+or total revenues; DY, is the rate of growth of GDP; DU, is the change in the 
+unemployment rate; INFL, is the rate of inflation of the consumer price index; 
+NPC, and NSM, are the two indices of fragmentation, and are defined as the 
+number of parties in the coalition and the number of spending ministers, re- 
+spectively; NPC,*DY, and NSM,*DY, represent the interaction of these two 
+indices with the rate of growth of GDP. 
+Since the early contributions, virtually all empirical investigations have fo- 
+cused on the effects of political and institutional variables on the deJicit. Yet, 
+the theoretical case for an effect of fragmentation on expenditure is much 
+stronger than for the effects on the deficit. For instance, in the static common 
+pool models B la Weingast, Shepsle, and Johnsen (1981) the budget is obvi- 
+ously balanced. Hence, any effect of fragmentation must be on both expendi- 
+tures and revenues, with no effect on the deficit. 
+One might think that the basic intuition of the effects of fragmentation 
+
+=== page PDF 9 ===
+88 
+Yianos Kontopoulos and Roberto Perotti 
+should be easily generalizable to the dynamic case. Indeed, Velasco (1995) 
+develops a dynamic extension of a “common pool” model where, as the num- 
+ber of decision makers increases, the deficit increases. But this is the result of 
+the specific functional forms assumed in the model, and there is no general 
+intuition for the overall sign of the relationship between the number of poli- 
+cymakers and the deficit in the modek8 In fact, Lane and Tornell (1996) pre- 
+sent a slightly different dynamic extension of a “common pool” model, where 
+the relationship between the number of decision makers and the deficit is non- 
+linear. Thus, in dynamic “common pool” models the presumption that frag- 
+mentation leads to higher deficits does not seem to lend itself to an easy and 
+general formalization. Spolaore (1993) is just about the only contribution we 
+are aware of where there is a direct relationship between the number of deci- 
+sion makers and the deficit, although only in response to a negative shock. 
+The context, however, is slightly different-a 
+combination of the Alesina and 
+Drazen (1991) “war of attrition” model and of the Tabellini and Alesina (1990) 
+“strategic motive” for deficit. 
+This discussion suggests estimating the effects of fragmentation on expendi- 
+ture and revenues separately: even in theory, fragmentation might not manifest 
+itself in the deficit, but only in expenditure, and limiting the investigation to 
+the deficit might lead to very misleading conclusions. In addition, disaggregat- 
+ing the deficit into revenues and expenditure sheds considerable light on the 
+channels by which fragmentation affects fiscal outcomes. 
+This brief theoretical discussion implies that, under the null hypothesis we 
+test, a1 > 0 and a3 > 0 when the dependent variable is expenditure: virtually 
+all theories would imply this hypothesis. When the dependent variable is reve- 
+nues, however, the existing theories offer much less guidance. Indeed, both a 
+positive and a negative value for a1 and a3 can be rationalized in this case. As 
+a consequence, when the dependent variable is the deficit, we expect a, and a3 
+to be positive or 0. 
+In equation (l), the two political variables, NPC and NSM, appear also inter- 
+acted with the rate of growth of GDP, DY. The interactive terms capture the 
+plausible, but rarely tested, notion that political and institutional factors might 
+be particularly important, as determinants of policies, in “difficult” times. This 
+notion, which is part of the conventional wisdom of policymaking, has been 
+formalized in Drazen and Grilli 1993 and also plays a role in Spolaore 1993 
+and Velasco 1995; more discursive treatments and short historical discussion 
+are in, among others, Bruno and Fischer 1993 and Tommasi and Velasco 1996. 
+The hypothesis we test is that fragmentation is particularly “bad” for fiscal 
+policy in “difficult” times: hence, we expect a2 < 0 and a, < 0 when the 
+dependent variable is expenditure or the deficit. 
+Our basic specification also includes a number of macroeconomic vari- 
+ables-DY,, 
+DU, and INK,. There are two reasons for this: first, to capture 
+8. Personal communication to the authors 
+
+=== page PDF 10 ===
+89 
+Government Fragmentation and Fiscal Policy Outcomes 
+the effects of the macroeconomic environment on expenditure, via automatic 
+mechanisms like unemployment subsidies, and on revenues, because, for in- 
+stance, of the progressivity of income taxes. Second, these economic variables 
+capture the reaction function of the policymaker. When the dependent variable 
+is aggregate expenditure, we expect as < 0, a6 > 0, and a, < 0; when the 
+dependent variable is revenues, we expect a5 > 0, a6 < 0, and a7 > 0. These 
+are all intuitive signs for these coefficients, and we comment on them more 
+extensively in Kontopoulos and Perotti 1997. 
+All regressions in the benchmark specification also include a full set of 
+country and year dummies, whose role we study extensively in section 4.5. 
+Finally, all the fiscal policy variables we use in this paper are cyclically 
+unadjusted and are expressed as changes in GDP shares. In Kontopoulos and 
+Perotti 1997, we use cyclically adjusted fiscal variables. There are advantages 
+and disadvantages in both strategies. In testing the effects of political and insti- 
+tutional factors, presumably one is interested only in the noncyclical changes 
+in fiscal policy. This calls for using cyclically adjusted figures only if 
+(i) political and institutional variables are correlated with cyclical conditions, 
+and (ii) controlling for GR, DU, and INFL is insufficient, for instance because 
+the elasticity of fiscal outcomes to growth differs across countries. On the other 
+hand, cyclically adjusted figures are provided by international organizations 
+only from 1973 at the earliest, and there is no commonly accepted methodol- 
+ogy to cyclically adjust fiscal outcomes, so that all figures involve a large de- 
+gree of subjectivity and may well involve some additional noise. In addition, 
+using unadjusted GDP shares allows us a more direct comparison with existing 
+results, since this is the definition that has been used in most of the literature. 
+4.4 
+Basic Results 
+Table 4.1 illustrates the basic results. Throughout the table, the dependent 
+variables are the first differences in the ratio of deficit and expenditure to GDP. 
+Table 4.1 delivers three main messages. First, disaggregating the deficit into 
+expenditure and revenues is crucial. Looking at the first two columns, dis- 
+playing regressions on the whole sample, it is clear that NSM is an important 
+and very significant determinant of the deficit, and that its effects occur almost 
+exclusively via aggregate expenditures9 By contrast, by looking only at the 
+deficit one would fail to detect any significant effect of NPC; this is because 
+NPC affects both expenditures and revenues in the same direction, although it 
+is significant only in the expenditure regression. Note that this finding might 
+help explain many negative results in recent papers, like those of de Haan and 
+Sturm (1994), who mostly focused on the eighties and early nineties and failed 
+to detect any significant effect of the “government weakness” variable. 
+9. Obviously, the coefficient of all variables in the revenue regression is exactly equal to the 
+coefficient in the expenditure regression less the coefficient in the deficit regression. 
+
+=== page PDF 11 ===
+Table 4.1 
+Fragmentation and the Determination of Fiscal Outcome 
+ADEF 
+AEXP 
+ADEF 
+AEXP 
+ADEF 
+AEXP 
+ADEF 
+AEXP 
+(1) 
+(2) 
+(3) 
+(4) 
+( 5 ) 
+(6) 
+(7) 
+(8) 
+1960-95 
+1960-95 
+1960-73 
+1960-73 
+1974-83 
+1974-83 
+1984-95 
+1984-95 
+NSM*DY 
+- .02 
+(-2.64) 
+DY 
+.10 
+(I .07) 
+DU 
+.44 
+(5.60) 
+INFL 
+- .07 
+(- 3.24) 
+R2 
+.3 1 
+-.01 
+(-2.12) 
+-.I2 
+(- 1.67) 
+.09 
+(1.52) 
+- .02 
+(- 1.42) 
+.57 
+- .02 
+(- 1.45) 
+.I4 
+(0.86) 
+.49 
+(2.35) 
+-.I2 
+(-2.40) 
+.08 
+- .02 
+(-1.82) 
+- .02 
+(-0.18) 
+.13 
+(0.85) 
+- .03 
+(-0.96) 
+.46 
+- .03 
+(-2.21) 
+.06 
+(0.36) 
+.28 
+(1.73) 
+-.I3 
+(-2.57) 
+.30 
+- .02 
+(- 1.58) 
+-.21 
+(-1.61) 
+- .00 
+-.I2 
+(-3.19) 
+.59 
+(-0.02) 
+-.Ol 
+(-0.29) 
+- .08 
+(-0.34) 
+.38 
+- .04 
+(3.14) 
+(-0.64) 
+.39 
+NPC 
+.06 
+.12 
+.07 
+.16 
+- .03 
+- .02 
+.50 
+.29 
+(0.80) 
+(2.15) 
+(0.39) 
+( 1.26) 
+(-0.21) 
+(-0.20) 
+(2.92) 
+(2.27) 
+NSM 
+.I5 
+.18 
+- .04 
+.01 
+.23 
+.24 
+.oa 
+.06 
+(3.19) 
+(4.88) 
+(-0.47) 
+(0.08) 
+(2.22) 
+(3.25) 
+(0.63) 
+(0.63) 
+NPC*DY 
+-.01 
+- .02 
+-.01 
+- .02 
+.05 
+.oo 
+- .04 
+- .04 
+(-0.45) 
+(-2.22) 
+(-0.22) 
+(-0.85) 
+(1.76) 
+(0.14) 
+(-1.65) 
+(-2.00) 
+.01 
+(0.66) 
+-.38 
+-2.27) 
+.oo 
+(0.03) 
+- .05 
+-1.11) 
+.59 
+N 
+641 
+641 
+207 
+207 
+195 
+195 
+239 
+239 
+Note: NPC: number of parties in coalition; NSM: number of spending ministers; DEF: primary deficit (see text for precise definition); EXP: primary expenditure; 
+REV primary revenue; DY rate of growth of GDP DU: change in unemployment; INFL: rate of change of CPI. All fiscal variables are first differences of their 
+shares in GDP. All regressions include year and country dummies. 
+
+=== page PDF 12 ===
+91 
+Government Fragmentation and Fiscal Policy Outcomes 
+Second, there is indeed some evidence that both NPC and NSM are more 
+important in bad than in good times. At zero GDP growth, an extra party in the 
+coalition adds on average 0.12 percent of GDP per annum to aggregate ex- 
+penditure; but this effect increases by 0.02 percent of GDP for any percentage 
+point of negative GDP growth, so that at 5.0 percent negative growth an extra 
+party in the coalition is associated with an increase in aggregate expenditure 
+by 0.22 percent of GDP. Similarly, at zero GDP growth an extra spending min- 
+ister adds 0.18 percent of GDP per annum to aggregate expenditure, and 0.23 
+percent at 5.0 percent negative growth. These are substantial numbers, if one 
+considers that in the sample the number of parties in the coalition ranges from 
+one to five, and the number of spending ministers from 5 (in Switzerland) to 
+18 (in Italy). 
+Third, disaggregating the whole 1960-94 period into its three main decades 
+is also of crucial importance. As one would expect, political and institutional 
+variables have very little effect on fiscal policy in the 1960s, a decade charac- 
+terized by more or less stable growth and little fiscal action in most countries 
+of the sample. The two subsequent decades show much more action, but in 
+very different ways. In the seventies, the coefficient of NSM is positive and 
+highly significant in both the deficit and expenditure regressions, while the 
+coefficient of NPC is virtually 0. In the 1980s, exactly the opposite is true (in 
+addition, the coefficient of NPC is negative in the revenue regression, so that 
+the coefficient in the deficit regression is virtually double that in the expendi- 
+ture regression). 
+This difference between the last two decades is striking, and it is so signifi- 
+cant that it is unlikely to be due to chance alone. We believe the interpretation 
+lies in the nature of the fiscal shocks in the two decades. In the seventies, the 
+problem common to all countries was how to best contain the growth of expen- 
+diture in response to an external negative shock. In the eighties, the main shock 
+to fiscal policy was internal, and the dividing line was between those countries 
+that engaged in large discretionary consolidations and those that did not. The 
+decision to engage in a fiscal consolidation is largely political and requires a 
+cohesive government agreeing on such a fundamental decision. Consequently, 
+one would expect coalition size to play a particularly important role in the 
+last decade. By contrast, in the seventies the goal-containing 
+the growth of 
+expenditure-was 
+common in all countries: how well a country could attain it 
+depended, among other things, on how the executive decision-making process 
+was organized. Hence, one would expect cabinet size to matter particularly in 
+this decade. 
+These are the three basic results of our approach. In the next section, we 
+start exploring their robustness. Because, as we have shown, virtually nothing 
+is significant in the regressions for the sixties, from now on we will concentrate 
+mostly on the last two decades. 
+
+=== page PDF 13 ===
+92 
+Yianos Kontopoulos and Roberto Perotti 
+4.5 Robustness and Sensitivity 
+4.5.1 
+The Role of Country and Time-Fixed Effects 
+In table 4.2, we explore the role of country and year dummies. This is a 
+particularly important issue given our sample and the nature of the estimation 
+problem. The macroeconomic shocks that influence fiscal outcomes are likely 
+to be highly correlated across countries. Year dummies can then parcel out the 
+effects of these shocks if the latter are only partially captured by the macroeco- 
+nomic variables we control for-GR, 
+DU, and INFL. Perhaps even more im- 
+portant is the role of country-fixed effects. On the right-hand side of our regres- 
+sions we have several political and institutional variables, which are arguably 
+highly correlated with unobservable and time-invariant cultural and historical 
+country-specific characteristics. If the latter also affect the rate of growth of 
+expenditure and revenues, it is extremely important to control for country- 
+fixed effects in order to eliminate this source of endogeneity bias. 
+The first four columns of table 4.2 display deficit and expenditure regres- 
+sions with time-fixed effects only. This has rather drastic effects on the esti- 
+mated coefficients. In the seventies, the coefficient of NSM remains highly 
+significant in both regressions, but its point estimate is cut to about a half. In 
+the eighties, the coefficient of NPC falls much more drastically in both size 
+and significance, and it is now very far from being statistically significant. 
+In the next four columns of table 4.2, only country-fixed effects are present. 
+Now even the coefficient of NSM in the seventies becomes insignificant, while 
+the coefficient of NPC in the eighties remains significant, although only in the 
+deficit regression. 
+These results clearly highlight the importance of controlling for time- and 
+country-fixed effects in our regressions. From now on, all our regressions will 
+include both. 
+4.5.2 
+Outliers 
+Before making further inference from the results we have obtained, it is 
+important to make sure that they are not unduly influenced by the inclusion of 
+individual countries, always a real possibility in panels with a small cross- 
+sectional component like the present one. To address this issue, we started by 
+reestimating all our regressions excluding one country at a time. The results of 
+this procedure, reported in table 4.3, reveal a considerable difference between 
+the robustness of the effects of cabinet size and coalition size. 
+The first panel reports the maximum p-values of the coefficients of NPC, 
+DY*NPC, NSM, DY*NSM in the main regressions, the corresponding point 
+estimate, and the country whose exclusion leads to the maximum p-value of 
+that coefficient. From our previous analysis, we are particularly interested in 
+the coefficients involving cabinet size in the seventies, and the coefficients in- 
+volving coalition size in the eighties. As one can see, no single country has an 
+overwhelming influence on the coefficients and their significance. The exclu- 
+
+=== page PDF 14 ===
+Table 4.2 
+The Role of Time- and Country-Fixed Effects 
+ADEF 
+AEXP 
+ADEF 
+AEXP 
+ADEF 
+AEXP 
+ADEF 
+AEXP 
+1974-83 
+1974-83 
+1984-95 
+1984-95 
+1974-83 
+1974-83 
+1984-95 
+1984-95 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+NPC 
+NSM 
+NPC*DY 
+NSM*DY 
+DY 
+DU 
+INFL 
+R2 
+N 
+- .06 
+(-0.70) 
+.I2 
+(2.73) 
+.04 
+(1.40) 
+- .03 
+(-2.74) 
+.17 
+(1.07) 
+.27 
+(1.91) 
+- .06 
+(-2.45) 
+.33 
+195 
+.05 
+(0.76) 
+.I3 
+(3.64) 
+- .02 
+(-0.72) 
+- .02 
+(-2.09) 
+- .06 
+(-0.46) 
+.06 
+(0.58) 
+.01 
+(0.30) 
+.55 
+195 
+.04 
+(0.46) 
+- .03 
+(-0.50) 
+- .04 
+(- 1.69) 
+-.01 
+(-0.35) 
+- .06 
+(-0.27) 
+3 8 
+(3.34) 
+- .03 
+(- 1.20) 
+239 
+.39 
+.06 
+(0.91) 
+- .03 
+(-0.75) 
+- .04 
+(-2.11) 
+.01 
+(0.78) 
+-.37 
+(-2.26) 
+.07 
+(0.82) 
+- .02 
+(-0.83) 
+.57 
+239 
+.07 
+(0.43) 
+.15 
+(1.34) 
+.01 
+(0.47) 
+- .02 
+(- 1.29) 
+- .04 
+(-0.20) 
+.22 
+( 1.34) 
+- .04 
+(-0.80) 
+.10 
+195 
+.I4 
+(1.03) 
+.14 
+(1.68) 
+- .02 
+(-0.78) 
+.oo 
+-.34 
+(-2.27) 
+- .03 
+(-0.23) 
+.02 
+(0.50) 
+.41 
+(0.00) 
+195 
+.37 
+(2.11) 
+.16 
+( 1.25) 
+- .04 
+(-1.50) 
+- .02 
+(-0.94) 
+.oo 
+(0.00) 
+.35 
+(3.10) 
+-.01 
+(-0.16) 
+.33 
+239 
+.16 
+(1.16) 
+.16 
+(1.62) 
+- .04 
+(- 1.88) 
+.oo 
+(0.14) 
+- .35 
+(- 1.99) 
+.05 
+(0.61) 
+.01 
+(0.26) 
+.53 
+239 
+Note: Columns 1 to 4: only year dummies; columns 5 to 8: only country dummies. See also note to table 4.1. 
+
+=== page PDF 15 ===
+Table 4.3 
+Sensitivity Analysis of the Country Sample 
+Dependent variable 
+ADEF 
+AEXP 
+ADEF 
+AEXP 
+Period 
+1974-83 
+1974-83 
+1984-95 
+1984-95 
+Coefficient 
+NSM 
+NSM*DY 
+NSM 
+NSM*DY 
+NPC 
+NPC*DY 
+NPC 
+NPC*DY 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+Maximum p-value, Individual Significance 
+Coefficient estimate 
+.21 
+- .02 
+.24 
+- .01 
+.42 
+.oo 
+.22 
+- .02 
+Maximum p-value 
+0.10 
+0.07 
+0.01 
+0.61 
+0.02 
+0.36 
+0.11 
+0.52 
+Country excluded 
+FRA 
+IRE 
+FRA 
+CHE 
+FIN 
+DNK 
+FIN 
+FIN 
+Maximum p-value, Joint Significance 
+Coefficient estimate 
+.19 
+- .03 
+.24 
+- .02 
+.42 
+- .03 
+.22 
+- .03 
+Maximum p-value 
+0.05 
+0.02 
+0.07 
+0.33 
+Country excluded 
+BEL 
+FRA 
+FIN 
+FIN 
+Greece, Portugal, Spain, United States Excluded 
+Coefficient estimate 
+.I8 
+- .03 
+.I9 
+- .02 
+.28 
+- .02 
+.14 
+- .02 
+p-value 
+0.10 
+0.02 
+0.01 
+0.04 
+0.11 
+0.41 
+0.26 
+0.31 
+p-value, joint 
+0.03 
+0.01 
+0.27 
+0.44 
+Greece, Portugal Excluded 
+Coefficient estimate 
+.20 
+~ .03 
+.20 
+- .02 
+.32 
+- .03 
+.19 
+- .03 
+p-value, joint 
+0.02 
+0.00 
+0.14 
+0.17 
+p-value 
+0.05 
+0.03 
+0.00 
+0.04 
+0.06 
+0.22 
+0.13 
+0.11 
+Note: First panel: each column reports the maximum p-value (second line) and the corresponding point estimate (first line) of the coefficient indicated at the top of 
+the column, out of the 19 regressions estimated by dropping one country at a time. The third line reports the country excluded. Second panel: same as in the first 
+panel, except that the reported maximum p-value is that of a test of a joint significance of the two coefficients. Third panel: Greece, Portugal, Spain, and United States 
+excluded. Fourth panel: Greece, Portugal excluded. See also note to table 4.1. 
+
+=== page PDF 16 ===
+95 
+Government Fragmentation and Fiscal Policy Outcomes 
+sion of France causes the p-value of the coefficient of NSM in the deficit re- 
+gression of the seventies to become significant only at the 10 percent level, and 
+so does the exclusion of Finland to the coefficient of NPC in the expenditure 
+regression of the eighties. But the coefficient of NSM in the expenditure re- 
+gression of the seventies and the coefficient of NPC in the deficit regression of 
+the eighties are always well below the 5 percent significance level. The point 
+estimates of the relevant coefficients are also remarkably close to the bench- 
+mark estimates of table 4.2. 
+The picture is slightly different for the interactive terms. The exclusion of 
+just one country makes the coefficient of NSM*DY in column 4 or the coeffi- 
+cient of NPC*DY in column 8 lose its statistical significance, with p-values of 
+.61 and .52, respectively. Although we report only the highest p-value, corre- 
+sponding to the exclusion of Finland, the interactive term NPC*DY becomes 
+insignificant when just one of several other countries is excluded. 
+Although the interactive terms do appear to be sensitive to the inclusion 
+of individual countries, one could argue that what matters is really the joint 
+significance of the coefficients of the fragmentation variable and its interactive 
+term. The second panel of table 4.3 reports maximum p-values for tests of the 
+joint significance of the two coefficients listed at the top of the table, together 
+with the associated excluded country. The coefficients of NSM and NSM*DY 
+are always jointly significant, with a maximum p-value of .05. By contrast, 
+when Finland is excluded, the coefficients of NPC and NPC*DY have a joint 
+significance level of about .07 and .33 in the deficit and expenditure regres- 
+sions. Thus, the analysis of the joint significance gives a considerably more 
+robust impression than the analysis of the individual coefficients. 
+Recall that, in constructing our data set of political and institutional vari- 
+ables, for four countries-Greece, Portugal, Spain, and the United States-we 
+had to use a different source than for all the others. In addition, one could 
+question the inclusion of the first three countries, on the ground that they were 
+not democracies until the mid-l970s, and of the United States, on the ground 
+that it is not a parliamentary regime and therefore the notion of coalition size 
+is somewhat less clear cut. The criticism concerning Greece, Portugal, and 
+Spain hardly applies to the regressions we have presented, since they cover the 
+period 1974-95, and therefore include very few years of nondemocratic re- 
+gime in these countries. However, the role of these countries still warrants fur- 
+ther investigation, albeit for a different reason: the fiscal data of Greece and 
+Portugal are widely regarded to be somewhat less reliable than those of the 
+other countries, particularly in the early part of the sample.'O 
+When the basic benchmark regression is estimated without the four coun- 
+tries (see the third panel of table 4.3), one finds that the coefficients of NSM 
+and NSM*DY are robust, but once again the coefficients of NPC are much 
+less so: both the coefficient estimates and their significance drop drastically. 
+10. For instance, Portugal revalued its gold reserves in the mid-1970s. causing a large change 
+in the deficit. 
+
+=== page PDF 17 ===
+96 
+Yianos Kontopoulos and Roberto Perotti 
+On further investigation, one finds that this result is mostly due to precisely 
+the two countries mentioned above: Portugal and Greece. It is sufficient to 
+exclude these two countries (as in the last panel of table 4.3) for the p-value of 
+NPC in both the expenditure and deficit regressions to rise to .06 and .23, 
+respectively, and for the p-value for the joint significance of NPC and 
+NPC*DY to rise to .14 and .17. 
+Whether these are considered gross violations of the benchmark results with 
+the whole sample is largely a subjective matter. Two countries represent more 
+than 20 percent of the sample, and they might contain useful information that 
+should not be wasted. Nevertheless, a conservative conclusion from this pre- 
+liminary robustness analysis is that the role of cabinet size appears much more 
+robust than the role of coalition size, in particular as concerns the asymmetric 
+role of fragmentation in good and bad times. 
+4.5.3 
+In tables 4.4 and 4.5 we explore the robustness of our results to alternative 
+constructions of the fiscal variables on the left-hand side. Some sensitivity to 
+the specific construction of the dependent variables has emerged in the litera- 
+ture on government weakness.Ii In addition, in a large part of the existing liter- 
+ature the dependent variable is defined as the change in net or gross debt, rather 
+than the deficit or its components. 
+We start in table 4.4 by considering three alternative constructions of the 
+aggregate expenditure variable on the left-hand side, and in all cases we focus 
+on aggregate expenditure in the last two decades, where, as we have seen, most 
+of the action is concentrated. In the first two columns the dependent variable 
+is in levels, and we obviously control for the lagged value of the dependent 
+variable on the right-hand side.12 Not surprisingly, given the very high persis- 
+tence of the data, the coefficient of the latter is very close to 1, with only a 
+marginal change in the coefficients of the variables of interest, NSM in the 
+seventies and NPC in the eighties. 
+In the next two columns, the dependent variable is defined as the change in 
+the real per capita values of expenditure divided by the previous year’s real per 
+capita GDP. One advantage of this procedure is that it eliminates movements 
+in the dependent variable that are due exclusively to changes in GDP. For in- 
+stance, suppose in yearfthe government takes no action on expenditure. Still, 
+if there is a fall in GDP, the change in the expenditure/GDP ratio would show 
+a substantial increase in the dependent variable, although the government did 
+not intend to make any change to its expenditure policy.i3 
+Alternative Definitions of the Dependent Variables 
+11. De Haan and Sturm (1994) survey these results. 
+12. As is well known, including both a lagged dependent variable and country-fixed effects in 
+panel regressions generates inconsistent estimates. We do not address this problem here. 
+13. Because the numerator-particularly 
+when the variable in question is revenues-is 
+also 
+sensitive to changes in GDP, this definition of the dependent variable makes even more sense when 
+the fiscal variables are cyclically adjusted: see Kontopoulos and Perotti 1997. 
+
+=== page PDF 18 ===
+97 
+Government Fragmentation and Fiscal Policy Outcomes 
+Table 4.4 
+Sensitivity Analysis of the Expenditure Definition 
+AEXP 
+AEXP 
+AEXP 
+AEXP 
+AEXP 
+AEXP 
+1974-83 
+1984-95 
+1974-83 
+1984-95 
+1974-83 
+1984-95 
+(1) 
+(2) 
+(3) 
+(4) 
+( 5 ) 
+(6) 
+NSM 
+.35 
+(3.68) 
+NPC*DY 
+.01 
+(0.25) 
+NSM*DY 
+- .02 
+(- 1.49) 
+DY 
+-.32 
+(- 1.89) 
+DU 
+.08 
+(0.49) 
+INFL 
+-.13 
+.04 
+(0.30) 
+- .09 
+(-3.62) 
+.01 
+(0.29) 
+- .40 
+(-1.85) 
+.20 
+(1.72) 
+-.I6 
+.28 
+(3.30) 
+.02 
+(0.86) 
+- .02 
+(- 1.59) 
+.07 
+(0.47) 
+-.05 
+(-0.41) 
+-.I2 
+.12 
+( 1.07) 
+~ .03 
+(- 1.49) 
+- .oo 
+(-0.15) 
+.08 
+(0.44) 
+- .04 
+( -0.37) 
+- .05 
+NPC 
+- .03 
+.42 
+- .05 
+.27 
+-.I4 
+(-0.23) 
+(2.58) 
+(-0.36) 
+(1.88) 
+(-0.38) 
+.84 
+(3.48) 
+.06 
+(0.91) 
+- .05 
+- 1.53) 
+.19 
+(0.46) 
+- .06 
+-0.14) 
+-.35 
+(-2.86) 
+(-2.94) 
+(-2.49) 
+(-0.09) 
+(-2.98) 
+EXP,_, 
+.23 
+.8 1 
+(24.19) 
+(30.21) 
+R2 
+.99 
+.99 
+.32 
+.I7 
+.38 
+N 
+195 
+234 
+224 
+239 
+195 
+.66 
+( 1.74) 
+.27 
+(0.91) 
+- .06 
+(-1.14) 
+- .01 
+(-0.35) 
+.29 
+(39) 
+-.I0 
+(-0.39) 
+-.16 
+(1.29) 
+.15 
+239 
+Note: Columns 1 and 2: dependent variable is level of expenditures, EXP,, instead of first difference; 
+columns 3 and 4: dependent variable is the change in the real, per capita values of expenditure divided by 
+the previous real, per capita GDP columns 5 and 6: dependent variable is the change in the logarithm of 
+expenditures. See note to table 4.1. 
+As one can see, once again the basic picture remains unchanged relative to 
+the benchmark estimates of table 4.1, even though the coefficient of NPC in 
+the eighties is no longer significant at the 5 percent level. Exactly the same 
+conclusion applies to the last two columns of table 4.4, where the dependent 
+variable is defined as the change in the logarithms of aggregate expenditure. 
+Thus, overall table 4.4 confirms both the robustness of the coefficient of NSM 
+in the seventies, and the picture of a somewhat less robust coefficient of NPC 
+in the eighties. 
+In table 4.5 the dependent variable is the change in the debt/GDP ratio. In 
+principle, the overall budget deficit should correspond exactly to the change in 
+net debt. In practice, the difference between the two measures can be substan- 
+tial, for many reasons. One can argue that the change in net debt better captures 
+the overall stance of fiscal policy as it is actually realized, independently of 
+how it is recorded in the official accounts. This is presumably the motivation 
+for using this variable in Roubini and Sachs 1989a,b. On the other hand, one 
+can also argue that the flow variable, the deficit, better captures the develop- 
+ments in fiscal policy that are under the control of the current policymaker; for 
+instance, the net debt differs from the deficit because of, among other things, 
+changes in arrears. In addition, to evaluate net debt directly (rather than from 
+
+=== page PDF 19 ===
+98 
+Yianos Kontopoulos and Roberto Perotti 
+Table 4.5 
+Sensitivity Analysis of the Fiscal Deficit Definition 
+ADEBT 
+ADEBT 
+ADEBT 
+ADEBT 
+ADEBT 
+ADEBT 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+1960-95 
+1974-83 
+1984-95 
+1960-95 
+1974-83 
+1984-95 
+NPC 
+NSM 
+NPC*DY 
+NSM*DY 
+DY 
+DU 
+INFL 
+R2 
+N 
+- .23 
+(-0.95) 
+.15 
+(0.93) 
+.oo 
+(0.1 I) 
+.05 
+(-1.72) 
+.47 
+(1.37) 
+.46 
+( 1.98) 
+- .28 
+(-3.28) 
+.33 
+38 1 
+- .62 
+(-1.71) 
+-.15 
+(-0.61) 
+.09 
+(1.20) 
+- .06 
+(-1.54) 
+.24 
+(0.49) 
+- .02 
+(-0.06) 
+- .26 
+(-2.28) 
+.37 
+157 
+.46 
+(1.06) 
+.3 1 
+(0.93) 
+.oo 
+(0.02) 
+- .07 
+(- 1.46) 
+.86 
+(1.39) 
+.75 
+(2.51) 
+- .46 
+(-2.36) 
+.40 
+188 
+.I8 
+(0.68) 
+.ll 
+(0.60) 
+- .08 
+(-1.72) 
+p.01 
+(-0.19) 
+- .05 
+(-0.14) 
+.90 
+(3.80) 
+-.17 
+(-2.25) 
+.32 
+423 
+- .34 
+(-0.91) 
+- .06 
+(-0.24) 
+.oo 
+(0.01) 
+-.01 
+(-0.27) 
+-.18 
+(-0.42) 
+.62 
+(1.71) 
+-.39 
+(-3.67) 
+.45 
+163 
+1.36 
+(2.97) 
+.05 
+(0.14) 
+-.13 
+(-1.88) 
+- .03 
+(-0.56) 
+.3 1 
+(.48) 
+1.02 
+(3.18) 
+-.30 
+(-1.94) 
+.39 
+239 
+Note: Columns 1 to 3: dependent variable is change in the net debt/GDP ratio; columns 4 to 6: dependent 
+variable is change in the gross deht/GDP ratio. See also note to table 4.1. 
+the flow) one must measure changes not only in liabilities but also in the assets 
+of the government, often a highly speculative exercise, with the result that the 
+amount of noise is likely to be much higher than for the deficit. Finally, using 
+the change in net debt rather than the deficit causes a drastic fall in the number 
+of observations available for our regressions-a 
+total of 38 1 in the first column 
+of table 4.5, against the 641 of the deficit regression in the first column of 
+table 4.1. 
+In fact, when we use the change in the net debt/GDP ratio we find that the 
+coefficients of both NPC and NSM lose all significance in the whole sample 
+and in each of the last two decades (columns 2 and 3 of table 4.5). In view of 
+our previous discussion, we believe these results simply suggest that one 
+should not use the net debt/GDP ratio as a dependent variable in this kind 
+of regression. 
+Some authors (e.g., de Haan and Sturm 1994) also use the change in the 
+gross debt/GDP ratio as dependent variable. The advantages of this variable 
+are that it is slightly more widely available than net debt, and especially that it 
+avoids the type of measurement problems involved in any measure of govern- 
+ment assets. On the other hand, the change in gross debt does not correspond 
+to any meaningful variable under the control of the policymaker: theoretically, 
+any change in gross debt is consistent with a given deficit, and vice versa. 
+Columns 4 to 6 of table 4.5 report estimates with the change in the gross debt/ 
+GDP ratio as the dependent variable. We still find mostly insignificant coeffi- 
+
+=== page PDF 20 ===
+99 
+Government Fragmentation and Fiscal Policy Outcomes 
+cients everywhere, except the coefficient of NPC in the last decade, which is 
+positive, significant, and extremely large. In fact, the point estimate is suspi- 
+ciously large, which in our view reinforces our position on the problems with 
+this variable. As an example, the OECD data on gross debt that we use imply 
+a change in the gross debt/GDP ratio of 20.5 percent in 1993 in Finland, a 
+figure that we find it hard to attribute any macroeconomic significance to since 
+in the same year the measured budget deficit was only 5.8 percent of GDP. 
+This and other similar values in the nineties in several countries contribute to 
+the implausible estimate of 1.26 for the coefficient of NPC in the last decade. 
+Once again, in view of the lack of theoretical motivation for the use of gross 
+debt, and in view of the serious measurement problems it involves, we consider 
+these results mostly as a warning against using this variable. 
+4.5.4 The Definition of Difficult Times 
+One novelty in our approach is a systematic investigation of the importance 
+of political factors in periods of macroeconomic distress. In the basic results 
+of table 4.1 we found some support for the notion that fragmentation is a partic- 
+ularly important determinant of fiscal outcomes in difficult times. Table 4.6 
+explores the robustness of this finding. 
+In the first two columns, we interact NPC and NSM with a measure of the 
+GDP gap rather than with the rate of growth of GDP. This variable, provided 
+by the OECD, measures the percentage deviation of GDP from some measure 
+of potential output. The results confirm the usual pattern-the 
+coefficients of 
+NSM in the 1970s are much more robust than the coefficients of NPC in the 
+1980s. In the former case, the interactive term if anything becomes more sig- 
+nificant; in the latter case, both coefficients of NPC become insignificant. 
+Columns 3 and 4 present a different specification. We now divide the sample 
+into “good” and “bad” times; the former are defined as years where growth 
+was more than one standard deviation above the country-specific average; the 
+latter as all other years. We then allow for a different coefficient for NSM and 
+NPC in “bad” and in “good” times. The results broadly confirm our previous 
+findings: in the expenditure regression in the 1970s, only NSM is significant, 
+and there is virtually no difference in the coefficients of this variable in “bad” 
+and “good” times. In the expenditure regression in the 1980s, the coefficient 
+of NPC is significant only in bad times, confirming the earlier result that there 
+seems to be a significant role of NPC in bad times. 
+4.6 
+Conclusions 
+Our main purpose in this chapter was go beyond existing investigations of 
+the effects of political variables on fiscal outcomes by distinguishing and test- 
+ing two alternative notions of fragmentation, which have equal theoretical sta- 
+tus. To do so, we strove to define all our variables quantitatively, so that we 
+could measure them as objectively as possible. 
+
+=== page PDF 21 ===
+100 
+Yianos Kontopoulos and Roberto Perotti 
+Table 4.6 
+Sensitivity Analysis of the Definition of Difficult Times 
+AEXP 
+AEXP 
+AEXP 
+AEXP 
+1974-83 
+1984-95 
+1974-83 
+1984-95 
+(1) 
+(2) 
+(3) 
+(4) 
+NPC 
+NSM 
+NPC*DY 
+NSM*DY 
+NPC*GOOD 
+NPC*BAD 
+NSM*GOOD 
+NSM*BAD 
+DY 
+DU 
+INFL 
+p-value, difference 
+between 
+NPC*GOOD 
+and NPC*BAD 
+p-value, difference 
+between 
+NSM*GOOD 
+and NSM*BAD 
+R2 
+N 
+.o 1 
+(0.10) 
+.20 
+(2.20) 
+- .oo 
+(-0.46) 
+- .oo 
+(-1.74) 
+.oo 
+(1.46) 
+.45 
+(2.62) 
+- .03 
+(-0.73) 
+.25 
+(1.61) 
+.10 
+(0.87) 
+-.00 
+(-0.14) 
+- .oo 
+(-0.68) 
+.oo 
+(0.82) 
+.54 
+(4.64) 
+.02 
+(0.38) 
+-.08 
+(0.49) 
+.10 
+(.46) 
+.22 
+(0.00) 
+.2 1 
+(0.01) 
+-.32 
+(0.00) 
+.04 
+(0.76) 
+-.11 
+(0.00) 
+.15 
+.36 
+.08 
+(-1.14) 
+.04 
+(-0.35) 
+-.36 
+(-1.14) 
+(-0.35) 
+(59) 
+.03 
+(-0.39) 
+- .05 
+(1.29) 
+0.34 
+0.05 
+0.01 
+0.15 
+.36 
+.36 
+.59 
+.59 
+185 
+228 
+195 
+239 
+Note: Columns 1 and 2: DY is the GDP gap from potential output, OECD definition; columns 3 and 4: 
+GOOD is a dummy variable with a value of 1 for years with growth more than one standard deviation 
+above the country-specific average; BAD is a dummy capturing all other years; columns 3 and 4: values 
+in parentheses are probability values of the t-statistics. See note to table 4.1. 
+Of the two notions, the first one is fairly traditional, although we measure it 
+differently from the existing literature and identify fragmentation with the 
+number of parties. The second is new in the literature and identifies fragmenta- 
+tion with the number of spending ministers. 
+Our empirical investigation reveals that this distinction was worthwhile: the 
+number of spending ministers has a strong and very robust effect on expendi- 
+ture, particularly during the period that includes the large macroeconomic 
+
+=== page PDF 22 ===
+101 
+Government Fragmentation and Fiscal Policy Outcomes 
+shocks of the seventies and early eighties. The number of parties in the coali- 
+tion has also a statistically significant association with expenditure, but it ap- 
+pears only in the last decade and it seems also to be far less robust. 
+We believe our results are plausible and have one potentially important pol- 
+icy implication. The size of the ruling coalition is the result of the electoral 
+system and of the characteristics of the whole political system; for these rea- 
+sons, even if one found that coalition size is an important determinant of fiscal 
+outcomes, realistically this finding would have limited policy implications be- 
+cause its causes would be very hard to modify. 
+By contrast, typically the number of spending ministers is not fixed in the 
+constitution, and within certain limits it is unlikely to be a politically charged 
+issue. In fact, in many circumstances reducing the number of spending minis- 
+ters is likely to be a very popular move, with the public at large if not with the 
+party apparatus. Thus, our findings suggest that reducing the number of spend- 
+ing ministers could be a feasible and even popular institutional reform with a 
+potentially significant impact on expenditure. 
+References 
+Alesina, A,, and A. Drazen. 1991. Why are stabilizations delayed? American Economic 
+Review 81: 1170-88. 
+Alesina, A,, and R. Perotti. 1995. The political economy of budget deficits. IMF Stafs 
+Papers 42 (March): 1-3 1. 
+Bruno, M., and S. Fischer, eds. 1993. Lessons of economic stabilization and its after- 
+math. Cambridge, Mass.: MIT Press. 
+de Haan, J., and T. E. Sturm. 1994. Political and institutional determinants of fiscal 
+policy in the European Community. Public Choice 80: 157-72. 
+Drazen, A., and V. Grilli. 1993. The benefits of crises for economic reforms. American 
+Economic Review 83:598-607. 
+Edin, P., and H. Ohlsson. 1991. Political determinants of budget deficits: Coalition ef- 
+fects versus minority effects. European Economic Review 35: 1597-1603. 
+Grilli, V., D. Masciandaro, and G. Tabellini. 1991. Political and monetary institutions 
+and public financial policies in the industrial countries. Economic Policy 13:341-92. 
+Inman, R. P. 1996. Do balanced budget rules work? U.S. experience and possible les- 
+sons for the EMU. NBER Working Paper no. 5838. Cambridge, Mass.: National 
+Bureau of Economic Research. 
+Kontopoulos, Y., and R. Perotti. 1997. Fiscal fragmentation. Columbia University. Pho- 
+tocopy. 
+Lane, P., and A. Tornell. 1996. Power, growth, and the voracity effect. Journal of Eco- 
+nomic Growth 1 (2): 213-41. 
+Perotti, R. 1998. Fiscal policy in good times and bad times. Columbia University. Pho- 
+tocopy. 
+Poterba, J. 1994. State responses to fiscal crises: The effects of budgetary institutions 
+and politics. Journal of Political Economy 102:799-821. 
+Roubini, N., and T. D. Sachs. 1989a. Government spending and budget deficits in the 
+industrialized countries. Economic Policy 8:99-132. 
+
+=== page PDF 23 ===
+102 
+Yianos Kontopoulos and Roberto Perotti 
+. 1989b. Political and economic determinants of budget deficits in the industrial 
+democracies. European Economic Review 33:903-38. 
+Shepsle, K., and B. Weingast. 1981. Political preferences for the pork barrel: A general- 
+ization. American Journal of Political Science 25 (1): 96-1 11. 
+Spolaore, E. 1993. Policy making systems and economic efficiency: Coalition govern- 
+ments versus majority governments. European Centre for Advanced Research in Eco- 
+nomics. Photocopy. 
+Tabellini, G., and A. Alesina. 1990. Voting on the budget deficit. American Economic 
+Review 80:37-49. 
+Tommasi, M., and A. Velasco. 1996. Where are we in the political economy of reform? 
+Journal of Policy Reform 1 (April). 
+Velasco, A. 1995. The common property approach to fiscal policy. New York Univer- 
+sity. Photocopy. 
+Weingast, B., K. Shepsle, and C. Johnsen. 1981. The political economy of benefits and 
+costs: A neoclassical approach to redistributive politics. Journal of Political Econ- 
+omy 89:642-64. 
+Woldendorp, T., H. Keman, and I. Budge. 1993. A compilation of political data on 
+industrialized parliamentary democracies. European Journal of Political Research 
+24: 1-120. 

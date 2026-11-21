@@ -1,0 +1,1885 @@
+
+=== page 1 ===
+EUROPEAN 
+ECONOMY
+Economic Papers 506 | October 2013
+Fiscal consolidations 
+and spillovers in the Euro area 
+periphery and core 
+Jan in ‘t Veld 
+Economic and 
+Financial Affairs
+ISSN 1725-3187
+
+=== page 2 ===
+ 
+Economic Papers are written by the Staff of the Directorate-General for Economic and Financial 
+Affairs, or by experts working in association with them. The Papers are intended to increase awareness 
+of the technical work being done by staff and to seek comments and suggestions for further analysis. 
+The views expressed are the author’s alone and do not necessarily correspond to those of the European 
+Commission. Comments and enquiries should be addressed to: 
+ 
+European Commission 
+Directorate-General for Economic and Financial Affairs 
+Publications 
+B-1049 Brussels 
+Belgium 
+E-mail: Ecfin-Info@ec.europa.eu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This paper exists in English only and can be downloaded from the website 
+ec.europa.eu/economy_finance/publications  
+ 
+A great deal of additional information is available on the Internet. It can be accessed through the 
+Europa server (ec.europa.eu) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KC-AI-13-506-EN-N 
+ISBN 978-92-79-32333-1 
+doi: 10.2765/54451 
+ 
+© European Union, 2013 
+
+=== page 3 ===
+European Commission 
+Directorate-General for Economic and Financial Affairs 
+ 
+Fiscal consolidations and spillovers in the Euro 
+area periphery and core 
+ 
+Jan in 't Veld 
+ 
+Abstract  
+This paper uses a structural multi-country model to assess the impact of fiscal consolidation 
+measures undertaken in 2011-13 in the EA periphery and core. The simulations assume 'crisis' 
+conditions prevailing (high share of constrained households, ZLB). The GDP effects depend 
+crucially on the composition of the consolidation and on how quickly expectations are affected. 
+Expenditure-based consolidations have larger impact multipliers than revenue-based 
+consolidations. Average multipliers for domestic fiscal shocks range from 0.5 and 1, depending 
+on the degree of openness. But spillovers of fiscal consolidations are large, with both the 
+demand channel and the competitiveness channel adding to the negative GDP effects. Higher 
+risk premia add further to the negative GDP effects. Spillovers from consolidations in Germany 
+and core EA have worsened the overall economic situation. A temporary fiscal stimulus in 
+surplus countries can boost output and help reduce their current account surpluses. The 
+improvement in current account deficits in the periphery is however small. 
+ 
+JEL Classification: E21; E62; F42; H31; H63 
+Keywords: Fiscal Policy, Fiscal Consolidations, Fiscal Multipliers. 
+ 
+* The views expressed in this paper are those of the author and should not be attributed to the European 
+Commission. 
+This version: 20 August 2013 
+ 
+Address: CHAR 14/245, European Commission, B-1049 Brussels, Belgium.  
+Email: jan.intveld@ec.europa.eu 
+ 
+ 
+ 
+EUROPEAN ECONOMY 
+Economic Papers 506 
+
+=== page 4 ===
+1 
+ 
+ 
+1. Introduction 
+ 
+Sizeable fiscal consolidation measures have been introduced in European countries in 
+recent years, and although the pace of consolidation is expected to slowdown, many 
+countries will continue to see further consolidations in the near future.  Highly indebted 
+periphery countries were forced into taking wide ranging austerity measures, having lost 
+access to the financial markets, and facing the risk that a slower pace of consolidation 
+would raise fears of sovereign default, with possibly worse economic consequences.1 
+However, the impact of the austerity measures on growth remains a major concern. The 
+process of public deleveraging coincided with private sector deleveraging and has further 
+intensified the crisis. Fiscal multipliers are larger at the current juncture than in normal 
+times, due to stronger financial constraint and interest rates being constrained by the zero 
+lower bound. 2 Output effects are also significantly larger as consolidations occurred 
+simultaneously, which led to significant spillovers across the euro area.  This in turn has 
+led to calls for stronger differentiation, and for temporary stimulus measures in countries 
+not facing financial market pressure. 
+ 
+This paper gives a model-based assessment of the macro-economic impact of the 
+consolidations in the periphery and core EA countries over the last three years, 2011-13. 
+It uses the Commission's QUEST model and considers 7 countries separately: Germany, 
+France, Italy, Spain, Ireland, Portugal and Greece, and the remainder of the euro area as 
+one aggregate block. 3 It particularly focuses on the cross-country spillover effects and 
+shows these can be large.  The scenarios assume crisis conditions prevailing, with a 
+higher share of households that are liquidity-constrained than in 'normal' times – set to  
+half as opposed to 0.3-0.4 estimated over past periods - and interest rates constrained by 
+their zero interest rate floor for the length of 4 years. The first section shows how the 
+composition of the consolidation matters, with larger impact multipliers for expenditure-
+based consolidations (illustrated for the case of Spain). Following sections then extend 
+the analysis to other countries and assess the spillover effects of simultaneous 
+consolidations, based on changes in primary structural balances over 2011-13. As 
+detailed information on the exact composition of consolidations is lacking, it is assumed 
+these were across the board proportionally balanced. Different spillover channels are 
+distinguished. Those related to demand and competitiveness effects are reinforcing the 
+negative GDP effects. Contagion of risk spreads can further reinforce the negative 
+spillovers. In the case of successive consolidations, the debt-to-GDP ratio initially 
+increases and only starts to decline in later years, but given the size of the consolidations 
+these later falls are substantial. The increase in the first years leads in the model set-up, 
+which assumes myopia in the financial markets, also to an increase in the sovereign risk 
+premium, albeit small. If contagion of these sovereign risk spreads is assumed, the 
+negative GDP effects are larger. The final section looks at the effects of a temporary 
+stimulus in Germany and other core AAA-rated member states and shows the positive 
+spillovers to the periphery. 
+ 
+                                                 
+1 Corsetti et al (2012), Roeger and in 't Veld (2013). 
+2 E.g. Christiano et al (2011), Coenen et al. (2012), Roeger and in 't Veld (2010) and empirical evidence in 
+e.g. Auerbach and Gorodnichenko (2012), Almunia et al. (2010). 
+3 The model structure is described in Roeger and in 't Veld (2010) and is similar to the QUEST model used 
+in Coenen et al. (2012). For references on the QUEST model, see: 
+http://ec.europa.eu/economy_finance/research/macroeconomic_models_en.htm 
+
+=== page 5 ===
+2 
+ 
+ 
+ 
+2. Cross-country spillovers  
+ 
+Cross border spillovers have exacerbated the negative effects of consolidations. This 
+section examines the spillover effects of successive fiscal consolidations. The first 
+subsection takes the case of Spain and illustrates the spillover channels by comparing 
+expenditure-based and revenue-based consolidations. Then the second subsection 
+summarises the GDP spillovers for balanced-composition consolidations for each of the 
+other countries.  
+ 
+In general the following types of spillovers can be considered: 
+ 
+1. Demand spillovers that result from policy action in one country (growth-reducing 
+fiscal consolidations) influencing import and export flows with partner economies. As 
+consolidation measures reduce growth and domestic demand, measures undertaken in 
+one country have a negative demand spillover effect on other countries. 
+ 
+2. Competitiveness effects, resulting from e.g. deflationary policy shocks putting  
+downward pressure on prices and wages and improving its competiveness, but which 
+represent a negative spillover for competing countries, possibly reinforcing the negative 
+demand spillover. 
+ 
+3. International financial flows caused by reforms in one country having effects on 
+other countries. For example, reforms which reduce the rate of return on capital can lead 
+to capital outflows until rates of return are equalised internationally. Movements of the 
+exchange rate associated with international capital flows can induce further trade flows. 
+ 
+These spillovers are captured endogenously in model simulations. A potential additional 
+spillover that is not endogenously captured in the simulations is related to possible 
+contagion of risk premia. The sovereign debt crisis has shown how other factors, e.g 
+uncertainties related to feedback effects between banks and sovereigns and the contingent 
+liabilities of the public sector, and perceived redenomination risks, can contribute to 
+deviations of sovereign borrowing costs from their long-run equilibrium levels. In the 
+model simulations government bond yields depend on the domestic current debt-to-GDP 
+ratio and the yields follows a similar path to debt profiles. To the extent that 
+consolidation measures initially increase debt-to-GDP ratios risk premia increase in 
+model simulations in the short run, while they decline sharply in the medium run as debt 
+ratios fall. But these depend on each country's own debt-to-GDP ratio and, as the 
+parameterisation assumes a relatively small effect, based on available empirical 
+estimates, the increase in risk premia is relatively small. The first scenarios presented 
+here include no additional cross correlations of sovereign risk premia, but section 4 
+describes a scenario where these effects are added in a simulation over the 2011-13 
+period. 
+
+=== page 6 ===
+3 
+ 
+2.1  Expenditure- vs. revenue-based consolidations in Spain  
+ 
+Expenditure-based consolidations have larger impact multipliers than revenue-based 
+consolidations. 4 Figure 1 illustrates this and shows the GDP impact for three successive 
+consolidation rounds of 1% of GDP per year for expenditure- and revenue-based 
+consolidations, assuming gradual learning. 5 For revenue-based consolidations, the 
+impact multiplier for Spain is around 0.5, for expenditure-based consolidations around 
+1.1, and for a balanced-composition consolidation around 0.8. While the GDP impact is 
+larger for expenditure-based consolidations, this reverses in the medium-run, and 
+revenue-based consolidations have a more negative impact in the long run. 
+ 
+ 
+Figure 1. GDP impact of successive consolidations in Spain of 1% of GDP  
+ 
+Note: percent difference from baseline.  
+ 
+ 
+Table 1 shows the macroeconomic effects for Spain and GDP spillovers to other member 
+states. The two main spillover channels are through demand and competitiveness effects. 
+Austerity measures reduce domestic imports. For partner countries this means lower 
+export demand. This demand effect can be reinforced by competiveness effects. 
+Consolidations are deflationary, and improve competiveness in the consolidating country 
+(an increase in real effective exchange rate is a depreciation). Under the assumption of no 
+nominal interest rate response to the fiscal consolidation, the nominal exchange rate also 
+appreciates. Revenue-based consolidations include measures that raise prices and 
+improve competitiveness by less (real effective exchange rate increases by less - see 
+Table 1.c). Hence, revenue-based consolidations lead to a smaller improvement in the 
+current account and spillovers to trading partners are smaller than for expenditure-based 
+consolidations. 
+ 
+Overall, GDP spillovers of a consolidation in Spain onto other trading partners are up to 
+10 percent of the domestic GDP effect, but about twice as large for Portugal. When the 
+consolidation becomes fully credible and uncertainty is resolved, there is a sharp 
+                                                 
+4 In the annex, short and long run GDP effects are shown for individual expenditure and revenue 
+instruments, for one-off permanent consolidations under the assumption of immediate credibility. 
+5 These scenarios assume crisis conditions prevailing, with the share of households that are liquidity-
+constrained set to one-half and interest rates constrained by their zero interest rate floor for the length 
+of 4 years. With multi-year consolidations, assumptions on how expectations are affected matter 
+greatly. In the scenarios shown here it is assumed expectations are initially based on past persistence of 
+fiscal policy shocks and their permanent nature only gains full credibility after three years. If 
+consolidations gain credibility earlier, the negative GDP effects can be considerably smaller. See 
+annex 2 for an illustration for Spain.  
+
+=== page 7 ===
+4 
+ 
+recovery in GDP in Spain. This reduces the negative demand spillover to trading 
+partners, and growth is further supported by an exchange rate depreciation, which 
+follows an initial appreciation.  
+ 
+ 
+Table 1 GDP spillovers of successive consoldiation of 1% of GDP for three years in Spain  
+ 
+a.  Balanced composition 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.79   -1.59   -2.34   -1.53   -0.84   -0.40   -0.07    0.18 
+EMPLOYMENT             -0.33   -0.66   -0.91   -0.11    0.71    1.27    1.68    1.99 
+CONSUMPTION            -0.74   -1.55   -2.30   -1.30   -0.42    0.02    0.30    0.51 
+INVESTMENT             -0.25   -0.56   -0.84   -2.53   -3.19   -2.82   -2.24   -1.68 
+EXPORTS                 0.02    0.10    0.22    1.11    1.72    2.16    2.49    2.74 
+IMPORTS                -0.72   -1.50   -2.30   -2.17   -2.08   -2.01   -1.94   -1.88 
+PRICE.LEVEL.GDP        -0.13   -0.44   -0.89   -1.60   -2.29   -2.85   -3.28   -3.63 
+CONSUMER.PRICE.LEVEL    0.38    0.62    0.72    0.21   -0.33   -0.78   -1.13   -1.40 
+REER                    0.10    0.32    0.63    1.51    2.23    2.80    3.24    3.57 
+NOM.EXCH.RATE          -0.06   -0.17   -0.36    0.06    0.06    0.04    0.00   -0.03 
+ 
+NOM.INT.RATE (PP)      -0.00   -0.00   -0.00   -0.00   -0.02   -0.04   -0.04   -0.05 
+SOV.SPREAD (pp)         0.01    0.00   -0.03   -0.11   -0.21   -0.31   -0.42   -0.54 
+UNEMPL.RATE (pp)        0.20    0.41    0.56    0.07   -0.44   -0.78   -1.04   -1.23 
+GOV.DEBT (% of GDP)     0.32    0.06   -0.93   -3.75   -6.87  -10.29  -14.01  -18.01 
+GOV.BAL (% of GDP)      0.72    1.48    2.33    2.92    3.51    3.99    4.40    4.79 
+CURRENT.ACC (% of GDP)  0.23    0.49    0.75    0.80    0.80    0.78    0.76    0.74 
+ 
+FISCAL.EFFORT(% of GDP) 1.00    2.00    3.00    3.00    3.00    3.00    3.00    3.00 
+ 
+Spillovers: 
+ 
+DEGDP                  -0.04   -0.11   -0.22    0.04    0.11    0.12    0.11    0.11 
+REAGDP                 -0.04   -0.11   -0.21    0.04    0.11    0.12    0.12    0.11 
+FRGDP                  -0.04   -0.12   -0.23    0.00    0.09    0.11    0.11    0.11 
+ITGDP                  -0.04   -0.11   -0.21    0.01    0.09    0.11    0.11    0.11 
+ESGDP                  -0.79   -1.59   -2.34   -1.53   -0.84   -0.40   -0.07    0.18 
+IEGDP                  -0.05   -0.14   -0.26    0.04    0.10    0.11    0.11    0.11 
+PTGDP                  -0.10   -0.24   -0.42   -0.18   -0.06   -0.00    0.03    0.06 
+ELGDP                  -0.04   -0.12   -0.24    0.01    0.10    0.12    0.12    0.12 
+ 
+ 
+ 
+b. Expenditure based consolidations 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -1.11   -2.15   -3.08   -1.83   -0.78    0.01    0.61    1.07 
+EMPLOYMENT             -0.30   -0.50   -0.55    0.80    2.15    3.15    3.92    4.50 
+CONSUMPTION            -0.53   -1.00   -1.39   -0.11    1.07    1.80    2.33    2.72 
+INVESTMENT             -0.30   -0.66   -0.95   -3.56   -4.42   -3.59   -2.44   -1.36 
+EXPORTS                 0.04    0.17    0.38    1.91    3.03    3.87    4.48    4.92 
+IMPORTS                -0.80   -1.64   -2.50   -2.53   -2.60   -2.52   -2.40   -2.28 
+PRICE.LEVEL.GDP        -0.19   -0.63   -1.31   -2.56   -3.87   -4.90   -5.71   -6.32 
+CONSUMER.PRICE.LEVEL   -0.16   -0.54   -1.12   -2.02   -3.03   -3.85   -4.49   -4.99 
+REER                    0.14    0.46    0.95    2.50    3.89    4.98    5.80    6.41 
+NOM.EXCH.RATE          -0.08   -0.26   -0.56    0.11    0.09    0.04   -0.04   -0.14 
+ 
+NOM.INT.RATE (pp)      -0.00   -0.00   -0.00   -0.01   -0.05   -0.08   -0.10   -0.11 
+SOV.SPREAD (pp)         0.02    0.02   -0.00   -0.10   -0.20   -0.31   -0.45   -0.59 
+UNEMPL.RATE (pp)        0.19    0.31    0.34   -0.49   -1.33   -1.96   -2.43   -2.79 
+GOV.DEBT (% of GDP)     0.64    0.67   -0.06   -3.19   -6.53  -10.44  -14.84  -19.66 
+GOV.BAL (% of GDP)      0.71    1.52    2.46    3.23    4.01    4.67    5.25    5.76 
+CURRENT.ACC (% of GDP)  0.26    0.54    0.83    1.00    1.07    1.06    1.01    0.97 
+ 
+FISCAL.EFFORT(% of GDP) 1.00    2.00    3.00    3.00    3.00    3.00    3.00    3.00 
+ 
+Spillovers: 
+ 
+DEGDP                  -0.05   -0.16   -0.31    0.11    0.21    0.23    0.22    0.20 
+REAGDP                 -0.05   -0.15   -0.29    0.11    0.22    0.23    0.22    0.21 
+FRGDP                  -0.06   -0.16   -0.32    0.05    0.19    0.22    0.22    0.21 
+ITGDP                  -0.05   -0.14   -0.29    0.06    0.19    0.22    0.22    0.21 
+ESGDP                  -1.11   -2.15   -3.08   -1.83   -0.78    0.01    0.61    1.07 
+IEGDP                  -0.06   -0.18   -0.36    0.12    0.21    0.23    0.22    0.21 
+PTGDP                  -0.12   -0.30   -0.52   -0.15    0.02    0.10    0.16    0.20 
+ELGDP                  -0.06   -0.17   -0.34    0.06    0.20    0.23    0.22    0.21 
+ 
+
+=== page 8 ===
+5 
+ 
+c. Revenue-based consolidations 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.47   -1.03   -1.57   -1.19   -0.91   -0.83   -0.80   -0.78 
+EMPLOYMENT             -0.35   -0.81   -1.25   -0.99   -0.72   -0.63   -0.58   -0.55 
+CONSUMPTION            -0.96   -2.08   -3.19   -2.50   -1.97   -1.83   -1.78   -1.76 
+INVESTMENT             -0.19   -0.45   -0.71   -1.26   -1.60   -1.67   -1.67   -1.64 
+EXPORTS                 0.01    0.03    0.05    0.26    0.33    0.37    0.39    0.42 
+IMPORTS                -0.63   -1.35   -2.07   -1.72   -1.48   -1.41   -1.39   -1.38 
+PRICE.LEVEL.GDP        -0.08   -0.25   -0.46   -0.59   -0.63   -0.66   -0.68   -0.70 
+CONSUMER.PRICE.LEVEL    0.93    1.78    2.58    2.49    2.46    2.44    2.42    2.41 
+REER                    0.06    0.18    0.32    0.48    0.52    0.55    0.57    0.59 
+NOM.EXCH.RATE          -0.03   -0.08   -0.15   -0.02   -0.02   -0.01   -0.00    0.01 
+ 
+NOM.INT.RATE (pp)      -0.00   -0.00   -0.00   -0.00   -0.00   -0.00   -0.00   -0.00 
+SOV.SPREAD (pp)        -0.00   -0.02   -0.05   -0.13   -0.22   -0.30   -0.39   -0.48 
+UNEMPL.RATE (pp)        0.22    0.50    0.78    0.61    0.45    0.39    0.36    0.34 
+GOV.DEBT (% of GDP)    -0.01   -0.57   -1.81   -4.33   -7.18  -10.04  -13.00  -16.07 
+GOV.BAL (% of GDP)      0.73    1.45    2.20    2.59    2.96    3.22    3.44    3.66 
+CURRENT.ACC (% of GDP)  0.20    0.43    0.66    0.58    0.50    0.49    0.48    0.49 
+ 
+FISCAL.EFFORT(% of GDP) 1.00    2.00    3.00    3.00    3.00    3.00    3.00    3.00 
+ 
+Spillovers: 
+ 
+DEGDP                  -0.03   -0.07   -0.13   -0.05   -0.02   -0.01   -0.01   -0.00 
+REAGDP                 -0.02   -0.07   -0.13   -0.04   -0.01   -0.00    0.00    0.01 
+FRGDP                  -0.03   -0.08   -0.15   -0.07   -0.03   -0.02   -0.02   -0.01 
+ITGDP                  -0.02   -0.07   -0.13   -0.05   -0.02   -0.02   -0.01   -0.01 
+ESGDP                  -0.47   -1.03   -1.57   -1.19   -0.91   -0.83   -0.80   -0.78 
+IEGDP                  -0.03   -0.09   -0.16   -0.06   -0.03   -0.03   -0.02   -0.01 
+PTGDP                  -0.08   -0.19   -0.31   -0.21   -0.16   -0.13   -0.12   -0.11 
+ELGDP                  -0.03   -0.08   -0.14   -0.06   -0.02   -0.01   -0.01   -0.01 
+ 
+Note: percent(age) difference from baseline.  
+ 
+ 
+ 
+2.2 Spillovers across member states 
+ 
+Table 2 shows the GDP effects of similar three year successive consolidations for other 
+countries in the model. In all cases fiscal deficits are reduced by 3% of GDP permanently 
+but each country is acting alone (detailed country tables are provided in annex 3). In all 
+cases it is assumed the composition is equally balanced between expenditure and revenue 
+measures.  
+ 
+The multipliers range from around 0.5 (IE) to around 0.9 (EL, IT) and depend mainly on 
+the degree of openness. The average impact multiplier in the first year is around 0.7-0.8. 
+In the second year GDP falls further as additional consolidation measures are introduced. 
+In the first years all domestic demand components are negatively affected by the 
+consolidations, with sharp falls in private consumption and investment (see annex 3). The 
+deflationary impact of the shocks leads to an improvement in competitiveness which 
+helps to boosts exports if one country would be acting alone, and with import demand 
+declining the current account improves, by up to 1% of GDP after 3 years, and 1.6% of 
+GDP in the case of Ireland. However, in the fourth year strong confidence effects lead to 
+a rapid recovery in GDP as agents from then onwards anticipate permanently lower 
+government deficits, government debt and lower future taxes. This, as well as the 
+reduction in interest rates and the fact that the initial appreciation turns into a 
+depreciation, leads to a recovery in output in trading partners and output returns to 
+baseline. 6 
+                                                 
+6 The assumption of uncertainty and learning means positive confidence effects are delayed and short-run 
+GDP effects are larger than when credibility is assumed from the start. In that sense it gives an upper 
+bound of the likely domestic and cross-border impact. On the other hand, the recovery in the fourth 
+year may overstate the likely impact if monetary policy remains constrained for longer.  
+
+=== page 9 ===
+6 
+ 
+Table 2 :  GDP spillovers 3-year consolidations 
+ 
+Year                     1       2      3        4       5       6       7       8 
+ 
+Germany   
+DEGDP                  -0.75   -1.54   -2.31   -1.35   -0.68   -0.29   -0.04    0.13 
+REAGDP                 -0.12   -0.31   -0.57   -0.10    0.10    0.17    0.20    0.21 
+FRGDP                  -0.10   -0.27   -0.51   -0.10    0.09    0.15    0.17    0.17 
+ITGDP                  -0.09   -0.25   -0.48   -0.09    0.09    0.15    0.16    0.16 
+ESGDP                  -0.09   -0.26   -0.50   -0.10    0.09    0.16    0.17    0.18 
+IEGDP                  -0.11   -0.31   -0.58   -0.06    0.09    0.14    0.16    0.16 
+PTGDP                  -0.09   -0.27   -0.52   -0.13    0.07    0.13    0.15    0.16 
+ELGDP                  -0.09   -0.27   -0.53   -0.09    0.12    0.17    0.18    0.18 
+ 
+Rest of core EA  
+DEGDP                  -0.09   -0.22   -0.40   -0.10    0.02    0.06    0.08    0.09 
+REAGDP                 -0.68   -1.39   -2.06   -1.36   -0.82   -0.50   -0.30   -0.16 
+FRGDP                  -0.07   -0.19   -0.35   -0.09    0.04    0.08    0.09    0.09 
+ITGDP                  -0.06   -0.17   -0.32   -0.07    0.04    0.08    0.09    0.09 
+ESGDP                  -0.06   -0.17   -0.33   -0.08    0.05    0.09    0.10    0.10 
+IEGDP                  -0.11   -0.26   -0.47   -0.13   -0.02    0.03    0.05    0.07 
+PTGDP                  -0.06   -0.17   -0.34   -0.10    0.03    0.08    0.09    0.10 
+ELGDP                  -0.06   -0.18   -0.36   -0.08    0.05    0.09    0.10    0.11 
+ 
+France 
+DEGDP                  -0.08   -0.23   -0.44    0.02    0.15    0.18    0.18    0.18 
+REAGDP                 -0.08   -0.22   -0.43    0.02    0.16    0.19    0.20    0.20 
+FRGDP                  -0.82   -1.67   -2.49   -1.54   -0.82   -0.39   -0.10    0.11 
+ITGDP                  -0.07   -0.20   -0.40   -0.02    0.13    0.17    0.17    0.17 
+ESGDP                  -0.07   -0.22   -0.44   -0.04    0.13    0.18    0.20    0.21 
+IEGDP                  -0.09   -0.25   -0.49    0.04    0.15    0.17    0.17    0.17 
+PTGDP                  -0.08   -0.23   -0.45   -0.07    0.11    0.16    0.18    0.19 
+ELGDP                  -0.07   -0.23   -0.46   -0.02    0.15    0.18    0.18    0.18 
+ 
+Italy 
+DEGDP                  -0.07   -0.21   -0.42   -0.01    0.11    0.14    0.14    0.14 
+REAGDP                 -0.06   -0.20   -0.39    0.00    0.12    0.15    0.16    0.15 
+FRGDP                  -0.06   -0.20   -0.41   -0.05    0.10    0.13    0.14    0.14 
+ITGDP                  -0.85   -1.70   -2.49   -1.62   -0.93   -0.50   -0.22   -0.02 
+ESGDP                  -0.06   -0.20   -0.41   -0.07    0.09    0.13    0.14    0.15 
+IEGDP                  -0.08   -0.24   -0.46    0.01    0.12    0.14    0.15    0.15 
+PTGDP                  -0.07   -0.21   -0.43   -0.09    0.06    0.11    0.12    0.12 
+ELGDP                  -0.07   -0.23   -0.46   -0.08    0.08    0.12    0.13    0.14 
+ 
+Spain 
+DEGDP                  -0.04   -0.11   -0.22    0.04    0.11    0.12    0.11    0.11 
+REAGDP                 -0.04   -0.11   -0.21    0.04    0.11    0.12    0.12    0.11 
+FRGDP                  -0.04   -0.12   -0.23    0.00    0.09    0.11    0.11    0.11 
+ITGDP                  -0.04   -0.11   -0.21    0.01    0.09    0.11    0.11    0.11 
+ESGDP                  -0.79   -1.59   -2.34   -1.53   -0.84   -0.40   -0.07    0.18 
+IEGDP                  -0.05   -0.14   -0.26    0.04    0.10    0.11    0.11    0.11 
+PTGDP                  -0.10   -0.24   -0.42   -0.18   -0.06   -0.00    0.03    0.06 
+ELGDP                  -0.04   -0.12   -0.24    0.01    0.10    0.12    0.12    0.12 
+ 
+Ireland 
+DEGDP                  -0.01   -0.01   -0.02   -0.01    0.00    0.00    0.01    0.01 
+REAGDP                 -0.01   -0.02   -0.03   -0.01   -0.00    0.01    0.01    0.01 
+FRGDP                  -0.00   -0.01   -0.02   -0.01    0.00    0.01    0.01    0.01 
+ITGDP                  -0.00   -0.01   -0.02   -0.01    0.00    0.00    0.01    0.01 
+ESGDP                  -0.00   -0.01   -0.02   -0.01    0.00    0.01    0.01    0.01 
+IEGDP                  -0.53   -1.01   -1.44   -1.02   -0.61   -0.34   -0.14   -0.01 
+PTGDP                  -0.00   -0.01   -0.02   -0.01    0.00    0.00    0.01    0.01 
+ELGDP                  -0.00   -0.01   -0.02   -0.00    0.01    0.01    0.01    0.01 
+ 
+Portugal 
+DEGDP                  -0.01   -0.02   -0.03    0.00    0.01    0.02    0.02    0.02 
+REAGDP                 -0.00   -0.01   -0.03    0.01    0.02    0.02    0.02    0.02 
+FRGDP                  -0.01   -0.02   -0.03   -0.00    0.01    0.02    0.02    0.02 
+ITGDP                  -0.00   -0.01   -0.03    0.00    0.01    0.02    0.02    0.02 
+ESGDP                  -0.01   -0.03   -0.05   -0.01    0.01    0.02    0.03    0.03 
+IEGDP                  -0.01   -0.02   -0.04    0.00    0.01    0.01    0.02    0.02 
+PTGDP                  -0.75   -1.46   -2.09   -1.52   -0.97   -0.61   -0.35   -0.16 
+ELGDP                  -0.00   -0.02   -0.03    0.00    0.02    0.02    0.02    0.02 
+ 
+Greece 
+DEGDP                  -0.01   -0.02   -0.05    0.00    0.02    0.02    0.02    0.02 
+REAGDP                 -0.00   -0.02   -0.05    0.00    0.02    0.03    0.03    0.03 
+FRGDP                  -0.01   -0.02   -0.05   -0.00    0.02    0.02    0.02    0.02 
+ITGDP                  -0.01   -0.02   -0.05   -0.01    0.01    0.02    0.02    0.02 
+ESGDP                  -0.01   -0.02   -0.05   -0.00    0.02    0.02    0.02    0.02 
+IEGDP                  -0.01   -0.03   -0.05    0.00    0.02    0.02    0.02    0.02 
+PTGDP                  -0.01   -0.02   -0.05   -0.01    0.01    0.02    0.02    0.02 
+ELGDP                  -0.86   -1.63   -2.26   -1.68   -1.09   -0.67   -0.36   -0.13 
+Note: percentage difference from baseline. Balanced expenditure-revenue composition, Detailed results in annex 3. 
+
+=== page 10 ===
+7 
+ 
+The larger and the more open the 'shock originating' country is, the larger the spillovers 
+to other member states. If one measures spillovers by the ratio between the foreign GDP 
+effect and the domestic GDP effect, this ratio is largest for Germany, increasing from 
+0.15 in the first year to up to 0.25 after three years. It is slightly smaller for the rest of the 
+EA core block, France, Italy and Spain, and smallest for Portugal, Ireland and Greece. 
+Table 3 summarises the spillovers after three years. 
+ 
+ 
+Table 3: GDP spillover ratios for fiscal consolidations  
+DE
+REA
+FR
+IT
+ES
+IE
+PT
+EL
+Germany
+1.00
+0.19
+0.18
+0.17
+0.09
+0.01
+0.01
+0.02
+Rest of EA
+0.25
+1.00
+0.17
+0.16
+0.09
+0.02
+0.01
+0.02
+France
+0.22
+0.17
+1.00
+0.16
+0.10
+0.01
+0.01
+0.02
+Italy
+0.21
+0.16
+0.16
+1.00
+0.09
+0.01
+0.01
+0.02
+Spain
+0.22
+0.16
+0.18
+0.16
+1.00
+0.01
+0.02
+0.02
+Ireland
+0.25
+0.23
+0.20
+0.18
+0.11
+1.00
+0.02
+0.02
+Portugal
+0.23
+0.17
+0.18
+0.17
+0.18
+0.01
+1.00
+0.02
+Greece
+0.23
+0.17
+0.18
+0.18
+0.10
+0.01
+0.01
+1.00 
+Note: GDP spillovers by originating country, by column. The spillover ratio is defined as the ratio of 
+foreign GDP over GDP in the shock-originating country, after three years, for balanced composition multi-
+year consolidations measures (see annex 3 for detailed tables).  
+ 
+ 
+3.   Simultaneous consolidations 2011-13 
+ 
+The spillovers described above indicate effects can be considerably larger when all 
+countries consolidate simultaneously. This has been the case in recent years. Table 4 
+below shows consolidation efforts in the past three years (the change in the primary 
+structural balances of general government, as percent of potential GDP) in 2011, 2012 
+and 2013. 7 By far the largest fiscal consolidations have taken place in Greece, 9% of 
+GDP on the basis of the change in the structural balance over these three years. 8 Portugal 
+has also undertaken large consolidations, close to 7% of GDP, while the adjustment in 
+Ireland amounted to 4% over these years. Consolidation measures in France, Italy and 
+Spain amounted to more than 3.7, 4 and 4.5% of GDP respectively, while Germany also 
+undertook large consolidation measures, despite a larger fiscal space and record low 
+borrowing costs due to a 'flight to safety'. The German structural balance improved by 
+2.6% of GDP. To a lesser extent, the same holds for the rest of the core EA, with an 
+improvement of 1.5% GDP, also despite overall more favourable fiscal positions and no 
+urgent financial market pressure. 9 
+ 
+The impact of these fiscal consolidations in the period 2011-13 is now simulated with the 
+model. As detailed information about the composition of the actual consolidations is not 
+available, it is assumed the composition is equally balanced between expenditure and 
+revenue measures. It is also assumed agents lack perfect foresight about future fiscal 
+consolidation plans and there is initial uncertainty about the exact changes in fiscal 
+policy (see annex 2 for a sensitivity analysis).  
+ 
+Table 5 shows the macroeconomic impact of the fiscal consolidations in 2011-13. This 
+simulation captures the negative impact of each country's own measures as well as the 
+                                                 
+7 Estimates for 2013 are from the Commission's Spring forecast, which is based on a no-policy change 
+assumption, only including agreed and approved budgetary measures. 
+8 And this was preceded by a 6% improvement in the structural balance in 2010, compared to 2009. 
+9 The Netherlands, Finland, Austria and Belgium make up 90% of this Rest of EA block in the model. 
+
+=== page 11 ===
+8 
+ 
+negative spillover effects of other countries' consolidation measures. Figure 2 compares 
+the GDP effects under the simultaneous scenario with those when one country would 
+have acted alone, and the difference shows the size of the spillovers. The maximum fall 
+in GDP is between 1.6 and 2.6% larger when intra-EA spillovers are taken into account. 
+ 
+Table 4: Changes in primary structural balance general government (% of potential GDP)  
+ 
+Consolidation efforts 
+Cumulative 
+ 
+2011 
+2012 
+2013* 
+2011 
+2012 
+2013* 
+Germany 
+1.42 
+1.16 
+0.03 
+1.42 
+2.58 
+2.61 
+France 
+1.37 
+1.02 
+1.30 
+1.37 
+2.38 
+3.68 
+Italy 
+0.47 
+2.75 
+0.73 
+0.47 
+3.22 
+3.95 
+Spain 
+0.68 
+2.32 
+1.45 
+0.68 
+3.00 
+4.45 
+Ireland 
+1.63 
+0.64 
+1.77 
+1.63 
+2.27 
+4.04 
+Portugal 
+3.50 
+2.72 
+0.51 
+3.50 
+6.22 
+6.73 
+Greece 
+4.82 
+2.24 
+1.85 
+4.82 
+7.06 
+8.91 
+Rest of EA 
+0.46 
+0.62 
+0.46 
+0.46 
+1.08 
+1.54 
+Source: Commission forecast Spring 2013 
+ 
+The fall in GDP is largest in Greece and Portugal, the two programme countries having 
+made the largest efforts. Multipliers range from around 0.5 (IE) to around 0.9 (IT) and 
+depend mainly on the degree of openness. In the first years all domestic demand 
+components are negatively affected by the consolidations, with sharp falls in private 
+consumption and investment. In following years GDP falls further as additional 
+consolidation measures are introduced. The total consolidation effort only gains full 
+credibility after three years, i.e. 2014, by when expectations of lower debt and lower 
+future taxes generate positive confidence effects that lead to a recovery. The fact that 
+nominal interest rates are assumed to remain unchanged up to the fourth year, but from 
+then on are reduced in response to lower inflation and output, also boosts growth.10  
+ 
+The deflationary impact of the shocks leads to an improvement in competitiveness, but 
+while this could help to boosts exports if one country was acting alone, under EA-wide 
+consolidations these benefits are partly lost. With imports falling due to the demand 
+contraction, the current account improves, by up to 1.6% of GDP for Portugal, and 2.3% 
+of GDP for Greece. Note that the consolidation in Germany also improves the German 
+current account, by up to 0.6% of GDP.  
+ 
+The slowdown in growth reduces tax revenues and raises unemployment-related 
+expenditures. As a result the ex-post reductions in government deficits are significantly 
+smaller than the ex-ante fiscal efforts. The debt-to-GDP ratios actually increase following 
+the consolidations in the short run (and are in that narrow sense "self-defeating") and it 
+can take up to five years before any improvement in debt-to-GDP ratios is seen (Figure 
+3). However, the deterioration in debt ratios is temporary and followed in the medium 
+term by large reductions in debt-to-GDP ratios. The larger the initial debt ratio, the 
+stronger the short term deterioration in the debt ratios following consolidations (EL). But 
+even in the case of Greece, the medium run improvement in the debt-to-GDP ratio is 
+large, up to 40 pps. by 2018.11  
+                                                 
+10 At the current juncture a reduction in interest rates may seem unlikely to happen, and the fast recovery in 
+GDP may take longer to materialise than shown in these simulations. 
+11 Note this shows debt ratios relative to the baseline, which comes on top of increases in debt ratios that 
+are implicit in the baseline. 
+
+=== page 12 ===
+9 
+ 
+Figure 2   GDP spillovers: EA-wide consolidations vs single country acting alone  
+(% diff. baseline) 
+Germany 
+Rest of core EA  
+France 
+Italy  
+Spain 
+Ireland  
+Portugal 
+Greece 
+Note: GDP effects of actual 2011-13 EA-wide simultaneous consolidation, based on changes in structural 
+primary balances (as in table 4), and assuming balanced-composition and gradual learning. Dashed line 
+shows simulated GDP if country was acting alone. 
+
+=== page 13 ===
+10 
+ 
+Table 5   Macroeconomic impact simultaneous consolidations in 2011-13 
+ 
+Year                      11      12      13      14      15      16      17      18 
+ 
+Germany    
+ 
+GDP                     -1.33   -2.90   -3.90   -1.69   -0.61   -0.14    0.03    0.08 
+EMPLOYMENT              -0.69   -1.73   -2.61   -0.60    0.66    1.13    1.28    1.30 
+CONSUMPTION             -1.13   -2.48   -3.33   -1.87   -0.52    0.03    0.24    0.31 
+INVESTMENT              -0.66   -2.05   -3.77   -2.46   -0.61    0.43    0.89    1.06 
+EXPORTS                 -0.67   -1.93   -3.40   -0.12    0.80    1.24    1.38    1.40 
+IMPORTS                 -1.12   -2.41   -3.20   -2.31   -1.31   -0.79   -0.55   -0.43 
+PRICE.LEVEL.GDP         -0.27   -1.01   -2.21   -3.73   -4.48   -5.16   -5.79   -6.37 
+CONSUMER.PRICE.LEVEL     0.37    0.03   -1.41   -2.03   -2.79   -3.53   -4.24   -4.90 
+REER                    -0.19   -0.66   -1.39    1.10    1.33    1.39    1.35    1.27 
+NOM.EXCH.RATE           -0.55   -1.93   -3.98   -1.22   -1.36   -1.79   -2.38   -3.00 
+ 
+NOM.INT.RATE (pp.)      -0.00   -0.01   -0.03   -0.07   -0.44   -0.68   -0.74   -0.72 
+SOV.SPREAD (pp.)         0.02    0.03    0.05   -0.03   -0.11   -0.20   -0.29   -0.39 
+UNEMPL.RATE (pp.)        0.46    1.13    1.71    0.39   -0.43   -0.74   -0.84   -0.85 
+GOV.DEBT (% of GDP)      0.60    1.10    1.61   -0.91   -3.75   -6.74   -9.79  -12.84 
+GOV.BAL (% of GDP)       0.96    1.55    1.16    2.10    2.97    3.52    3.76    3.88 
+CURRENT.ACC (% of GDP)   0.32    0.59    0.60    0.74    0.57    0.49    0.46    0.44 
+ 
+Rest of EA 
+ 
+GDP                     -0.73   -1.96   -3.22   -1.36   -0.51   -0.15   -0.02    0.01 
+EMPLOYMENT              -0.47   -1.38   -2.39   -0.73    0.26    0.61    0.70    0.69 
+CONSUMPTION             -0.48   -1.37   -2.34   -1.50   -0.51   -0.08    0.09    0.13 
+INVESTMENT              -0.48   -1.67   -3.30   -2.19   -0.51    0.45    0.88    1.02 
+EXPORTS                 -0.86   -2.31   -3.81   -0.66    0.23    0.65    0.79    0.81 
+IMPORTS                 -0.65   -1.70   -2.75   -1.56   -0.69   -0.21    0.01    0.10 
+PRICE.LEVEL.GDP         -0.16   -0.71   -1.77   -3.28   -3.93   -4.56   -5.16   -5.73 
+CONSUMER.PRICE.LEVEL    -0.03   -0.50   -1.62   -2.22   -2.93   -3.63   -4.31   -4.96 
+REER                    -0.28   -0.91   -1.71    0.34    0.39    0.35    0.27    0.18 
+NOM.EXCH.RATE           -0.55   -1.93   -3.98   -1.22   -1.36   -1.79   -2.38   -3.00 
+ 
+NOM.INT.RATE (pp.)      -0.00   -0.01   -0.03   -0.07   -0.44   -0.68   -0.74   -0.72 
+SOV.SPREAD (pp.)         0.01    0.04    0.09    0.05    0.00   -0.04   -0.09   -0.14 
+UNEMPL.RATE (pp.)        0.32    0.93    1.60    0.49   -0.17   -0.41   -0.47   -0.46 
+GOV.DEBT (% of GDP)      0.47    1.45    2.87    1.66    0.17   -1.48   -3.16   -4.82 
+GOV.BAL (% of GDP)       0.20    0.33    0.23    0.90    1.56    1.99    2.14    2.18 
+CURRENT.ACC (% of GDP)   0.01    0.09    0.21    0.40    0.35    0.33    0.32    0.33 
+ 
+France   
+ 
+GDP                     -1.39   -2.93   -4.78   -2.68   -1.28   -0.55   -0.18    0.03 
+EMPLOYMENT              -0.74   -1.76   -2.94   -1.07    0.47    1.22    1.58    1.75 
+CONSUMPTION             -1.14   -2.45   -4.14   -2.41   -0.70    0.10    0.48    0.68 
+INVESTMENT              -0.75   -2.27   -4.37   -3.48   -1.47   -0.00    0.83    1.28 
+EXPORTS                 -0.78   -2.24   -3.65   -0.23    1.02    1.68    1.97    2.08 
+IMPORTS                 -1.21   -2.55   -4.13   -3.38   -2.23   -1.59   -1.24   -1.04 
+PRICE.LEVEL.GDP         -0.29   -1.05   -2.41   -4.03   -5.09   -5.99   -6.76   -7.44 
+CONSUMER.PRICE.LEVEL     0.35   -0.02   -0.87   -1.97   -3.01   -3.94   -4.78   -5.52 
+REER                    -0.14   -0.54   -1.04    1.25    1.77    2.06    2.18    2.22 
+NOM.EXCH.RATE           -0.55   -1.93   -3.98   -1.22   -1.36   -1.79   -2.38   -3.00 
+ 
+NOM.INT.RATE (pp.)      -0.00   -0.01   -0.03   -0.07   -0.44   -0.68   -0.74   -0.72 
+SOV.SPREAD (pp.)         0.03    0.05    0.09   -0.01   -0.12   -0.24   -0.36   -0.48 
+UNEMPL.RATE (pp.)        0.48    1.16    1.93    0.70   -0.31   -0.80   -1.04   -1.15 
+GOV.DEBT (% of GDP)      0.85    1.71    2.90   -0.22   -3.93   -7.86  -11.89  -15.94 
+GOV.BAL (% of GDP)       0.87    1.29    1.88    2.82    3.84    4.52    4.83    4.99 
+CURRENT.ACC (% of GDP)   0.20    0.30    0.55    0.76    0.64    0.56    0.51    0.47 
+ 
+Italy   
+ 
+GDP                     -0.74   -3.43   -4.86   -2.81   -1.41   -0.68   -0.31   -0.10 
+EMPLOYMENT              -0.50   -2.02   -3.11   -1.15    0.46    1.25    1.64    1.81 
+CONSUMPTION             -0.62   -2.93   -4.37   -2.70   -1.03   -0.23    0.16    0.36 
+INVESTMENT              -0.63   -2.30   -4.29   -3.77   -2.09   -0.70    0.16    0.66 
+EXPORTS                 -0.81   -2.00   -3.25    0.32    1.57    2.23    2.50    2.59 
+IMPORTS                 -0.71   -3.01   -4.37   -3.58   -2.55   -1.90   -1.54   -1.31 
+PRICE.LEVEL.GDP         -0.23   -1.24   -2.85   -4.63   -5.75   -6.67   -7.44   -8.10 
+CONSUMER.PRICE.LEVEL    -0.05    0.21   -1.16   -2.38   -3.48   -4.45   -5.29   -6.02 
+REER                    -0.22   -0.42   -0.70    1.96    2.58    2.90    3.03    3.05 
+NOM.EXCH.RATE           -0.55   -1.93   -3.98   -1.22   -1.36   -1.79   -2.38   -3.00 
+ 
+NOM.INT.RATE (pp.)      -0.00   -0.01   -0.03   -0.07   -0.44   -0.68   -0.74   -0.72 
+SOV.SPREAD (pp.)         0.03    0.14    0.20    0.11   -0.01   -0.14   -0.27   -0.40 
+UNEMPL.RATE (pp.)        0.33    1.33    2.04    0.75   -0.30   -0.82   -1.07   -1.19 
+GOV.DEBT (% of GDP)      1.07    4.52    6.70    3.50   -0.39   -4.58   -8.98  -13.49 
+GOV.BAL (% of GDP)       0.11    1.69    1.67    2.70    3.95    4.87    5.33    5.59 
+CURRENT.ACC (% of GDP)   0.04    0.54    0.76    0.93    0.83    0.74    0.67    0.62 
+ 
+ 
+
+=== page 14 ===
+11 
+ 
+Year                      11      12      13      14      15      16      17      18 
+ 
+Spain   
+ 
+GDP                     -0.90   -3.36   -5.39   -3.11   -1.48   -0.59   -0.08    0.24 
+EMPLOYMENT              -0.52   -1.84   -3.06   -1.07    0.64    1.54    2.03    2.31 
+CONSUMPTION             -0.71   -2.82   -4.76   -2.73   -0.73    0.24    0.75    1.05 
+INVESTMENT              -0.56   -2.18   -4.26   -4.02   -2.29   -0.69    0.38    1.05 
+EXPORTS                 -0.89   -2.28   -3.65   -0.03    1.43    2.25    2.66    2.86 
+IMPORTS                 -0.79   -2.86   -4.65   -3.62   -2.41   -1.71   -1.30   -1.05 
+PRICE.LEVEL.GDP         -0.20   -0.97   -2.37   -4.17   -5.45   -6.53   -7.44   -8.21 
+CONSUMER.PRICE.LEVEL     0.10    0.39   -0.41   -1.73   -2.99   -4.09   -5.05   -5.88 
+REER                    -0.24   -0.62   -1.05    1.12    1.80    2.23    2.49    2.63 
+NOM.EXCH.RATE           -0.55   -1.93   -3.98   -1.22   -1.36   -1.79   -2.38   -3.00 
+ 
+NOM.INT.RATE (pp.)      -0.00   -0.01   -0.03   -0.07   -0.44   -0.68   -0.74   -0.72 
+SOV.SPREAD (pp.)         0.02    0.07    0.10   -0.01   -0.15   -0.29   -0.44   -0.59 
+UNEMPL.RATE (pp.)        0.32    1.14    1.90    0.66   -0.40   -0.96   -1.26   -1.43 
+GOV.DEBT (% of GDP)      0.71    2.34    3.29   -0.49   -4.92   -9.64  -14.55  -19.53 
+GOV.BAL (% of GDP)       0.32    1.71    2.37    3.47    4.64    5.41    5.81    6.04 
+CURRENT.ACC (% of GDP)   0.03    0.40    0.72    0.96    0.85    0.77    0.70    0.64 
+ 
+Ireland  
+ 
+GDP                     -1.30   -2.56   -4.51   -1.90   -0.79   -0.25    0.00    0.12 
+EMPLOYMENT              -0.53   -1.34   -2.38   -0.17    1.14    1.70    1.93    2.02 
+CONSUMPTION             -1.33   -2.36   -4.21   -3.36   -2.16   -1.60   -1.31   -1.14 
+INVESTMENT              -0.46   -1.39   -2.75   -2.40   -1.37   -0.61   -0.18    0.04 
+EXPORTS                 -0.64   -1.87   -3.22    0.14    1.11    1.62    1.81    1.85 
+IMPORTS                 -1.15   -2.17   -3.76   -2.73   -1.94   -1.47   -1.22   -1.07 
+PRICE.LEVEL.GDP         -0.20   -0.79   -1.95   -3.89   -4.76   -5.55   -6.25   -6.88 
+CONSUMER.PRICE.LEVEL     0.51   -0.07   -0.74   -0.97   -1.78   -2.59   -3.38   -4.12 
+REER                    -0.25   -0.88   -1.64    1.26    1.63    1.82    1.87    1.85 
+NOM.EXCH.RATE           -0.55   -1.93   -3.98   -1.22   -1.36   -1.79   -2.38   -3.00 
+ 
+NOM.INT.RATE (pp.)      -0.00   -0.01   -0.03   -0.07   -0.44   -0.68   -0.74   -0.72 
+SOV.SPREAD (pp.)         0.03    0.07    0.13    0.00   -0.12   -0.25   -0.38   -0.51 
+UNEMPL.RATE (pp.)        0.35    0.88    1.56    0.11   -0.75   -1.11   -1.27   -1.33 
+GOV.DEBT (% of GDP)      1.07    2.23    4.45    0.02   -4.08   -8.33  -12.66  -17.00 
+GOV.BAL (% of GDP)       1.12    1.22    2.15    3.24    4.27    5.01    5.34    5.50 
+CURRENT.ACC (% of GDP)   0.65    0.94    1.78    1.92    1.79    1.69    1.61    1.54 
+ 
+Portugal   
+ 
+GDP                     -2.82   -5.58   -6.91   -3.93   -1.82   -0.76   -0.18    0.17 
+EMPLOYMENT              -1.14   -2.46   -3.25   -0.71    1.41    2.44    2.96    3.22 
+CONSUMPTION             -2.65   -5.41   -6.94   -3.51   -0.64    0.58    1.17    1.50 
+INVESTMENT              -0.91   -2.46   -4.08   -3.51   -1.68   -0.05    1.04    1.73 
+EXPORTS                 -0.67   -2.07   -3.46   -0.07    1.49    2.38    2.82    3.01 
+IMPORTS                 -2.56   -5.25   -6.78   -4.77   -3.06   -2.16   -1.64   -1.30 
+PRICE.LEVEL.GDP         -0.47   -1.63   -3.27   -5.20   -6.49   -7.54   -8.39   -9.08 
+CONSUMER.PRICE.LEVEL     1.34    1.60    0.18   -1.24   -2.55   -3.67   -4.63   -5.46 
+REER                     0.10    0.19    0.12    2.16    2.78    3.14    3.30    3.34 
+NOM.EXCH.RATE           -0.55   -1.93   -3.98   -1.22   -1.36   -1.79   -2.38   -3.00 
+ 
+NOM.INT.RATE (pp.)      -0.00   -0.01   -0.03   -0.07   -0.44   -0.68   -0.74   -0.72 
+SOV.SPREAD (pp.)         0.07    0.10    0.08   -0.12   -0.36   -0.59   -0.83   -1.07 
+UNEMPL.RATE (pp.)        0.75    1.62    2.14    0.46   -0.93   -1.60   -1.95   -2.12 
+GOV.DEBT (% of GDP)      2.23    3.36    2.76   -4.15  -11.87  -19.69  -27.71  -35.83 
+GOV.BAL (% of GDP)       2.43    4.16    4.22    5.95    7.66    8.77    9.37    9.74 
+CURRENT.ACC (% of GDP)   0.81    1.45    1.64    1.48    1.14    0.98    0.86    0.78 
+ 
+ 
+Greece  
+ 
+GDP                     -3.82   -6.13   -8.05   -4.84   -2.54   -1.22   -0.42    0.08 
+EMPLOYMENT              -1.78   -3.14   -4.13   -1.01    1.66    3.15    4.00    4.47 
+CONSUMPTION             -3.46   -5.82   -7.76   -4.75   -1.94   -0.53    0.27    0.75 
+INVESTMENT              -1.42   -3.19   -4.94   -5.35   -3.77   -1.70   -0.07    1.08 
+EXPORTS                 -0.32   -1.05   -1.82    2.49    4.35    5.41    5.93    6.13 
+IMPORTS                 -3.51   -5.81   -7.81   -6.75   -5.50   -4.65   -4.06   -3.62 
+PRICE.LEVEL.GDP         -0.88   -2.50   -4.67   -7.17   -8.91  -10.24  -11.23  -11.97 
+CONSUMER.PRICE.LEVEL     1.54    1.01   -0.33   -2.11   -3.80   -5.17   -6.27   -7.16 
+REER                     0.41    0.80    1.06    4.88    6.33    7.22    7.67    7.83 
+NOM.EXCH.RATE           -0.55   -1.93   -3.98   -1.22   -1.36   -1.79   -2.38   -3.00 
+ 
+NOM.INT.RATE (pp.)      -0.00   -0.01   -0.03   -0.07   -0.44   -0.68   -0.74   -0.72 
+SOV.SPREAD (pp.)         0.17    0.25    0.31    0.04   -0.24   -0.54   -0.85   -1.18 
+UNEMPL.RATE (pp.)        1.17    2.06    2.71    0.66   -1.09   -2.07   -2.62   -2.93 
+GOV.DEBT (% of GDP)      5.50    8.21   10.23    1.35   -8.12  -18.05  -28.47  -39.20 
+GOV.BAL (% of GDP)       3.08    4.26    5.32    7.34    9.47   11.05   11.99   12.61 
+CURRENT.ACC (% of GDP)   1.07    1.70    2.27    2.34    2.09    1.87    1.69    1.54 
+ 
+Note: percent(age) difference from baseline. Fiscal effort as described in Table 4. 
+
+=== page 15 ===
+12 
+ 
+  
+In the model government bond yields depend on current debt ratios, assuming myopia on 
+the side of financial markets. Temporarily higher government debt-to-GDP ratios lead to 
+temporarily higher government bond yields, but with the standard parameterisation the 
+impact is relatively small, up to 31 bps for Greece (Figure 4). 12 In the long run, 
+government bond yields decline sharply. However, the relationship between debt and 
+government bond yields is more complex and there have been large deviations of 
+sovereign borrowing costs from their long-run equilibrium levels. The folowing section 
+addresses this issue further. 
+ 
+ 
+Figure 3    Debt/GDP ratios (diff. from baseline) 
+Note: Debt-to-GDP ratios in the baseline without consolidation are also increasing, and these graphs show 
+the additional increases/decreases.  
+ 
+Figure 4    Sovereign risk premia (bps. diff. from baseline) 
+Note: Sovereign risk premia in the baseline without consolidation are also increasing, and these graphs 
+show the additional increases/decreases.  
+ 
+ 
+                                                 
+12 In the model government bond yields increase by 3 basis points in response to a 1 percentage point 
+increase in the government debt-to-GDP ratio. This is somewhat higher than found in empirical 
+analysis. Laubach (2009) reports effects between 1-3 bps, In 't Veld et al. (2012)  find an  effect of 1.2 
+bp for Spain over the period 1995-2011, Poghosyan (2012) finds an effect of 2 bp for a panel of 22 
+advanced economies during 1980-2010. However, other factors, e.g uncertainties related to feedback 
+effects between banks and sovereigns and the contingent liabilities of the public sector, and perceived 
+redenomination risks, have in recent years contributed to higher temporary deviations of sovereign 
+borrowing costs from their long-run equilibrium levels. The relationship between debt and CDS spreads 
+is found to be highly non-linear and convex (e.g Arellano, 2008, Bi, 2012). See also European 
+Commission (2012). 
+
+=== page 16 ===
+13 
+ 
+4.  Contagion and higher risk premia  
+ 
+While the model parameterisation leads to only small increases in sovereign spreads, 
+much larger increases have been observed in recent years. Figure 5 shows sovereign risk 
+premia for selected countries, which far exceeded simulated increases in sovereign risk 
+premia shown in the previous section. Changes in government bond yields affect long 
+term sustainability of government debt, but, given the average maturity structure of 
+sovereign debt, have only a delayed real economic effect, and then only when permanent. 
+But in the sovereign debt crisis a more important channel has been the pass-through of 
+sovereign risk spreads into private sector borrowing costs. For example, Zoli (2013) 
+estimates about 50-60 percent of an increase in sovereign spreads for Italy was 
+transmitted to firm lending rates within six months. Figure 5.2 shows an increasing 
+dispersion of lending rates banks charge to non-financial corporations across the euro 
+area. 13 MFI interest rates on loans to NFCs started to diverge in 2010, first for Greece 
+and then for Portugal, and in 2011 and 2012 rates in Spain and Italy were also affected. 
+Lending rates are up to 200 bps higher in Spain and Italy, and up to 350 bps higher in 
+Greece and Portugal.  
+ 
+ 
+Figure 5.1: Sovereign bond spreads- selected MS (10y  
+yield spreads to the German Bund) 
+Figure 5.2 MFI interest rates on loans to NFC (all 
+maturities) 
+ 
+ 
+ 
+To illustrate the potential effects this can have, the simulation presented in Figure 6 
+shows GDP if an additional increase in sovereign and corporate risk premia is added. 
+Sovereign risk premia are raised by 300 bps in Italy, Spain and Ireland, and by 600 bps in 
+Greece and Portugal. The pass-through to private sector borrowing costs is assumed to be 
+one-half, i.e. borrowing costs for the private sector increase by 200 bps and 400 bps 
+respectively.  
+ 
+Adding higher risk premia to the consolidation simulations increases the GDP losses. It 
+adds between 2 and 3% to the negative GDP effects for the countries most affected. The 
+total output losses over these three years increase to 10% for Portugal and almost 11% 
+for Greece. The negative spillovers also lower GDP in the countries not directly affected 
+(Germany, France and rest of core EA). 
+                                                 
+13 Corsetti et al. (2012) highlights the sovereign risk channel for this transmission channel to the private 
+sector. Roeger and in 't Veld (2013) illustrate this channel in an model with banks, where the 
+vulnerability of the domestic banking sector to declining government bond prices erodes the current 
+value of bank capital. With binding capital requirement constraints, banks can be forced to recapitalise 
+and this spreads the loss of the banking sector to corporate investment. 
+
+=== page 17 ===
+14 
+ 
+Figure 6  GDP under one country consolidating alone, EA-wide consolidations, and EA-
+wide with higher riskpremia (% diff. baseline) 
+Germany 
+Rest of core EA  
+ 
+France 
+Italy  
+ 
+Spain 
+Ireland  
+Portugal 
+Greece 
+ 
+ 
+Note: bold line shows scenario of 2011-13 EA-wide simultaneous consolidation, dashed line if country had 
+been acting alone. Dotted line is simultaneous scenario with higher risk premia (sovereign/corporate IT, 
+ES, IE: 300/200; EL, PT: 600/400) 
+
+=== page 18 ===
+15 
+ 
+5.  Fiscal stimulus in surplus countries  
+ 
+Optimal policy coordination in the euro area would have required a differentiation of 
+consolidation efforts depending on the fiscal space to minimise the negative spillovers. 
+The periphery countries of the euro area had greater urgency to consolidate given that 
+they faced financial market pressure, or even lost access to the markets. They had little 
+options other than to embark on the sizeable consolidation they have undertaken. But 
+these countries had also run large current account deficits and built up large external 
+sustainability gaps. One way for them to grow out of their debts would have been 
+external growth. Their current account adjustment could have been supported by 
+simultaneous changes in euro area countries that feature large current account surpluses. 
+Yet, the symmetry of the fiscal adjustments in all euro area countries at the same time has 
+hampered this adjustment, with negative spillovers of consolidations in Germany and 
+other core euro area countries further aggravating growth in deficit countries. These 
+negative spillovers have made adjustment in the periphery harder, and have further 
+exacerbated the temporary worsening of debt-to-GDP ratios in programme and 
+vulnerable countries.  
+The degree of consolidations in Germany and other core countries was in contrast to the 
+financial space these countries had in the crisis. A 'flight to safety' has led to record low 
+borrowing costs for Germany and other AAA-rated core countries, with 10-year 
+government bond yields falling to levels of 2% or lower. Even though yields have risen 
+somewhat recently, they remain low by historical standards. In real terms, rates are close 
+to zero or even negative. Yet in the drive to consolidate public finances, government 
+investment has been reduced, with major infrastructure investment plans scrapped and 
+backlogs in deferred maintenance building up. Instead, low interest rates could have been 
+locked-in to finance an increase in public spending, by bringing forward public 
+infrastructure projects which should, even when debt-financed, have a higher rate of 
+return. This holds for Germany but also for other core euro area countries like the 
+Netherlands, Finland and Austria, hit by double-dip recessions and which could benefit 
+from a stimulus in productive spending.  
+To see how a fiscal stimulus can raise growth in Germany and core countries and support 
+the adjustment in other euro areas countries, we simulate a temporary two year increase 
+in government investment in Germany and the rest of the core EA block in the model, of 
+1% of GDP (Figure 7 and Table 6). 14 The impact multiplier in Germany and rest of the 
+core block for government investment is between 0.8 and 1, not particularly large due to 
+the relatively high degree of openness of these countries. But the GDP effect is 
+persistent, even after the stimulus is discontinued, as productivity is higher. Import 
+leakage leads to relatively high spillovers to other EA countries, boosting GDP by 
+between 0.2 and 0.3 percent (smallest increase in GDP in Italy and Greece, largest in 
+Ireland). It also leads to some rebalancing of current accounts. Surpluses are reduced by 
+between 0.3 and 0.4 pps., however the improvement in the current accounts in periphery 
+countries is relatively small, up to 0.1 pp. for Ireland.  
+While these GDP spillovers are not insignificant, it is also evident that they do not 
+provide a miracle cure for deficit countries. A temporary stimulus alone in the core EA 
+cannot bring the adjustment in current accounts that are needed in deficit countries. 
+Historically, current account adjustment in deficit countries has more relied on 
+expenditure reduction than on expenditure switching (Lane and Milesi-Ferretti (2012)). 
+                                                 
+14 The Netherlands, Finland and Austria make up two-third of the Rest of EA block in this model. 
+
+=== page 19 ===
+16 
+ 
+Analysis with an estimated model for Spain (In ’t Veld et al. (2012)) shows adjustment 
+occurring first and foremost through domestic absorption, with in particular a sharp 
+decline in consumption, but the accompanying deflation and decline in unit labour costs 
+also bringing about a strong depreciation of the real effective exchange rate. What the 
+simulation here shows is that a stimulus in surplus countries could help this adjustment in 
+deficit countries, but is no substitute for it.  
+ 
+This does of course not weaken the arguments in favour of a fiscal stimulus in core euro 
+area countries. The case for an increase in public investment, if only for domestic 
+reasons, is strong. Low long term yields mean low borrowing costs can be locked-in, and 
+even though these have increased recently, they are still well below the most pessimistic 
+estimates of social rates of return on public infrastructure.  
+ 
+ 
+Figure 7  Fiscal stimulus in Germany and rest of EA: increase in government investment 
+1% of GDP 
+GDP 
+ 
+Current account (% of GDP) 
+ 
+Note: First and second year GDP (% difference from baseline) and current account (% of GDP) 
+for temporary increase in public investment of 1% of GDP in Germany and rest of core EA. 
+
+=== page 20 ===
+17 
+ 
+ 
+Table 6   Stimulus in core EA: 2 year increase in government investment of 1% of GDP 
+ 
+Germany   
+ 
+Year                      1       2       3       4       5       6       7       8 
+ 
+GDP                      0.87    0.93    0.24    0.23    0.24    0.24    0.21    0.20 
+EMPLOYMENT               0.64    0.62    0.07    0.02    0.03    0.04    0.04    0.04 
+CONSUMPTION              0.20    0.24    0.15    0.17    0.17    0.17    0.16    0.15 
+INVESTMENT               0.18    0.19    0.16    0.17    0.18    0.18    0.17    0.15 
+EXPORTS                  0.45    0.48    0.26    0.28    0.28    0.27    0.24    0.23 
+IMPORTS                  1.06    1.04    0.01    0.05    0.05    0.05    0.05    0.05 
+PRICE.LEVEL.GDP          0.05    0.05   -0.03   -0.06   -0.07   -0.07   -0.05   -0.04 
+CONSUMER.PRICE.LEVEL     0.09    0.10    0.04    0.02    0.01    0.01    0.03    0.04 
+REER                     0.11    0.14    0.21    0.24    0.25    0.24    0.22    0.21 
+NOM.EXCH.RATE            0.20    0.20    0.19    0.18    0.16    0.15    0.13    0.12 
+ 
+SOV.SPREAD (pp.)        -0.01    0.01    0.04    0.04    0.04    0.04    0.04    0.04 
+UNEMPL.RATE (pp.)       -0.42   -0.41   -0.05   -0.01   -0.02   -0.02   -0.03   -0.03 
+GOV.DEBT (% of GDP)     -0.26    0.42    1.32    1.34    1.34    1.33    1.32    1.32 
+GOV.BAL (% of GDP)      -0.71   -0.75   -0.03   -0.04   -0.04   -0.04   -0.05   -0.05 
+CURRENT.ACC (% of GDP)  -0.34   -0.33    0.03    0.02    0.01    0.01    0.01    0.01 
+ 
+Rest of core EA   
+ 
+Year                      1       2       3       4       5       6       7       8 
+ 
+GDP                      0.83    0.89    0.23    0.23    0.23    0.22    0.20    0.18 
+EMPLOYMENT               0.59    0.57    0.07    0.01    0.02    0.03    0.03    0.03 
+CONSUMPTION              0.18    0.22    0.13    0.14    0.15    0.15    0.13    0.12 
+INVESTMENT               0.16    0.16    0.11    0.11    0.11    0.11    0.10    0.09 
+EXPORTS                  0.48    0.51    0.25    0.27    0.26    0.26    0.23    0.21 
+IMPORTS                  0.99    0.96    0.03    0.08    0.08    0.08    0.07    0.06 
+PRICE.LEVEL.GDP          0.04    0.04   -0.04   -0.07   -0.08   -0.08   -0.05   -0.04 
+CONSUMER.PRICE.LEVEL     0.09    0.10    0.04    0.02    0.01    0.01    0.03    0.04 
+REER                     0.09    0.13    0.20    0.23    0.23    0.23    0.20    0.19 
+NOM.EXCH.RATE            0.20    0.20    0.19    0.18    0.16    0.15    0.13    0.12 
+ 
+SOV.SPREAD (pp.)        -0.00    0.02    0.04    0.04    0.04    0.04    0.04    0.04 
+UNEMPL.RATE (pp.)       -0.39   -0.38   -0.04   -0.01   -0.01   -0.02   -0.02   -0.02 
+GOV.DEBT (% of GDP)     -0.12    0.58    1.38    1.41    1.42    1.42    1.42    1.43 
+GOV.BAL (% of GDP)      -0.73   -0.78   -0.04   -0.05   -0.05   -0.05   -0.06   -0.06 
+CURRENT.ACC (% of GDP)  -0.38   -0.36    0.04    0.02    0.02    0.01    0.01    0.01 
+ 
+ 
+Spillovers 
+ 
+Year                      1       2       3       4       5       6       7       8 
+ 
+GDP  
+ 
+DEGDP                    0.87    0.93    0.24    0.23    0.24    0.24    0.21    0.20 
+REAGDP                   0.83    0.89    0.23    0.23    0.23    0.22    0.20    0.18 
+FRGDP                    0.22    0.24    0.14    0.13    0.11    0.10    0.08    0.08 
+ITGDP                    0.19    0.22    0.14    0.13    0.11    0.10    0.09    0.08 
+ESGDP                    0.19    0.23    0.16    0.14    0.13    0.12    0.10    0.10 
+IEGDP                    0.28    0.30    0.15    0.13    0.11    0.10    0.09    0.08 
+PTGDP                    0.20    0.24    0.17    0.15    0.14    0.13    0.11    0.11 
+ELGDP                    0.19    0.23    0.17    0.15    0.14    0.13    0.12    0.11 
+ 
+Current account (% of GDP)  
+ 
+DECA            
+ -0.34   -0.33    0.03    0.02    0.01    0.01    0.01    0.01 
+REACA   
+ 
+ -0.38   -0.36    0.04    0.02    0.02    0.01    0.01    0.01 
+FRCA 
+ 
+ 
+  0.08    0.07   -0.01   -0.01   -0.01   -0.01   -0.01   -0.01 
+ITCA 
+ 
+ 
+  0.06    0.04   -0.02   -0.02   -0.01   -0.01   -0.01   -0.01 
+ESCA 
+ 
+ 
+  0.06    0.05   -0.01   -0.01   -0.01   -0.01   -0.01   -0.01 
+IRCA 
+ 
+ 
+  0.11    0.09   -0.03   -0.03   -0.02   -0.02   -0.02   -0.02 
+PTCA 
+ 
+ 
+  0.06    0.04   -0.02   -0.02   -0.02   -0.02   -0.02   -0.02 
+ELCA 
+ 
+ 
+  0.04    0.02   -0.03   -0.03   -0.03   -0.03   -0.02   -0.02 
+ 
+Note: percent(age) difference from baseline.
+
+=== page 21 ===
+18 
+ 
+6. Concluding remarks  
+ 
+Successive consolidations in recent years have depressed growth in the euro area. The 
+simulations presented here show spillover effects from simultaneous consolidations in all 
+euro area countries at the same time have further exacerbated the recession in programme 
+and vulnerable countries. While average impact multipliers are in the range between ½ 
+and 1, depending on the degree of openness, negative spillovers can add between 1½ and 
+2½ pps. to the negative growth effects. The GDP impact could be considerably smaller if 
+credibility is achieved earlier, as opposed to the assumed gradual learning in these 
+scenarios, but the effects could be larger still if consolidations had been more biased 
+towards expenditure measures. 
+ 
+Higher sovereign risk premia in recent years due to uncertainties related to feedback 
+effects between banks and sovereigns and perceived redenomination risks, have further 
+reduced growth. However, the assumed dependence in the model of sovereign spreads on 
+current debt ratios implies myopia on the side of financial markets, as if investors do not 
+recognise the sharp fall in sovereign debt that follow from consolidations in the medium 
+run. If in contrast financial markets were more forward-looking and would recognise the 
+long term improvements in debt ratios, sovereign spreads would decline immediately 
+when a country started consolidating.15 
+ 
+The finding of large negative output effects and significant negative spillovers does of 
+course not imply that fiscal consolidations should have been avoided. Highly indebted 
+countries faced pressure from financial markets, or in some cases had completely lost 
+access to markets, and a slower pace of consolidation could have raised general fears of 
+sovereign default. Such expectations of default could lead to worse growth outcomes 
+than consolidations per se (Corsetti et al (2012), Roeger and in 't Veld (2013)).  
+ 
+The crucial issue is the appropriate pace for consolidations. On the one hand one could 
+argue that for as long as crisis conditions prevail, a slower pace, i.e. backloading some of 
+the required adjustment to later years, may be prudent so that part of the burden can be 
+spread over a longer period, when conditions have improved and multipliers will be 
+smaller – i.e. when credit constraints have been reduced and monetary policy can be 
+supportive. However, a more gradual adjustment would require a credible long term 
+consolidation strategy designed to avoid adverse financial market reactions to a slower 
+pace of consolidation. The challenge is to find the right pace to achieve this credibility 
+while avoiding as much as possible the adverse growth effects in the short run. 
+ 
+The negative spillover effects from consolidations in surplus countries raises the question 
+whether a temporary stimulus in AAA-rated countries could help the required 
+rebalancing process in the euro area. Although the impact on current accounts is shown 
+to be modest and it clearly cannot be a substitute for reforms in deficit countries, it would 
+support growth in the core countries and spillovers to the periphery countries would ease 
+their adjustment.  
+                                                 
+15 Since the ECB's announcement of OMT, sovereign spreads of the most vulnerable countries have come 
+down. To the extent that OMT is conditional on consolidation efforts, this also be could be seen as 
+justification for more benign assumptions on sovereign spreads.  
+
+=== page 22 ===
+19 
+ 
+ 
+References: 
+ 
+Almunia, M., A. Benetrix, B. Eichengreen, K. O’Rourke, and G. Rua (2010). “From Great Depression to 
+Great Credit Crisis: Similarities, Differences and Lessons,” Economic Policy, Vol. 25. 
+ 
+Arellano, C. (2008). Default Risk and Income Fluctuations in Emerging Economies. American Economic 
+Review, 98. pp. 690-712. 
+ 
+Auerbach, A., and Y. Gorodnichenko (2012), “Measuring the Output Responses to Fiscal Policy,” 
+American Economic Journal- Economic Policy, Vol. 4, pp. 1–27. 
+ 
+Bi, H. (2012), ‘Sovereign default risk premia, fiscal limits, and fiscal policy', European Economic Review, 
+56, pp. 389-410. 
+ 
+Christiano, L., M. Eichenbaum, and S. Rebelo, 2011, “When Is the Government Spending Multiplier 
+Large?” Journal of Political Economy, 119, pp. 78–121. 
+ 
+Coenen, G., C. Erceg, C. Freedman, D. Furceri, M. Kumhof, R. Lalonde, D. Laxton, J. Linde, A. 
+Mourougane, D. Muir, S. Mursula, C. de Resende, J. Roberts, W. Roeger, S. Snudden. M. Trabandt, J. 
+in ’t Veld (2012). Effects of Fiscal Stimulus in Structural Models. American Economic Journal: 
+Macroeconomics, 4 (1), pp.22-68. 
+ 
+Corsetti, G., Kuester, K., Meier, A., and Muller, G. (2010), ‘Debt Consolidation and Fiscal Stabilization of 
+Deep Recessions,’, American Economic Review, Papers and Proceedings, 100, pp. 41–45. 
+ 
+Corsetti, G., K. Kuester, A. Meier and G. Mueller (2012). Sovereign Risk, Fiscal Policy and 
+Macroeconomic Stability. IMF Working Paper 12/33. 
+European Commission (2010), "Chapter 2:  The Impact of fiscal consolidations on Europe's economic 
+outlook", in : European Economic Forecast – Autumn 2010, European Economy No 7/2010, Brussels: 
+European Commission. 
+European Commission (2012), "Risk and uncertainty in euro area sovereign debt markets and their impact 
+on economic activity". Quarterly Report on the Euro Area, Vol. 11, no. 4. European Commission. 
+In ’t Veld, J., A. Pagano, R. Raciborski, M. Ratto and W. Roeger (2012), “Imbalances and rebalancing 
+scenarios in an estimated structural model for Spain", European Economy Economic Papers no. 458. 
+ 
+Lane, P. R. and G.M Milesi-Ferretti (2012),  " External adjustment and the global crisis", Journal of 
+International Economics,  vol. 88(2), pages 252-265. 
+ 
+Laubach, T, 2009. "New evidence on the interest rate effects of budget deficits and debt". Journal of the 
+European Economic Association, 7(4): 858-85. 
+Poghosyan T. (2012), "Long run and short run determinants of sovereign bond yields in advanced 
+economies", IMF WP/12/271.   
+Roeger W., in 't Veld J. (2010), “Fiscal stimulus and exit strategies in the EU: a model-based analysis", 
+European Economy Economic Papers no. 426. 
+Roeger W., in 't Veld J. (2013), “Expected sovereign defaults and fiscal consolidations", European 
+Economy Economic Papers no. 479. 
+Zoli, E. (2013), Italian Sovereign Spreads: Their Determinants and Pass-through to Bank Funding Costs 
+and Lending Conditions, IMF Working Paper 13/84. 
+
+=== page 23 ===
+20 
+ 
+ANNEX 1 Composition of consolidations – illustrative standard simulations for 
+Spain 
+Fiscal consolidation can be achieved by various means and the macroeconomic impact 
+depends on the composition of the adjustment. This annex illustrates this for permanent 
+fiscal shocks for Spain, when in each case a specific instrument is shocked by 1% of 
+baseline GDP. Crucially, it is assumed the consolidations are fully credible and expected 
+to be permanent. A tax reaction function that stabilises the debt ratio, operating on labour 
+taxes, is initially turned off for the first 3 years but then gradually phased in and targeting 
+a 20 pps reduction in the debt-to-GDP ratio in the long run. The simulations assume no 
+monetary policy response to the fiscal consolidation in the first two years (ZLB), after 
+which the ECB reacts according to the normal Taylor rule based on monetary union 
+aggregates. 
+ 
+Lower debt leads to a reduction in debt servicing costs and this creates space for higher 
+spending or lower taxes in the future. In these simulations it is assumed this fiscal space 
+is used to reduce labour taxes. A lower tax burden on labour raises employment and 
+output in the long run and in most cases Figure 1 shows a positive long run GDP effect. 
+The two exceptions are consolidations through government investment and corporate 
+taxes. These measures lead to lower capital stock (public or private) and deliver no long 
+run gains, even when accompanied by lower labour taxes. 
+ 
+The short-run multiplier for permanent consolidations is generally smaller than for 
+temporary shocks. This is due to the anticipatory effects of a lower future tax burden, 
+which raises permanent income (at least for unconstrained households) and partly offset 
+the negative short run impact of the consolidation measures. This effect crucially 
+depends on the presence of unconstrained households who have access to capital markets 
+and can borrow against future income.  In current crisis conditions it is realistic to 
+assume fewer agents are unconstrained and this effect is weaker than in pre-crisis 
+conditions. (the following section illustrates how credibility assumptions can also make a 
+difference). 
+ 
+Expenditure-based consolidations have larger impact multipliers than revenue-based 
+consolidations. A reduction in government consumption has an impact multiplier of 0.6, 
+and as it is modelled as "unproductive" spending, no negative long run growth impact. 
+The reduction in distortionary labour taxes in the medium long run can in fact boost GDP 
+and yields positive effects in the long term. Government investment has a slightly larger 
+impact multiplier of 0.8, but is modelled as "productive" spending, with the public capital 
+having  a productivity raising effect. 16Cuts in such productive spending have a long term 
+negative GDP impact. Transfers to households have an impact multiplier of 0.3 (0.5 
+when targeted to constrained households). Reducing transfers, and lowering distortionary 
+labour taxes in medium/long run, leads to positive output effects. However, this policy 
+can have serious distributional consequences, and may therefore not be sustainable in the 
+long run. Increases in consumption, labour and corporate profit taxes have smaller impact 
+multipliers, between 0.2-0.4. In the long run, when debt servicing costs have been 
+reduced and allowed for reductions in labour taxes, GDP effects are positive for 
+consumption taxes, but negative for corporate profit taxes (the most distortionary tax).  
+                                                 
+16 The output elasticity of public capital is set to 0.10 in the model, in the middle of the range of estimates 
+from the empirical literature. However, there is a lot of uncertainty about these estimates, and a 
+smaller elasticity would show a smaller long term output loss. 
+
+=== page 24 ===
+21 
+ 
+Figure 1  GDP impact permanent fiscal consolidations (% diff. from baseline) 
+Government consumption 
+Government investment 
+ 
+Government transfers to households 
+Consumption tax   
+Labour tax 
+Corportate profit tax 
+Note: Each scenario GDP effects (% difference from baseline) following 1% of baseline GDP 
+consolidation in respective instrument. Long run debt-to-GDP ratio target reduced by 20 pps 
+from baseline. 
+
+=== page 25 ===
+22 
+ 
+ANNEX 2. Credibility and uncertainty of successive consolidation plans 
+For successive multi-year consolidation measures results crucially depend on how 
+quickly expectations are affected, and assumptions on credibility and learning are 
+important. Fully credible consolidations can reverse expectations of increasing debt and 
+rising future tax liabilities and, if anticipated, such confidence effects could significantly 
+reduce the impact multiplier. But consolidations could be perceived as non-credible, 
+when agents do not believe measures are really permanent, and expect them to be 
+reversed later, e.g because they are perceived as non-sustainable for political or social 
+reasons. Such prolonged uncertainty about the exact nature of policy changes can mean 
+the gains from improved fiscal positions do not materialise immediately but take time to 
+build up. When successive measures are introduced over several years, the question is 
+how fast expectations were affected.  
+ 
+This annex illustrates this by showing some alternative scenarios for standardised 
+successive consolidation in one country, Spain, amounting to 3% of GDP, spread over a 
+three year period, i.e. 1% of GDP in three consecutive years, which reduce the long run 
+debt-to-GDP ratio by 60 pps.. Figure A2 and Table A2 compare three alternative 
+scenarios. 17 In all these scenarios the consolidation is balanced, equally distributed over 
+revenue increases and expenditure cuts (see following section). It is also assumed 
+nominal interest rates are not responding to changes in fiscal policy and remain 
+unchanged for the first three years.  GDP is initially negatively affected by the reduction 
+in spending and increase in taxes but GDP is higher in the medium run as expectations of 
+lower tax liabilities in the future boost private sector spending.  
+ 
+In the "gradual learning" scenario credibility builds up over three years. In the first two 
+years there is uncertainty about the persistence of the austerity measures. Measures are 
+not anticipated to be fully permanent but expectations are formed on the basis of past 
+persistence of policy shocks, gradually fading away. I.e. at this early stage agents 
+consider the tax rises and spending cuts persistent, but not permanent measures, and do 
+not fully anticipate the benefits of the austerity measures guaranteeing debt sustainability 
+and lower taxes in the future. Only after three years do the consolidation measures gain 
+full credibility and are long term benefits in terms of lower public indebtedness and a 
+lower future tax burden fully included in agents' expectations. As the impact multiplier of 
+temporary shocks is larger than that for permanent shocks,18 for as long as the 
+consolidation is not fully anticipated, the multiplier is larger. For a balanced composition 
+consolidation the first year multiplier for Spain is around 0.8. In the second year an 
+additional austerity round reduces GDP growth further, and only after the third year is 
+credibility gained. Anticipatory effects of lower future public debt and lower tax burden 
+then lead to a sharp recovery and GDP returns gradually to baseline. 
+ 
+                                                 
+17 In model-technical terms, the differences between these scenarios lies in the way expectations are 
+adjusted. In the 'gradual learning' scenario, the first year's austerity measures are expected to remain in 
+place for one year, and then reduced gradually with autoregressive coefficient of 0.9, in line with estimated 
+persistence of shocks in empirical studies. In the second year, new austerity measures are taken and a new 
+simulation overlays these results from the second year onwards with additional measures with a similar 
+anticipated persistence based on historical data. A third simulation overlays this again with a new 
+consolidation round in year three. Only after the third year are the austerity measures expected to be 
+permanent from then on. In the 'successive credibility' case a similar sequence of simulations is done but 
+each assuming austerity measures are permanent in each round. 'Fully anticipated' assumes all successive 
+rounds are fully anticipated from the start.  
+18 See Roeger and in 't Veld (2010), Coenen et al. (2012). 
+
+=== page 26 ===
+23 
+ 
+The second scenario ("successive credibility") assumes each successive consolidation 
+round is fully credible, but future rounds are not yet anticipated in the first quarter. There 
+is no uncertainty about the persistence of the shocks, and in the first year, agents believe 
+deficits are permanently reduced by 1% of GDP, government debt ratios are on a 
+declining path, and they fully anticipate lower future tax liabilities associated with that 
+year's deficit reduction. If households have access to financial markets and can borrow 
+against their higher permanent income, they can increase their spending and this reduces 
+the negative impact of the consolidation measures. 19 In the second year further austerity 
+measures are introduced and agents revise their expectations of future tax liabilities in 
+line with this additional reduction in the deficit, and so on. This is equivalent to a 
+sequence of standard consolidation scenarios, which for an average composition in 'crisis' 
+conditions have an annual multiplier of around 0.5-0.6 (see Table A2.b).  
+ 
+Figure A2  GDP impact of successive consolidations in Spain of 1% of GDP:   
+ 
+Note: GDP % difference from baseline. Successive  balanced composition consolidations of 1% of GDP 
+for three years. Gradual learning assumes full credibility only achieved in year 3, successive credibility 
+assumes each year's consolidation round is fully credible, fully anticipated assumes future consolidations 
+are already fully anticipated in year 1. 
+ 
+ 
+In the fully anticipated scenario this sequence of measures over three years is fully 
+anticipated already in the first quarter in the simulation (see Table A2.c). Expectations of 
+lower future debt burden and correspondingly lower tax liabilities boost private demand, 
+partly offsetting the contractionary effects of the consolidations. 20 On impact the first 
+quarter multiplier is around 0.3, but over the year anticipatory effects of further austerity 
+measures in the following year lead to some frontloading of spending and a lower 
+average multiplier over the first year of only 0.1. 21 In the second year GDP falls further 
+but again anticipatory effects of the third year's consolidation reduce the fall in GDP in 
+the final quarters. In the third year GDP is around 0.7 below baseline, for a consolidation 
+of 3% of GDP. Anticipation of lower future labour taxes already boosts employment in 
+the first year in this scenario. This is clearly not something that has been observed in 
+consolidating countries, which indicates this is an unlikely hypothesis. 
+ 
+                                                 
+19 These scenarios assume half of all households are not constrained and have access to financial markets. 
+This may be an optimistic assumption if the financial system is under severe stress.  
+20 As above this assumes a share of agents have access to financial markets. 
+21 E.g. consumption can be frontloaded as an anticipated increase in VAT changes the intertemporal terms 
+of trade and forward-looking consumers respond to this in t-1 (assuming the VAT increase is fully 
+passed through into consumer prices).  
+
+=== page 27 ===
+24 
+ 
+Table A2  Successive consolidations in Spain, 3% of GDP, spread over three years  
+ 
+a. Gradual learning: 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.79   -1.59   -2.34   -1.53   -0.84   -0.40   -0.07    0.18 
+EMPLOYMENT             -0.33   -0.66   -0.91   -0.11    0.71    1.27    1.68    1.99 
+CONSUMPTION            -0.74   -1.55   -2.30   -1.30   -0.42    0.02    0.30    0.51 
+INVESTMENT             -0.25   -0.56   -0.84   -2.53   -3.19   -2.82   -2.24   -1.68 
+EXPORTS                 0.02    0.10    0.22    1.11    1.72    2.16    2.49    2.74 
+IMPORTS                -0.72   -1.50   -2.30   -2.17   -2.08   -2.01   -1.94   -1.88 
+PRICE.LEVEL.GDP        -0.13   -0.44   -0.89   -1.60   -2.29   -2.85   -3.28   -3.63 
+CONSUMER.PRICE.LEVEL    0.38    0.62    0.72    0.21   -0.33   -0.78   -1.13   -1.40 
+REER                    0.10    0.32    0.63    1.51    2.23    2.80    3.24    3.57 
+NOM.EXCH.RATE          -0.06   -0.17   -0.36    0.06    0.06    0.04    0.00   -0.03 
+ 
+NOM.INT.RATE (PP)      -0.00   -0.00   -0.00   -0.00   -0.02   -0.04   -0.04   -0.05 
+SOV.SPREAD (pp)         0.01    0.00   -0.03   -0.11   -0.21   -0.31   -0.42   -0.54 
+UNEMPL.RATE (pp)        0.20    0.41    0.56    0.07   -0.44   -0.78   -1.04   -1.23 
+GOV.DEBT (% of GDP)     0.32    0.06   -0.93   -3.75   -6.87  -10.29  -14.01  -18.01 
+GOV.BAL (% of GDP)      0.72    1.48    2.33    2.92    3.51    3.99    4.40    4.79 
+CURRENT.ACC (% of GDP)  0.23    0.49    0.75    0.80    0.80    0.78    0.76    0.74 
+ 
+b. Successive credibility 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.56   -0.93   -1.13   -0.71   -0.34   -0.04    0.19    0.37 
+EMPLOYMENT             -0.12   -0.02    0.28    0.82    1.31    1.70    2.00    2.23 
+CONSUMPTION            -0.40   -0.59   -0.62   -0.23    0.07    0.32    0.51    0.66 
+INVESTMENT             -0.94   -2.22   -3.28   -3.33   -2.82   -2.22   -1.67   -1.21 
+EXPORTS                 0.27    0.74    1.35    1.85    2.25    2.57    2.80    2.98 
+IMPORTS                -0.65   -1.30   -1.93   -1.99   -1.97   -1.92   -1.86   -1.81 
+PRICE.LEVEL.GDP        -0.21   -0.68   -1.35   -1.98   -2.48   -2.88   -3.18   -3.42 
+CONSUMER.PRICE.LEVEL    0.35    0.50    0.49   -0.00   -0.40   -0.71   -0.95   -1.14 
+REER                    0.29    0.85    1.62    2.29    2.83    3.25    3.57    3.81 
+NOM.EXCH.RATE           0.15    0.31    0.46    0.46    0.46    0.45    0.44    0.42 
+ 
+NOM.INT.RATE (pp)       0.00    0.00    0.00   -0.00   -0.01   -0.01   -0.02   -0.02 
+SOV.SPREAD (pp)         0.00   -0.02   -0.08   -0.17   -0.27   -0.38   -0.50   -0.62 
+UNEMPL.RATE (pp)        0.07    0.02   -0.17   -0.51   -0.81   -1.05   -1.24   -1.38 
+GOV.DEBT (% of GDP)     0.07   -0.73   -2.59   -5.59   -8.95  -12.64  -16.60  -20.79 
+GOV.BAL (% of GDP)      0.85    1.87    3.05    3.47    3.89    4.30    4.68    5.04 
+CURRENT.ACC (% of GDP)  0.23    0.49    0.73    0.77    0.77    0.76    0.74    0.73 
+ 
+c. Full anticipation 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.10   -0.26   -0.65   -0.37   -0.09    0.14    0.32    0.46 
+EMPLOYMENT              0.35    0.67    0.84    1.23    1.61    1.92    2.15    2.34 
+CONSUMPTION             0.27    0.33   -0.04    0.11    0.31    0.49    0.64    0.75 
+INVESTMENT             -2.36   -3.67   -3.56   -3.02   -2.44   -1.93   -1.50   -1.15 
+EXPORTS                 0.78    1.32    1.80    2.20    2.51    2.74    2.92    3.05 
+IMPORTS                -0.52   -1.20   -1.88   -1.94   -1.92   -1.87   -1.83   -1.79 
+PRICE.LEVEL.GDP        -0.48   -1.17   -1.80   -2.31   -2.71   -3.01   -3.24   -3.41 
+CONSUMER.PRICE.LEVEL    0.19    0.15    0.15   -0.24   -0.55   -0.79   -0.97   -1.11 
+REER                    0.75    1.50    2.18    2.73    3.16    3.49    3.73    3.91 
+NOM.EXCH.RATE           0.57    0.57    0.57    0.58    0.58    0.58    0.58    0.57 
+ 
+NOM.INT.RATE (pp)       0.00    0.00    0.00   -0.00   -0.01   -0.01   -0.01   -0.01 
+SOV.SPREAD (pp)        -0.01   -0.04   -0.10   -0.20   -0.30   -0.42   -0.54   -0.67 
+UNEMPL.RATE (pp)       -0.22   -0.41   -0.52   -0.77   -1.00   -1.19   -1.34   -1.45 
+GOV.DEBT (% of GDP)    -0.42   -1.42   -3.37   -6.57  -10.13  -13.98  -18.06  -22.35 
+GOV.BAL (% of GDP)      1.13    2.25    3.35    3.71    4.09    4.47    4.83    5.17 
+CURRENT.ACC (% of GDP)  0.24    0.48    0.72    0.75    0.75    0.74    0.72    0.71 
+ 
+Note: percent difference from baseline.  
+ 
+ 
+All in all, the GDP impact is larger the longer uncertainty persists. With successive 
+consolidations early credibility, or even full anticipation, may be the most desired 
+scenario, but this may not be easily achievable. Many survey indicators point to a high 
+level of uncertainty in recent years and this suggests gradual learning is a more realistic 
+assumption. For this reason the scenarios in this paper are based on this assumption. But 
+it should be borne in mind that macroeconomic effects could be between one-third and 
+one-half smaller if the consolidation profile is perceived as fully credible. 
+
+=== page 28 ===
+25 
+ 
+ANNEX 3  Country specific tables standardised consolidations  
+ 
+Table A3   Macroeconomic impact standardised 3-year consolidation scenarios 
+(balanced expenditure-revenue composition, average acting alone) 
+ 
+Germany   
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.75   -1.54   -2.31   -1.35   -0.68   -0.29   -0.04    0.13 
+EMPLOYMENT             -0.33   -0.69   -1.00   -0.03    0.82    1.32    1.66    1.90 
+CONSUMPTION            -0.74   -1.58   -2.42   -1.49   -0.69   -0.34   -0.14   -0.01 
+INVESTMENT             -0.29   -0.71   -1.18   -1.99   -2.09   -1.67   -1.22   -0.81 
+EXPORTS                -0.07   -0.15   -0.23    0.88    1.45    1.84    2.09    2.26 
+IMPORTS                -0.68   -1.46   -2.28   -1.96   -1.68   -1.54   -1.46   -1.40 
+PRICE.LEVEL.GDP        -0.14   -0.48   -1.01   -1.76   -2.37   -2.86   -3.26   -3.58 
+CONSUMER.PRICE.LEVEL    0.36    0.55    0.57    0.17   -0.27   -0.63   -0.94   -1.20 
+REER                    0.05    0.19    0.40    1.47    2.05    2.49    2.81    3.03 
+NOM.EXCH.RATE          -0.12   -0.34   -0.64    0.05    0.03   -0.03   -0.11   -0.21 
+ 
+SOV.SPREAD (pp)         0.01   -0.01   -0.04   -0.12   -0.22   -0.32   -0.43   -0.55 
+UNEMPL.RATE (pp)        0.22    0.46    0.66    0.02   -0.54   -0.87   -1.09   -1.24 
+GOV.DEBT (% of GDP)     0.19   -0.18   -1.21   -4.12   -7.31  -10.75  -14.44  -18.32 
+GOV.BAL (% of GDP)      0.75    1.52    2.35    2.96    3.55    4.00    4.36    4.68 
+CURRENT.ACC (% of GDP)  0.29    0.63    0.97    0.98    0.93    0.90    0.88    0.86 
+ 
+FISCAL.EFFORT(% of GDP) 1.00    2.00    3.00    3.00    3.00    3.00    3.00    3.00 
+ 
+Spillovers 
+ 
+DEGDP                  -0.75   -1.54   -2.31   -1.35   -0.68   -0.29   -0.04    0.13 
+REAGDP                 -0.12   -0.31   -0.57   -0.10    0.10    0.17    0.20    0.21 
+FRGDP                  -0.10   -0.27   -0.51   -0.10    0.09    0.15    0.17    0.17 
+ITGDP                  -0.09   -0.25   -0.48   -0.09    0.09    0.15    0.16    0.16 
+ESGDP                  -0.09   -0.26   -0.50   -0.10    0.09    0.16    0.17    0.18 
+IEGDP                  -0.11   -0.31   -0.58   -0.06    0.09    0.14    0.16    0.16 
+PTGDP                  -0.09   -0.27   -0.52   -0.13    0.07    0.13    0.15    0.16 
+ELGDP                  -0.09   -0.27   -0.53   -0.09    0.12    0.17    0.18    0.18 
+ 
+ 
+ 
+Rest of core EA  
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.68   -1.39   -2.06   -1.36   -0.82   -0.50   -0.30   -0.16 
+EMPLOYMENT             -0.26   -0.53   -0.74    0.02    0.73    1.17    1.47    1.68 
+CONSUMPTION            -0.72   -1.53   -2.32   -1.64   -1.03   -0.74   -0.58   -0.48 
+INVESTMENT             -0.24   -0.61   -1.00   -1.99   -2.37   -2.21   -1.93   -1.66 
+EXPORTS                -0.04   -0.06   -0.08    0.69    1.13    1.43    1.63    1.75 
+IMPORTS                -0.57   -1.21   -1.88   -1.60   -1.41   -1.30   -1.23   -1.17 
+PRICE.LEVEL.GDP        -0.13   -0.43   -0.88   -1.55   -2.11   -2.55   -2.89   -3.15 
+CONSUMER.PRICE.LEVEL    0.39    0.63    0.76    0.40    0.01   -0.29   -0.54   -0.73 
+REER                    0.07    0.25    0.51    1.33    1.88    2.29    2.58    2.78 
+NOM.EXCH.RATE          -0.08   -0.22   -0.42    0.01    0.00   -0.04   -0.09   -0.16 
+ 
+SOV.SPREAD (pp)         0.00   -0.02   -0.06   -0.14   -0.23   -0.33   -0.44   -0.55 
+UNEMPL.RATE (pp)        0.18    0.36    0.49   -0.01   -0.49   -0.79   -0.99   -1.13 
+GOV.DEBT (% of GDP)     0.04   -0.59   -1.96   -4.74   -7.80  -11.10  -14.61  -18.31 
+GOV.BAL (% of GDP)      0.78    1.60    2.49    2.97    3.46    3.85    4.17    4.46 
+CURRENT.ACC (% of GDP)  0.33    0.71    1.09    1.09    1.05    1.01    0.97    0.94 
+ 
+FISCAL.EFFORT(% of GDP) 1.00    2.00    3.00    3.00    3.00    3.00    3.00    3.00 
+ 
+Spillovers 
+ 
+DEGDP                  -0.09   -0.22   -0.40   -0.10    0.02    0.06    0.08    0.09 
+REAGDP                 -0.68   -1.39   -2.06   -1.36   -0.82   -0.50   -0.30   -0.16 
+FRGDP                  -0.07   -0.19   -0.35   -0.09    0.04    0.08    0.09    0.09 
+ITGDP                  -0.06   -0.17   -0.32   -0.07    0.04    0.08    0.09    0.09 
+ESGDP                  -0.06   -0.17   -0.33   -0.08    0.05    0.09    0.10    0.10 
+IEGDP                  -0.11   -0.26   -0.47   -0.13   -0.02    0.03    0.05    0.07 
+PTGDP                  -0.06   -0.17   -0.34   -0.10    0.03    0.08    0.09    0.10 
+ELGDP                  -0.06   -0.18   -0.36   -0.08    0.05    0.09    0.10    0.11 
+ 
+
+=== page 29 ===
+26 
+ 
+France 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.82   -1.67   -2.49   -1.54   -0.82   -0.39   -0.10    0.11 
+EMPLOYMENT             -0.37   -0.78   -1.13   -0.19    0.68    1.22    1.58    1.85 
+CONSUMPTION            -0.75   -1.58   -2.38   -1.32   -0.42    0.02    0.28    0.46 
+INVESTMENT             -0.32   -0.75   -1.16   -2.21   -2.35   -1.80   -1.18   -0.61 
+EXPORTS                -0.02   -0.03   -0.04    1.13    1.74    2.15    2.44    2.63 
+IMPORTS                -0.75   -1.59   -2.45   -2.22   -1.98   -1.86   -1.78   -1.71 
+PRICE.LEVEL.GDP        -0.15   -0.50   -1.04   -1.77   -2.41   -2.92   -3.33   -3.66 
+CONSUMER.PRICE.LEVEL    0.35    0.52    0.52    0.02   -0.48   -0.90   -1.24   -1.51 
+REER                    0.08    0.27    0.52    1.58    2.23    2.72    3.08    3.34 
+NOM.EXCH.RATE          -0.10   -0.33   -0.69    0.04    0.03   -0.02   -0.10   -0.19 
+ 
+SOV.SPREAD (pp)         0.01    0.01   -0.02   -0.11   -0.20   -0.30   -0.42   -0.53 
+UNEMPL.RATE (pp)        0.25    0.51    0.74    0.13   -0.45   -0.80   -1.04   -1.21 
+GOV.DEBT (% of GDP)     0.35    0.19   -0.62   -3.51   -6.70  -10.16  -13.88  -17.83 
+GOV.BAL (% of GDP)      0.72    1.46    2.27    2.90    3.52    3.99    4.39    4.74 
+CURRENT.ACC (% of GDP)  0.23    0.48    0.73    0.78    0.74    0.72    0.70    0.67 
+ 
+FISCAL.EFFORT(% of GDP) 1.00    2.00    3.00    3.00    3.00    3.00    3.00    3.00 
+ 
+Spillovers 
+ 
+DEGDP                  -0.08   -0.23   -0.44    0.02    0.15    0.18    0.18    0.18 
+REAGDP                 -0.08   -0.22   -0.43    0.02    0.16    0.19    0.20    0.20 
+FRGDP                  -0.82   -1.67   -2.49   -1.54   -0.82   -0.39   -0.10    0.11 
+ITGDP                  -0.07   -0.20   -0.40   -0.02    0.13    0.17    0.17    0.17 
+ESGDP                  -0.07   -0.22   -0.44   -0.04    0.13    0.18    0.20    0.21 
+IEGDP                  -0.09   -0.25   -0.49    0.04    0.15    0.17    0.17    0.17 
+PTGDP                  -0.08   -0.23   -0.45   -0.07    0.11    0.16    0.18    0.19 
+ELGDP                  -0.07   -0.23   -0.46   -0.02    0.15    0.18    0.18    0.18 
+ 
+ 
+ 
+ 
+Italy 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+ 
+GDP                    -0.85   -1.70   -2.49   -1.62   -0.93   -0.50   -0.22   -0.02 
+EMPLOYMENT             -0.42   -0.85   -1.19   -0.29    0.59    1.14    1.52    1.78 
+CONSUMPTION            -0.82   -1.66   -2.42   -1.48   -0.62   -0.18    0.09    0.27 
+INVESTMENT             -0.40   -0.86   -1.25   -2.37   -2.63   -2.14   -1.53   -0.96 
+EXPORTS                 0.01    0.04    0.09    1.23    1.83    2.23    2.50    2.68 
+IMPORTS                -0.79   -1.61   -2.41   -2.26   -2.11   -1.98   -1.87   -1.77 
+PRICE.LEVEL.GDP        -0.22   -0.67   -1.30   -2.13   -2.83   -3.37   -3.79   -4.11 
+CONSUMER.PRICE.LEVEL    0.29    0.37    0.26   -0.32   -0.90   -1.35   -1.71   -1.99 
+REER                    0.15    0.42    0.78    1.93    2.64    3.16    3.52    3.78 
+NOM.EXCH.RATE          -0.10   -0.35   -0.73   -0.08   -0.10   -0.16   -0.24   -0.34 
+ 
+SOV.SPREAD (pp)         0.03    0.04    0.04   -0.05   -0.14   -0.24   -0.35   -0.47 
+UNEMPL.RATE (pp)        0.27    0.56    0.78    0.19   -0.39   -0.75   -1.00   -1.17 
+GOV.DEBT (% of GDP)     0.83    1.32    1.22   -1.52   -4.55   -7.90  -11.59  -15.60 
+GOV.BAL (% of GDP)      0.64    1.32    2.08    2.71    3.38    3.92    4.38    4.80 
+CURRENT.ACC (% of GDP)  0.24    0.50    0.76    0.81    0.79    0.76    0.72    0.69 
+ 
+FISCAL.EFFORT(% of GDP) 1.00    2.00    3.00    3.00    3.00    3.00    3.00    3.00 
+ 
+Spillovers 
+ 
+DEGDP                  -0.07   -0.21   -0.42   -0.01    0.11    0.14    0.14    0.14 
+REAGDP                 -0.06   -0.20   -0.39    0.00    0.12    0.15    0.16    0.15 
+FRGDP                  -0.06   -0.20   -0.41   -0.05    0.10    0.13    0.14    0.14 
+ITGDP                  -0.85   -1.70   -2.49   -1.62   -0.93   -0.50   -0.22   -0.02 
+ESGDP                  -0.06   -0.20   -0.41   -0.07    0.09    0.13    0.14    0.15 
+IEGDP                  -0.08   -0.24   -0.46    0.01    0.12    0.14    0.15    0.15 
+PTGDP                  -0.07   -0.21   -0.43   -0.09    0.06    0.11    0.12    0.12 
+ELGDP                  -0.07   -0.23   -0.46   -0.08    0.08    0.12    0.13    0.14 
+ 
+ 
+
+=== page 30 ===
+27 
+ 
+Spain 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.79   -1.59   -2.34   -1.53   -0.84   -0.40   -0.07    0.18 
+EMPLOYMENT             -0.33   -0.66   -0.91   -0.11    0.71    1.27    1.68    1.99 
+CONSUMPTION            -0.74   -1.55   -2.30   -1.30   -0.42    0.02    0.30    0.51 
+INVESTMENT             -0.25   -0.56   -0.84   -2.53   -3.19   -2.82   -2.24   -1.68 
+EXPORTS                 0.02    0.10    0.22    1.11    1.72    2.16    2.49    2.74 
+IMPORTS                -0.72   -1.50   -2.30   -2.17   -2.08   -2.01   -1.94   -1.88 
+PRICE.LEVEL.GDP        -0.13   -0.44   -0.89   -1.60   -2.29   -2.85   -3.28   -3.63 
+CONSUMER.PRICE.LEVEL    0.38    0.62    0.72    0.21   -0.33   -0.78   -1.13   -1.40 
+REER                    0.10    0.32    0.63    1.51    2.23    2.80    3.24    3.57 
+NOM.EXCH.RATE          -0.06   -0.17   -0.36    0.06    0.06    0.04    0.00   -0.03 
+ 
+ 
+SOV.SPREAD (pp)         0.01    0.00   -0.03   -0.11   -0.21   -0.31   -0.42   -0.54 
+UNEMPL.RATE (pp)        0.20    0.41    0.56    0.07   -0.44   -0.78   -1.04   -1.23 
+GOV.DEBT (% of GDP)     0.32    0.06   -0.93   -3.75   -6.87  -10.29  -14.01  -18.01 
+GOV.BAL (% of GDP)      0.72    1.48    2.33    2.92    3.51    3.99    4.40    4.79 
+CURRENT.ACC (% of GDP)  0.23    0.49    0.75    0.80    0.80    0.78    0.76    0.74 
+ 
+FISCAL.EFFORT(% of GDP) 1.00    2.00    3.00    3.00    3.00    3.00    3.00    3.00 
+ 
+Spillovers 
+ 
+DEGDP                  -0.04   -0.11   -0.22    0.04    0.11    0.12    0.11    0.11 
+REAGDP                 -0.04   -0.11   -0.21    0.04    0.11    0.12    0.12    0.11 
+FRGDP                  -0.04   -0.12   -0.23    0.00    0.09    0.11    0.11    0.11 
+ITGDP                  -0.04   -0.11   -0.21    0.01    0.09    0.11    0.11    0.11 
+ESGDP                  -0.79   -1.59   -2.34   -1.53   -0.84   -0.40   -0.07    0.18 
+IEGDP                  -0.05   -0.14   -0.26    0.04    0.10    0.11    0.11    0.11 
+PTGDP                  -0.10   -0.24   -0.42   -0.18   -0.06   -0.00    0.03    0.06 
+ELGDP                  -0.04   -0.12   -0.24    0.01    0.10    0.12    0.12    0.12 
+ 
+ 
+ 
+Portugal 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.75   -1.46   -2.09   -1.52   -0.97   -0.61   -0.35   -0.16 
+EMPLOYMENT             -0.28   -0.51   -0.64   -0.05    0.60    1.06    1.40    1.65 
+CONSUMPTION            -0.82   -1.66   -2.40   -1.58   -0.89   -0.55   -0.35   -0.20 
+INVESTMENT             -0.23   -0.42   -0.50   -1.84   -2.42   -2.18   -1.77   -1.37 
+EXPORTS                 0.08    0.24    0.46    0.92    1.38    1.73    1.98    2.16 
+IMPORTS                -0.72   -1.47   -2.18   -2.05   -1.98   -1.93   -1.88   -1.84 
+PRICE.LEVEL.GDP        -0.12   -0.37   -0.72   -1.27   -1.85   -2.29   -2.62   -2.86 
+CONSUMER.PRICE.LEVEL    0.42    0.75    1.00    0.60    0.19   -0.13   -0.37   -0.54 
+REER                    0.12    0.36    0.69    1.27    1.87    2.32    2.66    2.91 
+NOM.EXCH.RATE          -0.01   -0.02   -0.04    0.02    0.01    0.01    0.01    0.00 
+ 
+SOV.SPREAD (pp)         0.02    0.01   -0.02   -0.10   -0.19   -0.29   -0.40   -0.52 
+UNEMPL.RATE (pp)        0.18    0.33    0.42    0.03   -0.40   -0.70   -0.92   -1.09 
+GOV.DEBT (% of GDP)     0.52    0.42   -0.52   -3.29   -6.32   -9.64  -13.28  -17.19 
+GOV.BAL (% of GDP)      0.71    1.48    2.37    2.88    3.41    3.86    4.26    4.65 
+CURRENT.ACC (% of GDP)  0.31    0.64    0.97    0.95    0.93    0.92    0.90    0.88 
+ 
+FISCAL.EFFORT(% of GDP) 1.00    2.00    3.00    3.00    3.00    3.00    3.00    3.00 
+ 
+Spillovers 
+ 
+DEGDP                  -0.01   -0.02   -0.03    0.00    0.01    0.02    0.02    0.02 
+REAGDP                 -0.00   -0.01   -0.03    0.01    0.02    0.02    0.02    0.02 
+FRGDP                  -0.01   -0.02   -0.03   -0.00    0.01    0.02    0.02    0.02 
+ITGDP                  -0.00   -0.01   -0.03    0.00    0.01    0.02    0.02    0.02 
+ESGDP                  -0.01   -0.03   -0.05   -0.01    0.01    0.02    0.03    0.03 
+IEGDP                  -0.01   -0.02   -0.04    0.00    0.01    0.01    0.02    0.02 
+PTGDP                  -0.75   -1.46   -2.09   -1.52   -0.97   -0.61   -0.35   -0.16 
+ELGDP                  -0.00   -0.02   -0.03    0.00    0.02    0.02    0.02    0.02 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== page 31 ===
+28 
+ 
+Ireland 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.53   -1.01   -1.44   -1.02   -0.61   -0.34   -0.14   -0.01 
+EMPLOYMENT             -0.11   -0.16   -0.13    0.36    0.90    1.28    1.56    1.77 
+CONSUMPTION            -0.80   -1.67   -2.48   -1.94   -1.52   -1.38   -1.31   -1.27 
+INVESTMENT             -0.12   -0.27   -0.39   -1.32   -1.83   -1.85   -1.74   -1.62 
+EXPORTS                 0.04    0.15    0.30    0.61    0.94    1.19    1.37    1.50 
+IMPORTS                -0.56   -1.16   -1.74   -1.60   -1.50   -1.47   -1.44   -1.43 
+PRICE.LEVEL.GDP        -0.08   -0.26   -0.51   -0.95   -1.42   -1.78   -2.05   -2.24 
+CONSUMER.PRICE.LEVEL    0.48    0.92    1.32    1.14    0.94    0.79    0.67    0.59 
+REER                    0.08    0.25    0.49    0.94    1.42    1.79    2.06    2.26 
+NOM.EXCH.RATE          -0.00   -0.00    0.00    0.02    0.02    0.02    0.01    0.01 
+ 
+SOV.SPREAD (pp)         0.01   -0.01   -0.06   -0.14   -0.24   -0.34   -0.45   -0.57 
+UNEMPL.RATE (pp)        0.07    0.11    0.08   -0.24   -0.59   -0.84   -1.03   -1.16 
+GOV.DEBT (% of GDP)     0.18   -0.42   -1.92   -4.82   -7.93  -11.31  -14.96  -18.85 
+GOV.BAL (% of GDP)      0.80    1.68    2.66    3.11    3.57    3.96    4.33    4.68 
+CURRENT.ACC (% of GDP)  0.50    1.06    1.61    1.54    1.48    1.47    1.45    1.43 
+ 
+FISCAL.EFFORT(% of GDP) 1.00    2.00    3.00    3.00    3.00    3.00    3.00    3.00 
+ 
+Spillovers 
+ 
+DEGDP                  -0.01   -0.01   -0.02   -0.01    0.00    0.00    0.01    0.01 
+REAGDP                 -0.01   -0.02   -0.03   -0.01   -0.00    0.01    0.01    0.01 
+FRGDP                  -0.00   -0.01   -0.02   -0.01    0.00    0.01    0.01    0.01 
+ITGDP                  -0.00   -0.01   -0.02   -0.01    0.00    0.00    0.01    0.01 
+ESGDP                  -0.00   -0.01   -0.02   -0.01    0.00    0.01    0.01    0.01 
+IEGDP                  -0.53   -1.01   -1.44   -1.02   -0.61   -0.34   -0.14   -0.01 
+PTGDP                  -0.00   -0.01   -0.02   -0.01    0.00    0.00    0.01    0.01 
+ELGDP                  -0.00   -0.01   -0.02   -0.00    0.01    0.01    0.01    0.01 
+ 
+ 
+ 
+Greece 
+ 
+Year                      1       2      3        4       5       6       7       8 
+ 
+GDP                    -0.86   -1.63   -2.26   -1.68   -1.09   -0.67   -0.36   -0.13 
+EMPLOYMENT             -0.42   -0.77   -0.96   -0.31    0.44    0.99    1.40    1.70 
+CONSUMPTION            -0.94   -1.79   -2.46   -1.75   -1.06   -0.65   -0.38   -0.18 
+INVESTMENT             -0.49   -0.86   -0.96   -2.50   -3.09   -2.66   -2.02   -1.39 
+EXPORTS                 0.12    0.35    0.65    1.27    1.85    2.27    2.58    2.79 
+IMPORTS                -0.91   -1.76   -2.51   -2.55   -2.54   -2.47   -2.37   -2.27 
+PRICE.LEVEL.GDP        -0.22   -0.62   -1.13   -1.84   -2.55   -3.08   -3.47   -3.74 
+CONSUMER.PRICE.LEVEL    0.31    0.47    0.54   -0.01   -0.56   -0.98   -1.28   -1.50 
+REER                    0.21    0.60    1.07    1.85    2.59    3.14    3.54    3.83 
+NOM.EXCH.RATE          -0.01   -0.04   -0.08   -0.00   -0.00   -0.01   -0.02   -0.03 
+ 
+SOV.SPREAD (pp)         0.04    0.06    0.06   -0.01   -0.09   -0.18   -0.29   -0.41 
+UNEMPL.RATE (pp)        0.27    0.51    0.63    0.21   -0.29   -0.65   -0.92   -1.11 
+GOV.DEBT (% of GDP)     1.27    2.11    2.10   -0.32   -2.99   -6.09   -9.63  -13.56 
+GOV.BAL (% of GDP)      0.57    1.22    2.03    2.55    3.12    3.64    4.13    4.60 
+CURRENT.ACC (% of GDP)  0.31    0.61    0.89    0.94    0.95    0.93    0.90    0.86 
+ 
+FISCAL.EFFORT(% of GDP) 1.00    2.00    3.00    3.00    3.00    3.00    3.00    3.00 
+ 
+Spillovers 
+ 
+DEGDP                  -0.01   -0.02   -0.05    0.00    0.02    0.02    0.02    0.02 
+REAGDP                 -0.00   -0.02   -0.05    0.00    0.02    0.03    0.03    0.03 
+FRGDP                  -0.01   -0.02   -0.05   -0.00    0.02    0.02    0.02    0.02 
+ITGDP                  -0.01   -0.02   -0.05   -0.01    0.01    0.02    0.02    0.02 
+ESGDP                  -0.01   -0.02   -0.05   -0.00    0.02    0.02    0.02    0.02 
+IEGDP                  -0.01   -0.03   -0.05    0.00    0.02    0.02    0.02    0.02 
+PTGDP                  -0.01   -0.02   -0.05   -0.01    0.01    0.02    0.02    0.02 
+ELGDP                  -0.86   -1.63   -2.26   -1.68   -1.09   -0.67   -0.36   -0.13 
+ 
+Note: percent(age) difference from baseline.  
+ 
+
+=== page 32 ===
+KC-AI-13-506-EN-N

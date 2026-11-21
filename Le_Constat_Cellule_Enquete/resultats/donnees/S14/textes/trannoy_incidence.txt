@@ -1,0 +1,887 @@
+
+=== page 1 ===
+L'incidence de l'impôt sur les sociétés 
+ 
+Laurent SIMULA 
+Uppsala University et Uppsala Center for Fiscal Studies1 
+et 
+Alain TRANNOY 
+Ecole des Hautes Etudes en Sciences Sociales2 
+ 
+Résumé : 
+Nous étudions l'incidence de l'impôt sur les sociétés en équilibre général dans le cadre d'un modèle à 
+2 ou 4 secteurs. En économie fermée, le capital supporte l'essentiel de la taxe. En économie ouverte, 
+lorsqu'on suppose que le capital est un facteur mobile et pas le travail, on obtient la conclusion 
+inverse : c'est le travail qui supporte la très grande majorité de la taxe. Cette présomption semble 
+validée empiriquement. Une baisse de l'impôt sur les sociétés peut donc amener une hausse des 
+salaires lorsque tous les ajustements auront eu lieu. C'est une piste à retenir lors de la discussion sur le 
+partage des profits. 
+ 
+Titre en anglais : The Incidence of the Corporation Income Tax 
+Résumé en anglais : This article studies the incidence of the corporation income tax in a general 
+equilibrium setting with 2 or 4 sectors. In closed economy, most of the tax is borne by capital. The 
+opposite conclusion is obtained in open economy provided capital is mobile and labour is immobile : 
+labour bears most of the tax burden. This presumption is corroborated by empirical data. A decrease 
+in the coporate income tax may thus result in an increase in wages once all adjustments have taken 
+place. This point should be kept in mind when discussing how to share profits. 
+ 
+Mots clés : Incidence fiscale, impôt sur les sociétés 
+Key-words : Tax Incidence, Corporation Income Tax 
+Codes JEL/JEL Codes : H22, H25, H32 
+                                                           
+1Uppsala University, Uppsala Center for Fiscal Studies et Institut d'Economie Publique (IDEP), 
+Department of Economics, P.O. Box 513, SE-75120 Uppsala, Suède. Tél: +46 18 471 15 95. Fax: 
++46 18 471 14 78. E-mail: laurent.simula@nek.uu.se 
+ 
+2EHESS, GREQAM et Institut d'Economie Publique (IDEP), Centre de la Vieille Charité, 2 rue de 
+la Charité, 13236 Marseille cedex 02, France. E-mail: alain.trannoy@univmed.fr 
+ 
+ 
+
+=== page 2 ===
+S'intéresser à l'incidence fiscale, c'est chercher au-delà des apparences le « vrai » perdant ou gagnant de 
+l'instauration d'une taxe supplémentaire ou de la modification de son taux. 
+L'incidence statutaire, en revanche, retient que la taxe est supportée par celui qui l'acquitte. L'économiste 
+retient au contraire que dans une économie de marché où les prix des produits et des facteurs sont flexibles, 
+évoluent selon la loi de l'offre et de la demande, les prix peuvent s'ajuster à la variation de la taxe. La variation 
+des prix induite par la variation des taxes entraîne un changement dans la distribution des revenus, des profits 
+et du bien-être qui est l'objet ultime de l'incidence fiscale. 
+Ainsi, l'étude de l'incidence fiscale repose sur la partie de la science économique qui étudie comment se fixent 
+les prix ou la valeur. Les économistes ont longtemps été en désaccord sur le sujet, en distinguant une théorie 
+de la valeur d'origine marxiste et une théorie de la valeur dite néoclassique. Nous nous appuyons sur cette 
+dernière. Celle-ci, après un long cheminement au XIXème siècle et les contributions de Cournot, Walras, 
+Menger, Jevons, Marshall, Edgeworth et Pigou, trouve un aboutissement dans une formulation rigoureuse et 
+précise avec les travaux d'Arrow et de Debreu, dans les années 1950, qui établissent définitivement sa 
+cohérence logique. La théorie des prix distingue deux cadres conceptuels, l'équilibre partiel et l'équilibre 
+général. 
+Equilibres partiel ou général 
+Dans l'équilibre partiel, essentiellement établi par Alfred Marshall, on analyse l'équilibre d'un produit ou d'un 
+seul facteur, en supposant donnés le prix des autres produits et facteurs et en supposant que le niveau du prix 
+du produit ne va pas rétroagir sur ceux-ci. Cette fiction est intéressante pour analyser les effets de « premier 
+tour » de la fiscalité et les effets de court-terme. 
+L'analyse d'équilibre partiel est toujours utile et elle peut même constituer une approximation raisonnable de 
+l'analyse d'incidence lorsque le marché affecté par la taxe est petit par rapport au reste de l'économie. Par 
+exemple, si le coefficient budgétaire (la part de la dépense dans le bien sur la dépense totale) du bien soumis à 
+l'impôt ne représente que 1% de la consommation intérieure, une analyse d'incidence ne requiert qu'une 
+analyse d'équilibre partiel. L'analyse d'équilibre partiel délivre les conclusions les plus nettes et les plus 
+connues. Elles sont aussi en un certain sens les plus solides, car ne reposant pas sur des hypothèses annexes 
+non testables. 
+Lorsque la taxe intéresse tous les secteurs économiques ou une partie importante d'entre eux, une analyse 
+d'équilibre partiel est insuffisante. Elle doit être forcément complétée par une analyse d'équilibre général. Dans 
+ce cas de figure, il faut même se méfier des analyses d'équilibre partiel qui peuvent livrer des messages 
+contraires à ceux de l'analyse d'équilibre général. Les effets de diffusion dans toute l'économie peuvent en effet 
+contrecarrer les effets de premier tour. 
+L'équilibre général consiste à s'intéresser à la détermination simultanée de tous les prix d'une économie, en 
+partant du principe que toutes les demandes et les offres dépendent de tous les prix simultanément. Les prix 
+d'équilibre généraux équilibrent simultanément toutes les offres et demandes sur tous les marchés. Arrow et 
+Debreu [1954] ont démontré que, sous des conditions générales, de tels prix existaient, résolvant du même 
+coup le problème de la détermination de la valeur. 
+Ces prix d'équilibre général sont influencés par l'introduction de taxes sur les différents marchés. Idéalement, 
+on voudrait disposer d'une sorte de feuille de calcul qui, partant des taux de taxe de l'économie, détermine le 
+
+=== page 3 ===
+changement des prix sur tous les marchés. En pratique, l'analyse est cependant compliquée par le fait que si 
+l'on sait que les prix d'équilibre général existent, on ne peut cependant pas les déterminer explicitement. 
+Confrontés à cette difficulté profonde, les économistes ont alors eu recours à des modèles d'équilibre général 
+calculable. Il s'agit de maquettes stylisées, comportant une dizaine de secteurs économiques, dans lesquels les 
+acteurs économiques sont regroupés en ménages, entreprises du secteur non-financier, du secteur financier, 
+administration, secteur extérieur. Dans le cadre de ces maquettes simplifiées qui reproduisent en modèle réduit 
+la comptabilité nationale, mais avec l'information capitale supplémentaire des prix, on est en mesure de 
+calculer les prix d'équilibre en recourant à des ordinateurs de grandes capacités. Ces modèles d'équilibre 
+général calculable constituent le moyen le plus abouti pour analyser les effets sur les prix, les revenus et les 
+profits d'un changement de taxe [Le Cacheux et Touzé, 2002]. 
+Différentes tentatives de construction d'un tel modèle ont été menées pour la France [Cazes et al., 1992 ; 
+Laffargue, 2000] ; par exemple, pour modéliser l'impact des changements en matière de politique agricole, 
+pour prévoir le devenir du système de retraite en introduisant des générations dites imbriquées. En effet, 
+toutes les générations ne naissent pas en même temps, et à un moment donné, certaines générations 
+produisent pendant que d'autres consomment en tant que retraités ou étudiants. Néanmoins, à l'heure actuelle, 
+on ne peut pas considérer qu'il existe un modèle d'équilibre général calculable sur lequel on pourrait s'appuyer 
+pour fournir des estimations crédibles pour la France. On en sera donc réduit à faire état des estimations 
+fournies sur d'autres économies développées. 
+Limites du modèle d'équilibre général calculable 
+En plus des difficultés de calcul, d'autres écueils doivent être mentionnés lorsque l'on veut mobiliser l'équilibre 
+général pour analyser l'incidence fiscale. La principale difficulté est que l'on suppose que l'économie 
+fonctionne sous un régime de concurrence parfaite avec des rendements d'échelles constants. Ces deux 
+hypothèses sont fondamentalement problématiques. 
+L'hypothèse de régime de concurrence parfaite suppose que les entreprises fonctionnent comme des « 
+preneuses » de prix sur le marché, c'est-à-dire qu'elles considèrent les prix comme des données. Sur le marché 
+des biens, c'est une hypothèse hardie sauf sans doute dans le secteur de l'agriculture où l'on peut considérer 
+que les acteurs sont relativement « petits » et n'ont pas de pouvoir de marché. Dans tous les autres secteurs, les 
+entreprises définissent leur politique de prix en fonction de la concurrence et de la demande qui s'adresse à 
+elles. Elles sont des « faiseuses de prix » qui cherchent à utiliser au mieux le degré de différenciation de leurs 
+produits pour créer un pouvoir de monopole. Celui-ci réside dans le fait qu'une entreprise est capable 
+d'augmenter son prix sans perdre la totalité de ses clients. Dans un régime de concurrence parfaite, toute 
+augmentation du prix par une des entreprises entraîne au contraire la disparition totale de la demande. En 
+concurrence imparfaite, il n'en est pas ainsi parce que les produits proposés par les entreprises sont tous un 
+peu ou même très différents, par leurs fonctionnalités, l'endroit où ils sont proposés, les services qui leur sont 
+associés. Ainsi, en cherchant à renforcer une sorte de fidélité du client, les entreprises créent un pouvoir de 
+monopole qu'elles vont ensuite traduire par des prix plus élevés pour le consommateur. 
+La question des rendements d'échelle est en partie liée à la forme de concurrence. Si les rendements d'échelle 
+sont constants (c'est-à-dire que si l'on désire multiplier par deux la quantité produite, il faut exactement 
+doubler la quantité de facteurs utilisée), toutes les formes de concurrence peuvent survenir. En revanche, 
+quand les rendements d'échelles sont croissants, il ne peut exister à l'équilibre qu'un petit nombre de firmes et 
+donc la concurrence est imparfaite. On considère généralement que dans l'industrie, les coûts fixes, en raison 
+
+=== page 4 ===
+de l'importance des immobilisations, sont importants. Par conséquent, le coût moyen est localement 
+décroissant, preuve de présence de rendements croissants. Dans le secteur des services qui utilisent moins de 
+capital, l'hypothèse de rendements constants au niveau du secteur pourrait encore être retenue. 
+Il faut cependant tenir compte de deux éléments importants : effets externes d'agglomérations et facteurs 
+publics. Ils modifient la donne et renforcent l'hypothèse de rendements croissants au niveau de l'entreprise. 
+L'économie géographique a en effet mis en avant l'importance d'effets d'agglomérations qui rendent 
+l'entreprise qui s'installe près d'entreprises du même secteur ou de secteurs complémentaires plus productive 
+que celle qui s'implante dans un secteur géographique isolé. D'autre part, les infrastructures, le système 
+juridique, l'effort de recherche public, constituent des facteurs de production externes à l'entreprise qui 
+renforcent sa productivité. Effets externes d'agglomération et facteurs publics contribuent donc à l'efficacité 
+de l'entreprise, alors même que celle-ci ne paie pas directement ces facteurs. Ainsi, alors qu'en concurrence 
+parfaite, la rémunération des facteurs de production doit égaler la valeur de la production, la présence de ces 
+deux effets peut expliquer qu'il n'en soit pas de même dans l'économie contemporaine : la valeur de la 
+production pourrait excéder la rémunération des facteurs de productions, témoignant de l'existence d'une 
+sorte de surprofit provenant de la productivité de ces facteurs externes à l'entreprise. Une telle situation 
+témoigne de rendements d'échelle croissants au niveau de l'entreprise. 
+Deux hypothèses centrales au modèle d'équilibre général ne semblent donc pas satisfaites au niveau de la 
+production. Cela ne serait pas grave pour l'analyse d'incidence fiscale, s'il existait une théorie de l'équilibre 
+général qui prenne en compte ces éléments de concurrence imparfaite et de rendements croissants. Il faut 
+constater que cela n'est pas encore réellement le cas : l'économiste butte pour l'instant sur des difficultés pour 
+intégrer, en particulier, la concurrence imparfaite (pour un exemple de prise en compte de la concurrence 
+imparfaite, voir par exemple Mercenier [2002]). En conséquence, nous n'avons pas de théorie générale des 
+prix dans l'environnement qui est le notre. Cela contribue à fragiliser les conclusions que l'on peut tirer d'une 
+analyse d'équilibre général. Il convient de conserver ce point à l'esprit dans le commentaire des résultats. Ces 
+précautions d'usage circonscrivent l'intérêt des analyses d'incidence d'équilibre général. On convient 
+généralement que, malgré les réserves que nous venons de souligner, la théorie des prix en concurrence 
+parfaite garde un intérêt car elle met en avant des forces d'interdépendance qui ont tout lieu d'exister 
+également en concurrence imparfaite. A côté de ces forces, il conviendrait sans doute de tenir compte d'autres 
+forces qui n'ont pas encore été bien comprises. 
+Une autre faiblesse des modèles d'équilibre général provient de ce qu'ils ont été longtemps des modèles 
+d'économie fermée. Le but de l'équilibre général est de vouloir tout expliquer, de tout « endogénéiser », 
+c'est-à-dire que la valeur des variables est définie par l'équilibre du modèle et non à l'extérieur du modèle. 
+Dans une économie ouverte, il faut intégrer en bonne logique le comportement de l'étranger, à savoir pour 
+chaque type de bien, une équation d'offre et de demande, ainsi qu'une équation précisant comment 
+s'effectuent les échanges de facteurs entre l'économie domestique et l'étranger. Ce faisant, on rajoute des 
+éléments de complexité redoutables car « l'étranger » est bien évidemment très hétérogène. D'où l'idée de la 
+construction de modèles d'équilibre général calculable intégrés comme celui développé aux Pays-Bas par le 
+CPB Netherlands Bureau for Economic policy Analysis. Plus le modèle est complexe, et plus la tendance boîte 
+noire se renforce avec le fait que les non-initiés au modèle ignorent souvent quelles sont les hypothèses 
+auxiliaires qui permettent de faire tourner la machinerie. Pour la France, le modèle MIRAGE développé par le 
+CEPII est un modèle d'équilibre général calculable multi-sectoriel et multi-régional, destiné à l'analyse des 
+politiques commerciales (voir par exemple Decreux et Valin [2007]). Il incorpore des éléments de concurrence 
+
+=== page 5 ===
+imparfaite, de différenciation des produits par variétés et par gammes de qualité, et d'investissement direct à 
+l'étranger, dans un cadre dynamique séquentiel où le capital installé est supposé immobile. 
+Cependant, pour traiter de l'influence de l'étranger, il est souvent plus facile de partir d'hypothèses simples de 
+modélisations sur la question de la mobilité des facteurs de production. La question centrale qui se joue est de 
+savoir dans quelle mesure le capital est effectivement plus mobile que le travail sous toutes ses formes (travail 
+qualifié et peu-qualifié). La question de l'existence d'un marché unifié du capital à l'échelle mondiale et 
+européenne est cruciale pour les questions d'incidence. 
+La question de l'échelle de temps est également fondamentale. Les mécanismes d'ajustement de la demande et 
+de l'offre demandent du temps. C'est déjà vrai en équilibre partiel et l'inertie provient bien sûr des rigidités de 
+pensée mais elle provient plus essentiellement de l'inertie due au capital installé. Une taxe sur l'énergie ne 
+produira tous ses effets d'équilibre partiel que lorsque les consommateurs auront tous procédé aux 
+changements dans les équipements installés (par exemple de chauffage). La durée économique des 
+amortissements est alors essentielle. A titre illustratif, dans le secteur automobile, le parc français de véhicules 
+particuliers compte 30 millions d'unités. Il se renouvelle chaque année à raison de 2 millions de véhicules (en 
+moyenne). Ainsi le parc met-il 15 années à se renouveler complètement. L'effet d'équilibre partiel causé par le 
+changement d'une taxe (par exemple une écotaxe) sur le marché automobile met donc 15 ans à se produire en 
+totalité. La diffusion dans tous les autres secteurs de l'économie prendra au moins ce temps-là, le temps d'une 
+génération pour que tous les effets d'incidence puissent être comptabilisés. Il s'ensuit qu'à long terme les effets 
+de l'incidence fiscale risquent de passer inaperçus, car difficilement discernables de tous les autres effets qui se 
+seront produits entre temps. Le recours à des méthodes empiriques pour déceler les effets d'incidence est 
+donc difficile, sauf à saisir les effets instantanés, les effets de très court terme en quelque sorte. 
+On aboutit donc à une sorte de partage des tâches pour l'étude de l'incidence. D'une part, l'analyse empirique 
+peut être utile pour détecter l'effet quasi-instantané qu'un changement de fiscalité a sur les prix. D'autre part, 
+les effets de long terme ne peuvent guère être analysés qu'en ayant recours à une analyse théorique d'équilibre 
+partiel ou général. Quand la mesure fiscale n'intéresse qu'un seul secteur, par exemple le secteur de la 
+restauration, l'analyse d'équilibre partiel s'avère suffisante en première approximation. Elle doit être menée 
+successivement en concurrence parfaite et imparfaite pour vérifier la robustesse des conclusions à la forme de 
+concurrence. En revanche, lorsqu'on s'intéresse à des impôts généralistes type impôt sur les sociétés ou taxe 
+professionnelle, une analyse d'équilibre général se révèle nécessaire. 
+Nous nous concentrons dans cet article sur l'incidence de l'impôt sur les sociétés. Nous cherchons à apprécier 
+si ce sont les entreprises qui supportent effectivement cet impôt. 
+Les variables principales pour la détermination de l'incidence économique 
+des taxes 
+Seules les personnes physiques supportent le coût réel d'une taxe. Le code des impôts tout comme le droit 
+traite de certaines entités comme si elles étaient des individus. L'exemple le plus significatif est la grande 
+entreprise par actions. Cette création est très utile, mais elle induit des confusions pour la question de 
+l'incidence fiscale. Si l'on raisonne à long terme, et l'incidence fiscale privilégie justement le long terme, seules 
+des personnes physiques telles que salariés, consommateurs, épargnants, actionnaires, propriétaires fonciers 
+supportent le poids des impôts. 
+
+=== page 6 ===
+Deux autres simplifications doivent également être mentionnées. La première est que, généralement, la 
+variation du taux de taxe est associée à une variation des dépenses de l'Etat. La façon dont l'Etat pourrait 
+dépenser l'argent supplémentaire pourrait introduire une difficulté additionnelle. Il est supposé dans presque 
+toutes les études que l'Etat ne dépense pas cet argent supplémentaire : l'Etat reverse le produit de cet impôt 
+sous forme d'une allocation forfaitaire à tous les consommateurs qui le dépensent sous une forme usuelle. 
+Cette hypothèse de pure commodité permet de concentrer l'analyse sur l'incidence « pure » de la fiscalité. La 
+seconde simplification est, qu'en dépit de la multitude d'impôts qui coexistent en France comme dans les 
+autres pays, nous procédons comme si un impôt était introduit dans un monde sans aucune autre sorte de 
+taxe. Il n'existe aucune autre distorsion par rapport au laisser-faire que l'impôt considéré, et c'est évidemment 
+une simplification qui n'est pas que de pure forme. Par exemple, on analyse les effets de l'impôt sur les 
+sociétés, en supposant que c'est le seul impôt payé par les entreprises, alors qu'elles acquittent aussi la taxe 
+professionnelle, la taxe sur les propriétés bâties, les cotisations employeurs, la TVA, etc. L'effet d'incidence de 
+la totalité des impôts n'a aucune raison d'être la somme des effets d'incidence de chacun des impôts pris 
+isolément ou séparément. Les effets individuels peuvent se renforcer ou, au contraire, se neutraliser. C'est une 
+limite qu'il faut également prendre en compte et qui correspond à l'état de l'art. 
+Ainsi, tous les bémols introduits dans cette introduction indiquent que face à une question compliquée, les 
+économistes ont essayé de définir un cadre de raisonnement qui permet de discuter de ces questions d'une 
+façon rigoureuse. Ce protocole de discussion permet de délimiter les réponses auxquelles on peut s'attendre. Il 
+ne permet pas d'apporter le gage de la vérification poppérienne, dans la mesure où les résultats sont 
+essentiellement non falsifiables. 
+L'analyse d'incidence repose sur les valeurs d'un petit nombre de paramètres : élasticité de demande et 
+élasticité d'offre pour les biens et les facteurs affectés par la taxe, ainsi qu'élasticité de substitution entre travail 
+et capital. Nous rappelons ci-après la définition de ces concepts pour rendre plus facile la lecture des 
+raisonnements développés dans les prochaines sections. 
+Les concepts d'élasticité sont intéressants car ils sont invariants aux unités de mesure choisies. L'élasticité de la 
+demande et de l'offre présentent une mesure de la sensibilité de la quantité demandée ou offerte au prix. Elles 
+permettent d'anticiper l'effet local d'une variation de taxe sur les prix d'équilibre via les changements des 
+quantités demandées et offertes. 
+Elasticité de la demande et de l'offre 
+L'élasticité de la demande au prix est le rapport de deux pourcentages. Elle mesure la réaction de la quantité 
+demandée en pourcentage face à une variation du prix en pourcentage. Cette élasticité est généralement 
+négative puisque, usuellement, la demande baisse lorsque le prix augmente. Ainsi une élasticité prix de la 
+demande de -1 indique que la demande baissera de 10% si le prix du produit augmente de 10%. La valeur est 
+supposée égale à la hausse ou à la baisse du prix. Les valeurs de l'élasticité de la demande sont estimées au 
+moyen de modèles économétriques où on essaie de repérer des variations de prix exogènes (due à l'offre ou au 
+régime réglementaire ou fiscal) afin de calculer leurs impacts sur la demande. 
+Une valeur supérieure à 1 en valeur absolue indique que la demande est élastique au prix. Une valeur proche 
+de 0 correspond à une valeur peu élastique. A titre d'exemple, le Tableau 1 mentionne les valeurs des 
+élasticités prix de groupe de biens estimée par Ruiz et Trannoy [2008] à partir de l'enquête des budgets de 
+familles 2000. Le poste loisirs comprend des biens très élastiques au prix, alors que le poste logement et 
+énergie fait référence à des biens peu élastiques au prix. Une courbe de demande totalement verticale 
+
+=== page 7 ===
+correspond à une demande totalement inélastique au prix. Une variation du prix n'a aucun impact sur la 
+demande. Dans le secteur de l'énergie, en raison des phénomènes d'inertie dont il a été fait état ci-dessus, on 
+estime que la demande est très peu élastique au prix à court terme (entre -0,05 et -0,01). Une augmentation de 
+10% du prix ne réduit la consommation que de 1% à 0,05%. 
+ 
+Tableau 1 : Estimation des élasticités-prix et des élasticités revenus  
+ 
+Élasticité prix 
+directe 
+Élasticité 
+revenu 
+Alimentaire à 
+domicile 
+- 0,81
+0,721 
+0,169
+0,057 
+Tabacs et 
+Alcools 
+- 0,522
+0,398 
+0,097
+0,062 
+Habillement 
+- 0,527
+0,888 
+0,066
+0,026 
+Logement et  
+énergie 
+- 0,383
+0,67 
+0,15 
+0,059 
+Automobile et 
+Transport 
+- 0,549
+1,107 
+0,01 
+0,016 
+Loisirs 
+- 1,306
+1,212 
+0,032
+0,026 
+Divers 
+- 0,953
+1,085 
+0,142
+0,051 
+Alimentation à 
+l'extérieur 
+- 0,512
+1,22 
+0,066
+0,024 
+Lecture : les élasticités-prix (compensées) et élasticité-revenu au point moyen de l'échantillon de la 
+population des L’écart type relatif à chaque coefficient figure en italique. 
+Champ : Population des ménages (Budget des Familles 2000). 
+Source : Ruiz-Trannoy [2008]. 
+ 
+
+=== page 8 ===
+Une situation assez particulière mais commode est celle où l'élasticité prix est constante tout le long de la 
+courbe de demande. On emploie alors le terme de demande iso-élastique et cela indique que la courbe de 
+demande est aussi élastique lorsque les prix sont très élevés que très bas. Les prix de l'énergie nous fournissent 
+encore un exemple qui infirme cette hypothèse. Lors du pic du prix de pétrole à plus de $150 le baril, les 
+ménages ont effectivement bien réduit leur demande d'essence dans des proportions qui n'avaient jamais été 
+observées auparavant pour des variations de même amplitude autour de prix plus faibles. 
+L'élasticité de l'offre répond à la même définition. Elle est le rapport de deux pourcentages. Elle indique dans 
+quelle proportion la quantité offerte augmente lorsque le prix du bien augmente d'un certain pourcentage. 
+Cette valeur est positive. Par exemple, une valeur de 0,5% indique que si le prix s'accroit de 10%, la quantité 
+offerte augmente de 5%. Cette valeur est très largement dépendante des hypothèses sur la libre-entrée dans le 
+secteur. En effet, l'offre peut augmenter soit parce que les compétiteurs existants augmentent la quantité mise 
+sur le marché, soit parce que de nouveaux producteurs alléchés par des prix plus élevés -- et donc peut-être 
+des profits substantiels -- entrent sur le marché. Pour les premiers, la forme de la courbe de coût marginal, et 
+donc la forme des rendements d'échelle, sont très importants. Si les rendements d'échelle sont purement 
+constants, le coût marginal est constant. La courbe d'offre est infiniment élastique. C'est l'hypothèse de base 
+d'une situation de concurrence parfaite en raisonnant à long terme. 
+L'élasticité de l'offre de travail au salaire net est importante à connaître pour tout ce qui touche par exemple à 
+l'incidence des cotisations sociales. Les estimations les plus récentes effectuées par Landais pour les hauts 
+revenus livrent des valeurs autour de 0,15 pour les salariés et de 0,5 pour les non-salariés. Ainsi, les salariés 
+dans le haut de la distribution des revenus réagiraient à une baisse du taux de taxe marginal de 10% (par 
+exemple récemment en 2006 la baisse du taux de taxe de la dernière tranche de l'impôt sur les revenus passée 
+de 50% à 40%) par une augmentation de leur effort de travail qui feraient augmenter leurs revenus de 1,5%. 
+Les non-salariés, qui sont eux moins contraints sur leur offre de travail, augmenteraient leur revenu de 5%. 
+L'élasticité de l'investissement direct au taux de taxe de l'impôt sur les sociétés s'établirait aux alentours de -1  
+selon les estimations de Benassy et al. [2007]. 
+Elasticité de substitution du capital et du travail 
+Le dernier concept important est celui de l'élasticité de substitution du capital au travail. Face à une variation 
+relative du prix des facteurs, les entreprises vont ajuster la technique de production utilisée. Par exemple, si le 
+coût du travail augmente par rapport au coût du capital, les entreprises vont sans doute chercher une 
+technique de production plus économe en travail et plus gourmande en capital. Cette substitution du capital au 
+travail dépend de l'éventail des choix techniques possibles. Par exemple, on a pu noter que l'introduction de 
+stations-service automatiques en France a précédé leur développement aux Etats-Unis. Le fait que le coût du 
+travail peu qualifié ait été plus cher en France qu'aux Etats-Unis est une raison qui a été évoquée pour 
+expliquer un tel phénomène. 
+Cette élasticité de substitution est également un rapport entre deux pourcentages, le pourcentage 
+d'augmentation du rapport de la quantité de facteurs utilisée sur le pourcentage d'augmentation du rapport du 
+coût des facteurs. Ainsi une valeur de 1 indique que face à une augmentation de 10% du coût du travail par 
+rapport au coût du capital, le rapport de la quantité de travail à la quantité de capital s'ajuste par une baisse de 
+10%. Si les facteurs de production sont très complémentaires, l'élasticité de substitution sera faible. Ce qui est 
+en jeu est vraiment l'une des propriétés les plus importantes des fonctions de production. Le cas de fonctions 
+de production à élasticité de substitution constante représente une hypothèse commode pour l'analyse. 
+
+=== page 9 ===
+Si on agrège le travail en un seul facteur, alors une élasticité de substitution égale à 1 est considérée comme la 
+valeur la plus plausible. Mais l'intervalle de confiance descend à -0,6 et peut monter jusqu'à à 1,1 ou 1,2. 
+On considère généralement que le travail qualifié est très complémentaire au capital. En revanche, on 
+considère que le travail non qualifié est plutôt substituable au capital. Gianella et Lagarde [1999] ont obtenu 
+pour la France une estimation de l'élasticité du travail non qualifié au facteur agrégé, le travail qualifié et le 
+capital étant supposés strictement complémentaires. Ils obtiennent une valeur de -0,6 à -0,7 valable quel que 
+soit le secteur considéré, le secteur manufacturier ou les services. C'est cette valeur que nous retenons dans la 
+suite de l'analyse. 
+Nous commençons par examiner la nature de l'impôt sur les sociétés (Section 2). Nous rappelons ensuite les 
+résultats du modèle d'Harberger en économie fermée (Section 3). Le même type de modèle est ensuite adapté 
+pour traiter de l'économie ouverte (Section 4). Enfin, il est fait état d'une récente littérature économétrique qui 
+obtient quelques résultats encore fragiles provenant d'un examen des données de panel, c'est-à-dire présentant 
+une variabilité temporelle et en coupe (Section 5). 
+L'impôt sur les sociétés : un impôt sur le revenu? 
+Il convient avant d'aborder l'étude de l'incidence de l'impôt sur les sociétés de s'interroger sur la nature même 
+de celui-ci et sur ses rapports avec l'impôt sur le revenu. Un impôt sur les sociétés peut être vu comme un 
+succédané de l'impôt sur le revenu. Cependant, au moins trois conditions doivent être satisfaites pour que ce 
+soit effectivement le cas. 
+Premièrement, le taux d'impôt sur les sociétés doit être identique à celui de l'impôt sur le revenu. Dans le cas 
+d'un impôt progressif, le taux d'impôt sur les sociétés doit être identique au taux d'impôt sur le revenu de la 
+dernière tranche. Deuxièmement, le montant de l'impôt sur les sociétés acquitté à due concurrence du 
+montant des dividendes doit être entièrement déductible pour les actionnaires de l'impôt sur le revenu sous la 
+forme, par exemple, d'un avoir fiscal. Ces deux dispositions assurent simultanément que, pour la partie 
+dividendes des revenus, l'impôt sur les sociétés ne représente qu'une retenue à la source pour l'impôt sur le 
+revenu. La troisième disposition concerne l'imposition des plus-values lors de la cession ou ventes d'actions. 
+Le raisonnement fait intervenir le fait que la valeur d'une société pour ses actionnaires provient de la valeur 
+actuelle des profits futurs. Il faut s'assurer que les revenus qui résultent d'une plus-value en cas de cession ou 
+de ventes d'actions soient taxés au même taux que les dividendes. Pour cela, l'impôt sur les sociétés doit être le 
+même sur les profits distribués et non distribués, et les plus-values ne doivent pas être imposées. Ainsi l'impôt 
+sur les sociétés sur les profits non distribués joue-t-il le rôle d'une retenue à la source anticipée sur les 
+plus-values effectuées à l'avenir. 
+Ces trois dispositions ne sont pas satisfaites en France. Le taux facial de l'impôt sur les sociétés est d'une part 
+inférieur au taux d'impôt sur la dernière tranche de l'impôt sur le revenu. L'avoir fiscal a en outre été supprimé 
+en 2004. De plus, les dividendes sont imposés au taux de 30% si on cumule le prélèvement libératoire et les 
+prélèvements sociaux de type CSG. Enfin, les plus-values de droit commun sont imposées au taux de 33,33% 
+alors que les plus-values de long terme sont exonérées, sous réserve d'une quote-part de 5% taxée au taux 
+normal de l'IS. Il apparaît donc que l'impôt sur les sociétés ne fonctionne pas en France comme une simple 
+retenue à la source pour l'impôt sur le revenu. Dès lors, il nécessite une étude spécifique quant à son 
+incidence. 
+
+=== page 10 ===
+La première remarque importante est que cet impôt frappe le capital en tant que facteur de production. Ce 
+point de vue mérite d'être développé car pour un fiscaliste d'entreprise, il y a lieu d'établir une distinction 
+importante entre impôt sur les sociétés et impôt sur le capital comme, par exemple, la taxe professionnelle 
+pour la fraction qui impose les immobilisations. Les deux impôts n'ont pas les mêmes effets dans toutes les 
+dimensions et ce point sera étayé dans le chapitre suivant. Toutefois, ces différences ne doivent pas faire 
+oublier leurs similitudes dans le fait que lorsqu'on se place du point de vue de l'actionnaire de l'entreprise, de 
+celui qui alloue son épargne entre différentes options possibles, les deux impôts ont pour propriété commune 
+de réduire la rentabilité du capital. 
+Selon le point de l'incidence fiscale, il convient de privilégier le point de vue de l'actionnaire car l'impôt n'est 
+supporté économiquement que par les personnes physiques. Etant donné que l'impôt sur les sociétés est un 
+impôt qui augmente le coût d'usage du capital, il faut s'attendre à ce qu'il conduise à faire fuir le capital. Les 
+actionnaires vont moins investir dans les sociétés par actions s'ils ont la possibilité d'investir ailleurs. 
+Lorsqu'on raisonne en économie fermée, les actionnaires peuvent se reporter sur le secteur des entreprises 
+individuelles non assujetties à l'impôt sur les sociétés mais à l'impôt sur le revenu au titre des bénéfices 
+industriels et commerciaux. Lorsqu'on raisonne en économie ouverte, une possibilité supplémentaire apparaît : 
+l'investissement dans les entreprises étrangères. Ces deux mouvements de fuite de capital sont à l'origine de 
+l'analyse d'incidence, car elle témoigne de la mobilité du facteur capital. Un facteur qui n'est pas mobile, dans 
+un sens à préciser, ne peut pas échapper à la taxe. Il supporte par définition le poids facial de la taxe. En 
+revanche, le mouvement de fuite du facteur mobile lui permet d'échapper en partie à la taxe et, ainsi, de faire 
+dévier la charge de la taxe sur d'autres facteurs. 
+L'analyse qui va être conduite suppose que le régime fiscal est neutre par rapport au financement de 
+l'entreprise. L'effet de levier n'existe pas et la valeur de l'entreprise ne dépend pas de sa structure financière. 
+Dans un régime où les intérêts d'emprunt sont déductibles du résultat de l'entreprise imposable à l'impôt sur 
+les sociétés, une condition doit être satisfaite pour assurer la neutralité vis-à-vis de la structure financière. Cette 
+condition demande que le taux de rétention sur les obligations (1 moins le taux d'impôt) soit égal au produit 
+du taux de rétention pour l'impôt sur les sociétés et de celui pour les dividendes. En France, cette dernière est 
+violée dans des proportions très importantes. Du côté du financement par l'emprunt, le taux de rétention est 
+égal à 70%. Du côté du financement par augmentation de capital, le taux de rétention est le produit de 67% et 
+de 70%, soit 47%. Soit un net avantage pour le premier type de financement. 
+Il est difficile de mener une analyse d'incidence lorsque la structure financière n'est pas neutre. Il n'est pas sûr 
+que les résultats essentiels dont il sera fait état en seraient gravement perturbés, tant que l'on ne distingue pas 
+créanciers et actionnaires parmi ceux qui ont engagé du capital dans l'entreprise. L'analyse d'incidence ferait 
+apparaître des transferts de charge entre titulaires d'obligations et actionnaires. L'analyse traditionnelle dans les 
+années 1940 et 1950 telle qu'elle ressortait des manuels de finance publique faisait apparaître une position très 
+nuancée et très précautionneuse où la charge de l'impôt sur les sociétés était répartie en trois parts, une sur les 
+actionnaires sous la forme d'une baisse du rendement du capital, une seconde sur les salariés sous la forme 
+d'une baisse des salaires et une troisième sur les consommateurs sous la forme d'une hausse de prix. La 
+confusion principale véhiculée par cette vision concernait la dimension temporelle de l'incidence. Les 
+actionnaires vont bien-sûr être dans un premier temps ceux qui vont acquitter la taxe. Mais rapidement, 
+l'épargne va déserter les placements à bas rendements. Ce mouvement va induire un changement dans 
+l'équilibre du marché du capital. Cet afflux de capital dans d'autres compartiments va engendrer une baisse des 
+rendements en raison de la loi des rendements décroissants. Ainsi, tous les segments du marché du capital 
+vont avoir tendance à subir une baisse de rendement. Si le rendement des actions baisse, le taux d'intérêt réel 
+
+=== page 11 ===
+sur les obligations, le taux de rendement sur les investissements fonciers et immobiliers et le taux d'intérêt réel 
+sur les comptes bancaires vont également évoluer à la baisse. Si les actionnaires sont bien les vrais perdants 
+dans le court terme, tant que les ajustements de prix et de salaires n'ont pas eu le temps de se réaliser, il n'en 
+est pas de même à plus long terme lorsque les prix des produits vont être poussés à la hausse et les salaires à la 
+baisse. Le processus de convergence du marché du capital vers un nouvel équilibre va ébranler à son tour les 
+marchés du travail et des biens qui vont dès lors s'ajuster en conséquence. 
+La résultante de ces ajustements multiples est difficile à prévoir sans le recours à un modèle d'équilibre général 
+tel que celui publié par Harberger [1962]. Cet article est devenu l'un des classiques de la science économique. Il 
+présente un modèle qui réduit l'économie des Etats-Unis à une économie à deux secteurs, le secteur des 
+sociétés et le reste des entreprises. Il est montré que l'impôt sur les sociétés n'est pas supporté par les seuls 
+actionnaires, mais par tous les détenteurs de capitaux. Il explore la possibilité que la taxe soit transférée sur le 
+travail et la nature des changements de prix dans les deux secteurs. Harberger conclut que pour déterminer le 
+potentiel de transfert de la taxe au travail ou à d'autres secteurs, il convient d'examiner le degré d'intensité 
+capitalistique de chaque secteur, le degré de substituabilité des deux facteurs et l'élasticité de la demande pour 
+les biens produits par les deux secteurs. L'essentiel de l'analyse consiste à déterminer ce qui est fixe, quelles 
+sont les quantités relativement immobiles et qu'elles sont celles qui le sont moins, qu'il s'agisse de 
+consommateurs ou des facteurs de production. 
+Incidence de l'impôt sur les sociétés en économie fermée 
+Dans une économie en autarcie, deux facteurs de production, travail et capital existent en quantités données et 
+ne varient donc pas avec leurs rendements. 
+L'hypothèse que le montant d'épargne ne varie pas beaucoup avec le taux d'intérêt ne contredit pas forcément 
+la théorie économique standard. En effet, une petite augmentation du taux d'intérêt a un effet théoriquement 
+ambigu. D'une part, la constitution d'une épargne se révèle plus rentable et donc l'épargne est encouragée. 
+D'autre part, le relèvement du taux d'intérêt se traduit par une hausse de la richesse intertemporelle de 
+l'individu. L'individu peut désirer consommer plus aujourd'hui puisqu'il se sent plus riche et ce second effet va 
+dans le sens d'une diminution de l'épargne. Les travaux économétriques ont eu jusqu'ici du mal à conclure à 
+une grande sensibilité de l'épargne au taux d'intérêt dans une plage de valeurs raisonnables. La force de travail 
+étant donnée, l'offre de travail est insensible au taux de salaire. Dans l'introduction, nous avons fait état de 
+faibles valeurs pour l'élasticité de l'offre de travail au taux de salaire net. En conséquence, si ces hypothèses de 
+fixité du travail et du capital représentent incontestablement des limites, elles ne constituent pas forcément du 
+moins des non-sens économiques. 
+Deux secteurs produisent des biens différents. Le secteur 1 est organisé en entreprises gérées en sociétés et le 
+second en entreprises individuelles. Les facteurs de production sont parfaitement mobiles entre les deux 
+secteurs. Ainsi à l'équilibre général, le taux de rendement du capital doit être égalisé entre les deux secteurs, 
+tout comme le taux de salaire. Un impôt sur les sociétés est institué dans le secteur 1. Aucun impôt n'est 
+institué dans le secteur 2. Il s'ensuit que le taux de rendement une fois le capital taxé dans le secteur 1 doit être 
+égal au taux de rendement du capital dans le secteur 2. Le consommateur a les mêmes préférences qu'il soit 
+salarié du secteur 1, du secteur 2, ou bien actionnaire du secteur 1 ou 2. 
+Le but de l'analyse est d'étudier comment l'introduction de l'impôt sur les sociétés modifie l'équilibre général 
+de cette économie stylisée : comment va-t-elle perturber les rendements des facteurs à l'équilibre, les prix des 
+
+=== page 12 ===
+produits, tout ceci par rapport à une situation de laisser-faire ? La situation de référence est donc une situation 
+où les entreprises individuelles ne paient pas d'impôt du tout, ce qui nous éloigne évidemment du 
+fonctionnement des économies réelles. 
+Peut-être la plus grande surprise — qui a beaucoup contribué à répandre l'analyse — est-elle la conclusion 
+suivante. Le scenario dans lequel le capital supporte 100% de l'impôt sur les sociétés est loin d'être une 
+curiosité intellectuelle. Loin de constituer un cas limite, il constitue une situation intermédiaire dans l'éventail 
+des possibles. 
+Comment expliquer que le capital puisse supporter plus de 100% du montant de la taxe ? Une première raison 
+tient dans ce que le coût pour l'économie comprend également la charge morte de la taxe. Quand une taxe est 
+prélevée, les consommateurs perdent une partie de leur surplus, les producteurs perdent une partie de leur 
+profit, et l'Etat encaisse un supplément de revenu. Sauf cas exceptionnel, ce supplément de revenu est 
+toujours inférieur à la perte de surplus du consommateur et du producteur. La différence constitue la charge 
+morte. Elle croît comme le carré de la taxe. En conséquence, il se peut très bien qu'un facteur ou qu'une 
+catégorie supporte plus de 100% de la taxe. Elle supporte alors aussi tout ou partie de la charge morte. 
+Cette raison n'est pas la seule qui puisse être avancée. Notons tout d'abord que la situation dans laquelle le 
+capital supporte 100% de la taxe correspond au cas d'école suivant. D'une part, les rendements d'échelle sont 
+constants dans les deux secteurs. D'autre part, l'élasticité de substitution du capital au travail est égale à -1 dans 
+les deux secteurs. Si ces deux hypothèses sont vérifiées, la fonction de production est de type Cobb-Douglas. 
+Les préférences des consommateurs -- elles-aussi de type Cobb-Douglas -- sont telles que la structure de 
+consommation ne change pas lorsque les individus deviennent plus riches. Les individus consomment 
+toujours pour des prix donnés la même proportion de biens produits par le secteur des sociétés et de biens 
+produits par le secteur des entreprises individuelles. 
+Pour s'éloigner de ce cas d'école où le capital supporte complètement le poids total de la taxe, il convient de 
+s'écarter de ces hypothèses, ce qui permet de mieux saisir la mécanique des forces. Deux effets sont à l'œuvre : 
+un effet dit de production et un effet de substitution. Le calcul d'incidence provient d'intensité respective de 
+ces deux effets. L'effet de production résulte de ce que la production baisse dans le secteur 1 en réponse à la 
+baisse de la demande. Cette baisse de la demande résulte de la hausse des prix qui, elle-même, résulte de la 
+hausse du coût de production dans ce secteur. La force de cet effet de production dépend de l'élasticité de la 
+demande au prix du bien produit par le secteur 1. Plus la demande est élastique, et plus cet effet de production 
+déprime la production du facteur 1. L'effet de substitution se manifeste dans le secteur des sociétés et provient 
+de la hausse du coût d'usage du capital. Celui-ci a relativement augmenté par rapport au coût du travail. Toutes 
+choses égales par ailleurs, cette hausse du prix relatif du capital va entraîner la recherche de techniques de 
+production moins intensives en capital. L'intensité de cet effet de substitution est reliée à l'élasticité de 
+substitution dans le secteur 1. 
+Nous avons ainsi décrit la mécanique des effets de premier tour. Comme les marchés sont interdépendants, 
+ces effets de premier tour vont modifier l'équilibre sur les marchés des facteurs. Pour quelles raisons est-il 
+probable que le rendement du capital diminue, et même diminue fortement ? L'effet de substitution nous dit 
+que la demande de capital baisse dans le secteur 1, ce qui intrinsèquement diminue son prix puisque l'offre est 
+fixe. L'effet de production diminue la production du secteur 1. Si ce secteur est plus capitalistique que le 
+secteur 2 -- une hypothèse hautement plausible puisqu'il s'agit du secteur des entreprises organisées en société, 
+l'organisation en société se justifiant essentiellement par l'importance du capital social --, cela constitue une 
+
+=== page 13 ===
+seconde raison pour que la demande de capital baisse. Ces deux effets se complètent pour expliquer que le 
+taux de rendement du capital diminue dans toute l'économie. 
+Que se passe t-il pour le facteur travail ? Les deux effets jouent en sens contraire. L'effet substitution pousse à 
+l'utilisation accrue du facteur travail dans le secteur 1. Cet effet substitution est cependant tempéré par l'effet 
+production qui joue à la baisse. En revanche, l'effet production favorise un accroissement de production dans 
+le secteur 2 sous l'effet d'une hausse de la demande puisque le prix relatif du secteur 2 par rapport au secteur 1 
+a baissé. Comme nous avons supposé que le secteur 2 était plus intensif en travail, cela entraîne une hausse de 
+la demande de travail dans le secteur 2. Ainsi, la demande de travail de travail augmente dans le secteur 2 et, 
+peut-être aussi, dans le secteur 1. Comme nous avons supposé que l'offre est en quantité fixe, le salaire doit 
+augmenter dans toute l'économie. 
+Ces effets de second tour entrainent d'autres ajustements. La hausse relative du prix du facteur travail par 
+rapport au facteur capital que nous venons d'obtenir va par elle-même susciter une moins grande demande de 
+travail à l'étape d'après et donc cette hausse des salaires va avoir tendance à s'amortir dans les phases 
+subséquentes. 
+Si la description finale du nouvel équilibre sollicite un raisonnement mathématisé qui est en dehors de l'épure, 
+il apparait cependant probable que dans le cas d'un secteur de sociétés plus capitalistique que le secteur des 
+entreprises individuelles, les salaires vont augmenter dans toute l'économie. Cette seule constatation est 
+suffisante pour démontrer intuitivement le résultat essentiel d'Harberger. 
+Si l'on en reste à la mesure de la charge de la taxe et que l'on exclut la prise en compte de la charge morte, 
+alors l'incidence de la taxe est par définition égale à son montant. Si parmi les acteurs de l'économie, on trouve 
+des gagnants qui voient leur situation s'améliorer (c'est semble-t-il le cas pour les salariés dans le modèle 
+d'Harberger), il faut nécessairement que les capitalistes perdent plus que le coût total de la taxe, puisque le jeu 
+est à somme nulle. C'est l'essence du résultat d'Harberger. Sous les hypothèses posées, mais pour une très 
+grande plage de valeurs des paramètres (élasticité de la demande, élasticité de substitution, intensité 
+capitalistique des secteurs), les capitalistes supportent plus que 100 % de l'instauration de l'impôt sur les 
+sociétés par rapport au laisser-faire. 
+Ce résultat a été obtenu en économie fermée. Quelle portée peut-il avoir dans une économie mondialisée ? 
+Une économie fermée peut être considérée comme une stylisation d'un monde où un grand groupe de pays 
+fait varier simultanément le taux de taxe de l'impôt sur les sociétés. Les pays européens ont entamé au cours 
+des vingt dernières années une baisse importante des taux de l'impôt sur les sociétés. Les taux statutaires sont 
+ainsi passés de 50% à 30-35% en l'espace de vingt ans pour l'Europe Occidentale. Cette baisse n'a pas été 
+coordonnée, mais résulte d'un équilibre non-coopératif. Des phénomènes de baisse ont également eu lieu dans 
+d'autres parties du monde. Si on devait analyser plus avant l'incidence de ce type de baisse généralisée, la 
+mécanique à l'œuvre n'en serait pas très différente en première approximation et on pourrait alors en déduire 
+deux propositions qui pourraient être testées économétriquement. 
+La première proposition est que, toutes choses égales par ailleurs, le taux de rendement du capital a dû 
+augmenter sur la période. Ainsi, les capitalistes mais aussi les propriétaires d'entreprises individuelles auraient 
+constitué les principaux bénéficiaires de cette baisse d'imposition. La seconde proposition est que, ceteris paribus 
+et dans un modèle sans croissance, les salaires auraient pu être affectés et être tirés vers le bas. Ces deux 
+énoncés restent difficilement testables dans la mesure où la clause ceteris paribus est tout sauf vérifiée. Nous 
+examinons maintenant si ce résultat vaut lorsque l'économie s'ouvre au commerce extérieur. 
+
+=== page 14 ===
+Incidence fiscale de l'impôt sur les sociétés en économie ouverte 
+Il nous faut d'abord préciser dans quel contexte une économie ouverte peut se révéler adéquate pour décrire 
+les phénomènes d'incidence de l'impôt sur les sociétés. Lorsqu'un pays isolé, fusse-t-il les Etats-Unis, prend le 
+parti de modifier le taux de l'impôt sur les sociétés, le modèle de l'économie ouverte semble adapté pour le 
+décrire. 
+    Le modèle d'économie ouverte contient comme cas particulier le modèle du petit pays où le taux de 
+rendement du capital net d'impôt doit forcément s'ajuster au taux de rendement du capital dans le reste du 
+monde, qui est une donnée. Ce modèle du petit pays est bien adapté afin de capter les effets de la baisse de 
+l'impôt sur les sociétés intervenue en Irlande ou en Estonie. Toutefois, le modèle d'économie ouverte ne se 
+résume pas à celui-ci. 
+    Pour le cas d'un grand pays, on peut supposer que si le marché des capitaux fonctionne et est bien 
+interconnecté, le taux de rendement marginal du capital doit s'égaliser entre le pays et le reste du monde. Le 
+taux de rendement marginal net d'impôt dans le pays doit donc être égal au rendement marginal net d'impôt 
+dans le reste du monde. Le taux de rendement dans le reste du monde n'est pas donné. En revanche, comme 
+dans le modèle en économie fermée, le stock de capital dans le monde est fixé et ne varie pas face à un 
+changement du taux de rendement. On en déduit qu'une baisse de l'impôt sur les sociétés en Europe attire des 
+capitaux venant du reste du monde. Dans le reste du monde, la fuite de capitaux augmente la rentabilité 
+marginale du capital en raison de la loi des rendements marginaux décroissants. Dès lors, un mouvement de 
+convergence pousse le taux de rendement du capital à la hausse, en Europe comme dans le reste du monde. 
+On retrouve le phénomène de convergence vers un nouvel équilibre entre le secteur incorporé et 
+non-incorporé, obtenu en économie fermée. 
+ Cette égalité des taux de rendement à travers les différents pays du monde doit se comprendre à égalité de 
+classes de risque. Il est habituel de penser qu'il est plus risqué de placer son argent dans un pays en voie de 
+développement ou dans une économie émergente que dans un grand pays développé. Ils n'appartiennent pas à 
+la même classe de risque, pour de multiples raisons, plus grande volatilité des rendements due au fait que les 
+pays sont petits et subissent donc plus les chocs économiques venant du reste du monde, d'autant qu'ils sont 
+souvent plus intégrés au commerce international, mais aussi risques de nature politique et légale. L'égalité des 
+taux de rendement doit donc se comprendre en intégrant une prime de risque pays. 
+Pour que la loi du taux de rendement unique continue de s'appliquer dans le monde entier après le 
+changement du taux de taxe dans le pays concerné, il faut supposer que la prime de risque n'est pas impactée 
+par le changement de taux. Cette hypothèse maintenue tout le long de cette section ne semble pas 
+particulièrement gênante. Ainsi la classe de risque auquel appartient le pays ne change pas du fait de 
+l'instauration d'un impôt sur les sociétés. En effet les éléments qui apparaissent ci-dessus dans le calcul de la 
+prime de risque évoqués ne semblent pas dépendre de l'existence de l'impôt sur les sociétés. 
+Il est également supposé que la balance courante des paiements est en équilibre à la fois dans l'équilibre sans 
+taxe et dans l'équilibre avec taxe. Dans la phase de transition entre les deux équilibres, bien évidemment la 
+balance est en déséquilibre en raison du mouvement des capitaux entre le pays et le reste du monde. 
+La discussion s'organise autour d'un modèle d'économie ouverte toujours d'Harberger [1995 et 2008]. Ce 
+modèle a l'avantage de présenter beaucoup de points communs avec le modèle d'économie fermée. Ainsi si les 
+conclusions changent, ce n'est pas en raison d'un changement sur des hypothèses auxiliaires mais bien en 
+
+=== page 15 ===
+raison du passage de l'économie fermée à l'économie ouverte. Les hypothèses non évoquées sont par principe 
+identiques au modèle d'économie fermée. 
+La distinction nouvelle porte maintenant sur l'existence de deux types de bien. Les biens qui font l'objet d'un 
+échange sur le marché mondial et les autres. Sans autre forme de procès, nous qualifions les premiers de biens 
+échangeables et les autres de biens non échangeables. 
+Le croisement des deux types de classification, entre les biens échangeables et non échangeables et les biens 
+soumis à l'impôt sur les sociétés et les autres aboutit à considérer quatre types de secteurs. 
+Le premier secteur dit manufacturier produit des biens échangeables par des sociétés. Le second secteur dit 
+agricole produit des biens échangeables par des entreprises individuelles. Le troisième secteur dit « transport et 
+réseaux » produits des biens non-échangeables par des sociétés. Il comprend en particulier les entreprises de 
+transport ferroviaire et aérien, le secteur de l'énergie, de la distribution de l'eau, des services de téléphones. On 
+pourrait aussi y ajouter les banques et assurances. Le quatrième secteur dit du commerce, des services et 
+construction produit des biens non-échangeables par des entreprises individuelles. La construction, la 
+restauration et les services à la personne font partie de ce secteur. 
+Ces quatre secteurs ne produisent que des biens finaux demandés par les consommateurs et non des biens 
+intermédiaires qui serviraient comme facteurs de production dans d'autres secteurs. La présence d'une matrice 
+d'échanges interindustriels complique l'analyse. L'absence de la modélisation de tels échanges est plus 
+particulièrement gênante pour le cas du secteur manufacturier. 
+On raisonne sur les effets de l'introduction de l'impôt sur les sociétés dans les deux premiers secteurs, les 
+autres n'étant pas du tout affectés par aucun autre type de taxe. L'hypothèse d'économie ouverte implique que 
+l'on doit prendre position sur la façon dont se définissent les prix dans le secteur manufacturier dans lequel se 
+concentre l'essentiel des échanges internationaux. Il est supposé qu'il existe un marché mondial sur lequel 
+s'équilibre la demande et l'offre mondiale de biens échangeables. La loi du prix unique s'applique donc en 
+toute rigueur. Dans l'hypothèse du petit pays, il est normal de supposer que les prix mondiaux ne sont pas 
+affectés par la politique fiscale d'un petit pays tout comme le rendement mondial du capital en est supposé 
+indépendant. Donc le prix des biens manufacturiers dans le petit pays est donné par le prix mondial. Dans le 
+cas des Etats-Unis ou de l'Europe, il faut supposer qu'une hausse de la demande provenant de l'une de ces 
+deux zones se traduit par une hausse de la demande mondiale et donc possiblement par une hausse des prix au 
+niveau mondial. La présence de rentes de monopole telles que celles dont peuvent disposer Microsoft ou 
+Mercedes au niveau mondial qui peuvent fixer leur prix en ne tenant compte que de la demande mais pas de 
+leurs concurrents puisqu'ils dominent très largement leur marché mondial respectif, n'est pas retenue ici. Nous 
+évoquerons ce point dans la Section 4. Nous examinons tout d'abord l'incidence fiscale dans le cas du petit 
+pays. 
+Hypothèse du petit pays 
+Le secteur manufacturier joue un rôle pivot dans la dynamique vers un nouvel équilibre général. Dans ce 
+secteur, le prix et le rendement du capital net d'impôt sont fixés au niveau international. L'introduction de 
+l'impôt sur les sociétés qui se traduit par une hausse du prix de revient doit nécessairement être compensée par 
+une baisse des salaires réels. Le facteur travail dans le secteur manufacturier ne peut pas échapper à ce 
+transfert de charge car il est supposé immobile. Les salaires ne peuvent pas durablement baisser dans un seul 
+secteur sauf dans une période transitoire. Comme le facteur travail est mobile entre les secteurs au sein même 
+
+=== page 16 ===
+du pays considéré, cette baisse de salaire dans le secteur manufacturier va entrainer une fuite de la main 
+d'œuvre vers d'autres secteurs. Cette arrivée de compétences concurrence les salariés existants et fait à son 
+tour baisser les salaires dans les trois autres secteurs de l'économie. 
+Ce raisonnement fonctionne s'il existe une seule sorte de travail ou si la gamme des compétences exigées dans 
+tous les secteurs est comparable. Cette hypothèse est bien vérifiée pour le secteur dit des transports et réseaux. 
+Elle l'est sans doute un peu moins pour les secteurs d'entreprises individuelles où la nécessité de recourir à du 
+travail très qualifié après des études supérieures longues est moins forte que dans les secteurs incorporés. En 
+conséquence, sous l'hypothèse d'un marché du travail unique, la baisse des salaires d'abord constatée dans le 
+secteur manufacturier se répand dans toute l'économie. 
+Dans le secteur agricole, la baisse des salaires, sans que le prix des produits agricoles ne varie puisqu'il est fixé 
+internationalement, ne peut se traduire que par la hausse de la rente foncière. Ainsi, les propriétaires fonciers 
+apparaissent comme des gagnants nets au jeu de l'incidence. 
+Dans le secteur du commerce, des services et de la construction, la baisse des salaires accroit théoriquement la 
+rentabilité du capital dans ce secteur. Mais celle-ci est supposée s'égaliser avec celle du secteur manufacturier 
+qui est elle-même donnée par le taux de rentabilité au niveau mondial. La loi d'airain de la concurrence pure et 
+parfaite implique nécessairement une baisse des prix dans ce secteur dont vont bénéficier les consommateurs. 
+Ainsi, les consommateurs figurent parmi les gagnants nets de l'instauration de l'impôt sur les sociétés et ce 
+d'autant plus qu'ils consomment en grande quantité des services et qu'ils sont propriétaires. 
+Il reste à étudier l'impact de l'impôt sur les sociétés sur le secteur des transports et réseaux. Celui-ci est 
+redevable de l'impôt par définition et donc le coût d'utilisation du capital y augmente. Par ailleurs, la baisse des 
+salaires s'y est transmise et donc le coût d'utilisation du travail y baisse. Si ce secteur présente exactement les 
+mêmes caractéristiques productives que le secteur manufacturier, à savoir une intensité capitalistique et une 
+élasticité de substitution identique, alors le prix de ses produits doit rester le même, puisque telle est la 
+situation qui prévaut pour le secteur manufacturier. Toutefois, le secteur des transports et réseaux est réputé 
+compter parmi les secteurs à haute intensité capitalistique et il est très vraisemblable qu'elle y dépasse celle du 
+secteur industriel. En revanche, l'élasticité de substitution du travail non qualifié au facteur de production 
+agrégé capital/travail-qualifié est la même quel que soit le secteur considéré en France. On peut donc supposer 
+sans autre forme de procès que l'élasticité de substitution est la même dans ce secteur que dans le secteur 
+manufacturier. En mettant ensemble ces deux hypothèses, la hausse du coût du capital doit l'emporter sur la 
+baisse du coût du travail et donc le coût de revient dans ce secteur doit augmenter. Les ménages qui 
+consomment ce type de biens et services plus particulièrement s'en trouveront pénalisés. 
+En définitive, dans l'hypothèse du petit pays, le travail supporte l'essentiel du fardeau de l'impôt sur les 
+sociétés : les actionnaires ne sont nullement affectés. De plus, les propriétaires fonciers et les consommateurs 
+de services font partie des gagnants, alors que les consommateurs de transport et de réseaux sont des 
+perdants. 
+La comparaison avec les résultats obtenus en économie fermée indique un renversement complet des 
+conclusions s'agissant du fardeau fiscal du travail et du capital. Les conséquences sont diamétralement 
+opposées, le capital se trouvant supporter l'essentiel de la taxe en économie fermée alors que c'est le travail qui 
+se retrouve pénalisé en économie ouverte. Les autres conséquences en économie ouverte témoignent bien 
+d'un phénomène de diffusion à l'ensemble de l'économie en positif ou en négatif. Par le même raisonnement 
+qui nous a amené à déduire, en économie fermée, que le capital supportait plus de 100% du poids de la taxe 
+
+=== page 17 ===
+car il existait des gagnants, nous pouvons également conclure qu'en présence de gagnants potentiels le travail 
+peut supporter plus de 100% du poids de la taxe. 
+Ce scénario convient très bien pour décrire la situation d'un pays comme l'Irlande. La baisse de l'impôt sur les 
+sociétés dans ce pays était complètement dans l'intérêt des travailleurs irlandais. Dans l'hypothèse du petit 
+pays, aucun acteur du reste du monde n'est affecté par l'instauration de l'impôt sur les bénéfices. 
+Hypothèse du grand pays 
+Nous abordons maintenant l'hypothèse du grand pays qui permet de décrire des économies comme les 
+Etats-Unis ou l'Union européenne qui possède un quart du capital mondial. Dans ce cadre, le taux de 
+rendement mondial et le prix des biens manufacturiers ne vont pas rester constants. 
+Le taux de rendement mondial du capital après impôt va baisser suite à l'introduction de l'impôt sur les 
+sociétés soit en Europe, soit aux Etats-Unis. Le taux de rendement du capital net d'impôt aux Etats-Unis 
+s'établit entre 8% et 9% sur série longue. On peut donc supposer que c'est le taux mondial également, à la 
+prime de risque différentielle près. 
+Harberger [2008], que nous allons suivre ici, fait l'hypothèse que le taux de rendement du capital pourrait 
+augmenter d'un point si l'impôt sur les sociétés était supprimé. Donc le point de départ est que l'instauration 
+de l'impôt sur les sociétés aux Etats-Unis a pour effet de réduire d'un point le taux de rendement du capital 
+dans le monde entier. La perte de valeur d'un point de rendement de capital mondial se trouve en effet être du 
+même montant que le montant des recettes de l'impôt sur les sociétés aux Etats-Unis. 
+L'analyse dépend ensuite de savoir si les firmes américaines du secteur manufacturier sont en mesure ou non 
+de répercuter sur les consommateurs une partie de la hausse du coût d'usage du capital. Il faut donc imaginer 
+deux scénarios et regarder si les résultats en dépendent nettement ou non. Dans le scénario de concurrence 
+parfaite, le pouvoir de monopole des entreprises américaines est supposé trop faible pour qu'elles répercutent 
+dans leur prix la hausse du prix de revient. Dans le scénario de concurrence imparfaite, leur pouvoir de 
+monopole est suffisant pour qu'elles fassent payer au consommateur une partie de la hausse du coût de revient 
+provenant de l'introduction de l'impôt sur les sociétés. Quel que soit le scénario, le reste du monde est affecté 
+par la mesure fiscale américaine. La fuite des capitaux des Etats-Unis vers l'étranger fait baisser le taux de 
+rendement du capital à l'étranger, ce qui heurte donc les capitalistes du reste du monde. Parallèlement, la fuite 
+des capitaux fait monter le taux de rendement du capital net d'impôt aux Etats-Unis. Le nouvel équilibre du 
+marché du capital est atteint quand le taux du rendement net d'impôt aux Etats-Unis égalise le taux de 
+rendement à l'étranger. Les capitalistes étrangers subissent donc la hausse de la taxe à due concurrence de 
+l'importance qu'ils représentent dans le capital mondial. Si le capital mondial est détenu aux trois-quarts par le 
+reste du monde, la taxe est supportée aux trois-quarts par le reste du monde. Les Etats-Unis exportent la 
+charge fiscale de la taxe. 
+La suite des développements dans le reste du monde est assez difficile à décrire sans faire d'hypothèses 
+supplémentaires.On peut toutefois affirmer que les sorties de capitaux américains vont s'investir forcément 
+dans l'un des quatre secteurs. Cette demande de capital accrue, qui équilibre la hausse de l'offre, provient d'une 
+substitution du capital au travail lié à la baisse du prix relatif du capital ainsi que d'une hausse de la production 
+stimulée par l'augmentation de la demande causée par la baisse des prix à la production. 
+
+=== page 18 ===
+La situation des salariés étrangers est assez ambiguë, tout comme celle des propriétaires fonciers étrangers. Il 
+est assez difficile de savoir si les salaires étrangers vont augmenter ou diminuer. Cela dépend en effet de 
+l'ampleur respective de l'effet de production, qui pousse à une plus forte demande de travail, et de l'effet de 
+substitution, qui joue dans le sens opposé. En revanche, les consommateurs étrangers apparaissent comme des 
+gagnants nets alors que les capitalistes étrangers sont des perdants nets. 
+L'intérêt de cette analyse est de faire prendre conscience que les mesures fiscales dans un grand pays du type 
+Etats-Unis ou Union Européenne peuvent avoir des répercussions à l'étranger assez insoupçonnées. Il est 
+donc très légitime pour les Etats-Unis ou l'Union européenne de s'intéresser de près à l'évolution 
+réglementaire et fiscale de l'autre côté de l'Atlantique. 
+Nous concentrant maintenant sur la situation au sein des Etats-Unis, il apparait de façon certaine que les 
+capitalistes américains, comme les capitalistes étrangers sont des perdants nets. Dans le cas où les producteurs 
+américains du secteur manufacturier sont des preneurs de prix, la hausse du coût du capital doit forcément 
+être compensée par une baisse du coût du travail qui se répand dans toute l'économie. 
+A partir de là, la mécanique reste très comparable à celle de la petite économie. Le chiffrage approximatif 
+d'Harberger aboutit pour le scénario concurrentiel à un transfert de charge du montant de l'impôt sur les 
+sociétés vers les salariés de 130% et donc un phénomène de surcompensation au détriment de cette catégorie. 
+Les capitalistes et les propriétaires fonciers apparaissent comme des gagnants nets pour 15% chacun, ces 
+chiffres étant obtenus en tenant compte à la fois des gains sur les revenus et de ceux obtenus sur les prix. Par 
+exemple, les capitalistes sont perdants comme titulaires de revenu mais gagnants comme consommateurs. 
+Le chiffrage du scénario de concurrence imparfaite donne curieusement des valeurs très comparables. Cette 
+fois-ci, les producteurs américains du secteur manufacturier sont supposés disposer d'un avantage 
+monopolistique. De ce fait, ils peuvent répercuter une partie de la hausse de leur coût de revient dans leur prix 
+de vente. Dans l'exemple, il est supposé qu'ils peuvent répercuter la moitié de la hausse du prix de revient. 
+L'autre moitié est forcément compensée par une baisse des salaires. Il est donc normal que ce scénario soit 
+moins sombre pour les travailleurs et effectivement selon les calculs d'Harberger, ils n'acquittent que 96% de 
+la taxe Les propriétaires terriens sont toujours des bénéficiaires à hauteur de 8% et les capitalistes deviennent 
+des perdants à hauteur de 12%. 
+La leçon qui émerge de cet exercice est qu'en économie ouverte, la différence entre petit pays et grand pays 
+dans l'analyse d'incidence de l'impôt sur les sociétés ne semble pas produire de conclusions radicalement 
+différentes. C'est toujours le travail qui supporte pratiquement l'essentiel de la taxe. Cette conclusion vaut 
+donc mutatis mutandis pour la France, qui est un pays intermédiaire entre le petit pays comme l'Irlande et le 
+grand pays comme les Etats-Unis. 
+Concurrence imparfaite et résultats empiriques 
+Cette section approfondit la question de la concurrence imparfaite et présente quelques résultats empiriques. 
+Impôt sur les sociétés et rente de monopole 
+Nous avons maintenu l'hypothèse concurrentielle dans presque tous les développements précédents. Il serait 
+simplement hasardeux d'affirmer que les profits des grandes sociétés, et en particulier des grandes firmes 
+
+=== page 19 ===
+multinationales, ne comprennent pas des éléments de rente monopolistique. La course à la grande taille n'a pas 
+pour unique objet la recherche de position dominante, c'est aussi une course aux rendements d'échelle. 
+Néanmoins, le fait de pouvoir devenir un faiseur de prix dans son secteur rend la gestion plus aisée. 
+L'incidence de l'impôt sur les sociétés dans ce cas doit être amendée d'une manière importante. La rente de 
+monopole fonctionne comme une taxe privée prélevée sur les consommateurs. L'impôt sur les sociétés frappe 
+donc à la fois le profit « normal », qui résulte de la rémunération du capital, et la rente de monopole. La 
+remarque suivante est alors essentielle. Le monopoleur ne modifie pas sa règle de comportement, que son 
+profit soit taxé ou non. Le prix et la quantité auquel il vend est indépendant du taux de l'impôt sur les sociétés. 
+Il en résulte forcément qu'il subit à 100% la répercussion de l'impôt sur les sociétés. L'impôt privé net que 
+représente alors la rente de monopole est alors réparti entre l'Etat et les actionnaires. Dès lors, si l'on veut 
+redistribuer ou socialiser les profits de monopole, l'impôt sur les sociétés représente un moyen de le faire qui 
+est inoffensif du point de vue de l'efficacité économique. Cela plaide éventuellement pour un aménagement à 
+la hausse de l'impôt sur les sociétés en cas avéré de monopole. Cette situation monopolistique se retrouve 
+assez souvent dans le secteur des transports ou réseaux du fait d'une situation de monopole naturel et des 
+lourds investissements qui y sont requis. Il faut toutefois indiquer que cette surtaxe ne rendra pas le monopole 
+plus efficient, c'est-à-dire que cela ne le conduira pas à produire davantage à un prix moindre. 
+Vérification empirique 
+Très récemment, des tentatives se font fait jour pour essayer de tester les prédictions des théories en matière 
+d'incidence de l'impôt sur les sociétés. 
+Une des premières tentatives a été celle de Mulligan [2002]. Constituant des séries indépendantes de taux 
+d'intérêt avant taxe et après taxe sur longue période (un siècle), il conclue que les séries temporelles sont 
+compatibles avec un peu de transfert de charge fiscale du capital vers le travail dans le court terme mais avec 
+beaucoup de transfert dans le long terme. Les données sont par contre incompatibles avec un phénomène de 
+sur-ajustement où les taux de rendements nets du capital après taxe augmenteraient par rapport à la situation 
+sans taxe. 
+Une série de travaux récents [Arulampalan et al., 2008 ; Hasset et Mathur, 2006 ; Felix, 2006 et Aus dem 
+Moore et Kasten, 2009a et 2009b] présentent des résultats sur la relation entre les variations de l'impôt sur les 
+sociétés et les variations de salaires réels. Les bases statistiques utilisées sont constituées par des données 
+individuelles d'entreprise en panel. Un des intérêts de se focaliser sur l'effet de l'impôt sur les sociétés sur les 
+salaires est d'éviter les erreurs de mesure concernant le calcul du taux de rendement du capital qui se révèle 
+notoirement compliqué à calculer. Certains problèmes délicats posés par les prix de transfert sont ainsi évités, 
+ainsi que les problèmes liés aux changes dans le cas des firmes multinationales. En dépit de leurs différences 
+méthodologiques, tous ces articles concluent que le salaire subit une partie très substantielle de l'impôt sur les 
+bénéfices. 
+Arulampalan et al. [2008] estiment qu'un 1$ d'impôt sur les bénéfices en plus réduit les salaires de 92 centimes 
+à long terme. Ce résultat est remarquablement proche des résultats théoriques obtenus par Harberger pour les 
+Etats-Unis dans l'optique de concurrence imparfaite. Felix [2006] estime qu'une augmentation de 10% de 
+l'impôt sur les sociétés diminue le salaire brut annuel de 7%. Son estimation pour les Etats-Unis conduit à une 
+charge sur le travail quatre fois plus importante que le montant de l'impôt sur les sociétés. Hasset et Mathur 
+
+=== page 20 ===
+[2006] concluent aussi dans le même sens. Une hausse de 1 % du taux de l'impôt sur les sociétés est associée à 
+une baisse de 1% du taux de salaire. Tous ces articles tiennent compte de la répartition de la charge morte. 
+Aus dem Moore et Kasten [2009a] utilisent une base de données d'entreprises allemandes, françaises et 
+britanniques. D'après eux, les structures économiques de ces trois pays sont proches et les tailles des 
+économies très comparables. Suivant les méthodes d'estimation, ils obtiennent au point médian de la 
+distribution d'entreprises, qu'une hausse de 1$ de l'impôt sur les sociétés par employé se traduit une baisse de 
+salaire comprise entre 80 centimes et 117 centimes. 
+Aus dem Moore et Kasten [2009b] toujours à partir de la même base de données, testent les effets de l'impact 
+de la réforme introduite en 2000 de l'impôt sur les sociétés manufacturières en Allemagne. Le taux qui 
+s'établissait auparavant à 30% pour les profits distribués et 40% pour les profits réinvestis ont été unifiés à 
+25%. Ils comparent la réaction des firmes allemandes en matière de politique salariale par rapport aux firmes 
+britanniques dont le taux de l'impôt sur les sociétés n'a pas bougé au cours de la période. Les firmes 
+britanniques jouent donc le rôle de groupe de contrôle cependant que les firmes allemandes occupent celui du 
+groupe de traitement dans une expérience dite quasi-naturelle. Au moyen d'une méthode d'estimation de 
+doubles différences, ils montrent que les salaires allemands ont augmenté plus vite que les salaires 
+britanniques, l'écart étant de 1,21%. 
+Enfin, Desai et al. [2007] emploient une stratégie d'identification complètement différente pour aborder la 
+même question. Ils utilisent des données agrégées concernant les activités des firmes américaines dans 50 pays 
+sur une période de quatre années. Ils recherchent l'effet conjoint des variations d'impôt sur les sociétés sur le 
+taux de profit et les salaires. En fixant la somme des effets à 100%, et donc en laissant de côté la répartition du 
+poids de la charge morte, ils trouvent qu'entre 45% et 75% de l'impôt sur les sociétés est payé par le travail, le 
+reste étant supporté par le capital. 
+Conclusion pour la France 
+Conclure en 2009 qu'une partie très substantielle de l'impôt sur les bénéfices pour un pays de taille moyenne 
+comme la France, très inséré dans les échanges internationaux, ne repose pas sur les épaules des salariés 
+reviendrait à penser qu'à la fois les analyses théoriques et les estimations empiriques des économistes sont 
+totalement erronées. 
+Une baisse de l'impôt sur les sociétés serait de nature à améliorer le niveau des salaires réels à long terme. Il 
+convient de garder ce résultat à l'esprit dans le cadre de la discussion du partage de la valeur ajoutée et des 
+profits. Il ne faut pas oublier dans cette discussion la part des profits revenant à l'Etat sous forme de l'impôt 
+sur les sociétés. 
+Plus généralement, si l’analyse d’incidence conduit à penser que le facteur travail supporte la plus large partie 
+d’un impôt sur le capital, comment en pourrait-il être autrement pour les impôts acquittés sur le travail ?  
+Références 
+K. J. Arrow et G. Debreu [1954] : Existence of an equilibrium for a competitive economy, Econometrica, 22, pp. 
+265-290. 
+
+=== page 21 ===
+W. Arulampalan, M.P. Devereux et G. Maffini [2008] : The direct incidence of corporate income tax on wages, Oxford 
+university Centre for Business Taxation. 
+N. Aus dem Moore et T. Kasten [2009a] :Shifting the burden ? the direct incidence of corporate income taxation. 
+N. Aus dem Moore et T. Kasten [2009b] : Do wage rise when corporate tax rates fall ? Difference-in-difference analyses of 
+German business tax reform. 
+A. Bennassy-Quéré, N. Gobalraja et A. Trannoy [2007] : Tax and public input competition, Economic Policy, 50, 
+pp. 387-430. 
+S. Cazes, T. Chauveau et R. Loufir [1992] : L’avenir des retraites dans un modèle d’équilibre général calculable, Revue 
+d’économie financière, 23, pp. 109-134. 
+Y. Decreux et H. Valin [2007] : Mirage, updated version of the model for trade policy analysis: Focus on agriculture and 
+dynamics, CEPII Working Paper, 2007-15. 
+M.A. Desai J.R. Hines Jr. [2007] : Labor and capital shares of the corporate tax burden: International evidence, Harvard 
+University. 
+R.A. Felix [2006] : Passing the burden: Corporate tax incidence in open economics, University of Michigan. 
+C. Gianella et P. Lagarde [1999] : Productivity of hours in the aggregate production function: An evaluation on a panel of 
+French firms from the manufacturing sector, INSEE Working Paper, G9918. 
+A. Harberger [1962] : The incidence of the corporation income tax, Journal of Political Economy, 70, pp. 215-240. 
+A. Harberger [2008] : The incidence of the corporation income tax revisited, National Tax Journal, 61, pp. 303-312. 
+K.A. Hasset et A. Mathur [2006] : Taxes and wages, American Entreprise Institute, Working Paper 28. 
+J.-P.Laffargue [2000] : Effet et financement d’une réduction des charges sur les bas salaires, Revue économique, 51, pp. 
+489-498. 
+J. Le Cacheux et V. Touzé [2002] : Les modèles d’équilibre général calculable à générations imbriquées : enjeux, méthodes et 
+résultats, Revue de l’OFCE, 80, pp. 87-113. 
+J. Mercenier [2002], An applied intertemporal general equilibrium model of trade and production with scale economies, product 
+differentiation and imperfect competition, in A. Fossati et W. Wiegard, Policy Evaluation with Computable 
+General Equilibrium Models, pp. 85-104, Routledge. 
+C. Mulligan [2002], Capital tax incidence: First impressions from the time series, NBER Working Papers, 9374. 
+N. Ruiz et A. Trannoy [2008] : Le caractère régressif des taxes indirectes : les enseignements d’un modèle de micro-simulation, 
+Economie et Statistiques, 413, pp. 21-26. 

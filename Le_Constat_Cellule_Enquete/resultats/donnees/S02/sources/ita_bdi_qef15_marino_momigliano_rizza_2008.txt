@@ -1,0 +1,3981 @@
+
+==== page 1 ====
+Luglio 2008
+Questioni di Economia e Finanza
+(Occasional papers)
+15
+numero
+I conti pubblici nel decennio 1998-2007:
+fattori temporanei, tendenze di medio periodo,
+misure discrezionali
+di Maria Rosaria Marino, Sandro Momigliano e Pietro Rizza
+
+==== page 2 ====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La serie Questioni di economia e finanza ha la finalità di presentare studi e 
+documentazione su aspetti rilevanti per i compiti istituzionali della Banca d’Italia e 
+dell’Eurosistema. Le Questioni di economia e finanza si affiancano ai Temi di discussione 
+volti a fornire contributi originali per la ricerca economica.  
+ 
+La serie comprende lavori realizzati all’interno della Banca, talvolta in collaborazione 
+con l’Eurosistema o con altre Istituzioni. I lavori pubblicati riflettono esclusivamente le opinioni degli 
+autori, senza impegnare la responsabilità delle Istituzioni di appartenenza.  
+ 
+La serie è diffusa esclusivamente attraverso il sito www.bancaditalia.it.  
+ 
+
+==== page 3 ====
+I CONTI PUBBLICI NEL DECENNIO 1998-2007: FATTORI TEMPORANEI, 
+TENDENZE DI MEDIO PERIODO, MISURE DISCREZIONALI 
+ 
+Maria Rosaria Marino*, Sandro Momigliano* e Pietro Rizza* 
+ 
+Sintesi 
+ 
+Il lavoro esamina l’andamento dei conti pubblici italiani nel periodo successivo al 1997, 
+l’anno in cui si è conclusa l’azione di riequilibrio volta a consentire l’ingresso dell’Italia 
+nell’Unione Monetaria. Nell’analisi si valuta l’andamento “strutturale” delle principali poste del 
+bilancio pubblico, depurandole dagli effetti del ciclo economico e delle misure temporanee. 
+Inoltre si attribuisce la variazione delle poste così corrette a specifici fattori, quali ad esempio le 
+misure discrezionali con effetti permanenti e il drenaggio fiscale. 
+ 
+Dall’analisi emerge un forte peggioramento del saldo strutturale fino al 2003, derivante 
+per oltre la metà da interventi di riduzione del prelievo, che hanno sostanzialmente annullato 
+l’aumento della pressione fiscale realizzato nella precedente fase di aggiustamento. Sul 
+peggioramento ha inoltre influito il significativo aumento delle spese in conto capitale e di quelle 
+sanitarie, che erano state fortemente compresse in precedenza. Nel biennio successivo si arresta la 
+tendenza negativa e nel 2006-07 vi è un significativo miglioramento dei conti. Quest’ultimo 
+presenta, seppure in misura minore, alcuni degli aspetti problematici del consolidamento degli 
+anni 1992-97: la riduzione delle spese in conto capitale e l’aumento delle entrate. Se si considera 
+l’intero periodo 1998-2007, il peggioramento dei conti pubblici è essenzialmente attribuibile alla 
+difficoltà di controllare la dinamica della spesa corrente. Questo appare essere il principale 
+problema da affrontare nei prossimi anni per assicurare un assetto sostenibile delle finanze 
+pubbliche. 
+ 
+Classificazione JEL: H62, H20, H50, E69 
+Parole chiave: bilancio pubblico strutturale, ciclo economico, misure temporanee, politiche discrezionali 
+ 
+INDICE 
+ 
+1. Introduzione......................................................................................................................... 3 
+2. La stima degli effetti del ciclo economico........................................................................... 6 
+3. Le misure discrezionali con effetti temporanei ................................................................. 13 
+4. La metodologia di analisi degli andamenti strutturali ....................................................... 19 
+5. I risultati: l’evoluzione dei conti strutturali nel periodo 1998-2007.................................. 21 
+5.1 Le entrate .................................................................................................................... 27 
+5.2 Le spese ...................................................................................................................... 32 
+5.3 Previsioni macroeconomiche e obiettivi di spesa....................................................... 38 
+6. Conclusioni........................................................................................................................ 41 
+Bibliografia............................................................................................................................. 44 
+Appendici 1-4......................................................................................................................... 49 
+                                                          
+* 
+Banca d’Italia, Servizio Studi di struttura economica e finanziaria, Divisione Finanza Pubblica. Le opinioni 
+espresse in questo lavoro sono esclusivamente degli autori e non impegnano l’Istituto di appartenenza. Gli 
+autori intendono ringraziare Daniele Franco e gli economisti della Divisione Finanza Pubblica della Banca 
+d’Italia nonché Martin Larch, Lucia Piana, Ernesto Reitano e Antoine Derennues della Commissione europea 
+per i commenti e i suggerimenti ricevuti e Renzo Pin per la valida assistenza tecnica. 
+
+==== page 4 ====
+ 
+2
+ 
+
+==== page 5 ====
+ 
+3
+1. 
+Introduzione 
+Negli otto anni successivi al 1997, anno in cui si è conclusa l’azione di risanamento volta 
+a consentire la partecipazione dell’Italia all’Unione Monetaria, si è assistito a un netto 
+peggioramento dei conti pubblici. L’avanzo primario delle Amministrazioni pubbliche, pari a 
+quasi 7 punti percentuali del prodotto nel 1997, si è sostanzialmente azzerato nel 2005. 
+Il peggioramento del disavanzo complessivo è stato contenuto dalla progressiva 
+riduzione della spesa per interessi e dall’ampio ricorso a misure con effetti temporanei, ma già 
+nel 2001 e, stabilmente, dal 2003 il deficit ha superato la soglia del 3 per cento del prodotto 
+stabilita dal Trattato di Maastricht. L’effettiva dimensione del deterioramento è emersa tuttavia 
+con ritardo1. Solo nel 2005 il Consiglio della UE, sulla base dei dati relativi al 2004, accertava 
+la presenza di una situazione di disavanzo eccessivo e chiedeva al governo italiano di 
+correggerla entro il 2007. 
+L’azione di bilancio nel biennio 2006-07, favorita da una crescita dell’economia 
+relativamente sostenuta, ha permesso il rientro del disavanzo al di sotto della soglia del 3 per 
+cento, con risultati che hanno superato le attese; il proseguimento dell’azione di risanamento è 
+reso ora più difficile dal netto peggioramento della congiuntura internazionale verificatosi a 
+partire dalla fine del 2007. 
+Questo lavoro mira a identificare alcune delle cause del deterioramento delle finanze 
+pubbliche nei primi anni del decennio in esame e del loro successivo miglioramento2. Punto di 
+partenza dell’analisi è l’identificazione del saldo “strutturale”, ottenuto depurando le principali 
+voci del bilancio dagli effetti del ciclo economico e delle misure temporanee3. 
+                                                          
+1 
+Le stime iniziali dell’indebitamento netto sono state regolarmente più favorevoli dei valori indicati negli anni 
+successivi. A marzo dell’anno t l’Istat pubblica la prima stima del conto consolidato delle Amministrazioni 
+pubbliche dell’anno t–1 e diffonde le revisioni dei dati per gli anni t–2, t–3 e t–4. Il processo di affinamento e 
+revisione dei dati ha termine, in genere, a quattro anni di distanza dall’anno di riferimento. Alle revisioni 
+ordinarie, in alcuni anni tra il 1998 e il 2005 se ne sono aggiunte altre determinate dall’applicazione di 
+decisioni prese da Eurostat sul trattamento di alcune operazioni contabili. 
+2 
+Questo lavoro si concentra sul saldo di bilancio. Per un’analisi dell’andamento del debito pubblico negli anni 
+1997-2006 depurato dagli effetti di operazioni straordinarie si veda Momigliano e Rizza (2007). 
+3 
+Va tenuto presente che questi due fattori, seppure importanti, non esauriscono i fenomeni transitori che 
+incidono sulle finanze pubbliche. Si considerino, ad esempio, le fluttuazioni nei tassi d’interesse, nel valore 
+delle attività finanziarie detenute da famiglie e imprese e nel prezzo del petrolio, dal lato delle entrate, e il 
+(continua) 
+
+==== page 6 ====
+ 
+4
+La correzione per gli effetti del ciclo economico è un'operazione ormai usuale nell’analisi 
+dei conti pubblici. Essa viene effettuata da almeno un cinquantennio (Brown, 1956) e stime 
+comparabili tra paesi dei saldi corretti per il ciclo sono regolarmente pubblicate da oltre un 
+decennio dalla Commissione europea, dall’FMI e dall’OCSE4. A differenza delle metodologie 
+di stima utilizzate dai suddetti organismi internazionali, quella adottata in Banca d’Italia (e 
+ripresa in questo lavoro) tiene conto, oltre che del livello del prodotto, anche della sua 
+composizione e della distribuzione del reddito. Questa caratteristica comporta significative 
+differenze nelle stime soprattutto nel 2005, quando la sostanziale stabilità del prodotto si è 
+accompagnata a una crescita delle principali basi imponibili delle imposte e dei contributi e a 
+una flessione della disoccupazione. 
+La pratica di esaminare i conti anche al netto degli effetti delle misure transitorie si è 
+invece diffusa solo da qualche anno, soprattutto in ambito europeo. Con la riforma del Patto di 
+stabilità e crescita del 2005 il saldo di bilancio corretto per gli effetti del ciclo economico e 
+delle misure temporanee è diventato un indicatore fondamentale nell’ambito delle procedure di 
+sorveglianza multilaterale delle politiche di bilancio5. L’esclusione delle misure temporanee ha 
+l’obiettivo di far sì che il rispetto dei limiti ai disavanzi posti dal Trattato di Maastricht e dal 
+Patto di stabilità e crescita sia realizzato con interventi che migliorino in modo permanente i 
+conti pubblici6. L’identificazione delle misure temporanee non è un esercizio meccanico; nel 
+lavoro si seguono i criteri adottati dalla Banca d’Italia, che sono generalmente in linea con 
+quelli delineati dalla Commissione europea. 
+                                                                                                                                                                                       
+concentrarsi in alcuni anni di pagamenti per arretrati relativi a contratti nel pubblico impiego, dal lato della 
+spesa. Tener conto di questi ed altri fattori contingenti richiederebbe l’introduzione di ipotesi necessariamente 
+arbitrarie ed è al di fuori degli obiettivi di questo lavoro. 
+4 
+L’OCSE pubblica regolarmente le stime nell’Economic Outlook; la Commissione Europea fa altrettanto nelle 
+Spring forecasts, nelle Autumn Forecasts e in Public Finances in EMU. L’FMI, infine, pubblica le sue stime 
+nel World Economic Outlook. 
+5 
+Il nuovo Patto richiede che i paesi che non hanno ancora conseguito il proprio obiettivo di medio termine 
+debbano realizzare uno sforzo di risanamento minimo ogni anno, definito in termini di variazioni rispetto 
+all’anno precedente del saldo corretto dagli effetti del ciclo economico e delle misure temporanee. Per i paesi 
+che non hanno un disavanzo eccessivo, ma che non hanno ancora raggiunto gli obiettivi di medio termine, il 
+parametro di riferimento adottato per valutare lo sforzo di risanamento è pari a 0,5 punti percentuali del PIL. 
+Temporanee deviazioni da tale sentiero di aggiustamento sono consentite solo in presenza di riforme strutturali 
+con un impatto positivo e verificabile sulla sostenibilità delle finanze pubbliche e sempre a condizione che 
+venga mantenuto un margine di sicurezza rispetto al valore di riferimento del 3 per cento. 
+
+==== page 7 ====
+ 
+5
+Lo studio identifica le determinanti dell’andamento del saldo di bilancio “strutturale” 
+analizzando le principali componenti delle spese e delle entrate pubbliche. Con riferimento a 
+queste ultime, basandosi su una metodologia sviluppata all’interno del Sistema Europeo delle 
+Banche Centrali, si valuta il ruolo di tre fattori: il drenaggio fiscale, le misure discrezionali a 
+carattere permanente e lo scostamento tra l’andamento di medio periodo delle principali basi 
+imponibili delle imposte e dei contributi sociali e quello del PIL (il cosiddetto decoupling). 
+L’analisi del periodo 1998-2007 non può ovviamente non tener conto dell’azione di 
+riequilibrio dei conti pubblici degli anni 1992-977. Essa si era basata soprattutto su un forte 
+aumento della pressione fiscale (che nel 1997 raggiungeva il valore massimo dal dopoguerra) e 
+su tagli alle spese sanitarie, senza un’adeguata ridefinizione delle prestazioni da erogare, e agli 
+investimenti pubblici8. Tali caratteristiche rendevano precario l’aggiustamento, cosa di cui 
+erano consapevoli gli stessi autori delle politiche di risanamento9. Il risultato del 1997 veniva 
+pertanto indicato come un successo non definitivo (Franco, 2005; Franco e Rizza, 2008). 
+Questa complessa eredità si è riflessa sugli obiettivi delle politiche di bilancio del periodo 
+successivo e sui loro risultati. Nei documenti di programmazione presentati tra il 1998 e il 2005 
+viene costantemente indicata come prioritaria la riduzione della pressione fiscale e sottolineata 
+la necessità di accrescere le risorse per gli investimenti pubblici (Crescenzi, 2007). È sempre 
+presente anche l’obiettivo di mantenere o riportare l’avanzo primario al 5 per cento del PIL, la 
+cui enunciazione consente di rispettare formalmente l’impegno preso dall’Italia in sede europea 
+                                                                                                                                                                                       
+6 
+Cfr. Commissione europea (2007a). L’utilizzo delle misure temporanee per rispettare formalmente le regole 
+europee è comune a diversi paesi della UE ed è documentato in Koen e van den Noord (2005) e Buti et al. 
+(2006). Con riferimento all’Italia, si veda Momigliano e Rizza (2007). 
+7 
+Analisi sui singoli anni qui considerati e su specifici aspetti settoriali sono svolte nelle Relazioni della Banca 
+d’Italia (vari anni) e nei Rapporti annuali sulla Finanza pubblica italiana editi da Il Mulino. Il riequilibrio degli 
+anni novanta è analizzato, in particolare, in Bernasconi e Marenzi (1998), Degni et al. (2001) e Spaventa e 
+Chiorazzo (2000). Le politiche di bilancio in periodi ancora precedenti sono analizzate, in particolare, in Bosi 
+et al. (1990) e Sartor (1998). In Balassone et al. (2008) si analizzano le politiche di bilancio a partire dagli anni 
+ottanta. 
+8 
+Tra il 1991 e il 1997 l’incidenza delle entrate sul prodotto è salita di 4,7 punti, a fronte di una riduzione di 
+1,9 punti delle spese primarie (di cui 1,4 riguardanti la spesa in conto capitale). In Balassone et al. (2002) si 
+sottolinea tuttavia che gli interventi dal lato della spesa hanno dovuto contrastare una tendenziale crescita 
+dell’incidenza sul prodotto delle erogazioni, soprattutto nel settore previdenziale. Inoltre, va rilevato come le 
+riforme della previdenza del 1992 e del 1995 abbiano determinato risparmi considerevoli anche nel lungo 
+periodo. 
+9 
+Nel DPEF per gli anni 1999-2001, presentato nello stesso periodo in cui veniva formalizzata l’ammissione 
+dell’Italia all’Unione Monetaria (maggio 1998), si ribadisce che completato il risanamento dei conti pubblici, 
+(continua) 
+
+==== page 8 ====
+ 
+6
+al momento dell’ammissione all’Unione Monetaria. Tuttavia, nei primi anni questo obiettivo è 
+meno condiviso nel dibattito politico e la sua realizzazione viene di fatto interamente 
+condizionata al successo nelle azioni di riduzione della spesa primaria corrente10. 
+L’esame del periodo storico che va dal 1992 al 2007 sembra quindi fornire alcuni 
+elementi di sostegno ai risultati dell’ormai ampia letteratura sui nessi tra caratteristiche dei 
+consolidamenti fiscali e la loro probabilità di successo (misurata sulla base della persistenza dei 
+risultati nel periodo immediatamente successivo). Vari lavori mostrano che episodi di 
+consolidamento fiscale come quello italiano, basati principalmente su aumenti della tassazione 
+e su tagli alle spese in conto capitale, tendono a dare risultati meno persistenti nel medio 
+periodo11. 
+Il lavoro è organizzato come segue. La seconda e la terza sezione analizzano i criteri 
+adottati per stimare gli effetti del ciclo economico e per individuare le misure temporanee e li 
+confrontano con quelli utilizzati dai principali organismi internazionali. La quarta sezione 
+descrive la metodologia adottata per analizzare gli andamenti delle principali voci di bilancio 
+strutturali. La quinta sezione presenta i principali risultati dello studio. La sesta sezione 
+conclude. 
+ 
+2. 
+La stima degli effetti del ciclo economico 
+La maggior parte delle metodologie di stima degli effetti sul bilancio pubblico del ciclo 
+economico appartengono all’approccio “gap + elasticità”. Esso si articola in due stadi. Nel 
+primo si identifica lo scostamento ciclico del prodotto rispetto al suo sentiero di crescita 
+tendenziale (se l’analisi considera più variabili macroeconomiche, si misura il loro rispettivo 
+                                                                                                                                                                                       
+gli obiettivi della politica di bilancio dovevano prevedere la riduzione della pressione fiscale e il rilancio degli 
+investimenti in infrastrutture (cfr. Prefazione). 
+10 Dall’estate del 2005, quando viene avviata in sede europea la Procedura per i disavanzi eccessivi nei confronti 
+dell’Italia, l’obiettivo di contenimento del saldo torna a essere prioritario. 
+11 Alesina e Perotti (1995) forniscono la prima analisi empirica sistematica a sostegno di queste indicazioni. 
+Conclusioni simili sono raggiunte in Alesina e Perotti (1996), Mc Dermott e Westcott (1996) e Alesina e 
+Ardagna (1998). Si vedano inoltre le rassegne in Prammer (2004), Briotti (2005) e Commissione europea 
+(2007a). Larch e Turrini (2008) focalizzano l'analisi su episodi di aggiustamento fiscale più recenti e trovano, 
+invece, che la composizione tra entrate e uscite sembra essere stata meno rilevante ai fini della persistenza del 
+consolidamento. 
+
+==== page 9 ====
+ 
+7
+scostamento ciclico). Nel secondo si calcola l’impatto del suddetto scostamento (o dei suddetti 
+scostamenti) su ciascuna voce del bilancio. 
+Nelle metodologie adottate dalla Commissione europea (Denis et al., 2006), dall’FMI 
+(Hagemann, 1999) e dall’OCSE (Richardson et al., 2000; Girouard and André, 2005), lo 
+scostamento ciclico è identificato con l’output gap, ossia il divario tra il livello del prodotto 
+effettivo e quello del prodotto potenziale misurato sulla base di una funzione di produzione di 
+tipo Cobb-Douglas, con trend esogeni12. I livelli potenziali degli input di tale funzione sono 
+stimati per mezzo di un filtro di Hodrick-Prescott (HP) oppure derivati con analisi strutturali 
+(Cotis et al., 2003)13. L’impatto dell’output gap su ciascuna voce del bilancio, viene calcolato 
+come prodotto di quest’ultimo e di due elementi: a) il valore della voce di bilancio; b) la sua 
+elasticità rispetto all’output gap. Quest’ultima è a sua volta il prodotto dell’elasticità della voce 
+di bilancio rispetto alla variabile macroeconomica rilevante (di solito derivata sulla base della 
+normativa) e l’elasticità di tale variabile rispetto al prodotto (generalmente stimata 
+econometricamente)14. La figura 1 mette a confronto, per il periodo 1981-2007, le stime del 
+tasso di crescita del prodotto potenziale della Commissione europea, dell’FMI e dell’OCSE – 
+che risultano molto simili tra loro – con la dinamica effettiva del PIL. Gli istogrammi 
+evidenziano inoltre il livello dell’output gap implicito nelle stime della Commissione europea. 
+ 
+                                                          
+12 Cotis et al. (2003) raggruppano le metodologie di stima del prodotto potenziale in quattro categorie generali: 
+quella basata sulla stima di trend lineari per sottoperiodi individuati dai punti di picco; quella che utilizza filtri 
+statistici univariati (ad esempio, Hodrick-Prescott, Baxter-King, Kalman o la decomposizione di Beveridge-
+Nelson, 1981); quella che utilizza filtri univariati associati a equazioni strutturali; quella che si basa su una 
+funzione di produzione strutturale con trend esogeno (le metodologie utilizzate dall’OCSE e dalla 
+Commissione europea fanno parte di questa categoria). 
+13 In particolare, il livello potenziale del capitale non viene stimato in quanto si assume coincidere con la piena 
+utilizzazione del capitale già esistente. La TFP viene inizialmente stimata come residuo di Solow e il suo 
+valore di trend è determinato attraverso l’uso del filtro HP. Nel caso dell’OCSE, il livello potenziale della 
+forza lavoro è pari al prodotto tra il valore di trend delle ore lavorate, quello del tasso di partecipazione e il 
+totale della popolazione in età da lavoro. La disoccupazione strutturale è pari al NAIRU (Richardson et al., 
+2000). La Commissione europea si differenzia dall’OCSE nell’usare il tasso di disoccupazione coerente con 
+una crescita salariale costante (NAWRU) come indicatore della disoccupazione strutturale (Denis et al., 2006). 
+Nella stima della disoccupazione naturale si fa riferimento alla curva di Phillips e si utilizza un filtro di 
+Kalman. 
+14 La Commissione europea e l’FMI utilizzano le stime delle elasticità dell’OCSE. Per l’FMI queste possono 
+essere modificate nel caso lo staff disponga di informazioni aggiuntive. 
+
+==== page 10 ====
+ 
+8
+Fig. 1 – Tassi di crescita del PIL reale e potenziale e output gap 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: per la Commissione Europea, AMECO database (aprile 2008); per FMI e OCSE rispettivamente World 
+Economic Outlook database (2008) e Economic Outlook (2007). 
+ 
+Il punto di partenza della metodologia utilizzata in questo lavoro15 non è l’output gap ma, 
+direttamente, gli scostamenti ciclici delle variabili macroeconomiche che hanno effetti di 
+rilievo sulle entrate e sulle spese pubbliche (consumi, occupazione16 e retribuzioni unitarie del 
+settore privato, risultato netto di gestione delle imprese, tasso di disoccupazione)17. Tali 
+variabili corrispondono, approssimativamente, a quelle analizzate dall’OCSE, ma i rispettivi 
+                                                          
+15 Cfr. Banca d’Italia (1998a), Momigliano e Staderini (1999), Momigliano (2001) e Bouthevillain et al. (2001). 
+La metodologia presentata nel lavoro è quella utilizzata dalla Banca d’Italia nelle analisi sugli andamenti 
+strutturali delle finanze pubbliche. 
+16 Nell’applicazione del metodo all’Italia, l’indicatore per l’occupazione complessiva, basato sui dati di 
+contabilità nazionale relativi alle unità di lavoro, è costruito come somma ponderata dei lavoratori dipendenti e 
+di quelli autonomi. La ponderazione (pari a due terzi per i lavoratori dipendenti e un terzo per quelli autonomi) 
+tiene conto del minor contributo al gettito fiscale fornito in media dai lavoratori autonomi rispetto ai lavoratori 
+dipendenti, anche in relazione alle più basse aliquote contributive a cui sono assoggettati. 
+17 Vengono tuttavia escluse dagli aggregati macroeconomici (e dalle poste di bilancio dal lato delle entrate) le 
+componenti riconducibili a spese delle Amministrazioni pubbliche, nei limiti in cui ciò è possibile. Tale 
+esclusione evita di correggere le entrate per un fattore che non incide sul saldo, visto che né nelle metodologie 
+adottate dagli organismi internazionali né in quella della Banca d’Italia si tiene conto degli effetti ciclici per le 
+spese diverse da quelle per la disoccupazione. 
+-3,5%
+-2,5%
+-1,5%
+-0,5%
+0,5%
+1,5%
+2,5%
+3,5%
+4,5%
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Commissione Europea - Output gap
+Commissione UE - Tasso di crescita PIL potenziale
+OCSE - Tasso di crescita PIL potenziale
+Tasso effettivo di crescita del PIL reale
+FMI - Tasso di crescita PIL potenziale
+
+==== page 11 ====
+ 
+9
+scostamenti ciclici sono stimati direttamente con il filtro statistico HP18, invece di essere 
+implicitamente ottenuti applicando un coefficiente costante all’output gap (fig. 2). 
+Successivamente si calcola per ciascuna voce di bilancio la relativa componente ciclica come 
+prodotto tra l’elasticità alla variabile macroeconomica di riferimento e lo scostamento ciclico 
+relativo a essa. La metodologia ricalca sostanzialmente quella descritta da Bouthevillain et al. 
+(2001)19. 
+ 
+Fig. 2 – Confronto tra le diverse metodologie 
+Approccio seguito dalla Banca 
+d'Italia e dal SEBC
+Elasticità delle 
+voci di bilancio 
+alle rispettive 
+variabili macro
+Componente ciclica 
+delle voci di bilancio
+Elasticità delle 
+voci di bilancio 
+alle rispettive 
+variabili macro
+Componente ciclica delle variabili 
+macroeconomiche di riferimento
+Elasticità delle 
+variabili macro 
+al PIL
+Componente ciclica 
+delle voci di bilancio
+OUTPUT GAP 
+Componente ciclica delle 
+variabili macroeconomiche di 
+riferimento
+(filtro di Hodrick-Prescott)
+Approccio seguito da OCSE, 
+Commissione europea e FMI
+ 
+ 
+Questa metodologia può fornire indicazioni più precise, rispetto ai metodi che fanno 
+riferimento all’output gap, se le fluttuazioni cicliche della domanda aggregata e del reddito non 
+si distribuiscono in proporzioni costanti tra le loro componenti. In altri termini, essa permette di 
+cogliere effetti sui conti pubblici derivanti da variazioni non sistematiche nella composizione 
+                                                          
+18 Nella procedura di filtro HP il parametro λ viene fissato pari a 30. Un’ampia discussione delle motivazioni e 
+delle implicazioni di tale scelta è contenuta in Bouthevillain et al. (2001). Si ricorda solo che il valore 
+prescelto, coerentemente con l’evidenza empirica sulla durata media del ciclo economico (Bouthevillain, 1996 
+e Pedersen, 1998), garantisce che cicli economici fino a otto anni siano quasi interamente attribuiti alla 
+componente ciclica, mentre cicli di durata superiore ai dodici anni le vengano attribuiti solo in minima parte. 
+19 La principale differenza riguarda l’uso del deflatore del PIL (invece che quello dei consumi) per calcolare le 
+retribuzioni unitarie reali. Tale scelta è coerente con il fatto che lo stesso deflatore è utilizzato per l’altra 
+componente del reddito nazionale, il margine operativo lordo delle imprese. Per una applicazione all’Italia 
+della metodologia descritta in Bouthevillain et al. (2001) per gli anni 1998-2005 si veda Kremer et al. (2006). 
+
+==== page 12 ====
+ 
+10
+ 
+Fig. 3 – Stime della componente ciclica del bilancio pubblico  
+(in percentuale del PIL) 
+ 
+-2,0
+-1,5
+-1,0
+-0,5
+0,0
+0,5
+1,0
+1,5
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Banca d'Italia
+Commissione Europea
+FMI
+OCSE
+ 
+Fonte: per la Commissione Europea, AMECO database (aprile 2008); per l’FMI e l’OCSE, rispettivamente, 
+World Economic Outlook database (aprile 2008) e Economic Outlook (dicembre 2007). 
+ 
+ 
+della domanda aggregata e nella distribuzione del reddito20. Tali effetti di composizione si 
+manifestano perché il prelievo fiscale non si applica uniformemente a tutti i redditi e a tutte le 
+componenti della domanda. Per contro, le metodologie basate sull’output gap hanno il pregio di 
+utilizzare nella stima degli andamenti potenziali un set informativo più ampio di quello 
+sottostante le stime con filtro univariato. 
+I due approcci presentano divergenze generalmente contenute; ciò riflette una sostanziale 
+concordanza su alcuni punti essenziali, quali i valori delle elasticità delle imposte rispetto alle 
+rispettive basi imponibili e la dimensione temporale del ciclo economico. Nella figura 3, per il 
+periodo 1994-2007, vengono riportate le nostre stime della componente ciclica del saldo di 
+bilancio e quelle più recenti dei principali organismi internazionali21. Le due metodologie  
+                                                          
+20 Le stime della componente ciclica basate sull’output gap tengono conto solo di un “effetto composizione 
+medio”, in quanto incorporano la variazione media delle basi imponibili al variare del PIL. 
+21 Le stime della componente ciclica della figura 3 sono calcolate come differenza tra il saldo di bilancio (in 
+rapporto al PIL nominale) e il saldo corretto per il ciclo (in rapporto al PIL tendenziale) riportati nelle 
+pubblicazioni degli organismi internazionali. 
+
+==== page 13 ====
+ 
+11
+ 
+concordano nell’indicare il triennio 2000-02 come una fase congiunturale decisamente 
+favorevole per i conti pubblici, mentre a metà degli anni novanta e nel 2005 il ciclo economico 
+sarebbe stato particolarmente avverso. Le nostre stime indicano, in media, un minor impatto 
+delle fluttuazioni economiche sui conti pubblici. 
+In alcuni anni, tuttavia, le differenze risultano rilevanti, specialmente se analizzate in 
+termini di variazioni annuali (tav. 1). Questo è il caso, in particolare, del 2005. In tale anno il 
+prodotto registra una crescita prossima a zero e nelle stime effettuate dalla Commissione 
+europea, dall’FMI e dall’OCSE la componente ciclica segna forti peggioramenti, pari 
+rispettivamente a 0,4, 0,5 e 0,4 punti percentuali di PIL. Il quadro congiunturale risulta tuttavia 
+nettamente più favorevole se si fa riferimento alle componenti del reddito nazionale e della 
+domanda aggregata più rilevanti per i conti pubblici. Le retribuzioni unitarie del settore privato 
+in termini reali crescono dello 0,7 per cento (valore superiore alla media del precedente 
+decennio, pari a 0,3 punti percentuali), l’occupazione, calcolata come media ponderata tra quella 
+dipendente e quella indipendente, aumenta dello 0,4 per cento e i consumi privati dello 0,3 per 
+cento. L’approccio seguito in questo lavoro (e in Banca d’Italia), che tiene conto di questi 
+andamenti, indica un lieve miglioramento della componente ciclica (circa un decimo di PIL)22. 
+Differenze di rilievo e di segno opposto si registrano per l’anno 199523. 
+La tavola 1 include anche una stima degli effetti di composizione impliciti nella nostra 
+metodologia; da essa emerge come tali effetti spieghino una parte significativa delle differenze 
+con le stime degli organismi internazionali. 
+                                                          
+22 Secondo le nostre stime la componente ciclica passa da –0,36 a –0,25 punti percentuali di PIL. Il livello 
+negativo è interamente attribuibile al calo consistente dei profitti delle imprese in termini reali (–1,5 per cento). 
+Idealmente, la performance di un dato indicatore della componente ciclica andrebbe misurata guardando al gap 
+effettivo della variabile macroeconomica di riferimento. Tuttavia quest’ultimo non è osservabile, neanche 
+ex post. La nostra analisi mostra semplicemente che nel 2005 alcune variabili macroeconomiche sono cresciute 
+ad un tasso molto diverso da quello del PIL; questo ha riflesso solo marginalmente differenze nei tassi di 
+crescita di trend. Nell’analisi si fa riferimento alle variazioni nella componente ciclica, non al suo livello. 
+23 In linea con la forte crescita del prodotto (2,8 per cento) registrata in quell’anno, le stime della Commissione 
+europea, dell’FMI e dell’OCSE indicano una significativa riduzione, pari a circa 0,7 punti di PIL, degli effetti 
+negativi del ciclo sul bilancio pubblico rispetto al 1994. Nelle nostre stime, tali effetti rimangono invece 
+sostanzialmente stabili, riflettendo il calo dell’occupazione e delle retribuzioni unitarie reali nel settore privato. 
+Inoltre, la crescita del 1995 è stata sospinta dalla forte espansione delle esportazioni, che sono esenti dall’IVA. 
+
+==== page 14 ====
+ 
+12
+Tav. 1 – Stima delle variazioni annuali della componente ciclica 
+(in percentuale del PIL) 
+ 
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Nostre stime
+-0,1
+-0,2
+0,1
+0,3
+0,4
+0,5
+0,1
+-0,4
+-0,4
+-0,2
+0,1
+0,4
+0,1
+Commissione Europea
+0,7
+-0,4
+0,0
+-0,1
+0,5
+1,0
+0,1
+-0,6
+-0,5
+0,1
+-0,4
+0,3
+0,0
+FMI
+0,9
+-0,2
+-0,1
+1,1
+-0,6
+0,8
+0,2
+0,5
+-1,2
+0,2
+-0,5
+0,2
+0,3
+OCSE
+0,7
+-0,1
+0,2
+0,3
+0,0
+1,0
+0,4
+-0,4
+-0,8
+-0,3
+-0,4
+1,2
+-0,4
+Effetto composizione (1)
+-0,7
+0,1
+-0,1
+0,4
+0,5
+-0,5
+-0,1
+0,0
+0,2
+-0,4
+0,4
+0,0
+0,0
+PIL
+2,8
+0,7
+1,9
+1,4
+1,9
+3,6
+1,8
+0,3
+0,0
+1,2
+0,1
+1,9
+1,4
+Retribuzioni unitarie
+-0,6
+-0,7
+0,3
+1,1
+1,8
+0,7
+0,0
+-1,1
+-0,2
+0,2
+0,7
+0,8
+0,7
+Occupazione
+-0,1
+0,4
+0,8
+1,3
+0,8
+2,0
+2,2
+1,7
+0,4
+0,0
+0,4
+2,1
+1,0
+Profitti
+5,7
+0,4
+1,6
+4,7
+1,7
+4,5
+1,4
+-0,2
+-0,5
+1,4
+-1,5
+1,1
+1,8
+Consumi
+2,5
+-0,1
+2,9
+2,7
+3,1
+3,7
+0,3
+-0,3
+0,7
+0,3
+0,3
+2,3
+1,2
+Disoccupazione
+1,5
+-0,6
+0,4
+0,7
+-2,6
+-6,9
+-8,9
+-4,0
+0,5
+-3,9
+-3,3
+-4,1
+-0,4
+Tassi reali di crescita delle principali variabili macroeconomiche (2)
+ 
+Fonte: per la Commissione Europea, AMECO database (aprile 2008); per l’FMI e l’OCSE, rispettivamente, World 
+Economic Outlook database (2008) e Economic Outlook (2007). La componente ciclica è calcolata per differenza 
+tra il saldo effettivo e quello strutturale. 
+(1) Variazione annuale dell'effetto composizione calcolato come differenza tra la componente ciclica stimata 
+attraverso l'elasticità delle voci di bilancio all'output gap e quella calcolata attraverso l'elasticità delle principali voci 
+di bilancio allo scostamento dal trend della relativa base imponibile (nostre stime). – (2) Nostre elaborazioni su 
+ISTAT “Conti Nazionali”. Le variabili macroeconomiche reali sono ricostruite utilizzando il deflatore del PIL. La 
+variabile occupazione è costruita ponderando le componenti relative ai lavoratori dipendenti e a quelli indipendenti 
+come spiegato nel testo. 
+ 
+ 
+ 
+ 
+ 
+Infine va ricordato che ogni stima degli effetti del ciclo economico è soggetta ad un ampio 
+margine di incertezza. Questo vale in particolare per le valutazioni in tempo reale (Appendice 1) 
+ma anche utilizzando dati ex post, dato che l’effettiva posizione ciclica dell’economia non è 
+misurabile24. 
+                                                          
+24 Per una discussione di carattere generale di tale aspetto cfr. Cotis et al. (2003). Problemi specifici connessi con 
+l’affidabilità delle stime real-time sono trattati in Mitchell (2005), Orphanides e van Norden (1999 and 2002) e 
+Forni e Momigliano (2004). 
+
+==== page 15 ====
+ 
+13
+3. 
+Le misure discrezionali con effetti temporanei25 
+In questa sezione si descrivono brevemente i criteri seguiti per identificare le misure 
+temporanee e si discute il ruolo da esse assunto nella politica di bilancio degli anni in esame. 
+I criteri corrispondono a quelli utilizzati nelle analisi di finanza pubblica della Banca 
+d’Italia a partire dalla Relazione annuale sul 199726 e sono simili a quelli indicati di recente 
+dalla Commissione europea27. Si considerano come temporanee le misure che hanno effetti sul 
+saldo per non più di tre anni28 o quelle che hanno effetti temporalmente più estesi ma 
+caratterizzati da elevata incertezza29. Nel caso di provvedimenti prorogati ogni anno, essi sono 
+inclusi tra le misure temporanee finché la loro proroga non diviene una prassi; a quel punto, essi 
+vengono classificati tra le misure a carattere permanente sin dall’anno in cui sono stati introdotti. 
+Sono generalmente considerati solo gli interventi che migliorano il saldo. Questa 
+cautela30 mira a definire un saldo strutturale prudenziale, che permetta di evidenziare i rischi 
+potenziali per i conti pubblici. Gli interventi che peggiorano il saldo di bilancio sono inclusi 
+solo se appare altamente probabile che non si ripeteranno in futuro. Nel periodo in esame, le 
+principali misure temporanee peggiorative del saldo considerate nell’analisi hanno riguardato: 
+la cancellazione nel 2006 dei crediti dello Stato verso la società TAV accumulati in anni 
+                                                          
+25 Questa sezione rappresenta una sintesi aggiornata dell’analisi delle misure temporanee contenuta in 
+Momigliano e Rizza (2007). 
+26 In questo lavoro non sono inclusi tra le misure temporanee i proventi della vendita delle licenze UMTS perché, 
+come viene tuttora effettuato nelle pubblicazioni della Banca d’Italia, l’indebitamento del 2000 è considerato 
+al netto di queste entrate. La ragione della correzione consiste nel fatto che il dibattito di politica economica a 
+livello europeo si è concentrato sul saldo così definito. In particolare, ciò è avvenuto sia nelle analisi del 
+Consiglio della UE sullo stato delle finanze pubbliche dei paesi membri, sia in quelle condotte dalla 
+Commissione europea (si veda, ad esempio, Commissione europea, 2001, pag. 11). 
+27 Cfr. Commissione europea (2007a). 
+28 In molti casi questi interventi determinano successivamente effetti di segno opposto sul saldo, distribuiti anche 
+su di un lungo arco temporale. 
+29 Un esempio è dato dal trasferimento all’INPS dei contributi per il TFR non destinati a fondi pensione dei 
+dipendenti delle imprese con più di cinquanta addetti, che ha determinato nel 2007 entrate per circa 0,3 punti 
+percentuali del PIL. Gli effetti del provvedimento, classificato tra le misure temporanee, sono destinati ad 
+annullarsi nello spazio di qualche anno, quando i flussi in uscita corrispondenti andranno a regime, e sono 
+incerti in quanto dipendono dalle scelte dei lavoratori. La Commissione europea indica come temporanee le 
+misure con un impatto sul saldo concentrato in un anno o in un numero molto limitato di anni. 
+30 La cautela nell’ammettere tra le misure temporanee interventi peggiorativi del saldo è in linea con gli 
+orientamenti emersi in sede europea nell’ambito delle procedure di sorveglianza multilaterale. In tale contesto, 
+essa riflette soprattutto l’obiettivo di evitare incentivi a presentare come temporanei provvedimenti 
+(continua) 
+
+==== page 16 ====
+ 
+14
+precedenti e connessi con il finanziamento del programma dell’alta velocità ferroviaria e la 
+soppressione nel 2007 dell’acconto, introdotto nel 1997, richiesto ai concessionari della 
+riscossione (4,9 miliardi). La prima operazione ha comportato la contabilizzazione nel 2006 di 
+trasferimenti in conto capitale aggiuntivi pari allo 0,9 per cento del prodotto. Ai fini dell’analisi 
+dei conti strutturali si sono equiripartiti tali oneri sugli anni 2003-06; dal 2003, infatti, gli 
+investimenti nell’alta velocità ferroviaria sono divenuti particolarmente rilevanti. Sono stati 
+quindi considerati come temporanei nel 2006 solo tre quarti delle spese contabilizzate in tale 
+anno (la Commissione europea ha considerato come temporaneo l’intero importo). 
+Tra le misure discrezionali a carattere temporaneo si considerano generalmente solo 
+quelle in materia di entrate31. Ciò riflette la difficoltà di definire un andamento normale per le 
+singole voci di spesa, rispetto al quale identificare univocamente gli effetti delle misure. Un 
+simile approccio è seguito sia dalla Commissione europea, sia in letteratura (si veda, ad 
+esempio, Koen e van den Noord, 2005). 
+Non vengono inoltre generalmente considerati tra le misure temporanee gli effetti di fattori 
+non controllabili dalle Amministrazioni pubbliche. Questa limitazione riflette, in parte, difficoltà 
+di reperimento dei dati, in parte la necessità di stabilire, caso per caso, se ci sia stata o meno una 
+reazione da parte delle autorità responsabili del bilancio volta a compensare tali effetti sul saldo. 
+Questi ultimi sono quindi inclusi tra le misure temporanee solo in casi eccezionali, quando 
+assumono dimensioni rilevanti32. 
+Una lista delle principali misure temporanee incluse nell’analisi con i rispettivi effetti 
+stimati è inclusa nell’Appendice 2. Nella tavola 2 si confrontano le nostre stime degli effetti 
+                                                                                                                                                                                       
+peggiorativi del saldo aventi un carattere potenzialmente permanente, migliorando artificialmente il saldo 
+strutturale. 
+31 Sono però incluse tra le misure temporanee le dismissioni immobiliari, che nel conto economico delle 
+Amministrazioni pubbliche sono riportate tra le spese, in diminuzione degli investimenti. Si è inoltre incluso il 
+risparmio di spesa, dell’ordine di 4 miliardi, connesso con il passaggio nel 1998 del pagamento delle pensioni 
+dell’INPS dalla cadenza bimestrale a quella mensile. 
+32 Relativamente al periodo analizzato, sono stati inclusi nelle misure temporanee del 2007 i rimborsi di imposta 
+connessi con la sentenza della Corte di giustizia europea del settembre 2006 (in materia di detraibilità dell’IVA 
+sulle spese sostenute per gli autoveicoli aziendali). Questa eccezione è in linea con i criteri adottati in sede 
+europea, che ammettono gli oneri derivanti da sentenze. Nelle stime effettuate a marzo del 2007, l’Istat aveva 
+contabilizzato tali rimborsi tra le spese in conto capitale del 2006 per l’intero ammontare previsto (16 miliardi, 
+pari all’1,1 per cento del PIL). A febbraio del 2008 l’Istat ha rivisto il trattamento statistico di tali rimborsi, 
+cancellando la contabilizzazione del 2006 e includendo i relativi oneri negli anni in cui vengono effettivamente 
+sostenuti (nel 2007 essi sono stati pari a 0,8 miliardi). 
+
+==== page 17 ====
+ 
+15
+complessivi sul saldo delle misure temporanee e quelle più recenti della Commissione Europea. 
+Nonostante la sostanziale omogeneità dei criteri33, le valutazioni presentano alcune differenze. 
+ 
+ 
+Tav. 2 – Stime delle misure temporanee (1) 
+(in percentuale del PIL)  
+ 
+Anno
+Banca d'Italia
+Commissione Europea (2)
+1997
+1,4
+1998
+1,1
+1999
+0,1
+2000
+0,2
+2001
+0,9
+2002
+1,7
+2003
+2,2
+1,7
+2004
+1,9
+1,3
+2005
+0,9
+0,6
+2006
+-0,1
+-0,4
+2007
+0,1
+-0,2
+Media (2003-07)
+1,0
+0,6
+MEDIA
+0,9
+-
+ 
+ 
+(1) Il dato del 2000 non include i proventi della vendita delle licenze UMTS. – (2) AMECO database (aprile 
+2008). 
+ 
+Il ricorso a misure con effetti temporanei non è un fenomeno recente per il nostro 
+paese34, ma ha assunto dimensioni particolarmente rilevanti quando sono diventate vincolanti 
+le regole europee riguardanti le finanze pubbliche. Nel periodo 1997-2007, in media le misure 
+con effetti temporanei hanno contenuto il disavanzo di 0,9 punti percentuali del PIL (con un 
+massimo di 2,2 punti nel 2003). 
+                                                          
+33 Una piccola parte della differenza è dovuta al fatto che la Commissione Europea non considera tra le misure 
+temporanee gli swap sugli interessi passivi. Ha anch’essa invece incluso tra le temporanee l'operazione di swap 
+sugli interessi attivi effettuata nel 2005. 
+34 Cfr. Sartor (1998). 
+
+==== page 18 ====
+ 
+16
+Come evidenziato da studi recenti sull’argomento, l’utilizzo delle misure temporanee 
+riguarda anche altri paesi della UE che hanno avuto difficoltà a rispettare le regole europee in 
+materia di bilancio35. Ciò ha indotto, nella riforma del Patto di stabilità e crescita del 2005, a 
+escludere anche tali misure dal saldo di riferimento per la procedura di sorveglianza 
+multilaterale delle politiche di bilancio. In precedenza, tale saldo corrispondeva 
+all’indebitamento netto corretto per i soli effetti del ciclo economico. 
+Nella letteratura teorica e nei documenti di bilancio vengono fornite varie giustificazioni 
+per il ricorso alle misure temporanee. A livello macro, esso consente di rispettare le regole di 
+bilancio (che devono essere necessariamente semplici; cfr. Kopits and Symansky, 1998) in anni 
+caratterizzati da difficoltà economiche o politiche. A livello micro, le misure temporanee 
+possono essere utilizzate per obiettivi specifici, quali indurre i contribuenti a far emergere 
+attività non dichiarate (Das-Gupta e Mookherjee, 1996 e 1998) e correggere effetti indesiderati 
+della normativa fiscale. Ulteriori motivazioni sono individuate nella specifica letteratura sui 
+condoni fiscali (si vedano, per esempio, Andreoni, 1991, Cassone e Marchese, 1995, Chu, 1990, 
+Franzoni, 1994 e 1996 e Kaplow e Shavell, 1994). 
+I potenziali vantaggi non sembrano, se non in casi specifici, essere tuttavia in grado di 
+compensare i problemi connessi con il ricorso a misure temporanee. Esso riduce 
+l’”accountability” dei governi, in quanto rende il bilancio pubblico meno trasparente. Inoltre, in 
+presenza di squilibri nei conti pubblici, l’utilizzo di misure con effetti temporanei consente di 
+rinviare l’aggiustamento strutturale e ciò può comportare costi elevati per la collettività. Infine, 
+tale misure possono introdurre nuove distorsioni nell’economia e avere effetti perversi sulle 
+aspettative: un tipico esempio è dato dai condoni fiscali, che possono accrescere la propensione 
+ad evadere, nell’attesa di provvedimenti analoghi negli anni successivi. 
+L’ampio utilizzo delle misure temporanee per rispettare i vincoli di bilancio europei36 
+emerge in modo chiaro dalla figura 4, in cui si riportano, per ciascun anno considerato, il 
+                                                          
+35 Cfr. Koen e van den Noord (2005) e Buti et al. (2006). 
+36 Va rilevato che sulla scelta delle specifiche misure hanno influito ulteriori motivazioni. Ad esempio, 
+l’introduzione dell’imposta sostitutiva sulle rivalutazioni dei cespiti aziendali, avvenuta con la legge 
+finanziaria per il 2001 e successivamente prorogata, ha consentito un adeguamento delle poste di bilancio 
+all’effettivo valore di mercato da parte delle aziende senza determinare un eccessivo aggravio tributario. 
+
+==== page 19 ====
+ 
+17
+disavanzo annuo previsto dal governo a settembre37, al netto e al lordo degli effetti delle misure 
+temporanee: in ciascun anno del biennio 1997-98 e del triennio 2002-04 esse sono necessarie, 
+nelle stime del governo, per mantenere il disavanzo al di sotto del 3 per cento del PIL38. 
+ 
+Fig. 4 – Disavanzo atteso e ricorso a misure temporanee 
+(in percentuale del PIL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) Il disavanzo atteso a settembre per l’anno in corso è ricavato dalla Relazione previsionale e programmatica per 
+l’anno successivo. – (2) Per il 2001 vengono conteggiate tra le misure temporanee anche le cartolarizzazioni di 
+immobili (0,25 per cento del prodotto) e del lotto (0,31 punti) che Eurostat ha successivamente bocciato ed escluso 
+dall'indebitamento netto. 
+ 
+L’utilizzo delle misure temporanee nel 1997 appare connesso con l’entità della correzione 
+allora necessaria per prender parte fin dall’inizio all’Unione Monetaria, in una fase 
+congiunturale avversa39. Vi era inoltre la prospettiva di cospicui risparmi sulla spesa per 
+                                                          
+37 Il disavanzo atteso a settembre per l’anno in corso è ricavato dalla Relazione previsionale e programmatica per 
+l’anno successivo. La distanza verticale tra le due curve è pari alla nostra stima delle misure temporanee in 
+rapporto al PIL. 
+38 Nel 2001, escludendo gli effetti delle misure temporanee, la stima del disavanzo è prossima al suddetto limite, 
+suggerendo che le misure possano avere avuto la funzione di garantire il rispetto del limite, data l’incertezza 
+insita nelle valutazioni sui conti pubblici. 
+39 Degni et al. (2001) sottolineano come la manovra del 1997 abbia una componente strutturale molto inferiore a 
+quella di Amato del 1993 e si faccia ricorso a “un intero arsenale di interventi ulteriori, straordinari e 
+amministrativi”. 
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Rapporto al PIL
+Disavanzo atteso (1)
+Disavanzo atteso al netto delle temporanee (2)
+Soglia 3 per cento
+
+==== page 20 ====
+ 
+18
+interessi negli anni successivi, determinati dalla convergenza dell’onere medio sul debito ai tassi 
+di mercato, ridottisi fortemente già nel corso del 199640. Il ricorso alle misure temporanee 
+avrebbe dovuto ridursi negli anni successivi, coerentemente con l’impegno preso dall’Italia con 
+l’adesione al Patto di stabilità e crescita di perseguire nel medio termine un saldo di bilancio in 
+pareggio o in avanzo. Ciò si è verificato solo fino al 2000. 
+L’entità delle misure temporanee è maggiore quando il disavanzo atteso è prossimo al 3 
+per cento. Nel momento in cui il disavanzo supera abbondantemente tale soglia, come nel 2005, 
+esse diventano meno rilevanti. Il modesto impatto delle misure temporanee nel 2006 riflette gli 
+impegni assunti in sede europea nel 2005: il rientro del disavanzo al di sotto della soglia del 3 
+per cento del PIL è programmato per il 2007, mentre la correzione da realizzare nel 2006 è 
+definita al netto delle misure temporanee. 
+Il ricorso alle misure temporanee sembra coerente con una politica di bilancio mirante a 
+“guadagnare tempo”, in un contesto macroeconomico che veniva percepito come 
+sfavorevole41. La semplice temporaneità delle misure limita infatti l’effetto negativo sui 
+comportamenti di spesa degli agenti privati e quindi sull’attività economica; inoltre, molte 
+delle misure temporanee hanno per loro natura effetti modesti su tali comportamenti; si 
+consideri ad esempio, i condoni, che sono attivati volontariamente dai contribuenti, o le 
+dismissioni immobiliari. 
+La strategia del guadagnare tempo era coerente con l’allora diffusa aspettativa che la fase 
+ciclica sfavorevole avviatasi alla fine del 2001 sarebbe stata relativamente breve. Nel biennio 
+2002-03 l’aumento del ricorso alle misure temporanee dovrebbe avere effettivamente 
+attenuato, a parità di altre condizioni, il peggioramento ciclico. Tuttavia, le informazioni oggi 
+disponibili posizionano il picco negativo del ciclo nel 2005, proprio quando l’utilizzo delle 
+misure temporanee si riduce. 
+ 
+                                                          
+40 Bernardi (2000, pag. 18) rileva inoltre che si confidava che la manovra fosse “creduta dai mercati finanziari 
+…” e che si avesse “… quindi un’accelerazione nella convergenza dei tassi a breve ai valori europei”. 
+41 Ad esempio, la Relazione previsionale e programmatica per il 2002 (pag. 47), nel presentare una manovra di 
+bilancio che include significativi interventi temporanei, sottolinea che: “La manovra finanziaria per il 2002, 
+[…], risponde alle finalità […] di non indebolire un’economia resa incerta dall’attuale quadro internazionale”. 
+
+==== page 21 ====
+ 
+19
+4. 
+La metodologia di analisi degli andamenti strutturali 
+Le entrate e le spese strutturali, ossia corrette per gli effetti del ciclo economico e delle 
+misure temporanee, sono espresse in rapporto al PIL di trend, calcolato sulla base di un filtro 
+HP. Con riferimento alle principali componenti delle entrate (le imposte dirette a carico delle 
+famiglie, quelle a carico delle imprese, le imposte indirette, i contributi sociali), viene valutato 
+il ruolo di tre fattori: il drenaggio fiscale, le misure discrezionali a carattere permanente e lo 
+scostamento tra l’andamento di medio periodo delle principali basi imponibili delle imposte e 
+dei contributi sociali e quello del PIL (il cosiddetto decoupling). Tale scomposizione si basa su 
+una metodologia sviluppata all’interno del Sistema Europeo delle Banche Centrali42. 
+Il drenaggio fiscale corrisponde alla variazione delle entrate strutturali derivante da una 
+elasticità delle imposte alla propria base imponibile diversa dall’unità. Esso è positivo (aumenta 
+le entrate) per le imposte dirette a carico delle famiglie43, per la natura progressiva dell’imposta 
+sul reddito, e negativo (riduce gli incassi) per le imposte indirette, per la presenza delle accise, 
+ossia di imposte calcolate sulle quantità e che pertanto non risentono di variazioni dei prezzi44. 
+L’effetto del drenaggio fiscale è calcolato nel modo seguente: 
+t
+t
+t
+Y
+R
+g
+1
+)1
+(
+−
+⋅
+−
+ε
+ 
+dove ε è l’elasticità dell’imposta rispetto alla sua base imponibile, 
+tg è il tasso di crescita di 
+trend di quest’ultima, 
+1
+−
+tR
+ è il gettito al tempo t–1 e 
+tY è il PIL di trend. Va rilevato che nel 
+dibattito economico il drenaggio fiscale è in genere identificato solo con riferimento alla 
+progressività dell’Irpef. 
+                                                          
+42 Cfr. Kremer et al. (2006). Tale metodologia ha di recente trovato applicazione in diversi paesi dell’area 
+dell’euro; al riguardo cfr. Kremer e Wendorff (2004), Deutsche Bundesbank (2006), Kremer et al. (2006) e 
+Braz (2006). 
+43 Per l’intero periodo considerato, è ipotizzata una elasticità costante dell’imposta personale sul reddito rispetto 
+alle retribuzioni unitarie pari a 1,6. Va tuttavia rilevato che, come evidenziato in alcuni recenti lavori, le 
+riforme dell’Irpef degli ultimi anni hanno innalzato tale elasticità (ISAE, 2005 e 2006 e Marino et al., 2007). 
+L’utilizzo di una elasticità crescente non avrebbe tuttavia modificato in misura significativa i nostri risultati. 
+44 In entrambi i casi, a intervalli di tempo irregolari, intervengono misure discrezionali volte tendenzialmente a 
+compensare tali effetti automatici. L’impatto di questi interventi è nell’analisi attribuito alla misure legislative. 
+
+==== page 22 ====
+ 
+20
+Le entrate sono inoltre influenzate dalle modifiche normative. La quantificazione del loro 
+impatto è soggetta inevitabilmente a un elevato grado di incertezza. In questo lavoro essa è 
+effettuata in genere sulla base delle stime ufficiali. 
+Infine, l’incidenza sul PIL di trend di ciascuna voce di entrata si modifica se la sua base 
+imponibile cresce ad un tasso tendenziale diverso da quello del prodotto. L’impatto di questo 
+fattore (decoupling) è calcolato in base alla seguente espressione: 
+t
+t
+t
+t
+Y
+R
+g
+1
+)
+(
+−
+⋅
+−γ
+ 
+dove 
+tγ è il tasso di crescita del PIL di trend. 
+La parte delle variazione delle entrate non attribuibile ai fattori finora descritti confluisce 
+in una posta residuale (da ora in poi chiamata genericamente residuo) che può riflettere fattori 
+specifici non catturati dall’analisi. In particolare, sebbene questa tenga conto degli effetti sul 
+gettito di variazioni dell’incidenza sul prodotto delle variabili macroeconomiche utilizzate, non 
+considera quelli derivanti da modifiche nella composizione di queste ultime. Inoltre, i residui 
+riflettono le inevitabili differenze che esistono tra le variabili macroeconomiche utilizzate e le 
+basi imponibili che esse approssimano. Questo problema è particolarmente rilevante per il 
+risultato netto di gestione, utilizzato come proxy del reddito imponibile d’impresa; tale 
+indicatore, in particolare, non consente di cogliere correttamente le perdite che le imprese e le 
+società possono portare in riduzione degli utili dell’esercizio in corso e di quelli successivi. Alla 
+formazione di residui contribuiscono anche le modalità di versamento dell’imposta (due acconti 
+nell’anno in cui i profitti sono realizzati e un saldo in quello successivo), che rendono meno 
+diretto il legame tra il gettito dell’imposta e la base imponibile, e il comportamento 
+generalmente asimmetrico dei contribuenti nel determinare l’acconto da versare (essi tendono a 
+calcolarlo come una percentuale dell’imposta di competenza dell’anno precedente quando 
+prevedono per l’anno in corso un debito di imposta più elevato, oppure come una percentuale 
+dell’imposta che si attendono di pagare nell’anno nel caso opposto). Altri limiti di questa 
+metodologia, che si riflettono sui residui, derivano dalla non considerazione dell’andamento di 
+alcune specifiche basi imponibili, quali i tassi d’interesse e le variazioni delle attività reali e 
+finanziarie. Residui possono infine derivare da modifiche al grado di adesione dei contribuenti 
+alla normativa fiscale. 
+
+==== page 23 ====
+ 
+21
+Dal lato della spesa, oltre alla correzione per gli effetti del ciclo45 e delle misure 
+temporanee, sono state effettuate alcune riallocazioni rispetto alla presentazione standard dei 
+conti fornita dall’Istat. In particolare, sono state enucleate le spese sanitarie e quelle 
+pensionistiche46 e l’IRAP versata dalle Amministrazioni pubbliche è stata sommata ai redditi da 
+lavoro in modo da ottenere un indicatore più completo del costo per il personale e più omogeneo 
+nel tempo. 
+ 
+5. 
+I risultati: l’evoluzione dei conti strutturali nel periodo 1998-2007 
+La valutazione dell’andamento dei conti pubblici, soprattutto con riferimento ai singoli 
+anni, è molto differente se si fa riferimento al disavanzo complessivo, a quello primario o se si 
+passa all’analisi di quest’ultimo saldo in termini strutturali. 
+Negli anni immediatamente successivi al 1997 il disavanzo complessivo migliora 
+gradualmente, collocandosi in prossimità del 2 per cento del PIL nel biennio 1999-2000 
+(escludendo i proventi della vendita delle licenze UMTS, inclusi con segno negativo tra le altre 
+spese in conto capitale). Il miglioramento rispecchia la dinamica della spesa per interessi 
+(tav. 3). Negli anni successivi quest’ultima continua a diminuire, ma i risparmi non sono più 
+sufficienti a evitare il peggioramento del saldo complessivo. 
+La tavola 4 evidenzia come la flessione della spesa per interessi sia in larga misura 
+attribuibile alla dinamica del tasso d’interesse medio, che ha riflesso con ritardo il forte calo dei 
+tassi all’emissione registrato a partire dalla metà degli anni novanta (fig. 5), sul quale ha influito 
+                                                          
+45 La correzione per gli effetti del ciclo economico sul lato delle spese riguarda unicamente le spese per la 
+disoccupazione. 
+46 Le spese sanitarie nel conto standard dell’Amministrazione pubblica sono ripartite tra le prestazioni sociali in 
+natura, i redditi da lavoro e i consumi intermedi. La spesa per pensioni è inclusa tra le prestazioni sociali in 
+denaro. La spesa pensionistica qui riportata include le voci “pensioni e rendite” (che è una sottocategoria delle 
+prestazioni previdenziali) e le prestazioni assistenziali (al netto della voce “altri assegni e sussidi”). 
+
+==== page 24 ====
+ 
+22
+in misura determinante l’adesione dell’Italia alla Unione Monetaria47, e in misura minore a 
+quella del debito48. 
+ 
+Tav. 3 – Saldi delle Amministrazioni pubbliche (1) 
+(in percentuale del PIL di trend) 
+ 
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+1997-2007
+Indebitamento netto (2)
+-2,7
+-2,8
+-1,7
+-2,0
+-3,1
+-2,9
+-3,5
+-3,5
+-4,2
+-3,4
+-1,9
+0,8
+Spesa per interessi (2)
+9,3
+7,9
+6,6
+6,3
+6,3
+5,5
+5,1
+4,7
+4,5
+4,6
+5,0
+-4,3
+Indebitamento netto primario (2)
+6,6
+5,1
+4,9
+4,3
+3,2
+2,7
+1,6
+1,2
+0,3
+1,3
+3,1
+-3,5
+Componente ciclica (2)
+-0,5
+-0,3
+0,1
+0,5
+0,6
+0,3
+-0,1
+-0,4
+-0,3
+0,1
+0,2
+0,8
+Effetti temporanei su primario (2)
+1,4
+0,8
+0,0
+0,2
+0,9
+1,5
+2,1
+1,8
+0,7
+-0,2
+0,1
+-1,2
+Indebitamento netto primario corretto (3)
+5,8
+4,6
+4,8
+3,6
+1,7
+0,9
+-0,4
+-0,2
+-0,2
+1,3
+2,7
+-3,1
+per memoria: indebitamento netto strutturale
+-3,5
+-3,6
+-1,9
+-2,8
+-4,7
+-4,8
+-5,5
+-5,0
+-4,8
+-3,3
+-2,3
+1,2
+Totale entrate
+46,8
+45,7
+45,8
+45,3
+44,4
+43,9
+43,3
+43,6
+43,9
+45,5
+46,7
+-0,1
+Entrate correnti
+46,5
+45,3
+45,4
+44,8
+44,1
+43,6
+42,9
+43,3
+43,6
+45,2
+46,4
+0,0
+Entrate in conto capitale
+0,3
+0,4
+0,5
+0,4
+0,3
+0,3
+0,4
+0,3
+0,3
+0,3
+0,3
+0,0
+Totale spese primarie
+41,0
+41,1
+41,1
+41,6
+42,7
+43,0
+43,7
+43,7
+44,0
+44,1
+44,0
+3,0
+Spese correnti primarie
+37,7
+37,5
+37,3
+37,7
+38,3
+38,5
+38,9
+39,2
+39,5
+39,7
+39,8
+2,2
+Spese in conto capitale
+3,4
+3,7
+3,8
+3,9
+4,4
+4,5
+4,8
+4,5
+4,5
+4,4
+4,2
+0,8
+0 
+ 
+(1) Per l’indebitamento netto si utilizza la definizione rilevante ai fini della Procedura per i disavanzi eccessivi, 
+che include gli effetti delle operazioni di swap e dei forward rate agreement. Nei dati del 2000 non sono inclusi i 
+proventi della vendita delle licenze UMTS. – (2) In percentuale del PIL nominale. – (3) Saldo primario al netto 
+degli effetti del ciclo economico e delle misure temporanee. 
+ 
+ 
+ 
+Tav. 4 – Scomposizione della variazione della spesa per interessi 
+(in percentuale del PIL) 
+ 
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+1997-2006
+Variazione della spesa per interessi
+-1,4
+-1,3
+-0,3
+0,0
+-0,8
+-0,4
+-0,4
+-0,2
+0,1
+0,4
+-4,3
+dovuta a:  andamento dei tassi di interesse
+-1,2
+-1,2
+0,0
+0,1
+-0,7
+-0,3
+-0,3
+-0,2
+0,0
+0,4
+-3,4
+               modifiche della consistenza del debito
+-0,2
+-0,1
+-0,2
+-0,1
+-0,1
+-0,1
+-0,1
+0,1
+0,0
+0,0
+-0,9
+ 
+ 
+                                                          
+47 Cfr. Balassone et al. (2004a). Il differenziale tra i rendimenti dei titoli di Stato a lungo termine dei paesi ad 
+alto debito e quelli della Germania è diminuito drasticamente negli anni immediatamente precedenti 
+l’introduzione della moneta unica. Nel 1995 il differenziale tra il BTP decennale e il corrispondente titolo 
+tedesco (BUND) ancora superava i 5 punti percentuali; nel dicembre del 1998 esso scendeva a 0,13 punti. 
+48 Il contributo fornito dall’andamento dei tassi di interesse è calcolato come (
+) (
+)
+t
+t
+1
+t
+1
+t
+t
+Y
+2
+D
+D
+i
+i
++
+⋅
+−
+−
+−
+, dove 
+(
+) 2
+D
+D
+I
+i
+t
+1
+t
+t
+t
++
+=
+−
+ è l’onere medio del debito e 
+t
+D è il livello del debito alla fine del periodo di riferimento; quello 
+del debito è calcolato a residuo. 
+
+==== page 25 ====
+ 
+23
+ 
+Fig. 5 – Tassi d’interesse sul debito e onere medio 
+'97
+'01
+'03
+'07
+'06
+'05
+'04
+'02
+'00
+'99
+'98
+0
+2
+4
+6
+8
+10
+0
+2
+4
+6
+8
+10
+rendimento lordo dei BTP benchmark decennali
+tasso medio lordo sui BOT
+onere medio (1)
+ 
+(1) L’onere medio del debito è determinato dal rapporto fra la spesa per interessi e la consistenza media del debito 
+durante l’anno. 
+ 
+ 
+L’avanzo primario peggiora costantemente tra il 1997 e il 2005, passando dal 6,6 allo 0,3 
+per cento del PIL, per poi risalire al 3,1 per cento nel 200749. Tale andamento è in contrasto con 
+gli 
+obiettivi 
+annunciati 
+dai 
+vari 
+governi 
+nei 
+documenti 
+di 
+programmazione 
+economico-finanziaria (DPEF) (fig. 6 e tav. A1 nell’Appendice 1). Tra il 1998 e il 2002 i 
+suddetti documenti programmavano un avanzo primario costante intorno al 5 per cento del PIL, 
+livello che l’Italia si era impegnata a mantenere nel medio termine al momento dell’ammissione 
+all’Unione Monetaria50. Dal 2003 si prende progressivamente atto del peggioramento 
+dell’avanzo primario e viene ogni anno programmato un ritorno graduale verso l’obiettivo 
+originario51.
+                                                          
+49 Al fine di valutare le politiche di bilancio appare preferibile analizzare il saldo primario, dato che la spesa per 
+interessi è nel breve termine largamente fuori dal controllo dell’operatore pubblico. Anche in un’ottica di 
+medio-lungo termine, è il saldo primario che determina, per date condizioni monetarie, la dinamica del debito. 
+50 Al Consiglio Ecofin del marzo del 1998 il Ministro Ciampi dichiara che il percorso di risanamento italiano “si 
+basa sul mantenimento di un elevato avanzo primario, dell’ordine del 5,5 per cento […] in grado di consentire 
+una riduzione costante del debito del 3 per cento all’anno in presenza di una crescita del reddito in termini 
+monetari pari al 4,5 per cento”. 
+51 La figura 6 evidenzia come in vari anni, sulla base delle successive revisioni statistiche e contabili introdotte 
+dall’Istat, il punto di partenza dei programmi si sia rivelato ottimistico. Cfr. Banca d’Italia (2005). 
+
+==== page 26 ====
+ 
+24
+Fig. 6 – Avanzo primario: obiettivi e consuntivi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In termini strutturali, il deterioramento dei conti pubblici avviene nei primi anni del 
+periodo in esame. In rapporto al prodotto52, il saldo primario peggiora di oltre 6 punti tra il 1997 
+e il 2003 (fig. 7). Nell’ultimo quadriennio (2004-07) si registra invece un miglioramento, 
+concentrato quasi esclusivamente negli anni 2006-07, pari a circa 3 punti percentuali. 
+Sia nella fase di peggioramento dei saldi che in quella del loro miglioramento la 
+variazione delle entrate ha un ruolo preminente53. 
+Nei primi sei anni, la riduzione dell’avanzo primario strutturale è attribuibile per 3,5 punti 
+percentuali del prodotto alla flessione delle entrate e per 2,7 punti all’aumento delle spese. La 
+riduzione delle entrate è in linea con gli obiettivi di diminuzione della pressione fiscale indicati 
+dai vari governi dal 1997; nel corso del consolidamento fiscale dei primi anni novanta essa era 
+aumentata di oltre 4 punti (passando dal 39,4 per cento del 1991 al 43,7 nel 1997). L’aumento 
+delle spese contrasta invece con le indicazioni contenute nei documenti di programmazione, 
+                                                          
+52 In questo lavoro le variabili strutturali sono sempre espresse in rapporto al “PIL di trend”; viene tuttavia 
+utilizzato, per semplicità, il termine “prodotto”. 
+53 Le spese primarie hanno contribuito per la metà al peggioramento del saldo primario strutturale tra il 1997 e il 
+2005, mentre sono rimaste sostanzialmente invariate in rapporto al prodotto successivamente. 
+(in percentuale del PIL) 
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+Consuntivi
+DPEF (luglio 1998)
+DPEF (giugno 1999)
+DPEF (luglio 2000)
+DPEF (luglio 2001)
+DPEF (luglio 2002)
+DPEF (luglio 2003)
+DPEF (luglio 2004)
+DPEF (luglio 2005)
+DPEF (luglio 2006)
+DPEF (giugno 2007)
+
+==== page 27 ====
+ 
+25
+Fig. 7 – Avanzo primario ed effetti transitori 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) In percentuale del PIL di trend. – (2) Cfr. la nota 1 alla tav. 3. 
+ 
+ 
+secondo le quali la riduzione delle entrate avrebbe dovuto essere accompagnata dal 
+contenimento delle spese primarie in rapporto al prodotto, in modo da mantenere costante il 
+saldo primario. Parte di questo risultato è ascrivibile a una stima programmatica della crescita 
+potenziale dell’economia ben superiore a quella registrata dall'inizio degli anni novanta. 
+Il miglioramento del quadriennio 2004-07 è legato all’incremento delle entrate, quasi 
+esclusivamente concentrato nell’ultimo biennio54. La spesa primaria è ancora aumentata, sia 
+pure di poco, nonostante la forte riduzione delle spese in conto capitale. L’aggiustamento fiscale 
+                                                          
+54 Tali valutazioni si basano sui conti delle Amministrazioni pubbliche redatti dall’Istat in base al cosiddetto 
+“criterio tradizionale”; l’utilizzo di criteri diversi può condurre a piccole differenze. Ad esempio, la 
+presentazione del conto delle Amministrazioni pubbliche secondo i criteri adottati a livello comunitario 
+(Regolamento CE n. 1500/2000, vincolante ai fini dell’aggiornamento del Programma di stabilità) indica 
+aumenti delle spese primarie inferiori, rispettivamente, di 0,2 punti percentuali del PIL tra il 1997 e il 2003 e di 
+0,3 punti tra il 1997 e il 2006 (Istat, 2007). Le differenze sono dovute, sostanzialmente, al fatto che in base al 
+Regolamento CE le spese e le entrate sono calcolate al lordo dei ricavi connessi all’attività produttiva e al netto 
+degli ammortamenti. In particolare, l’incidenza sul PIL degli ammortamenti, inclusi tra le spese nei conti 
+pubblicati dall’Istat, è aumentata dall’1,6 per cento del PIL nel 1997 all’1,8 nel 2006, riflettendo la progressiva 
+riduzione della vita media del capitale pubblico. 
+(in percentuale del PIL) 
+-1,0
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+'97
+'98
+'99
+'00
+'01
+'02
+'03
+'04
+'05
+'06
+'07
+-1,0
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+misure temporanee
+componente ciclica
+avanzo primario strutturale (1)
+avanzo primario (2)
+
+==== page 28 ====
+ 
+26
+ 
+Tav. 5 – Le entrate corrette per gli effetti del ciclo e per le misure temporanee 
+(in percentuale del PIL di trend) 
+ 
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+1997-03
+2004-07
+Totale entrate
+46,8
+45,7
+45,8
+45,3
+44,4
+43,9
+43,3
+43,6
+43,9
+45,5
+46,7
+-3,5
+3,4
+Imposte dirette a carico delle famiglie
+10,6
+9,9
+10,0
+10,1
+9,8
+9,6
+9,5
+9,5
+9,4
+9,8
+10,4
+-1,1
+0,9
+Imposte dirette a carico delle imprese
+5,0
+4,4
+4,6
+4,2
+4,1
+3,7
+3,5
+3,4
+3,7
+4,2
+4,7
+-1,5
+1,2
+Imposte indirette
+12,0
+14,8
+14,7
+14,6
+14,2
+14,4
+14,0
+14,1
+14,2
+14,9
+14,7
+2,0
+0,8
+Contributi sociali
+15,1
+12,6
+12,4
+12,5
+12,4
+12,5
+12,6
+12,7
+12,8
+12,8
+12,9
+-2,5
+0,3
+Altre
+4,0
+4,0
+4,1
+3,9
+3,8
+3,7
+3,7
+3,9
+3,8
+3,8
+3,9
+-0,3
+0,2
+ 
+ 
+ 
+ 
+Fig. 8 – Andamento delle entrate strutturali  
+(in percentuale del PIL) 
+ 
+43
+44
+45
+46
+47
+48
+'97
+'98
+'99
+'00
+'01
+'02
+'03
+'04
+'05
+'06
+'07
+43
+44
+45
+46
+47
+48
+entrate 
+entrate al netto degli effetti del ciclo economico
+e delle misure temporanee (1)
+ 
+(1) In percentuale del PIL di trend. 
+ 
+ 
+presenta pertanto, sebbene in forme meno accentuate, gli stessi elementi di debolezza del 
+periodo di consolidamento degli anni novanta. 
+
+==== page 29 ====
+ 
+27
+5.1 Le entrate 
+Nel 2007 l’incidenza delle entrate strutturali sul prodotto ha raggiunto il 46,7 per cento, 
+tornando al picco del 1997; la forte contrazione tra il 1997 e il 2003 (3,5 punti percentuali) è 
+stata compensata dall’aumento verificatosi nel quadriennio successivo (tav. 5 e fig. 8); entrambi 
+gli andamenti riflettono in larga misura gli effetti delle misure legislative. La flessione del primo 
+periodo ha ricondotto l’incidenza delle entrate sul PIL al livello dei primi anni novanta: nel 1991 
+(l’anno precedente la fase di consolidamento degli anni novanta) essa era valutabile in circa il 43 
+per cento; nel 1997 aveva raggiunto il picco di circa il 47 per cento; nel 2003 era nuovamente 
+attorno al 43 per cento. 
+La riduzione registrata fino al 2003 ha riguardato essenzialmente le imposte e i contributi 
+sociali (3,2 punti); le misure legislative varate in quegli anni hanno determinato un calo del 
+gettito valutabile in 3,5 punti percentuali, solo in parte compensato dal drenaggio fiscale, che ha 
+aumentato gli incassi di 0,6 punti (tav. 6 e fig. 9). La variazione delle entrate non attribuibile ai 
+menzionati fattori (–0,3 punti) riflette, oltre ai limiti della metodologia, anche specifici 
+fenomeni, descritti alla fine di questo paragrafo. 
+L’incremento delle entrate strutturali nel triennio 2004-07 è attribuibile per circa un terzo 
+(1,1 punti del prodotto) alle misure legislative che, da un lato, hanno aumentato le imposte 
+indirette, quelle dirette sulle imprese e i contributi sociali (per complessivi 1,3 punti) e, 
+dall’altro, hanno ridotto il prelievo sui redditi delle famiglie (per 0,2 punti). Il drenaggio fiscale 
+e il decoupling hanno contribuito alla crescita per quasi un punto. Nel periodo l’aumento delle 
+entrate è stato significativamente superiore a quello stimabile sulla base dei suddetti fattori. 
+Le principali misure legislative attuate nel periodo 1998-2003 sono state l’introduzione 
+dell’IRAP nel 1998, avvenuta nell’ambito di un’ampia riforma del sistema tributario (vedi 
+Appendice 3) e gli sgravi fiscali concessi a famiglie e imprese dal 2000. 
+ 
+
+==== page 30 ====
+ 
+28
+Tav. 6 – Scomposizione della variazione delle entrate al netto degli effetti del ciclo e delle misure temporanee 
+(in percentuale del PIL di trend) 
+ 
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+1997-2007
+Totale entrate (1)
+47,7
+46,2
+46,4
+45,4
+45,0
+44,5
+45,1
+44,5
+44,2
+45,9
+47,2
+-0,5
+Componente ciclica (1)
+-0,5
+-0,3
+0,1
+0,5
+0,6
+0,3
+-0,1
+-0,3
+-0,2
+0,1
+0,2
+0,7
+Effetti temporanei (1)
+1,2
+0,5
+0,1
+0,1
+0,7
+0,7
+1,7
+1,2
+0,3
+0,4
+0,4
+-0,8
+Effetto denominatore (2)
+0,2
+0,3
+0,4
+-0,6
+-0,7
+-0,3
+0,2
+0,1
+0,3
+0,0
+-0,2
+-0,4
+Totale entrate corretto (3)
+46,8
+45,7
+45,8
+45,3
+44,4
+43,9
+43,3
+43,6
+43,9
+45,5
+46,7
+-0,1
+Variazione delle entrate corrette (3)
+-1,1
+0,2
+-0,6
+-0,9
+-0,5
+-0,6
+0,3
+0,3
+1,6
+1,3
+-0,1
+Variazione delle imposte dirette delle famiglie
+-0,7
+0,1
+0,1
+-0,3
+-0,2
+-0,1
+0,0
+0,0
+0,4
+0,6
+-0,2
+    Drenaggio fiscale
+0,1
+0,1
+0,1
+0,2
+0,2
+0,2
+0,2
+0,1
+0,1
+0,1
+1,5
+    Scostamento della base imponibile dal PIL
+-0,1
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,1
+0,1
+0,0
+0,1
+    Modifiche legislative
+-0,3
+0,0
+-0,6
+-0,4
+-0,1
+-0,4
+-0,1
+-0,3
+0,0
+0,2
+-1,9
+    Variazione non attribuibile ai precedenti fattori
+-0,4
+-0,1
+0,6
+-0,2
+-0,3
+0,0
+-0,2
+0,0
+0,2
+0,3
+0,1
+Variazione delle imposte dirette delle imprese
+-0,7
+0,3
+-0,4
+-0,1
+-0,4
+-0,2
+-0,2
+0,3
+0,5
+0,6
+-0,3
+    Drenaggio fiscale
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+    Scostamento della base imponibile dal PIL
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,1
+    Modifiche legislative
+-1,1
+0,1
+-0,2
+-0,2
+-0,2
+-0,2
+-0,3
+0,1
+0,4
+0,3
+-1,3
+    Variazione non attribuibile ai precedenti fattori
+0,4
+0,1
+-0,2
+0,1
+-0,3
+0,0
+0,1
+0,2
+0,1
+0,3
+0,9
+Imposte indirette
+2,8
+-0,1
+-0,1
+-0,3
+0,2
+-0,4
+0,1
+0,1
+0,7
+-0,1
+2,7
+    Drenaggio fiscale
+-0,1
+0,0
+0,0
+-0,1
+-0,1
+-0,1
+-0,1
+0,0
+0,0
+0,0
+-0,5
+    Scostamento della base imponibile dal PIL
+0,0
+0,0
+0,2
+0,0
+0,0
+0,0
+0,0
+0,0
+0,1
+0,0
+0,2
+    Modifiche legislative
+2,7
+-0,3
+0,0
+-0,1
+0,1
+0,1
+0,1
+0,3
+0,1
+0,0
+3,1
+    Variazione non attribuibile ai precedenti fattori
+0,2
+0,2
+-0,2
+-0,2
+0,2
+-0,4
+0,1
+-0,3
+0,5
+-0,1
+-0,1
+Contributi sociali
+-2,5
+-0,2
+0,0
+-0,1
+0,1
+0,2
+0,1
+0,1
+-0,1
+0,2
+-2,2
+    Drenaggio fiscale
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+    Scostamento della base imponibile dal PIL
+-0,2
+0,0
+0,0
+0,1
+0,0
+0,0
+0,1
+0,1
+0,1
+0,0
+0,1
+    Modifiche legislative
+-2,1
+-0,2
+-0,2
+-0,1
+0,0
+0,0
+0,1
+0,0
+-0,2
+0,3
+-2,3
+    Variazione non attribuibile ai precedenti fattori
+-0,2
+0,1
+0,2
+-0,1
+0,0
+0,1
+0,0
+0,0
+0,0
+-0,1
+0,0
+Imposte e contributi sociali
+-1,1
+0,1
+-0,4
+-0,9
+-0,4
+-0,6
+0,1
+0,4
+1,5
+1,2
+0,1
+    Drenaggio fiscale
+0,1
+0,1
+0,1
+0,1
+0,1
+0,1
+0,1
+0,1
+0,1
+0,1
+1,0
+    Scostamento della base imponibile dal PIL
+-0,4
+0,0
+0,3
+0,1
+0,0
+0,0
+0,1
+0,2
+0,3
+-0,1
+0,5
+    Modifiche legislative
+-0,8
+-0,4
+-1,0
+-0,7
+-0,2
+-0,5
+-0,2
+0,2
+0,3
+0,8
+-2,4
+    Variazione non attribuibile ai precedenti fattori
+0,0
+0,3
+0,3
+-0,4
+-0,3
+-0,3
+0,1
+0,0
+0,8
+0,3
+0,9
+Altre entrate
+-0,1
+0,1
+-0,2
+0,0
+-0,1
+0,0
+0,2
+-0,1
+0,1
+0,1
+-0,1 
+ 
+(1) In percentuale del PIL nominale. – (2) Effetto sul denominatore del passaggio dal PIL nominale a quello di 
+trend. (3)Al netto degli effetti del ciclo economico e delle misure temporanee. 
+ 
+ 
+ 
+Nella Relazione tecnica al decreto istitutivo dell’IRAP, l’introduzione di questa imposta, 
+l’abolizione contestuale di alcuni tributi e contributi e la ristrutturazione dell’Irpef sarebbero 
+avvenuti a parità di gettito55. Nelle nostre stime, l’introduzione dell’IRAP determina invece una 
+perdita di gettito nel 1998 pari a 0,5 punti percentuali del prodotto: a un aumento delle imposte 
+                                                          
+55 In particolare, nella Relazione si indica che la soppressione dei tributi e dei contributi sociali avrebbe 
+determinato una perdita di gettito pari a circa 36,5 miliardi di euro (3,3 punti del PIL) che sarebbe stata 
+compensata dagli incassi dell’IRAP relativa al settore privato (circa 27 miliardi; 2,5 punti), dall’aumento del 
+gettito delle imposte dirette (Irpef e Irpeg) indotto dall’abolizione dei suddetti tributi e contributi 
+precedentemente deducibili da esse (valutato in 5,5 miliardi, pari a 0,5 punti) e dalla revisione degli scaglioni e 
+delle detrazioni dell’Irpef (da cui erano attesi 3,9 miliardi, pari a 0,4 punti). Per una descrizione approfondita 
+della riforma e dei suoi effetti sulla tassazione dei fattori della produzione, si veda inoltre Banca d’Italia 
+(1998). 
+
+==== page 31 ====
+ 
+29
+indirette valutabile in circa 2 punti56 è corrisposta una flessione sia delle imposte dirette a carico 
+delle imprese sia dei contributi sociali pari a circa un punto ciascuna. Una riduzione del gettito 
+delle imposte dirette delle famiglie è derivata inoltre da effetti residui di un provvedimento 
+legislativo del 199657 e dalla riforma della tassazione delle attività finanziarie (entrata in vigore 
+il 1° luglio)58. 
+Tra il 1999 e il 2003 sono stati introdotti essenzialmente sgravi fiscali in favore delle 
+famiglie (per 1,5 punti del prodotto) e delle imprese (0,7 punti). I primi sono stati concessi 
+principalmente nel biennio 2000-01, in parte anche in connessione con la restituzione del 
+cosiddetto bonus fiscale legato alla situazione congiunturale favorevole del biennio 1999-2000, 
+e nel 2003, con il primo modulo della riforma dell’Irpef. Riguardo alle riduzioni delle imposte 
+dirette a carico delle imprese va soprattutto menzionata la progressiva diminuzione dell’aliquota 
+dell’Irpeg dal 37 per cento del 2001 al 34 per cento nel 2003. La flessione dei contributi sociali 
+nel periodo in esame (0,4 punti percentuali), concentrata nel triennio 1999-2001, è connessa 
+principalmente con l’introduzione di sgravi in favore delle imprese nel Mezzogiorno a fronte di 
+incrementi dell’occupazione e alla riduzione nel 2000 e nel 2001 dell’aliquota contributiva a 
+carico dei datori di lavoro del settore privato. 
+ 
+                                                          
+56 Un ulteriore aumento delle imposte indirette di 0,5 punti del prodotto tendenziale deriva dall’IRAP a carico del 
+settore pubblico. Nelle valutazioni ufficiali non era stata inclusa la stima di tale parte dell’IRAP perché 
+l’aliquota era stata fissata in una misura tale da compensare esattamente i contributi sociali aboliti dei 
+dipendenti pubblici.  
+57 Il decreto legislativo n. 239 del 1996 ha abolito dal 1° gennaio 1997 la ritenuta di acconto sugli interessi delle 
+obbligazioni o titoli similari operata dai soggetti emittenti. Per le persone fisiche, gli enti non commerciali, i 
+fondi di investimento mobiliari e immobiliari e i fondi pensione la ritenuta è stata sostituita con un’imposta 
+sostitutiva del 12,50 per cento che gli intermediari finanziari trattengono all’erogazione dei rendimenti e 
+riversano allo Stato entro quindici giorni del mese successivo. Per le persone giuridiche e chiunque svolga 
+attività commerciale i rendimenti concorrono alla formazione dell’imponibile tassabile in dichiarazione. 
+Quest’ultima disposizione ha determinato esclusivamente uno spostamento di gettito in favore delle imposte 
+versate in autotassazione e pertanto non ha inciso sugli introiti complessivi delle imposte dirette a carico delle 
+imprese. Infine il decreto ha stabilito che l’imposta sostitutiva sui rendimenti delle obbligazioni e titoli similari 
+non si applica nel caso in cui il percettore è un soggetto non residente. 
+58 Non essendo disponibile una relazione tecnica di valutazione degli effetti sul gettito della riforma, abbiamo 
+inserito tra le misure legislative una nostra stima, inevitabilmente caratterizzata da un elevato grado di 
+incertezza essendo la previsione resa complessa dalla estrema variabilità delle basi imponibili della nuova 
+imposta sulle plusvalenze. 
+
+==== page 32 ====
+ 
+30
+Fig. 9 – Composizione della variazione delle imposte e dei contributi sociali 
+(in percentuale del PIL di trend) 
+ 
+-4,0
+-3,0
+-2,0
+-1,0
+0,0
+1,0
+2,0
+3,0
+4,0
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+1997-2003 2004-2007
+    Componente residuale
+    Modifiche legislative
+    Scostamento della base imponibile dal PIL
+    Drenaggio fiscale
+ 
+Nel quadriennio 2004-07, da un lato, sono stati concessi ulteriori sgravi fiscali in favore 
+delle famiglie (in particolare, con l’introduzione del secondo modulo della riforma dell’Irpef nel 
+2005), dall’altro, sono state accresciute le imposte dirette a carico delle imprese, l’imposizione 
+indiretta59 e, in misura minore, i contributi sociali. Le imposte dirette a carico delle imprese sono 
+aumentate nonostante l’ulteriore riduzione dell’aliquota dell’Irpeg entrata in vigore nel 2004 
+(dal 34 al 33 per cento) per effetto delle misure, introdotte nel 2006 e nel 2007, volte ad 
+ampliare la base imponibile, a contrastare l’evasione e l’elusione fiscale e a compensare gli 
+effetti di riduzione del gettito dell’IVA derivanti dalla sentenza della Corte di Giustizia europea 
+in materia di auto aziendali. Infine, l’aumento dei contributi sociali ha riflesso l’innalzamento 
+nel 2007 delle aliquote dei lavoratori dipendenti e degli apprendisti nonché di molte categorie di 
+lavoratori autonomi. 
+                                                          
+59 Le misure legislative hanno soprattutto riguardato le imposte sui giochi, sui tabacchi, alcune accise e l’imposta 
+di registro. Nel 2007 sono inclusi anche gli effetti riduttivi del gettito dell’IVA derivanti dalle modifiche alla 
+normativa sulla detraibilità delle spese connesse con autoveicoli aziendali a seguito della sentenza della Corte 
+di giustizia europea su tale materia. 
+
+==== page 33 ====
+ 
+31
+Tra il 1997 e il 2007 la crescita tendenziale delle basi imponibili delle imposte e dei 
+contributi sociali è stata nel complesso più elevata di quella del PIL di trend. Questo 
+scostamento (decoupling) ha avuto un impatto positivo sull’andamento delle entrate, 
+quantificabile in 0,5 punti percentuali del PIL. L’impatto negativo di questo fattore sul gettito 
+del 1998 (–0,4 punti), derivante soprattutto dalla contenuta dinamica delle retribuzioni unitarie, 
+è stato più che compensato dagli effetti di segno opposto degli anni successivi. 
+Una quota non marginale della variazione delle entrate tra il 1997 e il 2007 (0,9 punti 
+percentuali del prodotto) non è riconducibile ai tre fattori analizzati sopra (tav. 6). Tale residuo, 
+particolarmente ampio nel 2006, trova almeno in parte spiegazione in fenomeni specifici dei vari 
+anni considerati. 
+Sul residuo nel 1998 hanno influito una serie di elementi. La componente residuale della 
+variazione delle imposte dirette delle famiglie (–0,4 punti) è attribuibile quasi esclusivamente 
+alla flessione del gettito dell’imposta sostitutiva sugli interessi dei depositi bancari, conseguenza 
+del calo dei tassi di interesse e dei cospicui crediti d’imposta maturati nel 1997 (portati in 
+detrazione dei versamenti effettuati nel 1998). La componente residuale relativa alle altre voci di 
+entrata è probabilmente riconducibile alla complessità della riforma attuata in tale anno, che ne 
+ha reso difficile la quantificazione dell’effetto sul gettito. Nel 2000 il residuo positivo relativo 
+alle imposte dirette a carico delle famiglie (0,6 punti percentuali del PIL) riflette l’elevato e 
+inatteso gettito dell’imposta sostitutiva sui capital gains connesso con il buon andamento dei 
+corsi azionari. Questo gettito si è sostanzialmente annullato nel biennio successivo 
+determinando residui negativi in ciascun anno per oltre 0,2 punti percentuali. Nel 2002 e nel 
+2005 i residui relativi alle imposte dirette a carico delle imprese possono riflettere la difficoltà di 
+quantificare gli effetti derivanti, rispettivamente, dagli incentivi agli investimenti disposti con la 
+legge Tremonti-bis e dalla riforma dell’IRES. 
+L’ampio residuo del 2006 (0,8 punti del prodotto) riguarda tutte le principali componenti 
+delle entrate. Relativamente alle imposte dirette sulle famiglie, esso va ricondotto all’incremento 
+delle imposte sostitutive sui redditi da attività finanziarie (sospinto dalla fase di rialzo dei tassi 
+d’interesse e dei corsi azionari, nonché dal ridimensionamento dei crediti di imposta che 
+avevano frenato il gettito negli ultimi anni), a un aumento dell’elasticità dell’imposta al reddito 
+
+==== page 34 ====
+ 
+32
+connesso con le recenti modifiche alla struttura dell’Irpef non colto dall’analisi e ad altri eventi 
+favorevoli60. Sui residui delle imposte dirette sulle imprese e di quelle indirette, potrebbero aver 
+influito sia l’aumento del grado di adesione dei contribuenti indotto dai numerosi provvedimenti 
+di contrasto all’evasione e all’elusione fiscale e modifiche al sistema economico non pienamente 
+colte nell’analisi61 sia operazioni di carattere straordinario, in particolare di concentrazione del 
+sistema finanziario. 
+Nel 2007 i significativi residui positivi per le imposte dirette delle famiglie e delle imprese 
+sono stati quasi per circa la metà compensati da quelli di segno opposto dei contributi sociali e 
+delle imposte indirette. Riguardo alle imprese, il residuo positivo è riconducibile alla ripresa 
+dell’attività economica nel 2006 non pienamente colta dal risultato di gestione (usato come 
+proxy per la base imponibile). Per le famiglie, il residuo positivo è connesso soprattutto con 
+l’andamento delle ritenute sugli interessi dei depositi bancari che ha riflesso il proseguimento 
+della fase di rialzo dei tassi di interesse e la concentrazione di rimborsi di buoni postali. 
+5.2 Le spese 
+Nel periodo 1997-2007 la spesa primaria in rapporto al PIL di trend cresce di circa 3 
+punti (tav. 6). A differenza delle entrate, non si registra alcuna inversione di tendenza nel 2004, 
+ma solo un rallentamento dovuto prevalentemente alla flessione delle spese in conto capitale. 
+Con riferimento alla spesa primaria corrente, l’aumento registrato nel corso del decennio 
+è pari a oltre due punti del prodotto (tav. 3 e fig. 10). La sua dinamica contrasta con l’obiettivo 
+di ridurne l’incidenza enunciato nei documenti programmatici di quegli anni (cfr. tav. A4 
+nell’Appendice 4). In termini strutturali, questo obiettivo non viene sostanzialmente mai 
+realizzato: ad eccezione del 1998 e del 1999, in tutti gli anni del periodo in esame la spesa 
+corrente cresce ad un tasso superiore a quello del prodotto. 
+ 
+                                                          
+60 Cfr. la nota 36. L’aumento dell’elasticità deriva essenzialmente dall’innalzamento dell’aliquota minima nel 
+2003 e dal progressivo ampliamento della soglia di esenzione dall’imposta. Tra gli eventi favorevoli che hanno 
+sostenuto il gettito del 2006 delle imposte dirette a carico delle famiglie va infine ricordato l’aumento del 
+gettito dell’imposta sostitutiva connesso con un più ampio numero di operazioni di rimborso di buoni postali 
+nel 2005. 
+61 Per un’analisi dettagliata dei diversi fattori che hanno accresciuto le entrate, si veda Banca d’Italia (2007). Si 
+veda inoltre, Locarno e Staderini (2007). 
+
+==== page 35 ====
+ 
+33
+Tav. 6 – Le spese primarie corrette per gli effetti del ciclo e per le misure temporanee 
+(in percentuale del PIL di trend) 
+ 
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+1997-03
+2004-07
+Totale spese primarie
+41,0
+41,1
+41,1
+41,6
+42,7
+43,0
+43,7
+43,7
+44,0
+44,1
+44,0
+2,6
+0,4
+Personale (inclusa IRAP - escluso comparto sanitario)
+9,3
+9,1
+9,0
+9,0
+9,1
+9,1
+9,3
+9,1
+9,2
+9,3
+9,2
+0,0
+-0,1
+Consumi intermedi (escluso comparto sanitario)
+3,8
+3,8
+4,0
+4,1
+4,2
+4,1
+4,1
+4,2
+4,2
+3,9
+3,8
+0,3
+-0,3
+Spesa per pensioni
+15,3
+15,2
+15,0
+15,0
+14,9
+15,2
+15,1
+15,2
+15,3
+15,4
+15,5
+-0,2
+0,3
+Spesa sanitaria (inclusa IRAP)
+4,9
+5,0
+5,0
+5,5
+5,8
+5,9
+5,8
+6,2
+6,4
+6,5
+6,3
+0,9
+0,5
+Altre spese correnti
+4,3
+4,4
+4,2
+4,2
+4,2
+4,2
+4,5
+4,5
+4,5
+4,6
+5,0
+0,3
+0,5
+di cui:  UE quarta risorsa
+0,3
+0,5
+0,5
+0,5
+0,4
+0,6
+0,7
+0,7
+0,7
+0,7
+0,7
+0,3
+0,0
+            Ammortamenti
+1,6
+1,6
+1,6
+1,6
+1,6
+1,7
+1,7
+1,7
+1,8
+1,8
+1,8
+0,1
+0,1
+Spese in conto capitale (1)
+3,4
+3,7
+3,8
+3,9
+4,4
+4,5
+4,8
+4,5
+4,5
+4,4
+4,2
+1,4
+-0,6
+di cui: investimenti
+2,1
+2,3
+2,4
+2,4
+2,6
+2,6
+2,6
+2,7
+2,6
+2,5
+2,5
+0,5
+-0,2
+ 
+(1) Il dato del 2000 non include i proventi della vendita delle licenze UMTS. Nel conto economico pubblicato 
+dall’Istat queste entrate sono registrate con segno negativo tra le altre spese in conto capitale. 
+ 
+ 
+Fig. 10 – Spese primarie correnti 
+(in percentuale del PIL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) In percentuale del PIL di trend. 
+ 
+Quasi due terzi della crescita della spesa primaria corrente è riconducibile all’aumento 
+registrato nel comparto sanitario. Tra il 1997 e il 2007, la spesa sanitaria pubblica passa infatti 
+37
+38
+39
+40
+41
+'97
+'98
+'99
+'00
+'01
+'02
+'03
+'04
+'05
+'06
+'07
+37
+38
+39
+40
+41
+spese primarie correnti
+spese primarie correnti al netto degli effetti del
+ciclo economico e delle misure temporanee (1)
+
+==== page 36 ====
+ 
+34
+dal 4,9 al 6,3 per cento del prodotto (tav. 6); il suo tasso di crescita medio è pari al 6,5 per 
+cento annuo, a fronte del 4,4 per cento del complesso della spesa primaria corrente e del 3,9 del 
+PIL nominale. Tutte le componenti principali della spesa hanno registrato una crescita 
+sostenuta, ma i rinnovi contrattuali del personale e i provvedimenti in materia di farmaceutica 
+convenzionata hanno avuto un ruolo determinante nelle accelerazioni e rallentamenti dei vari 
+sottoperiodi. 
+In particolare, negli anni 1998-2001 la crescita dell’incidenza della spesa sanitaria sul 
+prodotto riflette principalmente i provvedimenti che ampliano le prestazioni garantite dal 
+Servizio sanitario nazionale e che riducono la compartecipazione dei cittadini alla spesa 
+farmaceutica62. L’incremento è particolarmente rilevante nel 2000 e nel 2001 quando, oltre alla 
+crescita della spesa farmaceutica, si registra un forte aumento della spesa per il personale a 
+seguito degli aumenti retributivi introdotti col rinnovo del contratto nazionale collettivo per gli 
+anni 2000-0163. Nel biennio 2002-03 la spesa sanitaria rimane sostanzialmente stabile in 
+rapporto al prodotto, grazie soprattutto al forte rallentamento della spesa farmaceutica che, a sua 
+volta, è il risultato di una serie di provvedimenti volti a contenere il prezzo dei farmaci64 e 
+dell’introduzione, da parte di alcune Regioni, di ticket regionali. L’aumento registrato nel 
+triennio 2004-06 è principalmente imputabile ai rinnovi contrattuali (particolarmente rilevanti 
+nel 2004), mentre si assiste ad un leggero rallentamento delle spese farmaceutiche e di quelle 
+per l’acquisto di beni e servizi (concentrato nel 2006). Nel 2007 la spesa sanitaria in rapporto al 
+PIL di trend si riduce di circa due decimi per effetto di un ulteriore contenimento della spesa 
+farmaceutica convenzionata (Banca d’Italia, 2008). 
+Le riforme legislative degli anni novanta e dei primi anni duemila si sono mosse nella 
+direzione di realizzare un nuovo modello organizzativo della sanità pubblica su base regionale, 
+                                                          
+62 Il cosiddetto ticket sanitario viene ridotto, con modalità diverse, in tutti gli anni tra il 1998 e il 2000 e viene 
+abolito, a livello nazionale, nel 2001. Contestualmente veniva riconosciuta alle Regioni la potestà di introdurre 
+un ticket regionale nel caso fosse stato necessario per finanziare un livello di spesa eccessivo. 
+63 Tali aumenti sono collegati alla cosiddetta “Riforma ter” del 1999, che portava avanti il processo di 
+decentramento delle competenze sanitarie e, allo stesso tempo, stabiliva il principio di esclusività del rapporto 
+di lavoro con il Servizio sanitario nazionale. Gli aumenti retributivi disposti per gli anni 2000-01 venivano 
+stabiliti con l’obiettivo di incentivare il personale medico a rimanere all’interno delle strutture sanitarie 
+pubbliche. 
+64 Si segnalano, in particolare, il decreto sul prezzo dei farmaci dell’aprile del 2002, la riclassificazione di alcuni 
+farmaci nel prontuario e la distribuzione diretta dei farmaci. 
+
+==== page 37 ====
+ 
+35
+nell’ambito del processo di decentramento amministrativo che si andava delineando65. 
+L’obiettivo dichiarato delle riforme era il contenimento della spesa sanitaria da realizzarsi 
+attraverso una maggiore responsabilizzazione delle Regioni cui venivano decentrati poteri e 
+competenze, ma che dovevano anche partecipare attivamente al raggiungimento degli obiettivi 
+complessivi di finanza pubblica. Tali riforme sono state finora scarsamente efficaci rispetto 
+all’obiettivo del riequilibrio dei conti nel comparto della sanità (Pammolli e Salerno, 2006). Ciò 
+è testimoniato anche dal fatto che gli obiettivi definiti in sede di Conferenza Stato-Regioni a 
+partire dal 2001 sono stati sistematicamente mancati66. Il rallentamento della dinamica della 
+spesa in alcuni anni è stato realizzato per mezzo di specifici provvedimenti, principalmente in 
+campo farmaceutico. L’aumento della spesa sanitaria è un fenomeno comune a tutti i paesi 
+europei67, in parte riconducibile a fattori strutturali quali l’invecchiamento della popolazione e la 
+sostenuta dinamica dei costi dei servizi sanitari. Nel caso italiano, tuttavia, vi è evidenza di 
+inefficienze nella gestione (Banca d’Italia, 2007). Il controllo della spesa sanitaria è inoltre un 
+aspetto del più generale problema del coinvolgimento degli enti decentrati agli obiettivi stabiliti 
+per il saldo complessivo delle Amministrazioni pubbliche. Come in altri paesi, questo problema 
+ha suggerito l’introduzione (in Italia dal 1999) di un Patto di stabilità interno. Almeno nei primi 
+anni, questo strumento, soggetto peraltro a continue modifiche, non sembra essere stato efficace 
+(Balassone e Zotteri, 2001; Balassone et al. 2004b). 
+La spesa per pensioni si è ridotta di quasi mezzo punto di prodotto tra il 1997 e il 2001. La 
+riduzione è il risultato degli interventi del 1992, del 1995 e del 1997, che hanno previsto 
+inasprimenti scaglionati nel tempo dei requisiti per il conseguimento del pensionamento di 
+vecchiaia e di anzianità (tav. 7). In particolare, la riforma “Amato” del 1992 aveva previsto il 
+graduale innalzamento dei requisiti di età e contributivi per il pensionamento di vecchiaia; la 
+                                                          
+65 Le riforme legislative dei primi anni novanta avevano trasferito competenze organizzative e finanziarie alle 
+Regioni pur mantenendo accentrata la programmazione della politica sanitaria. Una nuova riforma del sistema 
+sanitario viene introdotta con il decreto legislativo sul federalismo fiscale del 2000. La riforma abolisce il 
+Fondo sanitario nazionale di parte corrente e assegna risorse tributarie alle Regioni a statuto ordinario secondo 
+il principio della compartecipazione al gettito di alcune imposte (IVA e Irpef) e della completa devoluzione di 
+altre (in particolare, l’IRAP). Alla riforma fanno seguito, nel 2001, una serie di accordi in seno alla Conferenza 
+Stato-Regioni per la definizione degli obiettivi di politica sanitaria sia in termini di qualità dei servizi (livelli 
+essenziali di assistenza, LEA) che di contenimento dei costi che prevedono la partecipazione attiva delle 
+Regioni. 
+66 Le leggi finanziarie negli ultimi anni hanno stanziato risorse significative per il ripiano dei disavanzi sanitari 
+pregressi accumulati dalle Regioni a partire dal 2001. 
+67 Cfr. Oliveira Martins et al. (2006). 
+
+==== page 38 ====
+ 
+36
+riforma “Dini” del 1995 e la riforma “Prodi” del 1997 sono intervenute sui requisiti per il 
+pensionamento di anzianità68. Dal 2002 la spesa pensionistica è tornata a crescere collocandosi 
+nel 2007 al di sopra del livello del 1997. A partire dal 2008 sono state inasprite le regole per 
+l’accesso al pensionamento di anzianità con effetti di contenimento della spesa che dovrebbero 
+emergere nei prossimi anni69. 
+ 
+Tav. 7 – Evoluzione dei requisiti per l’accesso alla pensione 
+ 
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Pensioni di anzianità
+Dipendenti privati
+  età
+52
+52
+54
+55
+55
+56
+57
+57
+57
+57
+57
+57
+  anzianità contributiva
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+  solo anzianità contributiva
+35
+35
+36
+36
+36
+37
+37
+37
+37
+37
+38
+38
+39
+39
+in alternativa per le donne (con il calcolo del trattamento secondo le regole del sistema contributivo)
+  età
+  anzianità contributiva
+Dipendenti pubblici 
+  età
+52
+52
+53
+53
+54
+55
+55
+56
+57
+57
+57
+57
+  anzianità contributiva
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+  solo anzianità contributiva
+35
+35
+36
+36
+36
+37
+37
+37
+37
+37
+38
+38
+39
+39
+Autonomi
+  età
+56
+56
+57
+57
+57
+58
+58
+58
+58
+58
+58
+58
+  anzianità contributiva
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+  solo anzianità contributiva
+35
+35
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+in alternativa per le donne (con il calcolo del trattamento secondo le regole del sistema contributivo)
+  età
+  anzianità contributiva
+Pensioni di vecchiaia
+Regime retributivo
+  età
+uomini
+61
+61/62
+62
+63
+63/64
+64
+65
+65
+65
+65
+65
+65
+65
+65
+donne
+56
+56/57
+57
+58
+58/59
+59
+60
+60
+60
+60
+60
+60
+60
+60
+  anzianità contributiva
+16
+17
+17
+18
+18
+19
+19
+20
+20
+20
+20
+20
+20
+20
+Regime contributivo
+  età
+uomini
+57-65 57-65 57-65 57-65
+donne
+57-65 57-65 57-65 57-65
+  anzianità contributiva
+5
+5
+5
+5
+ 
+ 
+                                                          
+68 Cfr. Franco (2002). 
+69 L'inasprimento era stato inizialmente disposto con la riforma del 2004 che prevedeva un innalzamento dell'età 
+per il pensionamento di anzianità di tre anni (da 57 a 60) a partire dal 2008. Il successivo intervento legislativo 
+del 2007 ha reso più graduale tale innalzamento, riducendone di conseguenza anche i risparmi di spesa. 
+
+==== page 39 ====
+ 
+37
+ 
+Fig. 11 – Retribuzioni e occupazione nelle Amministrazioni pubbliche 
+ 
+1,0
+1,1
+1,2
+1,3
+1,4
+'80
+'81
+'82
+'83
+'84
+'85
+'86
+'87
+'88
+'89
+'90
+'91
+'92
+'93
+'94
+'95
+'96
+'97
+'98
+'99
+'00
+'01
+'02
+'03
+'04
+'05
+'06
+'07
+3.000
+3.200
+3.400
+3.600
+retribuzioni lorde unitarie Amministrazioni pubbliche / retribuzioni lorde unitarie settore privato
+unità di lavoro Amministrazioni pubbliche (scala di destra; migliaia di unità)
+ 
+ 
+ 
+Le spese per il personale, che nella nostra riclassificazione includono l’IRAP versata dalle 
+Amministrazioni pubbliche ed escludono le spese per i dipendenti del comparto sanitario, sono 
+rimaste sostanzialmente costanti in rapporto al prodotto in tutto il periodo in esame70. 
+L’occupazione pubblica, che era diminuita di 2,7 punti percentuali tra il 1991 e il 1997, è 
+aumentata nei dieci anni seguenti di 3,6 punti, di cui 3,3 negli anni 1998-2003 (fig. 11). La 
+dinamica delle retribuzioni unitarie del settore pubblico è stata quasi costantemente superiore a 
+quella del settore privato: tra il 1997 e il 2003 esse crescono di 1,2 punti percentuali in termini 
+reali l’anno, a fronte dello 0,5 nel settore privato; nel successivo quadriennio l’incremento è di 
+1,5 punti, a fronte di 0,6 nel settore privato. Per un’analisi del divario retributivo tra i due settori, 
+che tiene conto di alcune differenze nella composizione dell’occupazione, si veda Giordano 
+(2008).71 
+ 
+Come già rilevato, la crescita dell’incidenza sul prodotto della spesa primaria nel periodo 
+1998-2003 è attribuibile per oltre metà (1,4 punti) alle spese in conto capitale, nonostante esse 
+costituiscano solo un decimo del totale delle erogazioni (fig. 12). L’incremento si ripartisce tra 
+                                                          
+70 L’inclusione dell’IRAP fornisce un’informazione più completa sul costo del lavoro sopportato dall’operatore 
+pubblico. La classificazione dell’IRAP tra le imposte indirette pagate dall’Amministrazione pubblica risponde 
+ad un criterio statistico-contabile. Tale classificazione comporta nel 1998 un calo della voce “redditi da 
+lavoro” (imputabile alla riduzione dei contributi sociali versati per i dipendenti pubblici) sostanzialmente 
+compensato da un aumento di pari importo delle imposte indirette (attribuibile interamente all’IRAP). 
+71 Per un’analisi delle politiche di controllo delle assunzioni e della dinamica retributiva nel pubblico impiego 
+nell’ultimo decennio, si veda Balassone et al. (2008). 
+
+==== page 40 ====
+ 
+38
+le spese per investimenti (0,5 punti) e i contributi agli investimenti; questi ultimi includono la 
+concessione di crediti di imposta connessi con le agevolazioni per gli investimenti nelle aree 
+svantaggiate e per l’occupazione (dei quali peraltro poco più di un terzo utilizzati dai 
+contribuenti nel 2003). Nel quadriennio successivo (2004-07) le spese in conto capitale si 
+riducono di oltre mezzo punto; la flessione è attribuibile prevalentemente al venir meno dei 
+citati crediti d’imposta e, in misura inferiore, al calo della spesa per investimenti. 
+ 
+Fig. 12 – Spese in conto capitale (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) 
+Le spese in conto capitale del 2000 non includono i proventi della vendita delle licenze UMTS. 
+ 
+5.3 Previsioni macroeconomiche e obiettivi di spesa 
+Come evidenziato nel paragrafo precedente, nel periodo in esame l’incidenza sul 
+prodotto della spesa primaria corrente cresce quasi costantemente. In questa sezione si valuta in 
+che misura lo scostamento rispetto all’obiettivo di ridurne l’incidenza sul prodotto72 possa 
+                                                          
+72 Gli interventi programmati nel corso degli anni per il contenimento delle spese sono di varia natura. Un elenco 
+non esaustivo, tratto dai vari DPEF, comprende: azioni di razionalizzazione delle procedure di acquisto di beni 
+e servizi da parte della Pubblica amministrazione e nel comparto dei finanziamenti statali alle aziende di 
+servizio pubblico e agli enti esterni al settore statale; formule di più stretta cooperazione tra Stato, Regioni e 
+Enti locali per il perseguimento degli obiettivi sui saldi di finanza pubblica; sollecitazione per una 
+(continua) 
+3,0
+3,5
+4,0
+4,5
+5,0
+5,5
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Spese in conto capitale / PIL nominale
+Spese in conto capitale corrette / PIL di trend
+
+==== page 41 ====
+ 
+39
+essere attribuito al divario tra le previsioni sulla crescita del PIL (la cui natura ottimistica in 
+alcuni anni era già evidente ex ante) e gli andamenti effettivi. L’analisi è puramente meccanica, 
+limitandosi a calcolare l’effetto derivante dal diverso livello del denominatore. Ci si concentra 
+su due DPEF per i quali il divario tra stime e consuntivi è particolarmente significativo (quelli 
+per gli anni 2000-03 e 2002-06). Negli ultimi anni le previsioni ufficiali tendono a essere in 
+linea con quelle di altre istituzioni. 
+Nella figura 13 vengono messi a confronto: l’incidenza della spesa primaria sul PIL 
+indicata nel DPEF per gli anni 2000-03, presentato nell’estate del 1999; i suoi livelli registrati a 
+consuntivo e il valore che avrebbe assunto tale incidenza qualora il tasso di crescita reale del 
+prodotto indicato dal governo in ciascuno degli anni considerati si fosse realizzato (linea 
+tratteggiata). Nel 2003 il divario tra obiettivo e consuntivo è pari a circa 3,5 punti percentuali di 
+PIL, di cui oltre la metà imputabile ad una dinamica del prodotto peggiore di quanto previsto 
+nel documento ufficiale73. La crescita media effettiva nel periodo 2000-03 è stata pari a circa 
+l’1,4 per cento contro una previsione del 2,6. 
+A conclusioni simili si giunge prendendo come riferimento il quadro programmatico del 
+DPEF per gli anni 2002-06 (fig. 14)74. Nel 2005 il divario tra obiettivo e consuntivo è pari a 
+circa 8 punti di PIL (6,5 nel 2004). Oltre la metà del divario (4,5 punti) è attribuibile ad una 
+dinamica del PIL (0,5 per cento in media) meno favorevole rispetto a quanto previsto: se il PIL 
+fosse cresciuto al tasso programmatico indicato nel DPEF (3,1 per cento in media nel periodo), 
+il rapporto della spesa primaria sul PIL, invece di aumentare di 2,1 punti, si sarebbe ridotto di 
+2,4 punti, contro i 5,2 previsti nel documento di programmazione. Quasi un punto del divario 
+residuo riflette una errata valutazione del livello della spesa nel 2001. 
+                                                                                                                                                                                       
+partecipazione dei privati al finanziamento degli investimenti pubblici; migliori strumenti di programmazione 
+delle assunzioni dei dipendenti pubblici e ricorso a forme di lavoro flessibile; la riforma dello stato sociale con 
+interventi riguardanti il mercato del lavoro, l’assistenza e l’ordinamento pensionistico e il rafforzamento della 
+previdenza complementare. 
+73 La differenza nel dato di partenza (1999), pari a circa 0,4 punti percentuali, va interamente ricondotta agli 
+effetti delle revisioni successivamente apportate dall’Istat, che in questo caso hanno comportato una riduzione 
+dell’incidenza della spesa rispetto alle stime del DPEF. L’andamento nei primi due anni di previsione 
+considerati (2000 e 2001) riflette il fatto che il tasso di crescita programmatico del PIL reale per il 2000 è stato 
+sensibilmente inferiore a quello di consuntivo (previsione 2,2 per cento, consuntivo 3,6). 
+74 I dati riportati nella figura 14 sono ottenuti da elaborazioni a partire dai grafici contenuti nel DPEF 2002-06. Il 
+rapporto spesa primaria su PIL programmatico (linea tratteggiata) è costruito partendo dal rapporto a 
+consuntivo e correggendo per i differenziali annuali tra tasso di crescita del PIL reale programmatico ed 
+effettivo. 
+
+==== page 42 ====
+ 
+40
+ 
+Fig. 13 – Spesa primaria: confronto tra andamento effettivo e programmatico (2000-03) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 14 – Spesa primaria: andamento effettivo e programmatico (2002-06) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35,0
+36,0
+37,0
+38,0
+39,0
+40,0
+41,0
+42,0
+43,0
+44,0
+45,0
+1999
+2000
+2001
+2002
+2003
+Spesa primaria/PIL - Consuntivo
+Spesa primaria/PIL - Obiettivo
+Spesa primaria/PIL - scenario programmatico
+35,0
+36,0
+37,0
+38,0
+39,0
+40,0
+41,0
+42,0
+43,0
+44,0
+45,0
+2001
+2002
+2003
+2004
+2005
+Spesa primaria/PIL - Consuntivo
+Spesa primaria/PIL - Obiettivo
+Spesa primaria/PIL - scenario programmatico
+
+==== page 43 ====
+ 
+41
+ 
+Una recente analisi della Commissione Europea (2007a) evidenzia come tale aspetto sia 
+comune a diversi paesi dell'Unione Europea. Le stime della Commissione, basate sul raffronto 
+tra obiettivi e risultati delle politiche di bilancio dei paesi membri nel periodo 1997-200675, 
+mostrano che i casi di mancato raggiungimento degli obiettivi annunciati sono essenzialmente 
+riconducibili a previsioni ottimistiche sull'andamento del PIL e incapacità di realizzare i piani 
+di medio termine per il contenimento della spesa. 
+ 
+6. 
+Conclusioni 
+Questo lavoro analizza le caratteristiche e i risultati delle politiche di bilancio realizzate 
+negli anni 1998-2007, separando le componenti transitorie da tendenze più strutturali dei conti 
+pubblici. Con riferimento ai fattori transitori, l’analisi mostra che: 
+1. Il ciclo economico ha avuto un effetto lievemente migliorativo del saldo di bilancio nella 
+media del periodo in esame (0,1 punti percentuali del prodotto). Negli anni 1999-2002 
+l’impatto sui conti pubblici è stato favorevole, con un picco nel 2001 (0,6 punti percentuali 
+del PIL); nel triennio successivo il ciclo economico ha peggiorato il saldo; la ripresa 
+economica del biennio 2006-07 ha determinato, infine, effetti favorevoli di modesta entità 
+sui conti pubblici. 
+2. Vi è stato un ampio utilizzo delle misure temporanee per ridurre il disavanzo, soprattutto 
+nel quinquennio 2001-05. Il ricorso a tali misure ha mirato principalmente a guadagnare 
+tempo nell’aspettativa che la fase ciclica sfavorevole avviatasi nel 2001 sarebbe stata 
+relativamente breve. Sulla base delle informazioni oggi disponibili il timing nell’utilizzo di 
+questo strumento in funzione anticiclica non è stato però appropriato, in quanto il picco 
+negativo del ciclo è collocato nel 2005, quando l’entità degli effetti delle misure 
+temporanee era già tornata su livelli contenuti. Va inoltre sottolineato come il ricorso alle 
+misure temporanee presenti altri aspetti problematici: rende il bilancio pubblico meno 
+trasparente; consente di rinviare l’aggiustamento strutturale con costi potenzialmente 
+                                                          
+75 Nell’esercizio della Commissione gli obiettivi di bilancio dei paesi sono quelli contenuti nei Programmi di 
+stabilità. 
+
+==== page 44 ====
+ 
+42
+elevati per la collettività; in alcuni casi accresce le distorsioni nell’economia e ha effetti 
+indesiderati sulle aspettative. 
+ 
+Con riferimento agli andamenti strutturali dei conti pubblici le principali conclusioni 
+dell’analisi sono: 
+3. Il periodo in esame può essere distinto in due distinti sottoperiodi. Tra il 1997 e il 2003 
+l’avanzo primario corretto per i fattori transitori si riduce di oltre 6 punti di prodotto. Nel 
+successivo quadriennio vi è un’inversione di tendenza, che risulta però evidente solo negli 
+ultimi due anni, quando il saldo primario strutturale migliora di quasi 3 punti. L’arresto 
+della tendenza al deterioramento dei conti nel 2004 non emerge facendo riferimento 
+all’avanzo primario non corretto, che si riduce fino al 2005. 
+4. In entrambe le fasi le entrate hanno avuto un ruolo fondamentale. Riguardo al primo 
+periodo, il peggioramento strutturale è attribuibile soprattutto agli interventi di riduzione 
+permanente del prelievo che hanno determinato complessivamente minori entrate per 3,5 
+punti percentuali del prodotto. Un ruolo appena inferiore nel peggioramento del saldo 
+negli anni 1998-2003 è svolto dalle spese primarie, che aumentano di 2,6 punti in rapporto 
+al prodotto. 
+5. Sia per le entrate che per le spese, gli andamenti osservati in questi sei anni possono in 
+parte essere interpretati come reazioni all’azione correttiva dei primi anni novanta, basata 
+sull’aumento delle entrate e su tagli alle spese sanitarie e in conto capitale. Nel 2003 
+l’incidenza delle entrate, escludendo le componenti transitorie, ritorna sostanzialmente al 
+livello del 1991 (l’anno precedente la fase di consolidamento degli anni novanta). La 
+crescita della spesa nel periodo 1998-2003 è in larga misura riconducibile alla dinamica 
+degli esborsi per la sanità (che salgono di quasi un punto in rapporto al prodotto) e in conto 
+capitale (circa un punto e mezzo). 
+6. Per il complesso delle erogazioni, una parte significativa del divario tra i risultati e 
+l’obiettivo di riduzione dell’incidenza della spesa sul prodotto (circa la metà con 
+riferimento agli obiettivi dei documenti di programmazione presentati nel 1999 e nel 2001) 
+può essere attribuita a una crescita dell’economia inferiore alle attese, peraltro spesso 
+
+==== page 45 ====
+ 
+43
+caratterizzate in quegli anni da un eccessivo ottimismo. Tale caratteristica non emerge più 
+nei più recenti documenti ufficiali. 
+7. Il miglioramento strutturale degli anni 2004-07 è interamente guidato dall’aumento delle 
+entrate. Nel biennio 2006-07, preso atto del forte deterioramento dei conti, si realizzano 
+interventi che inaspriscono il prelievo. Parte della crescita dell’incidenza delle entrate sul 
+prodotto nel periodo è anche connessa con l’operare del drenaggio fiscale e (soprattutto nel 
+2006) di alcuni fenomeni favorevoli. Dal lato della spesa, la sostanziale stabilità in 
+rapporto al prodotto riflette essenzialmente la compressione dell’incidenza della spesa in 
+conto capitale, mentre continua la crescita di quella corrente, concentrata nel comparto 
+della sanità fino al 2006. 
+8. Tenendo conto delle sue caratteristiche, il miglioramento dei conti dell’ultimo quadriennio 
+va valutato con cautela. Vi hanno contribuito in parte fenomeni non necessariamente 
+permanenti; in particolare, nel 2007 il gettito è stato sostenuto dal forte aumento delle 
+imposte sulle imprese, caratterizzate da una elevata volatilità. Inoltre, il riequilibrio 
+presenta, seppure in misura minore, molti degli aspetti problematici messi in luce per il 
+consolidamento degli anni 1992-97: il ricorso all’aumento delle entrate e la compressione 
+delle spese in conto capitale. 
+9. Infine, se si considera l’intero periodo 1998-2007 e gli obiettivi delle politiche di bilancio 
+di questi anni, il peggioramento dei conti pubblici è essenzialmente attribuibile alla 
+difficoltà di controllare la dinamica della spesa corrente. Questa appare essere il principale 
+problema da affrontare nei prossimi anni, per assicurare un assetto sostenibile delle finanze 
+pubbliche. 
+
+==== page 46 ====
+ 
+44
+Bibliografia 
+Alesina, A. e S. Ardagna (1998), “Tales of fiscal adjustment”, in Economic Policy, vol. 13, 
+n. 27, pagg. 487-545. 
+Alesina, A. e R. Perotti (1995), “Fiscal expansions and fiscal adjustments in OECD countries”, 
+in NBER Working Paper, n. 5214. 
+________ (1996), “Fiscal adjustment in the OECD countries: composition and macroeconomic 
+effects”, in NBER Working Paper, n. 5730. 
+Andreoni, J. (1991), “The desirability of a permanent tax amnesty”, in Journal of Public 
+Economics, pagg. 143-159. 
+Balassone, F., G. Cesaroni, G. Gisci, B. Mazzotta, F. Mocavini, D. Monacelli (2008), 
+“Risanamento dei conti pubblici ed evoluzione del contesto istituzionale: l’esperienza 
+italiana, paper presentato al Workshop Disciplina di Bilancio ed Efficienza del Settore 
+Pubblico organizzato dalla Ragioneria Generale dello Stato a Roma il 10-11 luglio 2008. 
+Balassone, F., D. Franco e R. Giordano (2004a), “Market-induced fisal discipline: Is there a 
+fall-back solution for rule failure?”, in Banca d’Italia (2004). 
+Balassone, F., D. Franco, S. Momigliano e D. Monacelli (2002), “Italy: Fiscal consolidation 
+and its legacy”, in Banca d’Italia (2002). 
+Balassone, F., D. Franco e S. Zotteri (2004b), “La finanza decentrata nell’ambito dell’Unione 
+economica e monetaria: quali regole?”, in Stato e mercato, il Mulino. 
+Balassone, F. e S. Zotteri (2001), “Il patto di stabilità interno due anni dopo: norme più 
+“morbide”, risultati più deludenti”, in Economia Pubblica, n. 6. 
+Banca d’Italia (1998), “I recenti provvedimenti di riordino del sistema fiscale”, in Bollettino 
+economico n. 30, febbraio. 
+————— (1998a), “La finanza pubblica”, nella Relazione sull’anno 1997, Roma. 
+————— (1999), Indicators of structural budget balances, Papers presentati al Workshop 
+organizzato dalla Banca d’Italia a Perugia il 26-28 novembre 1998, Roma. 
+————— (2002), The Impact of Fiscal Policy, Papers presentati al Workshop organizzato 
+dalla Banca d’Italia a Perugia il 21-23 marzo 2002, Roma. 
+————— (2004), Public debt, Papers presentati al Workshop organizzato dalla Banca 
+d’Italia a Perugia nei giorni 1-3 aprile 2004, Roma. 
+————— (2005), “Le recenti revisioni dei conti delle Amministrazioni Pubbliche italiane 
+del triennio 2001-03” in Bollettino Economico n. 44, marzo. 
+————— (2006), Fiscal indicators, Papers presentati al Workshop organizzato dalla Banca 
+d’Italia a Perugia il 30 marzo – 1° aprile 2006, Roma. 
+————— (2007), “La finanza pubblica”, in Relazione sull’anno 2006, Roma. 
+————— (2008), “La finanza pubblica”, in Relazione sull’anno 2007, Roma. 
+Bernardi, L. (2000), La finanza pubblica italiana, Rapporto, Il Mulino. 
+
+==== page 47 ====
+ 
+45
+Bernasconi, M. e A. Marenzi (1998), “Il deficit pubblico al 3%. Linee interpretative del 
+processo di risanamento”, in Bernardi L. (a cura di), in La finanza pubblica italiana – 
+Rapporto 1998, Il Mulino. 
+Beveridge, S. e C.R. Nelson (1981), “A new approach to the decomposition of economic time 
+series into permanent and transitory components with particular attention to measurement 
+of the business cycle”, in Journal of Monetary Economics, n. 2, pagg. 151-174. 
+Bosi, P., R. Golinelli e A. Stagni (eds) (1990), “Le origini del debito pubblico e il costo della 
+stabilizzazione” in Un modello a medio termine dell’economia italiana: Hermes-Italia, 
+Bologna, Il Mulino. 
+Bouthevillain, C. (1996), “Les cycles des grands pays industrialises. Des croissances plus 
+proches mais des zones déphasées”, in Economie et Statistique, vol. 298, n. 8, 
+pagg. 71-91. 
+Bouthevillain, C., P. Cour-Thimann, G. van den Dool, P.H. De Cos, G. Langenus, M. Mohr, S. 
+Momigliano e M. Tujula (2001), “Cyclically adjusted budget balance: an alternative 
+approach”, in ECB Working Paper, n. 77. 
+Braz, C. (2006), “The calculation of cyclically adjusted balances at Banco de Portugal: An 
+update”, in Banco de Portugal, Economic Bulletin, vol. 12, n. 4. 
+Briotti, M.G. (2005), “Economic reactions to public finance consolidation: A survey of the 
+literature”, in ECB Occasional Papers, October. 
+Brown, E.C. (1956), “Fiscal policy in the thirties: a reappraisal”, in American Economic 
+Review, vol. XLVI, n. 5, dicembre. 
+Buti, M., J. Noguera Martins e A. Turrini (2006), “From deficit to debt and back: political 
+incentives under numerical fiscal rules”, in Banca d’Italia (2007). 
+Cassone, A. e C. Marchese (1995), “Tax amnesties as special sales offers: The Italian 
+experience”, in Public Finance, vol. 50, n. 1, pagg. 51-66. 
+Cayen, J.P. e S. van Norden (2002), “La fiabilité des estimations de l’écart de production au 
+Canada”, Banque du Canada, Document de travail n. 10. 
+Chu, C.Y.C. (1990), “Plea bargaining with the IRS”, in Journal of Public Economics, n. 41. 
+Commissione Europea (2001), Public finances in EMU. 
+________ (2002), Autumn Forecasts. 
+________ (2006), Autumn Forecasts. 
+________ (2007), Spring Forecasts. 
+________ (2007a), Public finance in EMU. 
+Cotis, J.P., J. Elmeskov e A. Mourougane (2003), “Estimates of potential output: benefits and 
+pitfalls from a policy perspective”, OECD Economics Department. 
+Crescenzi, A. (2007), “I Documenti di programmazione: Una lettura della politica economica 
+in Italia dal Piano Marshall al DPEF 2008-2011”, Luiss University Press, Roma. 
+Das-Gupta, A. e D. Mookherjee (1996), “Tax amnesties as asset laundering devices”, in 
+Journal of Law, Economics and Organization, n. 12, pagg. 407-409. 
+
+==== page 48 ====
+ 
+46
+________ (1998), Incentives and institutional reform in tax enforcement, Oxford University 
+Press. 
+Degni, M., N. Emiliani, F. Gastaldi, G. Salvemini e C. Virno (2001), “Il riequilibrio della 
+finanza pubblica negli anni novanta”, in Studi e Note di Economia, Quaderni 7. 
+Denis, C., D. Grenouilleau, K. Mc Morrow e W. Roger (2006), "Calculating potential growth 
+rates and output gaps – A revised production function approach", European Commission, 
+in DG ECFIN Economic Papers, n. 247. 
+Deutsche Bundesbank (2006), “A disaggregated framework for analysing public finances: 
+Germany’s fiscal track record between 2000 and 2005“, in Monthly Report, marzo. 
+FMI (2002), World Economic Outlook, December. 
+————— (2007), World Economic Outlook, December. 
+————— (2008), World Economic Outlook, April. 
+Forni, L. e S. Momigliano (2004), “Cyclical sensitivity of fiscal policies based on real-time 
+data”, in Applied Economics Quarterly, vol. 50, n. 3, pagg. 299-326. 
+Franco, D. (2002), “Italy: a never ending pension reform” in M. Feldstein and H. Siebert (eds.) 
+Social Security Pension Reform in Europe, The University of Chicago Press. 
+————— (2005), “Il consolidamento interrotto”, in La finanza pubblica italiana – Rapporto 
+2005, Il Mulino. 
+Franco, D. e P. Rizza (2008),“Ensuring a sustainable fiscal consolidation”, in Italy in EMU: the 
+challenges of adjustment and growth, Palgrave, in corso di pubblicazione. 
+Franzoni, L.A. (1994), “Costly prosecution, tax evasion and amnesties”, in Economic Notes, 
+vol. 23, n. 2, pagg. 248-65. 
+————— (1996), “Punishment and grace: On the economics of tax amnesties”, in Public 
+Finance, vol. 51, n. 3, pagg. 353-68. 
+Giordano, R. (2008), “I differenziali salariali tra i settori pubblico e privato in Italia, Banca 
+d’Italia, mimeo. 
+Girouard, N. e C. André (2005), “Measuring cyclically adjusted budget balances for OECD 
+countries”, in OECD Economics Department Working Paper, n. 434. 
+Hagemann, R. (1999), “The structural budget balance: the IMF’s methodology”, in Banca 
+d’Italia (1999), pagg. 53-70. 
+Il Mulino, La finanza pubblica italiana, Rapporti annuali 1997-2005. 
+ISAE (2005), “Ire e riforma fiscale”, Nota mensile, gennaio. 
+————— (2006), “Gli effetti redistributivi della manovra 2007 sui redditi delle famiglie”, in 
+Finanza pubblica e redistribuzione, ottobre. 
+Istat (2007), “Conti ed aggregati economici delle Amministrazioni pubbliche – Serie SEC95 – 
+anni 1980-2006”. 
+Kaplow, L. e S. Shavell (1994), “Optimal law enforcement with self-reporting of behaviour”, 
+in Journal of Political Economy, n. 102, pagg. 583-606. 
+
+==== page 49 ====
+ 
+47
+Koen, V. e P. van den Noord (2005), “Fiscal gimmickry in Europe: one-off measures and 
+creative accounting”, in OECD Economics Department Working Paper, n. 417. 
+Kopits, G. e S. Symansky (1998), “Fiscal policy rules”, in IMF Occasional Paper, n. 162. 
+Kremer, J., C.R. Braz, T. Brosens, G. Langenus, S. Momigliano e M. Spolander (2006), “A 
+disaggregated framework for the analysis of structural developments in public finances”, 
+in ECB Working Paper, n. 579. 
+Kremer, J. e K. Wendorff (2004), “Germany after the qualification for EMU: A disaggregated 
+approach to the analysis of structural public finance developments”, in Vierteljahreshefte 
+zur Wirtschaftsforschung, vol. 73, n. 3, pagg. 358-370. 
+Larch, M. e A. Turrini (2008) “Received wisdom and beyond: Lessons from fiscal 
+consolidations in the EU”, European Commission, DG ECFIN Economic Papers, n. 320. 
+Locarno, A. e A. Staderini (2007), “Le entrate tributarie: analisi delle determinanti di lungo 
+periodo”, mimeo. 
+Marino, M.R., G. Messina e A. Staderini (2007), “Gli effetti redistributivi della recente riforma 
+dell’imposta sul reddito”, in G. Rovati (a cura di) Povertà e lavoro – Giovani generazioni 
+a rischio, Carocci Editore, Roma. 
+Mc Dermott, C. e R. Westcott (1996), “An empirical analysis of fiscal adjustments”, in IMF 
+Staff Papers, vol. 43, n. 4, pagg. 725-753. 
+Mitchell, J. (2005), “Should we be surprised by the unreliability of real-time output gap 
+estimates? Density estimates for the Euro area”, National Institute of Economic and 
+Social Research. 
+Momigliano, S. (2001), Il saldo pubblico corretto per il ciclo: alternative metodologiche e 
+risultati per gli anni 1990-2001”, in A. Verde (ed.) Temi di finanza pubblica, Cacucci ed. 
+Momigliano, S. e P. Rizza (2007), “Temporary measures in Italy: buying or losing time?”, in 
+G.P. Kiss (ed.), Temporary measures and off-budget activities, Budapest, Magyar 
+Nemzeti Bank. 
+Momigliano, S. e A. Staderini (1999), “A New Method of Assessing the Structural Budget 
+Balance: Results for the years 1995-2000”, in Banca d’Italia (1999), pagg. 119-158. 
+OCSE (2002), Economic Outlook, December. 
+————— (2007), Economic Outlook, December. 
+Oliveira Martins, J., C. de la Maisonneuve e S. Bjørnerud (2006), “Projections of OECD health 
+and long-term care public expenditures”, in Banca d’Italia (2006). 
+Orphanides, A. e S. van Norden (1999), “The reliability of output gap estimates in real time”, 
+in Board of Governor of the Federal Reserve System, Finance and Economics Discussion 
+Series, n. 38. 
+————— (2002), “The unreliability of output gap estimates in real time”, in Review of 
+Economics and Statistics, vol. 84, pagg. 569-583. 
+Pammolli, F. e N. Salerno (2006), “I conti pubblici italiani: sanità “specchio” del Paese”, Nota 
+CERM. 
+
+==== page 50 ====
+ 
+48
+Pedersen, T.M. (1998), “How long are business cycles? Reconsidering fluctuations and 
+growth”, in University of Copenhagen, Institute of Economics, Discussion Paper, n. 24. 
+Prammer, D. (2004), “Expansionary Fiscal Consolidation? An Appraisal of the Literature on 
+Non-Keynesian Effects of Fiscal Policy and a Case Study for Austria”, in Monetary 
+Policy and the Economy, Q3/04. 
+Richardson, P., L. Boone, C. Giorno, M. Meacci, D. Rae e D. Turner (2000), “The concept, 
+policy use and measurement of structural unemployment: estimatine a time-varying 
+NAIRU across 21 OECD countries”, in OECD Economics Department Working Paper, 
+n. 250. 
+Sartor, N. (ed.) (1998), “Il risanamento mancato. La politica di bilancio nella seconda metà 
+degli anni ottanta”, Roma, Carocci ed. 
+Spaventa, L. e V. Chiorazzo (2000), “Astuzia o virtù? Come accadde che l’Italia fu ammessa 
+all’Unione Monetaria”, Donzelli ed. 
+Staderini, A. (2001), “Tax reforms to influence corporate financial policy: The case of the 
+Italian business tax reform of 1997-98”, in Temi di discussione, n. 423, Banca d’Italia. 
+
+==== page 51 ====
+ 
+49
+APPENDICE 1 
+ 
+L’affidabilità delle stime real time 
+ 
+Studi recenti hanno messo in evidenza che le stime real time dell’output gap e, più in generale, degli 
+scostamenti ciclici dai trend di riferimento, sono soggette a elevati margini di incertezza, come testimoniato 
+dalle revisioni ex post, spesso alquanto significative, che si verificano. Le correzioni ex post a volte 
+riflettono la revisione dei dati storici utilizzati. Tuttavia, il problema più rilevante all’origine delle revisioni 
+deriva dal fatto che la stima dell’output gap (o del gap delle altre variabili macroeconomiche) si basa su 
+previsioni dei futuri tassi di crescita (Mitchell, 2005). Questa caratteristica delle procedura di stima ha due 
+conseguenze: in primo luogo, previsioni diverse sul futuro implicano stime diverse del gap corrente; in 
+secondo luogo, quanto più distante dal vero era la previsione iniziale, tanto maggiore sarà la revisione da 
+apportare alle stime del ciclo quando i dati previsti diventano disponibili a consuntivo. 
+Considerato che le stime del gap sono alla base del calcolo della componente ciclica del bilancio pubblico e 
+che questa, a sua volta, viene utilizzata per valutare la politica di bilancio, è importante analizzare 
+l’ampiezza delle revisioni. La letteratura in materia, che si concentra sulle valutazioni dell’output gap, 
+sembra concordare sul fatto che le revisioni siano mediamente più rilevanti nel caso vengano utilizzati dei 
+filtri univariati rispetto al caso di stime basate su funzioni di produzione (Orphanides e van Norden, 1999; 
+Cayen e van Norden, 2002). Nella tavola A.1 confrontiamo le stime real time ed ex post della componente 
+ciclica del bilancio pubblico basate sulla nostra metodologia e su quelle degli organismi internazionali. Il 
+periodo in esame è il triennio 2001-03 che oggi (ex post) risulta, in base a tutte le metodologie considerate, 
+una fase di relativa espansione economica. Tuttavia, alla fine del 2002 la percezione degli operatori 
+economici era molto diversa, così come diverse erano anche le stime della componente ciclica del bilancio 
+pubblico fornite allora. 
+ 
+Tav. A1 – Stime della componente ciclica per gli anni 2001-03 realizzate alla fine del 2002 e alla fine del 2007 
+(in percentuale del PIL) 
+ 
+2002 *
+2007
+2002
+2007
+2002
+2007
+2002
+2007
+2001
+0.3
+0.6
+0.2
+1.0
+-0.4
+0.7
+-0.1
+0.8
+2002
+-0.1
+0.3
+-0.6
+0.3
+-0.3
+1.2
+-0.7
+0.5
+2003
+-0.2
+-0.1
+-0.6
+-0.2
+-0.3
+0.0
+-0.9
+-0.4
+FMI
+OCSE
+Banca d'Italia
+Commissione
+ 
+ 
+Fonti: FMI, World Economic Outlook database (dicembre 2002 e 2007); OCSE, Economic Outlook (dicembre 2002 e 2007); 
+Commissione Europea, Autumn Forecasts 2002 e AMECO database (aprile 2008); nostre elaborazioni. 
+(*) Le stime 2002 sono ricostruite dagli autori applicando la metodologia SEBC ai dati noti al novembre 2002. 
+ 
+ 
+La revisione delle stime prodotte con la nostra metodologia è sensibilmente minore rispetto a quella delle 
+stime degli organismi internazionali. Il dato sul 2002 risulta particolarmente significativo. La revisione 
+apportata alle stime dei vari organismi internazionali è ampia e coinvolge anche il segno. Nel nostro caso, 
+invece, la stima real time sarebbe stata quasi nulla nel 2002 e verrebbe rivista oggi in una moderata 
+espansione. I dati riportati nella tavola 3 non sono sufficienti a concludere che la nostra metodologia sia 
+soggetta a minori revisioni rispetto alle altre. Tuttavia, questo aspetto conferma che a fronte di stime non 
+sempre attendibili, la possibilità di confrontare approcci diversi può aiutare a migliorare l’analisi 
+complessiva. 
+
+==== page 52 ====
+ 
+50
+APPENDICE 2:  
+ 
+Effetti delle principali misure temporanee 
+(in percentuale del PIL) 
+ 
+ 
+1997 
+Eurotassa (addizionale all’Irpef) 
+0,24 
+1997 
+Sanatoria di imposte e contributi sociali 
+0,04 
+1997 
+Riduzione ritardi pagamenti di imposte su oli minerali, gas metano ed energia elettrica 
+0,15 
+1997 
+Slittamento dell’erogazione delle nuove indennità di buonuscita ai dipendenti pubblici 
+0,15 
+1997 
+Introduzione prelievo sui concessionari della riscossione di alcuni tributi indiretti 
+ 0,14 
+1997 
+Introduzione di una ritenuta di acconto sul TFR maturato nell’anno 
+0,32 
+1997 
+Versamento imposte Banca d’Italia a seguito di operazioni straordinarie e UIC su plusvalenze vendita riserve auree 
+0,31 
+ 
+Totale 
+1,35 
+ 
+1998 
+Aumento della ritenuta d’acconto sui lavoratori autonomi 
+ 0,09 
+1998 
+Sanatoria di imposte e contributi sociali e rivalutazione beni aziendali 
+0,09 
+1998 
+Introduzione di una ritenuta di acconto sul TFR maturato nell’anno 
+0,21 
+1998 
+Cambiamento periodicità nel pagamento delle pensioni (1) 
+0,31 
+1998 
+Operazioni di swap su titoli pubblici 
+0,28 
+1998 
+Parziale restituzione dell’eurotassa 
+–0,07 
+1998 
+Prelievo sui concessionari della riscossione di alcuni tributi indiretti 
+ 0,21 
+ 
+Totale 
+1,12 
+ 
+1999 
+Imposta sostitutiva su plusvalenze su cessioni aziendali 
+0,09 
+1999 
+Operazioni di swap su titoli pubblici 
+0,04 
+1999 
+Parziale restituzione dell’eurotassa 
+–0,09 
+1999 
+Sanatorie 
+0,01 
+ 
+Totale 
+0,06 
+ 
+2000  
+Dismissioni immobiliari 
+0,09 
+2000 
+Imposta sostitutiva su plusvalenze su cessioni aziendali 
+0,12 
+2000  
+Sanatorie 
+0,01 
+2000 
+Operazioni di swap su titoli pubblici 
+0,03 
+ 
+Totale 
+0,24 
+ 
+2001  
+Dismissioni immobiliari 
+0,16 
+2001 
+Imposta sostitutiva su plusvalenze su cessioni aziendali 
+0,33 
+2001 
+Imposta sostitutiva su rivalutazione cespiti aziendali 
+0,40 
+2001 
+Sanatorie 
+0,01 
+2001 
+Operazioni di swap su titoli pubblici 
+0,02 
+ 
+Totale 
+0,92 
+ 
+2002  
+Dismissioni immobiliari 
+0,85 
+2002 
+Imposta sostitutiva su plusvalenze su cessioni aziendali 
+0,19 
+2002 
+Imposta sostitutiva su rivalutazione cespiti aziendali 
+0,12 
+2002  
+Imposta sostitutiva su affrancamento fondi in sospensione di imposta 
+0,04 
+2002 
+Imposta sostitutiva su rivalutazione di partecipazioni e terreni (persone fisiche) 
+0,10 
+2002 
+Sanatoria capitali detenuti all’estero 
+0,11 
+2002  
+Sanatorie 
+0,06 
+2002 
+Aumento percentuale dell’acconto versato dai concessionari della riscossione 
+0,12 
+2002 
+Restituzione agevolazioni concesse alle banche 
+–0,05 
+2002 
+Operazioni di swap su titoli pubblici 
+0,15 
+ 
+Totale 
+1,69 
+ 
+2003  
+Dismissioni immobiliari 
+0,21 
+2003  
+Imposta sostitutiva su plusvalenze su cessioni aziendali 
+0,18 
+2003 
+Imposta sostitutiva su rivalutazione cespiti aziendali 
+0,10 
+2003  
+Imposta sostitutiva su affrancamento fondi in sospensione di imposta 
+0,04 
+2003 
+Imposta sostitutiva su rivalutazione di partecipazioni e terreni (persone fisiche) 
+0,05 
+2003 
+Sanatoria capitali detenuti all’estero 
+0,05 
+2003 
+Aumento percentuale dell’acconto versato dai concessionari della riscossione 
+0,01 
+2003 
+Restituzione agevolazioni concesse alle banche 
+–0,02 
+2003 
+Operazioni di swap su titoli pubblici 
+0,05 
+2003 
+Sanatorie fiscali 
+1,27 
+2003  
+Cancellazione crediti dello Stato nei confronti della TAV 
+0,24 
+ 
+Totale 
+2,18 
+ 
+
+==== page 53 ====
+ 
+51
+Effetti delle principali misure temporanee (continua) 
+(in percentuale del PIL) 
+ 
+ 
+ 
+2004  
+Dismissioni immobiliari 
+0,32 
+2004  
+Imposta sostitutiva su plusvalenze su cessioni aziendali 
+0,22 
+2004 
+Imposta sostitutiva su rivalutazione cespiti aziendali 
+0,26 
+2004  
+Imposta sostitutiva su affrancamento fondi in sospensione di imposta 
+0,02 
+2004 
+Imposta sostitutiva su rivalutazione di partecipazioni e terreni (persone fisiche) 
+0,08 
+2004 
+Operazioni di swap su titoli pubblici 
+0,09 
+2004 
+Sanatorie fiscali e condono edilizio 
+0,60 
+2004  
+Cancellazione crediti dello Stato nei confronti della TAV 
+0,23 
+2004 
+Acconto imposta sulle riserve matematiche delle assicurazioni 
+0,05 
+ 
+Totale 
+1,86 
+ 
+2005  
+Dismissioni immobiliari 
+0,22 
+2005 
+Imposta sostitutiva su rivalutazione cespiti aziendali 
+0,05 
+2005  
+Imposta sostitutiva su affrancamento fondi in sospensione di imposta 
+0,03 
+2005 
+Imposta sostitutiva su rivalutazione di partecipazioni e terreni (persone fisiche) 
+0,05 
+2005 
+Operazioni di swap su titoli pubblici 
+0,17 
+2005 
+Condono edilizio 
+0,12 
+2005  
+Cancellazione crediti dello Stato nei confronti della TAV 
+0,23 
+2005 
+Norme inerenti agli studi di settore 
+0,07 
+2005 
+Acconto imposta sulle riserve matematiche delle assicurazioni 
+–0,05 
+ 
+Totale 
+0,89 
+ 
+2006  
+Cancellazione crediti dello Stato nei confronti della TAV 
+–0,66 
+2006 
+Crediti agricoli cartolarizzati 
+–0,05 
+2006  
+Dismissioni immobiliari 
+0,11 
+2006 
+Imposta sostitutiva su rivalutazione cespiti aziendali 
+0,29 
+2006 
+Imposta sostitutiva su rivalutazione di partecipazioni e terreni (persone fisiche) 
+0,08 
+2006 
+Imposta sostitutiva su rivalutazione aree fabbricabili di proprietà delle imprese non ancora edificate 
+0,02 
+2006 
+Operazioni di swap su titoli pubblici 
+0,04 
+2006 
+Condono edilizio 
+0,01 
+ 
+Totale  
+–0,15 
+ 
+2007 
+Cancellazione acconto dei concessionari della riscossione 
+–0,32 
+2007 
+Trasferimento TFR 
+0.36 
+2007 
+Rimborsi IVA connessi con sentenza Corte di Giustizia europea (settembre 2006) 
+–0.05 
+2007  
+Dismissioni immobiliari 
+0,09 
+2007 
+Imposta sostitutiva su rivalutazione cespiti aziendali 
+0,02 
+2007 
+Imposta sostitutiva su rivalutazione di partecipazioni e terreni (persone fisiche) 
+0,04 
+2007 
+Imposta sostitutiva su rivalutazione aree fabbricabili di proprietà delle imprese non ancora edificate 
+0,01 
+2007 
+Operazioni di swap su titoli pubblici 
+–0,04 
+ 
+Totale  
+0,11 
+ 
+ 
+ 
+Nota: Un segno positivo corrisponde a un effetto migliorativo del saldo. 
+(1) Effetto netto della minore spesa per pensioni e delle minori ritenute sui redditi da pensione. 
+
+==== page 54 ====
+ 
+52
+APPENDICE 3 
+ 
+La riforma del sistema tributario italiano del 1998 
+ 
+La riforma mirava a razionalizzare e semplificare il sistema tributario, ad aumentare il grado di 
+autonomia fiscale dei livelli inferiori di governo, a conseguire una maggiore neutralità dell’imposizione 
+nei confronti delle decisioni delle imprese (Staderini, 2001) e a favorire soprattutto le famiglie numerose. 
+Con essa è stata istituita l’IRAP, sono stati aboliti una serie di imposte e contributi sociali, è stata 
+modificata la struttura dell’imposta sul reddito delle persone fisiche (Irpef), è stato riordinato il regime 
+sostitutivo di tassazione dei redditi da attività finanziarie e, infine, è stato introdotto un nuovo regime di 
+imposizione sui redditi d’impresa (DIT). 
+L’IRAP è un’imposta proporzionale applicata su una base imponibile costituita dal valore della 
+produzione al netto dei costi sostenuti per le materie prime e i prodotti intermedi. La sua introduzione 
+mirava, tra l’altro, alla semplificazione del sistema tributario mediante la sostituzione con un’unica 
+imposta di una serie di tributi e contributi e alla riduzione degli adempimenti per le imprese. 
+Il riordino dell’Irpef rispondeva all’esigenza di controbilanciare gli effetti dell’abolizione dei 
+menzionati tributi e contributi, deducibili dalla base imponibile dell’imposta, sulla distribuzione dei 
+redditi delle persone fisiche e ad attenuare il carico fiscale per le famiglie numerose. Il primo obiettivo 
+veniva realizzato attraverso la revisione degli scaglioni, delle aliquote e delle detrazioni per redditi da 
+lavoro; il secondo mediante la revisione delle detrazioni per familiari a carico. 
+L’obiettivo della riforma della tassazione delle attività finanziarie, era di aumentare il grado di 
+neutralità del prelievo sui redditi da capitale. Prevedeva: l’introduzione di due sole aliquote (12,5 e 27 
+per cento) a fronte di un elevato numero delle stesse; l’ampliamento delle basi imponibili mediante 
+l’assoggettamento a tassazione dei guadagni di capitale e dei proventi di negoziazioni di prodotti 
+derivati; la tassazione dei guadagni di capitale in base al criterio della maturazione piuttosto che della 
+realizzazione; l’introduzione della possibilità di optare, nel caso di risparmio affidato in “gestione” a 
+intermediari finanziari, per un nuovo regime di tassazione che sottopone al prelievo l’utile di gestione del 
+portafoglio dell’investitore e, nel caso di risparmio affidato in “amministrazione” a intermediari 
+finanziari, per un regime di tassazione basato sul prelievo alla fonte da parte di questi ultimi in occasione 
+delle singole negoziazioni. 
+Infine, con il regime della DIT veniva introdotto un trattamento agevolato su una quota dei redditi 
+d’impresa con l’obiettivo di attenuare la discriminazione fiscale tra le fonti di finanziamento. Il regime 
+della DIT consentiva la ripartizione dell’imponibile in due componenti: il reddito “normale”, imputabile 
+al capitale di nuova formazione, tassato con un’aliquota ridotta pari al 19 per cento; il reddito “residuale” 
+tassato, nel caso delle persone giuridiche, con l’aliquota ordinaria, allora pari al 37 per cento. 
+
+==== page 55 ====
+ 
+53
+APPENDICE 4 
+ 
+Tav. A4 – Obiettivi della politica di bilancio nel periodo 1997-2007 
+ 
+ 
+Obiettivi sulle entrate
+Obiettivi sulle spese
+DPEF 1998-2000
+Riduzione della pressione fiscale di circa 0,6 punti 
+percentuali.
+Riduzione del rapporto spesa primaria corrente sul PIL 
+(tasso di crescita programmatico di spese e PIL 
+rispettivamente al 3,7 e al 4 per cento).
+DPEF 1999-2001
+Riduzione delle entrate tributarie e contributive sul PIL 
+di circa 0,5 punti sul triennio.
+Riduzione del rapporto spesa primaria corrente sul PIL 
+dal 38,5 al 37 per cento. Leggero aumento (0,5 per cento) 
+per la spesa in conto capitale.
+DPEF 2000-2003
+Riduzione delle entrate tributarie e contributive sul PIL 
+di circa 1,3 punti sul triennio.
+Riduzione della spesa primaria corrente di 1 punto dal 
+37,2 al 36,2 per cento del PIL. Riduzione della spesa in 
+conto capitale (-0,4 per cento).
+DPEF 2002-2006
+Riduzione della pressione fiscale di 1 punto all'anno.
+Riduzione della spesa primaria corrente di 1 punto 
+all'anno in rapporto al PIL. Riduzione delle uscite totali 
+dal 47 al 39 per cento del PIL sul quinquennio.
+DPEF 2003-2006
+Riduzione della pressione fiscale per moduli successivi 
+nel tempo con riduzione delle aliquote Irpef, IRES e 
+IRAP.
+Riduzione delle uscite totali in rapporto al PIL tale da 
+rendere compatibile la riduzione della pressione fiscale 
+con le esigenze di bilancio.
+DPEF 2004-2007
+Lotta all'evasione e all'elusione fiscale al fine di 
+accrescere il gettito strutturale e poter così ridurre il 
+ricorso a misure one-off.
+Riduzione della spesa primaria corrente attraverso 
+l'applicazione stringente del Patto di stabilità interno e 
+la razionalizzazione degli acquisti di beni e servizi da 
+parte dell'Amministrazione pubblica.
+DPEF 2005-2008
+Riforma fiscale con l'obiettivo di ridurre la pressione 
+fiscale di 1 punto di PIL nel biennio 2005-06. Gli 
+interventi includono: il secondo modulo della riforma 
+dell'Irpef e sgravi IRAP.
+Riduzione della spesa primaria corrente attraverso la 
+razionalizzazione degli acquisti di beni e servizi e la 
+riduzione di sussidi alle imprese (da compensare con gli 
+sgravi fiscali).
+DPEF 2006-2009
+Riduzione del carico fiscale sulle imprese attraverso 
+l'introduzione di deduzioni dalla base imponibile IRAP.
+Contenimento della spesa primaria corrente attraverso il 
+potenziamento delle regole che impongono un limite 
+massimo ai tassi di crescita della spesa e i meccanismi 
+premiali delle amministrazioni più virtuose.
+DPEF 2007-2011
+Maggiore equità e redistribuzione del carico fiscale; 
+contrasto all'evasione e all'elusione fiscale. 
+Riduzione e riqualificazione della spesa primaria 
+corrente.
+ 
+ 
+ 
+ 
+ 

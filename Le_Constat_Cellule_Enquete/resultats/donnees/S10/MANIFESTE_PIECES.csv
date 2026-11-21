@@ -1,0 +1,25 @@
+fichier;url_origine;canal;date;octets;sha256
+senat_i1982_1983_0095_03_01.pdf;https://www.senat.fr/rap/1982-1983/i1982_1983_0095_03_01.pdf;requests (python);2026-11-21;3103495;ae477f184b14011b46ccf9f5485fbd225a1259df2fe37d96bd75d11d30c4e828
+dares_comptes_emploi_1984-1985_wayback.pdf;https://dares.travail-emploi.gouv.fr/sites/default/files/b6a1f0754211fbfdf61f3e71c36f08d9/Dares_Les%20comptes%20de%20l%27emploi%20le%20co%C3%BBt%20des%20politiques%20d%27emploi%20en%201984-1985.pdf;web.archive.org capture https://web.archive.org/web/20230325104913id_/ (requests python ; original : CAPTCHA);2026-11-21;557761;6ab60a2af4ad62ee2b9fb36241c3c72f46bc36de1fd001316cd340956343bf23
+senat_i1982_1983_0032.pdf;https://www.senat.fr/rap/1982-1983/i1982_1983_0032.pdf;requests (python);2026-11-21;1820835;b70497845cb822670d719e4915d6e0e87f503387e4f0d7e4cfeedecc39cf09f2
+an_cri_1976-1977-o2_045.pdf;https://archives.assemblee-nationale.fr/5/cri/1976-1977-ordinaire2/045.pdf;curl -L -A Mozilla/5.0;2026-11-21;1095916;7188f0b4a72dc279ab3ea2a450ce6cbc8ac07c6204c21cfb011340fa905b1fd1
+ccss_rapport_juin_1982.pdf;https://www.securite-sociale.fr/files/live/sites/SSFR/files/medias/CCSS/1982/RAPPORT/CCSS-RAPPORT-JUIN_1982.pdf;curl -L -A Mozilla/5.0;2026-11-21;4510993;495b1c737b3069bc1535f79342712a9e5fe6fa7d0353820e2382eef36e3c2baa
+senat_i1981_1982_0058_03_29.pdf;https://www.senat.fr/rap/1981-1982/i1981_1982_0058_03_29.pdf;requests (python);2026-11-21;3337036;cc1feec6594eb8bd7965e4891896b6c4b13fee99542a968d5379b0160358420d
+senat_i1978_1979_0189.pdf;https://www.senat.fr/leg/1978-1979/i1978_1979_0189.pdf;requests (python);2026-11-21;773001;52bdbb7c7088c77bfe012973742e92046fede065f87013168e47c496753cb61c
+senat_i1978_1979_0196_01.pdf;https://www.senat.fr/rap/1978-1979/i1978_1979_0196_01.pdf;requests (python);2026-11-21;1554413;9c912f0af60d2203700a1b385b55e5f0a79974c67b54562b78ae6204c8fa3b32
+senat_i1975_1976_0143.pdf;https://www.senat.fr/rap/1975-1976/i1975_1976_0143.pdf;requests (python);2026-11-21;1412178;ad16e97e11e7d2aabb92007fbf3547e430cef96aa9d1911360a8576fc3f11fe9
+senat_i1977_1978_0211.pdf;https://www.senat.fr/rap/1977-1978/i1977_1978_0211.pdf;requests (python);2026-11-21;663132;5a0dc3676c7adbf8b9cd21bdbb3384acda5a88db019466b60a482f4a84dc1e6f
+senat_i1977_1978_0173.pdf;https://www.senat.fr/rap/1977-1978/i1977_1978_0173.pdf;requests (python);2026-11-21;1616726;4e56fd7a7d39d1dedbc881a0c9f3e6bfba0198f2ab6f7d3aa6817a1a952681f5
+an_cri_1976-1977-o2_045.txt;extraction texte (pymupdf, get_piece.py) de an_cri_1976-1977-o2_045.pdf;local;2026-11-21;155417;c52b22d08dbd197cb28ddf5a464764e96fb9865a6c540549d63739f3bb74454b
+ccss_rapport_juin_1982.txt;extraction texte (pymupdf, get_piece.py) de ccss_rapport_juin_1982.pdf;local;2026-11-21;157943;cac77c24b2ed7cf860c0f506afaacf0e4a38af1aa69cc23f074cd778030022de
+dares_comptes_emploi_1984-1985_transcription.txt;transcription manuelle par S10 de dares_comptes_emploi_1984-1985_wayback.pdf;local;2026-11-21;2814;ba4f6d7e8f8453e5e89cba5e8d1ce4ed3ebd990571c2b9a5b887a5d43c2dbde8
+dares_comptes_emploi_1984-1985_wayback.txt;extraction texte (pymupdf, get_piece.py) de dares_comptes_emploi_1984-1985_wayback.pdf;local;2026-11-21;72;d19e137e829574587263168c9e7f15b2a7239e2e789211def815744d06b2980c
+senat_i1975_1976_0143.txt;extraction texte (pymupdf, get_piece.py) de senat_i1975_1976_0143.pdf;local;2026-11-21;50911;a7dfe1dc5d39df1055e07df78b36f8604cd1ef1eaf1cb2f207c5be72630cc967
+senat_i1977_1978_0173.txt;extraction texte (pymupdf, get_piece.py) de senat_i1977_1978_0173.pdf;local;2026-11-21;77837;eb7691da1f686da873d26f793d07aec549f0ff37e6dd9bc6ad2e0666a6f87358
+senat_i1977_1978_0211.txt;extraction texte (pymupdf, get_piece.py) de senat_i1977_1978_0211.pdf;local;2026-11-21;29742;8ba524d60cba7739c07c742f6b9dbe8cf8528076ba89169e84b89b22b292fa97
+senat_i1978_1979_0189.txt;extraction texte (pymupdf, get_piece.py) de senat_i1978_1979_0189.pdf;local;2026-11-21;18164;07abd9cc1ec206e749a09f5fb01006ce4e62bdd60447fb9cb5590606a278555c
+senat_i1978_1979_0196_01.txt;extraction texte (pymupdf, get_piece.py) de senat_i1978_1979_0196_01.pdf;local;2026-11-21;64163;c128955044f738811c213864280dc2677efd5737fdc3edae9ebd6fed4bdcd66e
+senat_i1981_1982_0058_03_29.txt;extraction texte (pymupdf, get_piece.py) de senat_i1981_1982_0058_03_29.pdf;local;2026-11-21;150123;831f276f0d449667727dcef64a9161f3144a04fb8d59f5940e58ed2574158308
+senat_i1982_1983_0032.txt;extraction texte (pymupdf, get_piece.py) de senat_i1982_1983_0032.pdf;local;2026-11-21;83903;f0ba9047b8c37b2acbe4ee5f4047cc68d4ecae15f05bd0b9bd47c79468141fc4
+senat_i1982_1983_0095_03_01.txt;extraction texte (pymupdf, get_piece.py) de senat_i1982_1983_0095_03_01.pdf;local;2026-11-21;134226;51f9279c5b37beaba2af0f7f1f9fceb5c7dfe9aa9ee8456b61b927fdf445e11c
+ccss_juin1983_tableau_cnaf_transcription.txt;transcription manuelle par S10 de ccss_rapport_juin_1982.pdf (p. 29);local;2026-11-21;1233;4a899eb8f43ff396ca6cb19d63417b0ab520c77d802f4cbe40a0db8f76a540d8

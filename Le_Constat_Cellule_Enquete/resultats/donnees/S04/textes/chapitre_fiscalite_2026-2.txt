@@ -1,0 +1,1561 @@
+
+=== p.1 ===
+Chapitre 2
+Effets budgétaires et redistributifs
+des mesures socio-fiscales 2026
+Auteurs :
+Sylvain Duchesne, Bertrand Garbinti et Lola Josseran
+Les mesures socio-fiscales à destination des ménages contenues dans le budget pour 2026 ciblent
+trois catégories de personnes : les familles avec des enfants de plus de 14 ans touchées par la
+baisse des allocations familiales, les personnes percevant un revenu du travail proche du SMIC qui
+bénéficient de la hausse de la prime d’activité et les ménages détenteurs de revenus du capital
+soumis à la hausse de la CSG et à la reconduction de la contribution différentielle sur les hauts
+revenus (CDHR). Nous analysons leurs effets budgétaires et redistributifs, leurs impacts sur les
+inégalités entre les femmes et les hommes et sur le niveau de vie des enfants. Nous discutons
+également des mécanismes susceptibles d’expliquer les grandes incertitudes qui pèsent sur le
+rendement de la CDHR.
+Résultats clés
+◦Sur l’ensemble de la population, les effets des mesures étudiées sont très faibles. Seuls 14 % des
+individus sont impactés à hauteur d’au moins 5 e par mois.
+◦Les pertes moyennes apparaissent limitées et concentrées aux extrémités de la distribution des
+revenus : en haut, du fait de la hausse de la CSG sur certains revenus du capital et de la reconduction
+de la CDHR, ainsi qu’en bas, en raison de la baisse des allocations familiales. Les 1 % des personnes
+avec les plus hauts niveaux de vie sont les plus affectés.
+◦Les gains de niveau de vie des ménages proviennent quasi exclusivement de la réforme de la prime
+d’activité. Ils atteignent en moyenne 0,3 % du niveau de vie pour les individus ayant un niveau de vie
+compris entre 1 200 e et 1 900 e par mois (c’est-à-dire entre le 14e et le 38e centième).
+◦Le rendement de la CDHR reste incertain. Le faible acompte de la CDHR versé en décembre 2025,
+comparé à son rendement mécanique estimé, peut s’expliquer par plusieurs mécanismes : erreurs de
+calcul des foyers, poids des revenus exceptionnels dans l’assiette ou encore comportements
+d’anticipation, de report ou de substitution de revenus, susceptibles d’affecter également les bases
+d’autres prélèvements obligatoires.
+◦Les ménages avec trois enfants et plus représentent 14 % de la population et sont plus souvent situés en
+bas de la distribution des revenus. Ce sont eux qui connaissent la baisse moyenne de niveau de vie la
+plus marquée, de 0,4 % pour les couples et 1,3 % pour les familles monoparentales.
+◦Les réformes des prestations sociales bénéficient davantage aux hommes qu’aux femmes au sein des
+couples. En effet, l’homme est plus souvent celui dont la situation salariale ouvre droit à la bonification la
+plus élevée au titre de la prime d’activité. Une fois ces réformes pleinement montées en charge (effet en
+année pleine pour la prime d’activité et fin de la période de transition pour les allocations familiales), le
+gain estimé pour les hommes peut être jusqu’à trois fois supérieur à celui des femmes, à niveau de vie
+comparable.
+
+=== p.2 ===
+L’
+ÉLABORATION du budget 2026 a
+donné lieu à un travail parlemen-
+taire prolongé. Au fil des amendements, la
+loi de finances pour 2026 (LF 2026) et la
+loi de financement de la Sécurité Sociale
+pour 2026 (LFSS 2026) se sont toutes les
+deux sensiblement éloignées du projet ini-
+tial du gouvernement. Le texte final com-
+porte ainsi une part importante de mesures
+qui n’ont pas pu être évaluées dans les an-
+nexes du projet de loi de finances, faute
+d’avoir été envisagées au moment de leur
+préparation. Leur entrée en vigueur permet
+désormais d’en détailler les effets attendus.
+Ce chapitre se compose de trois par-
+ties. La première étudie l’impact des prin-
+cipales mesures du budget 2026 à desti-
+nation des ménages. La deuxième s’inté-
+resse à plusieurs mécanismes susceptibles
+d’expliquer l’incertitude autour du rende-
+ment de la contribution différentielle sur les
+hauts revenus (CDHR), qui a été créée par
+la LF 2025 afin de garantir un taux mini-
+mal d’imposition de 20 % pour les foyers
+à très hauts revenus. Notre évaluation de
+2025 (DARRICAU et al., 2025) soulignait la
+possibilité de recettes inférieures au rende-
+ment mécanique. En effet, l’acompte perçu
+en décembre 2025 s’est élevé à seulement
+400 Me, alors qu’un rendement mécanique
+d’environ 2 Mde avait été annoncé. Cette
+partie présente certains mécanismes pou-
+vant expliquer ces différences : erreurs de
+calcul par les foyers, poids des revenus
+exceptionnels dans l’assiette, ainsi que ré-
+ponses comportementales telles que l’an-
+ticipation, le report ou la substitution de
+revenus. La troisième partie analyse l’hé-
+térogénéité des effets des mesures du
+budget selon différentes catégories socio-
+démographiques des ménages afin d’éclai-
+rer leurs potentiels impacts sur le niveau
+de vie des enfants et les inégalités femmes-
+hommes. Même si les mesures sont a priori
+neutres du point de vue du sexe, leurs ef-
+fets peuvent en pratique différer (DEBOISSY
+et CHATAIN, 2025 et BOZIO et al., 2016).
+Au-delà des effets liés à la composition
+des ménages, des inégalités existent égale-
+ment au sein des ménages et des couples,
+dans la mesure où l’origine des revenus
+peut influencer leur utilisation (ROY, 2006).
+La partie se conclut par un éclairage spé-
+cifique sur les effets différenciés des ré-
+formes de prestations sociales du budget
+2026 au sein des couples.
+Les résultats présentés ici s’inscrivent
+dans le cadre d’une série de travaux d’éva-
+luation des lois de finances et des mesures
+socio-fiscales réalisés par les équipes de
+l’Institut des politiques publiques (IPP) en
+s’appuyant sur le modèle Taxipp (IPP,
+2026), un outil de microsimulation déve-
+loppé depuis plusieurs années (voir par
+exemple FABRE et al., 2020, DUTRONC-
+POSTEL et al., 2022 et DARRICAU et al.,
+2025) qui s’appuie sur OpenFisca, un cal-
+culateur socio-fiscal libre et collaboratif.
+Analyse de la loi de
+finances et de financement
+de la sécurité sociale pour
+2026
+Effets redistributifs du budget
+2026
+Dans la LF 2026 et la LFSS 2026, cinq
+mesures principales concernent les mé-
+nages. Deux portent sur les prestations
+sociales : la hausse de l’âge de majora-
+tion des allocations familiales et la hausse
+du montant de la bonification de la prime
+d’activité, et trois sur les prélèvements obli-
+gatoires : la hausse du taux de contribu-
+tion sociale généralisée (CSG) sur certains
+revenus du capital, la reconduction de la
+CDHR et la hausse du plafond de réduc-
+tion pour dons à certaines associations dits
+« dons Coluche ». Nous les présentons en
+32 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.3 ===
+Budget et niveau de vie des ménages
+détail ci-dessous. D’autres réformes, telles
+que la modification du barème des allège-
+ments de cotisations sociales employeurs
+ou la taxe sur les holdings patrimoniales,
+ne rentrent pas dans le champ de l’évalua-
+tion menée ici 1. Les mesures de revalori-
+sation automatique des dispositifs indexés
+sur l’inflation, comme par exemple la revalo-
+risation des pensions de retraite, des pres-
+tations sociales ou des seuils du barème
+de l’impôt sur le revenu (IR) ne constituent
+pas à proprement parler des réformes in-
+troduites par la LF mais relèvent plutôt de
+l’application du status quo.
+1. Leurs effets sur les niveaux de vie des mé-
+nages dépendent en effet d’hypothèses importantes,
+par exemple sur la formation des salaires. De plus,
+notre modèle de microsimulation ne permet pas de
+les modéliser finement.
+La figure 2.1 présente les effets redis-
+tributifs du budget 2026. Nous y compa-
+rons l’impact du budget 2026 avec un sys-
+tème socio-fiscal contrefactuel qui intègre
+les différentes mesures d’indexation (re-
+traites, prestations sociales, seuils du ba-
+rème de l’IR). Les résultats sont exprimés
+en évolution du niveau de vie des individus
+classés par centième de leur niveau de vie
+initial. Le niveau de vie est défini comme
+le revenu disponible divisé par le nombre
+d’unités de consommation (UC), calculées
+selon la règle dite de l’OCDE modifiée, at-
+tribuant au premier adulte 1 UC, 0,5 UC
+aux autres membres du ménage de plus
+de 14 ans, et 0,3 UC à ceux de moins de
+14 ans. Les montants de certains de ces
+centièmes de niveau de vie sont présen-
+FIGURE 2.1 – Effets redistributifs des mesures socio-fiscales de la LF 2026
+Lecture : Les mesures socio-fiscales de la LF 2026 conduisent à une baisse moyenne du niveau de vie de 0,8 % pour le dernier
+centième, c’est-à-dire les personnes vivant dans un ménage avec un niveau de vie moyen d’environ 15 200 e par mois.
+Note : Cette figure montre pour chaque centième de niveau de vie initial, le rapport entre la variation moyenne de niveau de vie
+des individus de ce centième et le niveau de vie initial moyen. Pour les 5 % des individus les plus modestes, nous calculons une
+moyenne pour les cinq premiers centièmes. Le niveau de vie est égal au revenu disponible du ménage divisé par le nombre d’unités de
+consommation. Le niveau de vie est le même pour tous les individus d’un même ménage. Nous utilisons un niveau de vie que nous
+rendons comparable à celui de l’Insee, notamment en supprimant du revenu disponible les plus-values et les prélèvements associés.
+Source : TAXIPP 2.4.2.
+Perspectives budgétaires | 33
+
+=== p.4 ===
+tés dans le tableau 2.1. Sur l’ensemble de
+la population, l’effet du budget est limité
+et concentré sur certains ménages. Les
+pertes sont concentrées dans le haut de la
+distribution, avec une perte moyenne de ni-
+veau de vie estimée à 0,8 % (environ 125 e
+par mois) pour les 1 % des personnes avec
+les plus hauts niveaux de vie, hors prise en
+compte d’éventuelles réponses comporte-
+mentales. À l’inverse, les personnes dont
+le niveau de vie se situe entre 1 200 e et
+1 900 e par mois, soit entre le 14e et le 38e
+centième de niveau de vie, enregistrent les
+gains moyens les plus élevés, avec une
+hausse moyenne de 0,3 % (soit 3 à 5 e par
+mois). La figure 2.2 montre la décomposi-
+tion de l’effet général entre les différentes
+mesures adoptées. En part du niveau de
+vie, les effets moyens des allocations fami-
+liales sont concentrés dans la partie basse
+de la distribution de revenus, tandis que les
+effets de la hausse de CSG et la CDHR
+sont dans la partie supérieure. La partie
+de la distribution avec un gain moyen est
+concernée par la bonification de la prime
+d’activité, qui s’applique aux travailleurs à
+bas revenus. Au sein des centièmes les
+plus concernés par cette bonification, plus
+de 20 % des individus connaissent un gain
+de plus de 5 e par mois d’après la figure 2.3
+qui présente, pour chaque centième de ni-
+veau de vie, la part des individus gagnant
+ou perdant au moins 5 e par mois. Une
+large part des ménages n’est pas concer-
+née par les mesures du budget analysées
+dans cette étude : seuls 14 % des ménages
+sont affectés à hauteur d’au moins 5 e par
+mois, avec une asymétrie entre gagnants
+et perdants (respectivement 10 % et 4 %).
+FIGURE 2.2 – Décomposition des effets redistributifs des mesures socio-fiscales de la LF 2026
+Lecture : La hausse de la CSG conduit à une baisse moyenne du niveau de vie de 0,4 % pour le dernier centième, c’est-à-dire les
+personnes vivant dans un ménage avec un niveau de vie moyen d’environ 15 200 e par mois.
+Note : Voir note de la figure 2.1
+Source : TAXIPP 2.4.2.
+34 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.5 ===
+Budget et niveau de vie des ménages
+FIGURE 2.3 – Gagnants-perdants des mesures socio-fiscales de la LF 2026
+Lecture : Au sein du top 1 % de la distribution de niveau de vie, les mesures socio-fiscales de la LF 2026 conduisent à une diminution
+du niveau de vie d’au moins 5 e par mois pour 46 % des ménages, tandis qu’elles sont neutres pour les 54 % restants.
+Note : Cette figure montre pour chaque centième de niveau de vie initial, la part de personnes dont le niveau de vie est affecté de plus
+de 5 e par mois.
+Source : TAXIPP 2.4.2.
+“La hausse de la prime
+d’activité est la principale
+mesure du budget conduisant
+à un accroissement du revenu
+disponible des ménages.
+La hausse de la bonification de
+la prime d’activité
+La prime d’activité est la principale pres-
+tation sociale destinée aux travailleurs
+ayant des revenus proches du salaire mi-
+nimum. Le calcul de cette prestation se
+compose de deux parties principales : une
+calculée au niveau de la famille et une boni-
+fication qui dépend du salaire au niveau in-
+dividuel. La réforme introduite dans le bud-
+get 2026 augmente le montant maximal de
+cette bonification de 55 e, passant de 186
+à 241 e et décale le niveau de revenu où
+ce maximum est atteint, qui passe de 1 à
+1,15 SMIC 2. La hausse de la bonification
+a pris effet en avril 2026, ce qui en réduit
+l’impact sur l’année par rapport à un effet
+en année pleine. Le coût pour l’État de la
+réforme est estimé à 1,4 Mde pour l’année
+2026, et à 1,6 Mde en année pleine.
+2. À noter que la législation compare un nombre
+de SMIC horaire brut (120 avant la réforme et 138
+après) au salaire net des bénéficiaires pour calculer
+la prestation.
+Perspectives budgétaires | 35
+
+=== p.6 ===
+TABLEAU 2.1 – Niveaux de vie moyens en
+2026 pour les principaux centièmes
+Centième
+Niveau de vie moyen
+du 1er au 5e
+6 200 e / an
+520 e / mois
+10e
+13 000 e / an
+1 080 e / mois
+20e
+17 000 e / an
+1 410 e / mois
+30e
+20 300 e / an
+1 690 e / mois
+40e
+23 300 e / an
+1 940 e / mois
+50e
+26 200 e / an
+2 180 e / mois
+60e
+29 400 e / an
+2 450 e / mois
+70e
+33 200 e / an
+2 770 e / mois
+80e
+38 600 e / an
+3 210 e / mois
+90e
+48 000 e / an
+4 000 e / mois
+95e
+58 900 e / an
+4 910 e / mois
+99e
+92 300 e / an
+7 690 e / mois
+100e
+182 100 e / an
+15 180 e / mois
+Lecture : Les individus situés dans le 50e centième de niveau
+de vie ont en moyenne un niveau de vie de 2 180 e / mois en
+2026.
+Note : Ce tableau renseigne pour quelques centièmes clés
+le niveau de vie moyen des individus situés dans chacun de
+ces centièmes. La première ligne correspond au niveau de
+vie moyen au sein des cinq premiers centièmes.
+Source : TAXIPP 2.4.2.
+La hausse de l’âge de majoration
+des allocations familiales
+La LFSS 2026 met en place un nouveau
+congé parental supplémentaire, destiné à
+permettre aux deux parents de prendre
+des congés plus longs après la naissance
+d’un enfant, et à mieux équilibrer le partage
+des tâches domestiques entre les femmes
+et les hommes. Ce rééquilibrage pourrait
+aussi affecter leur carrière respective et,
+en particulier, réduire la « pénalité à l’en-
+fant », largement documentée dans la litté-
+rature économique 3, subie principalement
+par les femmes. Ce congé correspond à
+une prestation monétaire compensant une
+absence prolongée de salaire. La variation
+de niveau de vie n’est donc pas un bon
+instrument pour en mesurer l’effet : elle ap-
+paraîtrait comme une baisse du niveau de
+vie, alors qu’elle correspond à une dépense
+en faveur des ménages. En revanche, cette
+réforme est explicitement financée par une
+3. Cf. par exemple MEURS et PORA, 2019 ou
+BONNET et al., 2025
+réforme de la majoration des allocations
+familiales qui rentre, elle, pleinement dans
+le champ de notre évaluation.
+Les allocations familiales sont des pres-
+tations perçues par les familles ayant au
+moins deux enfants de moins de 20 ans,
+afin de compenser une partie des dé-
+penses qui leur sont associées. Jusqu’en
+2026, une majoration de ces allocations,
+qui peuvent aller jusqu’à 75 e par mois,
+était allouée pour chaque enfant de plus
+de 14 ans 4, au motif que ces dépenses
+augmentent avec l’âge. La LFSS 2026 re-
+lève cet âge de majoration à 18 ans, pour
+les enfants nés après avril 2012, réduisant
+ainsi le montant des allocations familiales
+pour les familles ayant un enfant de plus
+de 14 ans et de moins de 20 ans né après
+avril 2012. La réforme monte en charge
+progressivement : elle concernera d’abord
+les familles ayant des enfants de 14 ans en
+2026, puis en plus celles ayant des enfants
+de 14 ans en 2027, etc. Le nouveau régime
+s’appliquera pleinement après avril 2030,
+lorsque les derniers enfants pouvant bé-
+néficier d’une majoration avant 18 ans au-
+ront atteint cet âge. Le nombre de familles
+concernées par cette réforme augmentera
+donc progressivement jusqu’à cette date.
+L’effet en 2026 de cette mesure ne corres-
+pond donc pas à son effet de pleine mon-
+tée en charge, ce qui explique la part re-
+lativement faible de perdants (au seuil de
+5 e par mois) dans le bas de la distribution
+des revenus (figure 2.3). En effet, en 2026,
+seuls les ménages comptant un enfant de
+14 ans au sein d’une fratrie sont affectés.
+La figure 2.4 présente les effets de pleine
+montée en charge des réformes de prime
+d’activité et des allocations familiales. Une
+fois ces réformes pleinement déployées,
+les 15 % des personnes les plus modestes
+(inférieur à 1 300 e par mois), perdent en
+moyenne 0,1 à 0,5 % de niveau de vie (-1 à
+-4 e par mois), du fait de l’augmentation du
+4. À l’exception de l’aîné dans les familles avec
+deux enfants.
+36 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.7 ===
+Budget et niveau de vie des ménages
+FIGURE 2.4 – Effets après pleine montée en charge des réformes des prestations sociales
+Lecture : La pleine montée en charge de la réforme des allocations familiales diminue de 0,5 % le niveau de vie du 8e centième,
+c’est-à-dire les personnes avec un niveau de vie d’environ 990 e par mois.
+Note : Voir note de la figure 2.1
+Source : TAXIPP 2.4.2.
+nombre de familles affectées par la baisse
+des allocations familiales.
+“Le rendement de la hausse de
+l’âge de majoration des
+allocations familiales est
+estimé à 250 Me en 2026 et
+environ 1 Mde après sa pleine
+montée en charge.
+La hausse du plafond de la
+réduction pour « dons Coluche »
+La réduction pour « dons Coluche » per-
+met de réduire son IR de 75 % de la valeur
+des dons effectués à des organismes sans
+but lucratif qui aident les personnes en dif-
+ficulté et les victimes de violence domes-
+tique. Son plafond par foyer fiscal avait été
+relevé en 2020 de 546 à 1 000 e et était
+resté stable depuis. La LF 2026 l’augmente
+à 2 000 e. Les dons excédant le plafond
+peuvent être renseignés dans une autre ca-
+tégorie de dons donnant droit à une réduc-
+tion de 66 %, elle-même plafonnée, avec
+d’autres réductions, à 20 % du revenu im-
+posable. Cette modification a donc un effet
+budgétaire limité que l’on estime à 2 Me. 5
+5. Dans la plupart des cas, une personne qui trans-
+férerait le maximum de la réduction possible des dons
+de droit commun vers les « dons Coluche » ne paie-
+rait ainsi que 90 e en moins d’impôts. Nous avons
+utilisé les réactions observées lors de la hausse du
+plafond en 2020 pour estimer le montant de dons
+qui pourrait changer de catégorie à la suite de cette
+mesure. En particulier, nous estimons pour les per-
+sonnes au plafond avant la réforme, la part de celles
+qui se situeraient au nouveau plafond après la réforme,
+et nous répartissons les autres personnes dans les
+différents montants compris entre les deux. Il est à
+noter que le montant déclaré peut dépasser le pla-
+fond, et le surplus est alors automatiquement compté
+comme un don donnant droit à une réduction de 66 %
+pour le calcul de l’impôt. La forte proportion de foyers
+renseignant exactement le plafond et ajoutant des
+dons dans la case de don plus générale laisse penser
+Perspectives budgétaires | 37
+
+=== p.8 ===
+La hausse du taux de CSG sur
+certains revenus du capital
+La LFSS 2026 prévoit une augmenta-
+tion de 1,4 point de pourcentage du taux
+de CSG sur les revenus du capital, qui
+passe de 9,2 % à 10,6 %. Cependant, cer-
+tains revenus du capital sont exclus de
+cette hausse et restent à l’ancien taux.
+Il s’agit notamment des revenus prove-
+nant des livrets logement réglementés, des
+assurances-vie, des revenus fonciers, des
+rentes viagères et des plus-values immo-
+bilières. Cette hausse porte sur la partie
+non-déductible de la CSG, et n’a donc pas
+d’influence mécanique sur le montant d’IR.
+Nous estimons le rendement de la hausse
+du taux de CSG sur certains revenus du
+capital à environ 1 Mde. Cumulée avec
+la CDHR, cette hausse de CSG explique
+les perdants (au seuil de 5 e par mois) du
+budget dans la partie supérieure de la dis-
+tribution (figure 2.3).
+La reconduction de la CDHR
+La CDHR est une imposition de certains
+ménages à hauts revenus, s’ajoutant à l’IR,
+créée par la LF 2025 au départ pour une
+seule année. Elle vise à assurer que les
+contribuables dépassant un certain seuil de
+revenu fiscal de référence (RFR) 6 paient
+en IR un minimum de 20 % de leur RFR.
+Les revenus dits exceptionnels et les prélè-
+vements associés ne sont pris en compte
+que pour un quart de leur valeur. La LF
+2026 l’a reconduite alors que, sans men-
+tion explicite, elle ne l’aurait pas été; nous
+la comptons donc parmi les mesures at-
+tribuables au budget 2026. Le fonction-
+nement de cette contribution différentielle
+est expliqué dans DARRICAU et al., 2025,
+qui souligne que des réponses compor-
+qu’un grand nombre de contribuables font la sépara-
+tion d’eux-mêmes.
+6. RFR ajusté supérieur à 250 000 e s’ils sont
+seuls ou 500 000 e s’ils sont en couple et soumis
+à une imposition jointe (mariés ou pacsés)
+tementales probables devraient conduire
+à un rendement bien inférieur au rende-
+ment mécanique. De fait, l’acompte versé
+en décembre et qui devait correspondre à
+95 % du montant de la CDHR s’est élevé
+à moins de 400 Me selon le document
+budgétaire de la situation mensuelle de
+l’Etat de décembre 2025 (SERVICE DE LA
+FONCTION FINANCIÈRE ET COMPTABLE DE
+L’ETAT, 2026), bien en-dessous du rende-
+ment mécanique calculé.
+Le rendement incertain de
+la contribution différentielle
+Un an et demi après sa mise en place,
+le rendement de la CDHR est toujours très
+incertain. L’an dernier, l’IPP proposait un
+rendement mécanique de la CDHR d’envi-
+ron 1,2 Mde pour 2025, tout en insistant
+sur l’incertitude du chiffrage, les probables
+réponses comportementales associées à
+cette nouvelle imposition et le fait que le
+rendement serait probablement inférieur.
+En actualisant les données (déclarations
+d’impôt sur le revenu de 2023), l’estimation
+de rendement mécanique monte à 1,8 Mde
+pour 2026, plus cohérente avec la prévi-
+sion initiale du gouvernement pour 2025
+de 2 Mde. Les chiffrages effectués par
+l’IPP ne peuvent cependant pas prendre
+en compte la notion de revenus exception-
+nels 7, dont l’impact peut être important. Le
+calcul précis des revenus exceptionnels ne
+pourra être effectué qu’à partir des déclara-
+tions des revenus de 2025, qui contiendront
+des informations spécifiques sur ce point.
+Sous l’hypothèse, vraisemblablement très
+haute, que l’ensemble des plus-values im-
+posées au prélèvement forfaitaire unique
+(PFU) soient considérées comme des reve-
+7. Les revenus qui ne sont pas susceptibles d’être
+recueillis annuellement et dont le montant dépasse la
+moyenne des revenus nets des trois dernières années
+sont considérés exceptionnels. Dans ce cas, seuls un
+quart de leur montant et de l’impôt correspondant sont
+pris en compte dans le calcul.
+38 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.9 ===
+Budget et niveau de vie des ménages
+nus exceptionnels (donc retenues pour un
+quart de leur valeur dans l’assiette fiscale),
+nous calculons un rendement mécanique
+de 1,2 Mde pour 2026. Même en tenant
+compte de ce point, le faible rendement de
+l’acompte versé en décembre 2025, d’en-
+viron 400 Me, témoigne d’autres méca-
+nismes à l’œuvre. Pour le budget 2026, le
+gouvernement a revu son estimation à la
+baisse par rapport à 2025 et prévoit un ren-
+dement de 700 Me.
+Le faible acompte pourrait s’expliquer en
+partie par des erreurs de calcul d’une par-
+tie des contribuables concernés, qui ne
+disposaient pas encore de l’intégralité de
+leurs revenus au moment du versement et
+n’avaient encore jamais eu à effectuer ce
+calcul auparavant. Dans ce cas, le calcul
+du montant final de la CDHR par l’adminis-
+tration fiscale devrait conduire à une rééva-
+luation à la hausse de ce rendement. Ce-
+pendant, les foyers fiscaux sont fortement
+incités à ne pas sous-évaluer leur acompte
+de CDHR, en raison d’une surtaxe de 20 %
+en cas d’écart trop important avec le mon-
+tant finalement dû.
+Une autre explication possible tient aux
+réponses comportementales des foyers fis-
+caux pour optimiser leur situation fiscale.
+Des études précédentes ont montré que
+les revenus du capital pouvaient varier très
+fortement à la suite d’une modification de
+leur taux d’imposition (BACH et al., 2019).
+Ces réponses comportementales peuvent
+être de nature très diverses. Nous propo-
+sons deux exemples illustratifs de méca-
+nismes possibles.
+Premier exemple : une baisse
+des revenus faiblement imposés
+Afin d’échapper à la CDHR, les foyers
+fiscaux les plus aisés peuvent choisir de
+se verser moins de revenus faiblement im-
+posés au cours de l’année considérée. On
+peut, par exemple, penser à des foyers fis-
+caux qui repousseraient la réalisation de
+plus-values en attendant un environnement
+fiscal plus favorable, ou qui laisseraient des
+dividendes au sein de holdings patrimo-
+niales.
+Méthodologie et résultats.
+Nous utili-
+sons le calculateur OpenFisca-France pour
+calculer l’IR et la CDHR à partir des dé-
+clarations fiscales 8. Pour simuler une ré-
+ponse comportementale fondée sur une
+baisse des revenus imposés, nous com-
+mençons par nous focaliser sur les foyers
+fiscaux qui devraient payer la CDHR. Nous
+nous concentrons sur la principale catégo-
+rie de revenus faiblement imposés parmi
+ceux susceptibles de conduire à un faible
+taux d’imposition et donc au paiement de
+la CDHR : les revenus imposés au PFU 9.
+Pour chaque foyer fiscal redevable de la
+CDHR, nous calculons le montant de re-
+venus au PFU auquel il devrait renoncer
+pour cesser d’y être assujetti, soit car son
+taux d’imposition atteindrait 20 %, soit car
+il passerait sous le seuil d’imposition. Nous
+calibrons ensuite cette baisse de revenus
+pour atteindre les 700 Me de recettes pré-
+vues par le gouvernement pour 2026 10.
+Afin d’expliquer cette baisse du rende-
+ment de la CDHR uniquement par une
+8. Nous utilisons les déclarations fiscales de 2023.
+Nous vieillissons les montants obtenus pour prendre
+en compte l’inflation, la croissance économique et
+la hausse de la population depuis cette date. Pour
+accélérer ces calculs, nous nous servons d’openfisca-
+morph, code développé par l’équipe Leximpact de
+l’Assemblée Nationale que nous remercions. Les dé-
+clarations fiscales de 2024 sont disponibles depuis
+mai 2026, mais sont potentiellement affectées par des
+effets d’anticipation de la réforme.
+9. Nous ajoutons également les revenus imposés
+au prélèvement forfaitaire libératoire (PFL) à ceux au
+PFU. En simulant une suppression complète de ces
+revenus, les recettes de CDHR n’atteignent qu’environ
+500 Me, hors réponse comportementale.
+10. Nous utilisons comme base de calcul le ren-
+dement mécanique provenant de notre modèle
+(1,8 Mde). Comme expliqué précédemment, ce mon-
+tant est surévalué en raison de l’absence d’informa-
+tions sur les revenus exceptionnels. Ainsi, avec les
+informations complètes, la baisse de revenus néces-
+saire pour expliquer des recettes de 700 Me serait
+moins importante.
+Perspectives budgétaires | 39
+
+=== p.10 ===
+baisse uniforme des revenus au PFU, il
+faudrait simuler une baisse de ces revenus
+de 60 % parmi les contribuables à la CDHR.
+Cela correspondrait à une forte baisse de
+recettes (hors CDHR) pour l’Etat d’envi-
+ron 7,5 Mde, qui ne serait donc que par-
+tiellement compensée par les 700 Me de
+recettes supplémentaires de CDHR. Une
+telle ampleur semble peu plausible, mais
+une partie significative de l’écart pourrait
+s’expliquer par un mécanisme de ce type 11.
+Un point important est que cette analyse
+est réalisée sur le court terme : a priori,
+les revenus non réalisés sont reportés et
+devraient donc être imposés au moment
+où ils seront finalement perçus. Un report
+peut cependant rester plus avantageux si
+le retrait correspondant est effectué à un
+moment où le taux d’imposition marginal,
+CDHR comprise, est plus faible.
+Deuxième exemple : une
+substitution vers des revenus
+imposés différemment
+Le caractère différentiel de la CDHR peut
+rendre intéressant certains comportements
+contre-intuitifs, comme transformer des re-
+venus faiblement imposés à l’IR en revenus
+plus fortement imposés à l’IR mais soumis
+à des prélèvements moindres par ailleurs.
+On peut penser, par exemple, à un di-
+rigeant d’entreprise individuelle qui dimi-
+nuerait ses dividendes et augmenterait son
+salaire. En l’absence de CDHR, cet arbi-
+trage n’est jamais avantageux pour des
+hauts revenus : leurs salaires sont imposés
+au barème de l’IR, avec un taux marginal
+souvent égal à 45 %, tandis que les reve-
+nus soumis au PFU sont imposés à 12,8 %
+au titre de l’IR. Cependant, dans le cas
+d’un foyer fiscal assujetti à la CDHR, ces
+deux types de revenus supportent le même
+taux marginal d’imposition cumulé (IR +
+11. Les dividendes perçus par les ménages ont
+ainsi baissés de 10 Mde en 2025, contre une hausse
+de 14 Mde en 2024 dans les comptes nationaux.
+CDHR), soit 20% du revenu fiscal de ré-
+férence (RFR) 12. Les autres prélèvements
+obligatoires, les cotisations employeurs, sa-
+lariales non-contributives (c’est-à-dire hors
+chômage et retraite qui donnent accès à
+des droits et s’apparentent donc à une
+forme de salaire différé) et les contributions
+sociales sont typiquement autour de 33 %
+pour les salaires 13. Pour les revenus au
+PFU, il faut tenir compte de l’impôt sur les
+sociétés au taux de 25 %, puis des prélè-
+vements sociaux sur les revenus du capital
+de 17,2 %, soit un taux de 38,35 % 14. Les
+prélèvements hors IR peuvent donc être
+inférieurs lorsque le revenu est versé sous
+forme de salaire. Comme l’impôt sur le re-
+venu reste équivalent du fait de la CDHR, il
+peut alors être fiscalement avantageux de
+transformer, par exemple, des dividendes
+en salaire.
+Notons que si l’écart entre le rendement
+mécanique et le rendement observé s’ex-
+pliquait uniquement par ce type de modifi-
+cations de revenus (et non par des reports
+de versements), les recettes publiques res-
+teraient globalement supérieures à leur ni-
+veau d’avant la CDHR. En effet, si ces modi-
+fications réduisaient les recettes publiques
+hors CDHR, les foyers fiscaux auraient déjà
+eu intérêt à les réaliser avant l’introduction
+de la contribution.
+Que nous apprennent ces
+exemples?
+Chacun des mécanismes présentés est
+utile comme expérience de pensée, mais
+ne peut à lui seul résumer les réponses
+comportementales qui ont pu avoir lieu :
+tous les contribuables n’ont pas la pos-
+12. Tant que le montant de CDHR dû reste positif.
+13. Ce taux peut varier selon le salaire, la profes-
+sion, la taille et la localisation de l’entreprise. Il est pris
+ici à titre illustratif : il correspond à une personne sala-
+riée dans le secteur privé avec un salaire ne donnant
+droit à aucun allègement de cotisations employeur.
+14. Les prélèvements sociaux s’appuient sur les
+revenus distribués après impôt sur les sociétés.
+40 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.11 ===
+Budget et niveau de vie des ménages
+sibilité ou l’intérêt de convertir des divi-
+dendes en salaire ou de reporter des re-
+venus au PFU. L’ampleur des ajustements
+nécessaires pour expliquer un rendement
+de 700 Me rend improbable la prévalence
+d’un unique mécanisme. Il est plus vrai-
+semblable que plusieurs effets se com-
+binent : report de certains revenus, trans-
+formations ponctuelles de dividendes en
+salaire, autres évolutions des revenus des
+contribuables de la CDHR, en plus de la
+surestimation des chiffrages mécaniques
+faute de pouvoir prendre en compte les re-
+venus exceptionnels.
+Ces mécanismes soulignent au moins
+deux points importants. D’une part, une
+évaluation précise de la CDHR ne pourra
+se faire correctement qu’une fois les don-
+nées de déclaration fiscale pour 2025 dis-
+ponibles. D’autre part, l’efficacité du dispo-
+sitif ne se mesure pas au seul montant de
+CDHR collecté : les réponses comporte-
+mentales à la CDHR ont un effet sur les
+bases d’autres prélèvements obligatoires,
+qu’il faudrait prendre en compte pour ap-
+précier l’évolution des recettes publiques
+totales.
+“Les réponses
+comportementales à la CDHR
+ont des effets sur d’autres
+bases taxables.
+Hétérogénéité des réponses.
+Les contri-
+buables redevables de la CDHR forment
+une population très spécifique, mais for-
+tement hétérogène. Pour l’illustrer, nous
+répartissons ces contribuables en cin-
+quièmes de RFR par part, pour lesquels
+nous montrons la décomposition du RFR
+dans la figure 2.5.
+La part des plus-values au PFU aug-
+mente avec le RFR par part, passant de
+22 % à 41 % du RFR, tandis que la part des
+FIGURE 2.5 – Décomposition du revenu fiscal de référence des contribuables de la CDHR
+Lecture : En moyenne, les foyers fiscaux du dernier cinquième de RFR par part déclarent 2,2 Me de plus-values imposées au PFU.
+Note : Cette figure montre la composition moyenne du RFR des contribuables de la CDHR classés par cinquième de RFR par part. Ces
+parts correspondent aux parts fiscales utilisées pour le calcul de l’IR.
+Sources : Openfisca-France-Data 3.8.6, POTE 2023.
+Perspectives budgétaires | 41
+
+=== p.12 ===
+autres revenus au PFU reste relativement
+stable, juste en dessous de 50 %. Parmi
+ces très hauts revenus, l’hétérogénéité des
+RFR est considérable. Par exemple, le RFR
+moyen du dernier cinquième est près de
+quatre fois supérieur à celui du quatrième.
+Ainsi, 12 % des assujettis à la CDHR ac-
+quittent à eux seuls la moitié du montant
+total de la contribution d’après nos simu-
+lations. Le mécanisme de baisse des re-
+venus au PFU simulé plus haut est donc
+plus important pour les foyers fiscaux du
+dernier cinquième. Dans notre simulation,
+ils baissent de 74 % leurs revenus au PFU,
+contre 25 % pour les foyers du premier cin-
+quième. En effet, ces derniers peuvent at-
+teindre plus facilement le seuil limite de
+la CDHR en baissant leurs revenus. On
+peut également s’attendre à ce que les plus
+aisés disposent de davantage de marges
+pour repousser temporairement une partie
+de leurs revenus.
+Quelle évolution des réponses entre
+2025 et 2026?
+Nous avons effectué les
+simulations précédentes à partir de la prévi-
+sion de rendement du gouvernement pour
+2026, de 700 Me. Cette prévision est as-
+sez éloignée de l’acompte de CDHR sur
+les revenus de 2025, et on peut en ef-
+fet s’attendre à ce que les réponses com-
+portementales soient différentes entre ces
+deux années (en plus d’éventuelles sous-
+estimations de l’acompte à verser par les
+contribuables en 2025). D’une part, ces ré-
+ponses pourraient être plus faibles en 2026
+qu’en 2025. La pérennisation de la me-
+sure rend plus compliqué le report de cer-
+tains revenus : certaines plus-values pou-
+vaient être repoussées d’un an, alors qu’il
+faut désormais les différer davantage. La
+possibilité d’anticiper certains revenus, qui
+pouvaient être versés de façon anticipée
+en décembre 2024 pour éviter une année
+avec CDHR, est moins facilement mobili-
+sable : certains foyers fiscaux non assujet-
+tis à la CDHR en 2025 mais risquant de
+l’être en 2026 ont cependant pu recourir à
+ce type d’anticipation, mais de manière pro-
+bablement bien plus limitée. D’autre part,
+certains facteurs pourraient favoriser des
+réponses comportementales plus impor-
+tantes : le temps d’adaptation est plus long,
+et le fonctionnement du dispositif est mieux
+connu, notamment le mécanisme de prise
+en compte partiel des revenus exception-
+nels, dont la définition restait encore floue
+jusqu’à la fin de l’année dernière.
+Une incertitude importante persiste donc
+quant au rendement de 2026, d’autant
+plus que la nature des réponses compor-
+tementales conditionne la facilité de les
+reconduire sur plusieurs années : il est
+plus difficile de repousser des revenus s’ils
+l’ont déjà été (prolongement du premier
+exemple de mécanisme) que de conver-
+tir des dividendes en salaire après l’avoir
+fait une année (prolongement du deuxième
+exemple de mécanisme).
+Les premières informations déjà dispo-
+nibles sur ces réponses comportementales
+concernent de possibles anticipations de
+revenus. En simulant une éligibilité théo-
+rique à la CDHR à partir des déclarations
+de revenus de 2023 et 2024, on observe
+que le nombre de foyers théoriquement re-
+devables augmente bien plus vite entre ces
+deux années (+27 %) que le nombre de
+foyers situés au-dessus du seuil de revenu
+mais non soumis à cette CDHR théorique
+(+12 %). Cela suggère que certains reve-
+nus faiblement imposés ont pu être antici-
+pés et réalisés en 2024 plutôt qu’en 2025
+afin d’éviter la CDHR. Un tel mouvement
+n’a probablement pas pu être reconduit
+avec la même ampleur entre 2024 et 2025.
+Les effets différenciés
+selon le type de ménage et
+le sexe
+La première section de ce chapitre a pré-
+senté les effets des différentes réformes du
+42 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.13 ===
+Budget et niveau de vie des ménages
+budget 2026 selon la position dans l’échelle
+des niveaux de vie et a montré qu’elles ont,
+en moyenne, des effets limités. Mais cette
+vue d’ensemble peut masquer des dispa-
+rités : une mesure cible souvent certaines
+catégories de ménage ou de revenu plu-
+tôt qu’un niveau de vie. C’est le cas, par
+exemple, du report de la majoration des
+allocations familiales, qui ne touche que
+les familles de plus de deux enfants. Il est
+donc utile d’analyser l’hétérogénéité des
+impacts selon différentes caractéristiques
+socio-démographiques, notamment le sexe,
+la composition du ménage et le nombre
+d’enfants 15. Cette approche éclaire en par-
+ticulier deux questions : l’impact des ré-
+formes sur le niveau de vie des enfants,
+15. À noter que nous utilisons un traitement particu-
+lier pour les enfants en garde alternée, qui sont attri-
+bués de manière aléatoire à l’un des deux ménages
+dont ils font partie pour éviter des doubles comptes.
+et leurs effets sur les inégalités femmes-
+hommes, tant entre ménages qu’au sein
+des couples. Contrairement à la première
+section, les effets du budget sont ici étu-
+diés à pleine montée en charge, c’est-à-
+dire avec la réforme de la prime d’activité
+en année pleine et le report à 18 ans de la
+majoration des allocations familiales.
+Dans les deux premières parties, nous
+analysons les effets différenciés selon deux
+types de ménage :
+– le premier distingue les couples et les
+personnes seules selon leur nombre
+d’enfants : aucun, un, deux, trois ou
+plus (soit huit catégories);
+– le second met l’accent sur le sexe, en
+distinguant les couples, les femmes
+seules et les hommes seuls, selon la
+présence ou non d’enfants (soit six ca-
+tégories).
+FIGURE 2.6 – Répartition des ménages-enfants dans la distribution des revenus
+Lecture : Le 50e centième de niveau de vie est composé à 22 % de personnes dans une famille composée d’un couple sans enfants,
+18 % avec 1 enfant, 23 % avec 2 enfants, 13 % avec 3 enfants et plus, 19 % de personnes seules, 3 % avec 1 enfant, 2 % avec 2 enfants
+et 1 % avec 3 enfants et plus.
+Note : Cette figure montre, pour chaque centième de niveau de vie initial, le pourcentage de personnes présentes dans chaque type de
+ménage.
+Source : Taxipp 2.4.2.
+Perspectives budgétaires | 43
+
+=== p.14 ===
+Dans la dernière partie, nous analysons
+les effets différenciés des deux réformes de
+prestations sociales au sein des couples,
+dans l’esprit de la circulaire du 23 août
+2012, qui impose une analyse genrée dans
+les études d’impact préalables aux nou-
+velles mesures proposées.
+L’effet des réformes différencié
+par type de ménage selon le
+nombre d’enfants
+Afin de mieux comprendre les écarts d’ef-
+fet du budget 2026 selon la présence et le
+nombre d’enfants dans le ménage, il est ins-
+tructif d’examiner la répartition de ces diffé-
+rentes configurations familiales le long de
+la distribution des niveaux de vie. Comme
+le montre la figure 2.6, cette répartition est
+loin d’être uniforme. La part des individus
+vivant dans un ménage comprenant deux
+adultes croît fortement le long de la distri-
+bution des revenus, passant d’environ 38 %
+en moyenne pour les 5 % des individus les
+plus modestes à environ 86 % tout en haut
+de la distribution, contre 72 % dans la po-
+pulation totale 16. À l’inverse, la part des
+individus vivant dans des ménages avec
+trois enfants ou plus diminue le long de la
+distribution des revenus, passant d’environ
+26 % en moyenne vers le 10e centième à
+environ 12 % tout en haut de la distribution.
+Font exception les individus ayant un ni-
+veau de vie inférieur à 1 000 e par mois :
+les prestations sociales liées à la présence
+16. Pour comprendre cette répartition, il faut rappe-
+ler que le niveau de vie tient compte des économies
+d’échelle au sein des ménages. À revenu individuel
+identique, un ménage composé de deux adultes dis-
+pose ainsi d’un niveau de vie supérieur d’environ un
+tiers à celui d’un adulte seul.
+FIGURE 2.7 – Les effets du budget par type de ménage-enfant
+Lecture : Les mesures du budget 2026 augmentent le niveau de vie moyen des parents seuls avec un enfant de 0,4 %, mais les individus
+de cette catégorie de ménage ne représentent que 4 % de la population totale. Les couples sans enfants perdent en moyenne 0,05 %
+de leur niveau de vie mais représentent 23 % de la population totale.
+Note : Pour chaque type de ménage, on calcule la variation moyenne du niveau de vie par rapport au niveau de vie initial due aux
+mesures du budget 2026. La colonne de droite donne la part dans la population de chaque catégorie de ménage.
+Source : Taxipp 2.4.2.
+44 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.15 ===
+Budget et niveau de vie des ménages
+d’enfants peuvent soutenir le niveau de vie
+malgré de très faibles revenus.
+La figure 2.7 présente l’effet moyen des
+mesures du budget 2026 selon le type de
+ménage. Les plus touchés sont les mé-
+nages avec trois enfants ou plus, qui re-
+présentent 14 % de la population et sont
+davantage représentés en bas de la dis-
+tribution des revenus. Ils enregistrent une
+baisse moyenne de niveau de vie de 0,4 %
+pour les couples et de 1,3 % pour les fa-
+milles monoparentales, principalement due
+à la baisse des allocations familiales. Les
+personnes seules sont en moyenne ga-
+gnantes, à l’exception de celles ayant trois
+enfants ou plus. En revanche, les couples
+sans enfants ou avec deux enfants, repré-
+sentant respectivement 23 % et 19 % de
+la population, subissent de légères pertes
+moyennes (0,05 %). Cela s’explique par le
+fait que les couples, généralement plus ai-
+sés que les personnes seules, sont plus
+concernés par la hausse de la CSG sur cer-
+tains revenus du capital et éventuellement
+par la CDHR, tandis que les personnes
+seules bénéficient davantage de la hausse
+de la prime d’activité.
+“Les ménages avec trois
+enfants et plus, davantage
+représentés en bas de la
+distribution des revenus,
+subissent la baisse de niveau
+de vie la plus marquée.
+L’effet des réformes différencié
+par type de ménage selon le sexe
+de l’adulte
+La figure 2.8 présente les effets du bud-
+get 2026 en distinguant, parmi les per-
+sonnes seules, les femmes des hommes.
+FIGURE 2.8 – Les effets du budget par type de ménage genré
+Lecture : Les hommes seuls sans enfants représentent 9 % de la population totale et gagnent en moyenne 0,1 % de niveau de vie.
+Note : Pour chaque type de ménage, on calcule la variation moyenne du niveau de vie par rapport au niveau de vie initial due aux
+mesures du budget 2026. La colonne de droite donne la part dans la population de chaque catégorie de ménage.
+Source : Taxipp 2.4.2.
+Perspectives budgétaires | 45
+
+=== p.16 ===
+Les femmes seules avec enfants ainsi que
+les couples, avec et sans enfants, appa-
+raissent comme perdants avec des baisses
+moyennes de niveau de vie de respecti-
+vement 0,09 %, 0,08 % et 0,05 %, contrai-
+rement aux hommes seuls avec enfants
+(+0,06 %). Cet impact relatif plus impor-
+tant peut s’expliquer par un nombre moyen
+d’enfants supérieur (1,58 pour les femmes
+contre 1,41 pour les hommes seuls avec
+enfant) et donc une baisse plus prononcée
+des montants d’allocations familiales. Par
+ailleurs, les familles monoparentales dont
+le parent est une femme sont trois fois plus
+nombreuses que celles dont le parent est
+un homme, et sont davantage représentées
+dans la partie inférieure de la distribution
+des revenus.
+Pour approfondir l’analyse et identifier les
+types de ménage les plus concernés par
+les deux réformes de prestations sociales
+(prime d’activité et allocations familiales),
+nous examinons séparément l’impact de
+chacune d’elles sur le niveau de vie dans
+la figure 2.9. Nous retenons, pour chaque
+réforme, les 1 % des ménages les plus af-
+fectés (positivement ou négativement), que
+nous comparons à l’ensemble de la popu-
+lation 17. Parmi les principaux bénéficiaires
+de la hausse de la prime d’activité, les
+personnes seules sans enfants sont lar-
+17. On classe l’ensemble des ménages selon l’effet
+de la réforme sur leur niveau de vie et on conserve
+les 1 % les plus affectés : positivement pour la ré-
+forme de la prime d’activité et négativement pour la
+réforme des allocations familiales. On considère en-
+suite l’ensemble des personnes appartenant à ces
+ménages et on examine le type de ménage auquel ils
+appartiennent.
+FIGURE 2.9 – Quels sont les types de ménage genré les plus concernés par les réformes des
+prestations sociales?
+Lecture : Parmi les 1 % de la population totale qui gagnent le plus suite à la réforme de la prime d’activité, 25 % sont des couples avec
+enfants, contre 49 % au sein de la population.
+Note : Pour chaque ménage, on calcule la variation moyenne du niveau de vie par rapport au niveau de vie initial due aux mesures du
+budget 2026. On conserve ensuite le centième supérieur des personnes les plus affectées parmi l’ensemble de la population (le « top
+1 % ») et examinons la composition de ce groupe selon la catégorie de ménage.
+Sources : Taxipp 2.4.2.
+46 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.17 ===
+Budget et niveau de vie des ménages
+gement surreprésentées : elles constituent
+58 % des bénéficiaires les plus gagnants,
+contre 20 % dans l’ensemble de la popu-
+lation. Parmi les principaux perdants de
+la réforme des allocations familiales, 64 %
+sont des couples avec enfants, 31 % des
+femmes seules avec enfants et 5 % des
+hommes seuls avec enfants, alors que ces
+deux dernières catégories ne représentent
+respectivement que 6 % et 2 % de la po-
+pulation. Les deux réformes semblent pe-
+ser davantage sur les ménages avec en-
+fants, même si l’effet du congé parental
+supplémentaire, mesure également desti-
+née à ces ménages, n’est pas modélisé
+ici. Les effets différenciés selon le sexe
+apparaissent plus nettement lorsque l’on
+examine la répartition des revenus au sein
+des couples, que nous examinons dans la
+partie suivante.
+“31 % des principaux perdants
+de la baisse des allocations
+familiales sont des femmes
+seules avec enfants, qui
+représentent seulement 11 %
+des ménages avec enfants.
+L’effet des réformes différencié
+par sexe au sein des couples
+Même lorsqu’elles semblent neutres du
+point de vue du sexe, les mesures fiscales
+peuvent produire des effets différenciés au
+sein d’un même ménage. La réforme du
+taux par défaut du prélèvement à la source
+de l’impôt sur le revenu, mise en place
+en septembre 2025, en fournit une illus-
+FIGURE 2.10 – Répartition des revenus au sein des couples
+Lecture : Au sein des couples appartenant au top 1 % de la distribution de niveau de vie, les hommes représentent en moyenne 67 %
+des revenus du ménage contre 33 % pour les femmes.
+Note : Cette figure montre, pour les couples de chaque centième de niveau de vie initial, le pourcentage moyen des revenus attribués aux
+hommes et aux femmes. La somme des revenus des hommes et des femmes n’atteint pas tout à fait 100 % des revenus individualisables,
+car certains de ces revenus proviennent de personnes à charge que nous ne prenons pas en compte dans ce graphique.
+Source : Taxipp 2.4.2.
+Perspectives budgétaires | 47
+
+=== p.18 ===
+tration. Pour les couples, elle substitue au
+taux « personnalisé », calculé à partir du
+revenu du foyer fiscal et identique pour cha-
+cun de ses membres, un taux « individua-
+lisé », propre à chaque membre et adapté
+à ses revenus. Cette réforme bénéficie au
+membre le moins rémunéré du couple, le
+plus souvent une femme, produisant ainsi
+des effets genrés au sein d’un même foyer
+fiscal (DEBOISSY et CHATAIN, 2025).
+Pour analyser la répartition des res-
+sources au sein des couples, il est néces-
+saire d’individualiser une partie des reve-
+nus du ménage. En pratique, les revenus
+« attribuables » à un membre du couple à
+partir des informations disponibles sont les
+revenus d’activité et les pensions de retraite
+et de chômage 18. La répartition de ces
+revenus au sein des couples est présen-
+tée dans la figure 2.10. Dans l’ensemble
+des centièmes, les hommes disposent en
+moyenne d’un revenu individualisable plus
+important que les femmes. Cet écart est
+particulièrement marqué entre le 10e et le
+20e centième, ainsi qu’au sommet de la
+distribution des niveaux de vie, où la mono-
+activité au sein des couples est plus cou-
+rante, ce qui est cohérent avec la littérature
+existante (MORIN, 2014).
+À partir de cette individualisation des
+revenus au sein du couple, nous appli-
+quons des règles de répartition des varia-
+tions de revenus attribuables à chacun des
+18. Nous utilisons les différences de revenus entre
+hommes et femmes observées dans les données mo-
+bilisées avant vieillissement.
+FIGURE 2.11 – Effets de la réforme de la prime d’activité au sein des couples
+Lecture : Au sein du 20e centième de niveau de vie, correspondant à un niveau de vie moyen d’environ 1 400 e par mois, l’effet de la
+réforme de la prime d’activité représente en moyenne 0,3 % du niveau de vie pour les femmes en couple, contre 0,9 % pour les hommes
+en couple.
+Note : Cette figure montre l’effet de la réforme au niveau individuel au sein des couples de chaque centième de niveau de vie initial
+calculé sur l’ensemble de la population. Il n’y a ainsi pas le même nombre de personnes dans chaque centième, car la répartition des
+couples est différente de celles des individus. Les revenus sont individualisés au sein du couple en attribuant la hausse de la bonification
+de prime d’activité à l’individu pour lequel elle est calculée.
+Source : Taxipp 2.4.2.
+48 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.19 ===
+Budget et niveau de vie des ménages
+membres du couple pour les réformes de
+prestations sociales du budget 2026. Faute
+d’informations nécessaires pour individua-
+liser les revenus du capital, l’analyse intra-
+couple ne peut pas porter sur les effets de
+la hausse de la CSG ou de la reconduction
+de la CDHR.
+En ce qui concerne l’augmentation de
+la bonification maximale de la prime d’ac-
+tivité, nous utilisons directement son cal-
+cul, réalisé au niveau individuel. Le résultat
+de cette différenciation est visible dans la
+figure 2.11. Celle-ci montre, au sein des
+couples, la variation individuelle moyenne
+de la bonification de la prime d’activité en
+pourcentage du niveau de vie, différenciée
+par sexe. Pour les niveaux de vie où se
+concentrent les bénéficiaires de la prime
+d’activité, les deux membres du couple tra-
+vaillent rarement à temps plein, et c’est gé-
+néralement l’homme qui se trouve dans la
+situation ouvrant droit à la bonification la
+plus élevée. Les hommes en couple bénéfi-
+cient donc en moyenne d’une hausse de la
+bonification de la prime d’activité nettement
+plus importante que leur conjointe, pouvant
+atteindre un écart d’un facteur trois entre
+le 13e et le 23e centième, correspondant à
+des niveaux de vie moyens compris entre
+1 200 e et 1 500 e par mois. Le gain moyen
+maximal est de 0,3 % pour les femmes en
+couple, atteint au 21e centième de niveau
+de vie, contre 1,1 % pour les hommes en
+couple, atteint au 16e centième. Cette va-
+FIGURE 2.12 – Effets de la réforme des allocations familiales au sein des couples avec 2
+enfants ou plus
+Lecture : Au sein des couples avec deux enfants ou plus du 10e centième de niveau de vie, correspondant à un niveau de vie moyen
+d’environ 1 100 e, la réforme des allocations familiales entraîne une baisse moyenne du niveau de vie de 0,6 % pour les hommes, contre
+1,6 % pour les femmes.
+Note : Cette figure montre l’effet de la réforme au niveau individuel au sein des couples avec deux enfants ou plus de chaque centième
+de niveau de vie initial calculé sur l’ensemble de la population. Il n’y a ainsi pas le même nombre de personnes dans chaque centième,
+car la répartition des couples est différente de celles des individus. Les revenus sont individualisés au sein du couple proportionnellement
+aux revenus individuels, tandis que les majorations d’allocation familiale sont réparties de manière inversement proportionnelle aux
+revenus. Lorsque l’un des deux membres du couple ne dispose d’aucun revenu, l’intégralité des prestations lui est attribuée.
+Sources : Taxipp 2.4.2.
+Perspectives budgétaires | 49
+
+=== p.20 ===
+riation affecte la répartition des revenus au
+sein des couples.
+Dans le cas de la hausse de l’âge de
+majoration des allocations familiales, nous
+répartissons la variation de manière inver-
+sement proportionnelle au revenu, comme
+dans COTTET et al., 2016. La figure 2.12
+présente les effets différenciés selon le
+sexe au sein des couples ayant deux en-
+fants ou plus. Les femmes sont plus affec-
+tées que les hommes tout au long de la
+distribution des niveaux de vie. L’écart est
+le plus marqué entre le 11e et le 19e cen-
+tième, correspondant à des niveaux de vie
+moyens compris entre 1 100 e et 1 400 e
+par mois, avec une perte moyenne trois
+fois plus élevée en part de niveau de vie
+pour les femmes que pour les hommes. La
+figure 2.9 avait montré que les ménages
+les plus affectés par la réforme des alloca-
+tions familiales sont les femmes seules et
+les couples. Cette analyse permet de préci-
+ser qu’au sein de ces couples, les femmes
+sont davantage affectées que les hommes.
+Au total, les hommes bénéficient en
+moyenne davantage de la hausse de la bo-
+nification de la prime d’activité, tandis que
+les femmes supportent davantage la baisse
+des allocations familiales. Il convient tou-
+tefois de rappeler que cette dernière vise
+à financer un congé de parentalité supplé-
+mentaire, a priori conçu pour réduire les
+inégalités femmes-hommes à l’arrivée d’un
+enfant en encourageant les pères à allon-
+ger leurs congés après la naissance de
+leurs enfants, et dont les effets, hors du
+champ de cette étude, pourraient contreba-
+lancer une partie de ces écarts.
+Conclusion et perspectives
+Ce chapitre a proposé un tour d’hori-
+zon des mesures socio-fiscales du bud-
+get 2026 concernant les ménages, en dé-
+crivant leurs effets budgétaires et redistri-
+butifs, ainsi que leurs impacts sur le ni-
+veau de vie des enfants et sur les inéga-
+lités femmes-hommes, afin d’éclairer les
+citoyens et les décideurs publics sur les
+arbitrages en jeu.
+La forte différence entre les effets de
+court terme et ceux après pleine montée
+en charge pour les prestations sociales,
+ainsi que les éventuels effets de bord des
+réponses comportementales à la CDHR
+sur d’autres recettes fiscales rappellent
+également qu’il existe plusieurs manières
+d’appréhender les effets d’un budget, et
+que cette étude n’en couvre qu’une partie.
+L’incertitude principale porte sur la CDHR,
+pour laquelle il n’existe actuellement pas de
+données permettant une évaluation com-
+plète. Les déclarations de revenus 2025
+permettront d’éclairer une partie des méca-
+nismes effectivement à l’œuvre.
+Auteurs
+Sylvain Duchesne est économiste junior
+à l’IPP.
+Bertrand
+Garbinti
+est
+enseignant-
+chercheur
+à
+l’ENSAE
+-
+CREST
+et
+responsable
+du
+pôle
+« Fiscalité
+des
+ménages » à l’IPP.
+Lola Josseran est économiste junior à
+l’IPP.
+50 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.21 ===
+Budget et niveau de vie des ménages
+Références
+L.
+BACH,
+A.
+BOZIO,
+B.
+FABRE,
+A.
+GUILLOUZOUIC
+et
+C.
+LEROY
+(2019).
+Quelles leçons tirer des réformes de la fis-
+calité des revenus du capital? Note IPP,
+no 46, Institut des politiques publiques.
+C. BONNET, L. DUBREUIL, B. GARBINTI et
+P. PORA (2025). « Gender Equality on the
+Labour Market in France : A Slow Conver-
+gence Hampered by Motherhood », Wor-
+king paper.
+A. BOZIO, S. COTTET, M. MONNET et L.
+ROMANELLO (mars 2016). Analyzing socio-
+fiscal policies through the lens of gender
+inequality. IPP Policy Brief, no 23, Institut
+des politiques publiques.
+S. COTTET, M. MONNET et L. ROMANELLO
+(2016). Analyser les mesures socio-fiscales
+sous l’angle des inégalités entre les
+femmes et les hommes. Rapport IPP, no 14,
+Institut des politiques publiques.
+H. DARRICAU, S. DUCHESNE, B. GARBINTI,
+L. JOSSERAN et F. REUTZEL. « Effets bud-
+gétaires et redistributifs des mesures socio-
+fiscales ». fr. In : Perspectives budgétaires
+2025. Perspectives budgétaires 1. La docu-
+mentation française, juin 2025.
+F. DEBOISSY et L. CHATAIN (2025). Le sexe
+de l’impôt : L’impact de la fiscalité sur l’éga-
+lité entre les femmes et les hommes, LGDJ.
+P.
+DUTRONC-POSTEL,
+B.
+FABRE,
+C.
+LALLEMAND, N. LOISEL et L. PUSCHNIG
+(2022). Effets redistributifs des mesures
+socio-fiscales du quinquennat 2017-2022 à
+destination des ménages. Note IPP, no 81,
+Institut des politiques publiques.
+B.
+FABRE,
+A.
+GUILLOUZOUIC,
+C.
+LALLEMAND et C. LEROY (2020). Budget
+2020 : quels effets pour les ménages?
+Note IPP, no 49, Institut des politiques
+publiques.
+IPP. documentation du modèle Taxipp.
+2026. URL : https : / / www . ipp . eu /
+methodes/taxipp-outils/.
+D. MEURS et P. PORA (2019). « Gender
+Equality on the Labour Market in France :
+A Slow Convergence Hampered by Mothe-
+rhood », Economics and Statistics, (510-
+511-512).
+T. MORIN (2014). « Écarts de revenus au
+sein des couples : trois femmes sur quatre
+gagnent moins que leur conjoint », Insee
+Première, (1492).
+D. ROY (2006). « L’argent du "ménage”,
+qui paie quoi? », Travail, genre et socié-
+tés, (15).
+SERVICE DE LA FONCTION FINANCIÈRE
+ET COMPTABLE DE L’ETAT. Situation men-
+suelle de l’Etat. Avr. 2026. URL : https:
+//www.economie.gouv.fr/files/files/
+directions _ services / dgfip / media -
+document / sme _ 2025 - 12 _ definitive .
+pdf.
+Perspectives budgétaires | 51
+
+=== p.22 ===
+Budget et niveau de vie des ménages
+Annexe 1 : répartition des hommes et des femmes dnas les
+centièmes de niveau de vie
+L’ensemble des données permettant de reproduire les figures de ce chapitre, annexes
+comprises, est disponible en téléchargement sur une page dédiée 19.
+FIGURE A2.1 – Répartition des hommes et des femmes dans la distribution des revenus
+Lecture : Le dernier centième de niveau de vie est composé de 48 % de femmes et 52 % d’hommes.
+Note : Pour les 5 % des individus les plus modestes, nous calculons une moyenne pour les cinq premiers centièmes. Le niveau de vie
+est égal au revenu disponible du ménage divisé par le nombre d’unités de consommation. Le niveau de vie est le même pour tous
+les individus d’un même ménage. Nous utilisons un niveau de vie que nous rendons comparable à celui de l’Insee, notamment en
+supprimant du revenu disponible les plus-values et les prélèvements associés.
+Source : TAXIPP 2.4.2.
+19. https ://www.ipp.eu/publication/effets-budgetaires-et-redistributifs-des-mesures-socio-fiscales/
+Perspectives budgétaires | Chap. 2 / A.1
+
+=== p.23 ===
+Annexe 2 : Effets des mesures socio-fiscales de la LF 2026
+après pleine montée en charge
+Les figures 2.1 et 2.3 présentent les effets à court terme observés en 2026, avec la majoration
+des allocations familiales est reportée à 14 ans et la hausse de la bonification de la prime
+d’activité n’entre en vigueur qu’en avril. Cette annexe présente les deux figures équivalentes
+après la pleine montée en charge des réformes de prestations sociales, avec la hausse de la
+bonification de la prime d’activité sur une année pleine et la majoration des allocations familiales
+reportée à 18 ans.
+FIGURE A2.2 – Effets redistributifs du budget 2026 après pleine montée en charge
+Lecture : Les mesures socio-fiscales de la LF 2026 après la pleine montée en charge conduisent à une baisse moyenne du niveau de
+vie de 0,5 % pour les 5 premiers centièmes, c’est-à-dire les personnes vivant dans un ménage avec un niveau de vie moyen de 500 e
+par mois.
+Note : Cette figure montre pour chaque centième de niveau de vie initial, le rapport entre la variation moyenne de niveau de vie
+des individus de ce centième et le niveau de vie initial moyen. Pour les 5 % des individus les plus modestes, nous calculons une
+moyenne pour les cinq premiers centièmes. Le niveau de vie est égal au revenu disponible du ménage divisé par le nombre d’unités de
+consommation. Le niveau de vie est le même pour tous les individus d’un même ménage. Nous utilisons un niveau de vie que nous
+rendons comparable à celui de l’Insee, notamment en supprimant du revenu disponible les plus-values et les prélèvements associés.
+Source : TAXIPP 2.4.2.
+Chap. 2 / A.2 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.24 ===
+Budget et niveau de vie des ménages
+FIGURE A2.3 – Gagnants-perdants du budget 2026 après pleine montée en charge
+Lecture : Au sein du 10e centième, correspondant aux personnes avec un niveau de vie moyen d’environ 1 100 e par mois, 14 % des
+ménages perdent au moins 5 e par mois et 6 % gagnent au moins 5 e par mois.
+Note : Cette figure montre pour chaque centième de niveau de vie initial, la part de personnes dont le niveau de vie est affecté de plus
+de 5 e par mois. Pour les 5 % des individus les plus modestes, nous calculons une moyenne pour les cinq premiers centièmes. Le
+niveau de vie est égal au revenu disponible du ménage divisé par le nombre d’unités de consommation. Le niveau de vie est le même
+pour tous les individus d’un même ménage.
+Source : TAXIPP 2.4.2.
+Perspectives budgétaires | Chap. 2 / A.3
+
+=== p.25 ===
+Annexe 3 : effets différenciés par type de ménage
+Répartition des ménages genrés dans la distribution des revenus
+FIGURE A2.4 – Répartition des ménages genrés dans la distribution des revenus
+Lecture : Le 50e centième de niveau de vie est composé à 22 % de personnes dans une famille composée d’un couple sans enfants,
+53 % avec enfants, 11 % de femme seule sans enfants, 4 % avec enfants, 8 % d’homme seul sans enfants et 2 % avec enfants.
+Note : Cette figure montre pour chaque centième de niveau de vie initial, le pourcentage de personnes présentes dans chaque type de
+ménage. Pour les 5 % des individus les plus modestes, nous calculons une moyenne pour les cinq premiers centièmes. Le niveau de vie
+est égal au revenu disponible du ménage divisé par le nombre d’unités de consommation. Le niveau de vie est le même pour tous les
+individus d’un même ménage.
+Source : TAXIPP 2.4.2.
+Chap. 2 / A.4 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.26 ===
+Budget et niveau de vie des ménages
+Effets du budget 2026 à court terme sur les types de ménage
+Les figures 2.7 et 2.8 présentent les effets après la pleine montée en charge des réformes
+de prestations sociales, avec la hausse de la bonification de la prime d’activité sur une année
+pleine et la majoration des allocations familiales reportée à 18 ans. Cette annexe présente les
+deux figures équivalentes pour 2026, avec la majoration des allocations familiales reportée à
+15 ans à partie d’avril et la hausse de la bonification de la prime d’activité qui n’entre en vigueur
+qu’en avril.
+FIGURE A2.5 – Les effets du budget sur les types de ménage-enfant pour 2026
+Lecture : Les mesures du budget 2026 augmentent le niveau de vie moyen des personnes seules avec un enfant de 0,2 %, mais les
+individus de cette catégorie de ménage ne représentent que 4 % de la population totale. Les couples sans enfants perdent en moyenne
+0,06 % de leur niveau de vie mais représentent 23 % de la population totale.
+Note : Pour chaque type de ménage, on calcule la variation moyenne du niveau de vie par rapport au niveau de vie initial due aux
+mesures du budget 2026. La colonne de droite donne la part dans la population de chaque catégorie de ménage.
+Source : TAXIPP 2.4.2.
+Perspectives budgétaires | Chap. 2 / A.5
+
+=== p.27 ===
+FIGURE A2.6 – Les effets du budget sur les types de ménage genré pour 2026
+Lecture : Les hommes seuls sans enfants représentent 9 % de la population totale et gagnent en moyenne 0,08 % de niveau de vie.
+Note : Pour chaque type de ménage, on calcule la variation moyenne du niveau de vie par rapport au niveau de vie initial due aux
+mesures du budget 2026. La colonne de droite donne la part dans la population de chaque catégorie de ménage.
+Source : TAXIPP 2.4.2.
+Chap. 2 / A.6 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.28 ===
+Budget et niveau de vie des ménages
+Types de ménage-enfant les plus concernés par les réformes de
+prestations sociales
+FIGURE A2.7 – Quels sont les type de ménage-enfant les plus concernés par les réformes des
+prestations sociales?
+Lecture : Parmi les 1 % de la population totale qui perdent le plus suite à la réforme des allocations familiales, 59 % sont des couples
+avec 3 enfants ou plus, contre 13 % au sein de la population.
+Note : Pour chaque ménage, on calcule la variation moyenne du niveau de vie par rapport au niveau de vie initial due aux mesures du
+budget 2026. On conserve ensuite le top 1 % des personnes les plus affectés parmi l’ensemble de la population et on regarde quelle est
+leur catégorie de ménage.
+Source : TAXIPP 2.4.2.
+Perspectives budgétaires | Chap. 2 / A.7
+
+=== p.29 ===
+Annexe 4 : effets différenciés par sexe
+Répartition des heures travaillés au sein des couples
+FIGURE A2.8 – Nombre moyen d’heures travaillés au sein des couples
+Lecture : Au sein des couples du 20e centième de niveau de vie, correspondant à un niveau de vie moyen d’environ 1 400 e par mois,
+les femmes travaillent en moyenne 293 heures par an contre 553 heures pour les hommes.
+Note : Cette figure montre le nombre d’heures travaillées au niveau individuel au sein des couples de chaque centième de niveau de vie
+initial. Il n’y a ainsi pas le même nombre de personnes dans chaque centième, car la répartition des couples est différente de celles des
+individus. Pour les 5 % des individus les plus modestes, nous calculons une moyenne pour les cinq premiers centièmes.
+Source : TAXIPP 2.4.2.
+Chap. 2 / A.8 |
+Perspectives budgétaires |
+juin 2026
+
+=== p.30 ===
+Budget et niveau de vie des ménages
+Différenciation des effets femmes-hommes après la pleine montée en
+charge des réformes de prestations sociales
+FIGURE A2.9 – Effets redistributifs de la réforme de la prime d’activité
+Lecture : Au sein du 20e centième de niveau de vie, correspondant à un niveau de vie moyen d’environ 1 400 e par mois, l’effet de la
+réforme de la prime d’activité représente en moyenne 0,2 % du niveau de vie pour les femmes, contre 0,5 % pour les hommes.
+Note : Cette figure montre quel est l’effet de la réforme au niveau individuel au sein de la population de chaque centième de niveau
+de vie initial. Pour les 5 % des individus les plus modestes, nous calculons une moyenne pour les cinq premiers centièmes. Pour les
+couples, les revenus sont individualisés en attribuant la hausse de la bonification de prime d’activité à l’individu pour qui elle est calculée.
+Source : TAXIPP 2.4.2.
+Perspectives budgétaires | Chap. 2 / A.9
+
+=== p.31 ===
+FIGURE A2.10 – Effets redistributifs de la réforme des allocations familiales
+Lecture : Au sein du 10e centième de niveau de vie, correspondant à un niveau de vie moyen d’environ 1 100 e par mois, la réforme des
+allocations familiales entraîne une baisse moyenne du niveau de vie de 0,1 % pour les hommes, contre 0,3 % pour les femmes.
+Note : Cette figure montre quel est l’effet de la réforme au niveau individuel au sein de la population de chaque centième de niveau
+de vie initial. Pour les 5 % des individus les plus modestes, nous calculons une moyenne pour les cinq premiers centièmes. Pour les
+couples, les revenus sont individualisés proportionnellement aux revenus individuels, tandis que les majorations d’allocation familiale
+sont réparties de manière inversement proportionnelle aux revenus. Lorsque l’un des deux membres du couple ne dispose d’aucun
+revenu, l’intégralité des prestations lui est attribuée.
+Source : TAXIPP 2.4.2.
+Chap. 2 / A.10 |
+Perspectives budgétaires |
+juin 2026

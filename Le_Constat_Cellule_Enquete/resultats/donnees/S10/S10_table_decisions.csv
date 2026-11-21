@@ -1,0 +1,8 @@
+decision;cout_source_MdF;annee;pts_PIB_annee_source;MdF_1985_bas;MdF_1985_central;MdF_1985_haut;pts_1985_bas;pts_1985_central;pts_1985_haut;convention;niveau
+1 ASA 1974;"6,7 (ASA entière) ; 2,6 (complément)";1978;0.296;0.00;0.00;5.65;0.000;0.000;0.115;"ABS [M] : suppression en 1979 et fusion de l'allocation spéciale en 1984 non établies sur pièce ; haut = complément d'attente 1978 en PC";D (prévision 1978)
+2 Loi 30/12/1975;1.215 annoncé;1977;0.061;0.00;0.00;3.00;0.000;0.000;0.061;"ABS (retraite à 60 ans, comptée par S01/S03) ; haut = PC";B (annonce, coût maximal)
+3 GR et préretraites;"56.2 rubrique B ; 29.0 GR";1985;0.590;14.18;29.00;46.20;0.288;0.590;0.940;"bas = GR démission (clé effectifs 1982) ; central = GR ; haut = rubrique B hors contrats de solidarité";B (constaté provisoire)
+4 Complément familial;3.7 net annoncé (2,6 initial);1978;0.163;5.65;8.03;8.03;0.115;0.163;0.163;PC;"B (annonce) ; constaté net introuvable"
+5 Généralisation 1978;non évalué à l'époque;1978;nan;0.00;0.00;9.62;0.000;0.000;0.196;haut = borne calculée (1,2 M pers. x santé/hab. 1985);E (borne)
+6 AF et AL 1981-1982;7.86 + 4.05;1982;0.313;10.17;15.41;15.41;0.207;0.313;0.313;PC (surestime 1985 : BMAF sous-indexée après 1982);B (annonce)
+7 Contrats de solidarité (39 h, 5e semaine : non chiffrés);> 10.0 constaté;1985;0.203;10.00;10.00;10.00;0.203;0.203;0.203;"constaté 1985 ; 39 h et 5e semaine hors prestations, introuvables";B (constaté provisoire)
