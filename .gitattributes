@@ -1,0 +1,5 @@
+# Aucune conversion de fins de ligne : les empreintes SHA-256 des manifestes portent sur les octets exacts.
+* -text
+Le_Constat_Cellule_Enquete/resultats/donnees/A11/sources/hatvp_agora_repertoire_opendata_20261120.json filter=lfs diff=lfs merge=lfs -text
+Le_Constat_Cellule_Enquete/resultats/donnees/A11/hatvp/hatvp_activites_toutes.csv filter=lfs diff=lfs merge=lfs -text
+Le_Constat_Cellule_Enquete/resultats/donnees/A10/sources/drees_barometre/barometre2000_2025_diff.csv filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,361 @@
+﻿annee;fonction;libelle;depense_MdEUR;part_pib_pct
+1995;TOTAL;Total;683.9695;56.349328
+1995;GF01;Services généraux des administrations publiques;101.6329;8.373101
+1995;GF02;Défense;30.0088;2.472297
+1995;GF03;Ordre et sécurité publics;18.1222;1.493011
+1995;GF04;Affaires économiques;78.2103;6.443413
+1995;GF05;Protection de l'environnement;6.8598;0.56515
+1995;GF06;Logements et équipements collectifs;12.9161;1.064102
+1995;GF07;Santé;84.1912;6.936154
+1995;GF08;Loisirs, culture et culte;13.2679;1.093086
+1995;GF09;Enseignement;70.2845;5.79044
+1995;GF10;Protection sociale;268.476;22.118592
+1995;GF1002;Vieillesse;133.8052;11.023639
+1996;TOTAL;Total;705.6855;56.591851
+1996;GF01;Services généraux des administrations publiques;107.4891;8.619997
+1996;GF02;Défense;31.7947;2.549749
+1996;GF03;Ordre et sécurité publics;18.5337;1.486294
+1996;GF04;Affaires économiques;77.6736;6.228969
+1996;GF05;Protection de l'environnement;7.2168;0.578745
+1996;GF06;Logements et équipements collectifs;12.4189;0.995923
+1996;GF07;Santé;88.5371;7.100158
+1996;GF08;Loisirs, culture et culte;13.3353;1.069413
+1996;GF09;Enseignement;72.0012;5.774075
+1996;GF10;Protection sociale;276.6847;22.188495
+1996;GF1002;Vieillesse;137.4418;11.022029
+1997;TOTAL;Total;710.8996;55.122631
+1997;GF01;Services généraux des administrations publiques;113.7518;8.820231
+1997;GF02;Défense;29.3331;2.274467
+1997;GF03;Ordre et sécurité publics;18.2184;1.412641
+1997;GF04;Affaires économiques;72.8942;5.652163
+1997;GF05;Protection de l'environnement;7.7806;0.603302
+1997;GF06;Logements et équipements collectifs;13.2336;1.026124
+1997;GF07;Santé;88.3104;6.847523
+1997;GF08;Loisirs, culture et culte;13.7792;1.068429
+1997;GF09;Enseignement;72.6092;5.630064
+1997;GF10;Protection sociale;280.9891;21.787688
+1997;GF1002;Vieillesse;141.059;10.937611
+1998;TOTAL;Total;722.1097;53.63591
+1998;GF01;Services généraux des administrations publiques;112.6498;8.367253
+1998;GF02;Défense;27.1984;2.020207
+1998;GF03;Ordre et sécurité publics;18.7027;1.389174
+1998;GF04;Affaires économiques;73.1256;5.431527
+1998;GF05;Protection de l'environnement;7.9719;0.592126
+1998;GF06;Logements et équipements collectifs;13.529;1.004889
+1998;GF07;Santé;91.8561;6.822766
+1998;GF08;Loisirs, culture et culte;14.7918;1.098686
+1998;GF09;Enseignement;74.6997;5.548446
+1998;GF10;Protection sociale;287.5846;21.360829
+1998;GF1002;Vieillesse;145.5583;10.811587
+1999;TOTAL;Total;748.5889;53.656594
+1999;GF01;Services généraux des administrations publiques;114.6966;8.221106
+1999;GF02;Défense;27.6413;1.981245
+1999;GF03;Ordre et sécurité publics;19.5142;1.398719
+1999;GF04;Affaires économiques;73.2607;5.251106
+1999;GF05;Protection de l'environnement;8.4644;0.606703
+1999;GF06;Logements et équipements collectifs;14.4325;1.034478
+1999;GF07;Santé;95.2678;6.828509
+1999;GF08;Loisirs, culture et culte;15.9417;1.142653
+1999;GF09;Enseignement;78.7792;5.646655
+1999;GF10;Protection sociale;300.5906;21.545427
+1999;GF1002;Vieillesse;151.6393;10.869048
+2000;TOTAL;Total;775.3488;52.618914
+2000;GF01;Services généraux des administrations publiques;118.97;8.073879
+2000;GF02;Défense;27.8165;1.887762
+2000;GF03;Ordre et sécurité publics;20.2031;1.37108
+2000;GF04;Affaires économiques;74.5503;5.059343
+2000;GF05;Protection de l'environnement;9.7853;0.664078
+2000;GF06;Logements et équipements collectifs;16.5877;1.125721
+2000;GF07;Santé;101.7117;6.902647
+2000;GF08;Loisirs, culture et culte;17.4671;1.185402
+2000;GF09;Enseignement;82.0022;5.565065
+2000;GF10;Protection sociale;306.2549;20.783937
+2000;GF1002;Vieillesse;155.8596;10.577385
+2001;TOTAL;Total;808.2256;52.822755
+2001;GF01;Services généraux des administrations publiques;121.4798;7.939488
+2001;GF02;Défense;30.6571;2.003639
+2001;GF03;Ordre et sécurité publics;22.5452;1.473474
+2001;GF04;Affaires économiques;72.408;4.73233
+2001;GF05;Protection de l'environnement;10.8558;0.709497
+2001;GF06;Logements et équipements collectifs;17.0579;1.114844
+2001;GF07;Santé;107.1047;6.999983
+2001;GF08;Loisirs, culture et culte;19.8725;1.298796
+2001;GF09;Enseignement;85.5419;5.590715
+2001;GF10;Protection sociale;320.7029;20.960003
+2001;GF1002;Vieillesse;162.3586;10.611181
+2002;TOTAL;Total;851.1076;53.924552
+2002;GF01;Services généraux des administrations publiques;123.5338;7.826866
+2002;GF02;Défense;31.0301;1.966008
+2002;GF03;Ordre et sécurité publics;24.4986;1.552185
+2002;GF04;Affaires économiques;78.2188;4.955794
+2002;GF05;Protection de l'environnement;11.2821;0.714812
+2002;GF06;Logements et équipements collectifs;19.3983;1.229039
+2002;GF07;Santé;115.0404;7.28874
+2002;GF08;Loisirs, culture et culte;21.6777;1.373458
+2002;GF09;Enseignement;90.561;5.737772
+2002;GF10;Protection sociale;335.8668;21.279879
+2002;GF1002;Vieillesse;168.872;10.699407
+2003;TOTAL;Total;881.7857;54.353618
+2003;GF01;Services généraux des administrations publiques;122.3585;7.542226
+2003;GF02;Défense;28.6581;1.766497
+2003;GF03;Ordre et sécurité publics;25.6812;1.582999
+2003;GF04;Affaires économiques;82.1094;5.061256
+2003;GF05;Protection de l'environnement;12.3467;0.761055
+2003;GF06;Logements et équipements collectifs;19.2957;1.189395
+2003;GF07;Santé;122.5236;7.552403
+2003;GF08;Loisirs, culture et culte;23.243;1.432708
+2003;GF09;Enseignement;92.9384;5.72876
+2003;GF10;Protection sociale;352.6311;21.73632
+2003;GF1002;Vieillesse;177.499;10.941108
+2004;TOTAL;Total;915.9064;54.000486
+2004;GF01;Services généraux des administrations publiques;126.4112;7.453017
+2004;GF02;Défense;30.0076;1.769204
+2004;GF03;Ordre et sécurité publics;26.1608;1.542402
+2004;GF04;Affaires économiques;85.079;5.016132
+2004;GF05;Protection de l'environnement;13.3517;0.787196
+2004;GF06;Logements et équipements collectifs;20.3168;1.197848
+2004;GF07;Santé;129.3083;7.623826
+2004;GF08;Loisirs, culture et culte;23.9501;1.412062
+2004;GF09;Enseignement;93.2705;5.499091
+2004;GF10;Protection sociale;368.0504;21.699707
+2004;GF1002;Vieillesse;191.0567;11.26442
+2005;TOTAL;Total;956.1423;54.263134
+2005;GF01;Services généraux des administrations publiques;131.0935;7.439838
+2005;GF02;Défense;31.865;1.808407
+2005;GF03;Ordre et sécurité publics;26.8544;1.524045
+2005;GF04;Affaires économiques;90.7882;5.152426
+2005;GF05;Protection de l'environnement;14.2736;0.810058
+2005;GF06;Logements et équipements collectifs;20.2451;1.148953
+2005;GF07;Santé;137.4281;7.799341
+2005;GF08;Loisirs, culture et culte;25.6325;1.4547
+2005;GF09;Enseignement;96.2617;5.463059
+2005;GF10;Protection sociale;381.7004;21.662319
+2005;GF1002;Vieillesse;200.5318;11.380611
+2006;TOTAL;Total;992.2408;53.75025
+2006;GF01;Services généraux des administrations publiques;130.2039;7.05322
+2006;GF02;Défense;33.8622;1.834335
+2006;GF03;Ordre et sécurité publics;27.4145;1.485059
+2006;GF04;Affaires économiques;91.7063;4.967783
+2006;GF05;Protection de l'environnement;15.4282;0.835754
+2006;GF06;Logements et équipements collectifs;22.1235;1.198443
+2006;GF07;Santé;142.0876;7.696966
+2006;GF08;Loisirs, culture et culte;27.6154;1.495942
+2006;GF09;Enseignement;99.8603;5.409489
+2006;GF10;Protection sociale;401.939;21.773265
+2006;GF1002;Vieillesse;215.4986;11.673682
+2007;TOTAL;Total;1039.2875;53.630229
+2007;GF01;Services généraux des administrations publiques;137.3332;7.086789
+2007;GF02;Défense;34.1214;1.760763
+2007;GF03;Ordre et sécurité publics;28.4774;1.469516
+2007;GF04;Affaires économiques;97.222;5.016935
+2007;GF05;Protection de l'environnement;15.8134;0.816017
+2007;GF06;Logements et équipements collectifs;24.6914;1.274147
+2007;GF07;Santé;147.1754;7.594675
+2007;GF08;Loisirs, culture et culte;28.8031;1.486323
+2007;GF09;Enseignement;101.5192;5.238683
+2007;GF10;Protection sociale;424.1311;21.886387
+2007;GF1002;Vieillesse;227.5785;11.743706
+2008;TOTAL;Total;1080.2205;54.282445
+2008;GF01;Services généraux des administrations publiques;145.0958;7.291247
+2008;GF02;Défense;35.9089;1.804468
+2008;GF03;Ordre et sécurité publics;30.8964;1.552583
+2008;GF04;Affaires économiques;100.3499;5.042709
+2008;GF05;Protection de l'environnement;16.6924;0.838814
+2008;GF06;Logements et équipements collectifs;26.5288;1.333106
+2008;GF07;Santé;150.6647;7.571092
+2008;GF08;Loisirs, culture et culte;29.8809;1.501553
+2008;GF09;Enseignement;105.7496;5.314051
+2008;GF10;Protection sociale;438.4531;22.032822
+2008;GF1002;Vieillesse;240.3234;12.076555
+2009;TOTAL;Total;1122.6082;57.990747
+2009;GF01;Services généraux des administrations publiques;144.9462;7.487509
+2009;GF02;Défense;37.3148;1.927576
+2009;GF03;Ordre et sécurité publics;32.2915;1.668087
+2009;GF04;Affaires économiques;102.505;5.295117
+2009;GF05;Protection de l'environnement;17.9767;0.928625
+2009;GF06;Logements et équipements collectifs;29.603;1.529207
+2009;GF07;Santé;157.3979;8.130728
+2009;GF08;Loisirs, culture et culte;30.9418;1.598365
+2009;GF09;Enseignement;109.069;5.634194
+2009;GF10;Protection sociale;460.5622;23.791334
+2009;GF1002;Vieillesse;250.1236;12.920674
+2010;TOTAL;Total;1151.9628;57.711396
+2010;GF01;Services généraux des administrations publiques;146.0484;7.316779
+2010;GF02;Défense;39.3585;1.971795
+2010;GF03;Ordre et sécurité publics;33.4393;1.675253
+2010;GF04;Affaires économiques;107.0658;5.363816
+2010;GF05;Protection de l'environnement;18.8598;0.944844
+2010;GF06;Logements et équipements collectifs;28.7458;1.440116
+2010;GF07;Santé;162.5256;8.142259
+2010;GF08;Loisirs, culture et culte;32.1191;1.609113
+2010;GF09;Enseignement;110.3813;5.529917
+2010;GF10;Protection sociale;473.4192;23.717504
+2010;GF1002;Vieillesse;258.6157;12.956211
+2011;TOTAL;Total;1175.7036;57.013724
+2011;GF01;Services généraux des administrations publiques;151.6462;7.353822
+2011;GF02;Défense;36.6895;1.779194
+2011;GF03;Ordre et sécurité publics;33.7489;1.636595
+2011;GF04;Affaires économiques;106.1572;5.147911
+2011;GF05;Protection de l'environnement;19.2318;0.932613
+2011;GF06;Logements et équipements collectifs;28.9613;1.404428
+2011;GF07;Santé;167.4964;8.12245
+2011;GF08;Loisirs, culture et culte;32.9478;1.597747
+2011;GF09;Enseignement;110.0246;5.335454
+2011;GF10;Protection sociale;488.7998;23.703505
+2011;GF1002;Vieillesse;270.0365;13.094956
+2012;TOTAL;Total;1208.9522;57.892061
+2012;GF01;Services généraux des administrations publiques;155.4571;7.444241
+2012;GF02;Défense;37.4783;1.794691
+2012;GF03;Ordre et sécurité publics;34.073;1.631625
+2012;GF04;Affaires économiques;112.9564;5.409047
+2012;GF05;Protection de l'environnement;19.6325;0.940125
+2012;GF06;Logements et équipements collectifs;28.2582;1.353176
+2012;GF07;Santé;170.5369;8.166355
+2012;GF08;Loisirs, culture et culte;33.566;1.607346
+2012;GF09;Enseignement;111.0405;5.317301
+2012;GF10;Protection sociale;505.9532;24.228148
+2012;GF1002;Vieillesse;278.9327;13.357012
+2013;TOTAL;Total;1242.3588;58.592104
+2013;GF01;Services généraux des administrations publiques;153.6082;7.244467
+2013;GF02;Défense;37.8298;1.784128
+2013;GF03;Ordre et sécurité publics;34.523;1.628173
+2013;GF04;Affaires économiques;128.0065;6.03704
+2013;GF05;Protection de l'environnement;20.3017;0.957468
+2013;GF06;Logements et équipements collectifs;28.0861;1.324596
+2013;GF07;Santé;174.3631;8.22331
+2013;GF08;Loisirs, culture et culte;34.6934;1.63621
+2013;GF09;Enseignement;112.6242;5.311581
+2013;GF10;Protection sociale;518.323;24.44514
+2013;GF1002;Vieillesse;286.4206;13.508163
+2014;TOTAL;Total;1257.649;58.393911
+2014;GF01;Services généraux des administrations publiques;149.5601;6.944226
+2014;GF02;Défense;35.9737;1.670295
+2014;GF03;Ordre et sécurité publics;35.0482;1.627323
+2014;GF04;Affaires économiques;133.0065;6.175626
+2014;GF05;Protection de l'environnement;20.6293;0.957839
+2014;GF06;Logements et équipements collectifs;27.4406;1.274095
+2014;GF07;Santé;179.5722;8.337718
+2014;GF08;Loisirs, culture et culte;34.042;1.580604
+2014;GF09;Enseignement;114.2904;5.306619
+2014;GF10;Protection sociale;528.086;24.519566
+2014;GF1002;Vieillesse;292.7706;13.593634
+2015;TOTAL;Total;1268.0062;57.599949
+2015;GF01;Services généraux des administrations publiques;145.5777;6.612955
+2015;GF02;Défense;37.9721;1.724906
+2015;GF03;Ordre et sécurité publics;35.7703;1.624888
+2015;GF04;Affaires économiques;136.6658;6.208127
+2015;GF05;Protection de l'environnement;20.6874;0.939738
+2015;GF06;Logements et équipements collectifs;26.9167;1.222707
+2015;GF07;Santé;180.9413;8.219368
+2015;GF08;Loisirs, culture et culte;32.4366;1.473452
+2015;GF09;Enseignement;115.8016;5.260358
+2015;GF10;Protection sociale;535.2367;24.313451
+2015;GF1002;Vieillesse;297.5246;13.515235
+2016;TOTAL;Total;1280.6462;57.38127
+2016;GF01;Services généraux des administrations publiques;144.2877;6.465026
+2016;GF02;Défense;43.66;1.956252
+2016;GF03;Ordre et sécurité publics;36.7109;1.644887
+2016;GF04;Affaires économiques;132.8263;5.951481
+2016;GF05;Protection de l'environnement;19.8972;0.891524
+2016;GF06;Logements et équipements collectifs;25.6355;1.148637
+2016;GF07;Santé;184.6311;8.272673
+2016;GF08;Loisirs, culture et culte;32.0399;1.435596
+2016;GF09;Enseignement;115.3281;5.167448
+2016;GF10;Protection sociale;545.6296;24.447751
+2016;GF1002;Vieillesse;302.5487;13.556147
+2017;TOTAL;Total;1321.4454;57.662724
+2017;GF01;Services généraux des administrations publiques;149.8703;6.539755
+2017;GF02;Défense;40.1084;1.750174
+2017;GF03;Ordre et sécurité publics;37.8472;1.651504
+2017;GF04;Affaires économiques;149.2429;6.512378
+2017;GF05;Protection de l'environnement;20.2896;0.885359
+2017;GF06;Logements et équipements collectifs;25.2452;1.101602
+2017;GF07;Santé;190.0061;8.291125
+2017;GF08;Loisirs, culture et culte;33.0812;1.443535
+2017;GF09;Enseignement;118.6846;5.178933
+2017;GF10;Protection sociale;557.07;24.308362
+2017;GF1002;Vieillesse;310.3082;13.54064
+2018;TOTAL;Total;1327.6326;56.366374
+2018;GF01;Services généraux des administrations publiques;146.0917;6.202514
+2018;GF02;Défense;41.2878;1.752927
+2018;GF03;Ordre et sécurité publics;38.6062;1.639077
+2018;GF04;Affaires économiques;141.2946;5.998847
+2018;GF05;Protection de l'environnement;21.4834;0.912106
+2018;GF06;Logements et équipements collectifs;24.8483;1.054967
+2018;GF07;Santé;193.5393;8.216963
+2018;GF08;Loisirs, culture et culte;33.7321;1.43214
+2018;GF09;Enseignement;120.5133;5.116549
+2018;GF10;Protection sociale;566.2358;24.040279
+2018;GF1002;Vieillesse;317.4055;13.475865
+2019;TOTAL;Total;1346.1579;55.347181
+2019;GF01;Services généraux des administrations publiques;145.8578;5.996932
+2019;GF02;Défense;41.8876;1.722206
+2019;GF03;Ordre et sécurité publics;40.2111;1.653276
+2019;GF04;Affaires économiques;129.8055;5.336943
+2019;GF05;Protection de l'environnement;23.0115;0.946116
+2019;GF06;Logements et équipements collectifs;26.9781;1.109203
+2019;GF07;Santé;198.1473;8.146811
+2019;GF08;Loisirs, culture et culte;35.4433;1.457249
+2019;GF09;Enseignement;122.4295;5.03368
+2019;GF10;Protection sociale;582.3862;23.944765
+2019;GF1002;Vieillesse;324.8057;13.354362
+2020;TOTAL;Total;1430.3588;61.69924
+2020;GF01;Services généraux des administrations publiques;140.8979;6.077701
+2020;GF02;Défense;43.2833;1.867047
+2020;GF03;Ordre et sécurité publics;41.2202;1.778054
+2020;GF04;Affaires économiques;162.2701;6.999602
+2020;GF05;Protection de l'environnement;22.7474;0.98122
+2020;GF06;Logements et équipements collectifs;26.5616;1.145748
+2020;GF07;Santé;208.0236;8.973202
+2020;GF08;Loisirs, culture et culte;33.8791;1.461392
+2020;GF09;Enseignement;120.1021;5.180664
+2020;GF10;Protection sociale;631.3734;27.234606
+2020;GF1002;Vieillesse;332.3051;14.334146
+2021;TOTAL;Total;1491.3817;59.462555
+2021;GF01;Services généraux des administrations publiques;152.7107;6.088695
+2021;GF02;Défense;43.3085;1.726744
+2021;GF03;Ordre et sécurité publics;42.7757;1.705501
+2021;GF04;Affaires économiques;177.4189;7.07383
+2021;GF05;Protection de l'environnement;24.5698;0.979617
+2021;GF06;Logements et équipements collectifs;30.0166;1.196785
+2021;GF07;Santé;234.725;9.358669
+2021;GF08;Loisirs, culture et culte;36.1493;1.441301
+2021;GF09;Enseignement;127.0718;5.066452
+2021;GF10;Protection sociale;622.6354;24.82496
+2021;GF1002;Vieillesse;336.5907;13.420134
+2022;TOTAL;Total;1550.3316;58.414967
+2022;GF01;Services généraux des administrations publiques;173.2216;6.526819
+2022;GF02;Défense;47.675;1.796347
+2022;GF03;Ordre et sécurité publics;45.4745;1.713434
+2022;GF04;Affaires économiques;179.7887;6.774261
+2022;GF05;Protection de l'environnement;27.1632;1.023483
+2022;GF06;Logements et équipements collectifs;31.7237;1.195318
+2022;GF07;Santé;240.7727;9.072078
+2022;GF08;Loisirs, culture et culte;38.4649;1.44932
+2022;GF09;Enseignement;134.0169;5.049625
+2022;GF10;Protection sociale;632.0304;23.814283
+2022;GF1002;Vieillesse;350.6586;13.212471
+2023;TOTAL;Total;1607.3925;56.721629
+2023;GF01;Services généraux des administrations publiques;174.7635;6.16705
+2023;GF02;Défense;51.1798;1.806032
+2023;GF03;Ordre et sécurité publics;48.7119;1.718944
+2023;GF04;Affaires économiques;177.6203;6.267861
+2023;GF05;Protection de l'environnement;28.9358;1.021086
+2023;GF06;Logements et équipements collectifs;35.6018;1.256315
+2023;GF07;Santé;249.6764;8.810575
+2023;GF08;Loisirs, culture et culte;41.417;1.461522
+2023;GF09;Enseignement;141.5548;4.995182
+2023;GF10;Protection sociale;657.9313;23.217064
+2023;GF1002;Vieillesse;369.0788;13.024044
+2024;TOTAL;Total;1671.7938;56.956023
+2024;GF01;Services généraux des administrations publiques;181.1032;6.16997
+2024;GF02;Défense;54.199;1.846495
+2024;GF03;Ordre et sécurité publics;52.113;1.775428
+2024;GF04;Affaires économiques;166.0728;5.657902
+2024;GF05;Protection de l'environnement;30.2851;1.031777
+2024;GF06;Logements et équipements collectifs;42.1286;1.435271
+2024;GF07;Santé;261.1563;8.897284
+2024;GF08;Loisirs, culture et culte;43.0676;1.467262
+2024;GF09;Enseignement;148.6396;5.063974
+2024;GF10;Protection sociale;693.0288;23.610665
+2024;GF1002;Vieillesse;391.9543;13.353416

@@ -1,0 +1,772 @@
+AMECO1.TXT FRA.1.0.0.0.NPTD | Total population (National accounts)  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NPTN | Total population  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NPCN | Population: 0 to 14 years  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NPAN | Population: 15 to 64 years  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NPON | Population: 65 years and over  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NPAN1 | Population: 15 to 74 years  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NPON1 | Population: 75 years and over  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NLTN | Total labour force (Labour force statistics)  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NLLN | Labour force (national) from LFS, persons: total economy  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NELN | Employment (national) from LFS, persons: total economy  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NUTN | Total unemployment :- Member States: definition EUROSTAT  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.ZUTN | Unemployment rate: total :- Member States: definition EUROSTAT  | (Percentage of active population)
+AMECO1.TXT FRA.1.0.0.0.ZNAWRU | NAWRU (Non-Accelerating Wage Rate of Unemployment)  | Rate
+AMECO1.TXT FRA.1.0.0.0.NETN | Employment, persons: total economy (National accounts)  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NETD | Employment, persons: all domestic industries (National accounts)  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.FETD | Employment, full-time equivalents: total economy (National accounts)  | 1000 FTE's
+AMECO1.TXT FRA.1.0.0.0.NSTD | Number of self-employed: total economy (National accounts)  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NWTN | Employees, persons: total economy (National accounts)  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.NWTD | Employees, persons: all domestic industries (National accounts)  | 1000 persons
+AMECO1.TXT FRA.1.0.0.0.FWTD | Employees, full-time equivalents: total economy (National accounts)  | 1000 FTE's
+AMECO10.TXT FRA.1.0.0.0.UBGS | Net exports of goods and services at current prices (National accounts)  | Mrd EURO-FRF
+AMECO10.TXT FRA.1.0.99.0.UBGS | Net exports of goods and services at current prices (National accounts)  | Mrd ECU/EUR
+AMECO10.TXT FRA.1.0.0.0.UBGN | Net exports of goods at current prices (National accounts)  | Mrd EURO-FRF
+AMECO10.TXT FRA.1.0.99.0.UBGN | Net exports of goods at current prices (National accounts)  | Mrd ECU/EUR
+AMECO10.TXT FRA.1.0.0.0.UBSN | Net exports of services at current prices (National accounts)  | Mrd EURO-FRF
+AMECO10.TXT FRA.1.0.99.0.UBSN | Net exports of services at current prices (National accounts)  | Mrd ECU/EUR
+AMECO10.TXT FRA.1.0.0.0.UBRA | Net primary income from the rest of the world (National accounts)  | Mrd EURO-FRF
+AMECO10.TXT FRA.1.0.99.0.UBRA | Net primary income from the rest of the world (National accounts)  | Mrd ECU/EUR
+AMECO10.TXT FRA.1.0.0.0.UBTA | Net current transfers from the rest of the world (National accounts)  | Mrd EURO-FRF
+AMECO10.TXT FRA.1.0.99.0.UBTA | Net current transfers from the rest of the world (National accounts)  | Mrd ECU/EUR
+AMECO10.TXT FRA.1.0.0.0.UBCA | Balance on current transactions with the rest of the world (National accounts)  | Mrd EURO-FRF
+AMECO10.TXT FRA.1.0.99.0.UBCA | Balance on current transactions with the rest of the world (National accounts)  | Mrd ECU/EUR
+AMECO10.TXT FRA.1.0.310.0.UBCA | Balance on current transactions with the rest of the world (National accounts)  | (Percentage of gross domestic product at
+AMECO10.TXT FRA.1.0.0.0.UBKA | Net capital transactions with the rest of the world (National accounts)  | Mrd EURO-FRF
+AMECO10.TXT FRA.1.0.99.0.UBKA | Net capital transactions with the rest of the world (National accounts)  | Mrd ECU/EUR
+AMECO10.TXT FRA.1.0.0.0.UBLA | Net lending (+) or net borrowing (-): total economy  | Mrd EURO-FRF
+AMECO10.TXT FRA.1.0.99.0.UBLA | Net lending (+) or net borrowing (-): total economy  | Mrd ECU/EUR
+AMECO10.TXT FRA.1.0.310.0.UBLA | Net lending (+) or net borrowing (-): total economy  | (Percentage of gross domestic product at
+AMECO10.TXT FRA.1.0.0.0.UBCABOP | Current account balance, Balance of payments statistics (BPM6) :- Partner: world  | Mrd EURO-FRF
+AMECO10.TXT FRA.1.0.99.0.UBCABOP | Current account balance, Balance of payments statistics (BPM6) :- Partner: world  | Mrd ECU/EUR
+AMECO10.TXT FRA.1.0.310.0.UBCABOP | Current account balance, Balance of payments statistics (BPM6) :- Partner: world  | (Percentage of gross domestic product at
+AMECO11.TXT FRA.1.0.99.0.DXGT | Total exports of goods :- Foreign trade statistics  | (Mrd EUR)
+AMECO11.TXT FRA.1.0.99.0.DXGI | Intra EU exports of goods :- Foreign trade statistics (1960-1998 Former EU-15)  | (Mrd EUR)
+AMECO11.TXT FRA.1.0.99.0.DXGE | Extra EU exports of goods :- Foreign trade statistics (1960-1998 Former EU-15)  | (Mrd EUR)
+AMECO11.TXT FRA.1.0.99.0.DMGT | Total imports of goods :- Foreign trade statistics  | (Mrd EUR)
+AMECO11.TXT FRA.1.0.99.0.DMGI | Intra EU imports of goods :- Foreign trade statistics (1960-1998 Former EU-15)  | (Mrd EUR)
+AMECO11.TXT FRA.1.0.99.0.DMGE | Extra EU imports of goods :- Foreign trade statistics (1960-1998 Former EU-15)  | (Mrd EUR)
+AMECO11.TXT FRA.1.0.0.0.AXGT | Share of exports of goods in world exports including intra EU exports :- Foreign trade sta | Share
+AMECO11.TXT FRA.1.0.0.0.AMGT | Share of imports of goods in world imports including intra EU imports :- Foreign trade sta | Share
+AMECO11.TXT FRA.1.0.0.0.AAGT | Average share of imports and exports of goods in world trade including intra EU trade :- F | Average share
+AMECO12.TXT FRA.1.0.0.0.NET1 | Employment, persons: agriculture, forestry and fishery products (National accounts)  | 1000 persons
+AMECO12.TXT FRA.1.0.0.0.NET2 | Employment, persons: industry excluding building and construction (National accounts)  | 1000 persons
+AMECO12.TXT FRA.1.0.0.0.NET4 | Employment, persons: building and construction (National accounts)  | 1000 persons
+AMECO12.TXT FRA.1.0.0.0.NET5 | Employment, persons: services (National accounts)  | 1000 persons
+AMECO12.TXT FRA.1.0.0.0.NETM | Employment, persons: manufacturing industry (National accounts)  | 1000 persons
+AMECO12.TXT FRA.1.0.0.0.FET1 | Employment, full-time equivalents: agriculture, forestry and fishery products (National ac | 1000 FTE's
+AMECO12.TXT FRA.1.0.0.0.FET2 | Employment, full-time equivalents: industry excluding building and construction (National  | 1000 FTE's
+AMECO12.TXT FRA.1.0.0.0.FET4 | Employment, full-time equivalents: building and construction (National accounts)  | 1000 FTE's
+AMECO12.TXT FRA.1.0.0.0.FET5 | Employment, full-time equivalents: services (National accounts)  | 1000 FTE's
+AMECO12.TXT FRA.1.0.0.0.FETM | Employment, full-time equivalents: manufacturing industry (National accounts)  | 1000 FTE's
+AMECO12.TXT FRA.1.0.0.0.NWT1 | Employees, persons: agriculture, forestry and fishery products (National accounts)  | 1000 persons
+AMECO12.TXT FRA.1.0.0.0.NWT2 | Employees, persons: industry excluding building and construction (National accounts)  | 1000 persons
+AMECO12.TXT FRA.1.0.0.0.NWT4 | Employees, persons: building and construction (National accounts)  | 1000 persons
+AMECO12.TXT FRA.1.0.0.0.NWT5 | Employees, persons: services (National accounts)  | 1000 persons
+AMECO12.TXT FRA.1.0.0.0.NWTM | Employees, persons: manufacturing industry (National accounts)  | 1000 persons
+AMECO12.TXT FRA.1.0.0.0.FWT1 | Employees, full-time equivalents: agriculture, forestry and fishery products (National acc | 1000 FTE's
+AMECO12.TXT FRA.1.0.0.0.FWT2 | Employees, full-time equivalents: industry excluding building and construction (National a | 1000 FTE's
+AMECO12.TXT FRA.1.0.0.0.FWT4 | Employees, full-time equivalents: building and construction (National accounts)  | 1000 FTE's
+AMECO12.TXT FRA.1.0.0.0.FWT5 | Employees, full-time equivalents: services (National accounts)  | 1000 FTE's
+AMECO12.TXT FRA.1.0.0.0.FWTM | Employees, full-time equivalents: manufacturing industry (National accounts)  | 1000 FTE's
+AMECO12.TXT FRA.1.1.0.0.UVG0 | Gross Value Added at current prices: total of branches  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.UVG0 | Gross Value Added at current prices: total of branches  | Mrd ECU/EUR
+AMECO12.TXT FRA.1.1.0.0.UVG1 | Gross Value Added at current prices: agriculture, forestry and fishery products  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.UVG1 | Gross Value Added at current prices: agriculture, forestry and fishery products  | Mrd ECU/EUR
+AMECO12.TXT FRA.1.1.0.0.UVG2 | Gross value added at current prices: industry excluding building and construction  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.UVG2 | Gross value added at current prices: industry excluding building and construction  | Mrd ECU/EUR
+AMECO12.TXT FRA.1.1.0.0.UVG4 | Gross value added at current prices: building and construction  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.UVG4 | Gross value added at current prices: building and construction  | Mrd ECU/EUR
+AMECO12.TXT FRA.1.1.0.0.UVG5 | Gross value added at current prices: services  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.UVG5 | Gross value added at current prices: services  | Mrd ECU/EUR
+AMECO12.TXT FRA.1.0.0.0.UVGM | Gross value added at current prices: manufacturing industry  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.UVGM | Gross value added at current prices: manufacturing industry  | Mrd ECU/EUR
+AMECO12.TXT FRA.1.1.0.0.HVG1E | Gross value added at current prices per person employed: agriculture, forestry and fishery | 1000 EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.HVG2E | Gross value added at current prices per person employed: industry excluding building and c | 1000 EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.HVG4E | Gross value added at current prices per person employed: building and construction  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.HVG5E | Gross value added at current prices per person employed: services  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.HVGME | Gross value added at current prices per person employed: manufacturing industry  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.0.0.0.HVGMW | Gross value added at current prices per employee: manufacturing industry  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.HVGMW | Gross value added at current prices per employee: manufacturing industry  | (1000 EUR)
+AMECO12.TXT FRA.1.1.0.0.OVG0 | Gross value added at 2020 prices: total of branches  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.OVG1 | Gross value added at 2020 prices: agriculture, forestry and fishery products  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.OVG2 | Gross value added at 2020 prices: industry excluding building and construction  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.OVG4 | Gross value added at 2020 prices: building and construction  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.OVG5 | Gross value added at 2020 prices: services  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.OVGM | Gross value added at 2020 prices: manufacturing industry  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.RVG1E | Gross value added at 2020 prices per person employed: agriculture, forestry and fishery pr | 1000 EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.RVG2E | Gross value added at 2020 prices per person employed: industry excluding building and cons | 1000 EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.RVG4E | Gross value added at 2020 prices per person employed: building and construction  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.RVG5E | Gross value added at 2020 prices per person employed: services  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.RVGME | Gross value added at 2020 prices per person employed: manufacturing industry  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.1.0.0.RVGMW | Gross value added at 2020 prices per employee: manufacturing industry  | 1000 EURO-FRF
+AMECO12.TXT FRA.3.1.0.0.PVG1 | Price deflator gross value added: agriculture, forestry and fishery products  | (National currency: 2020 = 100)
+AMECO12.TXT FRA.3.1.99.0.PVG1 | Price deflator gross value added: agriculture, forestry and fishery products  | ECU/EUR: 2020 = 100
+AMECO12.TXT FRA.3.1.0.0.PVG2 | Price deflator gross value added: industry excluding building and construction  | (National currency: 2020 = 100)
+AMECO12.TXT FRA.3.1.99.0.PVG2 | Price deflator gross value added: industry excluding building and construction  | ECU/EUR: 2020 = 100
+AMECO12.TXT FRA.3.1.0.0.PVG4 | Price deflator gross value added: building and construction  | (National currency: 2020 = 100)
+AMECO12.TXT FRA.3.1.99.0.PVG4 | Price deflator gross value added: building and construction  | ECU/EUR: 2020 = 100
+AMECO12.TXT FRA.3.1.0.0.PVG5 | Price deflator gross value added: services  | (National currency: 2020 = 100)
+AMECO12.TXT FRA.3.1.99.0.PVG5 | Price deflator gross value added: services  | ECU/EUR: 2020 = 100
+AMECO12.TXT FRA.3.1.0.0.PVGM | Price deflator gross value added: manufacturing industry  | (National currency: 2020 = 100)
+AMECO12.TXT FRA.3.1.99.0.PVGM | Price deflator gross value added: manufacturing industry  | ECU/EUR: 2020 = 100
+AMECO12.TXT FRA.1.1.0.0.UWC1 | Compensation of employees: agriculture, forestry and fishery products  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.UWC1 | Compensation of employees: agriculture, forestry and fishery products  | Mrd ECU/EUR
+AMECO12.TXT FRA.1.1.0.0.UWC2 | Compensation of employees: industry excluding building and construction  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.UWC2 | Compensation of employees: industry excluding building and construction  | Mrd ECU/EUR
+AMECO12.TXT FRA.1.1.0.0.UWC4 | Compensation of employees: building and construction  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.UWC4 | Compensation of employees: building and construction  | Mrd ECU/EUR
+AMECO12.TXT FRA.1.1.0.0.UWC5 | Compensation of employees: services  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.UWC5 | Compensation of employees: services  | Mrd ECU/EUR
+AMECO12.TXT FRA.1.1.0.0.UWCM | Compensation of employees: manufacturing industry  | Mrd EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.UWCM | Compensation of employees: manufacturing industry  | Mrd ECU/EUR
+AMECO12.TXT FRA.1.1.0.0.HWC1W | Nominal compensation per employee: agriculture, forestry and fishery products  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.HWC1W | Nominal compensation per employee: agriculture, forestry and fishery products  | (1000 EUR)
+AMECO12.TXT FRA.1.1.0.0.HWC2W | Nominal compensation per employee: industry excluding building and construction  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.HWC2W | Nominal compensation per employee: industry excluding building and construction  | (1000 EUR)
+AMECO12.TXT FRA.1.1.0.0.HWC4W | Nominal compensation per employee: building and construction  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.HWC4W | Nominal compensation per employee: building and construction  | (1000 EUR)
+AMECO12.TXT FRA.1.1.0.0.HWC5W | Nominal compensation per employee: services  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.HWC5W | Nominal compensation per employee: services  | (1000 EUR)
+AMECO12.TXT FRA.1.1.0.0.HWCMW | Nominal compensation per employee: manufacturing industry  | 1000 EURO-FRF
+AMECO12.TXT FRA.1.0.99.0.HWCMW | Nominal compensation per employee: manufacturing industry  | (1000 EUR)
+AMECO12.TXT FRA.1.0.0.0.ALCM | Adjusted wage share: manufacturing industry (Compensation per employee as percentage of no | Percentage of gross value added at curre
+AMECO12.TXT FRA.3.1.0.0.PWC1 | Nominal unit wage costs: agriculture, forestry and fishery products  | (National currency: 2020 = 100)
+AMECO12.TXT FRA.3.1.0.0.PWC2 | Nominal unit wage costs: industry excluding building and construction  | (National currency: 2020 = 100)
+AMECO12.TXT FRA.3.1.0.0.PWC4 | Nominal unit wage costs: building and construction  | (National currency: 2020 = 100)
+AMECO12.TXT FRA.3.1.0.0.PWCM | Nominal unit wage costs: manufacturing industry  | (National currency: 2020 = 100)
+AMECO12.TXT FRA.3.1.0.0.PWC5 | Nominal unit wage costs: services  | (National currency: 2020 = 100)
+AMECO12.TXT FRA.3.1.0.0.PLCM | Nominal unit labour costs: manufacturing industry  | (National currency: 2020 = 100)
+AMECO12.TXT FRA.3.1.99.0.PLCM | Nominal unit labour costs: manufacturing industry  | ECU/EUR: 2020 = 100
+AMECO12.TXT FRA.3.1.0.0.QLCM | Real unit labour costs: manufacturing industry  | (2020 = 100)
+AMECO12.TXT FRA.3.0.0.0.VPRI | Industrial production: construction excluded  | (2020 = 100)
+AMECO13.TXT FRA.1.0.99.0.XNE | ECU-EUR exchange rates (annual averages) :- Units of national currency per EUR/ECU  | (Annual average,  1 ECU/EUR = ... units 
+AMECO13.TXT FRA.1.0.99.0.XNEF | Conversion rates between euro and former euro-zone national currencies  | ECU/EUR
+AMECO13.TXT FRA.3.0.30.420.XUNNQ | Nominal effective exchange rates :- Performance relative to the rest of the euro area (EA2 | (2020 = 100)
+AMECO13.TXT FRA.3.0.30.421.XUNNQ | Nominal effective exchange rates :- Performance relative to the rest of the euro area (EA2 | (2020 = 100)
+AMECO13.TXT FRA.3.0.30.427.XUNNQ | Nominal effective exchange rates :- Performance relative to the rest of the European Union | (2020 = 100)
+AMECO13.TXT FRA.3.0.30.437.XUNNQ | Nominal effective exchange rates :- Performance relative to the rest of 37 industrial coun | (2020 = 100)
+AMECO13.TXT FRA.3.0.30.442.XUNNQ | Nominal effective exchange rates :- Performance relative to the rest of a broad group of 4 | (2020 = 100)
+AMECO13.TXT FRA.3.0.30.420.XUNRQ | Real effective exchange rates, based on unit labour costs (total economy) :- Performance r | (2020 = 100)
+AMECO13.TXT FRA.3.0.30.421.XUNRQ | Real effective exchange rates, based on unit labour costs (total economy) :- Performance r | (2020 = 100)
+AMECO13.TXT FRA.3.0.30.427.XUNRQ | Real effective exchange rates, based on unit labour costs (total economy) :- Performance r | (2020 = 100)
+AMECO13.TXT FRA.3.0.30.437.XUNRQ | Real effective exchange rates, based on unit labour costs (total economy) :- Performance r | (2020 = 100)
+AMECO13.TXT FRA.3.0.30.442.XUNRQ | Real effective exchange rates, based on unit labour costs (total economy) :- Performance r | (2020 = 100)
+AMECO13.TXT FRA.1.0.212.0.KNP | GDP purchasing power parities :- Units of national currency per PPS (purchasing power stan | (Annual average, 1 PPS = ... units of na
+AMECO13.TXT FRA.1.1.0.0.ISN | Nominal short-term interest rates  | (%)
+AMECO13.TXT FRA.1.1.0.0.ISRV | Real short-term interest rates, deflator GDP  | (%)
+AMECO13.TXT FRA.1.3.0.0.ISRC | Real short-term interest rates, deflator private consumption  | (%)
+AMECO13.TXT FRA.1.1.0.0.ILN | Nominal long-term interest rates  | (%)
+AMECO13.TXT FRA.1.1.0.0.ILRV | Real long-term interest rates, deflator GDP  | (%)
+AMECO13.TXT FRA.1.3.0.0.ILRC | Real long-term interest rates, deflator private consumption  | (%)
+AMECO13.TXT FRA.1.1.0.0.IYN | Yield curve  | (%)
+AMECO14.TXT FRA.1.0.0.0.UYVC | Other subsidies on production: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UYVC | Other subsidies on production: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UYNC | Net property income: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UYNC | Net property income: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UCTRC | Net current transfers received: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UCTRC | Net current transfers received: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UTVC | Other taxes on production: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UTVC | Other taxes on production: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UWCC | Compensation of employees: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UWCC | Compensation of employees: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UTYC | Current taxes on income and wealth: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UTYC | Current taxes on income and wealth: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UEHC | Adjustment for the change in net equity of households on pension funds: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UEHC | Adjustment for the change in net equity of households on pension funds: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UITC | Gross capital formation: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UITC | Gross capital formation: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UKOC | Other capital expenditure, net: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UKOC | Other capital expenditure, net: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UGVAC | Gross value added at basic prices: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UGVAC | Gross value added at basic prices: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UOGC | Gross operating surplus: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UOGC | Gross operating surplus: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UBGC | Gross balance of primary income, corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UBGC | Gross balance of primary income, corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UBNC | Net balance of primary income, corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UBNC | Net balance of primary income, corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UVGC | Gross disposable income, corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UVGC | Gross disposable income, corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UVNC | Net disposable income, corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UVNC | Net disposable income, corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.USGC | Gross saving: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.USGC | Gross saving: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.USNC | Net saving: corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.USNC | Net saving: corporations  | Mrd ECU/EUR
+AMECO14.TXT FRA.1.0.0.0.UBLC | Net lending (+) or net borrowing (-): corporations  | Mrd EURO-FRF
+AMECO14.TXT FRA.1.0.99.0.UBLC | Net lending (+) or net borrowing (-): corporations  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UWCH | Compensation of employees: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UWCH | Compensation of employees: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UWSH | Gross wages and salaries: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UWSH | Gross wages and salaries: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UYNH | Net property income: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UYNH | Net property income: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UCTRH | Current transfers received: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UCTRH | Current transfers received: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UTYH | Current taxes on income and wealth: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UTYH | Current taxes on income and wealth: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UCTPH | Current transfers paid: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UCTPH | Current transfers paid: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UCPH0 | Final consumption expenditure: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UCPH0 | Final consumption expenditure: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UITH | Gross capital formation: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UITH | Gross capital formation: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UKOH | Other capital expenditure, net: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UKOH | Other capital expenditure, net: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UOGH | Gross operating surplus and mixed income: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UOGH | Gross operating surplus and mixed income: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UYOH | Non-labour income: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UYOH | Non-labour income: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.UVGH | Gross disposable income: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UVGH | Gross disposable income: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.3.0.0.0.OVGH | Real gross disposable income, deflator private consumption: households and NPISH  | (National currency: 2020 = 100)
+AMECO15.TXT FRA.1.0.0.0.UVNH | Net disposable income: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UVNH | Net disposable income: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.USGH | Gross saving: households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.USGH | Gross saving: households and NPISH  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.ASGH | Saving rate, gross: households and NPISH (Gross saving as percentage of gross disposable i | Rate
+AMECO15.TXT FRA.1.0.0.0.USNH | Net saving: households  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.USNH | Net saving: households  | Mrd ECU/EUR
+AMECO15.TXT FRA.1.0.0.0.ASNH | Saving rate, net: households and NPISH (Net saving as percentage of net disposable income) | Rate
+AMECO15.TXT FRA.1.0.0.0.UBLH | Net lending (+) or net borrowing (-): households and NPISH  | Mrd EURO-FRF
+AMECO15.TXT FRA.1.0.99.0.UBLH | Net lending (+) or net borrowing (-): households and NPISH  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.0.0.UTVG | Taxes linked to imports and production (indirect taxes): general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UTVG | Taxes linked to imports and production (indirect taxes): general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UTVG | Taxes linked to imports and production (indirect taxes): general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UTYG | Current taxes on income and wealth (direct taxes): general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UTYG | Current taxes on income and wealth (direct taxes): general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UTYG | Current taxes on income and wealth (direct taxes): general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UTSG | Net social contributions received: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UTSG | Net social contributions received: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UTSG | Net social contributions received: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UTAG | Actual social contributions received: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UTAG | Actual social contributions received: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UTAG | Actual social contributions received: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UTIG | Imputed social contributions: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UTIG | Imputed social contributions: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UTIG | Imputed social contributions: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UVGG | Gross disposable income, general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UVGG | Gross disposable income, general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UVGG | Gross disposable income, general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UVNG | Net disposable income: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UVNG | Net disposable income: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UVNG | Net disposable income: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UTCT | Current tax burden: total economy :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UTCT | Current tax burden: total economy :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UTCT | Current tax burden: total economy :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UTAT | Total tax burden excluding imputed social security contributions: total economy :- ESA 201 | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UTAT | Total tax burden excluding imputed social security contributions: total economy :- ESA 201 | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UTAT | Total tax burden excluding imputed social security contributions: total economy :- ESA 201 | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UTTT | Total tax burden including imputed social security contributions: total economy :- ESA 201 | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UTTT | Total tax burden including imputed social security contributions: total economy :- ESA 201 | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UTTT | Total tax burden including imputed social security contributions: total economy :- ESA 201 | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UROG | Other current revenue: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UROG | Other current revenue: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UROG | Other current revenue: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UTOG | Other current revenue including sales: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UTOG | Other current revenue including sales: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UTOG | Other current revenue including sales: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UCTRG | Other current transfers received (D.7r)  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UCTRG | Other current transfers received (D.7r)  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UCTRG | Other current transfers received (D.7r)  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.URCG | Total current revenue: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.URCG | Total current revenue: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.URCG | Total current revenue: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.USGG | Gross saving: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.USGG | Gross saving: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.USGG | Gross saving: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.USNG | Net saving: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.USNG | Net saving: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.USNG | Net saving: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UKTTG | Capital transfers received: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UKTTG | Capital transfers received: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UKTTG | Capital transfers received: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UTKG | Capital taxes: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UTKG | Capital taxes: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UTKG | Capital taxes: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.URTG | Total revenue: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.URTG | Total revenue: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.URTG | Total revenue: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UYVG | Subsidies: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UYVG | Subsidies: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UYVG | Subsidies: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UYTGH | Social benefits other than social transfers in kind: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UYTGH | Social benefits other than social transfers in kind: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UYTGH | Social benefits other than social transfers in kind: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UYTGM | Social transfers in kind supplied to households via market producers: general government : | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UYTGM | Social transfers in kind supplied to households via market producers: general government : | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UYTGM | Social transfers in kind supplied to households via market producers: general government : | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UYIG | Interest: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UYIG | Interest: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UYIG | Interest: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.AYIGD | Implicit interest rate: general government :- Interest as percent of gross public debt of  | Percentage of gross public debt
+AMECO16.TXT FRA.1.0.0.0.UCTG0 | Final consumption expenditure of general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UCTG0 | Final consumption expenditure of general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UCTG0 | Final consumption expenditure of general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UCCG0 | Collective consumption expenditure :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UCCG0 | Collective consumption expenditure :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UCCG0 | Collective consumption expenditure :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UCIG0 | Social transfers in kind :- ESA 1995  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UCIG0 | Social transfers in kind :- ESA 1995  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UCIG0 | Social transfers in kind :- ESA 1995  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UWCG | Compensation of employees: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UWCG | Compensation of employees: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UWCG | Compensation of employees: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UCTGI | Intermediate consumption: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UCTGI | Intermediate consumption: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UCTGI | Intermediate consumption: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UUOG | Other current expenditure: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UUOG | Other current expenditure: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UUOG | Other current expenditure: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UUCG | Total current expenditure: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UUCG | Total current expenditure: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UUCG | Total current expenditure: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UIGG0 | Gross fixed capital formation: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UIGG0 | Gross fixed capital formation: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UIGG0 | Gross fixed capital formation: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UKOG | Other capital expenditure, including capital transfers: general government :- ESA 2010 (In | (National currency)
+AMECO16.TXT FRA.1.0.99.0.UKOG | Other capital expenditure, including capital transfers: general government :- ESA 2010 (In | (Mrd EUR)
+AMECO16.TXT FRA.1.0.319.0.UKOG | Other capital expenditure, including capital transfers: general government :- ESA 2010 (In | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UKTGT | Capital transfers paid: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UKTGT | Capital transfers paid: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UKTGT | Capital transfers paid: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UKTGTEU | Capital transfers paid to EU institutions, general government :- ESA2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UKTGTEU | Capital transfers paid to EU institutions, general government :- ESA2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UKTGTEU | Capital transfers paid to EU institutions, general government :- ESA2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UUTG | Total expenditure: general government :- ESA 2010 (Including one-off proceeds (treated as  | (National currency)
+AMECO16.TXT FRA.1.0.99.0.UUTG | Total expenditure: general government :- ESA 2010 (Including one-off proceeds (treated as  | (Mrd EUR)
+AMECO16.TXT FRA.1.0.319.0.UUTG | Total expenditure: general government :- ESA 2010 (Including one-off proceeds (treated as  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.3.0.0.0.OUTG | Real total expenditure of general government, deflator GDP :- ESA 2010  | (National currency: 2020 = 100)
+AMECO16.TXT FRA.1.0.0.0.UUCGI | Total current expenditure excluding interest: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UUCGI | Total current expenditure excluding interest: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UUCGI | Total current expenditure excluding interest: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UUTGI | Total expenditure excluding interest: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UUTGI | Total expenditure excluding interest: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UUTGI | Total expenditure excluding interest: general government :- ESA 2010  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.3.0.0.0.OUTGI | Real total expenditure excluding interest of general government, deflator GDP :- ESA 2010  | (National currency: 2020 = 100)
+AMECO16.TXT FRA.1.0.0.0.UBLG | Net lending (+) or net borrowing (-): general government :- ESA 2010 (Including one-off pr | (National currency)
+AMECO16.TXT FRA.1.0.99.0.UBLG | Net lending (+) or net borrowing (-): general government :- ESA 2010 (Including one-off pr | (Mrd EUR)
+AMECO16.TXT FRA.1.0.319.0.UBLG | Net lending (+) or net borrowing (-): general government :- ESA 2010 (Including one-off pr | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UBLGI | Net lending (+) or net borrowing (-) excluding interest: general government :- ESA 2010 (I | (National currency)
+AMECO16.TXT FRA.1.0.99.0.UBLGI | Net lending (+) or net borrowing (-) excluding interest: general government :- ESA 2010 (I | (Mrd EUR)
+AMECO16.TXT FRA.1.0.319.0.UBLGI | Net lending (+) or net borrowing (-) excluding interest: general government :- ESA 2010 (I | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UBLGG | Net lending (+) or net borrowing (-) excluding gross fixed capital formation: general gove | (National currency)
+AMECO16.TXT FRA.1.0.99.0.UBLGG | Net lending (+) or net borrowing (-) excluding gross fixed capital formation: general gove | (Mrd EUR)
+AMECO16.TXT FRA.1.0.319.0.UBLGG | Net lending (+) or net borrowing (-) excluding gross fixed capital formation: general gove | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UYIGE | Interest: general government :- Excessive deficit procedure  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UYIGE | Interest: general government :- Excessive deficit procedure  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UYIGE | Interest: general government :- Excessive deficit procedure  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.USGGE | Gross saving: general government :- Excessive deficit procedure  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.USGGE | Gross saving: general government :- Excessive deficit procedure  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.USGGE | Gross saving: general government :- Excessive deficit procedure  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UUCGE | Total current expenditure: general government :- Excessive deficit procedure  | Mrd EURO-FRF
+AMECO16.TXT FRA.1.0.99.0.UUCGE | Total current expenditure: general government :- Excessive deficit procedure  | Mrd ECU/EUR
+AMECO16.TXT FRA.1.0.319.0.UUCGE | Total current expenditure: general government :- Excessive deficit procedure  | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UUTGE | Total expenditure: general government :- Excessive deficit procedure (Including one-off pr | (National currency)
+AMECO16.TXT FRA.1.0.99.0.UUTGE | Total expenditure: general government :- Excessive deficit procedure (Including one-off pr | (Mrd EUR)
+AMECO16.TXT FRA.1.0.319.0.UUTGE | Total expenditure: general government :- Excessive deficit procedure (Including one-off pr | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UBLGE | Net lending (+) or net borrowing (-): general government :- Excessive deficit procedure (I | (National currency)
+AMECO16.TXT FRA.1.0.99.0.UBLGE | Net lending (+) or net borrowing (-): general government :- Excessive deficit procedure (I | (Mrd EUR)
+AMECO16.TXT FRA.1.0.319.0.UBLGE | Net lending (+) or net borrowing (-): general government :- Excessive deficit procedure (I | (Percentage of GDP at current prices (ex
+AMECO16.TXT FRA.1.0.0.0.UBLGIE | Net lending (+) or net borrowing (-) excluding interest: general government :- Excessive d | (National currency)
+AMECO16.TXT FRA.1.0.99.0.UBLGIE | Net lending (+) or net borrowing (-) excluding interest: general government :- Excessive d | (Mrd EUR)
+AMECO16.TXT FRA.1.0.319.0.UBLGIE | Net lending (+) or net borrowing (-) excluding interest: general government :- Excessive d | (Percentage of GDP at current prices (ex
+AMECO17.TXT FRA.1.0.319.0.UBLGAP | Cyclically adjusted net lending (+) or net borrowing (-) of general government :- Adjustme | (Percentage of potential GDP at current 
+AMECO17.TXT FRA.1.0.319.0.UBLGAPS | Structural balance of general government :- Adjustment based on potential GDP Excessive de | (Percentage of potential GDP at current 
+AMECO17.TXT FRA.1.0.319.0.UBLGBP | Net lending (+) or net borrowing (-) excluding interest of general government adjusted for | (Percentage of potential GDP at current 
+AMECO17.TXT FRA.1.0.319.0.UBLGBPS | Structural balance of general government excluding interest :- Adjustment based on potenti | (Percentage of potential GDP at current 
+AMECO17.TXT FRA.1.0.319.0.URTGAP | Cyclically adjusted total revenue of general government :- Adjustment based on potential G | (Percentage of potential GDP at current 
+AMECO17.TXT FRA.1.0.319.0.UUTGAP | Cyclically adjusted total expenditure of general government :- Adjustment based on potenti | (Percentage of potential GDP at current 
+AMECO17.TXT FRA.1.0.319.0.UUTGBP | Total expenditure excluding interest of general government adjusted for the cyclical compo | (Percentage of potential GDP at current 
+AMECO17.TXT FRA.1.0.319.0.UBLGCP | Cyclical component of net lending (+) or net borrowing (-) of general government :- Based  | (Percentage of potential GDP at current 
+AMECO17.TXT FRA.1.0.319.0.UTCGCP | Cyclical component of revenue of general government :- Based on potential GDP ESA 2010  | (Percentage of potential GDP at current 
+AMECO17.TXT FRA.1.0.319.0.UUCGCP | Cyclical component of expenditure of general government :- Based on potential GDP ESA 2010 | (Percentage of potential GDP at current 
+AMECO17.TXT FRA.1.0.319.0.UBLGA | Cyclically adjusted net lending (+) or net borrowing (-) of general government :- Adjustme | (Percentage of trend GDP at current pric
+AMECO17.TXT FRA.1.0.319.0.UBLGB | Net lending (+) or net borrowing (-) excluding interest of general government adjusted for | (Percentage of trend GDP at current pric
+AMECO17.TXT FRA.1.0.319.0.URTGA | Cyclically adjusted total revenue of general government :- Adjustment based on trend GDP E | (Percentage of trend GDP at current pric
+AMECO17.TXT FRA.1.0.319.0.UUTGA | Cyclically adjusted total expenditure of general government :- Adjustment based on trend G | (Percentage of trend GDP at current pric
+AMECO17.TXT FRA.1.0.319.0.UUTGB | Total expenditure excluding interest of general government adjusted for the cyclical compo | (Percentage of trend GDP at current pric
+AMECO17.TXT FRA.1.0.319.0.UBLGC | Cyclical component of net lending (+) or net borrowing (-) of general government :- Based  | (Percentage of trend GDP at current pric
+AMECO17.TXT FRA.1.0.319.0.UTCGC | Cyclical component of revenue of general government :- Based on trend GDP ESA 2010  | (Percentage of trend GDP at current pric
+AMECO17.TXT FRA.1.0.319.0.UUCGC | Cyclical component of expenditure of general government :- Based on trend GDP ESA 2010  | (Percentage of trend GDP at current pric
+AMECO18.TXT FRA.1.0.0.0.UDGG | General government consolidated gross debt :- Excessive deficit procedure (based on ESA 20 | Mrd EURO-FRF
+AMECO18.TXT FRA.1.0.99.0.UDGG | General government consolidated gross debt :- Excessive deficit procedure (based on ESA 20 | Mrd ECU/EUR
+AMECO18.TXT FRA.1.0.319.0.UDGG | General government consolidated gross debt :- Excessive deficit procedure (based on ESA 20 | (Percentage of GDP at current prices (ex
+AMECO18.TXT FRA.1.0.99.315.UDGGR | General government consolidated gross debt :- Excessive deficit procedure (based on ESA 20 | (EUR: EU-15 = 100)
+AMECO18.TXT FRA.1.0.99.327.UDGGR | General government consolidated gross debt :- Excessive deficit procedure (based on ESA 20 | (EUR: EU-27 = 100)
+AMECO18.TXT FRA.1.0.0.0.ADGGU | Impact of nominal GDP change on gross public debt, % EDP GDP :- Excessive deficit procedur | (Percentage of gross domestic product at
+AMECO18.TXT FRA.1.0.0.0.ADGGI | Snowball effect on gross public debt, % EDP GDP :- Excessive deficit procedure (based on E | (Percentage of gross domestic product at
+AMECO18.TXT FRA.1.0.0.0.UDGGS | Stock-flow adjustment on general government consolidated gross debt :- Excessive deficit p | Mrd EURO-FRF
+AMECO18.TXT FRA.1.0.99.0.UDGGS | Stock-flow adjustment on general government consolidated gross debt :- Excessive deficit p | Mrd ECU/EUR
+AMECO18.TXT FRA.1.0.0.0.UDGGL | General government consolidated gross debt :- Excessive deficit procedure (based on ESA 20 | Mrd EURO-FRF
+AMECO18.TXT FRA.1.0.99.0.UDGGL | General government consolidated gross debt :- Excessive deficit procedure (based on ESA 20 | Mrd ECU/EUR
+AMECO18.TXT FRA.1.0.319.0.UDGGL | General government consolidated gross debt :- Excessive deficit procedure (based on ESA 20 | (Percentage of GDP at current prices (ex
+AMECO18.TXT FRA.1.0.99.215.UDGGLR | General government consolidated gross debt :- Excessive deficit procedure (based on ESA 20 | (EUR: EU-15 = 100)
+AMECO18.TXT FRA.1.0.99.315.UDGGLR | General government consolidated gross debt :- Excessive deficit procedure (based on ESA 20 | (EUR: EU-15 = 100)
+AMECO18.TXT FRA.1.0.99.327.UDGGLR | General government consolidated gross debt :- Excessive deficit procedure (based on ESA 20 | (EUR: EU-27 = 100)
+AMECO2.TXT FRA.1.0.0.0.UCPH | Private final consumption expenditure at current prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.1.0.99.0.UCPH | Private final consumption expenditure at current prices  | Mrd ECU/EUR
+AMECO2.TXT FRA.1.0.212.0.UCPH | Private final consumption expenditure at current prices  | (Mrd PPS)
+AMECO2.TXT FRA.1.1.0.0.OCPH | Private final consumption expenditure at 2020 prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.3.1.0.0.PCPH | Price deflator private final consumption expenditure  | (National currency: 2020 = 100)
+AMECO2.TXT FRA.3.1.99.0.PCPH | Price deflator private final consumption expenditure  | ECU/EUR: 2020 = 100
+AMECO2.TXT FRA.1.0.0.0.HCPHP | Private final consumption expenditure at current prices per head of population  | 1000 EURO-FRF
+AMECO2.TXT FRA.1.0.99.0.HCPHP | Private final consumption expenditure at current prices per head of population  | (1000 EUR)
+AMECO2.TXT FRA.1.0.212.0.HCPHP | Private final consumption expenditure at current prices per head of population  | (1000 PPS)
+AMECO2.TXT FRA.1.0.99.315.HCPHPR | Private final consumption expenditure at current prices per head of population  | (EUR: EU-15 = 100)
+AMECO2.TXT FRA.1.0.99.327.HCPHPR | Private final consumption expenditure at current prices per head of population  | (EUR: EU-27 = 100)
+AMECO2.TXT FRA.1.0.212.315.HCPHPR | Private final consumption expenditure at current prices per head of population  | (PPS: EU-15 = 100)
+AMECO2.TXT FRA.1.0.212.327.HCPHPR | Private final consumption expenditure at current prices per head of population  | (PPS: EU-27 = 100)
+AMECO2.TXT FRA.1.0.0.0.UCTH | Actual individual final consumption of households at current prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.1.0.99.0.UCTH | Actual individual final consumption of households at current prices  | Mrd ECU/EUR
+AMECO2.TXT FRA.1.0.212.0.UCTH | Actual individual final consumption of households at current prices  | (Mrd PPS)
+AMECO2.TXT FRA.1.1.0.0.OCTH | Actual individual final consumption of households at 2020 prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.3.1.0.0.PCTH | Price deflator actual individual final consumption of households  | (National currency: 2020 = 100)
+AMECO2.TXT FRA.3.1.99.0.PCTH | Price deflator actual individual final consumption of households  | ECU/EUR: 2020 = 100
+AMECO2.TXT FRA.1.0.0.0.ZCPIH | Harmonised consumer price index (All-items)  | (2015 = 100)
+AMECO2.TXT FRA.3.0.0.0.ZCPIN | National consumer price index (All-items)  | (2020 = 100)
+AMECO2.TXT FRA.1.0.0.0.ZCPIX | Harmonised consumer price index (Overall index excluding energy, food, alcohol and tobacco | (2015 = 100)
+AMECO2.TXT FRA.1.0.0.0.UCTG | Final consumption expenditure of general government at current prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.1.0.99.0.UCTG | Final consumption expenditure of general government at current prices  | Mrd ECU/EUR
+AMECO2.TXT FRA.1.0.212.0.UCTG | Final consumption expenditure of general government at current prices  | (Mrd PPS)
+AMECO2.TXT FRA.1.1.0.0.OCTG | Final consumption expenditure of general government at 2020 prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.3.1.0.0.PCTG | Price deflator total final consumption expenditure of general government  | (National currency: 2020 = 100)
+AMECO2.TXT FRA.3.1.99.0.PCTG | Price deflator total final consumption expenditure of general government  | ECU/EUR: 2020 = 100
+AMECO2.TXT FRA.1.0.0.0.UCCG | Collective consumption of general government at current prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.1.0.99.0.UCCG | Collective consumption of general government at current prices  | Mrd ECU/EUR
+AMECO2.TXT FRA.1.0.212.0.UCCG | Collective consumption of general government at current prices  | (Mrd PPS)
+AMECO2.TXT FRA.1.1.0.0.OCCG | Collective consumption of general government at 2020 prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.3.1.0.0.PCCG | Price deflator collective consumption of general government  | (National currency: 2020 = 100)
+AMECO2.TXT FRA.3.1.99.0.PCCG | Price deflator collective consumption of general government  | ECU/EUR: 2020 = 100
+AMECO2.TXT FRA.1.0.0.0.UCIG | Individual consumption of general government at current prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.1.0.99.0.UCIG | Individual consumption of general government at current prices  | Mrd ECU/EUR
+AMECO2.TXT FRA.1.0.212.0.UCIG | Individual consumption of general government at current prices  | (Mrd PPS)
+AMECO2.TXT FRA.1.1.0.0.OCIG | Individual consumption of general government at 2020 prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.3.1.0.0.PCIG | Price deflator individual consumption of general government  | (National currency: 2020 = 100)
+AMECO2.TXT FRA.3.1.99.0.PCIG | Price deflator individual consumption of general government  | ECU/EUR: 2020 = 100
+AMECO2.TXT FRA.1.0.0.0.UCNT | Total consumption at current prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.1.0.99.0.UCNT | Total consumption at current prices  | Mrd ECU/EUR
+AMECO2.TXT FRA.1.0.212.0.UCNT | Total consumption at current prices  | (Mrd PPS)
+AMECO2.TXT FRA.1.1.0.0.OCNT | Total consumption at 2020 prices  | Mrd EURO-FRF
+AMECO2.TXT FRA.3.1.0.0.PCNT | Price deflator total consumption  | (National currency: 2020 = 100)
+AMECO2.TXT FRA.3.1.99.0.PCNT | Price deflator total consumption  | ECU/EUR: 2020 = 100
+AMECO3.TXT FRA.1.0.0.0.UIGT | Gross fixed capital formation at current prices: total economy  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UIGT | Gross fixed capital formation at current prices: total economy  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.212.0.UIGT | Gross fixed capital formation at current prices: total economy  | (Mrd PPS)
+AMECO3.TXT FRA.1.1.0.0.OIGT | Gross fixed capital formation at 2020 prices: total economy  | Mrd EURO-FRF
+AMECO3.TXT FRA.3.1.0.0.PIGT | Price deflator gross fixed capital formation: total economy  | (National currency: 2020 = 100)
+AMECO3.TXT FRA.3.1.99.0.PIGT | Price deflator gross fixed capital formation: total economy  | ECU/EUR: 2020 = 100
+AMECO3.TXT FRA.1.0.0.0.UIGG | Gross fixed capital formation at current prices: general government  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UIGG | Gross fixed capital formation at current prices: general government  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.UIGP | Gross fixed capital formation at current prices: private sector  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UIGP | Gross fixed capital formation at current prices: private sector  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.UINT | Net fixed capital formation at current prices: total economy  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UINT | Net fixed capital formation at current prices: total economy  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.212.0.UINT | Net fixed capital formation at current prices: total economy  | (Mrd PPS)
+AMECO3.TXT FRA.1.1.0.0.OINT | Net fixed capital formation at 2020 prices: total economy  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.0.0.UING | Net fixed capital formation at current prices: general government  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UING | Net fixed capital formation at current prices: general government  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.UINP | Net fixed capital formation at current prices: private sector  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UINP | Net fixed capital formation at current prices: private sector  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.UKCT | Consumption of fixed capital at current prices: total economy  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UKCT | Consumption of fixed capital at current prices: total economy  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.1.0.0.OKCT | Capital consumption at 2020 prices: total economy  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.0.0.UKCG | Consumption of fixed capital at current prices: general government  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UKCG | Consumption of fixed capital at current prices: general government  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.UIGCO | Gross fixed capital formation at current prices: construction  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UIGCO | Gross fixed capital formation at current prices: construction  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.UIGDW | Gross fixed capital formation at current prices: dwellings  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UIGDW | Gross fixed capital formation at current prices: dwellings  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.UIGNR | Gross fixed capital formation at current prices: non-residential construction and civil en | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UIGNR | Gross fixed capital formation at current prices: non-residential construction and civil en | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.UIGEQ | Gross fixed capital formation at current prices: equipment  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UIGEQ | Gross fixed capital formation at current prices: equipment  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.UIGMA | Gross fixed capital formation at current prices: metal products and machinery  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UIGMA | Gross fixed capital formation at current prices: metal products and machinery  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.UIGTR | Gross fixed capital formation at current prices: transport equipment  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UIGTR | Gross fixed capital formation at current prices: transport equipment  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.UIGOT | Gross fixed capital formation at current prices: other investment  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UIGOT | Gross fixed capital formation at current prices: other investment  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.1.0.0.OIGCO | Gross fixed capital formation at 2020 prices: construction  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.1.0.0.OIGDW | Gross fixed capital formation at 2020 prices: dwellings  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.1.0.0.OIGNR | Gross fixed capital formation at 2020 prices: non-residential construction and civil engin | Mrd EURO-FRF
+AMECO3.TXT FRA.1.1.0.0.OIGEQ | Gross fixed capital formation at 2020 prices: equipment  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.1.0.0.OIGMA | Gross fixed capital formation at 2020 prices: metal products and machinery  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.1.0.0.OIGTR | Gross fixed capital formation at 2020 prices: transport equipment  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.1.0.0.OIGOT | Gross fixed capital formation at 2020 prices: other investment  | Mrd EURO-FRF
+AMECO3.TXT FRA.3.1.0.0.PIGCO | Price deflator gross fixed capital formation: construction  | (National currency: 2020 = 100)
+AMECO3.TXT FRA.3.1.99.0.PIGCO | Price deflator gross fixed capital formation: construction  | ECU/EUR: 2020 = 100
+AMECO3.TXT FRA.3.1.0.0.PIGDW | Price deflator gross fixed capital formation: dwellings  | (National currency: 2020 = 100)
+AMECO3.TXT FRA.3.1.99.0.PIGDW | Price deflator gross fixed capital formation: dwellings  | ECU/EUR: 2020 = 100
+AMECO3.TXT FRA.3.1.0.0.PIGNR | Price deflator gross fixed capital formation: non-residential construction and civil engin | (National currency: 2020 = 100)
+AMECO3.TXT FRA.3.1.99.0.PIGNR | Price deflator gross fixed capital formation: non-residential construction and civil engin | ECU/EUR: 2020 = 100
+AMECO3.TXT FRA.3.1.0.0.PIGEQ | Price deflator gross fixed capital formation: equipment  | (National currency: 2020 = 100)
+AMECO3.TXT FRA.3.1.99.0.PIGEQ | Price deflator gross fixed capital formation: equipment  | ECU/EUR: 2020 = 100
+AMECO3.TXT FRA.3.1.0.0.PIGMA | Price deflator gross fixed capital formation: metal products and machinery  | (National currency: 2020 = 100)
+AMECO3.TXT FRA.3.1.99.0.PIGMA | Price deflator gross fixed capital formation: metal products and machinery  | ECU/EUR: 2020 = 100
+AMECO3.TXT FRA.3.1.0.0.PIGTR | Price deflator gross fixed capital formation: transport equipment  | (National currency: 2020 = 100)
+AMECO3.TXT FRA.3.1.99.0.PIGTR | Price deflator gross fixed capital formation: transport equipment  | ECU/EUR: 2020 = 100
+AMECO3.TXT FRA.3.1.0.0.PIGOT | Price deflator gross fixed capital formation: other investment  | (National currency: 2020 = 100)
+AMECO3.TXT FRA.3.1.99.0.PIGOT | Price deflator gross fixed capital formation: other investment  | ECU/EUR: 2020 = 100
+AMECO3.TXT FRA.1.0.0.0.UIST | Changes in inventories and acquisitions less disposals of valuables at current prices: tot | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UIST | Changes in inventories and acquisitions less disposals of valuables at current prices: tot | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.212.0.UIST | Changes in inventories and acquisitions less disposals of valuables at current prices: tot | (Mrd PPS)
+AMECO3.TXT FRA.1.0.0.0.OIST | Changes in inventories and acquisitions less disposals of valuables at 2020 prices: total  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.0.0.UITT | Gross capital formation at current prices: total economy  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.UITT | Gross capital formation at current prices: total economy  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.212.0.UITT | Gross capital formation at current prices: total economy  | (Mrd PPS)
+AMECO3.TXT FRA.1.1.0.0.OITT | Gross capital formation at 2020 prices: total economy  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.0.0.USGN | Gross national saving  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.USGN | Gross national saving  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.USGG | Gross saving: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.USGG | Gross saving: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.USGP | Gross saving: private sector :- ESA 2010  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.USGP | Gross saving: private sector :- ESA 2010  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.USNN | Net national saving  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.USNN | Net national saving  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.USNG | Net saving: general government :- ESA 2010  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.USNG | Net saving: general government :- ESA 2010  | Mrd ECU/EUR
+AMECO3.TXT FRA.1.0.0.0.USNP | Net saving: private sector :- ESA 2010  | Mrd EURO-FRF
+AMECO3.TXT FRA.1.0.99.0.USNP | Net saving: private sector :- ESA 2010  | Mrd ECU/EUR
+AMECO4.TXT FRA.1.0.0.0.UUNF | Domestic demand excluding stocks at current prices  | Mrd EURO-FRF
+AMECO4.TXT FRA.1.0.99.0.UUNF | Domestic demand excluding stocks at current prices  | Mrd ECU/EUR
+AMECO4.TXT FRA.1.0.212.0.UUNF | Domestic demand excluding stocks at current prices  | (Mrd PPS)
+AMECO4.TXT FRA.1.1.0.0.OUNF | Domestic demand excluding stocks at 2020 prices  | Mrd EURO-FRF
+AMECO4.TXT FRA.3.1.0.0.PUNF | Price deflator domestic demand excluding stocks  | (National currency: 2020 = 100)
+AMECO4.TXT FRA.3.1.99.0.PUNF | Price deflator domestic demand excluding stocks  | ECU/EUR: 2020 = 100
+AMECO4.TXT FRA.1.0.0.0.UUNT | Domestic demand including stocks at current prices  | Mrd EURO-FRF
+AMECO4.TXT FRA.1.0.99.0.UUNT | Domestic demand including stocks at current prices  | Mrd ECU/EUR
+AMECO4.TXT FRA.1.0.212.0.UUNT | Domestic demand including stocks at current prices  | (Mrd PPS)
+AMECO4.TXT FRA.1.1.0.0.OUNT | Domestic demand including stocks at 2020 prices  | Mrd EURO-FRF
+AMECO4.TXT FRA.3.0.0.415.OUNTQ | Domestic demand including stocks at 2020 prices :- Performance relative to the rest of the | (National currency: 2020 = 100)
+AMECO4.TXT FRA.3.1.0.0.PUNT | Price deflator domestic demand including stocks  | (National currency: 2020 = 100)
+AMECO4.TXT FRA.3.1.99.0.PUNT | Price deflator domestic demand including stocks  | ECU/EUR: 2020 = 100
+AMECO4.TXT FRA.1.0.0.0.UUTT | Final demand at current prices  | Mrd EURO-FRF
+AMECO4.TXT FRA.1.0.99.0.UUTT | Final demand at current prices  | Mrd ECU/EUR
+AMECO4.TXT FRA.1.0.212.0.UUTT | Final demand at current prices  | (Mrd PPS)
+AMECO4.TXT FRA.1.1.0.0.OUTT | Final demand at 2020 prices  | Mrd EURO-FRF
+AMECO4.TXT FRA.3.1.0.0.PUTT | Price deflator final demand  | (National currency: 2020 = 100)
+AMECO4.TXT FRA.3.1.99.0.PUTT | Price deflator final demand  | ECU/EUR: 2020 = 100
+AMECO4.TXT FRA.1.0.0.0.YPUT0 | Contribution to the change of the final demand deflator of import prices  | Percentage
+AMECO4.TXT FRA.1.0.0.0.YPUT1 | Contribution to the change of the final demand deflator of import prices excluding nominal | Percentage
+AMECO4.TXT FRA.1.0.0.0.YPUT2 | Contribution to the change of the final demand deflator of nominal effective exchange rate | Percentage
+AMECO4.TXT FRA.1.0.0.0.YPUT3 | Contribution to the change of the final demand deflator of relative unit labour costs in n | Percentage
+AMECO4.TXT FRA.1.0.0.0.YPUT4 | Contribution to the change of the final demand deflator of real effective exchange rates  | Percentage
+AMECO4.TXT FRA.1.0.0.0.YPUT5 | Contribution to the change of the final demand deflator of domestic factors  | Percentage
+AMECO4.TXT FRA.1.0.0.0.YPUT6 | Contribution to the change of the final demand deflator of the GDP price deflator  | Percentage
+AMECO4.TXT FRA.1.0.0.0.YPUT7 | Contribution to the change of the final demand deflator of nominal unit labour costs  | Percentage
+AMECO4.TXT FRA.1.0.0.0.YPUT8 | Contribution to the change of the final demand deflator of net indirect taxes  | Percentage
+AMECO4.TXT FRA.1.0.0.0.YPUT9 | Contribution to the change of the final demand deflator of gross operating surplus :- excl | Percentage
+AMECO5.TXT FRA.1.0.0.0.UVGN | Gross national income at current prices  | Mrd EURO-FRF
+AMECO5.TXT FRA.1.0.99.0.UVGN | Gross national income at current prices  | Mrd ECU/EUR
+AMECO5.TXT FRA.1.0.212.0.UVGN | Gross national income at current prices  | (Mrd PPS)
+AMECO5.TXT FRA.1.1.0.0.OVGN | Gross national income at 2020 reference levels, deflator GDP  | Mrd EURO-FRF
+AMECO5.TXT FRA.1.0.0.0.HVGNP | Gross national income at current prices per head of population  | 1000 EURO-FRF
+AMECO5.TXT FRA.1.0.99.0.HVGNP | Gross national income at current prices per head of population  | (1000 EUR)
+AMECO5.TXT FRA.1.0.212.0.HVGNP | Gross national income at current prices per head of population  | (1000 PPS)
+AMECO5.TXT FRA.1.0.99.315.HVGNPR | Gross national income at current prices per head of population  | (EUR: EU-15 = 100)
+AMECO5.TXT FRA.1.0.99.327.HVGNPR | Gross national income at current prices per head of population  | (EUR: EU-27 = 100)
+AMECO5.TXT FRA.1.0.212.315.HVGNPR | Gross national income at current prices per head of population  | (PPS: EU-15 = 100)
+AMECO5.TXT FRA.1.0.212.327.HVGNPR | Gross national income at current prices per head of population  | (PPS: EU-27 = 100)
+AMECO5.TXT FRA.1.0.0.0.UVNN | National income at current prices  | Mrd EURO-FRF
+AMECO5.TXT FRA.1.0.99.0.UVNN | National income at current prices  | Mrd ECU/EUR
+AMECO5.TXT FRA.1.0.212.0.UVNN | National income at current prices  | (Mrd PPS)
+AMECO5.TXT FRA.1.0.0.0.UVGT | Gross national disposable income  | Mrd EURO-FRF
+AMECO5.TXT FRA.1.0.99.0.UVGT | Gross national disposable income  | Mrd ECU/EUR
+AMECO5.TXT FRA.1.0.212.0.UVGT | Gross national disposable income  | (Mrd PPS)
+AMECO5.TXT FRA.1.0.0.0.UVNT | National disposable income  | Mrd EURO-FRF
+AMECO5.TXT FRA.1.0.99.0.UVNT | National disposable income  | Mrd ECU/EUR
+AMECO5.TXT FRA.1.0.212.0.UVNT | National disposable income  | (Mrd PPS)
+AMECO5.TXT FRA.1.0.0.0.HVGTP | Gross national disposable income per head of population  | 1000 EURO-FRF
+AMECO5.TXT FRA.1.0.99.0.HVGTP | Gross national disposable income per head of population  | (1000 EUR)
+AMECO5.TXT FRA.1.0.212.0.HVGTP | Gross national disposable income per head of population  | (1000 PPS)
+AMECO5.TXT FRA.1.0.99.315.HVGTPR | Gross national disposable income per head of population  | (EUR: EU-15 = 100)
+AMECO5.TXT FRA.1.0.99.327.HVGTPR | Gross national disposable income per head of population  | (EUR: EU-27 = 100)
+AMECO5.TXT FRA.1.0.212.315.HVGTPR | Gross national disposable income per head of population  | (PPS: EU-15 = 100)
+AMECO5.TXT FRA.1.0.212.327.HVGTPR | Gross national disposable income per head of population  | (PPS: EU-27 = 100)
+AMECO6.TXT FRA.1.0.0.0.UVGD | Gross domestic product at current prices  | Mrd EURO-FRF
+AMECO6.TXT FRA.1.0.99.0.UVGD | Gross domestic product at current prices  | Mrd ECU/EUR
+AMECO6.TXT FRA.1.0.212.0.UVGD | Gross domestic product at current prices  | (Mrd PPS)
+AMECO6.TXT FRA.1.0.99.215.UVGDR | Gross domestic product at current prices  | (EUR: EU-15 = 100)
+AMECO6.TXT FRA.1.0.99.315.UVGDR | Gross domestic product at current prices  | (EUR: EU-15 = 100)
+AMECO6.TXT FRA.1.0.99.327.UVGDR | Gross domestic product at current prices  | (EUR: EU-27 = 100)
+AMECO6.TXT FRA.1.0.212.215.UVGDR | Gross domestic product at current prices  | (PPS: EU-15 = 100)
+AMECO6.TXT FRA.1.0.212.315.UVGDR | Gross domestic product at current prices  | (PPS: EU-15 = 100)
+AMECO6.TXT FRA.1.0.212.327.UVGDR | Gross domestic product at current prices  | (PPS: EU-27 = 100)
+AMECO6.TXT FRA.1.0.0.0.UVGDH | Gross domestic product at current prices :- Reference level for excessive deficit procedur | Mrd EURO-FRF
+AMECO6.TXT FRA.1.0.99.0.UVGDH | Gross domestic product at current prices :- Reference level for excessive deficit procedur | Mrd ECU/EUR
+AMECO6.TXT FRA.1.1.0.0.OVGD | Gross domestic product at 2020 reference levels  | Mrd EURO-FRF
+AMECO6.TXT FRA.3.0.0.415.OVGDQ | Gross domestic product at 2020 reference levels :- Performance relative to the rest of the | (National currency: 2020 = 100)
+AMECO6.TXT FRA.3.0.0.424.OVGDQ | Gross domestic product at 2020 reference levels :- Performance relative to the rest of 24  | (National currency: 2020 = 100)
+AMECO6.TXT FRA.3.0.0.437.OVGDQ | Gross domestic product at 2020 reference levels :- Performance relative to the rest of 37  | (National currency: 2020 = 100)
+AMECO6.TXT FRA.3.1.0.0.OVGDA | Gross domestic product at 2020 reference levels adjusted for the impact of terms of trade  | (National currency: 2020 = 100)
+AMECO6.TXT FRA.3.1.0.0.PVGD | Price deflator gross domestic product  | (National currency: 2020 = 100)
+AMECO6.TXT FRA.3.1.99.0.PVGD | Price deflator gross domestic product  | ECU/EUR: 2020 = 100
+AMECO6.TXT FRA.3.0.0.415.PVGDQ | Price deflator gross domestic product :- Performance relative to the rest of the former EU | (National currency: 2020 = 100)
+AMECO6.TXT FRA.3.0.0.424.PVGDQ | Price deflator gross domestic product :- Performance relative to the rest of 24 industrial | (National currency: 2020 = 100)
+AMECO6.TXT FRA.3.0.0.437.PVGDQ | Price deflator gross domestic product :- Performance relative to the rest of 37 industrial | (National currency: 2020 = 100)
+AMECO6.TXT FRA.3.0.30.415.PVGDQ | Price deflator gross domestic product :- Performance relative to the rest of the former EU | (USD: 2020 = 100)
+AMECO6.TXT FRA.3.0.30.424.PVGDQ | Price deflator gross domestic product :- Performance relative to the rest of 24 industrial | (USD: 2020 = 100)
+AMECO6.TXT FRA.3.0.30.437.PVGDQ | Price deflator gross domestic product :- Performance relative to the rest of 37 industrial | (USD: 2020 = 100)
+AMECO6.TXT FRA.1.0.0.0.HVGDP | Gross domestic product at current prices per head of population  | 1000 EURO-FRF
+AMECO6.TXT FRA.1.0.99.0.HVGDP | Gross domestic product at current prices per head of population  | (1000 EUR)
+AMECO6.TXT FRA.1.0.212.0.HVGDP | Gross domestic product at current prices per head of population  | (1000 PPS)
+AMECO6.TXT FRA.1.0.99.315.HVGDPR | Gross domestic product at current prices per head of population  | (EUR: EU-15 = 100)
+AMECO6.TXT FRA.1.0.99.327.HVGDPR | Gross domestic product at current prices per head of population  | (EUR: EU-27 = 100)
+AMECO6.TXT FRA.1.0.212.315.HVGDPR | Gross domestic product at current prices per head of population  | (PPS: EU-15 = 100)
+AMECO6.TXT FRA.1.0.212.327.HVGDPR | Gross domestic product at current prices per head of population  | (PPS: EU-27 = 100)
+AMECO6.TXT FRA.1.1.0.0.RVGDP | Gross domestic product at 2020 reference levels per head of population  | 1000 EURO-FRF
+AMECO6.TXT FRA.1.0.99.0.HVGDE | Gross domestic product at current prices per person employed  | (1000 EUR)
+AMECO6.TXT FRA.1.0.212.0.HVGDE | Gross domestic product at current prices per person employed  | (1000 PPS)
+AMECO6.TXT FRA.1.0.99.215.HVGDER | Gross domestic product at current prices per person employed  | (EUR: EU-15 = 100)
+AMECO6.TXT FRA.1.0.99.315.HVGDER | Gross domestic product at current prices per person employed  | (EUR: EU-15 = 100)
+AMECO6.TXT FRA.1.0.99.327.HVGDER | Gross domestic product at current prices per person employed  | (EUR: EU-27 = 100)
+AMECO6.TXT FRA.1.0.212.215.HVGDER | Gross domestic product at current prices per person employed  | (PPS: EU-15 = 100)
+AMECO6.TXT FRA.1.0.212.315.HVGDER | Gross domestic product at current prices per person employed  | (PPS: EU-15 = 100)
+AMECO6.TXT FRA.1.0.212.327.HVGDER | Gross domestic product at current prices per person employed  | (PPS: EU-27 = 100)
+AMECO6.TXT FRA.1.1.0.0.RVGDE | Gross domestic product at 2015 reference levels per person employed  | 1000 EURO-FRF
+AMECO6.TXT FRA.3.0.0.415.RVGDEQ | GDP at 2015 reference levels per person employed: Relative performance: double export weig | (National currency: 2020 = 100)
+AMECO6.TXT FRA.3.0.0.424.RVGDEQ | GDP at 2015 reference levels per person employed: Relative performance: double export weig | (National currency: 2020 = 100)
+AMECO6.TXT FRA.3.0.0.437.RVGDEQ | GDP at 2015 reference levels per person employed: Relative performance: double export weig | (National currency: 2020 = 100)
+AMECO6.TXT FRA.1.0.0.0.HVGDH | Gross domestic product at current prices per hour worked  | 1000 EURO-FRF
+AMECO6.TXT FRA.1.0.212.315.HVGDHR | Gross domestic product at current prices per hour worked  | (PPS: EU-15 = 100)
+AMECO6.TXT FRA.1.0.212.327.HVGDHR | Gross domestic product at current prices per hour worked  | (PPS: EU-27 = 100)
+AMECO6.TXT FRA.1.0.0.0.NLHA | Average annual hours worked per person employed  | Hours
+AMECO6.TXT FRA.1.0.0.0.NLHT | Total annual hours worked: total economy  | (millions)
+AMECO6.TXT FRA.1.0.0.0.OVGDP | Potential gross domestic product at 2020 reference levels  | Mrd EURO-FRF
+AMECO6.TXT FRA.1.0.0.0.AVGDGP | Gap between actual and potential gross domestic product at 2020 reference levels  | (Percentage of potential gross domestic 
+AMECO6.TXT FRA.1.0.0.0.OVGDT | Trend gross domestic product at 2020 reference levels  | Mrd EURO-FRF
+AMECO6.TXT FRA.1.0.0.0.AVGDGT | Gap between actual and trend gross domestic product at 2020 reference levels  | (Percentage of trend gross domestic prod
+AMECO6.TXT FRA.1.1.0.0.RVGDAP | GDP at 2020 reference levels adjusted for the impact of terms of trade per head of populat | 1000 EURO-FRF
+AMECO6.TXT FRA.1.1.0.0.RVGDAE | GDP at 2020 reference levels adjusted for the impact of terms of trade per person employed | 1000 EURO-FRF
+AMECO6.TXT FRA.1.0.0.0.CVGD0 | Contribution to the increase of GDP at constant prices of private consumption  | (Percentage of GDP of preceding year)
+AMECO6.TXT FRA.1.0.0.0.CVGD1 | Contribution to the increase of GDP at constant prices of public consumption  | (Percentage of GDP of preceding year)
+AMECO6.TXT FRA.1.0.0.0.CVGD2 | Contribution to the increase of GDP at constant prices of gross fixed capital formation  | (Percentage of GDP of preceding year)
+AMECO6.TXT FRA.1.0.0.0.CVGD3 | Contribution to the increase of GDP at constant prices of domestic demand excluding stocks | (Percentage of GDP of preceding year)
+AMECO6.TXT FRA.1.0.0.0.CVGD4 | Contribution to the increase of GDP at constant prices of changes in inventories and acqui | (Percentage of GDP of preceding year)
+AMECO6.TXT FRA.1.0.0.0.CVGD5 | Contribution to the increase of GDP at constant prices of domestic demand including stocks | (Percentage of GDP of preceding year)
+AMECO6.TXT FRA.1.0.0.0.CVGD6 | Contribution to the increase of GDP at constant prices of exports of goods and services :- | (Percentage of GDP of preceding year)
+AMECO6.TXT FRA.1.0.0.0.CVGD7 | Contribution to the increase of GDP at constant prices of final demand :- including intra- | (Percentage of GDP of preceding year)
+AMECO6.TXT FRA.1.0.0.0.CVGD8 | Contribution to the increase of GDP at constant prices of imports of goods and services :- | (Percentage of GDP of preceding year)
+AMECO6.TXT FRA.1.0.0.0.CVGD9 | Contribution to the increase of GDP at constant prices of the balance of goods and service | (Percentage of GDP of preceding year)
+AMECO6.TXT FRA.1.0.0.0.CVGD10 | Contribution to the increase of GDP at constant prices of total consumption  | (Percentage of GDP of preceding year)
+AMECO6.TXT FRA.1.0.0.0.UYGD | Gross domestic product at current factor cost  | Mrd EURO-FRF
+AMECO6.TXT FRA.1.0.99.0.UYGD | Gross domestic product at current factor cost  | Mrd ECU/EUR
+AMECO6.TXT FRA.1.0.212.0.UYGD | Gross domestic product at current factor cost  | (Mrd PPS)
+AMECO6.TXT FRA.1.0.0.0.UVND | Domestic income at current prices  | Mrd EURO-FRF
+AMECO6.TXT FRA.1.0.99.0.UVND | Domestic income at current prices  | Mrd ECU/EUR
+AMECO6.TXT FRA.1.0.212.0.UVND | Domestic income at current prices  | (Mrd PPS)
+AMECO6.TXT FRA.1.0.0.0.UYND | Domestic income at current factor cost  | Mrd EURO-FRF
+AMECO6.TXT FRA.1.0.99.0.UYND | Domestic income at current factor cost  | Mrd ECU/EUR
+AMECO6.TXT FRA.1.0.212.0.UYND | Domestic income at current factor cost  | (Mrd PPS)
+AMECO6.TXT FRA.1.0.0.0.UVGE | Gross value added at current basic prices excluding FISIM: total economy  | Mrd EURO-FRF
+AMECO6.TXT FRA.1.0.99.0.UVGE | Gross value added at current basic prices excluding FISIM: total economy  | Mrd ECU/EUR
+AMECO6.TXT FRA.1.0.212.0.UVGE | Gross value added at current basic prices excluding FISIM: total economy  | (Mrd PPS)
+AMECO6.TXT FRA.1.1.0.0.OVGE | Gross value added at 2020 basic prices excluding FISIM: total economy  | Mrd EURO-FRF
+AMECO7.TXT FRA.1.0.0.0.UWCD | Compensation of employees: total economy  | Mrd EURO-FRF
+AMECO7.TXT FRA.1.0.99.0.UWCD | Compensation of employees: total economy  | Mrd ECU/EUR
+AMECO7.TXT FRA.1.0.212.0.UWCD | Compensation of employees: total economy  | (Mrd PPS)
+AMECO7.TXT FRA.1.0.0.0.UTVT | Taxes linked to imports and production: total economy  | Mrd EURO-FRF
+AMECO7.TXT FRA.1.0.0.0.UTVN | Taxes linked to imports and production minus subsidies: total economy  | Mrd EURO-FRF
+AMECO7.TXT FRA.1.0.0.0.UYVT | Subsidies: total economy  | Mrd EURO-FRF
+AMECO7.TXT FRA.1.0.99.0.UTVN | Taxes linked to imports and production minus subsidies: total economy  | Mrd ECU/EUR
+AMECO7.TXT FRA.1.0.99.0.UTVT | Taxes linked to imports and production: total economy  | Mrd ECU/EUR
+AMECO7.TXT FRA.1.0.99.0.UYVT | Subsidies: total economy  | Mrd ECU/EUR
+AMECO7.TXT FRA.1.0.0.0.UOGD | Gross operating surplus: total economy  | Mrd EURO-FRF
+AMECO7.TXT FRA.1.0.0.0.UQGD | Gross operating surplus: total economy :- Adjusted for imputed compensation of self-employ | Mrd EURO-FRF
+AMECO7.TXT FRA.1.0.99.0.UOGD | Gross operating surplus: total economy  | Mrd ECU/EUR
+AMECO7.TXT FRA.1.0.99.0.UQGD | Gross operating surplus: total economy :- Adjusted for imputed compensation of self-employ | Mrd ECU/EUR
+AMECO7.TXT FRA.1.0.0.0.UOND | Net operating surplus: total economy  | Mrd EURO-FRF
+AMECO7.TXT FRA.1.0.0.0.UQND | Net operating surplus: total economy :- Adjusted for imputed compensation of self-employed | Mrd EURO-FRF
+AMECO7.TXT FRA.1.0.99.0.UOND | Net operating surplus: total economy  | Mrd ECU/EUR
+AMECO7.TXT FRA.1.0.99.0.UQND | Net operating surplus: total economy :- Adjusted for imputed compensation of self-employed | Mrd ECU/EUR
+AMECO7.TXT FRA.1.0.0.0.HWCDW | Nominal compensation per employee: total economy  | 1000 EURO-FRF
+AMECO7.TXT FRA.1.0.99.0.HWCDW | Nominal compensation per employee: total economy  | (1000 EUR)
+AMECO7.TXT FRA.1.0.99.215.HWCDWR | Nominal compensation per employee: total economy: Performance relative to...: (country/gro | (EUR: EU-15 = 100)
+AMECO7.TXT FRA.1.0.99.315.HWCDWR | Nominal compensation per employee: total economy: Performance relative to...: (country/gro | (EUR: EU-15 = 100)
+AMECO7.TXT FRA.1.0.99.327.HWCDWR | Nominal compensation per employee: total economy: Performance relative to...: (country/gro | (EUR: EU-27 = 100)
+AMECO7.TXT FRA.1.0.212.215.HWCDWR | Nominal compensation per employee: total economy: Performance relative to...: (country/gro | (PPS: EU-15 = 100)
+AMECO7.TXT FRA.1.0.212.315.HWCDWR | Nominal compensation per employee: total economy: Performance relative to...: (country/gro | (PPS: EU-15 = 100)
+AMECO7.TXT FRA.1.0.212.327.HWCDWR | Nominal compensation per employee: total economy: Performance relative to...: (country/gro | (PPS: EU-27 = 100)
+AMECO7.TXT FRA.3.0.0.415.HWCDWQ | Nominal compensation per employee: total economy: Relative performance: double export weig | (National currency: 2020 = 100)
+AMECO7.TXT FRA.3.0.0.424.HWCDWQ | Nominal compensation per employee: total economy: Relative performance: double export weig | (National currency: 2020 = 100)
+AMECO7.TXT FRA.3.0.0.437.HWCDWQ | Nominal compensation per employee: total economy: Relative performance: double export weig | (National currency: 2020 = 100)
+AMECO7.TXT FRA.3.0.30.415.HWCDWQ | Nominal compensation per employee: total economy: Relative performance: double export weig | (USD: 2020 = 100)
+AMECO7.TXT FRA.3.0.30.424.HWCDWQ | Nominal compensation per employee: total economy: Relative performance: double export weig | (USD: 2020 = 100)
+AMECO7.TXT FRA.3.0.30.437.HWCDWQ | Nominal compensation per employee: total economy: Relative performance: double export weig | (USD: 2020 = 100)
+AMECO7.TXT FRA.3.1.0.0.RWCDV | Real compensation per employee deflator GDP: total economy  | (National currency: 2020 = 100)
+AMECO7.TXT FRA.3.0.0.415.RWCDVQ | Real compensation per employee deflator GDP: total economy :- Performance relative to the  | (National currency: 2020 = 100)
+AMECO7.TXT FRA.3.0.0.424.RWCDVQ | Real compensation per employee deflator GDP: total economy :- Performance relative to the  | (National currency: 2020 = 100)
+AMECO7.TXT FRA.3.0.0.437.RWCDVQ | Real compensation per employee deflator GDP: total economy :- Performance relative to the  | (National currency: 2020 = 100)
+AMECO7.TXT FRA.3.1.0.0.RWCDC | Real compensation per employee deflator private consumption: total economy  | (National currency: 2020 = 100)
+AMECO7.TXT FRA.1.0.0.0.ALCD0 | Adjusted wage share: total economy: as percentage of GDP at current prices (Compensation p | Percentage of GDP
+AMECO7.TXT FRA.1.0.0.0.ALCD2 | Adjusted wage share: total economy: as percentage of GDP at current factor cost (Compensat | Percentage of GDP at factor cost
+AMECO7.TXT FRA.3.1.0.0.PLCD | Nominal unit labour costs (ratio of compensation per employee to real GDP per employee) (R | (National currency: 2020 = 100)
+AMECO7.TXT FRA.3.1.99.0.PLCD | Nominal unit labour costs (ratio of compensation per employee to real GDP per employee) (R | (EUR: 2020 = 100)
+AMECO7.TXT FRA.3.0.0.415.PLCDQ | Nominal unit labour costs: (ratio of compensation per employee to real GDP per employee):  | (National currency: 2020 = 100)
+AMECO7.TXT FRA.3.0.0.424.PLCDQ | Nominal unit labour costs: (ratio of compensation per employee to real GDP per employee):  | (National currency: 2020 = 100)
+AMECO7.TXT FRA.3.0.0.437.PLCDQ | Nominal unit labour costs: (ratio of compensation per employee to real GDP per employee):  | (National currency: 2020 = 100)
+AMECO7.TXT FRA.3.0.30.415.PLCDQ | Nominal unit labour costs: (ratio of compensation per employee to real GDP per employee):  | (USD: 2020 = 100)
+AMECO7.TXT FRA.3.0.30.424.PLCDQ | Nominal unit labour costs: (ratio of compensation per employee to real GDP per employee):  | (USD: 2020 = 100)
+AMECO7.TXT FRA.3.0.30.437.PLCDQ | Nominal unit labour costs: (ratio of compensation per employee to real GDP per employee):  | (USD: 2020 = 100)
+AMECO7.TXT FRA.3.1.0.0.QLCD | Real unit labour costs (ratio of compensation per employee to nominal GDP per person emplo | (2020 = 100)
+AMECO7.TXT FRA.3.0.0.415.QLCDQ | Real unit labour costs (ratio of compensation per employee to nominal GDP per person emplo | (2020 = 100)
+AMECO7.TXT FRA.3.0.0.424.QLCDQ | Real unit labour costs (ratio of compensation per employee to nominal GDP per person emplo | (2020 = 100)
+AMECO7.TXT FRA.3.0.0.437.QLCDQ | Real unit labour costs (ratio of compensation per employee to nominal GDP per person emplo | (2020 = 100)
+AMECO8.TXT FRA.1.0.0.0.OKND | Net capital stock at 2020 prices: total economy  | Mrd EURO-FRF
+AMECO8.TXT FRA.1.0.99.0.OKND | Net capital stock at 2020 prices: total economy  | Mrd ECU/EUR
+AMECO8.TXT FRA.1.0.0.0.RKNDE | Net capital stock at 2020 prices per person employed: total economy :- Capital intensity  | 1000 EURO-FRF
+AMECO8.TXT FRA.1.0.0.0.AKNDV | Net capital stock per unit of gross domestic product at constant prices :- Capital output  | capital output ratio
+AMECO8.TXT FRA.1.0.0.0.AVGDK | Gross domestic product at 2020 reference levels per unit of net capital stock :- Capital p | capital productivity
+AMECO8.TXT FRA.3.0.0.0.APNDK | Net returns on net capital stock: total economy  | (2020 = 100)
+AMECO8.TXT FRA.3.0.0.0.ZVGDF | Total factor productivity: total economy  | (2020 = 100)
+AMECO8.TXT FRA.3.0.0.0.ZVGDE | Labour share in total factor productivity: total economy  | (2020 = 100)
+AMECO8.TXT FRA.3.0.0.0.ZVGDK | Capital share in total factor productivity: total economy  | (2020 = 100)
+AMECO8.TXT FRA.3.0.0.0.ZKNDE | Labour-capital substitution: total economy  | (2020 = 100)
+AMECO8.TXT FRA.3.0.0.0.ZEKND | Capital-labour substitution: total economy  | (2020 = 100)
+AMECO8.TXT FRA.1.0.0.0.AKGDV | Marginal efficiency of capital: total economy (Change in GDP at constant market prices of  | Marginal efficiency of capital
+AMECO9.TXT FRA.1.0.0.0.UXGS | Exports of goods and services at current prices (National accounts)  | Mrd EURO-FRF
+AMECO9.TXT FRA.1.0.99.0.UXGS | Exports of goods and services at current prices (National accounts)  | Mrd ECU/EUR
+AMECO9.TXT FRA.1.1.0.0.OXGS | Exports of goods and services at 2020 prices  | Mrd EURO-FRF
+AMECO9.TXT FRA.3.0.0.415.OXGSQ | Exports of goods and services at 2020 prices :- Performance relative to the rest of the fo | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.0.0.424.OXGSQ | Exports of goods and services at 2020 prices :- Performance relative to the rest of 24 ind | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.0.0.437.OXGSQ | Exports of goods and services at 2020 prices :- Performance relative to the rest of 37 ind | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.1.0.0.PXGS | Price deflator exports of goods and services  | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.1.99.0.PXGS | Price deflator exports of goods and services  | ECU/EUR: 2020 = 100
+AMECO9.TXT FRA.3.0.0.415.PXGSQ | Price deflator exports of goods and services :- Performance relative to the rest of the fo | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.0.0.424.PXGSQ | Price deflator exports of goods and services :- Performance relative to the rest of 24 ind | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.0.0.437.PXGSQ | Price deflator exports of goods and services :- Performance relative to the rest of 37 ind | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.0.30.415.PXGSQ | Price deflator exports of goods and services :- Performance relative to the rest of the fo | (USD: 2020 = 100)
+AMECO9.TXT FRA.3.0.30.424.PXGSQ | Price deflator exports of goods and services :- Performance relative to the rest of 24 ind | (USD: 2020 = 100)
+AMECO9.TXT FRA.3.0.30.437.PXGSQ | Price deflator exports of goods and services :- Performance relative to the rest of 37 ind | (USD: 2020 = 100)
+AMECO9.TXT FRA.3.0.0.0.VXGSP | Market performance of exports of goods and services on export weighted imports of goods an | (2020 = 100)
+AMECO9.TXT FRA.3.0.0.0.VMGSW | Export markets: Export weighted imports :- Goods and services at constant prices: 36 indus | (2020 = 100)
+AMECO9.TXT FRA.1.0.0.0.UMGS | Imports of goods and services at current prices (National accounts)  | Mrd EURO-FRF
+AMECO9.TXT FRA.1.0.99.0.UMGS | Imports of goods and services at current prices (National accounts)  | Mrd ECU/EUR
+AMECO9.TXT FRA.1.1.0.0.OMGS | Imports of goods and services at 2020 prices  | Mrd EURO-FRF
+AMECO9.TXT FRA.3.1.0.0.PMGS | Price deflator imports of goods and services  | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.1.99.0.PMGS | Price deflator imports of goods and services  | ECU/EUR: 2020 = 100
+AMECO9.TXT FRA.1.0.0.0.UXGN | Exports of goods at current prices (National accounts)  | Mrd EURO-FRF
+AMECO9.TXT FRA.1.0.99.0.UXGN | Exports of goods at current prices (National accounts)  | Mrd ECU/EUR
+AMECO9.TXT FRA.1.1.0.0.OXGN | Exports of goods at 2020 prices  | Mrd EURO-FRF
+AMECO9.TXT FRA.3.1.0.0.PXGN | Price deflator exports of goods  | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.1.99.0.PXGN | Price deflator exports of goods  | ECU/EUR: 2020 = 100
+AMECO9.TXT FRA.1.0.0.0.UXSN | Exports of services at current prices (National accounts)  | Mrd EURO-FRF
+AMECO9.TXT FRA.1.0.99.0.UXSN | Exports of services at current prices (National accounts)  | Mrd ECU/EUR
+AMECO9.TXT FRA.1.1.0.0.OXSN | Exports of services at 2020 prices  | Mrd EURO-FRF
+AMECO9.TXT FRA.3.1.0.0.PXSN | Price deflator exports of services  | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.1.99.0.PXSN | Price deflator exports of services  | ECU/EUR: 2020 = 100
+AMECO9.TXT FRA.1.0.0.0.UMGN | Imports of goods at current prices (National accounts)  | Mrd EURO-FRF
+AMECO9.TXT FRA.1.0.99.0.UMGN | Imports of goods at current prices (National accounts)  | Mrd ECU/EUR
+AMECO9.TXT FRA.1.1.0.0.OMGN | Imports of goods at 2020 prices  | Mrd EURO-FRF
+AMECO9.TXT FRA.3.1.0.0.PMGN | Price deflator imports of goods  | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.1.99.0.PMGN | Price deflator imports of goods  | ECU/EUR: 2020 = 100
+AMECO9.TXT FRA.1.0.0.0.UMSN | Imports of services at current prices (National accounts)  | Mrd EURO-FRF
+AMECO9.TXT FRA.1.0.99.0.UMSN | Imports of services at current prices (National accounts)  | Mrd ECU/EUR
+AMECO9.TXT FRA.1.1.0.0.OMSN | Imports of services at 2020 prices  | Mrd EURO-FRF
+AMECO9.TXT FRA.3.1.0.0.PMSN | Price deflator imports of services  | (National currency: 2020 = 100)
+AMECO9.TXT FRA.3.1.99.0.PMSN | Price deflator imports of services  | ECU/EUR: 2020 = 100
+AMECO9.TXT FRA.3.0.0.0.APGS | Terms of trade goods and services (National accounts)  | (2020 = 100)
+AMECO9.TXT FRA.3.0.0.0.APGN | Terms of trade goods (National accounts)  | (2020 = 100)
+AMECO9.TXT FRA.3.0.0.0.APSN | Terms of trade services (National accounts)  | (2020 = 100)
+AMECO9.TXT FRA.1.0.0.0.APTA | Impact of terms of trade goods and services on real income  | (Percentage of gross domestic product at
