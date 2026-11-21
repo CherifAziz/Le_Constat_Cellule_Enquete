@@ -1,0 +1,737 @@
+annee;secteur;controle;ecart
+1974;S13;recettes-depenses-B9 (Md€);-0.0
+1974;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0005
+1974;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+1974;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+1975;S13;recettes-depenses-B9 (Md€);0.0
+1975;S13;B9 t_32xx - B9 fichier solde (Md€);0.0
+1975;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1975;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1976;S13;recettes-depenses-B9 (Md€);0.0
+1976;S13;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1976;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1976;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1977;S13;recettes-depenses-B9 (Md€);0.0
+1977;S13;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1977;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+1977;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+1978;S13;recettes-depenses-B9 (Md€);0.0
+1978;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1978;S1311;recettes-depenses-B9 (Md€);0.0
+1978;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1978;S13111;recettes-depenses-B9 (Md€);-0.0
+1978;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1978;S13112;recettes-depenses-B9 (Md€);0.0
+1978;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0004
+1978;S1313;recettes-depenses-B9 (Md€);0.0
+1978;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+1978;S1314;recettes-depenses-B9 (Md€);-0.0
+1978;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1978;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1978;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+1978;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+1979;S13;recettes-depenses-B9 (Md€);-0.0
+1979;S13;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1979;S1311;recettes-depenses-B9 (Md€);-0.0
+1979;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1979;S13111;recettes-depenses-B9 (Md€);-0.0
+1979;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1979;S13112;recettes-depenses-B9 (Md€);0.0
+1979;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1979;S1313;recettes-depenses-B9 (Md€);-0.0
+1979;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0
+1979;S1314;recettes-depenses-B9 (Md€);-0.0
+1979;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1979;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1979;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1979;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1980;S13;recettes-depenses-B9 (Md€);-0.0
+1980;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1980;S1311;recettes-depenses-B9 (Md€);-0.0
+1980;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1980;S13111;recettes-depenses-B9 (Md€);-0.0
+1980;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1980;S13112;recettes-depenses-B9 (Md€);0.0
+1980;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0004
+1980;S1313;recettes-depenses-B9 (Md€);0.0
+1980;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1980;S1314;recettes-depenses-B9 (Md€);0.0
+1980;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0
+1980;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1980;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1980;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1981;S13;recettes-depenses-B9 (Md€);-0.0
+1981;S13;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1981;S1311;recettes-depenses-B9 (Md€);0.0
+1981;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1981;S13111;recettes-depenses-B9 (Md€);0.0
+1981;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1981;S13112;recettes-depenses-B9 (Md€);-0.0
+1981;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1981;S1313;recettes-depenses-B9 (Md€);-0.0
+1981;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1981;S1314;recettes-depenses-B9 (Md€);-0.0
+1981;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1981;PIB;PIB(3215)-PIB(3216) Md€;0.0
+1981;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1981;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1982;S13;recettes-depenses-B9 (Md€);0.0
+1982;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1982;S1311;recettes-depenses-B9 (Md€);-0.0
+1982;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1982;S13111;recettes-depenses-B9 (Md€);-0.0
+1982;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0
+1982;S13112;recettes-depenses-B9 (Md€);-0.0
+1982;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1982;S1313;recettes-depenses-B9 (Md€);-0.0
+1982;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1982;S1314;recettes-depenses-B9 (Md€);-0.0
+1982;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1982;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1982;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1982;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1983;S13;recettes-depenses-B9 (Md€);0.0
+1983;S13;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1983;S1311;recettes-depenses-B9 (Md€);-0.0
+1983;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1983;S13111;recettes-depenses-B9 (Md€);-0.0
+1983;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+1983;S13112;recettes-depenses-B9 (Md€);0.0
+1983;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1983;S1313;recettes-depenses-B9 (Md€);-0.0
+1983;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1983;S1314;recettes-depenses-B9 (Md€);-0.0
+1983;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0
+1983;PIB;PIB(3215)-PIB(3216) Md€;0.0
+1983;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1983;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1984;S13;recettes-depenses-B9 (Md€);0.0
+1984;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1984;S1311;recettes-depenses-B9 (Md€);-0.0
+1984;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1984;S13111;recettes-depenses-B9 (Md€);-0.0
+1984;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1984;S13112;recettes-depenses-B9 (Md€);-0.0
+1984;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+1984;S1313;recettes-depenses-B9 (Md€);-0.0
+1984;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1984;S1314;recettes-depenses-B9 (Md€);0.0
+1984;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1984;PIB;PIB(3215)-PIB(3216) Md€;0.0
+1984;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1984;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1985;S13;recettes-depenses-B9 (Md€);-0.0
+1985;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1985;S1311;recettes-depenses-B9 (Md€);0.0
+1985;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1985;S13111;recettes-depenses-B9 (Md€);0.0
+1985;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1985;S13112;recettes-depenses-B9 (Md€);-0.0
+1985;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+1985;S1313;recettes-depenses-B9 (Md€);-0.0
+1985;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+1985;S1314;recettes-depenses-B9 (Md€);-0.0
+1985;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0005
+1985;PIB;PIB(3215)-PIB(3216) Md€;0.0
+1985;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+1985;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+1986;S13;recettes-depenses-B9 (Md€);0.0
+1986;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1986;S1311;recettes-depenses-B9 (Md€);0.0
+1986;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1986;S13111;recettes-depenses-B9 (Md€);0.0
+1986;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1986;S13112;recettes-depenses-B9 (Md€);-0.0
+1986;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+1986;S1313;recettes-depenses-B9 (Md€);0.0
+1986;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0
+1986;S1314;recettes-depenses-B9 (Md€);-0.0
+1986;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1986;PIB;PIB(3215)-PIB(3216) Md€;0.0
+1986;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+1986;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+1987;S13;recettes-depenses-B9 (Md€);0.0
+1987;S13;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1987;S1311;recettes-depenses-B9 (Md€);0.0
+1987;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1987;S13111;recettes-depenses-B9 (Md€);0.0
+1987;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+1987;S13112;recettes-depenses-B9 (Md€);0.0
+1987;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+1987;S1313;recettes-depenses-B9 (Md€);-0.0
+1987;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0
+1987;S1314;recettes-depenses-B9 (Md€);-0.0
+1987;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1987;PIB;PIB(3215)-PIB(3216) Md€;0.0
+1987;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1987;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1988;S13;recettes-depenses-B9 (Md€);-0.0
+1988;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1988;S1311;recettes-depenses-B9 (Md€);-0.0
+1988;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1988;S13111;recettes-depenses-B9 (Md€);0.0
+1988;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+1988;S13112;recettes-depenses-B9 (Md€);0.0
+1988;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1988;S1313;recettes-depenses-B9 (Md€);0.0
+1988;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1988;S1314;recettes-depenses-B9 (Md€);0.0
+1988;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1988;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1988;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1988;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1989;S13;recettes-depenses-B9 (Md€);0.0
+1989;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1989;S1311;recettes-depenses-B9 (Md€);0.0
+1989;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1989;S13111;recettes-depenses-B9 (Md€);-0.0
+1989;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0
+1989;S13112;recettes-depenses-B9 (Md€);0.0
+1989;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1989;S1313;recettes-depenses-B9 (Md€);0.0
+1989;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1989;S1314;recettes-depenses-B9 (Md€);-0.0
+1989;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1989;PIB;PIB(3215)-PIB(3216) Md€;0.0
+1989;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1989;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1990;S13;recettes-depenses-B9 (Md€);-0.0
+1990;S13;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1990;S1311;recettes-depenses-B9 (Md€);-0.0
+1990;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1990;S13111;recettes-depenses-B9 (Md€);0.0
+1990;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1990;S13112;recettes-depenses-B9 (Md€);-0.0
+1990;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+1990;S1313;recettes-depenses-B9 (Md€);-0.0
+1990;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1990;S1314;recettes-depenses-B9 (Md€);-0.0
+1990;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0
+1990;PIB;PIB(3215)-PIB(3216) Md€;0.0
+1990;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1990;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1991;S13;recettes-depenses-B9 (Md€);0.0
+1991;S13;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1991;S1311;recettes-depenses-B9 (Md€);0.0
+1991;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1991;S13111;recettes-depenses-B9 (Md€);0.0
+1991;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1991;S13112;recettes-depenses-B9 (Md€);-0.0
+1991;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1991;S1313;recettes-depenses-B9 (Md€);-0.0
+1991;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1991;S1314;recettes-depenses-B9 (Md€);-0.0
+1991;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1991;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1991;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+1991;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+1992;S13;recettes-depenses-B9 (Md€);0.0
+1992;S13;B9 t_32xx - B9 fichier solde (Md€);0.0
+1992;S1311;recettes-depenses-B9 (Md€);0.0
+1992;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1992;S13111;recettes-depenses-B9 (Md€);0.0
+1992;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1992;S13112;recettes-depenses-B9 (Md€);0.0
+1992;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1992;S1313;recettes-depenses-B9 (Md€);-0.0
+1992;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1992;S1314;recettes-depenses-B9 (Md€);0.0
+1992;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1992;PIB;PIB(3215)-PIB(3216) Md€;0.0
+1992;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+1992;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+1993;S13;recettes-depenses-B9 (Md€);-0.0
+1993;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1993;S1311;recettes-depenses-B9 (Md€);0.0
+1993;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1993;S13111;recettes-depenses-B9 (Md€);0.0
+1993;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1993;S13112;recettes-depenses-B9 (Md€);0.0
+1993;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1993;S1313;recettes-depenses-B9 (Md€);-0.0
+1993;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0004
+1993;S1314;recettes-depenses-B9 (Md€);0.0
+1993;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+1993;PIB;PIB(3215)-PIB(3216) Md€;0.0
+1993;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1993;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1994;S13;recettes-depenses-B9 (Md€);0.0
+1994;S13;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1994;S1311;recettes-depenses-B9 (Md€);-0.0
+1994;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1994;S13111;recettes-depenses-B9 (Md€);0.0
+1994;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1994;S13112;recettes-depenses-B9 (Md€);0.0
+1994;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0005
+1994;S1313;recettes-depenses-B9 (Md€);0.0
+1994;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1994;S1314;recettes-depenses-B9 (Md€);0.0
+1994;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1994;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1994;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+1994;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+1995;S13;recettes-depenses-B9 (Md€);-0.0
+1995;S13;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1995;S1311;recettes-depenses-B9 (Md€);0.0
+1995;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0
+1995;S13111;recettes-depenses-B9 (Md€);0.0
+1995;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0
+1995;S13112;recettes-depenses-B9 (Md€);-0.0
+1995;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+1995;S1313;recettes-depenses-B9 (Md€);-0.0
+1995;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1995;S1314;recettes-depenses-B9 (Md€);-0.0
+1995;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1995;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1995;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+1995;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+1996;S13;recettes-depenses-B9 (Md€);-0.0
+1996;S13;B9 t_32xx - B9 fichier solde (Md€);0.0
+1996;S1311;recettes-depenses-B9 (Md€);-0.0
+1996;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0
+1996;S13111;recettes-depenses-B9 (Md€);-0.0
+1996;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1996;S13112;recettes-depenses-B9 (Md€);0.0
+1996;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1996;S1313;recettes-depenses-B9 (Md€);-0.0
+1996;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1996;S1314;recettes-depenses-B9 (Md€);-0.0
+1996;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1996;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1996;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1996;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1997;S13;recettes-depenses-B9 (Md€);-0.0
+1997;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1997;S1311;recettes-depenses-B9 (Md€);-0.0
+1997;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1997;S13111;recettes-depenses-B9 (Md€);0.0
+1997;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1997;S13112;recettes-depenses-B9 (Md€);-0.0
+1997;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+1997;S1313;recettes-depenses-B9 (Md€);-0.0
+1997;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+1997;S1314;recettes-depenses-B9 (Md€);-0.0
+1997;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1997;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1997;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+1997;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+1998;S13;recettes-depenses-B9 (Md€);-0.0
+1998;S13;B9 t_32xx - B9 fichier solde (Md€);0.0003
+1998;S1311;recettes-depenses-B9 (Md€);0.0
+1998;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1998;S13111;recettes-depenses-B9 (Md€);0.0
+1998;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1998;S13112;recettes-depenses-B9 (Md€);0.0
+1998;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1998;S1313;recettes-depenses-B9 (Md€);-0.0
+1998;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1998;S1314;recettes-depenses-B9 (Md€);0.0
+1998;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0005
+1998;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1998;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+1998;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+1999;S13;recettes-depenses-B9 (Md€);-0.0
+1999;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+1999;S1311;recettes-depenses-B9 (Md€);0.0
+1999;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0004
+1999;S13111;recettes-depenses-B9 (Md€);-0.0
+1999;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1999;S13112;recettes-depenses-B9 (Md€);-0.0
+1999;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1999;S1313;recettes-depenses-B9 (Md€);0.0
+1999;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0001
+1999;S1314;recettes-depenses-B9 (Md€);-0.0
+1999;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0002
+1999;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+1999;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+1999;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2000;S13;recettes-depenses-B9 (Md€);-0.0
+2000;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2000;S1311;recettes-depenses-B9 (Md€);-0.0
+2000;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+2000;S13111;recettes-depenses-B9 (Md€);0.0
+2000;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2000;S13112;recettes-depenses-B9 (Md€);0.0
+2000;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2000;S1313;recettes-depenses-B9 (Md€);0.0
+2000;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2000;S1314;recettes-depenses-B9 (Md€);0.0
+2000;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+2000;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2000;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2000;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2001;S13;recettes-depenses-B9 (Md€);0.0
+2001;S13;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2001;S1311;recettes-depenses-B9 (Md€);0.0
+2001;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+2001;S13111;recettes-depenses-B9 (Md€);-0.0
+2001;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2001;S13112;recettes-depenses-B9 (Md€);0.0
+2001;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2001;S1313;recettes-depenses-B9 (Md€);-0.0
+2001;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+2001;S1314;recettes-depenses-B9 (Md€);-0.0
+2001;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2001;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2001;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2001;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2002;S13;recettes-depenses-B9 (Md€);-0.0
+2002;S13;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2002;S1311;recettes-depenses-B9 (Md€);0.0
+2002;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2002;S13111;recettes-depenses-B9 (Md€);-0.0
+2002;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2002;S13112;recettes-depenses-B9 (Md€);-0.0
+2002;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2002;S1313;recettes-depenses-B9 (Md€);-0.0
+2002;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2002;S1314;recettes-depenses-B9 (Md€);0.0
+2002;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+2002;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2002;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2002;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2003;S13;recettes-depenses-B9 (Md€);-0.0
+2003;S13;B9 t_32xx - B9 fichier solde (Md€);0.0
+2003;S1311;recettes-depenses-B9 (Md€);-0.0
+2003;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2003;S13111;recettes-depenses-B9 (Md€);0.0
+2003;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2003;S13112;recettes-depenses-B9 (Md€);0.0
+2003;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+2003;S1313;recettes-depenses-B9 (Md€);0.0
+2003;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0005
+2003;S1314;recettes-depenses-B9 (Md€);-0.0
+2003;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2003;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2003;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2003;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2004;S13;recettes-depenses-B9 (Md€);-0.0
+2004;S13;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2004;S1311;recettes-depenses-B9 (Md€);0.0
+2004;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2004;S13111;recettes-depenses-B9 (Md€);-0.0
+2004;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2004;S13112;recettes-depenses-B9 (Md€);-0.0
+2004;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+2004;S1313;recettes-depenses-B9 (Md€);0.0
+2004;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0
+2004;S1314;recettes-depenses-B9 (Md€);0.0
+2004;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+2004;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2004;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2004;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2005;S13;recettes-depenses-B9 (Md€);-0.0
+2005;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+2005;S1311;recettes-depenses-B9 (Md€);-0.0
+2005;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2005;S13111;recettes-depenses-B9 (Md€);-0.0
+2005;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2005;S13112;recettes-depenses-B9 (Md€);0.0
+2005;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+2005;S1313;recettes-depenses-B9 (Md€);-0.0
+2005;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2005;S1314;recettes-depenses-B9 (Md€);-0.0
+2005;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2005;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2005;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2005;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2006;S13;recettes-depenses-B9 (Md€);-0.0
+2006;S13;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2006;S1311;recettes-depenses-B9 (Md€);0.0
+2006;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+2006;S13111;recettes-depenses-B9 (Md€);-0.0
+2006;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+2006;S13112;recettes-depenses-B9 (Md€);0.0
+2006;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+2006;S1313;recettes-depenses-B9 (Md€);0.0
+2006;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2006;S1314;recettes-depenses-B9 (Md€);-0.0
+2006;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0005
+2006;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+2006;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2006;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2007;S13;recettes-depenses-B9 (Md€);-0.0
+2007;S13;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2007;S1311;recettes-depenses-B9 (Md€);-0.0
+2007;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2007;S13111;recettes-depenses-B9 (Md€);0.0
+2007;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2007;S13112;recettes-depenses-B9 (Md€);-0.0
+2007;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2007;S1313;recettes-depenses-B9 (Md€);0.0
+2007;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2007;S1314;recettes-depenses-B9 (Md€);-0.0
+2007;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0005
+2007;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+2007;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2007;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2008;S13;recettes-depenses-B9 (Md€);0.0
+2008;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+2008;S1311;recettes-depenses-B9 (Md€);0.0
+2008;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0
+2008;S13111;recettes-depenses-B9 (Md€);0.0
+2008;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+2008;S13112;recettes-depenses-B9 (Md€);-0.0
+2008;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2008;S1313;recettes-depenses-B9 (Md€);0.0
+2008;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2008;S1314;recettes-depenses-B9 (Md€);-0.0
+2008;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+2008;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+2008;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2008;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2009;S13;recettes-depenses-B9 (Md€);0.0
+2009;S13;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2009;S1311;recettes-depenses-B9 (Md€);0.0
+2009;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+2009;S13111;recettes-depenses-B9 (Md€);-0.0
+2009;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2009;S13112;recettes-depenses-B9 (Md€);0.0
+2009;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2009;S1313;recettes-depenses-B9 (Md€);-0.0
+2009;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+2009;S1314;recettes-depenses-B9 (Md€);0.0
+2009;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2009;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2009;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2009;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2010;S13;recettes-depenses-B9 (Md€);-0.0
+2010;S13;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2010;S1311;recettes-depenses-B9 (Md€);-0.0
+2010;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2010;S13111;recettes-depenses-B9 (Md€);-0.0
+2010;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2010;S13112;recettes-depenses-B9 (Md€);-0.0
+2010;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+2010;S1313;recettes-depenses-B9 (Md€);0.0
+2010;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2010;S1314;recettes-depenses-B9 (Md€);0.0
+2010;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2010;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2010;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2010;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2011;S13;recettes-depenses-B9 (Md€);-0.0
+2011;S13;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2011;S1311;recettes-depenses-B9 (Md€);0.0
+2011;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2011;S13111;recettes-depenses-B9 (Md€);-0.0
+2011;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2011;S13112;recettes-depenses-B9 (Md€);-0.0
+2011;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2011;S1313;recettes-depenses-B9 (Md€);0.0
+2011;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+2011;S1314;recettes-depenses-B9 (Md€);0.0
+2011;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2011;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+2011;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2011;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2012;S13;recettes-depenses-B9 (Md€);-0.0
+2012;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2012;S1311;recettes-depenses-B9 (Md€);-0.0
+2012;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2012;S13111;recettes-depenses-B9 (Md€);0.0
+2012;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2012;S13112;recettes-depenses-B9 (Md€);0.0
+2012;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+2012;S1313;recettes-depenses-B9 (Md€);-0.0
+2012;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2012;S1314;recettes-depenses-B9 (Md€);0.0
+2012;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2012;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2012;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2012;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2013;S13;recettes-depenses-B9 (Md€);-0.0
+2013;S13;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2013;S1311;recettes-depenses-B9 (Md€);-0.0
+2013;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2013;S13111;recettes-depenses-B9 (Md€);0.0
+2013;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2013;S13112;recettes-depenses-B9 (Md€);-0.0
+2013;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+2013;S1313;recettes-depenses-B9 (Md€);-0.0
+2013;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0
+2013;S1314;recettes-depenses-B9 (Md€);-0.0
+2013;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0
+2013;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2013;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2013;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2014;S13;recettes-depenses-B9 (Md€);-0.0
+2014;S13;B9 t_32xx - B9 fichier solde (Md€);0.0
+2014;S1311;recettes-depenses-B9 (Md€);-0.0
+2014;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0
+2014;S13111;recettes-depenses-B9 (Md€);0.0
+2014;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0
+2014;S13112;recettes-depenses-B9 (Md€);0.0
+2014;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+2014;S1313;recettes-depenses-B9 (Md€);0.0
+2014;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0
+2014;S1314;recettes-depenses-B9 (Md€);0.0
+2014;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0
+2014;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+2014;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2014;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2015;S13;recettes-depenses-B9 (Md€);-0.0
+2015;S13;B9 t_32xx - B9 fichier solde (Md€);0.0
+2015;S1311;recettes-depenses-B9 (Md€);0.0
+2015;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0
+2015;S13111;recettes-depenses-B9 (Md€);0.0
+2015;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0
+2015;S13112;recettes-depenses-B9 (Md€);0.0
+2015;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+2015;S1313;recettes-depenses-B9 (Md€);-0.0
+2015;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0
+2015;S1314;recettes-depenses-B9 (Md€);0.0
+2015;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0
+2015;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2015;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2015;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2016;S13;recettes-depenses-B9 (Md€);-0.0
+2016;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2016;S1311;recettes-depenses-B9 (Md€);0.0
+2016;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2016;S13111;recettes-depenses-B9 (Md€);0.0
+2016;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2016;S13112;recettes-depenses-B9 (Md€);0.0
+2016;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+2016;S1313;recettes-depenses-B9 (Md€);-0.0
+2016;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0
+2016;S1314;recettes-depenses-B9 (Md€);-0.0
+2016;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0
+2016;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2016;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2016;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2017;S13;recettes-depenses-B9 (Md€);-0.0
+2017;S13;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2017;S1311;recettes-depenses-B9 (Md€);0.0
+2017;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2017;S13111;recettes-depenses-B9 (Md€);0.0
+2017;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2017;S13112;recettes-depenses-B9 (Md€);0.0
+2017;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+2017;S1313;recettes-depenses-B9 (Md€);-0.0
+2017;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0
+2017;S1314;recettes-depenses-B9 (Md€);0.0
+2017;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0
+2017;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2017;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2017;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2018;S13;recettes-depenses-B9 (Md€);0.0
+2018;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2018;S1311;recettes-depenses-B9 (Md€);0.0
+2018;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2018;S13111;recettes-depenses-B9 (Md€);-0.0
+2018;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2018;S13112;recettes-depenses-B9 (Md€);0.0
+2018;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+2018;S1313;recettes-depenses-B9 (Md€);-0.0
+2018;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0
+2018;S1314;recettes-depenses-B9 (Md€);-0.0
+2018;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0
+2018;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2018;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2018;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2019;S13;recettes-depenses-B9 (Md€);-0.0
+2019;S13;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2019;S1311;recettes-depenses-B9 (Md€);0.0
+2019;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2019;S13111;recettes-depenses-B9 (Md€);0.0
+2019;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+2019;S13112;recettes-depenses-B9 (Md€);-0.0
+2019;S13112;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+2019;S1313;recettes-depenses-B9 (Md€);0.0
+2019;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2019;S1314;recettes-depenses-B9 (Md€);-0.0
+2019;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2019;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2019;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2019;S13;Recettes % PIB série longue - t_3201/PIB;-0.0
+2020;S13;recettes-depenses-B9 (Md€);0.0
+2020;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+2020;S1311;recettes-depenses-B9 (Md€);0.0
+2020;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2020;S13111;recettes-depenses-B9 (Md€);0.0
+2020;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2020;S13112;recettes-depenses-B9 (Md€);0.0
+2020;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2020;S1313;recettes-depenses-B9 (Md€);0.0
+2020;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+2020;S1314;recettes-depenses-B9 (Md€);0.0
+2020;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2020;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+2020;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2020;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2021;S13;recettes-depenses-B9 (Md€);-0.0
+2021;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+2021;S1311;recettes-depenses-B9 (Md€);-0.0
+2021;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2021;S13111;recettes-depenses-B9 (Md€);0.0
+2021;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2021;S13112;recettes-depenses-B9 (Md€);0.0
+2021;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2021;S1313;recettes-depenses-B9 (Md€);0.0
+2021;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0003
+2021;S1314;recettes-depenses-B9 (Md€);-0.0
+2021;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2021;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2021;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2021;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2022;S13;recettes-depenses-B9 (Md€);0.0
+2022;S13;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2022;S1311;recettes-depenses-B9 (Md€);0.0
+2022;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0
+2022;S13111;recettes-depenses-B9 (Md€);-0.0
+2022;S13111;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+2022;S13112;recettes-depenses-B9 (Md€);0.0
+2022;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2022;S1313;recettes-depenses-B9 (Md€);-0.0
+2022;S1313;B9 t_32xx - B9 fichier solde (Md€);-0.0002
+2022;S1314;recettes-depenses-B9 (Md€);0.0
+2022;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2022;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2022;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2022;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2023;S13;recettes-depenses-B9 (Md€);0.0
+2023;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+2023;S1311;recettes-depenses-B9 (Md€);0.0
+2023;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0
+2023;S13111;recettes-depenses-B9 (Md€);0.0
+2023;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0
+2023;S13112;recettes-depenses-B9 (Md€);-0.0
+2023;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0
+2023;S1313;recettes-depenses-B9 (Md€);0.0
+2023;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2023;S1314;recettes-depenses-B9 (Md€);-0.0
+2023;S1314;B9 t_32xx - B9 fichier solde (Md€);-0.0004
+2023;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+2023;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2023;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2024;S13;recettes-depenses-B9 (Md€);0.0
+2024;S13;B9 t_32xx - B9 fichier solde (Md€);-0.0001
+2024;S1311;recettes-depenses-B9 (Md€);-0.0
+2024;S1311;B9 t_32xx - B9 fichier solde (Md€);-0.0003
+2024;S13111;recettes-depenses-B9 (Md€);0.0
+2024;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2024;S13112;recettes-depenses-B9 (Md€);0.0
+2024;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2024;S1313;recettes-depenses-B9 (Md€);-0.0
+2024;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2024;S1314;recettes-depenses-B9 (Md€);0.0
+2024;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2024;PIB;PIB(3215)-PIB(3216) Md€;-0.0
+2024;S13;Dépenses % PIB série longue - t_3201/PIB;0.0
+2024;S13;Recettes % PIB série longue - t_3201/PIB;0.0
+2025;S13;recettes-depenses-B9 (Md€);0.0
+2025;S13;B9 t_32xx - B9 fichier solde (Md€);0.0
+2025;S1311;recettes-depenses-B9 (Md€);0.0
+2025;S1311;B9 t_32xx - B9 fichier solde (Md€);0.0004
+2025;S13111;recettes-depenses-B9 (Md€);-0.0
+2025;S13111;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2025;S13112;recettes-depenses-B9 (Md€);-0.0
+2025;S13112;B9 t_32xx - B9 fichier solde (Md€);0.0002
+2025;S1313;recettes-depenses-B9 (Md€);0.0
+2025;S1313;B9 t_32xx - B9 fichier solde (Md€);0.0001
+2025;S1314;recettes-depenses-B9 (Md€);-0.0
+2025;S1314;B9 t_32xx - B9 fichier solde (Md€);0.0005
+2025;PIB;PIB(3215)-PIB(3216) Md€;0.0
+2025;S13;Dépenses % PIB série longue - t_3201/PIB;-0.0
+2025;S13;Recettes % PIB série longue - t_3201/PIB;-0.0

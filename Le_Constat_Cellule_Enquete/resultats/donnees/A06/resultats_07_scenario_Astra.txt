@@ -1,0 +1,10 @@
+Astra base : rendement réel 0% -> portefeuille 8.1 pts PIB ; dette de transition 9.1 pts ; besoin primaire année finale 0.26 pt
+Astra base : rendement réel 2% -> portefeuille 10.3 pts PIB ; dette de transition 9.1 pts ; besoin primaire année finale 0.26 pt
+Astra base : rendement réel 4% -> portefeuille 13.2 pts PIB ; dette de transition 9.1 pts ; besoin primaire année finale 0.26 pt
+Choc -30 % sur le portefeuille central à la liquidation : 7.2 pts (Astra annonce 7,2)
+--- Sensibilités A06 ---
+croissance réelle 1,0 % : portefeuille 10.9 ; dette 9.7 ; besoin primaire final 0.26
+coût réel dette 2 % : portefeuille 10.3 ; dette 10.3 ; besoin primaire final 0.26
+coût réel dette 2 %, rendement 2 %, croissance 1 % : portefeuille 10.9 ; dette 10.9 ; besoin primaire final 0.26
+liquidation dès t>10 : portefeuille 8.7 ; dette 7.7 ; besoin primaire final 0.16
+rendement réel 2 % net mais frais +0,5 pt : portefeuille 9.7 ; dette 9.1 ; besoin primaire final 0.26

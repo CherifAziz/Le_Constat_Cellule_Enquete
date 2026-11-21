@@ -1,0 +1,67 @@
+id;objet;valeur_texte;valeur_recalculee;ecart;commentaire
+A01;Déficit 2025 Md€ (Eurostat 21/10/2026);151.592;151.592;0.0;
+A02;Déficit 2025 % PIB non arrondi;5.1;5.0682;-0.032;"5,068 % ; arrondi 5,1"
+A03;Dette 2025 % PIB non arrondi;115.7;115.6819;-0.018;
+A04;Point de PIB 2025 (Md€);29.91;29.9106;0.001;
+A05;Hausse dette brute 2025 (Md€);154.0;154.0143;0.014;
+A06;Hausse dette - déficit (Md€);2.4;2.4223;0.022;"= ajustement stocks-flux ; Insee t_3105 donne 154,0 - 151,6"
+A07;Intérêts D41 versés 2025 (Md€, y.c. Sifim);64.7;65.721;1.021;"Astra cite 64,7 = Insee IP2106 hors Sifim ; D41 y.c. Sifim = 65,721"
+A08;Déficit primaire 2025 (Md€), millésime oct. 2026, D41 y.c. Sifim;87.8;85.871;-1.929;Astra : 152,5 - 64,7 (millésime mai, intérêts hors Sifim)
+A09;Déficit primaire 2025 (Md€), oct. 2026, intérêts hors Sifim (64,652);87.8;86.94;-0.86;
+A10;Déficit primaire 2025 % PIB;2.9;2.8709;-0.029;
+A11;Baisse du déficit 2024-2025 (Md€);17.5;17.526;0.026;
+A12;Variation dette 2022->2023 (Md€) début;2956;2955.6391;-0.361;
+A13;Variation dette 2022->2023 (Md€) fin;3103;3103.248;0.248;
+S01;Déficit stabilisant d=115,7 g=3 % (% PIB);3.37;3.3699;-0.0;
+S02;Écart 5,1 -> stabilisant g=3 % (Md€);52;51.7482;-0.252;
+S03;Écart g=2 % (Md€);85;84.6879;-0.312;
+S04;Écart g=4 % (Md€);19;19.4419;0.442;
+S05;Écart à 3 % (Md€);63;62.8122;-0.188;avec 5,068 non arrondi : 61,9
+S06;Écart à 3 % non arrondi (Md€);63;61.8603;-1.14;
+S07;Écart g=3 % non arrondi (Md€);52;50.8121;-1.188;
+S08_g0.02;Solde primaire stabilisant (i apparent 1.99 %, g=0.02) % PIB;;-0.0138;;négatif = un déficit primaire est compatible avec la stabilité
+S08_g0.03;Solde primaire stabilisant (i apparent 1.99 %, g=0.03) % PIB;;-1.1367;;négatif = un déficit primaire est compatible avec la stabilité
+S09 2025 observé (Insee);g=1.90 % : déficit stabilisant (% PIB) / écart au déficit 2025 non arrondi (Md€);;2.16 % / 87.0 Md€;;
+S10 2025 observé (Insee);g=1.90 % : solde primaire stabilisant (% PIB) avec i apparent 2025 1.99 %;;0.1;;
+"S09 2026 Commission (0,4 % ; 1,8 %)";g=2.21 % : déficit stabilisant (% PIB) / écart au déficit 2025 non arrondi (Md€);;2.50 % / 76.9 Md€;;
+"S10 2026 Commission (0,4 % ; 1,8 %)";g=2.21 % : solde primaire stabilisant (% PIB) avec i apparent 2025 1.99 %;;-0.25;;
+"S09 2027 Commission (0,6 % ; 1,9 %)";g=2.51 % : déficit stabilisant (% PIB) / écart au déficit 2025 non arrondi (Md€);;2.83 % / 66.8 Md€;;
+"S10 2027 Commission (0,6 % ; 1,9 %)";g=2.51 % : solde primaire stabilisant (% PIB) avec i apparent 2025 1.99 %;;-0.59;;
+Z01;FR dépenses 2025 % PIB;57.3;57.3;0.0;
+Z02;EA20 dépenses 2025 % PIB;49.8;49.8;0.0;
+Z03;FR recettes 2025;52.2;52.2;0.0;
+Z04;EA20 recettes 2025;46.8;46.8;0.0;
+Z05;Écart dépenses - écart recettes 2025 (pts);2.1;2.1;-0.0;identité : = écart de solde (EA20 inclut la France)
+Z06;Écart de solde FR-EA20 2025 (pts);2.1;2.1;-0.0;
+K01;COFOG FR total 2024;57.3;57.3;0.0;"statut p ; gov_10a_main TE 2024 = 57.0"
+K02;Écart total COFOG FR-EA20 2024 (pts);8.1;8.1;-0.0;
+K03;Écart protection sociale (pts);3.7;3.7;-0.0;
+K04;Écart santé (pts);1.5;1.5;0.0;
+K05;Part (protection sociale + santé) dans l'écart COFOG;64;64.1975;0.198;
+K06;Écart vieillesse (pts);2.5;2.5;0.0;
+K07;Même part rapportée à l'écart main 2024 (TE);64;67.5325;3.532;mélange de sources : illustratif
+K08;Part rapportée à l'écart 2025 (7,5 pts) comme le fait la V5;64;69.3333;5.333;mélange 2024/2025 : contresens d'année
+T_D2_D5_D91_D61_M_D995;"Rang 2025 (impôts + cotisations nettes) : 1er = FR 46.0 ; 2e = BE 44.7 ; FR = 46.0";;1;;13 pays présents dans le fichier commun (pas les 27)
+T_D2_D5_D91_D61_M_D612_M_D614_M_D995;"Rang 2025 (hors cotisations imputées) : 1er = FR 44.3 ; 2e = DK 44.2 ; FR = 44.3";;1;;13 pays présents dans le fichier commun (pas les 27)
+T_D2_D5_D91;"Rang 2025 (impôts seuls) : 1er = DK 44.0 ; 2e = SE 37.9 ; FR = 29.6";;4;;13 pays présents dans le fichier commun (pas les 27)
+V01;Part des dépenses 2025 financée par l'emprunt (%);9;8.8438;-0.156;
+V02;Déficit par jour 2025 (M€);400;415.3205;15.321;
+V03;Croissance dette 2025 / croissance PIB nominal 2025 (ratio);2;2.4498;0.45;
+V04;Dette 2007 en mois de PIB;8;7.8572;-0.143;
+V05;Dette 2025 en mois de PIB;14;13.8818;-0.118;
+V06;Hausse 2007->2012 en mois de PIB;3;3.1518;0.152;
+V07;Hausse 2019->2020 en mois de PIB;2;2.0099;0.01;
+V08;Part des intérêts dans le déficit 1993 (%);50;50.3738;0.374;
+V09_2014;Allemagne solde 2014 % PIB;;0.7;;
+V09_2015;Allemagne solde 2015 % PIB;;0.9;;
+V09_2016;Allemagne solde 2016 % PIB;;1.1;;
+V09_2017;Allemagne solde 2017 % PIB;;1.3;;
+V09_2018;Allemagne solde 2018 % PIB;;1.9;;
+V09_2019;Allemagne solde 2019 % PIB;;1.3;;
+V10;Allemagne dette 2013 en mois de PIB;10;9.288;-0.712;
+V11;Allemagne dette 2019 en mois de PIB;7;6.996;-0.004;
+V12;Italie solde primaire 2025 % PIB;;0.7;;
+V13;France solde primaire 2025 % PIB;-3;-2.8709;0.129;
+V14;Combler par l'impôt : impôts+cotisations FR 2025 + déficit (% PIB);;51.0682;;
+V15;Combler par la dépense : dépenses FR 2025 - déficit vs EA20 49,8;;52.2318;;
+V16;Dixième de point de taux sur la dette 2025 (Md€/an, à refinancement complet);4;3.4601;-0.54;"dette APU ; horizon = refinancement complet"

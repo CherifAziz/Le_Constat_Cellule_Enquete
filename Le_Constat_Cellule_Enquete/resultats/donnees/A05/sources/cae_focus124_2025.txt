@@ -1,0 +1,4120 @@
+
+=== PAGE 1 ===
+Ce Focus est publié sous la responsabilité des auteurs et n’engage qu’eux.
+C
+e Focus analyse les conditions nécessaires à la stabilisation de la dette publique française et a pour 
+objectif de nourrir les discussions parlementaires relatives aux orientations budgétaires à venir. Il 
+identifie les leviers mobilisables dont il donne des ordres de grandeur pour permettre un débat infor-
+mé sur la situation de nos finances publiques à court et moyen terme. Il s’organise en deux temps. 
+Dans une première partie, nous mobilisons un modèle macroéconomique afin d’estimer l’ampleur de l’ajus-
+tement budgétaire nécessaire pour stabiliser la dette. Le constat établi par le Conseil d’analyse économique 
+dans sa Note de juillet 2024 demeure d’actualité. Même si le déficit public s’est légèrement réduit, le coût de 
+l’inaction reste élevé : la dette publique progresse : de 109,8 % du PIB en 2023 à 113,0 % en 2024, puis 116,2 % 
+en 2025. Nos simulations indiquent qu’un effort d’ajustement d’environ 112 milliards d’euros est requis pour 
+stabiliser la dette et se prémunir contre la prochaine crise économique. Tant que cet ajustement ne sera pas 
+opéré, le ratio de dette publique sur PIB et la charge d’intérêt continueront d’augmenter. Selon notre modèle, 
+l’effort budgétaire optimal s’élève à environ 27 milliards d’euros pour la première année.
+Dans une deuxième partie, nous proposons un panorama de 170 leviers budgétaires — qu’il s’agisse de 
+dépenses, de recettes ou de réformes structurelles. L’approche retenue est volontairement descriptive plutôt 
+que normative : y sont identifiées et chiffrées un ensemble d’options, sans préjuger des choix politiques. Nous 
+recensons ainsi environ 108 milliards d’euros de mesures d’économies potentielles du côté des dépenses, 
+111 milliards du côté des recettes et 45 milliards sous forme de réformes structurelles. Cette synthèse four-
+nit une base factuelle et ordonnée pour le débat public, selon des ordres de grandeur réalistes et prudents 
+— condition indispensable d’un débat budgétaire crédible. Elle a vocation à être enrichie, au fil des nouveaux 
+chiffrages disponibles, qui seront mis à disposition sur le site du CAE.
+Focus
+n° 124
+octobre 2025
+Adrien Auclert, université de Stanford et CAE, Marie-Apolline Barbara, CAE, 
+Xavier Jaravel, LSE et CAE, Emma Laveissière et Oskar Lasterra, CAE,  
+Xavier Ragot, OFCE et CAE, Diego Renaud CAE
+Comment stabiliser la dette publique ?
+
+=== PAGE 2 ===
+Focus, no 124, octobre 2025
+2
+Quelle doit être l’ampleur de la consolidation 
+budgétaire pour stabiliser la dette publique ?
+La situation des finances publiques est préoccupante. Dans une Note de juillet 2024 1,  le Conseil d’analyse économique 
+identifiait déjà un double impératif pour la France : réduire le déficit afin de garantir la soutenabilité de la dette et la cré-
+dibilité financière du pays, tout en évitant une consolidation trop rapide susceptible de freiner la croissance et l’emploi. 
+Même si le déficit public s’est légèrement amélioré, passant de 5,8 % du PIB en 2024 à 5,4 % en 2025, ce constat reste 
+d’actualité. La dette publique a progressé rapidement ces dernières années, de 109,8 % du PIB en 2023 à 113,0 % en 
+2024, puis 116,2 % en 2025. Dans le même temps, la remontée des taux a profondément changé la donne. La France 
+emprunte désormais à un coût supérieur à celui de l’Espagne, du Portugal et de la Grèce, et équivalent à celui de l’Italie 
+(Figure 1) : le taux d’emprunt à 10 ans atteint désormais 3,5 %, bien au-dessus du taux d’intérêt apparent estimé à 2,0 % 
+pour 2025. Cette divergence entraîne mécaniquement une forte hausse des charges d’intérêt.
+Dans ce contexte, ce Focus actualise l’estimation de l’effort budgétaire nécessaire pour stabiliser la dette publique, à la 
+lumière de la remontée des taux d’intérêt et des dernières évolutions macroéconomiques. Il examine ensuite la durée de 
+consolidation optimale, aboutissant à un scénario central de six ans. Enfin, il affine cette estimation en tenant compte 
+de la dynamique tendancielle des finances publiques : la progression spontanée des dépenses pourrait être plus rapide 
+que celle des recettes au cours des prochaines années.
+Quel effort budgétaire pour stabiliser la dette publique?
+Une augmentation des taux d’intérêt au-delà du taux de croissance rend plus difficile la stabilisation des finances 
+publiques et déclenche un effet «  boule de neige  » : la dette s’accroît mécaniquement plus que l’activité, ce qui exige 
+des mesures de consolidation de plus en plus importantes pour en contenir la dynamique. 
+Si l’on note «  r  » le taux d’intérêt réel moyen d’emprunt et «  g  » la croissance réelle du PIB, le surplus primaire de long 
+terme «  s  » nécessaire pour stabiliser la dette à un ratio de PIB de «  b  » est de :
+s = (r − g)/(1 + g) * b
+Ainsi, plus le taux d’intérêt r et le stock de dette b sont élevés, plus l’effort à consacrer pour stabiliser son niveau, que 
+ce soit par l’augmentation des prélèvements obligatoires ou la diminution des dépenses publiques relativement au PIB, 
+est lui aussi élevé. 
+Dans la Note du CAE de juillet 2024, nous expliquions que, pour projeter la trajectoire de la dette française, il fallait par-
+tir d’un point de départ : celui où le taux de croissance est égal au taux d’intérêt (r = g), auquel cas un surplus primaire 
+de 0 est suffisant pour stabiliser la dette. Constatant que la dette tendait à fortement augmenter en temps de crise, la 
+Note recommandait de viser un surplus primaire de 1 % de PIB hors crise, mobilisable en cas de choc négatif. Si, toute-
+fois, les taux d’intérêt réels venaient à augmenter de façon permanente de 50 points de base relativement au taux de 
+croissance, par exemple du fait de la forte augmentation des dettes publiques mondiales ou d’une perte de confiance 
+des marchés vis-à-vis de la France, la stabilisation de la dette exigerait un surplus primaire d’environ 0,5 % de PIB : la 
+cible atteindrait alors 1,5 % de PIB.
+* Les auteurs remercient Antoine Lopes, chargé d’étude, pour ses contributions à cette publication.
+1 Auclert A., Philippon T. et Ragot X. (2024) : «  Quelle trajectoire pour les finances publiques françaises ?  », Les Notes du CAE n°82, juillet.
+
+=== PAGE 3 ===
+3
+Comment stabiliser la dette publique ?
+Figure 1. Évolution des spreads des taux d’intérêt à 10 ans
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+Italie
+France
+01/01/2023
+01/07/2025
+01/01/2024
+01/07/2023
+01/01/2025
+01/07/2024
+Note : Le spread correspond à la différence entre le rendement des obligations souveraines à 10 ans et le rendement de l’obligation allemande 
+à 10 ans. Source : Investing.com.
+Si depuis la Note de juillet 2024 le calcul de cible de surplus primaire à atteindre pour stabiliser la dette n’a pas fondamenta-
+lement changé, en revanche, le point de départ s’est légèrement détérioré : le niveau de dette a progressé et le taux apparent 
+sur la dette a augmenté, les charges d’intérêt sont passés de 1,9 % PIB en 2023, à 2,1 % en 2024 ; elles devraient atteindre 
+2,2 % en 2025. En formulant l’hypothèse d’un écart de production à 0,8 point de PIB pour 2025, un paramètre sur lequel il 
+existe toujours une forte incertitude (voir encadré 1), le déficit primaire structurel serait donc de 2,7 points de PIB en 2025. 
+Encadré 1. Le déficit primaire structurel
+Le déficit primaire structurel constitue le point de départ de l’analyse de soutenabilité car il mesure le déséquilibre bud-
+gétaire qui subsisterait une fois neutralisés à la fois la charge d’intérêt et l’effet du cycle économique. Formellement, 
+il s’écrit :
+dt
+ps = dt − rt ⋅ bt-1 − γt  
+où dt
+ps désigne le déficit primaire structurel en % du PIB, dt le déficit public, rt ⋅ bt-1 la charge d’intérêt (taux d’intérêt appa-
+rent appliqué à l’encours de dette en % du PIB) et γt l’effet conjoncturel associé à l’écart de production. Ce dernier terme 
+reflète l’impact automatique du cycle économique sur les finances publiques : en période de sous-activité, les recettes 
+fiscales sont plus faibles, ce qui creuse le déficit de façon temporaire.
+L’estimation de l’écart de production demeure incertaine. Les prévisions du gouvernement le situent à –0,7 point de PIB 
+en 2024, tandis que l’Insee  estimait qu’il était quasi nul en 2024 2, ce qui impliquerait un écart de production d’environ 
+-0,4 point en 2025, contre -1,2 point selon le gouvernement. Pour neutraliser ces incertitudes, nous retenons ici une hypo-
+thèse intermédiaire de -0,8 point. À titre conservateur, l’annexe 5 illustre également le cas d’un écart de production nul. 
+Le déficit conjoncturel γt est ensuite obtenu en appliquant l’élasticité usuelle des finances publiques à l’écart de produc-
+tion (0,57). Le Tableau 1 présente la décomposition du déficit public en déficit primaire et charge de la dette, le déficit 
+primaire pouvant lui même être décomposé en déficit primaire structurel et déficit primaire conjoncturel :
+Tableau 1. Décomposition du déficit primaire structurel en 2025
+Type de déficit
+valeur ( %PIB)
+Déficit public
+5,4 %
+Dont charge de la dette
+2,2 %
+Dont déficit primaire
+3,2 %
+Dont déficit primaire structurel
+2,7 %
+Dont déficit primaire conjoncturel 
+(= 0,57 * écart de production de 0,8)
+0,5  %
+2 Insee (2025) : Note de conjoncture de mars 2025.
+
+=== PAGE 4 ===
+Focus, no 124, octobre 2025
+4
+Pour stabiliser le ratio de dette publique sur PIB et se prémunir de crises futures, il est donc nécessaire d’ajouter un 
+surplus de 1 % du PIB au déficit primaire structurel de 2,7 % du PIB 3, soit un effort de consolidation de 3,7 points de 
+PIB. Dans un scénario plausible de hausse durable des taux d’intérêt (supérieure de 0,5 point par rapport au taux de 
+croissance), cet effort passerait à 4,2 points de PIB. Ainsi, l’effort total à réaliser s’élève à 112 Md€ 4. Si le montant  de 
+l’effort total correspond à celui estimé dans la Note du CAE de juillet 2024, il intervient désormais un an plus tard, alors 
+même qu’un premier ajustement a déjà été engagé en 2025. En cas de hausse des taux, cet effort s’élèverait même à 
+127 Md€ 5. Tant qu’il n’aura pas été réalisé, la dette publique continuera d’augmenter en ratio de PIB, de même que le 
+poids des charges d’intérêt dans le budget de l’État, à moins d’une forte surprise sur l’inflation ou la croissance. À terme, 
+cette dynamique rendrait la dette publique insoutenable.
+Comme mentionné plus haut, la variation du déficit primaire structurel d’une année à l’autre, soit l’effort à réaliser, est 
+appelée impulsion budgétaire (elle est négative en période de consolidation et positive en période d’expansion budgé-
+taire), la somme des nouvelles mesures nécessaires pour atteindre la cible de déficit structurel constitue donc l’impul-
+sion budgétaire totale (112 Md€) sur la période de consolidation.
+Trois trajectoires possibles de redressement budgétaire
+Bien entendu, il n’est pas envisageable de diminuer le déficit primaire structurel d’une telle somme en une seule année. 
+La question devient alors celle du rythme d’ajustement. Dans la Note de 2024, nous avions mobilisé un modèle simple 
+de contrôle optimal des dépenses publiques, fondé sur la théorie économique, pour déterminer  une vitesse «  opti-
+male  » d’ajustement. Celle-ci résulte d’un arbitrage entre, d’une part, les coûts d’une consolidation trop rapide qui pèse 
+sur la croissance via les multiplicateurs budgétaires et, d’autre part, les bénéfices attendus d’un assainissement plus 
+rapide : stabiliser la dette à un niveau plus faible et réduire les charges d’intérêt à long terme. L’analyse de cet arbitrage 
+montre qu’il est optimal de réaliser un effort plus important au début de la phase de consolidation. En effet, l’effort de 
+consolidation a un effet permanent sur le déficit public : plus l’effort est fait tôt, plus son impact sur la dette est impor-
+tant, ce qui limite les risques. A l’inverse, les coûts macroéconomique de l’effort budgétaire (via les multiplicateurs) sont 
+les mêmes que l’effort soit fait plus tôt ou plus tard. L’analyse coûts-bénéfices montre ainsi qu’il est  toujours optimal 
+de faire un effort plus important au début.
+Ce modèle se concentre sur la première partie de la consolidation, qui ramène le déficit primaire structurel de 2,7 % à 0 %. 
+Il compte deux paramètres : le taux maximal de dette que l’on est prêt à tolérer en fin de consolidation, et l’effort maxi-
+mal que le gouvernement peut réaliser en première année. Pour le premier, il nous semble raisonnable de choisir 130 %, 
+le ratio de dette sur PIB de la Grèce en 2009, à la veille de l’emballement des marchés financiers sur la dette grecque. 
+Pour le second, nous retenons une borne de 1,4 % du PIB, se situant dans la borne haute des épisodes de consolidation 
+observés dans l’histoire budgétaire récente de la France. Sans contrainte, l’effort initial pourrait être fixé au niveau du 
+déficit lui-même ; mais, en pratique, un tel ajustement n’est soutenable ni politiquement ni économiquement. 
+Avec ces paramètres, le modèle délivre une consolidation optimale étalée entre 4 et 12 ans, concentrée sur les pre-
+mières années. Pour illustrer ces résultats, trois trajectoires sont retenues. La plus rapide, en 4 ans, correspond à l’ef-
+fort maximal de 1,4 % du PIB en 2026 que nous nous sommes fixés, soit 41 Md€. La trajectoire plus lente de 12 ans 
+conduirait à un effort initial réduit de 14 Md€ (0,5 % du PIB). Entre ces deux bornes, le scénario central retient une 
+consolidation en 6 ans, davantage en ligne avec les règles budgétaires européennes. Dans ce scénario, l’effort initial est 
+de 0,9 % du PIB, soit 27 Md€ en 2026. Il permet à la fois de ramener le déficit public sous 3 % du PIB en 2029 et de limi-
+ter l’effort structurel primaire à un niveau inférieur à celui de la trajectoire rapide, où l’ajustement initial est particuliè-
+rement important. Ces différentes trajectoires sont représentées en figure 2. Elle illustre l’évolution du déficit primaire 
+structurel, de la dette publique et du déficit public, ainsi que le montant annuel des efforts à réaliser, exprimés à la fois 
+en points de PIB et en milliards d’euros.
+3 Le modèle présenté dans ce Focus exploite le solde primaire structurel. Nous ne raisonnons pas en termes de déficit public car cela supposerait de 
+faire des hypothèses sur l’évolution des taux d’intérêt et du déficit conjoncturel. 
+4 On applique l’effort à réaliser, de 3,7 points de PIB, à l’estimation du PIB pour 2025, 2 986 milliards d’euros.
+5 Les montants sont exprimés en euro 2025. Dans tout le Focus, on retient la même convention.
+
+=== PAGE 5 ===
+5
+Comment stabiliser la dette publique ?
+Figure 2. Trajectoire optimale
+a. du déficit primaire structurel (en % du PIB)		
+	
+b de la dette (en % du PIB)	
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+Consolidation rapide
+2025
+2026
+2034
+2033
+2032
+2031
+2030
+2029
+2028
+2027
+2038
+2037
+2036
+2035
+% de PIB
+Consolidation plus lente
+Scénario central
+105
+110
+115
+120
+125
+130
+135
+2025
+2026
+2034
+2033
+2032
+2031
+2030
+2029
+2028
+2027
+2038
+2037
+2036
+2035
+% de PIB
+Consolidation rapide
+Consolidation plus lente
+Scénario central
+	
+c. de l’effort budgétaire (en  Md€)	 	
+	
+	
+d. de l’effort budgétaire (en % du PIB)
+0,0
+0,3
+0,6
+0,9
+1,2
+1,5
+2025
+2026
+2034
+2033
+2032
+2031
+2030
+2029
+2028
+2027
+2038
+2037
+2036
+2035
+Milliards d’euros
+Consolidation rapide
+Consolidation plus lente
+Scénario central
+0
+10
+20
+30
+40
+50
+2026
+2034
+2033
+2032
+2031
+2030
+2029
+2028
+2027
+2038
+2037
+2036
+2035
+% du PIB
+Consolidation rapide
+Consolidation plus lente
+Scénario central
+e. du déficit total 
+2
+3
+4
+5
+6
+2025
+2026
+2034
+2033
+2032
+2031
+2030
+2029
+2028
+2027
+2038
+2037
+2036
+2035
+% de PIB
+Consolidation rapide
+Consolidation plus lente
+Scénario central
+ 
+Lecture : Dans le scénario central d’une consolidation en six ans, le déficit primaire structurel devient nul en 2031 et la dette se stabilise à 124 % 
+du PIB. En 2029, le déficit public passe sous le seuil de 3 % (2,95 % du PIB), pour un effort budgétaire de 0,46 point de PIB, soit 15 Md€. 
+Source : calculs des auteurs.
+Prendre en compte la dynamique spontanée des dépenses et des recettes publiques
+Les mesures de consolidation budgétaire nécessaires pour stabiliser la dette doivent couvrir l’impulsion budgétaire 
+totale discutée précédemment (112 Md€) mais aussi la différence entre le tendanciel des recettes et des dépenses 
+publiques. En effet, l’effort annuel de 27 Md€ préconisé pour 2026 constitue un effort par rapport au déficit structu-
+rel primaire de l’année précédente, auquel il faut ajouter ce qu’on appelle le tendanciel de court terme qui provient de 
+
+=== PAGE 6 ===
+Focus, no 124, octobre 2025
+6
+l’évolution des recettes et des dépenses à politique inchangée. Le tendanciel des dépenses désigne l’évolution sponta-
+née d’une dépense, à législation constante, sous l’effet de sa dynamique propre (conjoncture, démographie, etc.) 6. Il 
+permet de distinguer la progression, à politique inchangée, de l’impact des décisions nouvelles. Les objectifs d’écono-
+mies affichés dans le débat public sont parfois exprimés non pas en écart par rapport au déficit structurel primaire de 
+l’année précédente, mais en écart à la trajectoire tendancielle à politique inchangée.
+Certaines dépenses progressent mécaniquement sous l’effet des caractéristiques démographiques de la société fran-
+çaise : les retraites et les dépenses de santé croissent ainsi d’une année à l’autre avec le vieillissement de la popula-
+tion. D’autres dépenses suivent la conjoncture, comme celles de l’assurance chômage, proportionnelles au nombre 
+de demandeurs d’emploi. Chaque enveloppe ministérielle possède également sa propre inertie, liée à la nature de la 
+dépense ou à l’inflation dans le secteur concerné. À cela s’ajoutent les engagements pris par le passé, comme la loi de 
+programmation militaire qui inscrit dans la durée une hausse des crédits de défense. Enfin, la charge de la dette évo-
+lue selon des conditions financières, la remontée des taux d’intérêt se traduisant par une progression automatique du 
+coût de la dette pour l’État. L’addition de ces dynamiques compose le tendanciel des dépenses, qui reflète la trajectoire 
+spontanée de la dépense publique à politique inchangée.
+Le tendanciel des recettes publiques correspond, quant à lui, à l’évolution spontanée des prélèvements obligatoires à 
+législation constante. Par construction, il suit généralement la croissance en valeur du PIB, puisque l’assiette des prin-
+cipaux impôts et des cotisations progresse avec l’activité économique et l’inflation, le meilleur exemple étant la TVA. 
+Autrement dit, même sans nouvelle mesure fiscale, les recettes publiques augmentent mécaniquement avec la crois-
+sance nominale. Le tendanciel des recettes peut également jouer sur l’évolution du déficit, notamment lorsqu’il est mis 
+fin à certains dispositifs fiscaux. Dans ce cas, l’écart entre le déficit mesuré par rapport à l’année précédente et celui 
+évalué par rapport au tendanciel peut être significatif.
+Par exemple, imaginons qu’il soit prévu que des impôts «  temporaires  » arrivent à extinction en 2026, pour un montant 
+de 10 Md€. À politique inchangée, le déficit tendanciel se creuse de 10 Md€ (baisse des recettes). Si maintenant, afin 
+de pallier cette suppression, on introduit un autre impôt dont le rendement est de 10 Md€, le déficit est ramené à 0, 
+sans effet important sur la croissance car le montant des impôts n’a pas changé entre les deux périodes. L’impulsion 
+budgétaire est nulle, le déficit reste donc à 0. Cependant, un effort de 10 Md€ est comptabilisé par rapport au déficit 
+tendanciel. 
+L’évaluation du tendanciel, qu’il s’agisse des dépenses ou des recettes, n’est jamais un exercice neutre. Elle repose sur 
+des conventions de calcul et sur une interprétation de ce que l’on considère être la «  politique inchangée  », ce qui peut 
+conduire à des confusions dans l’interprétation des efforts à fournir. Cette notion est devenue récemment un enjeu de 
+communication budgétaire depuis la présentation du projet de budget en juillet 2025, dans la mesure où elle condi-
+tionne la manière de chiffrer l’effort de consolidation à fournir dans les prochaines années.
+Encadré 2. Exemple de décomposition du tendanciel de la proposition du budget du 
+gouvernement du 15 juillet 2025
+L’analyse du projet présenté en juillet 2025 donne un exemple de la différence entre le montant total des mesures nou-
+velles et l’impulsion budgétaire, écart qui correspond au tendanciel de court terme. Les mesures nouvelles annoncées 
+étaient de 44 Md€, alors que l’impulsion budgétaire, qui concentre l’effet sur la croissance, était de l’ordre de 19 Md€. 
+L’annonce d’un montant de 44 milliards d’euros a pu donner l’impression d’un effort budgétaire exceptionnellement 
+élevé par rapport aux années précédentes, alors qu’elle intègre le tendanciel de court terme contrairement aux 
+annonces passées.
+Dans des documents préparatoires au projet de loi de finances pour 2026 et de la Direction générale du trésor, le gou-
+vernement estimait que la dépense publique atteindrait 1 769 Md€ en 2026 si l’on laissait jouer sa dynamique sponta-
+née, contre 1 718 Md€ en 2025. Ce rythme correspond à une croissance tendancielle des dépenses  de 3,0 % en valeur. 
+Le détail des postes de dépenses qui composent ce tendanciel est présenté dans le tableau ci-dessous. 
+6 Carnot et Morzadec Simon (2025 ) : «  L’évolution des dépenses publiques à politique inchangée  », Note HCFP.
+
+=== PAGE 7 ===
+7
+Comment stabiliser la dette publique ?
+Tableau 2. Décomposition du tendanciel des dépenses pour 2026
+Type de dépenses
+Tendanciel 
+2026 (Md€)
+Évolution ten-
+dancielle 2025-
+2026 ( % en 
+valeur)
+Évolution 
+moyenne 
+annuelle obser-
+vée 2012- 2023 
+( % en valeur)  
+Tendanciel de l’État
+ 24,5 
++4,2 %
++2,4 %
+dont charge de la dette
+7,90
++15,1 %
+-1,0 %
+dont prestations sociales (retraites, etc.)
+1,40
++1,3 %
+x
+dont autres (crédits ministériels, transferts à l’UE, effort de 
+défense, etc.)
+15,20
+Tendanciel des collectivités locales 
+6,5
++2,1 %
++2,5 %
+dont dépenses de fonctionnement
+7,30
++3,2 %
+dont dépenses d’investissement
+-0,80
+-1,1 %
++2,6 %
+Tendanciel de la sécurité sociale
+19,0
++2,4 %
++2,7 %
+dont retraites
+7,70
++2,5 %
++2,6 %
+dont santé (Ondam)
+10,40
++3,9 %
+autres (dont prestations familiales et chômage)
+0,90
++0,4 %
+Tendanciel toutes administrations publiques
+51,1 7
++3,0 %
++2,6 %
+Par comparaison, le tendanciel des recettes publiques en 2026 devrait être de l’ordre de 1,7 % pour atteindre 1 583 Md€. 
+Le faible dynamisme de ces recettes est notamment dû à la péremption de certains dispositifs fiscaux. La contribution 
+différentielle sur les hauts revenus est la composante principale de cette faible évolution des recettes. Si le disposi-
+tif n’était pas reconduit, cela creuserait le déficit relatif au tendanciel d’un montant égal au rendement attendu de ce 
+prélèvement en 2026, soit près de 10 Md€. La différence entre le tendanciel des dépenses (+51 Md€), proche de la 
+croissance, et des recettes peu dynamiques l’année prochaine (+26 Md€) constitue l’effort supplémentaire à fournir 
+par rapport au tendanciel, soit 25,1 Md€.
+Considérons par exemple l’effort nécessaire pour ramener le déficit à 4,6 % du PIB en 2026. Son estimation est simple. 
+Un déficit de 4,6 % du PIB en 2026 correspond à un déficit de 141 Md€ (4,6 % de 3 062 Md€). Par rapport au déficit 
+tendanciel estimé de 185,5 Md€ (=1769-1583,5), il convient donc de réduire les dépenses ou d’augmenter les recettes 
+pour un montant de 44 Md€ (=185,5-141). On peut alors décomposer ces 44 Md€ en deux agrégats : un déficit relatif 
+au tendanciel de 25,1 Md€ et une impulsion budgétaire de l’ordre de 18,9 Md€. Seule la seconde composante de cette 
+équation a un impact réel sur la croissance de l’année à venir via les multiplicateurs budgétaires associés aux mesures 
+employées pour atteindre cet objectif.
+Cette estimation de court terme est fortement influencée par des facteurs ponctuels (extinction progressive de certains 
+dispositifs exceptionnels comptabilisés dans le tendanciel, hausses tendancielles de certaines dépenses qui ne se pro-
+longeront pas au même rythme à moyen terme). Il est donc utile de disposer d’un ordre de grandeur plus stable du défi-
+cit tendanciel à moyen terme. Pour ce faire, il est possible de comparer la croissance spontanée des recettes et celle 
+des dépenses publiques. À moyen terme, les recettes évoluent généralement au même rythme que le PIB, soit autour de 
++1,2 % en volume dans les prochaines années. En considérant que les dépenses progressent spontanément au même 
+rythme que celui observé entre 2025 et 2026 (+1,3 % hors charge de la dette de l’État), cela conduirait à un déficit 
+tendanciel d’environ 0,1 point de PIB, soit près de 3 Md€. En retenant une hypothèse de croissance des dépenses de 
++1,4 %, plus prudente dans le contexte d’accélération du vieillissement de la population, le déficit tendanciel atteindrait 
+0,2 point de PIB, soit 6 Md€ chaque année. Ces tendances dépendent bien sûr des législations en vigueur
+Cet ordre de grandeur peut également être obtenu à partir d’une approche démographique, en se fondant sur les 
+projections de population de l’ONU et sur les données de dépenses par âge de l’Insee. En maintenant une dépense 
+constante par individu d’un âge donné, l’évolution de la structure démographique, marquée notamment par un quadru-
+plement de la part des 80 ans et plus en 2100, se traduit par une hausse mécanique des dépenses publiques, essen-
+tiellement tirée par les retraites et la santé, partiellement compensée par la baisse relative des dépenses d’éducation.
+7 La différence entre la somme des tendanciels des trois fonctions publiques et le total provient de la prise en compte des crédits d’impôt dans le 
+chiffre de 51,1 Md€. 
+
+=== PAGE 8 ===
+Focus, no 124, octobre 2025
+8
+L’hypothèse retenue dans la suite de ce Focus est que le déficit tendanciel à moyen terme, soit l’écart entre l’évolution 
+des dépenses et des recettes à politique inchangée, est de l’ordre de 0,2 point de PIB sur la période de consolidation, 
+soit environ 6Md€ d’efforts supplémentaires chaque année pour contrer la dérive spontanée du déficit. Ainsi, l’effort 
+total à fournir serait de l’ordre de 148 Md€ (= 112 + 6*6) pour suivre notre trajectoire de consolidation en 6 ans. Étant 
+donné l’importance d’une estimation précise du tendanciel pour calibrer correctement l’effort de consolidation à long 
+terme, les pouvoirs publics devraient publier le plus grand nombre possible d’éléments facilitant sa construction, afin 
+de permettre à l’ensemble des acteurs du débat budgétaire d’élaborer leurs propres projections de long terme des 
+dépenses publiques.
+Le tableau ci-dessous présente un résumé de l’effort de consolidation à faire, en première année et sur toute la période 
+de consolidation.
+Tableau 3. Comparaison de l’effort de consolidation relatif au déficit de l’année N-1 et par rapport au tendanciel
+Effort de consolida-
+tion (scénario cen-
+tral : 6 ans)
+Relativement au 
+déficit structurel 
+primaire
+Pour se prémunir des 
+crises (+1 %)
+En cas d’une hausse 
+des taux d’intérêt
+Relativement au 
+déficit tendanciel de 
+long terme
+En 2026
+27 Md€
+En 2029
+73 Md€
+Totalité
+82 Md€
+112 Md€
+127 Md€
++36 Md€
+Panorama des mesures de consolidation budgétaire
+Pour atteindre les 112 milliards d’euros nécessaires pour stabiliser la dette, nous proposons un panorama des leviers 
+budgétaires mobilisables, qu’il s’agisse des recettes, des dépenses ou des réformes structurelles. Notre démarche est 
+volontairement descriptive et non prescriptive : l’objectif est de mettre à disposition un inventaire chiffré des options 
+envisageables, sans anticiper les choix politiques qui pourraient en découler. Au total, nous identifions 108 milliards d’eu-
+ros de mesures potentielles en dépenses, 111 milliards en recettes et 45 milliards sous forme de réformes structurelles.
+Cette présentation ne constitue pas une évaluation économique ou sociale des mesures : leurs effets redistributifs, 
+macroéconomiques ou sur la compétitivité ne sont pas analysés ici, même lorsqu’ils figurent dans les sources mobili-
+sées. Ces dimensions, qui peuvent sensiblement influer sur l’appréciation de chaque levier, mériteraient des analyses 
+complémentaires.
+Encadré 3 : Tendanciel de dépenses publiques et chiffrages budgétaires
+La question du tendanciel retenu par le gouvernement fixe les bornes méthodologiques de notre revue des mesures de 
+consolidation : une mesure ne peut être comptabilisée comme une économie que si elle réduit le niveau de dépense 
+qui résulterait du tendanciel. 
+Par exemple, dans le tendanciel des dépenses retenu par le gouvernement en juillet 2025, aucune revalorisation du 
+point d’indice des fonctionnaires n’est prévue. La non-revalorisation de cet indice ne peut donc pas être présentée 
+comme une mesure d’économie supplémentaire puisqu’elle est déjà intégrée dans la trajectoire de référence. En 
+revanche, la loi prévoit l’indexation sur l’inflation du barème de certains impôts ou prestations, notamment le barème 
+de l’impôt sur le revenu et les pensions de retraite. La politique de désindexation de ces dispositifs peut donc participer 
+à l’effort de consolidation si l’on se réfère au tendanciel. En ce sens, le tendanciel constitue le point de comparaison 
+initial pour distinguer les mesures d’ajustement. 
+Pour cette raison, il est essentiel que les éléments présidant à l’élaboration du tendanciel des dépenses publiques 
+soient rendus publics, afin de servir de base commune à tous les acteurs travaillant sur le chiffrage de réformes affec-
+tant les dépenses publiques.
+Ces mesures pourraient être mises en œuvre dès 2026 et pourraient contribuer à une réduction du déficit de 27 Md€ 
+par rapport à 2025. Cet effort ne peut être ponctuel, il doit s’inscrire dans une trajectoire pluriannuelle, jusqu’en 2032 
+au moins.
+
+=== PAGE 9 ===
+9
+Comment stabiliser la dette publique ?
+Plusieurs des mesures identifiées ne sont mobilisables qu’une seule fois et ne pourront être reconduites les années 
+suivantes (par exemple, la réforme des aides à l’apprentissage). D’autres sont reconductibles et cumulables sur plu-
+sieurs années (par exemple, le gel de certaines prestations ou enveloppes budgétaires). Le total des mesures proposées 
+excède le seul besoin d’ajustement pour 2026 pour donner plusieurs pistes possibles de consolidation et anticiper l’ef-
+fort qui devra être prolongé en 2027 et au-delà. 
+Présentation des mesures
+Notre travail de synthèse, construit à partir d’un large corpus de rapports institutionnels 8, d’études académiques et 
+d’analyses de différents groupes de recherche, propose des scénarios chiffrés d’économies, qu’il s’agisse de dépenses, 
+de recettes ou de dépenses fiscales. Les résultats sont présentés dans deux tableaux principaux : l’un consacré aux 
+mesures permettant d’augmenter les recettes (pour un total agrégé de 111,4 Md€), l’autre aux économies possibles en 
+dépenses (pour environ 108 Md€ d’ici 2030) 9. Cette sélection ne prétend évidemment pas à l’exhaustivité mais rend 
+compte de la littérature disponible. Un troisième tableau est consacré aux effets sur les finances publiques à attendre 
+de certaines réformes structurelles, pour un total d’économies annuelles de 27 Md€ à horizon 2030.
+L’objectif est de montrer qu’il est possible de mobiliser différents leviers pour réduire le déficit public. En fournissant les 
+ordres de grandeur pour une large palette de réformes, notre travail de synthèse constitue une ressource pour tous les 
+acteurs travaillant sur des programmes de consolidation budgétaire. Dans un souci de lisibilité, nous ne retenons qu’un 
+nombre limité de mesures dont le chiffrage est robuste ; le détail, ainsi que la source de tous les chiffrages sont dispo-
+nibles en Annexes 1 à 4. Certaines mesures dont le chiffrage est plus incertain y sont également présentées, de même 
+que de nombreuses autres pistes non reprises dans les tableaux de synthèse.
+Les montants indiqués dans ces tableaux doivent être compris comme des ordres de grandeur. Certaines mesures en 
+recettes correspondent ainsi à des chiffrages dits «  budgétaires  » (gain mécanique d’une hausse de taux ou de la sup-
+pression d’une niche fiscale), tandis que d’autres s’appuient sur des travaux économiques plus avancés intégrant des 
+réponses comportementales des contribuables ou des bénéficiaires. Le choix a été fait de présenter autant de mesures 
+que possible, sur la base des chiffrages les plus robustes disponibles dans la littérature, au prix d’une certaine hétérogé-
+néité méthodologique. Les mesures recensées couvrent l’ensemble des administrations publiques — État, collectivités 
+locales et administrations de sécurité sociale.
+Mesures transversales de maîtrise de la dépense 
+ La figure 3 présente la dynamique différenciée des dépenses selon ces trois secteurs, l’État progressant plus modéré-
+ment depuis 2000 (+0,9 % par an en moyenne en volume entre 2000 et 2024), tandis que les collectivités locales et la 
+sécurité sociale ont évolué à un rythme similaire et plus soutenu (+1,9 %).
+8 Les rapports récents de la Cour des comptes et les revues de dépense des services d’inspection de différents ministères, notamment l’Inspection 
+générale des finances, ont constitué des ressources précieuses pour ce travail de synthèse.
+9 Dans la suite, tous les montants exprimés en euros, qu’ils portent sur des mesures de consolidation en dépenses, en recettes ou sur l’évolution des 
+dépenses, sont indiqués en euro courant. Les taux de croissance présentés en volume seront précisés comme tels.
+
+=== PAGE 10 ===
+Focus, no 124, octobre 2025
+10
+Figure 3. Évolution en volume des dépenses par administration (base 100 en 2000)
+Lecture : cette figure montre l’évolution des dépenses publiques pour l’État, les collectivités territoriales et la sécurité sociale, normalisées à 
+100 en 2000.
+Dans le Tableau 4, on présente les ordres de grandeur de mesures transversales de maîtrise de la dépense. Y sont chif-
+frées 23 mesures, issues du panel de 71 mesures détaillées en Annexe 2.
+Tableau 4. Synthèse des mesures de consolidation des finances publiques via la diminution des dépenses (en Md€)
+Dépenses
+Dépenses 
+budgétaires 
+en 2024
+Chiffrage 
+des 
+mesures 
+pour 2026
+Chiffrage 
+à horizon 
+2030
+État
+600,7
+7,2
+34,6
+Gel en volume du budget général de l’État hors charges de la dette**
+ 
+7,2
+34,6
+Dont : Réforme des aides à l’apprentissage
+ 
+0,6
+0,6
+Dont : Ciblage du dispositif MaPrimeRenov sur les rénovations d’ampleur et les 
+sorties de passoire énergétique
+0,9
+0,9
+Dont : Conditionnement des aides au logement aux ressources parentales : seuil 
+de revenu net global abattu par part fiscale de 39.020€
+0,8
+0,8
+Dont : Diminution des subventions à l’enseignement privé de 75 % à 50 %
+3,5
+3,5
+Dont : Suppression de l’affectation des taxes aux chambres de commerce et d’in-
+dustrie, et aux chambres de métiers et de l’artisanat, et des dotations à la BPI
+0,8
+0,8
+Dont : Diminution a minima des autorisations d’engagements de la mission 
+Agriculture au niveau des plafonds de la loi de programmation des finances 
+publiques 2023-2027 (plan protéines végétales, plan haies)
+0,5
+0,5
+Sécurité sociale
+776,8
+14,4
+40,4
+Maladie et ATMP (accidents du travail et maladies professionnelles)
+269,3
+9,6
+16,5
+Augmenter la prise en charge des complémentaires santé et la participation finan-
+cière des assurés *
+5,5
+5,5
+Poursuivre la baisse des prix des produits de santé et accentuer les actions en faveur 
+du bon usage*
+0,5
+2,7
+Hôpital : poursuivre le virage ambulatoire*
+ 
+0,8
+0,8
+Réduire les dépenses évitables : développer les bonnes pratiques pour identifier les 
+dépenses atypiques par comparaisons entre territoires*
+1,4
+2,8
+Améliorer la prévention*
+ 
+0,9
+4,3
+
+=== PAGE 11 ===
+11
+Comment stabiliser la dette publique ?
+Réduire la prise en charge des indemnités journalières d’arrêt maladie par la Sécurité 
+sociale
+0,5
+Retraites
+407
+2,6
+15,7
+Geler l’indexation des retraites de base sur l’inflation pour 2026 (hypothèse de 1,3 % 
+d’inflation pour la première année)*
+ 
+2,6
+15,7
+Prestations sociales
+57,8
+1,8
+8,4
+Cibler les allocations familiales : supprimer la modulation du montant versé aux 
+ménages percevant des revenus supérieurs à 5,2 SMIC
+0,5
+0,5
+Geler l’indexation des prestations sociales : minima sociaux (RSA, ASPA, AAH), pres-
+tations familiales, prime d’activité et aides au logement
+ 
+1,3
+7,9
+Assurance chômage
+42,4
+0,4
+1,9
+Réformer l’assurance chômage : réduire la période de référence d’affiliation de 24 à 
+20 mois*
+ 
+0,4
+1,9
+Collectivités locales
+329,7
+7,0
+24,5
+Geler en volume le budget des collectivités locales hors charges de la dette*
+ 
+3,9
+19,4
+Généraliser la massification des achats et la mutualisation des circuits entre les 
+collectivités*
+1,0
+3,0
+Écrêter les recettes de TVA et TSCA affectées aux collectivités pour les réaffecter au 
+budget de l’État
+1,0
+1,0
+Transports en commun : augmenter la contribution financière des usagers à 30 % 
+1,1
+1,1
+Dépenses transverses
+ 
+2,3
+6
+Augmenter le délai de carence dans la fonction publique à 3 jours
+ 
+0,3
+0,3
+Appliquer la durée légale du travail (sauf exceptions justifiées) qui permettrait aux col-
+lectivités de réduire leurs effectifs de 2,7 % soit 52 000 agents
+1,3
+1,3
+Supprimer 11 000 postes FPE et 19 000 postes FPT soit 0,5 % des postes
+ 
+0,7
+4,4
+Total (hors crédits d’impôt et transferts entre administrations)
+1670,2
+30,9
+108
+* Chiffrage reconductible d’une année à une autre et/ou présentant des effets sur les finances publiques à moyen terme.
+** Les mesures présentées ici sont des exemples de dispositifs dont la suspension contribuerait à geler, en volume, le budget de l’État. Le 
+chiffrage à horizon 2030 implique de mettre en œuvre, chaque année, des mesures supplémentaires pour respecter cette cible.
+Sources : Insee, Comptes nationaux 2024 et Cour des comptes, rapport annuel sur la Sécurité sociale, IGF.
+Une première option repose sur le principe du gel «  en volume  » (c’est-à-dire après inflation), qui consiste à limiter la 
+progression d’une dépense par rapport à son évolution tendancielle en euros constants. Dans le scénario retenu, la 
+dynamique tendancielle de la dépense publique, hors charge de la dette de l’État, est estimée à +1,3 % en volume en 
+2026. En appliquant un gel en volume au budget de l’État, l’économie atteindrait 6,9 Md€ en 2026, la répartition de l’ef-
+fort restant à la discrétion du gouvernement et des ministères. Le tableau 4 comprend une combinaison de mesures 
+possibles pour atteindre ce volume d’économies en 2026 pour l’État : de la diminution des subventions à l’enseigne-
+ment privé (de 75 % à 50 %) pour  3,5 Md€ à la réforme des aides à l’apprentissage pour 0,6 Md€ 10. D’autres leviers 
+existent, comme le recentrage de MaPrimeRénov’ sur les rénovations les plus performantes et les sorties de passoires 
+thermiques (0,9 Md€) ou la réforme des aides au logement pour mieux cibler les ménages modestes (0,8 Md€). Une 
+approche alternative consisterait à geler en volume les crédits ministériels et à laisser les gestionnaires publics décider 
+comment réallouer leurs budgets pour satisfaire cette contrainte.
+Une mesure de gel en volume appliquée au budget des collectivités locales dégagerait, quant à elle 3,9 Md€.
+10 Une réforme plus ambitieuse qui consisterait au retour du ciblage de l’aide unique de 2018 permettrait de générer 6,2 Md€ d’économie selon 
+l’OFCE (Policy brief n°135, 2024). À noter que ce chiffre est partiellement surévalué aujourd’hui car il n’inclut pas la réforme de 2025, postérieure à 
+l’étude, qui a mis en place un ciblage intermédiaire. Voir Annexe 2, section “Emploi et activité”.
+
+=== PAGE 12 ===
+Focus, no 124, octobre 2025
+12
+Ces règles générales de maîtrise des dépenses laissent aux gestionnaires publics une grande flexibilité dans la mise 
+en œuvre. Par ailleurs, leur reconduction d’une année à une autre permet d’ancrer un objectif de consolidation des 
+finances publiques dans une trajectoire pluriannuelle. Elles comportent toutefois des limites : les montants d’économie 
+dépendent directement de l’hypothèse retenue pour la croissance tendancielle de la dépense, ainsi que du périmètre 
+choisi (on peut, par exemple, décider d’exclure certaines priorités comme la défense ou l’éducation). 
+Une autre approche est celle de «  l’année blanche  », qui repose cette fois sur une désindexation temporaire de cer-
+tains dispositifs vis-à-vis de l’inflation. Cela consisterait, par exemple, à geler, en 2026, la revalorisation des pensions 
+de retraite de base (3 Md€ d’économies), l’indexation des prestations sociales (minima sociaux, prestations familiales, 
+prime d’activité et aides au logement, soit1,3 Md€ d’économies), ainsi que le barème de l’impôt sur le revenu (1,8 Md€). 
+Cette approche est sensible à l’hypothèse d’inflation retenue (1,3 % pour 2026 dans nos chiffrages) : une inflation plus 
+forte gonflerait mécaniquement le rendement de la mesure. L’avantage principal tient aux montants importants déga-
+gés et à la possibilité d’accumuler les gains si la désindexation est prolongée au-delà d’une année. En revanche, ce sont 
+des mesures potentiellement régressives car elles font porter uniformément l’effort de consolidation sur l’ensemble 
+des bénéficiaires de transferts sociaux et sur tous les ménages assujettis au nouveau barème de l’impôt sur le revenu, 
+indépendamment de leur niveau de ressources. Les mesures de désindexation pourraient être ciblées pour éviter une 
+telle régressivité.
+Agir sur la masse salariale de la fonction publique est un autre levier potentiel de consolidation. Par exemple, l’applica-
+tion de la durée légale du travail permettrait aux collectivités locales de réduire leurs effectifs de 2,7 % pour 1,3 Md€ 
+d’économies. La suppression de 30 000 postes dans la fonction publique d’État et dans la fonction publique territoriale 
+ferait économiser 0,7 Md€ par an, tandis que le passage à un délai de carence de 3 jours pour les absences maladies 
+se chiffrerait à 0,3 Md€ (sans tenir compte d’une évolution possible des comportements).
+Dans le domaine de la santé, la participation financière des assurés pourrait être revue à la hausse, en particulier sur 
+les dispositifs médicaux (0,7 Md€) et les affections de longue durée (3,4 Md€), dans un contexte où le reste à charge 
+par patient (7,5 % selon le Rapport 2026 Charges et Produits de la Cnam) est le plus faible au monde. Une réduction 
+de la prise en charge des indemnités journalières d’arrêts maladie par la Sécurité sociale permettrait d’économiser de 
+l’ordre de 0,5 Md€ en fonction des paramètres retenus (allongement du délai de carence, réduction de la durée maxi-
+male d’indemnisation…). De plus, près de 7 Md€ de gains pourraient être recherchés à moyen terme en améliorant la 
+prévention et l’efficience du système de santé, notamment par la poursuite de la baisse des prix des produits de santé 
+et du virage ambulatoire à l’hôpital.
+Enfin, pour les administrations publiques locales, des mesures de rationalisation ciblées peuvent compléter les règles 
+générales de maîtrise de la dépense. La généralisation de la massification des achats et de la mutualisation des circuits 
+permettrait d’économiser environ 1 Md€. La suppression de certains financements à des associations hors du champ 
+des compétences obligatoires ou partagées des départements représenterait 0,4 Md€. Au-delà des actions sur les 
+dépenses, ralentir l’évolution des recettes des collectivités pourrait être un instrument plus efficace pour les associer à 
+l’effort de redressement des finances publiques, compte tenu des règles d’équilibre de leurs budgets, et plus à même 
+de limiter les risques d’immixtion de l’État dans leur gestion. Dans cet esprit, il conviendrait d’examiner les modalités 
+d’affectation de certaines parts d’impôts aux collectivités. Ainsi, un plafonnement de l’augmentation en volume des 
+recettes de TVA et de la taxe sur les conventions d’assurances (TSCA), actuellement affectées aux collectivités, rappor-
+terait 1 Md€ au budget de l’État.
+Maîtrise des recettes
+Dans le Tableau 5 sont présentés les ordres de grandeur du levier fiscal, avec une hausse des prélèvements obliga-
+toires. Y sont chiffrées 30 mesures, issues du panel de 97 mesures détaillées en Annexes 3 et 4. 
+
+=== PAGE 13 ===
+13
+Comment stabiliser la dette publique ?
+10 Voir supra la discussion sur d’autres mesures de taxation du patrimoine.
+Tableau 5. Synthèse des mesures de consolidation des finances publiques via l’augmentation des recettes 
+(en Md€)
+Recettes
+Recettes issues des 
+prélèvements obliga-
+toires en 2024
+Chiffrage net 
+des mesures pour 
+2026*
+Impôts sur le revenu (y compris CSG et CRDS)
+268,0 Md€
+38,2 Md€
+Augmenter le taux de prélèvement forfaitaire unique (PFU) de 30 % à 33 %*
+ 
+1,2
+Augmenter d’un point du taux d’IR pour chaque tranche (sauf celle à 0 %)*
+ 
+6,8
+Augmenter d’un point du taux de CSG
+ 
+14,6
+Geler l’indexation du barème de l’IR sur l’inflation
+ 
+1,8
+Plafonner le bénéfice du quotient conjugal pour les couples mariés ou pacsés 
+ayant les plus hauts revenus (à 10 000 €)
+1,1
+Supprimer les demi-parts de quotient familial qui ne correspondent pas à des 
+charges effectives
+2,9
+Aligner l’ensemble de la tranche imposée à 8,3 % de CSG sur celle des actifs impo-
+sée à 9,2 %
+1,3
+Supprimer les niches fiscales des revenus du capital (assurance-vie, épargne 
+logement)
+ 
+0,9
+Supprimer l’abattement fiscal de 10 % sur le calcul du revenu fiscal de référence 
+des retraités
+4,8
+Supprimer l’exonération d’IR accordée à la rémunération des heures supplémen-
+taires et complémentaires
+1,8
+Supprimer la réduction d’impôt sur le revenu à raison des investissements produc-
+tifs en outremer*
+0,3
+Limiter le plafond de don du taux normal de la réduction d’IR à 2 000€
+ 
+0,4
+Réformer le crédit d’impôt au titre de l’emploi d’un salarié à domicile
+ 
+0,4
+Impôts sur le patrimoine (DMTO, DMTG, taxes foncières, IFI, taxe d’habitation)
+86,9
+38,4
+Restaurer la taxe d’habitation sur les résidences principales
+ 
+21,8
+Supprimer les abattements sur les plus-values immobilières pour durée de 
+détention
+3,6
+Rétablir l’ISF selon les mêmes modalités qu’avant sa suppression 10
+ 
+5,0
+Taxation de l’héritage : supprimer ou réviser les dispositifs d’allègement
+ 
+8,0
+Impôt sur les sociétés
+57,4
+4,8
+Augmenter le taux d’imposition sur les sociétés (IS) de 25 % à 33,5 %*
+ 
+4,4
+Supprimer le taux à 5 %, au-delà de 100 millions d’euros de dépenses, du crédit 
+d’impôt recherche
+0,4
+Fiscalité de l’énergie
+39,1
+5,8
+Supprimer les tarifs réduits d’accises sur le gaz naturel, le gazole, les biocarbu-
+rants et l’électricité
+4,8
+Augmenter l’accise sur les gaz naturels à 23€/MWh (soit +6€/MWh) pour l’aligner 
+sur l’électricité
+1,0
+
+=== PAGE 14 ===
+Focus, no 124, octobre 2025
+14
+Taxe sur la valeur ajoutée
+206,3
+19,9
+Relever le taux intermédiaire de 10 % à 12,5 %*
+ 
+2,9
+Augmenter le taux normal de TVA d’un point
+ 
+6,0
+Supprimer le taux réduit de TVA dans la restauration
+ 
+4,2
+Supprimer le taux réduit de TVA pour les billets d’avion*
+ 
+0,3
+Supprimer le taux réduit de TVA pour les travaux, hors rénovation énergétique
+ 
+4,5
+Supprimer le taux réduit de TVA pour les travaux de rénovation énergétique
+ 
+2,0
+Cotisations sociales
+431,1
+3,2
+Augmenter la contribution de la branche ATMP à la branche maladie en rehaussant 
+les cotisations des entreprises
+0,8
+Réformer les niches sociales des compléments de salaires
+ 
+2,4
+Autres impôts
+162,1
+1,0
+Eco-taxe poids lourds : taxer au kilomètre sur le réseau routier national hors 
+autoroutes
+1,0
+Total
+1250,9
+111,4
+* Les chiffrages tiennent compte de la réponse comportementale des contribuables à la mesure proposée.
+Sources : Insee, Comptes nationaux 2024, Cour des Comptes, IGF
+Légende : 
+Dépenses fiscales
+	
+ 
+Recettes
+Ainsi, une hausse d’un point par tranche du taux d’impôt sur le revenu pourrait générer 6,8 Md€ de recettes après 
+prise en compte des effets comportementaux (cf. Encadré 4) 11, tandis qu’une hausse d’1 point du taux de CSG pour-
+rait rapporter 14,6 Md€. Le relèvement du taux normal de TVA de 20 à 21 % se chiffrerait à 6,0 Md€. Cette estimation 
+tient compte des effets de second tour que provoquerait une transmission à l’inflation de cette fiscalité sur les finances 
+publiques : la hausse de la TVA se traduirait en effet par une augmentation des prix, laquelle se répercuterait ensuite 
+dans les barèmes de certaines prestations et impôts directs indexés sur l’inflation, par exemple celui de l’impôt sur 
+le revenu. La restauration de la taxe d’habitation sur les résidences principales procurerait par ailleurs 21,8 Md€ de 
+recettes à l’État (exonérations et dégrèvements compris), qui ne compenserait plus sa suppression aux collectivités 
+locales.
+Ces différentes mesures présentent des rendements élevés mais pèseraient davantage sur les ménages modestes et 
+les classes moyennes à proportion de leurs capacités contributives. D’autres instruments sont davantage redistributifs, 
+comme le rétablissement de l’impôt sur la fortune (pour des recettes attendues de l’ordre de 5 Md€) ou le renforcement 
+de la fiscalité sur les revenus du capital via l’augmentation de 3 points du taux de PFU (1,2 Md€, cf. Encadré 4). Un 
+certain nombre de dispositifs bénéficiant principalement aux plus aisés pourraient également être ciblés, notamment 
+en matière d’imposition sur le revenu des personnes physiques. Le tableau présente par exemple une réforme du crédit 
+d’impôt au titre de l’emploi d’un salarié à domicile : une modulation de son taux, relevé à 60 % pour certaines activités 
+comme l’assistance aux personnes âgées et abaissé à 40 % dans les autres cas, ferait gagner 0,4 Md€ de recettes fis-
+cales à comportements inchangés. Le plafonnement du bénéfice du quotient conjugal pour les couples mariés ou pac-
+sés avec les plus hauts revenus aurait également une incidence positive en termes de recettes fiscales (1,1 Md€ dans 
+l’hypothèse d’un plafond à 10 000 €), tout en mettant les foyers fiscaux les plus aisés à contribution. La révision de plu-
+sieurs dispositifs d’allègement de l’impôt sur l’héritage, tels que le pacte Dutreil et le régime de l’assurance-vie, offrirait 
+aussi un levier important de redressement des finances publiques.
+11 Le montant mécanique, sans effets comportementaux, est de 7,6 milliards d’euros.
+
+=== PAGE 15 ===
+15
+Comment stabiliser la dette publique ?
+Encadré 4. Effet mécanique et effet comportemental d’une variation du taux d’imposition
+L’évaluation de l’impact budgétaire d’une hausse d’impôt repose sur une distinction entre l’effet mécanique (ce que rap-
+porterait la mesure à assiette constante) et l’effet comportemental (la contraction de l’assiette liée aux réactions des 
+contribuables).Les recettes publiques d’un prélèvement peuvent être écrites comme :
+R(t) = t ⋅ B(t)
+où t est le taux d’imposition et B(t) l’assiette fiscale dépendent du taux net après impôt. La variation des recettes fis-
+cales peut alors se décomposer en deux termes : 
+ΔR(t) = Δt ⋅ B(t) − [ϵ⋅Δt / (1- t)] ⋅ t ⋅ B(t)
+On distingue alors l’effet mécanique de la variation du taux d’imposition Δt de la réponse comportementale des contri-
+buables qui modifie l’assiette selon une élasticité du revenu taxable au taux de rendement après impôt, ϵ. En effet, les 
+contribuables ajustent généralement leurs comportements en réponse à une variation de la fiscalité, en modifiant la 
+structure de leurs revenus, en reportant certaines opérations, ou en arbitrant entre différents types d’investissements.
+En exprimant notre relation comme une fraction de l’effet mécanique, défini par 
+M(t)= Δt⋅B(t)
+on obtient : 
+R~ (t) =(ΔR(t))/(M(t))=1-ϵ⋅(t/(1-t))
+Appliqué au relèvement du prélèvement forfaitaire unique (PFU) de 30 % à 33 % (t = 0,33 et Δt = 0,03), sur une assiette 
+initiale estimée à 57 Md€ en 2025 et en retenant une élasticité ϵ = 0,65, le gain budgétaire net de notre mesure s’éta-
+blit à 1,2 Md€. Dans cet exemple, près d’un tiers du rendement mécanique de la mesure est absorbé par la contraction 
+de l’assiette.
+De la même manière, appliqué à une hausse de l’impôt sur le revenu d’un point de pourcentage pour toutes les tranches 
+(sauf celle à 0 %), sur une assiette initiale estimée à 760 Md€ en 2025 en retenant une élasticité de ϵ = 0,40, le gain 
+budgétaire net de la mesure s’établit à 6,8 Md€ contre 7,6 Md€ si la réaction comportementale n’est pas prise en 
+compte. 
+La prise en compte de la réponse comportementale dans l’évaluation budgétaire est d’autant plus importante que l’élas-
+ticité du revenu taxable est élevée.
+S’agissant de l’imposition des hauts patrimoines, des études empiriques sur les réponses comportementales montrent 
+qu’une part du gain mécanique pourrait être effacée par les ajustements des contribuables. Sur données danoises et 
+suédoises, Jakobsen et al. estiment que, à long terme, 0,74 € 12 sont perdus pour chaque euro supplémentaire levé 
+mécaniquement via les taxes sur le patrimoine, 0,54 € sont imputés à la marge intensive (évasion ou optimisation fis-
+cale, investissement, épargne) et 0,20 € par la marge extensive (exil fiscal), ce qui réduit fortement le rendement effectif 
+attendu. Ainsi, la réponse comportementale passerait-elle majoritairement par la marge intensive. Pour la marge exten-
+sive, une étude récente du CAE 13 confirme sur données françaises l’ampleur des réponses comportementales mesurées 
+dans les pays scandinaves.
+S’agissant de la proposition d’un impôt de 2 % sur les patrimoines supérieurs à 100 M€, biens professionnels compris, 
+son caractère inédit rend tout chiffrage particulièrement incertain. Les données de la World Inequality Database per-
+mettent d’évaluer un rendement mécanique d’environ 18,26 Md€ 14. L’enjeu est alors d’intégrer la réponse compor-
+tementale des contribuables : en appliquant le ratio de 0,74 (marges intensive et extensive confondues) estimé par 
+Jakobsen et al., le rendement effectif serait ramené à environ 4,75 Md€. Cette transposition demeure toutefois incer-
+taine. D’une part, on ne peut exclure que les comportements d’optimisation ou d’exil face à un tel dispositif diffèrent 
+de ceux observés lors de réformes passées : ils pourraient être plus élevés (du fait du niveau plus élevé des taux d’im-
+position, de la définition de l’assiette qui inclurait les biens professionnels et de la dépréciation potentielle des actifs 
+concernés) ou plus faibles (avec l’éventuelle mise en place de nouveaux dispositifs anti-optimisation). D’autre part, la 
+12 Pour le détail du contexte institutionnel des pays scandinaves étudiés, voir Jakobsen et al. (2025) : «  Taxing Top Wealth : Migration Responses and 
+their Aggregate Economic Implications  ».
+13 Bach L., Bozio A., Grimprel N., Guillouzouic A., Landais C., Malgouyres C. (2025) : «  Fiscalité du capital : quels sont les effets de l’exil fiscal sur 
+l’économie ?  », Focus du CAE n°118.
+14 Un simulateur, mis à disposition par la World Inequality Database, permet de simuler le rendement attendu de différents impôts sur le patrimoine 
+selon des seuils de richesse établis.
+
+=== PAGE 16 ===
+Focus, no 124, octobre 2025
+16
+taxation des biens professionnels pourrait créer des problèmes de liquidité pour certains entrepreneurs, avec à la clé 
+un impact négatif potentiel sur la croissance — et, par conséquent, sur les recettes fiscales. Face à ces incertitudes, il 
+est plus prudent d’estimer les recettes en intégrant les réactions constatées dans des réformes antérieures, plutôt que 
+de s’en tenir à un calcul purement mécanique 15.
+Ces éléments suggèrent qu’il serait ambitieux d’espérer un rendement supérieur à 5 Md€ pour des mesure de taxation 
+du patrimoine. Compte tenu de ces contraintes, nous faisons apparaître en synthèse la mesure consistant en un retour 
+de l’ISF, dont l’application est juridiquement plus certaine, tout en gardant à l’esprit que ce levier, bien qu’important, ne 
+résout pas à lui seul les besoins de financement. 
+D’autres dépenses fiscales inefficaces peuvent être visées, à l’instar des taux réduits de TVA pour les travaux d’amé-
+lioration des logements (dont la suppression rapporterait 4,5 Md€ à comportements inchangés) 16 ou du crédit d’impôt 
+recherche (0,4 Md€ dans l’hypothèse d’une suppression du taux à 5 % sur les dépenses en R&D supérieures à 100 M€, 
+à comportements inchangés) 17. Les allègements de cotisations sociales sur les compléments de salaires (primes de 
+partage de la valeur, protection sociale complémentaire, heures supplémentaires…) représentent 18 Md€ de recettes 
+en moins pour la Sécurité sociale, alors même qu’ils répondent à des objectifs imprécis, dont les impacts, macroéco-
+nomiques notamment, sont peu étayés, et que leur ampleur nuit à l’équité du prélèvement social entre les entreprises 
+et entre les salariés. Comme le souligne une Note du CAE 18, la plupart des mécanismes volontaires de partage de la 
+valeur tendent en réalité à se substituer aux salaires fixes, sans effet significatif sur la performance des entreprises, 
+accentuant ainsi les effets d’aubaine et la distorsion du prélèvement social. Selon les pistes identifiées par la Cour des 
+comptes, un renforcement de la fiscalité sur ces compléments, par exemple via la compensation par l’État de l’exonéra-
+tion des cotisations salariales sur les heures supplémentaires, l’alignement progressif du forfait social vers son taux de 
+référence, son extension à la prime de partage de la valeur, ainsi que le relèvement de la contribution sur les attributions 
+gratuites d’actions, permettrait de dégager 2,4 Md€ de recettes supplémentaires 19. 
+En complément, plusieurs mesures de fiscalité environnementale pourraient contribuer à la consolidation budgétaire 
+tout en renforçant les incitations à la transition écologique, qu’il s’agisse de la suppression des tarifs réduits d’accises 
+(ou impôts indirects) sur les énergies fossiles (4,8 Md€) et des taux réduits de TVA sur les billets d’avion (0,3 Md€) ou 
+de l’introduction d’une écotaxe sur le transport routier de marchandises (1,0 Md€).
+Mobiliser des leviers structurels pour consolider les finances publiques
+Des réformes structurelles permettraient également de contribuer à la consolidation des finances publiques. Le Focus 
+présente les ordres de grandeur à attendre de réformes favorables à la croissance, à la productivité et à l’emploi. Ces 
+gains ne se décrètent pas et les réformes qui permettent de les atteindre sont parfois coûteuses à court terme et ne 
+produisent leurs effets qu’avec un certain décalage. Elles permettraient néanmoins de contribuer de façon substantielle 
+à l’amélioration du solde public à moyen et long terme. Trois illustrations chiffrées des gains potentiels associés à ce 
+type de réformes sont présentées dans le tableau 6.
+On estime d’abord l’enjeu pour les finances publiques d’une hausse de la croissance annuelle de la productivité de 
+0,1 point en 2026 et de 0,2 point à partir de 2027. L’effet mécanique se traduit par une augmentation des prélèvements 
+obligatoires moyens et, donc, des recettes publiques représentant près de 12 Md€ à horizon 2030 20.
+Ces estimations reposent toutefois sur une hypothèse mécanique de transmission intégrale des gains de productivité 
+aux revenus et restent sensibles à l’évolution conjoncturelle. En effet, à court et moyen terme, l’ajustement sur le mar-
+ché du travail peut en neutraliser une partie. D’une part, l’ajustement des salaires aux gains de productivité n’est jamais 
+instantané. D’autre part, une hausse de productivité peut conduire, dans un premier temps, à une baisse de la demande 
+de travail. Les gains de productivité ne se traduisent donc pas immédiatement en salaires ou en emploi, ce qui limite la 
+progression des recettes publiques et peut rendre l’effet budgétaire nul sur les premières années. En revanche, le levier 
+15 D’autres propositions pourraient affecter les effets comportementaux, mais celles-ci ne sont pas assez détaillées pour être évaluées.
+16 Cour des comptes (2016) : Le taux réduit de TVA sur les travaux d’entretien et d’amélioration des logements de plus de deux ans ; et IGF (2023) : 
+Adaptation de la fiscalité aux exigences de la transition écologique.
+17 Aghion P., Chanut N., Jaravel X.(2022) : «  Renforcer l’impact du Crédit d’impôt recherche  », Focus du CAE n°90.
+18 Guadalupe M., Landais L., Sraer D. (2023) : «  Que faut-il attendre des mécanismes de partage de la valeur ?  », Note du CAE n°79.
+19 Cour des comptes (2024) : «  Les niches sociales des compléments de salaire : un nécessaire rapprochement du droit commun  », Rapport annuel 
+sur les finances de la Sécurité sociale, chapitre 4.
+20  Voir les détails en Annexe 1.
+
+=== PAGE 17 ===
+17
+Comment stabiliser la dette publique ?
+21 Selon l’hypothèse que la baisse du taux de chômage entraîne une augmentation proportionnelle du taux d’emploi. Voir détails en Annexe 1. 
+22 Cour des comptes (2025) : Rapport “Situation financière et perspectives du système de retraites”, février.
+23 L’hypothèse retenue par la Cour des comptes est que les personnes encore en emploi juste avant leur départ à la retraite le resteraient. 
+24 Bozio A., Ferreira J., Landais C., Lapeyre A., Modena M., Molaro M. (2025) : «  Objectif "plein emploi" : pourquoi et comment ?  », Focus du CAE 
+n°110 : «  Les deux problèmes majeurs de la France en termes d’emploi sont les faibles taux d’emploi des jeunes et des seniors par rapport à nos 
+voisins.  » 
+de la productivité produit inexorablement des effets bénéfiques substantiels à long terme et doit faire partie intégrante 
+d’une stratégie de consolidation durable des finances publiques.
+On examine ensuite les enjeux pour les finances publiques d’une réduction progressive du taux de chômage. Une baisse 
+de 0,4 point par an sur cinq ans (soit 2 % cumulés), dégagerait jusqu’à 15 Md€ en 2030. L’effet provient à la fois de la 
+baisse des allocations chômage et de l’augmentation des recettes liées à l’emploi 21. 
+Enfin, la Cour des comptes propose une estimation de l’impact d’une augmentation du taux d’emploi des seniors via 
+le relèvement de l’âge d’ouverture des droits à la retraite de 64 à 65 ans, qui combine deux effets sur nos finances 
+publiques : une réduction mécanique des dépenses de pensions ainsi qu’une hausse des prélèvements obligatoires du 
+fait de l’augmentation du taux d’emploi des seniors. Selon les projections de la Cour des comptes, l’impact budgétaire 
+serait nul à court terme mais pourrait atteindre près de 18 Md€ d’amélioration du solde (annuel) de la Sécurité sociale et 
+du budget général de l’État à horizon 2035 22. Cette amélioration du solde public est notamment liée à l’augmentation du 
+taux d’emploi des seniors 23 pour 11,7 Md€. Il existe cependant de nombreuses limites à une telle réforme, notamment 
+en termes d’inégalités intra- et inter-générationnelles, mais elle permet d’illustrer l’importance d’une augmentation du 
+taux d’emploi des seniors 24 pour nos finances publiques.
+Malgré les limites de ces estimations, qui dépendent des hypothèses macroéconomiques retenues, le tableau ci-des-
+sous donne des ordres de grandeur utiles pour apprécier l’impact potentiel de réformes structurelles sur les finances 
+publiques. Le détail de ces mesures est disponible en Annexe 1.
+Tableau 6. Évaluation de l’impact sur les finances publiques de mesures structurelles (en Md€)
+Effet attendu des mesures 
+structurelles de long terme
+Montants annuels 
+estimés long terme
+Horizon retenu
+Réduction du taux de chômage de 
+0,4 point par an sur 5 ans (rythme 
+de diminution entre 2015 et 2019). 
+15,1
+2030
+Hausse de la croissance annuelle de 
+la productivité de 0,1 point en 2026 
+et de 0,2 points à partir de 2027
+12,3
+2030
+Hausse du taux d’emploi des 
+seniors, exemple de réforme : aug-
+mentation de l’âge d’ouverture des 
+droits à 65 ans pour les générations 
+1964 à 1968
+17,7
+2035
+Total
+45,1
+Sources : Cour des comptes, Comptes nationaux, OFCE, Insee.
+La question du recouvrement des fraudes fiscales et sociales
+La question du recouvrement des fraudes fiscales et sociales revient régulièrement dans le débat public lorsqu’il est 
+question de finances publiques. Des montants significatifs échappent en effet à l’impôt ou correspondent à des pres-
+tations indûment versées. Un renforcement des contrôles et des dispositifs de recouvrement pourrait donc amélio-
+rer le solde public. Les estimations disponibles suggèrent que la fraude fiscale représente entre 14 et 52 Md€ par 
+an et la fraude sociale entre 13 et 16 Md€. Dans un scénario raisonnable d’amélioration des taux de détection et de 
+
+=== PAGE 18 ===
+Focus, no 124, octobre 2025
+18
+recouvrement 25, les gains annuels pourraient atteindre autour de 4,2 Md€ (Tableau 7 et Annexe 3), soit un ordre de 
+grandeur non négligeable mais qui reste limité par rapport aux besoins globaux de consolidation.
+Ces chiffres doivent cependant être interprétés avec prudence. D’une part, il est très difficile d’évaluer précisément 
+l’ampleur de la fraude, qui repose par définition sur des comportements dissimulés. D’autre part, l’efficacité d’une poli-
+tique de lutte contre la fraude dépend des moyens déployés, qui ont un coût pour les finances publiques. Son rendement 
+budgétaire est donc d’incertitudes et ne peut constituer le cœur d’une stratégie de consolidation. Les effets attendus 
+de cette lutte doivent plutôt être vus comme une contribution complémentaire, montrant qu’une amélioration même 
+partielle du recouvrement peut générer des marges de manœuvre utiles, mais insuffisantes à elles seules, pour rétablir 
+durablement les finances publiques.
+Tableau 7. Estimation des montants annuels des fraudes et du recouvrement possible à moyen terme
+Lutte contre la fraude fiscale et sociale
+Gains attendus à moyen terme d’une 
+amélioration des contrôles et des 
+recouvrements
+Renforcement de la lutte contre la fraude fiscale
+3,3 Md€
+Renforcement de la lutte contre la fraude sociale
+0,8 Md€
+Total
+4,1 Md€
+Source : Cour des comptes, HCFIPS.
+Cette liste de mesures se veut la plus complète possible : elle couvre un large spectre de leviers tant du côté des 
+dépenses que des recettes, tout en donnant des ordres de grandeur associés à certaines réformes structurelles. Elle 
+ne constitue pas une recommandation normative, mais un outil pour nourrir le débat public : il revient aux décideurs 
+publics de choisir les mesures les plus adaptées, en fonction de leurs priorités économiques, sociales et politiques. Ce 
+travail démontre qu’il est possible de réduire le déficit public en combinant plusieurs approches, tout en mettant en 
+lumière les différents arbitrages à opérer. 
+Ces arbitrages doivent être justifiés par les décideurs publics, car réduire certaines dépenses ou augmenter certains 
+prélèvements peut avoir des conséquences lourdes. Par exemple, une baisse de l’effort de dépenses sur la défense 
+pourrait fragiliser la sécurité nationale, une réduction des moyens consacrés à l’éducation compromettrait l’avenir du 
+pays, et une compression mal maîtrisée des dépenses de l’assurance maladie affecterait directement la santé publique. 
+Ces choix relèvent in fine de décisions politiques, mais ils doivent pouvoir s’appuyer sur des données chiffrées acces-
+sibles publiquement afin d’éclairer le débat. 
+Dans ce cadre, il peut être éclairant d’examiner les comparaisons internationales pour identifier les domaines où 
+la France dépense davantage que ses voisins européens (cf. Encadré 5). Ces comparaisons doivent toutefois être 
+maniées avec prudence : elles reflètent avant tout des choix différents de modèles de société. Ainsi, le niveau élevé des 
+dépenses de retraite en France découle de l’organisation par répartition de notre régime assurantiel, qui diffère struc-
+turellement du modèle beveridgien adopté par plusieurs pays nordiques. Les écarts constatés ne sauraient donc être 
+utilisés comme un argument mécanique pour justifier telle ou telle coupe budgétaire, mais constituent un élément utile 
+pour nourrir la réflexion sur nos priorités collectives.
+25 Les montants présentés reposent sur une hypothèse d’amélioration de 5 points du taux de recouvrement de la fraude contre la TVA, à l’assurance 
+maladie et aux prestations sociales. Voir Annexe 2 et 3, section «  Lutte contre la fraude  ».
+
+=== PAGE 19 ===
+19
+Comment stabiliser la dette publique ?
+Encadré 5. Comparaison européenne
+En 2023, la France affiche un niveau de dépenses publiques particulièrement élevé, atteignant 57,0 % du PIB, soit le 
+niveau le plus élevé de l’UE, devant la Finlande (56,0 %) et l’Italie (53,7 %). Le niveau moyen de dépenses publiques en 
+UE s’élève à 49,0 %, à 48,4 % en Allemagne. La France dépense ainsi davantage en pourcentage de PIB que ses voisins 
+européens dans la plupart des postes. Cette différence est particulièrement marquée pour les dépenses de retraite — 
+avec un écart de +2,7 points de PIB par rapport à la moyenne de l’UE —, les dépenses de santé et la protection sociale.
+Par ailleurs, les différences institutionnelles des mécanismes d’indexation jouent un rôle important dans la dynamique 
+comparée des dépenses. En France, l’indexation de certaines prestations (retraites, prestations sociales, SMIC) sur l’in-
+flation accroît la sensibilité du budget aux chocs de prix. En Allemagne, l’indexation est plus limitée et repose davantage 
+sur des arbitrages politiques ou des règles spécifiques.
+On distingue trois principaux postes de dépenses publiques en France que sont la vieillesse et la dépendance (25,3 % 
+des dépenses totales), la santé, l’assurance maladie et invalidité (20,5 %) et l’enseignement (8,7 %). À ces postes, quatre 
+autres blocs de dépenses agrégées peuvent être ajoutés : les affaires économiques, l’environnement, le logement, les 
+loisirs et la culture (17,5 %), les services généraux des administrations publiques et fonctions régaliennes (13,9 %), la 
+protection sociale hors vieillesse (10,8 %) et les charges d’intérêt (3,2 %).
+Tableau 8. Écarts des niveaux de dépenses publiques (en pp des dépenses totales) avec la France en 2023
+Catégorie
+Poids dans la dépense publique
+Écart en % de la dépense publique
+  % des 
+dépenses 
+publiques
+  % du PIB
+UE
+Allemagne
+Italie
+Pays 
+nordiques
+Vieillesse et dépendance
+25,3
+14,5
+1,1
+1,9
+-4,5
+6,1
+Santé, assurance maladie et 
+invalidité 
+20,5
+11,6
+0
+-2
+5,4
+-4,7
+Affaires économiques,  
+environnement, logements, 
+loisirs et culture
+17,5
+9,9
+-0,4
+1,3
+-4,6
+2,7
+Services généraux APU et 
+fonctions régaliennes
+13,9
+8,1
+-0,6
+-2,3
+1,8
+-1,3
+Protection sociale hors 
+vieillesse
+10,8
+6
+1,3
+0,3
+4,5
+-0,6
+Enseignement
+8,7
+5
+-0,9
+-0,5
+1,4
+-3,4
+Charges d’intérêt
+3,2
+1,8
+-0,4
+1,2
+-3,8
+1,4
+Total
+100
+57
+Lecture : La France consacre 1,9 point de pourcentage de plus de sa dépense publique au poste Vieillesse et dépendance que l’Allemagne.
+Source : Eurostat
+Les écarts en structure avec la moyenne européenne sont globalement plus faibles qu’en pourcentage du PIB, ce qui 
+traduit une architecture des dépenses relativement comparable. Par rapport à la moyenne de l’UE, les écarts dépassent 
+rarement ±1 point de dépense publique, sauf pour les retraites (+1,1 pt) et la protection sociale hors vieillesse (+1,3 pt). 
+À l’inverse, l’Allemagne, l’Italie et les pays nordiques présentent des structures de dépenses plus marquées. L’Italie 
+consacre une part particulièrement importante à la vieillesse et à la dépendance, aux affaires économiques et aux 
+charges d’intérêt, mais beaucoup moins aux dépenses de santé et à la protection sociale hors vieillesse. L’Allemagne 
+accorde une place plus grande à la santé et aux services généraux et fonctions régaliennes, mais moins aux affaires 
+économiques. Les pays nordiques, enfin, se distinguent par une très faible part consacrée aux retraites  au profit de 
+dépenses plus élevées en enseignement et en santé.
+Ces arbitrages ne doivent pas relever d’une logique purement comptable. Le choix des instruments d’ajustement doit 
+aussi prendre en compte les effets sur la croissance, l’emploi et les inégalités à court, moyen et long terme 26. Il implique 
+26 La littérature économique s’est attachée à mesurer  les effets macroéconomiques des différents instruments d’ajustement budgétaire (aussi 
+appelés “multiplicateurs budgétaires”) selon la phase du cycle, le type d’instrument, et la politique monétaire. Voir par exemple la revue réalisée par 
+Battini et al. (2014). 
+
+=== PAGE 20 ===
+Focus, no 124, octobre 2025
+20
+notamment de déterminer le bon équilibre entre effort sur les dépenses et mobilisation des recettes. L’OCDE 27 propose 
+à ce titre une vue d’ensemble des effets possibles des différents outils de consolidation budgétaire sur la croissance 
+et les inégalités (Tableau 9). Il s’appuie sur les travaux de Cournède et Barbiero (2013) et Cournède, Goujard et Pina 
+(2013). Ils évaluent notamment que les coupes budgétaires en éducation ont un effet négatif sur la croissance et les 
+inégalités à court et long terme. 
+Tableau 9. Évaluation synthétique des effets des instruments de consolidation budgétaire sur la croissance et 
+les inégalités
+Croissance  
+court terme
+Croissance  
+long terme
+Inégalités  
+court terme
+Inégalités  
+long terme
+Dépenses
+Éducation
+- -
+- -
+- 
+- -
+Soins de santé en nature
+- -
+-
+-
+-
+Autres consommations publiques 
+hors famille
+- -
++
+-
+Pensions de retraite
+++
+Indemnités maladie et invalidité
+-
++
+- -
+-
+Allocations chômage
+-
++
+-
+Prestations familiales
+-
+-
+- -
+- -
+Subventions
+-
+++
++
++
+Investissement public
+- -
+- -
+Recettes
+Impôt sur le revenu des personnes
+-
+- -
++
++
+Cotisations sociales
+-
+- -
+-
+-
+Impôt sur les sociétés
+-
+- -
++
++
+Taxes environnementales
+-
++a
+-
+Taxes sur la consommation (hors 
+environnement)
+-
+-
+-
+Taxes récurrentes sur la propriété 
+immobilière
+-
+Autres impôts sur la propriété
+++
++
+Ventes de biens et de services
+-
++
+-
+-
+a Ce signe «  +  » reflète des effets positifs en termes de bien-être, dans la mesure où l’impact de long terme sur la production, définie 
+strictement comme le PIB, peut être ambigu.
+Source : OCDE (2013) : «  Choosing fiscal consolidation instruments compatible with growth and equit  », Economic Policy Paper n°07, juillet.
+Des exemples étrangers montrent que ces différents objectifs peuvent être conciliés. Cependant, les consolidations 
+budgétaires imposées aux pays d’Europe du sud à la suite de la crise financière de 2008 ont eu des effets récessifs mar-
+qués et ont contribué à creuser les inégalités, au moins à court terme. L’exemple du Portugal montre néanmoins qu’une 
+consolidation budgétaire ambitieuse qui n’aggrave pas les inégalités à moyen terme est possible 28.
+27 Voir l’étude de l’OCDE (2013) : «  Choosing fiscal consolidation instruments compatible with growth and equit  », Economic Policy Paper n°07, juillet.
+28 Auclert A. Philippon T. et Ragot X. (2024) : «  Quelle trajectoire pour les finances publiques françaises ?  », Les Notes du CAE n°82, juillet.
+
+=== PAGE 21 ===
+21
+Comment stabiliser la dette publique ?
+Conclusions et perspectives 
+Ce Focus a quantifié l’ampleur de la consolidation nécessaire pour stabiliser la dette publique et en assurer la soutena-
+bilité : environ 112 milliards d’euros. À l’aide d’un modèle macroéconomique, nous avons montré comment déterminer 
+une trajectoire «  optimale  » d’ajustement, conciliant les coûts d’une consolidation rapide (via l’impact des multiplica-
+teurs sur la croissance) et ses bénéfices (stabiliser la dette à un niveau plus bas). L’effort budgétaire optimal obtenu 
+s’élève à environ 27 milliards d’euros en première année.
+Nous avons ensuite proposé un inventaire chiffré de mesures en recettes, en dépenses et en réformes structurelles. Ce 
+panorama montre que l’ajustement requis est réalisable, mais suppose de mobiliser simultanément de nombreux leviers 
+— y compris des réformes dont les effets ne se matérialisent qu’au bout de plusieurs années. Différents «  cocktails  » 
+de mesures sont envisageables, selon les préférences collectives.
+Ce travail constitue une base de référence pour éclairer le débat budgétaire et a vocation à être enrichi au fil du temps, 
+à mesure que de nouveaux chiffrages et estimations plus robustes deviendront disponibles. Les chiffrages détaillés sont 
+accessibles sur le site du CAE et seront régulièrement mis à jour.
+
+=== PAGE 22 ===
+Focus, no 124, octobre 2025
+22
+Annexes
+Annexe 1. Évaluation des leviers structurels de consolidation
+Mesure
+Total 
+2026 
+(Md€)
+Total 
+2030 
+(Md€)
+Source
+Méthode de chiffrage
+Recettes
+ 
+Hausse de la croissance annuelle de 
+la productivité de 0,1 point en 2026 
+et de 0,2 points à partir de 2027
+1,28
+12,28
+Insee, RAA
+Le chiffrage repose sur l’effet mécanique d’une 
+hausse permanente de 0,1 point du taux de crois-
+sance de la productivité en 2026 et 2027, appli-
+quée aux prévisions de croissance issues du RAA. 
+Le gain de productivité s’ajoute à la croissance 
+réelle, et l’impact budgétaire est estimé en sup-
+posant une élasticité unitaire des recettes au PIB 
+et une part des prélèvements obligatoires dans le 
+PIB de 42,8  % (chiffre 2024).
+Effet de la réduction du taux de chô-
+mage d’un point (+300 000 emplois) 
+sur les finances publiques
+3,06
+France Travail (juin 
+2024), calcul CAE
+Prélèvements obligatoires mensuels moyens de 
+850€ par un individu en emploi selon le simula-
+teur Urssaf.
+Réduction du taux de chômage de 
+0,4 point par an sur 5 ans (rythme de 
+diminution entre 2015 et 2019). 
+1,22
+6,12
+France Travail (juin 
+2024), calcul CAE
+Prélèvements obligatoires mensuels moyens de 
+850€ par un individu en emploi selon le simula-
+teur Urssaf.
+Augmentation de l’âge d’ouverture 
+des droits à 65 ans pour les généra-
+tions 1968 à 1972
+0
+5,9
+Cour des Comptes : 
+Situation financière et 
+perspectives du système 
+de retraites 2025
+Modèle Prisme de la CNAV avec les hypothèses 
+macro du Trésor - Annexe n°2. 1,2Mds€ coti-
+sations retraites et 4,7Mds€ autres recettes en 
+2035 (9,4Mds€ avec les dépenses)
+Augmentation de l’âge d’ouverture 
+des droits à 65 ans pour les généra-
+tions 1964 à 1968
+0
+11,7
+Cour des Comptes : 
+Situation financière et 
+perspectives du système 
+de retraites 2025
+Modèle Prisme de la CNAV avec les hypothèses 
+macro du Trésor : 2,4 Mds€ cotisations retraites, 
+9,3 Mds€ autres recettes et 6Mds€ en dépenses 
+en 2035.
+Réduction de l’âge d’ouverture des 
+droits à 63 ans pour la génération 
+1964
+0
+-8,8
+Cour des Comptes : 
+Situation financière et 
+perspectives du système 
+de retraites 2025
+Modèle Prisme de la CNAV avec les hypothèses 
+macro du Trésor - Annexe n°2 : -16 Md€ cotisa-
+tions retraites et -7,2 Mds€ autres recettes en 
+2035 (-13 Mds€ avec les dépenses)
+Dépenses
+ 
+Effet de la réduction du taux de chô-
+mage d’un point (+300 000 emplois) 
+sur les finances publiques
+4,5
+France Travail (juin 
+2024), calcul CAE
+Économie estimée à partir d’une indemnité chô-
+mage mensuelle moyenne de 1 250 € et du 
+nombre de bénéficiaires en moins associé aux 
+deux scénarios de retour à l’emploi
+Réduction du taux de chômage de 
+0,4 point par an (rythme de diminu-
+tion entre 2015 et 2019). 
+1,8
+9
+France Travail (juin 
+2024), calcul CAE
+Économie estimée à partir d’une indemnité chô-
+mage mensuelle moyenne de 1 250 € et du 
+nombre de bénéficiaires en moins associé aux 
+deux scénarios de retour à l’emploi
+AOD à 65 ans pour les générations 
+1968 à 1972
+0
+3,5
+Cour des Comptes : 
+Situation financière et 
+perspectives du système 
+de retraites 2025
+Modèle Prisme de la CNAV avec les hypothèses 
+macro du Trésor - Annexe n°2. 3,5Mds€ en 2035 
+(9,4Mds€ avec les recettes)
+AOD à 65 ans pour les générations 
+1964 à 1968
+0
+6
+Cour des Comptes : 
+Situation financière et 
+perspectives du système 
+de retraites 2025
+Modèle Prisme de la CNAV avec les hypothèses 
+macro du Trésor - Annexe n°2. 3,5Mds€ en 2035 
+(9,4Mds€ avec les recettes)
+AOD à 63 pour la génération 1964
+0
+-4,2
+Cour des Comptes : 
+Situation financière et 
+perspectives du système 
+de retraites 2025
+Modèle Prisme de la CNAV avec les hypothèses 
+macro du Trésor - Annexe n°2. 3,5Mds€ en 2035 
+(9,4Mds€ avec les recettes)
+
+=== PAGE 23 ===
+23
+Comment stabiliser la dette publique ?
+Annexe 2. Évaluation des mesures de consolidation en dépenses
+Mesure
+Total 
+2026 
+(Md€)
+Total 
+2030 
+(Md€)
+Source
+Méthode de chiffrage
+Mesures transversales
+31,9
+Gel de la dépense en volume*
+13,07
+PLF 2026, Plafonds de 
+dépenses du projet de loi 
+de finances pour 2026
+Ralentir la croissance de la dépense publique 
+(en volume) par rapport au tendanciel des 
+dépenses toutes administrations publiques. 
+Hypothèse d'1,3 % de croissance tendancielle 
+des dépenses annuelles en volume en 2026.
+Année blanche : Gel simultané des pensions de 
+retraites, des prestations sociales et du barème 
+de l’impôt sur le revenu*
+5,7
+IPP, Chapitre 2 « Effets 
+budgétaires et redis-
+tributifs des mesures 
+socio-fiscales »
+Application d’un gel nominal avec hypothèse 
+d’inflation de 1,3 %. Le chiffrage correspond à 
+la somme des économies en dépenses (pen-
+sions et prestations sociales pour 4,3Mds €) 
+et des recettes supplémentaires (non-indexa-
+tion du barème de l’IR pour 1,4 Mds€).
+Masse salariale fonction publique
+1,2
+Augmenter le délai de carence dans la fonction 
+publique à 2 jours
+0,17
+IGF-IGAS, Revue de 
+dépenses relative à la 
+réduction des absences 
+dans la fonction publique, 
+juillet 2024
+Estimations en calculant la baisse des taux de 
+remplacement induite par l'augmentation du 
+délai de carence.
+Augmenter le délai de carence dans la fonction 
+publique à 3 jours
+0,29
+Supprimer 11 000 postes dans la fonction 
+publique d’État (FPE) et 19 000 postes dans la 
+fonction publique territoriale (FPT) soit 0,5 % des 
+postes
+0,74
+4,44
+Calcul CAE
+Projection du nombre de départs en retraite 
+dans la FPT/FPE et application d’un taux de 
+non-remplacement.
+Salaires bruts mensuels des moins de 30 ans 
+FPE : 1890 € ; FPT : 1730€
+Total Administrations publiques centrales
+28,34
+Gel en volume du budget général de l’État hors 
+charges de la dette*
+6,86
+34,29
+PLF 2026, Plafonds de 
+dépenses du projet de loi 
+de finances pour 2026, 
+calcul CAE
+Gel en volume (tendanciel des dépenses fixé à 
+1,3 %) ou en valeur (tendanciel + inflation) sur 
+le budget de l’État.
+Emploi et activité
+7,3
+Réforme des aides à l’apprentissage : retour au 
+ciblage de l’aide unique de 2018
+6,2
+OFCE, Policy brief n°135, 
+septembre 2024
+Retour au ciblage de l’aide unique de 2018 
+et réduction des niveaux de prise en charge 
+(NPEC) (-256 000 contrats). Estimation com-
+portementale basée sur l’élasticité emploi/
+coût du travail et la réduction attendue du 
+nombre de contrats. Ce chiffrage ne prend 
+pas en compte les mesures entrées en vigueur 
+en 2025 et devrait donc être revu proportion-
+nellement à la baisse.
+Réforme des aides à l’apprentissage : Mettre fin 
+à l’embauche pour les employeurs d’apprentis 
+de niveaux 6 et 7 (bac +3 et plus) pour les entre-
+prises de + de 250 salariés
+0,55
+IGF, « Revue des 
+dépenses publiques d’ap-
+prentissage et de forma-
+tion professionnelle », et 
+mars 2024
+Projection du nombre d’apprentis concernés 
+et application d’un taux de chute. L’estimation 
+ne prend pas en compte les mesures de 2025 
+qui limitent déjà ce dispositif (forfait de 750 € 
+à la charge des entreprises).
+Réforme des aides à l’apprentissage : Réduire le 
+niveau de prise en charge (NPEC) de 100 à 90 % 
+par l’État pour les niveaux 6 et 7
+0,4
+IGF, « Revue des 
+dépenses publiques d’ap-
+prentissage et de forma-
+tion professionnelle », et 
+mars 2024
+Chiffrage en isopérimètre. Les évolutions 
+introduites par la réforme de 2025 (proratisa-
+tion par jour de formation, décalage des ver-
+sements, minoration de 20 % du NPEC en cas 
+de formation > 80 % distancielle) ne sont pas 
+intégrées. Impact limité attendu par rapport 
+au périmètre NPEC.
+* Chiffrage reconductible d’une année à une autre et/ou présentant des effets sur les finances publiques à moyen terme.
+
+=== PAGE 24 ===
+Focus, no 124, octobre 2025
+24
+Mesure
+Total 
+2026 
+(Md€)
+Total 
+2030 
+(Md€)
+Source
+Méthode de chiffrage
+Réforme des aides à l’apprentissage : mise en 
+place de ticket modérateur
+0,19
+IGF, « Revue des 
+dépenses publiques d’ap-
+prentissage et de forma-
+tion professionnelle », et 
+mars 2024
+Ticket modérateur de 80€ pour les forma-
+tions éligibles au CPF, et de 30€ pour celles 
+inscrites au RNCP et RS, en conservant une 
+exonération pour les demandeurs d'emploi. 
+Estimation intégrant une réponse comporte-
+mentale côté offre (hausse du prix des for-
+mations) et côté demande (taux de chute 
+de 10 %). Potentiels effets de bord avec la 
+réforme de 2025.
+Logement et rénovation énergétique
+4,4
+Suppression de MaPrimeRénov’
+2,1
+Agence nationale de 
+l’habitat (ANAH), Bilan 
+MPR 2024, Ministère du 
+Logement
+Montant correspondant à la subvention de 
+l’État au ministère du Logement (2,1 Mds€ 
+pour 2025). 
+Ciblage du dispositif MaPrimeRenov’ sur les 
+rénovations d’ampleur et les sorties de passoire 
+énergétique
+0,9
+Agence nationale de 
+l’habitat (ANAH), Bilan 
+MPR 2024, Ministère du 
+Logement
+Montant des aides à la rénovation par gestes 
+en 2024 (904 M€). Hypothèse : comporte-
+ments inchangés si le dispositif est recentré, 
+d’où une économie équivalente.
+Diminution forfaitaire des APL de 5€
+0,06
+Projet annuel de perfor-
+mance du Programme 
+109 et « Fiche 37, Les 
+aides au logement » de 
+la Drees
+Évaluation basée sur le nombre de bénéfi-
+ciaires d’aides au logement. Un euro de réduc-
+tion mensuelle correspond à une économie 
+d’environ 60 M€  d'APL/ALS/ALF par an.
+Conditionner les aides au logement aux res-
+sources parentales : Seuil de revenu net global 
+abattu par part fiscale de 18.920€
+0,55
+DREES, « Évaluer l’effet 
+des réformes socio-fis-
+cales concernant les étu-
+diants selon le niveau de 
+vie de leurs parents », 
+janvier 2025
+Seuil de revenu net global abattu par part 
+fiscale de 18.920€, au-delà duquel les res-
+sources des parents sont prises en compte 
+pour le calcul. Simulation à l'aide du modèle 
+de microsimulation INES.
+Conditionner les aides au logement aux res-
+sources parentales : Seuil de revenu net global 
+abattu par part fiscale de 39.020€
+0,82
+DREES, « Évaluer l’effet 
+des réformes socio-fis-
+cales concernant les étu-
+diants selon le niveau de 
+vie de leurs parents », 
+janvier 2025
+Seuil de revenu net global abattu par part 
+fiscale de 39,020€, au-delà duquel les res-
+sources des parents sont prises en compte 
+pour le calcul. Simulation à l'aide du modèle 
+de microsimulation INES.
+Éducation
+4,4
+Diminuer les subventions à l’enseignement privé 
+de 75 % à 50 % en contrepartie d’une hausse des 
+frais de scolarité
+3,5
+Rapport Assemblée 
+Nationale novembre 
+2024
+Économie calculée en supposant une stricte 
+équivalence : +1 € de frais de scolarité payé = 
+–1 € de subvention publique. Le chiffrage ne 
+prend pas en compte la baisse possible de fré-
+quentation des établissements.
+Augmenter de manière uniforme le coût de la 
+licence à 730€, le master à €887 et le doctorat 
+à €1,380
+0,46
+Les droits d’inscription 
+dans l’enseignement 
+supérieur public, Cour 
+des comptes, 2018, com-
+munication à l’AN
+Évaluation fondée sur le produit attendu d’une 
+hausse forfaitaire des frais d’inscription, cor-
+rigé de l’obligation de l’État de compenser les 
+exonérations légales : 1 Md€ (2018) d'éco-
+nomies, exonérations de droits à hauteur de 
+537M€
+Diminuer la dépense éducative en proportion de 
+la baisse démographique*
+0,4
+3,4
+Données utilisés , DEPP, 
+bases DIAPRE 2015 et 
+2024 (écoles publiques 
+hors ULIS), CAE, Note 
+IPP « Taille des classes et 
+inégalités territoriales : 
+quelle stratégie face à la 
+baisse démographique? »
+Cible taille des classes en 2019 pour élémen-
+taire proche de 13 élèves par classe et 14,5 
+élèves par classe pour le préélémentaire  + 
+coût d'un enseignant 1er degré 65 055 € 
+(65055*6769). À taille de classe constante, 
+la baisse démographique permettrait de sup-
+primer environ 50 000 postes d’enseignants 
+d’ici à 2034, réduisant la dépense publique 
+annuelle d’environ 3,4 Md€ à cet horizon.
+Hypothèse sur le coût d’un enseignant( cf 
+focus taille des classes, CAE)
+
+=== PAGE 25 ===
+25
+Comment stabiliser la dette publique ?
+Mesure
+Total 
+2026 
+(Md€)
+Total 
+2030 
+(Md€)
+Source
+Méthode de chiffrage
+Loisirs et culture
+0,1
+Supprimer la part individuelle du pass culture
+0,08
+Cour des Comptes, 
+Rapport public théma-
+tique « Premier bilan du 
+pass culture »
+Supprimer le crédit individuel du Pass culture 
+attribué aux jeunes, tout en conservant le 
+volet collectif pour les établissements sco-
+laires. Montant estimé à partir des données 
+de recentrage 2025 (coût résiduel de 80 M€ 
+correspondant aux crédits individuels mainte-
+nus pour les 17–18 ans).
+Autres : environnement, transports, agricul-
+ture, entreprises
+1,9
+Suppression de l’affectation des taxes aux 
+Chambres de commerce et d’industrie/ 
+Chambres de métiers et de l’artisanat et des 
+dotations à la BPI
+0,8
+IGF, Revue de dépenses : 
+les aides aux entreprises, 
+mars 2024
+Évaluation à partir du produit affecté : 667 M€ 
+via la taxe pour frais de chambre (CCI/CMA) 
+et 139 M€ via les dotations de Bpifrance 
+(chiffres 2024).
+Décaler le versement de subventions à des asso-
+ciations et réduire le montant des dispositifs 
+ayant connu de fortes hausses de 2019 à 2023 
+(P104, OFII, P163)
+0,6
+IGF : Revue des dépenses 
+publiques en direction 
+des associations 2025
+Estimation fondée sur le gel ou la réduction 
+partielle des crédits fortement rehaussés 
+depuis 2019, avec un ordre de grandeur com-
+pris entre 0,3 et 1 Md€ selon 3 scénarios 
+présentés.
+Ramener a minima les autorisations d’engage-
+ments de la mission Agriculture au niveau des 
+plafonds de la LPFP 2023-2027 (plan protéines 
+végétales, plan haies)
+0,54
+Cour des Comptes, Les 
+mesures d’aides excep-
+tionnelles : une sortie de 
+crise à achever pour le 
+budget de l’État, 2025
+Économie estimée sur la base des autori-
+sations d’engagement inscrites en loi de 
+finances, en raison des doublons entre la PAC 
+européenne et le plan national stratégique 
+(PSN).
+Masse salariale fonction publique
+0,7
+Suppression de 29 000  postes de la fonction 
+publique d’État pendant 4 ans *
+0,68
+2,7
+Institut Montaigne
+Évaluation fondée sur le nombre de départs 
+à la retraite estimés (≈ 58 000/an), avec un 
+remplacement d’un agent sur deux, soit 29 
+000 postes non remplacés par an.
+Total Administrations de sécurité sociale
+26,86
+Assurance chômage
+0,8
+Réforme de l’assurance chômage : réduction de 
+la période de référence d’affiliation (PRA) de 24 
+à 20 mois*
+0,38
+1,9
+France Travail
+Prise en compte : contracyclicité à 0,75 et 
+décalage de deux ans de la filière senior. 
+Montée en charge linéaire en 5 ans pour la 
+réduction de la PRA et 2 ans pour la hausse 
+de la condition minimale d’affiliation.
+Réforme de l’assurance chômage : Hausse de la 
+condition minimale d’affiliation*
+0,4
+0,8
+France Travail
+Santé
+13,1
+Augmenter la prise en charge des complémen-
+taires santé*
+1
+1,5
+Cour des Comptes (2025) 
+L’ONDAM
+Application d’un relèvement du ticket modéra-
+teur/abaissement du taux de remboursement 
+sur les soins de ville hors ALD et hors CSS, 
+à partir des bases de dépenses 2023-2024 ; 
+transfert estimé de 1 à 1,5 Md€ vers les com-
+plémentaires, retenu à 1,0 Md€ pour la syn-
+thèse (hypothèse prudente).
+Augmenter la participation des assurés sur les 
+médicaments à faible service médical, les cures 
+thermales et les frais de transport et d’héberge-
+ment hors affection de longue durée
+0,4
+Cour des Comptes (2025) 
+L’ONDAM
+Taux de reste à charge relevé sur la dépense 
+remboursable des postes visés (faible/insuffi-
+sant SMR, thermalisme, transports/héberge-
+ment), en excluant ALD et CSS
+
+=== PAGE 26 ===
+Focus, no 124, octobre 2025
+26
+Mesure
+Total 
+2026 
+(Md€)
+Total 
+2030 
+(Md€)
+Source
+Méthode de chiffrage
+Affections de longue durée : assujettissement 
+des indemnités journalières à l’IR, introduction 
+d’un ticket modérateur de 2 %, recentrage des 
+critères d’ALD*
+3,4
+3,4
+IGF (2024) Revue des 
+dépenses Affections de 
+longue durée
+Micro-simulation à partir des bases SNDS :
+(i) IJ imposables : assiette d’IJ × taux effectif 
+moyen d’IR des ménages concernés ;
+(ii) Ticket 2 % : 2 % appliqué aux rembourse-
+ments ALD éligibles (hors CSS et exonérations 
+légales) ;
+(iii) Recentrage critères : baisse du nombre 
+d’assurés en ALD → moindres rembourse-
+ments à 100 %. Montée en charge plurian-
+nuelle selon IGF.
+Augmenter la participation des assurés sur les 
+dispositifs médicaux : franchise de 1 € (plafond 
+rehaussé à 50 € voire mutualisé avec la franchise 
+sur les médicaments)
+0,3
+IGF (2024) Dispositifs 
+médicaux
+Nombre de délivrances (SNIIRAM/SNDS) × 
+1 €, avec plafonnement par assuré (50 €) et 
+exemptions (CSS, maternité, etc.) ; effet com-
+portemental faible.
+Augmenter la participation des assurés sur les 
+dispositifs médicaux : hausse de 10 pts du ticket 
+modérateur 
+0,37
+IGF (2024) Dispositifs 
+médicaux
+Assiette des remboursements de dispositifs 
+médicaux × +10 pts de ticket, hors exemp-
+tions (CSS, ALD selon périmètre) ; neutralisa-
+tion partielle par complémentaires intégrée 
+dans l’estimation IGF.
+Réduire la progression des dépenses de trans-
+port sanitaire : Transfert des dépenses aux éta-
+blissements de santé (pour celles qui y sont 
+prescrites), renforcement des contrôles*
+0
+0,3
+Cour des Comptes (2025) 
+L’ONDAM
+Estimation fondée sur la dépense rembour-
+sable des transports (hors ALD) et l’effet 
+attendu du transfert vers l’hôpital et du renfor-
+cement des contrôles.
+Poursuivre la baisse des prix des produits de 
+santé et accentuer les actions en faveur du bon 
+usage*
+0,53
+2,65
+Cour des Comptes (2025) 
+L’ONDAM
+Poursuite de l'objectif annuel de baisse des 
+prix des produits de santé (renforcement de 
+l'évaluation médico-économique, renégocia-
+tion du prix des médicaments innovants) pour 
+4,8 Md€ d'ici 2029, relance du recours aux 
+génériques (0,3 Md€), révision des rembour-
+sements de dispositifs médicaux (0,2 Md€). 
+Le CAE formule l'hypothèse que 50 % de cet 
+objectif puisse être atteint d'ici 2030.
+Pertinence de la tarification : Assurer une régu-
+lation compatible avec la soutenabilité de notre 
+système de santé*
+1,2
+6
+Rapport charges et pro-
+duits - Propositions de 
+l’Assurance Maladie pour 
+2026
+Simulation basée sur la révision des 
+nomenclatures et des tarifs médicaux, avec 
+effet cible à 6 Mds€ à horizon 2030.
+Hôpital : Poursuivre le virage ambulatoire*
+0,8
+0,8
+Cour des Comptes (2025) 
+L’ONDAM
+D'après les économies réalisées par le virage 
+ambulatoire entre 2015 et 2021 et la cible 
+d'activité ambulatoire recommandée par la 
+HAS.
+Hôpital : Restructurer les services hospitaliers 
+qui ne présentent pas de garanties suffisantes de 
+qualité et de sécurité des soins*
+0
+1,2
+Cour des Comptes (2025) 
+L’ONDAM
+Cf. Cour des comptes (2017) Les activités 
+chirurgicales : restructurer l'offre de soins 
+pour mieux assurer la qualité des prises en 
+charge ; Cour des comptes (2017) L'avenir de 
+l'assurance maladie, assurer l'efficience des 
+dépenses, responsabiliser les acteurs.
+Organisation des parcours et du lien ville-hôpi-
+tal : Mieux prendre en charge les pathologies 
+chroniques *
+0,2
+2
+Rapport charges et pro-
+duits - Propositions de 
+l’Assurance Maladie pour 
+2026
+Estimation issue de la modélisation de gains 
+de productivité via une meilleure organisation 
+des parcours.
+Optimiser la gestion des établissements de 
+santé : étendre le programme de performance 
+hospitalière, maintenir son rendement dans le 
+public, optimiser la gestion de l’encours de dette, 
+renforcer l’encadrement des rémunérations de 
+personnel intérimaire*
+0,6
+0,6
+Cour des Comptes (2025) 
+L’ONDAM
+Estimation basée sur le rendement du pro-
+gramme de performance hospitalière (PHARE) 
+étendu au secteur privé non lucratif.
+
+=== PAGE 27 ===
+27
+Comment stabiliser la dette publique ?
+Mesure
+Total 
+2026 
+(Md€)
+Total 
+2030 
+(Md€)
+Source
+Méthode de chiffrage
+Réduction des dépenses évitables : dévelop-
+pement des bonnes pratiques, comparaisons 
+entre territoires dans l’objectif d’identifier les 
+dépenses atypiques*
+1,4
+2,8
+Cour des Comptes (2025) 
+L’ONDAM
+Les dépenses de santé par patient varient for-
+tement entre les départements, même une 
+fois prises en comptes les différences démo-
+graphiques (âge et sexe). Le "surcoût" dans 
+les départements au-dessus de la moyenne 
+nationale représente marge d'efficience 
+potentielle de 5,5 Md€. (sources : études 
+Drees). On applique une décôte la première 
+année.
+Déployer à large échelle une politique de sécuri-
+sation des prescriptions et de responsabilisation 
+de l’ensemble des acteurs du système*
+0,8
+4
+Rapport charges et pro-
+duits - Propositions de 
+l’Assurance Maladie pour 
+2027
+Simulation de l’Assurance maladie sur l’impact 
+potentiel de la diffusion des outils de maîtrise 
+médicalisée.
+Limiter les hospitalisations évitables pour mala-
+dies respiratoires*
+0,05
+0,1
+Cour des Comptes (2025) 
+L’ONDAM
+Basé sur l’estimation des hospitalisations évi-
+tables liée aux pathologies respiratoires.
+Limiter le nombre de nouveaux patients en 
+insuffisance rénale chronique terminale par une 
+meilleure anticipation des évolutions de cette 
+maladie*
+0,1
+0,2
+Cour des Comptes (2025) 
+L’ONDAM
+Projection à partir du coût moyen d’entrée 
+évité par une meilleure prévention.
+Réduire les tarifs de remboursement des dialyses 
+en centres et unités médicalisées
+0,1
+Cour des Comptes (2025) 
+L’ONDAM
+Application d’une baisse tarifaire uniforme sur 
+les remboursements de dialyse.
+Prévenir les chutes des personnes âgées (et les 
+décès induits)*
+0,4
+1,2
+Cour des Comptes (2025) 
+L’ONDAM
+Évaluation du coût évitable des hospitalisa-
+tions dues aux chutes selon la HAS.
+Réduire les évènements indésirables graves en 
+établissement de santé (réduction d’un tiers)*
+0,25
+2,7
+Cour des Comptes (2025) 
+L’ONDAM
+D'après chiffrage des évènements indési-
+rables graves par la HAS dont la moitié sont 
+considérés comme évitables ou probablement 
+évitables par les déclarants.
+Arrêts maladies : Réduire la prise en charge des 
+indemnités journalières d’arrêt maladie par la 
+Sécurité sociale
+0,5
+Cour des Comptes (2025) 
+L’ONDAM
+Estimation fondée sur une réduction forfai-
+taire des IJ prises en charge par l’Assurance 
+maladie.
+Ajuster les dispositifs de prise en charge des 
+indemnités journalières*
+0,3
+2
+Rapport charges et pro-
+duits - Propositions de 
+l’Assurance Maladie pour 
+2026
+Modélisation de scénarios de réforme des 
+modalités d’IJ (franchise, durée, plafond).
+Prévenir les phénomènes de rentes et d’opti-
+misation financière en baissant les tarifs des 
+secteurs présentant de très hauts niveaux de 
+rentabilité*
+0,4
+2
+Rapport charges et pro-
+duits - Propositions de 
+l’Assurance Maladie pour 
+2026
+Estimation fondée sur une baisse ciblée des 
+tarifs des actes les plus rentables.
+Retraites
+10,7
+Gel de l’indexation annuelle des retraites de base 
+sur l’inflation (hypothèse de 1,75 % par an)*
+4
+Institut Montaigne, 
+« Finances publiques : 
+la fin des illusions », 
+octobre 2024
+Scénario d'inflation de 1,75 % par an
+Gel de l’indexation des retraites de base sur l’in-
+flation pour 2026 (hypothèse de 1,3 % d’inflation 
+pour la première année)*
+2,6
+15,7
+Calculs du CAE, sur la 
+base des chiffrages de 
+l’IPP : « Effets budgé-
+taires et redistributifs des 
+mesures socio-fiscales »
+Hypothèse de 1,3 % d’inflation en 2025 
+puis hypothèses du gouvernement de 1,6 % 
+jusqu’en 2030. Ce scénario concerne unique-
+ment les pensions de retraite de base, qui 
+constituent environ les deux tiers des mon-
+tants de pension de retraite perçus, et pas les 
+retraites complémentaires. Le scénario tient 
+compte de l’incidence sur le montant d’IR 
+acquitté par les ménages retraités.
+
+=== PAGE 28 ===
+Focus, no 124, octobre 2025
+28
+Mesure
+Total 
+2026 
+(Md€)
+Total 
+2030 
+(Md€)
+Source
+Méthode de chiffrage
+Gel total de l’indexation des retraites de base 
+et complémentaires sur l’inflation pour 2026 
+(hypothèse de 1,3 % d’inflation pour la première 
+année)*
+3,9
+23,6
+Calculs du CAE, sur la 
+base des chiffrages de 
+l’IPP (“Effets budgétaires 
+et redistributifs des 
+mesures socio-fiscales”
+Hypothèse de 1,3 % d’inflation en 2025 
+puis hypothèses du gouvernement de 1,6 % 
+jusqu’en 2030. 
+Le chiffrage de l’IPP concerne seulement les 
+retraites de base et représentent deux tiers 
+du total. Pour retrouver le montant pour les 
+retraites de base et complémentaire, il suffit 
+de multiplier le chiffre par 3/2. 
+Désindexation des 10 % des pensions les plus 
+importantes
+1,2
+Observatoire français des 
+inégalités, « Retraites : 
+qui reçoit combien ? », 
+2023
+En 2020, les 10 % des retraités les plus aisés 
+représentaient 59 Mds€ de retraites. Inflation 
+indexée pour les années suivantes (14,8 % 
+d'inflation entre 2020 et 2025)
+Déxindexation des pensions au dessus de 2000€ 2,5
+Sénat, Projet de loi de 
+financement de la sécu-
+rité sociale pour 2025 : 
+Exposé général
+Pour tous les régimes de base, le rendement 
+est plus élevé puisqu'il atteint 3,1 milliards 
+d'euros. Si nous ne décalons qu'une partie 
+des retraites et que nous continuons à revalo-
+riser les petites pensions au 1er janvier 2025, 
+cela coûtera entre 300 millions et 500 millions 
+d'euros, selon que le seuil est établi à 1 050 
+ou 1 200 euros.
+Lutte contre la fraude
+0,5
+Renforcer la lutte contre la fraude à l’assurance 
+maladie*
+0,23
+1,5
+Cour des Comptes (2025) 
+L’ONDAM
+La Cour des comptes estime entre 3,8 et 
+4,5 Md€ le montant des fraudes à l'Assurance 
+maladie ; actuellement on détecte ~500-
+600 M€ de fraudes par an. Le chiffage retenu 
+donne un ordre de grandeur prudent en sup-
+posant une amélioration de la détection des 
+fraudes et du recouvrement des indus fraudu-
+leux. On suppose qu'on améliore de 5 pts le 
+taux de recouvrement (qui passerait de 13 % 
+à 23 %)
+Fraude sociale (hors assurance maladie) : fraude 
+aux prestations de la Cnaf, des retraites, et de 
+l’assurance chômage
+0,25
+HCFIPS (2024) Lutte 
+contre la fraude sociale
+De l'ordre de 4 à 5 Md€ de fraude estimée, 
+dont 1 Md€ détecté, sur lesquels 330 M€ ont 
+été recouvrés. On suppose ici aussi qu'on 
+améliore de 5 pts le taux de recouvrement 
+(qui représente aujourd'hui de l'ordre de 6 % 
+de la fraude)
+Prestations sociales
+1,8
+Ciblage des allocations familiales : Supprimer la 
+modulation du montant versé aux ménages per-
+cevant des revenus supérieurs à 5,2 SMIC 
+0,5
+Rapport Assemblée 
+Nationale n°1473
+À partir des données de l'AN
+Gel de l’indexation des prestations sociales
+1,3
+7,9
+IPP, Chapitre 2 « Effets 
+budgétaires et redis-
+tributifs des mesures 
+socio-fiscales »
+Calcul basé sur le scénario d’inflation de 
++1,3 %. Champ : minima sociaux (RSA, ASPA, 
+AAH), prestations familiales, prime d’activité 
+et aides au logement
+Total Administrations publiques locales
+29,5
+Réduction des doublons administratifs liés à la 
+multiplicité des échelons*
+0
+1,5
+Rapport Ravignon 2024 
+sur le coût du millefeuille 
+administratif
+Évaluation forfaitaire issue des travaux de la 
+littérature, fondée sur une estimation globale 
+du coût du «  millefeuille  » administratif et des 
+gains attendus d’une simplification complète.
+Clarification complète des responsabilité et des 
+compétences entre les différents niveaux d’admi-
+nistration territoriale*
+0
+6
+Rapport Ravignon 2024 
+sur le coût du millefeuille 
+administratif
+Évaluation forfaitaire issue des travaux de la 
+littérature, fondée sur une estimation globale 
+du coût du «  millefeuille  » administratif et des 
+gains attendus d’une simplification complète.
+
+=== PAGE 29 ===
+29
+Comment stabiliser la dette publique ?
+Mesure
+Total 
+2026 
+(Md€)
+Total 
+2030 
+(Md€)
+Source
+Méthode de chiffrage
+Généralisation de la massification des achats 
+et de la mutualisation des circuits entre les 
+collectivités*
+1
+3
+Cour des comptes (2024) 
+Les finances publiques 
+locales fascicule 2 et 
+IGF (2023) Revue de 
+dépenses - masse sala-
+riale et achats des collec-
+tivités locales
+D'après les économies estimées par les cen-
+trales d'achat de l’État (UGAP, direction des 
+achats de l’État) qui tournent autour de 10 % 
+puis appliqué aux dépenses actuelles des 
+collectivités
+Fixer un objectif pluriannuel d’évolution des 
+transferts financiers de l’État et assurer son res-
+pect en majorant le montant des réductions des 
+« variables d’ajustement » dans les LFI annuelles
+0,2
+Cour des comptes (2024) 
+Les finances publiques 
+locales fascicule 2
+Actuellement, la norme encadrant l'évolution 
+des concours financiers de l’État aux collec-
+tivités territoriales a un périmètre réduit (et 
+n'est par ailleurs pas toujours respectée). 
+Le chiffrage s'appuie sur les dépassements 
+observés
+Ecrêter les recettes de TVA et TSCA affectées 
+aux collectivités pour les réaffecter au budget de 
+l’État
+1
+Cour des comptes (2024) 
+Les finances publiques 
+locales fascicule 2
+Application d’un écrêtement forfaitaire sur les 
+recettes affectées (TVA et TSCA) aux collec-
+tivités, réaffectées au budget de l’État, avec 
+projection tendancielle jusqu’en 2027.
+Gel des dotations de l’État aux collectivités
+1
+Cour des comptes (2025) 
+Les finances publiques 
+locales fascicule 1
+Les dotations et participations ont augmenté 
+en moyenne de 2 % par an entre 2018 et 
+2024, soit en moyenne 1,2 Md€. Si on prend 
+seulement l'évolution 2023-2024 on est plutôt 
+à 0,8 Md€ 
+Transports en commun : Augmenter la contribu-
+tion financière des usagers à 30 % de transports 
+en commun
+1,1
+Rapport d’information 
+sénatorial « Mode de 
+financement des AOM », 
+juillet 2023
+En supposant que 1€ de contribution usager 
+en + = 1€ de subvention publique en - (dans la 
+pratique on peut s'attendre à des baisses de 
+dépenses + faibles) En 2019, les contributions 
+des usagers représentent 17 % en moyenne 
+nationale avec une forte disparité selon les 
+AOM (en 2015, 38 % IdF / 20 % réseaux avec 
+métro ou tram / 12 % pour les AOM sans 
+métro ou tram) ; 30 à 70 % pour nos voisins 
+européens)
+Supprimer les financements à des associations 
+n’entrant pas dans les compétences obligatoires 
+ou partagées des départements ou des régions
+0,45
+IGF : Revue des dépenses 
+publiques en direction 
+des associations 2025
+Revue des dépenses publiques (IGF 2025), à 
+partir d’un inventaire des subventions régio-
+nales et départementales hors compétences 
+obligatoires ou partagées ; chiffrage par 
+extrapolation bas/haut selon périmètre retenu 
+(0,26 à 1 Md€).
+Gel en valeur de la Dotation Globale de 
+Fonctionnement
+0,85
+PLF 2025, Calcul CAE
+Application d’un scénario de gel sur l’évolu-
+tion tendancielle de la Dotation Globale de 
+Fonctionnement (base PLF 2025 et calculs 
+CAE).
+Gel en volume de la Dotation Globale de 
+Fonctionnement
+0,49
+PLF 2025, Calculs CAE
+Application d’un scénario de gel sur l’évolu-
+tion tendancielle de la Dotation Globale de 
+Fonctionnement (base PLF 2025 et calculs 
+CAE).
+Gel en valeur de l’ensemble des transferts de 
+l’État aux collectivités locales
+3,41
+Direction du Budget, 
+Calculs CAE
+Application d’un gel (en valeur / en volume) 
+sur l’ensemble des transferts financiers iden-
+tifiés en annexes du PLF 2025 (~151,1 Md€), 
+avec hypothèses de croissance tendancielle 
+APU de 1,3 %.
+Gel en volume de l’ensemble des transferts 
+financiers de l’État aux collectivités locales
+1,96
+Direction du Budget, 
+Calculs CAE
+Application d’un gel (en valeur / en volume) 
+sur l’ensemble des transferts financiers iden-
+tifiés en annexes du PLF 2025 (~151,1 Md€), 
+avec hypothèses de croissance tendancielle 
+APU de 1,3 %.
+
+=== PAGE 30 ===
+Focus, no 124, octobre 2025
+30
+Mesure
+Total 
+2026 
+(Md€)
+Total 
+2030 
+(Md€)
+Source
+Méthode de chiffrage
+Gel en valeur du budget Administrations 
+publiques locales hors charges de la dette
+6,72
+Cour des Comptes - 
+Les finances publiques 
+locales Fascicule 1, 
+Calculs CAE
+Application d’un scénario de gel sur l’en-
+semble des dépenses de fonctionnement et 
+d’investissement des APUL hors charges de la 
+dette, corrigées du tendanciel APU de 1,3 %.
+Gel en volume du budget des collectivités locales 
+hors charges de la dette*
+3,87
+19,36
+Cour des Comptes - 
+Les finances publiques 
+locales Fascicule 1, 
+Calculs CAE
+Application d’un scénario de gel sur l’en-
+semble des dépenses de fonctionnement et 
+d’investissement des APUL hors charges de la 
+dette, corrigées du tendanciel APU de 1,3 %.
+Masse salariale fonction publique territoriale
+1,3
+Application de la durée légale du travail (sauf 
+exceptions justifiées) qui permettrait aux collec-
+tivités de réduire leurs effectifs de 2,7 % soit 52 
+000 agents
+1,3
+Cour des comptes (2024) 
+Les finances publiques 
+locales fascicule 2
+Évaluation des économies liées à la réduction 
+de 2,7 % des effectifs des collectivités (soit 
+~52 000 agents), sur la base de la masse 
+salariale des collectivités (Cour des comptes 
+2024).
+Réduction de 100 000 emplois (5,5 %) par le 
+non-remplacement d’une partie des agents des 
+collectivités territoriales partant à la retraite*
+0
+4,1
+Cour des comptes (2024) 
+Les finances publiques 
+locales fascicule 2
+Projection du nombre de départs en retraite 
+dans la FPT et application d’un taux de 
+non-remplacement de 5,5 %, valorisé sur la 
+masse salariale moyenne des agents territo-
+riaux (Cour des comptes 2024).
+
+=== PAGE 31 ===
+31
+Comment stabiliser la dette publique ?
+Annexe 3. Évaluation des mesures de consolidation en recettes
+Mesure par impôt
+Total pour 
+2026 (Md€)
+Source
+Méthode de chiffrage
+Total Administrations 
+publiques centrales
+141,9
+Impôt sur les sociétés
+9
+Lutter contre la manipulation 
+des prix de transfert
+4,6
+CAE, Note « Fiscalité inter-
+nationale des entreprises : 
+quelles réformes pour quels 
+effets ? », novembre 2019
+Estimation de la perte fiscale par comparaison des taux 
+effectifs moyens d’imposition des multinationales dispo-
+sant ou non de filiales dans des juridictions à fiscalité privi-
+légiée. Le chiffrage s’appuie sur l’écart moyen de taxation 
+observé (source CAE 2019) appliqué à l’assiette déclarée 
+des entreprises françaises. Hypothèse : maintien constant 
+des comportements d’optimisation fiscale en l’absence de 
+réforme.
+Hausse du taux d’imposition 
+sur les sociétés (IS) de 25 % à 
+33,5 %**
+4,4
+Laurent Bach, IPP, « L’impôt 
+sur les sociétés fait-il 
+recette ? », octobre 2024
+Application mécanique du nouveau taux (33,5 % contre 
+25 %) à l’assiette imposable actuelle de l’IS POUR 8 Md€, 
+corrigée des élasticités de localisation et de déclaration 
+des bénéfices. Les élasticités retenues varient entre 0,5 
+et 1, ce qui produit une fourchette de rendement com-
+prise entre 4,4 et 6,2 Md€. Une autre référence est le ren-
+dement attendu de la surtaxe temporaire IS (2025), soit 
+8 Md€, qui valide l’ordre de grandeur obtenu.
+TVA*
+19,3
+Relèvement du taux intermé-
+diaire de 10 % à 12,5 %**
+2,91
+CPO (2023) La TVA, un impôt 
+à recentrer sur son objectif 
+de rendement
+Application du nouveau taux à l’assiette de consommation 
+actuellement soumise au taux intermédiaire, selon trois 
+approches complémentaires :
+- Estimation mécanique à partir du rendement actuel pour 
+3,4 Md€,
+- Simulation sur les dépenses moyennes des ménages 
+(enquête Budget de famille),
+- Simulation produit par produit selon les parts de 
+consommation.
+Le montant est ensuite ajusté par un bouclage macroéco-
+nomique cohérent avec les hypothèses retenues pour la 
+hausse du taux normal.
+Abaissement du plafond de 
+franchise (division par deux)
+2,2
+CPO (2015) TVA - RP n°6
+Utilisation des données fiscales sur le nombre d’entre-
+prises bénéficiant de la franchise en base et estimation des 
+recettes supplémentaires en cas de division par deux du 
+plafond.
+Hausse du taux normal de 
+TVA d’un point
+6
+Chiffre retenu : Effets de 
+moyen terme d’une hausse 
+de TVA sur le niveau de vie et 
+les inégalités : une approche 
+par microsimulation, M. 
+André et A.-L. Biotteau, avril 
+2021 ; Montant budgétaire : 
+CPO
+Microsimulation avec le modèle INES intégrant la taxation 
+indirecte : imputation de la consommation sur une popula-
+tion restreinte (67 % de la consommation finale totale).
+- Transmission partielle à l’inflation (taux de 0,8).
+- Impact net corrigé des hausses de prestations et revenus 
+de remplacement liés aux cotisations sociales.
+- Actualisation du chiffrage de 2014 (10 Md€ pour +3 pts) 
+corrigée pour l’inflation (+20 %) et pour la base de consom-
+mation élargie : rendement corrigé autour de 17,9 Md€ 
+pour +3 pts, soit env. 6 Md€ par point. Chiffrage budgétaire 
+brut : 8Md€
+Hausse d’un point de tous les 
+taux de TVA
+8,2
+IPP, « Effets budgétaires et 
+redistributifs des mesures 
+socio-fiscales »
+Application mécanique de +1 pt sur toutes les assiettes 
+fiscales de TVA (taux normal, intermédiaire et réduit). Le 
+calcul repose sur la répartition observée des recettes 
+par taux et actualisation du rendement global quand sont 
+déduites la TVA payée par les administrations publiques et 
+les hausses de dépenses dues à l’indexation des presta-
+tions et pensions de retraite.
+* Chiffrage reconductible d’une année à une autre et/ou présentant des effets sur les finances publiques à moyen terme.
+
+=== PAGE 32 ===
+Focus, no 124, octobre 2025
+32
+Mesure par impôt
+Total pour 
+2026 (Md€)
+Source
+Méthode de chiffrage
+Impôt sur le patrimoine*
+60,9
+Suppression de l’exonération 
+de l’impôt sur les plus-values 
+immobilières pour les rési-
+dences principales
+1
+CPO (2018) Fiscalité du 
+capital
+Rendement égal à la dépense fiscale associée (CPO 2018) : 
+réintégration des plus‑values dans l’assiette IR (19–25  %) 
+Suppression des abatte-
+ments sur les plus-values 
+immobilières pour durée de 
+détention
+1,74
+Assemblée nationale (2023) 
+Fiscalité du patrimoine citant 
+CPO (2018) Fiscalité du 
+capital
+Rendement = dépenses fiscales associées (CPO 2018, 
+AN 2023) en rétablissant une taxation sans abattement. 
+Ventilation : 1,74 Md€ IR (État). Mise à jour prix/volumes 
+non modélisée (ordre de grandeur).Correspond à la 
+dépense fiscale associée (partie impôt sur le revenu).
+Plafonner l’abattement de 
+l’impôt sur la fortune immobi-
+lière pour la résidence princi-
+pale à 600 000 €
+0,03
+Assemblée nationale (2023) 
+Rapport d’information sur la 
+fiscalité du patrimoine
+A partir des déclarations IFI (AN, 2023), on limite l’abatte-
+ment à 600 k€ et on calcule la base additionnelle soumise 
+au barème IFI ; produit net 25 M€.
+Impôt minimum sur les hauts 
+patrimoines financiers : taux 
+d’imposition de 2 % sur les 
+patrimoines supérieurs à 
+100M€
+5,5
+World Inequality Lab
+Taxing Top Wealth: 
+Migration Responses and 
+their Aggregate Economic 
+Implications
+Focus CAE n°118, Fiscalité 
+du capital : quels sont les 
+effets de l’exil fiscal sur 
+l’économie ? 
+Simulation sur le site du World Inequality Lab d’une taxe 
+progressive de 2 % sur les fortunes de plus de 100 M€ 
+(montant brut 18 Md€). Pour chaque euro prélevé via un 
+impôt sur le patrimoine, 70 centimes échappent à l’admi-
+nistration fiscale. À noter les limites suivantes :
+- Ces études concernent des impôts avec beaucoup plus de 
+ménages (top 1 %) que notre exemple et l’assiette ne com-
+prend pas les biens professionnels. 
+- Les résultats de ces études s’appliquent au contexte insti-
+tutionnel scandinave et dépendent largement de la concep-
+tion de l’impôt.
+- Les élasticités présentées sont des élasticités de long 
+terme.
+- On suppose qu’il n’y a pas d’effet de la taxe sur la valo-
+risation des actifs (taux de dépréciation à 0 fixé dans le 
+simulateur).
+Rétablir l’ISF selon les 
+mêmes modalités qu’avant sa 
+suppression
+5
+France Stratégie, Comité 
+d’évaluation des réformes de 
+la fiscalité du capital - rap-
+port final de 2023 (analyse 
+statique)
+En 2018, IFI = 29 % des recettes de l’ISF. On suppose cette 
+proportion constante. Croissance du patrimoine immobilier 
+et mobilier à peu près équivalentes semble cohérent
+Restaurer la taxe d’habitation 
+pour les 20 % les plus aisés 
+9,3
+Note d’exécution budgétaire 
+2021 et 2023 « Recettes fis-
+cales », Cour des comptes 
+(2025) L’évolution de la 
+répartition des impôts locaux 
+entre ménages et entreprises 
+et de la (dé)territorialisation 
+de l’impôt
+Même logique mais en restreignant l’assiette aux déciles 
+9–10 (barèmes/prélèvements 2021), produit net ≈ 
+9,3 Md€.
+Restaurer la taxe d’habitation 
+sur les résidences principales
+21,8
+Note d’exécution budgétaire 
+2021 et 2023 « Recettes fis-
+cales », Cour des comptes 
+(2025) L’évolution de la 
+répartition des impôts locaux 
+entre ménages et entreprises 
+et de la (dé)territorialisation 
+de l’impôt
+On “défait” le schéma de compensation : on remplace la 
+fraction de TVA affectée (26,4 Md€) par un produit de TH 
+remis à niveau, puis on déduit les dégrèvements aupa-
+ravant portés par l’État (~4,6 Md€). Rendement net ≈ 
+21,8 Md€ (CdC, NEB 2021/2023).
+Impôt sur le revenu*
+42,5
+Hausse du taux de prélève-
+ment forfaitaire unique (PFU) 
+de 30 % à 33 % **
+1,2
+Calcul CAE avec élasticité
+Estimation tenant compte de la réaction des ménages 
+investisseurs. Rendement taxable ajusté via une élasticité 
+du revenu imposable au taux de rendement net d’impôt (e 
+= 0,65) → produit brut  1,7 Md€.
+
+=== PAGE 33 ===
+33
+Comment stabiliser la dette publique ?
+Mesure par impôt
+Total pour 
+2026 (Md€)
+Source
+Méthode de chiffrage
+Majoration du taux de pré-
+lèvement forfaitaire unique 
+(PFU) à 35 % sur les hauts 
+revenus
+0,5
+Institut Montaigne, repris 
+dans un amendement au PLF 
+2024 (octobre 2023)
+Application du taux majoré aux distributions supérieures 
+de 20 % à la moyenne 2017-2021, avec hypothèse de 
+forte réaction des entreprises (division par deux des 
+distributions).
+Suppression du prélèvement 
+forfaitaire unique
+3,2
+Institut Montaigne, pro-
+gramme du NFP législatives 
+2024
+Actualisation du manque à gagner depuis 2018 lié au PFU 
+(environ 3,2 à 3,6 Md€), avec variante prudente supposant 
+un retour de l’assiette au niveau de 2017 (–0,7 Md€).
+Suppression du prélèvement 
+forfaitaire unique
+-0,7
+Institut Montaigne, pro-
+gramme du NFP législatives 
+2024
+Dans l’hypothèse où l’assiette taxable reviendrait à son 
+niveau de 2017 (pré-PFU)
+Rétablir l’exit tax sur les 
+plus-values latentes
+0,07
+Institut Montaigne, pro-
+gramme du NFP législatives 
+2024
+Réintroduction de l’imposition des plus-values latentes au 
+départ des contribuables vers l’étranger, rendement évalué 
+à partir de la base imposable actuelle des revenus mobi-
+liers (≈ 67 M€).
+Suppression de l’amortis-
+sement des biens meublés 
+en location ou « clause du 
+grand-père »
+0,65
+CPO (2024) Note n°9 Vers 
+un rapprochement des 
+régimes fiscaux de la loca-
+tion meublée et de la location 
+nue et CPO (2024) Conforter 
+l’égalité des citoyens devant 
+l’imposition des revenus
+Ce montant correspond à une extrapolation du montant de 
+l’avantage fiscal lié à l’amortissement chiffré par le rapport 
+de L’IGF et du CGEDD pour 2013 tenant compte de l’évo-
+lution du nombre de bénéficiaires du régime en location 
+meublé entre 2013 et 2022 et de l’évolution de l’indice de 
+référence des loyers.
+Réduction de 14 % du barème 
+fiscal kilométrique **
+0,53
+Cour des Comptes, Les 
+mesures d’aides exception-
+nelles : une sortie de crise 
+à achever pour le budget de 
+l’État, 2025
+Calcul basé sur la hausse du barème entre 2021 et 2024 
+(+16 %), qui a dépassé le coût réel d’utilisation (écart de 
++47 à +121 %). Le retour au barème 2021 engendrerait une 
+économie estimée de 530 M€ dès 2025, puis environ 660 
+M€ en régime de croisière.
+Hausse d’un point du taux 
+d’IR pour chaque tranche 
+(sauf celle à 0 %)**
+6,8
+Calcul CAE
+7,6Mds€ sans réponse comportementale, élasticité du 
+revenu txable au taux de rendement après impôt (e = 0,4)
+Baisse des seuils d’entrées 
+dans les tranches du barème 
+de 10 %
+11,9
+IPP, « Effets budgétaires et 
+redistributifs des mesures 
+socio-fiscales »
+Projection de l’IPP à partir des données fiscales.
+Hausse d’un point d’IR sur la 
+tranche marginale (45 à 46 %)
+0,09
+IPP, « Effets budgétaires et 
+redistributifs des mesures 
+socio-fiscales »
+Projection de l’IPP à partir des données fiscales.
+Geler l’indexation des deux 
+dernières tranches du 
+barème de l’IR sur l’inflation
+0,2
+OFCE, Quel impact d’un gel 
+du barème de l’impôt sur le 
+revenu ?, septembre 2024
+Estimation par microsimulation Ines (INSEE, DREES, CNAF) 
+et OFCE, selon différents scénarios (gel partiel ou total).
+Geler l’indexation des trois 
+dernières tranches barème 
+de l’IR sur l’inflation
+1,7
+OFCE, Quel impact d’un gel 
+du barème de l’impôt sur le 
+revenu ?, septembre 2024
+Estimation par microsimulation Ines (INSEE, DREES, CNAF) 
+et OFCE, selon différents scénarios (gel partiel ou total).
+Geler l’indexation du barème 
+de l’IR sur l’inflation
+1,8
+OFCE, Quel impact d’un gel 
+du barème de l’impôt sur le 
+revenu ?, septembre 2024
+Estimation par microsimulation Ines (INSEE, DREES, CNAF) 
+et OFCE, selon différents scénarios (gel partiel ou total).
+Plafonner le bénéfice du 
+quotient conjugal pour les 
+couples mariés ou pacsés 
+avec les plus hauts revenus  
+(à 10 000 €)
+1,1
+CPO 2024 Conforter l’égalité 
+des citoyens devant l’imposi-
+tion des revenus, RP n°2
+Modèle de microsimulation de la DG Trésor
+Supprimer le quotient 
+conjugal
+10,6
+CPO 2024 Conforter l’égalité 
+des citoyens devant l’imposi-
+tion des revenus, RP n°2
+Modèle de microsimulation de la DG Trésor, application de 
+différentes méthodes d’estimation
+Suppression des demi-parts 
+de quotient familial qui ne 
+correspondent pas à des 
+charges effectives
+2,89
+CPO 2024 Conforter l’éga-
+lité des citoyens devant l’im-
+position des revenus, « Les 
+dépenses fiscales et autres 
+avantages fiscaux »
+Estimation par le CPO (2024), fondée sur la suppression de 
+l’ensemble des dépenses fiscales liées aux demi-parts non 
+justifiées par des charges effectives.
+
+=== PAGE 34 ===
+Focus, no 124, octobre 2025
+34
+Mesure par impôt
+Total pour 
+2026 (Md€)
+Source
+Méthode de chiffrage
+Autres impôts
+6,8
+Hausse du barème de la taxe 
+sur les billets d’avion
+3,7
+Réseau Action Climat 
+France : « L’aérien, un trans-
+port de CSP+, largement 
+sous-taxé »
+Sur les bases des travaux de 
+la Convention Citoyenne pour 
+le climat.
+Application du nouveau barème recommandé par la 
+Convention Citoyenne pour le climat (8 différents montants 
+selon la classe du billet, la distance du vol avec une excep-
+tion pour l’Outre mer) aux 93 millions de passagers en 
+2019 avec une réduction du trafic estimée à 11 %.
+Eco-taxe poids lourds : 
+taxe au kilomètre sur le 
+réseau routier national hors 
+autoroutes
+1
+Cour des Comptes, 
+« L’écotaxe poids lourds : un 
+échec stratégique, un aban-
+don coûteux », février 2017
+Reprise de l’estimation de la Cour des comptes (2017), 
+correspondant à 1 Md€ net par an, après déduction des 
+coûts d’investissement. Taxe au kilomètre sur le réseau 
+routier national hors autoroutes (de 0,08 à 0,15€ par km 
+selon la taille, le poids, et le niveau de pollution du camion)
+Baisse du seuil du malus 
+poids de 1500kg à 1400kg
+0,4
+Rapport de la conférence 
+Ambition France Transport
+Projection mécanique du rendement supplémentaire en 
+supposant un comportement inchangé des acheteurs (rap-
+port Ambition France Transport).
+Suppression des abattements 
+du malus poids pour les véhi-
+cules hybrides
+0,2
+Rapport de la conférence 
+Ambition France Transport
+Projection mécanique du rendement supplémentaire en 
+supposant un comportement inchangé des acheteurs (rap-
+port Ambition France Transport).
+Restreindre la fiscalité locale 
+à l’aménagement de surfaces 
+non artificialisantes
+0,5
+IGF, rapport « Adaptation de 
+la fiscalité aux exigences de 
+la transition écologique », 
+mai 2024
+Évaluation IGF (2024), reposant sur une suppression des 
+exonérations et modulation des abattements de 100m2, 
+sans précision détaillée de la méthode de chiffrage.
+Hausse de l’accise de la 
+TICGN à 23€/MWh (soit 
++6€/MWh) pour l’aligner sur 
+l’électricité
+1
+Cour des Comptes : exécu-
+tion budgétaire 2024
+Calcul mécanique du rendement d’une hausse de 17,16 €/
+MWh à 23 €/MWh appliquée à l’assiette 2024, sans inté-
+grer de réponse comportementale.
+Lutte contre la fraude
+3,3
+Renforcement de la lutte 
+contre la fraude aux impôts 
+des particuliers hors TVA (IR, 
+DMTG, taxe foncière, THRS, 
+DMTO)
+2,82
+Cour des Comptes, « La 
+détection de la fraude fiscale 
+des particuliers », novembre 
+2023
+Trois méthodes de projection fondées sur l’évolution des 
+montants recouvrés et sur l’hypothèse d’une amélioration 
+des taux de recouvrement de 5 à 25 %, aboutissant à un 
+rendement compris entre 1,35 et 3,8 Md€.
+Renforcement de la lutte 
+contre la fraude à la TVA
+0,5
+DGFIP : « Le manque à 
+gagner de TVA en France », 
+septembre 2024, N°7
+Montant calculé en appliquant une hypothèse d’améliora-
+tion de 5 points du taux de recouvrement (actuellement 
+21 %), soit une progression de 24 % des montants recou-
+vrés par rapport au niveau de 2022.
+Total Administrations de 
+sécurité sociale 
+20,4
+Impôt sur le patrimoine
+2,9
+Suppression de l’exonération 
+de l’impôt sur les plus-values 
+immobilières pour les rési-
+dences principales
+1
+CPO (2018) Fiscalité du 
+capital
+Rendement égal à la dépense fiscale associée (CPO 2018) : 
+réintégration des plus‑values dans l’assiette des prélève-
+ments sociaux (17,2  %).
+Suppression des abatte-
+ments sur les plus-values 
+immobilières pour durée de 
+détention
+1,85
+Assemblée nationale (2023) 
+Fiscalité du patrimoine citant 
+CPO (2018) Fiscalité du 
+capital
+Rendement = dépenses fiscales associées (CPO 2018, 
+AN 2023) en rétablissant une taxation sans abattement. 
+Ventilation : 1,74 Md€ IR (État) et 1,85 Md€ prélèvements 
+sociaux (Sécu). Mise à jour prix/volumes non modélisée 
+(ordre de grandeur).Correspond à la dépense fiscale asso-
+ciée (partie impôt sur le revenu).
+Impôt sur le revenu
+16,4
+Hausse d’un point du taux 
+de CSG
+14,6
+IPP, « Effets budgétaires et 
+redistributifs des mesures 
+socio-fiscales »
+Projection de l’IPP à partir des données fiscales.
+
+=== PAGE 35 ===
+35
+Comment stabiliser la dette publique ?
+Mesure par impôt
+Total pour 
+2026 (Md€)
+Source
+Méthode de chiffrage
+Aligner le décile de retraités 
+les plus aisés sur le taux de 
+CSG des actifs à 9,2 %
+0,5
+CPO, rapport « Conforter 
+l’égalité des citoyens devant 
+l’imposition des revenus », 
+octobre 2024
+Calcul mécanique à partir des assiettes fiscales CSG, selon 
+deux scénarios : alignement global (1,3 Md€) ou ciblé sur 
+le décile supérieur (0,5 Md€). Pas d’estimation des gains 
+budgétaires dynamiques comme écart à la situation de 
+référence inchangée.
+Aligner l’ensemble de la 
+tranche imposée à 8,3 % 
+de CSG sur celle des actifs 
+imposée à 9,2 %
+1,3
+CPO, rapport « Conforter 
+l’égalité des citoyens devant 
+l’imposition des revenus », 
+octobre 2024
+Calcul mécanique à partir des assiettes fiscales CSG, selon 
+deux scénarios : alignement global (1,3 Md€) ou ciblé sur 
+le décile supérieur (0,5 Md€). Pas d’estimation des gains 
+budgétaires dynamiques comme écart à la situation de 
+référence inchangée.
+Cotisations sociales
+0,8
+Augmenter la contribution de 
+la branche ATMP à la branche 
+maladie en rehaussant les 
+cotisations des entreprises
+0,8
+Cour des Comptes (2025) 
+L’ONDAM
+Montant calculé par extrapolation de la sous-déclara-
+tion des maladies professionnelles (estimée entre 2 et 
+3,6 Md€), comparée au versement actuel de 1,6 Md€, 
+ce qui justifie un rendement potentiel supplémentaire de 
+0,8 Md€.
+Lutte contre la fraude
+0,4
+Renforcement de la lutte 
+contre la fraude aux cotisa-
+tions sociales
+0,36
+HCFIPS (2024) La lutte 
+contre la fraude sociale (p. 
+79)
+Estimation basée sur la fraude détectée (environ 7,25 Md€) 
+et le taux de recouvrement actuel (1,2 %), avec l’hypothèse 
+d’une amélioration de 5 points permettant une hausse de 
+41 % des montants recouvrés.
+Total Administrations 
+publiques locales
+0,3
+Impôt sur le patrimoine*
+0,3
+Augmentation des droits 
+de mutation à titre onéreux 
+(DMTO) de 0,1 point
+0,25
+Calculs à partir des chiffres 
+du BIS « Les droits de muta-
+tion à titre onéreux des 
+départements en 2023 »
+Reconstitution de l’assiette 2024 à partir des recettes 
+effectives des départements (BIS) et des taux votés, puis 
+application d’une hausse de +0,1 pt du taux. Fourchette 
+obtenue en projetant l’assiette (≈ 253–308 M€ en 2024) : 
++0,25 à +0,31 Md€ par 0,1 pt, sans changement de com-
+portement supposé.
+
+=== PAGE 36 ===
+Focus, no 124, octobre 2025
+36
+Annexe 4. Évaluation de mesures de consolidation en dépenses fiscales
+Mesure par impôt
+Total pour 
+2026 (Mds€)
+Source
+Méthode de chiffrage
+Total Administrations 
+publiques centrales
+56,8
+Impôt sur les sociétés
+4,3
+Suppression de la taxe au ton-
+nage pour un retour à l’impôt 
+sur les sociétés
+1,38
+Débats parlemen-
+taires 2024, Cour des 
+comptes,
+PLF 2025 : Évaluations 
+des voies et moyens 
+- Tome 2 - Dépenses 
+fiscales
+Comparaison du rendement attendu si les compagnies 
+maritimes étaient taxées à l’IS (25 %) au lieu du régime 
+du tonnage, sur la base des bénéfices déclarés et des 
+données récentes de dépenses fiscales (615 M€ en 
+2024, 1,375 Md€ en 2025).
+Difficile à évaluer car très dépendant de la conjonc-
+ture : de 2003 à 2018, la taxe aurait rapporté plus que 
+l’IS ; en 2022 et 2023, les profits étaient certes très 
+importants (3,8Md€ en 2023), mais le coût pour les 
+finances publiques est retombé dès 2024 (615M€ de 
+dépenses fiscales).
+Meilleur ciblage du crédit d’im-
+pôt recherche : réduction de 
+moitié de la dépense allouée 
+aux grandes entreprises
+1,5
+Cour des comptes, 
+Analyse de l’exécution 
+budgétaire « Dépenses 
+fiscales » 2024, avril 
+2025
+Observation de la répartition par taille d’entreprise de 
+cette dépense fiscale (7,8 Mds€ en 2024).
+Meilleur ciblage du crédit d’im-
+pôt recherche : suppression du 
+taux à 5 %, au-delà de 100 mil-
+lions d’euros de dépenses
+0,4
+CAE Focus n° 90 
+(2022) : Renforcer l’im-
+pact du CIR
+Estimation des montants concernés par le taux de 5 % 
+au-delà de 100 millions d’euros de dépenses en R&D à 
+partir de la base GECIR.
+Suppression de l’éco-prêt à 
+taux zéro
+0,04
+Sénat, Rapport 
+« Efficacité des poli-
+tiques publiques en 
+matière de rénovation 
+énergétique », juin 2023, 
+jaune budgétaire
+Reprise des montants budgétaires inscrits et exécutés 
+dans les PLF, évaluant le coût pour l’État des intérêts 
+compensés aux banques (30–40 M€ par an).
+Suppression du crédit d’impôt 
+Haute valeur environnementale
+0,1
+Assemblée nationale
+Multiplication du montant unitaire de l’avantage fiscal 
+(2 500 €) par le nombre de certifications délivrées (38 
+000 en 2023/24), soit environ 100 M€.
+Diminution des dépenses fis-
+cales sur les dons aux asso-
+ciations : passer le mécénat 
+d’entreprise à un régime de 
+déductibilité
+0,52
+IGF : Revue des 
+dépenses publiques en 
+direction des associa-
+tions 2025
+Simulation du passage du mécénat d’entreprise du 
+régime de réduction d’impôt (60 %) à un régime de 
+simple déductibilité, d’après les données IGF sur la 
+dépense fiscale associée (523 M€).
+Suppression des exonéra-
+tions spécifiques à la taxe 
+d’apprentissage
+0,37
+IGF-IGAS, Modalités 
+de financement des 
+Centres de formation 
+des apprentis CFA, juil-
+let 2023
+Supprimer les exonérations spécifiques d’assiette 
+de taxe d’apprentissage (exemption pour les petites 
+entreprises, associations, mutuelles, secteur agri-
+cole, taux réduit en Alsace-Moselle). Évaluation réa-
+lisée à partir des données Urssaf (caisse nationale) 
+et CCMSA, correspondant au produit supplémentaire 
+attendu en cas de suppression des exonérations.
+TVA
+13,5
+Suppression du taux réduit de 
+TVA dans la restauration
+4,2
+PLF 2023, Évaluation 
+des Voies et moyens 
+tome II / « Qui a béné-
+ficié de la baisse de la 
+TVA dans la restauration 
+en 2009 ? » Note IPP 
+n°32 en 2018
+D’après la dépense fiscale associée chiffrée dans 
+le tome II des Voies et Moyens (les données plus 
+récentes n’ont pas été retenues du fait d’un change-
+ment de méthodologie dans le calcul des dépenses fis-
+cales relatif aux transferts de TVA aux APUL et ASSO). 
+Selon l’IPP, la baisse de TVA en 2009 a principalement 
+profité aux propriétaires de restaurants. Les hausses 
+de TVA ensuite (5,5 à 7 puis à 10) ont été significative-
+ment répercutées sur les prix. 
+
+=== PAGE 37 ===
+37
+Comment stabiliser la dette publique ?
+Mesure par impôt
+Total pour 
+2026 (Mds€)
+Source
+Méthode de chiffrage
+Réforme du soutien de l’État 
+aux services à la personne : 
+réduction de la liste d’activités, 
+simplification des taux de TVA 
+et du régime de cotisiations 
+sociales
+0,3
+Cour des comptes 
+(2024) Le soutien de 
+l’état aux services à la 
+personne
+L’alignement des régimes d’exonération de cotisations 
+sociales se traduirait par une hausse des cotisations 
+patronales de 600 M€ et la simplification des taux 
+de TVA par des recettes fiscales supplémentaires de 
+260 M€. Ces gains seraient compensés en partie par 
+une augmentation mécanique de la dépense fiscale 
+au titre du crédit d’impôt (+ 300 M€) et des presta-
+tions sociales (+ 330 M€), liées au renchérissement 
+des activités concernées. La réduction des activités 
+éligibles, pour sa part, représenterait une économie 
+brute comprise entre 50 M€ et 150 M€, susceptible 
+d’être amoindrie par une progression de l’activité 
+informelle, non prise en compte dans les chiffrages.
+Suppression du taux réduit de 
+TVA pour les billets d’avion**
+0,3
+CE Delft, Tax exemp-
+tions and reductions for 
+domestic commercial air 
+passenger transport in 
+France, juin 2015
+Estimation du surcoût fiscal en intégrant une élasticité 
+de la demande aux prix (-0,96 % vols internationaux, 
+-1,23 % vols domestiques), aboutissant à un rende-
+ment net d’environ 0,3 Md€.
+Suppression du taux réduit 
+de TVA pour les travaux, hors 
+rénovation énergétique
+4,5
+IGF, rapport « Adaptation 
+de la fiscalité aux exi-
+gences de la transition 
+écologique », mai 2023, 
+Cour des comptes, «  Le 
+taux réduit de TVA sur 
+les travaux d’entretien 
+et d’amélioration des 
+logements de plus de 
+deux ans  », 2016
+Application du taux normal de 20 % à l’assiette des 
+travaux actuellement soumis au taux réduit de 10 %, 
+d’après la dépense fiscale chiffrée dans le tome II des 
+Voies et Moyens. La Cour des comptes estime par ail-
+leurs insuffisantes les études d’évaluation de cette 
+mesure introduite en 1999, une évaluation en 2011 
+parle de 1,6 Mds€ de CA en + pour les entreprises et 
+de seulement 32.000 ETP créés, soit un coût net de 
+50-90.000€ par emploi
+Suppression du taux réduit de 
+TVA pour les travaux de réno-
+vation énergétique
+2
+IGF, rapport « Adaptation 
+de la fiscalité aux exi-
+gences de la transition 
+écologique », mai 2023
+Passage du taux de 5,5 % à 20 % sur l’assiette des tra-
+vaux de rénovation énergétique, d’après la dépense 
+fiscale chiffrée dans le tome II des Voies et Moyens.
+Suppression du régime de taux 
+en outremer
+2,2
+CPO (2023) TVA Rapport 
+particulier n°2
+Suppression des taux réduits de 8,5 % et 2,1 % appli-
+qués en outremer, pour un rendement estimé à 
+2,2 Md€, sous réserve d’articulation avec la réforme 
+de l’octroi de mer.
+Accises sur les énergies
+9,3
+Supprimer le tarif réduit pour 
+les gaz naturels consommés 
+comme combustible dans les 
+installations grandes consom-
+matrices d’énergie
+0,4
+Cour des comptes, 
+Analyse de l’exécution 
+budgétaire « Dépenses 
+fiscales » 2024, avril 
+2025
+Supprimer le tarif réduit pour les gaz naturels consom-
+més comme combustible dans les installations 
+grandes consommatrices d’énergie et soumises au 
+régime des quotas d’émission de GES du disposi-
+tif ETS pour les installations fixes (niveau d’intensité 
+énergétique au moins égal à 3 % en valeur de produc-
+tion ou 0,5 % en valeur ajoutée). Projection de l’évolu-
+tion spontanée de la dépense fiscale (668 M€ en 2024 
+à 464 M€ en 2025, soit -204 M€), ce qui situe l’ordre 
+de grandeur de la suppression à plusieurs centaines 
+de millions d’euros.
+Supprimer le tarif réduit 
+pour le gazole non routier et 
+agricole
+1,4
+IGF, rapport « Adaptation 
+de la fiscalité aux exi-
+gences de la transition 
+écologique », mai 2023
+Montant issu du PLF 2023 ; scénario de réduction pro-
+gressive de 0,2 Md€/an entre 2024 et 2030.
+Supprimer le tarif réduit pour 
+le gazole non routier et non 
+agricole
+1,2
+IGF, rapport « Adaptation 
+de la fiscalité aux exi-
+gences de la transition 
+écologique », mai 2023
+Montant issu du PLF 2023 ; scénario de réduction pro-
+gressive de 0,17 Md€/an.
+
+=== PAGE 38 ===
+Focus, no 124, octobre 2025
+38
+Mesure par impôt
+Total pour 
+2026 (Mds€)
+Source
+Méthode de chiffrage
+Supprimer le tarif réduit pour 
+le gazole routier de transport 
+des marchandises
+1,1
+IGF, rapport « Adaptation 
+de la fiscalité aux exi-
+gences de la transition 
+écologique », mai 2023
+Montant issu du PLF 2023 ; réduction annuelle de 
+0,16 Md€/an.
+Supprimer le tarif réduit des 
+carburants pour les taxis
+0,05
+IGF, rapport « Adaptation 
+de la fiscalité aux exi-
+gences de la transition 
+écologique », mai 2023
+Montant issu du PLF 2023 ; suppression linéaire de la 
+dépense fiscale sur 2024-2030.
+Supprimer les tarifs réduits 
+d’accises sur les biocarbu-
+rants, qui surcompensent les 
+surcoûts et enfreignent les 
+règles européennes
+0,7
+IGF, Revue de dépenses : 
+les aides aux entre-
+prises, mars 2024
+Cour des comptes, 
+2021, «  La politique 
+de développement des 
+biocarburants
+Suppression du tarif réduit identifié par la Cour des 
+comptes (2021) et l’IGF (2024) comme surcom-
+pensant les surcoûts de production. Montant budgé-
+taire direct estimé à 700 M€.
+Réformer les tarifs réduits 
+d’accises sur l’électricité uti-
+lisés par les entreprises éner-
+go-intensives afin de limiter les 
+effets d’aubaine
+0,4
+IGF (2024) Les aides aux 
+entreprises
+La dépense fiscale associée aux tarifs réduits est éva-
+luée à environ 400 M€ par l’IGF (jusqu’à 1 Md€ en 
+2021 selon le prix de marché). Aucune trajectoire pré-
+cise n’est proposée, mais une suppression totale équi-
+vaudrait à récupérer l’intégralité de la dépense fiscale 
+actuelle.
+Supprimer l’exonération de 
+TICPE sur le transport aérien
+3,5
+I4CE, rapport 
+« Dépenses fiscales 
+défavorables au cli-
+mat : quelles sont-elles 
+et combien coûtent-
+elles ? », juin 2022 et 
+rapport IGF Adaptation 
+de la fiscalité aux exi-
+gences de la transition 
+écologique
+Application du taux de taxation de référence sur l’as-
+siette de consommation 2018 (PLF 2020 et 2022). 
+Résultat : 3,5 Md€ si aligné sur le taux aviation de loi-
+sir, et jusqu’à 6,1 Md€ si aligné avec le taux de l’es-
+sence. À noter que l’incertitude de ce chiffrage est 
+élevée.
+Supprimer l’exonération de 
+TICPE sur le transport maritime
+0,6
+I4CE, rapport 
+« Dépenses fiscales 
+défavorables au cli-
+mat : quelles sont-elles 
+et combien coûtent-
+elles ? », juin 2022 et 
+rapport IGF Adaptation 
+de la fiscalité aux exi-
+gences de la transition 
+écologique
+Simulation équivalente à celle du transport aérien 
+appliquée à l’assiette maritime (2018). Résultat : 
+0,6 Md€ si aligné sur le taux aviation de loisir, et 
+jusqu’à 1,1 Md€ si aligné avec le taux de l’essence. À 
+noter que l’incertitude de ce chiffrage est élevée.
+Impôt sur le revenu*
+21,5
+Supprimer l’exonération des 
+intérêts du livret A
+0,9
+Évaluation des voies et 
+moyens, annexe au pro-
+jet de loi de finances 
+pour 2024, tome II : Les 
+dépenses fiscale
+Reconstitution de la base taxable à partir de données 
+bancaires et fiscales ; application du barème de l’IR et 
+des prélèvements sociaux (PLF 2024, tome II).
+Supprimer l’exonération des 
+intérêts des livrets de dévelop-
+pement durable
+0,4
+Évaluation des voies et 
+moyens, annexe au pro-
+jet de loi de finances 
+pour 2024, tome II : Les 
+dépenses fiscale
+Méthode identique au Livret A ; assiette calculée sur 
+les encours moyens.
+Supprimer l’exonération ou 
+l’imposition réduite des pro-
+duits attachés aux bons ou 
+contrats de capitalisation et 
+d’assurance-vie
+0,5
+Évaluation des voies et 
+moyens, annexe au pro-
+jet de loi de finances 
+pour 2024, tome II : Les 
+dépenses fiscale
+Estimation sur la base des produits capitalisés soumis 
+au régime dérogatoire ; application du régime de droit 
+commun.
+
+=== PAGE 39 ===
+39
+Comment stabiliser la dette publique ?
+Mesure par impôt
+Total pour 
+2026 (Mds€)
+Source
+Méthode de chiffrage
+Supprimer l’exonération des 
+intérêts et primes versés dans 
+le cadre de l’épargne logement
+0,4
+Évaluation des voies et 
+moyens, annexe au pro-
+jet de loi de finances 
+pour 2024, tome II : Les 
+dépenses fiscale
+Reconstitution de l’assiette des intérêts et primes ver-
+sés et application de l’IR + PS.
+Supprimer l’abattement fiscal 
+de 10 % des frais profession-
+nels pour les retraités sur le 
+calcul du revenu fiscal de réfé-
+rence des retraités
+5
+IPP
+Réforme de l’abattement de 10 % des frais profession-
+nels pour les retraités et/ou l’abattement pour les 
+65+/invalides sous condition de revenus. Évaluation 
+de l’impact total sur l’IR et sur les aides au logement
+Supprimer l’abattement fiscal 
+de 10 % des frais profession-
+nels pour les retraités sur le 
+calcul du revenu fiscal de réfé-
+rence des retraités
+4,8
+CPO, rapport « Conforter 
+l’égalité des citoyens 
+devant l’imposition 
+des revenus », octobre 
+2024 / Cour des 
+comptes « Exécution 
+des dépenses fiscales 
+2024 »
+Utilisation des fichiers fiscaux de la DGFiP ; appli-
+cation du barème sans abattement via modèle de 
+micro-simulation (DG Trésor).
+Supprimer le bénéfice de 
+l’abattement fiscal de 10 % des 
+frais professionnels pour les 
+retraités du dernier décile
+1,3
+CPO, rapport « Conforter 
+l’égalité des citoyens 
+devant l’imposition 
+des revenus », octobre 
+2024 / Cour des 
+comptes « Exécution 
+des dépenses fiscales 
+2024 »
+Simulation par micro-données fiscales (modèle DG 
+Trésor) ; calcul de l’impact redistributif selon niveau de 
+pension. Les abattements de 10 % sur les pensions de 
+retraite et l’abattement de 10 % pour les contribuables 
+âgés de plus de 65 ans ou invalides serait remplacé  
+par une déduction unique du revenu catégoriel (pen-
+sions + rentes viagères) forfaitaire et centrée sur les 
+revenus modestes intermédiaires, de façon à ce que 
+le bénéfice des deux anciens abattements soit perdu 
+pour les foyers du dernier décile. 
+Abaisser le plafond de l’abatte-
+ment de 10 % des frais profes-
+sionnels pour les retraités et/
+ou l’abattement pour les 65+/
+invalides sous condition de 
+revenus
+2
+Amendement sénatorial 
+au PLF 2025
+Abaisser le plafond de 4.321€ à 2.300€. Évaluation ex 
+ante par amendement sénatorial PLF 2025, basé sur 
+données fiscales 2023.
+Niches fiscales pour les com-
+pléments de salaire : prime de 
+partage de la valeur**
+0
+CPO (2024) Conforter 
+l’égalité des citoyens 
+devant l’imposition des 
+revenus
+Hors impact en matière de cotisations sociales. La 
+prime de partage de la valeur est exemptée de CSG-
+CRDS dans les entreprises de moins de 50 salariés 
+pour les rémunérations inférieures à 3 SMIC. Chiffrage 
+obtenu en partant de l’hypothèse d’un taux moyen 
+d’imposition de 10 %. Les données du premier tri-
+mestre 2024 montrent que 52 % des PPV sont versées 
+par des entreprises de moins de 50 salariés. Les PPV 
+restantes sont susceptibles de bénéficier d’une exoné-
+ration d’IR si elles sont versées sous forme d’épargne 
+salariale (hypothèse haute), mais n’en bénéficient pas 
+en cas de versement direct (hypothèse basse).
+Supprimer l’exonération d’IR 
+accordée à la rémunération 
+des heures supplémentaires et 
+complémentaires
+1,8
+CPO (2024) Conforter 
+l’égalité des citoyens 
+devant l’imposition des 
+revenus, RP n°2 - Voies 
+et moyens Tome 2 PLF 
+2024
+Simulation micro (DG Trésor) : intégration de la rému-
+nération exonérée dans l’assiette IR, barème inchangé.
+Supprimer la réduction d’im-
+pôt sur le revenu à raison des 
+investissements productifs en 
+outremer**
+0,3
+CPO (2024) Conforter 
+l’égalité des citoyens 
+devant l’imposition des 
+revenus
+Chiffrage basé sur la dépense fiscale observée (PLF) 
+diminuée d’un report attendu sur le crédit d’impôt IS ; 
+montant inférieur à la dépense brute (590 M€).
+** Les chiffrages tiennent compte de la réponse comportementale des contribuables à la mesure proposée.
+
+=== PAGE 40 ===
+Focus, no 124, octobre 2025
+40
+Mesure par impôt
+Total pour 
+2026 (Mds€)
+Source
+Méthode de chiffrage
+Plafonner à 10 000 € de la 
+réduction d’impôts pour dons
+0,4
+CPO 2024 Conforter 
+l’égalité des citoyens 
+devant l’imposition des 
+revenus, RP n°2
+Simulation DG Trésor : micro-simulation avec plafond 
+unique à 10 000 €, en intégrant la distribution des 
+dons déclarés par tranche de revenu.
+Limiter le plafond de don du 
+taux normal de la réduction 
+d’IR à 2 000€
+0,36
+IGF : Revue des 
+dépenses publiques en 
+direction des associa-
+tions 2025
+Application d’un plafond uniforme à 2 000 € sur l’as-
+siette des dons déclarés ; impact budgétaire calculé 
+comme différence entre dépense fiscale actuelle et 
+nouvelle règle.
+Application d’un plafond 
+annuel et non plus plurian-
+nuel à l’exonération d’IR pour 
+l’épargne-retraite
+1,3
+Cour des comptes 
+(2024) L’épargne retraite
+Méthode Cour des comptes (2024) : ventilation du 
+coût en quatre composantes (exonération à l’entrée, 
+moindre imposition à la sortie, décalage temporel, sor-
+ties en capital à taux réduit).
+Crédit d’impôt au titre de l’em-
+ploi d’un salarié à domicile : 
+diminution du plafond de droit 
+commun à 3000 € et du taux 
+à 40 %
+1,7
+Cour des comptes, Les 
+soutiens de l’État aux 
+services à la personne, 
+mars 2024, p.112
+calcul par micro-simulation en réduisant le plafond 
+et le taux du crédit ; intégration de mesures compen-
+satoires (prestations sociales) pour tenir compte du 
+vieillissement.
+Crédit d’impôt au titre de l’em-
+ploi d’un salarié à domicile : 
+modulation du taux du crédit 
+d’impôt, relevé à 60 % pour cer-
+taines activités
+0,36
+Cour des comptes, Les 
+soutiens de l’État aux 
+services à la personne, 
+mars 2024, p.112
+Simulation sur la base des foyers bénéficiaires actuels 
+; modélisation de deux taux différenciés (60 % pour 
+publics fragiles, 40 % pour le reste).
+Impôt sur le patrimoine
+8,1
+Taxation de l’héritage : 
+Appliquer les droits de 
+succession aux contrats 
+d’assurance-vie
+4
+CAE (2021) Repenser 
+l’héritage
+Application du barème de droit commun des droits de 
+succession à l’assiette des contrats d’assurance-vie, 
+en excluant l’abattement de 152 500 € par bénéfi-
+ciaire. À noter que les montants sont amenés à aug-
+menter de façon importante dans les années à venir.
+Taxation de l’héritage : 
+Supprimer le pacte Dutreil
+2
+CAE (2021) Repenser 
+l’héritage
+Le pacte Dutreil prévoit un abattement de 75 % sur la 
+transmission des biens professionnels sous condition 
+de les garder 4 ans (valeur déclarée intégrée entiè-
+rement dans l’assiette taxable). À noter que les mon-
+tants sont amenés à augmenter de façon importante 
+dans les années à venir.
+Réformer le régime du démem-
+brement de propriété (dona-
+tions en nue propriété avec 
+réserve d’usufruit)
+2
+CAE (2021) Repenser 
+l’héritage
+Estimation de l’assiette taxable en cas de donation en 
+pleine propriété, avec revalorisation de 30 % par rap-
+port aux donations réalisées en nue-propriété avec 
+réserve d’usufruit.
+Supprimer l’abattement de 
+TFPB de 30 % pour les loge-
+ments sociaux des organismes 
+HLM
+0,12
+PLF 2025, Évaluation 
+des voies et moyen 
+tome II
+Coût calculé sur la base des exonérations déclarées 
+par les organismes HLM
+Total Administrations 
+de sécurité sociale
+32,2
+Cotisations sociales
+32,2
+Faire converger les taux du for-
+fait social vers le taux de réfé-
+rence de 20 %
+1
+Cour des comptes 2024 
+RALFSS chap IV : les 
+niches sociales des com-
+pléments de salaires
+Calcul de recettes supplémentaires par alignement du 
+forfait social sur le taux de référence, en appliquant 
+le barème de 20 % aux assiettes recensées par la 
+Sécurité sociale (1 Md€).
+Appliquer le forfait social à la 
+prime de partage de la valeur 
+y compris pour les entreprises 
+de moins de 250 salariés
+1
+Cour des comptes 2024 
+RALFSS chap IV : les 
+niches sociales des com-
+pléments de salaires
+Extension du champ d’application du forfait social 
+aux entreprises de moins de 250 salariés, estimation 
+mécanique de rendement supplémentaire (1 Md€).
+Relever le taux de la contri-
+bution de l’employeur sur les 
+attributions gratuites d’actions 
+de 20 à 30 %
+0,4
+Cour des comptes 2024 
+RALFSS chap IV : les 
+niches sociales des com-
+pléments de salaires
+Application d’un taux majoré (30 %) à l’assiette décla-
+rée des attributions gratuites d’actions. Gain méca-
+nique de 0,4 Md€.
+
+=== PAGE 41 ===
+41
+Comment stabiliser la dette publique ?
+Mesure par impôt
+Total pour 
+2026 (Mds€)
+Source
+Méthode de chiffrage
+Supprimer les régimes sociaux 
+dérogatoires associés aux 
+compléments de salaires
+18
+Cour des comptes 2024 
+RALFSS chap IV : les 
+niches sociales des com-
+pléments de salaires
+Évaluation mécanique du manque à gagner actuel 
+pour la Sécurité sociale, calculé sur les 87,5 Md€ de 
+compléments de salaires versés en 2022. Rendement 
+brut : 18 Md€. (Pas d’intégration d’effets de 
+comportement).
+Baisse ciblée des allège-
+ments de cotisations sociales: 
+barème réduisant autant que 
+possible les désincitations à la 
+progression salariale
+0
+Rapport Bozio-Wasmer, 
+octobre 2024
+Rechercher un barème réduisant autant que possible 
+les désincitations à la progression salariale : suppri-
+mer les taux réduits maladie et famille, rehausser le 
+point de sortie de la réduction générale à 2,5 Smic et 
+ajuster le taux d’exonération au niveau du salaire mini-
+mum à 35,7 % dans les entreprises de moins de 50 
+salariés et à 36,1 % dans les entreprises de plus de 50 
+salariés. Ajout de la réponse de marge intensive (effort 
+de formation, investissement en technologie, nbr 
+d’heures travaillées par salarié), fonction de demande 
+multi-facteurs et de courbes d’offre théoriques et cor-
+rection des élasticités et croisement.
+Baisse ciblée des allège-
+ments de cotisations sociales : 
+Supprimer les bandeaux mala-
+die et famille, en prolongeant 
+la courbe de la réduction géné-
+rale jusqu’à une extinction 
+complète des exonérations à 
+1,88 Smic
+11,4
+Rapport Bozio-Wasmer, 
+octobre 2024
+Ajout de la réponse de marge intensive (effort de 
+formation, investissement en technologie, nombre 
+d’heures travaillées par salarié), fonction de demande 
+multi-facteurs et de courbes d’offre théoriques et cor-
+rection des élasticités et croisement
+Exonérations de cotisations 
+sociales spécifiques aux outre-
+mer : recentrage des disposi-
+tifs sur les salaires inférieurs à 
+2,5 SMIC
+0,2
+IGF (2024) : Évaluation 
+des mesures d’exoné-
+ration de cotisations 
+sociales spécifiques aux 
+outremer
+Réforme paramétrique rencentrant les dispositifs sur 
+les salaires inférieurs à 2,5 SMIC, éventuellement 
+assortie d’une baisse de 2 ou 4 pts du niveau d’exoné-
+ration. Les dispositifs Lodéom constituent un régime 
+plus favorable que l’allègement général (hors ban-
+deaux famille et maladie). Évaluation basée sur les 
+assiettes de rémunération déclarées dans les DOM en 
+appliquant un barème alternatif. 
+Exonérations de cotisations 
+sociales spécifiques aux outre-
+mer : réforme structurelle avec 
+simplification dans un barème 
+unique
+0,15
+IGF (2024) : Évaluation 
+des mesures d’exoné-
+ration de cotisations 
+sociales spécifiques aux 
+outremer
+Les dispositifs Lodéom constituent un régime plus 
+favorable que l’allègement général (hors bandeaux 
+famille et maladie). Évaluation basée sur les assiettes 
+de rémunération déclarées dans les DOM en appli-
+quant un barème alternatif. 
+
+=== PAGE 42 ===
+Focus, no 124, octobre 2025
+42
+Annexe 5. Trajectoire de consolidation avec une hypothèse d’écart de production nul
+Dans le cas d’une trajectoire avec une hypothèse d’écart de production nul, pour stabiliser le ratio de dette publique sur 
+PIB et se prémunir de crises futures, il est donc nécessaire de faire passer le déficit primaire structurel initial de 3,2 % 
+du PIB à un surplus de 1 % du PIB, soit un effort de consolidation de 4,2 points de PIB. Dans un scénario plausible de 
+hausse durable des taux d’intérêt (de 0,5 point par rapport au taux de croissance), cet effort passerait à 4,7 points de 
+PIB. Ainsi, l’effort total à réaliser s’élève à 125 Md€. Les trajectoires présentées ci-dessous représentent le passage à 
+un déficit structurel nul à différents horizons avec ces paramètres.
+Figure 1A. Trajectoire optimale
+a. du déficit primaire structurel (en % du PIB)		
+	
+b de la dette (en % du PIB)	
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+2025
+2026
+2034
+2033
+2032
+2031
+2030
+2029
+2028
+2027
+2036
+2035
+% de PIB
+Consolidation rapide
+Consolidation lente
+115
+120
+125
+130
+135
+2025
+2026
+2034
+2033
+2032
+2031
+2030
+2029
+2028
+2027
+2038
+2037
+2036
+2035
+% de PIB
+Consolidation lente 
+Consolidation rapide
+	
+c. de l’effort budgétaire (en  Md€)	 	
+	
+	
+d. de l’effort budgétaire (en % du PIB)
+0,0
+0,3
+0,6
+0,9
+1,2
+1,5
+2026
+2034
+2033
+2032
+2031
+2030
+2029
+2028
+2027
+2038
+2037
+2036
+2035
+Milliards d’euros
+Consolidation lente
+Consolidation rapide
+0
+5
+10
+15
+20
+25
+30
+35
+40
+2026
+2034
+2033
+2032
+2031
+2030
+2029
+2028
+2027
+2038
+2037
+2036
+2035
+% du PIB
+Consolidation lente
+Consolidation rapide
+e. du déficit total
+2
+3
+4
+5
+6
+2025
+2026
+2034
+2033
+2032
+2031
+2030
+2029
+2028
+2027
+2038
+2037
+2036
+2035
+% de PIB
+Consolidation lente
+Consolidation rapide
+
+=== PAGE 43 ===
+43
+Comment stabiliser la dette publique ?
+
+=== PAGE 44 ===
+Focus, no 124, octobre 2025
+44
+Le Conseil d’analyse économique, créé auprès du Premier ministre, a pour mission d’éclairer, par la confrontation 
+des points de vue et des analyses de ses membres, les choix du gouvernement en matière économique.
+Toutes les publications du Conseil d’analyse 
+économique sont téléchargeables sur son site  : 
+www.cae-eco.fr
+ISSN 2971-3560 (imprimé)
+ISSN 2999-2524 (en ligne)
+Contact Presse Hélène Spoladore 
+helene.spoladore@cae-eco.fr — Tél.  : 01 42 75 77 47
+TSA 20727, 75334 PARIS Cedex 07 — @CAE-eco(LinkedIn) @caeeco.bsky.social — www.cae-eco.fr
+Président délégué Xavier Jaravel
+Secrétaire général Augustin Vicard
+Conseillers scientifiques 
+Jean Beuve, Samuel Delpeuch, 
+Claudine Desrieux, Arthur Poirier
+Économistes/Chargés d’études 
+Nicolas Grimprel, Lucie Huang, Alice Lapeyre, 
+Emma Laveissière, Antoine Lopes
+Assistante du président délégué 
+Orkia Saïb
+Membres Adrien Auclert, Emmanuelle Auriol, 
+Antonin Bergeaud, Antoine Bozio, François 
+Fontaine, Julien Grenet, Fanny Henriet, Xavier 
+Jaravel, Florence Jusot, Sébastien Jean, Isabelle 
+Méjean, Thomas Philippon, Vincent Pons, 
+Xavier Ragot, Alexandra Roulet, Katheline Schubert, 
+Emmanuelle Taugourdeau, Jean Tirole
+Correspondants
+Dominique Bureau, Benoît Mojon, Anne Perrot, 
+Aurélien Saussay, Ludovic Subran

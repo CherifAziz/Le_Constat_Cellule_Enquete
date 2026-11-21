@@ -1,0 +1,11 @@
+A08 - calendrier electoral (variation annuelle en points de PIB ; + = amelioration)
+solde effectif (Insee base 2020) | annee d election (toutes) | variation moyenne -0.37 (n=13) contre +0.07 (n=37) | t Welch -1.12 | hors 2009, 2020, 2021 : -0.37 contre +0.31, t -2.10
+solde effectif (Insee base 2020) | annee de presidentielle | variation moyenne -0.24 (n=8) contre -0.01 (n=42) | t Welch -0.46 | hors 2009, 2020, 2021 : -0.24 contre +0.20, t -0.94
+solde effectif (Insee base 2020) | annee precedant une election | variation moyenne +0.48 (n=13) contre -0.23 (n=37) | t Welch +1.84 | hors 2009, 2020, 2021 : +0.33 contre +0.05, t +0.88
+solde effectif (Insee base 2020) | detail des annees d election : 1978:-0.70, 1981:-2.00, 1986:-0.20, 1988:-0.60, 1993:-1.80, 1995:+0.40, 1997:+0.20, 2002:-1.80, 2007:-0.30, 2012:+0.10, 2017:+0.40, 2022:+1.90, 2024:-0.40
+solde primaire corrige du cycle (AMECO) | annee d election (toutes) | variation moyenne -0.29 (n=12) contre +0.04 (n=35) | t Welch -1.16 | hors 2009, 2020, 2021 : -0.29 contre +0.17, t -1.62
+solde primaire corrige du cycle (AMECO) | annee de presidentielle | variation moyenne -0.36 (n=8) contre +0.02 (n=39) | t Welch -0.94 | hors 2009, 2020, 2021 : -0.36 contre +0.13, t -1.22
+solde primaire corrige du cycle (AMECO) | annee precedant une election | variation moyenne +0.30 (n=12) contre -0.16 (n=35) | t Welch +1.64 | hors 2009, 2020, 2021 : +0.40 contre -0.07, t +1.68
+solde primaire corrige du cycle (AMECO) | detail des annees d election : 1981:-0.92, 1986:-0.32, 1988:-1.85, 1993:+0.03, 1995:+0.31, 1997:-0.17, 2002:-1.30, 2007:-0.70, 2012:+0.58, 2017:-0.51, 2022:+1.52, 2024:-0.16
+Ecart execute - programme, h=0, annees cibles electorales hors crises : -0.74 (n=6) contre autres hors crises -0.19 (n=16) ; t Welch -1.67
+Ecart execute - programme, h=1, annees cibles electorales hors crises : -0.84 (n=6) contre autres hors crises -0.72 (n=15) ; t Welch -0.25

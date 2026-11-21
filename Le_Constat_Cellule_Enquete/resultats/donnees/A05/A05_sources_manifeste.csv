@@ -1,0 +1,32 @@
+fichier;url;date_consultation;canal;remarque
+insee_T_1101_1103_fr.xlsx;https://www.insee.fr/fr/statistiques/fichier/8988797/T_1101_1103_fr.xlsx;2026-11-20;curl;fichier cree par l'Insee le 2026-05-21, base 2020
+insee_population_menages_fr.xlsx;https://www.insee.fr/fr/statistiques/fichier/8988797/population_menages_fr.xlsx;2026-11-20;curl;cree 2026-05-19
+eurostat_nama_10_gdp.json;https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_gdp?format=JSON&lang=EN&freq=A&na_item=B1GQ&unit=CP_MEUR&unit=CLV20_MEUR&unit=PD20_EUR&geo=(15 territoires);2026-11-20;curl;updated 2026-11-11
+eurostat_gov_10a_exp_mioeur.json;https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&freq=A&sector=S13&na_item=TE&unit=MIO_EUR&geo=(15 territoires);2026-11-20;curl;updated 2026-10-21
+eurostat_demo_pjanind.json;https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_pjanind?format=JSON&lang=EN&freq=A&indic_de=PC_Y65_MAX&indic_de=OLDDEP1&indic_de=PC_Y0_14&geo=(12 territoires);2026-11-20;curl;
+eurostat_nama_10_pe.json;https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_pe?format=JSON&lang=EN&freq=A&na_item=POP_NC&unit=THS_PER&geo=(12 territoires);2026-11-20;curl;
+eurostat_main_D12PAY.json (et D611REC, P11_P12, D7PAY, D9PAY);https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_main?format=JSON&lang=EN&freq=A&sector=S13&na_item=<item>&unit=PC_GDP&geo=(11 territoires);2026-11-20;curl;D122PAY et D612REC : reponse vide
+oecd_DF_SOCX_AGG.csv;https://sdmx.oecd.org/public/rest/data/OECD.ELS.SPD,DSD_SOCX_AGG@DF_SOCX_AGG,1.0/FRA+DEU+ITA+ESP+NLD+BEL+SWE+DNK+FIN+AUT+OECD.A..PT_B1GQ.....?startPeriod=2015&format=csvfilewithlabels;2026-11-20;curl;
+oecd_DF_NET_GDP.csv;https://sdmx.oecd.org/public/rest/data/OECD.ELS.SPD,DSD_SOCX_AGG@DF_NET_GDP,1.0/all?format=csvfilewithlabels;2026-11-20;curl;
+oecd_DF_PUB_PRV_extrait.csv;https://sdmx.oecd.org/public/rest/data/OECD.ELS.SPD,DSD_SOCX_AGG@DF_PUB_PRV,1.0/all?format=csvfilewithlabels;2026-11-20;curl;brut 487 Mo supprime apres extraction (SHA dans oecd_DF_PUB_PRV_sha256.txt)
+oecd_DF_PUB_OLD.csv;https://sdmx.oecd.org/public/rest/data/OECD.ELS.SPD,DSD_SOCX_AGG@DF_PUB_OLD,1.0/all?format=csvfilewithlabels;2026-11-20;curl;
+oecd_DF_AM.csv;https://sdmx.oecd.org/public/rest/data/OECD.ELS.HD,DSD_HEALTH_STAT@DF_AM,1.1/all?startPeriod=2015&format=csvfilewithlabels;2026-11-20;curl;
+oecd_DF_IPOP.csv;https://sdmx.oecd.org/public/rest/data/OECD.ELS.SPD,DSD_PAG@DF_IPOP,1.0/all?format=csvfilewithlabels;2026-11-20;curl;
+oecd_DF_PRR.csv;https://sdmx.oecd.org/public/rest/data/OECD.ELS.SPD,DSD_PAG@DF_PRR,1.0/all?format=csvfilewithlabels;2026-11-20;curl;
+oecd_DF_SHA_resume.csv;https://sdmx.oecd.org/public/rest/data/OECD.ELS.HD,DSD_SHA@DF_SHA,1.1/FRA+DEU+ITA+ESP+NLD+BEL+SWE+DNK+FIN+AUT.A..........?startPeriod=2022&endPeriod=2023&format=csvfilewithlabels;2026-11-20;curl;brut 110 Mo supprime ; filtre FUNCTION/PROVIDER/MODE=_T
+oecd_edu_perstud_resume.csv;https://sdmx.oecd.org/public/rest/data/OECD.EDU.IMEP,DSD_EAG_UOE_FIN@DF_UOE_INDIC_FIN_PERSTUD,3.2/FRA+DEU+ITA+ESP+NLD+BEL+SWE+DNK+FIN+AUT+OECD+EU25.........?startPeriod=2019&format=csvfilewithlabels;2026-11-20;curl;brut 202 Mo supprime
+oecd_T12_emploi_APU.csv;https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NASEC10@DF_TABLE12_EMPDC,1.1/A.FRA+DEU+ITA+ESP+NLD+BEL+SWE+DNK+FIN+AUT...........?format=csvfilewithlabels;2026-11-20;curl;
+tresor_eco_26_2007.pdf;https://www.tresor.economie.gouv.fr/Articles/f5c37722-0a55-4e1f-b794-c359384d73d3/files/e39de70e-84d2-4823-8d0e-3c8772b1bc75;2026-11-20;curl;page d'accueil lue par WebFetch
+drees_cps2025_fiche14_vieillesse_europe.pdf;https://drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/CPS2025%20-%20Fiche%2014%20-%20Le%20risque%20vieillesse-survie%20en%20Europe.pdf;2026-11-20;WebFetch (binaire enregistre) ; curl refuse;
+drees_cns2025_fiche22_DCSi.pdf;https://drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/CNS%20-%20Fiche%2022%20-%20La%20d%C3%A9pense%20courante%20de%20sant%C3%A9%20au%20sens%20international%20et%20son%20financement.pdf;2026-11-20;WebFetch (binaire enregistre);
+depp_ni_2026_40_pisa2025_maths.pdf;https://www.education.gouv.fr/sites/default/files/document/depp-ni-2026-40pisa-mathspdf-520231.pdf;2026-11-20;curl;
+insee_ip2094_emploi_fp_2024.pdf;https://www.insee.fr/fr/statistiques/fichier/8732435/IP2094.pdf;2026-11-20;curl;
+senat_r24-808-1_syn.pdf;https://www.senat.fr/rap/r24-808-1/r24-808-1-syn.pdf;2026-11-20;curl;rapport complet html aussi enregistre (senat_r24-808-1_mono.html), non lu en entier
+senat_RG_PLF2026_tome1_provisoire.pdf;https://www.senat.fr/fileadmin/cru-1762483659/Commissions/Finances/2024-2025/Actualites/Rapport_provisoire_PLF_2026_Tome_1.pdf;2026-11-20;curl;version provisoire
+senat_r15-527.pdf;https://www.senat.fr/rap/r15-527/r15-5271.pdf;2026-11-20;curl;
+senat_l25-139-322_pouvoirs_publics_syn.pdf;https://www.senat.fr/rap/l25-139-322/l25-139-322-syn.pdf;2026-11-20;curl;
+an_jaune2026_cabinets.pdf;https://www.assemblee-nationale.fr/dyn/dyn/contenu/visualisation/1090016/file/20-Jaune2026_Cabinets.pdf;2026-11-20;curl;
+cae_focus124_2025.pdf;https://cae-eco.fr/static/pdf/Focus_124_Fipu_251016.pdf;2026-11-20;curl;
+fs_2019_na74_gouardo_lenglart.pdf;https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2019-na74-reduire-depenses-publiques-gouardo-lenglart-janvier.pdf;2026-11-20;curl;
+usm_note_cepej2024.pdf;https://union-syndicale-magistrats.org/wp-content/uploads/2024/10/2024.10.18_note-USM-sur-rapport-CEPEJ-2024.pdf;2026-11-20;curl;source secondaire (syndicat)
+(BdF Bulletin 259 art. 4);https://www.banque-france.fr/fr/publications-et-statistiques/publications/ou-la-france-depense-t-elle-davantage-que-ses-voisins-de-la-zone-euro;2026-11-20;WebFetch (resume seulement) ; curl 403;texte brut non enregistre

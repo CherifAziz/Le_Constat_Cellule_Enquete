@@ -1,0 +1,2365 @@
+
+=== PAGE PDF 1 ===
+Évaluation 
+du Crédit d’impôt 
+pour la compétitivité 
+et l’emploi 
+Synthèse des travaux 
+d’approfondissement
+Rapport
+Septembre 2020
+Évaluation
+
+=== PAGE PDF 2 ===
+
+=== PAGE PDF 3 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEPTEMBRE 2020 
+ 
+ÉVALUATION DU CRÉDIT D’IMPÔT 
+POUR LA COMPÉTITIVITÉ ET L’EMPLOI  
+Synthèse des travaux d’approfondissement 
+ 
+ 
+ 
+Antoine Naboulet  
+Adam Baïz 
+Guilhem Tabarly 
+
+=== PAGE PDF 4 ===
+
+=== PAGE PDF 5 ===
+ 
+ 
+ 
+ 
+ 
+ FRANCE STRATÉGIE  
+3 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+TABLE DES MATIÈRES 
+RÉSUMÉ ..................................................................................................................... 5 
+INTRODUCTION ......................................................................................................... 9 
+CHAPITRE 1 – LES EFFETS DU CICE AU NIVEAU MICROÉCONOMIQUE : 
+APPROFONDISSEMENTS ET EXTENSION À L’ANNÉE 2016 .............................. 13 
+CHAPITRE 2 – L’ANALYSE DU CICE AU NIVEAU MACROÉCONOMIQUE ......... 27 
+
+=== PAGE PDF 6 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+4 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+ANNEXES ................................................................................................................. 43 
+ 
+ 
+ 
+
+=== PAGE PDF 7 ===
+ 
+ 
+ 
+ 
+ FRANCE STRATÉGIE  
+5 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+RÉSUMÉ 
+Dans le prolongement du dernier rapport du comité de suivi et d’évaluation du CICE 
+en 2018, France Stratégie a souhaité poursuivre la démarche d’évaluation entamée en 
+2013, qui s’est traduite par la publication de six rapports du comité jusqu’en 20181. 
+France Stratégie a ainsi financé et piloté – avec un comité technique réunissant des 
+administrations et des universitaires – la poursuite des travaux d’évaluation dans deux 
+directions : un approfondissement de l’évaluation au niveau micro-économétrique (à 
+partir des données individuelles d’entreprises) avec l’équipe TEPP et une évaluation 
+macrosectorielle (à partir des données de la comptabilité nationale) avec l’OFCE2.  
+Ces deux méthodes sont complémentaires. L’évaluation au niveau micro-
+économétrique, qui estime l’effet du CICE à partir des différences d’intensité 
+d’exposition au dispositif entre entreprises, a l’avantage d’être la plus puissante d’un 
+point de vue statistique, avec l’identification d’effets causaux. Elle présente cependant 
+l’inconvénient d’être partielle : elle porte sur un échantillon « cylindré » d’entreprises, 
+ignorant l’effet du CICE sur la démographie des entreprises et n’intègre pas les 
+interactions entre entreprises. L’évaluation macrosectorielle, qui utilise les différences 
+d’intensité d’exposition au CICE entre secteurs d’activité, est a contrario très fragile 
+statistiquement, mais présente l’avantage d’intégrer l’ensemble des mécanismes 
+économiques à l’œuvre. 
+Bien que s’apparentant à une baisse du coût du travail, le CICE avait des objectifs 
+allant au-delà d’un effet direct sur l’emploi. Il avait pour objet, pour les entreprises 
+concernées, « le financement de l’amélioration de leur compétitivité à travers 
+notamment des efforts en matière d’investissement, de recherche, d’innovation, de 
+formation, de recrutement, de prospection de nouveaux marchés, de transition 
+                                            
+1 Voir le Rapport CICE 2013 ; le Rapport CICE 2014 ; le Rapport CICE 2015 ; le Rapport CICE 2016 ; le 
+Rapport CICE 2017 et le Rapport CICE 2018, tous disponibles sur le site de France Stratégie.  
+2 TEPP (2020), Les effets du CICE sur l’emploi, la masse salariale et l’activité : approfondissements et 
+extensions pour la période 2013‐2016 ; OFCE (2020), Évaluation de l’impact du CICE par une méthode 
+hybride et utilisation de l’information macro-sectorielle.  
+
+=== PAGE PDF 8 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+6 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+écologique et énergétique et de reconstitution de leur fonds de roulement »1. Toutefois, 
+l’emploi étant plus concret et plus facile à mesurer que la compétitivité, ce sont les 
+résultats en termes d’emplois créés ou sauvegardés qui ont été retenus des 
+évaluations du CICE. 
+L’évaluation micro-économétrique menée par TEPP porte ici sur les années 2013-2016 
+(contre 2013-2015 précédemment, les données 2017 n’étant pas disponibles au 
+moment de la rédaction). Par rapport aux années précédentes, les sources de données 
+utilisées ont été multipliées et les méthodes statistiques ont été croisées, ce qui 
+renforce la solidité des résultats. L’apport principal réside dans la méthode retenue 
+pour prendre en compte les groupes. Désormais, les entreprises appartenant à un 
+même groupe sont consolidées dans les estimations, ce qui permet d’éviter des 
+hypothèses arbitraires sur la répartition du CICE entre les entreprises d’un même 
+groupe. 
+Les résultats restent conformes aux conclusions des années précédentes : un fort effet 
+emploi est trouvé chez le quart des entreprises les plus bénéficiaires du CICE, qui ne 
+représentent qu’un huitième des effectifs, mais rien de significatif chez les autres. 
+L’effet total reste estimé à 100 000 emplois environ, ce qui est faible, rapporté au coût 
+du CICE – de l’ordre de 18 milliards d’euros en 2016. Cet effet ne semble significatif 
+que pour les entreprises indépendantes, suggérant que l’impact du CICE dans les 
+groupes aurait pris d’autres formes (salaires notamment, avec un impact décelé sur la 
+valeur ajoutée), mais ce résultat reste à confirmer. De même, un effet sur 
+l’investissement demeure difficile à établir, celui-ci ne ressortant notamment pas 
+lorsqu’on distingue groupes fiscaux et entreprises indépendantes.  
+De manière générale, le renforcement des tests de validité de la méthode utilisée et 
+les différentes mesures d’emplois considérées complexifient l’obtention de résultats 
+stables et univoques. 
+L’évaluation macrosectorielle se déroule en deux parties. D’abord, l’OFCE estime 
+l’effet direct du CICE secteur par secteur, sans intégrer les effets de bouclage entre 
+secteurs. Cette estimation consiste, pour chaque variable d’intérêt (emploi, salaires, 
+etc.) à estimer la corrélation entre le résidu inexpliqué dans l’évolution de cette variable 
+depuis 2013 et le poids du CICE dans la masse salariale, en utilisant les différents 
+secteurs d’activité comme source d’hétérogénéité. Cette corrélation (qu’on appelle 
+« élasticité ») ressort significative lorsqu’on se restreint aux secteurs des services (et 
+pas dans l’industrie), plus forte sur la période 2013-2017 que sur la période 2013-2016. 
+                                            
+1 Article 66 de la loi de finances rectificative pour 2012 modifiant l’article 244 quater C.-I. du code général des 
+impôts. 
+
+=== PAGE PDF 9 ===
+Résumé 
+FRANCE STRATÉGIE  
+7 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+L’OFCE a choisi de privilégier cette dernière estimation, l’année 2017 étant potentiel-
+lement perturbée par d’autres mesures, dont l’annonce de la transformation du CICE 
+en allègements de cotisations. 
+Un effet positif substantiel sur les salaires est également trouvé dans les services, si 
+bien que l’essentiel du CICE se serait répercuté dans les emplois et les salaires. L’effet 
+sur l’emploi est estimé à près de 200 000. C’est cette estimation qui est la plus proche 
+de l’estimation micro-économétrique, à ceci près qu’elle intègre en plus les effets de 
+bouclage ou propagation intra-sectoriels et l’effet sur la démographie des entreprises. 
+Des effets sur les prix sont trouvés dans l’industrie (y compris sur les prix d’expor-
+tation), mais avec des coefficients trop élevés pour être réalistes. Sur l’investissement, 
+les résultats ne mettent pas en évidence un effet du CICE.  
+Dans un deuxième temps, l’OFCE injecte les résultats obtenus dans les services sur 
+l’emploi et les salaires dans un modèle macroéconomique, pour tenir compte des effets 
+de bouclage intersectoriel, lesquels conduisent à doubler l’estimation des effets emploi, 
+qui passent à 400 000. Cette estimation paraît élevée, supérieure aux estimations 
+ex ante de la Direction générale du Trésor, alors même que les effets prix ont été mis 
+conventionnellement à zéro dans l’industrie, et que dans les services, l’année 2017 a 
+été exclue de l’estimation de l’élasticité de l’emploi (voir supra). 
+La prise en compte du financement de la mesure (par un mix d’impôts supplémentaires 
+et de réduction de dépenses) conduit à un effet emploi qui resterait positif, de l’ordre 
+de 160 000. 
+Ces estimations macroéconomiques ne sont pas à prendre au pied de la lettre, car 
+elles s’accompagnent d’une grande incertitude statistique. Elles rappellent toutefois les 
+limites des estimations micro-économétriques, pour une mesure de cette ampleur, dont 
+le faible ciblage complexifie fortement l’identification des effets, qui en outre sont de 
+nature différente selon les entreprises (emploi, salaires, investissement, etc.). Des 
+investigations complémentaires sont souhaitables pour mieux comprendre les résultats 
+présentés dans ce rapport et préparer l’évaluation de la transformation du CICE en 
+allègement de cotisations votée dans la loi de finances 20181. Ces études seront 
+poursuivies dans le cadre du comité d’évaluation prévu par la loi Pacte2. 
+                                            
+1 À ce stade seules des évaluations ex ante sont disponibles, voir par exemple la note IPP n° 36 « Quels 
+effets attendre de la transformation du CICE en réduction de cotisations employeurs ? », octobre 2018. 
+2 La loi Pacte prévoit dans son article 221 que le comité a vocation à évaluer plus largement « les 
+réformes visant au développement des entreprises adoptées par le Parlement, y compris celles relatives 
+à leur niveau de charges sociales » et à apprécier « l’appropriation par les acteurs concernés et les 
+éventuels effets indésirables des réformes ». 
+
+=== PAGE PDF 10 ===
+
+=== PAGE PDF 11 ===
+ 
+ 
+ 
+ 
+ FRANCE STRATÉGIE  
+9 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+INTRODUCTION 
+Le CICE est un dispositif fiscal mis en place en 2013 dont le principe était de créer une 
+créance fiscale pour les entreprises, calculée sur la base des salaires versés jusqu’à 
+2,5 fois le Smic et déductible de l’impôt sur les sociétés (ou de l’impôt sur le revenu 
+pour certaines entreprises relevant de ce régime) à partir de l’année suivant le 
+paiement des salaires1. Le taux de ce crédit d’impôt est passé de 4 % sur les salaires 
+versés en 2013 à 6 % pour ceux versés entre 2014 et 2016, puis à 7 % pour 2017 
+avant d’être ramené à 6 % pour 20182 (voir tableau 1 pour les créances fiscales 
+correspondantes). 
+Le CICE s’inscrivait dans la suite du rapport Gallois3 : les objectifs qui lui étaient 
+assignés par le législateur étaient multidimensionnels et d’abord orientés vers une 
+logique globale de compétitivité. Bien que s’apparentant à une baisse du coût du 
+travail, ses effets possibles étaient vastes et ne se réduisaient pas à un effet immédiat 
+sur l’emploi. Orienté vers les entreprises, il avait « pour objet le financement de 
+l’amélioration de leur compétitivité à travers notamment des efforts en matière 
+d’investissement, de recherche, d’innovation, de formation, de recrutement, de 
+prospection de nouveaux marchés, de transition écologique et énergétique et de 
+reconstitution de leur fonds de roulement »4. L’emploi, objectif certes essentiel 
+notamment dans le contexte de fort chômage des années 2013-2014, était ainsi 
+imbriqué dans cette logique de compétitivité.  
+Le CICE, par sa nature fiscale, constituait donc un mécanisme de baisse du coût du 
+travail avec un effet différé dans le temps, se distinguant ainsi des dispositifs 
+traditionnels de baisse de cotisations sociales, par exemple. Le caractère fiscal du 
+dispositif introduisait une autre différence, puisque c’est au niveau du périmètre fiscal 
+                                            
+1 Un dispositif de préfinancement permettait cependant de bénéficier dès l’année de versement des salaires 
+de l’avantage financier correspondant.  
+2 Ces taux s’appliquaient en France métropolitaine, un taux spécifique plus élevé ayant été fixé pour les DOM.  
+3 Pacte pour la compétitivité de l’industrie française, rapport remis par Louis Gallois au Premier ministre le 
+5 novembre 2012. 
+4 Article 66 de la loi de finances rectificative pour 2012 modifiant l’article 244 quater C.-I. du code général des 
+impôts. 
+
+=== PAGE PDF 12 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+10 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+(éventuellement consolidé dans des groupes) qu’est versé le CICE, à la différence 
+d’une mesure de baisse de cotisation affectant directement l’établissement employeur. 
+Tableau 1 – Créances déclarées relativement à la période couverte par les études  
+(par année de versement des salaires) 
+ 
+Redevables à l’IS 
+Redevables à l’IR 
+Total créances IS+IR 
+Millésime 
+Nombre 
+Montant 
+(millions €) 
+Nombre 
+Montant 
+(millions €) 
+Nombre 
+Montant 
+(millions €) 
+2013* 
+781 777 
+11 448 
+274 983 
+373 
+1 056 760 
+11 820 
+2014* 
+815 252 
+17 402 
+433 455 
+781 
+1 248 707 
+18 183 
+2015* 
+843 075 
+17 441 
+440 722 
+891 
+1 283 797 
+18 332 
+2016* 
+868 594 
+17 635 
+431 971 
+875 
+1 300 565 
+18 510 
+2017* 
+884 660 
+21 223 
+418 386 
+929 
+1 303 046 
+22 152 
+* Au 31 août 2019.  
+Source : DGFiP 
+Ce dispositif a donné lieu à une démarche d’évaluation mise en place dès 2013, dans le 
+cadre d’un comité de suivi institué par l’article 66 de la loi n° 2012-1510 du 29 décembre 
+2012, modifié par l’article 72 de la loi n° 2013-1278 du 29 décembre 2013. 
+Chaque année entre 2013 et 2018, un rapport a été rendu public, faisant état du 
+déploiement du dispositif (appropriation par les acteurs, montants de créances 
+déclarés par les entreprises) puis de résultats de travaux d’évaluation – micro-
+économétriques pour l’essentiel – relatifs aux effets mesurables du CICE sur 
+différentes variables au niveau des entreprises : emploi, salaire, marge, exportations, 
+investissement, R & D. Des travaux qualitatifs ont également permis d’analyser 
+comment l’usage du CICE était, au sein des entreprises, appréhendé et notamment 
+soumis à l’information et à la consultation des représentants du personnel dans les 
+comités d’entreprise. Ces travaux d’évaluation ont été confiés à des équipes de 
+chercheurs universitaires indépendantes, dont les méthodes et résultats étaient 
+soumis et expertisés par le comité. Les résultats publiés ont permis d’exposer dans le 
+débat public certains effets identifiables mais aussi plus largement les difficultés que 
+pouvait poser le traçage ou l’identification des effets du CICE, mesure vaste qui 
+bénéficiait à toutes les entreprises.  
+La suppression du CICE a été actée dans la loi de finances pour 2018 et effective à 
+compter du 1er janvier 2019, le dispositif étant transformé en allègements de cotisations 
+
+=== PAGE PDF 13 ===
+Introduction 
+FRANCE STRATÉGIE  
+11 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+sociales pour les employeurs. Cette suppression a aussi de facto mis fin au support 
+légal du comité d’évaluation en 2019.  
+Cependant, à l’issue du rapport 2018 d’évaluation du CICE, le comité invitait à 
+poursuivre les travaux dans plusieurs directions.  
+La première était de prolonger autant que possible l’analyse pour incorporer de 
+nouvelles années d’observations, les travaux ne portant à l’époque que sur la période 
+2013-2015. Cette temporalité décalée des résultats était notamment tributaire de 
+l’accès aux fichiers issus des déclarations annuelles de données sociales des 
+entreprises (DADS), dans un contexte de basculement vers le système de déclaration 
+sociale nominative (DSN).  
+La deuxième direction était de continuer à approfondir l’analyse des effets du CICE, 
+dont la compréhension demeurait partielle, notamment pour mieux différencier l’effet 
+du dispositif selon le type d’entreprise ou le secteur d’activité1. Une des conclusions 
+soulignées en 2018 était que l’impact du CICE avait été probablement très différent et 
+disséminé selon les entreprises, avec des effets sur l’emploi, les salaires, les marges, 
+l’investissement, etc. Cela ne facilite pas l’identification économétrique d’un effet 
+majeur de cette mesure. S’ajoute à cela que les comportements des entreprises pour 
+les différents types de canaux peuvent avoir différentes temporalités, compliquant une 
+analyse centrée sur les premières années du dispositif. 
+La troisième direction était de compléter l’évaluation microéconomique, au niveau des 
+entreprises, par une analyse à un niveau plus macroéconomique. En effet, si les 
+travaux micro-économétriques ont pour vertu, en s’appuyant sur des volumes 
+considérables d’observations individuelles, de produire des estimations avec une 
+certaine puissance statistique, ils ne permettent pas de déceler les effets plus 
+transversaux ou de bouclage à l’échelle de l’économie. On regarde seulement en 
+différentiel, entre entreprises et dans le temps, si celles ayant davantage bénéficié du 
+CICE ont plus modifié leur comportement – d’emploi par exemple – que celles en ayant 
+moins bénéficié, à caractéristiques par ailleurs comparables. Seul est pris en compte 
+le CICE que touche directement chaque entreprise et on ne peut tenir compte des 
+effets de transmission du CICE entre entreprises par les prix.  
+Une approche sectorielle et macroéconomique, à partir de données de la comptabilité 
+nationale, est donc complémentaire car elle permet de mieux appréhender les 
+                                            
+1 Dans le rapport, les termes « secteur d’activité » et « branche » sont utilisés indifféremment, par souci 
+de simplicité.  
+
+=== PAGE PDF 14 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+12 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+interactions et diffusion des effets entre agents dans l’économie. L’évaluation macro-
+économique ex post vise à appréhender les effets de « second tour » du CICE liés au 
+supplément de revenu distribué aux agents économiques (augmentation de l’emploi, 
+des salaires, des marges, etc.), à la baisse des prix ou bien encore à l’évolution du 
+taux d’intérêt réel. Enfin, elle permet d’intégrer les effets induits par les mesures de 
+financement du CICE, au travers de différents scénarios fiscaux. En effet, 
+l’augmentation de la fiscalité (hausse de la TVA, fiscalité écologique), la réduction de 
+la dépense publique ou la hausse de l’endettement public ont chacune des impacts 
+propres sur l’économie, notamment sur l’emploi et l’investissement. 
+L’analyse macroéconomique comporte également ses propres limites, car elle repose 
+sur des hypothèses et choix relatifs à la modélisation de l’économie dans son 
+ensemble, au comportement des agents économiques, et dispose d’une puissance 
+statistique bien moindre car on dispose de moins d’observations (données sur 
+38 branches au maximum) qu’au niveau des entreprises. 
+Les travaux synthétisés dans ce document apportent des éléments d’analyse dans ces 
+différents registres. On s’appuie pour cela sur des travaux réalisés par des chercheurs 
+de la fédération de recherche Théorie et évaluation des politiques publiques (TEPP) 
+du CNRS (FR 2042), au niveau microéconomique, et sur des travaux menés par une 
+équipe d’économistes de l’Observatoire français des conjonctures économiques 
+(OFCE) au niveau macroéconomique. 
+La première partie rend compte des travaux d’approfondissement microéconomiques 
+réalisés par l’équipe TEPP (Fabrice Gilles, Yannick L’Horty et Ferhat Mihoubi), tandis 
+que la seconde porte sur les approches macrosectorielles développées par l’OFCE 
+(Nicolas Yol, Aurélien Saussay, Éric Heyer, Xavier Timbeau). Méthodes, principaux 
+résultats et limites des analyses sont à chaque fois exposés. 
+France Stratégie remercie les équipes de chercheurs et les membres du comité de 
+pilotage (composé d’administrations et d’universitaires), en particulier Thomas 
+Bourdais, Anne Epaulard, Adrien Lagouge, Clémence Lenoir et Marie Khater, ainsi 
+qu’Alain Trannoy, qui ont accepté de rédiger un rapport de lecture1. 
+ 
+                                            
+1 Voir annexes 3 et 4 en fin de volume.  
+
+=== PAGE PDF 15 ===
+ 
+ 
+ 
+ 
+ 
+ FRANCE STRATÉGIE  
+13 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+CHAPITRE 1 
+LES EFFETS DU CICE AU NIVEAU 
+MICROÉCONOMIQUE : APPROFONDISSEMENTS 
+ET EXTENSION À L’ANNÉE 2016  
+Les travaux menés par l’équipe TEPP s’inscrivent dans le prolongement de ceux 
+réalisés pour le comité d’évaluation jusqu’en 2018. Ils visent à inclure l’année 20161 et 
+à estimer plus précisément l’effet du CICE sur les comportements d’entreprises, en 
+matière d’emploi, de salaire mais aussi sur un certain nombre de variables d’activité 
+économique.  
+La méthode d’ensemble reste inchangée, avec une estimation de l’impact du CICE en 
+distinguant plusieurs classes d’entreprises (4 quartiles), en fonction de l’intensité du 
+bénéfice qu’elles ont tiré du CICE, sans supposer que les pratiques sont les mêmes 
+pour toutes. La démarche empirique a été conçue pour permettre de restituer la 
+diversité potentielle des effets du CICE. Si cette démarche globale reste la même, 
+plusieurs approfondissements ont été menés, qui renouvellent en partie la méthode 
+d’analyse. Cela permet de façon générale de conforter certains résultats établis 
+jusque-là, mais aussi de les affiner en distinguant par exemple ce que l’on observe au 
+sein des groupes fiscaux et des entreprises indépendantes, ou entre grands secteurs 
+(tertiaire versus industrie). 
+                                            
+1 Rappelons que les données DADS/DSN 2017 n’étaient pas disponibles au printemps 2020, lors de la 
+finalisation des travaux économétriques présentés dans ce rapport. 
+
+=== PAGE PDF 16 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+14 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+ Une approche renouvelée de la mesure du CICE 
+et de ses bénéficiaires 
+ Une nouvelle prise en compte des groupes fiscaux bénéficiaires  
+L’innovation principale concerne le traitement des groupes fiscaux. La particularité du 
+CICE, en tant que mesure fiscale, est qu’il est récupéré directement au sein des 
+groupes fiscalement consolidés au niveau de la tête de ce groupe, et non directement 
+au niveau de chacune des filiales. Les travaux menés jusqu’en 2018 s’appuyaient sur 
+une ventilation effectuée ex post, par la Direction générale des finances publiques 
+(DGFiP), de la créance du groupe entre ses filiales au prorata de leur masse salariale. 
+Cette opération conduisait donc à supposer que chaque entreprise, y compris chaque 
+filiale au sein d’un groupe fiscal, bénéficiait à son niveau du montant de CICE 
+correspondant à sa masse salariale génératrice du CICE. Il était ainsi possible 
+d’analyser au niveau de chaque entreprise ou filiale quel comportement le CICE allait 
+susciter1.  
+Sur les données de 2016, la ventilation réalisée par la DGFiP entre filiales n’est plus 
+possible, ce qui conduit à réinterroger le traitement des groupes fiscaux. En effet, même 
+s’il existe bien souvent des conventions fiscales intra groupes répartissant les aides ou 
+créances fiscales entre filiales, on ne peut exclure que certains arbitrages sur l’usage du 
+CICE aient été en réalité effectués au niveau de l’ensemble du groupe. On considère 
+désormais le groupe fiscal dans son ensemble, plutôt que les entreprises d’un même 
+groupe fiscal isolément. Sont ainsi prises en compte les possibles stratégies de 
+mutualisation du CICE au niveau du groupe, sans exclure des décisions décentralisées 
+prises au niveau de chacune des entreprises qui le composent. Comme le note Alain 
+Trannoy (voir annexe 3), la prise en compte de l’appartenance ou non des entreprises à 
+un groupe fiscal permet de ne pas faire d’hypothèse arbitraire sur la ventilation du CICE 
+au sein de chaque groupe fiscal.  
+L’échantillon d’entreprises désormais mobilisé comporte donc des entreprises dites 
+indépendantes et des groupes pris dans leur ensemble. En ce qui concerne les 
+groupes fiscaux, on raisonne à périmètre constant, c’est-à-dire qu’on ne considère que 
+les entreprises qui appartiennent au groupe fiscal sur toute la période d’étude. En 
+utilisant les bases de données de la DGFiP décrivant les périmètres des groupes 
+fiscaux année après année (fichiers PERIM), l’équipe TEPP n’a donc conservé que le 
+« noyau » ou le cœur pérenne des entreprises présentes au sein d’un même groupe 
+                                            
+1 La question de l’usage du CICE au sein de groupes est cependant complexe et avait fait l’objet de 
+discussions dans le rapport du comité d’évaluation de 2014, p. 64-65.  
+
+=== PAGE PDF 17 ===
+Chapitre 1 
+Les effets du CICE au niveau microéconomique 
+FRANCE STRATÉGIE  
+15 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+tout au long de cette période. Chaque entrée ou sortie de filiale du groupe au cours de 
+la période conduit à exclure du champ d’analyse cette filiale, ce qui est une restriction 
+conséquente pour l’analyse de l’impact du CICE pour ces groupes. Ce cœur de 
+groupes fiscaux à périmètre constant sur la période analysée ne contient qu’un tiers 
+des entreprises appartenant à un groupe fiscal, mais représente plus de 50 % de 
+l’emploi salarié au sein des groupes fiscaux et plus de 55 % de la valeur ajoutée et du 
+chiffre d’affaires de l’univers des entreprises considérées. 
+Les entreprises ne faisant pas partie d’un groupe fiscal sont intégrées à titre individuel 
+dans l’échantillon, avec la contrainte qu’elles soient présentes également durant toute 
+la période d’observation (2009-2016).  
+Au final, l’équipe TEPP mobilise un échantillon cylindré de 123 344 entreprises ou 
+groupes fiscaux pérennes de cinq salariés et plus, dont 117 444 entreprises indépen-
+dantes et 5 900 groupes fiscaux pérennes recouvrant 14 300 entreprises et plus 
+présentes dans le fichier des bordereaux récapitulatifs des cotisations (BRC), des 
+déclarations annuelles de données sociales (DADS) et dans le fichier approché des 
+résultats d’Esane (FARE) sur l’échantillon 2009-20161. De façon plus générale, le fait 
+d’estimer l’impact du CICE sur un panel cylindré, c’est-à-dire sur une population 
+d’entreprises (indépendantes ou groupes) présentes continûment dans les données sur 
+l’ensemble de la période considérée, est une limite de l’ensemble des travaux 
+d’évaluation (y compris ceux réalisés par le passé) puisqu’on ne tient pas compte de 
+l’effet du dispositif sur la démographie des entreprises.  
+Encadré 1 – Mesures de l’emploi dans le rapport TEPP 
+Afin de mesurer les effectifs moyens, deux sources de données sont mobilisées : 
+les bordereaux récapitulatifs des cotisations (BRC) de l’Acoss et les fichiers DADS 
+produits par l’Insee. Ces sources reposent sur deux mesures différentes de l’emploi 
+moyen : 
+– 
+les effectifs moyens BRC correspondent aux moyennes des effectifs de fin de 
+trimestres reportés par les entreprises dans les déclarations trimestrielles 
+auprès de l’Urssaf. L’effectif moyen de l’année N correspond à la moyenne des 
+effectifs du quatrième trimestre de l’année N-1 et ceux des quatre trimestres de 
+l’année N ; 
+                                            
+1 Les sources de données sont détaillées dans l’annexe 3 du Rapport CICE 2016.  
+
+=== PAGE PDF 18 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+16 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+– 
+les effectifs moyens DADS sont calculés en tenant compte de la durée de 
+chaque poste. Si par exemple un poste non annexe est occupé durant six mois, 
+l’effectif moyen est de 0,5. 
+Par ailleurs, les effectifs en équivalent temps plein (ETP) sont calculés à partir des 
+données DADS, en tenant compte des spécificités quant à la définition d’un 
+équivalent temps plein selon le secteur d’activité de l’entreprise considérée et selon 
+sa taille. Les effectifs ETP correspondent alors au nombre d’équivalents temps 
+plein dans l’entreprise considérée. En outre, deux définitions de l’évolution des 
+effectifs ETP sont considérées :  
+– 
+en retenant les effectifs ETP de l’année N issus des fichiers DADS de l’année N 
+et ceux de l’année N-1 provenant des fichiers DADS de l’année N-1 pour une 
+entreprise ; 
+– 
+en retenant les effectifs ETP renseignés dans les fichiers DADS de l’année N 
+pour l’année N et N-1. 
+L’équipe TEPP effectue donc désormais des estimations sur trois périmètres 
+différents : les groupes fiscaux et les entreprises indépendantes ; les groupes fiscaux 
+seuls ; et enfin les entreprises n’appartenant pas à un groupe fiscal uniquement. 
+Ce faisant, on cherche à mieux identifier l’impact du CICE selon que l’on a affaire à 
+des entreprises indépendantes ou à des groupes fiscaux, avec l’hypothèse implicite 
+qu’il peut diverger significativement entre ces deux types de structure d’entreprises. 
+ Une meilleure mesure de la masse salariale des entreprises 
+Une deuxième amélioration concerne la mesure de la masse salariale des entreprises 
+par rapport à l’assiette de référence qui est celle du Smic. Issues des déclarations 
+annuelles de données sociales (DADS), différentes variables permettent de mesurer 
+la masse des rémunérations versées. Jusqu’à présent, le montant du CICE, fourni par 
+les déclarations fiscales de la DGFiP, était rapporté à la masse salariale brute calculée 
+à partir des DADS de l’Insee. Cette mesure incorporait des éléments de rémunération 
+(participation et intéressement) qui ne figurent pas dans le Smic et donc pouvaient 
+biaiser le calcul de l’intensité du CICE rapporté à la masse salariale. Pour 2016, une 
+variable plus proche de l’assiette du Smic a pu être mobilisée, et rétrospectivement, 
+pour les années antérieures, une variable de masse salariale hors participation a été 
+recalculée, à partir des salaires nets. Ainsi, on obtient une mesure plus précise du taux 
+apparent de CICE. 
+
+=== PAGE PDF 19 ===
+Chapitre 1 
+Les effets du CICE au niveau microéconomique 
+FRANCE STRATÉGIE  
+17 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+ Un approfondissement des tests de robustesse 
+Hormis les deux améliorations évoquées ci-dessus, la méthode générale demeure 
+globalement inchangée, reposant notamment sur la production de multiples esti-
+mations, avec des spécifications variables et la mobilisation de plusieurs sources de 
+données et notamment de variables d’emploi. La convergence des résultats sur cette 
+multitude d’estimations participe d’une recherche de robustesse des résultats. Depuis 
+2018, la démarche a également été de renforcer la prise en compte de différents tests 
+de robustesse, dont ceux dits de falsification et de tendance commune. Selon que ces 
+tests sont satisfaits – permettant d’envisager un effet causal – ou non, différentes 
+modélisations (doubles différences ou triples différences) ont été privilégiées (voir 
+encadré 2). Ces tests de robustesse, tout comme le choix de considérer différentes 
+mesures de l’emploi, sont à double tranchant : si cela permet de s’assurer que les 
+résultats ne relèvent pas d’un artefact statistique et que les conditions nécessaires à 
+l’application de la méthode utilisée sont respectées, l’obtention de résultats stables et 
+univoques est mécaniquement plus difficile. 
+Encadré 2 – Méthode d’estimation micro-économétrique 
+L’équipe TEPP utilise deux échantillons cylindrés d’entreprises comptant cinq salariés 
+et plus, constitués à partir de quatre sources de données (BRC, DADS, FARE et 
+MVC). Comme dans les précédents rapports, l’emploi est mesuré avec trois variables 
+différentes : les effectifs moyens issus des BRC ou des DADS et les effectifs en 
+équivalent temps plein des DADS. Les estimations se font sur trois périodes 
+différentes : 2013-2014, 2013-2015 et 2013-2016. Lorsque l’hypothèse de tendance 
+commune est rejetée, l’équipe TEPP considère un échantillon long de 2004 à 2016. 
+Méthode d’évaluation 
+La méthode retenue est une stratégie d’identification en doubles différences sur 
+l’intensité de l’intention de traiter. La méthode des doubles différences consiste à 
+comparer l’évolution d’un groupe de traitement et d’un groupe de contrôle avant et 
+après le traitement. Dans le cas du CICE, comme le traitement est fonction de la 
+masse salariale inférieure ou égale à 2,5 Smic, il n’y a pas à proprement parler 
+d’entreprises « traitées » et de « contrôle ». On travaille donc sur l’intensité du 
+traitement, en comparant l’évolution des variables d’intérêt pour des entreprises 
+plus ou moins bénéficiaires du CICE. C’est possible sous l’hypothèse que la 
+réponse des entreprises au CICE est une fonction monotone et croissante de 
+l’intensité du traitement. Pour comparer des entreprises en fonction de l’intensité 
+du traitement, l’équipe TEPP distribue la population d’entreprises en quatre 
+quartiles d’intensité croissante. Bien que le modèle économétrique soit linéaire, 
+
+=== PAGE PDF 20 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+18 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+cette spécification autorise des effets non linéaires du traitement, où la fonction de 
+réaction des entreprises dépend de l’intensité de CICE qu’elles reçoivent.  
+La stratégie d’identification en doubles différences est valable sous deux 
+conditions :  
+– 
+l’hypothèse de tendance commune, qui suppose que, conditionnellement aux 
+variables de contrôle1 , les variables d’intérêt auraient évolué de la même façon 
+en l’absence de CICE. Des tests de falsification, ou tests placebo, permettent 
+de valider cette hypothèse en simulant l’effet du CICE avant sa mise en œuvre 
+effective (en 2011 ou 2012) et en vérifiant que les coefficients des trois quartiles 
+de traitement inclus dans la régression ne soient pas significativement 
+différents de zéro ; 
+– 
+l’exogénéité du traitement par rapport à la variable d’intérêt. Cette condition 
+n’est a priori pas vérifiée. Par exemple, un accroissement de la masse salariale 
+pour des raisons indépendantes du CICE peut conduire à une augmentation 
+de l’intensité du traitement s’il implique une déformation de la distribution des 
+salaires autour de 2,5 Smic. Il est donc nécessaire d’utiliser une variable 
+instrumentale pour identifier de façon unique la causalité de traitement vers la 
+variable d’intérêt et se prémunir d’une potentielle causalité inverse. 
+L’instrument utilisé ici est le traitement théorique (montant de CICE divisé par 
+la masse salariale) avant l’instauration du dispositif. La stabilité dans le temps 
+des structures productives des entreprises assure que l’instrument est bien 
+corrélé avec le traitement.  
+L’équipe TEPP privilégie désormais systématiquement une estimation en panel. 
+Cette approche permet d’estimer dans un cadre commun les effets du CICE en 2013 
+et 2016, tout en autorisant certains paramètres à varier dans la dimension temporelle.  
+Parmi les améliorations apportées, une plus grande importance est accordée aux 
+tests de falsification (ou tests placebo), destinés à valider l’hypothèse de tendance 
+commune nécessaire à la méthode des doubles différences. En fonction des 
+résultats des tests de falsification, une estimation en doubles différences ou en 
+triples différences est considérée. La méthode de doubles différences fait 
+l’hypothèse que la variable d’intérêt ne diffère que par un niveau propre à 
+l’entreprise, mais évolue de la même façon d’une entreprise à l’autre. La méthode 
+de triples différences pour sa part suppose que la variable d’intérêt diffère dans 
+chaque entreprise à la fois par un niveau et une tendance spécifique en raison de 
+caractéristiques inobservées. Cette méthode compare ainsi non seulement la 
+croissance de la variable d’intérêt, mais également sa dérivée seconde (accélé-
+ration ou ralentissement de la croissance) entre les entreprises plus ou moins 
+                                            
+1 Les variables de contrôle sont les suivantes : secteur et taille de l’entreprise, différentes variables d’activité (taux 
+de marge, rentabilité, productivité, intensité capitalistique, etc.), composition de l’emploi (catégorie professionnelle, 
+âge, type de contrats, etc.) et le taux d’exonération apparent des cotisations du régime général. 
+
+=== PAGE PDF 21 ===
+Chapitre 1 
+Les effets du CICE au niveau microéconomique 
+FRANCE STRATÉGIE  
+19 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+bénéficiaires du CICE. L’estimation en triples différences requiert d’utiliser un 
+échantillon suffisamment long pour appréhender ces tendances, qui correspond au 
+moins à un cycle conjoncturel, afin d’éviter de capturer dans la tendance le degré 
+d’exposition de l’entreprise à la conjoncture, ce que ne permet pas l’échantillon 
+court 2009-2016. Le choix entre les deux méthodes se fait de la façon suivante. Le 
+premier choix est une estimation en doubles différences sur l’échantillon 2009-
+2016. Si les tests de falsification sont rejetés, l’échantillon long, 2004-2016, est 
+utilisé. Lorsque les tests de falsification sont à nouveau rejetés sur cet échantillon, 
+une méthode d’estimation en triples différences est utilisée. Ce protocole permet 
+de valider l’hypothèse de tendance commune quasi systématiquement. 
+Un autre axe d’amélioration concerne les tests de validité des instruments (tests 
+de sur-identification d’Hansen). Dans les rapports précédents, la validité des 
+instruments était fréquemment remise en question par les tests. Une explication 
+possible de cette invalidité concernait certaines valeurs extrêmes d’une des 
+variables de contrôle, le taux d’endettement, qui sont désormais corrigées dans ce 
+nouvel exercice. Par ailleurs, le fait de choisir des instruments retardés de deux 
+périodes au lieu d’une permet d’améliorer la validité globale de l’instrument pour 
+certaines périodes. 
+ Des effets sur l’emploi et les salaires globalement 
+conformes aux précédentes études 
+L’effet du CICE sur l’emploi demeure le point focal de l’évaluation dès lors qu’on 
+considère ce dispositif d’abord comme une baisse du coût du travail. En considérant 
+indistinctement les groupes fiscaux et les entreprises n’appartenant pas à un groupe 
+fiscal, on retrouve des effets marqués sur les entreprises les plus bénéficiaires du 
+CICE, c’est-à-dire parmi les 25 % d’entreprises ayant le plus fort taux de CICE rapporté 
+à la masse salariale. Ces résultats sont globalement analogues à ceux des rapports 
+précédents, notamment celui publié en 2018 : l’effet du CICE sur l’emploi n’est pas 
+continu en fonction de l’intensité du CICE mais resterait principalement le fait des 
+entreprises les plus exposées au dispositif : aucun effet emploi n’est significatif pour 
+les entreprises des deuxième et troisième quartiles. 
+Cette approche demeure différentielle, c’est-à-dire qu’elle cherche à identifier l’effet du 
+CICE sur l’emploi relativement au groupe des entreprises qui ont le moins reçu de 
+CICE (appartenant au premier quartile). Cette approche a comme limite qu’elle ne 
+permet pas de capter un éventuel effet transversal du CICE, qui affecterait aussi les 
+entreprises qui bénéficient peu du CICE. Si tel était le cas, l’estimation des effets du 
+CICE sur l’emploi serait sous-estimée car limitée à l’effet observable dans les trois 
+
+=== PAGE PDF 22 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+20 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+quartiles des entreprises les plus bénéficiaires du CICE. Une analyse complémentaire 
+menée par l’équipe TEPP vise à traiter cette question, en combinant leur approche 
+discontinue par quartile avec une approche linéaire. Ce faisant, elle cherche à la fois à 
+capter des effets entre groupes d’entreprises ayant des intensités de CICE différentes 
+et un effet au sein de chaque groupe (dont celui des entreprises les moins exposées) 
+proportionnel au taux de CICE. Cette analyse, qui reste préliminaire1, ne fait pas 
+apparaître d’effet du CICE parmi les entreprises du premier quartile les moins 
+bénéficiaires du CICE. 
+L’absence d’effets pour les entreprises des trois premiers quartiles peut surprendre, 
+dans la mesure où les effets trouvés pour les entreprises du quatrième quartile sont 
+a contrario relativement forts, à partir de 2014 : 115 000 emplois créés ou sauvegardés 
+en 2014, 105 000 en moyenne sur la période 2014-2015 et un peu moins de 100 000 
+sur la période 2014-2016, ce qui représente environ 5 % de l’emploi de ces entreprises, 
+qui concentrent de l’ordre de 12-13 % des effectifs éligibles au CICE2.  
+Ces ordres de grandeur demeurent globalement proches de ceux identifiés dans le 
+rapport de 2018. Les effets sont un peu plus faibles à mesure qu’on considère un 
+horizon lointain, c’est-à-dire lorsqu’on incorpore les années 2015 et 2016. Cet affaiblis-
+sement apparent de l’effet emploi lorsqu’on tient compte des années plus récentes 
+peut surprendre si on s’attend à un effet d’appropriation et d’amplification dans le temps. 
+Comme le notent Clémence Lenoir et Marie Khater (DG Trésor, voir annexe 3), il 
+conviendrait d’analyser de manière plus approfondie les raisons de cette baisse, et d’en 
+calculer la significativité statistique afin de vérifier qu’il ne s’agit pas seulement d’un 
+artefact statistique lié par exemple à la moindre qualité de l’instrument utilisé. 
+Plusieurs explications peuvent être avancées à titre exploratoire, en lien avec la 
+méthode même d’estimation : 
+− la première tient à la méthode d’estimation elle-même qui est largement tributaire 
+de l’existence d’une variation du CICE pour pouvoir identifier l’effet du CICE sur 
+l’emploi une année donnée. Or après avoir augmenté en 2013 et 2014, le taux de 
+CICE est demeuré stable en 2015 et 2016 ; 
+                                            
+1 Mise en œuvre à la fin du printemps 2020, elle n’a pas pu être discutée au sein du comité de pilotage 
+technique. 
+2 Dans son rapport, TEPP estime pour les entreprises du quatrième quartile que l’élasticité de l’emploi 
+au taux apparent de CICE est proche de 3. Cette estimation suppose que le surcroît d’emploi à partir de 
+2014 serait simplement dû à l’augmentation du taux de CICE en 2014 (de 4 à 6 points), alors que l’effet 
+emploi du CICE à partir de cette date s’interprète aussi très probablement comme un effet retardé de la 
+création du CICE en 2013. Si on tient à raisonner en élasticité, celle-ci nous paraît ainsi trois fois plus 
+faible, proche de 1. 
+
+=== PAGE PDF 23 ===
+Chapitre 1 
+Les effets du CICE au niveau microéconomique 
+FRANCE STRATÉGIE  
+21 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+− la deuxième explication pourrait être liée au fait que plus on avance dans le temps, 
+plus la qualité des variables instrumentales utilisées diminue. En effet, pour éviter 
+un biais d’endogénéité entre évolution de l’emploi et niveau de CICE touché par 
+une entreprise une année donnée, on utilise comme variable explicative son taux 
+de CICE théorique pour l’année 2012 (voir encadré 1). Or si c’est un bon prédicteur 
+du taux de CICE réellement touché par les entreprises en 2013 et 2014, plus on 
+avance dans le temps, moins ce taux calculé en 2012 prédit correctement la valeur 
+réelle en 2015 et 2016, car la structure de la masse salariale des entreprises a pu 
+évoluer. Dès lors l’estimation des effets du taux de CICE sur l’emploi pour ces 
+années devient plus faible et de moindre qualité ; 
+− une troisième explication tiendrait à la mise en œuvre à partir de 2015 d’autres 
+mesures, telles que le Pacte de responsabilité, avec la baisse du taux de cotisation 
+sociale « famille » en deux temps1. Affectant également le coût du travail pour les 
+salariés entrant dans un champ de rémunération proche de celui du CICE, ces 
+mesures rendent de plus en plus difficile l’identification d’un effet propre au 
+dispositif. Même si une comparaison effectuée en 2018 entre bénéficiaires du CICE 
+et ces baisses de cotisations laissait entrevoir une interaction positive entre les 
+deux mesures mais pas de nature à biaiser fortement les résultats2, et que l’équipe 
+TEPP a pu essayer de contrôler l’effet de ces mesures, cela reste potentiellement 
+une explication de leurs moindres effets identifiés à partir de 2015. 
+Les travaux de l’équipe TEPP portent également sur l’effet du CICE sur l’ensemble 
+de la masse salariale des entreprises, laquelle résulte à la fois des changements du 
+niveau d’emploi et d’effets sur les salaires. Réalisées sur l’ensemble de l’échantillon 
+des entreprises indépendantes et des groupes, ces estimations confirment un effet 
+positif du CICE sur la masse salariale pour les entreprises les plus fortement 
+bénéficiaires pour 2014, 2014-2015 et 2014-2016. Cet impact sur la masse salariale 
+est attribuable pour l’essentiel à l’effet du CICE sur l’emploi. Cependant, ces résultats 
+ne satisfont pas à certains tests de robustesse (test de falsification). 
+Enfin, des estimations visent à identifier un effet du CICE sur différentes variables 
+d’activité ou de performance économique des entreprises. Les résultats sont peu 
+concluants et partiels lorsqu’on estime ces effets sur l’ensemble de l’échantillon des 
+entreprises indépendantes et des groupes. Des effets positifs du CICE sur l’excédent 
+brut d’exploitation et dans une moindre mesure sur la valeur ajoutée (uniquement en 
+                                            
+1 À partir du 1er janvier 2015, de 1,8 point sur les salariés rémunérés jusqu’à 1,6 fois le Smic, faisant passer 
+le taux de 5,25 % à 3,45 % ; à partir du 1er avril 2016, de 1,8 point pour les salariés rémunérés entre 1,6 et 
+3,5 fois le Smic. D’autres mesures visant à atteindre un objectif de zéro charge au niveau du Smic étaient 
+prévues : voir le Rapport CICE 2018, p. 49.  
+2 Voir le Rapport CICE 2018, p.15. 
+
+=== PAGE PDF 24 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+22 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+2013) apparaissent pour le quartile des entreprises les plus bénéficiaires du CICE, 
+mais aucun effet n’est identifiable sur les marges ou la rentabilité économique.  
+À nouveau, cela peut refléter l’hétérogénéité des comportements des entreprises 
+bénéficiaires du CICE. Les estimations obtenues ci-dessus pour l’emploi comme pour 
+les autres variables économiques sur l’ensemble de l’échantillon, composé des 
+groupes fiscaux et des entreprises « indépendantes ou hors groupes » fiscaux, ne 
+permettent pas de dire si les résultats moyens obtenus sont le fait d’une population 
+particulière d’entreprises plus que d’une autre. Comme évoqué plus haut, on peut 
+envisager qu’à l’échelle des groupes fiscaux des arbitrages se font de manière 
+consolidée sur l’ensemble des filiales, et que ces arbitrages ne sont pas forcément de 
+même nature que ceux mis en œuvre dans des entreprises indépendantes. On peut 
+également envisager que les comportements ne sont pas identiques selon le type 
+d’activité des entreprises, ou encore que l’effet du CICE n’est pas forcément le même 
+selon qu’il y a beaucoup ou peu de bas salaires – qui conditionnent le bénéfice d’autres 
+dispositifs d’allègement du coût du travail au voisinage du Smic. 
+ Des effets différenciés selon les sous-populations 
+ Des effets différents entre groupes fiscaux et entreprises 
+indépendantes ? 
+L’analyse différenciée entre entreprises indépendantes et groupes fiscaux révèle des 
+effets potentiellement différents du CICE. Les estimations ont été effectuées 
+séparément sur les deux populations, chacune ayant été divisée en sous-groupes 
+selon l’intensité de CICE des unités fiscales la composant.  
+Cette estimation parallèle montre que l’effet sur l’emploi est surtout identifiable parmi 
+les entreprises indépendantes, c’est-à-dire hors groupes fiscaux : on retrouve un 
+impact significatif sur l’emploi pour les entreprises les plus bénéficiaires du dispositif 
+(quatrième quartile). On peut alors en inférer un volume d’emplois créés ou sauve-
+gardés sur le seul champ des entreprises hors groupes fiscaux, sachant que ces 
+entreprises emploient de façon générale la moitié des effectifs salariés : ainsi entre 
+78 000 (estimation sur la période 2013-2014) et 60 000 emplois (estimation moyenne 
+sur 2013-2016) y auraient été créés ou sauvegardés. Cela correspond à près des deux 
+tiers du volume d’emplois précédemment estimé lorsqu’on extrapole les emplois créés 
+ou sauvegardés à partir d’une élasticité moyenne sur l’ensemble des entreprises 
+indépendantes et des groupes. 
+
+=== PAGE PDF 25 ===
+Chapitre 1 
+Les effets du CICE au niveau microéconomique 
+FRANCE STRATÉGIE  
+23 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+En revanche, sur l’échantillon des groupes fiscaux, aucun effet sur l’emploi ne ressort 
+significativement, y compris sur les groupes les plus bénéficiaires du CICE et quelle 
+que soit la période considérée. Compte tenu de la manière dont l’échantillon a été 
+constitué, il convient de prendre avec prudence cette absence d’effet significatif parmi 
+les groupes. Elle peut aussi s’expliquer par le fait que les groupes sont en moyenne 
+de plus grande taille, avec un chiffre d’affaires plus important, plus localisé dans 
+l’industrie (voir infra), et in fine relativement moins exposés au CICE (en proportion de 
+leur masse salariale) que les entreprises indépendantes. 
+Se pose alors la question des effets alternatifs du CICE dans ces groupes. Un effet 
+potentiellement significatif sur la masse salariale est identifiable pour les 25 % des 
+groupes fiscaux les plus bénéficiaires. En l’absence d’effet significatif sur l’emploi pour 
+expliquer cet effet positif sur la masse salariale, cela tendrait à suggérer que les 
+groupes ont pu utiliser une partie du CICE pour accroître les salaires.  
+D’autres effets ressortent pour les groupes fiscaux et non pour les entreprises 
+indépendantes : ainsi il ressort pour les groupes fiscaux les plus bénéficiaires du CICE 
+un effet positif sur leur valeur ajoutée et leur rentabilité économique à partir de 2014, 
+et sur leur taux de marge dès 2013. Pour les entreprises hors groupes fiscaux, les liens 
+avec les variables de performance économique sont moins évidents, mais on ne peut 
+exclure également un effet sur les marges.  
+Sur l’investissement, si l’hypothèse d’un effet reste envisageable – comme évoqué en 
+2018 par l’équipe TEPP – pour certains quartiles lorsque l’on considère l’ensemble des 
+entreprises et groupes sur 2014-2016, l’analyse menée séparément sur les groupes et 
+entreprises indépendantes ne permet pas de le confirmer. Au final, il demeure difficile 
+d’établir une conclusion claire en la matière.  
+Se dessine alors un paysage qui différencierait les entreprises « indépendantes » 
+ayant plus répercuté le CICE en préservant l‘emploi et des groupes qui l’ont peut-être 
+plus répercuté sur les salaires ou sur leurs marges. Quelque peu simpliste – car 
+certains effets non significatifs statistiquement n’excluent pas l’existence d’effets du 
+CICE – cette différenciation recoupe cependant d’autres dimensions. 
+Une analyse complémentaire sur l’ensemble des groupes et entreprises indépen-
+dantes différencie le champ du tertiaire et celui de l’industrie. Les différences d’exposition 
+de ces « champs d’activité » à la concurrence internationale, notamment par leur 
+activité d’exportation, mais aussi les différences de niveaux de rémunération ou de 
+qualification peuvent expliquer des effets différents. 
+Dans les services (échantillon de 75 150 entreprises ou groupes fiscaux), des effets 
+sur l’emploi ressortent assez systématiquement (pour les différentes mesures de 
+
+=== PAGE PDF 26 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+24 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+l’emploi) dans les entreprises (ou groupes) les plus bénéficiaires du CICE en 2014, 2014-
+2015 et 2014-2016. Cependant, les tests de falsifications sont systématiquement rejetés 
+quelle que soit la source envisagée, ce qui limite la portée statistique de ces résultats, 
+même s’ils sont assez proches de ceux obtenus sur l’emploi au niveau agrégé.  
+Dans l’industrie (échantillon de 23 389 entreprises ou groupes fiscaux), les effets sur 
+l’emploi ressortent moins : des effets significativement différents de zéro n’apparais-
+sent que sur l’emploi en équivalent temps plein sur les troisième et quatrième quartiles 
+en 2013 et 2014, mais pas sur les effectifs physiques. 
+Bien que fragiles, ces résultats tendraient à souligner un effet sur l’emploi plus net ou 
+important dans les services que dans l’industrie, ce qui serait cohérent avec l’analyse 
+plus macroéconomique (voir les travaux de l’OFCE). 
+ Quels effets selon la part de bas salaires dans les entreprises ? 
+Une dernière investigation concerne l’analyse des effets sur l’emploi selon la structure 
+de l’emploi et des salariés des entreprises. Cela renvoie à un questionnement sous-
+jacent sur l’impact relatif du CICE, en tant que baisse du coût du travail, par rapport à 
+d’autres dispositifs d’exonérations générales de cotisations sociales patronales dont 
+bénéficient – de façon dégressive – les entreprises sur les salaires jusqu’à 1,6 Smic. 
+De façon plus générale, cela questionne le rendement des politiques successives de 
+baisse du coût du travail au fil du temps en termes d’impact sur l’emploi1.  
+On intègre donc ici dans l’analyse, outre le degré d’exposition au CICE, un deuxième 
+groupe d’indicatrices caractérisant le fait que les entreprises appartiennent à un groupe 
+ayant une plus ou moins grande part de salariés rémunérés en dessous de 1,6 Smic2. 
+Sur chacune de ces sous-populations, TEPP estime en continu l’effet du taux de CICE 
+et celui du taux d’exonérations générales.  
+Les résultats suggèrent que les élasticités de l’emploi aux exonérations de cotisations 
+sociales sont d’autant plus fortes que les entreprises (y compris les groupes fiscaux) 
+ont une proportion élevée de salaires inférieurs à 1,6 Smic (même si cet effet ne peut 
+être considéré comme significativement différent de zéro stricto sensu sur le quartile 
+des entreprises ayant le plus de salaires en dessous de 1,6 Smic). Ce résultat est 
+                                            
+1 Voir Comité de suivi des aides publiques aux entreprises et des engagements / COSAPE (2017), 
+Les exonérations générales de cotisations, juillet ; L’Horty Y., Martin P. et Mayer T. (2019), « Baisses de 
+charges : stop ou encore ? », Les Notes du Conseil d’analyse économique, n° 49, janvier ; voir également les 
+débats entre LIEPP et TEPP sur le rendement des allègements. 
+2 Les quartiles construits en fonction de l’intensité du traitement et de la proportion de salaires sous 1,6 Smic 
+ne se confondent pas. 
+
+=== PAGE PDF 27 ===
+Chapitre 1 
+Les effets du CICE au niveau microéconomique 
+FRANCE STRATÉGIE  
+25 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+conforme aux attentes habituelles puisque les entreprises où l’emploi est peu qualifié 
+et rémunéré au voisinage du Smic sont plus sensibles au coût du travail, les possibilités 
+de substitution de ces emplois avec d’autres facteurs (travail plus qualifié et capital 
+productif) étant plus importantes. 
+En revanche, une fois pris en compte l’effet des exonérations, l’effet du CICE ne ressort 
+pas de façon spécifique pour les entreprises ayant une plus forte proportion de bas 
+salaires. Or on pourrait s’attendre, de prime abord, à ce que l’effet du CICE, comme 
+toute baisse du coût du travail, ressorte aussi plus fortement dans le quartile des 
+entreprises ayant le plus de salariés à faible salaire.  
+Ce résultat peut donc surprendre compte tenu de ceux mettant précédemment en 
+évidence un effet du CICE parmi les entreprises les plus exposées au CICE. À cela 
+plusieurs explications possibles : 
+– si les répartitions des entreprises selon leur part de salariés en dessous de 2,5 Smic 
+(donc plus ou moins exposées au CICE) et en dessous de 1,6 Smic (donc plus ou 
+moins exposées aux exonérations) se recoupent, elles ne sont pas identiques. 
+Ainsi, parmi les 25 % d’entreprises les plus exposées au CICE, seulement la moitié 
+fait partie du quartile des entreprises ayant la plus forte proportion de salariés en 
+dessous de 1,6 Smic (28,2 % d’entreprises font partie du troisième quartile 
+d’exonérations et 14,7 % du deuxième quartile). Il n’est donc pas évident de relier 
+la forte exposition au CICE et la part de bas salaires ; 
+– les résultats ci-dessus peuvent également être lus comme la manifestation que le 
+CICE joue un rôle relativement moins important en termes de coût du travail, et 
+donc d’impact sur l’emploi, pour les entreprises à bas salaires. Pour ces dernières, 
+le principal facteur affectant leur décision en termes de coût sont les exonérations 
+de cotisations sociales (de l’ordre de 28 points par rapport au taux normal de 
+cotisations employeurs) et la baisse de 4 puis de 6 points liée au CICE, bien que 
+non négligeable, joue un rôle marginal. À cela s’ajoute le fait que le CICE, compte 
+tenu de son caractère fiscal et décalé dans le temps, est peut-être moins un 
+marqueur de coût du travail pour ces entreprises que ne le sont les exonérations 
+de cotisations sociales. En suivant ce raisonnement, il apparaît même envisageable 
+que l’effet du CICE puisse être relativement plus sensible pour des niveaux de 
+rémunérations intermédiaires, plus éloignées du Smic, pour lesquelles les entre-
+prises ne bénéficiaient pas jusqu’en 2016 de dispositif de baisse de coût du travail.   
+Comme l’évoquent différents rapporteurs sur cette étude (voir annexe 3), cette analyse 
+selon le niveau de salaire mériterait des investigations complémentaires. 
+
+=== PAGE PDF 28 ===
+
+=== PAGE PDF 29 ===
+ 
+ 
+ 
+ 
+ 
+FRANCE STRATÉGIE  
+27 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+CHAPITRE 2 
+L’ANALYSE DU CICE 
+AU NIVEAU MACROÉCONOMIQUE 
+Les travaux de l’OFCE se déroulent en deux temps. Dans un premier temps, l’effet du 
+CICE est étudié au niveau des branches d’activité, sur la base des comptes nationaux. 
+Il s’agit d’estimer économétriquement les élasticités au CICE des variables d’intérêt 
+(l’emploi, les salaires, les prix de valeur ajoutée, les prix à l’exportation ou l’inves-
+tissement) au niveau sectoriel. Cette étape demeure une analyse en équilibre partiel, 
+puisque l’effet reste estimé secteur par secteur, sans tenir compte du bouclage macro-
+économique.  
+Dans un second temps, des simulations sont effectuées en incorporant certains 
+résultats obtenus lors de la première étape dans un modèle macrosectoriel afin de 
+simuler des résultats tenant compte des effets de bouclage et l’impact du financement 
+de la mesure. 
+ Une approche ex post originale s’appuyant sur données 
+macrosectorielles  
+La première étape constitue une approche relativement originale, voire expérimentale, 
+d’évaluation macroéconomique ex post. L’idée est comme pour une approche micro-
+économique d’essayer d’apprécier l’effet du CICE par rapport à une situation 
+contrefactuelle, qui aurait prévalu en l’absence de cette politique. De même, elle 
+repose sur « l’intensité de traitement relative » pour identifier l’effet du CICE perçu par 
+les différents secteurs.   
+Cette étape se décompose en plusieurs temps :  
+1) En vue d’élaborer un contrefactuel pour la période d’étude (2013-2017), l’OFCE 
+estime les déterminants des variables d’intérêt (emploi, salaire, prix, exportations, 
+investissement) sur la période 1980-2012 à partir de modèles standards largement 
+
+=== PAGE PDF 30 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+28 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+mobilisés dans la littérature macroéconomique (modèles à correction d’erreur, prenant 
+en compte les mécanismes d’ajustement à une cible de long terme ou les relations de 
+co-intégration entre les variables).  
+2) Une fois les coefficients de ces modèles estimés, l’OFCE définit le contrefactuel à 
+partir de ces mêmes équations sur la période 2013-2017, c’est-à-dire en calculant les 
+valeurs des variables d’intérêt prédites par les modèles en l’absence du CICE, et ce pour 
+chaque branche. Elle peut ainsi calculer sur cette période l’écart entre la valeur observée 
+de chaque variable et celle « contrefactuelle » issue d’un modèle économique non 
+affecté par le CICE. Un écart positif statistiquement significatif entre emploi « observé » 
+dans la comptabilité nationale et niveau d’emploi simulé pour une branche une année 
+donnée signifie que certains facteurs explicatifs, tels que des politiques publiques initiées 
+après 2012, ont pu induire un surcroît d’emploi par rapport à ce que l’on pouvait attendre 
+« normalement » de la dynamique de l’économie. 
+3) L’OFCE mesure pour chaque branche la créance de CICE dont elle a bénéficié, à 
+partir des données produites par la Direction générale des finances publiques (DGFiP) 
+sur les créances réellement déclarées par les entreprises1 ventilées par branches. 
+L’OFCE calcule ensuite un indicateur de traitement ou d’intensité du CICE en 
+normalisant les créances par branche en les rapportant à la masse salariale (pour 
+l’emploi et les salaires) ou à la valeur ajoutée (pour les prix à l’exportation, les prix de 
+valeur ajoutée et l’investissement). 
+4) Enfin l’OFCE estime l’impact de cette variable d’intensité du CICE pour chaque 
+branche, sur l’écart « valeur observée - valeur simulée » pour chacune des variables 
+d’intérêt (variables expliquées), sur la période 2013-2017. Si cet impact est 
+statistiquement significatif, on considère que le CICE a eu un impact sur la variable 
+d’intérêt sur la branche en question. 
+Ce travail sectoriel a été effectué à différents niveaux de détail de la nomenclature 
+d’activité (NACE). Il l’a d’abord été au niveau de décomposition en 17 branches puis 
+en 38 branches. En pratique, quelques secteurs ont dû être, pour différentes raisons, 
+exclus de l’analyse. Ainsi, l’approche la plus agrégée porte réellement sur 
+                                            
+1 Cette source est jugée préférable à l’utilisation de données issues des comptes nationaux trimestriels de 
+l’Insee, qui suppose une approximation des créances de CICE via le poste D39 « subventions à la 
+production ». Dans une précédente version des travaux de l’OFCE, ce sont ces données qui étaient 
+mobilisées. Une analyse comparative par branche a été menée par l’OFCE entre le montant des 
+« subventions à la production » et le montant des créances déclarées auprès de l’administration fiscale, 
+révélant les imperfections de cette estimation du CICE. Néanmoins, l’approche par les données fiscales 
+présente aussi des imperfections, notamment parce qu’elle repose sur une ventilation du CICE entre secteurs 
+d’activité et non entre branches au sens de la comptabilité nationale. 
+
+=== PAGE PDF 31 ===
+Chapitre 2 
+L’analyse du CICE au niveau macroéconomique 
+FRANCE STRATÉGIE  
+29 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+16 branches1, tandis que l’analyse la plus fine porte plus exactement sur 32 branches2. 
+Cette seconde décomposition est celle qui est privilégiée car elle permet d’avoir une 
+analyse plus détaillée et notamment de mener, en plus des estimations globales sur 
+l’ensemble des branches, des estimations séparées entre les branches productrices 
+de « biens » et celles productrices de « services »3, afin de mettre en évidence des 
+effets différents entre ces deux grands domaines du système productif. On peut en 
+effet imaginer que les comportements – d’emploi, de salaire, de prix d’exportation ou 
+d’investissement – diffèrent entre ces deux grandes familles (pour des raisons 
+d’exposition à la concurrence internationale, par exemple). 
+Les estimations réalisées dans la dernière étape pour identifier l’effet du CICE l’ont été 
+en panel, c’est-à-dire en considérant l’ensemble des années d’observation. Des 
+analyses en coupe, c’est-à-dire année par année entre 2013 et 2017, ont aussi été 
+réalisées. L’approche en panel permet de disposer de plus d’observations pour la 
+qualité de l’estimation, tandis que celle en coupe permet de tester une éventuelle 
+dynamique dans le temps de l’effet du CICE. 
+La méthode présente certains avantages mais également des limites. Elle est moins 
+sujette aux biais de sélection et de cylindrage inhérents à la constitution d’un panel 
+d’entreprises au niveau micro-économétrique. Les effets mesurés intègrent de fait les 
+effets du CICE sur les entreprises nouvellement créées ou celles qui disparaissent au 
+cours de la période considérée pour l’évaluation à l’intérieur d’un même secteur. Ces 
+biais peuvent être particulièrement importants lorsqu’on estime les effets à moyen 
+terme (au bout de quelques trimestres ou quelques années).  
+Cette méthode, qu’elle porte sur la désagrégation de l’économie en 17 ou 38 branches, 
+repose toutefois sur un nombre d’observations beaucoup plus limité que dans les 
+analyses micro-économétriques, d’où une puissance statistique bien plus faible, c’est-
+à-dire une plus faible capacité à identifier des relations statistiques significatives. 
+                                            
+1 La cokéfaction et le raffinage ayant été exclus en raison de comportements assez spécifiques à ce secteur. 
+2 Sur les 38 postes de la NACE, seules 32 branches ont été conservées dans l’analyse, 6 étant exclues de 
+l’analyse. Les branches OZ (administration publique) et PZ (enseignement) ont été exclues du fait de 
+créances quasi nulles (employeurs peu assujettis à l’impôt sur les sociétés) et de la difficulté à modéliser leur 
+comportement ; les branches TZ (activités des ménages) et UZ (activités extraterritoriales) car elles ne sont 
+pas assujetties au CICE ; et les branches CD (cokéfaction et raffinage) et DZ (production et distribution 
+d’électricité, de gaz, de vapeur et d’air conditionné) en raison du nombre limité d’entreprises ne permettant 
+pas de rendre publiques des créances fiscales pour des raisons de secret statistique. 
+3 Par branches des biens, on entend les branches AZ-FZ relevant de l’agriculture, l’industrie et la construction. 
+Les branches des services (GZ-SZ hors branches exclues précédemment) relèvent du commerce, du 
+transport, de l’hébergement-restauration, de l’audiovisuel et des télécommunications, des activités financières 
+et d’assurance, des activités scientifiques et techniques, des services administratifs et de soutien, des 
+activités de santé, sociales et culturelles.  
+
+=== PAGE PDF 32 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+30 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Ce faible nombre d’observations rend aussi plus difficile le contrôle d’autres mesures 
+coïncidentes tels le Pacte de responsabilité ou la Prime à l’embauche. Par ailleurs, le 
+contrefactuel construit repose sur des hypothèses structurelles fortes. Si le modèle de 
+comportement est mal spécifié, cela peut entraîner des biais d’estimation, notamment 
+pour les branches non marchandes dont les comportements peuvent s’écarter 
+fortement de la logique sous-tendant le comportement des branches marchandes. 
+La mesure du CICE par branche à partir de données fiscales présente aussi quelques 
+limites, car l’agrégation par secteur d’activité principale des entreprises peut en partie 
+manquer de cohérence avec les données agrégées par branche de la comptabilité 
+nationale. 
+Dans ses estimations, l’équipe de l’OFCE utilise plusieurs pondérations dans ses 
+régressions. Dans l’optique d’identifier des effets macroéconomiques, il convient en effet 
+de donner un poids à chaque secteur « cohérent » avec son poids dans l’économie. 
+L’OFCE privilégie néanmoins la pondération des secteurs en fonction du nombre 
+d’entreprises, pour assurer la cohérence avec l’approche micro-économétrique de 
+l’équipe TEPP et envisager une comparabilité, au moins en ordre de grandeur, avec ses 
+résultats. D’autres pondérations, tels la masse salariale, l’emploi ou la valeur ajoutée, 
+sont aussi testées pour voir si elles conduisent à des résultats sensiblement différents, 
+et dans ce cas permettre de diagnostiquer un problème de spécification, par exemple lié 
+à la non-linéarité des effets en question. 
+Enfin, l’OFCE a réalisé ses estimations sur la période 2013-2016, puis 2013-2017 
+lorsque les données de 2017 ont été rendues disponibles. Comme nous le verrons, 
+l’inclusion de l’année 2017 tend à renforcer certains effets, mais elle soulève de 
+nombreuses questions sur la capacité des estimations à prendre en compte certains 
+phénomènes ou politiques émergeant dans le temps en marge du CICE.  
+ Des effets sectoriels globalement convergents 
+avec les analyses micro-économétriques  
+ Des effets sur l’emploi et les salaires 
+L’OFCE analyse ici l’effet du CICE sur l’écart entre « emploi salarié des personnes 
+physiques » observé et simulé. 
+Sur l’ensemble des branches, l’OFCE identifie une relation positive entre ces variables, 
+ce qui signifie que plus une branche a bénéficié du CICE (en proportion de sa masse 
+salariale) par rapport à une autre, plus l’emploi observé s’est avéré supérieur à l’emploi 
+
+=== PAGE PDF 33 ===
+Chapitre 2 
+L’analyse du CICE au niveau macroéconomique 
+FRANCE STRATÉGIE  
+31 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+« attendu ou prédit ». Mais la significativité et la valeur des coefficients dépendent de 
+la pondération retenue pour les secteurs : la relation n’est pas significative pour la 
+pondération par le nombre d’entreprises ou la valeur ajoutée ; et sur 2013-2016, 1 point 
+de CICE (rapporté à la masse salariale superbrute) aurait augmenté l’emploi d’une 
+branche entre 0,5 % et 1,2 % par rapport à une autre branche, selon la pondération 
+retenue (masse salariale, emploi, ou aucune pondération).  
+L’échantillon de 32 branches permet de scinder l’analyse entre branches productrices 
+de « biens » et branches productrices de « services ». Les résultats sont plus robustes 
+aux pondérations lorsque l’échantillon est ainsi divisé. Alors que le CICE ne semble 
+pas associé à des créations/sauvegardes d’emplois dans les branches des biens 
+(agriculture, industrie, construction), les coefficients sont systématiquement signifi-
+catifs dans les services. Ils semblent également plus stables en termes de magnitude, 
+ce qui s’explique par une plus grande homogénéité des secteurs au sein de ces sous-
+échantillons. Dans les services, sur la période 2013-2016, 1 point de CICE aurait 
+augmenté l’emploi entre 0,38 % et 0,62 %, en fonction de la pondération retenue. Cela 
+étant dit, comme le souligne Adrien Lagouge (Insee, voir annexe 4), ces différentes 
+pondérations ne devraient théoriquement modifier que les variances des estimations, et 
+non les estimations elles-mêmes, du moins asymptotiquement. Or les travaux de l’OFCE 
+aboutissent au contraire à des estimations contrastées selon le choix de la pondération. 
+La faible taille de l’échantillon peut expliquer cela1. 
+En définitive, les résultats ci-dessus suggèrent que l’effet positif direct du CICE 
+sur l’emploi se serait visiblement matérialisé dans les activités de services, mais 
+ne serait pas visible dans celles des biens. Cette conclusion est à prendre avec 
+prudence puisque la décomposition biens/services reste « grossière » et que le nombre 
+limité d’observations ne permet pas d’affiner l’analyse au-delà de la répartition en 
+32 branches. 
+Des tests de robustesse des effets du CICE sur l’emploi ont été menés et tendent à 
+les confirmer2.  
+                                            
+1 En outre, une analyse plus approfondie de l’hétéroscédasticité des résidus mériterait d’être conduite, 
+notamment pour tenir compte de la structure en clusters des observations portant sur des entreprises d’un 
+même secteur. 
+2 Un test consiste à estimer le lien entre le CICE de chaque branche et l’emploi en 2012, alors même que 
+celui-ci n’existait pas. Si on trouvait un lien entre le CICE touché par les branches en 2013 et l’écart entre 
+emploi observé et simulé en 2012, cela signifierait qu’on capte en réalité via le CICE l’effet d’autres mesures 
+qui lui sont préalables. Les résultats trouvés ne montrent pas un tel effet significatif et donc confortent l’idée 
+d’un effet du CICE sur l’emploi entre 2013 et 2017.  
+
+=== PAGE PDF 34 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+32 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Graphique 1 – Relation entre CICE (rapporté à la masse salariale)  
+et différence entre emploi observé/simulé, sur l’année 2016  
+A. Pondération par l’emploi sectoriel 
+ 
+B. Pondération par le nombre d’entreprises  
+ 
+Champ : ensemble des branches d’activité (hors MB), en 2016. AZ : Agriculture, sylviculture et pêche. BZ : Industries extractives. CA : Fabrication de 
+denrées alimentaires, de boissons et de produits à base de tabac. CB : Fabrication de textiles, industries de l'habillement, industrie du cuir et de la 
+chaussure. CC : Travail du bois, industries du papier et imprimerie. CE : Industrie chimique. CF : Industrie pharmaceutique. CG. Fabrication de produits 
+en caoutchouc et en plastique ainsi que d'autres produits minéraux non métalliques. CH : Métallurgie et fabrication de produits métalliques à l'exception 
+des machines et des équipements. CI : Fabrication de produits informatiques, électroniques et optiques. CJ : Fabrication d'équipements électriques. 
+CK : Fabrication de machines et équipements. CL : Fabrication de matériels de transport. CM : Autres industries manufacturières ; réparation et 
+installation de machines et d'équipements. DZ : Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné. EZ : Production et 
+distribution d'eau ; assainissement, gestion des déchets et dépollution. FZ : Construction. GZ : Commerce ; réparation d'automobiles et de motocycles. 
+HZ : Transports et entreposage. IZ : Hébergement et restauration. JA : Edition, audiovisuel et diffusion. JB : Télécommunications. JC : Activités 
+informatiques et services d'information. KZ : Activités financières et d'assurance. LZ : Activités immobilières. MA : Activités juridiques, comptables, de 
+gestion, d'architecture, d'ingénierie, de contrôle et d’analyses techniques. MB : Recherche-développement scientifique. MC : Autres activités 
+spécialisées, scientifiques et techniques. NZ : Activités de services administratifs et de soutien. QA : Activités pour la santé humaine. QB : Hébergement 
+médico-social et social et action sociale sans hébergement. RZ : Arts, spectacles et activités récréatives. SZ : Autres activités de services.  
+Source : OFCE (2020), Évaluation de l’impact du CICE, op. cit. 
+
+=== PAGE PDF 35 ===
+Chapitre 2 
+L’analyse du CICE au niveau macroéconomique 
+FRANCE STRATÉGIE  
+33 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+La prise en compte de l’année 2017, en matière d’effet du CICE sur l’emploi, renforce 
+l’ampleur des résultats, avec une élasticité dans les services compris entre 0,7 et 1,0. 
+Il est certes possible que cet effet plus fort traduise une plus grande appropriation par 
+les entreprises, et un effet du CICE qui croîtrait avec le temps. Mais l’estimation des 
+effets du CICE apparaît particulièrement fragile cette année. 
+L’effet renforcé pourrait s’expliquer par le fait que l’année 2017 est particulière 
+en termes de CICE. D’une part, le taux de CICE a été relevé spécifiquement pour 
+cette année-là à 7 % contre 6 % les années précédentes. Par ailleurs, l’annonce de sa 
+transformation par le nouveau gouvernement – donc en quelque sorte de sa 
+pérennisation1 – sous la forme d’un allègement de cotisations sociales pourrait avoir 
+joué sur les anticipations pour renforcer son impact. En effet, entre 2013 et 2016, la 
+question de la pérennité du CICE a plusieurs fois été posée, ce qui n’est pas de nature 
+à ce que les entreprises l’intègrent durablement dans leurs calculs économiques et 
+leurs décisions. D’autre part, on raisonne dans les travaux de l’OFCE – mais aussi 
+dans les travaux microéconomiques – sur les créances auxquelles ont droit les 
+entreprises (en fonction de leur masse salariale inférieure à 2,5 Smic) comme étant les 
+facteurs déterminant leur comportement. Cependant il convient de rappeler que les 
+entreprises n’ont réellement « consommé » ces créances, c’est-à-dire « touché » 
+financièrement les montants correspondants qu’au fil du temps, selon leur capacité à 
+déduire cette créance de leur impôt dû. Elles disposaient potentiellement de trois ans 
+pour l’imputer sur leur impôt sur les sociétés, période au bout de laquelle le reliquat 
+non imputé était restitué définitivement par l’administration fiscale aux entreprises. 
+Ainsi l’année 2017 est la première pour laquelle les entreprises ont bénéficié de cette 
+restitution finale, au titre des créances contractées au titre des salaires de 2013, et 
+s’est donc caractérisée par une augmentation des consommations et restitutions du 
+CICE2. Ces restitutions et consommations sont probablement corrélées aux créances 
+2017, ce qui peut biaiser les résultats de l’OFCE à la hausse.  
+Une autre explication pourrait tenir à l’existence d’autres dispositifs publics mis en 
+place progressivement entre 2015 et 2017, et dont l’effet ne peut être contrôlé dans 
+les estimations réalisées au niveau sectoriel. Outre le Pacte de responsabilité et de 
+solidarité monté en puissance à partir de 20153, la prime à l’embauche pour les PME 
+mise en place en 2016 est un dispositif susceptible d’avoir eu un effet emploi en 2017 
+corrélé au CICE.  
+                                            
+1 Le ciblage de l’allègement jusqu’à 2,5 Smic a en effet été conservé. 
+2 Voir le rapport 2018 du comité d’évaluation du CICE rendant compte des créances et consommation du 
+CICE au fil du temps, notamment pour le millésime 2013. 
+3 Dont des mesures de baisses de cotisations « famille » en deux temps, voir le rapport CICE 2018. 
+
+=== PAGE PDF 36 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+34 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Selon la même méthode, l’OFCE cherche à identifier l’effet du CICE sur les salaires 
+moyens par tête (SMPT), sur la période 2013-2017. Un effet positif sur les salaires sur 
+l’ensemble de l’échantillon apparaît significatif, mais l’analyse plus fine tend là aussi à 
+montrer que cet effet relève plus particulièrement des branches des services, car il n’est 
+pas ou peu significatif sur le sous-échantillon des branches relevant des biens.  
+Selon le type de pondération utilisé, la magnitude de cet effet varie dans les services : 
+un différentiel de 1 point de CICE (rapporté à la masse salariale) entre deux branches 
+induirait une augmentation du SMPT de 0,59 % à 1,23 % selon le type de pondération. 
+À la différence de ce qui est observé pour l’emploi, l’inclusion de l’année 2017 ne 
+semble pas modifier la magnitude de cet effet. 
+ Des effets plus complexes sur les exportations, les prix 
+et l’investissement  
+L’effet du CICE sur la compétitivité et par conséquent sur les exportations est l’un des 
+enjeux majeurs soulevés depuis le début de l’évaluation1. Les travaux micro-
+économétriques déjà menés sur ce sujet sur les premières années du dispositif ne 
+faisaient pas apparaître d’effet sur les exportations à court terme, tant sur les volumes 
+que sur les prix2. 
+L’analyse macrosectorielle menée par l’OFCE s’est intéressée à l’impact du CICE 
+(rapporté à la valeur ajoutée de chaque branche) notamment sur les prix 
+d’exportation des branches, pour voir s’il a pu servir à améliorer la compétitivité des 
+branches exportatrices. L’analyse menée initialement sur l’ensemble des 17 branches 
+ne faisait pas ressortir d’effet tant sur les prix que sur les volumes d’exportation. Ce 
+n’est plus le cas lorsqu’on intègre un niveau de décomposition plus fin des branches, 
+ce qui permet notamment de mieux prendre en compte les branches industrielles dont 
+les comportements en termes d’exportation sont plus sensibles. 
+                                            
+1 Des travaux menés pour le comité d’évaluation sur le champ manufacturier ont visé à estimer quel pouvait 
+être, sous l’hypothèse d’une transmission du CICE sur la baisse des coûts salariaux unitaires, l’impact a priori 
+du CICE sur la marge intensive et extensive des exportations. Voir Guillou S. (2018), Évaluation de l’effet du 
+CICE sur l’investissement corporel des entreprises à travers la contrainte financière, rapport d’évaluation pour 
+France Stratégie, OFCE, octobre. 
+2 Ces travaux notent que le CICE n’aurait pas exercé d’impact significatif sur les prix à l’exportation, tout 
+comme sur les volumes exportés (Carbonnier et al., 2016, rapport d’évaluation du CICE pour France 
+Stratégie). Le rapport 2016 du comité d’évaluation soulignait cependant que cette absence d’effet à court 
+terme n’excluait pas que le CICE « distribué en 2013 et 2014 pourrait dans les années à venir augmenter le 
+niveau des exportations de l’ordre de deux points, grâce à l’amélioration de la compétitivité-prix des 
+entreprises induite par la baisse des coûts de production (et en tenant compte du caractère partiel de cette 
+transmission) ». 
+
+=== PAGE PDF 37 ===
+Chapitre 2 
+L’analyse du CICE au niveau macroéconomique 
+FRANCE STRATÉGIE  
+35 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Ainsi les estimations au niveau de la nomenclature NA38 sur un ensemble de 
+14 branches exportatrices (dont l’essentiel est donc dans l’industrie)1 font ressortir un 
+effet négatif significatif, suggérant que plus une branche a bénéficié du CICE (en 
+pourcentage de sa valeur ajoutée), plus l’évolution observée des prix d’exportation a 
+été inférieure à celle prédite par le modèle en l’absence de CICE. Autrement dit, cela 
+tendrait à souligner que le CICE a pu effectivement participer à la modération des prix 
+à l’exportation des entreprises françaises dans l’industrie. Ce résultat est toutefois 
+fragile et doit avant tout être considéré comme une tendance plausible. L’ampleur de 
+l’effet semble en effet peu réaliste. Les écarts mesurés entre prix d’exportation simulés 
+et observés sont particulièrement élevés, et la magnitude de l’effet associé à ce canal 
+paraît disproportionnée au regard des montants de CICE touchés par ces secteurs. 
+Par ailleurs, certains tests de robustesse effectués ne sont pas totalement concluants2. 
+L’analyse plus générale de l’effet du CICE sur les prix, ici mesurés comme les prix 
+de la valeur ajoutée, aboutit également à un diagnostic mitigé. L’idée était de voir si  
+– au-delà des exportations – le CICE avait été répercuté dans les différentes branches 
+sur les prix, se diffusant ainsi à l’ensemble de l’économie. Deux canaux sont 
+envisagés : d’une part les entreprises ont pu répercuter le CICE qu’elles ont 
+directement touché (au regard de leur masse salariale) sur le prix de leur production 
+(c’est-à-dire le prix de la valeur ajoutée qu’elles produisent). D’autre part, en plus du 
+précédent effet direct, par le jeu des consommations intermédiaires certaines 
+entreprises ont pu bénéficier du CICE des branches qui leur fournissent des biens et 
+services et l’ont également répercuté – dans des proportions variables selon leur 
+comportement de marge – sur leurs propres prix. 
+L’analyse menée sur l’ensemble de l’échantillon3, puis en séparant les branches des 
+biens et celles des services pour appréhender l’effet direct, fait ressortir des coefficients 
+                                            
+1 Les branches pas ou peu exportatrices sont en effet exclues de cette partie de l’analyse, en particulier les 
+services abrités. Seules 14 branches sont retenues, 12 relevant de l’industrie manufacturière (de CA à CM, hors 
+cokéfaction et raffinage), auxquelles s’ajoutent la branche des activité juridiques, comptables, de gestion, 
+d’architecture, d’ingénierie de contrôle et d’analyses techniques (MA) et celle des transports et de l’entreposage. 
+Sont donc exclues : agriculture (AZ), industries extractives (BZ), production et distribution d’électricité, gaz et 
+eau (DZ-EZ), construction (FZ), commerce et réparation automobile (GZ), hébergement-restauration (IZ), 
+activités financières et assurance (KZ) services immobiliers (LZ), audiovisuel, télécommunication et 
+informatique (JA-JC), recherche et développement scientifique et autres activités scientifiques et technique 
+(MB-MC), activités de services administratifs et de soutien (NZ), administration publique (OZ) enseignement 
+(PZ), santé et médico-social (QA), arts et spectacles (RZ). 
+2 Pour tester la robustesse de ce résultat, l’OFCE a régressé le CICE touché par les branches en 2013 sur 
+l’écart entre prix de la valeur ajoutée observé et prix de la valeur ajoutée simulé pour l’année 2012 ; en théorie, 
+s’il y a un effet réel du CICE, on ne devrait pas identifier d’effet significatif puisque le dispositif n’existait pas 
+en 2012. Or certaines de ces estimations réalisées font ressortir des effets à la limite de la significativité 
+lorsqu’elles sont pondérées par exemple par le nombre d’entreprises. 
+3 29 branches sur les 38 de la NACE ont été retenues dans cette analyse. 
+
+=== PAGE PDF 38 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+36 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+très variables en termes de significativité et de magnitude, et sensibles au choix de la 
+pondération, suggérant une forte hétérogénéité entre branches. Seule la pondération 
+des branches par le poids de leurs exportations dans la valeur ajoutée fait ressortir un 
+effet négatif, ce qui tend à rejoindre le résultat précédent d’un impact du CICE sur les 
+prix à l’exportation. Les entreprises des branches les plus exposées à la concurrence 
+internationale, et donc soumises à une pression sur leurs prix, auraient été les plus 
+susceptibles de répercuter le CICE sous la forme d’une modération de leurs prix.  
+La prise en compte, en plus de l’effet direct, du canal indirect lié à la diffusion des effets 
+prix par les consommations intermédiaires entre branches fait ressortir des effets plus 
+nets, et cohérents, notamment lorsqu’on distingue les secteurs des biens et les 
+secteurs des services. Des coefficients significativement négatifs ressortent – quelle 
+que soit la pondération – dans les branches productrices de biens (industrie 
+notamment, construction et agriculture), ce qui tendrait à confirmer que dans celles-ci, 
+plus elles ont bénéficié du CICE directement et indirectement par une baisse du coût 
+de leurs intrants, plus elles l’ont répercuté sur leurs propres prix. À l’inverse, pour les 
+branches des services, les coefficients sont plus inconstants et moins significatifs, ce 
+qui ne permet pas d’envisager une transmission sur leurs prix.  
+Comme pour les prix d’exportation, si l’effet du CICE sur les prix semble exister, sa 
+quantification pose problème, car la magnitude des coefficients induirait un niveau de 
+CICE répercuté sur les prix difficilement conciliable avec les montants effectivement 
+perçus par ces branches. 
+Enfin, l’OFCE s’est penché sur l’effet du CICE sur l’investissement. Les estimations, 
+tant sur l’ensemble de l’échantillon des branches que séparément entre biens et 
+services, ne permettent pas de conclure à un effet du dispositif sur l’investissement. 
+Dans les branches productrices des biens, les coefficients (bien que potentiellement 
+positifs quelle que soit la pondération) sont non significatifs dès lors qu’ils sont 
+pondérés par la valeur ajoutée, la masse salariale ou le nombre d’entreprises. Seule 
+l’estimation sans aucune pondération fait ressortir un effet significativement positif sur 
+l’investissement, mais il n’est dans ce cas pas possible d’en déduire un impact 
+macroéconomique puisque cela peut être lié à quelques branches ayant un poids 
+mineur dans l’économie.  
+En résumé, les travaux de l’OFCE au niveau des branches tendent, avec toutes les 
+précautions évoquées, à conclure : 
+– à un effet plutôt positif sur l’emploi et les salaires des entreprises des branches 
+productrices de services, où le partage de la valeur ajoutée est plus favorable à la 
+
+=== PAGE PDF 39 ===
+Chapitre 2 
+L’analyse du CICE au niveau macroéconomique 
+FRANCE STRATÉGIE  
+37 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+masse salariale. Dans ces branches, on n’identifie pas d’effet sur les prix de valeur 
+ajoutée : 
+– à l’inverse, dans les branches productrices des biens (industrie, agriculture et 
+construction), qui sont notamment plus exposées à la concurrence internationale, 
+l’impact du CICE n’aurait pas ou peu porté sur l’emploi et les salaires, mais aurait 
+plus été mobilisé dans une logique de compétitivité pour modérer les prix, et 
+possiblement ceux à l’exportation. Néanmoins, ces effets prix, s’ils sont identifiables 
+comme tendance, demeurent difficilement interprétables en termes d’ampleur ; 
+– dans les deux domaines des biens et des services, il n’est pas possible d’établir un 
+effet réellement significatif du CICE sur l’investissement. 
+ De la quantification des effets au bouclage 
+macroéconomique 
+ Les hypothèses tirées de l’analyse sectorielle 
+Les résultats précédents ne permettent réellement d’envisager une quantification des 
+effets que pour l’emploi et les salaires, les coefficients estimés sur les prix n’étant pas 
+compatibles en termes de magnitude. 
+À partir des coefficients significatifs sur l’emploi sur le seul champ des branches des 
+services, sur la période 2013-2016 (afin d’éviter une surestimation liée à l’année 
+2017), une fourchette d’estimation du volume d’emplois créés ou sauvegardés peut 
+être avancée (voir graphique 2). Il s’agit à ce stade, rappelons-le, d’une analyse 
+partielle puisque cumulant des effets sectoriels en équilibre partiel, sans tenir compte 
+des effets de bouclage macroéconomiques. Dans le champ des services, l’estimation 
+varie entre 150 000 emplois (avec une pondération des branches par l’emploi salarié) 
+à près de 200 000 emplois en pondérant les branches par leur nombre d’entreprises. 
+Les écarts-types de ces estimations sont cependant importants (de 125 000 à 
+265 000 par exemple pour la pondération par le nombre d’entreprises). C’est cette 
+estimation qui est la plus proche de l’estimation micro-économétrique, à cela près 
+qu’elle intègre en plus les effets de bouclage intrasectoriels et l’effet sur la 
+démographie des entreprises. 
+
+=== PAGE PDF 40 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+38 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Graphique 2 – Emplois créés ou sauvegardés selon la pondération retenue (en milliers) : 
+point estimé et +/- un écart type 
+ 
+Source : OFCE (2020), Évaluation de l’impact du CICE, op. cit.  
+ Simulation avec bouclage macroéconomique 
+La dernière étape consiste à introduire certains des résultats issus de l’analyse 
+sectorielle précédente dans un modèle macroéconomique pour simuler un effet 
+global du CICE tenant compte des effets de bouclage – c’est-à-dire les interdépen-
+dances entre secteurs et entre agents économiques, du fait de la consommation 
+induite par la distribution des salaires par exemple, puis de l’effet du financement 
+public du CICE. 
+En 2018, l’OFCE avait procédé à un exercice de ce type, sur la base du modèle 
+macroéconomique e-mod, en y incorporant certaines des élasticités estimées dans les 
+analyses microéconomiques issues des travaux de l’équipe TEPP.  
+L’exercice réalisé ici diffère à deux niveaux : 
+– le modèle macroéconomique utilisé est le modèle Three-ME de l’OFCE qui permet 
+une analyse sectorielle plus fine dans le cadre d’un équilibre général représentant 
+l’ensemble de l’économie (voir encadré 3) ; 
+
+=== PAGE PDF 41 ===
+Chapitre 2 
+L’analyse du CICE au niveau macroéconomique 
+FRANCE STRATÉGIE  
+39 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+– ce modèle est « calé » sur certains des résultats macrosectoriels issus de la 
+première phase sur un même échantillon, et non plus à partir des résultats issus 
+des travaux micro-économétriques.  
+L’inclusion des résultats des estimations de la première étape dans Three-ME se fait 
+à l’aide de cales appliquées aux équations d’emploi et de salaire sectorielles. Les 
+hypothèses retenues pour ce calage sont celles correspondant aux effets emploi 
+dans les services sur 2013-2016 avec une pondération par le nombre d’entreprises, 
+soit près de 200 000 emplois. Pour les salaires, les estimations retenues sont celles 
+sur la période 2013-2017 pour les services, avec la pondération par le nombre 
+d’entreprises. 
+Comme évoqué précédemment, en l’absence d’effet sur l’investissement et en raison 
+de la difficulté à prendre en considération le niveau des effets prix (exportation et valeur 
+ajoutée) identifiés pour le secteur des biens, les équations liées aux autres variables 
+d’intérêt sont inchangées par rapport à la calibration « classique » du modèle. Après 
+avoir calibré les cales, l’équipe de l’OFCE effectue une simulation macroéconomique 
+intégrant ces cales.  
+L’évaluation de politiques publiques au sein d’un modèle d’équilibre général repose sur 
+la comparaison d’un scénario tendanciel (aussi appelé « business as usual » ou « 
+scénario de référence ») et d’un scénario incluant la politique à évaluer. L’impact 
+estimé résulte de la différence entre les résultats des deux simulations. Le scénario de 
+référence est ici construit autour d’une hypothèse de croissance annuelle tendancielle 
+de 1,2 %. L’évaluation du CICE se fait donc en comparant la valeur des variables 
+d’intérêt suite à l’incorporation des cales résultant du CICE avec le scénario central 
+« business as usual ». 
+Encadré 3 – Le modèle Three-ME de l’OFCE 
+Conçu initialement pour évaluer les impacts économiques de politiques environ-
+nementales et énergétiques à moyen et long terme au niveau macroéconomique 
+et sectoriel, le modèle Three-ME est parfaitement adapté pour réaliser des 
+évaluations macroéconomiques sectorielles de politiques économiques plus 
+généralistes. 
+Three-ME est un modèle d’équilibre général keynésien, dans lequel les prix sont 
+rigides et n’équilibrent pas systématiquement l’offre et la demande. Ce cadre 
+théorique est mieux adapté pour l’analyse des politiques économiques car il 
+fournit des informations concernant la phase de transition des effets d’une 
+politique (et pas seulement une analyse de long terme). En cohérence avec la 
+
+=== PAGE PDF 42 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+40 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+théorie keynésienne, l’égalité entre l’offre et la demande est satisfaite en supposant 
+que la demande détermine l’offre. Sa désagrégation sectorielle permet l’analyse 
+des effets du transfert d’activité d’un secteur à un autre, notamment en termes 
+d’emplois, d’investissement, de consommation d’énergie et de commerce 
+extérieur.  
+Par rapport à la plupart des modèles macroéconomiques d’inspiration néo-
+keynésienne de l’économie française, Three-ME présente l’avantage d’être 
+structuré autour d’une désagrégation multisectorielle relativement détaillée. Dans 
+sa calibration principale, il dispose d’une segmentation en 37 secteurs écono-
+miques. Dans le cadre des travaux d’évaluation du CICE, Three-ME a été 
+complètement recalibré pour correspondre à la classification A38. 
+La structure du modèle permet d’identifier l’hétérogénéité des impacts macro-
+économiques à une résolution sectorielle fine. En particulier, Three-ME tient 
+compte de l’effet du transfert d’activité d’une branche à l’autre sur l’emploi, les 
+salaires, la balance commerciale, la demande et la croissance. 
+Dans un premier temps, l’OFCE simule un scénario avec « absence de 
+financement », c’est-à-dire que le CICE n’aurait été financé ni par des prélèvements 
+obligatoires supplémentaires, ni par des baisses de dépenses publiques. Un tel 
+scénario suppose donc un financement intégral par le déficit public, ce qui dans un 
+modèle d’inspiration keynésienne, produit un fort effet d’entraînement macro-
+économique. C’est implicitement le scénario retenu dans les évaluations micro-
+économétriques, sauf que celles-ci n’intègrent pas précisément l’effet de bouclage 
+keynésien. 
+Dans un scénario alternatif, le CICE est intégralement financé au fil du temps. 
+Reprenant les hypothèses formulées en 20181, il est alors supposé que le CICE 
+s’est accompagné d’une hausse de prélèvements obligatoires en 2014 et 2015, et 
+d’économie sur les dépenses publiques étalées sur trois ans entre 2015 et 2017. 
+                                            
+1 Voir le rapport 2018 du comité d’évaluation, p. 28. En 2015, le financement intégral reposait sur une 
+hausse des prélèvements (via la hausse de la TVA de 6 milliards d’euros intervenue en 2014 et la 
+hausse progressive de la fiscalité écologique de 2,5 milliards d’euros en 2014 puis 1,5 milliard 
+supplémentaire en 2015). Pour le volet « dépenses publiques », l’équipe de l’OFCE a été contrainte 
+de faire des hypothèses, faute de détails fournis par la puissance publique sur le type précis des 
+économies effectuées en dépenses. Une réduction de 8 milliards d’euros a ainsi été appliquée, en 
+répartissant l’effort budgétaire sur l’investissement public, les consommations intermédiaires et la 
+masse salariale versées par les administrations publiques, ainsi que sur les prestations sociales. En 
+outre, la baisse de dépenses est supposée monter en puissance progressivement, à compter de 2015 
+et sur trois ans. 
+
+=== PAGE PDF 43 ===
+Chapitre 2 
+L’analyse du CICE au niveau macroéconomique 
+FRANCE STRATÉGIE  
+41 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Dès lors les estimations effectuées sur la période 2013-2016 supposent un 
+financement partiel, le dernier tiers des baisses de dépenses n’ayant pas eu lieu, 
+tandis que les estimations présentées en 2017 impliquent un financement total du 
+dispositif. 
+Ces hypothèses sur le financement tiennent en partie aux annonces qui avaient été 
+faites a priori sur le financement du CICE. Dans les faits, il est cependant difficile de 
+savoir comment et dans quelle mesure s’est effectué le financement du CICE, et ces 
+hypothèses doivent être considérées comme illustratives. 
+Les résultats suggèrent pour l’estimation sur la seule base des effets sur 32 secteurs 
+dans les services (période 2013-2016, avec pondération par le nombre d’entreprises) 
+un effet de l’ordre de 400 000 emplois. Le bouclage du modèle macroéconomique avec 
+financement total en 2017 ramène cet effet à 160 000 emplois1. Ici aussi les écarts-
+types des estimations sont larges (voir graphique 3).  
+Cette estimation de 400 000 emplois dans le scénario non financé paraît élevée, 
+supérieure aux estimations ex ante de la Direction générale du Trésor en 2013-2014, 
+alors même que les effets prix ont été mis conventionnellement à zéro dans l’industrie, 
+et que dans les services, l’année 2017 a été exclue de l’estimation de l’élasticité de 
+l’emploi car elle conduisait à des résultats jugés trop élevés. 
+Ces simulations, indicatives, souffrent de nombreuses limites : les incertitudes et 
+hypothèses faites sur le financement du CICE, le choix de la pondération pour caler 
+les effets emploi et salaire au niveau sectoriel et le ciblage exclusif des effets emplois 
+sur les services. On peut notamment regretter l’impossibilité de prendre en compte 
+l’effet du CICE sur les prix et de ce fait son effet de diffusion entre branches, ou encore 
+l’absence d’effet quantifiable sur l’investissement. Comme souligné par Anne Epaulard 
+(université Paris Dauphine, rapport en annexe 4), certaines hypothèses méritent 
+toutefois d’être étayées, en particulier l’hypothèse d’une vitesse d’ajustement des 
+variables à leur cible qui serait constante entre tous les secteurs. Une analyse 
+approfondie, mesurant notamment la sensibilité des résultats à ces paramètres 
+d’ajustement, mériterait d’être menée. 
+                                            
+1 Avec ce scénario, l’effet sur le PIB serait quasi nul en 2017. 
+
+=== PAGE PDF 44 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+42 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Graphique 3 – Effets du CICE sur l’emploi en 2017, en milliers d’emploi 
+ 
+Source : OFCE (2020), Évaluation de l’impact du CICE, op. cit., p. 55  
+ 
+ 
+
+=== PAGE PDF 45 ===
+ 
+ 
+ 
+ 
+ 
+FRANCE STRATÉGIE  
+43 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+ 
+ANNEXES  
+
+=== PAGE PDF 46 ===
+
+=== PAGE PDF 47 ===
+ 
+ 
+ 
+ 
+ 
+FRANCE STRATÉGIE  
+45 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+ANNEXE 1 
+COMPOSITION DU COMITÉ 
+DE PILOTAGE TECHNIQUE 
+Un comité technique a été constitué pour suivre et expertiser les travaux de recherche 
+sur les effets microéconomiques et macroéconomiques du CICE. Il est composé de 
+chercheurs ou experts en méthodes économétriques d’évaluation des politiques 
+publiques et de représentants d’administrations productrices de données. 
+Pilotage France Stratégie 
+Cédric AUDENIS, commissaire général adjoint de France Stratégie 
+Antoine NABOULET, département Travail, Emploi et Compétences 
+Adam BAÏZ, département Économie 
+Amandine BRUN-SCHAMMÉ, département Travail, Emploi et Compétences 
+Guilhem TABARLY, département Économie 
+Membres 
+Thomas BOURDAIS, Direction générale du Trésor 
+Anne EPAULARD, université Paris Dauphine, conseillère scientifique à France Stratégie 
+Gérard FORGEOT, DGFiP 
+Sébastien GROBON, Dares 
+Marie KHATER, Direction générale du Trésor 
+Cyrille HAGNERÉ, Acoss 
+Adrien LAGOUGE, Insee 
+Clémence LENOIR, Direction générale du Trésor 
+Fanny MIKOL, Dares 
+Benoît OURLIAC, Insee 
+Sébastien ROUX, Insee, CREST, Ined 
+Alain TRANNOY, EHESS, AMSE, conseiller scientifique à France Stratégie 
+
+=== PAGE PDF 48 ===
+
+=== PAGE PDF 49 ===
+ 
+ 
+ 
+ 
+ 
+FRANCE STRATÉGIE  
+47 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+ANNEXE 2 
+COMPOSITION DES ÉQUIPES TEPP ET OFCE 
+Équipe de la fédération TEPP  
+Fabrice GILLES, université de Lille, LEM et TEPP 
+Yannick L’HORTY, université Gustave Eiffel, ERUDITE et TEPP 
+Ferhat MIHOUBI, université Paris-Est Créteil, ERUDITE et TEPP 
+Équipe de l’OFCE (évaluation macroéconomique) 
+Bruno DUCOUDRE, Sciences Po Paris, OFCE 
+Éric HEYER, Sciences Po Paris, OFCE 
+Mathieu PLANE, Sciences Po Paris, OFCE 
+Raul SAMPOGNARO, Sciences Po Paris, OFCE 
+Xavier TIMBEAU, Sciences Po Paris, OFCE 
+Aurélien SAUSSAY, Sciences Po Paris, OFCE (au moment de la rédaction de l’étude) 
+Nicolas YOL, Sciences Po Paris, OFCE (au moment de la rédaction de l’étude) 
+ 
+ 
+
+=== PAGE PDF 50 ===
+
+=== PAGE PDF 51 ===
+ 
+ 
+ 
+ 
+ 
+FRANCE STRATÉGIE  
+49 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+ANNEXE 3 
+ RAPPORTS DE LECTURE 
+SUR L’ÉTUDE FINALE DE L’ÉQUIPE TEPP 
+ 
+ 
+ 
+
+=== PAGE PDF 52 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+50 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Alain Trannoy 
+Directeur d’études à l’EHESS et conseiller scientifique à France Stratégie 
+Le crédit d’impôt pour la compétitivité et l’emploi (CICE) constitue un instrument fiscal 
+à large spectre. Les entreprises sont restées très libres de l’utilisation de ce crédit 
+d’impôt à l’impôt sur les sociétés (IS), même si le montant du crédit d’impôt était lui-
+même associé à la masse salariale en dessous de 2,5 Smic. À la limite, une entreprise 
+qui n’employait que des robots ne bénéficiait pas de ce crédit d’impôt à l’IS.  
+Ce nouveau rapport approfondit la stratégie de recherche de l’équipe TEPP sur ce 
+thème qui se caractérise par la prise en compte de l’hétérogénéité des entreprises 
+quant à la réponse des entreprises au traitement, et ceci pour une raison essentielle : 
+l’intensité de traitement varie d’une entreprise à une autre suivant la proportion des 
+salariés payés en dessus de 2,5 Smic. En général, TEPP module la réponse au 
+traitement en fonction de l’appartenance à un quartile d’entreprises lorsque les 
+entreprises sont classées selon l’intensité du traitement. L’intérêt d’une telle approche 
+est d’autoriser explicitement une réponse non linéaire au traitement et de s’affranchir 
+d’une hypothèse d’une régularité linéaire de la réponse au traitement. Et effectivement, 
+dans les rapports précédents, TEPP a toujours trouvé que la réponse positive au 
+traitement était manifeste dans le dernier quartile correspondant aux entreprises les 
+plus exposées au traitement relativement aux entreprises dont l’intensité du traitement 
+est la plus faible, à savoir les entreprises du premier quartile.  
+La ligne de force du nouveau rapport, en sus de consolider les évaluations portant sur 
+2016 en s’appuyant sur les données définitives, est vraiment de rechercher le 
+maximum de robustesse des résultats en multipliant les sources de données utilisées 
+et en croisant les méthodes statistiques. Les résultats ont donc gagné en rigueur, en 
+solidité et en précision.  
+À mon sens, sur le plan économique, l’élément le plus significatif de tous les 
+changements apportés porte sur la dimension de l’appartenance à un groupe fiscal. 
+Précédemment, les entreprises d’un même groupe étaient considérées comme des 
+entités indépendantes. Cette fois-ci, les données de toutes les entreprises appartenant 
+à un même groupe ont été consolidées au niveau de celui-ci. Cette façon de faire 
+permet de capturer une prise de décision quant aux effets du CICE au niveau du 
+groupe fiscal, dans la mesure où c’est à ce niveau que l’IS est payé et donc que le 
+CICE est crédité. 
+
+=== PAGE PDF 53 ===
+Annexe 3 
+Rapports de lecture sur l’étude finale de l’équipe TEPP 
+FRANCE STRATÉGIE  
+51 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+En mobilisant le fichier PERIM de la DGFiP, les auteurs ont constitué un panel de 
+7 741 groupes fiscaux pérennes employant cinq salariés et plus, et couvrant 50 % de 
+l’emploi salarié au sein des groupes fiscaux.  
+En procédant à une estimation conjointe sur les groupes fiscaux et les entreprises 
+isolées, en quelque sorte les unités fiscales qu’elles soient groupées ou indépen-
+dantes, les auteurs retrouvent leur résultat obtenu dans les rapports précédents, à 
+savoir un effet assez fort sur l’emploi pour les unités fiscales du quartile le plus exposé 
+par rapport au quartile le moins exposé. L’effet est assez fort, car l’élasticité de l’emploi 
+est estimée autour de 3, et reste concentré autour de l’année 2014.  
+Quand les auteurs estiment maintenant l’effet sur l’emploi sur les seuls groupes 
+fiscaux, ils n’obtiennent pas d’effet du CICE sur l’emploi, même pour les groupes 
+fiscaux du quartile le plus exposé. En revanche, le chiffre d’affaires, la valeur ajoutée 
+et le taux de marge de ces groupes augmentent toujours par rapport aux groupes du 
+quartile le moins exposé. C’est un résultat nouveau et en réalité capital pour la 
+compréhension du cheminement de l’impact du CICE. Dans les groupes fiscaux, la 
+tête de groupe, l’entreprise holding, a fait écran par rapport aux filiales dans l’usage du 
+CICE. Celui-ci a été considéré comme une simple réduction de l’impôt sur les sociétés 
+– ce qu’il est objectivement aussi –, permettant d’améliorer ainsi la trésorerie du 
+groupe, sa solvabilité et par voie de conséquence son taux de marge. En revanche 
+dans les entreprises isolées, la perception dominante, ou du moins assez prégnante a 
+été celle d’une réduction du coût du travail, permettant ainsi l’embauche ou le maintien 
+de l’emploi plus affirmé, même si le taux de marge a aussi progressé. En conséquence, 
+l’effet sur l’emploi est uniquement porté par les entreprises indépendantes et l’esti-
+mation sur celles-ci conduit à un gain de l’ordre de 75 000 emplois essentiellement 
+concentré sur l’année 2014.  
+Ce rapport permet donc d’élucider l’énigme qui nimbait les estimations du CICE depuis 
+le début des études sur les évaluations d’impact. La réponse des entreprises a été 
+hétérogène suivant leur degré d’exposition, certes, mais aussi selon qu’elles sont 
+indépendantes ou membres d’un groupe fiscal. Dans la seconde hypothèse, le CICE 
+a été utilisé au « premier degré » comme un allègement d’IS. Toutefois, il ne faut pas 
+en conclure qu’un allègement d’IS est forcément défavorable aux salariés, comme 
+l’avaient enseigné les recherches de Haberger dans le cadre d’un modèle bisectoriel. 
+Si l’effet direct est bien celui d’une augmentation de la rentabilité du facteur capital, le 
+facteur travail peut aussi en bénéficier, via des effets d’équilibre général. Les groupes 
+ont d’ailleurs augmenté leur masse salariale, sans augmenter l’emploi, ce qui implique 
+des salaires plus élevés pour les personnes en place, ou/et des recrutements de 
+personnes plus qualifiées.  
+
+=== PAGE PDF 54 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+52 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+La transformation du CICE en allègement de charge devrait mettre fin à cette ambiguïté 
+du CICE, à cette dualité du CICE, et le comportement des groupes devrait s’aligner sur 
+celui des entreprises indépendantes. C’est en tout cas la prédiction la plus plausible 
+que l’on peut formuler à la suite de ces recherches de l’équipe TEPP. 
+ 
+ 
+ 
+
+=== PAGE PDF 55 ===
+Annexe 3 
+Rapports de lecture sur l’étude finale de l’équipe TEPP 
+FRANCE STRATÉGIE  
+53 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Clémence Lenoir et Marie Khater  
+Direction générale du Trésor 
+Le crédit d’impôt pour la compétitivité et l’emploi (CICE) a consisté en une 
+créance fiscale pour les entreprises proportionnelle à la masse salariale brute 
+en-dessous de 2,5 Smic entre 2013 et 2018. Au 1er janvier 2019, il a été transformé 
+en baisse du coût du travail pérenne. Politique publique importante par sa taille et ses 
+enjeux, son coût budgétaire cumulé entre 2014 et 2018 s’élèverait à près de 
+68 milliards d’euros. Si le calcul de la créance fiscale dépend des salaires et de l’emploi 
+au sein d’une entreprise, l’usage du CICE reste très ouvert et a pu être utilisé par les 
+entreprises pour soutenir l’emploi, réaliser des investissements ou encore augmenter 
+leurs marges.  
+Ce sixième rapport du TEPP permet d’évaluer l’effet du CICE sur l’emploi1 et 
+l’activité des entreprises sur la période 2014-2016. Ce nouveau rapport stabilise la 
+méthodologie des estimations micro-économétriques des effets du CICE et du Pacte 
+de responsabilité. L’estimation est conduite à partir de données microéconomiques 
+d’entreprises individuelles et de groupes fiscaux sur l’emploi, les salaires, les montants 
+de CICE perçus chaque année, ainsi que de variables comptables (investissement, 
+export, dettes, etc.). La vaste majorité des entreprises en France ayant bénéficié du 
+CICE, il n’est pas possible d’évaluer les effets du dispositif en comparant les 
+entreprises bénéficiaires aux autres entreprises. Pour contourner cette difficulté, les 
+auteurs ont classé les entreprises selon l’intensité de traitement, c’est-à-dire, le 
+montant de CICE reçu relativement à leur masse salariale. Les effets du CICE sont 
+donc évalués en comparant l’évolution de l’emploi avant et après la mise en place du 
+CICE de quatre groupes d’entreprises bénéficiant du CICE à des intensités différentes. 
+L’intensité de traitement dépend de la part des salaires en-dessous de 2,5 Smic versés 
+dans une entreprise qui est éligible au CICE. Les auteurs prennent également en 
+compte les corrélations systématiques entre l’intensité de traitement et des 
+caractéristiques inobservées des entreprises (potentiel de croissance, etc.) en 
+instrumentant l’intensité de traitement par l’exposition au CICE avant sa mise en place.  
+L’exploitation de nouvelles données dans ce sixième rapport permet de conduire 
+des analyses plus précises au niveau du groupe fiscal. Le bénéficiaire du CICE 
+est soit une entreprise individuelle soit une entreprise à la tête d’un groupe fiscal. Le 
+CICE est ensuite réparti – d’une manière inobservée – entre les différentes unités de 
+                                            
+1 L’effet emploi estimé correspond à l’effet direct hors bouclage macroéconomique (ou effet micro-
+économique). Les effets emploi y compris effets de bouclage macroéconomique sont l’objet de l’étude 
+réalisée par l’OFCE. 
+
+=== PAGE PDF 56 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+54 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+ce groupe fiscal. Dans ce nouveau rapport, les auteurs ne font plus d’hypothèses sur 
+la ventilation des bénéfices du CICE au sein d’un groupe fiscal au prorata de ce que 
+l’entreprise aurait dû percevoir. Ils mènent leur analyse au niveau du groupe fiscal 
+grâce à l’accès au fichier PERIM de la DGFiP, qui permet de reconstituer les contours 
+d’un groupe fiscal et d’éviter d’attribuer indûment des montants perçus de CICE à des 
+unités qui n’en ont pas perçu.  
+Les conclusions sont plus riches que celles des rapports précédents grâce à la 
+distinction des effets sur les groupes fiscaux et les entreprises individuelles. Le 
+CICE aurait permis de créer ou sauvegarder environ 115 000 emplois en 2014 et 
+autour de 100 000 en moyenne sur les périodes 2014-2015 et 2014-20161. L’effet 
+serait très hétérogène entre les entreprises : l’effet sur l’emploi viendrait uniquement 
+des entreprises individuelles tandis que les groupes fiscaux les plus bénéficiaires du 
+CICE n’auraient pas systématiquement créé plus d’emplois. L’analyse sectorielle reste 
+peu concluante : les résultats ne sont pas robustes sur l’emploi dans l’industrie tandis 
+que l’effet emploi dans le tertiaire n’est pas directement interprétable comme étant lié 
+au CICE. Le CICE poursuivant l’objectif de compétitivité des entreprises, l’équipe 
+TEPP évalue son effet sur différentes variables relatives à l’activité des entreprises. Si 
+des effets significatifs sont trouvés sur l’activité (valeur ajoutée), sur les variables liées 
+à la compétitivité (valeur ajoutée par tête et investissement notamment) les effets 
+estimés sont moins robustes et plus difficiles à interpréter. 
+De nombreux tests consolident et renforcent la validité des résultats des 
+rapports précédents. Le présent rapport assure la validité méthodologique et 
+l’interprétation des résultats en conduisant systématiquement des tests de falsification 
+(placebo) qui vérifient que les effets estimés ne proviennent pas d’artefacts statis-
+tiques2. Ensuite, les auteurs vérifient désormais que leur estimation en différences ne 
+sous-estime pas l’effet total par rapport à une estimation linéaire de l’effet emploi. En 
+effet, l’estimation principale se fait en écart par rapport aux entreprises bénéficiant le 
+moins du CICE. Si ces entreprises ont tout de même utilisé le CICE pour augmenter 
+leur niveau d’emploi, cet effet emploi ne serait pas pris en compte dans l’estimation 
+économétrique du TEPP. Le présent rapport permet d’écarter cette possibilité : une 
+analyse complémentaire conclut à un effet causal du CICE sur l’emploi pour le quart 
+des entreprises les plus bénéficiaires et à l’absence d’effet significatif pour les autres 
+entreprises. 
+                                            
+1 Les effets emploi ne sont pas additifs. 
+2 Un test de falsification permet dans le cadre d’une estimation en double différences ou en triple 
+différences de vérifier l’hypothèse de tendance commune. 
+
+=== PAGE PDF 57 ===
+Annexe 3 
+Rapports de lecture sur l’étude finale de l’équipe TEPP 
+FRANCE STRATÉGIE  
+55 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+L’analyse est conduite sur un échantillon très important mais non exhaustif : 
+123 344 entreprises et groupes fiscaux présents continûment sur la période 2009-2016 
+et employant 5 salariés ou plus. L’échantillon des groupes fiscaux représente un peu 
+plus de la moitié de l’emploi et du CICE perçu sur la période. La restriction de 
+l’échantillon aux entreprises présentes tout au long de la période pour les entreprises 
+individuelles et aux entreprises appartenant au même groupe fiscal pour les autres a 
+un impact sur l’interprétation des résultats. Par exemple, dans un groupe fiscal qui 
+utiliserait le CICE pour s’étendre et créer de nouvelles unités, ces unités créées 
+seraient écartées de l’analyse (aléas à la baisse de l’effet du CICE). Inversement, pour 
+un groupe fiscal qui péricliterait et fermerait des entités, les fermetures ne seraient pas 
+prises en considération dans l’échantillon (aléas à la hausse de l’effet du CICE). 
+Des analyses complémentaires restent à mener pour comprendre les mécanismes 
+économiques sous-jacents aux estimations réalisées. Dans le présent rapport, une 
+fois pris en compte l’effet de la réduction générale, l’effet du CICE ne serait pas plus 
+important pour les entreprises qui ont leur masse salariale très concentrée sur les bas 
+salaires (salaires inférieurs à 1,6 Smic)1. Ce résultat peut sembler contre-intuitif au vu 
+de la littérature sur les effets emploi d’une baisse du coût du travail, qui les considère 
+plus importants pour les bas salaires du fait d’un effet de substitution plus marqué entre 
+le facteur travail peu qualifié et le facteur capital. Plusieurs pistes d’explication sont 
+possibles : la particularité du CICE comme créance fiscale a pu altérer la lisibilité du 
+dispositif comme baisse du coût du travail et donc les effets théoriques attendus plus 
+marqués sur les bas salaires ; ensuite ce résultat peut s’expliquer par l’existence de 
+rendements décroissants pour les baisses du coût du travail2. En effet, le CICE constitue 
+une forte baisse du coût du travail pour les entreprises qui ont une masse salariale 
+concentrée sur les salaires intermédiaires, et qui bénéficient donc peu des allègements 
+généraux, mais une baisse relativement plus modérée pour celles qui bénéficient à 
+plein des allègements généraux. L’exploitation des DADS 2017 devrait permettre 
+d’approfondir ces résultats et leur comparaison avec l’effet du Pacte de responsabilité. 
+Il reste également à mieux comprendre pourquoi les emplois créés ou 
+sauvegardés grâce au CICE diminueraient au cours du temps : 115 400 en 2014 
+contre 99 200 en moyenne sur la période 2014-2016, soit une baisse d’environ 14 %. 
+                                            
+1 En revanche, les auteurs trouvent un effet du premier volet du Pacte de responsabilité plus marqué 
+pour les entreprises versant les salaires les plus faibles – entreprises appartenant au quartile ayant la 
+part des salaires inférieurs à 1,6 Smic la plus importante. 
+2 La littérature empirique sur données françaises n’a pas mis en évidence à ce stade de « rendements 
+décroissants » : voir L’Horty Y., Mayer T. et Martin P. (2019), « Baisses de charges : stop ou encore ? », 
+Note CAE n° 49, janvier, et France Stratégie (2017), Les exonérations générales de cotisations, Rapport 
+du COSAPE, juillet. 
+
+=== PAGE PDF 58 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+56 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Il serait utile de s’assurer de la significativité statistique de cette baisse et de vérifier que 
+celle-ci n’est pas un artefact statistique lié par exemple à la moindre qualité de 
+l’instrument utilisé. La présentation de régressions de première étape, sous forme de 
+tableau ou de graphe, permettrait de vérifier l’évolution dans le temps de la corrélation 
+entre l’exposition au CICE mesurée entre 2011 et 2012, et les créances effectivement 
+initialisées de CICE entre 2014 et 2016. Si ce résultat était confirmé, il resterait peu intuitif 
+au regard des modalités du CICE et de sa montée en charge. Du fait des modalités, les 
+versements de CICE perçus par les entreprises1 augmentent fortement les premières 
+années : 6,2 milliards en 2014, 11,7 milliards en 2015. La relative atonie des effets 
+emploi trancherait alors avec la dynamique budgétaire du CICE et resterait à expliquer. 
+Enfin, l’effet très hétérogène entre groupes fiscaux et entreprises indépendantes 
+soulève des questions2 et reste ouvert à interprétation. Quelle a été l’utilisation du 
+CICE par les groupes fiscaux ? Le rapport indique des effets du CICE sur la masse 
+salariale, le chiffre d’affaires, la valeur ajoutée et le taux de rentabilité économique des 
+groupes fiscaux. Il serait utile de pouvoir décomposer cet effet entre ces différentes 
+composantes afin de retracer l’utilisation du CICE. Une fenêtre temporelle élargie 
+pourrait également permettre de mieux appréhender les effets pour les groupes 
+fiscaux. Pour eux, les effets emploi du CICE peuvent être plus longs à monter en 
+charge. Ce serait notamment le cas si le CICE avait permis des investissements3 qui 
+génèrent des emplois à plus long terme. L’effet plus faible à horizon de 3 ans sur les 
+groupes fiscaux pourrait également provenir de différences dans le préfinancement du 
+CICE qui semble avoir majoritairement bénéficié aux TPE et PME. 
+Il reste important de poursuivre l’évaluation du CICE et de la baisse du coût du 
+travail liée au Pacte de responsabilité. En effet, ces deux dispositifs ont représenté 
+un coût budgétaire important. Ces évaluations approfondies seront éclairantes pour la 
+conception des politiques publiques permettant de soutenir l’emploi : y a-t-il des 
+rendements décroissants d’une baisse du coût du travail ? Les baisses du coût du 
+travail sur les salaires intermédiaires à élevés (deuxième volet du Pacte de responsa-
+bilité) ont-elles un effet significatif sur l’emploi4? Sur les salaires ? La lisibilité du 
+dispositif mis en place semble également essentielle puisque le CICE a eu un effet très 
+différent selon l’organisation de l’entreprise. 
+ 
+                                            
+1 Entreprises soumises à l’impôt sur les sociétés. 
+2 L’absence d’effet significatif pour les groupes fiscaux doit être interprétée avec prudence. En effet, 
+l’échantillon utilisé comporte nettement moins d’observations que pour les entreprises indépendantes. 
+3 Investissements immatériels notamment, aucun effet sur l’investissement corporel n’étant à ce stade 
+détecté. 
+4 L’Horty Y., Mayer T. et Martin P. (2019), « Baisses de charges : stop ou encore ? », op. cit.  
+
+=== PAGE PDF 59 ===
+ 
+ 
+ 
+ 
+ 
+FRANCE STRATÉGIE  
+57 
+OCTOBRE 2018 
+www.strategie.gouv.fr 
+ 
+ANNEXE 4 
+RAPPORTS DE LECTURE 
+SUR L’ÉTUDE FINALE DE L’ÉQUIPE OFCE  
+ 
+ 
+ 
+
+=== PAGE PDF 60 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+58 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Anne Epaulard 
+Université Paris Dauphine - PSL et conseillère scientifique à France Stratégie 
+L’OFCE propose une évaluation de l’impact du CICE sur les grandeurs macro-
+économiques à partir d’une méthode – mise au point pour l’occasion – fondée sur 
+l’exploitation économétrique des évolutions sectorielles des variables d’intérêt avant et 
+après l’installation du CICE et reposant sur les différences d’intensité de traitement au 
+CICE. Ceci permet d’identifier des réponses sectorielles en termes d’emploi, de salaires, 
+de prix et d’investissement. Ces réponses sectorielles sont par la suite introduites dans 
+le modèle macroéconomique de l’OCDE. Cette approche qui tire donc parti des diffé-
+rences sectorielles d’accès au CICE (en % de la masse salariale) est complémentaire 
+de celles qui se fondent sur des données individuelles d’entreprises. Un premier travail 
+sur données sectorielles avait été déjà proposé par l’OFCE. Le présent travail utilise des 
+données sectorielles un peu plus fines, car on peut distinguer désormais 38 secteurs 
+(dont 32 ont accès au CICE) contre 17 seulement dans les travaux précédents.  
+Le rapport est très clair et la méthode utilisée bien expliquée. La lecture d’un tel rapport 
+déclenche inévitablement des questionnements chez le lecteur. Ces questionnements 
+sont exposés ci-dessous. Ils me laisser penser qu’il est possible que les effets du CICE 
+sur l’économie soient ici sous-évalués. Les résultats présentés dans le rapport de 
+l’OFCE constituent cependant une brique incontournable à l’évaluation des effets du 
+CICE. Les auteurs de l’étude doivent être félicités pour cela.  
+1 – La méthode et les principaux résultats  
+La méthode utilisée 
+La méthode, développée pour l’occasion, enchaîne 4 étapes : 
+– en utilisant une décomposition en 38 branches de l’économie – dont 32 bénéficient 
+du CICE – les évolutions de l’emploi, des salaires, des prix et de l’investissement 
+sur la période pré-CICE sont estimées par des méthodes économétriques simples ; 
+– dans une deuxième étape, les évolutions des mêmes variables sont prédites sur la 
+période post-CICE. Par construction, ces prévisions ne prennent pas en compte 
+l’impact du CICE. Elles servent alors de référence à laquelle comparer l’évolution 
+observée, laquelle intègre les effets du CICE ; 
+– la troisième étape tire parti du fait que toutes les branches de l’économie n’ont pas 
+reçu des montants identiques de CICE en proportion de leur masse salariale. L’idée 
+est alors de comparer l’écart entre les évolutions observées (avec CICE) et les 
+
+=== PAGE PDF 61 ===
+Annexe 4 
+Rapports de lecture sur l’étude finale de l’équipe OFCE  
+FRANCE STRATÉGIE  
+59 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+évolutions prédites (sans CICE) à « l’intensité de traitement » de la branche en 
+CICE. Une régression économétrique simple permet de mesurer l’impact sur les 
+variables d’intérêt (emplois, salaires, prix, investissement) du CICE en contrôlant 
+des effets caractéristiques de la branche et de l’année. On peut calculer l’impact du 
+CICE sur les différentes variables d’intérêt ; 
+– la dernière étape consiste enfin à injecter les impacts du CICE précédemment 
+calculés dans un modèle macro-économétrique pour prendre en compte les effets 
+de bouclage macroéconomiques et ceux du financement (les hausses d’impôts et 
+les baisses de dépenses publiques qui ont accompagné la mise en place du CICE 
+afin d’en financer une partie).  
+Les principaux résultats sont les suivants 
+• Dans les services, il semble y avoir un lien clair et positif entre emploi et intensité 
+de traitement au CICE, avec une semi-élasticité de 0,8 environ (tableau 10 page 27) 
+ainsi qu’un effet sur les salaires avec une élasticité de l’ordre de 1.  
+• Dans les branches exportatrices (majoritairement des branches produisant des 
+biens), l’impact du CICE se fait principalement sentir sur les prix à l’exportation. 
+Pour ces branches de biens, l’effet du CICE semble aussi présent sur les prix de 
+valeur ajoutée.  
+• Les effets du CICE sur l’investissement paraissent nuls.  
+• Il est difficile de mettre en évidence des effets indirects du CICE entre les branches 
+(c’est-à-dire des effets du CICE qui se propagerait d’une branche à l’autre via les 
+prix des consommations intermédiaires).  
+• Finalement, quand les effets sectoriels (et en équilibre partiel) et le financement du 
+CICE (prélèvements obligatoires et réduction des dépenses publiques) sont 
+introduits dans un modèle macro-économétrique, l’étude évalue que le CICE aurait 
+permis de gagner 160 000 emplois en 2017 par rapport à un scénario où le CICE 
+n’aurait pas été introduit.  
+2 – Évaluation critique de l’étude 
+Il y a deux façons de commenter ces résultats. La première s’attarde aux différentes 
+étapes pour juger de la crédibilité générale des résultats. La seconde vise à juger de 
+la plausibilité des résultats au regard du fonctionnement de l’économie française.  
+
+=== PAGE PDF 62 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+60 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+A – Les principales étapes  
+La méthode est simple, bien expliquée et appliquée assez rigoureusement, avec des 
+tests de robustesse nombreux. Les tableaux sont clairs et faciles à lire. Compte tenu 
+des données disponibles, il est difficile de faire des choses beaucoup plus 
+sophistiquées. Il y a cependant des hypothèses qui sont posées et qui ne sont guère 
+commentées alors qu’elles sont susceptibles d’affecter l’ampleur des résultats.  
+C’est par exemple le cas de l’hypothèse d’une vitesse d’ajustement des variables à 
+leur cible constante entre tous les secteurs. En quoi cette hypothèse est-elle 
+nécessaire ? Surtout, quelles en sont les conséquences ? Avec une force de rappel de 
+0,132 (qui signifie que d’une année sur l’autre 13,2 % de l’écart de l’emploi à la cible 
+est comblé), on aurait aimé une discussion du coefficient obtenu. Notamment dans la 
+construction du contrefactuel, s’il faut 7,5 années pour que les entreprises comblent le 
+gap entre emploi désiré et emploi effectif créé par l’arrivée du CICE, lorsque l’on 
+regarde les effets du CICE sur l’emploi en 2017 (quatre ans après la mise en œuvre 
+du dispositif), on a environ seulement la moitié des effets attendus sur l’emploi. Au 
+total, il est possible que l’on sous-estime les effets du CICE.  
+Pour les évolutions des salaires, de l’emploi et des prix estimés aux niveaux sectoriels, 
+un rapide commentaire sur la plausibilité « comptable » des résultats en équilibre 
+partiel aurait été utile au lecteur. Notamment la raison pour laquelle les effets prix dans 
+le secteur exportateur ne sont pas jugés d’ampleur crédible aurait pu être mieux 
+expliquée.  
+B – Quels sont les enchaînements économiques compatibles avec ces résultats ?  
+L’image que l’on peut schématiquement se faire de l’économie française est celle d’une 
+économie où la concurrence (notamment internationale) n’est pas vive dans les 
+services alors qu’elle l’est dans l’industrie. En conséquence, on s’attend à ce que les 
+marges de manœuvre que donnent le CICE ne soient pas utilisées de la même façon 
+dans les deux secteurs.  
+C’est exactement ce que l’on observe : dans les services, les entreprises auraient 
+utilisé le CICE pour augmenter l’emploi et les salaires, sans réduire leurs prix ; dans 
+l’industrie au contraire, les entreprises auraient utilisé le CICE pour réduire leurs prix, 
+notamment à l’exportation, afin de mieux résister à la concurrence internationale.  
+Cependant, au moment de passer aux simulations macroéconomiques, seuls les effets 
+mesurés en équilibre partiel sur les services sont pris en compte. Les auteurs de l’étude 
+considèrent les résultats sur les prix dans l’industrie trop fragiles et surtout d’ampleur 
+trop importante à leurs yeux (compte tenu des montants de CICE obtenus par ces 
+
+=== PAGE PDF 63 ===
+Annexe 4 
+Rapports de lecture sur l’étude finale de l’équipe OFCE  
+FRANCE STRATÉGIE  
+61 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+branches) pour être introduits dans le modèle. Il reste qu’une partie de l’effet du CICE 
+n’est peut-être pas pris en compte dans l’étude… et au total les effets sur l’emploi sont 
+peut-être sous-estimés. Il nous manque ici une bonne compréhension de ce qui se 
+passe dans l’industrie.  
+ 
+ 
+
+=== PAGE PDF 64 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+62 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Adrien Lagouge 
+Insee 
+Je tiens de nouveau à saluer cette nouvelle étude, dont les résultats constituent une 
+sorte de bilan de tous ceux produits au cours des précédents travaux. Quelques 
+remarques méthodologiques concernant certaines étapes de l’estimation seront 
+néanmoins apportées.  
+L’augmentation de la taille longitudinale de l’échantillon de secteurs considérés 
+constitue tout d’abord une plus-value tout à fait intéressante, qui vient éclairer d’un jour 
+nouveau les résultats décrits jusqu’ici dans les précédentes études. En particulier, la 
+mise en évidence d’effets hétérogènes entre secteurs, probablement fonction des 
+différences de structure salariale, est une conclusion forte de ce rapport. Comme le 
+montrent les auteurs, le CICE semble avoir entraîné une augmentation de la masse 
+salariale uniquement dans le secteur des services sans venir modifier celle du secteur 
+de production de biens. Ce résultat sera notamment important et à prendre en 
+considération pour de futures évaluations ex ante de baisses ciblées du coût du travail. 
+Il ouvre également des pistes de réflexion et de recherche pour de potentiels travaux 
+ultérieurs.  
+Pour bref rappel, la méthodologie d’évaluation employée comporte trois étapes 
+distinctes : une étape de construction de scénarios sectoriels contrefactuels pour 
+différentes variables économiques, visant à reproduire les évolutions qui auraient été 
+observées en l’absence d’introduction du CICE, une étape d’estimation économétrique 
+sur données de panel de l’effet du CICE perçu par les branches sur l’écart constaté 
+entre les évolutions historiques de ces variables économiques et leurs scénarios 
+contrefactuels, et enfin une étape d’incorporation de ces estimations d’effets sectoriels 
+dans un modèle macroéconomique bouclé, décrivant le CICE comme une baisse de 
+coût du travail, compensée budgétairement par des hausses de prélèvements 
+obligatoires et des baisses de dépenses publiques.  
+La première et la dernière étape de cette approche ont déjà bénéficié de nombreux 
+commentaires aux cours des précédents rapports et n’appellent donc pas de 
+commentaires supplémentaires. En revanche, les choix méthodologiques opérés pour 
+la seconde étape peuvent encore être discutés et invitent à mon sens à considérer les 
+résultats présentés avec prudence. Le point principal qui semble se distinguer de 
+l’étude détaillée des tableaux de résultats économétriques est, quelle que soit la 
+variable économique considérée, la grande hétérogénéité selon le type de pondération 
+retenue des valeurs des effets mesurés du CICE. Pour la variable d’emploi, l’effet 
+
+=== PAGE PDF 65 ===
+Annexe 4 
+Rapports de lecture sur l’étude finale de l’équipe OFCE  
+FRANCE STRATÉGIE  
+63 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+mesuré du CICE varie ainsi du simple au triple selon que l’on utilise une simple 
+régression par moindres carrés ordinaires (MCO) ou une régression pondérée par le 
+nombre d’entreprises au sein de chaque secteur.  
+Le choix de procéder à une pondération dans la régression est avant tout une méthode 
+de correction de l’hétéroscédasticité des résidus. Elle ne devrait donc pas en tant que 
+telle modifier la valeur calculée de l’estimande mais uniquement son écart-type et donc 
+son éventuelle significativité (via l’estimation de son intervalle de confiance). Ce 
+résultat économétrique général est certes seulement valable de manière asymptotique, 
+c’est-à-dire dans des échantillons de grande taille et il peut être mis en défaut à 
+distance finie dans des échantillons de plus petite taille comme celui construit dans 
+cette étude. Il est néanmoins légèrement étonnant que la valeur de l’effet estimé soit 
+si dépendante de la variable de pondération retenue.  
+Pour se convaincre de la pertinence d’utiliser des pondérations lors de ces régressions, 
+un travail supplémentaire de description des résidus de l’estimation par MCO pourrait 
+être proposé, afin d’une part de bien mettre en évidence l’hétérogénéité de leurs 
+variances et d’autre part de caractériser le lien entre cette hétérogénéité et les 
+différentes variables de « taille » des secteurs retenues pour les différentes régressions 
+pondérées. En effet, en présence d’hétéroscédasticité mais en l’absence de corrélation 
+entre les résidus, l’estimateur des moindres carrés pondérés est le meilleur estimateur 
+linéaire non biaisé si et seulement si les poids de pondération choisis correspondent 
+aux inverses des variances des résidus (qui sont néanmoins inconnues et doivent donc 
+être approchées). Pour juger de l’opportunité d’utiliser des régressions pondérées, il 
+est donc nécessaire de bien montrer en quoi les variables de « taille » retenues dans 
+l’analyse (masse salariale, emploi, valeur ajoutée, nombre d’entreprises) sont suscep-
+tibles d’apporter une information pertinente permettant de caractériser correctement 
+les inverses des variances des résidus. Sans cette information supplémentaire, il est 
+parfois difficile de se prononcer sur le type de pondération à privilégier in fine, choix 
+particulièrement important puisque, comme le notent les auteurs, « la pondération 
+retenue pour calibrer le modèle Three-ME sera déterminante puisqu’elle conditionne 
+le nombre d’emplois créés ».  
+De fait, à la lecture des différentes figures proposées lors de la présentation des 
+résultats de cette deuxième étape, la présence d’hétéroscédasticité dans les résidus 
+n’est pas évidente au premier regard. Une conclusion apparaissant toutefois comme 
+robuste est que les résidus correspondant aux observations d’un même secteur pour 
+plusieurs années successives sont, dans la plupart des cas, fortement regroupés au 
+sein du nuage de points total. Les observations semblent donc présenter une structure 
+de corrélation en clusters, ce qui est relativement fréquent pour de telles données de 
+
+=== PAGE PDF 66 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+64 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+panel. Dans ce cadre, ne pas tenir compte lors de l’estimation de cette structure de 
+corrélation risque de biaiser à la baisse l’écart-type des effets mesurés du CICE sur 
+les différentes variables considérées et donc de biaiser à la hausse leur significativité. 
+La présentation dans les tableaux de résultats d’écarts-types clusterisés au niveau 
+sectoriel plutôt que d’écarts-types simples serait peut-être judicieuse afin de garantir 
+une inférence robuste et de s’assurer que les résultats mis en avant sont bien 
+significatifs1.  
+Pour conclure, je trouve qu’il serait utile de mettre en perspective les résultats agrégés 
+de cette nouvelle étude avec ceux des précédents travaux menés avec la même 
+méthodologie. Cette étude constitue en quelque sorte une évaluation finale du CICE 
+puisqu’elle tient compte de l’intégralité de sa montée en charge sur la période 2013-
+2017. Dans ces conditions, la mise en évidence d’un effet récessif sur le PIB en 2017 
+lié à l’introduction du CICE et à son mode particulier de financement est une conclusion 
+particulièrement forte et originale par rapport à ce qui a été dit jusqu’à présent par ce 
+comité. Elle gagnerait donc à mon avis à être plus commentée par les auteurs afin que 
+son interprétation puisse être facilitée dans l’hypothèse où elle viendrait à être utilisée 
+dans le débat public autour de cette mesure de politique publique.  
+ 
+ 
+                                            
+1 À défaut, l’inclusion d’effets fixes sectoriels dans les différentes régressions serait un premier palliatif 
+mais qui ne garantirait en rien d’épuiser entièrement la structure des corrélations éventuellement 
+présentes dans les données. 
+
+=== PAGE PDF 67 ===
+Annexe 4 
+Rapports de lecture sur l’étude finale de l’équipe OFCE  
+FRANCE STRATÉGIE  
+65 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Thomas Bourdais 
+Direction générale du Trésor 
+Dans le cadre des travaux du comité de suivi du CICE, l’OFCE publie une étude sur 
+l’impact du CICE sur l’emploi, les salaires, les prix et les exportations. 
+L’objet de cette étude est, dans un premier temps, d’évaluer économétriquement les 
+effets du crédit d’impôt pour la compétitivité et l’emploi (CICE) sur l’emploi, les salaires, 
+les prix, les exportations et l’investissement, puis d’utiliser les résultats obtenus pour 
+paramétrer un modèle macrosectoriel (Three-ME) afin d’obtenir les effets du CICE 
+après bouclage macroéconomique. 
+Dans un premier temps, l’OFCE cherche à estimer économétriquement les effets ex 
+post du CICE sur différentes variables d’intérêt. Pour ces estimations économétriques, 
+l’étude adopte une approche basée sur une modélisation structurelle de chaque 
+variable d’intérêt (emploi, salaires, prix, exportations, investissement) à partir de ses 
+déterminants dans le cadre de modèles à correction d’erreur estimés à partir de la 
+comptabilité nationale entre 1980 et 2012 sur 38 branches. Ces équations permettent 
+de construire un scénario contrefactuel qui aurait prévalu en absence de CICE à partir 
+de 2013. Les auteurs estiment ensuite par des régressions avec différentes 
+pondérations les effets du CICE sur l’écart entre les valeurs observées des variables 
+d’intérêt et celles simulées dans le cadre des scénarios contrefactuels précédemment 
+construits. L’une des spécificités de cette étude est notamment l’intégration des effets 
+indirects de transmission du CICE entre les branches à travers les prix de 
+consommation intermédiaire. 
+En termes de résultats, plusieurs conclusions émergent de cette première étape :  
+− en équilibre partiel sectoriel, l’impact du CICE sur l’emploi serait positif, plus 
+particulièrement dans les services, et l’effet serait également positif sur les salaires 
+dans ces mêmes branches ;  
+− le CICE aurait un impact positif sur la compétitivité des entreprises produisant des 
+biens, mais celui-ci serait difficilement quantifiable. En effet, bien que les effets sur 
+les prix à l’exportation et les prix de valeur ajoutée – essentiellement dans les 
+branches produisant des biens – soient négatifs indépendamment des 
+pondérations retenues pour la régression de première étape, la valeur du coefficient 
+est très sensible à ces pondérations ; 
+− les effets du CICE sur l’investissement seraient nuls dans les biens et les services.  
+
+=== PAGE PDF 68 ===
+Évaluation du crédit d’impôt pour la compétitivité et l’emploi 
+FRANCE STRATÉGIE  
+66 
+SEPTEMBRE 2020 
+www.strategie.gouv.fr 
+Au total, cette première étape suggère que le CICE aurait permis d’augmenter la 
+masse salariale dans les services, à travers l’emploi ou le salaire moyen, tandis qu’il 
+aurait permis de baisser les prix dans les secteurs produisant des biens. 
+Dans un second temps, les auteurs modélisent les effets du CICE à l’aide du modèle 
+macrosectoriel Three-ME calibré grâce aux résultats obtenus en première étape, afin 
+d’obtenir des résultats en équilibre général bouclé. En particulier, compte tenu de 
+l’incertitude entourant les résultats sur les prix et les exportations, les auteurs décident 
+de ne prendre en compte dans la calibration de Three-ME que les seuls résultats sur 
+l’emploi et les salaires. Avec ces spécifications, selon les auteurs, le CICE aurait 
+permis de créer 400 000 emplois et de rehausser le PIB de près d’un point en 2017, 
+hors prise en compte du financement. La prise en compte du financement par les 
+augmentations de la TVA et de la fiscalité écologique et par les économies de 
+dépenses publiques associées à la mise en place du CICE abaisse ces effets à environ 
+160 000 emplois, pour un effet quasi nul sur le PIB. 
+Cette étude utilise une approche originale pour tenter d’appréhender les effets du CICE 
+selon les branches, en intégrant notamment des effets indirects du CICE issus de la 
+transmission entre les branches à travers une baisse des prix de consommation 
+intermédiaire, mais les résultats restent sensibles aux spécifications retenues : 
+− tout d’abord, les résultats sont fortement dépendants de la construction des scénarios 
+contrefactuels, et donc des spécifications retenues pour caractériser les variables 
+d’intérêt étudiées. Toutefois, les spécifications des équations utilisées pour la cons-
+truction des contrefactuels sont assez classiques et reproduisent de manière correcte 
+les séries observées pour la plupart des branches avant 2012 sauf pour quelques 
+exceptions (par exemple l’emploi et les prix de valeur ajoutée dans les services 
+financiers, l’investissement dans le secteur agricole et les services immobiliers) ; 
+− par ailleurs, ces résultats dépendent également des pondérations utilisées dans les 
+estimations des effets du CICE (pondération par la VA, l’emploi, la masse salariale, 
+le nombre d’entreprises dans la branche, pas de pondération) sur les variables 
+d’intérêt, qui peuvent faire varier les résultats. La pondération retenue influe 
+notamment sur les estimations de l’effet du CICE sur le nombre d’emplois créés et 
+a donc un impact direct sur le calibrage du modèle Three-ME. À titre d’exemple, les 
+auteurs ont choisi de retenir la pondération par le nombre d’entreprises dans la 
+branche pour calibrer les effets sur l’emploi et les salaires dans Three-ME. Bien 
+que les effets sur l’emploi soient relativement proches selon les pondérations 
+choisies pour la régression de première étape (entre 150 000 et 200 000 emplois 
+en 2017), la pondération retenue est celle qui maximise l’estimation du nombre 
+d’emplois créés. Les auteurs ne détaillent pas précisément les raisons de ce choix. 
+
+=== PAGE PDF 69 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Directeur de la publication  
+Gilles de Margerie, commissaire général 
+Directeur de la rédaction  
+Cédric Audenis, commissaire général adjoint 
+Secrétaires de rédaction  
+Olivier de Broca, Sylvie Chasseloup 
+Contact presse  
+Matthias Le Fur, directeur du service Édition/Communication/Événements 
+
+=== PAGE PDF 70 ===
+Premier ministre
+France Stratégie
+Institution autonome placée auprès du Premier ministre, France Stratégie contribue à l’action publique par ses analyses 
+et ses propositions. Elle anime le débat public et éclaire les choix collectifs sur les enjeux sociaux, économiques et 
+environnementaux. Elle produit également des évaluations de politiques publiques à la demande du gouvernement. 
+Les résultats de ses travaux s’adressent aux pouvoirs publics, à la société civile et aux citoyens.
+FRANCE STRATÉGIE – 20, AVENUE DE SÉGUR – TSA 90725 – 75334 PARIS CEDEX 07 – TÉL. 01 42 75 60 00
+Les opinions exprimées dans ce rapport engagent leurs 
+auteurs et n’ont pas vocation à reﬂéter la position du 
+gouvernement. 
+ 
+RETROUVEZ 
+LES DERNIÈRES ACTUALITÉS 
+DE FRANCE STRATÉGIE SUR :
+FranceStrategie
+france-strategie
+@FranceStrategie_
+@Strategie_Gouv
+www.strategie.gouv.fr
+StrategieGouv

@@ -1,0 +1,2124 @@
+
+=== PAGE 1 ===
+ 
+ 
+ 
+ 
+DISCUSSION PAPER SERIES 
+ 
+ 
+ 
+     ABCD 
+ 
+www.cepr.org 
+ 
+ 
+Available online at: 
+www.cepr.org/pubs/dps/DP9095.asp
+ 
+www.ssrn.com/xxx/xxx/xxx
+  
+ 
+ 
+ 
+ 
+ 
+ 
+No. 9095 
+ 
+A ROLE MODEL FOR THE CONDUCT 
+OF FISCAL POLICY? EXPERIENCES 
+FROM SWEDEN 
+ 
+ 
+Martin Flodén 
+ 
+ 
+  INTERNATIONAL MACROECONOMICS 
+ 
+ 
+ 
+
+=== PAGE 2 ===
+ISSN 0265-8003 
+A ROLE MODEL FOR THE CONDUCT OF FISCAL 
+POLICY? EXPERIENCES FROM SWEDEN 
+Martin Flodén, Stockholm University and CEPR 
+ 
+Discussion Paper No. 9095 
+August 2012 
+Centre for Economic Policy Research 
+77 Bastwick Street, London EC1V 3PZ, UK 
+Tel: (44 20) 7183 8801, Fax: (44 20) 7183 8820 
+Email: cepr@cepr.org, Website: www.cepr.org 
+This Discussion Paper is issued under the auspices of the Centre’s research 
+programme in  INTERNATIONAL MACROECONOMICS.  Any opinions 
+expressed here are those of the author(s) and not those of the Centre for 
+Economic Policy Research. Research disseminated by CEPR may include 
+views on policy, but the Centre itself takes no institutional policy positions. 
+The Centre for Economic Policy Research was established in 1983 as an 
+educational charity, to promote independent analysis and public discussion 
+of open economies and the relations among them. It is pluralist and non-
+partisan, bringing economic research to bear on the analysis of medium- and 
+long-run policy questions.  
+These Discussion Papers often represent preliminary or incomplete work, 
+circulated to encourage discussion and comment. Citation and use of such a 
+paper should take account of its provisional character. 
+Copyright: Martin Flodén 
+
+=== PAGE 3 ===
+CEPR Discussion Paper No. 9095 
+August 2012 
+ABSTRACT 
+A Role Model for the Conduct of Fiscal Policy? Experiences from 
+Sweden* 
+Sweden was hit by a severe macroeconomic crisis in the early 1990s. GDP 
+fell for three consecutive years in 1991-1993, unemployment increased by 9 
+percentage points, banks had to be nationalized, and public budget deficits 
+exceeded 10 percent of GDP. The recovery was however quick. GDP growth 
+was around four percent in 1994-1995, and budget deficits had been 
+eliminated by 1998. Growth remained high in the subsequent decade, and the 
+government debt ratio was reduced by almost 50 percent of GDP. 
+This paper describes and analyzes the Swedish crisis and the policy 
+measures implemented in response to the crisis. Policy measures include 
+abandoning the fixed exchange rate, fiscal austerity, a new stricter fiscal 
+framework, and several structural reforms in the 1990s. These policies were 
+appropriate for handling the Swedish crisis, but the Swedish experiences have 
+limited applicability for the current debt crisis, in particular because currency 
+depreciation in combination with strong growth on export markets was a key 
+ingredient in the Swedish recovery. Implementing fiscal austerity would have 
+been more complicated absent this export-led growth. Moreover, the new 
+fiscal framework has most likely contributed to strengthening public finances, 
+but I demonstrate that budget surpluses and high GDP growth only explain 
+around a third of the reduction in the public debt ratio after 1997. 
+JEL Classification: E02, E32, E62, E65 and G01 
+Keywords: banking crisis, fiscal consolidation, fiscal rules and macroeconomic 
+crisis 
+
+=== PAGE 4 ===
+Martin Flodén 
+Department of Economics  
+Stockholm University  
+SE-106 91 Stockholm  
+SWEDEN  
+  
+Email: martin.floden@ne.su.se  
+ 
+For further Discussion Papers by this author see: 
+www.cepr.org/pubs/new-dps/dplist.asp?authorid=147765 
+ 
+*Paper prepared for conference on "European Debt Crisis" organized by the 
+Journal of International Money and Finance, Danmarks Nationalbank, 
+Copenhagen Business School, and SCIIE in Copenhagen, April 13-14 2012. I 
+thank Lars Jonung, Michael Hutchison, and other conference participants for 
+valuable comments. 
+ 
+Submitted 09 August 2012 
+ 
+
+=== PAGE 5 ===
+1
+Introduction
+The Swedish economy entered a severe macroeconomic and ﬁnancial crisis in the early
+1990s. In several dimensions, the build up and early phases of the Swedish crisis resemble
+the developments preceding the current European crisis. In 1985-1990, there was rapid
+credit expansion, quickly rising house prices combined with high real-estate investment,
+and current account deﬁcits. Growth was high, there was little unemployment, the public
+debt-to-GDP ratio was low and falling, and monetary policy was constrained by a ﬁxed
+exchange rate.
+In 1990, it was evident that these developments were not sustainable. The ﬁxed exchange
+rate in combination with high wage and price inﬂation had eroded competitiveness. Exter-
+nal factors became less favorable when the United States and many European economies
+entered a recession, and when German monetary policy was tightened following the reuni-
+ﬁcation. A Swedish tax reform in 1990-1991 further raised the eﬀective real interest rate
+faced by households. The business-cycle peaked in late 1989 or early 1990. GDP then
+fell for three consecutive years, 1991-1993. Failing banks had to be nationalized, unem-
+ployment increased from 2 percent in 1990 to 11 percent in 1993, and government gross
+debt increased by more than 30 percentage points of GDP in these three years. The ﬁxed
+exchange rate was abandoned in late 1992, resulting in a sharp currency depreciation.
+The important policies implemented to address the immediate crisis after the currency was
+allowed to ﬂoat consisted of a general guarantee extended to the depositors and creditors
+of the banks and mortgage institutions, rapid recapitalization of the banking system,
+relatively tight monetary policy to build credibility for a newly announced inﬂation target,
+and eﬀorts to consolidate ﬁscal policy. These policies turned out successful. The banking
+system was basically reconstructed and recapitalized by mid 1993. GDP growth resumed
+quickly and was close to 4 percent already in 1994. The public budget deﬁcit (general
+government net borrowing) peaked at 13 percent of GDP in 1993 but had been turned to
+a surplus in 1998. And inﬂation expectations started falling down towards the inﬂation
+target in 1995.
+In addition to the policies implemented to address the immediate crisis, a series of struc-
+tural reforms were implemented in the 1990s to improve the frameworks surrounding
+monetary and ﬁscal policy, improve the design of social insurance schemes, and strengthen
+competition on product markets. Growth remained high in the decade after Sweden had
+recovered from the crisis, and in particular public ﬁnances has strengthened further. For
+example, public debt fell by more than 50 percentage points relative to GDP from its peak
+in 1996 to 2011.
+The ambition with this paper is to give an overview of these policies and reforms, and to
+analyze how they contributed to the Swedish recovery. I focus in particular on aspects of
+the ﬁscal consolidation and reforms of the ﬁscal framework that may be of relevance for
+the current European crisis.
+My main message is that many economies today face substantially deeper problems than
+the Swedish economy did in the early 1990s. The Swedish recovery was facilitated by
+the large currency depreciation in combination with strong growth on export markets.
+2
+
+=== PAGE 6 ===
+Without these developments, the general guarantee extended to banks could have become
+a much larger burden on public ﬁnances (as a similar guarantee did in Ireland recently).
+Moreover, attempts to consolidate public ﬁnances in the early 1990s were not successful
+in reducing the growing budget deﬁcit. The successful and important consolidation was
+implemented in 1995 when growth was already high. There are clear indications that this
+consolidation was contractionary. But the consolidation was still politically and economi-
+cally acceptable, most likely because the economy had started recovering.
+During the ongoing crisis, most economies have not beneﬁtted from substantial currency
+depreciation or strong external demand. Thus, while ﬁscal and monetary austerity was
+appropriate for Sweden in the 1990s, it is not clear that such policy choices would be
+successful today. Other factors contributing to the deeper problems in many economies
+today are the initial public debt levels and demographic challenges. While budget deﬁcits
+were large in the early 1990s and the debt rapidly increasing, the net government debt
+ratio was never large. It peaked at 27 percent of GDP in 1996, while many countries today
+have debt ratios around 100 percent of GDP. Many Southern European countries today
+also face severe demographic challenges with rapidly aging populations, and in some cases
+also falling total populations. In combination with pension and health care systems that
+are not well-designed to handle the demographic change, these anticipated developments
+aggravate market perceptions of ﬁscal sustainability already today.
+I also examine how the ﬁscal framework and growth-stimulating structural reforms con-
+tributed to the continued reduction of the Swedish debt ratio after the economy had
+recovered from the crisis. The analysis indicates that the direct eﬀect from sound ﬁscal
+policy and high growth on the debt reduction has been modest. Budget surpluses account
+for less than a third of the 50 percentage point debt reduction in 1997-2011, and growth
+had almost no direct impact on debt. The limited role of budget surpluses is consistent
+with compliance with the surplus target in the ﬁscal framework, stating that the surplus
+should average one percent of GDP. For the 15-year period 1997-2011, budget surpluses
+should therefore reduce the debt ratio by approximately 15 percentage points. Growth is
+only helpful for reducing the debt ratio if there is an outstanding debt to grow away from.
+Because Swedish net public debt has been close to zero on average in this time period,
+the high Swedish GDP growth rate has not had a direct impact on the debt ratio. It is
+however possible that both the ﬁscal framework and high GDP growth contributed indi-
+rectly to the debt reduction. Absent a strong ﬁscal framework, the rapid debt reduction
+might have triggered more expansionary ﬁscal policies, and high growth may have been
+an important factor behind the increased asset values.
+The remainder of the paper is structured as follows. Section 2 provides the background
+to the Swedish crisis in the early 1990s. This includes the expansion of the welfare state
+and active use of Keynesian ﬁscal policies in the 1970s, deregulation and overheating in
+the 1980s, and eventually the banking and currency crisis in the early 1990s. Section 3
+describes and analyzes both the immediate management of the crisis and the structural
+reforms implemented during and after the crisis. This includes a description of immedi-
+ate crisis management and a reformed ﬁscal framework, as well as an analysis of factors
+contributing to the development of public debt ratios in diﬀerent countries 1997-2011.
+Section 4 brieﬂy discusses the long-run ﬁscal sustainability problems that many countries
+face today, and which the Swedish economy did not face to the same extent in its crisis
+3
+
+=== PAGE 7 ===
+two decades ago. Section 5 concludes by highlighting insights from the Swedish crisis
+management that are (or are not) useful for managing the ongoing crisis.
+2
+Background: 1970-1992
+The macroeconomic development in the 1970s was disappointing in most western economies,
+but maybe more so in Sweden than in other comparable countries.
+While the unem-
+ployment rate remained low throughout the decade, Sweden stood out with unusually
+problematic outcomes for growth and inﬂation, and to some extent also public debt.1
+These outcomes coincided with, and followed, a number of economic and political reforms
+and developments often referred to as the formation of the Swedish model. Prominent
+characteristics of these developments were a rapid expansion of the welfare state, new
+legislation that strengthened labor unions, and an active use of Keynesian countercyclical
+ﬁscal policy.2
+In the mid 1960s, government consumption and investment amounted to 24 percent of
+Swedish GDP, and government expenditure excluding interest payments amounted to 33
+percent of GDP. These levels were just slightly higher than in other OECD countries.
+While the public sector expanded rapidly in many countries in the 1970s, it did so more
+dramatically in Sweden. Figures 1 and 2 show that government consumption and invest-
+ment had increased to 34 percent of GDP in 1980, and that primary expenditure had
+increased to 55 percent of GDP. No other country was close to these levels.3
+[Figures 1-2]
+Lindbeck (1997) lists a number of possible explanations for this extremely rapid expansion
+of the government sector, including a constitutional reform abolishing the ﬁrst chamber
+and shortening the election period for the remaining chamber to three years, and a budget
+process that allowed detailed spending decisions to be taken before funding was cleared.
+He argues, however, that a more plausible explanation is that politicians actually wanted
+to expand the welfare state rapidly and that they did not understand the costs associated
+with such expansion.
+Sweden moreover responded rapidly to the ﬁrst energy crisis in 1973 by initiating Keyne-
+sian expansionary policies. The two blocks in parliament had equal voting power after the
+election in 1973. The governing social democrats argued for temporarily increased transfer
+payments while the right-wing parties proposed temporary or permanent tax cuts. In the
+end, transfer payments were raised and the value added tax was reduced for parts of 1974.
+1Moreover, the low unemployment rate is somewhat misleading since an increasing fraction of the labor
+force was covered by labor market programs and sheltered employment from the mid 1970s.
+2Lindbeck (1997) accounts for the development of the Swedish model from the mid 1960s and onwards.
+The description of macroeconomic policies for this time period also builds on Jonung (1997) and various
+issues of OECD’s Economic Surveys of Sweden.
+3It should be noted, however, that most transfer payments are subject to income taxation in Sweden.
+One may therefore argue that comparisons including transfer payments exaggerate the magnitude of the
+Swedish welfare state.
+4
+
+=== PAGE 8 ===
+OECD (1974) saw few risks with these policies and argued that permanent tax cuts might
+also be motivated as the growth rate of public expenditure was projected to fall in the
+coming years and because lower taxes might help reduce wage claims.
+But the combination of the underfunded expansion of the welfare state, intentional or not,
+and the active use of expansionary ﬁscal policy to stimulate the economy after OPEC I
+had put the economy on an untenable path. Inﬂation had increased to around 10 percent
+annually in the mid 1970s. Rapid wage increases in combination with slow productivity
+growth and a ﬁxed exchange rate implied that competitiveness started falling; relative
+unit labor costs in the manufacturing sector increased by more than 20 percent between
+1974 and 1976 (see Figure 3). To restore competitiveness, the exchange rate was devalued
+four times between 1976 and 1981. The central government budget also started displaying
+large deﬁcits, resulting in a debt-to-GDP ratio that increased by more than 40 percentage
+points between 1975 and 1983. And the average annual growth rate of real GDP was 1.9
+percent in Sweden relative to 3.1 on average in the OECD countries.4
+[Figure 3]
+It is noteworthy that the OECD in its country reports initially praised the expansionary
+Swedish ﬁscal policies and still in 1976 concluded that: "The Swedish experience provides
+an example of what can be achieved by a combination of ﬂexible demand management
+and selective policies — sometimes referred to as ’ﬁne-tuning’ — during serious international
+recessions even in a country heavily dependent on foreign trade. While priorities, insti-
+tutions and attitudes diﬀer, it would seem that aspects of Swedish policy-making should
+be of interest to other countries." (OECD 1976, p. 38). A warning to the reader of this
+paper is therefore that what may look as an example of successful economic policy in the
+short run may be seen as a ﬂagrant failure in the long run.
+After winning the 1982 election, the entering social democratic government devalued the
+krona by an additional 16 percent. This time the intention was not to restore competitive-
+ness, but to kick-start the economy with an export-lead stimulus.5 To restrain household
+demand and further inﬂationary pressure, the devaluation was combined with an increase
+in the value added tax and temporary price controls. But ﬁscal policy was also expan-
+sionary in some areas. New resources were allocated to public investment, labor market
+programs, and higher child beneﬁts. The budget deﬁcit improved somewhat but was still
+large (see Figure 4).
+[Figure 4]
+The two devaluations in 1981 and 1982 (10 and 16 percent, respectively) together with
+an unanticipated upswing in the world economy contributed to rapid GDP growth from
+4Only Switzerland had a lower growth rate than Sweden in this time period. The other countries behind
+this weighted average are Australia, Austria, Belgium, Canada, Denmark, Finland, France, Italy, Japan,
+Netherlands, Norway, New Zealand, Portugal, Spain, the United Kingdom, the United States, and West
+Germany.
+5The devaluation and the plan for economic policies to accompany it was internally referred to as the
+Big Bang, and the plan was to devalue by 20 percent. After ﬁerce criticism at a last-minute meeting with
+representatives from other Nordic countries, a slightly smaller devaluation was chosen (Feldt 1991).
+5
+
+=== PAGE 9 ===
+1984. At the end of the decade, the public budget balance had also improved substantially.
+According to Feldt (1991), it was however understood at the ministry of ﬁnance that the
+improvement in the budget was mostly cyclical; household consumption increased faster
+than GDP and resulted in high revenue from consumption taxes, ﬁrm proﬁts were unusu-
+ally high and generated large tax revenue, and taxation of household income increased
+because the tax system was not fully indexed.6 In contrast to this claim, standard mea-
+sures of the ﬁscal stance indicate that the improvement in general government net lending
+by 7 percent of GDP between 1985 and 1987 was mostly structural.7 Irrespective of which
+of these positions is correct, it is evident that the expansion in economic activity in the
+latter half of the 1980s was unsustainable and that a considerably more contractionary
+ﬁscal policy had been motivated.
+The need for contractionary ﬁscal policy was partly motivated by a number of structural
+reforms. Most importantly, credit markets were deregulated in the mid 1980s, in particular
+in 1983-1985. The reforms included removal of caps on lending rates and lending quanti-
+ties.8 Markets for international transactions were fully deregulated in 1989. In response
+to the deregulation, the Riksbank raised liquidity requirements for banks, but monetary
+policy was — and had to be — mostly dedicated to maintaining the ﬁxed exchange rate.
+The 1982 devaluation and the subsequent deregulation of credit and foreign-exchange
+markets resulted in a credit and investment boom, which was an important aspect of the
+subsequent crisis. House prices, housing investment, and household liabilities increased
+rapidly in the latter half of the 1980s. But the development for these variables in 1985-
+1989 looks relatively undramatic in comparison to the buildup of the recent ﬁnancial crisis
+(see Figures 5-7). In contrast to the recent crisis, the Swedish problems were more related
+to the commercial real estate market. As indicated in Figure 5, the price of commercial
+buildings rose much more quickly than for one-family houses. Liabilities of ﬁrms, both
+ﬁnancial and non-ﬁnancial ﬁrms also increased substantially in this time period, and it
+was in the commercial real-estate market that the ﬁrst problems erupted in 1990.
+6Kjell-Olof Feldt was the minister for ﬁnance between 1982 and 1990.
+7Cyclically adjusted net lending increased by 5.7 percent of GDP between 1985 and 1987 according
+to OECD Economic Outlook December 2011.
+Several empirical studies using increases in the cyclical
+balance as a measure of ﬁscal consolidations therefore classify 1986 and 1987 as years of large consolidation
+in Sweden. For example, OECD (2007) and Guichard et al. (2007) identify consolidations in all years
+1981-1987 and list this as one of the largest consolidation episodes in OECD countries. Studies using the
+Blanchard (1990) approach to judge the ﬁscal stance based on the development of unemployment (instead
+of the output gap) typically end up with similar assesments of ﬁscal policy in the 1980s. For example,
+Alesina and Perotti (1995) classify 1983, 1984, and 1987 as years of very tight ﬁscal policy in Sweden.
+Ardagna (2007) classify the same years and 1986 as large ﬁscal consolidations.
+OECD (1994) however note that a number of speciﬁc factors — basically the same as reported by Feldt
+— in the late 1980s and early 1990s were missed by standard indicators of the ﬁscal stance. Along a similar
+line, Bénétrix and Lane (2011) ﬁnd evidence that traditional adjustments of ﬁscal variables miss much of
+the cyclicality when credit growth is high. Sweden in the late 1980s and Ireland and Spain in the mid
+2000s may be good examples of such developments. In these episodes a ﬁscal crisis was preceded by rapid
+growth in GDP, house prices and construction while public debt ratios were low and shrinking. Finally,
+Devries et al. (2011) classify ﬁscal consolidations based on explicit policy intentions. According to their
+action-based approach, 1984 was the only year in the 1980s with a consolidation in Sweden.
+8See Drees and Pazarbasioglu (1995) and Englund (1999) for more detailed discussions of the dereg-
+ulation, the subsequent credit expansion, and the resulting real-estate and banking crisis. Other useful
+references are Wohlin (1998) and Jonung et al. (2006).
+6
+
+=== PAGE 10 ===
+[Figures 5-7]
+Since monetary policy was tied up by the ﬁxed exchange rate, a tighter ﬁscal policy would
+have been motivated to dampen the credit and investment expansion and the strong
+demand pressure. Feldt (1991) argues that it was also well understood in the ministry of
+ﬁnance that the economy was overheated. Attempts to dampen wage and price pressures
+with income policies had not been successful. Relative unit labor costs therefore increased
+quickly in the late 1980s (see Figure 3), and the economy was now close to the peak of
+the business cycle.9
+The developments and policy choices in the mid and late 1980s had brought the Swedish
+economy onto an unsustainable economic path with a ﬁxed exchange rate but considerably
+higher wage and price inﬂation than other countries, and in particular than in Germany
+which dominated the currency regime. When the government insisted on implementing
+further price and wage controls rather than tightening policy, Feldt resigned as minister
+of ﬁnance in early 1990. For outsiders, this was maybe the ﬁrst clear indication of the
+approaching economic crisis.
+The price and wage controls were abandoned already in
+April. Instead, the value added tax was raised repeatedly during the year. In September
+that year Nyckeln, a ﬁnance company with exposure to the real-estate market, had a
+liquidity crisis and went bankrupt. This was the ﬁrst of a number of ﬁnance companies
+going bankrupt. Following large capital outﬂows, the Riksbank had to raise its policy rate
+from 12 to 17 percent in October. The government also announced further measures to
+substantially reduce public expenditures, and to shift its priorities from "full employment"
+to ﬁghting inﬂation. These measures would however soon turn out to be insuﬃcient for
+preventing a further deterioration of public ﬁnances, falling GDP, rising unemployment,
+and eventually a currency crisis.
+A number of events around 1990 contributed to the timing of the crisis. First, there was
+a downturn in the world economy, with the exception of Germany. For example, U.S.
+GDP growth fell from 3.6 percent in 1989 to 1.9 percent in 1990 and negative in 1991.
+This coincided with an increase in European interest rates as a result of tight monetary
+policy in Germany following the 1990 reuniﬁcation. The German three-month interest
+rate increased by more than 4 percentage points from early 1989 to late 1990.
+Second, the Swedish ﬁxed-exchange rate gradually lost credibility.
+This was largely a
+consequence of the high wage and price inﬂation in the late 1980s and the increasing
+problems in the Swedish real-estate and banking sectors. Speculation against the Swedish
+krona intensiﬁed after a devaluation in Finland in November 1991. Third, a tax reform in
+1990-1991 reduced the tax rate on capital income from 50 percent to 30 percent. This also
+implied a corresponding reduction in tax deductions on mortgages, which in turn implied
+a further increase in the eﬀective real interest rate faced by households.
+The higher international interest rates, contractionary monetary policy to defend the ex-
+change rate, and lower tax deductions raised the eﬀective real interest rate faced by house-
+holds from minus 2 percent on average in 1988-1990 to almost 4 percent in 1991-1993.10
+9According to Bergman (2011), the business cycle peaked in late 1989 or early 1990.
+10I calculate the real interest rate as (1 −τ) i −π where τ = 50% for the former time period and 30%
+for the latter period, i is the one-year nominal rate (treasure bills), and π is ex post CPI inﬂation.
+7
+
+=== PAGE 11 ===
+Households responded to the higher interest rates by raising savings. The net saving ratio
+increased from 2.8 percent in the early period to 10 percent in 1991-1993. Lower household
+demand put further downward pressure on the economy.
+Fourth, public ﬁnances rapidly deteriorated in 1991 and 1992. This was partly a result
+of the lower household consumption, since the value added tax was an important source
+of tax revenue. More importantly expenditure related to unemployment and the banking
+sector had started rising. The unemployment rate increased from 2.1 percent in 1990 to
+6.6 percent in 1992 and added to expenditure as both replacement rates in the unem-
+ployment insurance system and ambitions for active labor market policies were high. The
+recession, and in particular problems on the commercial real-estate market with failing
+ﬁnance companies had generated substantial losses in the banking sector. In 1991, it was
+clear that at least two of the six major banks were in need of capital injections. The gov-
+ernment was the major owner of one of these banks, and that bank was fully nationalized
+in the summer of 1992. Another bank went bankrupt and was nationalized in September
+1992. In the end of that month, the center-right government (in oﬃce since 1991) issued a
+general guarantee to the depositors and creditors of the banks and mortgage institutions.
+The culmination of the Swedish banking crisis coincided with the European currency crisis.
+When several other European countries devalued their currencies or abandoned the ﬁxed
+exchange-rate regime in September 1992, the Swedish government and Riksbank still tried
+to defend the peg. The policy rate was raised to 500 percent for two days. In just a
+few weeks, the center-right wing government and the Social Democrats opposition party
+presented two ﬁscal consolidation packages. While the ﬁrst package was a rather traditional
+attempt to consolidate through higher revenue and lower expenditure, the second package
+attempted to achieve an internal devaluation by raising the value added tax and reducing
+holidays and social security contributions for employers.11 Although the policy rate could
+be reduced to just above 10 percent in October and early November, it was soon evident
+that the consolidation eﬀorts had not restored market conﬁdence. Facing new currency
+outﬂows in mid November, the ﬁxed exchange-rate regime was abandoned.
+3
+Reform and recovery: 1993-2011
+When abandoning the ﬁxed exchange-rate regime, the Swedish economy faced a number of
+major challenges. The country had a history of repeated devaluations and failed attempts
+to bring price and wage inﬂation down to acceptable levels. There was also a history
+of uncontrolled increases in government expenditures and resulting budget deﬁcits. In
+two decades, Sweden had moved from a top position in international GDP per capita to
+a position below the OECD average. There was now an ongoing banking crisis, falling
+GDP, large budget deﬁcits, and rapidly increasing government debt.
+It was clear that major reforms were necessary, and the collapse of the ﬁxed-exchange rate
+regime indeed came to mark the turning point for the Swedish economy. A government
+commission, lead by professor Assar Lindbeck, was appointed in December 1992 to analyze
+11An increase in the retirement age from 65 to 66 years was also part of the packages, but this was never
+implemented.
+8
+
+=== PAGE 12 ===
+the crisis and propose measures to solve it. The report, including 113 policy proposals,
+was presented already in March 1993.12 Lindbeck et al. (1994) identiﬁed a number of
+fundamental problems in Swedish institutions. Most importantly, they pointed to a short
+election period after the constitutional reform in 1970, and a weak budget process.13
+Many of the Lindbeck commission’s proposals have now been implemented, and one may
+speculate that reforms in the last two decades have been more extensive than envisioned
+by the commission. It should be noted that there was already widespread discussion about
+fundamental reforms and that many of the proposals made by the commission were not
+new. The main contribution of the commission was rather to present a comprehensive
+analysis and a broad set of policy proposals at a time when there was a large consensus
+about the need for reforms.
+The important reforms of economic institutions and policy systems decided after the crisis
+were:14
+• Tax reform: As argued previously, the tax reform in 1990-1991 contributed to the
+timing of the crisis by raising the real interest rate net of taxes faced by households.
+But the reform was more comprehensive; it broadened tax bases, in particular for
+the value added tax, reduced top marginal tax rates on labor income from more than
+70 percent to around 50 percent, and made taxation of capital income proportional
+at 30 percent.
+• EU membership: The government announced its plans to apply for membership in
+the European Union in 1990. Although the breakdown of the Soviet Union was the
+important factor behind these plans, the announcement was also a reaction to the
+mounting economic problems, intended to boost conﬁdence for the Swedish economy
+(Carlsson, 2003).15 It is also likely that the economic crisis tilted the general opinion
+in favor of EU membership and contributed to the aﬃrmative outcome of the 1994
+referendum. Sweden joined the union in 1995.
+• Election periods: Parliament decided in 1994 to change the constitution and pro-
+long the election period to four years.
+• Monetary policy: The central bank announced an inﬂation target in January
+1993, to apply from 1995 and on. The government approved of the inﬂation target,
+and the Riksbank was then in practice a relatively independent inﬂation-targeting
+central bank, albeit initially with little credibility for its target. New legislation in
+1999 stated price stability as the central bank’s main objective, and strengthened
+the bank’s formal independence. The Riksbank’s external communication has de-
+veloped gradually over these years. Policy documents have been published since
+1999 explaining that monetary policy is ﬂexible, i.e. takes business-cycle develop-
+ments into consideration, although the legislation states price stabilization as the
+12The English translation (Lindbeck et al., 1994) was published one year later.
+13Von Hagen (1992) found that the design of the budget process had important and systematic impact on
+the budget outcome in countries in the European Community. Molander (1992) showed that the Swedish
+budget process was weak in comparison to the European countries, ranked only better than the Italian
+process.
+14There are a number of texts surveying and analyzing the Swedish reforms after the crisis, for example
+Ministry of Finance (2001), EEAG (2007), Calmfors (2012a), and EEAG (2012).
+15Ingvar Carlsson was Swedish prime minister 1986-1991 and 1994-1996.
+9
+
+=== PAGE 13 ===
+primary objective. The Riksbank now also publishes attributed minutes of the exec-
+utive boards monetary-policy meetings, and a forecast of its own interest-rate path.
+Two external evaluations of the Riksbank’s inﬂation targeting regime (Giavazzi and
+Mishkin, 2006, and Goodhart and Rochet, 2011) have mostly applauded the reforms
+of the monetary framework and the implementation of actual policy. But the Riks-
+bank has also been criticized for missing the inﬂation target. The average inﬂation
+rate has been lower than the target and some argue that a more expansionary stance
+would have been motivated in particular after the ﬁnancial crisis.16
+• Fiscal policy: A new top-down budget process was introduced in 1996. The budget
+process was supported by expenditure ceilings set three years ahead for government
+nominal expenditure. A surplus target for general government net lending was intro-
+duced in 1997 and phased in to apply fully from 2001. A balanced-budget requirement
+for local governments was introduced in 2000. A ﬁscal-policy council was established
+in 2007 with the remit to monitor ﬁscal policy, to evaluate its fulﬁllment of policy
+objectives, and to contribute to more transparency around economic policy. The
+ﬁscal framework and the motivation behind it is discussed in more detail below.
+• Pension system: Cross-party discussions about reforms of the pension system were
+initiated in 1991, an agreement reached in 1994 and decided in 1998 (Ministry of
+Health and Social Aﬀairs, 2009). The reform made the system more robust to pop-
+ulation aging, added ﬂexibility about the pension age, and strengthened individual
+incentives to postpone retirement. The increased robustness was achieved by re-
+stricting pension beneﬁts to the resources in the system, i.e. basically by changing
+from deﬁned beneﬁts to deﬁned contributions. The system therefore implies that
+pensions will fall relative to incomes as the population ages.
+• Competition, deregulation and privatization: There were a number of reforms
+in the early 1990s to adapt to EU regulations. For example, a stricter competition
+legislation was introduced in 1992. To promote supply and enhance eﬃciency, a
+number of sectors were deregulated, including telecommunications, transportation,
+postal services, and electricity generation.17 Several large state-owned ﬁrms have
+also been privatized in the last two decades. Moreover, there have been widespread
+initiatives to stimulate private, but publicly ﬁnanced, production of welfare services
+such as schooling, health and elderly care, and labor market training and search
+programs.18
+In parallel with the formulation and implementation of these reforms, policy makers still
+struggled with handling the ongoing banking crisis and the immediate eﬀects of the banking
+and currency crises. Several measures were taken to address the banking crisis and avoid a
+credit crunch. As already mentioned, a general guarantee to the depositors and creditors
+of the banks and mortgage institutions (not covering equity) was issued in the fall of
+1992. The intention with this guarantee was to raise conﬁdence for the Swedish ﬁnancial
+16The critique has been particularly intense from some of the members of the bank’s executive board.
+See for example Svensson (2012).
+17The deregulation of these markets had profound eﬀects on the Swedish economy, but accoring to SOU
+(2005:4) it is not evident that the net eﬀect was positive in all these markets. On the negative side, markets
+often came to be dominated by a few producers, and prices often increased after deregulation.
+18See SNS (2011) for an evaluation of these reforms.
+10
+
+=== PAGE 14 ===
+sector, and thereby facilitate bank funding on international markets. An explicit strategy
+followed in managing the crisis was to be transparent and report actual and expected losses
+immediately rather than deferring them as long as is legally possible (Ingves and Lind,
+1996). Bad loans were transferred from the two nationalized banks to separate entities
+("bad banks"). The reconstructed nationalized banks were recapitalized in 1992 and 1993,
+and the government also had to provide equity to the bad banks. The capital injections
+from the government totalled around SEK 61 billion in 1992 and 1993, i.e. around four
+percent of annual GDP. The banking crisis was initially handled by the Ministry of Finance
+together with the Riksbank and the Financial Supervisory Authority, but a separate Bank
+Support Authority (BSA) was set up in early 1993. Of the remaining four major private
+banks, three applied for support from the BSA. In the end, however, these banks needed
+little or no direct support from the BSA. Already in mid 1993, two of those banks had
+managed to raise suﬃcient new private equity, and the banking system showed a proﬁt
+in 1994 (Andersson and Viotti, 1999). In a paper published in early 1996 top oﬃcials
+handling the banking crisis noted that "the Swedish banking crisis is over" (Ingves and
+Lind, 1996). The general guarantee was removed in mid 1996.
+The main problem facing monetary policy was to establish credibility for the new inﬂation
+target and more broadly for the management of monetary policy with a ﬂoating exchange
+rate. The nominal exchange rate had depreciated by 20 percent from mid 1992 to the end
+of 1993, but the impact on inﬂation was moderate; the inﬂation rate was well below 3
+percent in 1994. But one-year ahead inﬂation expectations were still above 3 percent for
+most of 1994 and 1995 (see Figure 8). The spread between Swedish and German interest
+rates on 10 year government bonds also increased from 1.4 percentage points in early 1994
+to more than 4 percentage points in the fall of that year. In an eﬀort to show commitment
+to the inﬂation target and to bring down inﬂation expectations, the Riksbank only reduced
+the policy rate gradually after the ﬂoating of the krona, and it started raising the rate in
+mid 1994. There was a clear fall in inﬂation expectations in late 1995, allowing monetary
+policy to shift to a more expansionary path in early 1996. The average real interest rate,
+measured as the policy rate minus either actual or expected inﬂation, was 4.9 percent in
+1993-1996, i.e. much higher than during the subsequent IT boom 1997-2000 when it was
+just 2.4 percent.
+[Figure 8]
+Eﬀorts to consolidate public ﬁnances continued after the ﬂoating of the krona. The rev-
+enue increases in the two crisis packages presented in September 1992 mostly amounted
+to not continuing with plans to cut taxes. In particular, the plans to reduce the standard
+value added tax from 25 to 22 percent and the capital-income tax from 30 to 25 percent
+were abolished. Further policy decisions were taken in 1993, both expansionary to stim-
+ulate the economy (for example a temporary tax deduction for housing repair work) and
+contractionary to consolidate public ﬁnances (for example a reduction of the replacement
+rate from 90 to 80 percent and the introduction of a ﬁve day waiting period in the unem-
+ployment insurance system). According to Devries et al. (2011), the total consolidation
+eﬀorts amounted to 1.8 and 0.8 percent of GDP in 1993 and 1994, respectively, and were
+concentrated on spending cuts (around 80%) rather than tax increases. Their calculations
+11
+
+=== PAGE 15 ===
+however do not include the retraction of previously announced tax cuts.19
+In spite of the eﬀorts to consolidate, central government net borrowing increased from 11
+percent of GDP in 1992 to 13 percent in 1993. Figure 9 shows that the deﬁcits in these years
+were mostly generated by increasing expenditures. Expenditures related to unemployment
+and labor-market programs increased by 3.1 percent of GDP between 1990 and 1993. There
+were also expenditures amounting to 2.3 percent of GDP in 1993 and 1.5 percent in 1994 to
+restore the banking system. OECD (1994) also note that a substantial part of the rising
+deﬁcit was generated by special cyclical factors not captured by standard methods for
+cyclical adjustment. For example, private consumption accounted for an unusually large
+part of output at the peak of the business cycle, but also for an unusually rapid fall during
+the crisis as a result of the increase in household saving. This generated a boom-bust
+pattern for revenue from the value-added tax and other indirect taxes, which are large
+sources of tax revenue. In 1994, however, the ﬁrst clear indications of an improvement in
+public ﬁnances were seen, and already in 1998 the deﬁcits had been eliminated and debt
+stabilized.
+[Figure 9]
+Both the statistical and action-based approaches identify the deﬁcit reduction in 1993-1998
+to be mostly a result of ﬁscal consolidation rather than cyclical improvements. According
+to OECD Economic Outlook, primary ﬁnancial saving by the general government increased
+by 11.8 percent of GDP from 1992 to 1998. Of this, 10.7 percentage points are estimated
+as a structural improvement.
+According to the action-based approach (Devries et al.,
+2011), the consolidation in these six years amounted to 10.6 percent of GDP.
+There are a number of interesting aspects of this episode of ﬁscal consolidation. First,
+the large and rapid consolidation went hand in hand with an economic recovery. One
+may therefore ask if this is an example of an episode of expansionary ﬁscal contraction
+(Giavazzi and Pagano, 1990). Second, although the deﬁcit was eliminated, public debt
+(at least gross debt) was still high. In the decade after deﬁcits had been eliminated, a
+second phase of consolidation resulted in a substantial fall in debt ratios. In that period,
+Sweden also experienced substantially higher growth than in the average OECD country
+(see Figure 10). Why and how did Sweden, in contrast to most other OECD countries,
+manage to reduce public debt in the decade preceding the recent ﬁnancial crisis? And how
+important were the structural reforms and the improvements of the monetary and ﬁscal
+frameworks for the debt consolidation and the high growth? I will address these questions
+below.
+[Figure 10]
+19A number of recent studies, for example Mertens and Ravn (2011), ﬁnd that pre-announced but not
+yet implemented tax changes aﬀect the economy and that these anticipation eﬀects are an important source
+of business cycle ﬂuctuations. In principle, an investigation of the ﬁscal stance should therefore account
+not only for actual tax and spending changes, but also for policy announcements and the credibility of
+such announcements.
+12
+
+=== PAGE 16 ===
+3.1
+Eliminating the Deﬁcit, 1993-1998
+The eﬀorts to consolidate public ﬁnances and restore conﬁdence for the Swedish economy
+in 1990-1992 never fully addressed the fundamental problems with high price and wage in-
+ﬂation and a tendency for an expenditure-led expansion of the public sector. The inﬂation
+rate in 1990 and 1991 exceeded the German rate by approximately 7 percentage points
+(but started falling in 1992 as a consequence of the recession). The high inﬂation resulted
+in a rapid loss of competitiveness and also forced the Riksbank to tighten monetary policy
+to temporarily compensate for the inﬂation diﬀerential. The attempts to consolidate ﬁscal
+policy were modest in relation to the impact of the cyclical developments. Government
+expenditure relative to GDP therefore increased to unprecedented levels in the early 1990s.
+The turning point came when the ﬁxed-exchange rate regime was abandoned in Novem-
+ber 1992. The krona rapidly depreciated by 20 percent in nominal terms. Productivity
+growth was also high, probably because redundant labor resources were laid oﬀduring
+the recession. Relative unit labor costs in the manufacturing sector fell by more than 30
+percent in the year after the krona started ﬂoating, and both exports and the industry
+sector started growing in 1993, although total GDP was still falling. As seen in Figure
+11 growth in the industry sector exceeded 15 percent in 1994 and remained at unusually
+high levels throughout year 2000, with a temporary dip only in 1996. There was a similar
+development for the export volume. Although the industry sector accounted for less than
+15 percent of Swedish GDP, it contributed to more than half of the total GDP growth (at
+basic prices) in 1994, and a third of the growth in 1995. Figure 12 moreover shows that
+private consumption increased much more slowly than GDP during the initial years of the
+consolidation, and also through most of the subsequent years of consolidation.
+[Figures 11-12]
+These observations clearly indicate that the initial recovery was generated by the cur-
+rency depreciation, possibly in combination with unusually high productivity growth in
+manufacturing, and that there is no evidence of an expansionary ﬁscal contraction in the
+sense identiﬁed by Giavazzi and Pagano (1990). The mechanism behind such expansion-
+ary contractions is that a large-scale ﬁscal consolidation in an economy with previously
+unsustainable public policies restores households’ conﬁdence for the economy and raises
+their perceived permanent income. The expansion is then generated by higher household
+consumption and investment demand.
+Still, demonstrating commitment to ﬁscal discipline was a major concern for the gov-
+ernment. The consolidation was intensiﬁed after the election in late 1994 when a social
+democratic minority government gained power. The consolidation in 1995-1997 amounted
+to 7 percent of GDP, and half of this was implemented in 1995 following a consolidation
+program with explicit medium-term targets announced in the months after the election.
+According to Henriksson (2007, 2012), the frontloading, with most of the consolidation
+implemented in 1995, was an intentional strategy chosen by the government to demon-
+strate commitment to the announced consolidation program. The focus was however not
+primarily on household conﬁdence and potential wealth eﬀects stimulating demand, but
+more in line with a second mechanism discussed by Alesina and Ardagna (1998), namely
+13
+
+=== PAGE 17 ===
+through eﬀects on interest rates. The government was concerned by the high interest rate
+diﬀerential versus Germany, but maybe even more so by the Riksbank’s strict monetary
+stance. Henriksson (2012) argues that under asymmetric information, a government exer-
+cising more ﬁscal discipline than what is motivated in an economy with perfect information
+could induce a welcome expansion of monetary policy.
+There is an ongoing debate about the timing of consolidations in Europe and the United
+States, and the arguments partly coincide with the reasoning of the Swedish government
+in the mid 1990s.
+Alesina and Giavazzi (2012) argue in favor of frontloading, partly
+based on the interest-rate mechanism. But the DeLong and Summers (2012) and DeLong
+(2012) point out that the ECB and the Fed cannot expand monetary policy much further,
+and therefore argue against frontloading. The relevance of these arguments should diﬀer
+from country to country. As Corsetti (2012) writes, "governments with a full and solid
+credibility capital should abstain from immediate ﬁscal tightening, while committing to
+future deﬁcit reduction". For countries without such credibility capital, such as Sweden
+in the mid 1990s, frontloading may be more attractive.
+It should be noted, however, that the Swedish consolidation was implemented after the
+banking system had been recapitalized and after currency depreciation had generated
+high, export-led, GDP growth in 1994 and 1995. In the present European debt crisis,
+countries that lack this kind of credibility capital face larger problems than Sweden in
+1995, because banks still need to be recapitalized, and because growth has not resumed.
+Austerity may still be necessary, at least absent intensiﬁed support from other countries,
+but should be expected to be more problematic than it was in Sweden. Figure 12 moreover
+demonstrates that there was a temporary pause in the Swedish recovery in 1996-1997, i.e.
+in the years following the most restrictive ﬁscal policy. GDP growth was lower than the
+OECD average in 1996 and 1997, and the unemployment rate increased to a peak in 1997.
+These observations indicate that the Swedish consolidation had standard contractionary
+short-run eﬀects.
+3.2
+A New Fiscal Framework
+The new budget process and ﬁscal rules were developed in parallel with the consolidation.
+The elimination of the budget deﬁcit was therefore achieved with little help from the
+ﬁscal framework. The new framework may however have been more important during
+the second phase of the consolidation, the reduction of the public debt from 1997 and
+on.
+Before analyzing that phase, I will therefore discuss the new ﬁscal framework in
+some detail. The framework now consists of (i) a top-down budget process, (ii) three-year
+expenditure ceilings, (iii) a surplus target, (iv) a balanced-budget requirement for local
+governments, and (v) a ﬁscal-policy council.
+The new budget process was introduced in 1996, supported by new legislation from 1997.
+This new process follows a top-down approach in line with what von Hagen (1992) had
+identiﬁed as best practise.20 The ﬁrst step in the process is to set a nominal ceiling for
+government expenditure and to allocate resources under this ceiling to 27 expenditure
+areas. Expenditure on detailed budget items within an expenditure area are determined
+20See von Hagen et al. (2001) and Ljungman (2009) for more recent discussions of budget processes.
+14
+
+=== PAGE 18 ===
+in a second step.
+The centralized top-down budget process is motivated by potential
+failures in the political process. There is an externality resulting from public spending
+often being targeted at speciﬁc interest groups while tax revenue comes from broader
+groups. This generates a common-pool problem; interest groups argue for more spending
+since the funding is shared with all tax payers. A centralized budget process can prevent
+this common-pool problem from resulting in a deﬁcit bias and unplanned increases in
+public expenditures. Since total spending is decided in a ﬁrst step in the process, any
+proposal for additional expenditures must be met by reductions in some other spending
+item.
+The expenditure ceilings were introduced in 1996. They cover central government nominal
+expenditure, including the pension system and a budget margin, but excluding interest
+payments, and are set three years ahead (ceilings for 1997-1999 were set in 1996). The ex-
+penditure ceilings are part of the top-down approach in the budget process and intended to
+further mitigate the common-pool problems discussed above. Another motivation for set-
+ting expenditure ceilings several years in advance is to generate a longer planning horizon
+in the political process. There is otherwise a well-known risk that politicians are mostly
+concerned by the election cycle and that there may also be time-inconsistency problems.21
+The surplus target was introduced in 1997 and phased in to apply fully from 2001. Ac-
+cording to the target, general government net lending shall average one percent over the
+business cycle, but it is not speciﬁed how the business cycle should be measured. The
+initial motivation for the target was that it should be a tool for consolidating public ﬁ-
+nances, and that the chosen level would allow for more ﬂexibility in allowing ﬁscal policy
+to vary over the business cycle without violating the Stability and Growth Pact. But the
+motivation has varied over the years; the Swedish Fiscal Policy Council (2008) lists 16
+diﬀerent motivations that have been stated in budget documents since 1996.22
+A balanced-budget requirement for local governments was introduced in 2000. This re-
+quirement is motivated by moral-hazard problems similar to those motivating the Euro-
+pean ﬁscal rules; a local government running into ﬁscal problems may be bailed out by the
+central government. Anticipations of such bail-outs would result in less market discipline
+through high interest rates in highly indebted governments, and could rationalize a debt
+and deﬁcit bias in local governments.23
+A ﬁscal-policy council was established in 2007 with the remit to monitor ﬁscal policy,
+to evaluate its fulﬁllment of policy objectives, and to contribute to more transparency
+around economic policy. The council consists of a small group of independent, mostly
+academic, economists.24 One motivation for setting up ﬁscal councils is that they raise
+the transparency surrounding ﬁscal policy and its fulﬁllment of budget rules. Such motives
+may be particularly important when rules are (i) self-imposed and (ii) vague.
+As noted by for example Debrun (2007), budget rules are often formulated by governments
+21Persson and Tabellini (1999) survey the literature on such (and other) failures in the political process.
+See Ljungman (2008) for a deeper discussion of expenditure ceilings.
+22See also Ministry of Finance (2010) for a detailed evaluation of the surplus target.
+23See Pisauro (2001) for an overview of the literature on intergovernmental relations and ﬁscal discipline.
+24Calmfors (2012b) describes the council in more detail, while Calmfors and Wren-Lewis (2011) discuss
+ﬁscal councils more generally.
+15
+
+=== PAGE 19 ===
+and parliaments to apply on their own behavior, and there need not be any formal costs
+associated with violating the rules. This is indeed the case for the Swedish expenditure
+ceilings and surplus target. The Swedish budget legislation has recently become stricter
+and now states that three-year expenditure ceilings and budget targets should be formu-
+lated, it does not stipulate punishments for violations of the formulated targets. Moreover,
+the legislation is not part of the constitution and can therefore be withdrawn with short
+notice. The eﬀective costs associated with violating the rules in the ﬁscal framework are in-
+stead the bad publicity such violation would generate. By generating transparency around
+ﬁscal policy, a ﬁscal council can contribute to raising such costs. In line with this reason-
+ing, Posen (1995) and Debrun (2007) argue that rules can only be sustained if they reﬂect
+deeper social preferences or permanent features of the political system. This appears to
+have been the case in Sweden. The ﬁscal rules, in particular the expenditure ceilings and
+the surplus target, are relatively well known. The framework has broad support from the
+major political parties and has survived shifts in political power. The budget rules are also
+often mentioned in the political debate, both by sitting governments and the opposition.
+Empirical research has demonstrated that the quality of the budget process and the imple-
+mentation of ﬁscal rules and explicit numerical targets are associated with improvements
+in public ﬁnances.25 Interesting in relation to the Swedish framework, surplus targets sup-
+ported by expenditure ceilings appear to be particularly eﬀective (OECD, 2007). As many
+have pointed out, the causality from the ﬁscal framework to budget discipline is not well-
+identiﬁed. It is possible that countries with a larger commitment to ﬁscal discipline also
+choose to implement stricter frameworks. It is clear that the reforms of the Swedish ﬁscal
+framework in the late 1990s were a result of the new-found determination to eliminate the
+deﬁcit and reduce public debt. Still, the importance of the Swedish ﬁscal framework in
+forming the political agenda in the last decade cannot be denied. My interpretation of the
+development is that the formulation of the framework indeed reﬂected a commitment for
+budget discipline but that the framework has then prolonged the collective memory of the
+budget crisis and the importance of sustainable ﬁscal policies. It is also possible that the
+budget rules in themselves have created a preference in the political system for fulﬁlling
+these speciﬁc objectives.
+Fiscal policy has mostly complied to the rules and intentions speciﬁed by the reformed
+ﬁscal framework, and the overall assessment of the framework has mostly been positive,
+both from domestic and foreign observers. The top-down budget process and expenditure
+ceilings are widely supported and most likely contributed to bringing down public expen-
+diture relative to GDP after the uncontrolled upward trend in the 1970s and 1980s (see
+Figures 2 and 9). Some problems have however been noted.26 For example, the govern-
+ment has often provided insuﬃcient motivation for their choice of ceilings, budget margins
+under the ceiling has often been used for unplanned expenditure when budget outcomes
+were favorable, expenditures have sometimes been reported as tax expenditures, and some
+expenditures have been shifted inappropriately to years with a less binding ceiling. The
+expenditure ceilings were also criticized for being too rigid (lacking escape-clauses) during
+the recent ﬁnancial crisis.
+25For some recent empirical studies and surveys, see Fabrizio and Mody (2006) and European Commission
+(2010).
+26These problems have been noted repeatedly in particular by the Swedish National Audit Oﬃce and
+the Swedish Fiscal Policy Council.
+16
+
+=== PAGE 20 ===
+The surplus target is somewhat more controversial. It has a vague formulation because
+it applies for the average surplus "over the business cycle" and is therefore diﬃcult to
+evaluate. The vague formulation is however intentional and possibly an important strength
+that allows for ﬂexible ﬁscal actions over the business cycle. Fulﬁllment of a vague target
+such as this will by necessity be based on judgement, and should be assessed externally.
+The motivation for having this target is also unclear, in particular since the initial motiva-
+tion (to consolidate public ﬁnances) has been accomplished. The target is often criticized
+in the public debate for crowding out public investments (since the target applies to net
+lending rather than costs), sometimes also for resulting in unmotivated accumulation of
+public wealth and for transferring resources from current to future generations. Recently
+the government has also been criticized for saving more than what is motivated by the sur-
+plus target, and for choosing policies that minimize the risk of running temporary deﬁcits
+even if the economy is hit by negative shocks.
+It is generally acknowledged that some form of a balanced-budget requirement on local
+governments is necessary. But the Swedish restriction applies for the annual budget and
+does not allow for an accumulation of "rainy-day" contingency funds that are used in
+other countries.
+Although the central government transferred extra resources to local
+governments during the recent crisis (but not until in 2010), there is some evidence that
+local-government activity is mildly procyclical.27 Plans exist for reforming the balanced-
+budget requirement so that it becomes more ﬂexible.
+The ﬁscal policy council is also generally considered to have strengthened the overall
+ﬁscal framework. Arguably, the council’s most important contribution has been to raise
+transparency by stimulating and improving the discussion about ﬁscal policy, both in the
+media and in parliament. The council itself has criticized the government for providing
+too little resources for its work, and the IMF has repeatedly joined in this criticism.28
+One might guess that a ﬁscal council typically would assume the role of a ﬁscal hawk,
+trying to stop the government from running too expansionary ﬁscal policies. Interestingly,
+those roles have been reversed in Sweden. The ﬁscal council criticized the government
+for not stimulating the economy suﬃciently in early 2009, for being too afraid to violate
+the expenditure ceilings in the initial phases of the ﬁnancial crisis, and for aiming at
+higher ﬁscal balances than what is motivated by the surplus target. These observations
+demonstrate the strong political support for sound ﬁscal ﬁnances.
+Jonung (1997) has
+characterized the development of Swedish ﬁscal policy as the outcome of a learning process,
+where lessons from the last crisis dominate thinking about policies until there is a new
+crisis. The lesson from the 1990s crisis was then the importance of tight ﬁscal policy,
+which then is manifested by the new ﬁscal framework. A related interpretation is that
+the ﬁscal framework may have dominated the political and public discussion to the extent
+that it has reinforced political preferences for strong public ﬁnances.
+27See Assarsson (2011) and Vredin et al. (2012).
+28See for example IMF (2012a).
+17
+
+=== PAGE 21 ===
+3.3
+Reducing the Debt, 1997-2011
+Figure 13 shows that both net and gross public debt peaked around 1996. The net debt
+ratio fell by almost 50 percentage points from the end of 1996 to the end of 2007, while
+gross debt ratios fell by almost 40 percentage points.
+Contrary to most other OECD
+countries, the Swedish debt ratios continued falling during and after the ﬁnancial crisis
+in recent years. To understand if and how the new ﬁscal framework and the structural
+reforms have contributed to the strong public ﬁnances in Sweden, I here try to identify
+what factors contributed to the diﬀerent development of public debt in Sweden relative to
+most other OECD countries.
+[Figure 13]
+A useful starting point for analyzing this debt reduction is the public budget constraint,
+Dt = Pt + (1 + it−1) Dt−1 + Vt
+where D denotes net public debt at the end of the period, P denotes the primary deﬁcit,
+i is the nominal interest rate, and V is a residual that in particular captures valuation
+changes on the assets and liabilities behind the net debt.29
+Relating variables to GDP, we get
+dt −dt−1 = −pt + (rt −gt) dt−1 + vt
+(1)
+where d and p denote the debt-to-GDP ratio and the primary surplus relative to GDP,
+rt = (1 + it−1) / (1 + πt) −1 is the real interest rate if we let π denote the inﬂation rate
+measured by the GDP deﬂator, and g is the growth rate of real GDP. The factors aﬀecting
+the development of the debt are thus the initial debt, the primary surplus, the levels of
+interest rates and growth rates, and a residual term. Table 1 and Figure 14 summarize
+these variables in OECD countries for 1997-2011.30 Note that of the 21 countries listed,
+only 9 had a higher debt ratio in 2011 than in 1996. Those are Austria, France, Germany,
+Greece, Ireland, Japan, Portugal, the United Kingdom, and the United States. Norway
+displays the largest reduction in the debt ratio (or rather increase in wealth ratio). The
+country has reported large budget surpluses throughout the time period, mostly as a result
+29The residual is sometimes referred to as the stock-ﬂow adjustment (SFA). Eurostat regularly monitors
+the SFA for European countries (see for example Eurostat 2012). Their reports are however based on
+the development of gross rather than net debt. The most important factor contributing to the SFA is
+then ﬁnancial transactions, because those transactions aﬀect the gross debt but not the primary deﬁcit or
+surplus.
+30The data is from OECD Economic Outlook December 2011, but in Table 1 and in the baseline analysis
+below, I use a broader deﬁnition of net interest payments than what is standard. I calculate net interest
+payments as iD = Y PEPG −Y PERG where YPEPG (YPERG) is property income paid (received) by
+government. The important diﬀerence between this measure and standard measures is that dividends on
+assets held by the government are included in the interest rate. I then calculate the primary surplus as
+P = NLG+iD where NLG is OECD’s reported government net lending. Using the more narrow standard
+measure of interest payments aﬀects the allocation between the two ﬁrst terms on the right-hand side in
+equation (2). The contribution from total real surpluses (p −rd) and the contributions from growth and
+the residual are therefore not aﬀected by the choice of measure of interest payments.
+18
+
+=== PAGE 22 ===
+of revenue from the oil industry. Both Finland and Sweden reduced the debt ratio by more
+than 50 percentage points over the time period.
+[Table 1]
+[Figure 14]
+From (1) we have
+dT −d0 =
+T
+
+t=1
+(−pt + rtdt−1 −gtdt−1 + vt) .
+(2)
+Another way to think about the contribution of diﬀerent factors is as follows: Let ¯r and ¯g
+denote the average real interest rate and real growth rate of GDP in the sample (i.e. across
+countries and over time). Then calculate ˆpt as the primary surplus that would stabilize
+the debt ratio at this average interest rate and growth rate in the absence of valuation
+eﬀects. From (1) we have
+ˆpt = (¯r −¯g) dt−1.
+(3)
+Subtract ˆpt −(¯r −¯g) dt−1 = 0 for each t on the right-hand side in (2) to get
+dT −d0 =
+T
+
+t=1
+[−(pt −ˆpt) + (rt −¯r) dt−1 −(gt −¯g) dt−1 + vt] .
+(4)
+Table 2 reports the total contribution of each of the four terms in (4) to the change in the
+debt ratio. The tables highlight two features of the Swedish debt reduction. First, high
+growth is often mentioned as an explanation for the Swedish debt reduction. It is correct
+that Swedish growth was clearly higher than average for this time period (see Table 1), but
+these tables show that the direct eﬀect from growth to the debt ratio has been negligible.
+The explanation is that net debt has been close to zero on average in Sweden during this
+time period. Growth is only useful for reducing the debt ratio if net debt is positive, and
+it is an impediment to accumulation of net wealth relative to GDP. It is however possible
+that high growth contributed indirectly to the debt reduction by raising returns (dividends
+and value eﬀects) on publicly held assets.
+[Table 2]
+Second, primary surpluses have contributed to the reduction in the debt ratio, but they
+explain only around a third of the reduction.31 Primary surpluses have contributed more,
+in an absolute sense, to debt reduction in Belgium, Canada, Denmark, and Italy even
+though the debt reduction was smaller in these countries. The large debt reduction in
+Sweden is instead mostly explained by the residual term, indicating valuation eﬀects in
+the debt and asset portfolio. The residual term has also been important in Finland and
+31Primary surpluses explain a larger fraction (32 of 52 percentage points) if we use the narrow measure
+of interest rates. But the contribution from total real surpluses (p −rd) is still only around ten percentage
+points of the total 52 points reduction in the ratio.
+19
+
+=== PAGE 23 ===
+Norway, two countries where public asset holdings are large, just as Sweden. In other
+countries, the contribution from the residual term has been less important.32
+The ﬁnancial accounts are useful for understanding the mechanisms behind the Swedish
+residual term. These accounts contain more detailed information about ﬁnancial transac-
+tions and wealth positions for diﬀerent sectors in the economy. Table 3 summarizes the
+wealth position for the public sector at the end of 1996 and 2011 according to the ﬁnancial
+accounts. The public sector’s debt is concentrated to the central government, while both
+the central government and the social security system have substantial asset holdings.
+The central government’s asset holdings consist both of equity (mostly unquoted shares
+in government-owned corporations) and loans.33 Sweden has a pay-as-you go pension sys-
+tem supported by buﬀer funds that mitigate the impact from demographic and economic
+ﬂuctuations. Traditionally, these funds invested mostly in interest-bearing assets, but a
+reform in 2001 broadened the set of assets that they can invest in. As Table 3 shows, the
+social security system now has substantial holdings both of equity (mostly quoted shares)
+and interst-bearing assets. Local governments have small ﬁnancial positions.
+[Table 3]
+The Swedish ﬁnancial accounts conﬁrm that valuation eﬀects explain most of the residu-
+als.34 Figure 15 shows that changes in the government’s net holdings of equity and bonds,
+not explained by transactions in these items, account for most of the residual. The residual
+stemming from equity holdings, can be attributed both to the central government and to
+the social security system, while the residual stemming from bond holdings can mostly be
+attributed to the central government. Figure 16 shows the negative of the residual stem-
+ming from equity holdings together with the development of the OMX stock-market index.
+The strong positive correlation between these series conﬁrms that the residual tends to be
+negative (i.e. contribute to lower debt) when returns on the stock market are positive. In
+this sense, high growth in the Swedish economy may have contributed to debt reduction
+indirectly by raising the returns in the asset portfolios held by the central government and
+the social security system.
+[Figures 15-16]
+The development of the Swedish public debt was not particularly aﬀected by the crisis
+in 2008-2011; the results for Sweden in Table 2 would have been similar if we had only
+32Greece is an exception with a large positive residual term.
+33Because of privatizations, the number of government-ownded corporations has decreased over the time
+period, see e.g. Munkhammar (2007). In early 2012, there were 43 government-owned corporations, and
+an additional 15 corporations partly owned by the government. The market value of these corporations
+was assessed to SEK 580 billion (around 17 percent of GDP), including the holdings in the three listed
+corporations with a vaule of SEK 105 billion (Government Oﬃces of Sweden, 2012). According to the
+ﬁnancial accounts, the central government held equity worth SEK 542 billion at the end of 2011.
+34The exception is the residual in 2001. Most of the large residual in that year appears to be explained
+by a retroactive change in accounting standards (for accruals) in 2009 that has been backtracked to 2001
+by Statistics Sweden. This change raised the government’s ﬁnancial claims on the private sector by more
+than 7 percent of GDP, and thereby reduced reported net government debt.
+20
+
+=== PAGE 24 ===
+used data until 2007 rather than 2011. For several other countries the development before
+and after the crisis was however very diﬀerent. There were large debt reductions between
+1997 and 2007 also in Belgium, Canada, Denmark, Finland, Ireland, New Zealand, and
+Spain (more than 30 ppt reduction).35 With the exception of Finland, Ireland and Spain,
+the debt reductions in these countries were accomplished through primary surpluses. In
+Ireland and Spain, high growth, low real interest rates, and residuals were also important.
+The low real interest rates in Ireland and Spain are explained by low nominal interest
+rate diﬀerentials in the EU area in 1997-2007 in combination with higher inﬂation in these
+countries.
+It is also worth noting that low growth has been an obstacle to debt reduction in Italy
+and Japan. Both these countries had large debt ratios to potentially grow away from, but
+they both have had unusually low GDP growth rates.
+So, how did Sweden ended up with strong public ﬁnances prior to and during the re-
+cent ﬁnancial crisis? The analysis here casts some doubt on the importance of the ﬁscal
+framework and the growth-stimulating structural reforms for the reduction of the debt
+ratio since its peak in 1997. Sweden does not stand out with unusually large budget sur-
+pluses. Primary surpluses account for less than a third of the Swedish debt reduction,
+and total budget surpluses account for less than a ﬁfth of the debt reduction. The direct
+impact from growth on the debt ratio was negligible in Sweden during the period. Most
+of the debt reduction instead appears to stem from valuation eﬀects in the government’s
+asset portfolio. But this analysis cannot rule out important indirect eﬀects from the ﬁscal
+framework and high growth. Absent a strong ﬁscal framework, the rapid debt reduction
+might have triggered more expansionary ﬁscal policies, and high growth may have been
+an important factor behind the increased asset values.
+4
+Long-Run Sustainability
+In addition to currently having low public debt and deﬁcits, the Swedish economy appears
+unusually well prepared for the aging of populations.
+The S2-sustainability indicator
+reported by the European Commission indicates that current ﬁscal policy in Sweden is
+close to being long-run sustainable even when taking the aging populations into account
+(see Figure 17). But this position is not only a result of the debt reduction during the
+last 15 years.
+Other important factors contributing to sustainability are the pension
+system and the relatively mild demographic change. As already mentioned, the pension
+system has been reformed and now has a mechanism that automatically balances pension
+payments to revenue and available funds. The pension system is therefore designed as a
+closed self-ﬁnancing system which cannot run into sustainability problems. It is however
+possible, and maybe likely, that the system is not politically sustainable. According to
+forecasts, the average pension will fall from 64 percent of an average income in 2007 to 46
+percent in 2060 (European Commission 2010). This development may induce pressure for
+adding resources to the system. Some weakness in the system was indicated during the
+recent crisis, when the balancing mechanism in the pension system was modiﬁed so that
+the impact of falling asset values on pension payments would be less immediate.
+35I exclude Norway, with its extreme developments due to oil revenue, from the comparisons.
+21
+
+=== PAGE 25 ===
+[Figure 17]
+Compared to other OECD countries, the increase in the old-age dependency ratio during
+the coming decades will be relatively mild (see Figure 18). The pressure on public ﬁnances
+through pensions and costs related to health and elderly care may therefore become more
+problematic in other countries. Moreover, the Swedish population growth rate is expected
+to be high, at least in comparison with many South European countries (Figure 19). Low
+population growth rates will aggravate the debt problems in countries such as Portugal
+and Italy because it will tend to reduce GDP growth rates and therefore make it more
+diﬃcult to reduce the debt-to-GDP ratios.
+[Figures 18-19]
+5
+Insights from the Swedish Experiences
+Conﬁdence for the Swedish economy, and in particular for Swedish economic policies was
+restored in the mid 1990s through a series of fundamental reforms and policy choices. The
+reforms included tax reform, EU membership, deregulation of markets, privatization of
+publicly owned companies and of welfare services, stricter competition legislation, intro-
+duction of a ﬂoating exchange rate, an independent central bank with an inﬂation target,
+a new budget process, and the introduction of medium-term ﬁscal targets. Policy choices
+included a general guarantee to the banking system and nationalization and rapid recap-
+italization of failing banks, strict monetary policy until inﬂation expectations were in line
+with the inﬂation target, and a tough consolidation program for ﬁscal policy.
+We would from a theoretical perspective expect these reforms to raise economic eﬃciency
+in the long-run. High growth in GDP and productivity from 1997 and on gives at least
+some support for that view. The short-run impact of the reforms and policy measures are
+theoretically less clear. It is also diﬃcult to empirically disentangle separate eﬀects from
+each of the reforms. A few observations can still be made. First, there is clear evidence
+that the currency depreciation in 1993 in combination with rapid productivity growth
+and a benign development on important export markets contributed importantly to the
+Swedish recovery. Second, although there were clear eﬀorts to consolidate public ﬁnances
+from 1992 and on, the substantial consolidation was implemented in 1995-1997, i.e. after
+rapid growth had resumed in the Swedish economy. Third, there are strong indications
+that the strict monetary and ﬁscal policy implemented around 1995 had contractionary
+eﬀects on the Swedish economy.
+These observations cast doubt on the relevance of the Swedish experiences for current
+European crisis countries. Most of those countries have ﬁxed exchange rates and cannot
+beneﬁt from currency depreciation. Economies today also face weak demand from trading
+partners, and several economies have monetary policy constrained by the zero lower bound.
+Large ﬁscal consolidations are politically more diﬃcult to implement and economically
+more questionable in these circumstances than in they were in Sweden in 1995.
+22
+
+=== PAGE 26 ===
+The quick recovery of the Swedish economy would most likely not have been possible
+without the rapid recapitalization of the banking system.36 It was an intentional policy
+choice to immediately report all expected losses and to recapitalize banks quickly. Still,
+the outcome of this strategy was probably more successful than policy makers expected
+at the time. It was not evident in late 1992 that the economy would recover as fast as
+it did. Without the quick recovery, the general guarantee extended to the banks would
+have become more costly, and the banking system would most likely have needed further
+support. Recent developments in Ireland may serve as an example. The Irish government
+issued a guarantee to the depositors and creditors of the major banks in September 2008,
+it injected capital amounting to four percent of GDP into banks in early 2009, and it
+established an asset management company to take care of the banks’ bad assets and
+facilitate reconstruction of the banks.37 But the Irish economy has struggled with restoring
+competitiveness under the ﬁxed exchange rate and weak foreign demand. The capital
+initially injected into the banking system turned out to be far from suﬃcient. During 2009-
+2010 public recapitalization amounted to 30 percent of GDP, and further recapitalizations
+have been need more recently (IMF 2011, 2012b). Thus, while the rapid recapitalization
+of the Swedish banks in 1992-1993 most likely contributed to the rapid recovery of the
+Swedish economy in the subsequent years, the strategy chosen could have resulted in much
+larger public costs if other macroeconomic developments had not been so favorable.
+Another important observation is that Swedish net government debt never exceeded 30
+percent of GDP. The Swedish crisis was not a debt crisis, but is better described as a
+currency and banking crisis in combination with a loss of conﬁdence in economic policies
+and the sustainability and eﬃciency of the welfare state. Because debt was never high,
+there was no direct contribution from high growth to the reduction of the debt ratio.
+High export-led growth instead contributed to the recovery by mitigating the eﬀects from
+contractionary monetary and ﬁscal policies, and by limiting bank losses.
+In addition to having high public debts, many present crisis countries also anticipate a
+dramatic aging of their populations in the coming decades. Sweden did not face that
+problem in the 1990s, and does so to a lesser extent today than other economies. That
+Sweden has had a high fertility rate relative to many other European countries is possi-
+bly a result of family policies oriented to enhance the compatibility between labor-force
+participation and parenthood (Andersson, 2008). These policies include generous systems
+for paid parental leave and public day care.
+One may argue that the Swedish reactions to the crisis in the early 1990s and the subse-
+quent reforms were indeed a role model for the conduct of economic policies. The ﬁscal
+framework in particular stands out as providing both incentives for long-run sustainable
+ﬁscal policy and still allowing ﬂexibility for ﬁscal policy to vary, mostly through automatic
+mechanisms, over the business cycle. Ingredients from the Swedish ﬁscal framework could
+help other countries prevent future ﬁscal crises. But the analysis here indicates that the
+direct contribution from sound public ﬁnances (in the form of budget surpluses) to the
+large debt reduction was limited. This observation casts some doubt on the importance of
+36For example, Lindbeck et al. (1994) argued that the Riksbank’s high policy rate at that time was
+relatively unimportant in comparison to high lending rates of commercial banks.
+37One diﬀerence between the Swedish and Irish strategies is that Ireland was initially reluctant to fully
+nationalize insolvent banks.
+23
+
+=== PAGE 27 ===
+the ﬁscal framework for Sweden’s strong ﬁscal ﬁnances today. The problems now faced by
+several European economies are also substantially deeper than the Swedish problems in
+the 1990s. Export-led growth through currency depreciation and strong external demand
+was a key ingredient in the Swedish recovery, facilitating both bank recapitalization and
+ﬁscal consolidation. In the recent crisis, economies have either ﬁxed exchange rates or
+currencies that do not depreciate much because other economies face similar problems.38
+It is therefore already evident that the short-run economic and political eﬀects of ﬁscal
+consolidation will not be as benign this time as in Sweden in 1995.
+References
+Alesina, Alberto and Silvia Ardagna (1998), "Tales of Fiscal Adjustments", Economic
+Policy 13, 487-545
+Alesina, Alberto and Francesco Giavazzi (2012), "The Austerity Question: ’How’ is as
+Important as ’How Much’", VoxEU, April 3, 2012
+Alesina, Alberto and Roberto Perotti (1995), "Fiscal Expansion and Adjustments in
+OECD Countries", Economic Policy 10, 205-248
+Andersson, Gunnar (2008), "Family Policies and Fertility in Sweden", manuscript, Stock-
+holm University, Department of Sociology
+Andersson, Martin and Staﬀan Viotti (1999), "Managing and Preventing Financial Crises
+— Lessons from the Swedish Experience", Quarterly Review 1999:1, Sveriges Riksbank
+Ardagna, Silivia (2007), "Determinants and Consequences of Fiscal Consolidations in
+OECD Countries", manuscript, Harvard University
+Assarsson, Bengt (2011), "Kommunernas ekonomi i konjunkturcykeln", Appendix 6 to
+SOU 2011:59 [In Swedish]
+Bénétrix, Agustín and Philip Lane (2011), "Financial Cycles and Fiscal Cycles", manu-
+script, Trinity College Dublin
+Bergman, Michael (2011), "Tidsbestämning av svensk konjunktur 1970-2010", Rapport
+till Finanspolitiska rådet 2011/2 [In Swedish]
+Blanchard, Olivier (1990), "Suggestions for a New Set of Fiscal Indicators", OECD Work-
+ing Paper 79
+Calmfors, Lars (2012a), "Sweden — from Macroeconomic Failure to Macroeconomic Suc-
+cess", manuscript, IIES, Stockholm University
+Calmfors, Lars (2012b), "The Swedish Fiscal Policy Council: Watchdog with a Broad
+38Iceland is an exception. Being a small economy with a ﬂoating exchange rate, and being hit more
+severely by the crisis, its recovery has been facilitated by substantial currency depreciation.
+24
+
+=== PAGE 28 ===
+Remit", CESifo Working Papers 3725
+Calmfors, Lars and Martin Flodén (2009), "Hellre undantag än godtycke för utgiftstaket"
+(Better with escape clauses than arbitrariness for the expenditure ceilings), Dagens Ny-
+heter, June 2, 2009
+Calmfors, Lars and Simon Wren-Lewis (2011), "What Should Fiscal Councils Do?", Eco-
+nomic Policy 27, 649-695
+Carlsson, Ingvar (2003), Så tänkte jag, (This is how I reasoned), Hjalmarson & Högberg
+[In Swedish]
+Corsetti, Giancarlo (2012), "Has Austerity Gone too Far?", VoxEU, April 2, 2012
+Debrun, Xavier (2007), "Tying Hands is Not Commitment: Can Fiscal Rules and Institu-
+tions Really Enhance Fiscal Discipline?", Bruegel Working Papers 2007/01
+DeLong, Bradford (2012), "Spending Cuts to Improve Conﬁdence? No, the Arithmetic
+Goes the Wrong Way", VoxEU, April 6, 2012
+DeLong, Bradford and Lawrence Summers (2012), "Fiscal Policy in a Depressed Econ-
+omy", manuscript, Brookings
+Devries, Pete, Jaime Guajardo, Daniel Leigh, and Andrea Pescatori (2011), "A New
+Action-Based Dataset on Fiscal Consolidation", IMF Working Paper 11/128
+Drees, Burkhard and Ceyla Pazarbasioglu (1995), "The Nordic Banking Crises: Pitfalls
+in Financial Liberalization?", IMF Working Paper 95/61
+EEAG (2007), "Scandinavia Today: An Economic Miracle?", Chapter 4 in EEAG Report
+2007, CESifo Institute
+EEAG (2012), "The Swedish Model", Chapter 4 in EEAG Report 2012, CESifo Institute
+Englund, Peter (1999), "The Swedish Banking Crisis: Roots and Consequences", Oxford
+Review of Economic Policy 15(3), 80-97
+European Commission (2010), "EPC-SPC Joint Report on Pensions Country Proﬁles",
+ECOFIN 684
+European Commission (2010b), "Evolving Budget Surveillance", Part II in Public Finances
+in EMU 2010
+European Commission (2011), Public Finances in EMU 2011
+Eurostat (2012), "Stock-ﬂow adjustment (SFA) for the Member States, the euro area and
+the EU27 for the period 2008-2011, as reported in the October 2011 EDP notiﬁcation"
+Fabrizio, Stefania and Ashoka Mody (2006), "Can Budget Institutions Counteract Political
+Indiscipline?", Economic Policy, 689-739
+25
+
+=== PAGE 29 ===
+Feldt, Kjell-Olof (1991), Alla dessa dagar ... I regeringen 1982-1990, (All these days
+... In the government 1982-1990), Norstedts [In Swedish]
+Giavazzi, Francesco and Frederic Mishkin (2006), "An Evaluation of Swedish Monetary
+Policy between 1995 and 2005", report published by the Swedish Parliament’s Committee
+on Finance
+Giavazzi, Francesco and Marco Pagano (1990), "Can Severe Fiscal Contractions be Ex-
+pansionary? Tales of Two Small European Countries", NBER Macroeconomics Annual,
+76-116
+Giavazzi, Francesco and Marco Pagano (1996), "Non-Keynesian Eﬀects of Fiscal Policy
+Changes: International Evidence and the Swedish Experience", Swedish Economic Policy
+Review 3, 67-103
+Goodhart, Charles and Jean-Charles Rochet (2011), "Evaluation of the Riksbank’s Mone-
+tary Policy and Work with Financial Stability 2005-2010", report published by the Swedish
+Parliament’s Committee on Finance
+Government Oﬃces of Sweden (2012), "Verksamhetsberättelse för företag med statligt
+ägande 2011", (Annual report for government-owned corportations 2011) [In Swedish]
+Guichard, Stéphanie, Mike Kennedy, Eckhard Wurzel, and Christophe André (2007),
+"What Promotes Fiscal Consolidation: OECD Country Experiences", OECD Economics
+Department Working Paper 553
+von Hagen, Jürgen (1992), "Budgeting Procedures and Fiscal Performance in the European
+Communities", Commission of the European Communities, Economic Papers 96
+von Hagen, Jürgen, Andrew Hughes Hallett, and Rolf Strauch (2001), "Budgetary Con-
+solidation in EMU", Economic Papers 148, European Commission
+Henriksson, Jens (2007), "Ten Lessons about Budget Consolidation", Bruegel Lecture and
+Essay Series
+Henriksson, Jens (2012), "Using Frontloading as a Signal in Budget Consolidation", man-
+uscript, Stockholm University
+IMF (2011), "Ireland: First and Second Reviews Under the Extended Arrangement and
+Reuqest for Rephasing of the Arrangement", IMF Country Report 11/109
+IMF (2012a), "Sweden: 2012 Article IV Consultation", IMF Country Report 12/154
+IMF (2012b), "Ireland: Sixth Review Under the Extended Arrangement", IMF Country
+Report 12/147
+Ingves, Stefan and Göran Lind (1996), "The management of the banking crisis — in retro-
+spect", Quarterly Review 1996:1, Sveriges Riksbank
+Jonung, Lars (1999), "Med backspegeln som kompass — om stabiliseringspolitiken som
+26
+
+=== PAGE 30 ===
+läroprocess", (Looking ahead through the Rear-View Mirror. Swedish Stabilization Policy
+1975-1995), Rapport till ESO, Ds 1999:9, Ministry of Finance [In Swedish]
+Jonung, Lars, Ludger Schuknecht, and Mika Tujula (2006), "The Boom-Bust Cycle in
+Finland and Sweden 1984-1995 in an International Perspective", Center for Financial
+Studies 2006/13
+Lindbeck, Assar (1997), "The Swedish Experiment", Journal of Economic Literature 35,
+1273-1319
+Lindbeck, Assar, Per Molander, Torsten Persson, Olof Petersson, Agnar Sandmo, Birgitta
+Swedenborg, and Niels Thygesen (1994), Turning Sweden Around, MIT Press
+Ljungman, Gösta (2008), "Expenditure Ceilings — A Survey", IMF Working Paper 08/282
+Ljungman, Gösta (2009), "Top-Down Budgeting — An Instrument to Strengthen Budget
+Management", IMF Working Paper 09/243
+Ministry of Finance (2001), "An Account of Fiscal and Monetary Policy in the 1990s",
+Annex 5 to Government Bill2000/01:100.
+Ministry of Finance (2010), "Utvärdering av överskottsmålet", (An evaluation of the sur-
+plus target), Ds 2010:4 [In Swedish]
+Ministry of Health and Social Aﬀairs (2009), "Detta är pensionsöverenskommelsen", (This
+is the pension agreement), Ds 2009:53 [In Swedish]
+Molander, Per (1992), "Statsskulden och budgetprocessen", (Government debt and the
+budget process), Rapport till ESO, Ds 1992:126, Ministry of Finance [In Swedish]
+Munkhammar, Johnny (2007), "Försäljning av statliga bolag under tre decennier", (Three
+decades of privatization of government-owned corporations), Timbro Förlag [In Swedish]
+OECD (1974), Economic Surveys: Sweden
+OECD (1976), Economic Surveys: Sweden
+OECD (1994), Economic Surveys: Sweden
+OECD (2007), "Fiscal Consolidation: Lessons from Past Experience", Chapter 4 in OECD
+Economic Outlook 81
+Persson, Torsten and Guido Tabellini (1999), "Political Economics and Macroeconomic
+Policy", in: J. Taylor and M. Woodford (eds.), Handbook of Macroeconomics 1(1),
+Elsevier
+Pisauro, Giuseppe (2001), "Intergovernmental Relations and Fiscal Discipline: Between
+COmmons and Soft Budget Constraints", IMF Working Paper 01/65
+Posen, Adam (1995), "Declarations are Not Enough: Financial Sector Sources of Central
+Bank Independence", NBER Macroeconomics Annual
+27
+
+=== PAGE 31 ===
+SNS (2011), "Konkurrensens konsekvenser" (Competition and its eﬀects) [In Swedish]
+SOU (2005), "Liberalisering, regler och marknader" (Liberalization, rules, and markets),
+Statens oﬀentliga utredningar 2005:4 [In Swedish]
+Svensson, Lars E. O. (2012), "Practical Monetary Policy: Examples from Sweden and the
+United States", manuscript, Brookings
+Swedish Fiscal Policy Council (2008), Svensk Finanspolitik, Report of the Swedish
+Fiscal Policy Council 2008 [In Swedish]
+Swedish Fiscal Policy Council (2009), Swedish Fiscal Policy, Report of the Swedish
+Fiscal Policy Council 2009
+Swedish Fiscal Policy Council (2010), Swedish Fiscal Policy, Report of the Swedish
+Fiscal Policy Council 2010
+Vredin, Anders, Martin Flodén, Anna Larsson, and Morten Ravn (2012), "Enkla regler,
+svåra tider — behöver stabilisringspolitiken förändras?", SNS Konjunkturrådsrapport 2012
+[in Swedish]
+Wohlin, Lars (1998), "Bankkrisens upprinnelse", (The origin of the banking crisis), Ekonomisk
+Debatt 26, 1 [In Swedish]
+28
+
+=== PAGE 32 ===
+Figures and Tables
+Table 1: Summary statistics 1997-2011
+net
+primary
+growth
+interest
+debt ratio
+lending
+net lend.
+rate
+rates
+Country
+d1996
+d2011
+p −rd
+p
+g
+r
+rd
+Australia
+20.9
+4.9
+0.4
+−0.7
+3.3
+3.7
+0.4
+Austria
+40.2
+45.2
+−2.2
+−0.2
+2.1
+2.7
+3.1
+Belgium
+115.3
+80.4
+−1.5
+2.8
+1.9
+2.9
+2.8
+Canada
+70.0
+33.6
+−0.3
+1.7
+2.7
+5.1
+4.4
+Denmark
+33.3
+2.4
+1.0
+2.0
+1.3
+2.4
+2.5
+Finland
+−6.7
+−60.9
+2.1
+0.4
+2.8
+2.3
+2.2
+France
+41.9
+62.7
+−3.6
+−1.5
+1.7
+1.9
+2.3
+Germany
+32.7
+51.5
+−2.3
+0.0
+1.4
+3.2
+3.7
+Greece
+82.2
+133.1
+−6.9
+−2.0
+2.0
+1.8
+1.9
+Ireland
+42.2
+65.0
+−3.0
+−2.1
+4.3
+1.8
+1.8
+Italy
+103.9
+100.2
+−3.2
+1.9
+0.9
+2.0
+2.4
+Japan
+29.2
+127.6
+−6.5
+−5.4
+0.6
+3.3
+3.2
+Netherlands
+52.7
+37.7
+−1.4
+−0.9
+2.1
+3.3
+2.1
+Norway
+−41.0
+−162.5
+11.8
+3.1
+2.0
+2.3
+−0.4
+New Zealand
+32.4
+10.8
+1.0
+0.8
+2.6
+5.3
+3.4
+Portugal
+26.5
+75.8
+−4.6
+−2.4
+1.5
+1.0
+1.5
+Spain
+55.5
+45.6
+−2.4
+−0.9
+2.6
+1.3
+1.2
+Sweden
+26.6
+−24.9
+0.8
+1.0
+2.7
+2.1
+2.2
+Switzerland
+6.0
+0.4
+−0.2
+−0.3
+1.9
+2.0
+1.6
+UK
+27.9
+61.7
+−3.4
+−1.6
+2.2
+2.2
+2.6
+USA
+51.9
+73.7
+−4.0
+−1.9
+2.3
+2.8
+2.7
+Note: The table shows the development of general government net debt from the end of
+1996 (1998 and 1999 for Ireland and Switzerland) to the end of 2007. r is the weighted
+average return on assets and liabilities. rd is the interest rate paid on liabilities.
+Source: OECD Economic Outlook December 2011 and own calculations.
+29
+
+=== PAGE 33 ===
+Table 2: Decomposition of change in debt 1997-2011
+Contribution to change in debt
+change in debt
+primary surplus
+real interest rate
+growth
+residual
+Country
+d2011 −d1996
+−(p −ˆp)
+(r −¯r) d
+−(g −¯g) d
+ν
+Australia
+−16.0
+10.2
+−20.0
+−1.7
+−4.4
+Austria
+5.0
+0.0
+8.6
+−0.2
+−3.2
+Belgium
+−34.9
+−49.7
+3.8
+1.4
+9.6
+Canada
+−36.5
+−28.3
+0.8
+−6.3
+−2.7
+Denmark
+−30.9
+−31.4
+4.8
+−0.6
+−3.7
+Finland
+−54.2
+−2.2
+3.3
+2.1
+−57.5
+France
+20.9
+19.3
+4.3
+3.1
+−5.8
+Germany
+18.7
+−3.4
+12.7
+4.4
+5.0
+Greece
+50.9
+23.8
+−7.9
+5.1
+29.9
+Ireland
+22.7
+38.4
+−2.2
+−4.9
+−8.6
+Italy
+−3.7
+−36.6
+6.7
+17.5
+8.7
+Japan
+98.3
+74.6
+0.7
+16.5
+6.5
+Netherlands
+−15.0
+10.8
+−19.7
+−1.4
+−4.7
+Norway
+−121.4
+−38.9
+−15.6
+−7.1
+−59.8
+New Zealand
+−21.7
+−13.8
+−11.5
+−2.4
+6.1
+Portugal
+49.3
+32.5
+1.8
+6.5
+8.4
+Spain
+−9.9
+10.5
+−9.9
+−5.1
+−5.3
+Sweden
+−51.5
+−15.6
+5.8
+−1.6
+−40.1
+Switzerland
+−5.6
+0.1
+−4.2
+0.0
+−1.5
+UK
+33.8
+21.4
+4.6
+0.5
+7.3
+USA
+21.8
+24.3
+−0.4
+−1.4
+−0.7
+Note: Decomposition as in equation (4) for 1997-2011.
+Source: Own calculations based on OECD Economic Outlook December 2011.
+30
+
+=== PAGE 34 ===
+Table 3: Financial Assets and Liabilities in the Swedish Public Sector
+1996
+2011
+General government
+Net debt
+26.6
+−21.1
+Liabilities
+98.9
+53.0
+Assets
+72.3
+74.2
+Central government
+Net debt
+61.5
+4.6
+Liabilities
+89.3
+39.6
+Assets
+27.8
+35.1
+.equity
+15.6
+15.6
+.bonds, loans, etc
+9.9
+13.4
+.accounts receivable
+2.3
+6.1
+Local government
+Net debt
+0.9
+−0.4
+Liabilities
+9.6
+12.5
+Assets
+8.7
+12.9
+Social security system
+Net debt
+−35.8
+−25.3
+Liabilities
+0.0
+0.9
+Assets
+35.9
+26.2
+.equity
+3.8
+13.1
+.bonds, loans, etc
+32.0
+10.6
+.mutual funds
+0.0
+1.8
+Note: Percent of GDP.
+Source: Statistics Sweden (Financial Accounts).
+31
+
+=== PAGE 35 ===
+Figure 1: Government consumption and investment (% of GDP)
+1960
+1965
+1970
+1975
+1980
+1985
+1990
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+ 
+ 
+Sweden
+OECD
+2nd
+Note: ’OECD’ refers to a weighted average of OECD countries with data available for the
+full time period. Those countries are Austria, West Germany, Finland, France, Japan,
+Norway, and the United States. ’2nd’ refers to the highest value in a group of 19 OECD
+countries (typically Denmark, France, or the Netherlands).
+Source: OECD Economic Outlook December 2011.
+Figure 2: Government primary expenditure (% of GDP)
+1960
+1965
+1970
+1975
+1980
+1985
+1990
+20
+25
+30
+35
+40
+45
+50
+55
+60
+ 
+ 
+Sweden
+OECD
+2nd
+Note: See Figure 1.
+32
+
+=== PAGE 36 ===
+Figure 3: Relative unit labor cost
+1970
+1975
+1980
+1985
+1990
+−25
+−20
+−15
+−10
+−5
+0
+5
+10
+15
+Note: Relative unit labor cost in manufacturing, percent deviation
+from 1980 level.
+Source: OECD Economic Outlook December 2011.
+Figure 4: Government budget outcome (% of GDP)
+1970
+1975
+1980
+1985
+1990
+−15
+−10
+−5
+0
+5
+10
+ 
+ 
+Central government
+General government
+Note: Central government budget balance and general government net lending.
+Source: Swedish National Financial Management Authority and OECD
+Economic Outlook December 2011.
+33
+
+=== PAGE 37 ===
+Figure 5: House prices
+1984/2001
+1986/2003
+1988/2005
+1990/2007
+1992/2009
+1994/2011
+−20
+−10
+0
+10
+20
+30
+40
+50
+60
+ 
+ 
+Sweden
+Ireland
+Spain
+Sweden com.
+Note: House prices relative to GDP, percent deviation from initial value. Sweden 1984-1993.
+Ireland and Spain: 2001-2010. t = 0 corresponds to 2007. ’Sweden com.’
+refers to commercial and multi-dwelling buildings.
+Source: Statistics Sweden, Irish Department of Environment, BIS, and OECD Economic Outlook
+December 2011.
+Figure 6: Housing investment (% of GDP)
+1984/2001
+1986/2003
+1988/2005
+1990/2007
+1992/2009
+1994/2011
+2
+4
+6
+8
+10
+12
+14
+ 
+ 
+Sweden
+Ireland
+Spain
+Note: See Figure 5.
+Source: OECD Economic Outlook December 2011.
+34
+
+=== PAGE 38 ===
+Figure 7: Household sector liabilities (% of GDP)
+1984/2001
+1986/2003
+1988/2005
+1990/2007
+1992/2009
+1994/2011
+50
+60
+70
+80
+90
+100
+110
+120
+130
+ 
+ 
+Sweden
+Ireland
+Spain
+Note: See Figure 5.
+Source: Statistics Sweden and OECD National Accounts.
+Figure 8: Inﬂation and monetary policy (% of GDP)
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+0
+2
+4
+6
+8
+10
+12
+ 
+ 
+inflation expectations
+CPIF
+repo
+Note: 12 month ahead inﬂation expectations in the business sector. The Riksbank’s policy rate
+was the marginal rate until May 1994 and the repo rate thereafter. CPIF refers to the 12-month
+CPI inﬂation rate with a ﬁxed mortgage rate.
+Source: NIER, Riksbank, and Statistics Sweden.
+35
+
+=== PAGE 39 ===
+Figure 9: Government primary expenditure and revenue (% of GDP)
+1985
+1990
+1995
+2000
+2005
+2010
+48
+50
+52
+54
+56
+58
+60
+62
+ 
+ 
+Expenditure
+Revenue
+Note: General government primary current disbursements and receipts 1985-2011.
+Source: OECD Economic Outlook December 2011.
+Figure 10: Growth and unemployment (percent)
+1990
+1995
+2000
+2005
+2010
+−6
+−4
+−2
+0
+2
+4
+6
+8
+10
+12
+ 
+ 
+Growth, Sweden
+Growth, OECD
+Unemp, Sweden
+Unemp, OECD
+Note: Growth rate of GDP in Sweden and weighted average of 19 OECD countries.
+Source: OECD Economic Outlook December 2011.
+36
+
+=== PAGE 40 ===
+Figure 11: Growth and competitiveness (percent)
+1985
+1990
+1995
+2000
+2005
+2010
+2015
+−20
+−10
+0
+10
+20
+ 
+ 
+1985
+1990
+1995
+2000
+2005
+2010
+2015
+−40
+−20
+0
+20
+40
+Growth, total economy
+Growth, industry
+ULC, manufacturing (right)
+Note: Growth rate of real GDP (%), total economy and industry (left axis). Relative
+unit labor cost in manufacturing (% deviation from 1993 level, right axis).
+Source: NIER and OECD Economic Outlook December 2011.
+Figure 12: GDP and Consumption Growth (%)
+1985
+1990
+1995
+2000
+2005
+2010
+−4
+−3
+−2
+−1
+0
+1
+2
+3
+4
+5
+6
+ 
+ 
+GDP
+Private consumption
+Note: Growth rate of real GDP and private consumption.
+Source: OECD Economic Outlook December 2011.
+37
+
+=== PAGE 41 ===
+Figure 13: Public Debt (% of GDP)
+1990
+1995
+2000
+2005
+2010
+−40
+−20
+0
+20
+40
+60
+80
+100
+ 
+ 
+general gvt, net
+genereal gvt, gross
+central gvt, gross
+Note: General and central government net and gross debt.
+Source: OECD Economic Outlook December 2011 and Swedish National
+Financial Management Authority.
+Figure 14: Development of Net Public Debt (% of GDP)
+Note: General government net debt at the end of 1996 (end of 1998 for Ireland and end
+of 1999 for Switzerland) and end of 2011, sorted by magnitude of debt change.
+Source: OECD Economic Outlook December 2011
+38
+
+=== PAGE 42 ===
+Figure 15: Contribution of residuals to changes in debt ratios
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+−8
+−6
+−4
+−2
+0
+2
+4
+6
+8
+ 
+ 
+Equity
+Bonds
+Total
+Note: The bars show residuals (percent of GDP) between stocks and ﬂows in the general
+government’s holdings of equity and bonds according to the ﬁnancial accounts. The line
+shows the total residual, i.e. v calculated as in equation (4).
+Source: Own calculations based on OECD Economic Outlook December 2011 and
+Statistics Sweden’s ﬁnancial accounts.
+Figure 16: The residual from holdings of equity
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+−40
+−30
+−20
+−10
+0
+10
+20
+30
+40
+50
+60
+ 
+ 
+residual
+OMX index
+Note: The residual is the negative of the equity residual in Figure 15, but expressed as
+percent of equity holdings rather than GDP. The shaded bars report the percent change in
+the OMX stock market index.
+Source: OMX and own calculations based on Statistics Sweden’s ﬁnancial accounts.
+39
+
+=== PAGE 43 ===
+Figure 17: The S2 indicator of sustainability of public ﬁnances
+Note: The S2 indicator shows the necessary permanent increase in permanent
+government primary net lending to achieve long-run sustainable public ﬁnances.
+Source: European Commission (2011) and EEAG (2012).
+Figure 18: Increase in old-age dependency ratio 2010-2050
+Note: Population aged 65 per 100 persons aged 20-64 years, increase from 2010
+to 2050.
+Source: United Nations Population Forecasts, medium scenario.
+Figure 19: Increase in total population 2010-2050 (%)
+Source: United Nations Population Forecasts, medium scenario.
+40

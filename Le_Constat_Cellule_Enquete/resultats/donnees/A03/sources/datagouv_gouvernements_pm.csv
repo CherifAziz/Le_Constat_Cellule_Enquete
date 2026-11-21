@@ -1,0 +1,47 @@
+﻿id;prenom;nom;date_debut_fonction;date_fin_fonction;duree
+51;Michel;Debré;jeudi 8 janvier 1959;samedi 14 avril 1962;1192
+52;Georges;Pompidou;samedi 14 avril 1962;mercredi 28 novembre 1962;228
+53;Georges;Pompidou;mercredi 28 novembre 1962;samedi 8 janvier 1966;1137
+54;Georges;Pompidou;samedi 8 janvier 1966;samedi 1 avril 1967;448
+55;Georges;Pompidou;jeudi 6 avril 1967;mercredi 10 juillet 1968;461
+56;Maurice;Couve de Murville;mercredi 10 juillet 1968;vendredi 20 juin 1969;345
+57;Jacques;Chaban-Delmas;vendredi 20 juin 1969;mercredi 5 juillet 1972;1111
+58;Pierre;Messmer;mercredi 5 juillet 1972;mercredi 28 mars 1973;266
+59;Pierre;Messmer;lundi 2 avril 1973;mercredi 27 février 1974;331
+510;Pierre;Messmer;mercredi 27 février 1974;lundi 27 mai 1974;89
+511;Jacques;Chirac;lundi 27 mai 1974;mercredi 25 août 1976;821
+512;Raymond;Barre;mercredi 25 août 1976;mardi 29 mars 1977;216
+513;Raymond;Barre;mardi 29 mars 1977;vendredi 31 mars 1978;367
+514;Raymond;Barre;lundi 3 avril 1978;mercredi 13 mai 1981;1136
+515;Pierre;Mauroy;jeudi 21 mai 1981;lundi 22 juin 1981;32
+516;Pierre;Mauroy;lundi 22 juin 1981;mardi 22 mars 1983;638
+517;Pierre;Mauroy;mardi 22 mars 1983;mardi 17 juillet 1984;483
+518;Laurent;Fabius;mardi 17 juillet 1984;jeudi 20 mars 1986;611
+519;Jacques;Chirac;jeudi 20 mars 1986;mardi 10 mai 1988;782
+520;Michel;Rocard;mardi 10 mai 1988;mercredi 22 juin 1988;43
+521;Michel;Rocard;jeudi 23 juin 1988;mercredi 15 mai 1991;1056
+522;Édith;Cresson;mercredi 15 mai 1991;jeudi 2 avril 1992;323
+523;Pierre;Bérégovoy;jeudi 2 avril 1992;lundi 29 mars 1993;361
+524;Édouard;Balladur;lundi 29 mars 1993;jeudi 11 mai 1995;773
+525;Alain;Juppé;mercredi 17 mai 1995;mardi 7 novembre 1995;174
+526;Alain;Juppé;mardi 7 novembre 1995;lundi 2 juin 1997;573
+527;Lionel;Jospin;lundi 2 juin 1997;lundi 6 mai 2002;1799
+528;Jean-Pierre;Raffarin;lundi 6 mai 2002;lundi 17 juin 2002;42
+529;Jean-Pierre;Raffarin;lundi 17 juin 2002;mardi 30 mars 2004;652
+530;Jean-Pierre;Raffarin;mardi 30 mars 2004;mardi 31 mai 2005;427
+531;Dominique;de Villepin;mardi 31 mai 2005;mardi 15 mai 2007;714
+532;François;Fillon;jeudi 17 mai 2007;lundi 18 juin 2007;32
+533;François;Fillon;lundi 18 juin 2007;samedi 13 novembre 2010;1244
+534;François;Fillon;dimanche 14 novembre 2010;jeudi 10 mai 2012;543
+535;Jean-Marc;Ayrault;mardi 15 mai 2012;lundi 18 juin 2012;34
+536;Jean-Marc;Ayrault;lundi 18 juin 2012;lundi 31 mars 2014;651
+537;Manuel;Valls;lundi 31 mars 2014;lundi 25 août 2014;147
+538;Manuel;Valls;lundi 25 août 2014;mardi 6 décembre 2016;834
+539;Bernard;Cazeneuve;mardi 6 décembre 2016;mercredi 10 mai 2017;155
+540;Édouard;Philippe;lundi 15 mai 2017;lundi 19 juin 2017;35
+541;Édouard;Philippe;mercredi 21 juin 2017;vendredi 3 juillet 2020;1108
+542;Jean;Castex;vendredi 3 juillet 2020;lundi 16 mai 2022;682
+543;Élisabeth;Borne;lundi 16 mai 2022;mardi 9 janvier 2024;603
+544;Gabriel;Attal;mardi 9 janvier 2024;mardi 16 juillet 2024;189
+545;Michel;Barnier;jeudi 5 septembre 2024;jeudi 5 décembre 2024;91
+546;François;Bayrou;vendredi 13 décembre 2024;;

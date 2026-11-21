@@ -1,0 +1,559 @@
+domaine;code;indicateur;age_ou_sexe;pays;annee;valeur;unite
+mortalite_evitable;TRTM;Treatable mortality;_T;AUT;2015;64;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;AUT;2016;63;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;AUT;2017;61;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;AUT;2018;60;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;AUT;2019;59;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;AUT;2020;57;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;AUT;2021;57;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;AUT;2022;55;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;AUT;2023;54;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;AUT;2024;53;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;BEL;2015;60;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;BEL;2016;58;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;BEL;2017;57;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;BEL;2018;57;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;BEL;2019;53;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;BEL;2020;51;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;BEL;2021;50;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;BEL;2022;50;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DNK;2015;63;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DNK;2016;64;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DNK;2017;60;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DNK;2018;59;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DNK;2019;56;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DNK;2020;54;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DNK;2021;54;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DNK;2022;55;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FIN;2015;60;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FIN;2016;62;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FIN;2017;61;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FIN;2018;58;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FIN;2019;56;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FIN;2020;57;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FIN;2021;56;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FIN;2022;57;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FIN;2023;55;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FIN;2024;53;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FRA;2015;51;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FRA;2016;50;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FRA;2017;50;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FRA;2018;50;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FRA;2019;49;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FRA;2020;47;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FRA;2021;47;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FRA;2022;48;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;FRA;2023;46;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DEU;2015;73;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DEU;2016;71;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DEU;2017;69;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DEU;2018;69;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DEU;2019;66;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DEU;2020;66;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DEU;2021;63;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;DEU;2022;63;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ITA;2015;59;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ITA;2016;55;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ITA;2017;55;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ITA;2018;54;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ITA;2019;52;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ITA;2020;55;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ITA;2021;53;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ITA;2022;52;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ITA;2023;51;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;NLD;2015;57;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;NLD;2016;56;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;NLD;2017;53;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;NLD;2018;52;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;NLD;2019;50;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;NLD;2020;48;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;NLD;2021;49;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;NLD;2022;48;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;NLD;2023;49;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;NLD;2024;47;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ESP;2015;57;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ESP;2016;56;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ESP;2017;55;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ESP;2018;54;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ESP;2019;52;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ESP;2020;51;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ESP;2021;51;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ESP;2022;51;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ESP;2023;50;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;ESP;2024;48;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;SWE;2015;59;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;SWE;2016;55;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;SWE;2017;55;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;SWE;2018;53;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;SWE;2019;50;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;SWE;2020;50;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;SWE;2021;48;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;SWE;2022;48;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;SWE;2023;47;deces pour 100 000, standardise
+mortalite_evitable;TRTM;Treatable mortality;_T;SWE;2024;45;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;AUT;2015;201;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;AUT;2016;195;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;AUT;2017;189;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;AUT;2018;188;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;AUT;2019;183;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;AUT;2020;191;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;AUT;2021;198;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;AUT;2022;187;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;AUT;2023;175;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;AUT;2024;171;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;BEL;2015;193;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;BEL;2016;185;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;BEL;2017;180;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;BEL;2018;178;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;BEL;2019;170;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;BEL;2020;195;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;BEL;2021;184;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;BEL;2022;174;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DNK;2015;198;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DNK;2016;199;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DNK;2017;188;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DNK;2018;180;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DNK;2019;180;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DNK;2020;174;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DNK;2021;174;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DNK;2022;175;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FIN;2015;193;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FIN;2016;198;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FIN;2017;192;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FIN;2018;188;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FIN;2019;181;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FIN;2020;186;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FIN;2021;183;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FIN;2022;191;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FIN;2023;178;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FIN;2024;170;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FRA;2015;164;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FRA;2016;161;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FRA;2017;158;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FRA;2018;157;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FRA;2019;152;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FRA;2020;164;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FRA;2021;165;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FRA;2022;162;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;FRA;2023;149;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DEU;2015;204;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DEU;2016;200;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DEU;2017;196;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DEU;2018;196;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DEU;2019;188;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DEU;2020;195;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DEU;2021;196;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;DEU;2022;192;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ITA;2015;154;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ITA;2016;147;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ITA;2017;146;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ITA;2018;142;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ITA;2019;136;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ITA;2020;163;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ITA;2021;159;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ITA;2022;145;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ITA;2023;133;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;NLD;2015;166;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;NLD;2016;165;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;NLD;2017;158;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;NLD;2018;155;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;NLD;2019;149;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;NLD;2020;161;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;NLD;2021;168;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;NLD;2022;156;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;NLD;2023;149;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;NLD;2024;144;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ESP;2015;157;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ESP;2016;155;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ESP;2017;152;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ESP;2018;149;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ESP;2019;144;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ESP;2020;169;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ESP;2021;163;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ESP;2022;154;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ESP;2023;142;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;ESP;2024;136;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;SWE;2015;162;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;SWE;2016;155;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;SWE;2017;153;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;SWE;2018;150;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;SWE;2019;142;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;SWE;2020;151;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;SWE;2021;144;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;SWE;2022;138;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;SWE;2023;133;deces pour 100 000, standardise
+mortalite_evitable;AVM;Avoidable mortality;_T;SWE;2024;123;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;AUT;2015;137;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;AUT;2016;132;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;AUT;2017;128;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;AUT;2018;128;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;AUT;2019;124;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;AUT;2020;134;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;AUT;2021;141;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;AUT;2022;132;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;AUT;2023;121;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;AUT;2024;118;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;BEL;2015;133;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;BEL;2016;127;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;BEL;2017;123;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;BEL;2018;121;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;BEL;2019;117;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;BEL;2020;144;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;BEL;2021;134;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;BEL;2022;124;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DNK;2015;135;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DNK;2016;135;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DNK;2017;128;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DNK;2018;121;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DNK;2019;124;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DNK;2020;120;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DNK;2021;120;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DNK;2022;120;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FIN;2015;133;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FIN;2016;136;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FIN;2017;131;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FIN;2018;130;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FIN;2019;125;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FIN;2020;129;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FIN;2021;127;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FIN;2022;134;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FIN;2023;123;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FIN;2024;117;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FRA;2015;113;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FRA;2016;111;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FRA;2017;108;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FRA;2018;107;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FRA;2019;103;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FRA;2020;117;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FRA;2021;118;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FRA;2022;114;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;FRA;2023;103;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DEU;2015;131;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DEU;2016;129;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DEU;2017;127;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DEU;2018;127;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DEU;2019;122;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DEU;2020;129;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DEU;2021;133;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;DEU;2022;129;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ITA;2015;95;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ITA;2016;92;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ITA;2017;91;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ITA;2018;88;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ITA;2019;84;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ITA;2020;108;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ITA;2021;106;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ITA;2022;93;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ITA;2023;82;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;NLD;2015;109;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;NLD;2016;109;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;NLD;2017;105;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;NLD;2018;103;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;NLD;2019;99;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;NLD;2020;113;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;NLD;2021;119;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;NLD;2022;108;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;NLD;2023;100;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;NLD;2024;97;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ESP;2015;100;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ESP;2016;99;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ESP;2017;97;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ESP;2018;95;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ESP;2019;92;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ESP;2020;118;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ESP;2021;112;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ESP;2022;103;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ESP;2023;92;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;ESP;2024;88;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;SWE;2015;103;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;SWE;2016;100;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;SWE;2017;98;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;SWE;2018;97;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;SWE;2019;92;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;SWE;2020;101;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;SWE;2021;96;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;SWE;2022;90;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;SWE;2023;86;deces pour 100 000, standardise
+mortalite_evitable;PREVM;Preventable mortality;_T;SWE;2024;78;deces pour 100 000, standardise
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;AUT;2014;93.4;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;AUT;2016;93.8;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;AUT;2018;94;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;AUT;2020;94.5;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;AUT;2022;91.5;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;BEL;2014;80.3;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;BEL;2016;79.7;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;BEL;2018;80;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;BEL;2020;77.7;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;BEL;2022;76.2;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;DNK;2014;79.5;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;DNK;2016;80.9;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;DNK;2018;81.3;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;DNK;2020;82;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;DNK;2022;79.7;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;FIN;2014;85.7;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;FIN;2016;83.2;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;FIN;2018;82.6;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;FIN;2020;83.6;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;FIN;2022;86.9;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;FRA;2014;103.4;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;FRA;2016;103.2;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;FRA;2018;99.8;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;FRA;2020;99.8;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;FRA;2022;94.3;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;DEU;2014;88.5;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;DEU;2016;88.6;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;DEU;2018;88.8;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;DEU;2020;87.6;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;DEU;2022;86.6;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;ITA;2014;98.8;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;ITA;2016;99.6;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;ITA;2018;100;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;ITA;2020;103;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;ITA;2022;98.8;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;NLD;2014;83.4;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;NLD;2016;85.6;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;NLD;2018;85.6;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;NLD;2020;79.2;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;NLD;2022;81.2;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;ESP;2014;98.8;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;ESP;2016;95.3;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;ESP;2018;95.8;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;ESP;2020;99;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;ESP;2022;96.7;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;SWE;2014;85.9;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;SWE;2016;85.5;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;SWE;2018;86.3;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;SWE;2020;86.5;Percentage of average disposable income
+revenu_ages;EDIOP;Equivalised disposable income of older people;Y_GE66;SWE;2022;88.9;Percentage of average disposable income
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;AUT;2014;8.8;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;AUT;2016;8.7;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;AUT;2018;10;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;AUT;2020;10.6;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;AUT;2022;11.6;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;BEL;2014;7.7;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;BEL;2016;8.2;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;BEL;2018;8.5;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;BEL;2020;8.6;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;BEL;2022;7.7;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;DNK;2014;3.2;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;DNK;2016;3;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;DNK;2018;3;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;DNK;2020;4.3;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;DNK;2022;5;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;FIN;2014;5.2;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;FIN;2016;6.3;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;FIN;2018;7.2;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;FIN;2020;6.3;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;FIN;2022;4.8;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;FRA;2014;3.6;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;FRA;2016;3.4;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;FRA;2018;4.4;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;FRA;2020;4.4;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;FRA;2022;6.1;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;DEU;2014;9.5;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;DEU;2016;9.6;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;DEU;2018;9.1;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;DEU;2020;11;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;DEU;2022;12.6;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;ITA;2014;9.3;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;ITA;2016;10.3;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;ITA;2018;11.3;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;ITA;2020;10.3;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;ITA;2022;12;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;NLD;2014;3.7;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;NLD;2016;3.1;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;NLD;2018;3.1;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;NLD;2020;6.5;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;NLD;2022;4.6;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;ESP;2014;5.4;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;ESP;2016;9.4;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;ESP;2018;10.2;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;ESP;2020;11.3;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;ESP;2022;13.1;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;SWE;2014;10;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;SWE;2016;11.3;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;SWE;2018;11.4;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;SWE;2020;11.1;Percentage of population in the same sex and age
+revenu_ages;OAIP;Old age income poverty rate below 50% of median income;Y_GE66;SWE;2022;7.3;Percentage of population in the same sex and age
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;AUT;2014;81.8;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;AUT;2016;81.2;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;AUT;2018;80.8;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;AUT;2020;82.2;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;AUT;2022;78.2;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;BEL;2014;84.1;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;BEL;2016;85;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;BEL;2018;82.4;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;BEL;2020;85.8;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;BEL;2022;85.2;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;DNK;2014;48.4;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;DNK;2016;46.6;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;DNK;2018;45.9;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;DNK;2020;44.8;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;DNK;2022;43.2;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;FIN;2014;80.8;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;FIN;2016;81.8;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;FIN;2018;81.7;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;FIN;2020;80.3;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;FIN;2022;80.7;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;FRA;2014;77.3;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;FRA;2016;78.1;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;FRA;2018;78.1;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;FRA;2020;78.1;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;FRA;2022;78.1;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;DEU;2014;69.2;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;DEU;2016;70.6;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;DEU;2018;68.3;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;DEU;2020;68;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;DEU;2022;66.1;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;ITA;2014;75.3;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;ITA;2016;75.1;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;ITA;2018;75;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;ITA;2020;75.6;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;ITA;2022;74;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;NLD;2014;43.7;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;NLD;2016;45.2;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;NLD;2018;45.2;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;NLD;2020;42.7;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;NLD;2022;40.3;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;ESP;2014;70.6;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;ESP;2016;71.4;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;ESP;2018;71.4;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;ESP;2020;71.9;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;ESP;2022;69.8;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;SWE;2014;53.3;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;SWE;2016;52.4;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;SWE;2018;52.2;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;SWE;2020;51.6;Percentage of gross disposable income of the population aged over 65 years
+revenu_ages;PTOP;Public transfers to older people;Y_GE66;SWE;2022;50.3;Percentage of gross disposable income of the population aged over 65 years
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;AUT;2024;74.1;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;AUT;2024;74.1;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;BEL;2024;43.5;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;BEL;2024;43.5;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;DNK;2024;72.7;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;DNK;2024;72.7;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;FIN;2024;57.8;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;FIN;2024;57.8;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;FRA;2024;56.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;FRA;2024;56.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;DEU;2024;42.1;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;DEU;2024;42.1;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;ITA;2024;70.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;ITA;2024;70.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;NLD;2024;74.7;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;NLD;2024;74.7;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;ESP;2024;80.4;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;ESP;2024;80.4;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;SWE;2024;63.7;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;SWE;2024;63.7;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;EU27;2024;54.5;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR100;Gross pension replacement rate at 100% of average wage;M;EU27;2024;54.5;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;AUT;2024;84.8;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;AUT;2024;84.8;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;BEL;2024;85.5;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;BEL;2024;80.9;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;DNK;2024;116.7;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;DNK;2024;116.7;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;FIN;2024;63.8;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;FIN;2024;63.8;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;FRA;2024;66.1;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;FRA;2024;66.1;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;DEU;2024;57.7;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;DEU;2024;71.6;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;ITA;2024;70.4;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;ITA;2024;70.4;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;NLD;2024;97.2;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;NLD;2024;97.2;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;ESP;2024;78.6;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;ESP;2024;78.6;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;SWE;2024;67.4;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;SWE;2024;67.4;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;EU27;2024;76.5;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR50;Net pension replacement rate at 50% of average wage;M;EU27;2024;80.3;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;AUT;2024;74.1;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;AUT;2024;74.1;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;BEL;2024;61.7;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;BEL;2024;61.7;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;DNK;2024;115.2;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;DNK;2024;115.2;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;FIN;2024;57.8;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;FIN;2024;57.8;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;FRA;2024;56.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;FRA;2024;56.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;DEU;2024;46.3;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;DEU;2024;46.3;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;ITA;2024;70.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;ITA;2024;70.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;NLD;2024;86.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;NLD;2024;86.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;ESP;2024;80.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;ESP;2024;80.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;SWE;2024;64.2;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;SWE;2024;64.2;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;EU27;2024;64.3;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR50;Gross pension replacement rate at 50% of average wage;M;EU27;2024;64.3;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;AUT;2024;86.8;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;AUT;2024;86.8;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;BEL;2024;61.1;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;BEL;2024;74.1;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;DNK;2024;77.1;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;DNK;2024;77.1;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;FIN;2024;65.7;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;FIN;2024;65.7;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;FRA;2024;70;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;FRA;2024;70;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;DEU;2024;53.3;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;DEU;2024;67.9;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;ITA;2024;79;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;ITA;2024;79;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;NLD;2024;96;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;NLD;2024;96;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;ESP;2024;86.3;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;ESP;2024;86.3;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;SWE;2024;66.3;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;SWE;2024;66.3;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;EU27;2024;72.5;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR100;Net pension replacement rate at 100% of average wage;M;EU27;2024;68.3;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;AUT;2024;62.4;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;AUT;2024;62.4;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;BEL;2024;42.5;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;BEL;2024;81.5;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;DNK;2024;63.6;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;DNK;2024;63.6;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;FIN;2024;63.9;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;FIN;2024;63.9;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;FRA;2024;58.9;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;FRA;2024;58.9;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;DEU;2024;38.8;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;DEU;2024;52.7;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;ITA;2024;81.9;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;ITA;2024;81.9;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;NLD;2024;89.7;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;NLD;2024;89.7;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;ESP;2024;57.9;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;ESP;2024;57.9;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;SWE;2024;84.4;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;SWE;2024;84.4;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;EU27;2024;59.7;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;NPRR200;Net pension replacement rate at 200% of average wage;M;EU27;2024;64.7;Percentage of net pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;AUT;2024;52.5;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;AUT;2024;52.5;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;BEL;2024;28.2;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;BEL;2024;28.2;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;DNK;2024;53.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;DNK;2024;53.6;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;FIN;2024;57.8;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;FIN;2024;57.8;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;FRA;2024;47.4;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;FRA;2024;47.4;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;DEU;2024;30.2;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;DEU;2024;30.2;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;ITA;2024;70.3;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;ITA;2024;70.3;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;NLD;2024;68.8;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;NLD;2024;68.8;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;ESP;2024;49.9;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;ESP;2024;49.9;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;SWE;2024;78.3;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;SWE;2024;78.3;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;EU27;2024;46.9;Percentage of gross pre-retirement earnings at the same income level
+taux_remplacement;GPRR200;Gross pension replacement rate at 200% of average wage;M;EU27;2024;46.9;Percentage of gross pre-retirement earnings at the same income level

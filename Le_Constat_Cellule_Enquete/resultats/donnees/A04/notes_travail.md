@@ -1,0 +1,5 @@
+# A04 notes de travail (au fil de l'eau) — 20/11/2026
+
+Voir A04.md §3 et §17 : toutes les pièces listées ci-dessous y sont reprises avec identifiants.
+Pièces ajoutées après la première note : IPP note 32 (TVA restauration) ; IGF/Comité Guillaume 2011 (vie-publique 114000528) ; CNEPI 2021 CIR (vie-publique 280151) ; Bozio-Wasmer 2024 (vie-publique 295596) ; France Stratégie CICE 2020 (vie-publique 276212) ; Comité fiscalité du capital 3e rapport 2021 (vie-publique 281944) ; PLF 2026 Voies et moyens tome II (AN) ; PLFSS 2026 annexe 4 (AN) ; DGFiP dossier de presse bilan contrôle fiscal 2025 (copie hébergée par ifrap.org) ; HCFiPS synthèse fraudes sociales (strategie-plan.gouv.fr, janv. 2026) ; Commission UE page VAT gap (WebFetch) ; Sénat rapport n° 457 (2007-2008, Marini) ; IPP rapport n° 62 Pacte Dutreil (nov. 2025).
+Recherches infructueuses : HCFP (injoignable) ; OCDE Panorama des pensions (403 WebFetch) ; France Stratégie rapport final fiscalité du capital 2023 (404, archive 404) ; page CNEPI strategie-plan (404) ; Cour rapport fraude fiscale déc. 2025 (non trouvé sur vie-publique) ; economie.gouv.fr bilan contrôle fiscal (403).

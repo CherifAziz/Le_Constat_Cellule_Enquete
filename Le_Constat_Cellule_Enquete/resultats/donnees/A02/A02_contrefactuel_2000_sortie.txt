@@ -1,0 +1,20 @@
+Solde S13 2000 effectif : -19.34 Md EUR = -1.31 % du PIB
+Collectif 1 : cout Etat 51.05 Md F (0.53 % PIB) ; cout S13 ex ante 48.28 Md F (0.50 % PIB)
+Scenario A (aucune reaffectation du 1er collectif) : solde -0.81 % du PIB
+Scenario B (A + surplus du 2e collectif entierement au solde, borne haute) : solde -0.58 % du PIB
+Effort supplementaire pour l'equilibre en 2000 : A 0.81 pt ; B 0.58 pt
+  variante multiplicateur 0.5 : gain net du scenario B = 0.55 pt au lieu de 0.73
+  variante multiplicateur 1.0 : gain net du scenario B = 0.37 pt au lieu de 0.73
+Cout du point de TVA en annee pleine : 31.05 Md F = 4.73 Md EUR = 0.32 % du PIB 2000
+
+AMECO 17/11/2026 : annee, solde effectif, composante cyclique, solde corrige, ecart de production
+1998 -2.39 -0.82 -1.57 -1.3
+1999 -1.54 -0.07 -1.48 -0.11
+2000 -1.31 1.15 -2.46 1.82
+2001 -1.42 1.09 -2.51 1.73
+2002 -3.18 0.61 -3.79 0.97
+2003 -4.09 0.06 -4.15 0.09
+Solde corrige du cycle du scenario B en 2000 : -1.73 % du PIB potentiel (B - composante cyclique 2000)
+  2001 : solde effectif AMECO -1.42 ; avec baisses d'impots permanentes de 2000 evitees (annee pleine, sans retroaction, en % du PIB 2000) -0.91
+  2002 : solde effectif AMECO -3.18 ; avec baisses d'impots permanentes de 2000 evitees (annee pleine, sans retroaction, en % du PIB 2000) -2.67
+  2003 : solde effectif AMECO -4.09 ; avec baisses d'impots permanentes de 2000 evitees (annee pleine, sans retroaction, en % du PIB 2000) -3.58

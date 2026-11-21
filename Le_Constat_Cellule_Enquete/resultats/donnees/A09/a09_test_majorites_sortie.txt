@@ -1,0 +1,376 @@
+
+### d_solde_primaire — toutes années
+ par type_majorite
+   coalition                n=14  moyenne=+0.57  mediane=+0.50  [-1.78 ; +2.45]
+   coalition_etroite        n= 2  moyenne=+0.23  mediane=+0.23  [-0.65 ; +1.10]
+   coalition_non_etablie    n= 4  moyenne=-0.36  mediane=+0.02  [-2.71 ; +1.22]
+   parti_seul               n=23  moyenne=-0.32  mediane=-0.04  [-6.77 ; +2.02]
+   relative                 n= 7  moyenne=-0.55  mediane=-0.44  [-1.58 ; +0.87]
+   sans_majorite            n= 1  moyenne=+0.84  mediane=+0.84  [+0.84 ; +0.84]
+   absolue (seule/coalition) n=37 moy=+0.01 contre relative/sans n=8 moy=-0.38 : p=0.51 ; plus petite différence détectable ≈ 1.65 pt
+   variante incertains comptés absolus : n=43 moy=-0.01 ; p=0.54
+   parti seul n=23 moy=-0.32 contre coalition absolue n=14 moy=+0.57 : p=0.11
+ par type_majorite_mi_annee
+   coalition                n=14  moyenne=-0.00  mediane=+0.30  [-6.77 ; +2.45]
+   coalition_etroite        n= 2  moyenne=+0.45  mediane=+0.45  [-0.20 ; +1.10]
+   coalition_non_etablie    n= 3  moyenne=-0.29  mediane=+0.61  [-2.71 ; +1.22]
+   parti_seul               n=23  moyenne=-0.16  mediane=-0.04  [-4.20 ; +2.02]
+   relative                 n= 8  moyenne=-0.08  mediane=-0.37  [-1.58 ; +2.37]
+   sans_majorite            n= 1  moyenne=+0.84  mediane=+0.84  [+0.84 ; +0.84]
+   absolue (seule/coalition) n=37 moy=-0.10 contre relative/sans n=9 moy=+0.03 : p=0.83 ; plus petite différence détectable ≈ 1.56 pt
+   variante incertains comptés absolus : n=42 moy=-0.09 ; p=0.85
+   parti seul n=23 moy=-0.16 contre coalition absolue n=14 moy=-0.00 : p=0.79
+ par cohabitation_M
+   0                        n=42  moyenne=-0.13  mediane=-0.02  [-6.77 ; +2.45]
+   1                        n= 9  moyenne=+0.22  mediane=+0.47  [-1.78 ; +1.16]
+   1 contre 0 : écart +0.35 ; p=0.52 ; plus petite différence détectable ≈ 1.54 pt
+ par annee_electorale
+   0                        n=38  moyenne=-0.00  mediane=+0.18  [-6.77 ; +2.45]
+   1                        n=13  moyenne=-0.26  mediane=-0.24  [-1.78 ; +2.37]
+   1 contre 0 : écart -0.26 ; p=0.61 ; plus petite différence détectable ≈ 1.35 pt
+ par annee_pre_electorale
+   0                        n=38  moyenne=-0.28  mediane=-0.05  [-6.77 ; +2.37]
+   1                        n=13  moyenne=+0.55  mediane=+0.61  [-1.58 ; +2.45]
+   1 contre 0 : écart +0.84 ; p=0.08 ; plus petite différence détectable ≈ 1.35 pt
+ par premier_exercice_apres_alternance_M
+   0                        n=43  moyenne=-0.17  mediane=-0.00  [-6.77 ; +2.45]
+   1                        n= 8  moyenne=+0.46  mediane=+0.95  [-1.06 ; +1.16]
+   1 contre 0 : écart +0.63 ; p=0.28 ; plus petite différence détectable ≈ 1.61 pt
+ par camp_M
+   centre                   n= 7  moyenne=-0.31  mediane=-0.24  [-6.77 ; +2.45]
+   centre_minoritaire       n= 1  moyenne=+0.84  mediane=+0.84  [+0.84 ; +0.84]
+   droite                   n=23  moyenne=-0.01  mediane=+0.14  [-4.20 ; +2.02]
+   gauche                   n=20  moyenne=-0.10  mediane=-0.03  [-1.78 ; +1.16]
+
+### d_solde_primaire — hors récessions et rebonds (1975, 1993, 2009, 2010, 2020, 2021)
+ par type_majorite
+   coalition                n=13  moyenne=+0.42  mediane=+0.47  [-1.78 ; +2.37]
+   coalition_etroite        n= 2  moyenne=+0.23  mediane=+0.23  [-0.65 ; +1.10]
+   coalition_non_etablie    n= 3  moyenne=+0.42  mediane=+0.61  [-0.57 ; +1.22]
+   parti_seul               n=20  moyenne=+0.17  mediane=-0.02  [-1.06 ; +2.02]
+   relative                 n= 6  moyenne=-0.39  mediane=-0.37  [-1.58 ; +0.87]
+   sans_majorite            n= 1  moyenne=+0.84  mediane=+0.84  [+0.84 ; +0.84]
+   absolue (seule/coalition) n=33 moy=+0.27 contre relative/sans n=7 moy=-0.21 : p=0.19 ; plus petite différence détectable ≈ 1.01 pt
+   variante incertains comptés absolus : n=38 moy=+0.28 ; p=0.17
+   parti seul n=20 moy=+0.17 contre coalition absolue n=13 moy=+0.42 : p=0.43
+ par type_majorite_mi_annee
+   coalition                n=11  moyenne=+0.53  mediane=+0.47  [-0.57 ; +1.43]
+   coalition_etroite        n= 2  moyenne=+0.45  mediane=+0.45  [-0.20 ; +1.10]
+   coalition_non_etablie    n= 2  moyenne=+0.92  mediane=+0.92  [+0.61 ; +1.22]
+   parti_seul               n=21  moyenne=+0.01  mediane=-0.04  [-1.78 ; +2.02]
+   relative                 n= 8  moyenne=-0.08  mediane=-0.37  [-1.58 ; +2.37]
+   sans_majorite            n= 1  moyenne=+0.84  mediane=+0.84  [+0.84 ; +0.84]
+   absolue (seule/coalition) n=32 moy=+0.19 contre relative/sans n=9 moy=+0.03 : p=0.63 ; plus petite différence détectable ≈ 0.92 pt
+   variante incertains comptés absolus : n=36 moy=+0.24 ; p=0.50
+   parti seul n=21 moy=+0.01 contre coalition absolue n=11 moy=+0.53 : p=0.08
+ par cohabitation_M
+   0                        n=36  moyenne=+0.19  mediane=+0.02  [-1.58 ; +2.37]
+   1                        n= 9  moyenne=+0.22  mediane=+0.47  [-1.78 ; +1.16]
+   1 contre 0 : écart +0.03 ; p=0.94 ; plus petite différence détectable ≈ 0.90 pt
+ par annee_electorale
+   0                        n=33  moyenne=+0.33  mediane=+0.23  [-1.58 ; +2.02]
+   1                        n=12  moyenne=-0.16  mediane=-0.22  [-1.78 ; +2.37]
+   1 contre 0 : écart -0.49 ; p=0.10 ; plus petite différence détectable ≈ 0.81 pt
+ par annee_pre_electorale
+   0                        n=33  moyenne=+0.13  mediane=+0.05  [-1.78 ; +2.37]
+   1                        n=12  moyenne=+0.40  mediane=+0.38  [-1.58 ; +2.02]
+   1 contre 0 : écart +0.27 ; p=0.38 ; plus petite différence détectable ≈ 0.81 pt
+ par premier_exercice_apres_alternance_M
+   0                        n=37  moyenne=+0.14  mediane=+0.05  [-1.78 ; +2.37]
+   1                        n= 8  moyenne=+0.46  mediane=+0.95  [-1.06 ; +1.16]
+   1 contre 0 : écart +0.32 ; p=0.34 ; plus petite différence détectable ≈ 0.94 pt
+ par camp_M
+   centre                   n= 5  moyenne=+0.44  mediane=-0.24  [-0.65 ; +2.37]
+   centre_minoritaire       n= 1  moyenne=+0.84  mediane=+0.84  [+0.84 ; +0.84]
+   droite                   n=20  moyenne=+0.32  mediane=+0.30  [-1.51 ; +2.02]
+   gauche                   n=19  moyenne=-0.02  mediane=-0.01  [-1.78 ; +1.16]
+
+### d_spcc_ameco — toutes années
+ par type_majorite
+   coalition                n=14  moyenne=+0.17  mediane=+0.18  [-1.30 ; +1.74]
+   coalition_etroite        n= 2  moyenne=-0.38  mediane=-0.38  [-1.85 ; +1.10]
+   parti_seul               n=23  moyenne=-0.12  mediane=-0.07  [-1.66 ; +1.25]
+   relative                 n= 7  moyenne=-0.28  mediane=-0.30  [-0.99 ; +0.58]
+   sans_majorite            n= 1  moyenne=+1.12  mediane=+1.12  [+1.12 ; +1.12]
+   absolue (seule/coalition) n=37 moy=-0.01 contre relative/sans n=8 moy=-0.10 : p=0.79 ; plus petite différence détectable ≈ 0.85 pt
+   variante incertains comptés absolus : n=39 moy=-0.03 ; p=0.83
+   parti seul n=23 moy=-0.12 contre coalition absolue n=14 moy=+0.17 : p=0.29
+ par type_majorite_mi_annee
+   coalition                n=13  moyenne=+0.12  mediane=+0.04  [-1.46 ; +1.74]
+   coalition_etroite        n= 2  moyenne=+0.39  mediane=+0.39  [-0.32 ; +1.10]
+   parti_seul               n=23  moyenne=-0.14  mediane=-0.07  [-1.66 ; +1.25]
+   relative                 n= 8  moyenne=-0.28  mediane=-0.37  [-1.85 ; +1.55]
+   sans_majorite            n= 1  moyenne=+1.12  mediane=+1.12  [+1.12 ; +1.12]
+   absolue (seule/coalition) n=36 moy=-0.04 contre relative/sans n=9 moy=-0.13 : p=0.79 ; plus petite différence détectable ≈ 0.86 pt
+   variante incertains comptés absolus : n=38 moy=-0.02 ; p=0.73
+   parti seul n=23 moy=-0.14 contre coalition absolue n=13 moy=+0.12 : p=0.34
+ par cohabitation_M
+   0                        n=38  moyenne=-0.00  mediane=-0.07  [-1.66 ; +1.74]
+   1                        n= 9  moyenne=-0.20  mediane=+0.04  [-1.85 ; +1.10]
+   1 contre 0 : écart -0.19 ; p=0.53 ; plus petite différence détectable ≈ 0.85 pt
+ par annee_electorale
+   0                        n=35  moyenne=+0.05  mediane=+0.04  [-1.66 ; +1.74]
+   1                        n=12  moyenne=-0.30  mediane=-0.31  [-1.85 ; +1.55]
+   1 contre 0 : écart -0.34 ; p=0.22 ; plus petite différence détectable ≈ 0.77 pt
+ par annee_pre_electorale
+   0                        n=35  moyenne=-0.16  mediane=-0.12  [-1.85 ; +1.55]
+   1                        n=12  moyenne=+0.30  mediane=+0.16  [-0.99 ; +1.74]
+   1 contre 0 : écart +0.46 ; p=0.09 ; plus petite différence détectable ≈ 0.77 pt
+ par premier_exercice_apres_alternance_M
+   0                        n=39  moyenne=-0.09  mediane=-0.10  [-1.85 ; +1.74]
+   1                        n= 8  moyenne=+0.21  mediane=+0.22  [-0.75 ; +1.10]
+   1 contre 0 : écart +0.30 ; p=0.36 ; plus petite différence détectable ≈ 0.89 pt
+ par camp_M
+   centre                   n= 7  moyenne=-0.30  mediane=-0.74  [-1.46 ; +1.55]
+   centre_minoritaire       n= 1  moyenne=+1.12  mediane=+1.12  [+1.12 ; +1.12]
+   droite                   n=19  moyenne=+0.12  mediane=+0.22  [-1.85 ; +1.74]
+   gauche                   n=20  moyenne=-0.16  mediane=-0.07  [-1.30 ; +0.94]
+
+### d_spcc_ameco — hors récessions et rebonds (1975, 1993, 2009, 2010, 2020, 2021)
+ par type_majorite
+   coalition                n=13  moyenne=+0.24  mediane=+0.31  [-1.30 ; +1.74]
+   coalition_etroite        n= 2  moyenne=-0.38  mediane=-0.38  [-1.85 ; +1.10]
+   parti_seul               n=20  moyenne=+0.03  mediane=+0.04  [-0.97 ; +1.25]
+   relative                 n= 6  moyenne=-0.33  mediane=-0.37  [-0.99 ; +0.58]
+   sans_majorite            n= 1  moyenne=+1.12  mediane=+1.12  [+1.12 ; +1.12]
+   absolue (seule/coalition) n=33 moy=+0.11 contre relative/sans n=7 moy=-0.12 : p=0.46 ; plus petite différence détectable ≈ 0.85 pt
+   variante incertains comptés absolus : n=35 moy=+0.09 ; p=0.54
+   parti seul n=20 moy=+0.03 contre coalition absolue n=13 moy=+0.24 : p=0.45
+ par type_majorite_mi_annee
+   coalition                n=10  moyenne=+0.38  mediane=+0.33  [-1.10 ; +1.74]
+   coalition_etroite        n= 2  moyenne=+0.39  mediane=+0.39  [-0.32 ; +1.10]
+   parti_seul               n=21  moyenne=-0.06  mediane=-0.01  [-1.30 ; +1.25]
+   relative                 n= 8  moyenne=-0.28  mediane=-0.37  [-1.85 ; +1.55]
+   sans_majorite            n= 1  moyenne=+1.12  mediane=+1.12  [+1.12 ; +1.12]
+   absolue (seule/coalition) n=31 moy=+0.08 contre relative/sans n=9 moy=-0.13 : p=0.49 ; plus petite différence détectable ≈ 0.84 pt
+   variante incertains comptés absolus : n=33 moy=+0.10 ; p=0.45
+   parti seul n=21 moy=-0.06 contre coalition absolue n=10 moy=+0.38 : p=0.12
+ par cohabitation_M
+   0                        n=33  moyenne=+0.12  mediane=-0.01  [-0.99 ; +1.74]
+   1                        n= 9  moyenne=-0.20  mediane=+0.04  [-1.85 ; +1.10]
+   1 contre 0 : écart -0.32 ; p=0.28 ; plus petite différence détectable ≈ 0.83 pt
+ par annee_electorale
+   0                        n=31  moyenne=+0.19  mediane=+0.10  [-1.10 ; +1.74]
+   1                        n=11  moyenne=-0.33  mediane=-0.32  [-1.85 ; +1.55]
+   1 contre 0 : écart -0.51 ; p=0.06 ; plus petite différence détectable ≈ 0.78 pt
+ par annee_pre_electorale
+   0                        n=31  moyenne=-0.07  mediane=-0.10  [-1.85 ; +1.55]
+   1                        n=11  moyenne=+0.40  mediane=+0.22  [-0.99 ; +1.74]
+   1 contre 0 : écart +0.47 ; p=0.10 ; plus petite différence détectable ≈ 0.78 pt
+ par premier_exercice_apres_alternance_M
+   0                        n=34  moyenne=+0.01  mediane=-0.04  [-1.85 ; +1.74]
+   1                        n= 8  moyenne=+0.21  mediane=+0.22  [-0.75 ; +1.10]
+   1 contre 0 : écart +0.19 ; p=0.54 ; plus petite différence détectable ≈ 0.87 pt
+ par camp_M
+   centre                   n= 5  moyenne=+0.02  mediane=-0.30  [-0.97 ; +1.55]
+   centre_minoritaire       n= 1  moyenne=+1.12  mediane=+1.12  [+1.12 ; +1.12]
+   droite                   n=17  moyenne=+0.25  mediane=+0.31  [-1.85 ; +1.74]
+   gauche                   n=19  moyenne=-0.17  mediane=-0.07  [-1.30 ; +0.94]
+
+### d_depenses_primaires — toutes années
+ par type_majorite
+   coalition                n=14  moyenne=-0.22  mediane=-0.10  [-2.34 ; +2.13]
+   coalition_etroite        n= 2  moyenne=-0.59  mediane=-0.59  [-0.67 ; -0.51]
+   coalition_non_etablie    n= 4  moyenne=+1.24  mediane=+0.72  [-0.97 ; +4.52]
+   parti_seul               n=23  moyenne=+0.50  mediane=+0.07  [-1.27 ; +6.59]
+   relative                 n= 7  moyenne=+0.30  mediane=+0.51  [-1.63 ; +2.30]
+   sans_majorite            n= 1  moyenne=+0.18  mediane=+0.18  [+0.18 ; +0.18]
+   absolue (seule/coalition) n=37 moy=+0.22 contre relative/sans n=8 moy=+0.29 : p=0.92 ; plus petite différence détectable ≈ 1.61 pt
+   variante incertains comptés absolus : n=43 moy=+0.28 ; p=0.99
+   parti seul n=23 moy=+0.50 contre coalition absolue n=14 moy=-0.22 : p=0.18
+ par type_majorite_mi_annee
+   coalition                n=14  moyenne=+0.35  mediane=+0.02  [-2.34 ; +6.59]
+   coalition_etroite        n= 2  moyenne=-0.66  mediane=-0.66  [-0.81 ; -0.51]
+   coalition_non_etablie    n= 3  moyenne=+1.39  mediane=+0.62  [-0.97 ; +4.52]
+   parti_seul               n=23  moyenne=+0.39  mediane=+0.35  [-1.27 ; +4.04]
+   relative                 n= 8  moyenne=-0.31  mediane=-0.30  [-1.63 ; +1.11]
+   sans_majorite            n= 1  moyenne=+0.18  mediane=+0.18  [+0.18 ; +0.18]
+   absolue (seule/coalition) n=37 moy=+0.37 contre relative/sans n=9 moy=-0.25 : p=0.26 ; plus petite différence détectable ≈ 1.51 pt
+   variante incertains comptés absolus : n=42 moy=+0.40 ; p=0.25
+   parti seul n=23 moy=+0.39 contre coalition absolue n=14 moy=+0.35 : p=0.95
+ par cohabitation_M
+   0                        n=42  moyenne=+0.41  mediane=+0.18  [-2.34 ; +6.59]
+   1                        n= 9  moyenne=-0.34  mediane=-0.51  [-1.43 ; +1.13]
+   1 contre 0 : écart -0.75 ; p=0.19 ; plus petite différence détectable ≈ 1.57 pt
+ par annee_electorale
+   0                        n=38  moyenne=+0.27  mediane=+0.03  [-2.34 ; +6.59]
+   1                        n=13  moyenne=+0.32  mediane=+0.07  [-1.58 ; +2.30]
+   1 contre 0 : écart +0.06 ; p=0.91 ; plus petite différence détectable ≈ 1.37 pt
+ par annee_pre_electorale
+   0                        n=38  moyenne=+0.52  mediane=+0.18  [-1.58 ; +6.59]
+   1                        n=13  moyenne=-0.40  mediane=-0.40  [-2.34 ; +1.11]
+   1 contre 0 : écart -0.92 ; p=0.06 ; plus petite différence détectable ≈ 1.37 pt
+ par premier_exercice_apres_alternance_M
+   0                        n=43  moyenne=+0.39  mediane=+0.07  [-2.34 ; +6.59]
+   1                        n= 8  moyenne=-0.29  mediane=-0.64  [-1.43 ; +1.32]
+   1 contre 0 : écart -0.68 ; p=0.25 ; plus petite différence détectable ≈ 1.65 pt
+ par camp_M
+   centre                   n= 7  moyenne=-0.13  mediane=-1.27  [-2.34 ; +6.59]
+   centre_minoritaire       n= 1  moyenne=+0.18  mediane=+0.18  [+0.18 ; +0.18]
+   droite                   n=23  moyenne=+0.44  mediane=+0.05  [-0.97 ; +4.52]
+   gauche                   n=20  moyenne=+0.25  mediane=+0.25  [-1.43 ; +2.30]
+
+### d_depenses_primaires — hors récessions et rebonds (1975, 1993, 2009, 2010, 2020, 2021)
+ par type_majorite
+   coalition                n=13  moyenne=-0.06  mediane=-0.01  [-1.58 ; +2.13]
+   coalition_etroite        n= 2  moyenne=-0.59  mediane=-0.59  [-0.67 ; -0.51]
+   coalition_non_etablie    n= 3  moyenne=+0.15  mediane=+0.62  [-0.97 ; +0.81]
+   parti_seul               n=20  moyenne=+0.05  mediane=+0.01  [-1.27 ; +1.32]
+   relative                 n= 6  moyenne=-0.03  mediane=+0.29  [-1.63 ; +1.11]
+   sans_majorite            n= 1  moyenne=+0.18  mediane=+0.18  [+0.18 ; +0.18]
+   absolue (seule/coalition) n=33 moy=+0.01 contre relative/sans n=7 moy=-0.00 : p=0.98 ; plus petite différence détectable ≈ 1.00 pt
+   variante incertains comptés absolus : n=38 moy=-0.01 ; p=0.98
+   parti seul n=20 moy=+0.05 contre coalition absolue n=13 moy=-0.06 : p=0.71
+ par type_majorite_mi_annee
+   coalition                n=11  moyenne=-0.15  mediane=-0.01  [-1.43 ; +0.90]
+   coalition_etroite        n= 2  moyenne=-0.66  mediane=-0.66  [-0.81 ; -0.51]
+   coalition_non_etablie    n= 2  moyenne=-0.18  mediane=-0.18  [-0.97 ; +0.62]
+   parti_seul               n=21  moyenne=+0.24  mediane=+0.35  [-1.27 ; +2.13]
+   relative                 n= 8  moyenne=-0.31  mediane=-0.30  [-1.63 ; +1.11]
+   sans_majorite            n= 1  moyenne=+0.18  mediane=+0.18  [+0.18 ; +0.18]
+   absolue (seule/coalition) n=32 moy=+0.11 contre relative/sans n=9 moy=-0.25 : p=0.27 ; plus petite différence détectable ≈ 0.90 pt
+   variante incertains comptés absolus : n=36 moy=+0.05 ; p=0.36
+   parti seul n=21 moy=+0.24 contre coalition absolue n=11 moy=-0.15 : p=0.19
+ par cohabitation_M
+   0                        n=36  moyenne=+0.07  mediane=+0.13  [-1.63 ; +2.13]
+   1                        n= 9  moyenne=-0.34  mediane=-0.51  [-1.43 ; +1.13]
+   1 contre 0 : écart -0.41 ; p=0.20 ; plus petite différence détectable ≈ 0.88 pt
+ par annee_electorale
+   0                        n=33  moyenne=-0.07  mediane=-0.01  [-1.63 ; +1.32]
+   1                        n=12  moyenne=+0.16  mediane=+0.06  [-1.58 ; +2.13]
+   1 contre 0 : écart +0.23 ; p=0.42 ; plus petite différence détectable ≈ 0.80 pt
+ par annee_pre_electorale
+   0                        n=33  moyenne=+0.07  mediane=+0.07  [-1.58 ; +2.13]
+   1                        n=12  moyenne=-0.24  mediane=-0.30  [-1.63 ; +1.11]
+   1 contre 0 : écart -0.32 ; p=0.28 ; plus petite différence détectable ≈ 0.80 pt
+ par premier_exercice_apres_alternance_M
+   0                        n=37  moyenne=+0.05  mediane=+0.07  [-1.63 ; +2.13]
+   1                        n= 8  moyenne=-0.29  mediane=-0.64  [-1.43 ; +1.32]
+   1 contre 0 : écart -0.34 ; p=0.31 ; plus petite différence détectable ≈ 0.92 pt
+ par camp_M
+   centre                   n= 5  moyenne=-1.04  mediane=-1.27  [-1.63 ; +0.07]
+   centre_minoritaire       n= 1  moyenne=+0.18  mediane=+0.18  [+0.18 ; +0.18]
+   droite                   n=20  moyenne=+0.09  mediane=-0.07  [-0.97 ; +2.13]
+   gauche                   n=19  moyenne=+0.14  mediane=+0.11  [-1.43 ; +1.32]
+
+### d_recettes — toutes années
+ par type_majorite
+   coalition                n=14  moyenne=+0.34  mediane=+0.40  [-0.81 ; +1.61]
+   coalition_etroite        n= 2  moyenne=-0.37  mediane=-0.37  [-1.32 ; +0.59]
+   coalition_non_etablie    n= 4  moyenne=+0.88  mediane=+1.03  [-0.36 ; +1.84]
+   parti_seul               n=23  moyenne=+0.17  mediane=+0.17  [-1.09 ; +1.15]
+   relative                 n= 7  moyenne=-0.25  mediane=-0.17  [-2.28 ; +0.77]
+   sans_majorite            n= 1  moyenne=+1.02  mediane=+1.02  [+1.02 ; +1.02]
+   absolue (seule/coalition) n=37 moy=+0.24 contre relative/sans n=8 moy=-0.09 : p=0.25 ; plus petite différence détectable ≈ 0.79 pt
+   variante incertains comptés absolus : n=43 moy=+0.27 ; p=0.24
+   parti seul n=23 moy=+0.17 contre coalition absolue n=14 moy=+0.34 : p=0.44
+ par type_majorite_mi_annee
+   coalition                n=14  moyenne=+0.35  mediane=+0.26  [-0.81 ; +1.61]
+   coalition_etroite        n= 2  moyenne=-0.21  mediane=-0.21  [-1.00 ; +0.59]
+   coalition_non_etablie    n= 3  moyenne=+1.09  mediane=+1.81  [-0.36 ; +1.84]
+   parti_seul               n=23  moyenne=+0.22  mediane=+0.18  [-1.09 ; +1.15]
+   relative                 n= 8  moyenne=-0.38  mediane=-0.27  [-2.28 ; +0.79]
+   sans_majorite            n= 1  moyenne=+1.02  mediane=+1.02  [+1.02 ; +1.02]
+   absolue (seule/coalition) n=37 moy=+0.27 contre relative/sans n=9 moy=-0.23 : p=0.06 ; plus petite différence détectable ≈ 0.75 pt
+   variante incertains comptés absolus : n=42 moy=+0.31 ; p=0.07
+   parti seul n=23 moy=+0.22 contre coalition absolue n=14 moy=+0.35 : p=0.56
+ par cohabitation_M
+   0                        n=42  moyenne=+0.28  mediane=+0.21  [-2.28 ; +1.84]
+   1                        n= 9  moyenne=-0.12  mediane=+0.10  [-1.32 ; +0.59]
+   1 contre 0 : écart -0.40 ; p=0.18 ; plus petite différence détectable ≈ 0.81 pt
+ par annee_electorale
+   0                        n=38  moyenne=+0.26  mediane=+0.17  [-2.28 ; +1.84]
+   1                        n=13  moyenne=+0.06  mediane=+0.24  [-1.32 ; +1.01]
+   1 contre 0 : écart -0.20 ; p=0.44 ; plus petite différence détectable ≈ 0.71 pt
+ par annee_pre_electorale
+   0                        n=38  moyenne=+0.23  mediane=+0.17  [-1.32 ; +1.84]
+   1                        n=13  moyenne=+0.15  mediane=+0.28  [-2.28 ; +1.18]
+   1 contre 0 : écart -0.08 ; p=0.73 ; plus petite différence détectable ≈ 0.71 pt
+ par premier_exercice_apres_alternance_M
+   0                        n=43  moyenne=+0.22  mediane=+0.18  [-2.28 ; +1.84]
+   1                        n= 8  moyenne=+0.17  mediane=+0.02  [-0.48 ; +0.94]
+   1 contre 0 : écart -0.05 ; p=0.88 ; plus petite différence détectable ≈ 0.85 pt
+ par camp_M
+   centre                   n= 7  moyenne=-0.44  mediane=-0.19  [-2.28 ; +0.79]
+   centre_minoritaire       n= 1  moyenne=+1.02  mediane=+1.02  [+1.02 ; +1.02]
+   droite                   n=23  moyenne=+0.42  mediane=+0.31  [-1.32 ; +1.84]
+   gauche                   n=20  moyenne=+0.16  mediane=+0.13  [-1.00 ; +0.94]
+
+### d_recettes — hors récessions et rebonds (1975, 1993, 2009, 2010, 2020, 2021)
+ par type_majorite
+   coalition                n=13  moyenne=+0.36  mediane=+0.52  [-0.81 ; +1.61]
+   coalition_etroite        n= 2  moyenne=-0.37  mediane=-0.37  [-1.32 ; +0.59]
+   coalition_non_etablie    n= 3  moyenne=+0.57  mediane=+0.24  [-0.36 ; +1.84]
+   parti_seul               n=20  moyenne=+0.22  mediane=+0.24  [-1.09 ; +1.15]
+   relative                 n= 6  moyenne=-0.42  mediane=-0.27  [-2.28 ; +0.68]
+   sans_majorite            n= 1  moyenne=+1.02  mediane=+1.02  [+1.02 ; +1.02]
+   absolue (seule/coalition) n=33 moy=+0.27 contre relative/sans n=7 moy=-0.22 : p=0.12 ; plus petite différence détectable ≈ 0.88 pt
+   variante incertains comptés absolus : n=38 moy=+0.26 ; p=0.15
+   parti seul n=20 moy=+0.22 contre coalition absolue n=13 moy=+0.36 : p=0.57
+ par type_majorite_mi_annee
+   coalition                n=11  moyenne=+0.38  mediane=+0.28  [-0.81 ; +1.61]
+   coalition_etroite        n= 2  moyenne=-0.21  mediane=-0.21  [-1.00 ; +0.59]
+   coalition_non_etablie    n= 2  moyenne=+0.74  mediane=+0.74  [-0.36 ; +1.84]
+   parti_seul               n=21  moyenne=+0.25  mediane=+0.31  [-1.09 ; +1.15]
+   relative                 n= 8  moyenne=-0.38  mediane=-0.27  [-2.28 ; +0.79]
+   sans_majorite            n= 1  moyenne=+1.02  mediane=+1.02  [+1.02 ; +1.02]
+   absolue (seule/coalition) n=32 moy=+0.30 contre relative/sans n=9 moy=-0.23 : p=0.07 ; plus petite différence détectable ≈ 0.80 pt
+   variante incertains comptés absolus : n=36 moy=+0.29 ; p=0.08
+   parti seul n=21 moy=+0.25 contre coalition absolue n=11 moy=+0.38 : p=0.62
+ par cohabitation_M
+   0                        n=36  moyenne=+0.27  mediane=+0.28  [-2.28 ; +1.84]
+   1                        n= 9  moyenne=-0.12  mediane=+0.10  [-1.32 ; +0.59]
+   1 contre 0 : écart -0.38 ; p=0.20 ; plus petite différence détectable ≈ 0.82 pt
+ par annee_electorale
+   0                        n=33  moyenne=+0.26  mediane=+0.28  [-2.28 ; +1.84]
+   1                        n=12  moyenne=+0.00  mediane=+0.04  [-1.32 ; +1.01]
+   1 contre 0 : écart -0.26 ; p=0.34 ; plus petite différence détectable ≈ 0.75 pt
+ par annee_pre_electorale
+   0                        n=33  moyenne=+0.20  mediane=+0.18  [-1.32 ; +1.84]
+   1                        n=12  moyenne=+0.15  mediane=+0.31  [-2.28 ; +1.18]
+   1 contre 0 : écart -0.05 ; p=0.86 ; plus petite différence détectable ≈ 0.75 pt
+ par premier_exercice_apres_alternance_M
+   0                        n=37  moyenne=+0.19  mediane=+0.24  [-2.28 ; +1.84]
+   1                        n= 8  moyenne=+0.17  mediane=+0.02  [-0.48 ; +0.94]
+   1 contre 0 : écart -0.02 ; p=0.95 ; plus petite différence détectable ≈ 0.86 pt
+ par camp_M
+   centre                   n= 5  moyenne=-0.60  mediane=-0.25  [-2.28 ; +0.79]
+   centre_minoritaire       n= 1  moyenne=+1.02  mediane=+1.02  [+1.02 ; +1.02]
+   droite                   n=20  moyenne=+0.41  mediane=+0.32  [-1.32 ; +1.84]
+   gauche                   n=19  moyenne=+0.12  mediane=+0.10  [-1.00 ; +0.94]
+
+### Fragmentation : rho de Spearman (nombre effectif de groupes, d_solde_primaire) = -0.00 (n=51 ; valeurs du nombre effectif peu nombreuses : 13 législatures)
+
+### Fragmentation : rho de Spearman (nombre effectif de groupes, d_spcc_ameco) = -0.01 (n=47 ; valeurs du nombre effectif peu nombreuses : 13 législatures)
+
+### Par législature (exercices dont la LFI a été votée par la législature)
+legislature;exercices;type;n;nb_effectif_groupes;primaire_annee_avant;primaire_fin;var_cumulee_primaire;spcc_avant;spcc_fin;var_cumulee_spcc;var_dep_primaires;var_recettes
+V;1975-1978;coalition_non_etablie;4;4.38;+0.68;-0.77;-1.45;n.d.;-0.53748;n.d.;+4.98;+3.53
+VI;1979-1981;coalition;3;4.04;-0.77;-0.71;+0.06;-0.53748;0.45368;+0.99;+3.21;+3.27
+VII;1982-1986;parti_seul;5;2.51;-0.71;-0.65;+0.07;0.45368;0.3301;-0.12;+1.88;+1.95
+VIII;1987-1988;coalition_etroite;2;3.72;-0.65;-0.20;+0.45;0.3301;-0.42567;-0.76;-1.18;-0.73
+IX;1989-1993;relative;5;3.18;-0.20;-3.18;-2.98;-0.42567;-1.30648;-0.88;+3.67;+0.69
+X;1994-1997;coalition;4;2.84;-3.18;-0.16;+3.01;-1.30648;1.46446;+2.77;-1.30;+1.72
+XI;1998-2002;coalition;5;3.42;-0.16;-0.15;+0.01;1.46446;-0.75744;-2.22;-1.12;-1.11
+XII;2003-2007;parti_seul;5;2.15;-0.15;-0.30;-0.15;-0.75744;-1.86895;-1.11;+0.05;-0.11
+XIII;2008-2012;parti_seul;5;2.29;-0.30;-2.54;-2.24;-1.86895;-1.50046;+0.37;+4.32;+2.08
+XIV;2013-2017;parti_seul;5;2.54;-2.54;-1.57;+0.97;-1.50046;-1.49254;+0.01;+0.61;+1.58
+XV;2018-2022;coalition/parti_seul;5;2.76;-1.57;-2.82;-1.25;-1.49254;-2.55141;-1.06;+0.62;-0.63
+XVI;2023-2024;relative;2;6.16;-2.82;-3.71;-0.89;-2.55141;-3.61193;-1.06;-1.56;-2.45
+XVII;2025-2025;sans_majorite;1;7.79;-3.71;-2.87;+0.84;-3.61193;-2.49415;+1.12;+0.18;+1.02
+
+### Années d'assouplissement (variation du solde primaire corrigé du cycle <= -0,5 pt) et contexte
+exercice;d_spcc;cumul_spcc_3_ans_avant;consolidation_prealable(cumul>+1);legislature_vote;premier_ou_second_exercice_apres_alternance_M;annee_electorale
+1981;-0.92;+1.92;1;VI;0;1
+1982;-0.75;+0.99;0;VII;1;0
+1988;-1.85;+0.88;0;VIII;1;1
+1992;-0.99;+0.08;0;IX;0;0
+2000;-1.10;-0.03;0;XI;0;0
+2002;-1.30;-1.27;0;XI;0;1
+2003;-0.51;-2.36;0;XII;1;0
+2007;-0.69;+0.10;0;XII;0;1
+2009;-1.66;-0.00;0;XIII;0;0
+2019;-0.97;-0.00;0;XV;1;0
+2020;-1.46;-0.90;0;XV;0;0
+2021;-0.74;-1.87;0;XV;0;0
+2023;-0.76;-0.65;0;XVI;0;0
