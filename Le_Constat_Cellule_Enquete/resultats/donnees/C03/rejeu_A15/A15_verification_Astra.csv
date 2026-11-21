@@ -1,0 +1,13 @@
+calcul;g;resultat_pct;ecart_mdeur_depuis_5_1;resultat_mdeur;avec_5_068;multiplicateur;gain_solde_mdeur;variation_ratio_pts_1re_annee;resultat;rendement_reel;portefeuille_2026_pts;dette_transition_B_pts;besoin_final_pts
+deficit stabilisant;0.02;2.269;84.688;;;;;;;;;;
+deficit stabilisant;0.03;3.37;51.748;;;;;;;;;;
+deficit stabilisant;0.04;4.45;19.442;;;;;;;;;;
+ramener a 3 %;;;;62.812;61.855;;;;;;;;
+equilibre;;;;151.592;;;;;;;;;
+illustration multiplicateur (10 Md€, retour 0,5);;;;;;0.5;7.5;-0.057;;;;;
+illustration multiplicateur (10 Md€, retour 0,5);;;;;;1.5;2.5;0.499;;;;;
+illustration multiplicateur (10 Md€, retour 0,5);;;;;;2.0;0.0;0.779;;;;;
+seuil de multiplicateur (ratio inchange la 1re annee);;;;;;;;;0.604;;;;
+capitalisation Astra B/C;;;;;;;;;;0.0;8.13;9.133;0.26
+capitalisation Astra B/C;;;;;;;;;;0.02;10.289;9.133;0.26
+capitalisation Astra B/C;;;;;;;;;;0.04;13.172;9.133;0.26

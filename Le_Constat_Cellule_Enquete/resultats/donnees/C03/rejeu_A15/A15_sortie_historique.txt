@@ -1,0 +1,41 @@
+1983 report de la retraite a 60 ans (sans substitution): solde 1983 -2.57 -> -2.55 ; ecart de ratio en 1992 : -1.80 (m=0.8 : -1.61 ; m=0.3 : -1.93) ; annees a l'equilibre (m central) : []
+1983 report de la retraite a 60 ans (substitution 50 %): solde 1983 -2.57 -> -2.56 ; ecart de ratio en 1992 : -0.90 (m=0.8 : -0.80 ; m=0.3 : -0.96) ; annees a l'equilibre (m central) : []
+1983 report de la retraite a 60 ans (substitution 70 %): solde 1983 -2.57 -> -2.56 ; ecart de ratio en 1992 : -0.54 (m=0.8 : -0.48 ; m=0.3 : -0.58) ; annees a l'equilibre (m central) : []
+  cout 1987 = 0.23 % du PIB
+1995 regimes speciaux maintenus (bas, [M]): solde 1996 -3.90 -> -3.89 ; ecart de ratio en 2008 : -0.17 (m=0.8 : -0.16 ; m=0.3 : -0.17) ; annees a l'equilibre (m central) : []
+1995 regimes speciaux maintenus (central, [M]): solde 1996 -3.90 -> -3.89 ; ecart de ratio en 2008 : -0.45 (m=0.8 : -0.43 ; m=0.3 : -0.46) ; annees a l'equilibre (m central) : []
+1995 regimes speciaux maintenus (haut, [M]): solde 1996 -3.90 -> -3.88 ; ecart de ratio en 2008 : -0.98 (m=0.8 : -0.94 ; m=0.3 : -1.01) ; annees a l'equilibre (m central) : []
+2000 cagnotte non reaffectee (scenario A): solde 2000 -1.31 -> -0.96 ; ecart de ratio en 2007 : -3.48 (m=1.0 : -2.84 ; m=0.3 : -3.73) ; annees a l'equilibre (m central) : []
+2000 cagnotte non reaffectee (scenario B): solde 2000 -1.31 -> -0.79 ; ecart de ratio en 2007 : -3.70 (m=1.0 : -3.05 ; m=0.3 : -3.96) ; annees a l'equilibre (m central) : []
+2000-2002 aucune baisse d'impots d'Etat (borne haute, Carrez): solde 2000 -1.31 -> -0.88 ; ecart de ratio en 2007 : -10.51 (m=1.0 : -8.40 ; m=0.3 : -11.36) ; annees a l'equilibre (m central) : []
+2000-2007 aucune baisse d'impots d'Etat (Carrez): solde 2000 -1.31 -> -0.88 ; ecart de ratio en 2009 : -21.99 (m=1.0 : -17.53 ; m=0.3 : -23.77) ; annees a l'equilibre (m central) : [2006, 2007, 2008]
+2007 loi TEPA non votee: solde 2007 -2.99 -> -2.95 ; ecart de ratio en 2012 : -2.14 (m=1.0 : -1.64 ; m=0.3 : -2.34) ; annees a l'equilibre (m central) : []
+2012 CICE non cree (moitie non gagee): solde 2013 -4.94 -> -4.76 ; ecart de ratio en 2018 : -1.62 (m=1.0 : -1.19 ; m=0.3 : -1.79) ; annees a l'equilibre (m central) : []
+2012 CICE non cree (entierement non gage): solde 2013 -4.94 -> -4.57 ; ecart de ratio en 2018 : -3.27 (m=1.0 : -2.41 ; m=0.3 : -3.62) ; annees a l'equilibre (m central) : []
+2019 mesures d'urgence (MUES) non adoptees: solde 2019 -2.39 -> -2.21 ; ecart de ratio en 2025 : -1.45 (m=0.8 : -1.27 ; m=0.3 : -1.57) ; annees a l'equilibre (m central) : []
+2019 MUES non adoptees, effet limite a 2019: solde 2019 -2.39 -> -2.21 ; ecart de ratio en 2019 : -0.10 (m=0.8 : 0.02 ; m=0.3 : -0.18) ; annees a l'equilibre (m central) : []
+Taux bas 2015: economie 4.2 Md€ ; primaire vs 2014 +11.4 Md€ ; primaire -1.86 vs stabilisant -0.05
+Taux bas 2016: economie 7.9 Md€ ; primaire vs 2014 +11.4 Md€ ; primaire -1.86 vs stabilisant 0.58
+Taux bas 2017: economie 10.7 Md€ ; primaire vs 2014 +18.4 Md€ ; primaire -1.57 vs stabilisant -0.77
+Taux bas 2018: economie 11.7 Md€ ; primaire vs 2014 +43.0 Md€ ; primaire -0.55 vs stabilisant -0.90
+Taux bas 2019: economie 17.9 Md€ ; primaire vs 2014 +36.5 Md€ ; primaire -0.88 vs stabilisant -1.60
+Taux bas 2020: economie 26.6 Md€ ; primaire vs 2014 -122.3 Md€ ; primaire -7.65 vs stabilisant 6.11
+Taux bas 2021: economie 28.1 Md€ ; primaire vs 2014 -70.7 Md€ ; primaire -5.20 vs stabilisant -7.31
+2015-2019 : economies cumulees 52 Md€ ; amelioration cumulee du primaire 121 Md€ ; annees au-dessus du stabilisant : [2018, 2019]
+  dette 2019 si le primaire avait atteint le niveau stabilisant chaque annee : -119 Md€ = -4.9 pts (statique)
+France, economie d'interets par rapport au taux apparent de 2008 : 54 Md€ en 2016 (2.4 % du PIB) ; cumul 2009-2016 267 Md€
+T-04 reference 1999: mesures cumulees -1.13 pt -> contribution au deficit 2025 +1.13 pt (+34 Md€, 22 % du deficit) [1999-2002 x 0.75; 2003-2006 x 1.00; 2007-2009 x 1.00; 2010-2014 x 1.00; 2015-2017 x 1.00; 2018-2023 x 1.00; 2024-2025 x 1.00]
+T-04 reference 2006: mesures cumulees +0.20 pt -> contribution au deficit 2025 -0.20 pt (-6 Md€, -4 % du deficit) [2007-2009 x 1.00; 2010-2014 x 1.00; 2015-2017 x 1.00; 2018-2023 x 1.00; 2024-2025 x 1.00]
+T-04 reference 2017: mesures cumulees -1.40 pt -> contribution au deficit 2025 +1.40 pt (+42 Md€, 28 % du deficit) [2018-2023 x 1.00; 2024-2025 x 1.00]
+Astra {'calcul': 'deficit stabilisant', 'g': 0.02, 'resultat_pct': 2.27, 'ecart_mdeur_depuis_5_1': 84.69}
+Astra {'calcul': 'deficit stabilisant', 'g': 0.03, 'resultat_pct': 3.37, 'ecart_mdeur_depuis_5_1': 51.75}
+Astra {'calcul': 'deficit stabilisant', 'g': 0.04, 'resultat_pct': 4.45, 'ecart_mdeur_depuis_5_1': 19.44}
+Astra {'calcul': 'ramener a 3 %', 'resultat_mdeur': 62.81, 'avec_5_068': 61.86}
+Astra {'calcul': 'equilibre', 'resultat_mdeur': 151.59}
+Astra {'calcul': 'illustration multiplicateur (10 Md€, retour 0,5)', 'multiplicateur': 0.5, 'gain_solde_mdeur': 7.5, 'variation_ratio_pts_1re_annee': -0.06}
+Astra {'calcul': 'illustration multiplicateur (10 Md€, retour 0,5)', 'multiplicateur': 1.5, 'gain_solde_mdeur': 2.5, 'variation_ratio_pts_1re_annee': 0.5}
+Astra {'calcul': 'illustration multiplicateur (10 Md€, retour 0,5)', 'multiplicateur': 2.0, 'gain_solde_mdeur': 0.0, 'variation_ratio_pts_1re_annee': 0.78}
+Astra {'calcul': 'seuil de multiplicateur (ratio inchange la 1re annee)', 'resultat': 0.6}
+Astra {'calcul': 'capitalisation Astra B/C', 'rendement_reel': 0.0, 'portefeuille_2026_pts': 8.13, 'dette_transition_B_pts': 9.13, 'besoin_final_pts': 0.26}
+Astra {'calcul': 'capitalisation Astra B/C', 'rendement_reel': 0.02, 'portefeuille_2026_pts': 10.29, 'dette_transition_B_pts': 9.13, 'besoin_final_pts': 0.26}
+Astra {'calcul': 'capitalisation Astra B/C', 'rendement_reel': 0.04, 'portefeuille_2026_pts': 13.17, 'dette_transition_B_pts': 9.13, 'besoin_final_pts': 0.26}

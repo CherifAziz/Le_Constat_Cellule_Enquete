@@ -1,0 +1,19 @@
+etape (libelle du parametre ecrit dans le sens A15 -> Codex ; ici applique dans le sens Codex -> A15);effort_2030_pts;deficit_ref_2027;deficit_ref_2030;interets_ref_2030;dette_ref_2030;deficit_vise_2030;dette_2029;dette_2030;croissance_nom_tendancielle_2030;croissance_nom_effective_2030;interets_2030;groupe;contribution_pts
+depart;3.0779;5.4;6.3239;3.6839;128.0541;3.7698;123.6855;123.6855;3.224;3.1437;3.629;;
+Reference 2027 : deficit 6,5 % (sans mesures du budget) -> 5,4 % (Commission, budget compris);4.4844;6.5;7.5203;3.7803;132.4358;3.7995;126.1116;126.1116;3.224;3.1064;3.7015;1 reference 2027;1.4065
+Croissance reelle 2027 de la reference : 1,1 % (sans mesures) -> 0,6 % (Commission);4.4984;6.5;7.5153;3.7753;131.9051;3.7822;125.551;125.551;3.224;3.1061;3.6957;1 reference 2027;0.014
+Taux a l'emission : 4,8 % en 2028 convergeant vers 4 % en 2032 -> 4 % des 2028;4.4838;6.5;7.503;3.763;131.8778;3.7825;125.5449;125.5449;3.224;3.1064;3.6839;2 interets;-0.0146
+Part refinancee par an : 0,10 -> 1/8,5;4.4445;6.5;7.4702;3.7302;131.8169;3.7836;125.5411;125.5411;3.224;3.1075;3.6526;2 interets;-0.0394
+Part indexee de la dette : 9 % -> 0;4.4773;6.5;7.4965;3.7565;131.8325;3.7816;125.5088;125.5088;3.224;3.1066;3.6776;2 interets;0.0328
+Emprunt net de l'annee : au taux de marche (demi-annee) -> au coupon moyen;4.7136;6.5;7.8553;4.1257;132.5744;3.7764;125.5844;125.5844;3.224;3.1003;3.8785;2 interets;0.2363
+Croissance potentielle 2029-2030 : 1,0 % -> 1,2 %;5.0138;6.5;7.871;4.1414;133.0773;3.5269;125.6265;125.6265;3.02;2.8886;3.8777;3 croissance et deflateur;0.3002
+Deflateur 2027-2030 : 1,9 / 1,6 -> 2,0 %;5.6116;6.5;7.9174;4.1907;134.6704;3.0435;126.3054;126.3054;2.616;2.4692;3.8941;3 croissance et deflateur;0.5978
+Ecart de production de reference : se referme de -0,7 a 0 en 2030 -> fige;4.8576;6.5;7.5138;4.1371;133.0075;3.3002;125.7753;125.7753;2.616;2.6946;3.8809;4 cycle de reference;-0.754
+Multiplicateur : 0,6 -> 0,8;4.5372;6.5;7.5138;4.1371;133.0075;3.325;124.9817;124.9817;2.616;2.7331;3.8542;5 multiplicateur et retroaction;-0.3204
+"Estompement : profil A13 (1 ; 1 ; 0,5 x3 ; 0,2) -> geometrique 0,5";5.5404;6.5;7.5138;4.1371;133.0075;2.9217;125.4093;125.4093;2.616;2.3853;3.8622;5 multiplicateur et retroaction;1.0032
+Semi-elasticite du solde : 0,57 -> 0,50;5.7357;6.5;7.4611;4.1334;132.8987;2.9066;125.5702;125.5702;2.616;2.3696;3.8682;5 multiplicateur et retroaction;0.1953
+Stabiliser : deficit <= seuil a croissance tendancielle -> ratio 2030 <= ratio 2029 (PIB effectif);5.3667;6.5;7.4611;4.1334;132.8987;3.2069;125.7939;126.0533;2.616;2.3993;3.8857;6 definition de stabiliser;-0.369
+Ajustements stocks-flux : 0 -> 0;5.3667;6.5;7.4611;4.1334;132.8987;3.2069;125.7939;126.0533;2.616;2.3993;3.8857;7 ajustements stocks-flux;0.0
+Vieillissement : COR + Ageing Report (~0,02 pt/an) -> 0,08 pt/an;5.1386;6.5;7.2793;4.1218;132.5463;3.2058;125.753;125.9904;2.616;2.4176;3.8846;8 vieillissement;-0.2281
+Unites : % du PIB effectif -> % du PIB de reference;5.1577;6.5;7.2793;4.1218;132.5463;3.2042;125.6875;125.9218;2.616;2.4201;3.8815;9 unites et point de depart;0.0191
+Dette 2026 : issue du modele -> 119,2 % (Commission);5.1678;6.5;7.2751;4.1141;132.0858;3.1918;125.203;125.4373;2.616;2.4193;3.8731;9 unites et point de depart;0.01

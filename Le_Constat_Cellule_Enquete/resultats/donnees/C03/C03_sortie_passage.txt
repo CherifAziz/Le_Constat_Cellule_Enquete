@@ -1,0 +1,80 @@
+Reproduction A15 : 5.1678 (attendu 5,168) ; Codex : 3.0779 (attendu 3,078)
+  ref A15 2026-2030 deficit : [5.5, 6.5, 6.719, 7.017, 7.275] dette : [118.69, 121.71, 124.74, 128.33, 132.09]
+  ref Codex 2027-2030 deficit : [5.4, 5.718, 6.025, 6.324] dette : [121.57, 123.49, 125.65, 128.05] interets : [3.0, 3.238, 3.465, 3.684]
+
+=== Marche aller : modele A15, un parametre a la fois vers les valeurs de Codex
+    5.168   +0.000  ref30  7.28 vise30  3.19  depart
+    3.667   -1.500  ref30  6.03 vise30  3.13  Reference 2027 : deficit 6,5 % (sans mesures du budget) -> 5,4 % (Commission, budget compris)
+    3.652   -0.016  ref30  6.03 vise30  3.14  Croissance reelle 2027 de la reference : 1,1 % (sans mesures) -> 0,6 % (Commission)
+    3.349   -0.303  ref30  5.76 vise30  3.14  Taux a l'emission : 4,8 % en 2028 convergeant vers 4 % en 2032 -> 4 % des 2028
+    3.434   +0.085  ref30  5.83 vise30  3.14  Part refinancee par an : 0,10 -> 1/8,5
+    3.615   +0.182  ref30  5.98 vise30  3.14  Part indexee de la dette : 9 % -> 0
+    3.460   -0.155  ref30  5.76 vise30  3.14  Emprunt net de l'annee : au taux de marche (demi-annee) -> au coupon moyen
+    3.130   -0.330  ref30  5.75 vise30  3.38  Croissance potentielle 2029-2030 : 1,0 % -> 1,2 %
+    2.481   -0.649  ref30  5.71 vise30  3.83  Deflateur 2027-2030 : 1,9 / 1,6 -> 2,0 %
+    3.028   +0.547  ref30  6.14 vise30  3.85  Ecart de production de reference : se referme de -0,7 a 0 en 2030 -> fige
+    3.425   +0.398  ref30  6.14 vise30  3.88  Multiplicateur : 0,6 -> 0,8
+    2.856   -0.570  ref30  6.14 vise30  3.85  Estompement : profil A13 (1 ; 1 ; 0,5 x3 ; 0,2) -> geometrique 0,5
+    2.763   -0.092  ref30  6.14 vise30  3.85  Semi-elasticite du solde : 0,57 -> 0,50
+    2.871   +0.108  ref30  6.14 vise30  3.76  Stabiliser : deficit <= seuil a croissance tendancielle -> ratio 2030 <= ratio 2029 (PIB effectif)
+    2.871   +0.000  ref30  6.14 vise30  3.76  Ajustements stocks-flux : 0 -> 0
+    3.089   +0.218  ref30  6.32 vise30  3.75  Vieillissement : COR + Ageing Report (~0,02 pt/an) -> 0,08 pt/an
+    3.090   +0.001  ref30  6.32 vise30  3.75  Unites : % du PIB effectif -> % du PIB de reference
+    3.078   -0.012  ref30  6.32 vise30  3.77  Dette 2026 : issue du modele -> 119,2 % (Commission)
+
+=== Marche retour : modele Codex, un parametre a la fois vers les valeurs d'A15 (meme ordre de liste, donc autre chemin)
+    3.078   +0.000  depart
+    4.484   +1.407  Reference 2027 : deficit 6,5 % (sans mesures du budget) -> 5,4 % (Commission, budget compris)
+    4.498   +0.014  Croissance reelle 2027 de la reference : 1,1 % (sans mesures) -> 0,6 % (Commission)
+    4.484   -0.015  Taux a l'emission : 4,8 % en 2028 convergeant vers 4 % en 2032 -> 4 % des 2028
+    4.444   -0.039  Part refinancee par an : 0,10 -> 1/8,5
+    4.477   +0.033  Part indexee de la dette : 9 % -> 0
+    4.714   +0.236  Emprunt net de l'annee : au taux de marche (demi-annee) -> au coupon moyen
+    5.014   +0.300  Croissance potentielle 2029-2030 : 1,0 % -> 1,2 %
+    5.612   +0.598  Deflateur 2027-2030 : 1,9 / 1,6 -> 2,0 %
+    4.858   -0.754  Ecart de production de reference : se referme de -0,7 a 0 en 2030 -> fige
+    4.537   -0.320  Multiplicateur : 0,6 -> 0,8
+    5.540   +1.003  Estompement : profil A13 (1 ; 1 ; 0,5 x3 ; 0,2) -> geometrique 0,5
+    5.736   +0.195  Semi-elasticite du solde : 0,57 -> 0,50
+    5.367   -0.369  Stabiliser : deficit <= seuil a croissance tendancielle -> ratio 2030 <= ratio 2029 (PIB effectif)
+    5.367   +0.000  Ajustements stocks-flux : 0 -> 0
+    5.139   -0.228  Vieillissement : COR + Ageing Report (~0,02 pt/an) -> 0,08 pt/an
+    5.158   +0.019  Unites : % du PIB effectif -> % du PIB de reference
+    5.168   +0.010  Dette 2026 : issue du modele -> 119,2 % (Commission)
+
+=== Contributions de Shapley par groupe (A15 -> Codex), en points d'effort
+  1 reference 2027                   Shapley -1.494  aller -1.516  retour -1.421  seul -1.516  dernier -1.421
+  2 interets                         Shapley -0.206  aller -0.191  retour -0.215  seul -0.197  dernier -0.211
+  3 croissance et deflateur          Shapley -0.957  aller -0.980  retour -0.898  seul -0.957  dernier -0.926
+  4 cycle de reference               Shapley +0.677  aller +0.547  retour +0.754  seul +0.553  dernier +0.760
+  5 multiplicateur et retroaction    Shapley -0.526  aller -0.264  retour -0.878  seul -0.388  dernier -0.620
+  6 definition de stabiliser         Shapley +0.209  aller +0.108  retour +0.369  seul +0.344  dernier +0.114
+  7 ajustements stocks-flux          Shapley +0.000  aller +0.000  retour -0.000  seul +0.000  dernier +0.000
+  8 vieillissement                   Shapley +0.227  aller +0.218  retour +0.228  seul +0.229  dernier +0.218
+  9 unites et point de depart        Shapley -0.020  aller -0.011  retour -0.029  seul -0.029  dernier -0.011
+  somme -2.0899 ; ecart a expliquer -2.0899
+
+=== Variante : budget 2027 compte comme mesure dans le modele A15 (reference 6,5 %), effort mesure au-dela du budget
+  43 Md€ = 1,4 pt, multiplicateur A15 0,6, permanent                                              effort au-dela 3.565 ; total 4.965 ; deficit ref 2027 5.58 2028 5.76 2030 5.97
+  1,4 pt, multiplicateur 0,36 (effet de 0,5 pt sur la croissance, administration via HCFP § 36)   effort au-dela 3.424 ; total 4.824 ; deficit ref 2027 5.38 2028 5.54 2030 5.84
+  1,4 pt, mult 0,6, dont 0,3 pt expirant en 2028 [H : montant non chiffre par la Commission]      effort au-dela 3.906 ; total 5.006 ; deficit ref 2027 5.58 2028 5.96 2030 6.24
+  1,1 pt (6,5 - 5,4), multiplicateur 0,6, permanent                                               effort au-dela 3.908 ; total 5.008 ; deficit ref 2027 5.78 2028 5.97 2030 6.25
+
+=== References contre la Commission (2027 / 2028 : deficit 5,4 / 5,7 ; interets 3,0 / 3,3 ; dette 122,1 / 123,2)
+  A15 reference A (6,5)        2027 def 6.50 int 3.01 dette 121.7 | 2028 def 6.72 int 3.38 dette 124.7 | 2030 def 7.28 int 4.11 dette 132.1
+  A15 avec reference 5,4       2027 def 5.40 int 3.00 dette 121.2 | 2028 def 5.57 int 3.32 dette 123.1 | 2030 def 6.03 int 3.96 dette 128.1
+  Codex                        2027 def 5.40 int 3.00 dette 121.6 | 2028 def 5.72 int 3.24 dette 123.5 | 2030 def 6.32 int 3.68 dette 128.1
+
+Run de stabilisation A15 : dette 2029 125.203 -> 2030 125.437 ; deficit 2030 3.192
+Run de stabilisation Codex : dette 2029 123.685 -> 2030 123.685 ; deficit 2030 3.770
+
+=== Chiffres harmonises
+   3.652  Hypotheses A15, reference Commission 5,4 % (budget compris), definition A15
+   3.784  Hypotheses A15, reference 5,4 %, definition Codex (ratio effectif 2030 <= 2029)
+   5.512  Hypotheses A15, reference 6,5 %, definition Codex
+   2.964  Hypotheses Codex, reference 5,4 %, definition A15 (seuil a croissance tendancielle)
+   4.498  Hypotheses Codex, reference 6,5 % (sans budget), definition Codex
+   4.329  Hypotheses Codex, reference 6,5 %, definition A15
+   3.122  Hypotheses A15, reference 5,0 % (cible du PLF 2027, RESF), definition A15
+   2.567  Hypotheses Codex, reference 5,0 % (cible du PLF 2027), definition Codex
+   5.563  A15 avec ecart de production ferme a -0,5 en 2030 seulement (RESF, scenario avec consolidation)

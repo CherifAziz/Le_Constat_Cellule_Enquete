@@ -1,0 +1,11 @@
+fichier;url_origine;canal;date;octets;sha256
+T_1112_fr.xlsx;https://www.insee.fr/fr/statistiques/fichier/8988797/T_1112_fr.xlsx;curl -L -A Mozilla/5.0;2026-11-21;10017;0b3ad7051087e7fc10175180bc979e3f759cfb98fe513ea9a3df108191796c85
+ip2135.xlsx;https://www.insee.fr/fr/statistiques/fichier/9111734/ip2135.xlsx;curl -L -A Mozilla/5.0;2026-11-21;32964;f77f39ea9946cad91aa06bea700a0fe25c48ea02c0c57826f3039f9a3f4d535a
+ip2135_page.html;https://www.insee.fr/fr/statistiques/9111734;curl -L -A Mozilla/5.0;2026-11-21;194249;cca722dd119ec55b5bd18e3b15e7e967640540f088c477707c1fe53f0029a2ac
+ip2135_texte.txt;extraction de ip2135_page.html (bs4);extraction locale;2026-11-21;43736;ef7ecdd21321819429b64c42c50e8bb8d9a6128810819a3ba8a28ad081837951
+s13_page_8988833.html;https://www.insee.fr/fr/statistiques/8988833;curl -L -A Mozilla/5.0;2026-11-21;73091;95eae08c73e6cbb21c4f4752af5e4356ee01aa586c8933fa176653c8848d978a
+t_3101_fr.xlsx;https://www.insee.fr/fr/statistiques/fichier/8988843/t_3101_fr.xlsx;curl -L -A Mozilla/5.0;2026-11-21;17914;f653ed4133585e36d9b620c075a1e62290d0cd65e708f26f3b2e4faad1c6740a
+t_3105_fr.xlsx;https://www.insee.fr/fr/statistiques/fichier/8988843/t_3105_fr.xlsx;curl -L -A Mozilla/5.0;2026-11-21;26429;964ccff6ff8ca50d00b8031b337bfcf94fa7e92056946d73e3a1594d36745234
+t_3106_fr.xlsx;https://www.insee.fr/fr/statistiques/fichier/8988843/t_3106_fr.xlsx;curl -L -A Mozilla/5.0;2026-11-21;21604;f0d67298ec45dbbf4231605b02147a21932fecfe3b1847faec7b65e6e513032e
+t_3107_fr.xlsx;https://www.insee.fr/fr/statistiques/fichier/8988843/t_3107_fr.xlsx;curl -L -A Mozilla/5.0;2026-11-21;25204;955d8041945ba5244a2cb6452f66c46e1c6b268a8b127f3fd40b95ce8d7c7e46
+t_3108_fr.xlsx;https://www.insee.fr/fr/statistiques/fichier/8988843/t_3108_fr.xlsx;curl -L -A Mozilla/5.0;2026-11-21;210652;b1dca406af21b0ff7c8475cd91f7f66831d6eed59d51a30fbed23332167fe4c3

@@ -1,0 +1,10 @@
+groupe;shapley_pts;marche_aller_pts;marche_retour_pts;effet_seul_depuis_A15;effet_en_dernier_vers_Codex
+1 reference 2027;-1.4938;-1.5163;-1.4206;-1.5163;-1.4206
+2 interets;-0.2063;-0.1911;-0.2151;-0.1972;-0.211
+3 croissance et deflateur;-0.9571;-0.9795;-0.898;-0.9569;-0.9256
+4 cycle de reference;0.6766;0.5468;0.754;0.5531;0.7597
+5 multiplicateur et retroaction;-0.5258;-0.2642;-0.878;-0.3883;-0.6198
+6 definition de stabiliser;0.2087;0.1076;0.369;0.344;0.1139
+7 ajustements stocks-flux;0.0;0.0;-0.0;0.0;0.0
+8 vieillissement;0.2273;0.218;0.2281;0.229;0.218
+9 unites et point de depart;-0.0196;-0.0111;-0.0292;-0.0292;-0.0111

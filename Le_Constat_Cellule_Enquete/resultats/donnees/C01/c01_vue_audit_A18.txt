@@ -1,0 +1,834 @@
+208 lignes passe2 ; 200 lignes passe1
+Counter({'exact': 167, 'non démontré': 16, 'trop général': 12, 'inexact': 7, 'non vérifié': 4, '-': 2})
+V5-B1-01 | L5 | M2p2=exact | p2=exact sous condition | La France est le pays de l'UE qui prélève le plus d'impôts et de cotisations
+    trouvé: 2025 : FR 46,0 % du PIB (1er), BE 44,7, DK 44,3 ; 2024 : BE 45,2 > FR 45,1 ; hors cotisations imputées 2025 : FR 44,3 vs DK 44,2
+    motif1: Vrai pour 2025 ; faux pour 2024 (Belgique 1re) ; écart de 0,1 pt avec le Danemark hors cotisations imputées : affirmation fragile au millésime près
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-02 | L5 | M2p2=exact | p2=exact | en déficit depuis 51 ans
+    trouvé: 51 exercices 1975-2025 en besoin de financement (solde < 0)
+    motif1: Aucun solde ≥ 0 entre 1975 et 2025
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-03 | L7 | M2p2=exact | p2=exact | La dernière fois que nos comptes publics ont fini l'année en excédent, c'était en 1974
+    trouvé: 1974 : +0,1 % du PIB (+0,199 Md€) ; excédents antérieurs 1958-1966, 1972
+    motif1: 
+    motif2: Le solde officiel (+0,1 %) est la bonne mesure ; verdict maintenu | qui_a_raison=concordant
+V5-B1-04 | L7 | M2p2=exact | p2=exact | Un excédent minuscule
+    trouvé: +0,1 % du PIB, 0,2 Md€
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-05 | L7 | M2p2=trop général | p2=imprécis | L'année suivante, la récession qui suit le premier choc pétrolier fait plonger les comptes
+    trouvé: PIB 1975 : -0,9 % (Eurostat) / -0,95 % (Insee base 2014) ; solde 1974 +0,1 → 1975 -2,9 % du PIB
+    motif1: Coïncidence datée exacte ; la part du plan de relance de 1975 dans la dégradation n'est pas isolée (cause plausible non isolée)
+    motif2: La V5 attribue la plongée de 1975 à la seule récession ; les plans de relance votés pèsent autant (budget de l'État ; part pour l'ensemble des APU non établie) | qui_a_raison=cellule
+V5-B1-06 | L7 | M2p2=exact | p2=exact | Et depuis, chaque année, sans exception, ils sont dans le rouge. 51 années de suite
+    trouvé: 51/51
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-07 | L7 | M2p2=exact | p2=exact | Gauche, droite, centre : aucun gouvernement n'a ramené les comptes à l'équilibre
+    trouvé: aucun solde ≥ 0 de 1975 à 2025
+    motif1: Vrai pour les APU (S13) ; le meilleur solde est -1,3 % en 2000
+    motif2: Erreur d'A18 en passe 1 : le motif disait « meilleur solde -1,3 % en 2000 » ; c'est -0,4 % en 1980. Verdict inchangé | qui_a_raison=orchestrateur
+V5-B1-08 | L9 | M2p2=exact | p2=exact | Le 4 novembre, les députés ont voté sur la partie recettes du budget 2027
+    trouvé: Scrutin n° 9759 sur la première partie du PLF 2027 (1re lecture), 2e séance du mercredi 4 novembre 2026
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-09 | L9 | M2p2=exact | p2=exact | 458 voix contre. Zéro pour
+    trouvé: 460 votants, 458 exprimés, 0 pour, 458 contre
+    motif1: Deux abstentions (460 votants)
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-10 | L9 | M2p2=non démontré | p2=imprécis | À force d'être modifié par chaque camp, le texte ne convenait plus à personne
+    trouvé: Explications de vote hétérogènes : rejet de principe (oppositions), « budget mosaïque » (LIOT), dégradation à 5,9 % (gouvernement, rapporteur)
+    motif1: Motif collectif inféré ; certains groupes rejetaient aussi la version initiale
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-11 | L11 | M2p2=exact | p2=exact sous condition | Cette année, rien que les intérêts de notre dette coûtent plus de 1 100 euros par habitant
+    trouvé: 2026 (prévision) : 79,2 Md€ / 69,1 M hab. = 1 146 € ; 2025 (réalisé) : 65,7 Md€ ≈ 953 €
+    motif1: Vrai sur la prévision 2026 des APU ; pas sur le réalisé 2025 (953 €) ni sur la seule charge de l'État
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-12 | L11 | M2p2=exact | p2=exact sous condition | Et aujourd'hui, la France emprunte plus cher que l'Italie
+    trouvé: Taux de long terme (convergence) moyenne d'octobre 2026 : FR 4,89 %, IT 4,68 % ; sept. 4,44 vs 4,36 ; août 4,00 vs 3,99
+    motif1: Vrai en moyenne mensuelle d'octobre ; donnée de novembre non disponible le 20/11/2026
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-13 | L13 | M2p2=exact | p2=exact sous condition | Un pays riche. Qui prélève plus que tous ses voisins
+    trouvé: 2025 : FR 46,0 ; BE 44,7 ; IT 43,0 ; autres voisins UE plus bas
+    motif1: Vrai en 2025 ; faux en 2024 (Belgique)
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-14 | L13 | M2p2=exact | p2=exact | Et qui connaît son problème depuis des décennies
+    trouvé: Rapport Pébereau 2005 (« Rompre avec la facilité de la dette publique ») ; déclaration Fillon 2007
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-15 | L15 | M2p2=exact | p2=exact | une note interne de Bercy qui recommandait de ne pas communiquer un chiffre
+    trouvé: Note DG Trésor + DB du 7/12/2023 : 5,2 % au lieu de 4,9 %, « recommande de ne pas communiquer sur ce chiffre, encore entouré de nombreux aléas »
+    motif1: Note elle-même non consultée : lue via le Sénat
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-16 | L17 | M2p2=exact | p2=exact sous condition | un pays dont le déficit était deux fois plus profond que le nôtre
+    trouvé: Suède 1993 : -10,7 % (OCDE, millésime actuel) ; « 12 % au pire » (Reuters 2025) ; France 2025 : -5,1 % → rapport 2,1 (2,35 avec 12 %)
+    motif1: Comparaison 1993 (Suède) / 2025 (France) ; vrai quel que soit le millésime
+    motif2: Exact en solde publié ; le pic comprend une dépense ponctuelle de sauvetage bancaire (≈3 pts selon Astra, non relu par A18) | qui_a_raison=partagé
+V5-B1-17 | L17 | M2p2=exact | p2=exact | Il s'en est sorti en cinq ans
+    trouvé: Solde suédois 1998 : +0,8 % (Eurostat, OCDE) ; « budget surplus for the first time in eight years » (programme de convergence 1998)
+    motif1: Retour à l'excédent ; la dette restait élevée
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-01 | L25 | M2p2=exact | p2=exact | 152 milliards d'euros. C'est ce qui a manqué à la France l'an dernier
+    trouvé: 2025 : 151,6 Md€ (tableau 3.201 et fig. 1 sous-secteurs, comptes de mai 2026) ; 152,5 Md€ (Insee Première 2106, fig. 3)
+    motif1: Écart de 0,9 Md€ entre deux publications Insee de 2026 (révision) ; 152 reste l'arrondi correct
+    motif2: Correction de la date de millésime dans la passe 1 | qui_a_raison=cellule (date)
+V5-B2-02 | L25 | M2p2=exact | p2=exact | Sur 100 euros dépensés par l'État, la Sécurité sociale et les collectivités, 9 ont été empruntés
+    trouvé: 151,6 / 1 714,1 = 8,8 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-03 | L25 | M2p2=exact | p2=exact | Plus de 400 millions d'euros. Chaque jour
+    trouvé: 415 M€/jour (418 avec IP2106)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-04 | L27 | M2p2=exact | p2=exact | 1975 : la récession après le choc pétrolier
+    trouvé: PIB -0,9 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-05 | L27 | M2p2=exact | p2=exact | 1993 : une autre récession
+    trouvé: PIB -0,4 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-06 | L27 | M2p2=exact | p2=exact | 2009 : la crise financière
+    trouvé: PIB -2,8 % ; solde -7,4 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-07 | L27 | M2p2=non vérifié | p2=non vérifiable à ce jour | 2020 : le Covid. « Quoi qu'il en coûte »
+    trouvé: Formule non relue dans une pièce primaire pendant la mission
+    motif1: Citation non attribuée dans la V5 ; aucune pièce consultée
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-08 | L27 | M2p2=exact | p2=exact | 207 milliards de déficit en une seule année, le record
+    trouvé: 2020 : 207,1 Md€ ; record en Md€ courants et en % du PIB (8,9 %)
+    motif1: Record en euros courants ; en % du PIB aussi (8,9 % > 7,4 % en 2009)
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-09 | L29 | M2p2=exact | p2=exact | En 2000, la croissance dépasse 4 %
+    trouvé: +4,1 %
+    motif1: Chiffre sensible au millésime (base 2020)
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-10 | L29 | M2p2=exact | p2=exact sous condition | Les impôts rentrent tellement mieux que prévu qu'on parle d'une « cagnotte »
+    trouvé: Surplus de recettes 51,4 MdF (35,6 MdF fiscales + 15,4 non fiscales) dans le PLFR 2000
+    motif1: Le surplus est attesté ; le mot « cagnotte » n'apparaît pas dans la pièce lue ; 15,4 MdF sont des recettes non fiscales reportées, pas des impôts
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-11 | L29 | M2p2=exact | p2=exact | La courbe remonte… et s'arrête sous la ligne
+    trouvé: 2000 : -1,3 % (meilleur solde de 1975-2025)
+    motif1: 
+    motif2: Le motif de passe 1 (« meilleur solde de 1975-2025 » pour 2000) est faux ; 2000 est le meilleur solde depuis 1981 | qui_a_raison=orchestrateur
+V5-B2-12 | L31 | M2p2=exact | p2=exact | Même chose en 2018
+    trouvé: 2018 : -2,3 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-13 | L31 | M2p2=exact | p2=exact | Et l'an dernier, sans aucune crise, il manquait encore l'équivalent de 5 % de toute la richesse produite
+    trouvé: -5,1 % ; PIB 2025 +0,8 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-14 | L33 | M2p2=exact | p2=exact | Un État n'a pas besoin d'être à zéro : il peut rester en déficit tant que sa dette grossit moins vite que son économie
+    trouvé: Identité : le ratio dette/PIB baisse si la dette croît moins vite que le PIB nominal
+    motif1: Identité comptable correcte (PIB nominal)
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-15 | L33 | M2p2=exact | p2=exact | l'an dernier, notre dette a grossi plus de deux fois plus vite que notre économie
+    trouvé: Dette +4,66 % (3 306,1 → 3 460,5 Md€) ; PIB nominal implicite +1,85 % ; rapport 2,5
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B2-16 | L35 | M2p2=non démontré | p2=non vérifiable à ce jour | Le trou n'est pas un accident. Il est dans la machine elle-même
+    trouvé: Énoncé de jugement ; aucun test
+    motif1: Jugement présenté comme conclusion (catégorie « jugement »)
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-01 | L41 | M2p2=exact | p2=exact | Cette année-là [1974], nos dépenses publiques et nos recettes pèsent chacune 41 % de la richesse produite. Elles s'équilibrent
+    trouvé: Dépenses 41,3 % ; recettes 41,4 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-02 | L41 | M2p2=exact | p2=exact | Aujourd'hui, les recettes sont à 52 %
+    trouvé: 2025 : 52,2 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-03 | L41 | M2p2=exact | p2=exact | Mais les dépenses, elles, sont à 57 %
+    trouvé: 2025 : 57,3 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-04 | L41 | M2p2=exact | p2=exact | En 51 ans, les recettes ont pris 11 points. Les dépenses, 16
+    trouvé: +10,8 / +16,0 points (1974 → 2025)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-05 | L41 | M2p2=exact | p2=exact | Le trou d'aujourd'hui, c'est cette différence
+    trouvé: 16,0 - 10,8 = 5,2 ≈ déficit 5,1
+    motif1: Identité comptable (1974 équilibré), pas une explication causale
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-06 | L43 | M2p2=exact | p2=exact sous condition | presque toute cette hausse des dépenses s'est faite en vingt ans : dès 1993, elles sont déjà à 56 %
+    trouvé: 1993 : 56,5 % ; 95 % de la hausse 1974-2025 acquise en 1993 ; mais 1990 : 51,6 %
+    motif1: 1993 est une année de récession (pic conjoncturel du ratio) ; avant la récession (1990) le ratio était de 51,6 %
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-07 | L43 | M2p2=exact | p2=exact sous condition | Depuis trente ans, elles tournent autour de ce niveau
+    trouvé: Moyenne 1994-2025 : 56,2 % ; min 52,6 (2000) ; max 61,7 (2020)
+    motif1: Amplitude de 9 points autour de la moyenne
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-08 | L45 | M2p2=exact | p2=exact | En 1974, la France sort de quinze ans de croissance à plus de 5 % par an
+    trouvé: 1960-1974 : 5,7 %/an (moyenne géométrique)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-09 | L45 | M2p2=non démontré | p2=non vérifiable à ce jour | Ses retraites, sa santé, ses allocations ont été bâties sur ce rythme
+    trouvé: Aucune pièce consultée
+    motif1: Interprétation historique non étayée dans la V5
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-10 | L45 | M2p2=exact | p2=exact | Puis vient le choc pétrolier : la croissance tombe autour de 2 %
+    trouvé: 1975-1985 : 2,2 %/an (Eurostat et Insee)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-11 | L45 | M2p2=non démontré | p2=non vérifiable à ce jour | Les droits, eux, continuent sur leur lancée
+    trouvé: Aucune mesure des « droits » dans la V5 ni dans les pièces consultées
+    motif1: 
+    motif2:  | qui_a_raison=non tranché
+V5-B3-12 | L45 | M2p2=exact | p2=exact | Le chômage de masse s'installe
+    trouvé: Taux de chômage 1974 : 2,5 % → 1985 : 9,1 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-13 | L45 | M2p2=exact | p2=exact | En 1982, on décide la retraite à 60 ans
+    trouvé: Ordonnance n° 82-270 du 26 mars 1982 relative à l'abaissement de l'âge de la retraite
+    motif1: Entrée en vigueur au 1er avril 1983 (non relue dans la pièce)
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-14 | L45 | M2p2=exact | p2=exact sous condition | Pendant dix ans, on monte les impôts et les cotisations pour suivre
+    trouvé: Recettes totales 41,4 % (1974) → 51,2 % (1985) : +9,7 points
+    motif1: Mesuré en recettes totales, non en prélèvements obligatoires ; « pour suivre » est une interprétation
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-15 | L45 | M2p2=exact | p2=exact sous condition | Vers 1985, ils plafonnent : en quarante ans, les recettes n'ont pris qu'un point de plus. Les dépenses, trois
+    trouvé: 1985 → 2025 : recettes +1,1 point (51,2 → 52,2) ; dépenses +3,1 (54,2 → 57,3) ; recettes entre 49,1 (1989) et 54,3 (2017)
+    motif1: Comparaison de deux points : les recettes ont varié de 5 points entre-temps (« plafonnent » à nuancer)
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-16 | L45 | M2p2=exact | p2=exact sous condition | en 1993, la moitié du trou, ce sont déjà les intérêts des trous d'avant
+    trouvé: Intérêts D41 consolidés 36,6 Md€ / besoin de financement 72,6 Md€ = 50,4 % ; intérêts nets des intérêts reçus : 42 %
+    motif1: Vrai en intérêts bruts versés ; 42 % en intérêts nets
+    motif2:  | qui_a_raison=concordant (nuance)
+V5-B3-17 | L49 | M2p2=exact | p2=exact | Premier arrêt : la retraite. 24 euros. Un sur quatre
+    trouvé: COR : dépenses de retraite 422 Md€ = 24,3 % des dépenses publiques en 2025 ; COFOG vieillesse (GF1002) 2024 : 23,4 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-18 | L49 | M2p2=exact | p2=exact | la santé ... Puis les allocations ... À elles trois, plus de la moitié de la dépense
+    trouvé: Protection sociale (GF10) 41,4 % + santé (GF07) 15,5 % = 56,9 % de la dépense 2024
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-19 | L49 | M2p2=trop général | p2=imprécis | L'école, l'armée, la police, la justice, les routes et les ministères se partagent le reste
+    trouvé: Le reste (43 %) comprend aussi : affaires économiques 9,9 % (subventions, transports), intérêts 3,5 %, logement-environnement, culture
+    motif1: Énumération incomplète : les intérêts et les aides économiques sont omis
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-20 | L49 | M2p2=exact | p2=exact | Le cœur de la dépense, ce n'est pas le train de vie de l'État. C'est la protection sociale
+    trouvé: GF10 = 41,4 % ; GF10 + GF07 = 56,9 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-21 | L51 | M2p2=exact | p2=exact sous condition | L'an dernier, la France a dépensé 7 points et demi de richesse de plus que cette moyenne [zone euro]
+    trouvé: 2025 : 57,3 vs 49,8 (ZE20 y compris la France) = 7,5 ; vs ZE hors France : 9,3
+    motif1: Moyenne incluant la France (poids ≈ 18 %) ; hors France l'écart est 9,3 points
+    motif2: Écart de 0,1 dû au dénominateur | qui_a_raison=concordant
+V5-B3-22 | L51 | M2p2=exact | p2=trompeur par périmètre ou juxtaposition | Près des deux tiers de cet écart, c'est la protection sociale et la santé, et d'abord la vieillesse
+    trouvé: COFOG 2024 : (GF10+GF07) 5,2 / 8,1 = 64 % (65 % vs ZE hors France) ; vieillesse +2,5 pts, premier poste
+    motif1: Part juste mais calculée sur l'écart COFOG 2024 (8,1 pts, total 57,3) alors que « cet écart » désigne l'écart 2025 (7,5) ; la conclusion ne change pas
+    motif2: Le « près des deux tiers » de la V5 tient (64-65 %) ; le chiffre de 8,1 cité en passe 1 doit être remplacé par 7,7-7,8 | qui_a_raison=cellule contre Astra (et contre la passe 1 d'A18 sur le chiffre 8,1)
+V5-B3-23 | L51 | M2p2=inexact | p2=imprécis | Elle a prélevé plus aussi : un peu plus de 5 points
+    trouvé: Recettes totales 52,2 vs 46,8 = 5,4 ; prélèvements obligatoires 46,0 vs 41,3 = 4,7
+    motif1: Vrai en recettes totales ; en prélèvements obligatoires l'écart est sous 5 points
+    motif2: La V5 emploie « prélever » au sens d'impôts et cotisations (B1, l.5) : sur ce périmètre l'écart est inférieur à 5 points. A18 avait accepté la lecture « recettes totales » en passe 1 | qui_a_raison=cellule
+V5-B3-24 | L51 | M2p2=exact | p2=exact | Les 2 points qui manquent, c'est exactement l'écart entre notre déficit et celui de la zone euro
+    trouvé: Solde FR -5,1 vs ZE -3,0 = 2,1
+    motif1: Identité comptable
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-25 | L53 | M2p2=exact | p2=exact | En 2002, il y avait 2,1 cotisants pour un retraité
+    trouvé: 2,1 en 2002
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-26 | L53 | M2p2=exact | p2=exact | Les enfants du baby-boom sont arrivés à la retraite
+    trouvé: « en particulier sous l'effet du vieillissement des générations du baby-boom »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-27 | L53 | M2p2=exact | p2=exact | Aujourd'hui, on n'en est plus qu'à 1,8
+    trouvé: 1,8 en 2025
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-28 | L53 | M2p2=exact | p2=exact | En 2070, d'après le COR, environ 1,3
+    trouvé: 1,3 dans le scénario de référence
+    motif1: Projection
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-29 | L53 | M2p2=exact | p2=exact sous condition | Si tu as trente ans aujourd'hui, c'est pendant ta retraite qu'on en sera là
+    trouvé: Né en 1996 : départ vers 2060-2063 ; ratio 1,3 donné pour 2070
+    motif1: Approximation acceptable
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-30 | L55 | M2p2=exact | p2=exact | D'après la Cour des comptes, les baisses d'impôts décidées depuis 2018 coûtaient 62 milliards en 2023, sans économies en face
+    trouvé: « impact estimé à 62 Md€ en 2023, soit 2,2 pts de PIB » ; « Ces baisses de prélèvements, non compensées par des économies en dépenses »
+    motif1: Pièce de la Cour lue via un tiers (vie-publique, archive)
+    motif2: Exact comme attribution à la Cour ; la Cour n'expose pas le calcul | qui_a_raison=concordant (nuance)
+V5-B3-31 | L55 | M2p2=exact | p2=exact | Baisser les impôts sans baisser les dépenses, c'est emprunter la différence
+    trouvé: Identité comptable toutes choses égales
+    motif1: Identité ; ignore l'effet sur l'assiette
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-32 | L57 | M2p2=exact | p2=exact sous condition | Tout combler par l'impôt, ce serait 150 milliards de prélèvements en plus : aucun pays de l'Union ne prélève autant
+    trouvé: 46,0 + 5,1 = 51,1 % ; maximum ailleurs : BE 44,7 %
+    motif1: Calcul statique, sans effet de comportement ni de croissance
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-33 | L57 | M2p2=exact | p2=exact sous condition | Tout combler par la dépense nous laisserait encore au-dessus de la moyenne de la zone euro
+    trouvé: 57,3 - 5,1 = 52,2 % vs 49,8 %
+    motif1: Statique
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-34 | L57 | M2p2=non démontré | p2=non vérifiable à ce jour | Avec les prélèvements les plus élevés de l'Union, la France ne refermera pas son déficit sans toucher à la dépense
+    trouvé: Prescription ; dépend d'hypothèses non exposées (élasticités, croissance)
+    motif1: Jugement présenté comme conséquence logique
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-35 | L59 | M2p2=exact | p2=exact | Or elle monte par marches
+    trouvé: Dette/PIB : 65,5 (2007) → 91,7 (2012) → 98,2 (2019) → 114,9 (2020) → 109,5 (2023) → 115,7 (2025)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-36 | L59 | M2p2=non démontré | p2=non vérifiable à ce jour | Si c'était seulement ça [un modèle trop cher], elle monterait doucement, régulièrement
+    trouvé: Contrefactuel non testé
+    motif1: Un déficit structurel combiné à des récessions produit aussi des marches
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B3-37 | L59 | M2p2=trop général | p2=imprécis | Comme si, à chaque crise, quelque chose l'empêchait de redescendre
+    trouvé: Le ratio a baissé : 62,1 (1998) → 59,3 (2001) ; 68,2 (2005) → 65,4 (2006) ; 114,9 (2020) → 109,5 (2023), sans revenir au niveau d'avant crise
+    motif1: Il redescend en partie après chaque crise, jamais jusqu'au point de départ
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-01 | L65 | M2p2=exact | p2=exact sous condition | « Je suis à la tête d'un État qui est en situation de faillite sur le plan financier. »
+    trouvé: Mot pour mot dans la dépêche AFP du 22/09/2007 : « Je suis à la tête d'un Etat qui est en situation de faillite sur le plan financier, (…) »
+    motif1: Lue via une reprise de dépêche ; aucun enregistrement ni texte officiel consulté
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-02 | L65 | M2p2=exact | p2=exact | Septembre 2007. C'est le Premier ministre qui parle
+    trouvé: « a déclaré vendredi en Corse le chef du gouvernement » (vendredi 21/09/2007)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-03 | L65 | M2p2=exact | p2=exact | À ce moment-là, notre dette représente 8 mois de toute la production du pays
+    trouvé: 2007 : 65,5 % du PIB = 7,9 mois (64,2 % selon l'AFP en 2007)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-04 | L65 | M2p2=exact | p2=exact | Aujourd'hui : près de 14
+    trouvé: 2025 : 115,7 % = 13,9 mois
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-05 | L67 | M2p2=non démontré | p2=non vérifiable à ce jour | Notre dette fonctionne comme ça [une clé à cliquet]
+    trouvé: Métaphore d'un mécanisme non testé
+    motif1: Cause plausible non isolée
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-06 | L69 | M2p2=exact | p2=exact sous condition | 2008 : la crise financière. Les recettes chutent, l'État lance un plan de relance
+    trouvé: Recettes APU 1 010,5 Md€ (2008) → 979,8 (2009), -3 % ; plan de relance non relu dans une pièce
+    motif1: Plan de relance non vérifié dans une pièce
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-07 | L69 | M2p2=exact | p2=exact | En cinq ans, la dette gagne l'équivalent de trois mois de production
+    trouvé: 2007 → 2012 : 65,5 → 91,7 % = +3,1 mois
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-08 | L69 | M2p2=exact | p2=exact | La dette ne redescend pas : de 2012 à 2019, sans récession, elle continue même de monter un peu
+    trouvé: 91,7 → 98,2 % (+0,8 mois) ; croissance positive chaque année 2012-2019 (0,2 à 2,1 %)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-09 | L71 | M2p2=exact | p2=exact | 2020 : le Covid ... La dette prend encore deux mois de production
+    trouvé: 98,2 → 114,9 % = +2,0 mois
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-10 | L71 | M2p2=exact | p2=exact sous condition | Puis viennent les boucliers sur l'énergie : 36 milliards nets de 2021 à 2024
+    trouvé: « besoin de financement net de l'État atteignant 36 Md€ sur les années 2021 à 2024 » ; « de plus de 36 Md€ »
+    motif1: Coût net pour l'État seul ; 2024 estimé en mars 2024
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-11 | L71 | M2p2=exact | p2=exact sous condition | des aides « sans ciblage particulier », note la Cour des comptes
+    trouvé: « boucliers et remises – qui soutiennent les consommations d'énergie des ménages sans ciblage particulier ni limite en volumes » ; la Cour ajoute que c'est « nettement moins » critiquable pour l'électricité
+    motif1: Citation exacte mais tronquée ; nuance de la Cour sur l'électricité omise
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-12 | L75 | M2p2=exact | p2=exact sous condition | En mars [2000], le gouvernement chiffre le surplus de recettes à 50 milliards de francs
+    trouvé: PLFR 2000 : 51,4 MdF de surplus (35,6 fiscales + 15,4 non fiscales reportées)
+    motif1: Montant exact à l'arrondi ; le mois de mars n'est pas confirmé par la pièce lue
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-13 | L75 | M2p2=exact | p2=exact sous condition | Une partie sert à baisser les impôts : la TVA perd un point
+    trouvé: Article 2 du PLFR 2000 : baisse d'un point du taux normal ; 40,6 MdF (80 %) en baisses d'impôts, 10 MdF en dépenses, 49 MF de baisse du déficit
+    motif1: « Une partie » minore : 80 % du surplus va aux baisses d'impôts, le reste à des dépenses
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-14 | L75 | M2p2=exact | p2=exact | Ça n'aurait pas suffi à refermer le trou
+    trouvé: 51,4 MdF = 7,8 Md€ ≈ 0,5 % du PIB, pour un déficit 2000 de 1,3 % du PIB
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-15 | L75 | M2p2=exact | p2=exact | Le déficit, lui, reste là
+    trouvé: Baisse du déficit prévue par le PLFR : 49 MF
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-16 | L77 | M2p2=exact | p2=exact sous condition | Août 2007. Une nouvelle majorité, et sa loi phare de l'été baisse plusieurs impôts
+    trouvé: Loi n° 2007-1223 du 21 août 2007 en faveur du travail, de l'emploi et du pouvoir d'achat (JO du 22/08/2007)
+    motif1: Contenu fiscal de la loi non relu article par article
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-17 | L77 | M2p2=exact | p2=exact | Un mois plus tard, c'est son Premier ministre qui parle de faillite
+    trouvé: 21/08/2007 → 21/09/2007
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-18 | L79 | M2p2=trop général | p2=imprécis | Deux majorités opposées, le même réflexe
+    trouvé: Deux cas (2000, 2007)
+    motif1: Généralisation à partir de deux cas
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-19 | L79 | M2p2=inexact | p2=faux | retirer une aide, c'est la reprendre à quelqu'un ... Alors l'aide dure, la baisse reste
+    trouvé: Mécanisme d'économie politique non testé ; contre-exemples dans la V5 elle-même (fin des boucliers)
+    motif1: 
+    motif2: « L'aide dure » est contredit pour les aides de crise : elles ont été retirées en deux ans ; la phrase reste vraie pour la dette accumulée (B4-20) | qui_a_raison=cellule
+V5-B4-20 | L79 | M2p2=exact | p2=exact | Et même quand l'aide finit par s'arrêter, la dette qui l'a payée, elle, ne repart pas
+    trouvé: Identité : la dette ne baisse qu'avec des excédents
+    motif1: Identité comptable
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-21 | L81 | M2p2=exact | p2=exact sous condition | De 2014 à 2019, [l'Allemagne] dégage un excédent chaque année. Six années de suite
+    trouvé: Excédents 2014-2019 (0,7 à 1,9 %) ; déjà +0,1 % en 2013 : sept années de suite
+    motif1: La série excédentaire commence en 2013
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-22 | L81 | M2p2=inexact | p2=imprécis | Sa dette passe de près de 10 mois de production à 7
+    trouvé: Fin 2013 : 77,4 % = 9,3 mois ; fin 2014 : 74,4 % = 8,9 ; 2019 : 58,3 % = 7,0
+    motif1: « Près de 10 » surestime (9,3 ou 8,9 selon le point de départ)
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-23 | L81 | M2p2=exact | p2=exact | La France, sur ces six années ? Pas un seul excédent
+    trouvé: Soldes FR 2014-2019 : -4,6 à -2,3 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-24 | L81 | M2p2=exact | p2=exact | un frein à l'endettement inscrit dans sa Constitution en 2009
+    trouvé: Bundesrat : approbation de la révision de la Loi fondamentale le 12 juin 2009
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-25 | L81 | M2p2=exact | p2=exact | et elle a profité de taux très bas
+    trouvé: Taux à 10 ans DE : 1,76 % (janv. 2014) ; -0,15 % (juil. 2016) ; -0,65 % (août 2019)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-26 | L81 | M2p2=exact | p2=exact sous condition | des économistes allemands lui reprochent des investissements repoussés
+    trouvé: Débat publié : « Schuldenbremse – Investitionshemmnis oder Vorbild für Europa? » (Wirtschaftsdienst, 2019)
+    motif1: Débat contradictoire, pas un consensus
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-27 | L81 | M2p2=exact | p2=exact | et en 2025, l'Allemagne l'a assoupli
+    trouvé: Réforme du frein à l'endettement par révision constitutionnelle votée le 18 mars 2025 (défense, fonds spécial de 500 Md€, Länder)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-28 | L83 | M2p2=exact | p2=exact | Chez nous, la roue avance à chaque crise et ne revient jamais à son point de départ
+    trouvé: Le ratio n'est jamais revenu au niveau d'avant crise (1993, 2008, 2020)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-29 | L83 | M2p2=exact | p2=exact | Décembre 2023 : une loi promet un déficit ramené à 2,7 % en 2027
+    trouvé: LPFP 2023-2027 promulguée le 18/12/2023 ; cible 2027 : 2,7 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-30 | L83 | M2p2=exact | p2=exact | Le budget 2027 vise… 5 %
+    trouvé: PLF 2027 : solde public -5,0 % en 2027 ; « 5 % du produit intérieur brut avec la version initiale »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-31 | L85 | M2p2=exact | p2=exact | Le 7 décembre 2023, une note interne alerte : le déficit de l'année ne serait pas de 4,9 %, comme prévu, mais de 5,2
+    trouvé: Note DG Trésor + DB du 7/12/2023 : 5,2 % « contre 4,9 % prévus »
+    motif1: Note lue via le Sénat
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-32 | L85 | M2p2=exact | p2=exact | Elle recommande de ne pas communiquer sur ce chiffre, encore trop incertain
+    trouvé: « recommande de ne pas communiquer sur ce chiffre, encore entouré de nombreux aléas »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-33 | L85 | M2p2=exact | p2=exact | Le Parlement, qui vote alors le budget suivant, n'en est pas informé
+    trouvé: « aucune information n'a à l'époque été donnée ni au Parlement, ni aux Français »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-34 | L85 | M2p2=inexact | p2=imprécis | Onze jours plus tard, la loi des 2,7 %, votée en novembre sur les anciens chiffres, est promulguée telle quelle
+    trouvé: Promulgation 18/12/2023 (11 jours) ; adoption en lecture définitive par engagement de responsabilité (art. 49.3), Conseil constitutionnel saisi le 16/11/2023, décision 2023-857 DC du 14/12/2023
+    motif1: Texte adopté sans vote sur le fond (49.3) avant le 16 novembre ; « votée » est impropre
+    motif2: La date de la cellule est compatible (saisine le 16/11) ; « votée » reste impropre | qui_a_raison=A18 (précision non relevée par la cellule)
+V5-B4-35 | L85 | M2p2=exact | p2=exact sous condition | C'est le Sénat qui a tout reconstitué
+    trouvé: Mission d'information de la commission des finances du Sénat (rapport n° 153, 2024-2025)
+    motif1: D'autres enquêtes parlementaires existent (AN) ; « tout » est un raccourci
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-36 | L85 | M2p2=exact | p2=exact | Le ministre de l'époque a répondu que cette note ne justifiait pas de corriger le budget
+    trouvé: B. Le Maire et T. Cazenave : « aucun ajustement sur le PLF 2024 ne pouvait être envisagé sur la base de la note du 7 décembre 2023 »
+    motif1: Deux ministres ; le Sénat juge l'argument « factuellement faux » pour 2024
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-37 | L85 | M2p2=exact | p2=exact | Au final, ce sera pire que la note : 5,4 %
+    trouvé: Solde 2023 : -5,4 % (base 2020 actuelle ; 5,5 % à la première publication de mars 2024)
+    motif1: Chiffre révisé depuis la première estimation
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-38 | L87 | M2p2=exact | p2=exact | Aujourd'hui, la promesse a seulement changé de date : repasser sous les 3 % en 2029
+    trouvé: « Le Gouvernement a indiqué qu'au-delà de 2027, il est toujours prévu de ramener le déficit sous 3 % du PIB en 2029 »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B4-39 | L87 | M2p2=inexact | p2=imprécis | Pour le HCFP, cet objectif « semble peu plausible »
+    trouvé: Avis 2026-5 : « rendent très peu vraisemblable sa concrétisation, sauf évolutions conjoncturelles très favorables » ; « peu plausible » absent de l'avis
+    motif1: Citation non conforme à l'avis sur le budget 2027 (sens proche, plus sévère) ; autres avis 2026 non consultés (archive HCFP hors service)
+    motif2: Guillemets non conformes ; confusion possible avec la Cour (2024) | qui_a_raison=concordant
+V5-B4-40 | L89 | M2p2=exact | p2=exact | Dès 2005, un rapport remis au gouvernement s'intitulait déjà : « Rompre avec la facilité de la dette publique »
+    trouvé: Commission présidée par Michel Pébereau, « Rompre avec la facilité de la dette publique. Pour des finances publiques au service de notre croissance économique et de notre cohésion sociale », La Documentation française, 2005
+    motif1: Rapport lui-même non téléchargé (PDF tronqué)
+    motif2: PDF original tronqué | qui_a_raison=A18 (source secondaire officielle)
+V5-B5-01 | L99 | M2p2=exact | p2=exact | Mars 2023. Le gouvernement veut repousser l'âge de la retraite de 62 à 64 ans
+    trouvé: Âge légal de 62 à 64 ans à partir du 1er septembre 2023
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-02 | L99 | M2p2=exact | p2=exact | La retraite : ... le poste le plus lourd de la dépense publique
+    trouvé: Vieillesse (GF1002) 23,4 % de la dépense 2024, premier groupe COFOG
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-03 | L101 | M2p2=exact | p2=exact | Dès septembre, ceux qui comptaient partir à l'automne doivent attendre
+    trouvé: Entrée en vigueur au 1er septembre 2023
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-04 | L101 | M2p2=exact | p2=exact | D'après la Cour des comptes, la réforme commence même par coûter, à cause des mesures qui l'accompagnent
+    trouvé: « se traduit d'abord par un surcoût en 2024 en raison des mesures d'accompagnement de la réforme »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-05 | L101 | M2p2=exact | p2=exact sous condition | Son gain n'atteint une dizaine de milliards par an qu'en 2030
+    trouvé: « estimés autour de 10 Md€, à horizon 2030 » (système de retraite) ; + 8 à 14 Md€ pour les autres APU
+    motif1: Périmètre retraite seul ; effet sur l'ensemble des APU plus large
+    motif2: Périmètre retraite seul | qui_a_raison=concordant
+V5-B5-06 | L101 | M2p2=exact | p2=exact sous condition | Le bénéfice plein, sept ans plus tard. Après la prochaine élection
+    trouvé: Effet maximal sur le nombre de retraités en 2032 selon la Cour
+    motif1: « Plein » approximatif (pic en 2032)
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-07 | L103 | M2p2=exact | p2=exact | la Première ministre fait passer la réforme sans vote, avec le 49.3
+    trouvé: « en annonçant votre onzième 49.3 sur cette réforme des retraites » (jeudi 16/03/2023)
+    motif1: Le motif « faute d'être sûre d'avoir les voix » n'est pas vérifié
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-08 | L103 | M2p2=exact | p2=exact | Quatre jours plus tard, son gouvernement échappe à la censure. À neuf voix
+    trouvé: 20/03/2023 : majorité requise 287, pour 278 → 9 voix ; scrutin n° 1240
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-09 | L105 | M2p2=exact | p2=exact sous condition | Un an plus tard, en juin 2024, l'Assemblée est dissoute
+    trouvé: Dissolution de juin 2024 évoquée par le Sénat (« le pari de la dissolution ») ; décret non consulté
+    motif1: 15 mois après mars 2023 ; décret non relu
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-10 | L105 | M2p2=exact | p2=exact sous condition | Depuis, aucun camp n'a la majorité
+    trouvé: « sans majorité absolue » (Premier ministre, 14/10/2025) ; motions et votes 2024-2026
+    motif1: Répartition des sièges non relue
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-11 | L109 | M2p2=exact | p2=exact | Michel Barnier, passe en force : 49.3 sur un budget de la Sécurité sociale qui réduit et retarde la hausse des pensions
+    trouvé: Engagement de responsabilité sur l'ensemble du PLFSS 2025 (CMP) ; motion : « désindexation partielle et différée des pensions de retraites »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-12 | L109 | M2p2=exact | p2=exact | Le 4 décembre 2024, des députés que tout oppose votent la même motion de censure
+    trouvé: Scrutin 519 : 331 voix pour, motion adoptée (NFP et RN)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-13 | L109 | M2p2=exact | p2=exact | elle lui reproche, entre autres, de faire payer les retraités
+    trouvé: « taxation des retraités par la désindexation partielle et différée des pensions »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-14 | L109 | M2p2=exact | p2=exact | Pour la première fois depuis 1962, les députés renversent un gouvernement
+    trouvé: « le seul premier ministre à être censuré depuis Georges Pompidou en 1962 » ; motion du 5 octobre 1962
+    motif1: 
+    motif2:  | qui_a_raison=A18 (pièce trouvée)
+V5-B5-15 | L111 | M2p2=exact | p2=exact sous condition | Son plan : près de 44 milliards d'euros d'effort
+    trouvé: « Effort total 43,8 milliards d'euros en intégrant l'objectif de la loi de programmation militaire actualisée »
+    motif1: L'effort inclut le financement de la hausse militaire
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-16 | L111 | M2p2=exact | p2=exact | dont une « année blanche » où les pensions et les allocations ne suivent plus les prix
+    trouvé: « En 2026, année blanche (7,1 milliards d'euros) » ; prestations et retraites non revalorisées
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-17 | L111 | M2p2=trop général | p2=imprécis | Il demande la confiance des députés, sur un discours consacré à un seul sujet : la dette
+    trouvé: Déclaration du 8/09/2025 centrée sur la dette et le surendettement mais traitant aussi production, éducation
+    motif1: Le discours n'est pas mono-thématique
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-18 | L111 | M2p2=exact | p2=exact | 364 voix contre
+    trouvé: 573 votants, 558 exprimés, 194 pour, 364 contre
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-19 | L111 | M2p2=exact | p2=exact | Neuf mois après Barnier, il tombe à son tour
+    trouvé: 4/12/2024 → 8/09/2025
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-20 | L113 | M2p2=exact | p2=exact sous condition | En octobre 2025, une partie de l'opposition fait de la suspension de la réforme des retraites la condition pour ne pas le renverser
+    trouvé: M. Vallaud (PS) : annonce « nécessaire pour commencer le débat budgétaire et éviter la censure immédiate »
+    motif1: Lecture d'une intervention ; pas de document d'accord
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-21 | L113 | M2p2=exact | p2=exact | Il la propose, jusqu'après la présidentielle
+    trouvé: « que nous suspendions la réforme de 2023 sur les retraites jusqu'à l'élection présidentielle » ; « jusqu'à janvier 2028 »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-22 | L113 | M2p2=exact | p2=exact | et promet de renoncer au 49.3
+    trouvé: « L'Assemblée voulait que je n'utilise pas le 49.3 : je m'y suis engagé »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-23 | L113 | M2p2=exact | p2=exact | Il n'est pas renversé
+    trouvé: 16/10/2025 : motions à 271 (n° 3058) et 144 voix (n° 3059), non adoptées
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-24 | L113 | M2p2=exact | p2=exact | En décembre, le budget de la Sécurité sociale est voté. Sans 49.3
+    trouvé: Scrutin 4758, lecture définitive du PLFSS 2026, 16/12/2025 : 247 pour, 232 contre
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-25 | L113 | M2p2=exact | p2=exact sous condition | Avec la suspension dedans
+    trouvé: COR 2026 : projections « en tenant compte de la suspension de la réforme des retraites de 2023 » (générations 1964 et début 1965)
+    motif1: Article de la LFSS 2026 non relu
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-26 | L115 | M2p2=exact | p2=exact | trois millions et demi de Français, d'après le Premier ministre
+    trouvé: « Cette suspension profitera, à terme, à 3,5 millions de Français »
+    motif1: Déclaration d'acteur
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-27 | L115 | M2p2=exact | p2=exact | La suspension coûtera près de 2 milliards d'euros à l'ensemble du système de retraite en 2027
+    trouvé: PM : 0,4 Md€ en 2026 et 1,8 Md€ en 2027 ; COR 2026 : 1,8 Md€ en moyenne en année pleine jusqu'en 2032 (Drees)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-28 | L117 | M2p2=non démontré | p2=non vérifiable à ce jour | pour survivre, le gouvernement a desserré le levier de la retraite, au lieu de le tirer
+    trouvé: Interprétation
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-29 | L119 | M2p2=exact | p2=exact | Barnier et Bayrou demandaient un effort, pensions comprises : ils sont tombés. Lecornu a suspendu la réforme : il est toujours en place
+    trouvé: Lecornu Premier ministre au 4/11/2026 (PLFG 2026 signé ce jour) ; chutes de 2024 et 2025 avérées
+    motif1: Faits exacts
+    motif2: Les faits sont exacts ; la causalité suggérée reste « non démontrée » (B5-30) | qui_a_raison=concordant
+V5-B5-30 | L119 | M2p2=non démontré | p2=trompeur par périmètre ou juxtaposition | [juxtaposition implicite] la suspension explique le maintien de Lecornu
+    trouvé: Autres facteurs non examinés (renonciation au 49.3 puis trois 49.3 en janvier-février 2026, compromis budgétaires)
+    motif1: Juxtaposition de deux cas suggérant une causalité
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-31 | L121 | M2p2=exact | p2=exact | Le budget de l'État, lui, ne passe qu'en février. Avec trois 49.3, malgré la promesse d'octobre
+    trouvé: 49.3 sur la 1re partie (motions rejetées 23/01/2026), sur la 2e partie et l'ensemble (27/01/2026), en lecture définitive (motions rejetées 2/02/2026)
+    motif1: 
+    motif2: Trois engagements de responsabilité attestés sur pièce primaire | qui_a_raison=A09 et A18 contre A03
+V5-B5-32 | L123 | M2p2=trop général | p2=imprécis | En séance, les députés réécrivent le budget : des taxes sont ajoutées, des efforts retirés, dont un qui touchait encore les retraités
+    trouvé: Ministre : baisse nette de 16 Md€ de prélèvements (suppression de la contribution exceptionnelle des grandes entreprises, annulation du plafonnement de l'abattement sur les pensions, baisses de TVA), « partiellement compensées » par deux taxes ; +8 Md€ vers le
+    motif1: Les taxes ajoutées sont minoritaires : la dégradation vient surtout de baisses d'impôts et de transferts
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-33 | L123 | M2p2=exact | p2=exact | d'après le ministre des Comptes publics, le déficit prévu n'est plus de 5 %, mais de 5,9
+    trouvé: « se serait élevé à 5 % ... À l'issue de l'examen de la première partie, il s'élèverait à 5,9 % »
+    motif1: Estimation sur un texte ensuite rejeté
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-34 | L123 | M2p2=exact | p2=exact | Comme en 2024, comme en 2025, la partie recettes est rejetée. Trois automnes de suite
+    trouvé: 12/11/2024 : 192 pour, 362 contre (n° 438) ; 21/11/2025 : 1 pour, 404 contre (n° 4241) ; 4/11/2026 : 0-458 (n° 9759)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-35 | L125 | M2p2=exact | p2=exact sous condition | On trouve une majorité pour retirer un effort. Pas pour voter le budget qui en résulte
+    trouvé: Cohérent avec les votes du 4/11/2026
+    motif1: Formule de synthèse
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-36 | L127 | M2p2=exact | p2=exact | Dans le rapport qui accompagne le budget 2027, le gouvernement maintient sa promesse : sous les 3 % en 2029
+    trouvé: RESF : objectif « retour du déficit sous 3 % du PIB en 2029 » (recommandation du Conseil) ; HCFP : « toujours prévu »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-37 | L127 | M2p2=exact | p2=exact | cette trajectoire « revêt un caractère conventionnel du fait des échéances électorales de 2027 »
+    trouvé: « Cette trajectoire pluriannuelle revêt un caractère conventionnel du fait des échéances électorales de 2027 »
+    motif1: Mot pour mot
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-38 | L127 | M2p2=exact | p2=exact | Ce sera au prochain gouvernement d'en écrire une autre
+    trouvé: « il appartiendra au prochain Gouvernement de définir une nouvelle trajectoire pluriannuelle après les élections »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-39 | L127 | M2p2=non démontré | p2=non vérifiable à ce jour | Comme la suspension des retraites : ce qui coûte des voix est renvoyé après l'élection
+    trouvé: Jugement
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-40 | L129 | M2p2=non vérifié | p2=non vérifiable à ce jour | Le 22 octobre, le taux auquel la France emprunte à dix ans a dépassé 5 %
+    trouvé: Moyenne d'octobre 2026 : 4,89 % (BCE) ; presse : passage au-dessus de 5 % le 21 ou le 22 octobre
+    motif1: Aucune série quotidienne officielle obtenue ; dates contradictoires dans la presse
+    motif2: Si les dépêches disent vrai, la date de la V5 est décalée d'un jour ; aucune série quotidienne officielle | qui_a_raison=concordant
+V5-B5-41 | L129 | M2p2=exact | p2=exact sous condition | Plus que l'Italie
+    trouvé: Octobre 2026 : 4,89 vs 4,68
+    motif1: Moyenne mensuelle
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-42 | L129 | M2p2=exact | p2=exact | L'Italie est pourtant plus endettée que nous
+    trouvé: 2025 : 136,7 % vs 115,7 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-43 | L129 | M2p2=exact | p2=exact | Mais avant de payer ses intérêts, elle dégage un excédent
+    trouvé: Italie 2025 : solde -3,1 + intérêts 3,8 = +0,7 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-44 | L129 | M2p2=exact | p2=exact | La France, un déficit de près de 3 % de sa richesse
+    trouvé: Solde primaire 2025 : -2,9 % (Eurostat) / -2,87 % (Insee) ; 2026 prévu : -2,8 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-45 | L131 | M2p2=exact | p2=exact | depuis 2022, les taux ont monté partout
+    trouvé: DE 10 ans : -0,38 % (déc. 2021) → 2,09 % (déc. 2022) → 3,42 % (oct. 2026)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-46 | L131 | M2p2=exact | p2=exact sous condition | À la veille de la dissolution, un demi-point
+    trouvé: Écart FR-DE moyenne de mai 2024 : 0,51 ; juin 2024 : 0,67
+    motif1: Moyenne mensuelle, pas le point du 7 juin
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-47 | L131 | M2p2=exact | p2=exact | Fin octobre, près de trois fois plus
+    trouvé: Octobre 2026 : 1,47 pt (x 2,9)
+    motif1: Moyenne mensuelle
+    motif2: Passe 1 reposait sur des moyennes mensuelles ; la Commission donne le point de fin octobre : ×3,2 par rapport à 0,5 | qui_a_raison=cellule (pièce supplémentaire)
+V5-B5-48 | L131 | M2p2=non vérifié | p2=non vérifiable à ce jour | le gouvernement cite lui-même « les interrogations sur la situation politique en France »
+    trouvé: Formule absente du RESF, du DP Budget 2027, du PLF, du PAP 117, du PLFG 2026 ; le HCFP parle d'« incertitude quant à la situation politique »
+    motif1: Source de la citation non identifiée
+    motif2: Attribution au gouvernement non étayée : le lien est fait par la Commission (en anglais) et le HCFP | qui_a_raison=concordant
+V5-B5-49 | L133 | M2p2=exact | p2=exact sous condition | L'an prochain, rien que pour l'État, la charge de la dette pèsera autant que tout le budget de la Défense : 72 milliards d'euros
+    trouvé: PLF 2027 : charge de la dette (programmes 117 et 355) 72,93 Md€ ; mission « Défense » 63,4 Md€ (hors CAS Pensions) : écart de 9,5 Md€
+    motif1: La charge dépasse la Défense ; l'égalité n'est possible qu'en ajoutant les pensions militaires (non vérifié)
+    motif2: En crédits de paiement de l'état B, pensions comprises, la Défense pèse 73,2 Md€ contre 72,4 Md€ de charge de la dette : « autant » est exact. Le « faux » de passe 1 reposait sur le seul chiffre hors pensions du dossier de presse | qui_a_raison=A18 (pièce trouvée ; passe 1 erronée)
+V5-B5-50 | L133 | M2p2=exact | p2=exact sous condition | chaque dixième de point de taux qui dure finit par coûter 4 milliards de plus par an
+    trouvé: +100 pb → +3,4 Md€ la 1re année, ≈ 19 Md€ la 5e (PAP 117) ; → 0,34 puis ≈ 1,9 Md€ par dixième ; plafond tout stock : 2,8 (État) à 3,5 Md€ (APU)
+    motif1: Surestimation d'environ un facteur 2 à l'horizon de 5 ans
+    motif2: 3,3 Md€ par dixième de point la 10e année et en hausse : « finit par coûter 4 Md€ » est un ordre de grandeur atteint au-delà de dix ans (État, comptabilité maastrichtienne). La passe 1 n'avait lu que le texte (années 1 et 5) et concluait à tort à « faux » | qui_a_raison=cellule (A07) ; passe 1 d'A18 erronée
+V5-B5-51 | L133 | M2p2=non démontré | p2=imprécis | Plus que tout le budget de la Culture
+    trouvé: Mission « Culture » PLF 2027 : 3,4 Md€ ; or le coût d'un dixième à 5 ans ≈ 1,9 Md€
+    motif1: Comparaison fausse avec le chiffre corrigé
+    motif2: Le dixième de point ne dépasse la mission Culture (3,4 à 3,65 Md€) qu'au-delà de l'horizon de dix ans de la simulation officielle | qui_a_raison=A18
+V5-B5-52 | L135 | M2p2=trop général | p2=imprécis | Cet écart-là, c'est le jugement des prêteurs sur elle
+    trouvé: L'écart reflète aussi liquidité, offre de titres, politique de la BCE
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B5-53 | L135 | M2p2=non démontré | p2=non vérifiable à ce jour | Le blocage a un prix. Il se paie à chaque nouvel emprunt
+    trouvé: HCFP : « l'incertitude quant à la situation politique » est un aléa ; aucune mesure de la part politique de l'écart
+    motif1: Cause plausible non isolée
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-01 | L143 | M2p2=exact | p2=exact sous condition | Octobre 1994. Göran Persson devient ministre des Finances de la Suède
+    trouvé: « The new government that took office in October 1994 » (discours de G. Persson, 1995)
+    motif1: Titre de ministre non écrit dans la pièce primaire ; confirmé par Reuters
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-02 | L143 | M2p2=non vérifié | p2=non vérifiable à ce jour | Peu après, il s'envole pour New York ... convaincre des investisseurs de Wall Street de continuer à acheter la dette
+    trouvé: Reuters (23/10/2025) : voyage « during the country's early 1990s financial crisis », d'après le livre de Persson (1997) ; date non précisée
+    motif1: « Peu après octobre 1994 » non établi ; livre de 1997 non consulté
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-03 | L143 | M2p2=exact | p2=exact sous condition | Il dort dans un hôtel bon marché, infesté de cafards : son ministère interdit toute dépense superflue
+    trouvé: « stayed in a budget hotel infested with cockroaches » ; politique « absolutely no extravagance »
+    motif1: Témoignage autobiographique cité par un tiers
+    motif2: Reste [S] : livre non consulté | qui_a_raison=A18 (source secondaire)
+V5-B6-04 | L145 | M2p2=exact | p2=exact | Une crise bancaire, une récession brutale
+    trouvé: « deepest recession since the 1930s » ; crise financière (Riksbank)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-05 | L145 | M2p2=exact | p2=exact sous condition | En novembre 1992, sa monnaie a dû flotter, et elle a plongé
+    trouvé: « On 19 November, the fixed exchange rate was scrapped and the Swedish krona was allowed to float »
+    motif1: Ampleur de la chute non relue dans la pièce
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-06 | L145 | M2p2=inexact | p2=imprécis | En 1993, son déficit public atteint environ 12 % de sa richesse
+    trouvé: OCDE (millésime 2026) : -10,7 % en 1993, -8,7 % en 1994 ; Persson (1995) : 10 % en 1994 ; Reuters : « at worst ... 12 per cent »
+    motif1: 12 % excède les séries actuelles (10,7 %) ; dépend du millésime
+    motif2: Écart expliqué par la comptabilité de l'époque, non par une invention ; la comparaison avec la France doit se faire en comptes harmonisés | qui_a_raison=concordant (explication par le millésime)
+V5-B6-07 | L145 | M2p2=exact | p2=exact | Plus du double du nôtre aujourd'hui
+    trouvé: 10,7 / 5,1 = 2,1
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-08 | L145 | M2p2=exact | p2=exact | Cinq ans plus tard, en 1998, ses comptes sont en excédent
+    trouvé: +0,8 % (Eurostat, OCDE)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-09 | L147 | M2p2=exact | p2=exact | Avec un plan massif lancé à l'automne 1994
+    trouvé: Programme de consolidation de 7,5 % du PIB du gouvernement entré en fonction en octobre 1994
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-10 | L147 | M2p2=exact | p2=exact | presque deux tiers des mesures sont des baisses de dépenses, d'après le ministre lui-même
+    trouvé: « Almost two-thirds of the measures are spending cuts »
+    motif1: Déclaration d'acteur
+    motif2: La V5 attribue le chiffre au ministre ; exact comme citation, pas comme bilan final | qui_a_raison=concordant
+V5-B6-11 | L147 | M2p2=exact | p2=exact sous condition | Sa consigne : « Ne dites jamais que ça ne fera pas mal. »
+    trouvé: « Never say that it won't hurt. »
+    motif1: Traduction de l'anglais
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-12 | L147 | M2p2=exact | p2=exact sous condition | En 1996, le chômage est encore à 8 %, et à plus de 12 % en comptant les personnes en programmes d'emploi
+    trouvé: 1996 : chômage déclaré 8,1 % + programmes conjoncturels 4,5 % = 12,6 % ; OCDE harmonisé : 11,7 %
+    motif1: Définition nationale de l'époque ; colonnes du tableau attribuées à 1991-2001 par déduction
+    motif2: Vérifié en définition nationale de l'époque | qui_a_raison=A18 (pièce trouvée)
+V5-B6-13 | L147 | M2p2=exact | p2=exact | Et la Suède avait un atout que la France n'a plus : sa propre monnaie
+    trouvé: Couronne flottante depuis le 19/11/1992
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-14 | L149 | M2p2=exact | p2=exact | En 1995, il raconte que l'objectif de revenir à l'équilibre est soutenu par 94 % du Parlement
+    trouvé: « This goal is supported by 94 percent in Parliament » (objectif : 3 % en 1997 et équilibre en 1998)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-15 | L149 | M2p2=trop général | p2=imprécis | Les Suédois se disputent sur les moyens. Pas sur le but
+    trouvé: Déduit du seul chiffre de 94 %
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-16 | L149 | M2p2=exact | p2=exact | son gouvernement l'écrira : sans la coopération avec le Parti du centre ... ce redressement n'aurait pas été possible
+    trouvé: « It would not have been possible without co-operation during recent years between the Social-Democrats and the centre party »
+    motif1: « Un parti de l'autre bloc » non relu dans une pièce
+    motif2:  | qui_a_raison=A18 (pièce trouvée)
+V5-B6-17 | L151 | M2p2=exact | p2=exact | on sait ce qu'il faut faire, alors pourquoi ne le fait-on pas ? Sa réponse : c'est une question politique
+    trouvé: « if we know what has to be done, why do we not do it? This is a political question. »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-18 | L153 | M2p2=exact | p2=exact | La première : un effort réparti équitablement
+    trouvé: « the burdens of consolidation are shared fairly »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-19 | L153 | M2p2=exact | p2=exact | La deuxième : un plan présenté d'un seul bloc, pour que chacun voie qu'il n'est pas le seul à qui on demande des sacrifices
+    trouvé: « comprehensive package ... they are not the only ones asked to make sacrifices »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-20 | L153 | M2p2=trop général | p2=imprécis | Chez nous, les efforts se retirent un par un
+    trouvé: Cohérent avec l'automne 2026 (CR 4/11) ; non généralisable sans autre pièce
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-21 | L153 | M2p2=exact | p2=exact sous condition | La troisième : tout mettre sur la table, les hypothèses, les calculs, les mauvaises nouvelles
+    trouvé: « transparent ... always clarify assumptions and calculations ... never play down the effects »
+    motif1: « Les mauvaises nouvelles » est une paraphrase
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-22 | L153 | M2p2=exact | p2=exact | À cette date, il n'a jamais eu à corriger une prévision de déficit dans le mauvais sens
+    trouvé: « So far, I have never had to revise a budget deficit estimate in the wrong direction »
+    motif1: Déclaration d'acteur
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-23 | L153 | M2p2=exact | p2=exact | La Suède y ajoute un verrou : le Parlement vote d'abord le total des dépenses
+    trouvé: Résolution du Parlement : volume total et par domaine fixés en début de procédure ; plafonds de dépenses depuis le budget 1997
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-24 | L153 | M2p2=exact | p2=exact | Résultat, d'après le ministre : il ne peut plus sortir un budget plus déséquilibré que celui qu'on lui a présenté
+    trouvé: « Parliament cannot pass a budget that is weaker than the one presented by the government »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-25 | L153 | M2p2=trop général | p2=imprécis | Chez nous, un député n'a pas le droit d'ajouter une dépense
+    trouvé: Art. 40 : irrecevabilité de la création ou de l'aggravation d'une charge publique ; redéploiements entre programmes d'une mission possibles (LOLF, non relue)
+    motif1: Formulation trop absolue
+    motif2: La formule de la V5 (et celle d'A08) omet la faculté de redéploiement au sein d'une mission | qui_a_raison=A18 contre A08
+V5-B6-26 | L153 | M2p2=exact | p2=exact | Mais il peut retirer une économie
+    trouvé: « Un amendement de suppression d'un article est toujours recevable »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-27 | L153 | M2p2=trop général | p2=imprécis | C'est ce qui s'est passé cet automne
+    trouvé: Annulation du plafonnement de l'abattement sur les pensions et des économies sur les collectivités ; mais aussi baisses de TVA et suppression d'une contribution
+    motif1: Partiellement : la dégradation vient aussi de baisses d'impôts
+    motif2: « C'est ce qui s'est passé cet automne » illustre le retrait d'une économie, alors que l'essentiel du retrait est fiscal | qui_a_raison=cellule
+V5-B6-28 | L155 | M2p2=exact | p2=exact sous condition | Ce n'est pas faute de savoir : les alertes s'empilent depuis vingt ans
+    trouvé: Pébereau 2005 ; Fillon 2007 ; HCFP depuis 2013
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-29 | L155 | M2p2=non démontré | p2=trompeur par périmètre ou juxtaposition | Le trou vient d'une dépense qui a pris de l'avance il y a plus de trente ans, et que personne n'a rattrapée : ni en dépensant moins, ni en p
+    trouvé: Dépense 56,5 % dès 1993 ; mais baisses d'impôts 2018-2023 (62 Md€) citées par la V5 elle-même
+    motif1: Identité comptable présentée comme cause ; omet le rôle des baisses de recettes établi en B3
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-30 | L155 | M2p2=trop général | p2=imprécis | Chaque crise l'a creusé un peu plus
+    trouvé: Dette en marches (1993, 2008, 2020) ; le déficit, lui, s'est réduit après chaque crise
+    motif1: Confusion entre « trou » (déficit) et dette
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-31 | L157 | M2p2=inexact | p2=trompeur par périmètre ou juxtaposition | La réforme des retraites ... : une dizaine de milliards par an, en 2030. Le plan que portait Bayrou ... : 44. Le trou : 150
+    trouvé: 10 Md€ (retraites, 2030) ; 43,8 Md€ (effort 2026 avec LPM) ; 151,6 Md€ (déficit 2025)
+    motif1: Rapprochement de grandeurs d'années et de périmètres différents (norme 04 §III.7)
+    motif2:  | qui_a_raison=concordant
+V5-B6-32 | L159 | M2p2=non démontré | p2=non vérifiable à ce jour | Ce qui manque à la France, ce n'est pas le calcul. C'est un accord sur l'effort. Sur la dépense d'abord
+    trouvé: Prescription
+    motif1: Jugement présenté comme conclusion
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-33 | L159 | M2p2=exact | p2=exact sous condition | La Suède l'a trouvé au pied du mur, quand il fallait aller convaincre les prêteurs
+    trouvé: Cohérent avec Persson 1995 (dépendance aux marchés)
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-34 | L159 | M2p2=exact | p2=exact | quand un État doit emprunter à ce point, le pouvoir passe des élus à ceux qui lui prêtent
+    trouvé: « power was shifted from the elected representatives to the owners of capital »
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-35 | L159 | M2p2=exact | p2=exact sous condition | Mais elle emprunte déjà plus cher que l'Italie
+    trouvé: Octobre 2026 : 4,89 vs 4,68
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-36 | L159 | M2p2=non démontré | p2=imprécis | [généralisation] La leçon suédoise s'applique à la France
+    trouvé: Suède : monnaie propre dévaluée, croissance de 4 % en 1994-1995 et 1998, cadre institutionnel nouveau ; cas unique
+    motif1: Généralisation à partir d'un cas ; la V5 signale la monnaie mais pas la croissance
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B6-37 | L161 | M2p2=exact | p2=exact | Sur le registre, 51 pages sont rouges
+    trouvé: 51 exercices en déficit
+    motif1: 
+    motif2: verdict de passe 1 maintenu | qui_a_raison=-
+V5-B1-M1 | L? | M2p2=- | p2=sans objet | [l.15] on a ouvert 51 ans de comptes publics, des rapports de la Cour des comptes, des débats du Parlement
+    trouvé: 
+    motif1: 
+    motif2: Méthode du documentaire, non vérifiable par pièce | qui_a_raison=-
+V5-B4-M1 | L? | M2p2=non démontré | p2=non vérifiable à ce jour | [l.73] Les crises, on ne les choisit pas. Ce qu'on fait après, si.
+    trouvé: 
+    motif1: 
+    motif2: Jugement | qui_a_raison=-
+V5-B5-M1 | L? | M2p2=exact | p2=exact sous condition | [l.105] Pour faire voter un effort, il faut désormais les voix d'un adversaire
+    trouvé: 
+    motif1: 
+    motif2: Conséquence arithmétique de l'absence de majorité (CR AN 14/10/2025 : « sans majorité absolue ») | qui_a_raison=-
+V5-B5-M2 | L? | M2p2=exact | p2=exact | [l.107] Trois Premiers ministres vont essayer
+    trouvé: 
+    motif1: 
+    motif2: Barnier, Bayrou, Lecornu (scrutins 519 et 3054 ; PLFG 2026 signé par S. Lecornu) | qui_a_raison=-
+V5-B5-M3 | L? | M2p2=exact | p2=exact sous condition | [l.137] Un autre pays d'Europe a connu un déficit deux fois plus profond. Et il en est revenu.
+    trouvé: 
+    motif1: 
+    motif2: Répétition de V5-B1-16 et V5-B1-17 | qui_a_raison=-
+V5-B6-M1 | L? | M2p2=exact | p2=exact sous condition | [l.155] Ce n'est pas faute d'argent : il prélève plus que tous ses voisins
+    trouvé: 
+    motif1: 
+    motif2: Répétition de V5-B1-13 (vrai en 2025, faux en 2024) | qui_a_raison=-
+V5-B4-30/B5-33 (révision) | L? | M2p2=exact | p2=exact | Déficit 2026-2027 : 5,4 % (PLFG) et 5 % visé en 2027
+    trouvé: 
+    motif1: 
+    motif2: Révision postérieure au script que la passe 1 n'avait pas trouvée : la cible de 5 % reste exacte comme objectif, mais la prévision indépendante la plus récente est 5,4 % | qui_a_raison=Astra et cellule
+S02 Canada | L? | M2p2=- | p2=- | (la V5 ne cite pas le Canada)
+    trouvé: 
+    motif1: 
+    motif2: Script S02 non audité : la V5 ne cite pas le Canada (signalement seulement) | qui_a_raison=-

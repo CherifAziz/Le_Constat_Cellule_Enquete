@@ -1,0 +1,98 @@
+﻿identifiant;ligne_V5;affirmation;verdict_cellule;apres_comparaison;accord_autre_equipe;niveau_preuve;provenance_passe1;source
+V5-B1-02;5;en déficit depuis 51 ans;exact;exact;accord;A;[C];Insee, solde APU par sous-secteur, fig. 2
+V5-B1-03;7;La dernière fois que nos comptes publics ont fini l'année en excédent, c'était en 1974;exact;exact;accord;A;[C];Insee, solde APU par sous-secteur, fig. 1 et 2
+V5-B1-06;7;Et depuis, chaque année, sans exception, ils sont dans le rouge. 51 années de suite;exact;exact;accord;A;[C];Insee fig. 2
+V5-B1-08;9;Le 4 novembre, les députés ont voté sur la partie recettes du budget 2027;exact;exact;accord;A;[C];Assemblée nationale, scrutin 9759
+V5-B1-09;9;458 voix contre. Zéro pour;exact;exact;accord;A;[C];AN scrutin 9759
+V5-B1-11;11;Cette année, rien que les intérêts de notre dette coûtent plus de 1 100 euros par habitant;exact;exact;accord;D;[C];"HCFP avis 2026-5 §115 ; Insee Première 2087 ; Insee t_3201 ; calcul C-A18-003"
+V5-B2-01;25;152 milliards d'euros. C'est ce qui a manqué à la France l'an dernier;exact;exact;accord;A;[C];"Insee t_3201 ; Insee IP2106"
+V5-B2-02;25;Sur 100 euros dépensés par l'État, la Sécurité sociale et les collectivités, 9 ont été empruntés;exact;exact;accord;A;[C];"Insee t_3201 ; calcul C-A18-001"
+V5-B2-03;25;Plus de 400 millions d'euros. Chaque jour;exact;exact;accord;A;[C];"Insee ; calcul C-A18-002"
+V5-B2-04;27;1975 : la récession après le choc pétrolier;exact;exact;accord;A;[C];Eurostat nama_10_gdp
+V5-B2-05;27;1993 : une autre récession;exact;exact;accord;A;[C];Eurostat nama_10_gdp
+V5-B2-06;27;2009 : la crise financière;exact;exact;accord;A;[C];"Eurostat ; Insee"
+V5-B2-07;27;2020 : le Covid. « Quoi qu'il en coûte »;non vérifié;révisé après comparaison;désaccord;-;"[X] non recherchée faute de temps ; [M] allocution du 12/03/2020";-
+V5-B2-08;27;207 milliards de déficit en une seule année, le record;exact;exact;accord;A;[C];Insee fig. 1 et 2
+V5-B2-09;29;En 2000, la croissance dépasse 4 %;exact;exact;accord;A;[C];Eurostat nama_10_gdp
+V5-B2-12;31;Même chose en 2018;exact;exact;accord;A;[C];"Eurostat edpt1 ; Insee"
+V5-B2-13;31;Et l'an dernier, sans aucune crise, il manquait encore l'équivalent de 5 % de toute la richesse produite;exact;exact;désaccord;A;[C];"Insee IP2106 fig. 1 ; Eurostat"
+V5-B3-01;41;Cette année-là [1974], nos dépenses publiques et nos recettes pèsent chacune 41 % de la richesse produite. Elles s'équilibrent;exact;exact;accord;A;[C];Insee série longue dépenses-recettes
+V5-B3-02;41;Aujourd'hui, les recettes sont à 52 %;exact;exact;accord;A;[C];"Insee série longue ; IP2106"
+V5-B3-03;41;Mais les dépenses, elles, sont à 57 %;exact;exact;accord;A;[C];Insee
+V5-B3-04;41;En 51 ans, les recettes ont pris 11 points. Les dépenses, 16;exact;exact;accord;A;[C];"Insee ; script a18_02"
+V5-B3-06;43;presque toute cette hausse des dépenses s'est faite en vingt ans : dès 1993, elles sont déjà à 56 %;exact;exact;accord;A;[C];Insee série longue
+V5-B3-08;45;En 1974, la France sort de quinze ans de croissance à plus de 5 % par an;exact;exact;accord;A;[C];"Insee BDM 010565708 (PIB trimestriel volume, base 2014, série arrêtée) ; script a18_09"
+V5-B3-10;45;Puis vient le choc pétrolier : la croissance tombe autour de 2 %;exact;exact;accord;A;[C];"Eurostat ; Insee ; script a18_09"
+V5-B3-13;45;En 1982, on décide la retraite à 60 ans;exact;exact;accord;A;[C];Légifrance (capture archive.org 04/04/2023)
+V5-B3-15;45;Vers 1985, ils plafonnent : en quarante ans, les recettes n'ont pris qu'un point de plus. Les dépenses, trois;exact;exact;accord;A;[C];Insee série longue
+V5-B3-16;45;en 1993, la moitié du trou, ce sont déjà les intérêts des trous d'avant;exact;exact;accord;A;[C];"Insee t_3201 ; script a18_03"
+V5-B3-17;49;Premier arrêt : la retraite. 24 euros. Un sur quatre;exact;exact;accord;A;[C];"COR, rapport annuel juin 2026 ; Eurostat COFOG"
+V5-B3-21;51;L'an dernier, la France a dépensé 7 points et demi de richesse de plus que cette moyenne [zone euro];exact;exact;accord;A;[C];"Eurostat gov_10a_main ; script a18_05"
+V5-B3-23;51;Elle a prélevé plus aussi : un peu plus de 5 points;inexact;inexact;désaccord;A;[C];"Eurostat gov_10a_main ; gov_10a_taxag"
+V5-B3-24;51;Les 2 points qui manquent, c'est exactement l'écart entre notre déficit et celui de la zone euro;exact;exact;accord;A;[C];"Eurostat ; identité"
+V5-B3-25;53;En 2002, il y avait 2,1 cotisants pour un retraité;exact;exact;accord;A;[C];COR RA 2026
+V5-B3-27;53;Aujourd'hui, on n'en est plus qu'à 1,8;exact;exact;accord;A;[C];COR RA 2026
+V5-B3-28;53;En 2070, d'après le COR, environ 1,3;exact;exact;accord;D;[C];COR RA 2026
+V5-B3-30;55;D'après la Cour des comptes, les baisses d'impôts décidées depuis 2018 coûtaient 62 milliards en 2023, sans économies en face;exact;exact;accord;A;[C];Cour des comptes, situation et perspectives des finances publiques, juillet 2024 (via vie-publique.fr, capture archive.org)
+V5-B3-32;57;Tout combler par l'impôt, ce serait 150 milliards de prélèvements en plus : aucun pays de l'Union ne prélève autant;exact;exact;accord;A;[C];"Eurostat taxag ; calcul C-A18-017"
+V5-B4-02;65;Septembre 2007. C'est le Premier ministre qui parle;exact;exact;accord;E;[S] AFP;AFP via WMC
+V5-B4-03;65;À ce moment-là, notre dette représente 8 mois de toute la production du pays;exact;exact;accord;A;[C];"Insee série longue ; C-A18-004"
+V5-B4-04;65;Aujourd'hui : près de 14;exact;exact;accord;A;[C];"Insee ; C-A18-004"
+V5-B4-06;69;2008 : la crise financière. Les recettes chutent, l'État lance un plan de relance;exact;exact;accord;A;[C];Insee t_3201
+V5-B4-08;69;La dette ne redescend pas : de 2012 à 2019, sans récession, elle continue même de monter un peu;exact;exact;accord;A;[C];"Insee ; Eurostat"
+V5-B4-09;71;2020 : le Covid ... La dette prend encore deux mois de production;exact;exact;accord;A;[C];Insee
+V5-B4-10;71;Puis viennent les boucliers sur l'énergie : 36 milliards nets de 2021 à 2024;exact;exact;accord;A;[C];Cour des comptes, Les mesures exceptionnelles de lutte contre la hausse des prix de l'énergie, mars 2024 (via vie-publique, capture archive.org)
+V5-B4-12;75;En mars [2000], le gouvernement chiffre le surplus de recettes à 50 milliards de francs;exact;exact;accord;A;[C];Sénat, rapport sur le PLFR 2000
+V5-B4-16;77;Août 2007. Une nouvelle majorité, et sa loi phare de l'été baisse plusieurs impôts;exact;exact;accord;A;[C];Sénat, dossier législatif pjl06-390
+V5-B4-21;81;De 2014 à 2019, [l'Allemagne] dégage un excédent chaque année. Six années de suite;exact;exact;accord;A;[C];Eurostat gov_10dd_edpt1
+V5-B4-22;81;Sa dette passe de près de 10 mois de production à 7;inexact;inexact;accord;A;[C];"Eurostat edpt1 ; C-A18-005"
+V5-B4-24;81;un frein à l'endettement inscrit dans sa Constitution en 2009;exact;exact;accord;B;[C];Bundeszentrale für politische Bildung, 11/06/2019
+V5-B4-27;81;et en 2025, l'Allemagne l'a assoupli;exact;exact;accord;B;[C];bpb, 28/03/2025
+V5-B4-29;83;Décembre 2023 : une loi promet un déficit ramené à 2,7 % en 2027;exact;exact;accord;A;[C];"Sénat r24-153 (p.5) ; Cour des comptes juillet 2024 (p.109)"
+V5-B4-30;83;Le budget 2027 vise… 5 %;exact;exact;accord;A;[C];"HCFP avis 2026-5 tableau 12 ; CR AN 4/11/2026 (M. Amiel)"
+V5-B4-31;85;Le 7 décembre 2023, une note interne alerte : le déficit de l'année ne serait pas de 4,9 %, comme prévu, mais de 5,2;exact;exact;accord;A;[C] rapport / [S] note;Sénat r24-153
+V5-B4-34;85;Onze jours plus tard, la loi des 2,7 %, votée en novembre sur les anciens chiffres, est promulguée telle quelle;inexact;inexact;désaccord;A;[C];"Sénat r24-153 ; Conseil constitutionnel"
+V5-B4-37;85;Au final, ce sera pire que la note : 5,4 %;exact;exact;accord;A;[C];Insee IP2106 fig. 1
+V5-B4-38;87;Aujourd'hui, la promesse a seulement changé de date : repasser sous les 3 % en 2029;exact;exact;accord;A;[C];"HCFP avis 2026-5 ; RESF PLF 2027 p.105"
+V5-B4-40;89;Dès 2005, un rapport remis au gouvernement s'intitulait déjà : « Rompre avec la facilité de la dette publique »;exact;exact;accord;B;[S];"AN rapport n° 2844 (12e législature) ; Sénat r05-345"
+V5-B5-01;99;Mars 2023. Le gouvernement veut repousser l'âge de la retraite de 62 à 64 ans;exact;exact;accord;A;[C];"Cour des comptes, retraites, février 2025 ; CR AN 20/03/2023"
+V5-B5-05;101;Son gain n'atteint une dizaine de milliards par an qu'en 2030;exact;exact;accord;A;[C];Cour des comptes, février 2025
+V5-B5-07;103;la Première ministre fait passer la réforme sans vote, avec le 49.3;exact;exact;désaccord;A;[C];CR AN 20/03/2023
+V5-B5-09;105;Un an plus tard, en juin 2024, l'Assemblée est dissoute;exact;exact;accord;B;[C];Sénat r24-153
+V5-B5-11;109;Michel Barnier, passe en force : 49.3 sur un budget de la Sécurité sociale qui réduit et retarde la hausse des pensions;exact;exact;accord;A;[C];"AN scrutin 519 ; motion LFI du 2/12/2024"
+V5-B5-12;109;Le 4 décembre 2024, des députés que tout oppose votent la même motion de censure;exact;exact;accord;A;[C];AN scrutin 519
+V5-B5-14;109;Pour la première fois depuis 1962, les députés renversent un gouvernement;exact;exact;accord;A;[C];CR AN 4/12/2024
+V5-B5-15;111;Son plan : près de 44 milliards d'euros d'effort;exact;exact;accord;B;[C];Gouvernement, dossier de presse « Le moment de vérité », 15/07/2025
+V5-B5-18;111;364 voix contre;exact;exact;accord;A;[C];AN scrutin 3054
+V5-B5-20;113;En octobre 2025, une partie de l'opposition fait de la suspension de la réforme des retraites la condition pour ne pas le renverser;exact;exact;accord;B;[C];CR AN 14/10/2025
+V5-B5-22;113;et promet de renoncer au 49.3;exact;exact;accord;A;[C];CR AN 14/10/2025
+V5-B5-24;113;En décembre, le budget de la Sécurité sociale est voté. Sans 49.3;exact;exact;accord;A;[C];AN, liste des scrutins PLFSS 2026
+V5-B5-27;115;La suspension coûtera près de 2 milliards d'euros à l'ensemble du système de retraite en 2027;exact;exact;accord;D;[C];"CR AN 14/10/2025 ; COR RA 2026"
+V5-B5-31;121;Le budget de l'État, lui, ne passe qu'en février. Avec trois 49.3, malgré la promesse d'octobre;exact;exact;accord;A;[C];AN, liste des motions de censure 17e législature
+V5-B5-33;123;d'après le ministre des Comptes publics, le déficit prévu n'est plus de 5 %, mais de 5,9;exact;exact;accord;A;[C];CR AN 4/11/2026 (M. Amiel)
+V5-B5-34;123;Comme en 2024, comme en 2025, la partie recettes est rejetée. Trois automnes de suite;exact;exact;accord;A;[C];AN scrutins 438, 4241, 9759
+V5-B5-36;127;Dans le rapport qui accompagne le budget 2027, le gouvernement maintient sa promesse : sous les 3 % en 2029;exact;exact;accord;A;[C];"RESF PLF 2027 ; HCFP 2026-5"
+V5-B5-37;127;cette trajectoire « revêt un caractère conventionnel du fait des échéances électorales de 2027 »;exact;exact;accord;A;[C];RESF annexé au PLF 2027
+V5-B5-40;129;Le 22 octobre, le taux auquel la France emprunte à dix ans a dépassé 5 %;non vérifié;révisé après comparaison;désaccord;E;[C] BCE / [S] presse;"BCE IRS mensuel ; presse (Saxo, Journal du Coin)"
+V5-B5-44;129;La France, un déficit de près de 3 % de sa richesse;exact;exact;accord;A;[C];"Eurostat ; Insee t_3201 ; HCFP"
+V5-B5-45;131;depuis 2022, les taux ont monté partout;exact;exact;désaccord;A;[C];BCE IRS
+V5-B5-49;133;L'an prochain, rien que pour l'État, la charge de la dette pèsera autant que tout le budget de la Défense : 72 milliards d'euros;exact;exact;accord;A;[C];Dossier de presse Budget 2027
+V5-B5-50;133;chaque dixième de point de taux qui dure finit par coûter 4 milliards de plus par an;exact;exact;désaccord;A;[C];"PAP programme 117 PLF 2027 ; DP Budget 2027 p.27 ; C-A18-015/016"
+V5-B6-01;143;Octobre 1994. Göran Persson devient ministre des Finances de la Suède;exact;exact;accord;B;[C] / [S];"Persson, Jackson Hole 1995 ; Reuters 2025"
+V5-B6-05;145;En novembre 1992, sa monnaie a dû flotter, et elle a plongé;exact;exact;accord;B;[C];Riksbank, frise historique
+V5-B6-06;145;En 1993, son déficit public atteint environ 12 % de sa richesse;inexact;à préciser après comparaison;désaccord;A;[C];"OCDE Perspectives économiques ; Persson 1995 ; Reuters"
+V5-B6-08;145;Cinq ans plus tard, en 1998, ses comptes sont en excédent;exact;exact;accord;A;[C];"Eurostat gov_10a_main SE ; OCDE"
+V5-B6-09;147;Avec un plan massif lancé à l'automne 1994;exact;exact;accord;B;[C];Persson 1995
+V5-B6-12;147;En 1996, le chômage est encore à 8 %, et à plus de 12 % en comptant les personnes en programmes d'emploi;exact;exact;accord;A;[C];"Gouvernement suédois, Prop. 1997/98:150, tableau ; OCDE"
+V5-B6-14;149;En 1995, il raconte que l'objectif de revenir à l'équilibre est soutenu par 94 % du Parlement;exact;exact;accord;E;[C];Persson 1995
+V5-B6-31;157;La réforme des retraites ... : une dizaine de milliards par an, en 2030. Le plan que portait Bayrou ... : 44. Le trou : 150;inexact;inexact;accord;A;[C];"Cour 2025 ; DP 15/07/2025 ; Insee"
+V5-B6-37;161;Sur le registre, 51 pages sont rouges;exact;exact;accord;A;[C];Insee
+V5-B1-M1;;[l.15] on a ouvert 51 ans de comptes publics, des rapports de la Cour des comptes, des débats du Parlement;-;non audité par la cellule;Codex seul;-;;
+V5-B4-M1;;[l.73] Les crises, on ne les choisit pas. Ce qu'on fait après, si.;non démontré;non démontré;cellule seule;-;;
+V5-B5-M1;;[l.105] Pour faire voter un effort, il faut désormais les voix d'un adversaire;exact;à préciser après comparaison;désaccord;-;;
+V5-B5-M2;;[l.107] Trois Premiers ministres vont essayer;exact;exact;accord;-;;
+V5-B5-M3;;[l.137] Un autre pays d'Europe a connu un déficit deux fois plus profond. Et il en est revenu.;exact;exact;accord;-;;
+V5-B6-M1;;[l.155] Ce n'est pas faute d'argent : il prélève plus que tous ses voisins;exact;exact;accord;-;;
+V5-B4-30/B5-33 (révision);;Déficit 2026-2027 : 5,4 % (PLFG) et 5 % visé en 2027;exact;exact;accord;A;;
+S02 Canada;;(la V5 ne cite pas le Canada);-;-;sans objet;-;;
+CX-L161;161;Celle de 2027 est encore blanche;-;non audité par la cellule;Codex seul;;;

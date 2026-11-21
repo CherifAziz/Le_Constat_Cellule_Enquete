@@ -1,0 +1,251 @@
+combinaison;annee;deficit;dette;deficit_bas;deficit_haut;dette_bas;dette_haut
+K1 centrale, branche gel | si adopte;2026;5.5;118.692;5.5;5.5;118.692;118.692
+K1 centrale, branche gel | si adopte;2027;4.305;120.611;4.807;3.926;121.654;119.861
+K1 centrale, branche gel | si adopte;2028;4.325;121.377;4.906;3.88;123.015;120.173
+K1 centrale, branche gel | si adopte;2029;4.129;121.72;4.652;3.715;123.595;120.296
+K1 centrale, branche gel | si adopte;2030;4.145;122.571;4.732;3.676;125.001;120.702
+K1 centrale, branche gel | si adopte;2031;4.282;123.551;4.907;3.787;126.551;121.236
+K1 centrale, branche gel | si adopte;2032;4.202;124.088;4.779;3.74;127.416;121.49
+K1 centrale, branche gel | si adopte;2033;4.143;124.881;4.803;3.606;128.78;121.818
+K1 centrale, branche gel | si adopte;2034;4.078;125.588;4.822;3.467;130.127;121.998
+K1 centrale, branche gel | si adopte;2035;4.009;126.206;4.837;3.322;131.453;122.029
+K1 centrale, branche gel | si adopte;2036;4.099;126.866;4.94;3.397;132.785;122.114
+K1 centrale, branche gel | si adopte;2037;4.185;127.595;5.04;3.468;134.182;122.269
+K1 centrale, branche gel | si adopte;2038;4.28;128.423;5.156;3.543;135.698;122.51
+K1 centrale, branche gel | si adopte;2039;4.372;129.322;5.27;3.616;137.288;122.818
+K1 centrale, branche gel | si adopte;2040;4.463;130.288;5.383;3.687;138.948;123.188
+K1 centrale, branche gel | si adopte;2041;4.56;131.339;5.506;3.761;140.713;123.632
+K1 centrale, branche gel | si adopte;2042;4.656;132.458;5.629;3.834;142.553;124.137
+K1 centrale, branche gel | si adopte;2043;4.751;133.642;5.752;3.906;144.465;124.7
+K1 centrale, branche gel | si adopte;2044;4.846;134.89;5.874;3.978;146.449;125.319
+K1 centrale, branche gel | si adopte;2045;4.941;136.198;5.998;4.049;148.503;125.993
+K1 centrale, branche gel | si adopte;2046;5.075;137.605;6.159;4.158;150.663;126.759
+K1 centrale, branche gel | si adopte;2047;5.21;139.11;6.323;4.269;152.929;127.614
+K1 centrale, branche gel | si adopte;2048;5.348;140.711;6.49;4.382;155.301;128.559
+K1 centrale, branche gel | si adopte;2049;5.488;142.409;6.659;4.497;157.778;129.594
+K1 centrale, branche gel | si adopte;2050;5.63;144.204;6.831;4.614;160.36;130.718
+K1 centrale, branche gel | decote d'execution A13;2026;5.5;118.692;5.5;5.5;118.692;118.692
+K1 centrale, branche gel | decote d'execution A13;2027;4.697;120.603;5.019;4.456;121.285;120.126
+K1 centrale, branche gel | decote d'execution A13;2028;4.762;121.777;5.141;4.476;122.847;121.006
+K1 centrale, branche gel | decote d'execution A13;2029;4.719;122.872;5.06;4.448;124.096;121.952
+K1 centrale, branche gel | decote d'execution A13;2030;4.795;124.328;5.182;4.485;125.919;123.114
+K1 centrale, branche gel | decote d'execution A13;2031;4.976;125.956;5.39;4.648;127.926;124.444
+K1 centrale, branche gel | decote d'execution A13;2032;5.002;127.348;5.385;4.693;129.537;125.642
+K1 centrale, branche gel | decote d'execution A13;2033;5.055;128.968;5.486;4.705;131.53;126.959
+K1 centrale, branche gel | decote d'execution A13;2034;5.102;130.591;5.581;4.71;133.564;128.245
+K1 centrale, branche gel | decote d'execution A13;2035;5.145;132.214;5.672;4.71;135.636;129.497
+K1 centrale, branche gel | decote d'execution A13;2036;5.277;133.9;5.812;4.834;137.745;130.824
+K1 centrale, branche gel | decote d'execution A13;2037;5.407;135.671;5.949;4.955;139.934;132.237
+K1 centrale, branche gel | decote d'execution A13;2038;5.543;137.549;6.098;5.079;142.244;133.747
+K1 centrale, branche gel | decote d'execution A13;2039;5.677;139.511;6.246;5.201;144.64;135.339
+K1 centrale, branche gel | decote d'execution A13;2040;5.81;141.553;6.392;5.322;147.117;137.008
+K1 centrale, branche gel | decote d'execution A13;2041;5.948;143.688;6.546;5.445;149.701;138.763
+K1 centrale, branche gel | decote d'execution A13;2042;6.085;145.903;6.7;5.567;152.369;140.593
+K1 centrale, branche gel | decote d'execution A13;2043;6.222;148.196;6.854;5.69;155.12;142.497
+K1 centrale, branche gel | decote d'execution A13;2044;6.359;150.564;7.009;5.812;157.951;144.472
+K1 centrale, branche gel | decote d'execution A13;2045;6.497;153.005;7.164;5.935;160.861;146.516
+K1 centrale, branche gel | decote d'execution A13;2046;6.673;155.558;7.358;6.096;163.888;148.667
+K1 centrale, branche gel | decote d'execution A13;2047;6.852;158.221;7.555;6.26;167.03;150.923
+K1 centrale, branche gel | decote d'execution A13;2048;7.034;160.994;7.755;6.426;170.287;153.285
+K1 centrale, branche gel | decote d'execution A13;2049;7.219;163.877;7.958;6.595;173.66;155.753
+K1 centrale, branche gel | decote d'execution A13;2050;7.406;166.87;8.165;6.767;177.148;158.325
+K2 centrale, branche abattement | si adopte;2026;5.5;118.692;5.5;5.5;118.692;118.692
+K2 centrale, branche abattement | si adopte;2027;4.304;120.611;4.828;3.925;121.702;119.86
+K2 centrale, branche abattement | si adopte;2028;4.343;121.379;4.942;3.902;123.071;120.184
+K2 centrale, branche abattement | si adopte;2029;4.166;121.744;4.695;3.759;123.654;120.341
+K2 centrale, branche abattement | si adopte;2030;4.206;122.647;4.797;3.745;125.113;120.811
+K2 centrale, branche abattement | si adopte;2031;4.356;123.701;4.986;3.868;126.742;121.424
+K2 centrale, branche abattement | si adopte;2032;4.288;124.321;4.866;3.834;127.683;121.768
+K2 centrale, branche abattement | si adopte;2033;4.242;125.209;4.905;3.713;129.146;122.196
+K2 centrale, branche abattement | si adopte;2034;4.19;126.021;4.937;3.586;130.603;122.486
+K2 centrale, branche abattement | si adopte;2035;4.133;126.755;4.965;3.453;132.048;122.636
+K2 centrale, branche abattement | si adopte;2036;4.229;127.534;5.076;3.534;133.506;122.844
+K2 centrale, branche abattement | si adopte;2037;4.321;128.385;5.183;3.61;135.033;123.124
+K2 centrale, branche abattement | si adopte;2038;4.421;129.335;5.305;3.691;136.679;123.49
+K2 centrale, branche abattement | si adopte;2039;4.519;130.358;5.426;3.769;138.4;123.925
+K2 centrale, branche abattement | si adopte;2040;4.616;131.45;5.544;3.845;140.194;124.425
+K2 centrale, branche abattement | si adopte;2041;4.717;132.627;5.673;3.924;142.091;124.998
+K2 centrale, branche abattement | si adopte;2042;4.818;133.873;5.8;4.002;144.065;125.633
+K2 centrale, branche abattement | si adopte;2043;4.918;135.186;5.928;4.079;146.114;126.329
+K2 centrale, branche abattement | si adopte;2044;5.018;136.563;6.056;4.155;148.235;127.082
+K2 centrale, branche abattement | si adopte;2045;5.118;138.003;6.185;4.232;150.428;127.891
+K2 centrale, branche abattement | si adopte;2046;5.256;139.543;6.352;4.346;152.729;128.793
+K2 centrale, branche abattement | si adopte;2047;5.397;141.182;6.521;4.462;155.137;129.787
+K2 centrale, branche abattement | si adopte;2048;5.54;142.92;6.693;4.58;157.652;130.873
+K2 centrale, branche abattement | si adopte;2049;5.685;144.756;6.868;4.701;160.274;132.049
+K2 centrale, branche abattement | si adopte;2050;5.832;146.69;7.045;4.823;163.003;133.316
+K2 centrale, branche abattement | decote d'execution A13;2026;5.5;118.692;5.5;5.5;118.692;118.692
+K2 centrale, branche abattement | decote d'execution A13;2027;4.696;120.603;5.029;4.456;121.309;120.125
+K2 centrale, branche abattement | decote d'execution A13;2028;4.771;121.778;5.158;4.487;122.875;121.012
+K2 centrale, branche abattement | decote d'execution A13;2029;4.738;122.884;5.082;4.47;124.126;121.975
+K2 centrale, branche abattement | decote d'execution A13;2030;4.825;124.367;5.214;4.519;125.975;123.168
+K2 centrale, branche abattement | decote d'execution A13;2031;5.013;126.031;5.429;4.688;128.021;124.538
+K2 centrale, branche abattement | decote d'execution A13;2032;5.045;127.465;5.429;4.74;129.671;125.781
+K2 centrale, branche abattement | decote d'execution A13;2033;5.104;129.132;5.536;4.758;131.713;127.148
+K2 centrale, branche abattement | decote d'execution A13;2034;5.158;130.808;5.639;4.769;133.802;128.489
+K2 centrale, branche abattement | decote d'execution A13;2035;5.207;132.488;5.736;4.776;135.934;129.801
+K2 centrale, branche abattement | decote d'execution A13;2036;5.343;134.235;5.88;4.902;138.106;131.19
+K2 centrale, branche abattement | decote d'execution A13;2037;5.475;136.067;6.021;5.026;140.361;132.665
+K2 centrale, branche abattement | decote d'execution A13;2038;5.614;138.006;6.173;5.153;142.735;134.238
+K2 centrale, branche abattement | decote d'execution A13;2039;5.751;140.029;6.323;5.277;145.197;135.893
+K2 centrale, branche abattement | decote d'execution A13;2040;5.886;142.134;6.472;5.4;147.741;137.627
+K2 centrale, branche abattement | decote d'execution A13;2041;6.026;144.333;6.629;5.526;150.391;139.446
+K2 centrale, branche abattement | decote d'execution A13;2042;6.166;146.611;6.786;5.651;153.127;141.342
+K2 centrale, branche abattement | decote d'execution A13;2043;6.305;148.968;6.942;5.776;155.945;143.312
+K2 centrale, branche abattement | decote d'execution A13;2044;6.445;151.401;7.099;5.901;158.845;145.353
+K2 centrale, branche abattement | decote d'execution A13;2045;6.585;153.909;7.257;6.026;161.825;147.465
+K2 centrale, branche abattement | decote d'execution A13;2046;6.764;156.528;7.455;6.19;164.921;149.685
+K2 centrale, branche abattement | decote d'execution A13;2047;6.946;159.258;7.654;6.357;168.135;152.01
+K2 centrale, branche abattement | decote d'execution A13;2048;7.13;162.1;7.857;6.526;171.464;154.442
+K2 centrale, branche abattement | decote d'execution A13;2049;7.317;165.051;8.063;6.697;174.909;156.981
+K2 centrale, branche abattement | decote d'execution A13;2050;7.507;168.114;8.272;6.872;178.471;159.625
+K3 centrale gel, sans mesures rejetees | si adopte;2026;5.5;118.692;5.5;5.5;118.692;118.692
+K3 centrale gel, sans mesures rejetees | si adopte;2027;4.773;120.59;5.063;4.566;121.254;120.167
+K3 centrale gel, sans mesures rejetees | si adopte;2028;4.809;121.839;5.168;4.546;122.885;121.135
+K3 centrale gel, sans mesures rejetees | si adopte;2029;4.759;123.044;5.091;4.495;124.24;122.176
+K3 centrale gel, sans mesures rejetees | si adopte;2030;4.798;124.512;5.186;4.485;126.082;123.34
+K3 centrale gel, sans mesures rejetees | si adopte;2031;4.954;126.113;5.373;4.62;128.07;124.636
+K3 centrale gel, sans mesures rejetees | si adopte;2032;4.968;127.494;5.358;4.648;129.677;125.805
+K3 centrale gel, sans mesures rejetees | si adopte;2033;4.93;128.983;5.398;4.539;131.577;126.949
+K3 centrale gel, sans mesures rejetees | si adopte;2034;4.885;130.387;5.431;4.423;133.459;127.948
+K3 centrale gel, sans mesures rejetees | si adopte;2035;4.836;131.705;5.461;4.304;135.32;128.8
+K3 centrale gel, sans mesures rejetees | si adopte;2036;4.952;133.068;5.584;4.409;137.19;129.714
+K3 centrale gel, sans mesures rejetees | si adopte;2037;5.064;134.507;5.703;4.51;139.129;130.704
+K3 centrale gel, sans mesures rejetees | si adopte;2038;5.185;136.055;5.84;4.617;141.196;131.791
+K3 centrale gel, sans mesures rejetees | si adopte;2039;5.305;137.68;5.975;4.721;143.341;132.953
+K3 centrale gel, sans mesures rejetees | si adopte;2040;5.423;139.379;6.108;4.824;145.563;134.187
+K3 centrale gel, sans mesures rejetees | si adopte;2041;5.548;141.173;6.253;4.931;147.896;135.504
+K3 centrale gel, sans mesures rejetees | si adopte;2042;5.671;143.043;6.397;5.037;150.31;136.891
+K3 centrale gel, sans mesures rejetees | si adopte;2043;5.795;144.986;6.542;5.142;152.804;138.347
+K3 centrale gel, sans mesures rejetees | si adopte;2044;5.919;147.001;6.686;5.247;155.376;139.869
+K3 centrale gel, sans mesures rejetees | si adopte;2045;6.043;149.085;6.832;5.353;158.023;141.455
+K3 centrale gel, sans mesures rejetees | si adopte;2046;6.206;151.276;7.016;5.497;160.784;143.142
+K3 centrale gel, sans mesures rejetees | si adopte;2047;6.371;153.574;7.203;5.643;163.657;144.93
+K3 centrale gel, sans mesures rejetees | si adopte;2048;6.539;155.977;7.393;5.791;166.643;146.818
+K3 centrale gel, sans mesures rejetees | si adopte;2049;6.709;158.486;7.586;5.942;169.741;148.806
+K3 centrale gel, sans mesures rejetees | si adopte;2050;6.883;161.101;7.781;6.095;172.951;150.894
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2026;5.5;118.692;5.5;5.5;118.692;118.692
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2027;4.93;120.593;5.146;4.776;121.087;120.279
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2028;5.005;122.009;5.271;4.809;122.785;121.488
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2029;5.035;123.536;5.28;4.838;124.421;122.894
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2030;5.122;125.3;5.409;4.889;126.461;124.434
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2031;5.312;127.238;5.623;5.064;128.687;126.145
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2032;5.385;129.055;5.675;5.148;130.671;127.803
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2033;5.449;131.022;5.783;5.171;132.931;129.527
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2034;5.506;132.995;5.886;5.188;135.233;131.223
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2035;5.559;134.967;5.984;5.201;137.573;132.886
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2036;5.704;137.005;6.134;5.34;139.951;134.627
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2037;5.847;139.132;6.281;5.476;142.412;136.458
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2038;5.996;141.369;6.44;5.616;144.997;138.391
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2039;6.144;143.694;6.598;5.754;147.671;140.41
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2040;6.29;146.103;6.755;5.89;150.429;142.511
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2041;6.442;148.61;6.919;6.03;153.297;144.703
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2042;6.593;151.201;7.084;6.169;156.253;146.975
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2043;6.744;153.873;7.249;6.308;159.294;149.325
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2044;6.895;156.624;7.415;6.447;162.419;151.75
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2045;7.048;159.454;7.581;6.587;165.626;154.251
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2046;7.239;162.399;7.787;6.766;168.953;156.863
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2047;7.433;165.459;7.996;6.947;172.399;159.586
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2048;7.63;168.633;8.207;7.131;175.963;162.419
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2049;7.83;171.921;8.422;7.318;179.646;165.363
+K3 centrale gel, sans mesures rejetees | decote d'execution A13;2050;8.033;175.324;8.64;7.508;183.449;168.418
+K4 prudente | si adopte;2026;5.5;118.692;5.5;5.5;118.692;118.692
+K4 prudente | si adopte;2027;4.47;120.64;4.887;4.148;121.501;119.989
+K4 prudente | si adopte;2028;4.576;121.578;5.021;4.234;122.874;120.595
+K4 prudente | si adopte;2029;4.507;122.284;4.863;4.23;123.683;121.211
+K4 prudente | si adopte;2030;4.637;123.575;5.011;4.347;125.314;122.237
+K4 prudente | si adopte;2031;4.86;125.101;5.245;4.56;127.176;123.502
+K4 prudente | si adopte;2032;4.887;126.315;5.213;4.632;128.511;124.611
+K4 prudente | si adopte;2033;5.052;127.959;5.386;4.79;130.426;126.042
+K4 prudente | si adopte;2034;5.212;129.719;5.553;4.943;132.457;127.588
+K4 prudente | si adopte;2035;5.368;131.588;5.718;5.093;134.598;129.242
+K4 prudente | si adopte;2036;5.523;133.562;5.881;5.241;136.847;131.0
+K4 prudente | si adopte;2037;5.675;135.636;6.043;5.386;139.198;132.856
+K4 prudente | si adopte;2038;5.827;137.809;6.204;5.53;141.65;134.807
+K4 prudente | si adopte;2039;5.977;140.073;6.364;5.672;144.197;136.847
+K4 prudente | si adopte;2040;6.126;142.425;6.523;5.813;146.835;138.974
+K4 prudente | si adopte;2041;6.275;144.864;6.683;5.953;149.563;141.185
+K4 prudente | si adopte;2042;6.423;147.386;6.842;6.094;152.378;143.477
+K4 prudente | si adopte;2043;6.572;149.989;7.002;6.234;155.276;145.846
+K4 prudente | si adopte;2044;6.721;152.671;7.163;6.374;158.257;148.293
+K4 prudente | si adopte;2045;6.871;155.431;7.324;6.515;161.319;150.815
+K4 prudente | si adopte;2046;7.06;158.306;7.524;6.695;164.499;153.448
+K4 prudente | si adopte;2047;7.252;161.294;7.727;6.877;167.796;156.193
+K4 prudente | si adopte;2048;7.446;164.396;7.933;7.062;171.21;159.049
+K4 prudente | si adopte;2049;7.643;167.612;8.142;7.25;174.742;162.016
+K4 prudente | si adopte;2050;7.843;170.942;8.354;7.441;178.39;165.094
+K4 prudente | decote d'execution A13;2026;5.5;118.692;5.5;5.5;118.692;118.692
+K4 prudente | decote d'execution A13;2027;4.816;120.624;5.076;4.617;121.176;120.219
+K4 prudente | decote d'execution A13;2028;4.947;121.923;5.225;4.736;122.744;121.314
+K4 prudente | decote d'execution A13;2029;4.998;123.283;5.215;4.829;124.155;122.623
+K4 prudente | decote d'execution A13;2030;5.16;125.064;5.388;4.983;126.144;124.243
+K4 prudente | decote d'execution A13;2031;5.405;127.098;5.64;5.222;128.381;126.118
+K4 prudente | decote d'execution A13;2032;5.511;128.994;5.707;5.357;130.341;127.954
+K4 prudente | decote d'execution A13;2033;5.699;131.216;5.899;5.541;132.724;130.047
+K4 prudente | decote d'execution A13;2034;5.883;133.562;6.088;5.72;135.232;132.264
+K4 prudente | decote d'execution A13;2035;6.063;136.024;6.272;5.896;137.857;134.596
+K4 prudente | decote d'execution A13;2036;6.241;138.599;6.456;6.07;140.597;137.04
+K4 prudente | decote d'execution A13;2037;6.417;141.281;6.637;6.241;143.444;139.59
+K4 prudente | decote d'execution A13;2038;6.591;144.067;6.817;6.411;146.396;142.241
+K4 prudente | decote d'execution A13;2039;6.764;146.95;6.997;6.58;149.449;144.99
+K4 prudente | decote d'execution A13;2040;6.937;149.929;7.175;6.747;152.599;147.832
+K4 prudente | decote d'execution A13;2041;7.11;153.001;7.354;6.915;155.843;150.766
+K4 prudente | decote d'execution A13;2042;7.282;156.163;7.533;7.082;159.18;153.788
+K4 prudente | decote d'execution A13;2043;7.455;159.413;7.713;7.25;162.606;156.897
+K4 prudente | decote d'execution A13;2044;7.629;162.749;7.893;7.418;166.121;160.09
+K4 prudente | decote d'execution A13;2045;7.804;166.17;8.075;7.588;169.722;163.367
+K4 prudente | decote d'execution A13;2046;8.018;169.713;8.296;7.796;173.447;166.764
+K4 prudente | decote d'execution A13;2047;8.235;173.377;8.519;8.008;177.296;170.28
+K4 prudente | decote d'execution A13;2048;8.455;177.162;8.746;8.222;181.268;173.917
+K4 prudente | decote d'execution A13;2049;8.678;181.069;8.977;8.44;185.363;177.673
+K4 prudente | decote d'execution A13;2050;8.904;185.098;9.211;8.661;189.582;181.549
+K5 ambitieuse large | si adopte;2026;5.5;118.692;5.5;5.5;118.692;118.692
+K5 ambitieuse large | si adopte;2027;4.226;120.598;4.765;3.825;121.727;119.802
+K5 ambitieuse large | si adopte;2028;4.2;121.274;4.841;3.718;123.081;119.977
+K5 ambitieuse large | si adopte;2029;3.94;121.433;4.534;3.479;123.542;119.87
+K5 ambitieuse large | si adopte;2030;3.898;122.061;4.574;3.368;124.822;119.992
+K5 ambitieuse large | si adopte;2031;4.013;122.771;4.726;3.455;126.168;120.203
+K5 ambitieuse large | si adopte;2032;3.9;122.994;4.556;3.378;126.759;120.102
+K5 ambitieuse large | si adopte;2033;3.821;123.486;4.561;3.222;127.881;120.077
+K5 ambitieuse large | si adopte;2034;3.736;123.879;4.56;3.059;128.973;119.89
+K5 ambitieuse large | si adopte;2035;3.645;124.171;4.553;2.891;130.03;119.541
+K5 ambitieuse large | si adopte;2036;3.722;124.506;4.645;2.951;131.103;119.247
+K5 ambitieuse large | si adopte;2037;3.794;124.907;4.734;3.007;132.236;119.016
+K5 ambitieuse large | si adopte;2038;3.877;125.404;4.84;3.068;133.488;118.868
+K5 ambitieuse large | si adopte;2039;3.956;125.968;4.943;3.125;134.81;118.783
+K5 ambitieuse large | si adopte;2040;4.034;126.594;5.045;3.181;136.199;118.756
+K5 ambitieuse large | si adopte;2041;4.118;127.303;5.158;3.24;137.689;118.798
+K5 ambitieuse large | si adopte;2042;4.201;128.076;5.271;3.298;139.252;118.896
+K5 ambitieuse large | si adopte;2043;4.283;128.91;5.383;3.354;140.885;119.049
+K5 ambitieuse large | si adopte;2044;4.365;129.803;5.495;3.41;142.586;119.253
+K5 ambitieuse large | si adopte;2045;4.446;130.754;5.607;3.466;144.354;119.507
+K5 ambitieuse large | si adopte;2046;4.566;131.799;5.758;3.559;146.224;119.848
+K5 ambitieuse large | si adopte;2047;4.688;132.937;5.911;3.654;148.198;120.274
+K5 ambitieuse large | si adopte;2048;4.811;134.169;6.067;3.75;150.274;120.785
+K5 ambitieuse large | si adopte;2049;4.937;135.493;6.225;3.848;152.451;121.381
+K5 ambitieuse large | si adopte;2050;5.065;136.909;6.385;3.949;154.731;122.061
+K5 ambitieuse large | decote d'execution A13;2026;5.5;118.692;5.5;5.5;118.692;118.692
+K5 ambitieuse large | decote d'execution A13;2027;4.637;120.592;4.987;4.38;121.339;120.081
+K5 ambitieuse large | decote d'execution A13;2028;4.669;121.699;5.092;4.354;122.896;120.859
+K5 ambitieuse large | decote d'execution A13;2029;4.578;122.656;4.972;4.271;124.056;121.633
+K5 ambitieuse large | decote d'execution A13;2030;4.61;123.946;5.063;4.253;125.784;122.581
+K5 ambitieuse large | decote d'execution A13;2031;4.774;125.371;5.254;4.398;127.638;123.669
+K5 ambitieuse large | decote d'execution A13;2032;4.776;126.526;5.217;4.422;129.042;124.6
+K5 ambitieuse large | decote d'execution A13;2033;4.814;127.92;5.304;4.416;130.853;125.652
+K5 ambitieuse large | decote d'execution A13;2034;4.845;129.307;5.384;4.404;132.696;126.663
+K5 ambitieuse large | decote d'execution A13;2035;4.872;130.684;5.459;4.387;134.566;127.63
+K5 ambitieuse large | decote d'execution A13;2036;4.995;132.128;5.591;4.5;136.48;128.671
+K5 ambitieuse large | decote d'execution A13;2037;5.114;133.652;5.72;4.609;138.472;129.795
+K5 ambitieuse large | decote d'execution A13;2038;5.241;135.282;5.861;4.722;140.583;131.013
+K5 ambitieuse large | decote d'execution A13;2039;5.365;136.992;6.0;4.833;142.777;132.31
+K5 ambitieuse large | decote d'execution A13;2040;5.488;138.779;6.138;4.942;145.051;133.681
+K5 ambitieuse large | decote d'execution A13;2041;5.616;140.657;6.285;5.054;147.429;135.134
+K5 ambitieuse large | decote d'execution A13;2042;5.743;142.613;6.431;5.165;149.89;136.66
+K5 ambitieuse large | decote d'execution A13;2043;5.87;144.642;6.577;5.276;152.431;138.256
+K5 ambitieuse large | decote d'execution A13;2044;5.998;146.745;6.724;5.386;155.05;139.919
+K5 ambitieuse large | decote d'execution A13;2045;6.125;148.918;6.871;5.497;157.745;141.648
+K5 ambitieuse large | decote d'execution A13;2046;6.292;151.2;7.057;5.647;160.555;143.48
+K5 ambitieuse large | decote d'execution A13;2047;6.46;153.588;7.246;5.798;163.477;145.415
+K5 ambitieuse large | decote d'execution A13;2048;6.632;156.084;7.438;5.952;166.512;147.451
+K5 ambitieuse large | decote d'execution A13;2049;6.806;158.686;7.632;6.109;169.661;149.59
+K5 ambitieuse large | decote d'execution A13;2050;6.982;161.395;7.83;6.268;172.922;151.829

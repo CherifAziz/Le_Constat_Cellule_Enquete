@@ -1,0 +1,25 @@
+reference;objectif;horizon;mesures_2027_pts;mesures_2030_pts;mesures_2035_pts;mesures_2050_pts;mesures_horizon_mdeur_echelle2025;mesures_horizon_mdeur_courants;deficit_reference_horizon;deficit_horizon;dette_horizon;dette_2050;interets_2050;solde_primaire_2050
+A : 2027 a politique inchangee (6,5 %);equilibre;2027;8.258;5.827;5.886;5.571;246.999;247.076;5.4;-0.0;121.265;61.635;2.31;2.31
+A : 2027 a politique inchangee (6,5 %);equilibre;2030;1.907;7.627;5.739;5.768;228.118;252.879;6.028;-0.0;117.738;66.333;2.494;2.494
+A : 2027 a politique inchangee (6,5 %);equilibre;2035;0.827;3.308;7.442;6.136;222.609;286.665;7.211;-0.0;115.161;75.39;2.847;2.847
+A : 2027 a politique inchangee (6,5 %);trois;2027;3.667;3.056;3.64;4.575;109.689;112.926;5.4;3.0;120.825;115.146;4.322;1.322
+A : 2027 a politique inchangee (6,5 %);trois;2030;0.958;3.831;3.573;4.661;114.579;129.262;6.028;3.0;122.62;117.179;4.402;1.402
+A : 2027 a politique inchangee (6,5 %);trois;2035;0.483;1.932;4.347;4.827;130.017;168.949;7.211;3.0;126.924;121.264;4.561;1.561
+A : 2027 a politique inchangee (6,5 %);stabilisation;2027;2.759;3.174;3.431;4.514;82.515;85.427;5.4;3.594;120.761;118.769;4.459;1.261
+A : 2027 a politique inchangee (6,5 %);stabilisation;2030;0.917;3.667;3.33;4.552;109.697;123.847;6.028;3.129;122.83;121.664;4.57;1.294
+A : 2027 a politique inchangee (6,5 %);stabilisation;2035;0.43;1.718;3.867;4.63;115.652;150.491;7.211;3.465;128.748;128.216;4.821;1.368
+A : 2027 a politique inchangee (6,5 %);baisse;2027;4.288;4.204;4.391;5.279;128.245;131.524;5.4;2.594;120.873;94.892;3.566;1.984
+A : 2027 a politique inchangee (6,5 %);baisse;2030;1.239;4.958;4.239;5.338;148.295;166.436;6.028;2.109;121.167;99.409;3.74;2.037
+A : 2027 a politique inchangee (6,5 %);baisse;2035;0.554;2.218;4.99;5.448;149.248;193.575;7.211;2.377;124.482;108.664;4.094;2.141
+B : solde primaire structurel 2025 maintenu;equilibre;2027;9.801;6.932;6.974;6.623;293.161;290.374;6.406;-0.0;122.915;61.938;2.321;2.321
+B : solde primaire structurel 2025 maintenu;equilibre;2030;2.268;9.074;6.796;6.857;271.398;298.828;7.168;-0.0;120.467;67.499;2.54;2.54
+B : solde primaire structurel 2025 maintenu;equilibre;2035;0.981;3.923;8.828;7.294;264.046;338.647;8.551;-0.0;119.892;78.273;2.959;2.959
+B : solde primaire structurel 2025 maintenu;trois;2027;5.207;4.158;4.728;5.626;155.751;158.822;6.406;3.0;122.392;115.419;4.333;1.333
+B : solde primaire structurel 2025 maintenu;trois;2030;1.319;5.276;4.628;5.749;157.807;176.852;7.168;3.0;125.309;118.331;4.447;1.447
+B : solde primaire structurel 2025 maintenu;trois;2035;0.637;2.547;5.731;5.985;171.429;221.865;8.551;3.0;131.636;124.14;4.673;1.673
+B : solde primaire structurel 2025 maintenu;stabilisation;2027;4.278;4.275;4.5;5.561;127.956;131.236;6.406;3.607;122.312;119.344;4.48;1.267
+B : solde primaire structurel 2025 maintenu;stabilisation;2030;1.257;5.027;4.346;5.62;150.348;168.687;7.168;3.197;125.628;123.837;4.653;1.319
+B : solde primaire structurel 2025 maintenu;stabilisation;2035;0.567;2.269;5.105;5.73;152.706;197.994;8.551;3.606;134.008;133.159;5.01;1.424
+B : solde primaire structurel 2025 maintenu;baisse;2027;5.808;5.306;5.459;6.326;173.718;176.479;6.406;2.607;122.449;95.486;3.589;1.991
+B : solde primaire structurel 2025 maintenu;baisse;2030;1.579;6.317;5.255;6.406;188.954;210.742;7.168;2.177;123.978;101.591;3.823;2.061
+B : solde primaire structurel 2025 maintenu;baisse;2035;0.692;2.768;6.229;6.549;186.305;240.768;8.551;2.518;129.751;113.612;4.284;2.197

@@ -1,0 +1,212 @@
+﻿identifiant;ligne_V5;affirmation;verdict_cellule;accord_avec_autre_equipe;verdict_apres_comparaison;note;piece;motif_cellule;niveau_preuve
+V5-B1-01;5;La France est le pays de l'UE qui prélève le plus d'impôts et de cotisations;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B1-02;5;en déficit depuis 51 ans;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B1-03;7;La dernière fois que nos comptes publics ont fini l'année en excédent, c'était en 1974;exact;accord;exact;;-;"Le solde officiel (+0,1 %) est la bonne mesure ; verdict maintenu";A
+V5-B1-04;7;Un excédent minuscule;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B1-05;7;L'année suivante, la récession qui suit le premier choc pétrolier fait plonger les comptes;trop général;accord;trop général;;-;"La V5 attribue la plongée de 1975 à la seule récession ; les plans de relance votés pèsent autant (budget de l'État ; part pour l'ensemble des APU non établie)";A
+V5-B1-06;7;Et depuis, chaque année, sans exception, ils sont dans le rouge. 51 années de suite;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B1-07;7;Gauche, droite, centre : aucun gouvernement n'a ramené les comptes à l'équilibre;exact;accord;exact;;-;"Erreur d'A18 en passe 1 : le motif disait « meilleur solde -1,3 % en 2000 » ; c'est -0,4 % en 1980. Verdict inchangé";A
+V5-B1-08;9;Le 4 novembre, les députés ont voté sur la partie recettes du budget 2027;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B1-09;9;458 voix contre. Zéro pour;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B1-10;9;À force d'être modifié par chaque camp, le texte ne convenait plus à personne;non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;E
+V5-B1-11;11;Cette année, rien que les intérêts de notre dette coûtent plus de 1 100 euros par habitant;exact;accord;exact;;-;verdict de passe 1 maintenu;D
+V5-B1-12;11;Et aujourd'hui, la France emprunte plus cher que l'Italie;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B1-13;13;Un pays riche. Qui prélève plus que tous ses voisins;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B1-14;13;Et qui connaît son problème depuis des décennies;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B1-15;15;une note interne de Bercy qui recommandait de ne pas communiquer un chiffre;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B1-16;17;un pays dont le déficit était deux fois plus profond que le nôtre;exact;accord;exact;;-;"Exact en solde publié ; le pic comprend une dépense ponctuelle de sauvetage bancaire (≈3 pts selon Astra, non relu par A18)";A
+V5-B1-17;17;Il s'en est sorti en cinq ans;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-01;25;152 milliards d'euros. C'est ce qui a manqué à la France l'an dernier;exact;accord;exact;;-;Correction de la date de millésime dans la passe 1;A
+V5-B2-02;25;Sur 100 euros dépensés par l'État, la Sécurité sociale et les collectivités, 9 ont été empruntés;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-03;25;Plus de 400 millions d'euros. Chaque jour;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-04;27;1975 : la récession après le choc pétrolier;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-05;27;1993 : une autre récession;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-06;27;2009 : la crise financière;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-07;27;2020 : le Covid. « Quoi qu'il en coûte »;non vérifié;désaccord;révisé après comparaison;tranché en faveur de l'autre équipe;[C] Élysée, adresse aux Français du 12/03/2020, retéléchargée par C01 (curl, sha256 373e5510…) : « quoi qu'il en coûte » trois fois (soins, salariés et entreprises, relance européenne);verdict de passe 1 maintenu;-
+V5-B2-08;27;207 milliards de déficit en une seule année, le record;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-09;29;En 2000, la croissance dépasse 4 %;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-10;29;Les impôts rentrent tellement mieux que prévu qu'on parle d'une « cagnotte »;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-11;29;La courbe remonte… et s'arrête sous la ligne;exact;accord;exact;;-;"Le motif de passe 1 (« meilleur solde de 1975-2025 » pour 2000) est faux ; 2000 est le meilleur solde depuis 1981";A
+V5-B2-12;31;Même chose en 2018;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-13;31;Et l'an dernier, sans aucune crise, il manquait encore l'équivalent de 5 % de toute la richesse produite;exact;désaccord;exact;désaccord non tranché;"aucune pièce ne tranche le mot « crise » ; il faudrait une datation conventionnelle des récessions (comité de datation) pour 2025";verdict de passe 1 maintenu;A
+V5-B2-14;33;Un État n'a pas besoin d'être à zéro : il peut rester en déficit tant que sa dette grossit moins vite que son économie;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-15;33;l'an dernier, notre dette a grossi plus de deux fois plus vite que notre économie;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B2-16;35;Le trou n'est pas un accident. Il est dans la machine elle-même;non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;F
+V5-B3-01;41;Cette année-là [1974], nos dépenses publiques et nos recettes pèsent chacune 41 % de la richesse produite. Elles s'équilibrent;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-02;41;Aujourd'hui, les recettes sont à 52 %;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-03;41;Mais les dépenses, elles, sont à 57 %;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-04;41;En 51 ans, les recettes ont pris 11 points. Les dépenses, 16;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-05;41;Le trou d'aujourd'hui, c'est cette différence;exact;cellule seule;exact;audité par la cellule seulement;-;verdict de passe 1 maintenu;A
+V5-B3-06;43;presque toute cette hausse des dépenses s'est faite en vingt ans : dès 1993, elles sont déjà à 56 %;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-07;43;Depuis trente ans, elles tournent autour de ce niveau;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-08;45;En 1974, la France sort de quinze ans de croissance à plus de 5 % par an;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-09;45;Ses retraites, sa santé, ses allocations ont été bâties sur ce rythme;non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;F
+V5-B3-10;45;Puis vient le choc pétrolier : la croissance tombe autour de 2 %;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-11;45;Les droits, eux, continuent sur leur lancée;non démontré;cellule seule;non démontré;audité par la cellule seulement;-;;C
+V5-B3-12;45;Le chômage de masse s'installe;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-13;45;En 1982, on décide la retraite à 60 ans;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-14;45;Pendant dix ans, on monte les impôts et les cotisations pour suivre;exact;cellule seule;exact;audité par la cellule seulement;-;verdict de passe 1 maintenu;A
+V5-B3-15;45;Vers 1985, ils plafonnent : en quarante ans, les recettes n'ont pris qu'un point de plus. Les dépenses, trois;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-16;45;en 1993, la moitié du trou, ce sont déjà les intérêts des trous d'avant;exact;accord;exact;;-;;A
+V5-B3-17;49;Premier arrêt : la retraite. 24 euros. Un sur quatre;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-18;49;la santé ... Puis les allocations ... À elles trois, plus de la moitié de la dépense;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-19;49;L'école, l'armée, la police, la justice, les routes et les ministères se partagent le reste;trop général;accord;trop général;;-;verdict de passe 1 maintenu;A
+V5-B3-20;49;Le cœur de la dépense, ce n'est pas le train de vie de l'État. C'est la protection sociale;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-21;51;L'an dernier, la France a dépensé 7 points et demi de richesse de plus que cette moyenne [zone euro];exact;accord;exact;;-;Écart de 0,1 dû au dénominateur;A
+V5-B3-22;51;Près des deux tiers de cet écart, c'est la protection sociale et la santé, et d'abord la vieillesse;exact;accord;exact;;-;"Le « près des deux tiers » de la V5 tient (64-65 %) ; le chiffre de 8,1 cité en passe 1 doit être remplacé par 7,7-7,8";A
+V5-B3-23;51;Elle a prélevé plus aussi : un peu plus de 5 points;inexact;désaccord;inexact;désaccord tranché en faveur de la cellule;"[C] base commune Eurostat gov_10a_taxag (D2_D5_D91_D61_M_D995, % PIB) : FR 46,0 ; EA20 41,3 en 2025, écart 4,7 < 5";La V5 emploie « prélever » au sens d'impôts et cotisations (B1, l.5) : sur ce périmètre l'écart est inférieur à 5 points. A18 avait accepté la lecture « recettes totales » en passe 1;A
+V5-B3-24;51;Les 2 points qui manquent, c'est exactement l'écart entre notre déficit et celui de la zone euro;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-25;53;En 2002, il y avait 2,1 cotisants pour un retraité;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-26;53;Les enfants du baby-boom sont arrivés à la retraite;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-27;53;Aujourd'hui, on n'en est plus qu'à 1,8;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-28;53;En 2070, d'après le COR, environ 1,3;exact;accord;exact;;-;verdict de passe 1 maintenu;D
+V5-B3-29;53;Si tu as trente ans aujourd'hui, c'est pendant ta retraite qu'on en sera là;exact;accord;exact;;-;verdict de passe 1 maintenu;D
+V5-B3-30;55;D'après la Cour des comptes, les baisses d'impôts décidées depuis 2018 coûtaient 62 milliards en 2023, sans économies en face;exact;accord;exact;;-;"Exact comme attribution à la Cour ; la Cour n'expose pas le calcul";A
+V5-B3-31;55;Baisser les impôts sans baisser les dépenses, c'est emprunter la différence;exact;cellule seule;exact;audité par la cellule seulement;-;verdict de passe 1 maintenu;A
+V5-B3-32;57;Tout combler par l'impôt, ce serait 150 milliards de prélèvements en plus : aucun pays de l'Union ne prélève autant;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-33;57;Tout combler par la dépense nous laisserait encore au-dessus de la moyenne de la zone euro;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-34;57;Avec les prélèvements les plus élevés de l'Union, la France ne refermera pas son déficit sans toucher à la dépense;non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;F
+V5-B3-35;59;Or elle monte par marches;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B3-36;59;Si c'était seulement ça [un modèle trop cher], elle monterait doucement, régulièrement;non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;F
+V5-B3-37;59;Comme si, à chaque crise, quelque chose l'empêchait de redescendre;trop général;accord;trop général;;-;verdict de passe 1 maintenu;A
+V5-B4-01;65;« Je suis à la tête d'un État qui est en situation de faillite sur le plan financier. »;exact;accord;exact;;-;verdict de passe 1 maintenu;E
+V5-B4-02;65;Septembre 2007. C'est le Premier ministre qui parle;exact;accord;exact;;-;verdict de passe 1 maintenu;E
+V5-B4-03;65;À ce moment-là, notre dette représente 8 mois de toute la production du pays;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-04;65;Aujourd'hui : près de 14;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-05;67;Notre dette fonctionne comme ça [une clé à cliquet];non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;F
+V5-B4-06;69;2008 : la crise financière. Les recettes chutent, l'État lance un plan de relance;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-07;69;En cinq ans, la dette gagne l'équivalent de trois mois de production;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-08;69;La dette ne redescend pas : de 2012 à 2019, sans récession, elle continue même de monter un peu;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-09;71;2020 : le Covid ... La dette prend encore deux mois de production;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-10;71;Puis viennent les boucliers sur l'énergie : 36 milliards nets de 2021 à 2024;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-11;71;des aides « sans ciblage particulier », note la Cour des comptes;exact;désaccord;exact;désaccord tranché en faveur de la cellule;[C] Cour des comptes, mars 2024, retéléchargée par C01 sur vie-publique.fr/files/rapport/pdf/293446.pdf (sha256 462a9fab…, identique à la copie d'A18), p. 9 du PDF : « boucliers et remises – qui soutiennent les consommations d'énergie des ménages sans ciblage particulier ni limite en volumes »;verdict de passe 1 maintenu;A
+V5-B4-12;75;En mars [2000], le gouvernement chiffre le surplus de recettes à 50 milliards de francs;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-13;75;Une partie sert à baisser les impôts : la TVA perd un point;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-14;75;Ça n'aurait pas suffi à refermer le trou;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-15;75;Le déficit, lui, reste là;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-16;77;Août 2007. Une nouvelle majorité, et sa loi phare de l'été baisse plusieurs impôts;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-17;77;Un mois plus tard, c'est son Premier ministre qui parle de faillite;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-18;79;Deux majorités opposées, le même réflexe;trop général;accord;trop général;;-;verdict de passe 1 maintenu;F
+V5-B4-19;79;retirer une aide, c'est la reprendre à quelqu'un ... Alors l'aide dure, la baisse reste;inexact;désaccord;inexact;désaccord apparent : faits compatibles, verdict de la cellule maintenu;"pièce de la cellule (aides de crise 83,7 Md€ en 2021 -> 12,4 en 2023) ; Codex ne la contredit pas";"« L'aide dure » est contredit pour les aides de crise : elles ont été retirées en deux ans ; la phrase reste vraie pour la dette accumulée (B4-20)";A
+V5-B4-20;79;Et même quand l'aide finit par s'arrêter, la dette qui l'a payée, elle, ne repart pas;exact;cellule seule;exact;audité par la cellule seulement;-;verdict de passe 1 maintenu;A
+V5-B4-21;81;De 2014 à 2019, [l'Allemagne] dégage un excédent chaque année. Six années de suite;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-22;81;Sa dette passe de près de 10 mois de production à 7;inexact;accord;inexact;;-;verdict de passe 1 maintenu;A
+V5-B4-23;81;La France, sur ces six années ? Pas un seul excédent;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-24;81;un frein à l'endettement inscrit dans sa Constitution en 2009;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B4-25;81;et elle a profité de taux très bas;exact;cellule seule;exact;audité par la cellule seulement;-;verdict de passe 1 maintenu;A
+V5-B4-26;81;des économistes allemands lui reprochent des investissements repoussés;exact;accord;exact;;-;verdict de passe 1 maintenu;C
+V5-B4-27;81;et en 2025, l'Allemagne l'a assoupli;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B4-28;83;Chez nous, la roue avance à chaque crise et ne revient jamais à son point de départ;exact;cellule seule;exact;audité par la cellule seulement;-;verdict de passe 1 maintenu;A
+V5-B4-29;83;Décembre 2023 : une loi promet un déficit ramené à 2,7 % en 2027;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-30;83;Le budget 2027 vise… 5 %;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-31;85;Le 7 décembre 2023, une note interne alerte : le déficit de l'année ne serait pas de 4,9 %, comme prévu, mais de 5,2;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-32;85;Elle recommande de ne pas communiquer sur ce chiffre, encore trop incertain;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-33;85;Le Parlement, qui vote alors le budget suivant, n'en est pas informé;exact;cellule seule;exact;audité par la cellule seulement;-;verdict de passe 1 maintenu;A
+V5-B4-34;85;Onze jours plus tard, la loi des 2,7 %, votée en novembre sur les anciens chiffres, est promulguée telle quelle;inexact;désaccord;inexact;désaccord tranché en faveur de la cellule;[C] copie conservée par la cellule : donnees\A08\sources\textes\CC_2023857DC.txt (Conseil constitutionnel, décision 2023-857 DC du 14/12/2023, saisine du 16/11/2023 contestant l'engagement de responsabilité au titre de l'art. 49 al. 3);"La date de la cellule est compatible (saisine le 16/11) ; « votée » reste impropre";A
+V5-B4-35;85;C'est le Sénat qui a tout reconstitué;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-36;85;Le ministre de l'époque a répondu que cette note ne justifiait pas de corriger le budget;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-37;85;Au final, ce sera pire que la note : 5,4 %;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-38;87;Aujourd'hui, la promesse a seulement changé de date : repasser sous les 3 % en 2029;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B4-39;87;Pour le HCFP, cet objectif « semble peu plausible »;inexact;désaccord;à préciser après comparaison;TRANCHÉ : les deux équipes ont en partie tort;"[C] AN, commission des finances, audition du HCFP du 1/10/2026, CR n° 002, retéléchargé par C01 (sha256 8dad8b18…) : « il nous semble peu plausible qu'elle soit atteinte en 2029 » prononcé par M. Michaël Zemmour, membre du Haut Conseil, et non par la présidente ; l'avis écrit dit « très peu vraisemblable »";"Guillemets non conformes ; confusion possible avec la Cour (2024)";A
+V5-B4-40;89;Dès 2005, un rapport remis au gouvernement s'intitulait déjà : « Rompre avec la facilité de la dette publique »;exact;accord;exact;;-;PDF original tronqué;B
+V5-B5-01;99;Mars 2023. Le gouvernement veut repousser l'âge de la retraite de 62 à 64 ans;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-02;99;La retraite : ... le poste le plus lourd de la dépense publique;exact;cellule seule;exact;audité par la cellule seulement;-;verdict de passe 1 maintenu;A
+V5-B5-03;101;Dès septembre, ceux qui comptaient partir à l'automne doivent attendre;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-04;101;D'après la Cour des comptes, la réforme commence même par coûter, à cause des mesures qui l'accompagnent;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-05;101;Son gain n'atteint une dizaine de milliards par an qu'en 2030;exact;accord;exact;;-;Périmètre retraite seul;A
+V5-B5-06;101;Le bénéfice plein, sept ans plus tard. Après la prochaine élection;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-07;103;la Première ministre fait passer la réforme sans vote, avec le 49.3;exact;désaccord;exact;désaccord non tranché;"fait non disputé : 49.3 à l'Assemblée ; pièce qui documenterait le vote du Sénat : scrutin du Sénat sur les conclusions de la CMP (mars 2023), non relu par C01";verdict de passe 1 maintenu;A
+V5-B5-08;103;Quatre jours plus tard, son gouvernement échappe à la censure. À neuf voix;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-09;105;Un an plus tard, en juin 2024, l'Assemblée est dissoute;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B5-10;105;Depuis, aucun camp n'a la majorité;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B5-11;109;Michel Barnier, passe en force : 49.3 sur un budget de la Sécurité sociale qui réduit et retarde la hausse des pensions;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-12;109;Le 4 décembre 2024, des députés que tout oppose votent la même motion de censure;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-13;109;elle lui reproche, entre autres, de faire payer les retraités;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-14;109;Pour la première fois depuis 1962, les députés renversent un gouvernement;exact;accord;exact;;-;;A
+V5-B5-15;111;Son plan : près de 44 milliards d'euros d'effort;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B5-16;111;dont une « année blanche » où les pensions et les allocations ne suivent plus les prix;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B5-17;111;Il demande la confiance des députés, sur un discours consacré à un seul sujet : la dette;trop général;désaccord;trop général;désaccord non tranché;"déclaration du 8/9/2025 (lue par la cellule) : centrée sur la dette, traite aussi production et éducation ; Codex ne le conteste pas";verdict de passe 1 maintenu;A
+V5-B5-18;111;364 voix contre;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-19;111;Neuf mois après Barnier, il tombe à son tour;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-20;113;En octobre 2025, une partie de l'opposition fait de la suspension de la réforme des retraites la condition pour ne pas le renverser;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B5-21;113;Il la propose, jusqu'après la présidentielle;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-22;113;et promet de renoncer au 49.3;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-23;113;Il n'est pas renversé;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-24;113;En décembre, le budget de la Sécurité sociale est voté. Sans 49.3;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-25;113;Avec la suspension dedans;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B5-26;115;trois millions et demi de Français, d'après le Premier ministre;exact;accord;exact;;-;verdict de passe 1 maintenu;E
+V5-B5-27;115;La suspension coûtera près de 2 milliards d'euros à l'ensemble du système de retraite en 2027;exact;accord;exact;;-;verdict de passe 1 maintenu;D
+V5-B5-28;117;pour survivre, le gouvernement a desserré le levier de la retraite, au lieu de le tirer;non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;F
+V5-B5-29;119;Barnier et Bayrou demandaient un effort, pensions comprises : ils sont tombés. Lecornu a suspendu la réforme : il est toujours en place;exact;accord;exact;;-;"Les faits sont exacts ; la causalité suggérée reste « non démontrée » (B5-30)";A
+V5-B5-30;119;[juxtaposition implicite] la suspension explique le maintien de Lecornu;non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;F
+V5-B5-31;121;Le budget de l'État, lui, ne passe qu'en février. Avec trois 49.3, malgré la promesse d'octobre;exact;accord;exact;;-;Trois engagements de responsabilité attestés sur pièce primaire;A
+V5-B5-32;123;En séance, les députés réécrivent le budget : des taxes sont ajoutées, des efforts retirés, dont un qui touchait encore les retraités;trop général;désaccord;trop général;désaccord non tranché;"CR AN du 4/11/2026 (lu par les deux équipes) : la cellule y relève une baisse nette de 16 Md€ de prélèvements ; Codex ne la contredit pas";verdict de passe 1 maintenu;A
+V5-B5-33;123;d'après le ministre des Comptes publics, le déficit prévu n'est plus de 5 %, mais de 5,9;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-34;123;Comme en 2024, comme en 2025, la partie recettes est rejetée. Trois automnes de suite;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-35;125;On trouve une majorité pour retirer un effort. Pas pour voter le budget qui en résulte;exact;cellule seule;exact;audité par la cellule seulement;-;verdict de passe 1 maintenu;B
+V5-B5-36;127;Dans le rapport qui accompagne le budget 2027, le gouvernement maintient sa promesse : sous les 3 % en 2029;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-37;127;cette trajectoire « revêt un caractère conventionnel du fait des échéances électorales de 2027 »;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-38;127;Ce sera au prochain gouvernement d'en écrire une autre;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-39;127;Comme la suspension des retraites : ce qui coûte des voix est renvoyé après l'élection;non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;F
+V5-B5-40;129;Le 22 octobre, le taux auquel la France emprunte à dix ans a dépassé 5 %;non vérifié;désaccord;révisé après comparaison;tranché en faveur de l'autre équipe;[C] Banque de France, indices obligataires du 22/10/2026, lu par C01 via WebFetch (curl HTTP 403, pas de copie) : TEC10 4,9280 (20/10), 4,9850 (21/10), 5,1260 (22/10);"Si les dépêches disent vrai, la date de la V5 est décalée d'un jour ; aucune série quotidienne officielle";E
+V5-B5-41;129;Plus que l'Italie;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-42;129;L'Italie est pourtant plus endettée que nous;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-43;129;Mais avant de payer ses intérêts, elle dégage un excédent;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-44;129;La France, un déficit de près de 3 % de sa richesse;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-45;131;depuis 2022, les taux ont monté partout;exact;désaccord;exact;désaccord non tranché;"[C] Eurostat irt_lt_mcby_a, retéléchargé par C01 : les 30 séries (UE27, EA, 27 pays, UK) sont plus hautes en 2022-2025 qu'en 2021 ; pièce qui trancherait : taux longs hors Europe 2021-2026 (la V5 dit « partout » et « taux mondiaux », l.131 et 135)";verdict de passe 1 maintenu;A
+V5-B5-46;131;À la veille de la dissolution, un demi-point;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B5-47;131;Fin octobre, près de trois fois plus;exact;accord;exact;;-;"Passe 1 reposait sur des moyennes mensuelles ; la Commission donne le point de fin octobre : ×3,2 par rapport à 0,5";A
+V5-B5-48;131;le gouvernement cite lui-même « les interrogations sur la situation politique en France »;non vérifié;accord;non vérifié;;-;Attribution au gouvernement non étayée : le lien est fait par la Commission (en anglais) et le HCFP;-
+V5-B5-49;133;L'an prochain, rien que pour l'État, la charge de la dette pèsera autant que tout le budget de la Défense : 72 milliards d'euros;exact;accord;exact;;-;En crédits de paiement de l'état B, pensions comprises, la Défense pèse 73,2 Md€ contre 72,4 Md€ de charge de la dette : « autant » est exact. Le « faux » de passe 1 reposait sur le seul chiffre hors pensions du dossier de presse;A
+V5-B5-50;133;chaque dixième de point de taux qui dure finit par coûter 4 milliards de plus par an;exact;désaccord;exact;désaccord non tranché;"PAP 117 du PLF 2027 (simulation au-delà de dix ans) ; la cellule : 3,3 Md€ par dixième la 10e année, État ; Codex : 3,46 Md€ sur l'encours S13 actuel";3,3 Md€ par dixième de point la 10e année et en hausse : « finit par coûter 4 Md€ » est un ordre de grandeur atteint au-delà de dix ans (État, comptabilité maastrichtienne). La passe 1 n'avait lu que le texte (années 1 et 5) et concluait à tort à « faux »;A
+V5-B5-51;133;Plus que tout le budget de la Culture;non démontré;accord;non démontré;;-;Le dixième de point ne dépasse la mission Culture (3,4 à 3,65 Md€) qu'au-delà de l'horizon de dix ans de la simulation officielle;A
+V5-B5-52;135;Cet écart-là, c'est le jugement des prêteurs sur elle;trop général;accord;trop général;;-;verdict de passe 1 maintenu;F
+V5-B5-53;135;Le blocage a un prix. Il se paie à chaque nouvel emprunt;non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;C
+V5-B6-01;143;Octobre 1994. Göran Persson devient ministre des Finances de la Suède;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-02;143;Peu après, il s'envole pour New York ... convaincre des investisseurs de Wall Street de continuer à acheter la dette;non vérifié;accord;non vérifié;;-;verdict de passe 1 maintenu;E
+V5-B6-03;143;Il dort dans un hôtel bon marché, infesté de cafards : son ministère interdit toute dépense superflue;exact;désaccord;exact;désaccord non tranché;pièce qui trancherait : G. Persson, Den som är satt i skuld är icke fri (1997), passage sur le voyage à New York;Reste [S] : livre non consulté;E
+V5-B6-04;145;Une crise bancaire, une récession brutale;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-05;145;En novembre 1992, sa monnaie a dû flotter, et elle a plongé;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-06;145;En 1993, son déficit public atteint environ 12 % de sa richesse;inexact;désaccord;à préciser après comparaison;"TRANCHÉ : les deux chiffres sont exacts dans leur millésime ; le verdict dépend de la convention";"[C] copie Codex (FMI, Sweden: Selected Issues 1998, p.6, n.2, image suede_p6.png copiée sous C01\copies_codex) : « recorded deficit in 1993 was 12 1/4 percent of GDP ; one-off bank support … about 3 percentage points » ; cellule : OCDE millésime 2026 -10,7 %";"Écart expliqué par la comptabilité de l'époque, non par une invention ; la comparaison avec la France doit se faire en comptes harmonisés";A
+V5-B6-07;145;Plus du double du nôtre aujourd'hui;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B6-08;145;Cinq ans plus tard, en 1998, ses comptes sont en excédent;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B6-09;147;Avec un plan massif lancé à l'automne 1994;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-10;147;presque deux tiers des mesures sont des baisses de dépenses, d'après le ministre lui-même;exact;accord;exact;;-;"La V5 attribue le chiffre au ministre ; exact comme citation, pas comme bilan final";E
+V5-B6-11;147;Sa consigne : « Ne dites jamais que ça ne fera pas mal. »;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-12;147;En 1996, le chômage est encore à 8 %, et à plus de 12 % en comptant les personnes en programmes d'emploi;exact;accord;exact;;-;Vérifié en définition nationale de l'époque;A
+V5-B6-13;147;Et la Suède avait un atout que la France n'a plus : sa propre monnaie;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-14;149;En 1995, il raconte que l'objectif de revenir à l'équilibre est soutenu par 94 % du Parlement;exact;accord;exact;;-;verdict de passe 1 maintenu;E
+V5-B6-15;149;Les Suédois se disputent sur les moyens. Pas sur le but;trop général;accord;trop général;;-;verdict de passe 1 maintenu;E
+V5-B6-16;149;son gouvernement l'écrira : sans la coopération avec le Parti du centre ... ce redressement n'aurait pas été possible;exact;désaccord;exact;désaccord tranché en faveur de la cellule;[C] Prop. 1997/98:150, The Budget Statement, retéléchargée par C01 sur regeringen.se (sha256 259a0f20…, identique à la copie d'A18), p. 4 du PDF : « The recovery … since 1994 is unique. It would not have been possible without co-operation … between the Social-Democrats and the centre party »;;A
+V5-B6-17;151;on sait ce qu'il faut faire, alors pourquoi ne le fait-on pas ? Sa réponse : c'est une question politique;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-18;153;La première : un effort réparti équitablement;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-19;153;La deuxième : un plan présenté d'un seul bloc, pour que chacun voie qu'il n'est pas le seul à qui on demande des sacrifices;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-20;153;Chez nous, les efforts se retirent un par un;trop général;cellule seule;trop général;audité par la cellule seulement;-;verdict de passe 1 maintenu;C
+V5-B6-21;153;La troisième : tout mettre sur la table, les hypothèses, les calculs, les mauvaises nouvelles;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-22;153;À cette date, il n'a jamais eu à corriger une prévision de déficit dans le mauvais sens;exact;accord;exact;;-;verdict de passe 1 maintenu;E
+V5-B6-23;153;La Suède y ajoute un verrou : le Parlement vote d'abord le total des dépenses;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B6-24;153;Résultat, d'après le ministre : il ne peut plus sortir un budget plus déséquilibré que celui qu'on lui a présenté;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-25;153;Chez nous, un député n'a pas le droit d'ajouter une dépense;trop général;accord;trop général;;-;La formule de la V5 (et celle d'A08) omet la faculté de redéploiement au sein d'une mission;A
+V5-B6-26;153;Mais il peut retirer une économie;exact;cellule seule;exact;audité par la cellule seulement;-;verdict de passe 1 maintenu;A
+V5-B6-27;153;C'est ce qui s'est passé cet automne;trop général;accord;trop général;;-;« C'est ce qui s'est passé cet automne » illustre le retrait d'une économie, alors que l'essentiel du retrait est fiscal;A
+V5-B6-28;155;Ce n'est pas faute de savoir : les alertes s'empilent depuis vingt ans;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-29;155;Le trou vient d'une dépense qui a pris de l'avance il y a plus de trente ans, et que personne n'a rattrapée : ni en dépensant moins, ni en prélevant assez;non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;C
+V5-B6-30;155;Chaque crise l'a creusé un peu plus;trop général;accord;trop général;;-;verdict de passe 1 maintenu;A
+V5-B6-31;157;La réforme des retraites ... : une dizaine de milliards par an, en 2030. Le plan que portait Bayrou ... : 44. Le trou : 150;inexact;accord;inexact;;-;;A
+V5-B6-32;159;Ce qui manque à la France, ce n'est pas le calcul. C'est un accord sur l'effort. Sur la dépense d'abord;non démontré;accord;non démontré;;-;verdict de passe 1 maintenu;F
+V5-B6-33;159;La Suède l'a trouvé au pied du mur, quand il fallait aller convaincre les prêteurs;exact;cellule seule;exact;audité par la cellule seulement;-;verdict de passe 1 maintenu;E
+V5-B6-34;159;quand un État doit emprunter à ce point, le pouvoir passe des élus à ceux qui lui prêtent;exact;accord;exact;;-;verdict de passe 1 maintenu;B
+V5-B6-35;159;Mais elle emprunte déjà plus cher que l'Italie;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B6-36;159;[généralisation] La leçon suédoise s'applique à la France;non démontré;cellule seule;non démontré;audité par la cellule seulement;-;verdict de passe 1 maintenu;C
+V5-B6-37;161;Sur le registre, 51 pages sont rouges;exact;accord;exact;;-;verdict de passe 1 maintenu;A
+V5-B1-M1;;[l.15] on a ouvert 51 ans de comptes publics, des rapports de la Cour des comptes, des débats du Parlement;-;Codex seul;non audité par la cellule;relevé par l'autre équipe seulement;-;Méthode du documentaire, non vérifiable par pièce;-
+V5-B4-M1;;[l.73] Les crises, on ne les choisit pas. Ce qu'on fait après, si.;non démontré;cellule seule;non démontré;audité par la cellule seulement;-;Jugement;-
+V5-B5-M1;;[l.105] Pour faire voter un effort, il faut désormais les voix d'un adversaire;exact;désaccord;à préciser après comparaison;TRANCHÉ : les deux ont en partie raison;"[C] copie conservée par la cellule : donnees\A09\sources\an_scrutins\scrutin_17_4758.html (PLFSS 2026, lecture définitive, 16/12/2025) : 247 pour, 232 contre, 90 abstentions ; pour : EPR 91, DEM 36, DR 18, HOR 9, SOC 64, LIOT 20, NI 6, ECOS 2, GDR 1";Conséquence arithmétique de l'absence de majorité (CR AN 14/10/2025 : « sans majorité absolue »);-
+V5-B5-M2;;[l.107] Trois Premiers ministres vont essayer;exact;accord;exact;;-;"Barnier, Bayrou, Lecornu (scrutins 519 et 3054 ; PLFG 2026 signé par S. Lecornu)";-
+V5-B5-M3;;[l.137] Un autre pays d'Europe a connu un déficit deux fois plus profond. Et il en est revenu.;exact;accord;exact;;-;Répétition de V5-B1-16 et V5-B1-17;-
+V5-B6-M1;;[l.155] Ce n'est pas faute d'argent : il prélève plus que tous ses voisins;exact;accord;exact;;-;Répétition de V5-B1-13 (vrai en 2025, faux en 2024);-
+V5-B4-30/B5-33 (révision);;Déficit 2026-2027 : 5,4 % (PLFG) et 5 % visé en 2027;exact;accord;exact;;-;Révision postérieure au script que la passe 1 n'avait pas trouvée : la cible de 5 % reste exacte comme objectif, mais la prévision indépendante la plus récente est 5,4 %;A
+S02 Canada;;(la V5 ne cite pas le Canada);-;sans objet;-;;-;Script S02 non audité : la V5 ne cite pas le Canada (signalement seulement);-
+CX-L47;47;Demande autour de toi : on te parlera des ministres, des voitures de fonction, du « train de vie de l'État »;-;Codex seul;non audité par la cellule;relevé par l'autre équipe seulement;pièce qui trancherait : sondage d'opinion sur la perception de la dépense publique;;
+CX-L75;75;Mais c'était l'année où l'on pouvait commencer;-;Codex seul;non audité par la cellule;relevé par l'autre équipe seulement;série Insee du solde 1993-2000 (base commune) : -6,4 % en 1993 à -1,3 % en 2000;;
+CX-L161;161;Celle de 2027 est encore blanche;-;Codex seul;non audité par la cellule;relevé par l'autre équipe seulement;-;;

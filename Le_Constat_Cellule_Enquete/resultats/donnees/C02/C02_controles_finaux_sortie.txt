@@ -1,0 +1,23 @@
+=== Ratio de dette (% PIB, dette base commune / PIB t_3106 l.29) ===
+niveau 1980 = 21.3 ; annees ulterieures a un niveau <= : aucune
+niveau 1992 = 41.7 ; annees ulterieures a un niveau <= : aucune
+niveau 2007 = 65.5 ; annees ulterieures a un niveau <= : aucune
+niveau 2019 = 98.2 ; annees ulterieures a un niveau <= : aucune
+min 1993-2025 : 48.2 (1993)
+
+=== Marges de (a) : deficit - investissement net (Md EUR) ===
+1975 deficit 6.886 ; inv net 5.027 ; marge 1.859
+1976 deficit 4.441 ; inv net 5.567 ; marge -1.126
+1977 deficit 3.494 ; inv net 4.803 ; marge -1.310
+1978 deficit 6.264 ; inv net 4.770 ; marge 1.494
+1979 deficit 1.919 ; inv net 5.405 ; marge -3.487
+1980 deficit 1.936 ; inv net 5.998 ; marge -4.062
+1981 deficit 12.276 ; inv net 6.875 ; marge 5.401
+
+=== 2019 ===
+primaire D41 2019 = -21.36 Md EUR = -0.88 % du PIB (PIB 2432.2)
+
+=== K06 : rapprochement zone euro avec / sans France (poids 18,8 %) ===
+7.7 / (1 - 0,188) = 9.48
+7.8 / (1 - 0,188) = 9.61
+2.5 / (1 - 0,188) = 3.08

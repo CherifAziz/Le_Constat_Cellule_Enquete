@@ -1,0 +1,138 @@
+Taux de marche moyen a l'emission cales sur la Commission : {2026: 3.38, 2027: 4.33, 2028: 4.83}
+Reference : pb structurel 2026/2027 = -2.56 -2.01
+  ref 2026: deficit 5.50  interets 2.60  dette 118.7  g_nom 2.20
+  ref 2027: deficit 5.40  interets 2.99  dette 120.6  g_nom 3.02
+  ref 2028: deficit 5.57  interets 3.30  dette 122.5  g_nom 3.13
+  ref 2030: deficit 6.03  interets 3.94  dette 127.6  g_nom 2.82
+  ref 2035: deficit 7.21  interets 4.98  dette 143.4  g_nom 2.77
+  ref 2040: deficit 8.28  interets 5.89  dette 162.4  g_nom 2.77
+  ref 2050: deficit 10.65  interets 7.78  dette 208.5  g_nom 2.77
+  refB 2026: deficit 5.93  interets 2.61  dette 119.1
+  refB 2027: deficit 6.41  interets 3.02  dette 122.0
+  refB 2030: deficit 7.17  interets 4.11  dette 132.1
+  refB 2035: deficit 8.55  interets 5.35  dette 153.3
+  refB 2050: deficit 12.67  interets 8.83  dette 236.4
+[A] Objectif equilibre     h=2027: mesures 8.26/5.83/5.89/5.57 pts (horizon 247 Md€ ech. 2025) ; dette h 121.3, 2050 61.6
+[A] Objectif equilibre     h=2030: mesures 1.91/7.63/5.74/5.77 pts (horizon 228 Md€ ech. 2025) ; dette h 117.7, 2050 66.3
+[A] Objectif equilibre     h=2035: mesures 0.83/3.31/7.44/6.14 pts (horizon 223 Md€ ech. 2025) ; dette h 115.2, 2050 75.4
+[A] Objectif trois         h=2027: mesures 3.67/3.06/3.64/4.58 pts (horizon 110 Md€ ech. 2025) ; dette h 120.8, 2050 115.1
+[A] Objectif trois         h=2030: mesures 0.96/3.83/3.57/4.66 pts (horizon 115 Md€ ech. 2025) ; dette h 122.6, 2050 117.2
+[A] Objectif trois         h=2035: mesures 0.48/1.93/4.35/4.83 pts (horizon 130 Md€ ech. 2025) ; dette h 126.9, 2050 121.3
+[A] Objectif stabilisation h=2027: mesures 2.76/3.17/3.43/4.51 pts (horizon 83 Md€ ech. 2025) ; dette h 120.8, 2050 118.8
+[A] Objectif stabilisation h=2030: mesures 0.92/3.67/3.33/4.55 pts (horizon 110 Md€ ech. 2025) ; dette h 122.8, 2050 121.7
+[A] Objectif stabilisation h=2035: mesures 0.43/1.72/3.87/4.63 pts (horizon 116 Md€ ech. 2025) ; dette h 128.7, 2050 128.2
+[A] Objectif baisse        h=2027: mesures 4.29/4.20/4.39/5.28 pts (horizon 128 Md€ ech. 2025) ; dette h 120.9, 2050 94.9
+[A] Objectif baisse        h=2030: mesures 1.24/4.96/4.24/5.34 pts (horizon 148 Md€ ech. 2025) ; dette h 121.2, 2050 99.4
+[A] Objectif baisse        h=2035: mesures 0.55/2.22/4.99/5.45 pts (horizon 149 Md€ ech. 2025) ; dette h 124.5, 2050 108.7
+[B] Objectif equilibre     h=2027: mesures 9.80/6.93/6.97/6.62 pts (horizon 293 Md€ ech. 2025) ; dette h 122.9, 2050 61.9
+[B] Objectif equilibre     h=2030: mesures 2.27/9.07/6.80/6.86 pts (horizon 271 Md€ ech. 2025) ; dette h 120.5, 2050 67.5
+[B] Objectif equilibre     h=2035: mesures 0.98/3.92/8.83/7.29 pts (horizon 264 Md€ ech. 2025) ; dette h 119.9, 2050 78.3
+[B] Objectif trois         h=2027: mesures 5.21/4.16/4.73/5.63 pts (horizon 156 Md€ ech. 2025) ; dette h 122.4, 2050 115.4
+[B] Objectif trois         h=2030: mesures 1.32/5.28/4.63/5.75 pts (horizon 158 Md€ ech. 2025) ; dette h 125.3, 2050 118.3
+[B] Objectif trois         h=2035: mesures 0.64/2.55/5.73/5.98 pts (horizon 171 Md€ ech. 2025) ; dette h 131.6, 2050 124.1
+[B] Objectif stabilisation h=2027: mesures 4.28/4.28/4.50/5.56 pts (horizon 128 Md€ ech. 2025) ; dette h 122.3, 2050 119.3
+[B] Objectif stabilisation h=2030: mesures 1.26/5.03/4.35/5.62 pts (horizon 150 Md€ ech. 2025) ; dette h 125.6, 2050 123.8
+[B] Objectif stabilisation h=2035: mesures 0.57/2.27/5.11/5.73 pts (horizon 153 Md€ ech. 2025) ; dette h 134.0, 2050 133.2
+[B] Objectif baisse        h=2027: mesures 5.81/5.31/5.46/6.33 pts (horizon 174 Md€ ech. 2025) ; dette h 122.4, 2050 95.5
+[B] Objectif baisse        h=2030: mesures 1.58/6.32/5.26/6.41 pts (horizon 189 Md€ ech. 2025) ; dette h 124.0, 2050 101.6
+[B] Objectif baisse        h=2035: mesures 0.69/2.77/6.23/6.55 pts (horizon 186 Md€ ech. 2025) ; dette h 129.8, 2050 113.6
+Cible intergenerationnelle (100 % en 2045) : mesures 4.89 pts en 2030 (146 Md€), deficit 2030 2.17, dette 2050 95.9
+Ecart statique 2025 observe (5,068 %) g 0.019 stab 2.16 3% : 62 stab : 87 equ : 152
+Ecart statique 2025 observe (5,068 %) g 0.025 stab 2.82 3% : 62 stab : 67 equ : 152
+Ecart statique 2025 observe (5,068 %) g 0.03 stab 3.37 3% : 62 stab : 51 equ : 152
+Ecart statique 2027 a politique inchangee (6,5 %) g 0.025 stab 2.89 3% : 110 stab : 114 equ : 205
+Ecart statique 2027 a politique inchangee (6,5 %) g 0.027 stab 3.12 3% : 110 stab : 106 equ : 205
+Mesures chargees : A13 20 A14 25
+K1 centrale, branche gel | si adopte                         statique 1.63/2.08/2.79 pts (62 Md€ 2030) ; deficit 2027 4.3 2030 4.1 [4.7-3.7] 2035 4.0 ; dette 2030 123 2035 126 2050 144
+K1 centrale, branche gel | decote d'execution A13            statique 1.04/1.37/1.81 pts (41 Md€ 2030) ; deficit 2027 4.7 2030 4.8 [5.2-4.5] 2035 5.1 ; dette 2030 124 2035 132 2050 167
+K2 centrale, branche abattement | si adopte                  statique 1.63/2.00/2.68 pts (60 Md€ 2030) ; deficit 2027 4.3 2030 4.2 [4.8-3.7] 2035 4.1 ; dette 2030 123 2035 127 2050 147
+K2 centrale, branche abattement | decote d'execution A13     statique 1.04/1.33/1.75 pts (40 Md€ 2030) ; deficit 2027 4.7 2030 4.8 [5.2-4.5] 2035 5.2 ; dette 2030 124 2035 132 2050 168
+K3 centrale gel, sans mesures rejetees | si adopte           statique 0.92/1.38/2.12 pts (41 Md€ 2030) ; deficit 2027 4.8 2030 4.8 [5.2-4.5] 2035 4.8 ; dette 2030 125 2035 132 2050 161
+K3 centrale gel, sans mesures rejetees | decote d'execution A13 statique 0.69/1.02/1.47 pts (30 Md€ 2030) ; deficit 2027 4.9 2030 5.1 [5.4-4.9] 2035 5.6 ; dette 2030 125 2035 135 2050 175
+K4 prudente | si adopte                                      statique 1.40/1.50/1.52 pts (45 Md€ 2030) ; deficit 2027 4.5 2030 4.6 [5.0-4.3] 2035 5.4 ; dette 2030 124 2035 132 2050 171
+K4 prudente | decote d'execution A13                         statique 0.88/0.93/0.94 pts (28 Md€ 2030) ; deficit 2027 4.8 2030 5.2 [5.4-5.0] 2035 6.1 ; dette 2030 125 2035 136 2050 185
+K5 ambitieuse large | si adopte                              statique 1.74/2.37/3.11 pts (71 Md€ 2030) ; deficit 2027 4.2 2030 3.9 [4.6-3.4] 2035 3.6 ; dette 2030 122 2035 124 2050 137
+K5 ambitieuse large | decote d'execution A13                 statique 1.13/1.58/2.04 pts (47 Md€ 2030) ; deficit 2027 4.6 2030 4.6 [5.1-4.3] 2035 4.9 ; dette 2030 124 2035 131 2050 161
+Somme naive des enveloppes centrales (statique, 2030) : 2.47 pts = 74 Md€ ; K1 : 2.08 pts = 62 Md€
+Sens. centrale                                                ref def 2030 6.0 dette 2035 143 2050 208 | K1 def 2030 4.1 2035 4.0 dette 2035 126 2050 144
+Sens. croissance basse (-0,5 pt/an des 2028)                  ref def 2030 6.1 dette 2035 149 2050 230 | K1 def 2030 4.2 2035 4.2 dette 2035 131 2050 162
+Sens. croissance haute (+0,5 pt/an des 2028)                  ref def 2030 6.0 dette 2035 138 2050 190 | K1 def 2030 4.1 2035 3.8 dette 2035 121 2050 129
+Sens. inflation basse (deflateur 1,0-1,25 %, taux inchanges)  ref def 2030 6.0 dette 2035 149 2050 231 | K1 def 2030 4.1 2035 4.1 dette 2035 132 2050 163
+Sens. inflation haute (deflateur 2,35-2,5 %, taux inchanges)  ref def 2030 6.0 dette 2035 137 2050 183 | K1 def 2030 4.2 2035 3.9 dette 2035 120 2050 124
+Sens. taux +100 pb des 2027                                   ref def 2030 6.6 dette 2035 149 2050 241 | K1 def 2030 4.7 2035 5.0 dette 2035 131 2050 170
+Sens. taux +200 pb des 2027                                   ref def 2030 7.2 dette 2035 155 2050 281 | K1 def 2030 5.2 2035 6.2 dette 2035 137 2050 201
+Sens. taux d'emission maintenu a la valeur calee 2028 (4,8 %) ref def 2030 6.1 dette 2035 146 2050 231 | K1 def 2030 4.2 2035 4.6 dette 2035 128 2050 161
+Sens. croissance haute et inflation haute (renversement, sect. 14) ref def 2030 6.0 dette 2035 132 2050 167 | K1 def 2030 4.1 2035 3.7 dette 2035 115 2050 110
+Sens. taux d'emission de long terme 2,8 % (= croissance nominale, sect. 14) ref def 2030 5.9 dette 2035 140 2050 181 | K1 def 2030 4.0 2035 3.2 dette 2035 124 2050 124
+Sens. multiplicateurs faibles                                 ref def 2030 6.0 dette 2035 143 2050 208 | K1 def 2030 3.9 2035 3.9 dette 2035 125 2050 141
+Sens. multiplicateurs forts                                   ref def 2030 6.0 dette 2035 143 2050 208 | K1 def 2030 4.5 2035 4.3 dette 2035 129 2050 150
+Sens. multiplicateurs forts et persistants                    ref def 2030 6.0 dette 2035 143 2050 208 | K1 def 2030 5.1 2035 5.6 dette 2035 137 2050 178
+Sens. emploi bas (PIB -0,5 % en niveau en 2035)               ref def 2030 6.1 dette 2035 145 2050 216 | K1 def 2030 4.3 2035 4.4 dette 2035 128 2050 151
+Sens. emploi haut (PIB +1 % en niveau en 2035)                ref def 2030 5.8 dette 2035 139 2050 194 | K1 def 2030 3.9 2035 3.3 dette 2035 122 2050 130
+Sens. vieillissement nul                                      ref def 2030 6.0 dette 2035 142 2050 199 | K1 def 2030 4.1 2035 3.8 dette 2035 125 2050 135
+Sens. vieillissement haut                                     ref def 2030 6.1 dette 2035 145 2050 218 | K1 def 2030 4.2 2035 4.3 dette 2035 127 2050 154
+Sens. calendrier : mesures decalees d'un an                   ref def 2030 6.0 dette 2035 143 2050 208 | K1 def 2030 4.3 2035 4.3 dette 2035 129 2050 148
+Sens. calendrier : mesures decalees de deux ans               ref def 2030 6.0 dette 2035 143 2050 208 | K1 def 2030 4.8 2035 4.6 dette 2035 132 2050 151
+Sect. 14 : K5 avec taux de long terme 2,8 % : deficit 2030 3.8 2035 2.9 ; dette 2030 122 2035 122 2040 119
+Sect. 14 : K5 multiplicateurs nuls : deficit 2030 3.3 2035 3.2
+  effort centrale                                                stabilisation 2030 3.67 (2035 3.33) ; 3 % 2030 3.83 (2035 3.57)
+  effort croissance basse (-0,5 pt/an des 2028)                  stabilisation 2030 4.47 (2035 3.92) ; 3 % 2030 3.90 (2035 3.75)
+  effort croissance haute (+0,5 pt/an des 2028)                  stabilisation 2030 2.88 (2035 2.75) ; 3 % 2030 3.76 (2035 3.40)
+  effort inflation basse (deflateur 1,0-1,25 %, taux inchanges)  stabilisation 2030 4.54 (2035 3.97) ; 3 % 2030 3.82 (2035 3.72)
+  effort inflation haute (deflateur 2,35-2,5 %, taux inchanges)  stabilisation 2030 2.61 (2035 2.54) ; 3 % 2030 3.84 (2035 3.40)
+  effort taux +100 pb des 2027                                   stabilisation 2030 4.30 (2035 4.19) ; 3 % 2030 4.47 (2035 4.43)
+  effort taux +200 pb des 2027                                   stabilisation 2030 4.94 (2035 5.06) ; 3 % 2030 5.13 (2035 5.28)
+  effort taux d'emission maintenu a la valeur calee 2028 (4,8 %) stabilisation 2030 3.77 (2035 3.90) ; 3 % 2030 3.93 (2035 4.13)
+  effort croissance haute et inflation haute (renversement, sect. 14) stabilisation 2030 1.84 (2035 1.97) ; 3 % 2030 3.77 (2035 3.23)
+  effort taux d'emission de long terme 2,8 % (= croissance nominale, sect. 14) stabilisation 2030 3.52 (2035 2.51) ; 3 % 2030 3.68 (2035 2.76)
+  effort emploi bas (PIB -0,5 % en niveau en 2035)               stabilisation 2030 3.82 (2035 3.68) ; 3 % 2030 3.98 (2035 3.94)
+  effort emploi haut (PIB +1 % en niveau en 2035)                stabilisation 2030 3.37 (2035 2.63) ; 3 % 2030 3.52 (2035 2.84)
+  effort vieillissement nul                                      stabilisation 2030 3.57 (2035 3.06) ; 3 % 2030 3.74 (2035 3.30)
+  effort vieillissement haut                                     stabilisation 2030 3.80 (2035 3.64) ; 3 % 2030 3.96 (2035 3.89)
+  effort multiplicateur composite 0,3                            stabilisation 2030 3.11 (2035 3.27) ; 3 % 2030 3.22 (2035 3.49)
+  effort multiplicateur composite 1,0                            stabilisation 2030 4.81 (2035 2.99) ; 3 % 2030 5.14 (2035 3.53)
+Choc 1975      sur reference: deficit pic 8.8 ; dette 2035 149 (sans choc 143, +5)
+Choc 1993      sur reference: deficit pic 7.8 ; dette 2035 148 (sans choc 143, +5)
+Choc 2008-2009 sur reference: deficit pic 9.3 ; dette 2035 158 (sans choc 143, +15)
+Choc 2020      sur reference: deficit pic 12.8 ; dette 2035 161 (sans choc 143, +17)
+Choc 1975      sur K1       : deficit pic 7.5 ; dette 2035 131 (sans choc 126, +5)
+Choc 1993      sur K1       : deficit pic 6.2 ; dette 2035 131 (sans choc 126, +5)
+Choc 2008-2009 sur K1       : deficit pic 8.1 ; dette 2035 141 (sans choc 126, +15)
+Choc 2020      sur K1       : deficit pic 11.6 ; dette 2035 144 (sans choc 126, +17)
+Choc 1975      sur K2       : deficit pic 7.5 ; dette 2035 132 (sans choc 127, +5)
+Choc 1993      sur K2       : deficit pic 6.3 ; dette 2035 132 (sans choc 127, +5)
+Choc 2008-2009 sur K2       : deficit pic 8.1 ; dette 2035 142 (sans choc 127, +15)
+Choc 2020      sur K2       : deficit pic 11.6 ; dette 2035 144 (sans choc 127, +17)
+Choc 1975      sur K3       : deficit pic 8.0 ; dette 2035 137 (sans choc 132, +5)
+Choc 1993      sur K3       : deficit pic 6.7 ; dette 2035 137 (sans choc 132, +5)
+Choc 2008-2009 sur K3       : deficit pic 8.6 ; dette 2035 147 (sans choc 132, +15)
+Choc 2020      sur K3       : deficit pic 12.1 ; dette 2035 149 (sans choc 132, +17)
+Choc 1975      sur K4       : deficit pic 7.8 ; dette 2035 137 (sans choc 132, +5)
+Choc 1993      sur K4       : deficit pic 6.5 ; dette 2035 137 (sans choc 132, +5)
+Choc 2008-2009 sur K4       : deficit pic 8.3 ; dette 2035 146 (sans choc 132, +15)
+Choc 2020      sur K4       : deficit pic 11.9 ; dette 2035 149 (sans choc 132, +17)
+Choc 1975      sur K5       : deficit pic 7.4 ; dette 2035 129 (sans choc 124, +5)
+Choc 1993      sur K5       : deficit pic 6.1 ; dette 2035 129 (sans choc 124, +5)
+Choc 2008-2009 sur K5       : deficit pic 7.9 ; dette 2035 139 (sans choc 124, +15)
+Choc 2020      sur K5       : deficit pic 11.5 ; dette 2035 142 (sans choc 124, +17)
+Credibilite K1 centrale, branche gel                 hors crises   plafond=False: deficit 2030 4.1 -> 7.2 ; dette 2035 126 -> 149 (ref 143)
+Credibilite K1 centrale, branche gel                 hors crises   plafond=True: deficit 2030 4.1 -> 5.9 ; dette 2035 126 -> 142 (ref 143)
+Credibilite K1 centrale, branche gel                 toutes annees plafond=False: deficit 2030 4.1 -> 8.0 ; dette 2035 126 -> 156 (ref 143)
+Credibilite K1 centrale, branche gel                 toutes annees plafond=True: deficit 2030 4.1 -> 6.0 ; dette 2035 126 -> 143 (ref 143)
+Credibilite K2 centrale, branche abattement          hors crises   plafond=False: deficit 2030 4.2 -> 7.3 ; dette 2035 127 -> 150 (ref 143)
+Credibilite K2 centrale, branche abattement          hors crises   plafond=True: deficit 2030 4.2 -> 5.9 ; dette 2035 127 -> 142 (ref 143)
+Credibilite K2 centrale, branche abattement          toutes annees plafond=False: deficit 2030 4.2 -> 8.0 ; dette 2035 127 -> 156 (ref 143)
+Credibilite K2 centrale, branche abattement          toutes annees plafond=True: deficit 2030 4.2 -> 6.0 ; dette 2035 127 -> 143 (ref 143)
+Credibilite K3 centrale gel, sans mesures rejetees   hors crises   plafond=False: deficit 2030 4.8 -> 7.9 ; dette 2035 132 -> 154 (ref 143)
+Credibilite K3 centrale gel, sans mesures rejetees   hors crises   plafond=True: deficit 2030 4.8 -> 6.0 ; dette 2035 132 -> 143 (ref 143)
+Credibilite K3 centrale gel, sans mesures rejetees   toutes annees plafond=False: deficit 2030 4.8 -> 8.6 ; dette 2035 132 -> 161 (ref 143)
+Credibilite K3 centrale gel, sans mesures rejetees   toutes annees plafond=True: deficit 2030 4.8 -> 6.0 ; dette 2035 132 -> 143 (ref 143)
+Credibilite K4 prudente                              hors crises   plafond=False: deficit 2030 4.6 -> 7.7 ; dette 2035 132 -> 154 (ref 143)
+Credibilite K4 prudente                              hors crises   plafond=True: deficit 2030 4.6 -> 6.0 ; dette 2035 132 -> 143 (ref 143)
+Credibilite K4 prudente                              toutes annees plafond=False: deficit 2030 4.6 -> 8.4 ; dette 2035 132 -> 161 (ref 143)
+Credibilite K4 prudente                              toutes annees plafond=True: deficit 2030 4.6 -> 6.0 ; dette 2035 132 -> 143 (ref 143)
+Credibilite K5 ambitieuse large                      hors crises   plafond=False: deficit 2030 3.9 -> 7.0 ; dette 2035 124 -> 147 (ref 143)
+Credibilite K5 ambitieuse large                      hors crises   plafond=True: deficit 2030 3.9 -> 5.9 ; dette 2035 124 -> 142 (ref 143)
+Credibilite K5 ambitieuse large                      toutes annees plafond=False: deficit 2030 3.9 -> 7.7 ; dette 2035 124 -> 154 (ref 143)
+Credibilite K5 ambitieuse large                      toutes annees plafond=True: deficit 2030 3.9 -> 6.0 ; dette 2035 124 -> 143 (ref 143)
+Passage 2025 -> 2027 PI : {'deficit_2025': 5.07, 'deficit_2027_PI': 5.4, 'hausse_interets_pts': 0.79, 'effet_cycle_pts': 0.51, 'primaire_structurel_pts': -0.97}

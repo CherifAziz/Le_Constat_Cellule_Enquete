@@ -1,0 +1,59 @@
+figure;ligne;valeurs...
+Figure 1;1;Figure 1 – Le patrimoine des secteurs institutionnels fin 2025
+Figure 1;3;Actif;Ensemble de l'économie nationale;Ménages1;Sociétés;Administrations publiques;Évolution du patrimoine de l'économie nationale
+Figure 1;4;non financières;financières;2024/2023;2025/2024
+Figure 1;5;en milliards d'euros;en %
+Figure 1;6;Actifs non financiers (ANF);20292.2176;10309.7695;6597.149;440.36940000000004;2944.9297;0.7671;1.4283
+Figure 1;7;Constructions et terrains;15907.2837;9236.96;3835.916;374.3422;2460.0655;0.0801;0.8362
+Figure 1;8;Logements;6044.9818;4811.5034000000005;1087.421;57.776199999999996;88.2812;1.3264;1.5686
+Figure 1;9;Autres bâtiments et génie civil;2829.9247;235.4303;1047.8239;116.2795;1430.391;1.5202;1.807
+Figure 1;10;Terrains bâtis;7032.3772;4190.0262999999995;1700.6711;200.2865;941.3933000000001;-1.495;-0.1657
+Figure 1;11;Machines et équipements;831.1514;39.226800000000004;729.897;22.5182;39.5094;2.8507;2.4481
+Figure 1;12;Stocks;713.0591;30.180400000000002;621.1421;-;61.736599999999996;6.1621;3.9073
+Figure 1;13;Autres actifs produits;906.8865999999997;351.2694;329.6411000000002;23.885000000000012;202.09110000000007;4.3661;3.9014
+Figure 1;14;Autres actifs non produits;1933.8368;652.1329000000004;1080.5527999999997;19.624;181.5271;2.2446;3.9289
+Figure 1;15;Actifs financiers (AF) hors produits dérivés, dont :;44275.0303;7455.233899999999;14596.9821;20444.7603;1778.054;2.4283;4.5328
+Figure 1;16;Numéraire et dépôts;8420.1283;2130.3972000000003;926.4894;5161.3173;201.9244;-1.938;0.279
+Figure 1;17;Titres de créance;4965.816900000001;58.0824;205.13639999999998;4653.6678;48.9303;5.9565;4.1566
+Figure 1;18;Crédits;8029.8065;11.459100000000001;2587.627;5251.732099999999;178.98829999999998;4.388;4.375
+Figure 1;19;Actions et parts de fonds d'investissement;16446.5776;2403.1739000000002;8890.073400000001;4296.9223;856.408;3.406;6.9023
+Figure 1;20;Actions et autres participations hors titres d'OPC2;13910.4878;1922.8073;8603.4039;2687.3014;696.9752;2.3141;6.3276
+Figure 1;21;Titres d’OPC2;2536.0899;480.3667;286.6695;1609.6209;159.4328;10.0825;10.1685
+Figure 1;22;Systèmes d'assurances et de garanties, dont :;2531.2062;2287.8117;47.9392;189.69639999999998;5.7589;4.2453;4.9683
+Figure 1;23;Assurance-vie ;1939.5441;1939.5441;-;-;-;3.6158;4.4333
+Figure 1;24;Droits à pension;240.3675;240.3675;-;-;-;6.2931;3.1815
+Figure 1;25;Autres comptes à recevoir;3555.438;564.3096;1939.7167;565.3675999999999;486.04409999999996;-2.2374;2.6407
+Figure 1;26;Ensemble des actifs (A) = (ANF) + (AF);64567.2479;17765.0034;21194.1311;20885.1297;4722.9837;1.8895;3.5368
+Figure 1;27;Passifs financiers (PF) hors produits dérivés, dont :;44208.909;2110.9164;17295.4649;20892.7378;3909.7898999999998;1.3201;4.6116
+Figure 1;28;Numéraire et dépôts;10017.9825;-;-;9849.453099999999;168.52939999999998;-0.2392;2.2644
+Figure 1;29;Titres de créance;5828.5015;-;717.71;2239.7731;2871.0184;5.225;2.6191
+Figure 1;30;Crédits;7197.3819;1780.7934;3975.9811;1043.1732;397.43420000000003;3.8272;4.4916
+Figure 1;31;Actions et parts de fonds d'investissement (passif en actions);15269.9958;0;11256.9701;3980.3277000000003;32.698;-0.0263;7.0291
+Figure 1;32;Actions et autres participations hors titres d'OPC2;13008.630000000001;-;11256.9701;1718.9619;32.698;-1.4476;6.6896
+Figure 1;33;Titres d’OPC2;2261.3658;-;-;2261.3658;-;9.2346;9.0249
+Figure 1;34;Systèmes d'assurances et de garanties, dont :;2545.8555;-;-;2545.0311;-;4.3055;4.4772
+Figure 1;35;Assurance-vie ;1954.4505;-;-;1954.4505;-;3.5633;4.4629
+Figure 1;36;Droits à pension;241.3884;-;-;241.3884;-;6.2562;3.1715
+Figure 1;37;Autres comptes à payer;3314.8626;330.123;1344.8037;1200.6504;439.2855;-1.8604;5.0565
+Figure 1;38;Solde des produits dérivés (S);-161.87719999999996;-;-;-157.29469999999995;-2.5896000000000003;ns;ns
+Figure 1;39;Patrimoine financier net = (AF) - (PF) + (S);-95.7559;5344.189799999999;-2700.348;-605.2722;-2134.3254999999995;ns;ns
+Figure 1;40;Patrimoine (ou valeur nette) = (A) - (PF) + (S);20196.4617;15653.959300000002;3896.8009999999995;-164.9028;810.6042;3.1242;1.15
+Figure 1;41;Fonds propres3 = (Patrimoine net) + (Passif en actions);///;///;15153.7711;3815.4249000000027;///;///;///
+Figure 1;42;"ns : non significatif ; - : actif ou passif non détenu ; /// : absence de résultat due à la nature des choses."
+Figure 1;43;1. Y compris entrepreneurs individuels (EI) et institutions sans but lucratif au service des ménages (ISBLSM).
+Figure 1;44;2. Organismes de placement collectif.
+Figure 1;45;3. Les fonds propres des sociétés financières et non financières sont mesurés en valeur de marché, par différence entre la valeur de leurs actifs et celle de leurs passifs autres qu’en actions.
+Figure 1;46;Lecture : Fin 2025, le patrimoine économique national s'élevait à 20 196 milliards d'euros, soit une hausse de 1,2 % par rapport à 2024.
+Figure 1;47;Sources : Insee, Banque de France, comptes nationaux en base 2020.
+Figure 4;1;Figure 4 – Évolution du patrimoine des secteurs institutionnels
+Figure 4;2;en %
+Figure 4;3;Actif;Ménages1;Sociétés non financières;Sociétés financières;Administrations publiques
+Figure 4;5;2023/2013 moy. / an;2024/2023;2025/2024;2023/2013 moy. / an;2024/2023;2025/2024;2023/2013 moy. / an;2024/2023;2025/2024;2023/2013 moy. / an;2024/2023;2025/2024
+Figure 4;36;Patrimoine financier net2;4.6;3.6;5.3;-5.3;12.1;-7.4;0.6;-7;-35.9;-4.4;-2
+Figure 4;37;Patrimoine (ou valeur nette) ;3.8;0.9;2.1;3;15.1;-0.1;ns;ns;ns;0.2;-3.9
+Figure 5;1;Figure 5 – La répartition du patrimoine par secteur institutionnel fin 2025
+Figure 5;3;Actif;Ensemble;Non financier;Financier
+Figure 5;4;en milliards d'euros;en %;en milliards d'euros;en %;en milliards d'euros;en %
+Figure 5;5;Patrimoine économique national ;20196;100;20292;100.5;-96;-0.5
+Figure 5;6;Ménages;15654;77.5;10310;50.8;5344;///
+Figure 5;9;Administrations publiques (APU);811;4;2945;14.5;-2134;///

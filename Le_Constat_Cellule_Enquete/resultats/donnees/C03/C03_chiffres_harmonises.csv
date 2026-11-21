@@ -1,0 +1,10 @@
+etape;effort_2030_pts;deficit_ref_2027;deficit_ref_2030;interets_ref_2030;dette_ref_2030;deficit_vise_2030;dette_2029;dette_2030;croissance_nom_tendancielle_2030;croissance_nom_effective_2030;interets_2030
+Hypotheses A15, reference Commission 5,4 % (budget compris), definition A15;3.6515;5.4;6.0291;3.9586;128.1027;3.1432;123.2961;123.3864;2.616;2.539;3.7876
+Hypotheses A15, reference 5,4 %, definition Codex (ratio effectif 2030 <= 2029);3.7836;5.4;6.0291;3.9586;128.1027;3.0388;123.2163;123.2163;2.616;2.5286;3.7814
+Hypotheses A15, reference 6,5 %, definition Codex;5.5118;6.5;7.2751;4.1141;132.0858;2.92;124.9967;124.9967;2.616;2.392;3.8571
+Hypotheses Codex, reference 5,4 %, definition A15 (seuil a croissance tendancielle);2.964;5.4;6.3239;3.6839;128.0541;3.8654;123.7591;123.849;3.224;3.1467;3.631
+Hypotheses Codex, reference 6,5 % (sans budget), definition Codex;4.4984;6.5;7.5153;3.7753;131.9051;3.7822;125.551;125.551;3.224;3.1061;3.6957
+Hypotheses Codex, reference 6,5 %, definition A15;4.3295;6.5;7.5153;3.7753;131.9051;3.9247;125.6597;125.7936;3.224;3.1106;3.6988
+Hypotheses A15, reference 5,0 % (cible du PLF 2027, RESF), definition A15;3.1221;5.0;5.5743;3.8809;125.9372;3.1063;121.8469;121.8881;2.616;2.5805;3.7341
+Hypotheses Codex, reference 5,0 % (cible du PLF 2027), definition Codex;2.567;5.0;5.8888;3.6488;126.4607;3.7586;122.8089;122.8089;3.224;3.1572;3.6028
+A15 avec ecart de production ferme a -0,5 en 2030 seulement (RESF, scenario avec consolidation);5.5628;6.5;7.6003;4.1544;133.335;3.2054;125.735;126.1989;2.616;2.229;3.8954
