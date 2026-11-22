@@ -122,8 +122,8 @@ Liens : les pièces des approfondissements sont au commit `ffb03b6` ; les autres
 ### R9 · Avant mai
 
 - **Énoncé.** Allocataires de l'assurance chômage : 1,01 million au second semestre 1980, 1,27 million au premier semestre 1981. La retraite à 60 ans n'est pas encore en vigueur quand le déficit plonge.
-- **Source.** Sénat, n° 32 (1982-1983), p. 14, conservé avec le [dossier D02][d02] (fait 30) ; confirmation par Codex ([histoire][hist], épisode 3) et par la [contre-expertise][ce2].
-- **Limites.** Chiffres semestriels en moyenne mensuelle. La date exacte d'entrée en vigueur de la retraite à 60 ans est à citer sur le texte de l'ordonnance avant le script. Les taux d'intérêt montent avant et après l'élection : partage non établi.
+- **Source.** Sénat, n° 32 (1982-1983), p. 14, conservé avec le [dossier D02][d02] (fait 30) ; confirmation par Codex ([histoire][hist], épisode 3) et par la [contre-expertise][ce2]. Pour la retraite à 60 ans, le corpus donne l'année 1983 dans le [dossier D07][d07] et établit que la dégradation de 1981 précède sa mise en œuvre.
+- **Limites.** Chiffres semestriels en moyenne mensuelle. Le jour exact d'entrée en vigueur de la retraite à 60 ans n'est pas dans le corpus : hors corpus, à vérifier sur le texte de l'ordonnance avant le script. Les taux d'intérêt montent avant et après l'élection : partage non établi.
 - **Potentiel visuel.** Moyen : un tableau, une date.
 - **Rôle.** Raye le troisième suspect.
 
@@ -163,7 +163,8 @@ Liens : les pièces des approfondissements sont au commit `ffb03b6` ; les autres
 - **Énoncé.** Projet de loi de finances rectificative pour 2000 : « la volonté du Gouvernement de restituer aux Français une partie des fruits de la croissance sous forme d'allégements des impôts » ; « le présent projet de loi établit le solde budgétaire à un niveau inchangé par rapport à la loi de finances initiale » ; 40,6 milliards de francs consacrés aux baisses ; 15,4 milliards de « recettes non fiscales exceptionnelles ».
 - **Source.** Assemblée nationale, projet de loi n° 2335, 26 avril 2000, exposé général ([texte au dépôt][pl2335]). Montants confirmés par la [contre-expertise][ce1] (« Le choix fiscal de 2000–2002 ») : 40,6 sur 51,4 milliards.
 - **Contrôle.** Les quatre passages ont été relus dans le texte de la pièce.
-- **Limites.** Le « solde budgétaire » est celui de l'État, pas le déficit public. La loi initiale pour 2000 contenait déjà environ 40 milliards de baisses. Ne pas dire « 80 % » ni « 0,1 % au déficit » sans recalcul sur la loi promulguée.
+- **Compléments relus.** Le projet réévalue les recettes de « 51,4 milliards F ». Son tableau d'équilibre fait passer le solde général de −215 327 à −215 278 millions de francs : 49 millions d'amélioration. Le rapport du Sénat n° 371 écrit que ces 51,4 milliards sont affectés « à hauteur de 80 %, soit 40,6 milliards de francs », à des baisses d'impôts. Le rapport du Sénat sur le règlement du budget 2000 emploie le mot « cagnotte », entre guillemets.
+- **Limites.** Le « solde budgétaire » est celui de l'État, pas le déficit public. La loi initiale pour 2000 contenait déjà environ 40 milliards de baisses. Les 49 millions sont ceux du projet déposé : à relire sur la loi promulguée avant de les prononcer.
 - **Potentiel visuel.** Très fort : deux phrases surlignées sur un document officiel.
 - **Rôle.** Répond à « pourquoi ont-ils pris cette décision ? » par les mots de ceux qui l'ont prise.
 
@@ -228,14 +229,15 @@ Fait le 22 novembre 2026, par recherche dans le texte extrait des pièces et ouv
 | Commission des comptes, décembre 1982, p. 9 | « supprimée 9 mois plus tôt » | Trouvé ; attribution corrigée |
 | Sénat n° 43 (1973-1974), p. 22 ; n° 103 (1974-1975), p. 20 | « dans le délai d'un an par l'article 52 » | Trouvé dans les deux |
 | Sénat n° 128 (1979-1980), p. 22 | « dans un délai de deux ans » | Trouvé |
-| Projet de loi n° 2335 (2000) | « restituer aux Français » ; « niveau inchangé » ; 40,6 ; 15,4 | Trouvé |
-| Sénat n° 371 (1999-2000) | « par redéploiement » ; 205,4 milliards | Trouvé |
+| Projet de loi n° 2335 (2000) | « restituer aux Français » ; « niveau inchangé » ; 51,4 ; 40,6 ; 15,4 ; solde amélioré de 49 millions | Trouvé |
+| Sénat n° 371 (1999-2000) | « par redéploiement » ; 205,4 milliards ; « à hauteur de 80 %, soit 40,6 milliards » | Trouvé |
+| Sénat, règlement du budget 2000 | « 51,4 milliards de francs de “surplus” » ; « cagnotte » | Trouvé |
 | Rapport d'avril 2010 sur les finances publiques | « près de 3 points de PIB » | Trouvé |
 | Série annuelle 1974–2025 | Soldes, soldes avant intérêts, intérêts, dette | Relu |
 
-**Deux recherches n'ont rien donné**, et le film n'emploie donc pas ces formulations :
-- « 49 millions » ou « 0,1 % au déficit » pour 2000 : non retrouvé tel quel dans le rapport du Sénat n° 371.
-- « 51,4 milliards » dans le texte conservé du rapport de règlement : non retrouvé par recherche simple. Le chiffre est repris de la contre-expertise, qui le cite. À relire à l'origine avant le script.
+**Une première recherche avait échoué** sur « 51,4 milliards » et sur la part allée au déficit, à cause de la mise en forme des textes extraits. Reprise avec un motif plus large, elle a retrouvé les deux : voir la fiche R13.
+
+**Les liens** vers les pièces ont été vérifiés un par un dans les deux commits figés : les 27 fichiers cités existent.
 
 **Limites de ce contrôle.** C'est une vérification de présence des passages, pas une nouvelle contre-expertise. Les textes extraits des documents numérisés contiennent des erreurs de reconnaissance ; les chiffres décisifs sont à relire sur image au moment du script. Le contrôleur est le même modèle que la première équipe.
 
@@ -247,7 +249,7 @@ Fait le 22 novembre 2026, par recherche dans le texte extrait des pièces et ouv
 | 2 | Rapport de la Cour des comptes sur la règle d'affectation des surplus, à l'origine | 13 |
 | 3 | Les 38 documents de programmation, avec leur trajectoire et l'exécution | 13, 15 |
 | 4 | Ordonnance sur la retraite à 60 ans : date d'entrée en vigueur sur le texte | 8 |
-| 5 | Rapport du Sénat sur le règlement du budget 2000 : page des 51,4 et 40,6 milliards, en image | 12 |
+| 5 | Loi de finances rectificative du 13 juillet 2000 promulguée : tableau d'équilibre, pour confirmer les 49 millions du projet | 12 |
 | 6 | Archives audiovisuelles de 1974–1975, 1979–1981 et 2000, avec leurs droits | 2, 6, 7, 12 |
 | 7 | Compte rendu du Conseil des ministres ou rapport économique et financier pour 1981, sur la fin de la cotisation | 7 |
 
@@ -268,6 +270,7 @@ La pièce 7 est la seule qui pourrait changer une phrase du film : si un documen
 [d01]: https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/blob/ffb03b64268b8012c0d54b4c8747bf64c1ca5b14/resultats/claude_approfondissements/dossiers/D01.md
 [d02]: https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/blob/ffb03b64268b8012c0d54b4c8747bf64c1ca5b14/resultats/claude_approfondissements/dossiers/D02.md
 [d04]: https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/blob/ffb03b64268b8012c0d54b4c8747bf64c1ca5b14/resultats/claude_approfondissements/dossiers/D04.md
+[d07]: https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/blob/ffb03b64268b8012c0d54b4c8747bf64c1ca5b14/resultats/claude_approfondissements/dossiers/D07.md
 [img-s54-31]: https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/blob/ffb03b64268b8012c0d54b4c8747bf64c1ca5b14/resultats/claude_approfondissements/donnees/D09/images/a1_s54_p31.png
 [img-s54-46]: https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/blob/ffb03b64268b8012c0d54b4c8747bf64c1ca5b14/resultats/claude_approfondissements/donnees/D09/images/a1_s54_p46.png
 [img-s102-9]: https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/blob/ffb03b64268b8012c0d54b4c8747bf64c1ca5b14/resultats/claude_approfondissements/donnees/D09/images/a1_s102_p9.png

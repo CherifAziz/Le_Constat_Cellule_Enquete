@@ -110,7 +110,7 @@ Elles reviennent à l'auteur. La recommandation est donnée à chaque fois.
 | 2 | **L'ouverture** | La première, « L'anomalie » ; la deuxième en bande-annonce ([09](09_OUVERTURES.md)) |
 | 3 | **Nommer les personnes** (Raymond Barre, Pierre Mauroy, Lionel Jospin, Laurent Fabius) ou seulement les gouvernements | Nommer les gouvernements par leur Premier ministre, une fois chacun, sans photo d'accusation |
 | 4 | **Le personnage de 57 ans** | Le garder comme illustration annoncée. Ne chercher un témoin réel que si le film s'allonge |
-| 5 | **Le mot « cagnotte »** | L'employer une fois, entre guillemets, comme le mot de l'époque, après vérification de son origine |
+| 5 | **Le mot « cagnotte »** | L'employer une fois, entre guillemets, comme le mot de l'époque : il figure ainsi dans le rapport du Sénat sur le règlement du budget 2000 |
 | 6 | **La séquence 10 (le travail)** | La garder à deux minutes. C'est la première à raccourcir |
 | 7 | **La dernière phrase** | Celle du séquencier, sous réserve de la relecture des 38 documents à l'origine |
 

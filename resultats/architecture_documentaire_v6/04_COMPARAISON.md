@@ -55,25 +55,25 @@ Le total ne décide pas seul. Les raisons suivent.
 ### Critère 3 · La progression narrative
 
 - **A (4).** Une enquête qui avance dans le temps et élimine des suspects. Chaque battement naît d'une question laissée par le précédent. Défaut réel : 1974–1981 occupe dix-huit minutes sur vingt-sept, et les quarante-cinq années suivantes sont traitées en sept minutes, avec un dernier battement en forme de liste.
-- **B (4).** La chronologie est propre et les quatre bifurcations sont de vraies décisions datées. Mais la période 1985–1997 n'a pas de bifurcation et tient par un outil graphique. La bifurcation de 2007–2009 n'a aucun document contemporain du vote, et celle de 2023 porte sur l'information, pas sur le déficit : les deux dernières sont plus faibles que les deux premières, donc la tension descend.
+- **B (4).** La chronologie est propre et les quatre bifurcations sont de vraies décisions datées. Mais la période 1985–1997 n'a pas de bifurcation et tient par un outil graphique. La troisième bifurcation (les baisses de 2007, puis les règles non appliquées de 2009–2011) n'a aucun document contemporain du vote, et la quatrième, en 2023, porte sur l'information, pas sur le déficit : les deux dernières sont plus faibles que les deux premières, donc la tension descend. L'agent le signale lui-même.
 - **C (2).** Le film saute de 2025 à 1974, puis de 1982 à 2000, puis à 2023. Les battements 7 à 10 (salarié, heures, page 114, cas locaux) se suivent sans que l'un appelle l'autre : c'est un inventaire relié par un refrain. L'agent le signale lui-même.
 
 ### Critère 4 · Les découvertes
 
 - **A (5).** Quatorze révélations, dont onze fortes, toutes portées par un fait établi. Aucun creux de plus de deux minutes et demie.
-- **B (4).** Vingt et une entrées, mais sept sont des bornes ou des mesures (« 11 à 15 % », « 41 % », « environ 2 points restants ») qui disent toutes la même chose : pas assez.
+- **B (4).** Vingt-deux entrées, toutes portées par un fait de la base. Mais les trois moments les plus attendus sont des mesures (« 11 à 15 % », « 41 % », « environ 2 points restants ») qui disent la même chose : pas assez.
 - **C (4).** La page 114 et le salarié de 57 ans sont des trouvailles. Les cas locaux (RSA, hôpital, pont) sont des découvertes de méthode, pas d'histoire.
 
 ### Critère 5 · La clarté des mécanismes
 
 - **A (3).** Le solde avant intérêts arrive à la vingtième minute, sans préparation. L'agent le note comme un risque.
-- **B (5).** Deux instruments règlent le problème. Le compteur à deux colonnes installe « avant intérêts » dès 1980, avec l'image du ménage avant le remboursement du crédit. La jauge montre d'un coup d'œil jusqu'où une autre décision aurait mené, ce qui empêche physiquement le spectateur de conclure « sans cela, on serait à l'équilibre ».
+- **B (5).** Deux instruments règlent le problème. Le compteur à deux colonnes installe « avant intérêts » dès 1980, avec l'image du ménage avant le remboursement du crédit. La jauge montre d'un coup d'œil jusqu'où une autre décision aurait mené, avec son dénominateur écrit à l'écran, ce qui empêche le spectateur de conclure « sans cela, on serait à l'équilibre ».
 - **C (4).** Le code couleur par caisse est une bonne idée, mais il demande au spectateur de tenir quatre administrations en tête pendant vingt minutes.
 
 ### Critère 6 · Répétition et décrochage
 
 - **A (3).** Risque de tassement entre la minute 14 et la minute 18 : trois battements de suite sur 1981 après la grande révélation.
-- **B (2).** Trois jauges qui répondent « pas assez ». À la troisième, le spectateur a compris la règle du jeu.
+- **B (2).** Trois jauges qui répondent « pas assez », et dont les dénominateurs diffèrent : elles ne forment même pas une progression. À la troisième, le spectateur a compris la règle du jeu. Treize battements chronologiques prennent la forme d'un cours.
 - **C (2).** Quatre battements de suite sans avancée de l'intrigue, et trois cartons « cas local » d'affilée.
 
 ### Critère 7 · L'équilibre
@@ -120,7 +120,7 @@ Les trois propositions ne sont pas fusionnées. A est retenue parce qu'elle est 
 ### Écarté de B
 
 - **La promesse « aucune n'aurait suffi » à la première minute.** La mesure reste ; elle est donnée au moment où le spectateur commence à croire le contraire.
-- **La bifurcation de 2007–2009 comme scène à jauge.** Aucune pièce contemporaine du vote. Les faits sont gardés en une phrase dans la séquence sur l'après-2002.
+- **Les battements sur 2007 et sur les règles de 2009–2011 comme scènes autonomes, et la troisième jauge.** Aucune pièce contemporaine du vote de 2007. Les faits sont gardés à l'écran dans la séquence sur l'après-2002.
 - **La note de Bercy de 2023.** Elle porte sur ce que le Parlement savait, pas sur l'origine du déficit. C'était un bon appât de la V5 ; ce n'est pas une pièce de cette histoire.
 - **Le battement 1985–1997 autonome.** Fondu dans la séquence sur les intérêts.
 

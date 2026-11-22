@@ -19,9 +19,9 @@
 | 0:08 | Le défilement revient en arrière et s'arrête sur deux barres presque invisibles, collées au trait. | Le tic s'arrête net. | « Sauf qu'ici, il ne manquait presque rien. » |
 | 0:12 | « 1979 » et « 1980 » s'inscrivent sous les deux barres. | Silence, deux secondes. | « 1980. Cinq ans après le choc pétrolier. Depuis, nous ne sommes plus jamais repassés aussi près. » |
 | 0:20 | La barre de 1981 tombe d'un coup, cinq fois plus longue. | Un seul coup grave. | « L'année suivante, tout replonge. » |
-| 0:26 | Une page d'archive, floutée. On lit seulement, en haut : « SÉNAT », et une date : « novembre 1980 ». Un surlignage jaune sur une phrase illisible. | Bruit de papier. | « Cette page a été imprimée six mois avant. Elle était publique. Elle annonçait ce qui allait arriver. » |
+| 0:26 | Une page d'archive, floutée. On lit seulement, en haut : « SÉNAT », et une date : « novembre 1980 ». Un surlignage jaune sur une phrase illisible. | Bruit de papier. | « Cette page a été imprimée en novembre 1980, six mois avant l'élection présidentielle. Elle était publique. Elle annonçait ce qui allait arriver. » |
 | 0:38 | La page reste. Deux coupures de presse stylisées glissent de part et d'autre, floutées elles aussi. | — | « Ensuite, chaque camp a raconté cette histoire à sa façon. Aucun des deux récits ne disait ce que dit cette page. » |
-| 0:48 | Retour au graphique. Deux autres remontées s'éclairent, vers 2000 et vers 2018. Chacune s'arrête plus bas que 1980. | Tic lent. | « Et ce n'est pas la seule fois. La France s'est approchée de la ligne à d'autres moments. À chaque fois, elle s'est arrêtée avant. » |
+| 0:48 | Retour au graphique. Deux autres remontées s'éclairent, vers 2000 et vers 2018. Aucune ne revient aussi près que 1980. | Tic lent. | « Et ce n'est pas la seule fois. La France s'est approchée de la ligne à d'autres moments. À chaque fois, elle s'est arrêtée avant. » |
 | 0:58 | Cinq fiches cartonnées se posent sur un mur : le choc pétrolier ; la dépense ; l'alternance de 1981 ; les crises ; le blocage. | Cinq claquements. | « On vous a donné cinq explications. On les a toutes vérifiées, pièce par pièce. » |
 | 1:08 | Piles de rapports : Sénat, Sécurité sociale, Insee, Cour des comptes. | — | « Ce film ne vous dira pas qu'un homme, un parti ou une décision explique tout. Les archives ne le permettent pas. Elles permettent d'en dire beaucoup plus que ce qu'on raconte d'habitude. » |
 | 1:22 | Le trait blanc seul. Le titre s'écrit dessus : *Avant la ligne*. | Note tenue, coupée. | — |
@@ -29,7 +29,7 @@
 
 **Faits engagés.** 51 déficits (F1) ; 1979 et 1980 à moins d'un demi-point (F3) ; solde de 1981 égal à 5,6 fois celui de 1980 (F5) ; page du Sénat de novembre 1980 (F27) ; deux récits (F29) ; meilleurs résultats ultérieurs en 2000 puis 2018 (F5).
 
-**Garde-fous.** « Chaque fois plus bas » vaut pour 1980, 2000 et 2018, qui sont les records successifs ; l'animation ne relie pas d'autres années. La page est dite publique dès la première phrase qui la concerne.
+**Garde-fous.** 2000 est le meilleur résultat depuis 1980 ; 2018 est le meilleur depuis 2002, mais 2001 fait mieux que 2018. L'animation éclaire ces trois années sans tracer de pente entre elles. La page est dite publique dès la première phrase qui la concerne.
 
 **Force.** Mystère lisible en douze secondes, sans vocabulaire. Une promesse précise.
 **Faiblesse.** Les quinze premières secondes sont un graphique. Tout repose sur le silence de la huitième seconde.
@@ -74,7 +74,7 @@
 | 0:19 | Les 51 barres. Elles se colorent une à une : bleu quand le budget a été voté par une majorité absolue. 42 sont bleues. | Tic par barre. | « Alors on a vérifié. Sur cinquante et un budgets en déficit, quarante-deux ont été votés par une majorité qui pouvait décider seule. » |
 | 0:32 | Les neuf autres s'effacent. Restent 42 barres bleues, toutes sous la ligne. | — | « Le blocage est réel depuis 2024. Mais pendant l'essentiel de ces cinquante et un ans, il n'y en avait pas. » |
 | 0:40 | Zoom sur 1979 et 1980. | Le tic s'arrête. | « Et dans ces années-là, il y a ceci. 1980. Il ne manquait presque rien. » |
-| 0:48 | La page floutée de novembre 1980. | Papier. | « Cette page, imprimée six mois avant que tout replonge, dit ce qui allait arriver. Elle était publique. » |
+| 0:48 | La page floutée de novembre 1980. | Papier. | « Cette page, imprimée six mois avant l'élection présidentielle, dit ce qui allait arriver. Elle était publique. » |
 | 0:57 | Le mur. La fiche « le blocage » est déjà rayée. Quatre restent. | Un claquement. | « Un suspect de moins. Il en reste quatre. » |
 | 1:05 | Titre. | — | — |
 | 1:10 | Fin. | | |
@@ -93,7 +93,7 @@
 Ouverture à froid sur le document seul, sans graphique.
 
 - **Image.** Une page pleine, grain du papier, numéro de page « — 23 — ». La caméra descend lentement vers un tableau : quatre années, quatre soldes. Le dernier est négatif.
-- **Voix off.** « Ceci est un tableau de prévision. Il a été imprimé à Paris en novembre 1980. Il annonce que l'année suivante, les comptes de la Sécurité sociale repasseront dans le rouge, et il explique pourquoi en une phrase. Six mois plus tard, c'est exactement ce qui se produit. Depuis quarante-cinq ans, on raconte cet épisode autrement. Voici la phrase. » Noir avant qu'on la lise. Titre.
+- **Voix off.** « Ceci est un tableau de prévision. Il a été imprimé à Paris en novembre 1980. Il annonce que l'année suivante, les comptes de la Sécurité sociale repasseront dans le rouge, et il explique pourquoi en une phrase. L'année suivante, c'est ce qui se produit. Depuis, on raconte cet épisode autrement. Voici la phrase. » Noir avant qu'on la lise. Titre.
 - **Faits engagés.** Sénat n° 102 (1980-1981), tome III, page imprimée 23 (R7).
 - **Force.** Radicale, parfaitement adaptée à un média de documents.
 - **Faiblesse.** Aucune échelle : le spectateur ne sait pas encore que 1980 est exceptionnelle, ni que l'enjeu est cinquante et un ans. Elle suppose un public déjà acquis.
