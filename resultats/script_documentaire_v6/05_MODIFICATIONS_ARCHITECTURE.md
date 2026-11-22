@@ -10,14 +10,14 @@ La structure d'enquête, la pièce centrale de 1980 et le sommet (le solde avant
 
 | Période | Architecture | Script | Part du film |
 |---|---:|---:|---|
-| Ouverture | 2 min 00 | 1 min 00 | 5 % |
-| 1974–1981 (séquences 1 à 7) | 14 min 00 | 8 min 10 | de 53 % à 39 % |
-| 1982–2001 (séquences 8 à 10) | 6 min 15 | 4 min 00 | de 24 % à 19 % |
-| 2002–2026 (séquences 11 à 15) | 4 min 15 | 5 min 50 | de 16 % à 28 % |
-| Conclusion | 1 min 00 | 1 min 50 | 9 % |
-| **Total** | **26 min 30** | **environ 21 min de voix** | |
+| Ouverture | 2 min 00 | 1 min 00 | de 8 % à 5 % |
+| 1974–1981 (séquences 1 à 7) | 14 min 00 | 8 min 23 | de 53 % à 39 % |
+| 1982–2001 (séquences 8 à 10) | 6 min 15 | 4 min 12 | de 24 % à 19 % |
+| 2002–2026 (séquences 11 à 15) | 4 min 15 | 6 min 16 | de 16 % à 29 % |
+| Conclusion | 1 min 00 | 1 min 49 | de 4 % à 8 % |
+| **Total** | **26 min 30** | **21 min 42** | |
 
-*Durées du script calculées sur le nombre réel de mots, à 182 mots par minute, pauses comprises. Elles seront mises à jour dans [04](04_AUDIT_NARRATIF.md) après corrections.*
+*Durées du script corrigé, calculées sur le nombre réel de mots (3 725), à 182 mots par minute, pauses comprises. Détail par séquence dans [04](04_AUDIT_NARRATIF.md).*
 
 **Ce qui a été fait.**
 
@@ -27,7 +27,7 @@ La structure d'enquête, la pièce centrale de 1980 et le sommet (le solde avant
   2. les engagements à trois ans ne sont jamais tenus (séquence 12) ;
   3. chaque crise laisse une marche de dette, et l'entre-deux-crises ne la redescend pas (séquence 13) ;
   4. l'écart entre dépenses et recettes est le même qu'en 1985, et la base de travail ne s'est pas reconstituée (séquence 14).
-- **La durée baisse au lieu de monter.** Environ 21 minutes de voix, soit 22 à 23 minutes montées. Rien n'a été ajouté pour atteindre 26 minutes : le rythme d'enquête ne le demandait pas.
+- **La durée baisse au lieu de monter.** 21 min 42 de voix et de pauses, soit environ 23 minutes montées. Rien n'a été ajouté pour atteindre 26 minutes : le rythme d'enquête ne le demandait pas.
 
 ## 2. Précision des responsabilités : trois tampons au lieu d'une rature
 
@@ -53,7 +53,7 @@ L'architecture parlait de « deuxième porte » et de ligne « à portée ». Le
 
 - **Pour 2000**, le script dit explicitement le contraire, et il le dit avant la conclusion de la séquence : « Si le gouvernement avait tout gardé, jusqu'au dernier franc, est-ce que la France revenait à l'équilibre ? Non. Loin de là. » Puis : « 2000 n'est pas l'année où la France a raté l'équilibre. C'est l'année où elle pouvait faire une partie du chemin. »
 - **Le choix est dit défendable** (« les impôts venaient de beaucoup monter »), ce que l'architecture reléguait en objection.
-- **Pour 1980**, la mesure arrive dès la première phrase de la séquence suivante : « Un septième, au mieux. Elle a compté. Elle n'a pas fait plonger la France. »
+- **Pour 1980**, la mesure arrive dès le début de la séquence suivante : « Moins d'un sixième. Elle a compté. Elle n'a pas fait plonger la France. »
 - **Le mot « porte » ne sert plus qu'une fois**, comme transition.
 
 ## 4. La conclusion, après vérification à la source
@@ -73,8 +73,8 @@ Trois appuis de l'ancienne conclusion ont été relus dans les pièces. Deux for
 
 **La nouvelle conclusion.** L'ancienne disait, en substance, qu'aucune cause ne suffit et que le déficit se joue « quand ça va mieux ». La nouvelle garde cette idée et lui donne une forme que le spectateur peut retenir et vérifier :
 
-1. La France a redressé ses comptes trois fois : à la fin des années 1970, dans les années 1990, après 2010. Les trois fois le dos au mur, et d'abord en prélevant plus.
-2. Chaque fois que la contrainte s'est éloignée, elle a rendu une partie du gain : 1981, 2000, 2018.
+1. La France a redressé ses comptes trois fois : à la fin des années 1970, dans les années 1990, après 2010. Les trois fois le dos au mur, et deux fois sur trois presque uniquement en prélevant plus.
+2. Chaque fois que la contrainte s'est éloignée, elle a rendu une partie du gain : 1980, 2000, à partir de 2018.
 3. Elle tient la date de fin d'une recette ; elle ne tient pas la date de fin de son déficit.
 
 La dernière image n'est plus la pile des 38 documents. C'est la phrase du budget 2027 sur sa propre trajectoire, qui « revêt un caractère conventionnel du fait des échéances électorales de 2027 », puis une question laissée au spectateur.
@@ -90,7 +90,7 @@ La dernière image n'est plus la pile des 38 documents. C'est la phrase du budge
 | Silence | Deux secondes sur le graphique, à la 12e seconde | Aucun avant le titre |
 | Graphique | Cinquante et une barres qui tombent une à une | Les barres apparaissent d'un coup, comme décor |
 | Durée avant le titre | 1 min 30 | Moins d'une minute |
-| Promesse | « On les a toutes vérifiées, pièce par pièce » | « Un pays qui sait très bien redresser ses comptes. Mais dans une seule situation » |
+| Promesse | « On les a toutes vérifiées, pièce par pièce » | « Un pays qui sait très bien redresser ses comptes. Mais presque toujours dans la même situation » |
 
 L'ouverture commence par l'affirmation la plus surprenante du film, que presque personne ne connaît. La promesse finale annonce qu'il y a une réponse, sans la donner : elle n'est livrée qu'à la conclusion.
 
@@ -102,7 +102,7 @@ Le mur des cinq suspects n'est plus présenté dans l'ouverture. Les fiches appa
 |---|---|---|---|
 | Nombre de séquences | 15 | 15, plus ouverture et conclusion | Deux fusions, trois créations |
 | La jauge | Deux emplois | Deux emplois, inchangé | — |
-| Le personnage de 57 ans | Séquence de 2 minutes | 1 min 10 | C'était la séquence signalée comme la plus fragile |
+| Le personnage de 57 ans | Séquence de 2 minutes | 1 min 04 | C'était la séquence signalée comme la plus fragile |
 | L'entrée dans l'euro en 1997 | Absente | Une phrase, séquence 9 | Elle donne le deuxième « dos au mur » |
 | Le redressement de 2011–2018 | Une ligne à l'écran | Une demi-séquence | Elle donne le troisième |
 | Les allègements de cotisations | Écartés | Trois phrases, séquence 14 | Mécanisme de persistance : un coût connu, un rendement jamais mesuré |

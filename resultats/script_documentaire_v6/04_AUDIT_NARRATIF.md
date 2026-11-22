@@ -104,7 +104,7 @@ Chaque séquence répond à la question laissée par la précédente, sauf deux 
 |---|---:|---:|
 | Mots | 3 337 | 3 725 |
 | Durée de voix à 182 mots par minute | 18 min 20 | 20 min 28 |
-| Nombres écrits en chiffres, hors années | 81 | 33 |
+| Nombres écrits en chiffres, hors années | 81 | 34 |
 | Part du film consacrée à 2023–2026 | environ 25 % | moins de 5 % |
 | Années racontées entre 1975 et 2000 | un paragraphe | dix séquences |
 | Formules de rappel (« garde en tête », « on y viendra », « souviens-toi ») | 3 | 0 |
