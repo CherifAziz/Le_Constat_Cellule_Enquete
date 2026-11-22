@@ -339,3 +339,118 @@ Verdicts : **C** conforme · **P** à préciser · **F** faux (ou faux dans sa c
 - **Objectif exact visé par le 94 %** à la p. 416 du discours de Persson (M12).
 - **Pièces d'archive** : non ré-authentifiées (décret de 1979 toujours absent, une « cagnotte » à sourcer).
 - **Chiffres repris tels quels de la V6** : recalculés par la rédaction et validés par Astra V6, non recalculés ici.
+
+---
+
+## 9. Contre-relecture de la version corrigée (2da0d47)
+
+**Objet.** `02_SCRIPT_ANNOTE.md` au commit `2da0d47`, lu en entier. Je l'ai comparé à mes constats sur `e4580f2` (§§2–5) avec le même référentiel : Astra `938fc95`, audit V6, données de la cellule. J'ai aussi contrôlé le §5 de `04_AUDIT_FACTUEL.md`.
+
+**Repérage.** Ici, « N » désigne le numéro de ligne dans la version `2da0d47`. Les repères L des §§2–5 restent ceux de `e4580f2`.
+
+**Résultat.**
+- Les cinq bloquants sont levés.
+- Sur les seize points « à corriger », quinze sont conformes. Un reste insuffisant : les plafonds suédois, N369.
+- Les réécritures introduisent deux nouvelles erreurs « à corriger » : la dotation des communes (N393) et « aucun levier ne suffit seul » (N459).
+- Restent aussi des mineurs, anciens ou nouveaux.
+
+### 9.1 Les cinq bloquants
+
+| # | Phrase finale | Statut |
+|---|---|---|
+| B1 | N223 « où en sera son déficit trois budgets plus loin. Trente et une de ces cibles sont arrivées à échéance. (pause) Les trente et une ont été manquées. » | **Conforme, avec une réserve mineure.** Comptés à partir du budget présenté, trois budgets plus loin correspondent à la convention A08, et le carton N221 la donne en entier. À l'oreille, « trois budgets plus loin » peut toutefois s'entendre comme « le troisième budget après l'annonce », soit la convention civile (31 sur 32). Formulation sans ambiguïté : « trois exercices après l'année du budget qu'elle présente ». |
+| B2 | N385 « Prends un gel des seules pensions, simulé par l'Institut des politiques publiques. D'après nos calculs sur ses résultats, si l'on range les ménages du plus modeste au plus aisé, selon leur niveau de vie : près de quatre euros sur dix de l'effort pèsent sur la moitié la plus modeste. » | **Conforme.** L'IPP simule bien une ligne « Gel des retraites » distincte (tableau 2.2, juin 2025, p. 48). S04 en tire 37–40 % et 47–48 % (S04 §5, C-S04-001). Le carton N383 cite la bonne pièce. |
+| B3 | N389 « Une autre règle épargnerait les petites pensions : ne freiner, plusieurs années de suite, que les pensions au-dessus d'environ 1 260 euros. Elle rapporterait autour de deux milliards en 2030. » Carton N387 « Autre mesure, distincte du gel » | **Conforme.** Le texte ne présente plus l'écart entre les deux montants comme le prix de la protection. Un mineur subsiste sur la base des montants (9.4, N9). |
+| B4 | N160 « Les déficits contribuent à augmenter la dette » | **Conforme.** |
+| B5 | N296 « Et pour quarante-deux de nos cinquante et un budgets, le camp du gouvernement est classé majoritaire à l'Assemblée, seul ou avec ses alliés. » | **Conforme.** |
+
+### 9.2 Les seize points « à corriger »
+
+| Point (L e4580f2) | Phrase finale (N) | Statut |
+|---|---|---|
+| L44 | N44 « qui annonce que les comptes de la Sécurité sociale vont replonger » | Conforme |
+| L64 | N64 « Par rapport aux dernières années d'avant-crise, elle garde simplement son rythme. » | Conforme |
+| L68 | N68 « Depuis 1974, […] Et les quatre cinquièmes de cette montée, jusqu'à aujourd'hui, sont faits dès 1985. » | Conforme |
+| L79–81 | N81 « Sur la dernière ligne droite, de 1978 à 1980, la Sécurité sociale fait plus de la moitié du redressement. Le budget de l'État, environ un huitième. » | Conforme pour la période. Raccourci de périmètre : mineur, voir 9.4 N11 |
+| L184/L217 | N190 « Et une partie de cette recette y est classée exceptionnelle : elle ne reviendra pas. » | Conforme (formule de la V6) |
+| L300 fin | N296 « Il n'a pas créé celui d'hier. » | Conforme |
+| L255–257 | N253 « Dont une contribution sur les bénéfices des grandes entreprises. » La surimpression de 1979 est retirée (N251) | Conforme |
+| L278 | N274 « Le gain chiffré, sept ans plus tard. » | Conforme |
+| L282 | N278 « La réforme passe sans vote à l'Assemblée, avec le 49.3. » | Conforme |
+| L316 | N312 « Et dans une hypothèse où une partie seulement est appliquée : environ deux et demi. » | Conforme |
+| L357 | N353 « Et ces années sont dures. […] crise et plan sont mêlés […] sans qu'on sache quelle part revient aux coupes. » | Conforme. Nouvelle incise mineure, voir 9.4 N8 |
+| L373 | N369 « Ce n'est donc pas leur application qui a redressé les comptes. » | **Insuffisant — à corriger.** La phrase dit encore que les plafonds n'ont joué aucun rôle. Astra 04 §4 : « L'annonce peut agir avant l'entrée en vigueur. L'ordre des dates écarte néanmoins l'attribution de **tout** le redressement. » Correction : « Ce n'est donc pas leur application qui a fait l'essentiel du redressement. » |
+| L385 | N381 « c'est une économie rapide » | Conforme |
+| L433 | N429 « a gagné entre 16 et 17 points » | Conforme pour l'ambiguïté d'écoute. Deux résidus mineurs : « ce levier a une preuve, ce qui est rare », alors que la preuve porte sur l'emploi à 60 ans et non sur un rendement ; et l'absence de « pour les premières générations concernées » |
+| Carton L109 | N109 « avec la légende « 1980 et 1981 : prévisions de novembre 1980 » (l'excédent de 1980 a finalement été d'un peu moins de 11 milliards) » | Conforme. La seconde légende, « régime général — prévision pour 1981 », reste en fin de ligne : la fondre dans la première (mineur) |
+| Carton L284 | N280 « calendrier de la réforme décalé pour les générations concernées, à partir des pensions prenant effet en septembre 2026 ; âge légal maintenu à 62 ans et 9 mois jusqu'en janvier 2028 » | Conforme (Astra 05 ; A13 P-A13-003) |
+
+### 9.3 Les vingt mineurs
+
+| # | Statut | Phrase finale ou constat |
+|---|---|---|
+| M1 | Conforme | `03_NOTE_CORRECTIONS_ASTRA.md` et `04_AUDIT_FACTUEL.md` existent |
+| M2 | Inchangé, acceptable | N60 « avec la récession qui suit le premier choc pétrolier » |
+| M3 | Conforme | N144 « Neuf mois après. » |
+| M4 | Conforme | N217 « La question du printemps 2000, la France se l'est donc reposée. Par écrit. » |
+| M5 | Sans objet | — |
+| M6 | Conforme | N229 « Écrire un engagement ne suffit pas à le tenir. » |
+| M7 | Conforme | N235 « de l'effort budgétaire mesuré » |
+| M8 | Conforme | N243 « Cinquante et un ans, trois redressements. » |
+| M9 | Conforme | N253 « 23 milliards d'euros de mesures de recettes » |
+| M10 | Conforme | N303 « Juste arrêter la hausse de son poids. » |
+| M11 | Conforme | N318 « dirigé par un gouvernement minoritaire » |
+| M12 | Conforme | N339 « soutiennent l'objectif de redressement » |
+| M13 | Conforme | N353 « selon le conseiller de Persson […] les collectivités locales coupent » |
+| M14 | Ouvert, comme convenu | N365 inchangé |
+| M15 | Conforme | N393 « ces gels ont déjà été retirés, ou rattrapés » |
+| M16 | Conforme | N414 « Une pension exonérée peut rester protégée ; les revenus du capital concentrent davantage l'effort chez les plus aisés. » |
+| M17 | Conforme | N406 « rapporte en général quelques milliards à chaque fois » ; N418 « environ deux milliards dans notre exemple » |
+| M18 | Conforme | N431 « une grande partie de l'effet » |
+| M19 | Conforme | N441 « dans les documents qu'elle examine » |
+| M20 | Conforme, avec un résidu | N459 « ralentissent dans nos simulations la hausse de la dette ». « De la dette » pour « du poids de la dette » : acceptable, le graphique est en points de PIB |
+| L198 (mineur de la copie de travail) | Conforme | N198 « environ quatre euros sur dix ». Le carton N196 dit encore « au plus quatre dixièmes » pour 41,0 % : aligner sur « environ quatre dixièmes » (mineur) |
+| Cartons mineurs du §4 | Non repris | N76 « État : un huitième » (→ « environ un huitième ») ; N138 semestres non légendés ; N233 « courbe des recettes » ; N478 « relevé non exhaustif » absent. Tous mineurs |
+
+### 9.4 Erreurs nouvelles introduites par les réécritures
+
+| # | N | Phrase | Gravité | Pièce | Correction mot pour mot |
+|---|---|---|---|---|---|
+| N1 | 393 | « moins rembourser un soin, ou baisser la dotation d'une commune, c'est souvent déplacer la dépense vers les ménages, les mutuelles ou les communes. Pas la supprimer. » | **À corriger** | La version précédente était juste : « n'économise rien si la commune ne dépense pas moins ». Astra 02 §4 : « Seule leur baisse effective de dépense ou leur recette supplémentaire contribue ». A13 retient 65 % et 80 % de transmission pour deux lignes locales, donc une baisse réelle de la dépense locale dans le scénario. Une dotation réduite ne « déplace » pas une dépense vers la commune : elle déplace un financement. | « Attention aussi aux fausses économies : moins rembourser un soin, c'est souvent déplacer la dépense vers les ménages et leurs mutuelles. Et baisser la dotation d'une commune n'économise rien si la commune ne dépense pas moins. » |
+| N2 | 459 | « Aujourd'hui, aucun levier ne suffit seul. Pas sans faire payer toujours les mêmes. » | **À corriger** | La première phrase, isolée par le point, énonce ce qu'Astra réfute. Astra 05 : « Réfutée pour la déduction que la seule fiscalité serait impossible, la seule dépense arithmétiquement exclue ». Astra 06 l.17. Elle contredit aussi N259 : « Ni l'un ni l'autre n'est impossible sur le papier ». | « Aujourd'hui, aucun levier ne suffit seul sans faire payer toujours les mêmes. » |
+| N3 | 210 | « Mais justement : même avec ce poids-là, on peut encaisser plus qu'on ne dépense, avant intérêts. » | Mineur | Exact. Mais Astra 04 §5 souligne qu'un excédent primaire peut coexister avec une dette croissante, et l'objectif de la séq. 16 est justement l'arrêt de la hausse du ratio. Sans précision, la phrase peut laisser croire que l'excédent primaire suffit. | Ajouter : « Sa dette, pourtant, a continué de monter. » |
+| N4 | 404 | « Ça, on ne le saura qu'en relevant les prix sur les cartes, après coup. » | Mineur | Astra 03 : le partage se fait entre prix, marges, salaires et emploi. « Les hausses ultérieures ont été davantage transmises aux prix. » Les seuls prix ne disent pas la part des patrons ou des salariés. | « Ça se mesure après coup : sur les prix des cartes, mais aussi les marges et les salaires. » |
+| N5 | 414 | « Prends maintenant une fiche de paie. […] Sur 2 000 euros, un demi-point de plus, c'est 10 euros de moins par mois. » | Mineur | Astra 03 : « une assiette de revenu effectivement soumise de 2 000 € ». Sur une fiche de paie, « 2 000 euros » s'entend comme un salaire net, dont l'assiette CSG est plus élevée. Le carton N412 dit bien « soumis à la CSG ». | « Sur 2 000 euros soumis à la CSG, un demi-point de plus, c'est 10 euros de moins par mois. » |
+| N6 | 445 | « Et pas tous les quatorze ans : chaque année. Imagine un document public, avant chaque vote du budget : ce qui était promis, ce qui a été fait, l'écart… » | Mineur | La phrase présente comme inexistant un suivi annuel qui existe en partie. A08 l.163 : depuis la loi organique du 17 décembre 2012, un mécanisme de correction oblige à exposer des mesures en cas d'« écart important » (« Obligation d'exposer, pas d'atteindre »). | Ajouter après « chaque année. » : « Un mécanisme existe depuis 2012, mais il oblige à expliquer l'écart, pas à le combler. » |
+| N7 | 465 | « (pause) Au fond, c'est ce que la Suède a de transposable : un effort réparti, présenté d'un bloc, avec tout sur la table. » | Mineur | Astra 04 §5 : la méthode est transposable (présentation d'ensemble, objectif commun, publication des écarts). Le dosage et le choix des leviers ne le sont pas. Placée après la liste des quatre leviers, la phrase peut faire croire que cette liste vient de la Suède. | « Au fond, la méthode est celle que la Suède a de transposable : un effort réparti, présenté d'un bloc, avec tout sur la table. » |
+| N8 | 353 | « Ce qui relève bien du plan, selon le conseiller de Persson : quand les budgets locaux sont comprimés… » | Mineur | Astra 04 §3 : Henriksson « décrit » ces coupes. L'attribution au conseiller est faite, mais « relève bien » durcit le lien causal. | « Ce que le conseiller de Persson attribue au plan : quand les budgets locaux sont comprimés… » |
+| N9 | 381 / 389 | « quatre milliards et demi par an en 2030 » puis « autour de deux milliards en 2030 » | Mineur | Les deux montants dits à suivre ne sont pas sur la même base : 4,5 = A13, net en euros courants ; 2 = A15, effet direct à l'échelle du PIB 2025 (1,945). Le texte ne les compare plus, mais l'oreille rapproche 4,5 et 2. Sur la base A15, le gel vaut 4,7. | N389 : « Elle rapporterait autour de deux milliards en 2030, à la taille de l'économie de 2025. » |
+| N10 | 259 | « Mais chacun fait porter tout l'effort sur une seule moitié du budget. » | Mineur | Image approximative : recettes et dépenses ne sont pas deux « moitiés » (51 et 57 % du PIB). | « … sur un seul côté du budget. » |
+| N11 | 81 | « la Sécurité sociale fait plus de la moitié du redressement. Le budget de l'État, environ un huitième. » | Mineur | Astra V6 02 §4 : « administrations de sécurité sociale » 57,1 %, « État » 13,2 % (sous-secteur des comptes nationaux, pas le seul budget voté). | « … les administrations de sécurité sociale font plus de la moitié du redressement. L'État, environ un huitième. » |
+
+**Zones réécrites sans erreur nouvelle :**
+- séq. 16 : N305, N310, N312. « Le but, c'est zéro » est cohérent avec la ligne zéro du graphique et avec Astra 02 §5 ; « Attention : stabiliser […] d'autres cibles » est conforme à Astra 02 §2.
+- séq. 20 : attribution IPP/S04 vérifiée sur S04 §5.
+- séq. 21 : « en année pleine » (Astra 03 §1) ; « en général quelques milliards ».
+- séq. 23 : N441, en dehors de N6.
+- conclusion : « même les trente-huit mesures… » est conforme (K1, 38 lignes, Astra 02 §3).
+
+### 9.5 Contrôle du §5 de `04_AUDIT_FACTUEL.md`
+
+| Ligne du tableau | Constat | Gravité |
+|---|---|---|
+| Toutes les lignes chiffrées (23 ; 46 % ; 51 % ; 0,54 ; 57 ; 9,7–11,8 ; 278/287 ; 2028 ; 26/16 ; 6,4 ; 42/51 ; 135–165 ; +3,8/+2,0/+2,6 ; 10,7/5,1 ; 94 % ; 8 % ; 20 % ; 6,8–10,5 ; >10 % ; −8,9 ; 26 € ; 4,5 ; 37–40/47–48 ; 1,945 ; 32,73 ; 56 % ; 7,5 ; 10 € ; 2 Md€ ; 44,4/67,6 ; 16–17 ; 14 ans ; 38 ; 3 % en 2029) | Valeurs, bases et sources conformes au référentiel | — |
+| Séq. 20, « 1 260 € ; deux milliards », et paragraphe « Comparaisons orales » (« Un seul rapprochement reste ») | Le paragraphe oublie que la voix enchaîne 4,5 (A13, euros courants nets) et 2 (A15, échelle du PIB 2025) | Mineur. Ajouter : « Séq. 20 : 4,5 (A13, courants) puis 2 (A15, échelle 2025) se suivent à l'oral ; le second porte désormais sa base. » |
+| Séq. 21, « 2 000 € ; 10 € par mois » | Le tableau dit « assiette de 2 000 € », la voix seulement « Sur 2 000 euros » (voir N5) | Mineur |
+| Séq. 22, « 16 à 17 points », « premières générations touchées » | La précision figure au tableau, pas dans la voix | Mineur |
+| Séq. 17, comparaison implicite N318 « un effort de cette ampleur » | Non signalée dans « Comparaisons orales » : 8 % du PIB suédois (programme net, 1998) face à environ 4,5–5,5 points de PIB pour la France (135–165 Md€). L'ordre de grandeur tient, la Suède étant au-dessus, mais les bases diffèrent | Mineur |
+| Couverture | Les dates dites ne figurent pas au tableau : 1992, octobre 1994, printemps 1995, août 1995, avril 1996, 1997, 1998, 1999, septembre 2023, fin 2025, 2005, 2019. Toutes sont conformes à Astra 04 et 05 | Mineur, documentaire |
+
+### 9.6 Problèmes restants
+
+**À corriger**
+- N369 (séq. 19) : « Ce n'est donc pas leur application qui a redressé les comptes. » → « Ce n'est donc pas leur application qui a fait l'essentiel du redressement. »
+- N393 (séq. 20) : la phrase sur la dotation des communes est fausse. Rétablir « Et baisser la dotation d'une commune n'économise rien si la commune ne dépense pas moins. »
+- N459 (conclusion) : « Aujourd'hui, aucun levier ne suffit seul. Pas sans faire payer toujours les mêmes. » → « Aujourd'hui, aucun levier ne suffit seul sans faire payer toujours les mêmes. »
+
+**Mineurs** : B1 (ambiguïté de « trois budgets plus loin »), N429, cartons N109, N196, N76, N138, N233 et N478, N3 à N11, et les quatre remarques du §5 de `04_AUDIT_FACTUEL.md`.

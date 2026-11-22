@@ -5,7 +5,7 @@
 1. Un relecteur indépendant a lu le premier jet du point de vue d'un script doctor. Son rapport est dans [annexes/relecture_narrative_agent.md](annexes/relecture_narrative_agent.md).
 2. La rédaction a appliqué ses corrections, puis relu la version finale.
 
-Les heures viennent de `durees.json`. Ce sont des estimations calculées, pas des mesures. **Aucun test d'écoute n'a eu lieu.** Rien ici ne garantit la rétention réelle : ce sont des jugements d'écriture.
+Les heures viennent de `durees.json` au commit `2da0d47`. La contre-relecture factuelle a ensuite allongé quelques phrases : dans la version finale, les heures sont décalées de 3 à 16 s, et la durée totale est de 28:58. Ce sont des estimations calculées, pas des mesures. **Aucun test d'écoute n'a eu lieu.** Rien ici ne garantit la rétention réelle : ce sont des jugements d'écriture.
 
 ## 1. Verdict
 
@@ -22,7 +22,7 @@ Le film raconte une enquête. Ce n'est pas une suite de rapports.
 
 - la séquence 16, où l'on passe des milliards aux points de dette ;
 - la séquence 21, la plus chargée en chiffres ;
-- la durée, 52 s au-dessus de l'objectif d'Astra.
+- la durée, 68 s au-dessus de l'objectif d'Astra.
 
 ## 2. La courbe de curiosité
 

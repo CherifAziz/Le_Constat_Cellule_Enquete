@@ -12,11 +12,11 @@
   "carton_titre_s": 4.0,
   "silence_final_s": 3.0
  },
- "total_mots": 4824,
- "voix_seule_s": 1590.3,
- "fin_derniere_sequence_s": 1719.3,
- "fin_avec_silence_s": 1722.3,
- "total_s": 1722.3,
+ "total_mots": 4872,
+ "voix_seule_s": 1606.2,
+ "fin_derniere_sequence_s": 1735.2,
+ "fin_avec_silence_s": 1738.2,
+ "total_s": 1738.2,
  "sequences": [
   {
    "acte": "Ouverture",
@@ -37,186 +37,186 @@
   {
    "acte": "Acte I — Comment elle s'est enfermée",
    "titre": "2 · La remontée",
-   "mots": 139,
-   "duree_s": 47.8,
+   "mots": 138,
+   "duree_s": 47.5,
    "debut_s": 145.9,
-   "fin_s": 193.7
+   "fin_s": 193.4
   },
   {
    "acte": "Acte I — Comment elle s'est enfermée",
    "titre": "3 · Trente francs",
    "mots": 205,
    "duree_s": 75.1,
-   "debut_s": 193.7,
-   "fin_s": 268.8
+   "debut_s": 193.4,
+   "fin_s": 268.4
   },
   {
    "acte": "Acte I — Comment elle s'est enfermée",
    "titre": "4 · Novembre 1980",
    "mots": 190,
    "duree_s": 74.6,
-   "debut_s": 268.8,
-   "fin_s": 343.4
+   "debut_s": 268.4,
+   "fin_s": 343.1
   },
   {
    "acte": "Acte I — Comment elle s'est enfermée",
    "titre": "5 · Faisons le compte",
    "mots": 164,
    "duree_s": 57.6,
-   "debut_s": 343.4,
-   "fin_s": 401.0
+   "debut_s": 343.1,
+   "fin_s": 400.6
   },
   {
    "acte": "Acte I — Comment elle s'est enfermée",
    "titre": "6 · Ce que ces années laissent",
    "mots": 191,
    "duree_s": 66.0,
-   "debut_s": 401.0,
-   "fin_s": 466.9
+   "debut_s": 400.6,
+   "fin_s": 466.6
   },
   {
    "acte": "Acte II — Les occasions",
    "titre": "7 · Dos au mur",
    "mots": 116,
    "duree_s": 39.7,
-   "debut_s": 466.9,
-   "fin_s": 506.7
+   "debut_s": 466.6,
+   "fin_s": 506.4
   },
   {
    "acte": "Acte II — Les occasions",
    "titre": "8 · Printemps 2000",
    "mots": 281,
    "duree_s": 102.6,
-   "debut_s": 506.7,
-   "fin_s": 609.3
+   "debut_s": 506.4,
+   "fin_s": 609.0
   },
   {
    "acte": "Acte II — Les occasions",
    "titre": "9 · La colonne éteinte",
-   "mots": 102,
-   "duree_s": 35.1,
-   "debut_s": 609.3,
-   "fin_s": 644.5
+   "mots": 109,
+   "duree_s": 37.4,
+   "debut_s": 609.0,
+   "fin_s": 646.4
   },
   {
    "acte": "Acte II — Les occasions",
    "titre": "10 · Les promesses écrites",
-   "mots": 203,
-   "duree_s": 74.9,
-   "debut_s": 644.5,
-   "fin_s": 719.4
+   "mots": 207,
+   "duree_s": 76.2,
+   "debut_s": 646.4,
+   "fin_s": 722.7
   },
   {
    "acte": "Acte II — Les occasions",
    "titre": "11 · Troisième fois",
    "mots": 111,
    "duree_s": 39.6,
-   "debut_s": 719.4,
-   "fin_s": 759.0
+   "debut_s": 722.7,
+   "fin_s": 762.3
   },
   {
    "acte": "Acte III — Le mur",
    "titre": "12 · Le levier déjà tiré",
    "mots": 117,
    "duree_s": 39.6,
-   "debut_s": 759.0,
-   "fin_s": 798.5
+   "debut_s": 762.3,
+   "fin_s": 801.8
   },
   {
    "acte": "Acte III — Le mur",
    "titre": "13 · Où est l'argent",
    "mots": 81,
    "duree_s": 28.2,
-   "debut_s": 798.5,
-   "fin_s": 826.7
+   "debut_s": 801.8,
+   "fin_s": 830.0
   },
   {
    "acte": "Acte III — Le mur",
    "titre": "14 · Septembre 2023",
    "mots": 117,
    "duree_s": 40.6,
-   "debut_s": 826.7,
-   "fin_s": 867.3
+   "debut_s": 830.0,
+   "fin_s": 870.6
   },
   {
    "acte": "Acte III — Le mur",
    "titre": "15 · L'effort retiré",
    "mots": 157,
    "duree_s": 53.8,
-   "debut_s": 867.3,
-   "fin_s": 921.1
+   "debut_s": 870.6,
+   "fin_s": 924.4
   },
   {
    "acte": "Acte III — Le mur",
    "titre": "16 · Le compte",
    "mots": 281,
    "duree_s": 108.6,
-   "debut_s": 921.1,
-   "fin_s": 1029.7
+   "debut_s": 924.4,
+   "fin_s": 1033.0
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "17 · Stockholm",
    "mots": 224,
    "duree_s": 80.8,
-   "debut_s": 1029.7,
-   "fin_s": 1110.6
+   "debut_s": 1033.0,
+   "fin_s": 1113.9
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "18 · Le vent dans le dos",
-   "mots": 219,
-   "duree_s": 73.7,
-   "debut_s": 1110.6,
-   "fin_s": 1184.3
+   "mots": 217,
+   "duree_s": 73.0,
+   "debut_s": 1113.9,
+   "fin_s": 1186.9
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "19 · Ce qui se transpose",
-   "mots": 140,
-   "duree_s": 48.2,
-   "debut_s": 1184.3,
-   "fin_s": 1232.4
+   "mots": 141,
+   "duree_s": 48.5,
+   "debut_s": 1186.9,
+   "fin_s": 1235.4
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "20 · Une pension",
-   "mots": 266,
-   "duree_s": 90.7,
-   "debut_s": 1232.4,
-   "fin_s": 1323.1
+   "mots": 277,
+   "duree_s": 94.3,
+   "debut_s": 1235.4,
+   "fin_s": 1329.7
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "21 · Une addition",
-   "mots": 348,
-   "duree_s": 119.2,
-   "debut_s": 1323.1,
-   "fin_s": 1442.3
+   "mots": 356,
+   "duree_s": 121.9,
+   "debut_s": 1329.7,
+   "fin_s": 1451.6
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "22 · Deux personnes de soixante ans",
-   "mots": 214,
-   "duree_s": 73.0,
-   "debut_s": 1442.3,
-   "fin_s": 1515.4
+   "mots": 219,
+   "duree_s": 74.7,
+   "debut_s": 1451.6,
+   "fin_s": 1526.3
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "23 · Quatorze ans plus tard",
-   "mots": 180,
-   "duree_s": 61.3,
-   "debut_s": 1515.4,
-   "fin_s": 1576.7
+   "mots": 195,
+   "duree_s": 66.3,
+   "debut_s": 1526.3,
+   "fin_s": 1592.5
   },
   {
    "acte": "Conclusion",
    "titre": "Conclusion",
    "mots": 378,
    "duree_s": 142.6,
-   "debut_s": 1576.7,
-   "fin_s": 1719.3
+   "debut_s": 1592.5,
+   "fin_s": 1735.2
   }
  ],
  "plages_hors_voix": [
@@ -227,8 +227,8 @@
   },
   {
    "titre": "Silence final (hors voix)",
-   "debut_s": 1719.3,
-   "fin_s": 1722.3
+   "debut_s": 1735.2,
+   "fin_s": 1738.2
   }
  ]
 }

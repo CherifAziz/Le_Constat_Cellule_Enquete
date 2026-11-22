@@ -47,9 +47,9 @@ Heures de début calculées sur la version finale (`durees.json`). Ce sont des e
 | 0:00 | **Ouverture** | Le compte d'aujourd'hui, puis la barre de 1980 et la page floutée | En quoi ça me concerne ? | Les trois questions, et la promesse d'une position |
 | 1:22 | **I · Comment elle s'est enfermée** | 1 Les ciseaux · 2 La remontée · 3 Trente francs · 4 Novembre 1980 · 5 Faisons le compte · 6 Ce que ces années laissent | D'où vient le trou ? | Elle sait se redresser, en prélevant, et en partie avec une recette provisoire |
 | 7:47 | **II · Les occasions** | 7 Dos au mur · 8 Printemps 2000 · 9 La colonne éteinte · 10 Les promesses écrites · 11 Troisième fois | Et quand ça allait mieux ? | « Alors pourquoi ne pas recommencer ? » |
-| 12:39 | **III · Le mur** | 12 Le levier déjà tiré · 13 Où est l'argent · 14 Septembre 2023 · 15 L'effort retiré · 16 Le compte | Pourquoi pas maintenant ? | Les mesures ralentissent la hausse sans l'arrêter. Un pays a-t-il fait mieux ? |
-| 17:10 | **IV · Ce qui pourrait marcher** | 17 Stockholm · 18 Le vent dans le dos · 19 Ce qui se transpose · 20 Une pension · 21 Une addition · 22 Deux personnes de soixante ans · 23 Quatorze ans plus tard | Quelqu'un y est arrivé ? Et nous ? | Une règle ne rapporte rien : elle dit si le reste est tenu |
-| 26:17 | **Conclusion** | Trois réponses, la position, son prix, la phrase de 2027, les trois questions | Qu'est-ce que j'en retiens ? | — |
+| 12:42 | **III · Le mur** | 12 Le levier déjà tiré · 13 Où est l'argent · 14 Septembre 2023 · 15 L'effort retiré · 16 Le compte | Pourquoi pas maintenant ? | Les mesures ralentissent la hausse sans l'arrêter. Un pays a-t-il fait mieux ? |
+| 17:13 | **IV · Ce qui pourrait marcher** | 17 Stockholm · 18 Le vent dans le dos · 19 Ce qui se transpose · 20 Une pension · 21 Une addition · 22 Deux personnes de soixante ans · 23 Quatorze ans plus tard | Quelqu'un y est arrivé ? Et nous ? | Une règle ne rapporte rien : elle dit si le reste est tenu |
+| 26:33 | **Conclusion** | Trois réponses, la position, son prix, la phrase de 2027, les trois questions | Qu'est-ce que j'en retiens ? | — |
 
 ## 4. Les révélations, dans l'ordre
 

@@ -73,12 +73,12 @@ D'où vient cet élan ? Plusieurs règles de prestations avaient été écrites 
 
 ### 2 · La remontée
 
-> **IMAGE** — La courbe du solde, 1975–1980 : elle remonte. Quatre repères s'allument : décembre 1975, octobre 1976, décembre 1978, juillet 1979. Sous la courbe, pour 1978–1980 : « administrations de sécurité sociale : plus de la moitié », « État : un huitième ».
+> **IMAGE** — La courbe du solde, 1975–1980 : elle remonte. Quatre repères s'allument : décembre 1975, octobre 1976, décembre 1978, juillet 1979. Sous la courbe, pour 1978–1980 : « administrations de sécurité sociale : plus de la moitié », « État : environ un huitième ».
 > **ARCHIVE** — Sénat, rapport n° 102 (1980-1981), tome III, tableau des soldes du régime général : « 1978 : — 10,8 ».
 
 Avec une dépense sur sa lancée et une croissance cassée, le trou devrait se creuser chaque année. C'est l'inverse. De 1975 à 1980, la France refait presque tout le chemin.
 
-Comment ? Regarde la Sécurité sociale. Son régime général, celui des salariés, finit 1978 avec près de 11 milliards de francs de déficit. Quatre plans en quatre ans, et à chaque fois, on relève les cotisations. Par décret. Sur la dernière ligne droite, de 1978 à 1980, la Sécurité sociale fait plus de la moitié du redressement. Le budget de l'État, environ un huitième.
+Comment ? Regarde la Sécurité sociale. Son régime général, celui des salariés, finit 1978 avec près de 11 milliards de francs de déficit. Quatre plans en quatre ans, et à chaque fois, on relève les cotisations. Par décret. Sur la dernière ligne droite, de 1978 à 1980, les administrations de sécurité sociale font plus de la moitié du redressement. L'État, environ un huitième.
 
 > **IMAGE** — Le compteur. Deux colonnes pour 1980 : « avant intérêts » en vert, « après intérêts » en rouge.
 
@@ -106,7 +106,7 @@ Mais l'année où la France passe le plus près de l'équilibre, le matelas de s
 
 ### 4 · Novembre 1980
 
-> **ARCHIVE** — La page de l'ouverture devient nette. Sénat, rapport n° 102 (1980-1981), tome III, page imprimée 23. La phrase surlignée, puis le tableau des soldes : — 10,8 ; 0 ; + 8,3 ; — 3,2, avec la légende « 1980 et 1981 : prévisions de novembre 1980 » (l'excédent de 1980 a finalement été d'un peu moins de 11 milliards). Au sous-titre, les coupes de la citation sont signalées par des crochets : l'original ouvre par « Or, » et se poursuit après « francs » par « ainsi réparti ». Légende : « régime général — prévision pour 1981 ».
+> **ARCHIVE** — La page de l'ouverture devient nette. Sénat, rapport n° 102 (1980-1981), tome III, page imprimée 23. La phrase surlignée, puis le tableau des soldes : — 10,8 ; 0 ; + 8,3 ; — 3,2, avec la légende « régime général · 1980 et 1981 : prévisions de novembre 1980 » (l'excédent de 1980 a finalement été d'un peu moins de 11 milliards). Au sous-titre, les coupes de la citation sont signalées par des crochets : l'original ouvre par « Or, » et se poursuit après « francs » par « ainsi réparti ».
 > **LECTURE** — 4 s
 
 Novembre 1980. L'élection présidentielle est dans six mois. Au Sénat, on examine les comptes de la Sécurité sociale. Voici la page. (silence)
@@ -135,7 +135,7 @@ Non. (pause) Faisons le compte. Si l'on compte simplement les neuf mois de recet
 
 Alors c'est la gauche, arrivée en mai ? Depuis quarante ans, on répète : la relance, la retraite à 60 ans. Regarde les dates. La retraite à 60 ans du régime général entre en vigueur le 1er avril 1983. Elle ne peut pas avoir creusé le déficit de 1981.
 
-> **ARCHIVE** — Sénat, rapport n° 32 (1982-1983), page imprimée 16 : bénéficiaires des principales allocations chômage, « moyennes semestrielles » : 739 200 ; 801 500 ; 1 001 300.
+> **ARCHIVE** — Sénat, rapport n° 32 (1982-1983), page imprimée 16 : bénéficiaires des principales allocations chômage, « moyennes semestrielles » : 739 200 ; 801 500 ; 1 001 300. Légende : « 1er semestre 1980 · 2e semestre 1980 · 1er semestre 1981 ».
 
 Le chômage, lui, montait déjà en 1980. Et le nouveau gouvernement engage, dès juin, des dépenses dont une partie n'a aucune recette en face. Ce n'est donc pas l'héritage ou la gauche. C'est l'héritage et la gauche, dans une économie qui se dégrade. Quelle part pour chacun ? Les comptes de l'époque ne permettent pas de le dire.
 
@@ -193,7 +193,7 @@ Les quatre cinquièmes partent en baisses d'impôts : la TVA perd un point, l'im
 
 Une autre voie existait. Elle est imprimée aussi. Au Sénat, la commission des finances, tenue par l'opposition, propose de financer les dépenses nouvelles par des économies, et de réduire le déficit. Le dernier mot revient à l'Assemblée. La proposition reste sur le papier.
 
-> **IMAGE** — La jauge, pour la seconde fois. La barre : le déficit de toutes les administrations publiques en 2000, constaté après la fin de l'année. La part colorée s'arrête avant la moitié. Écrit sur la jauge : « au plus quatre dixièmes, à activité inchangée ». En petit : « 51,4 milliards de francs = 7,84 milliards d'euros ; déficit public 2000 : 19,1 milliards d'euros ».
+> **IMAGE** — La jauge, pour la seconde fois. La barre : le déficit de toutes les administrations publiques en 2000, constaté après la fin de l'année. La part colorée s'arrête avant la moitié. Écrit sur la jauge : « environ quatre dixièmes, à activité inchangée ». En petit : « 51,4 milliards de francs = 7,84 milliards d'euros ; déficit public 2000 : 19,1 milliards d'euros ».
 
 Alors, est-ce là que la France a raté l'équilibre ? (pause) Non. Si le gouvernement avait tout gardé, jusqu'au dernier franc, la somme aurait couvert environ quatre euros sur dix du déficit public de l'année. Même pas la moitié. Et encore, à activité inchangée. Cette année-là, le déficit a d'ailleurs encore diminué.
 
@@ -207,7 +207,7 @@ Deux ans plus tard, la croissance est retombée. En 2002, avant même de payer l
 
 > **IMAGE** — Deux rangées de dix cases, 2010–2019. Italie : dix vertes. France : dix rouges. Titre : « Solde avant intérêts ».
 
-Et ça n'a rien d'automatique. Prends l'Italie. De 2010 à 2019, avant intérêts, elle est dans le vert dix années sur dix. La France, aucune. L'Italie n'est pas un modèle : sa dette est plus lourde et sa croissance à l'arrêt. Mais justement : même avec ce poids-là, on peut encaisser plus qu'on ne dépense, avant intérêts.
+Et ça n'a rien d'automatique. Prends l'Italie. De 2010 à 2019, avant intérêts, elle est dans le vert dix années sur dix. La France, aucune. L'Italie n'est pas un modèle : sa dette est plus lourde et sa croissance à l'arrêt. Mais justement : même avec ce poids-là, on peut encaisser plus qu'on ne dépense, avant intérêts. Sa dette, pourtant, a continué de monter.
 
 ### 10 · Les promesses écrites
 
@@ -220,7 +220,7 @@ En 2019, la Cour des comptes va voir ce que cette règle a donné. Dans les docu
 
 > **IMAGE** — Une frise de 1998 à 2026. De chaque document part une flèche vers une cible, trois exercices plus loin. Sous chaque cible, le déficit réel s'affiche : toujours plus bas. Cartons : « 31 cibles échues · 23 années d'exécution · trois exercices au-delà de l'année budgétaire de départ » ; « en années civiles depuis la publication : 31 manquées sur 32 ».
 
-Il y a d'autres engagements écrits. Depuis fin 1998, la France annonce régulièrement, à Bruxelles et à son Parlement, où en sera son déficit trois budgets plus loin. Trente et une de ces cibles sont arrivées à échéance. (pause) Les trente et une ont été manquées.
+Il y a d'autres engagements écrits. Depuis fin 1998, la France annonce régulièrement, à Bruxelles et à son Parlement, où en sera son déficit trois exercices après l'année du budget qu'elle présente. Trente et une de ces cibles sont arrivées à échéance. (pause) Les trente et une ont été manquées.
 
 > **IMAGE** — Cinq dates s'inscrivent une à une : 2005, 2010, 2012, 2016, 2022. Sous chacune, le déficit réel de l'année. Carton : « Cinq échéances relevées dans les programmes de stabilité. Relevé non exhaustif. »
 
@@ -230,7 +230,7 @@ Un écart ne dit pas pourquoi il s'est produit. Une prévision trop optimiste, u
 
 ### 11 · Troisième fois
 
-> **IMAGE** — Le solde de 2010 à 2018 remonte. À côté, la courbe des recettes qui monte.
+> **IMAGE** — Le solde de 2010 à 2018 remonte. À côté, le poids des recettes publiques dans le PIB, qui monte.
 
 2011. La zone euro vacille. La France est sous surveillance européenne. Dos au mur, troisième fois. Et troisième redressement. Comment ? Comme à la fin des années soixante-dix, d'abord par les recettes : de 2011 à 2014, elles font environ quatre cinquièmes de l'effort budgétaire mesuré.
 
@@ -256,7 +256,7 @@ En partie, parce que c'est déjà fait. Pour 2025, de nouveau sous procédure eu
 
 Et elle part de haut. En 2025, avec 46 % de sa richesse en impôts et cotisations, elle est au premier rang des vingt-sept pays de l'Union. Refermer tout le déficit de cette année-là par les seuls prélèvements la porterait autour de 51 %. Par la seule dépense, sa dépense publique resterait au-dessus de la moyenne de la zone euro.
 
-Ni l'un ni l'autre n'est impossible sur le papier. Mais chacun fait porter tout l'effort sur une seule moitié du budget. Regardons donc où va l'argent.
+Ni l'un ni l'autre n'est impossible sur le papier. Mais chacun fait porter tout l'effort sur un seul côté du budget. Regardons donc où va l'argent.
 
 ### 13 · Où est l'argent
 
@@ -350,7 +350,7 @@ Mais la Suède n'a pas fait ça seule. En novembre 1992, sa monnaie a été lais
 
 > **IMAGE** — Chômage harmonisé (OCDE), 1993–1997 : au-dessus de 10 % chaque année. Puis : emploi des 16–29 ans, « 68 % en 1990-91 · 52 % en 1998-99 · crise et ajustement mêlés · Commission publique sur le bien-être, 2001 ». Puis : « élections de 1998 : sociaux-démocrates 36,4 %, contre 45,3 % en 1994 ».
 
-Et ces années sont dures. Le chômage reste au-dessus de 10 % jusqu'en 1997. L'emploi des jeunes recule fortement au cours de la décennie : crise et plan sont mêlés, impossible de faire la part de chacun. Ce qui relève bien du plan, selon le conseiller de Persson : quand les budgets locaux sont comprimés, les collectivités locales coupent dans l'école, les soins, la garde des enfants. En 1998, le parti de Persson perd près de neuf points aux élections, sans qu'on sache quelle part revient aux coupes. Il reste au pouvoir.
+Et ces années sont dures. Le chômage reste au-dessus de 10 % jusqu'en 1997. L'emploi des jeunes recule fortement au cours de la décennie : crise et plan sont mêlés, impossible de faire la part de chacun. Ce que le conseiller de Persson attribue au plan : quand les budgets locaux sont comprimés, les collectivités locales coupent dans l'école, les soins, la garde des enfants. En 1998, le parti de Persson perd près de neuf points aux élections, sans qu'on sache quelle part revient aux coupes. Il reste au pouvoir.
 
 > **IMAGE** — Carton : « réforme suédoise des retraites : principe adopté en 1994 · en vigueur en 1999 ».
 
@@ -366,7 +366,7 @@ Alors qu'est-ce qui reste, quand on retire le vent ? Une méthode. Persson en do
 
 > **IMAGE** — La frise suédoise revient. Une zone éclairée couvre 1995–1996 : « plus de 8 des quelque 11¾ points d'amélioration du solde (1994-1998, FMI) ». Le repère « 1997 : plafonds » s'allume après.
 
-Et les fameux plafonds de dépenses ? Ils s'appliquent quand l'essentiel de l'amélioration est déjà fait. Ce n'est donc pas leur application qui a redressé les comptes. Ils ont servi d'outil de suivi pour la suite.
+Et les fameux plafonds de dépenses ? Ils s'appliquent quand l'essentiel de l'amélioration est déjà fait. Ce n'est donc pas leur application qui a fait l'essentiel du redressement. Ils ont servi d'outil de suivi pour la suite.
 
 La méthode suédoise ne promet pas le résultat suédois. Elle montre comment on peut demander un effort à tout un pays, sans que chacun le défasse dans son coin. (pause) Retour en France. Quatre situations. Pour chacune, trois questions : qui paie ? Quand est-ce que ça rapporte ? Et comment saura-t-on que c'est tenu ? Puis la meilleure objection.
 
@@ -386,11 +386,11 @@ Qui paie ? Les retraités, bien sûr. Mais pas d'abord les plus aisés. Prends u
 
 > **IMAGE** — Carton : « Autre mesure, distincte du gel : revalorisation égale à l'inflation moins 0,4 point, de 2028 à 2032, pour les pensions au-dessus de 1 260 € · effet direct en 2030 : 1,9 Md€ (A15, échelle du PIB 2025) ».
 
-Une autre règle épargnerait les petites pensions : ne freiner, plusieurs années de suite, que les pensions au-dessus d'environ 1 260 euros. Elle rapporterait autour de deux milliards en 2030.
+Une autre règle épargnerait les petites pensions : ne freiner, plusieurs années de suite, que les pensions au-dessus d'environ 1 260 euros. Elle rapporterait autour de deux milliards en 2030, à la taille de l'économie de 2025.
 
 > **IMAGE** — Deux flèches : « dépense publique en moins » ; « dépense déplacée vers les ménages, les mutuelles ou les communes ». Carton : « une charge transférée n'est pas une économie publique consolidée ».
 
-Attention aussi aux fausses économies : moins rembourser un soin, ou baisser la dotation d'une commune, c'est souvent déplacer la dépense vers les ménages, les mutuelles ou les communes. Pas la supprimer. (pause) La meilleure objection, enfin, c'est l'histoire récente : ces gels ont déjà été retirés, ou rattrapés. Une économie qu'on défait l'année suivante n'en est pas une. Pour le savoir, il faudra regarder les bulletins des années suivantes.
+Attention aussi aux fausses économies : moins rembourser un soin, c'est souvent déplacer la dépense vers les ménages et leurs mutuelles. Et baisser la dotation d'une commune n'économise rien si la commune ne dépense pas moins. (pause) La meilleure objection, enfin, c'est l'histoire récente : ces gels ont déjà été retirés, ou rattrapés. Une économie qu'on défait l'année suivante n'en est pas une. Pour le savoir, il faudra regarder les bulletins des années suivantes.
 
 ### 21 · Une addition
 
@@ -401,7 +401,7 @@ Deuxième situation : une addition de restaurant. La TVA y est réduite, à 10 %
 
 > **IMAGE** — Carton : « baisse de 2009, restaurants avec service à table : environ 56 % du gain allé aux propriétaires (Benzarti et Carloni, note IPP n° 32) · non transposable à une hausse ».
 
-Mais rien ne dit que tout le serait. Quand cette TVA avait été baissée, en 2009, une étude a estimé qu'environ 56 % du gain était allé aux propriétaires des restaurants, pas aux clients. (pause) Ce qui ne dit pas ce que ferait une hausse. Ça, on ne le saura qu'en relevant les prix sur les cartes, après coup.
+Mais rien ne dit que tout le serait. Quand cette TVA avait été baissée, en 2009, une étude a estimé qu'environ 56 % du gain était allé aux propriétaires des restaurants, pas aux clients. (pause) Ce qui ne dit pas ce que ferait une hausse. Ça se mesure après coup : sur les prix des cartes, mais aussi sur les marges et les salaires.
 
 Fermer ces avantages un par un rapporte en général quelques milliards à chaque fois. Si l'on veut davantage, on arrive aux impôts de tout le monde. Et il faut savoir lequel, parce qu'ils ne frappent pas les mêmes.
 
@@ -411,7 +411,7 @@ Prends un ticket de caisse. Un point de plus sur le seul taux normal de TVA rapp
 
 > **IMAGE** — Un bulletin de paie : 2 000 euros soumis à la CSG, 10 euros de moins par mois. Carton : « + 0,5 point de CSG : 8,95 Md€ en théorie (valeur du point 2025, DSS) · rendement réel selon l'assiette, les exonérations, les taux réduits et la déductibilité votés ».
 
-Prends maintenant une fiche de paie. La CSG y est prélevée, comme sur les pensions et les revenus du capital. Sur 2 000 euros, un demi-point de plus, c'est 10 euros de moins par mois. Et pour les comptes publics, en théorie, un montant du même ordre que la TVA. Une pension exonérée peut rester protégée ; les revenus du capital concentrent davantage l'effort chez les plus aisés. Mais les salariés modestes, eux, paient.
+Prends maintenant une fiche de paie. La CSG y est prélevée, comme sur les pensions et les revenus du capital. Sur 2 000 euros soumis à la CSG, un demi-point de plus, c'est 10 euros de moins par mois. Et pour les comptes publics, en théorie, un montant du même ordre que la TVA. Une pension exonérée peut rester protégée ; les revenus du capital concentrent davantage l'effort chez les plus aisés. Mais les salariés modestes, eux, paient.
 
 > **IMAGE** — Carton : « Exemple de compensation : 200 € versés à 10 millions d'unités bénéficiaires = 2 Md€ · à condition d'atteindre réellement les ménages visés ».
 
@@ -426,7 +426,7 @@ Troisième situation. Tu te souviens de l'homme de 57 ans, en 1982, à qui l'on 
 
 > **IMAGE** — Carton : « Réforme de 2010 : probabilité d'être en emploi à 60 ans, + 17 points chez les hommes, + 16 chez les femmes, dont 3 et 7 points à temps partiel (Insee Analyses n° 30) ».
 
-Plus de gens en emploi, c'est plus de cotisations, plus d'impôts, moins de prestations. Et ce levier a une preuve, ce qui est rare. Après la réforme de 2010, qui a reculé l'âge de 60 à 62 ans, la probabilité d'être en emploi à 60 ans a gagné entre 16 et 17 points.
+Plus de gens en emploi, c'est plus de cotisations, plus d'impôts, moins de prestations. Et il y a une preuve, ce qui est rare. Après la réforme de 2010, qui a reculé l'âge de 60 à 62 ans, la probabilité d'être en emploi à 60 ans a gagné entre 16 et 17 points pour les premières générations concernées.
 
 Mais regarde les deux personnes. La première avait un poste : elle le garde plus longtemps. C'est de là que vient une grande partie de l'effet. La seconde avait déjà perdu le sien, ou ne pouvait plus le tenir : pour elle, reculer l'âge, c'est prolonger le chômage ou l'inactivité. (pause) L'âge se vote. Un poste adapté, une santé qui tient, un employeur qui garde ses salariés âgés : ça ne se vote pas.
 
@@ -442,7 +442,7 @@ Quatrième situation : une promesse, et le jour où on la contrôle. Tu la conna
 
 > **IMAGE** — Un tableau simple se remplit, année après année, colonnes : « promis », « fait », « écart », « décision prise ». Les lignes : État, Sécurité sociale, collectivités. Carton : « suivi des engagements · rendement budgétaire propre : zéro ».
 
-Tenir un engagement, ça ne se décrète pas. Mais ça se vérifie. Et pas tous les quatorze ans : chaque année. Imagine un document public, avant chaque vote du budget : ce qui était promis, ce qui a été fait, l'écart, et ce qu'on décide pour le combler. Derrière, un plafond de dépenses voté pour plusieurs années, avec une marge pour les chocs, et une règle connue d'avance pour les recettes surprises. Avec la Sécurité sociale et les collectivités dedans, pour qu'aucune charge ne se cache en changeant de caisse.
+Tenir un engagement, ça ne se décrète pas. Mais ça se vérifie. Et pas tous les quatorze ans : chaque année. Depuis 2012, un mécanisme oblige déjà à expliquer un écart important. Pas à le combler. Imagine un document public, avant chaque vote du budget : ce qui était promis, ce qui a été fait, l'écart, et ce qu'on décide pour le combler. Derrière, un plafond de dépenses voté pour plusieurs années, avec une marge pour les chocs, et une règle connue d'avance pour les recettes surprises. Avec la Sécurité sociale et les collectivités dedans, pour qu'aucune charge ne se cache en changeant de caisse.
 
 Est-ce que ça rapporte ? (pause) Pas un euro. Une règle n'économise rien par elle-même. Elle permet de savoir si les autres euros sont au rendez-vous. Et sa limite est connue : en France, une loi votée plus tard peut défaire une programmation. Sans accord sur le but, aucun tableau ne tiendra.
 
@@ -456,13 +456,13 @@ Alors, qu'avons-nous trouvé ?
 
 La France s'est enfermée quand sa croissance a cassé et que sa dépense a gardé son élan. Elle s'est redressée trois fois, sous contrainte, souvent en prélevant plus, sans jamais repasser la ligne. Et ses engagements écrits n'ont pas tenu.
 
-Aujourd'hui, aucun levier ne suffit seul. Pas sans faire payer toujours les mêmes. Et même les trente-huit mesures du portefeuille central, réunies, ralentissent dans nos simulations la hausse de la dette sans encore l'arrêter.
+Aujourd'hui, aucun levier ne suffit seul sans faire payer toujours les mêmes. Et même les trente-huit mesures du portefeuille central, réunies, ralentissent dans nos simulations la hausse de la dette sans encore l'arrêter.
 
 > **IMAGE** — Carton : « Position du film, à partir des pièces ».
 
 Voici ce qui nous paraît le plus crédible. C'est une position, pas un calcul.
 
-Freiner les gros postes, en disant chaque fois quel revenu ou quel service change. Fermer des avantages fiscaux avant de toucher aux impôts de tous, et si on y touche, dire qui sera protégé, et comment. Aider ceux qui peuvent rester en emploi, sans faire comme si l'âge suffisait. Et publier chaque année l'écart entre ce qui a été promis et ce qui a été fait. (pause) Au fond, c'est ce que la Suède a de transposable : un effort réparti, présenté d'un bloc, avec tout sur la table. On peut se disputer sur les moyens. Pas sur le but.
+Freiner les gros postes, en disant chaque fois quel revenu ou quel service change. Fermer des avantages fiscaux avant de toucher aux impôts de tous, et si on y touche, dire qui sera protégé, et comment. Aider ceux qui peuvent rester en emploi, sans faire comme si l'âge suffisait. Et publier chaque année l'écart entre ce qui a été promis et ce qui a été fait. (pause) Et la méthode, c'est ce que la Suède a de transposable : un effort réparti, présenté d'un bloc, avec tout sur la table. On peut se disputer sur les moyens. Pas sur le but.
 
 Pourquoi tout à la fois ? Parce que le rendement de chaque levier est incertain, et qu'en les combinant, on répartit le risque. Et on répartit le prix. (pause) Dans quelles proportions ? Les preuves ne le disent pas. Ça, c'est un choix politique.
 
@@ -475,7 +475,7 @@ Ce chemin coûtera à des retraités, à des contribuables, à des entreprises. 
 
 Le projet de budget pour 2027 vise un déficit sous 3 % en 2029. Et quelques lignes plus loin, il écrit que cette trajectoire « revêt un caractère conventionnel du fait des échéances électorales de 2027 ». (silence)
 
-> **IMAGE** — Le tableau du Sénat de 1979 et sa ligne de dates. Puis les cinq dates de retour à l'équilibre, barrées.
+> **IMAGE** — Le tableau du Sénat de 1979 et sa ligne de dates. Puis les cinq dates de retour à l'équilibre, barrées, avec la mention « relevé non exhaustif ».
 
 En 1979, une date de fin avait été écrite. Elle a été tenue au jour près. Les dates de retour à l'équilibre, jamais. (pause) Alors la prochaine fois qu'on te présente un plan pour les finances publiques, de n'importe quel camp, pose trois questions.
 

@@ -4,7 +4,7 @@
 
 ## 1. Durée
 
-**4 824 mots dits, durée estimée à 28:42.** Ce chiffre est un calcul : aucun enregistrement n'a été mesuré. Il repose sur les hypothèses suivantes :
+**4 872 mots dits, durée estimée à 28:58.** Ce chiffre est un calcul : aucun enregistrement n'a été mesuré. Il repose sur les hypothèses suivantes :
 
 - 182 mots par minute ;
 - 1 s par (pause) et 2,5 s par (silence) ;
@@ -12,16 +12,16 @@
 - 25 s de lecture d'archives sans voix ;
 - 4 s de carton de titre et 3 s de silence final.
 
-La voix seule, sans pauses, représente 26:30. Le détail par séquence est dans `durees.json` ; pour le reproduire : `python outils/construire_script.py .`
+La voix seule, sans pauses, représente 26:46. Le détail par séquence est dans `durees.json` ; pour le reproduire : `python outils/construire_script.py .`
 
 | Partie | Début | Durée | Part du film |
 |---|---|---|---|
 | Ouverture et titre | 0:00 | 1:22 | 5 % |
 | I · Comment elle s'est enfermée (séq. 1–6) | 1:22 | 6:25 | 22 % |
-| II · Les occasions (séq. 7–11) | 7:47 | 4:52 | 17 % |
-| III · Le mur (séq. 12–16) | 12:39 | 4:31 | 16 % |
-| IV · Ce qui pourrait marcher (séq. 17–23) | 17:10 | 9:07 | 32 % |
-| Conclusion et silence final | 26:17 | 2:25 | 8 % |
+| II · Les occasions (séq. 7–11) | 7:47 | 4:55 | 17 % |
+| III · Le mur (séq. 12–16) | 12:42 | 4:31 | 16 % |
+| IV · Ce qui pourrait marcher (séq. 17–23) | 17:13 | 9:20 | 32 % |
+| Conclusion et silence final | 26:33 | 2:25 | 8 % |
 
 Les trois questions se partagent le film à peu près ainsi :
 
@@ -31,7 +31,7 @@ Les trois questions se partagent le film à peu près ainsi :
 
 La V6 consacrait tout son temps aux deux premières.
 
-**Écart à la cible.** Le film dure 42 s de plus que les 28 minutes du commanditaire et 52 s de plus que les 27:50 proposées par Astra. La durée réelle dépendra du débit de la voix générée.
+**Écart à la cible.** Le film dure 58 s de plus que les 28 minutes du commanditaire et 68 s de plus que les 27:50 proposées par Astra. La durée réelle dépendra du débit de la voix générée.
 
 Si l'essai de voix confirme le dépassement, voici les coupes possibles, dans l'ordre et sans toucher aux scènes obligatoires :
 
@@ -43,7 +43,7 @@ Si l'essai de voix confirme le dépassement, voici les coupes possibles, dans l'
 | 4 | Lectures d'archives : ramener celles de 4 s à 3 s, sauf la page de 1980 | ≈ 2 s |
 | 5 | Conclusion : « Quant au rythme… des coûts qu'on subit » (Astra voulait ce passage : c'est le dernier recours) | ≈ 15 s |
 
-Les coupes 1 à 4 ramènent l'estimation vers 28:10. Avec la cinquième, on arrive vers 27:55. La phrase sur la transmission de la TVA aux prix (séq. 21) n'est pas coupable : la consigne exige les mécanismes de transmission.
+Les coupes 1 à 4 ramènent l'estimation vers 28:27. Avec la cinquième, on arrive vers 28:12. Pour descendre sous 28:00, il faudra en plus resserrer la séquence 21 (2:02, la plus longue de l'acte IV), après l'essai de voix. La phrase sur la transmission de la TVA aux prix (séq. 21) n'est pas coupable : la consigne exige les mécanismes de transmission.
 
 ## 2. Ce que la version contient
 
@@ -107,6 +107,6 @@ Le film tient sa promesse : il raconte comment la France s'est enfermée, pourqu
 
 1. La densité des séquences 16 et 21. Seul un essai d'écoute dira si elles passent.
 2. Le millésime : les chiffres de 2027 bougeront avec le budget.
-3. La durée, environ 40 à 50 s au-dessus de la cible.
+3. La durée, environ une minute au-dessus de la cible.
 
 Aucun de ces risques n'exige de reconstruire le film.

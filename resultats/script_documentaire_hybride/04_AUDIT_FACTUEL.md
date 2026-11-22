@@ -1,15 +1,16 @@
 # 04 · Audit factuel du script hybride
 
-**22 novembre 2026.** Audit de la version finale de [02_SCRIPT_ANNOTE.md](02_SCRIPT_ANNOTE.md). Il s'est fait en deux passes.
+**22 novembre 2026.** Audit de la version finale de [02_SCRIPT_ANNOTE.md](02_SCRIPT_ANNOTE.md). Il s'est fait en trois passes.
 
 1. **Relecture indépendante.** Un relecteur a lu le premier jet (commit `e4580f2`) sans connaître les conclusions de la rédaction. Il disposait des six rapports d'Astra, de l'audit de la V6 et des données de la cellule. Son rapport complet est dans [annexes/relecture_factuelle_agent.md](annexes/relecture_factuelle_agent.md). Il compte 5 points bloquants, 16 à corriger et 20 mineurs.
 2. **Consolidation.** La rédaction a appliqué ces corrections, revérifié la version finale par recherche de chaînes et reconstruit la voix seule et les durées. La concordance entre le script annoté et la voix a été contrôlée par `outils/verifier_concordance.py`.
+3. **Contre-relecture.** Le même relecteur a relu le différentiel `e4580f2..2da0d47` et le tableau du §5. Son résultat est au §9 de l'annexe ; les suites données sont au §8 ci-dessous.
 
 Aucune nouvelle enquête économique n'a été faite. Le référentiel est la contre-expertise d'Astra au commit [`938fc95`](https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/tree/938fc95fa4c2265319438fa47124d917e8b1ab4a/resultats/audit_independant_hybride). Pour les actes I et II, repris de la V6, c'est l'audit de la V6 au commit [`d398aaf`](https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/tree/d398aaf7990619709c51ecef15b14263baca26bd/resultats/audit_independant_v6).
 
 ## 1. Verdict
 
-**Conforme selon la rédaction, sous les réserves du §7.** Les cinq points bloquants sont corrigés. Le relecteur indépendant a lu le premier jet. Il n'a pas relu la version corrigée : la conformité de la version finale repose sur la vérification de la rédaction (recherche de chaînes, relecture intégrale de la voix, concordance automatique). Un contrôle du différentiel `e4580f2..HEAD` par un tiers reste souhaitable. Il ne reste dans la voix aucune des formulations réfutées par Astra : la jauge 130–165 / 60–70 / 40–50, « au mieux la moitié », « comme les précédentes », les 63 Md€ de dérive, le 0,6 point attribué à une règle, les 0,8–2,7 points d'emploi, les 3,9 Md€ pour la restauration seule, les « deux tiers de coupes », le « pire déficit » de 1993, l'hôtel de New York, et les « dix milliards en dix jours ». La recherche de chaînes sur la voix finale ne trouve aucune de ces formulations.
+**Conforme, sous les réserves du §7.** Les cinq points bloquants sont corrigés, et la contre-relecture indépendante confirme qu'ils sont levés. Les trois défauts qu'elle a encore trouvés (un insuffisant, deux erreurs introduites par les réécritures) sont corrigés, ainsi que ses mineurs (§8). Les toutes dernières retouches (§8) n'ont pas été relues une troisième fois par le relecteur : elles reprennent mot pour mot ses propres formulations. Il ne reste dans la voix aucune des formulations réfutées par Astra : la jauge 130–165 / 60–70 / 40–50, « au mieux la moitié », « comme les précédentes », les 63 Md€ de dérive, le 0,6 point attribué à une règle, les 0,8–2,7 points d'emploi, les 3,9 Md€ pour la restauration seule, les « deux tiers de coupes », le « pire déficit » de 1993, l'hôtel de New York, et les « dix milliards en dix jours ». La recherche de chaînes sur la voix finale ne trouve aucune de ces formulations.
 
 ## 2. Les cinq points bloquants
 
@@ -97,7 +98,7 @@ Les chiffres dits dans l'ouverture et les actes I–II sont contrôlés ligne pa
 | 20 | 1 300 € ; 2 % ; 26 € | Cas illustratif, inflation supposée | calcul : 1 300 × 2 % | conforme (déclaré illustratif) |
 | 20 | quatre milliards et demi en 2030 | Gel général 2027 : 4,52 nets courants (A13) ; 4,7 directs à l'échelle 2025 (A15) | A/03 | conforme. L'arrondi couvre les deux bases, chacune au carton |
 | 20 | quatre sur dix ; un sur deux | Gel des seules pensions, ménages classés par niveau de vie, 37–40 % et 47–48 % | A/03 (S04) | conforme |
-| 20 | 1 260 € ; deux milliards | Règle distincte, inflation − 0,4 point, 2028–2032, 1,945 Md€ direct en 2030 (A15) | A/03 | conforme |
+| 20 | 1 260 € ; deux milliards, « à la taille de l'économie de 2025 » | Règle distincte, inflation − 0,4 point, 2028–2032, 1,945 Md€ direct en 2030 (A15) | A/03 | conforme |
 | 21 | quelques milliards par niche | « en général quelques milliards à chaque fois » | A/03 (lignes de 1,2 à 4,6 Md€) | conforme |
 | 21 | 10 % ; 30 → près de 33 € | TVA restauration ; repas illustratif, répercussion complète supposée | calcul : 30 / 1,10 × 1,20 = 32,73 | conforme (hypothèse dite) |
 | 21 | 56 % ; 2009 | Baisse de 2009, restaurants avec service à table, part allée aux propriétaires | A/03 (IPP n° 32) | conforme, non transposé |
@@ -110,8 +111,12 @@ Les chiffres dits dans l'ouverture et les actes I–II sont contrôlés ligne pa
 | Concl. | trente-huit mesures | Portefeuille central K1 | A/02 §3 | conforme |
 | Concl. | 3 % en 2029 | Cible du projet de budget 2027, RESF p. 134 | V6 | conforme |
 
-**Comparaisons orales.** La voix ne rapporte jamais le besoin (135–165) aux rendements des mesures (4,5 ; 7,5 ; 2). Le carton du besoin et le graphique de pente ne sont jamais divisés l'un par l'autre. La conclusion ne fait pas d'addition de rendements. Elle reprend le résultat du graphique : « même les trente-huit mesures… ralentissent dans nos simulations la hausse ». Un seul rapprochement reste, signalé :
+**Comparaisons orales.** La voix ne rapporte jamais le besoin (135–165) aux rendements des mesures (4,5 ; 7,5 ; 2). Le carton du besoin et le graphique de pente ne sont jamais divisés l'un par l'autre. La conclusion ne fait pas d'addition de rendements. Elle reprend le résultat du graphique : « même les trente-huit mesures… ralentissent dans nos simulations la hausse ». Trois rapprochements restent, signalés :
+- Séq. 20 : « quatre milliards et demi » (gel, A13 net courant ou A15 direct à 4,7) puis « deux milliards, à la taille de l'économie de 2025 » (règle distincte, A15). La voix ne les compare pas, mais l'oreille les rapproche. La base du second est dite ; les deux bases du premier sont au carton.
+- Séq. 16–17 : « un effort de cette ampleur ». Le programme suédois atteint 8 % du PIB, contre 4,5 à 5,5 points pour le besoin français : la comparaison est d'ordre de grandeur, sans calcul, et la Suède est plutôt au-dessus.
 - Séq. 21 : CSG « du même ordre, en théorie », que la TVA. L'écart de nature entre les deux chiffrages est signalé au carton.
+
+Les dates dites (1974, 1980, 2005, 2019…) ne figurent pas dans ce tableau. Elles sont contrôlées dans l'annexe, §1, et dans l'audit de la V6.
 
 ## 6. Causalités
 
@@ -148,3 +153,34 @@ La position finale est présentée comme un choix : « C'est une position, pas u
 | Pièces d'archive : décret de 1979 (non retrouvé, dit dans la voix) ; une de presse avec « cagnotte » | Déjà signalé dans la V6 | Sourcer la une |
 | Chiffres des actes I–II | Recalculés pour la V6 et validés par Astra, non recalculés ici | — |
 | Tous les chiffres de 2025–2027 | Dépendent du sort du PLF et du PLFSS 2027 | Voir [03](03_NOTE_CORRECTIONS_ASTRA.md), §4 |
+
+## 8. Contre-relecture de la version corrigée
+
+Le relecteur indépendant a relu le différentiel `e4580f2..2da0d47`. Son bilan :
+
+- 5 bloquants sur 5 levés ;
+- 15 des 16 « à corriger » conformes ;
+- 17 des 20 mineurs conformes, M14 restant ouvert comme prévu ;
+- le tableau du §5 conforme sur les valeurs.
+
+Suites données, toutes appliquées dans la version finale :
+
+| Point | Avant | Après |
+|---|---|---|
+| Séq. 19, insuffisant | « Ce n'est donc pas leur application qui a redressé les comptes. » | « Ce n'est donc pas leur application qui a fait l'essentiel du redressement. » |
+| Séq. 20, erreur nouvelle | « baisser la dotation d'une commune, c'est souvent déplacer la dépense vers […] les communes » | « Et baisser la dotation d'une commune n'économise rien si la commune ne dépense pas moins. » |
+| Conclusion, erreur nouvelle | « aucun levier ne suffit seul. Pas sans faire payer toujours les mêmes. » (la première phrase, isolée, contredit Astra et la séq. 12) | « aucun levier ne suffit seul sans faire payer toujours les mêmes. » |
+| Séq. 10, mineur | « trois budgets plus loin » | « trois exercices après l'année du budget qu'elle présente » |
+| Séq. 9, mineur | — | « Sa dette, pourtant, a continué de monter. » (un excédent primaire ne suffit pas) |
+| Séq. 21, mineurs | « en relevant les prix sur les cartes » ; « Sur 2 000 euros » | « sur les prix des cartes, mais aussi sur les marges et les salaires » ; « Sur 2 000 euros soumis à la CSG » |
+| Séq. 23, mineur | Le suivi annuel était présenté comme inexistant | « Depuis 2012, un mécanisme oblige déjà à expliquer un écart important. Pas à le combler. » (A08) |
+| Conclusion, mineur | « c'est ce que la Suède a de transposable » | « Et la méthode, c'est ce que la Suède a de transposable » |
+| Séq. 18, mineur | « Ce qui relève bien du plan » | « Ce que le conseiller de Persson attribue au plan » |
+| Séq. 20, mineur | « autour de deux milliards en 2030 » | « …, à la taille de l'économie de 2025 » |
+| Séq. 12, mineur | « une seule moitié du budget » | « un seul côté du budget » |
+| Séq. 2, mineur | « la Sécurité sociale… Le budget de l'État » | « les administrations de sécurité sociale… L'État » |
+| Séq. 22, mineur | « ce levier a une preuve » | « il y a une preuve » ; « pour les premières générations concernées » |
+| Cartons | État « un huitième » ; semestres non légendés ; « courbe des recettes » ; pas de « relevé non exhaustif » en conclusion ; « au plus quatre dixièmes » ; légende double en séq. 4 | « environ un huitième » ; légende des trois semestres ; « poids des recettes publiques dans le PIB » ; mention ajoutée ; « environ quatre dixièmes » ; légendes fondues |
+
+Ces retouches allongent la voix de 48 mots : la durée calculée passe de 28:42 à 28:58.
+
