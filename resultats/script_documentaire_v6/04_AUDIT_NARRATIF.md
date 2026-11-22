@@ -14,28 +14,28 @@ Calcul sur le nombre réel de mots, à 182 mots par minute, plus une seconde par
 
 | Séquence | Mots | Durée | Fin | Note du relecteur avant corrections |
 |---|---:|---:|---:|:-:|
-| Ouverture | 153 | 0:55 | 0:59 | 4 |
-| 1 · Le choc | 168 | 0:57 | 1:56 | 4 |
-| 2 · L'élan | 281 | 1:39 | 3:35 | 3 |
-| 3 · La remontée | 195 | 1:08 | 4:43 | 4,5 |
+| Ouverture | 155 | 0:56 | 1:00 | 4 |
+| 1 · Le choc | 168 | 0:57 | 1:57 | 4 |
+| 2 · L'élan | 281 | 1:39 | 3:36 | 3 |
+| 3 · La remontée | 195 | 1:08 | 4:44 | 4,5 |
 | 4 · Trente francs | 240 | 1:23 | 6:06 | 4,5 |
-| 5 · Novembre 1980 | 211 | 1:16 | 7:22 | 5 |
-| 6 · 1981 | 230 | 1:20 | 8:42 | 3,5 |
-| 7 · Deux récits | 116 | 0:40 | 9:22 | 4 |
-| 8 · Sous les comptes | 188 | 1:04 | 10:26 | 3 |
-| 9 · La facture | 205 | 1:09 | 11:36 | 3,5 |
-| 10 · Printemps 2000 | 345 | 1:59 | 13:34 | 4,5 |
-| 11 · La colonne éteinte | 386 | 2:12 | 15:47 | 3,5 |
-| 12 · Les dates | 210 | 1:13 | 16:59 | 4 |
-| 13 · Les crises | 203 | 1:12 | 18:11 | 3 |
-| 14 · L'écart | 177 | 1:01 | 19:13 | 2,5 |
-| 15 · Le blocage | 109 | 0:37 | 19:50 | 4 |
-| Conclusion | 308 | 1:49 | 21:39 | 4 |
-| **Total** | **3 725** | **21:42** | | |
+| 5 · Novembre 1980 | 211 | 1:16 | 7:23 | 5 |
+| 6 · 1981 | 239 | 1:23 | 8:45 | 3,5 |
+| 7 · Deux récits | 115 | 0:40 | 9:25 | 4 |
+| 8 · Sous les comptes | 193 | 1:06 | 10:31 | 3 |
+| 9 · La facture | 207 | 1:10 | 11:41 | 3,5 |
+| 10 · Printemps 2000 | 345 | 1:59 | 13:40 | 4,5 |
+| 11 · La colonne éteinte | 387 | 2:13 | 15:52 | 3,5 |
+| 12 · Les dates | 218 | 1:15 | 17:08 | 4 |
+| 13 · Les crises | 211 | 1:15 | 18:22 | 3 |
+| 14 · L'écart | 174 | 1:00 | 19:23 | 2,5 |
+| 15 · Le blocage | 109 | 0:37 | 20:00 | 4 |
+| Conclusion | 307 | 1:49 | 21:49 | 4 |
+| **Total** | **3 755** | **21:52** | | |
 
-- **Voix seule : 20 min 28.** Avec les pauses écrites : 21 min 42.
+- **Voix seule : 20 min 38.** Avec les pauses écrites : 21 min 52.
 - **Durée montée probable : 23 minutes environ**, en comptant cinq secondes d'image sans voix par séquence pour laisser lire les pages d'archives.
-- **Répartition.** 1974–1981 : 8 min 23 (39 %). 1982–2001 : 4 min 12 (19 %). 2002–2026 : 6 min 16 (29 %). Ouverture et conclusion : 2 min 48 (13 %).
+- **Répartition.** 1974–1981 : 8:25 (39 %). 1982–2001 : 4:15 (19 %). 2002–2026 : 6:20 (29 %). Ouverture et conclusion : 2:52 (13 %).
 
 ## 2. Défauts relevés et corrections
 
@@ -102,13 +102,12 @@ Chaque séquence répond à la question laissée par la précédente, sauf deux 
 
 | Mesure | V5 | V6 |
 |---|---:|---:|
-| Mots | 3 337 | 3 725 |
-| Durée de voix à 182 mots par minute | 18 min 20 | 20 min 28 |
-| Nombres écrits en chiffres, hors années | 81 | 34 |
+| Mots | 3 337 | 3 755 |
+| Durée de voix à 182 mots par minute | 18 min 20 | 20 min 38 |
 | Part du film consacrée à 2023–2026 | environ 25 % | moins de 5 % |
 | Années racontées entre 1975 et 2000 | un paragraphe | dix séquences |
 | Formules de rappel (« garde en tête », « on y viendra », « souviens-toi ») | 3 | 0 |
 | Cartons de chapitre annonçant la thèse | 4 | 0 |
 | Moment où la thèse est énoncée | 2e minute | 20e minute |
 
-*Le décompte des nombres de la V6 est fait sur le script corrigé, années et dates exclues, nombres en toutes lettres non comptés, comme pour la V5.*
+*Aucune comparaison du nombre de chiffres n'est donnée : la V6 en écrit une partie en toutes lettres, ce qui fausse le décompte automatique. Le plafond de trois chiffres par séquence, fixé dans l'architecture, n'est pas tenu dans les séquences 4, 6 et 12.*

@@ -4,7 +4,7 @@
 
 **Comment il a été fait.** Deux passes. La direction éditoriale a d'abord relu dans les pièces les trois appuis de la conclusion (§1). Un vérificateur indépendant a ensuite confronté 72 affirmations du script aux pièces et aux séries ; son rapport complet, ligne par ligne, est en annexe : [relecture_factuelle_agent.md](annexes/relecture_factuelle_agent.md). Ses corrections ont été appliquées au script (§3). Le tableau du §2 porte sur le texte **corrigé**.
 
-**Verdict.** Avant corrections : 36 affirmations exactes, 24 exactes avec réserve, 6 trop fortes, 1 inexacte, 3 non sourcées, 2 non vérifiées. Après corrections : plus aucune affirmation classée inexacte ou trop forte ; quatre points restent à relire sur l'original avant enregistrement (§5). Le script ne prête aucune intention, ne donne aucune dette contrefactuelle, et ne laisse jamais entendre qu'une décision aurait ramené l'équilibre.
+**Verdict.** Avant corrections : 36 affirmations exactes, 24 exactes avec réserve, 6 trop fortes, 1 inexacte, 3 non sourcées, 2 non vérifiées. Toutes les corrections demandées ont été appliquées, puis une seconde série après une dernière relecture critique (§3). **Le texte corrigé n'a pas été recontrôlé par un tiers** : sept points restent à relire sur l'original avant enregistrement (§5). Le script ne prête aucune intention, ne donne aucune dette contrefactuelle, et ne laisse jamais entendre qu'une décision aurait ramené l'équilibre.
 
 ---
 
@@ -13,9 +13,9 @@
 | Appui | Pièce relue | Résultat |
 |---|---|---|
 | Les trajectoires jamais tenues | Table des 38 documents de programmation (`donnees/A08/A08_programme_vs_execute.csv`), chaque valeur rattachée à une pièce ; Sénat, rapport n° 78 (2008-2009), tableau « Les programmations successives de solde public » | **Formulation corrigée.** 31 documents ont une cible à trois ans échue ; 31 manquées. Hors fenêtres de crise : 17 sur 17. Pour l'année suivante : 15 tenues sur 37. Sept documents visent 2026 à 2030 et ne peuvent pas encore être jugés |
-| Les cinq dates de retour à l'équilibre | Même table ; Sénat n° 78 pour 2005, 2010 et 2012 ; programme de stabilité d'avril 2012 (tableau 2) pour 2016 ; Sénat n° 438 (2017-2018), p. 23, pour 2022 | **Établi.** Soldes réalisés : −3,5 ; −7,2 ; −5,2 ; −3,8 ; −4,7 % du PIB. Trois échéances touchées par une crise (2010, 2012, 2022), deux non (2005, 2016) |
+| Les cinq dates de retour à l'équilibre | Même table ; Sénat n° 78 pour 2005, 2010 et 2012 ; programme de stabilité d'avril 2012 (tableau 2) pour 2016 ; Sénat n° 438 (2017-2018), p. 23, pour 2022 | **Établi, les cinq cibles relues dans les pièces.** Avril 2012 : « balanced public finances will be restored by 2016 » ; avril 2018 : solde de +0,3 en 2022. 2005 et 2010 sont des cibles à trois ans ; 2012, 2016 et 2022 à quatre ans. Soldes réalisés : −3,5 ; −7,2 ; −5,2 ; −3,8 ; −4,7 % du PIB. Trois échéances touchées par une crise (2010, 2012, 2022), deux non (2005, 2016) |
 | La règle d'affectation des surplus | Cour des comptes, enquête sur la dette des entités publiques, annexée au rapport du Sénat n° 338 (2018-2019), p. 73-74 | **Formulation corrigée.** La règle date de la loi organique du 12 juillet 2005. La Cour écrit qu'elle « n'a pas eu d'effet notable sur la trajectoire de l'endettement » et que « les annexes budgétaires des projets de loi de règlement ne retracent aucune occurrence de mise en œuvre de la règle ». Une loi de finances rectificative peut la modifier « sans limite » |
-| Les 42 budgets | `donnees/S12/s12_partieA_majorites_vote.csv` : 51 lignes, scrutins du Journal officiel et compositions de l'Assemblée | **Établi, avec deux réserves.** 22 budgets votés par un seul groupe, 20 par une coalition, 1 grâce à des non-inscrits (1987), 8 sans majorité absolue. Pour 36 exercices, la composition est relevée à la date la plus proche du vote. Le dossier prévient que ce décompte « ne départage rien » à lui seul |
+| Les 42 budgets | `donnees/S12/s12_partieA_majorites_vote.csv` : 51 lignes. Décompte repris de la table et recompté ; les scrutins eux-mêmes n'ont pas été rouverts pour ce dossier | **Repris, avec deux réserves.** 22 budgets votés par un seul groupe, 20 par une coalition, 1 grâce à des non-inscrits (1987), 8 sans majorité absolue. Pour 36 exercices, la composition est relevée à la date la plus proche du vote. Le dossier prévient que ce décompte « ne départage rien » à lui seul |
 
 ## 2. Affirmations qui portent le film
 
@@ -69,7 +69,7 @@ Statuts : **É** établi sur pièce ou série · **C** vrai sous la condition di
 | 12 | Trente et une sur trente et une ; dix-sept sur dix-sept | É | Voir §1 |
 | 12 | Gouvernements de gauche, de droite et du centre | G | Dates des programmes : décembre 2001, décembre 2006, novembre 2007, avril 2012, avril 2018 |
 | 13 | Une marche d'au moins deux mois de production à chaque crise | É | Dette : +20,8 points de 2007 à 2010 ; +16,8 de 2019 à 2020 |
-| 13 | Plus de 80 milliards d'euros retirés dès 2021 | É | 83,7 milliards (première enquête, pièces relues à l'origine) |
+| 13 | Les mesures d'urgence et de relance coûtent encore plus de 80 milliards d'euros en 2021, 12 en 2023 | É | Cour des comptes, juillet 2024, via le dossier A03 : 72,5 ; 83,7 ; 34,9 ; 12,4 milliards de 2020 à 2023 |
 | 13 | Sous surveillance européenne en 2011 ; la zone euro vacille | É / G | Procédure de déficit excessif de 2009 à 2018 ; contexte général |
 | 13 | Plus des quatre cinquièmes par les impôts ; près de la moitié par les intérêts | É | 83 % sur 2011–2014 ; 46 % sur 2012–2015 |
 | 13 | À partir de 2018, les impôts rebaissent | C | Cumul 2017–2025 négatif dans les deux conventions (−1,24 à −0,41 point) |
@@ -104,6 +104,15 @@ Statuts : **É** établi sur pièce ou série · **C** vrai sous la condition di
 | Concl. | « Et d'abord en prélevant plus » | « deux fois sur trois, presque uniquement en prélevant plus » | Dans les années 1990, la baisse du poids de la dépense compte aussi |
 | Concl. | « 1981 : une recette qu'on laisse s'éteindre » | « 1980 : la Sécurité sociale est redevenue excédentaire, et on laisse s'éteindre la recette qui fait cet excédent » | La décision date de 1980, l'échéance de 1979 |
 | Concl. | « 2018 : des impôts qu'on rebaisse » | « À partir de 2018 » | Mouvement étalé sur plusieurs années |
+| **Seconde série, après relecture critique** | | | |
+| 13 | « plus de 80 milliards d'euros de soutien sont retirés dès 2021 » | « En 2021, les mesures d'urgence et de relance du Covid coûtent encore plus de 80 milliards d'euros. Deux ans plus tard : 12 » | **Erreur de lecture** : 83,7 milliards est le montant dépensé en 2021, pas le montant retiré. L'erreur venait de la base factuelle |
+| Ouv. | « a failli sortir du déficit » | « est passée à deux doigts de l'équilibre » | Les pièces établissent la proximité, pas une possibilité réelle d'atteindre zéro |
+| 6 | « L'arrivant dépense sans financer » | « engage des dépenses qu'il ne finance qu'en partie » | 5,3 milliards de francs non financés, 7,7 financés par des taxes temporaires |
+| 7, 9 | « La porte de 1980 se referme » ; « la ligne est de nouveau à portée » | « L'occasion de 1980 est passée » ; « s'est de nouveau rapprochée de la ligne » | Ne pas laisser entendre que l'équilibre était atteignable par une décision |
+| 11 | « chaque année, le budget répond » | « pendant des années » | La Cour l'atteste pour 2010 à 2018 |
+| 12 | « Cinq fois, la France a écrit… » | « à trois ou quatre ans de distance » | Trois des cinq cibles sont à quatre ans |
+| 8, 14 | « le pays les finance d'abord sur le travail » ; « n'est jamais revenue au niveau » | « une grande partie […] est prélevée sur le travail » ; « reste plus étroite » | Formulations plus fortes que les pièces |
+| Concl. | « presque uniquement en prélevant plus » | « surtout en prélevant plus » | 83 % en 2011–2014 |
 
 ## 4. Ce qui est une interprétation du film
 

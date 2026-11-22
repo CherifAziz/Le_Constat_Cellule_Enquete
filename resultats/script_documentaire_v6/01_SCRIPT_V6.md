@@ -4,13 +4,13 @@
 
 `(pause)` : respiration marquée, environ une seconde. `(silence)` : deux à trois secondes sans voix.
 
-**3725 mots. Durée estimée : 21:42** (182 mots par minute, pauses et respirations comprises).
+**3755 mots. Durée estimée : 21:52** (182 mots par minute, pauses et respirations comprises).
 
 ---
 
 ## Ouverture
 
-En 1980, la France a failli sortir du déficit. (pause) Presque personne ne s'en souvient.
+En 1980, la France est passée à deux doigts de l'équilibre. (pause) Presque personne ne s'en souvient.
 
 Cette année-là, il ne lui manque presque rien : 0,4 % de ce que le pays produit en un an. Depuis, elle n'est plus jamais repassée aussi près. (pause) En quarante-cinq ans.
 
@@ -118,9 +118,9 @@ Regarde les dates. La retraite à 60 ans entre en vigueur en 1983. Quel que soit
 
 Le chômage, lui, n'a pas attendu l'élection. Entre le second semestre de 1980 et le premier semestre de 1981, le nombre de chômeurs indemnisés passe d'un million à près d'un million trois cent mille. L'essentiel de la hausse est là quand le nouveau pouvoir s'installe.
 
-Est-ce que ça blanchit le nouveau gouvernement ? Non plus. Dès juin, il engage des dépenses sociales sans recette en face : plus de 5 milliards de francs rien que pour l'État. Les taux d'intérêt, qui montaient déjà, grimpent encore après l'élection. Combien tout cela pèse au total ? Les comptes de l'époque ne permettent pas de le dire.
+Est-ce que ça blanchit le nouveau gouvernement ? Non plus. Dès juin, il engage des dépenses sociales dont une partie n'a aucune recette en face : plus de 5 milliards de francs rien que pour l'État. Les taux d'intérêt, qui montaient déjà, grimpent encore après l'élection. Combien tout cela pèse au total ? Les comptes de l'époque ne permettent pas de le dire.
 
-1981, ce n'est donc pas l'héritage ou la gauche. C'est l'héritage et la gauche, dans une économie qui se dégrade. Le sortant laisse s'éteindre une recette pendant que le chômage monte. L'arrivant dépense sans financer.
+1981, ce n'est donc pas l'héritage ou la gauche. C'est l'héritage et la gauche, dans une économie qui se dégrade. Le sortant laisse s'éteindre une recette pendant que le chômage monte. L'arrivant engage des dépenses qu'il ne finance qu'en partie.
 
 ### 7 · Deux récits
 
@@ -132,7 +132,7 @@ Tu as donc deux récits. Pour les uns : un geste pour le pouvoir d'achat. Pour l
 
 Chaque camp a gardé le morceau de vérité qui l'arrangeait. Tu reconnaîtras le procédé.
 
-La porte de 1980 se referme. La suivante mettra vingt ans à s'ouvrir. Entre-temps, deux choses changent le pays.
+L'occasion de 1980 est passée. La suivante mettra vingt ans à venir. Entre-temps, deux choses changent le pays.
 
 ## Acte III — La deuxième fois
 
@@ -148,7 +148,7 @@ Maintenant, multiplie. En 1975, quatre Français sur dix âgés de 60 à 64 ans 
 
 Tout le monde perd des heures sur cette période, l'Allemagne aussi. La France en perd plus. Et une partie de ces heures, c'est du chômage que personne n'a choisi.
 
-Ce n'est donc pas une affaire d'envie de travailler. C'est une affaire de base. Les retraites, la santé, les allocations : le pays les finance d'abord sur le travail. Et cette base s'est rétrécie plus qu'ailleurs. Pas un trésor caché qu'il suffirait de récupérer. Le terrain sur lequel tout le reste se joue.
+Ce n'est donc pas une affaire d'envie de travailler. C'est une affaire de base. Une grande partie de ce qui finance les retraites, la santé et les allocations est prélevée sur le travail. Et cette base s'est rétrécie plus qu'ailleurs. Pas un trésor caché qu'il suffirait de récupérer. Le terrain sur lequel tout le reste se joue.
 
 ### 9 · La facture
 
@@ -158,7 +158,7 @@ Les années quatre-vingt-dix sont rudes. 1993 : récession, et le pire déficit 
 
 Dos au mur, une deuxième fois. Et une deuxième fois, ça marche. Mets de côté les intérêts, comme pour 1980. 1998, 1999, 2000, 2001 : la France encaisse plus qu'elle ne dépense, quatre années de suite. Ce qui la maintient dans le rouge, c'est la facture du passé.
 
-Vingt ans après 1980, la ligne est de nouveau à portée. Et cette fois, l'argent tombe du ciel.
+Vingt ans après 1980, la France s'est de nouveau rapprochée de la ligne. Et cette fois, l'argent tombe du ciel.
 
 ### 10 · Printemps 2000
 
@@ -198,7 +198,7 @@ Mais méfie-toi du coupable trop simple. Entre 2011 et 2013, les impôts remonte
 
 Plus révélateur : ce qui arrive juste après la cagnotte.
 
-En 2005, la France s'écrit une règle, au sommet de son droit budgétaire. Désormais, chaque budget devra dire à l'avance ce qu'on fera des impôts qui rentrent mieux que prévu. Et chaque année, le budget répond la même chose : ils iront réduire le déficit.
+En 2005, la France s'écrit une règle, au sommet de son droit budgétaire. Désormais, chaque budget devra dire à l'avance ce qu'on fera des impôts qui rentrent mieux que prévu. Et pendant des années, le budget répond la même chose : ils iront réduire le déficit.
 
 La leçon de 2000 a donc été tirée. Sur le papier.
 
@@ -214,7 +214,7 @@ Pour l'année qui vient, l'État ne se trompe pas tant que ça : quatre fois sur
 
 À trois ans : trente et une fois sur trente et une, le déficit réel est pire que le déficit annoncé. (pause) Pas une exception. Et si tu retires toutes les fois où une crise est passée par là, il en reste dix-sept. Dix-sept sur dix-sept.
 
-Dans le lot, il y a mieux. Cinq fois, la France a écrit noir sur blanc l'année de son retour à l'équilibre. 2005. 2010. 2012. 2016. 2022. Cinq dates, écrites par des gouvernements de gauche, de droite et du centre. Trois ont été balayées par une crise. Les deux autres, non. Aucune n'a été tenue.
+Dans ces mêmes documents, il y a mieux. Cinq fois, à trois ou quatre ans de distance, la France a écrit noir sur blanc l'année de son retour à l'équilibre. 2005. 2010. 2012. 2016. 2022. Cinq dates, écrites par des gouvernements de gauche, de droite et du centre. Trois ont été balayées par une crise. Les deux autres, non. Aucune n'a été tenue.
 
 En 2008, le rapporteur du budget au Sénat avait déjà trouvé la formule : ces programmations se sont « contentées de décaler, chaque année ou presque, l'objectif de retour à l'équilibre ».
 
@@ -226,7 +226,7 @@ Tu vas me dire : et les crises ? 2008. Le Covid. Ce n'est pas rien. Et tu as rai
 
 Mais voilà ce que les crises n'expliquent pas.
 
-On entend souvent que les aides d'urgence ne s'arrêtent jamais. C'est faux. Après le Covid, plus de 80 milliards d'euros de soutien sont retirés dès 2021.
+On entend souvent que les aides d'urgence ne s'arrêtent jamais. C'est faux. En 2021, les mesures d'urgence et de relance du Covid coûtent encore plus de 80 milliards d'euros. Deux ans plus tard : 12.
 
 Ce qui reste d'une crise, ce n'est pas l'aide. C'est la dette, et ses intérêts. Et une dette ne peut redescendre qu'entre deux crises.
 
@@ -240,7 +240,7 @@ Pourtant, même au plus haut de ce redressement, en 2018, la France ne boucle to
 
 Prends du recul. En 1985, à la fin de la grande dérive, la dépense publique dépasse les recettes de 3 points de richesse nationale. Quarante ans plus tard : 5. La dépense a monté plus vite que les recettes, et l'écart ne s'est jamais refermé. (pause) Pas une explosion : un écart ancien, que chaque gouvernement a trouvé en arrivant. Et laissé en partant.
 
-Cette dépense, ce n'est pas le train de vie de l'État. Plus de la moitié, ce sont les retraites, la santé et les allocations, financées d'abord sur le travail. Et la base de travail n'est jamais revenue au niveau de nos voisins.
+Cette dépense, ce n'est pas le train de vie de l'État. Plus de la moitié, ce sont les retraites, la santé et les allocations. Et la base de travail, on l'a vu, reste plus étroite que chez nos voisins.
 
 Pour y répondre, le pays a fait un pari, à partir de 1993 : baisser les cotisations sur les bas salaires pour créer de l'emploi. Ce pari coûte aujourd'hui 78 milliards d'euros par an. Ce coût est connu au milliard près. Les emplois créés ? Pour les premiers allègements, d'une étude à l'autre, l'estimation va de un à six. (pause) Et ce que le pari rapporte au bout du compte aux finances publiques, aucune ne le mesure.
 
@@ -262,7 +262,7 @@ Que les suspects habituels ont presque tous compté. Et qu'aucun ne suffit.
 
 Mais la découverte n'est pas là. La découverte, c'est un motif. Il revient trois fois.
 
-Trois fois, la France a vraiment redressé ses comptes. À la fin des années soixante-dix, quand la Sécurité sociale était à sec. Dans les années quatre-vingt-dix, quand il fallait se qualifier pour l'euro. Après 2010, sous surveillance européenne. Trois fois, le dos au mur. Et deux fois sur trois, presque uniquement en prélevant plus.
+Trois fois, la France a vraiment redressé ses comptes. À la fin des années soixante-dix, quand la Sécurité sociale était à sec. Dans les années quatre-vingt-dix, quand il fallait se qualifier pour l'euro. Après 2010, sous surveillance européenne. Trois fois, le dos au mur. Et deux fois sur trois, surtout en prélevant plus.
 
 Et à chaque fois que le mur s'est éloigné, elle a rendu une partie de ce qu'elle venait de gagner. 1980 : la Sécurité sociale est redevenue excédentaire, et on laisse s'éteindre la recette qui fait cet excédent. 2000 : une cagnotte qu'on « restitue ». À partir de 2018 : des impôts qu'on rebaisse. Aucun de ces gestes n'explique le déficit à lui seul. On les a mesurés. Et trois épisodes ne font pas une loi. Mais ce sont ceux que montrent les archives. Et c'est trois fois le même geste.
 

@@ -196,7 +196,7 @@ Liens : les pièces des approfondissements sont au commit `ffb03b6` ; les autres
 
 ### R17 · Ce qui n'a pas eu lieu
 
-- **Énoncé.** Aides de crise retirées : 83,7 milliards d'euros en 2021, 12,4 en 2023. De 1998 à 2024, 38 documents de programmation, aucune trajectoire tenue à trois ans. La règle d'affectation des surplus de recettes n'a jamais été appliquée.
+- **Énoncé.** Aides de crise retirées : les mesures d'urgence et de relance passent de 83,7 milliards d'euros en 2021 à 12,4 en 2023. De 1998 à 2024, 38 documents de programmation, aucune trajectoire tenue à trois ans. La règle d'affectation des surplus de recettes n'a jamais été appliquée.
 - **Source.** Première enquête de Claude : [synthèse éditoriale][synth], [rapport intégral][rapport] (questions sur les surplus et sur les prévisions).
 - **Limites.**
   - La règle des surplus est connue par la Cour des comptes citée dans un rapport du Sénat : **source de seconde main**, à lire à l'origine avant le script.

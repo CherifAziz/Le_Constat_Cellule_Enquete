@@ -6,7 +6,7 @@
 
 ## 1. Le verdict en cinq phrases
 
-1. **C'est un film, plus un plan.** Le script se lit et s'écoute d'un bout à l'autre : 3 725 mots, 21 min 42 de voix et de pauses, environ 23 minutes montées.
+1. **C'est un film, plus un plan.** Le script se lit et s'écoute d'un bout à l'autre : 3 755 mots, 21 min 52 de voix et de pauses, environ 23 minutes montées.
 2. **Il tient sa promesse d'enquête** du début à la treizième minute : une énigme, une page, un coupable qui n'en est pas un, un motif écrit vingt ans plus tard.
 3. **Il conclut par une idée qu'on retient et qu'on peut vérifier** : la France redresse ses comptes le dos au mur, et rend une partie du gain dès que le mur s'éloigne.
 4. **Son point faible est l'acte IV.** Il est mieux qu'avant les relectures, mais il reste le plus démonstratif, et la séquence 14 est la moins nécessaire.
@@ -74,7 +74,7 @@ La conclusion affirme un motif : **trois redressements le dos au mur, trois rel�
 ## 6. Ce que cette version n'est pas
 
 - **Ce n'est pas un texte mesuré à l'oreille.** Aucune voix ne l'a encore lu. Les `(pause)` sont des hypothèses.
-- **Ce n'est pas un texte contre-expertisé par une autre équipe.** Les deux relecteurs et la rédaction sont le même modèle. Ils ont trouvé une inexactitude, six formulations trop fortes et treize défauts de rythme ; un autre regard en trouvera d'autres.
+- **Ce n'est pas un texte contre-expertisé par une autre équipe.** Les deux relecteurs et la rédaction sont le même modèle. Ils ont trouvé une inexactitude, six formulations trop fortes et treize défauts de rythme. Une dernière relecture critique a ensuite trouvé une erreur de chiffre qui leur avait échappé à tous (les aides de crise) : un autre regard en trouvera d'autres. Le texte corrigé n'a pas eu de seconde écoute indépendante.
 - **Ce n'est pas un film sur les solutions.** Il ne dit pas quoi faire. Il donne au spectateur une question à poser : *qu'est-ce qu'on en fait ?*
 
 ## 7. Par rapport à la V5
@@ -88,4 +88,4 @@ La conclusion affirme un motif : **trois redressements le dos au mur, trois rel�
 | Affirmations inexactes relevées | 5 | 1, corrigée |
 | Thèses réfutées par les enquêtes | « l'aide dure » ; le blocage comme cause des 51 ans | Aucune reprise |
 
-À débit égal, la V6 est plus longue de deux minutes, contient plus de deux fois moins de chiffres, et raconte quarante-cinq années que la V5 ne racontait pas.
+À débit égal, la V6 est plus longue de deux minutes et raconte quarante-cinq années que la V5 ne racontait pas.

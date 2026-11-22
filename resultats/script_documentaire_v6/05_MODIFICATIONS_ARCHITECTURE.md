@@ -11,13 +11,13 @@ La structure d'enquête, la pièce centrale de 1980 et le sommet (le solde avant
 | Période | Architecture | Script | Part du film |
 |---|---:|---:|---|
 | Ouverture | 2 min 00 | 1 min 00 | de 8 % à 5 % |
-| 1974–1981 (séquences 1 à 7) | 14 min 00 | 8 min 23 | de 53 % à 39 % |
-| 1982–2001 (séquences 8 à 10) | 6 min 15 | 4 min 12 | de 24 % à 19 % |
-| 2002–2026 (séquences 11 à 15) | 4 min 15 | 6 min 16 | de 16 % à 29 % |
+| 1974–1981 (séquences 1 à 7) | 14 min 00 | 8 min 25 | de 53 % à 39 % |
+| 1982–2001 (séquences 8 à 10) | 6 min 15 | 4 min 15 | de 24 % à 19 % |
+| 2002–2026 (séquences 11 à 15) | 4 min 15 | 6 min 20 | de 16 % à 29 % |
 | Conclusion | 1 min 00 | 1 min 49 | de 4 % à 8 % |
-| **Total** | **26 min 30** | **21 min 42** | |
+| **Total** | **26 min 30** | **21 min 52** | |
 
-*Durées du script corrigé, calculées sur le nombre réel de mots (3 725), à 182 mots par minute, pauses comprises. Détail par séquence dans [04](04_AUDIT_NARRATIF.md).*
+*Durées du script corrigé, calculées sur le nombre réel de mots (3 755), à 182 mots par minute, pauses comprises. Détail par séquence dans [04](04_AUDIT_NARRATIF.md).*
 
 **Ce qui a été fait.**
 
@@ -27,7 +27,7 @@ La structure d'enquête, la pièce centrale de 1980 et le sommet (le solde avant
   2. les engagements à trois ans ne sont jamais tenus (séquence 12) ;
   3. chaque crise laisse une marche de dette, et l'entre-deux-crises ne la redescend pas (séquence 13) ;
   4. l'écart entre dépenses et recettes est le même qu'en 1985, et la base de travail ne s'est pas reconstituée (séquence 14).
-- **La durée baisse au lieu de monter.** 21 min 42 de voix et de pauses, soit environ 23 minutes montées. Rien n'a été ajouté pour atteindre 26 minutes : le rythme d'enquête ne le demandait pas.
+- **La durée baisse au lieu de monter.** 21 min 52 de voix et de pauses, soit environ 23 minutes montées. Rien n'a été ajouté pour atteindre 26 minutes : le rythme d'enquête ne le demandait pas.
 
 ## 2. Précision des responsabilités : trois tampons au lieu d'une rature
 
@@ -44,7 +44,7 @@ Le mur garde ses fiches, mais chaque fiche reçoit un ou plusieurs de trois tamp
 **Conséquences dans le texte.**
 
 - **1981.** L'architecture disait que le film rayait « l'alternance de 1981 ». Le script dit autre chose : le gouvernement sortant laisse s'éteindre une recette pendant que le chômage monte ; le gouvernement arrivant engage plus de 5 milliards de francs de dépenses sans recette en face. Aucun des deux n'est blanchi, aucun n'est chargé de l'ensemble. Seule l'idée que la retraite à 60 ans aurait creusé 1981 est déclarée fausse, parce que les dates l'interdisent.
-- **Les majorités absolues.** Le décompte des 42 budgets ne sert plus à dire que le blocage n'existe pas. Il sert à dire qu'il n'a pas pu créer les quarante-huit premières années : « Le blocage aggrave le problème d'aujourd'hui. Il n'a pas créé celui d'hier. » Le dossier de recherche lui-même prévient que ce décompte « ne départage rien » à lui seul.
+- **Les majorités absolues.** Le décompte des 42 budgets ne sert plus à dire que le blocage n'existe pas. Il sert à dire qu'il ne peut pas être la cause d'une série où 42 budgets sur 51 ont été votés par une majorité absolue : « Le blocage aggrave le problème d'aujourd'hui. Il n'a pas créé celui d'hier. » Le dossier de recherche lui-même prévient que ce décompte « ne départage rien » à lui seul.
 - **Les baisses d'impôts** reçoivent leur propre fiche, absente de l'architecture, avec les deux tampons.
 
 ## 3. Les occasions de 1980 et de 2000
@@ -54,7 +54,7 @@ L'architecture parlait de « deuxième porte » et de ligne « à portée ». Le
 - **Pour 2000**, le script dit explicitement le contraire, et il le dit avant la conclusion de la séquence : « Si le gouvernement avait tout gardé, jusqu'au dernier franc, est-ce que la France revenait à l'équilibre ? Non. Loin de là. » Puis : « 2000 n'est pas l'année où la France a raté l'équilibre. C'est l'année où elle pouvait faire une partie du chemin. »
 - **Le choix est dit défendable** (« les impôts venaient de beaucoup monter »), ce que l'architecture reléguait en objection.
 - **Pour 1980**, la mesure arrive dès le début de la séquence suivante : « Moins d'un sixième. Elle a compté. Elle n'a pas fait plonger la France. »
-- **Le mot « porte » ne sert plus qu'une fois**, comme transition.
+- **Les mots « porte » et « à portée » ont disparu du script.** Il dit « l'occasion de 1980 » et « s'est de nouveau rapprochée de la ligne ».
 
 ## 4. La conclusion, après vérification à la source
 
@@ -110,3 +110,5 @@ Le mur des cinq suspects n'est plus présenté dans l'ouverture. Les fiches appa
 | Les 49 millions de 2000 | À l'écran | À l'écran, non prononcés | Chiffre du projet déposé, à relire sur la loi promulguée |
 | Les noms | Laissés à l'auteur | Barre, Mauroy, Jospin, une fois chacun | Décisions datées, auteurs institutionnels |
 | La note de Bercy, la Suède, la page 114 | Écartées | Toujours écartées | — |
+| Trois chiffres dits au plus par séquence | Règle | Non tenue dans les séquences 4, 6 et 12 | La fiche de paie, le décompte de 1981 et celui des échéances demandent plus de trois nombres |
+| Les aides de crise | « 83,7 milliards retirés en 2021 » | « plus de 80 milliards en 2021, 12 en 2023 » | Erreur de lecture de la base factuelle : c'était le montant dépensé |

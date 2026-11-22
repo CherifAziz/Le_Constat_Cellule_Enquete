@@ -79,7 +79,7 @@ Périmètre par défaut : ensemble des administrations publiques (État, Sécuri
 | Réf. | Fait | Statut |
 |---|---|---|
 | F45 | La dette monte par marches (2008–2010, 2020) et ne revient jamais à son niveau d'avant-crise | [É] |
-| F46 | Les aides de crise ont bien été retirées (83,7 Md€ en 2021, 12,4 en 2023). « L'aide dure » est faux. Ce qui reste : aucun excédent avant intérêts dans les bonnes années | [É] |
+| F46 | Les aides de crise ont bien été retirées : les mesures d'urgence et de relance coûtent 83,7 Md€ en 2021 et 12,4 en 2023 *(formulation corrigée : ces montants sont des dépenses annuelles, non des retraits)*. « L'aide dure » est faux. Ce qui reste : aucun excédent avant intérêts dans les bonnes années | [É] |
 | F47 | 2011–2014 : redressement fait à 83 % par les impôts. 2012–2015 : près de la moitié de l'amélioration vient de la baisse des intérêts | [É] |
 | F48 | Décisions fiscales cumulées : −3,0 points en 2000–2008, +2,4 en 2012–2016, −1,24 en 2017–2025. Qui choisit l'année de départ choisit le signe du total | [É] par segment |
 | F49 | 2019 : la bascule du crédit d'impôt compétitivité en baisse de cotisations crée une année double. Les comptes publiés en 2020 affichent 3,0 % de déficit ; la série révisée, 2,39 %. Même année, deux récits | [É] |

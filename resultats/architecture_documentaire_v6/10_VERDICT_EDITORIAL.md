@@ -48,7 +48,7 @@ Un septième élément est à garder hors du film : **la note de Bercy du 7 déc
 
 | Élément de la V5 | Verdict des enquêtes |
 |---|---|
-| « L'aide dure, la baisse reste » (ligne 79) | Inexact : 83,7 milliards d'euros d'aides retirés en 2021, 12,4 en 2023 |
+| « L'aide dure, la baisse reste » (ligne 79) | Inexact : les mesures d'urgence et de relance passent de 83,7 milliards d'euros en 2021 à 12,4 en 2023 |
 | Le cliquet comme mécanisme (lignes 67 à 71) | L'image de la dette en marches est exacte ; le mécanisme annoncé ne l'est pas |
 | Le blocage comme explication des 51 ans (bloc B5) | Vaut pour 2024–2026 seulement |
 | « 10 / 44 / 150 » (ligne 157) | Trois grandeurs d'années et de périmètres différents |
