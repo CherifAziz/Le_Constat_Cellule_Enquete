@@ -4,7 +4,7 @@
 
 `(pause)` : respiration marquée, environ une seconde. `(silence)` : deux à trois secondes sans voix.
 
-**4761 mots. Durée estimée par le calcul : 28:22** (hypothèse de 182 mots par minute ; (pause) = 1 s ; (silence) = 2,5 s ; 0,5 s entre deux paragraphes ; temps de lecture des archives indiqués dans le script annoté ; 4 s de carton de titre et 3 s de silence final hors voix). Ce n'est pas une durée mesurée sur un enregistrement.
+**4796 mots. Durée estimée par le calcul : 28:33** (hypothèse de 182 mots par minute ; (pause) = 1 s ; (silence) = 2,5 s ; 0,5 s entre deux paragraphes ; temps de lecture des archives indiqués dans le script annoté ; 4 s de carton de titre et 3 s de silence final hors voix). Ce n'est pas une durée mesurée sur un enregistrement.
 
 ---
 
@@ -84,7 +84,7 @@ Alors c'est la gauche, arrivée en mai ? Depuis quarante ans, on répète : la r
 
 Le chômage, lui, montait déjà en 1980. Et le nouveau gouvernement engage, dès juin, des dépenses dont une partie n'a aucune recette en face. Ce n'est donc pas l'héritage ou la gauche. C'est l'héritage et la gauche, dans une économie qui se dégrade. Quelle part pour chacun ? Les comptes de l'époque ne permettent pas de le dire.
 
-Un dernier détail. En novembre 1981, le gouvernement de Pierre Mauroy rétablit la cotisation. (pause) Neuf mois trop tard.
+Un dernier détail. En novembre 1981, le gouvernement de Pierre Mauroy rétablit la cotisation. (pause) Neuf mois après.
 
 ### 6 · Ce que ces années laissent
 
@@ -136,21 +136,21 @@ Il y a d'autres engagements écrits. Depuis fin 1998, la France annonce réguli�
 
 Et voici cinq années annoncées pour revenir au moins à l'équilibre, par des gouvernements de gauche, de droite et du centre. 2005. 2010. 2012. 2016. 2022. (pause) Aucune n'a été tenue.
 
-Un écart ne dit pas pourquoi il s'est produit. Une prévision trop optimiste, une crise, une décision nouvelle : tout s'y mélange. Mais une chose est établie. Écrire un engagement n'a jamais suffi à le tenir.
+Un écart ne dit pas pourquoi il s'est produit. Une prévision trop optimiste, une crise, une décision nouvelle : tout s'y mélange. Mais une chose est établie. Écrire un engagement ne suffit pas à le tenir.
 
 ### 11 · Troisième fois
 
-2011. La zone euro vacille. La France est sous surveillance européenne. Dos au mur, troisième fois. Et troisième redressement. Comment ? Comme en 1979, d'abord par les recettes : de 2011 à 2014, elles font environ quatre cinquièmes de l'effort.
+2011. La zone euro vacille. La France est sous surveillance européenne. Dos au mur, troisième fois. Et troisième redressement. Comment ? Comme en 1979, d'abord par les recettes : de 2011 à 2014, elles font environ quatre cinquièmes de l'effort budgétaire mesuré.
 
 Puis deux dates. Décembre 2017 : le Parlement vote des baisses d'impôts pour 2018. Juin 2018 : la procédure européenne prend fin. (pause) Les baisses d'impôts étaient votées avant même la fin de la surveillance.
 
-Cinquante ans, trois redressements. À chaque fois, une contrainte : un régime général dans le rouge, l'euro, la surveillance européenne. Et deux fois sur trois, surtout en prélevant plus. (pause) Alors pourquoi ne pas recommencer ?
+Cinquante et un ans, trois redressements. À chaque fois, une contrainte : un régime général dans le rouge, l'euro, la surveillance européenne. Et deux fois sur trois, surtout en prélevant plus. (pause) Alors pourquoi ne pas recommencer ?
 
 ## Acte III — Le mur
 
 ### 12 · Le levier déjà tiré
 
-En partie, parce que c'est déjà fait. Pour 2025, de nouveau sous procédure européenne, la France annonce 23 milliards d'euros de hausses de prélèvements. Dont une contribution sur les bénéfices des grandes entreprises.
+En partie, parce que c'est déjà fait. Pour 2025, de nouveau sous procédure européenne, la France annonce 23 milliards d'euros de mesures de recettes. Dont une contribution sur les bénéfices des grandes entreprises.
 
 Et elle part de haut. En 2025, avec 46 % de sa richesse en impôts et cotisations, elle est au premier rang des vingt-sept pays de l'Union. Refermer tout le déficit de cette année-là par les seuls prélèvements la porterait autour de 51 %. Par la seule dépense, sa dépense publique resterait au-dessus de la moyenne de la zone euro.
 
@@ -180,7 +180,7 @@ Et pour quarante-deux de nos cinquante et un budgets, le camp du gouvernement es
 
 ### 16 · Le compte
 
-Alors, quelle est la taille du problème ? Prenons un objectif modeste : qu'en 2030, la dette cesse de grossir plus vite que l'économie. Pas la rembourser. Juste arrêter la hausse. En partant d'un scénario sans nouvelles mesures, il faudrait que les décisions prises d'ici là rapportent, en 2030, entre 135 et 165 milliards d'euros par an, à la taille de l'économie de 2025. (pause) Pas 165 milliards de plus chaque année. Un niveau, atteint par étapes. Puis tenu.
+Alors, quelle est la taille du problème ? Prenons un objectif modeste : qu'en 2030, la dette cesse de grossir plus vite que l'économie. Pas la rembourser. Juste arrêter la hausse de son poids dans l'économie. En partant d'un scénario sans nouvelles mesures, il faudrait que les décisions prises d'ici là rapportent, en 2030, entre 135 et 165 milliards d'euros par an, à la taille de l'économie de 2025. (pause) Pas 165 milliards de plus chaque année. Un niveau, atteint par étapes. Puis tenu.
 
 Attention : stabiliser la dette, ce n'est ni passer sous 3 % de déficit, ni revenir à l'équilibre. Ce sont d'autres cibles. L'équilibre coûterait bien davantage.
 
@@ -190,7 +190,7 @@ Sans nouvelles mesures : près de quatre points de PIB, en une seule année. (pa
 
 Ce ne sont pas des prédictions. Ce sont des simulations, avec leurs hypothèses. Mais elles disent une chose importante. Ces mesures ne sont pas rien : elles ralentissent nettement la hausse. Et pourtant, même appliquées jusqu'au bout, la dette continue de monter. (pause) Le compte n'y est pas encore.
 
-Alors une question devient inévitable. Un pays démocratique, sans majorité au Parlement, a-t-il déjà réussi un effort de cette ampleur ? (pause) Oui. Et il visait plus haut que nous ici : pas seulement arrêter la hausse de sa dette, mais revenir à l'équilibre.
+Alors une question devient inévitable. Un pays démocratique, dirigé par un gouvernement minoritaire, a-t-il déjà réussi un effort de cette ampleur ? (pause) Oui. Et il visait plus haut que nous ici : pas seulement arrêter la hausse de sa dette, mais revenir à l'équilibre.
 
 ## Acte IV — Ce qui pourrait marcher
 
@@ -202,7 +202,7 @@ Octobre 1994. Göran Persson devient ministre des Finances d'un gouvernement soc
 
 Le plan mêle économies et hausses d'impôts. Et Persson ne promet pas qu'il sera indolore. Sa consigne, il la donnera lui-même devant des banquiers centraux : « Ne dites jamais que ça ne fera pas mal. »
 
-Son gouvernement n'a pas la majorité. À partir du printemps 1995, il s'appuie sur le Parti du centre, un parti de l'autre bloc. En août 1995, Persson affirme que 94 % du Parlement soutiennent l'objectif : revenir à l'équilibre. (pause) L'objectif. Pas chaque coupe. On se dispute sur les moyens. Pas sur le but.
+Son gouvernement n'a pas la majorité. À partir du printemps 1995, il s'appuie sur le Parti du centre, un parti de l'autre bloc. En août 1995, Persson affirme que 94 % du Parlement soutiennent l'objectif de redressement. (pause) L'objectif. Pas chaque coupe. On se dispute sur les moyens. Pas sur le but.
 
 Le programme est renforcé plusieurs fois. En avril 1996, il atteint 8 % de la richesse du pays : à peu près moitié en économies, moitié en recettes. En 1997 s'appliquent les premiers plafonds de dépenses, votés à l'avance. (pause) En 1998, les comptes suédois sont en excédent.
 
@@ -210,7 +210,7 @@ Le programme est renforcé plusieurs fois. En avril 1996, il atteint 8 % de la r
 
 Mais la Suède n'a pas fait ça seule. En novembre 1992, sa monnaie a été laissée flottante. Elle a perdu environ un cinquième de sa valeur. Ses produits deviennent moins chers à l'étranger, au moment où ses marchés extérieurs grossissent d'environ 7 à 10 % par an. Et une partie du déficit de départ venait du sauvetage des banques : une dépense ponctuelle, qui s'éteint d'elle-même.
 
-Et ces années sont dures. Le chômage reste au-dessus de 10 % jusqu'en 1997. L'emploi des jeunes recule fortement au cours de la décennie : crise et plan sont mêlés, impossible de faire la part de chacun. Ce qui relève bien du plan : quand les budgets locaux sont comprimés, les communes coupent dans l'école, les soins, la garde des enfants. En 1998, le parti de Persson perd près de neuf points aux élections, sans qu'on sache quelle part revient aux coupes. Il reste au pouvoir.
+Et ces années sont dures. Le chômage reste au-dessus de 10 % jusqu'en 1997. L'emploi des jeunes recule fortement au cours de la décennie : crise et plan sont mêlés, impossible de faire la part de chacun. Ce qui relève bien du plan, selon le conseiller de Persson : quand les budgets locaux sont comprimés, les collectivités locales coupent dans l'école, les soins, la garde des enfants. En 1998, le parti de Persson perd près de neuf points aux élections, sans qu'on sache quelle part revient aux coupes. Il reste au pouvoir.
 
 Une précision, contre une idée répandue. La célèbre réforme suédoise des retraites entre en vigueur en 1999. Ses effets sur les pensions versées viennent après ce redressement.
 
@@ -234,7 +234,7 @@ Qui paie ? Les retraités, bien sûr. Mais pas d'abord les plus aisés. Prends u
 
 Une autre règle épargnerait les petites pensions : ne freiner, plusieurs années de suite, que les pensions au-dessus d'environ 1 260 euros. Plus étalée, plus ciblée, elle rapporte aussi moins : autour de deux milliards en 2030.
 
-Attention aussi aux fausses économies : moins rembourser un soin, ou baisser la dotation d'une commune, c'est souvent déplacer la dépense vers les ménages, les mutuelles ou les communes. Pas la supprimer. (pause) La meilleure objection, enfin, c'est l'histoire récente : ces gels se retirent, ou se rattrapent. Une économie qu'on défait l'année suivante n'en est pas une. Pour le savoir, il faudra regarder les bulletins des années suivantes.
+Attention aussi aux fausses économies : moins rembourser un soin, ou baisser la dotation d'une commune, c'est souvent déplacer la dépense vers les ménages, les mutuelles ou les communes. Pas la supprimer. (pause) La meilleure objection, enfin, c'est l'histoire récente : ces gels ont déjà été retirés, ou rattrapés. Une économie qu'on défait l'année suivante n'en est pas une. Pour le savoir, il faudra regarder les bulletins des années suivantes.
 
 ### 21 · Une addition
 
@@ -246,9 +246,9 @@ Fermer ces avantages un par un rapporte quelques milliards à chaque fois. Si l'
 
 Prends un ticket de caisse. Un point de plus sur le seul taux normal de TVA rapporterait environ 7,5 milliards d'euros, en année pleine. Les commerçants la collectent ; selon la concurrence, elle se partage entre les prix, les marges, les salaires. Si elle passe dans les prix, un ménage qui dépense presque tout ce qu'il gagne la sent davantage, en proportion de son revenu.
 
-Prends maintenant une fiche de paie. La CSG y est prélevée, comme sur les pensions et les revenus du capital. Sur 2 000 euros, un demi-point de plus, c'est 10 euros de moins par mois. Et pour les comptes publics, en théorie, un montant du même ordre que la TVA. Les pensions exonérées restent protégées, les revenus du capital paient davantage. Mais les salariés modestes, eux, paient.
+Prends maintenant une fiche de paie. La CSG y est prélevée, comme sur les pensions et les revenus du capital. Sur 2 000 euros, un demi-point de plus, c'est 10 euros de moins par mois. Et pour les comptes publics, en théorie, un montant du même ordre que la TVA. Une pension exonérée peut rester protégée ; les revenus du capital concentrent davantage l'effort chez les plus aisés. Mais les salariés modestes, eux, paient.
 
-On peut compenser : un versement ciblé vers les ménages modestes coûte quelques milliards, à condition qu'il les atteigne vraiment. (pause) Et la meilleure objection est là : dans les deux cas, une partie du rendement se perd en route. Moins de consommation, des prix qui montent et des prestations qui suivent, une activité qui ralentit. Personne ne sait d'avance combien il en restera.
+On peut compenser : un versement ciblé vers les ménages modestes coûte environ deux milliards dans notre exemple, à condition qu'il les atteigne vraiment. (pause) Et la meilleure objection est là : dans les deux cas, une partie du rendement se perd en route. Moins de consommation, des prix qui montent et des prestations qui suivent, une activité qui ralentit. Personne ne sait d'avance combien il en restera.
 
 ### 22 · Deux personnes de soixante ans
 
@@ -256,13 +256,13 @@ Troisième situation. Tu te souviens de l'homme de 57 ans, en 1982, à qui l'on 
 
 Plus de gens en emploi, c'est plus de cotisations, plus d'impôts, moins de prestations. Et ce levier a une preuve, ce qui est rare. Après la réforme de 2010, qui a reculé l'âge de 60 à 62 ans, la probabilité d'être en emploi à 60 ans a gagné entre 16 et 17 points.
 
-Mais regarde les deux personnes. La première avait un poste : elle le garde plus longtemps. C'est de là que vient l'essentiel de l'effet. La seconde avait déjà perdu le sien, ou ne pouvait plus le tenir : pour elle, reculer l'âge, c'est prolonger le chômage ou l'inactivité. (pause) L'âge se vote. Un poste adapté, une santé qui tient, un employeur qui garde ses salariés âgés : ça ne se vote pas.
+Mais regarde les deux personnes. La première avait un poste : elle le garde plus longtemps. C'est de là que vient une grande partie de l'effet. La seconde avait déjà perdu le sien, ou ne pouvait plus le tenir : pour elle, reculer l'âge, c'est prolonger le chômage ou l'inactivité. (pause) L'âge se vote. Un poste adapté, une santé qui tient, un employeur qui garde ses salariés âgés : ça ne se vote pas.
 
 C'est pour ça qu'on ne peut pas inscrire ce levier comme une recette garantie. Il rapporte en années, pas en mois. Et il se mesure au nombre de personnes qui restent réellement en poste, aux heures, au chômage, à l'invalidité. Pas à l'âge écrit dans la loi.
 
 ### 23 · Quatorze ans plus tard
 
-Quatrième situation : une promesse, et le jour où on la contrôle. Tu la connais : la règle de 2005 sur les bonnes surprises. En 2019, quatorze ans plus tard, la Cour des comptes n'en trouve aucune mise en œuvre.
+Quatrième situation : une promesse, et le jour où on la contrôle. Tu la connais : la règle de 2005 sur les bonnes surprises. En 2019, quatorze ans plus tard, la Cour des comptes n'en trouve aucune mise en œuvre dans les documents qu'elle examine.
 
 Tenir un engagement, ça ne se décrète pas. Mais ça se vérifie. Et pas tous les quatorze ans : chaque année. Imagine un document public, avant chaque vote du budget : ce qui était promis, ce qui a été fait, l'écart, et ce qu'on décide pour le combler. Derrière, un plafond de dépenses voté pour plusieurs années, avec une marge pour les chocs, et une règle connue d'avance pour les recettes surprises. Avec la Sécurité sociale et les collectivités dedans, pour qu'aucune charge ne se cache en changeant de caisse.
 
@@ -274,7 +274,7 @@ Alors, qu'avons-nous trouvé ?
 
 La France s'est enfermée quand sa croissance a cassé et que sa dépense a gardé son élan. Elle s'est redressée trois fois, sous contrainte, souvent en prélevant plus, sans jamais repasser la ligne. Et ses engagements écrits n'ont pas tenu.
 
-Aujourd'hui, aucun levier ne suffit seul. Pas sans faire payer toujours les mêmes. Et même les trente-huit mesures du portefeuille central, réunies, ralentissent la hausse de la dette sans encore l'arrêter.
+Aujourd'hui, aucun levier ne suffit seul. Pas sans faire payer toujours les mêmes. Et même les trente-huit mesures du portefeuille central, réunies, ralentissent dans nos simulations la hausse de la dette sans encore l'arrêter.
 
 Voici ce qui nous paraît le plus crédible. C'est une position, pas un calcul.
 
