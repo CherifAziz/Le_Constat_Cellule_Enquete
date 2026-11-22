@@ -48,7 +48,7 @@ Premier détail qu'on oublie. Avant ce choc, la France n'était pas un modèle :
 
 > **ARCHIVE** — Insee, note de conjoncture d'avril 1976. Images d'actualité de l'automne 1975.
 
-Deuxième détail. À l'automne 1975, le gouvernement lance un plan de relance, avec une prime de 250 francs par enfant pour les familles. On en a souvent fait le début de la dérive. Sauf que l'Insee l'écrit dès avril 1976 : le budget de l'État avait basculé avant le plan. La relance n'a pas creusé le trou. Elle est arrivée dedans.
+Deuxième détail. À l'automne 1975, le gouvernement lance un plan de relance, avec une prime de 250 francs par enfant pour les familles. On en a souvent fait le début de la dérive. Sauf que l'Insee l'écrit dès avril 1976 : le budget de l'État avait basculé avant le plan. La relance n'a pas ouvert le trou. Elle est arrivée dedans.
 
 > **MUR** — Deux tampons sur la fiche : **A COMPTÉ**, **NE SUFFIT PAS**.
 
@@ -65,7 +65,7 @@ Voilà ce que disent les comptes. Dans les années soixante, la dépense publiqu
 
 C'est la croissance qui casse. Elle est divisée par plus de deux.
 
-Personne n'a appuyé sur l'accélérateur. La dépense a gardé son élan dans une économie qui venait de freiner. Et l'essentiel se joue là : les quatre cinquièmes de toute la hausse du poids de la dépense publique, de 1974 à aujourd'hui, sont faits dès 1985.
+Il n'y a pas eu de grand coup d'accélérateur. La dépense a gardé son élan dans une économie qui venait de freiner. Et l'essentiel se joue là : les quatre cinquièmes de toute la hausse du poids de la dépense publique, de 1974 à aujourd'hui, sont faits dès 1985.
 
 > **MUR** — Tampon **FAUX** sur « a ouvert les vannes ». Une fiche la remplace : « N'a pas freiné ».
 
@@ -85,7 +85,7 @@ Est-ce que la faire à temps aurait coûté moins cher ? Personne ne peut le chi
 
 Une dépense sur sa lancée, une croissance cassée : le trou devrait se creuser chaque année. Or c'est l'inverse. De 1975 à 1980, la France refait presque tout le chemin.
 
-Comment ? Pas par le budget de l'État, celui dont on débat chaque automne. Sur la dernière ligne droite, il fait à peine un huitième de l'effort. Tout se joue à côté : à la Sécurité sociale. Quatre plans en quatre ans. À chaque fois, on relève les cotisations. Par décret, sans passer par le budget voté au Parlement.
+Comment ? Pas par le budget de l'État, celui dont on débat chaque automne. Sur la dernière ligne droite, de 1978 à 1980, il ne fait qu'un huitième du chemin environ. Tout se joue à côté : à la Sécurité sociale. Quatre plans en quatre ans. À chaque fois, on relève les cotisations. Par décret, sans passer par le budget voté au Parlement.
 
 > **ARCHIVE** — Sénat, rapport n° 102 (1980-1981), tome III, tableau des soldes du régime général : « 1978 : — 10,8 ».
 
@@ -121,7 +121,7 @@ Le décret lui-même, on ne l'a pas retrouvé. Mais deux rapports du Sénat le c
 
 > **ARCHIVE** — Commission des comptes de la Sécurité sociale, rapport de juillet 1981, p. 31. La phrase se surligne.
 
-Maintenant, 1980. La meilleure année de toute la série. La Sécurité sociale des salariés termine avec un excédent : un peu moins de 11 milliards de francs. D'où vient-il ? La Commission des comptes de la Sécurité sociale l'écrit elle-même, un an plus tard : ce résultat « tenait presque entièrement à la cotisation exceptionnelle ». On a refait le calcul : 88 %.
+Maintenant, 1980. La meilleure année de toute la série. La Sécurité sociale des salariés termine avec un excédent : un peu moins de 11 milliards de francs. D'où vient-il ? La Commission des comptes de la Sécurité sociale l'écrit elle-même, un an plus tard : ce résultat « tenait toutefois presque entièrement à la cotisation exceptionnelle ». On a refait le calcul : 88 %.
 
 > **IMAGE** — Deux cercles emboîtés : un petit, « régime général de la Sécurité sociale » ; un grand, « tous les comptes publics ». Le 88 % reste dans le petit.
 
@@ -161,7 +161,7 @@ On tient le coupable ? (silence)
 
 Non. Et c'est là que l'histoire devient intéressante.
 
-Faisons le compte. De tout ce que le déficit perd en 1981, la fin de la cotisation représente entre 11 et 15 %. Un septième, au mieux. Elle a compté. Elle n'a pas fait plonger la France.
+Faisons le compte. De tout ce que le déficit perd en 1981, la fin de la cotisation représente entre 11 et 15 %. Moins d'un sixième. Elle a compté. Elle n'a pas fait plonger la France.
 
 > **MUR** — Troisième fiche : « 1981 : c'est la gauche ». À côté, une autre : « 1981 : c'est l'héritage ».
 
@@ -171,9 +171,9 @@ Regarde les dates. La retraite à 60 ans entre en vigueur en 1983. Quel que soit
 
 > **ARCHIVE** — Sénat, rapport n° 32 (1982-1983), p. 14 : tableau des bénéficiaires de l'assurance chômage par semestre.
 
-Le chômage, lui, n'a pas attendu l'élection. Entre la fin de 1980 et le début de 1981, le nombre de chômeurs indemnisés passe d'un million à près d'un million trois cent mille. Avant mai.
+Le chômage, lui, n'a pas attendu l'élection. Entre le second semestre de 1980 et le premier semestre de 1981, le nombre de chômeurs indemnisés passe d'un million à près d'un million trois cent mille. L'essentiel de la hausse est là quand le nouveau pouvoir s'installe.
 
-Est-ce que ça blanchit le nouveau gouvernement ? Non plus. Dès juin, il engage des dépenses sociales sans recette en face : plus de 5 milliards de francs rien que pour l'État. Après l'élection, les taux d'intérêt s'envolent. Combien tout cela pèse au total ? Les comptes de l'époque ne permettent pas de le dire. Et on ne va pas l'inventer.
+Est-ce que ça blanchit le nouveau gouvernement ? Non plus. Dès juin, il engage des dépenses sociales sans recette en face : plus de 5 milliards de francs rien que pour l'État. Les taux d'intérêt, qui montaient déjà, grimpent encore après l'élection. Combien tout cela pèse au total ? Les comptes de l'époque ne permettent pas de le dire. Et on ne va pas l'inventer.
 
 > **MUR** — Tampon **FAUX** sur « la retraite à 60 ans a creusé 1981 ». Sur les deux fiches « la gauche » et « l'héritage » : **A COMPTÉ**, **NE SUFFIT PAS**.
 
@@ -227,7 +227,7 @@ La deuxième chose, c'est le prix des déficits eux-mêmes. Chaque année dans l
 
 > **ARCHIVE** — Assemblée nationale, débat du 25 mai 1993. Images d'actualité : passage à l'euro.
 
-Les années quatre-vingt-dix sont rudes. 1993 : récession, et le pire déficit depuis le début de la série. Et là, contrairement à la légende du pays qui ne fait jamais rien, il se passe des choses. En pleine récession, on fait plus que doubler la CSG. On allonge la durée de cotisation pour la retraite. Puis il y a une échéance : pour entrer dans l'euro, il faut ramener le déficit sous 3 % en 1997. La France y parvient de justesse, en s'aidant d'un versement exceptionnel de France Télécom.
+Les années quatre-vingt-dix sont rudes. 1993 : récession, et le pire déficit depuis le début de la série. Et là, contrairement à la légende du pays qui ne fait jamais rien, il se passe des choses. En pleine récession, on fait plus que doubler la CSG. On allonge la durée de cotisation pour la retraite. Puis il y a une échéance : pour entrer dans l'euro, il faut ramener le déficit sous 3 % en 1997. Dans les comptes de l'époque, la France y parvient de justesse, en s'aidant d'un versement exceptionnel de France Télécom.
 
 > **IMAGE** — **Le compteur** défile : 1998, 1999, 2000, 2001. Colonne « avant intérêts » verte quatre fois de suite ; colonne « après intérêts » rouge.
 
@@ -245,7 +245,7 @@ Qu'est-ce qu'on en fait ? En 1980, on a dû chercher le motif. En 2000, pas beso
 
 > **ARCHIVE** — Les deux phrases surlignées l'une après l'autre. Puis le tableau d'équilibre : solde général, — 215 327 ; — 215 278. À l'écran, sans voix : « amélioration du solde : 49 millions de francs ».
 
-Les quatre cinquièmes partent en baisses d'impôts : la TVA perd un point, l'impôt sur le revenu et la taxe d'habitation baissent. Le reste, en dépenses. Et pour le déficit ? Le texte le dit aussi : il reste « à un niveau inchangé ».
+Les quatre cinquièmes partent en baisses d'impôts : la TVA perd un point, l'impôt sur le revenu et la taxe d'habitation baissent. Le reste, en dépenses. Et le déficit du budget de l'État ? Le texte le dit aussi : il est maintenu « à un niveau inchangé ».
 
 Autre chose, écrite dans le même projet. Une partie de cette recette y est classée « exceptionnelle » : elle ne reviendra pas. Les baisses d'impôts, elles, sont définitives.
 
@@ -374,7 +374,7 @@ Depuis 2024, plus aucun camp n'a de majorité. Et ça pèse, réellement : des e
 
 > **IMAGE** — Les 51 barres se colorent une à une selon la majorité qui a voté le budget : 42 d'une couleur, 9 d'une autre. Toutes sous le trait.
 
-Mais est-ce que ça explique cinquante et un ans ? On a repris les votes un par un, au Journal officiel. Sur cinquante et un budgets, quarante-deux ont été adoptés par une majorité absolue. Des majorités qui avaient les voix. De gauche comme de droite. Les quarante-deux sont en déficit.
+Mais est-ce que ça explique cinquante et un ans ? On a repris les budgets un par un, avec la composition de l'Assemblée au moment du vote. Sur cinquante et un budgets, quarante-deux ont été adoptés par une majorité absolue. Des majorités qui avaient les voix. De gauche comme de droite. Les quarante-deux sont en déficit.
 
 > **MUR** — **A COMPTÉ**, **NE SUFFIT PAS**.
 
@@ -394,11 +394,11 @@ Mais la découverte n'est pas là. La découverte, c'est le motif qui revient.
 
 > **IMAGE** — La courbe entière. Trois remontées s'éclairent : 1976–1980, 1993–2000, 2011–2018.
 
-Trois fois, la France a vraiment redressé ses comptes. À la fin des années soixante-dix, quand la Sécurité sociale était à sec. Dans les années quatre-vingt-dix, quand il fallait se qualifier pour l'euro. Après 2010, sous surveillance européenne. Trois fois, le dos au mur. Et d'abord en prélevant plus.
+Trois fois, la France a vraiment redressé ses comptes. À la fin des années soixante-dix, quand la Sécurité sociale était à sec. Dans les années quatre-vingt-dix, quand il fallait se qualifier pour l'euro. Après 2010, sous surveillance européenne. Trois fois, le dos au mur. Et deux fois sur trois, presque uniquement en prélevant plus.
 
-> **IMAGE** — Après chaque remontée, la courbe repart vers le bas : 1981, 2002, 2019. Trois pages s'affichent : le tableau de 1979, le projet de loi de 2000, la courbe des impôts de 2018.
+> **IMAGE** — Après chaque remontée, la courbe repart vers le bas : 1981, 2002, 2019. Les décisions, elles, sont datées de 1980, 2000 et 2018. Trois pages s'affichent : le tableau de 1979, le projet de loi de 2000, la courbe des impôts de 2018.
 
-Et à chaque fois que le mur s'est éloigné, elle a rendu une partie de ce qu'elle venait de gagner. 1981 : une recette qu'on laisse s'éteindre. 2000 : une cagnotte qu'on « restitue ». 2018 : des impôts qu'on rebaisse. Aucun de ces gestes n'explique le déficit à lui seul. On les a mesurés. Mais c'est le même geste.
+Et à chaque fois que le mur s'est éloigné, elle a rendu une partie de ce qu'elle venait de gagner. 1980 : la Sécurité sociale est redevenue excédentaire, et on laisse s'éteindre la recette qui fait cet excédent. 2000 : une cagnotte qu'on « restitue ». À partir de 2018 : des impôts qu'on rebaisse. Aucun de ces gestes n'explique le déficit à lui seul. On les a mesurés. Mais c'est le même geste.
 
 La France n'a pas un problème avec les mauvaises années. (pause) Elle a un problème avec les bonnes.
 
