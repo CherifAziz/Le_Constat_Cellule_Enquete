@@ -12,223 +12,223 @@
   "carton_titre_s": 4.0,
   "silence_final_s": 3.0
  },
- "total_mots": 4652,
- "voix_seule_s": 1533.6,
- "fin_derniere_sequence_s": 1662.1,
- "fin_avec_silence_s": 1665.1,
- "total_s": 1665.1,
+ "total_mots": 4761,
+ "voix_seule_s": 1569.6,
+ "fin_derniere_sequence_s": 1698.6,
+ "fin_avec_silence_s": 1701.6,
+ "total_s": 1701.6,
  "sequences": [
   {
    "acte": "Ouverture",
    "titre": "Ouverture",
-   "mots": 211,
-   "duree_s": 76.6,
+   "mots": 214,
+   "duree_s": 77.5,
    "debut_s": 0.0,
-   "fin_s": 76.6
+   "fin_s": 77.5
   },
   {
    "acte": "Acte I — Comment elle s'est enfermée",
    "titre": "1 · Les ciseaux",
-   "mots": 181,
-   "duree_s": 62.7,
-   "debut_s": 80.6,
-   "fin_s": 143.2
+   "mots": 186,
+   "duree_s": 64.3,
+   "debut_s": 81.5,
+   "fin_s": 145.9
   },
   {
    "acte": "Acte I — Comment elle s'est enfermée",
    "titre": "2 · La remontée",
-   "mots": 119,
-   "duree_s": 41.2,
-   "debut_s": 143.2,
-   "fin_s": 184.5
+   "mots": 131,
+   "duree_s": 45.2,
+   "debut_s": 145.9,
+   "fin_s": 191.1
   },
   {
    "acte": "Acte I — Comment elle s'est enfermée",
    "titre": "3 · Trente francs",
    "mots": 205,
    "duree_s": 75.1,
-   "debut_s": 184.5,
-   "fin_s": 259.5
+   "debut_s": 191.1,
+   "fin_s": 266.1
   },
   {
    "acte": "Acte I — Comment elle s'est enfermée",
    "titre": "4 · Novembre 1980",
    "mots": 190,
    "duree_s": 74.6,
-   "debut_s": 259.5,
-   "fin_s": 334.2
+   "debut_s": 266.1,
+   "fin_s": 340.8
   },
   {
    "acte": "Acte I — Comment elle s'est enfermée",
    "titre": "5 · Faisons le compte",
    "mots": 165,
    "duree_s": 57.9,
-   "debut_s": 334.2,
-   "fin_s": 392.1
+   "debut_s": 340.8,
+   "fin_s": 398.7
   },
   {
    "acte": "Acte I — Comment elle s'est enfermée",
    "titre": "6 · Ce que ces années laissent",
-   "mots": 183,
-   "duree_s": 63.3,
-   "debut_s": 392.1,
-   "fin_s": 455.4
+   "mots": 191,
+   "duree_s": 66.0,
+   "debut_s": 398.7,
+   "fin_s": 464.6
   },
   {
    "acte": "Acte II — Les occasions",
    "titre": "7 · Dos au mur",
-   "mots": 108,
-   "duree_s": 37.1,
-   "debut_s": 455.4,
-   "fin_s": 492.5
+   "mots": 116,
+   "duree_s": 39.7,
+   "debut_s": 464.6,
+   "fin_s": 504.4
   },
   {
    "acte": "Acte II — Les occasions",
    "titre": "8 · Printemps 2000",
-   "mots": 265,
-   "duree_s": 97.4,
-   "debut_s": 492.5,
-   "fin_s": 589.9
+   "mots": 276,
+   "duree_s": 101.0,
+   "debut_s": 504.4,
+   "fin_s": 605.4
   },
   {
    "acte": "Acte II — Les occasions",
    "titre": "9 · La colonne éteinte",
-   "mots": 93,
-   "duree_s": 32.2,
-   "debut_s": 589.9,
-   "fin_s": 622.0
+   "mots": 102,
+   "duree_s": 35.1,
+   "debut_s": 605.4,
+   "fin_s": 640.5
   },
   {
    "acte": "Acte II — Les occasions",
    "titre": "10 · Les promesses écrites",
-   "mots": 199,
-   "duree_s": 73.6,
-   "debut_s": 622.0,
-   "fin_s": 695.6
+   "mots": 203,
+   "duree_s": 74.9,
+   "debut_s": 640.5,
+   "fin_s": 715.4
   },
   {
    "acte": "Acte II — Les occasions",
    "titre": "11 · Troisième fois",
-   "mots": 125,
-   "duree_s": 44.7,
-   "debut_s": 695.6,
-   "fin_s": 740.3
+   "mots": 103,
+   "duree_s": 37.0,
+   "debut_s": 715.4,
+   "fin_s": 752.4
   },
   {
    "acte": "Acte III — Le mur",
    "titre": "12 · Le levier déjà tiré",
-   "mots": 121,
-   "duree_s": 40.9,
-   "debut_s": 740.3,
-   "fin_s": 781.2
+   "mots": 117,
+   "duree_s": 39.6,
+   "debut_s": 752.4,
+   "fin_s": 791.9
   },
   {
    "acte": "Acte III — Le mur",
    "titre": "13 · Où est l'argent",
    "mots": 81,
    "duree_s": 28.2,
-   "debut_s": 781.2,
-   "fin_s": 809.4
+   "debut_s": 791.9,
+   "fin_s": 820.1
   },
   {
    "acte": "Acte III — Le mur",
    "titre": "14 · Septembre 2023",
-   "mots": 115,
-   "duree_s": 39.9,
-   "debut_s": 809.4,
-   "fin_s": 849.4
+   "mots": 117,
+   "duree_s": 40.6,
+   "debut_s": 820.1,
+   "fin_s": 860.7
   },
   {
    "acte": "Acte III — Le mur",
    "titre": "15 · L'effort retiré",
-   "mots": 154,
-   "duree_s": 52.8,
-   "debut_s": 849.4,
-   "fin_s": 902.1
+   "mots": 157,
+   "duree_s": 53.8,
+   "debut_s": 860.7,
+   "fin_s": 914.5
   },
   {
    "acte": "Acte III — Le mur",
    "titre": "16 · Le compte",
-   "mots": 285,
-   "duree_s": 110.0,
-   "debut_s": 902.1,
-   "fin_s": 1012.1
+   "mots": 279,
+   "duree_s": 108.0,
+   "debut_s": 914.5,
+   "fin_s": 1022.5
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "17 · Stockholm",
    "mots": 225,
    "duree_s": 81.2,
-   "debut_s": 1012.1,
-   "fin_s": 1093.3
+   "debut_s": 1022.5,
+   "fin_s": 1103.6
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "18 · Le vent dans le dos",
-   "mots": 211,
-   "duree_s": 71.1,
-   "debut_s": 1093.3,
-   "fin_s": 1164.3
+   "mots": 213,
+   "duree_s": 71.7,
+   "debut_s": 1103.6,
+   "fin_s": 1175.4
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "19 · Ce qui se transpose",
-   "mots": 130,
-   "duree_s": 44.9,
-   "debut_s": 1164.3,
-   "fin_s": 1209.2
+   "mots": 140,
+   "duree_s": 48.2,
+   "debut_s": 1175.4,
+   "fin_s": 1223.5
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "20 · Une pension",
-   "mots": 239,
-   "duree_s": 81.8,
-   "debut_s": 1209.2,
-   "fin_s": 1291.0
+   "mots": 266,
+   "duree_s": 90.7,
+   "debut_s": 1223.5,
+   "fin_s": 1314.2
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "21 · Une addition",
-   "mots": 313,
-   "duree_s": 107.7,
-   "debut_s": 1291.0,
-   "fin_s": 1398.6
+   "mots": 322,
+   "duree_s": 110.7,
+   "debut_s": 1314.2,
+   "fin_s": 1424.9
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "22 · Deux personnes de soixante ans",
    "mots": 212,
    "duree_s": 72.4,
-   "debut_s": 1398.6,
-   "fin_s": 1471.0
+   "debut_s": 1424.9,
+   "fin_s": 1497.2
   },
   {
    "acte": "Acte IV — Ce qui pourrait marcher",
    "titre": "23 · Quatorze ans plus tard",
-   "mots": 171,
-   "duree_s": 58.4,
-   "debut_s": 1471.0,
-   "fin_s": 1529.4
+   "mots": 175,
+   "duree_s": 59.7,
+   "debut_s": 1497.2,
+   "fin_s": 1556.9
   },
   {
    "acte": "Conclusion",
    "titre": "Conclusion",
-   "mots": 351,
-   "duree_s": 132.7,
-   "debut_s": 1529.4,
-   "fin_s": 1662.1
+   "mots": 375,
+   "duree_s": 141.6,
+   "debut_s": 1556.9,
+   "fin_s": 1698.6
   }
  ],
  "plages_hors_voix": [
   {
    "titre": "Carton de titre (hors voix)",
-   "debut_s": 76.6,
-   "fin_s": 80.6
+   "debut_s": 77.5,
+   "fin_s": 81.5
   },
   {
    "titre": "Silence final (hors voix)",
-   "debut_s": 1662.1,
-   "fin_s": 1665.1
+   "debut_s": 1698.6,
+   "fin_s": 1701.6
   }
  ]
 }

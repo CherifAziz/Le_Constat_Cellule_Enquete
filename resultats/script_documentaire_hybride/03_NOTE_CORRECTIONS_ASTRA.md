@@ -1,0 +1,71 @@
+# 03 · Note des corrections d'Astra intégrées
+
+**22 novembre 2026.** Cette note fait correspondre chaque correction de la contre-expertise d'Astra (commit [`938fc95`](https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/tree/938fc95fa4c2265319438fa47124d917e8b1ab4a/resultats/audit_independant_hybride)) à l'endroit du script qui l'applique. Les numéros de séquence sont ceux du [script annoté](02_SCRIPT_ANNOTE.md). Ils diffèrent de ceux de l'architecture de `2cbc221` : la table de passage est dans [00_ARCHITECTURE_CORRIGEE.md](00_ARCHITECTURE_CORRIGEE.md), §2.
+
+Statuts : **appliquée**, **appliquée par retrait** (le passage visé n'existe plus), **en attente** (dépend d'un événement extérieur ou de la production).
+
+Lien court vers les rapports : `A/0x` = [rapport 0x d'Astra](https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/tree/938fc95fa4c2265319438fa47124d917e8b1ab4a/resultats/audit_independant_hybride).
+
+## 1. Corrections indispensables (A/06, premier tableau)
+
+| # | Correction exigée | Où et comment le script l'applique | Statut |
+|---|---|---|---|
+| 1 | Supprimer la jauge 130–165 / 60–70 / 40–50. Carton de besoin daté, puis variation du ratio de dette 2029 → 2030 dans un même modèle, avec ligne zéro : +3,8 / +2,0 / +2,6 | Séq. 16 « Le compte ». Le carton du besoin vient en premier, puis un graphique unique en points de PIB avec ligne zéro « la hausse s'arrête » et trois barres issues d'A15. La voix arrondit à « près de quatre », « deux » et « environ deux et demi ». Elle dit « simulations, pas des prédictions » et « la dette continue de monter ». Aucun remplissage de jauge en fin de film | appliquée |
+| 2 | 135–165 Md€ : niveau atteint en 2030, taille du PIB 2025, depuis 6,5 % en 2027 sans les mesures du projet. 3 % et équilibre sont des cibles distinctes | Séq. 16. La voix dit l'objectif (« que la dette cesse de grossir plus vite que l'économie »), le point de départ (« scénario sans nouvelles mesures »), l'échelle (« à la taille de l'économie de 2025 ») et la nature (« un niveau, atteint par étapes, puis tenu », « pas 165 milliards de plus chaque année »). Le déficit de 6,5 % en 2027 est au carton. Les trois cibles sont nommées comme différentes, sans échelle de paliers, car dans A15 viser 3 % coûte un peu moins que stabiliser. Les variantes avec les mesures du budget restent hors film | appliquée |
+| 3 | Paniers : étiqueter K1 et K5, effets directs, décote hypothétique ; réserver le CIR de K5 ; écarter « au mieux la moitié » et « comme les précédentes » | Séq. 16. Seul K1 est utilisé, sous le nom « portefeuille central : 38 mesures chiffrées ». La décote apparaît au carton avec ses coefficients 90/75/50 % et le mot « hypothèse ». La voix dit « dans une hypothèse prudente ». K5 n'apparaît pas, donc la réserve sur le CIR est sans objet. Les deux formules interdites sont absentes (contrôle par recherche de chaînes) | appliquée |
+| 4 | Gel des pensions : 37–45 % ne porte pas sur les retraités modestes. Le classement concerne des ménages par niveau de vie ; préciser le champ de 2023 et la réforme du calendrier | Séq. 20. La voix dit « si l'on classe les ménages par niveau de vie, près de quatre euros sur dix de cet effort pèsent sur la moitié la plus modeste. Près de la moitié, sur les quatre dixièmes suivants ». Le carton donne 37–40 % et 47–48 % pour le gel des seules pensions, recalcul S04. La pension de 1 300 € est déclarée illustrative et non classée. Pour 2023, voir la séq. 14 et la ligne 6 | appliquée |
+| 5 | TVA, CSG, restauration : distinguer taux normal, taux réduits et CSG. Pas de « 3,9 Md€ pour la restauration seule ». Le 56 % concerne 2009 | Séq. 21. La voix dit le retour au taux normal pour la restauration « avec celui de certains services à la personne ». Le carton donne 4,6 Md€ en 2027 selon la Cour ; la valeur de 3,9 n'est pas utilisée. La voix dit « un point de plus sur le seul taux normal », 7,5 Md€. La CSG est donnée comme « un montant du même ordre, en théorie », et ses 8,95 Md€ sont au carton avec l'assiette, les exonérations et la déductibilité. Le 56 % est attaché à la baisse de 2009 et la voix dit « ce qui ne dit pas ce que ferait une hausse ». Payeurs, transmission aux prix et compensation (2 Md€ à l'écran) sont montrés | appliquée |
+| 6 | Emploi : garder 44,4 / 67,6 % ; réserver les 0,8–2,7 points à l'alignement tous âges ; distinguer l'effet causal à 60 ans de ce qui est projeté | Séq. 22. La voix dit 44,4 / 67,6 % (« un peu plus de quatre sur dix », « près de sept sur dix ») et +16 à 17 points à 60 ans après 2010 ; le temps partiel est au carton. Les 0,8–2,7 points ne figurent nulle part. La voix dit « on ne peut pas inscrire ce levier comme une recette garantie » et nomme les indicateurs à suivre. Les deux personnages montrent que l'effet vient surtout du maintien dans l'emploi | appliquée |
+| 7 | Suède : pas de programme complet voté en une fois dès 1994 ni de 94 % sur les moyens. Frise 1994 → printemps 1995 → avril 1996 (8 %) → 1997 → 1998 | Séq. 17. La frise reprend exactement ces dates. La voix dit « le programme est renforcé plusieurs fois » et « en avril 1996, il atteint 8 % ». Le 94 % est attribué à Persson en août 1995, sur l'objectif : « L'objectif. Pas chaque coupe. » La cible de 2 % n'est pas dite ; Astra juge l'objectif d'équilibre suffisant pour la voix | appliquée |
+| 8 | Engagements : Cour 2019 ; 31 cibles définies comme dans A08 (23 années) ; la dérive moyenne n'entre dans aucun panier ; gouvernance à rendement zéro | Séq. 10 : Cour 2019 citée ; le carton porte « 31 cibles échues · 23 années d'exécution · trois exercices au-delà de l'année budgétaire de départ » ; une phrase dit qu'un écart mélange prévision, crise et décision. Séq. 23 : « Est-ce que ça rapporte ? Pas un euro », et le carton indique « rendement budgétaire propre : zéro ». Les 63 Md€ et le 0,6 point sont absents | appliquée |
+| 9 | Pas de dosage mixte présenté comme une nécessité arithmétique, ni de date univoque pour le gel en volume (2035) | Conclusion : « C'est une position. Pas un calcul. » ; « Dans quelles proportions ? Les preuves ne le disent pas. » La combinaison est justifiée par la répartition du risque et du prix, selon la formulation d'Astra (A/01). Le scénario à volume constant et sa date sont retirés. Séq. 12 : « Ni l'un ni l'autre n'est impossible sur le papier » | appliquée |
+
+## 2. Retouches qui évitent une erreur de montage (A/06, deuxième liste)
+
+| Retouche | Application | Statut |
+|---|---|---|
+| Séq. 7 (ancienne) : 1993 « record à cette date ». Légende « Suède 1993 / France 2025 » | Séq. 7 : « le déficit le plus élevé depuis 1975, à cette date », avec un carton qui donne 2009 et 2020. Séq. 17 : la voix compare à « déficit français de 2025 », et le carton porte « Suède, 1993 · France, 2025 » | appliquée |
+| Séq. 13 (ancienne) : l'exercice porte sur le déficit 2025 à PIB constant ; Eurostat couvre les 27 ; pas de seuil infranchissable | Séq. 12 : « refermer tout le déficit de cette année-là » ; le carton précise « à PIB et comportements inchangés » et « vingt-sept pays de l'Union ». Aucun « plafond » | appliquée |
+| Séq. 16 (ancienne) : nommer le scrutin du 4 novembre, attribuer les 16 Md€ au ministre ; 2018 = 10,3 bruts / 6,4 nets ex ante ; sondage optionnel | Séq. 15 : « Selon le ministre, sur 26 milliards… 16 ». Pour 2018, la voix dit « plus de 6 milliards, une fois déduites les compensations annoncées » ; le carton donne 10,3 bruts, 6,4 nets et « chiffrages faits à l'avance ». Le sondage est coupé | appliquée |
+| Séq. 18–19 (anciennes) : télétexte à cinq ans attribué à Henriksson, reconstitution signalée ; une seule définition du chômage ; effet des exportations ; au moins un coût social ; pas d'hôtel | Séq. 17 : reconstitution signalée, Henriksson nommé, « taux à cinq ans ». Séq. 18 : chômage harmonisé de l'OCDE seulement (« au-dessus de 10 % jusqu'en 1997 ») ; les débouchés extérieurs sont distingués des exportations au carton ; trois coûts sociaux (chômage, emploi des jeunes sans attribution, services communaux) et le coût électoral, sans attribution. Pas d'hôtel | appliquée |
+| Séq. 20–22 (anciennes) : le plafond comme outil de suivi ; l'emploi comme résultat à atteindre ; deux visages et retour de la pièce de 2005 au lieu de quatre exposés ; objectif 27:50 | Séq. 19 : « Ils n'ont pas fait le redressement. Ils ont servi d'outil de suivi pour la suite. » Séq. 22 : deux personnes de 60 ans, l'emploi mesuré comme résultat. Séq. 23 : retour de la page de la Cour. Durée calculée : 27:45 (voir 06) | appliquée |
+
+## 3. Réserves des rapports de preuve, au-delà de la feuille 06
+
+| Réserve | Rapport | Application |
+|---|---|---|
+| Le déficit est un besoin de financement, pas l'émission brute de dette ; dater « en 2025 » | A/05, ouverture | « En 2025, sur 100 euros de dépense publique, près de 9 n'étaient pas couverts par les recettes. » Le mot « emprunté » n'est pas utilisé |
+| Les 23 Md€ de 2025 sont des mesures de recettes annoncées, sans lien un pour un avec la baisse du déficit | A/05 | Séq. 12 : « la France annonce 23 milliards d'euros de hausses de prélèvements ». Pas de « un tiers ». Le parallèle avec 1979 est seulement montré |
+| 57 € sur 100 « en 2024 » ; la part dans la dépense n'est pas une part du déficit | A/05 | Séq. 13 : « En 2024, sur 100 euros de dépense publique, 57… » Aucune attribution au déficit |
+| Retraites 2023 : 9,7–11,8 Md€ pour les régimes de retraite en 2030, calendrier d'origine ; censure 278 sur 287 ; suspension par l'art. 105 de la LFSS 2026 | A/03, A/05 | Séq. 14 : « pour les régimes de retraite », « une dizaine de milliards », « chiffrages cités par la Cour des comptes ». Le carton nomme le calendrier d'origine. La voix dit « échoue à neuf voix », le carton donne 278 sur 287. Pour la suspension, carton art. 105. Aucun lien n'est fait avec la survie d'un gouvernement. « Commence par coûter » est retiré, car il n'est documenté que pour le régime général |
+| 42 budgets : l'absence de majorité n'est pas une condition nécessaire du déficit ; le chiffre ne dit pas qui a consenti à chaque mesure | A/05 | Séq. 15 : « Le blocage complique le problème d'aujourd'hui. Il ne l'a pas créé. » Carton : « classement d'après les sièges et les scrutins, pas un décompte des voix » |
+| Suède : moitié-moitié ; « deux tiers » réfuté pour le programme final | A/04 §1 | Séq. 17 : « à peu près moitié en économies, moitié en recettes ». « Deux tiers » est absent |
+| Suède : la dépréciation, les débouchés et la fin des charges bancaires ont facilité le redressement, sans part causale chiffrée | A/04 §3 | Séq. 18 : la voix énumère, sans part chiffrée. « La reprise était déjà engagée » n'est pas dit, pour ne pas surcharger |
+| Suède : la réforme des retraites ne peut expliquer par ses prestations le redressement 1994–98 ; un effet de confiance n'est pas mesuré | A/04 §4 | Séq. 18 : « Ses effets sur les pensions versées viennent après ce redressement. » La formule « aucun rôle » est écartée |
+| Suède : plus de 8 des 11¾ points d'amélioration en 1995–96, avant les plafonds | A/04 §4 | Séq. 19, carton et voix |
+| Suède : France dans l'euro, ni BCE ni débouchés, dette plus lourde ; aucun taux de coupe, délai ou gain de crédibilité transposable | A/04 §5 | Séq. 18–19 : « La méthode suédoise ne promet pas le résultat suédois » |
+| Dépenses : dépenses évitées, charges transférées et économies consolidées sont distinctes | A/02 §4, A/03 | Séq. 20, paragraphe sur les fausses économies (soins, dotation communale) et carton « une charge transférée n'est pas une économie publique consolidée » |
+| Fonctions support : plafond d'exercice de 0,54 Md€ | A/03 | Séq. 13 : « au mieux un demi-milliard » |
+| TVA : −0,7 / −0,4 % concernent tous les taux ; aucun effet national en emplois identifié | A/03 §1 | Ces chiffres ne sont pas utilisés. Séq. 21 : la voix décrit les canaux sans chiffrer d'effet sur l'emploi |
+| Prix de la vitesse : identité sous hypothèse ; pas de date optimale | A/05 | Conclusion : « Aller trop vite peut freiner l'activité… » Le texte dit « peut » et ne propose aucune date |
+| Italie : pas un modèle | A/04 §5, V6 | Séq. 9, inchangée par rapport à la V6 |
+
+## 4. Conditions de millésime (A/06, troisième tableau)
+
+| Événement | Ce que le script prévoit | Statut |
+|---|---|---|
+| Vote ou modification du PLF et du PLFSS 2027 | Les cartons des séq. 15 et 16 sont datés du 22 novembre 2026. Si le budget est adopté, il faut rejouer ensemble le besoin, le portefeuille et le graphique de pente sur la même référence, et reclasser les lignes devenues du droit. L'ouverture et la séq. 15 citent le vote du 4 novembre comme un fait daté, qui ne vieillit pas | **en attente** du vote |
+| Révision des comptes ou nouvelles prévisions | Il faudra geler ensemble le PIB, la dette, le déficit et les taux. Les chiffres de 2025 décrits comme tels (9 sur 100, 46,0 %) restent valables comme description de 2025 | en attente |
+| Choix d'une mesure précise de TVA, de CSG ou sur les pensions | Le script garde des exemples conditionnels (« si tout était répercuté », « en théorie ») et ne donne aucun classement par décile pour la TVA ou la CSG | appliquée (exemples conditionnels) |
+| Premier montage chronométré | Il faudra vérifier qu'un auditeur sait expliquer la ligne zéro, la différence de payeur entre TVA et CSG, et ce que mesure le 94 % suédois. Les temps de lecture des archives, dont la page de 1980, sont prévus et comptés | **en attente** de l'enregistrement |
+
+## 5. Directives du commanditaire non couvertes par Astra
+
+| Directive | Application |
+|---|---|
+| Trois questions, posées et reprises | Ouverture (annoncées), conclusion (trois réponses), puis trois questions pour le spectateur |
+| Prise de position | Conclusion, explicitement : « C'est une position. Pas un calcul. » |
+| Stabilisation, 3 % et équilibre distingués | Séq. 16 |
+| Situations concrètes dans le dernier acte | Une pension, une addition, deux personnes de 60 ans, une décision contrôlée quatorze ans après |
+| Mécanisme, délai, conséquences, objection pour chaque solution | Les quatre situations suivent cet ordre. Chacune finit par sa meilleure objection |
+| Silences de lecture des archives | Lignes **LECTURE** du script annoté, 25 s au total, comptées dans la durée |
