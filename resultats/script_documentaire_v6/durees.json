@@ -1,142 +1,161 @@
 {
- "total_mots": 3755,
- "total_s": 1311.9,
+ "titre": "Avant la ligne",
+ "version": "V6 finale",
+ "date": "22 novembre 2026",
+ "nature": "estimation calculée, non mesurée sur un enregistrement",
+ "hypotheses": {
+  "mots_par_minute": 182.0,
+  "pause_s": 1.0,
+  "silence_s": 2.5,
+  "respiration_entre_paragraphes_s": 0.5,
+  "carton_titre_s": 4.0,
+  "silence_final_s": 3.0
+ },
+ "total_mots": 3745,
+ "voix_seule_s": 1234.6,
+ "fin_derniere_sequence_s": 1306.6,
+ "fin_avec_silence_s": 1309.6,
+ "total_s": 1309.6,
  "sequences": [
   {
    "acte": "Ouverture",
    "titre": "Ouverture",
-   "mots": 155,
-   "duree_s": 56.1,
+   "mots": 163,
+   "duree_s": 58.7,
    "debut_s": 0.0,
-   "fin_s": 60.1
+   "fin_s": 58.7
   },
   {
    "acte": "Acte I — La chute et la remontée",
    "titre": "1 · Le choc",
-   "mots": 168,
-   "duree_s": 56.9,
-   "debut_s": 60.1,
-   "fin_s": 117.0
+   "mots": 180,
+   "duree_s": 60.8,
+   "debut_s": 62.7,
+   "fin_s": 123.6
   },
   {
    "acte": "Acte I — La chute et la remontée",
    "titre": "2 · L'élan",
-   "mots": 281,
-   "duree_s": 99.1,
-   "debut_s": 117.0,
-   "fin_s": 216.1
+   "mots": 309,
+   "duree_s": 108.4,
+   "debut_s": 123.6,
+   "fin_s": 231.9
   },
   {
    "acte": "Acte I — La chute et la remontée",
    "titre": "3 · La remontée",
-   "mots": 195,
-   "duree_s": 67.8,
-   "debut_s": 216.1,
-   "fin_s": 283.9
+   "mots": 202,
+   "duree_s": 70.1,
+   "debut_s": 231.9,
+   "fin_s": 302.0
   },
   {
    "acte": "Acte II — 1980",
    "titre": "4 · Trente francs",
-   "mots": 240,
-   "duree_s": 82.6,
-   "debut_s": 283.9,
-   "fin_s": 366.5
+   "mots": 233,
+   "duree_s": 80.3,
+   "debut_s": 302.0,
+   "fin_s": 382.4
   },
   {
    "acte": "Acte II — 1980",
    "titre": "5 · Novembre 1980",
-   "mots": 211,
-   "duree_s": 76.1,
-   "debut_s": 366.5,
-   "fin_s": 442.6
+   "mots": 205,
+   "duree_s": 74.1,
+   "debut_s": 382.4,
+   "fin_s": 456.4
   },
   {
    "acte": "Acte II — 1980",
    "titre": "6 · 1981",
-   "mots": 239,
-   "duree_s": 82.8,
-   "debut_s": 442.6,
-   "fin_s": 525.4
+   "mots": 263,
+   "duree_s": 90.7,
+   "debut_s": 456.4,
+   "fin_s": 547.1
   },
   {
    "acte": "Acte II — 1980",
    "titre": "7 · Deux récits",
-   "mots": 115,
-   "duree_s": 39.9,
-   "debut_s": 525.4,
-   "fin_s": 565.3
+   "mots": 106,
+   "duree_s": 37.4,
+   "debut_s": 547.1,
+   "fin_s": 584.6
   },
   {
    "acte": "Acte III — La deuxième fois",
    "titre": "8 · Sous les comptes",
-   "mots": 193,
-   "duree_s": 66.1,
-   "debut_s": 565.3,
-   "fin_s": 631.4
+   "mots": 228,
+   "duree_s": 77.7,
+   "debut_s": 584.6,
+   "fin_s": 662.2
   },
   {
    "acte": "Acte III — La deuxième fois",
    "titre": "9 · La facture",
-   "mots": 207,
-   "duree_s": 69.7,
-   "debut_s": 631.4,
-   "fin_s": 701.2
+   "mots": 203,
+   "duree_s": 68.4,
+   "debut_s": 662.2,
+   "fin_s": 730.7
   },
   {
    "acte": "Acte III — La deuxième fois",
    "titre": "10 · Printemps 2000",
-   "mots": 345,
-   "duree_s": 118.7,
-   "debut_s": 701.2,
-   "fin_s": 819.9
+   "mots": 370,
+   "duree_s": 127.0,
+   "debut_s": 730.7,
+   "fin_s": 857.6
   },
   {
    "acte": "Acte IV — Pourquoi ça dure",
    "titre": "11 · La colonne éteinte",
-   "mots": 387,
-   "duree_s": 132.6,
-   "debut_s": 819.9,
-   "fin_s": 952.5
+   "mots": 332,
+   "duree_s": 114.0,
+   "debut_s": 857.6,
+   "fin_s": 971.6
   },
   {
    "acte": "Acte IV — Pourquoi ça dure",
    "titre": "12 · Les dates",
-   "mots": 218,
-   "duree_s": 75.4,
-   "debut_s": 952.5,
-   "fin_s": 1027.8
+   "mots": 204,
+   "duree_s": 72.3,
+   "debut_s": 971.6,
+   "fin_s": 1043.9
   },
   {
    "acte": "Acte IV — Pourquoi ça dure",
    "titre": "13 · Les crises",
-   "mots": 211,
-   "duree_s": 74.6,
-   "debut_s": 1027.8,
-   "fin_s": 1102.4
+   "mots": 232,
+   "duree_s": 81.5,
+   "debut_s": 1043.9,
+   "fin_s": 1125.3
   },
   {
    "acte": "Acte IV — Pourquoi ça dure",
-   "titre": "14 · L'écart",
-   "mots": 174,
-   "duree_s": 60.4,
-   "debut_s": 1102.4,
-   "fin_s": 1162.8
-  },
-  {
-   "acte": "Acte IV — Pourquoi ça dure",
-   "titre": "15 · Le blocage",
-   "mots": 109,
-   "duree_s": 37.4,
-   "debut_s": 1162.8,
-   "fin_s": 1200.2
+   "titre": "14 · Le blocage",
+   "mots": 128,
+   "duree_s": 44.7,
+   "debut_s": 1125.3,
+   "fin_s": 1170.0
   },
   {
    "acte": "Conclusion",
    "titre": "Conclusion",
-   "mots": 307,
-   "duree_s": 108.7,
-   "debut_s": 1200.2,
-   "fin_s": 1308.9
+   "mots": 387,
+   "duree_s": 136.6,
+   "debut_s": 1170.0,
+   "fin_s": 1306.6
+  }
+ ],
+ "plages_hors_voix": [
+  {
+   "titre": "Carton de titre (hors voix)",
+   "debut_s": 58.7,
+   "fin_s": 62.7
+  },
+  {
+   "titre": "Silence final (hors voix)",
+   "debut_s": 1306.6,
+   "fin_s": 1309.6
   }
  ]
 }
