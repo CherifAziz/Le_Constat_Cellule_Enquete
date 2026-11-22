@@ -6,7 +6,7 @@
 
 1. **Un objet concret toutes les deux minutes.** Une fiche de paie, une page, un projet de loi, un tableau de scrutin, un écran de télétexte. Jamais deux séquences de suite sans chose à regarder.
 2. **Chaque acte se termine sur la question du suivant.** Le spectateur ne doit jamais se demander pourquoi le film continue.
-3. **Trois chiffres dits au plus par séquence**, dates mises à part. Les autres sont à l'écran.
+3. **Trois chiffres dits au plus par séquence**, dates mises à part ; une fourchette ou une comparaison compte pour un. Seule exception : les quatre portes, un chiffre chacune. Les autres sont à l'écran.
 
 ---
 
@@ -45,7 +45,7 @@ Une page floutée, datée de novembre 1980 : le rendez-vous. Puis la promesse en
 | IV | Un espoir, puis sa limite, puis ce qui reste | « Ne dites jamais que ça ne fera pas mal » ; le vent dans le dos | Les quatre portes : le risque de catalogue |
 | Conclusion | « Alors, qu'est-ce qu'on fait ? » | Les trois questions | La position du film, si elle ressemble à un programme |
 
-Le creux voulu du film est à 19:50 : tout ce qui est chiffré ne fait pas la moitié du chemin. C'est le moment le plus sombre, et il doit l'être. Il est suivi à moins de trente secondes par la phrase « Un pays l'a fait ». Ne pas intercaler de commentaire entre les deux.
+Le creux voulu du film est à 19:50 : les mesures chiffrées, toutes votées, font au mieux la moitié du chemin. C'est le moment le plus sombre, et il doit l'être. Il est suivi à moins de trente secondes par la phrase « Un pays l'a fait ». Ne pas intercaler de commentaire entre les deux.
 
 ## 3. Les huit scènes fortes
 
@@ -113,8 +113,8 @@ Aucun responsable politique français n'est montré comme personnage. Les décis
 | **1:30 – 2:50**, les ciseaux | Deux courbes et deux pourcentages juste après une ouverture rapide | Une seule image animée ; les préretraites comme exemple concret dès la quarantième seconde de la séquence |
 | **7:25 – 8:45**, ce que ces années laissent | Deux sujets (le travail, les intérêts) et une leçon : séquence de liaison | Commencer par l'ouvrier, pas par l'idée. La leçon tient en une phrase |
 | **11:40 – 14:45**, séquences 9 à 12 | Quatre constats à la suite : effet de liste, et sentiment que le film a déjà conclu | Les lier par une seule idée, « ce qu'elle a essayé pour se contraindre » : la colonne, la règle, les dates. Une respiration après la règle de 2005 |
-| **14:45 – 15:55**, le plafond | 23 milliards, un tiers, un classement européen | Le parallèle avec 1979 porté par l'image ; un seul montant à la voix si l'écoute le demande |
-| **18:15 – 19:25**, l'effort retiré | Trois dates, trois montants, un sondage | C'est la séquence la plus chargée. Le sondage est le premier élément à couper |
+| **14:45 – 15:55**, le levier déjà tiré | 23 milliards, un tiers, puis une échelle européenne | Le parallèle avec 1979 porté par l'image ; un seul montant à la voix si l'écoute le demande |
+| **18:15 – 19:25**, l'effort retiré | Trois dates, trois montants, un sondage | C'est la séquence la plus chargée. Trois chiffres à la voix (458 à zéro, dix milliards, 42 sur 51) ; les 16 milliards et le sondage à l'écran |
 | **23:15 – 26:05**, les quatre portes | Le plus grand risque du film : 2 min 50 de catalogue, à la vingt-troisième minute | Même gabarit pour chaque porte ; un visage par porte ; chaque porte se ferme sur son objection, dite par le film lui-même ; la jauge qui monte donne une progression |
 | **26:45**, la conclusion | Que la position du film soit entendue comme un programme politique | La dire en une phrase, précédée de « si on nous demande » ; enchaîner tout de suite sur ce que ça coûte |
 | Tout le film | Le sentiment d'impuissance | La Suède, puis l'emploi des 60–64 ans qui remonte de 11 à 44 % : deux preuves que les choses bougent |
@@ -136,7 +136,7 @@ Douze, pas un de plus.
 | 42 sur 51 | Ce n'est pas le blocage |
 | 57 euros sur 100 | Où est l'argent |
 | 2023 → 2030 | Le coût avant le gain |
-| 130 à 165 ; 60 ; 40 | La taille, et ce qui manque |
+| 130 à 165 ; 60 à 70 ; 40 à 50 | La taille, et ce qui manque |
 | 44 % contre 68 % | Le levier le plus lourd |
 | Trois questions | Ce qu'on emporte |
 

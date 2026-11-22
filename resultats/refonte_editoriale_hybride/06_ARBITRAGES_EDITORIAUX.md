@@ -39,7 +39,8 @@ Ce que cette architecture abandonne en connaissance de cause.
 |---|---|---|
 | **Refaire une loi à partir de trois épisodes.** L'audit indépendant avait jugé critique « trois fois le même geste » | Le fil du film (« elle se redresse par l'impôt, sous échéance ») s'en approche | Chaque maillon est un fait daté ou une borne ; « à chaque fois, une échéance » est dit comme un constat sur trois cas, jamais comme une cause ([02](02_PROMESSE_ET_THESE.md), §4) |
 | **Le parallèle entre 1979 et 2025** (une contribution temporaire dans les deux cas) | Il est frappant, donc tentant | Le montrer, ne pas le commenter. Le sort de la contribution de 2025 n'est pas tranché |
-| **Présenter comme disparues les conditions des redressements passés** | L'acte III dit que l'impôt est « au plafond » | La voix donne la borne arithmétique, pas un verdict. La France est de nouveau sous procédure européenne depuis juillet 2024 : le film le dit |
+| **Présenter comme disparues les conditions des redressements passés** | L'acte III peut laisser entendre que l'impôt est « au plafond » | La voix donne la borne arithmétique, pas un verdict, et sa symétrique sur la dépense. La France est de nouveau sous procédure européenne depuis juillet 2024 : le film le dit |
+| **Faire de la « tenue » une nouvelle loi** | La position du film (« les engagements écrits n'ont pas tenu ») ressemble à l'idée d'un pays qui se relâche après chaque effort, que l'audit indépendant a testée et n'a pas retrouvée | S'en tenir à ce qui est compté : la règle de 2005, les 31 cibles, la dérive à trois ans, l'absence d'excédent avant intérêts depuis 2002. Jamais « toujours », jamais « à chaque fois » |
 | **Des chiffres de solutions qui n'ont pas été contre-expertisés** | Les portefeuilles de mesures ont passé une recette avec réserves | Un audit indépendant des actes III et IV avant l'écriture (§6) |
 | **Des faits suédois lus une seule fois** | La vérification du 22 novembre comble quatre lacunes, sans contre-lecture | Ils sont marqués dans [04](04_SOLUTIONS_ET_SUEDE.md). Aucun n'entre dans le script sans relecture de la page |
 | **L'accusation de parti pris** | Le film nomme des payeurs : retraités, contribuables, entreprises | Il le fait pour chaque porte, y compris celles qui plaisent à chaque camp, et dit l'objection lui-même |
@@ -97,7 +98,7 @@ Dans l'ordre où elles engagent l'écriture. Une recommandation est donnée à c
 ## 6. Avant d'écrire le script
 
 1. **Valider ou amender** les décisions du §1 et trancher les questions 1 à 5 du §5 : elles déterminent la conclusion.
-2. **Faire auditer [04](04_SOLUTIONS_ET_SUEDE.md) par l'équipe indépendante**, en priorité : la fourchette de l'effort, les deux totaux de mesures (62 et 41), les cinq bornes, et tout ce qui est marqué **[W]**.
+2. **Faire auditer [04](04_SOLUTIONS_ET_SUEDE.md) par l'équipe indépendante**, en priorité : la fourchette de l'effort, les totaux de mesures (62 et 71 si adoptées ; 41 et 47 après décote), les cinq bornes, et tout ce qui est marqué **[B]** ou **[W]**.
 3. **Relire à l'origine** les pièces nouvelles de l'acte III : scrutin n° 1240 du 20 mars 2023 ; rapport de la Cour des comptes sur le calendrier financier de la réforme de 2023 ; rapport du Sénat n° 232 (2018-2019) sur les mesures de décembre 2018 ; compte rendu de la séance du 4 novembre 2026 pour les 16 milliards ; sondage du 15 juillet 2025.
 4. **Relire les pages** du discours de Persson (1995) et du document de Henriksson (2007) avant de citer.
 5. **Mettre à jour** les chiffres de 2025–2027 selon le sort du budget.

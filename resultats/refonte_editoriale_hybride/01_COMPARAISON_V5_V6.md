@@ -65,7 +65,7 @@ Six qualités réelles, à garder dans leur principe.
 
 ### Fragile : à vérifier de nouveau avant tout réemploi
 
-- « Le pays de l'Union qui prélève le plus » : vrai en 2025, faux en 2024.
+- « Le pays de l'Union qui prélève le plus » : vrai en 2025, faux en 2024, et contrôlé sur les 13 à 14 pays de la base de la cellule seulement.
 - 1 100 euros d'intérêts par habitant : calcul sur une prévision.
 - L'hôtel « infesté de cafards » de New York et la coopération avec le Parti du centre « écrite » par le gouvernement suédois : non vérifiés dans les pièces lues par la cellule.
 - Le chômage suédois « à 8 %, et à plus de 12 % » : aucune pièce lue ; la série harmonisée donne 11,7 % en 1996.

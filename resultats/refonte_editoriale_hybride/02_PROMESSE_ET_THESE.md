@@ -33,9 +33,11 @@ Deux engagements de méthode, hérités de la V6, font partie de la promesse : l
 
 ## 3. La réponse envisagée
 
-### En une phrase
+### En bref, et c'est une position du film
 
-**La France n'a pas un problème de savoir-faire, elle a un problème de tenue : elle sait se redresser quand une échéance approche, le plus souvent par l'impôt, et elle n'a pas su faire durer l'effort au-delà ; or l'impôt est le levier qui a aujourd'hui le moins de marge, et les autres sont lents, coûtent tout de suite, ou n'ont jamais été tenus plusieurs années de suite.**
+**La France sait redresser ses comptes : elle l'a fait trois fois, le plus souvent par l'impôt, avec une échéance en vue. Ce qui n'a pas tenu, ce sont ses engagements écrits : une règle sur les surplus jamais mise en œuvre, trente et une cibles manquées sur trente et une, aucun excédent avant intérêts depuis 2002. Or refermer l'écart par l'impôt seul la placerait au-dessus de tout pays de l'Union, et les autres leviers sont lents, coûtent tout de suite, ou n'ont pas de précédent d'exécution.**
+
+Cette formule relie des faits comptés ; le lien entre eux est une lecture. Elle ne dit pas que la France se relâche après chaque effort : l'audit indépendant a testé cette idée et ne l'a pas retrouvée dans les comptes (aucune des six fenêtres de consolidation mesurées n'est suivie d'un relâchement immédiat ; le solde s'améliore dans 18 des 25 années de croissance supérieure à 2 %).
 
 ### En six maillons
 
@@ -45,8 +47,8 @@ Deux engagements de méthode, hérités de la V6, font partie de la promesse : l
 | 2 | **La France se redresse quand même, trois fois.** Fin des années 1970, années 1990, après 2010. Deux fois sur trois, surtout par les prélèvements. À chaque fois, une échéance pèse : le déficit de la Sécurité sociale, l'entrée dans l'euro, la surveillance européenne | Faits pour les redressements et leur composition ; **interprétation plausible** pour le rôle de l'échéance | V6, séquences 3, 9 et 13 ; verdict scientifique de l'audit |
 | 3 | **Elle ne franchit jamais la ligne, et on peut lire pourquoi dans trois décisions.** 1980 : une recette créée pour dix-huit mois s'éteint. 2000 : une bonne surprise est en partie rendue. 2017 : des baisses d'impôts sont votées avant la fin de la surveillance. Aucune n'explique le déficit à elle seule | Faits datés, avec leurs bornes (11 à 15 % ; quatre dixièmes) | V6, séquences 4 à 6, 10 et 13 |
 | 4 | **Ses propres engagements ne la tiennent pas.** La règle de 2005 sur les surplus n'a jamais été mise en œuvre. Trente et une cibles à trois ans, trente et une manquées. Depuis 2002, elle est en déficit avant même de payer ses intérêts | Faits, avec leur convention de comptage | V6, séquences 11 et 12 |
-| 5 | **Aujourd'hui, les sorties faciles sont fermées.** Refermer l'écart par le seul impôt mettrait la France au-dessus de tout pays de l'Union. Le refermer par la seule dépense suppose ce qu'elle n'a jamais tenu : aucune période de trois ans de baisse en volume depuis 1976. Plus de la moitié de la dépense, c'est la santé et la protection sociale : chaque économie importante a un visage. Et les réformes coûtent d'abord (2023 : gain plein en 2030) | Deux **bornes arithmétiques**, deux faits | Synthèse éditoriale ; corrections arbitrées ; audit de la V5, lignes B5-03 à B5-06 |
-| 6 | **Ce qui pourrait fonctionner est un assemblage tenu dans la durée, pas une mesure.** Les mesures déjà chiffrées, toutes votées, couvrent moins de la moitié de l'effort. Le reste ne peut venir que de leviers larges ou lents. L'histoire française dit que le point faible n'est pas l'invention des mesures, c'est leur exécution : en moyenne, deux points de dérive à trois ans | Borne tirée d'un modèle ; fait ; puis **position du film** | [04](04_SOLUTIONS_ET_SUEDE.md), §1 à §6 |
+| 5 | **Aujourd'hui, chaque sortie simple bute sur une borne.** Refermer l'écart par le seul impôt mettrait la France au-dessus de tout pays de l'Union. Le refermer par la seule dépense suppose ce qu'elle n'a jamais tenu : aucune période de trois ans de baisse en volume depuis 1976. Plus de la moitié de la dépense, c'est la santé et la protection sociale : chaque économie importante a un visage. Et les réformes coûtent d'abord (2023 : gain plein en 2030) | Deux **bornes arithmétiques**, deux faits | Synthèse éditoriale ; corrections arbitrées ; audit de la V5, lignes B5-03 à B5-06 |
+| 6 | **Ce qui pourrait fonctionner est un assemblage tenu dans la durée, pas une mesure.** Les mesures déjà chiffrées, assemblées et entièrement votées, couvrent au mieux la moitié de l'effort (60 à 70 milliards selon la combinaison, pour 130 à 165). Le reste ne peut venir que de leviers larges ou lents. Et les trajectoires officielles ont dérivé en moyenne de deux points à trois ans : autant que la combinaison centrale tout entière | Borne tirée d'un modèle ; fait ; puis **position du film** | [04](04_SOLUTIONS_ET_SUEDE.md), §1 à §6 |
 
 Le film a le droit de prendre position au sixième maillon, à condition de le dire comme tel. Sa position : au vu des preuves, le chemin le plus crédible combine un frein pluriannuel sur les plus gros postes, la fermeture d'avantages fiscaux mal ciblés avant toute hausse générale, l'emploi comme levier lent, et un engagement que les bonnes années ne peuvent pas défaire. Ce chemin prend une dizaine d'années, il coûte à des gens que l'on peut nommer, et aucune pièce ne garantit qu'il réussisse.
 
@@ -73,8 +75,8 @@ Garde-fous tirés des audits. Ils valent pour le script, le titre, la miniature 
 
 | | V5 | V6 | Hybride |
 |---|---|---|---|
-| Le pays | ne fait rien | se redresse puis s'arrête | sait se redresser, ne sait pas tenir |
-| La cause | un modèle trop cher, un cliquet, un blocage | aucune cause unique | une façon de se redresser qui n'est plus disponible à l'identique |
+| Le pays | ne fait rien | se redresse puis s'arrête | sait se redresser ; ses engagements écrits ne tiennent pas |
+| La cause | un modèle trop cher, un cliquet, un blocage | aucune cause unique | aucune cause unique ; un levier déjà très sollicité, l'impôt, et des engagements qui n'engagent pas |
 | Le présent | l'explication | un épilogue | le deuxième temps du film |
 | La politique | un feuilleton | un vote | un mécanisme : coût immédiat, gain différé |
 | La Suède | le modèle | absente | le banc d'essai |
