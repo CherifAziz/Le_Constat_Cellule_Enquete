@@ -390,13 +390,13 @@ Les redressements, eux, ont bien eu lieu. On en a suivi trois jusque dans les ar
 
 Mais même quand la croissance est revenue, la France n'a pas retrouvé l'équilibre. (pause) Pas une année sur cinquante et une.
 
-> **IMAGE** — Vingt-deux cases : les années de croissance supérieure à 2 % depuis 1979. Seize s'allument : « solde avant intérêts amélioré ». Puis huit seulement restent allumées : « après correction de la conjoncture ». Carton : « Solde primaire corrigé du cycle, estimation de la Commission européenne (AMECO). »
+> **IMAGE** — Vingt-deux cases : les années de croissance supérieure à 2 % depuis 1979. Seize s'allument : « solde avant intérêts amélioré ». Puis huit seulement restent allumées : « après correction de la conjoncture ». En petit : « 2000 : solde corrigé en baisse de 1,1 point ». Carton : « Solde primaire corrigé du cycle, estimation de la Commission européenne (AMECO). »
 
-Et une bonne année peut flatter les comptes. Quand la croissance est forte, ils s'améliorent près de trois fois sur quatre. Une fois retiré l'effet de la conjoncture, selon les estimations de la Commission européenne : une fois sur trois environ. Un bon chiffre ne dit pas, à lui seul, ce qui a été décidé.
+Et dans les années de forte croissance, une fois retiré l'effet de la conjoncture, les comptes ne s'améliorent qu'une fois sur trois environ, selon les estimations de la Commission européenne.
 
 > **IMAGE** — Trois pages côte à côte, chacune avec sa date : le tableau de 1979 ; le projet de loi du 26 avril 2000 ; la loi de finances pour 2018, votée en décembre 2017.
 
-Les décisions, elles, sont écrites. On en a lu trois, et elles ne se ressemblent pas. 1980 : une recette créée pour dix-huit mois arrive à son terme, et n'est pas prolongée. 2000 : le déficit diminue encore, et le gouvernement choisit de restituer une partie d'une bonne surprise, quand davantage pouvait aller à sa réduction. 2018 : des baisses d'impôts s'appliquent, votées avant la fin de la surveillance européenne. (pause) Une échéance qu'on laisse arriver. Une bonne surprise qu'on restitue en partie. Une baisse votée d'avance. Aucune n'explique le déficit à elle seule.
+Les décisions, elles, sont écrites. On en a lu trois, et elles ne se ressemblent pas. 1980 : une recette créée pour dix-huit mois arrive à son terme, et n'est pas prolongée. 2000 : le déficit diminue encore, et le gouvernement choisit de restituer une partie d'une bonne surprise, quand davantage pouvait aller à sa réduction. 2018 : des baisses d'impôts s'appliquent, votées avant la fin de la surveillance européenne. (pause) Aucune n'explique le déficit à elle seule.
 
 > **ARCHIVE** — Le tableau de 1979, « 1er août 1979 - 31 janvier 1981 ». Puis les cinq dates : 2005, 2010, 2012, 2016, 2022.
 

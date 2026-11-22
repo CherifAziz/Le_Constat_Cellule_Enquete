@@ -135,7 +135,7 @@ var = {int(r['exercice']): nombre(r['d_spcc_ameco']) for r in cycle if r['d_spcc
 fortes = [a for a in var if v(a, 'g_reel_pct') > 2]
 observe = sum(v(a, 'primaire_pct') > v(a - 1, 'primaire_pct') for a in fortes)
 corrige = sum(var[a] > 0 for a in fortes)
-assert (len(fortes), observe, corrige) == (22, 16, 8)     # « près de trois fois sur quatre », « une fois sur trois environ »
+assert (len(fortes), observe, corrige) == (22, 16, 8)     # conclusion : « une fois sur trois environ » (8 sur 22)
 assert var[2000] < -1                                     # 2000 : le solde corrigé se dégrade
 
 print('Formulations écartées : aucune ne subsiste (%d cherchées).' % len(ECARTEES))

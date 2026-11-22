@@ -11,11 +11,11 @@
   "carton_titre_s": 4.0,
   "silence_final_s": 3.0
  },
- "total_mots": 3744,
- "voix_seule_s": 1234.3,
- "fin_derniere_sequence_s": 1306.3,
- "fin_avec_silence_s": 1309.3,
- "total_s": 1309.3,
+ "total_mots": 3704,
+ "voix_seule_s": 1221.1,
+ "fin_derniere_sequence_s": 1293.1,
+ "fin_avec_silence_s": 1296.1,
+ "total_s": 1296.1,
  "sequences": [
   {
    "acte": "Ouverture",
@@ -140,10 +140,10 @@
   {
    "acte": "Conclusion",
    "titre": "Conclusion",
-   "mots": 387,
-   "duree_s": 136.6,
+   "mots": 347,
+   "duree_s": 123.4,
    "debut_s": 1169.7,
-   "fin_s": 1306.3
+   "fin_s": 1293.1
   }
  ],
  "plages_hors_voix": [
@@ -154,8 +154,8 @@
   },
   {
    "titre": "Silence final (hors voix)",
-   "debut_s": 1306.3,
-   "fin_s": 1309.3
+   "debut_s": 1293.1,
+   "fin_s": 1296.1
   }
  ]
 }

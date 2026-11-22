@@ -4,7 +4,7 @@
 
 `(pause)` : respiration marquée, environ une seconde. `(silence)` : deux à trois secondes sans voix.
 
-**3744 mots. Durée estimée par le calcul : 21:49** (hypothèse de 182 mots par minute ; (pause) = 1 s ; (silence) = 2,5 s ; 0,5 s entre deux paragraphes ; 4 s de carton de titre et 3 s de silence final hors voix). Ce n'est pas une durée mesurée sur un enregistrement.
+**3704 mots. Durée estimée par le calcul : 21:36** (hypothèse de 182 mots par minute ; (pause) = 1 s ; (silence) = 2,5 s ; 0,5 s entre deux paragraphes ; 4 s de carton de titre et 3 s de silence final hors voix). Ce n'est pas une durée mesurée sur un enregistrement.
 
 ---
 
@@ -252,9 +252,9 @@ Les redressements, eux, ont bien eu lieu. On en a suivi trois jusque dans les ar
 
 Mais même quand la croissance est revenue, la France n'a pas retrouvé l'équilibre. (pause) Pas une année sur cinquante et une.
 
-Et une bonne année peut flatter les comptes. Quand la croissance est forte, ils s'améliorent près de trois fois sur quatre. Une fois retiré l'effet de la conjoncture, selon les estimations de la Commission européenne : une fois sur trois environ. Un bon chiffre ne dit pas, à lui seul, ce qui a été décidé.
+Et dans les années de forte croissance, une fois retiré l'effet de la conjoncture, les comptes ne s'améliorent qu'une fois sur trois environ, selon les estimations de la Commission européenne.
 
-Les décisions, elles, sont écrites. On en a lu trois, et elles ne se ressemblent pas. 1980 : une recette créée pour dix-huit mois arrive à son terme, et n'est pas prolongée. 2000 : le déficit diminue encore, et le gouvernement choisit de restituer une partie d'une bonne surprise, quand davantage pouvait aller à sa réduction. 2018 : des baisses d'impôts s'appliquent, votées avant la fin de la surveillance européenne. (pause) Une échéance qu'on laisse arriver. Une bonne surprise qu'on restitue en partie. Une baisse votée d'avance. Aucune n'explique le déficit à elle seule.
+Les décisions, elles, sont écrites. On en a lu trois, et elles ne se ressemblent pas. 1980 : une recette créée pour dix-huit mois arrive à son terme, et n'est pas prolongée. 2000 : le déficit diminue encore, et le gouvernement choisit de restituer une partie d'une bonne surprise, quand davantage pouvait aller à sa réduction. 2018 : des baisses d'impôts s'appliquent, votées avant la fin de la surveillance européenne. (pause) Aucune n'explique le déficit à elle seule.
 
 Et il y a les dates. Celle de 1979 était inscrite dans un texte : le jour venu, la cotisation s'est arrêtée. Un retour à l'équilibre, c'est autre chose : une trajectoire annoncée, qui dépend ensuite de chaque budget et de la conjoncture. On en a relevé cinq. (pause) Toutes ont été dépassées.
 

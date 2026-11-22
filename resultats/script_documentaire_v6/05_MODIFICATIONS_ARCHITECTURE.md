@@ -16,10 +16,10 @@ La structure d'enquête, la pièce centrale de 1980 et le sommet (le solde avant
 | 1974–1981 (séquences 1 à 7) | 14 min 00 | 8 min 41 | de 53 % à 40 % |
 | 1982–2001 (séquences 8 à 10) | 6 min 15 | 4 min 33 | de 24 % à 21 % |
 | 2002–2026 (séquences 11 à 14) | 4 min 15 | 5 min 13 | de 16 % à 24 % |
-| Conclusion et silence final | 1 min 00 | 2 min 19 | de 4 % à 11 % |
-| **Total** | **26 min 30** | **21 min 49** | |
+| Conclusion et silence final | 1 min 00 | 2 min 06 | de 4 % à 10 % |
+| **Total** | **26 min 30** | **21 min 36** | |
 
-*Durées du script estimées par le calcul sur le nombre réel de mots (3 744), dans l'hypothèse de 182 mots par minute, pauses comprises. Elles ne sont pas mesurées sur un enregistrement. Détail par séquence dans [04](04_AUDIT_NARRATIF.md).*
+*Durées du script estimées par le calcul sur le nombre réel de mots (3 704), dans l'hypothèse de 182 mots par minute, pauses comprises. Elles ne sont pas mesurées sur un enregistrement. Détail par séquence dans [04](04_AUDIT_NARRATIF.md).*
 
 **Ce qui a été fait.**
 
@@ -80,8 +80,8 @@ La conclusion finale dit ce que les pièces établissent :
 
 1. Les crises ont creusé le déficit.
 2. Trois redressements ont eu lieu sous contrainte, et deux fois sur trois surtout en prélevant plus.
-3. Même quand la croissance est revenue, la France n'a pas retrouvé l'équilibre. Et un bon chiffre peut devoir beaucoup à la conjoncture.
-4. Trois décisions sont écrites, et elles ne se ressemblent pas : une échéance qu'on laisse arriver, une bonne surprise qu'on restitue en partie, une baisse votée d'avance.
+3. Même quand la croissance est revenue, la France n'a pas retrouvé l'équilibre. Et dans les années de forte croissance, une fois la conjoncture retirée, les comptes ne s'améliorent qu'une fois sur trois environ.
+4. Trois décisions sont écrites, et elles ne se ressemblent pas : une recette qu'on laisse arriver à son terme en 1980, une bonne surprise restituée en partie en 2000 alors que le déficit baisse encore, des baisses votées avant la fin de la surveillance européenne et appliquées en 2018.
 5. Une date inscrite dans un texte s'applique ; une trajectoire annoncée dépend de chaque budget. Cinq ont été relevées, toutes dépassées.
 
 La dernière image est la phrase du projet de budget pour 2027 sur sa propre trajectoire, qui « revêt un caractère conventionnel du fait des échéances électorales de 2027 », puis une question laissée au spectateur.

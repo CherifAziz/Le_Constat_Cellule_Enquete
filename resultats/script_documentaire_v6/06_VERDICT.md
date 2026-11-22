@@ -10,7 +10,7 @@ Le verdict précédent, qui portait sur la version auditée et concluait qu'elle
 
 ## 1. Le verdict en cinq phrases
 
-1. **La V6 est figée.** 3 744 mots, quatorze séquences, une ouverture et une conclusion. L'architecture et les révélations sont celles de la version auditée.
+1. **La V6 est figée.** 3 704 mots, quatorze séquences, une ouverture et une conclusion. L'architecture et les révélations sont celles de la version auditée.
 2. **Aucune erreur bloquante de l'audit ne subsiste.** Les quinze retouches de sa feuille sont appliquées ; aucune formulation bloquante n'a été gardée ([03](03_AUDIT_FACTUEL.md)).
 3. **La conclusion ne généralise plus.** Elle distingue les crises qui creusent, les redressements qui réduisent et l'équilibre qui ne revient pas, puis montre trois décisions écrites qui ne se ressemblent pas ([07](07_CORRECTIONS_APPLIQUEES.md), §2).
 4. **Le dernier acte avance.** Une séquence en moins, deux cents mots en moins, trois raccords refaits ([04](04_AUDIT_NARRATIF.md)).
@@ -42,8 +42,8 @@ python outils/controler_chiffres.py .
 | Conclusion | « Trois fois le même geste » ; « un problème avec les bonnes années » | Crises, redressements, pas de retour à l'équilibre ; trois décisions écrites, trois mécanismes |
 | 2000 | « Elle a choisi de rendre l'argent » | Le déficit diminue encore ; une partie des recettes supplémentaires est rendue quand davantage pouvait aller à sa réduction |
 | Trajectoires | Trente et une sur trente et une, sans règle de lecture | La règle est dite ; le décompte en années civiles aussi : trente et une sur trente-deux |
-| Durée | 21 min 52, avec trois secondes de silence final absentes du cumul | 21 min 49 estimées par le calcul, carton de titre et silence final inscrits comme plages |
-| Mots | 3 755 | 3 744 |
+| Durée | 21 min 52, avec trois secondes de silence final absentes du cumul | 21 min 36 estimées par le calcul, carton de titre et silence final inscrits comme plages |
+| Mots | 3 755 | 3 704 |
 
 ## 4. Ce qui fonctionne
 
@@ -62,7 +62,7 @@ python outils/controler_chiffres.py .
 
 | Faiblesse | Gravité | Ce qu'il faudrait |
 |---|---|---|
-| **La conclusion est plus longue** : 387 mots contre 307. Le paragraphe sur la conjoncture est le plus abstrait | Moyenne | L'écouter. S'il pèse, le réduire à sa dernière phrase et laisser les chiffres à l'écran |
+| **La conclusion compte quarante mots de plus** : 347 contre 307. Ils portent les trois précisions demandées sur 2000, 2017 et la nature des dates | Faible | Arbitré : elle a déjà été resserrée de 387 à 347 mots. La phrase sur la conjoncture, seule phrase abstraite, est à confirmer à l'écoute |
 | **La séquence 2 reste le passage le plus abstrait**, à la deuxième minute | Moyenne | Au montage : montrer l'hôpital plus tôt |
 | **Aucun enjeu d'aujourd'hui avant la dix-neuvième minute** | Moyenne | Assumé : l'audit recommande de garder le scrutin du 4 novembre 2026 pour la séquence 14 |
 | **Le travail (séquence 8) est traité vite** | Faible | Assumé depuis la version auditée |
@@ -75,7 +75,7 @@ python outils/controler_chiffres.py .
 | # | À faire |
 |---|---|
 | 1 | Donner à la voix le fichier [01_SCRIPT_V6.md](01_SCRIPT_V6.md), sans son bandeau. Les `(pause)` et `(silence)` sont des indications de réalisation, à traduire dans la syntaxe de l'outil ou à retirer |
-| 2 | Mesurer la durée du fichier audio et la consigner à côté de l'estimation. Les 21 min 49 reposent sur une hypothèse de 182 mots par minute : ce n'est pas une mesure |
+| 2 | Mesurer la durée du fichier audio et la consigner à côté de l'estimation. Les 21 min 36 reposent sur une hypothèse de 182 mots par minute : ce n'est pas une mesure |
 | 3 | Écouter sans l'écran trois passages : du régime général aux comptes de la France (séquence 4) ; du budget de l'État au déficit public (séquence 10) ; des prévisions à la dette (séquences 12 et 13). Si l'on a besoin du carton pour savoir de quoi parle un pourcentage, redire le périmètre dans la phrase |
 | 4 | Vérifier la prononciation des nombres écrits en chiffres (« 0,4 % », « 3 000 francs », « 11 à 15 % », « 800 000 ») et des sigles (CSG, TVA) |
 

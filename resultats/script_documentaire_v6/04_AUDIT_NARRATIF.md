@@ -33,13 +33,13 @@ Hypothèse de 182 mots par minute, une seconde par `(pause)`, deux secondes et d
 | 13 · Les crises | 232 | 1:21 | 17:24 | 18:45 | 211 |
 | *L'écart (ancienne 14)* | — | — | — | — | 174 |
 | 14 · Le blocage (ex-15) | 128 | 0:45 | 18:45 | 19:30 | 109 |
-| Conclusion | 387 | 2:17 | 19:30 | 21:46 | 307 |
-| *Silence final, hors voix* | | 0:03 | 21:46 | 21:49 | |
-| **Total** | **3 744** | **21:49** | | | **3 755** |
+| Conclusion | 347 | 2:03 | 19:30 | 21:33 | 307 |
+| *Silence final, hors voix* | | 0:03 | 21:33 | 21:36 | |
+| **Total** | **3 704** | **21:36** | | | **3 755** |
 
-- **Voix seule, sans aucune pause : 20 min 34.** Fin de la dernière séquence : 21 min 46. Fin avec le silence final : 21 min 49.
-- **Le total ne change presque pas** (3 744 mots contre 3 755). La séquence supprimée et les coupes de l'acte IV sont compensées par les précisions demandées dans les actes I à III et par la conclusion. La finalisation ne visait pas une durée.
-- **Répartition.** 1974–1981 (séquences 1 à 7) : 8:41. 1982–2001 (8 à 10) : 4:33. 2002–2026 (11 à 14) : 5:13. Ouverture, titre, conclusion et silence final : 3:22.
+- **Voix seule, sans aucune pause : 20 min 21.** Fin de la dernière séquence : 21 min 33. Fin avec le silence final : 21 min 36.
+- **Le total change peu** (3 704 mots contre 3 755). La séquence supprimée et les coupes de l'acte IV sont en grande partie compensées par les précisions demandées dans les actes I à III et par la conclusion. La finalisation ne visait pas une durée.
+- **Répartition.** 1974–1981 (séquences 1 à 7) : 8:41. 1982–2001 (8 à 10) : 4:33. 2002–2026 (11 à 14) : 5:13. Ouverture, titre, conclusion et silence final : 3:09.
 
 ## 2. Les neuf éléments à préserver
 
@@ -99,12 +99,12 @@ Trois raccords ont été refaits dans l'acte IV.
 
 ## 5. La conclusion
 
-**Sa structure.** Sept temps, détaillés dans [07](07_CORRECTIONS_APPLIQUEES.md), §2 : les crises creusent ; les redressements ont eu lieu, sous contrainte ; l'équilibre ne revient jamais ; un bon chiffre peut devoir beaucoup à la conjoncture ; les décisions sont écrites et ne se ressemblent pas ; une échéance de droit n'est pas une trajectoire annoncée ; la dernière question.
+**Sa structure.** Six temps, détaillés dans [07](07_CORRECTIONS_APPLIQUEES.md), §2 : les crises creusent ; les redressements ont eu lieu, sous contrainte ; l'équilibre ne revient jamais, même quand la croissance revient ; les décisions sont écrites et ne se ressemblent pas ; une échéance de droit n'est pas une trajectoire annoncée ; la dernière question.
 
 **Tient-elle sans la formule sur les bonnes années ?** Oui, parce qu'elle ne perd pas sa matière. L'ancienne conclusion affirmait une règle ; la nouvelle montre trois décisions datées et laisse le spectateur les comparer. Ses phrases les plus fortes sont des constats que n'importe qui peut vérifier :
 
 - « Pas une année sur cinquante et une. »
-- « Une échéance qu'on laisse arriver. Une bonne surprise qu'on restitue en partie. Une baisse votée d'avance. »
+- « Les décisions, elles, sont écrites. On en a lu trois, et elles ne se ressemblent pas. »
 - « On en a relevé cinq. Toutes ont été dépassées. »
 - « C'est le texte lui-même qui le dit. »
 
@@ -112,7 +112,7 @@ Trois raccords ont été refaits dans l'acte IV.
 
 **Ce qu'elle ne fait plus.** Elle n'oppose plus les bonnes années aux mauvaises, ne dit plus « à chaque fois », ne ramène plus trois décisions à un seul geste.
 
-**Son risque.** Elle est plus longue que l'ancienne : 387 mots contre 307, soit 2 min 17 estimées. Le paragraphe sur la conjoncture est le plus abstrait. Si l'écoute le confirme, c'est le premier à resserrer : il peut se réduire à sa dernière phrase, les chiffres restant à l'écran.
+**Sa longueur, arbitrée.** Une première rédaction faisait 387 mots. Elle a été resserrée à 347, contre 307 dans la version auditée : le passage sur la conjoncture tient en une phrase, avec une seule fraction, et les trois décisions ne sont dites qu'une fois. Les quarante mots de plus que l'ancienne portent les trois précisions demandées : le déficit qui baisse en 2000, le vote de 2017, la différence entre une échéance et une trajectoire. Ils sont assumés.
 
 ## 6. Voix et rythme
 
@@ -129,7 +129,7 @@ Trois raccords ont été refaits dans l'acte IV.
 
 | Risque | Niveau | Où | Ce qu'il faudrait faire |
 |---|---|---|---|
-| Durée de la conclusion | Moyen | Conclusion | Écouter d'abord. Resserrer le paragraphe sur la conjoncture si le rythme tombe |
+| Phrase sur la conjoncture | Faible | Conclusion | C'est la seule phrase abstraite de la conclusion. Elle est portée par l'image des vingt-deux cases ; à confirmer à l'écoute |
 | Trois changements d'échelle à l'oreille | Moyen | Séq. 4, 10, 12–13 | Épreuve demandée par l'audit : écouter sans l'écran le passage du régime général aux comptes de la France, du budget de l'État au déficit public, des prévisions à la dette. Si un auditeur a besoin du carton, redire le périmètre dans la phrase |
 | Le mot « médiane » | Faible | Séq. 8 | Demandé par l'audit. À confirmer à l'écoute ; « le pays du milieu » est une variante exacte |
 | Séquence 2 encore abstraite avant l'hôpital | Moyen | Séq. 2 | Inchangé depuis la version auditée. Au montage : faire arriver les pages de l'hôpital plus tôt |

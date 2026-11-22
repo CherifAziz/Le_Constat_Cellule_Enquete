@@ -70,15 +70,15 @@
 
 L'ancienne conclusion tirait de trois épisodes une règle : la France se redresse le dos au mur et relâche dès que le mur s'éloigne. L'audit indépendant a montré que cette règle ne tient pas : lors de 18 des 25 années de croissance supérieure à 2 %, le solde s'améliore, et de 1998 à 2000 il s'améliore trois années de suite, y compris l'année de la « cagnotte ».
 
-La nouvelle conclusion garde les trois épisodes et dit quatre choses, dans cet ordre.
+La nouvelle conclusion garde les trois épisodes. Elle avance dans cet ordre.
 
 | Temps | Ce que dit la voix | Ce qui l'établit |
 |---|---|---|
 | Les crises creusent | « Les crises ont creusé le déficit. 1975, 1993, 2009, 2020 : à chaque fois, la courbe plonge. » | Série annuelle du dépôt |
 | Les redressements réduisent | Trois redressements suivis dans les archives, « sous contrainte », et deux fois sur trois surtout par les prélèvements | Séquences 3, 9 et 13 |
 | L'équilibre ne revient pas | « Même quand la croissance est revenue, la France n'a pas retrouvé l'équilibre. Pas une année sur cinquante et une. » | 51 exercices déficitaires de 1975 à 2025 |
-| Un bon chiffre ne suffit pas | Dans les années de forte croissance, les comptes s'améliorent près de trois fois sur quatre ; une fois sur trois environ après correction de la conjoncture, « selon les estimations de la Commission européenne ». « Un bon chiffre ne dit pas, à lui seul, ce qui a été décidé. » | 22 années de croissance supérieure à 2 % depuis 1979 : 16 améliorations observées, 8 après correction du cycle. Présenté comme une estimation, sans accusation |
-| Les décisions sont écrites, et différentes | 1980 : une recette de dix-huit mois arrive à son terme et n'est pas prolongée. 2000 : le déficit diminue encore, et une partie d'une bonne surprise est restituée quand davantage pouvait aller à sa réduction. 2018 : des baisses s'appliquent, votées avant la fin de la surveillance européenne. « Une échéance qu'on laisse arriver. Une bonne surprise qu'on restitue en partie. Une baisse votée d'avance. » | Séquences 4 à 6, 10 et 13 |
+| Une bonne année peut flatter les comptes | « dans les années de forte croissance, une fois retiré l'effet de la conjoncture, les comptes ne s'améliorent qu'une fois sur trois environ, selon les estimations de la Commission européenne » | 22 années de croissance supérieure à 2 % depuis 1979 : 16 améliorations observées, 8 après correction du cycle. Une seule phrase, présentée comme une estimation, sans accusation |
+| Les décisions sont écrites, et différentes | 1980 : une recette de dix-huit mois arrive à son terme et n'est pas prolongée. 2000 : le déficit diminue encore, et une partie d'une bonne surprise est restituée quand davantage pouvait aller à sa réduction. 2018 : des baisses s'appliquent, votées avant la fin de la surveillance européenne. « Aucune n'explique le déficit à elle seule. » | Séquences 4 à 6, 10 et 13 |
 | Les dates | L'échéance de 1979 était dans un texte ; un retour à l'équilibre est une trajectoire annoncée. Cinq ont été relevées, toutes dépassées | Séquence 12 |
 | La question | Le projet de budget pour 2027 dit lui-même que sa trajectoire est conventionnelle. « Qu'est-ce qu'on en fait ? » | Rapport annexé au projet, p. 134 |
 

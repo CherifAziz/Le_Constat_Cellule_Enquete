@@ -64,9 +64,9 @@ Sept phrases de la voix finale ne reprennent pas mot pour mot une proposition de
 | 12 | « la toute première, celle de 2001 » | Programme de décembre 1998, cible de − 1,6 % pour 2001, réalisé − 1,42 % |
 | 13 | « Et depuis, elle remonte. » | 109,5 % en 2023, 112,6 % en 2024, 115,7 % en 2025. S'arrêter à 2023 aurait donné une image périmée pour un film daté de fin 2026 |
 | Concl. | « 1975, 1993, 2009, 2020 : à chaque fois, la courbe plonge. » | Le solde perd plus d'un point et demi de PIB chacune de ces quatre années |
-| Concl. | « Quand la croissance est forte, ils s'améliorent près de trois fois sur quatre. Une fois retiré l'effet de la conjoncture, selon les estimations de la Commission européenne : une fois sur trois environ. » | Test de l'audit : 22 années de croissance supérieure à 2 % depuis 1979 ; solde primaire amélioré 16 fois, 8 fois après correction du cycle |
+| Concl. | « dans les années de forte croissance, une fois retiré l'effet de la conjoncture, les comptes ne s'améliorent qu'une fois sur trois environ, selon les estimations de la Commission européenne » | Test de l'audit : 22 années de croissance supérieure à 2 % depuis 1979 ; solde primaire amélioré 16 fois en données observées, 8 fois après correction du cycle |
 
-**Sur la dernière ligne.** L'audit présente ce test comme « l'objection la plus sérieuse » à sa propre réfutation, et précise qu'il repose sur une estimation du PIB potentiel et ne permet pas de conclure que les autorités ont réagi à la disparition d'une contrainte. La voix dit donc « selon les estimations » et n'en tire aucune accusation : « Un bon chiffre ne dit pas, à lui seul, ce qui a été décidé. » L'année 2000 fait partie des années où le solde corrigé se dégrade (− 1,10 point) ; ce chiffre reste à l'écran, hors voix.
+**Sur la dernière ligne.** L'audit présente ce test comme « l'objection la plus sérieuse » à sa propre réfutation, et précise qu'il repose sur une estimation du PIB potentiel et ne permet pas de conclure que les autorités ont réagi à la disparition d'une contrainte. La voix le dit donc en une seule phrase, « selon les estimations », sans désigner personne. Les seize améliorations observées et le cas de l'année 2000, où le solde corrigé se dégrade de 1,10 point, restent à l'écran, hors voix.
 
 ## 4. Chiffres dits, recalculés
 
@@ -88,7 +88,7 @@ Le programme [outils/controler_chiffres.py](outils/controler_chiffres.py) relit 
 | 13 | Environ onze points au-dessus de 2019 en 2023 ; remontée ensuite | + 11,3 points ; 112,6 % puis 115,7 % |
 | 13 | En 2018, encore un déficit avant intérêts | − 0,55 % |
 | 14 | Quarante-deux budgets classés majoritaires | 22 « parti seul », 20 « coalition », 1 « appoint », 8 « relative ou sans » |
-| Concl. | Près de trois fois sur quatre ; une fois sur trois environ | 16 sur 22 ; 8 sur 22 |
+| Concl. | Une fois sur trois environ, une fois la conjoncture retirée | 8 années sur 22 ; 16 sur 22 en données observées |
 
 Les autres chiffres de la voix (30 francs sur 3 000, 88 %, 3,2 milliards, 11 à 15 %, 51 milliards de francs, quatre dixièmes, plus de 80 milliards puis 12, 458 voix) sont ceux que l'audit a validés dans ses contrôles 4, 6 et 7. Ils n'ont pas été modifiés.
 
