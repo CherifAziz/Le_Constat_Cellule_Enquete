@@ -64,8 +64,8 @@ C'est l'acte que la V6 n'avait pas. Il répond à « pourquoi pas maintenant ? �
 | 13 | **Le plafond** (1:10) | Alors pourquoi ne pas refaire ce qui a marché ? D'abord parce que c'est déjà fait : en 2025, de nouveau sous procédure européenne, la France réduit son déficit par 23 milliards de hausses d'impôts, dont un tiers par une contribution dite exceptionnelle. Ensuite parce que l'outil arrive au bout : en 2025, la France est le pays de l'Union qui prélève le plus ; refermer tout le déficit par l'impôt la placerait au-dessus de n'importe quel pays d'Europe | Le classement européen, daté. Dits : 23 milliards ; « un tiers exceptionnel » | Borne arithmétique de la V5, classée exacte. Le parallèle avec 1979 se voit ; la voix ne dit pas « le même geste ». Le premier rang est daté : il est faux pour 2024 |
 | 14 | **Où est l'argent** (0:50) | Reste la dépense. On pense aux ministères et aux agences : réduire d'un cinquième les fonctions support des opérateurs de l'État rapporterait au mieux un demi-milliard, quand on en annonçait deux à trois. L'argent est ailleurs : sur 100 euros de dépense publique, 57 vont à la santé et à la protection sociale, les retraites en tête. Toute économie importante touche quelqu'un | Les 100 euros en une seule image. Dits : 57 sur 100 ; un demi-milliard | V5 (les 100 euros), réduite à un plan. Chiffre de 2024. Dire « santé et protection sociale », pas « allocations » |
 | 15 | **Septembre 2023** (1:30) | Ce qui se passe quand on y touche. La réforme des retraites : dès septembre, ceux qui devaient partir attendent ; eux savent tout de suite ce qu'ils perdent. La réforme commence par coûter. Son gain pour les caisses de retraite n'atteint une dizaine de milliards par an qu'en 2030. Elle passe sans vote à l'Assemblée ; la censure est évitée à neuf voix. Deux ans plus tard, elle est suspendue jusqu'à l'élection présidentielle | Une frise à deux lignes : ce que ça coûte à qui, tout de suite ; ce que ça rapporte, plus tard. Dits : 2030 ; neuf voix | V5, lignes 99 à 103 et 113, classées exactes. Dire le périmètre du gain (les régimes de retraite). Ne pas relier la suspension au maintien du gouvernement |
-| 16 | **L'effort retiré** (1:10) | On accuse le blocage. 4 novembre 2026 : en séance, 16 milliards de prélèvements sont retirés du budget, puis le texte est rejeté par 458 voix contre zéro. Mais décembre 2018 : une majorité absolue, et dix milliards de mesures abandonnées en dix jours. Sur 51 budgets, 42 ont été votés par un camp majoritaire ; les 42 années ont fini en déficit. Le blocage n'a pas créé le problème. Et ce n'est pas qu'une affaire de députés : dans un même sondage, sept Français sur dix approuvent l'objectif de réduire le déficit, quatre sur dix le gel des prestations | Le tableau du scrutin ; la frise des 42. Dits : 458 à zéro ; 42 sur 51 ; sept sur dix, quatre sur dix | V5 et V6. Les montants du 4 novembre sont une déclaration ministérielle : le dire. Le sondage est une opinion déclarée, deux parts d'un même échantillon, pas les mêmes personnes |
-| 17 | **Le compte n'y est pas** (0:50) | La taille du problème, enfin. Pour que la dette cesse de grossir plus vite que l'économie, il faut trouver chaque année, d'ici quelques années, entre 130 et 165 milliards. Toutes les mesures chiffrées qu'on a pu recenser, à gauche comme à droite, si elles étaient toutes votées : une soixantaine. Et si elles s'exécutent comme les précédentes : une quarantaine | Une jauge unique, trois niveaux. Dits : 130 à 165 ; 60 ; 40 | Nouveau. Remplace « 10, 44, 150 ». Une seule base : la trajectoire sans aucune mesure, modèle de la cellule. La variante « si le budget 2027 était adopté tel quel » va à l'écran ([04](04_SOLUTIONS_ET_SUEDE.md), §1) |
+| 16 | **L'effort retiré** (1:10) | On accuse le blocage. 4 novembre 2026 : en séance, 16 milliards de prélèvements sont retirés du budget, puis le texte est rejeté par 458 voix contre zéro. Mais décembre 2018 : une majorité absolue, et un recul de dix milliards en dix jours, dont l'abandon d'une hausse de taxe sur les carburants et d'une hausse de CSG des retraités. Pour 42 des 51 budgets, le camp gouvernemental est classé majoritaire ; les 42 années ont fini en déficit. Le blocage n'a pas créé le problème. Et ce n'est pas qu'une affaire de députés : dans un même sondage, sept Français sur dix approuvent l'objectif de réduire le déficit, quatre sur dix le gel des prestations | Le tableau du scrutin ; la frise des 42. Dits : 458 à zéro ; 42 sur 51 ; sept sur dix, quatre sur dix | V5 et V6. Les montants du 4 novembre sont une déclaration ministérielle : le dire. Les dix milliards de 2018 sont un montant brut (6,4 nets) qui mêle des efforts abandonnés et des dépenses nouvelles. Le sondage est une opinion déclarée, deux parts d'un même échantillon, pas les mêmes personnes |
+| 17 | **Le compte n'y est pas** (0:50) | La taille du problème, enfin. Pour que la dette cesse de grossir plus vite que l'économie, il faut trouver chaque année, d'ici quelques années, entre 130 et 165 milliards. Toutes les mesures chiffrées qu'on a pu recenser, dans le projet de budget, à la Cour des comptes et dans nos dossiers, si elles étaient toutes votées : une soixantaine. Et si elles s'exécutent comme les précédentes : une quarantaine | Une jauge unique, trois niveaux. Dits : 130 à 165 ; 60 ; 40 | Nouveau. Remplace « 10, 44, 150 ». Une seule base : la trajectoire sans aucune mesure, modèle de la cellule. La variante « si le budget 2027 était adopté tel quel » va à l'écran ([04](04_SOLUTIONS_ET_SUEDE.md), §1) |
 
 ### Acte IV · Ce qui pourrait marcher (6:30)
 
@@ -93,20 +93,20 @@ C'est l'acte que la V6 n'avait pas. Il répond à « pourquoi pas maintenant ? �
 |---|---|---|---|
 | R1 | 0:55 | En 1980, il ne manquait presque rien | « Ce pays n'a jamais su faire » |
 | R2 | 2:30 | La dépense n'a pas accéléré ; la croissance a cassé | « L'État a ouvert les vannes » |
-| R3 | 5:00 | Une cotisation créée avec sa date de fin | — |
-| R4 | 6:15 | La page de novembre 1980 : le retour du déficit était imprimé | « 1981 a été une surprise » |
-| R5 | 7:00 | Elle ne pèse que 11 à 15 % de la chute | La piste que le film vient d'ouvrir |
+| R3 | 4:15 | Une cotisation créée avec sa date de fin | — |
+| R4 | 5:30 | La page de novembre 1980 : le retour du déficit était imprimé | « 1981 a été une surprise » |
+| R5 | 6:30 | Elle ne pèse que 11 à 15 % de la chute | La piste que le film vient d'ouvrir |
 | R6 | 10:30 | Le motif de 2000 est écrit, et tout garder n'aurait pas suffi | « La cagnotte a tout gâché » |
-| R7 | 12:20 | Aucun excédent avant intérêts depuis 2002 ; l'Italie, dix sur dix | « C'est la faute de la dette passée » |
-| R8 | 13:00 | La France s'est écrit une règle ; elle n'a jamais servi | « Il suffirait d'une règle » |
-| R9 | 15:30 | Le troisième outil est au plafond, et 2025 le rejoue | « Il suffit d'augmenter les impôts » |
-| R10 | 16:30 | Le train de vie de l'État pèse un demi-milliard, pas le déficit | « Il suffit de couper dans les agences » |
-| R11 | 18:00 | Une réforme coûte en 2023 et rapporte en 2030 | « Ils manquent juste de courage » |
-| R12 | 19:00 | 42 budgets sur 51 ; dix milliards retirés sous majorité absolue | « C'est la faute du blocage » |
-| R13 | 20:00 | Tout ce qui est chiffré ne fait pas la moitié | « Les solutions existent, il suffit de les voter » |
-| R14 | 21:30 | La Suède l'a fait en quatre ans | « C'est impossible » |
-| R15 | 22:30 | Elle avait une monnaie, des exportations, un déficit de crise | « Il suffit de faire comme la Suède » |
-| R16 | 26:00 | Travailler plus nombreux : le plus gros levier, dix ans au moins | « Il suffit de travailler plus » |
+| R7 | 12:00 | Aucun excédent avant intérêts depuis 2002 ; l'Italie, dix sur dix | « C'est la faute de la dette passée » |
+| R8 | 12:50 | La France s'est écrit une règle ; elle n'a jamais servi | « Il suffirait d'une règle » |
+| R9 | 15:15 | L'outil des redressements est au plafond, et 2025 le rejoue | « Il suffit d'augmenter les impôts » |
+| R10 | 16:10 | Les fonctions support des agences : un demi-milliard, pas le déficit | « Il suffit de couper dans le train de vie de l'État » |
+| R11 | 17:15 | Une réforme coûte en 2023 et rapporte en 2030 | « Ils manquent juste de courage » |
+| R12 | 19:00 | 42 budgets sur 51 ; un recul de dix milliards sous majorité absolue | « C'est la faute du blocage » |
+| R13 | 19:50 | Tout ce qui est chiffré ne fait pas la moitié | « Les solutions existent, il suffit de les voter » |
+| R14 | 21:20 | La Suède l'a fait en quatre ans, sans majorité | « C'est impossible » |
+| R15 | 22:00 | Elle avait une monnaie dépréciée, des exportations, un déficit de crise | « Il suffit de faire comme la Suède » |
+| R16 | 25:00 | Travailler plus nombreux : un levier lourd, dix ans au moins | « Il suffit de travailler plus » |
 
 Le film dément sa propre piste trois fois (R5, R6, R15). C'est ce qui lui donne le droit de prendre position à la fin.
 
@@ -118,9 +118,9 @@ Le film dément sa propre piste trois fois (R5, R6, R15). C'est ce qui lui donne
 | Durée estimée | 21 min 36 | environ 28 min |
 | Premier fait d'aujourd'hui | 19e minute | première seconde |
 | La page de 1980 est lue | 7e minute | 6e minute |
-| On quitte 1981 | 10e minute | 9e minute |
+| On quitte 1981 | 10e minute | 8e minute |
 | Retour au présent | 19e minute | 15e minute |
-| Début des solutions | jamais | 20e minute |
+| Début des solutions | jamais | 21e minute |
 
 **Ce qui sort de la V6**, en mots de voix :
 
@@ -143,7 +143,7 @@ Le film dément sa propre piste trois fois (R5, R6, R15). C'est ce qui lui donne
 
 **Ce qui entre**, environ 2 500 mots : l'ouverture (250), l'acte III presque entier (880), l'acte IV (1 110), la conclusion (255).
 
-Proportions : 38 % du film pour « comment elle s'est enfermée » (ouverture et acte I, avec la remontée), 41 % pour « pourquoi elle n'en sort pas » (actes II et III), 28 % pour « ce qui pourrait marcher » (acte IV et conclusion) ; les deux premières parts se recouvrent sur la séquence 6. La V6 consacrait la totalité aux deux premières questions.
+Proportions : 31 % du film pour « comment elle s'est enfermée » (ouverture et acte I), 41 % pour « pourquoi elle n'en sort pas » (actes II et III), 28 % pour « ce qui pourrait marcher » (acte IV et conclusion). La V6 consacrait la totalité aux deux premières questions.
 
 ## 5. Deux ouvertures comparées
 
