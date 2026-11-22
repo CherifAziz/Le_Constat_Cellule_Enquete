@@ -11,11 +11,11 @@
   "carton_titre_s": 4.0,
   "silence_final_s": 3.0
  },
- "total_mots": 3745,
- "voix_seule_s": 1234.6,
- "fin_derniere_sequence_s": 1306.6,
- "fin_avec_silence_s": 1309.6,
- "total_s": 1309.6,
+ "total_mots": 3744,
+ "voix_seule_s": 1234.3,
+ "fin_derniere_sequence_s": 1306.3,
+ "fin_avec_silence_s": 1309.3,
+ "total_s": 1309.3,
  "sequences": [
   {
    "acte": "Ouverture",
@@ -52,98 +52,98 @@
   {
    "acte": "Acte II — 1980",
    "titre": "4 · Trente francs",
-   "mots": 233,
-   "duree_s": 80.3,
+   "mots": 232,
+   "duree_s": 80.0,
    "debut_s": 302.0,
-   "fin_s": 382.4
+   "fin_s": 382.0
   },
   {
    "acte": "Acte II — 1980",
    "titre": "5 · Novembre 1980",
    "mots": 205,
    "duree_s": 74.1,
-   "debut_s": 382.4,
-   "fin_s": 456.4
+   "debut_s": 382.0,
+   "fin_s": 456.1
   },
   {
    "acte": "Acte II — 1980",
    "titre": "6 · 1981",
    "mots": 263,
    "duree_s": 90.7,
-   "debut_s": 456.4,
-   "fin_s": 547.1
+   "debut_s": 456.1,
+   "fin_s": 546.8
   },
   {
    "acte": "Acte II — 1980",
    "titre": "7 · Deux récits",
    "mots": 106,
    "duree_s": 37.4,
-   "debut_s": 547.1,
-   "fin_s": 584.6
+   "debut_s": 546.8,
+   "fin_s": 584.3
   },
   {
    "acte": "Acte III — La deuxième fois",
    "titre": "8 · Sous les comptes",
    "mots": 228,
    "duree_s": 77.7,
-   "debut_s": 584.6,
-   "fin_s": 662.2
+   "debut_s": 584.3,
+   "fin_s": 661.9
   },
   {
    "acte": "Acte III — La deuxième fois",
    "titre": "9 · La facture",
    "mots": 203,
    "duree_s": 68.4,
-   "debut_s": 662.2,
-   "fin_s": 730.7
+   "debut_s": 661.9,
+   "fin_s": 730.3
   },
   {
    "acte": "Acte III — La deuxième fois",
    "titre": "10 · Printemps 2000",
    "mots": 370,
    "duree_s": 127.0,
-   "debut_s": 730.7,
-   "fin_s": 857.6
+   "debut_s": 730.3,
+   "fin_s": 857.3
   },
   {
    "acte": "Acte IV — Pourquoi ça dure",
    "titre": "11 · La colonne éteinte",
    "mots": 332,
    "duree_s": 114.0,
-   "debut_s": 857.6,
-   "fin_s": 971.6
+   "debut_s": 857.3,
+   "fin_s": 971.3
   },
   {
    "acte": "Acte IV — Pourquoi ça dure",
    "titre": "12 · Les dates",
    "mots": 204,
    "duree_s": 72.3,
-   "debut_s": 971.6,
-   "fin_s": 1043.9
+   "debut_s": 971.3,
+   "fin_s": 1043.5
   },
   {
    "acte": "Acte IV — Pourquoi ça dure",
    "titre": "13 · Les crises",
    "mots": 232,
    "duree_s": 81.5,
-   "debut_s": 1043.9,
-   "fin_s": 1125.3
+   "debut_s": 1043.5,
+   "fin_s": 1125.0
   },
   {
    "acte": "Acte IV — Pourquoi ça dure",
    "titre": "14 · Le blocage",
    "mots": 128,
    "duree_s": 44.7,
-   "debut_s": 1125.3,
-   "fin_s": 1170.0
+   "debut_s": 1125.0,
+   "fin_s": 1169.7
   },
   {
    "acte": "Conclusion",
    "titre": "Conclusion",
    "mots": 387,
    "duree_s": 136.6,
-   "debut_s": 1170.0,
-   "fin_s": 1306.6
+   "debut_s": 1169.7,
+   "fin_s": 1306.3
   }
  ],
  "plages_hors_voix": [
@@ -154,8 +154,8 @@
   },
   {
    "titre": "Silence final (hors voix)",
-   "debut_s": 1306.6,
-   "fin_s": 1309.6
+   "debut_s": 1306.3,
+   "fin_s": 1309.3
   }
  ]
 }

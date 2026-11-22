@@ -135,7 +135,7 @@ Maintenant, 1980. La meilleure année de toute la série. La Sécurité sociale 
 
 > **IMAGE** — Deux cercles emboîtés : un petit, « régime général de la Sécurité sociale » ; un grand, « tous les comptes publics ». Le 88 % reste dans le petit.
 
-88 % de cet excédent-là. Pas du redressement de la France : les autres plans, eux, étaient durables.
+De cet excédent-là. Pas du redressement de la France : les autres plans, eux, étaient durables.
 
 Mais quand même. L'année où le pays passe le plus près de l'équilibre, le matelas de sa Sécurité sociale tient à une recette qui a une date de fin. Et cette date approche.
 
@@ -344,7 +344,7 @@ On entend souvent que les aides d'urgence, une fois ouvertes, ne refluent jamais
 
 Et entre les deux crises, il y a un redressement. 2011 : la zone euro vacille, la France est sous surveillance européenne. Dos au mur, troisième fois. (pause) Et troisième redressement.
 
-Comment ? Comme à la fin des années soixante-dix : d'abord par les recettes. De 2011 à 2014, elles représentent environ quatre cinquièmes de l'effort budgétaire mesuré. Et entre 2012 et 2015, la baisse du poids des intérêts représente près de la moitié de l'amélioration du solde.
+Comment ? Comme à la fin des années soixante-dix : d'abord par les recettes. De 2011 à 2014, elles représentent environ quatre cinquièmes de l'effort budgétaire mesuré. Et entre 2012 et 2015, la baisse du poids des intérêts représente près de la moitié de l'amélioration des comptes.
 
 Pourtant, même au plus haut de ce redressement, en 2018, la France dépense encore plus qu'elle n'encaisse, avant même les intérêts.
 

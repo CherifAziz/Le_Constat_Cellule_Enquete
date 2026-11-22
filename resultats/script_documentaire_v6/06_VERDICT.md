@@ -1,91 +1,118 @@
-# 06 · Verdict
+# 06 · Verdict final
 
-**22 novembre 2026.** Appréciation critique de la première version complète du script V6, *Avant la ligne*, et dernières corrections nécessaires avant enregistrement.
+**22 novembre 2026.** État de la V6 d'*Avant la ligne* après application des corrections de l'audit indépendant.
+
+**Le texte est prêt pour un test ElevenLabs.** Les formulations bloquantes relevées par l'audit sont toutes remplacées, la voix seule concorde avec le script annoté, et le générateur produit des fichiers cohérents. Ce test est une première écoute, pas l'enregistrement définitif : la durée réelle et l'intelligibilité de trois passages restent à mesurer sur la voix.
+
+Le verdict précédent, qui portait sur la version auditée et concluait qu'elle n'était pas prête, est archivé : [annexes/archive_924d875_verdict.md](annexes/archive_924d875_verdict.md).
 
 ---
 
 ## 1. Le verdict en cinq phrases
 
-1. **C'est un film, plus un plan.** Le script se lit et s'écoute d'un bout à l'autre : 3 755 mots, 21 min 52 de voix et de pauses, environ 23 minutes montées.
-2. **Il tient sa promesse d'enquête** du début à la treizième minute : une énigme, une page, un coupable qui n'en est pas un, un motif écrit vingt ans plus tard.
-3. **Il conclut par une idée qu'on retient et qu'on peut vérifier** : la France redresse ses comptes le dos au mur, et rend une partie du gain dès que le mur s'éloigne.
-4. **Son point faible est l'acte IV.** Il est mieux qu'avant les relectures, mais il reste le plus démonstratif, et la séquence 14 est la moins nécessaire.
-5. **Il n'est pas prêt à être enregistré.** Sept points sont à relire sur les originaux, et la conclusion repose sur une interprétation qu'une équipe indépendante doit contredire avant diffusion.
+1. **La V6 est figée.** 3 744 mots, quatorze séquences, une ouverture et une conclusion. L'architecture et les révélations sont celles de la version auditée.
+2. **Aucune erreur bloquante de l'audit ne subsiste.** Les quinze retouches de sa feuille sont appliquées ; aucune formulation bloquante n'a été gardée ([03](03_AUDIT_FACTUEL.md)).
+3. **La conclusion ne généralise plus.** Elle distingue les crises qui creusent, les redressements qui réduisent et l'équilibre qui ne revient pas, puis montre trois décisions écrites qui ne se ressemblent pas ([07](07_CORRECTIONS_APPLIQUEES.md), §2).
+4. **Le dernier acte avance.** Une séquence en moins, deux cents mots en moins, trois raccords refaits ([04](04_AUDIT_NARRATIF.md)).
+5. **Le texte final n'a pas été relu par l'équipe indépendante.** Les corrections suivent sa feuille ; sept phrases vont au-delà et sont justifiées une à une ([03](03_AUDIT_FACTUEL.md), §3).
 
-## 2. Ce qui fonctionne
+## 2. Les trois contrôles
+
+| Contrôle | Ce qui a été vérifié | Résultat |
+|---|---|---|
+| **Factuel** | Les quinze retouches bloquantes de la feuille ; les quatorze corrections demandées par la direction éditoriale ; trente-quatre formulations écartées cherchées dans la voix ; les chiffres dits, recalculés sur les séries du dépôt | Conforme. Aucune formulation écartée ne subsiste ; tous les chiffres recalculés concordent |
+| **Narratif** | Lecture continue de la voix ; les neuf éléments à préserver ; la progression séquence par séquence ; la conclusion | Conforme. Les neuf éléments sont intacts ; la dernière question est identique au caractère près |
+| **Technique** | Régénération de 01 et de `durees.json` depuis 02 ; comparaison indépendante de la voix seule et du texte parlé du script annoté ; continuité de la feuille de temps | Conforme. 107 paragraphes dits identiques dans les deux fichiers ; les plages se suivent sans trou ; la dernière borne est le total |
+
+Les trois programmes qui servent à ces contrôles sont dans `outils/` et se relancent tels quels :
+
+```
+python outils/construire_script.py . --ecrire
+python outils/verifier_concordance.py .
+python outils/controler_chiffres.py .
+```
+
+## 3. Ce qui a changé depuis la version auditée
+
+| | Version auditée (`924d875`) | Version finale |
+|---|---|---|
+| Promesse de l'ouverture | Un pays qui se redresse « presque toujours dans la même situation » | Trois redressements dont on peut suivre les décisions dans les archives |
+| Séquences | 15 | 14 : *L'écart* est supprimée |
+| Acte IV | 1 099 mots | 896 mots |
+| Conclusion | « Trois fois le même geste » ; « un problème avec les bonnes années » | Crises, redressements, pas de retour à l'équilibre ; trois décisions écrites, trois mécanismes |
+| 2000 | « Elle a choisi de rendre l'argent » | Le déficit diminue encore ; une partie des recettes supplémentaires est rendue quand davantage pouvait aller à sa réduction |
+| Trajectoires | Trente et une sur trente et une, sans règle de lecture | La règle est dite ; le décompte en années civiles aussi : trente et une sur trente-deux |
+| Durée | 21 min 52, avec trois secondes de silence final absentes du cumul | 21 min 49 estimées par le calcul, carton de titre et silence final inscrits comme plages |
+| Mots | 3 755 | 3 744 |
+
+## 4. Ce qui fonctionne
 
 | Force | Où |
 |---|---|
-| **Une première phrase que presque personne ne connaît** : « En 1980, la France a failli sortir du déficit » | Ouverture |
+| **Une première phrase que presque personne ne connaît** : « En 1980, la France est passée à deux doigts de l'équilibre » | Ouverture |
 | **Un objet concret toutes les deux minutes** : la loi hospitalière, la fiche de paie à 30 francs, la page de novembre 1980, le projet de loi de 2000, les cinq dates | Séq. 2, 4, 5, 10, 12 |
-| **Le film se retourne contre sa propre piste**, deux fois : la cotisation pèse moins d'un sixième ; garder toute la cagnotte ne couvrait que 41 % | Séq. 6, 10 |
+| **Le film se retourne contre sa propre piste**, deux fois : la cotisation pèse moins d'un sixième ; garder toute la cagnotte couvrait au plus quatre dixièmes du déficit | Séq. 6, 10 |
 | **L'aveu sur le motif de 1980**, joué comme un moment de méthode : « Ce que montrent les archives, c'est une décision. Pas un mobile » | Séq. 5 |
 | **Le contraste entre 1980 et 2000** : un motif qu'on cherche, un motif imprimé | Séq. 10 |
-| **Aucune majorité n'est blanchie ni chargée seule** : en 1981, « l'héritage et la gauche » ; les cinq dates écrites par la gauche, la droite et le centre | Séq. 6, 12 |
-| **Les découvertes de dernière minute sont les plus fortes** : trente et une échéances sur trente et une, cinq dates de retour à l'équilibre, la règle de 2005 jugée par la Cour | Séq. 11, 12 |
-| **La dernière minute** : la date tenue de 1979 contre les dates jamais tenues, puis la phrase du budget 2027 sur son propre « caractère conventionnel » | Conclusion |
+| **Aucune majorité n'est blanchie ni chargée seule** : en 1981, « l'héritage et la gauche » ; les cinq dates annoncées par la gauche, la droite et le centre | Séq. 6, 12 |
+| **Le film donne ses propres contre-exemples** : le déficit baisse en 2000 ; une cible sur trente-deux est tenue ; les baisses de 2018 sont votées avant la fin de la surveillance | Séq. 10, 12, 13 |
+| **La dernière minute** : une date inscrite dans un texte, cinq trajectoires dépassées, puis la phrase du projet de budget 2027 sur son propre « caractère conventionnel » | Conclusion |
 
-## 3. Ce qui reste faible
+## 5. Ce qui reste faible
 
 | Faiblesse | Gravité | Ce qu'il faudrait |
 |---|---|---|
-| **L'acte IV reste une suite d'explications examinées l'une après l'autre.** Les relectures l'ont resserré, pas transformé | Moyenne | Un objet qui le traverse, comme la page de 1980 traverse l'acte II. Candidat : la pile des trente et un documents, ouverte en séquence 11 et refermée en conclusion |
-| **La séquence 14 est la moins nécessaire.** L'écart de quarante ans est une belle image ; le pari sur les cotisations ouvre un dossier que le film ne peut pas traiter en trente secondes | Moyenne | Soit la couper après « Et laissé en partant », soit la sortir. La conclusion n'en dépend pas |
-| **Aucun enjeu d'aujourd'hui avant la dix-neuvième minute.** On reste par curiosité, pas parce qu'on se sent concerné | Moyenne | Tester une ouverture qui cite le vote du 4 novembre 2026 en une phrase |
-| **La séquence 2 est encore le passage le plus abstrait**, et il arrive à la deuxième minute | Moyenne | Au montage : montrer l'hôpital plus tôt. À l'écriture : une image concrète pour « garder son élan » |
-| **Le travail (séquence 8) est traité vite.** Une minute pour le changement le plus profond du pays | Faible | Assumé : c'est le prix du rééquilibrage. Un film entier pourrait lui être consacré |
-| **La conclusion généralise à partir de trois épisodes.** Elle le dit, mais la formule finale est plus forte que la réserve | À surveiller | Voir §4 |
+| **La conclusion est plus longue** : 387 mots contre 307. Le paragraphe sur la conjoncture est le plus abstrait | Moyenne | L'écouter. S'il pèse, le réduire à sa dernière phrase et laisser les chiffres à l'écran |
+| **La séquence 2 reste le passage le plus abstrait**, à la deuxième minute | Moyenne | Au montage : montrer l'hôpital plus tôt |
+| **Aucun enjeu d'aujourd'hui avant la dix-neuvième minute** | Moyenne | Assumé : l'audit recommande de garder le scrutin du 4 novembre 2026 pour la séquence 14 |
+| **Le travail (séquence 8) est traité vite** | Faible | Assumé depuis la version auditée |
+| **« Presque personne ne s'en souvient »** est invérifiable | Faible | Signalé par l'audit comme non bloquant. À couper si la phrase gêne à l'écoute |
 
-## 4. Le point qui demande une contre-expertise
+## 6. Avant et après le test ElevenLabs
 
-La conclusion affirme un motif : **trois redressements le dos au mur, trois relâchements quand la contrainte s'éloigne.**
+### Pour le test
 
-- **Ce qui est établi** : les trois redressements ; le contexte de chacun ; les décisions de 1980, de 2000 et d'après 2018 ; le fait qu'aucune n'explique le déficit seule ; l'absence d'excédent avant intérêts depuis 2002 ; les trente et une cibles manquées.
-- **Ce qui est une lecture** : le lien entre les deux séries. « Dos au mur » range sous un même mot une caisse en déficit, un critère d'entrée dans l'euro et une procédure européenne. « Rendre » range sous un même mot une recette non prolongée et des baisses d'impôts.
-- **Ce qui la contredit en partie** : la première enquête note que la coïncidence entre redressements et procédure européenne porte sur deux épisodes et n'établit pas une cause. Le cumul des décisions fiscales change de signe selon l'année de départ. Et 2025, année ordinaire, affiche 5,1 % de déficit sans qu'aucun mur ne se soit éloigné.
+| # | À faire |
+|---|---|
+| 1 | Donner à la voix le fichier [01_SCRIPT_V6.md](01_SCRIPT_V6.md), sans son bandeau. Les `(pause)` et `(silence)` sont des indications de réalisation, à traduire dans la syntaxe de l'outil ou à retirer |
+| 2 | Mesurer la durée du fichier audio et la consigner à côté de l'estimation. Les 21 min 49 reposent sur une hypothèse de 182 mots par minute : ce n'est pas une mesure |
+| 3 | Écouter sans l'écran trois passages : du régime général aux comptes de la France (séquence 4) ; du budget de l'État au déficit public (séquence 10) ; des prévisions à la dette (séquences 12 et 13). Si l'on a besoin du carton pour savoir de quoi parle un pourcentage, redire le périmètre dans la phrase |
+| 4 | Vérifier la prononciation des nombres écrits en chiffres (« 0,4 % », « 3 000 francs », « 11 à 15 % », « 800 000 ») et des sigles (CSG, TVA) |
 
-**Recommandation.** Soumettre cette seule question à l'équipe indépendante avant l'enregistrement : *la formule « la France a un problème avec les bonnes années » résiste-t-elle aux pièces, ou faut-il l'atténuer ?* Si elle ne résiste pas, la version de repli est déjà dans le script : « Trois épisodes ne font pas une loi. Mais ce sont ceux que montrent les archives. »
+### Avant l'enregistrement définitif
 
-## 5. Dernières corrections nécessaires
-
-### Avant l'enregistrement
-
-| # | À faire | Séq. |
-|---|---|---|
-| 1 | Relire sur la page d'origine la citation du Sénat de 2008 (« contentées de décaler… ») | 12 |
-| 2 | Relire les trente et un documents de programmation à l'origine, au moins les cinq qui annoncent l'équilibre | 12, concl. |
-| 3 | Vérifier le jour d'entrée en vigueur de la retraite à 60 ans | 6 |
-| 4 | Valider les noms des trois Premiers ministres et la formule « de gauche, de droite et du centre » sur la liste des gouvernements | 4, 7, 10, 12 |
-| 5 | Relire sur la loi promulguée du 13 juillet 2000 les 49 millions affichés à l'écran | 10 |
-| 6 | Faire contre-expertiser la conclusion (§4) | Concl. |
-| 7 | Lecture à voix haute, chronomètre en main : les durées sont calculées, pas mesurées | Tout |
+| # | À faire |
+|---|---|
+| 5 | Reporter dans 02 toute retouche née de l'écoute, puis relancer les trois programmes de `outils/` |
+| 6 | Faire relire par l'équipe indépendante les sept phrases qui vont au-delà de sa feuille ([03](03_AUDIT_FACTUEL.md), §3) et la conclusion |
 
 ### Avant le montage
 
 | # | À faire |
 |---|---|
-| 8 | Obtenir le fac-similé du décret du 30 juillet 1979. S'il est trouvé, la phrase « on ne l'a pas retrouvé » disparaît |
-| 9 | Trouver une une de presse de 2000 portant le mot « cagnotte » |
-| 10 | Rassembler les couvertures des trente et un documents et les cinq pages qui annoncent l'équilibre |
-| 11 | Sourcer et acquérir les archives audiovisuelles de 1975, 1981, 1997 et 2000 |
-| 12 | Trancher l'ouverture : avec ou sans le vote du 4 novembre 2026 |
-| 13 | Décider du sort de la séquence 14 |
+| 7 | Obtenir le fac-similé du décret du 30 juillet 1979. S'il est trouvé, la phrase « on ne l'a pas retrouvé » disparaît |
+| 8 | Trouver une une de presse de 2000 portant le mot « cagnotte » |
+| 9 | Afficher 49 ou 64 millions selon la pièce montrée : projet du 26 avril ou loi du 13 juillet 2000 |
+| 10 | Signaler par des crochets les coupes de la citation de novembre 1980 |
+| 11 | Rassembler les couvertures des documents de programmation et les cinq pages qui annoncent l'équilibre |
+| 12 | Sourcer et acquérir les archives audiovisuelles de 1975, 1981, 1997 et 2000 |
 
-## 6. Ce que cette version n'est pas
+## 7. Ce que cette version n'est pas
 
-- **Ce n'est pas un texte mesuré à l'oreille.** Aucune voix ne l'a encore lu. Les `(pause)` sont des hypothèses.
-- **Ce n'est pas un texte contre-expertisé par une autre équipe.** Les deux relecteurs et la rédaction sont le même modèle. Ils ont trouvé une inexactitude, six formulations trop fortes et treize défauts de rythme. Une dernière relecture critique a ensuite trouvé une erreur de chiffre qui leur avait échappé à tous (les aides de crise) : un autre regard en trouvera d'autres. Le texte corrigé n'a pas eu de seconde écoute indépendante.
+- **Ce n'est pas un texte mesuré à l'oreille.** Aucune voix ne l'a encore lu. Les pauses sont des hypothèses.
+- **Ce n'est pas un texte contre-expertisé dans son dernier état.** L'équipe indépendante a audité la version précédente. Ses corrections sont appliquées, mais elle n'a pas relu le résultat.
 - **Ce n'est pas un film sur les solutions.** Il ne dit pas quoi faire. Il donne au spectateur une question à poser : *qu'est-ce qu'on en fait ?*
 
-## 7. Par rapport à la V5
+## 8. Fichiers du dossier
 
-| | V5 | V6 |
-|---|---|---|
-| Question | Pourquoi un pays riche n'arrive-t-il pas à régler son déficit ? | Que s'est-il passé en 1980, et pourquoi plus jamais aussi près ? |
-| Réponse | Un modèle trop cher, un cliquet, un blocage | Trois redressements le dos au mur, trois relâchements |
-| Pièce maîtresse | Une note de Bercy de 2023 | Une page du Sénat de 1980 |
-| Fin | La Suède, et « la dépense d'abord » | Cinq dates jamais tenues, et une question |
-| Affirmations inexactes relevées | 5 | 1, corrigée |
-| Thèses réfutées par les enquêtes | « l'aide dure » ; le blocage comme cause des 51 ans | Aucune reprise |
-
-À débit égal, la V6 est plus longue de deux minutes et raconte quarante-cinq années que la V5 ne racontait pas.
+| Fichier | Rôle |
+|---|---|
+| [01_SCRIPT_V6.md](01_SCRIPT_V6.md) | Voix off finale, texte seul. Produit automatiquement |
+| [02_SCRIPT_ANNOTE.md](02_SCRIPT_ANNOTE.md) | Version annotée finale : voix, images, archives. Seule source à modifier |
+| [03_AUDIT_FACTUEL.md](03_AUDIT_FACTUEL.md) | Contrôle factuel de conformité à l'audit indépendant |
+| [04_AUDIT_NARRATIF.md](04_AUDIT_NARRATIF.md) | Contrôle narratif final et durées estimées |
+| [05_MODIFICATIONS_ARCHITECTURE.md](05_MODIFICATIONS_ARCHITECTURE.md) | Écarts entre l'architecture et le script final |
+| [07_CORRECTIONS_APPLIQUEES.md](07_CORRECTIONS_APPLIQUEES.md) | Tableau des corrections appliquées, phrase par phrase |
+| `durees.json` | Feuille de temps estimée, avec ses hypothèses |
+| `outils/` | Générateur, vérification de concordance, contrôle des chiffres |
+| `annexes/` | Archives : audits et verdict de la version auditée, relectures intermédiaires |

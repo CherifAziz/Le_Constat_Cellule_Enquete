@@ -1,3 +1,5 @@
+> **Relecture intermédiaire, archive historique.** Enregistrée au commit `2739559`, dernière modification au commit `da258e6eb162d284a43a4627464e95552b982816`. Elle porte sur un état du script antérieur à la version auditée (`924d875`) et à la version finale : certaines phrases qu'elle commente n'existent plus, et elle annonce 3 595 mots. Elle ne vaut pas visa de la voix finale. Pour le texte final, voir [06_VERDICT.md](../06_VERDICT.md).
+
 ÉTAT : complet
 
 # Relecture narrative contradictoire — Script V6 *Avant la ligne*

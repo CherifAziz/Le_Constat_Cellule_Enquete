@@ -1,5 +1,7 @@
 # Relecture factuelle contradictoire du script V6
 
+> **Relecture intermédiaire, archive historique.** Enregistrée au commit `2739559`, dernière modification au commit `da258e6eb162d284a43a4627464e95552b982816`. Elle porte sur un état du script antérieur à la version auditée (`924d875`) et à la version finale : certaines phrases qu'elle commente n'existent plus. Elle ne vaut pas visa de la voix finale. Pour le texte final, voir [06_VERDICT.md](../06_VERDICT.md).
+
 ÉTAT : complet (dans la limite du budget de recherches ; voir §5)
 
 22 novembre 2026. Contrôle du `01_SCRIPT_V6.md` contre la base factuelle (00), le dossier de preuves (08), la série `annuel.csv`, `A08_programme_vs_execute.csv`, le rapport de la Cour annexé au Sénat n° 338 (2018-2019) et le projet de loi n° 2335. Sauf mention, les valeurs sont relues ce jour.

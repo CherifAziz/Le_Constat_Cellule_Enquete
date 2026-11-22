@@ -1,142 +1,115 @@
-# 03 · Audit factuel du script V6
+# 03 · Contrôle factuel de conformité à l'audit indépendant
 
-**22 novembre 2026.** Contrôle des affirmations du script [01](01_SCRIPT_V6.md), avec leurs sources et leurs incertitudes.
+**22 novembre 2026.** Vérification que la voix finale ([01](01_SCRIPT_V6.md)) ne contient plus aucune des formulations que l'audit indépendant a jugées bloquantes, et que les phrases qui les remplacent sont établies.
 
-**Comment il a été fait.** Deux passes. La direction éditoriale a d'abord relu dans les pièces les trois appuis de la conclusion (§1). Un vérificateur indépendant a ensuite confronté 72 affirmations du script aux pièces et aux séries ; son rapport complet, ligne par ligne, est en annexe : [relecture_factuelle_agent.md](annexes/relecture_factuelle_agent.md). Ses corrections ont été appliquées au script (§3). Le tableau du §2 porte sur le texte **corrigé**.
+**Références.**
+- Version auditée : commit `924d875`. Version finale : la présente branche, `claude/script-v6-finalisation`.
+- Audit indépendant : commit `d398aaf`, dossier `resultats/audit_independant_v6/` — [verdict scientifique](https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/blob/d398aaf7990619709c51ecef15b14263baca26bd/resultats/audit_independant_v6/01_VERDICT_SCIENTIFIQUE.md), [corrections factuelles](https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/blob/d398aaf7990619709c51ecef15b14263baca26bd/resultats/audit_independant_v6/02_CORRECTIONS_FACTUELLES.md), [feuille de retouches](https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/blob/d398aaf7990619709c51ecef15b14263baca26bd/resultats/audit_independant_v6/05_CORRECTIONS_RECOMMANDEES.md), [décision](https://github.com/CherifAziz/Le_Constat_Cellule_Enquete/blob/d398aaf7990619709c51ecef15b14263baca26bd/resultats/audit_independant_v6/06_DECISION_FINALE.md).
+- L'ancien audit factuel, qui portait sur la version auditée, est archivé : [annexes/archive_924d875_audit_factuel.md](annexes/archive_924d875_audit_factuel.md).
 
-**Verdict.** Avant corrections : 36 affirmations exactes, 24 exactes avec réserve, 6 trop fortes, 1 inexacte, 3 non sourcées, 2 non vérifiées. Toutes les corrections demandées ont été appliquées, puis une seconde série après une dernière relecture critique (§3). **Le texte corrigé n'a pas été recontrôlé par un tiers** : sept points restent à relire sur l'original avant enregistrement (§5). Le script ne prête aucune intention, ne donne aucune dette contrefactuelle, et ne laisse jamais entendre qu'une décision aurait ramené l'équilibre.
+**Résultat.** Les quinze retouches bloquantes de la feuille sont appliquées. Aucune formulation bloquante n'a été conservée. Les trente-quatre formulations écartées ont été cherchées dans la voix : aucune ne subsiste. Les chiffres dits ont été recalculés sur les séries du dépôt : tous concordent.
+
+**Limite.** Ce contrôle a été fait par la rédaction, à partir des preuves de l'audit et des séries du dépôt. Aucune pièce nouvelle n'a été recherchée. Le texte final n'a pas été relu par l'équipe indépendante.
 
 ---
 
-## 1. Les trois appuis de la conclusion, relus à la source
+## 1. Les quinze retouches bloquantes de la feuille
 
-| Appui | Pièce relue | Résultat |
+| # | Séq. | Ce que l'audit jugeait bloquant | Ce que dit la voix finale | État |
+|---|---|---|---|---|
+| 1 | Ouv. | « presque toujours dans la même situation » | « Trois fois, on peut suivre ses décisions jusque dans les archives. » | Corrigé |
+| 2 | 1 | Ordre du choc et de 1974 ; « c'est lui qui fait tomber 1975 » | Choc à l'automne 1973 ; 1974 « encore légèrement excédentaires » ; le choc « a contribué à la chute de 1975 » | Corrigé |
+| 3 | 2 | « Pour l'essentiel » ; calendrier de l'hôpital | « Plusieurs règles de prestations » écrites avant la crise, des décisions ajoutées ensuite ; 1979 : deux ans pour présenter la réforme ; 1984 dans les centres hospitaliers régionaux, 1985 pour l'extension | Corrigé |
+| 4 | 3 | « Tout se joue à côté » ; « La caisse est vide » | « environ un huitième » pour l'État, « plus de la moitié » pour les administrations de sécurité sociale ; le régime général « finit l'année » en déficit ; « quand le déficit du régime général était devenu pressant » | Corrigé |
+| 5 | 3, 9, 11 | Métaphore du crédit ; déficit primaire ; critère de l'euro | « Ses recettes couvrent ses dépenses avant intérêts » ; « Les déficits contribuent à augmenter la dette » ; « la valeur de référence de 3 % », « dans les comptes utilisés à l'époque » ; « dans notre série », 2006 « pratiquement à zéro ». Le mot « crédit » et le « ménage » ont disparu des trois séquences | Corrigé |
+| 6 | 6 | Jauge ; retraite ; chômage | « Si l'on compte simplement les neuf mois de recette perdus […] environ 11 à 15 % » ; « le 1er avril 1983 » ; chômage : même champ aux deux dates, moyennes dites comme telles, aucune attribution à la période d'avant mai | Corrigé |
+| 7 | 7 | « Chaque camp a gardé le morceau de vérité qui l'arrangeait » | « Le rapport budgétaire parle de consommation. Les comptes de la Sécurité sociale parlent d'une cotisation supprimée. Pour comprendre les deux, il faut revenir à la date inscrite en 1979. » | Corrigé |
+| 8 | 8 | « Tout le monde perd des heures » | Médiane de sept pays nommée ; « La baisse est plus forte en Espagne. Les heures augmentent en Suède et aux États-Unis. » | Corrigé |
+| 9 | 10 | « les impôts rentrent » ; « définitives » ; 41 % ; conclusion de la scène | Recettes de l'État revues à la hausse en avril ; « Certaines baisses […] se prolongent après 2000 » ; « Comparée au déficit public constaté pour 2000 […] au plus quatre dixièmes […] à activité inchangée » ; « le déficit public a encore diminué » | Corrigé |
+| 10 | 12 | Horizon ; crises ; cinq dates | Convention dite à voix haute ; 31 sur 31 ; 31 sur 32 en années civiles ; 17 hors crise financière mondiale et Covid ; « Voici cinq années annoncées » ; « quatre fois sur dix » coupé ; plus d'explication des échecs par les crises | Corrigé |
+| 11 | 13 | Dette qui « ne redescend pas » | « Après le Covid, elle redescend en partie. En 2023, elle reste environ onze points au-dessus de son niveau de 2019. Et depuis, elle remonte. » Les deux phrases sur le cliquet sont coupées | Corrigé |
+| 12 | 13 | Effort en recettes ; taux ; chronologie de 2018 | « environ quatre cinquièmes de l'effort budgétaire mesuré » ; « la baisse du poids des intérêts » ; « Décembre 2017 […] Juin 2018 […] Les baisses étaient votées avant. » | Corrigé |
+| 13 | ex-14 | Toute la séquence « L'écart » | Supprimée. Aucune phrase sur les allègements n'est conservée | Corrigé |
+| 14 | 14 (ex-15) | Des sièges aux votes | « les groupes du camp gouvernemental sont classés majoritaires, seuls ou avec leurs alliés » ; « Les quarante-deux années se sont terminées en déficit public » ; 2022 puis 2024 pour la perte de majorité | Corrigé |
+| 15 | Concl. | « trois fois le même geste » ; bonnes et mauvaises années | Voir [07](07_CORRECTIONS_APPLIQUEES.md), §2. Trois décisions distinguées par leur mécanisme ; plus aucune règle générale | Corrigé |
+
+## 2. Les quatorze corrections demandées par la direction éditoriale
+
+| Correction demandée | Phrase de la voix finale | Preuve |
 |---|---|---|
-| Les trajectoires jamais tenues | Table des 38 documents de programmation (`donnees/A08/A08_programme_vs_execute.csv`), chaque valeur rattachée à une pièce ; Sénat, rapport n° 78 (2008-2009), tableau « Les programmations successives de solde public » | **Formulation corrigée.** 31 documents ont une cible à trois ans échue ; 31 manquées. Hors fenêtres de crise : 17 sur 17. Pour l'année suivante : 15 tenues sur 37. Sept documents visent 2026 à 2030 et ne peuvent pas encore être jugés |
-| Les cinq dates de retour à l'équilibre | Même table ; Sénat n° 78 pour 2005, 2010 et 2012 ; programme de stabilité d'avril 2012 (tableau 2) pour 2016 ; Sénat n° 438 (2017-2018), p. 23, pour 2022 | **Établi, les cinq cibles relues dans les pièces.** Avril 2012 : « balanced public finances will be restored by 2016 » ; avril 2018 : solde de +0,3 en 2022. 2005 et 2010 sont des cibles à trois ans ; 2012, 2016 et 2022 à quatre ans. Soldes réalisés : −3,5 ; −7,2 ; −5,2 ; −3,8 ; −4,7 % du PIB. Trois échéances touchées par une crise (2010, 2012, 2022), deux non (2005, 2016) |
-| La règle d'affectation des surplus | Cour des comptes, enquête sur la dette des entités publiques, annexée au rapport du Sénat n° 338 (2018-2019), p. 73-74 | **Formulation corrigée.** La règle date de la loi organique du 12 juillet 2005. La Cour écrit qu'elle « n'a pas eu d'effet notable sur la trajectoire de l'endettement » et que « les annexes budgétaires des projets de loi de règlement ne retracent aucune occurrence de mise en œuvre de la règle ». Une loi de finances rectificative peut la modifier « sans limite » |
-| Les 42 budgets | `donnees/S12/s12_partieA_majorites_vote.csv` : 51 lignes. Décompte repris de la table et recompté ; les scrutins eux-mêmes n'ont pas été rouverts pour ce dossier | **Repris, avec deux réserves.** 22 budgets votés par un seul groupe, 20 par une coalition, 1 grâce à des non-inscrits (1987), 8 sans majorité absolue. Pour 36 exercices, la composition est relevée à la date la plus proche du vote. Le dossier prévient que ce décompte « ne départage rien » à lui seul |
+| Le premier choc pétrolier commence en 1973 | « Le premier choc pétrolier commence à l'automne 1973. » | Audit, contrôle 7 |
+| Règles de prestations héritées et décisions prises ensuite | « Plusieurs règles de prestations avaient été écrites avant la crise […]. Des décisions prises ensuite s'y sont ajoutées. » | 13 à 32 % de la hausse des prestations vient de décisions postérieures à 1974, selon la convention retenue |
+| Calendrier réel de la réforme hospitalière | « 1979 : une nouvelle loi donne deux ans pour présenter la réforme au Parlement. La nouvelle façon de payer commence en 1984, dans les centres hospitaliers régionaux, avant d'être étendue en 1985. » | Loi de 1979, article 30 ; Sénat, rapport de 1985 |
+| Un déficit annuel ne prouve pas une caisse vide | « le régime général […] finit l'année avec près de 11 milliards de francs de déficit » | Sénat n° 102, tome III : − 10,8 |
+| Solde primaire, intérêts et remboursement du principal | « Ses recettes couvrent ses dépenses avant intérêts. » La voix ne parle plus de remboursement | Audit, contrôle 7 |
+| Moyennes semestrielles du chômage, champ cohérent | « Le nombre de bénéficiaires des principales allocations chômage passe d'environ 800 000, au second semestre de 1980, à un million, en moyenne, au premier semestre de 1981. Ce semestre-là contient l'élection » | Sénat n° 32 (1982-1983), page imprimée 16 : 801 500 puis 1 001 300 pour les quatre lignes d'allocations |
+| Retraite à 60 ans au 1er avril 1983 | « La retraite à 60 ans du régime général entre en vigueur le 1er avril 1983. » | Ordonnance n° 82-270 du 26 mars 1982 |
+| Certains pays gagnent des heures | « La baisse est plus forte en Espagne. Les heures augmentent en Suède et aux États-Unis. » | AMECO, 1974–1990 : Espagne − 24,4 %, France − 17,7 %, Suède + 5,1 %, États-Unis + 10,2 % |
+| Budget de l'État en avril 2000 et déficit public constaté | « refait les comptes de l'État » ; puis « Regardons maintenant toutes les administrations, une fois l'année terminée. » | Projet n° 2335 ; déficit public 2000 : 19,1 milliards d'euros |
+| 31 sur 31 selon l'horizon budgétaire ; 31 sur 32 en années civiles | « On part de l'année du budget que présente le gouvernement : pour un texte d'automne, c'est l'année suivante. Et on regarde trois exercices plus loin. » Puis « Trente et une manquées sur trente-deux. » | Recalculé, §4 |
+| Les cinq dates ne sont pas les seules | « Voici cinq années annoncées » ; à l'écran, « relevé non exhaustif » | Annonce de + 0,2 % pour 2004 faite au Sénat le 18 décembre 2000, hors du relevé |
+| Ratio de dette après le Covid | « Après le Covid, elle redescend en partie. En 2023, elle reste environ onze points au-dessus de son niveau de 2019. Et depuis, elle remonte. » | 98,2 % en 2019 ; 114,9 % en 2020 ; 109,5 % en 2023 ; 115,7 % en 2025 |
+| Baisses votées fin 2017, procédure close en juin 2018 | « Décembre 2017 : le Parlement vote des baisses d'impôts pour 2018. Juin 2018 : la procédure européenne prend fin. » | Loi de finances pour 2018 ; décision du Conseil du 22 juin 2018 |
+| Les 42 budgets : un classement des majorités | « les groupes du camp gouvernemental sont classés majoritaires, seuls ou avec leurs alliés » | Table S12 : 22 + 20 ; 43 avec l'appoint de 1987 |
 
-## 2. Affirmations qui portent le film
+## 3. Ce qui va au-delà de la feuille de retouches
 
-Statuts : **É** établi sur pièce ou série · **C** vrai sous la condition dite dans le script · **I** interprétation du film (voir §4) · **G** connaissance générale, non sourcée dans le corpus.
+Sept phrases de la voix finale ne reprennent pas mot pour mot une proposition de l'audit. Chacune s'appuie sur un chiffre de l'audit ou sur un calcul refait sur les séries du dépôt.
 
-| Séq. | Affirmation (texte corrigé) | Statut | Source |
-|---|---|---|---|
-| Ouv. | En 1980, il manque 0,4 % de ce que le pays produit ; jamais aussi près depuis | É | Série Insee, mai 2026 (`codex/calculs/annuel.csv`) : −0,43 % ; meilleur résultat ultérieur −1,31 % (2000) |
-| Ouv. | Un rapport du Sénat de novembre 1980 annonce que la Sécurité sociale va replonger | É | Sénat n° 102 (1980-1981), t. III, page imprimée 23 |
-| 1 | Six déficits entre 1960 et 1974 | É | Série Insee ; contre-expertise finale |
-| 1 | Prime de 250 francs par enfant ; le budget de l'État avait basculé avant le plan | É | Sénat, bulletin des commissions, septembre 1975 ; Insee, note de conjoncture d'avril 1976 (lue par lien) |
-| 2 | Dépense : un peu moins de 7 % par an, puis un peu moins de 5 ; croissance divisée par plus de deux | É | Insee, tableaux 3.201 et 1.102 : 6,71 puis 4,75 % ; 5,62 puis 2,20 % |
-| 2 | Elle ralentit par rapport aux années soixante ; garde son rythme par rapport aux dernières années d'avant-crise | C | Contre-expertise : vrai contre 1960–1973 ; contre 1968–1973 elle dépasse légèrement sa tendance |
-| 2 | Quatre cinquièmes de la montée faits dès 1985 | É | 12,84 points sur 15,97 |
-| 2 | « Pour l'essentiel » des règles écrites avant la crise | C | Décomposition de convention : 13 à 32 % de la hausse des prestations vient de décisions postérieures à 1974 |
-| 2 | Préretraites : huit fois plus en 1985 qu'en 1973 | É | 0,14 puis 1,14 point de PIB (dossier S10) |
-| 2 | Hôpital : un an prévu, quatorze en réalité | É | Sénat n° 43 (1973-1974), p. 22 ; n° 103 (1974-1975), p. 20 ; n° 128 (1979-1980), p. 22 ; contre-expertise |
-| 3 | De 1978 à 1980, l'État ne fait qu'un huitième du chemin environ | É | `D02_variations_soldes_par_periode.csv` : État 13,2 % du gain, Sécurité sociale 57,1 % |
-| 3 | Près de 11 milliards de francs de déficit en 1978 | É | Sénat n° 102, t. III : −10,8 (régime général) |
-| 3 | En 1980, avant intérêts, la France encaisse plus qu'elle ne dépense ; c'est rare | É | +0,80 % ; neuf années sur cinquante et une |
-| 4 | Cotisation de 1 %, 30 francs sur 3 000, du 1er août 1979 au 31 janvier 1981 | É | Sénat n° 54 (1979-1980), t. IV, p. 31 et 46 ; n° 102, t. III, p. 9 |
-| 4 | Le décret n'a pas été retrouvé | É | Fac-similé du décret n° 79-650 non obtenu |
-| 4 | 88 % de l'excédent de la Sécu des salariés | É | 9,352 sur 10,669 milliards de francs (régime général) |
-| 5 | Déficit de 3,2 milliards annoncé pour 1981 | É | Sénat n° 102, t. III, page imprimée 23 |
-| 5 | Seule justification retrouvée : « en faveur de la consommation » | É | Sénat n° 98 (1980-1981), t. I, p. 107. Aucun document du gouvernement n'a été lu |
-| 5 | Le déficit est multiplié par plus de cinq en 1981 | É | −0,43 puis −2,43 % |
-| 6 | La fin de la cotisation pèse 11 à 15 % de la dégradation | C | Arithmétique sur neuf mois, à assiette inchangée (dossier D02) |
-| 6 | La retraite à 60 ans entre en vigueur en 1983 | É | Dossier D07 ; le jour exact n'est pas dans le corpus |
-| 6 | Chômeurs indemnisés : d'un million à près de 1,3 million entre le second semestre 1980 et le premier semestre 1981 | É | Sénat n° 32 (1982-1983), p. 14 : 1,01 puis 1,27 million |
-| 6 | Plus de 5 milliards de francs sans recette en face ; les taux montaient déjà | É | Sénat n° 311 (1980-1981), p. 57 et p. 34 |
-| 7 | « supprimée 9 mois plus tôt » | É | Commission des comptes de la Sécurité sociale, décembre 1982, p. 9 |
-| 8 | 60–64 ans : quatre sur dix en 1975, un sur dix en 2001 | É | Insee, enquête Emploi : 40,5 puis 10,8 % |
-| 8 | Heures : à peu près autant en 1974, 8 % de moins en 1990 | C | AMECO, médiane de sept pays ; en 1974 le signe dépend du panel |
-| 9 | Intérêts multipliés par six de 1974 à 1996 | É | 0,59 puis 3,61 % du PIB |
-| 9 | 1993 : pire déficit depuis le début de la série ; CSG plus que doublée | É | −6,40 % ; taux de 1,1 à 2,4 % |
-| 9 | Passer sous 3 % en 1997 pour l'euro ; de justesse dans les comptes de l'époque | G / É | Critère général ; 3,0 % à l'époque, 3,7 % dans la série actuelle ; soulte de France Télécom (dossier de Codex) |
-| 9 | 1998 à 2001 : excédent avant intérêts quatre années de suite | É | +0,99 ; +1,53 ; +1,65 ; +1,64 |
-| 10 | 51 milliards de francs ; quatre cinquièmes en baisses d'impôts | É | Projet de loi n° 2335 ; Sénat n° 371 : « à hauteur de 80 %, soit 40,6 milliards » |
-| 10 | Le mot « cagnotte » | É | Sénat, rapport sur le règlement du budget 2000 |
-| 10 | Les deux citations du projet de loi | É | Projet n° 2335, exposé général. Le « niveau inchangé » est celui du budget de l'État |
-| 10 | Une partie de la recette classée « exceptionnelle » | É | Projet n° 2335 : 15,4 milliards de recettes non fiscales exceptionnelles |
-| 10 | La commission des finances du Sénat propose une autre voie | É | Sénat n° 371 : « par redéploiement » |
-| 10 | Tout garder couvrait au maximum 41 % du déficit | C | 7,84 sur 19,1 milliards d'euros ; borne à activité inchangée |
-| 10 | Les impôts venaient de beaucoup monter | É | Recettes : 50,1 % du PIB en 1993, 52,1 % en 1999 ; approfondissements, découverte 4.9 |
-| 11 | Depuis vingt-quatre ans, aucun excédent avant intérêts ; 2006 frôle zéro | É | 2002 à 2025 ; −0,05 % en 2006 (une variante de l'Insee donne un léger excédent) |
-| 11 | Italie : dix années sur dix | É | Comparaisons de Codex |
-| 11 | « près de 3 points de PIB » | É | Rapport sur la situation des finances publiques, avril 2010 |
-| 11 | 12 milliards d'euros de baisses nouvelles en 2007 | É | Cour des comptes, juin 2008 (dossier de Codex) ; 6,9 milliards viennent d'une réforme votée fin 2005 |
-| 11 | Entre 2011 et 2013, les impôts remontent fortement | É | +2,4 points sur 2012–2016 |
-| 12 | Quatre fois sur dix, aussi bien ou mieux que prévu pour l'année suivante | É | 15 sur 37 |
-| 12 | Trente et une sur trente et une ; dix-sept sur dix-sept | É | Voir §1 |
-| 12 | Gouvernements de gauche, de droite et du centre | G | Dates des programmes : décembre 2001, décembre 2006, novembre 2007, avril 2012, avril 2018 |
-| 13 | Une marche d'au moins deux mois de production à chaque crise | É | Dette : +20,8 points de 2007 à 2010 ; +16,8 de 2019 à 2020 |
-| 13 | Les mesures d'urgence et de relance coûtent encore plus de 80 milliards d'euros en 2021, 12 en 2023 | É | Cour des comptes, juillet 2024, via le dossier A03 : 72,5 ; 83,7 ; 34,9 ; 12,4 milliards de 2020 à 2023 |
-| 13 | Sous surveillance européenne en 2011 ; la zone euro vacille | É / G | Procédure de déficit excessif de 2009 à 2018 ; contexte général |
-| 13 | Plus des quatre cinquièmes par les impôts ; près de la moitié par les intérêts | É | 83 % sur 2011–2014 ; 46 % sur 2012–2015 |
-| 13 | À partir de 2018, les impôts rebaissent | C | Cumul 2017–2025 négatif dans les deux conventions (−1,24 à −0,41 point) |
-| 14 | Écart de 3 points en 1985, de 5 en 2025 | É | 54,2 contre 51,2 ; 57,3 contre 52,2 |
-| 14 | Plus de la moitié de la dépense : retraites, santé, allocations | É | Structure de la dépense 2025 |
-| 14 | 78 milliards d'euros d'allègements | É | 77,6 milliards en 2025 |
-| 14 | Estimation de un à six ; aucune étude ne mesure le rendement pour les finances publiques | C | Vaut pour la première vague ; la contre-expertise confirme l'absence de rendement budgétaire mesuré |
-| 15 | 458 contre, zéro pour | É | Assemblée nationale, 4 novembre 2026 |
-| 15 | Des efforts sont retirés en séance | É | Audit de la V5, ligne 125, classée exacte |
-| 15 | Quarante-deux sur cinquante et un | É | Voir §1 |
-| Concl. | Sous les 3 % en 2029 ; « caractère conventionnel » ; au prochain gouvernement d'en définir une autre | É | Rapport annexé au projet de loi de finances pour 2027, p. 134 : « il appartiendra au prochain Gouvernement de définir une nouvelle trajectoire pluriannuelle après les élections » |
+| Séq. | Phrase | Appui |
+|---|---|---|
+| 1 | « C'est la dernière fois. » | Solde de + 0,10 % en 1974, négatif chaque année de 1975 à 2025 |
+| 8 | « cette base s'est rétrécie plus que dans six de ces sept pays » | Chiffres AMECO cités par l'audit : seule l'Espagne baisse davantage |
+| 10 | « en six ans, le poids des recettes publiques avait nettement monté » | 50,1 % du PIB en 1993, 52,1 % en 1999. L'audit note que cette série ne mesure pas à elle seule une hausse des taux d'impôt : la phrase dit donc « recettes publiques » |
+| 12 | « la toute première, celle de 2001 » | Programme de décembre 1998, cible de − 1,6 % pour 2001, réalisé − 1,42 % |
+| 13 | « Et depuis, elle remonte. » | 109,5 % en 2023, 112,6 % en 2024, 115,7 % en 2025. S'arrêter à 2023 aurait donné une image périmée pour un film daté de fin 2026 |
+| Concl. | « 1975, 1993, 2009, 2020 : à chaque fois, la courbe plonge. » | Le solde perd plus d'un point et demi de PIB chacune de ces quatre années |
+| Concl. | « Quand la croissance est forte, ils s'améliorent près de trois fois sur quatre. Une fois retiré l'effet de la conjoncture, selon les estimations de la Commission européenne : une fois sur trois environ. » | Test de l'audit : 22 années de croissance supérieure à 2 % depuis 1979 ; solde primaire amélioré 16 fois, 8 fois après correction du cycle |
 
-## 3. Corrections appliquées au script
+**Sur la dernière ligne.** L'audit présente ce test comme « l'objection la plus sérieuse » à sa propre réfutation, et précise qu'il repose sur une estimation du PIB potentiel et ne permet pas de conclure que les autorités ont réagi à la disparition d'une contrainte. La voix dit donc « selon les estimations » et n'en tire aucune accusation : « Un bon chiffre ne dit pas, à lui seul, ce qui a été décidé. » L'année 2000 fait partie des années où le solde corrigé se dégrade (− 1,10 point) ; ce chiffre reste à l'écran, hors voix.
 
-| Séq. | Avant | Après | Raison |
-|---|---|---|---|
-| Ouv. | « dans une seule situation » | « presque toujours dans la même situation » | Trop fort |
-| 1 | « La relance n'a pas creusé le trou » | « n'a pas ouvert le trou » | Contrefactuel : le plan a eu un coût |
-| 2 | « Personne n'a appuyé sur l'accélérateur » | « Il n'y a pas eu de grand coup d'accélérateur » | Des décisions postérieures à 1974 ont compté |
-| 3 | « à peine un huitième de l'effort » | « de 1978 à 1980, il ne fait qu'un huitième du chemin environ » | Période précisée ; source ajoutée |
-| 3 | « rarissime » | « rare » | Neuf années sur cinquante et une |
-| 4 | « tenait presque entièrement » | « tenait toutefois presque entièrement » | Citation tronquée |
-| 6 | « Un septième, au mieux » | « Moins d'un sixième » | 15 % dépasse un septième |
-| 6 | « Avant mai » | « L'essentiel de la hausse est là quand le nouveau pouvoir s'installe » | La moyenne du semestre inclut mai et juin |
-| 6 | « Après l'élection, les taux d'intérêt s'envolent » | « Les taux d'intérêt, qui montaient déjà, grimpent encore après l'élection » | Ils montent avant et après |
-| 9 | « La France y parvient de justesse » | « Dans les comptes de l'époque, la France y parvient de justesse » | 3,7 % dans la série actuelle |
-| 10 | « Et pour le déficit ? […] à un niveau inchangé » | « Et le déficit du budget de l'État ? » | La citation porte sur le budget de l'État |
-| 13 | « une marche d'une vingtaine de points » | « au moins deux mois de tout ce que le pays produit » | Unité absente ; 16,8 points en 2020 |
-| 14 | « Les deux ont monté ensemble » | « La dépense a monté plus vite que les recettes » | +3,1 points contre +1,1 |
-| 14 | « du simple au sextuple » | « Pour les premiers allègements […] de un à six » | Vaut pour la première vague seulement |
-| 15 | « les votes un par un, au Journal officiel » | « les budgets un par un, avec la composition de l'Assemblée au moment du vote » | Méthode réelle |
-| Concl. | « Et d'abord en prélevant plus » | « deux fois sur trois, presque uniquement en prélevant plus » | Dans les années 1990, la baisse du poids de la dépense compte aussi |
-| Concl. | « 1981 : une recette qu'on laisse s'éteindre » | « 1980 : la Sécurité sociale est redevenue excédentaire, et on laisse s'éteindre la recette qui fait cet excédent » | La décision date de 1980, l'échéance de 1979 |
-| Concl. | « 2018 : des impôts qu'on rebaisse » | « À partir de 2018 » | Mouvement étalé sur plusieurs années |
-| **Seconde série, après relecture critique** | | | |
-| 13 | « plus de 80 milliards d'euros de soutien sont retirés dès 2021 » | « En 2021, les mesures d'urgence et de relance du Covid coûtent encore plus de 80 milliards d'euros. Deux ans plus tard : 12 » | **Erreur de lecture** : 83,7 milliards est le montant dépensé en 2021, pas le montant retiré. L'erreur venait de la base factuelle |
-| Ouv. | « a failli sortir du déficit » | « est passée à deux doigts de l'équilibre » | Les pièces établissent la proximité, pas une possibilité réelle d'atteindre zéro |
-| 6 | « L'arrivant dépense sans financer » | « engage des dépenses qu'il ne finance qu'en partie » | 5,3 milliards de francs non financés, 7,7 financés par des taxes temporaires |
-| 7, 9 | « La porte de 1980 se referme » ; « la ligne est de nouveau à portée » | « L'occasion de 1980 est passée » ; « s'est de nouveau rapprochée de la ligne » | Ne pas laisser entendre que l'équilibre était atteignable par une décision |
-| 11 | « chaque année, le budget répond » | « pendant des années » | La Cour l'atteste pour 2010 à 2018 |
-| 12 | « Cinq fois, la France a écrit… » | « à trois ou quatre ans de distance » | Trois des cinq cibles sont à quatre ans |
-| 8, 14 | « le pays les finance d'abord sur le travail » ; « n'est jamais revenue au niveau » | « une grande partie […] est prélevée sur le travail » ; « reste plus étroite » | Formulations plus fortes que les pièces |
-| Concl. | « presque uniquement en prélevant plus » | « surtout en prélevant plus » | 83 % en 2011–2014 |
+## 4. Chiffres dits, recalculés
 
-## 4. Ce qui est une interprétation du film
+Le programme [outils/controler_chiffres.py](outils/controler_chiffres.py) relit les séries du dépôt au commit de la version auditée et vérifie chaque ligne de ce tableau. Il s'exécute sans erreur sur la voix finale.
 
-Ces phrases ne sont pas des faits. Le script les présente comme la lecture de trois épisodes et le dit (« trois épisodes ne font pas une loi »).
+| Séq. | Ce que dit la voix | Valeur recalculée |
+|---|---|---|
+| Ouv. | 0,4 % en 1980 ; plus jamais aussi près | − 0,43 % ; meilleur résultat de 1975 à 2025 |
+| 1 | 1974 encore légèrement excédentaire ; la dernière fois | + 0,10 % ; 51 soldes négatifs ensuite |
+| 3 | Avant intérêts, un résultat positif est rare | 9 années sur 51 : 1979, 1980, 1987, 1989, 1990, 1998 à 2001 |
+| 5 | Déficit multiplié par plus de cinq en 1981 | − 0,43 % puis − 2,43 % |
+| 9 | Poids des intérêts multiplié par six de 1974 à 1996 | 0,59 % puis 3,61 % du PIB |
+| 9 | 1993, pire déficit depuis le début de la série | − 6,40 % |
+| 10 | Le déficit public diminue encore en 2000 | − 3,71 % en 1997 ; − 2,39 ; − 1,54 ; − 1,31 % en 2000 |
+| 11 | Depuis 2002, aucun retour ; 2006 pratiquement à zéro ; vingt-quatre ans | 24 soldes avant intérêts négatifs ; − 0,05 % en 2006 |
+| 12 | 31 sur 31 ; 31 sur 32 ; 17 sur 17 | 31 cibles échues à l'horizon budgétaire, toutes manquées ; 32 en années civiles, une tenue (2001) ; 17 hors 2008–2010 et 2020–2021, toutes manquées |
+| 12 | Cinq années : 2005, 2010, 2012, 2016, 2022 | Seules cibles d'un solde au moins nul dans la table ; déficit supérieur à 3 % les cinq fois |
+| 13 | Au moins deux mois de production les deux fois | + 20,8 points de 2007 à 2010 ; + 16,7 points de 2019 à 2020 ; deux mois valent 16,7 points |
+| 13 | Environ onze points au-dessus de 2019 en 2023 ; remontée ensuite | + 11,3 points ; 112,6 % puis 115,7 % |
+| 13 | En 2018, encore un déficit avant intérêts | − 0,55 % |
+| 14 | Quarante-deux budgets classés majoritaires | 22 « parti seul », 20 « coalition », 1 « appoint », 8 « relative ou sans » |
+| Concl. | Près de trois fois sur quatre ; une fois sur trois environ | 16 sur 22 ; 8 sur 22 |
+
+Les autres chiffres de la voix (30 francs sur 3 000, 88 %, 3,2 milliards, 11 à 15 %, 51 milliards de francs, quatre dixièmes, plus de 80 milliards puis 12, 458 voix) sont ceux que l'audit a validés dans ses contrôles 4, 6 et 7. Ils n'ont pas été modifiés.
+
+## 5. Ce qui reste une interprétation
 
 | Phrase | Ce qui la soutient | Ce qui la limite |
 |---|---|---|
-| « Un pays qui sait très bien redresser ses comptes. Mais presque toujours dans la même situation » | Trois redressements documentés : 1975–1980, 1993–2000, 2010–2018 | Trois cas ; « dos au mur » qualifie des contextes différents (caisse en déficit, critère d'entrée dans l'euro, procédure européenne) |
-| « Trois fois, le dos au mur » | 10,8 milliards de francs de déficit du régime général en 1978 ; année de qualification pour l'euro ; procédure de déficit excessif de 2009 à 2018 | La première enquête note que les seules cibles tenues l'ont été sous procédure européenne, et précise : coïncidence sur deux épisodes, pas causalité |
-| « Elle a rendu une partie de ce qu'elle venait de gagner » | 1980 : recette non prolongée ; 2000 : le mot « restituer » est celui du projet de loi ; baisses à partir de 2018 | Aucun de ces gestes n'explique le déficit seul : 11 à 15 % en 1981, 41 % au plus en 2000. Le cumul des décisions fiscales change de signe selon l'année de départ |
-| « La France a un problème avec les bonnes années » | Aucun excédent avant intérêts depuis 2002 alors que les aides de crise ont été retirées ; règle de 2005 sans effet | La France a aussi laissé filer des années ordinaires ; 2025, sans récession, est à −5,1 % |
-| « Il la tient, au jour près. […] Il ne l'a jamais tenue » | Fin de la cotisation au 1er février 1981 ; cinq dates d'équilibre manquées | Les deux engagements ne sont pas de même nature : une échéance juridique d'un côté, une prévision de l'autre |
-| « Un écart ancien, que chaque gouvernement a trouvé en arrivant. Et laissé en partant » | Écart de 3 points en 1985, de 5 en 2025 | Image : l'écart a varié, il a été presque refermé en 2000 (−1,3 %) |
+| « Trois redressements sous contrainte » | Déficit du régime général en 1978 ; échéance de l'euro ; procédure européenne de 2009 à 2018. L'audit propose lui-même cette formule | Trois épisodes choisis après coup. La courbe comporte d'autres améliorations, en 1987 et en 1989 |
+| « Dos au mur, une deuxième fois », « troisième fois » | Les mêmes contextes | Image. Elle qualifie des contraintes de nature différente |
+| « L'occasion de 1980 est passée » | 1980 est l'année la plus proche de l'équilibre | Les pièces établissent une proximité, pas la possibilité d'atteindre zéro |
+| « quand il pouvait en consacrer davantage à réduire ce déficit » | Proposition de la commission des finances du Sénat ; avis de la Commission européenne du 24 janvier 2001 | Le rendement d'un plan jamais exécuté n'est pas mesuré : d'où « au plus quatre dixièmes, à activité inchangée » |
+| « Le blocage complique le problème d'aujourd'hui » | Des efforts retirés en séance ; le rejet du 4 novembre 2026 | L'effet d'une majorité sur le solde n'est pas mesuré |
 
-## 5. À relire avant enregistrement
+## 6. Ce qui attend le montage, sans bloquer la voix
 
-| # | Point | Pourquoi |
-|---|---|---|
-| 1 | Citation du Sénat n° 78 (2008-2009) : « contentées de décaler, chaque année ou presque, l'objectif de retour à l'équilibre » | Retrouvée dans le texte conservé après réparation de l'encodage ; le vérificateur ne l'a pas retrouvée par recherche simple. À lire sur la page d'origine |
-| 2 | Les 38 documents de programmation | Les valeurs sont rattachées à des pièces, mais seule une partie a été relue pour ce dossier (2005, 2010, 2012 sur le tableau du Sénat ; 2027 à 2030 sur le budget 2027) |
-| 3 | « au moment du vote » pour les 42 budgets | 36 compositions sont relevées à la date la plus proche, pas au jour exact. Trois exercices (1988, 2015, 2017) tiennent à zéro ou un siège |
-| 4 | Jour d'entrée en vigueur de la retraite à 60 ans | Le corpus donne l'année, pas le jour |
-| 5 | Fac-similé du décret du 30 juillet 1979 | Toujours absent ; le script le dit |
-| 6 | Les trois Premiers ministres nommés et « de gauche, de droite et du centre » | Connaissance générale, à valider sur la liste des gouvernements conservée au dépôt |
-| 7 | Une de presse avec le mot « cagnotte » | À trouver ; le mot lui-même est attesté par le Sénat |
-
-**Limite de l'audit.** Le vérificateur et la rédaction sont le même modèle. Une relecture par l'équipe indépendante reste nécessaire avant diffusion, en priorité sur l'acte IV et la conclusion, écrits en dernier.
+| Point | État |
+|---|---|
+| Fac-similé du décret du 30 juillet 1979 | Toujours absent. La voix le dit ; le tableau du Sénat est montré et crédité comme tel |
+| Une de presse portant le mot « cagnotte » | À trouver. Le mot est attesté par le Sénat |
+| Carton des 49 millions | 49 pour le projet du 26 avril ; 64 pour la loi promulguée le 13 juillet. Afficher le chiffre de la pièce montrée |
+| Coupes de la citation de novembre 1980 | À signaler par des crochets au sous-titre |
+| Citation « supprimée neuf mois plus tôt » | Reprise de la version auditée, non contestée par l'audit. À relire sur la page lors de l'acquisition de l'image |
+| « Six années dans le rouge » entre 1960 et 1974 | Reprise de la version auditée, non contestée. La série annuelle du dépôt commence en 1974 : ce chiffre n'a pas été recalculé ici |
+| Couvertures des documents de programmation | L'audit a contrôlé les tableaux et la table ; cela ne vaut pas authentification des 38 couvertures |
