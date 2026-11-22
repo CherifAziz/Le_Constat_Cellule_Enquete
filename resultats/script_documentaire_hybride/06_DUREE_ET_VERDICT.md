@@ -79,7 +79,7 @@ Les coupes 1 à 4 ramènent l'estimation vers 28:27. Avec la cinquième, on arri
 | Sort du PLF et du PLFSS 2027 : si les textes changent, rejouer ensemble le besoin, le portefeuille et la pente ; mettre à jour les cartons datés | Cellule, modèle A15 | **Oui**, si le budget est adopté avant l'enregistrement |
 | Relire la page 416 du discours de Persson (objectif du 94 %) et arrêter la traduction des pages 414 et 416 ; la voix suit la traduction | Rédaction | Oui (quelques minutes) |
 | Sourcer la une de presse « cagnotte » et la référence de décembre 2018 | Production | Non (image) |
-| Mesurer la durée réelle sur l'essai de voix ElevenLabs ; appliquer les coupes du §1 si nécessaire | Production | — |
+| Mesurer la durée réelle sur l'essai de voix ElevenLabs, à partir de [07_TEXTE_ELEVENLABS.md](07_TEXTE_ELEVENLABS.md) (25 blocs balisés, sans balise de chuchotement) ; appliquer les coupes du §1 si nécessaire | Production | — |
 | Faire passer à un auditeur les trois tests de compréhension d'Astra : la ligne zéro, les payeurs de la TVA et de la CSG, l'objet du 94 % | Production | Recommandé |
 | Remplacer les personnages d'illustration par de vrais témoins, si possible | Production | Non |
 | Relecture du script complet par l'équipe indépendante (Astra) | Commanditaire | À décider |

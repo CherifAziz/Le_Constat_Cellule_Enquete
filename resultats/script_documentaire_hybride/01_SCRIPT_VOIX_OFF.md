@@ -22,7 +22,7 @@ Alors regarde cette barre-là. 1980. Il ne manque presque rien à la France pour
 
 Et dans les archives du Sénat, il y a une page, imprimée en novembre 1980, qui annonce que les comptes de la Sécurité sociale vont replonger. Elle dit même pourquoi. (pause) On va la lire ensemble.
 
-Ce film cherche à répondre à trois questions. Comment la France s'est enfermée dans cinquante et un ans de déficits. Pourquoi elle n'arrive pas à en sortir. Et ce qui pourrait marcher, à quel prix. (pause) Sur la dernière, on ne s'arrêtera pas à une liste. On dira ce qui nous paraît le plus crédible. Et pourquoi.
+Ce documentaire cherche à répondre à trois questions. Comment la France s'est enfermée dans cinquante et un ans de déficits. Pourquoi elle n'arrive pas à en sortir. Et ce qui pourrait marcher, à quel prix. (pause) Sur la dernière, on ne s'arrêtera pas à une liste. On dira ce qui nous paraît le plus crédible. Et pourquoi.
 
 ---
 

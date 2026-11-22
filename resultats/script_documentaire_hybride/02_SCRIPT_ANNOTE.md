@@ -45,7 +45,7 @@ Et dans les archives du Sénat, il y a une page, imprimée en novembre 1980, qui
 
 > **IMAGE** — Trois lignes s'écrivent l'une sous l'autre : « Comment s'est-elle enfermée ? » · « Pourquoi n'en sort-elle pas ? » · « Qu'est-ce qui pourrait marcher, et à quel prix ? »
 
-Ce film cherche à répondre à trois questions. Comment la France s'est enfermée dans cinquante et un ans de déficits. Pourquoi elle n'arrive pas à en sortir. Et ce qui pourrait marcher, à quel prix. (pause) Sur la dernière, on ne s'arrêtera pas à une liste. On dira ce qui nous paraît le plus crédible. Et pourquoi.
+Ce documentaire cherche à répondre à trois questions. Comment la France s'est enfermée dans cinquante et un ans de déficits. Pourquoi elle n'arrive pas à en sortir. Et ce qui pourrait marcher, à quel prix. (pause) Sur la dernière, on ne s'arrêtera pas à une liste. On dira ce qui nous paraît le plus crédible. Et pourquoi.
 
 > **IMAGE** — Le trait blanc seul. Titre. **SON** — une note tenue, coupée net.
 
@@ -458,7 +458,7 @@ La France s'est enfermée quand sa croissance a cassé et que sa dépense a gard
 
 Aujourd'hui, aucun levier ne suffit seul sans faire payer toujours les mêmes. Et même les trente-huit mesures du portefeuille central, réunies, ralentissent dans nos simulations la hausse de la dette sans encore l'arrêter.
 
-> **IMAGE** — Carton : « Position du film, à partir des pièces ».
+> **IMAGE** — Carton : « Notre position, à partir des pièces ».
 
 Voici ce qui nous paraît le plus crédible. C'est une position, pas un calcul.
 
