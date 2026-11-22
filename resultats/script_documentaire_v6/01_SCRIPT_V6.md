@@ -4,7 +4,7 @@
 
 `(pause)` : respiration marquée, environ une seconde. `(silence)` : deux à trois secondes sans voix.
 
-**3652 mots. Durée estimée : 21:11** (182 mots par minute, pauses et respirations comprises).
+**3725 mots. Durée estimée : 21:42** (182 mots par minute, pauses et respirations comprises).
 
 ---
 
@@ -18,7 +18,7 @@ Et le plus étrange, c'est cette page. Novembre 1980. Un rapport du Sénat. Impr
 
 Cette phrase, on va la lire ensemble. Elle ne ressemble à rien de ce qu'on t'a raconté sur le choc pétrolier, sur la gauche, sur la droite ou sur la crise.
 
-Parce que cinquante et un ans de déficit, ça ne s'explique pas avec les trois dernières années. Alors on a ouvert les archives des cinquante et une. Et on y a trouvé un pays qui sait très bien redresser ses comptes. (pause) Mais dans une seule situation.
+Cinquante et un ans de déficit, ça ne s'explique pas avec les trois dernières années. Alors on a ouvert les archives des cinquante et une. Et on y a trouvé un pays qui sait très bien redresser ses comptes. (pause) Mais presque toujours dans la même situation.
 
 ---
 
@@ -32,17 +32,17 @@ Premier détail qu'on oublie. Avant ce choc, la France n'était pas un modèle :
 
 Deuxième détail. À l'automne 1975, le gouvernement lance un plan de relance, avec une prime de 250 francs par enfant pour les familles. On en a souvent fait le début de la dérive. Sauf que l'Insee l'écrit dès avril 1976 : le budget de l'État avait basculé avant le plan. La relance n'a pas ouvert le trou. Elle est arrivée dedans.
 
-Donc oui, le choc a compté : c'est lui qui fait tomber 1975. Mais regarde la suite de la courbe. Cinq ans plus tard, elle est presque revenue à zéro. Un choc n'explique pas qu'on se relève, puis qu'on retombe pour quarante-cinq ans.
+Donc oui, le choc a compté : c'est lui qui fait tomber 1975. Mais la courbe ne s'arrête pas là. Cinq ans plus tard, elle est presque revenue à zéro. Un choc n'explique pas qu'on se relève, puis qu'on retombe pour quarante-cinq ans.
 
 ### 2 · L'élan
 
-Deuxième explication, la plus répandue : après 1974, l'État aurait ouvert les vannes.
+Autre explication, la plus répandue : après 1974, l'État aurait ouvert les vannes.
 
-Voilà ce que disent les comptes. Dans les années soixante, la dépense publique augmente d'un peu moins de 7 % par an, inflation déduite. Après le choc : un peu moins de 5. Elle n'accélère pas. Par rapport aux années soixante, elle ralentit ; par rapport aux toutes dernières années avant la crise, elle garde simplement son rythme.
+Voilà ce que disent les comptes. Dans les années soixante, la dépense publique augmente chaque année d'un peu moins de 7 %, inflation déduite. Après le choc : un peu moins de 5. (pause) Elle n'accélère pas. Par rapport aux années soixante, elle ralentit. Et par rapport aux toutes dernières années d'avant-crise, elle garde simplement son rythme.
 
-C'est la croissance qui casse. Elle est divisée par plus de deux.
+Ce qui casse, c'est la croissance. Elle est divisée par plus de deux.
 
-Il n'y a pas eu de grand coup d'accélérateur. La dépense a gardé son élan dans une économie qui venait de freiner. Et l'essentiel se joue là : les quatre cinquièmes de toute la hausse du poids de la dépense publique, de 1974 à aujourd'hui, sont faits dès 1985.
+Il n'y a pas eu de grand coup d'accélérateur. La dépense a gardé son élan dans une économie qui venait de freiner. (pause) Et c'est là que presque tout se joue. Depuis 1974, la dépense publique prend une part de plus en plus grande de la richesse du pays. Les quatre cinquièmes de cette montée sont faits dès 1985. En onze ans.
 
 L'élan de quoi ? Pour l'essentiel, de règles écrites avant la crise, quand l'argent rentrait tout seul. Deux exemples.
 
@@ -60,7 +60,7 @@ Comment ? Pas par le budget de l'État, celui dont on débat chaque automne. Sur
 
 Il faut dire qu'il y a urgence. En 1978, la Sécurité sociale des salariés accuse près de 11 milliards de francs de déficit. La caisse est vide.
 
-Et ça marche. En 1980, si tu mets de côté les intérêts de la dette, la France encaisse plus qu'elle ne dépense. Comme un ménage dont le budget est équilibré avant le remboursement de son crédit. Dans cette histoire, c'est rarissime.
+Et ça marche. En 1980, si tu mets de côté les intérêts de la dette, la France encaisse plus qu'elle ne dépense. Comme un ménage dont le budget est équilibré avant le remboursement de son crédit. Dans cette histoire, c'est rare.
 
 Voilà donc un pays qui sait se redresser. Avec deux précisions : il le fait quand la caisse est vide, et il le fait en prélevant plus.
 
@@ -80,7 +80,7 @@ Cette cotisation est créée pour dix-huit mois. Sa fin est écrite le jour de s
 
 Le décret lui-même, on ne l'a pas retrouvé. Mais deux rapports du Sénat le citent, avec son numéro et ses dates.
 
-Maintenant, 1980. La meilleure année de toute la série. La Sécurité sociale des salariés termine avec un excédent : un peu moins de 11 milliards de francs. D'où vient-il ? La Commission des comptes de la Sécurité sociale l'écrit elle-même, un an plus tard : ce résultat « tenait toutefois presque entièrement à la cotisation exceptionnelle ». On a refait le calcul : 88 %.
+Maintenant, 1980. La meilleure année de toute la série. La Sécurité sociale des salariés, qui était dans le rouge deux ans plus tôt, termine avec un excédent du même ordre : un peu moins de 11 milliards de francs. D'où vient-il ? La Commission des comptes de la Sécurité sociale l'écrit elle-même, un an plus tard : ce résultat « tenait toutefois presque entièrement à la cotisation exceptionnelle ». On a refait le calcul : 88 %.
 
 Attention à ce que ça veut dire. 88 % de l'excédent de la Sécu des salariés. Pas 88 % du redressement de la France : les autres plans, eux, étaient durables.
 
@@ -108,9 +108,9 @@ On tient le coupable ? (silence)
 
 ### 6 · 1981
 
-Non. Et c'est là que l'histoire devient intéressante.
+Non. (pause) Faisons le compte.
 
-Faisons le compte. De tout ce que le déficit perd en 1981, la fin de la cotisation représente entre 11 et 15 %. Moins d'un sixième. Elle a compté. Elle n'a pas fait plonger la France.
+En 1981, les comptes de la France se dégradent d'un coup. Dans cette dégradation, la fin de la cotisation pèse entre 11 et 15 %. Moins d'un sixième. Elle a compté. Elle n'a pas fait plonger la France.
 
 Alors c'est le nouveau pouvoir ? En mai 1981, la gauche arrive. Et depuis quarante ans, on répète : la relance, la retraite à 60 ans.
 
@@ -118,9 +118,9 @@ Regarde les dates. La retraite à 60 ans entre en vigueur en 1983. Quel que soit
 
 Le chômage, lui, n'a pas attendu l'élection. Entre le second semestre de 1980 et le premier semestre de 1981, le nombre de chômeurs indemnisés passe d'un million à près d'un million trois cent mille. L'essentiel de la hausse est là quand le nouveau pouvoir s'installe.
 
-Est-ce que ça blanchit le nouveau gouvernement ? Non plus. Dès juin, il engage des dépenses sociales sans recette en face : plus de 5 milliards de francs rien que pour l'État. Les taux d'intérêt, qui montaient déjà, grimpent encore après l'élection. Combien tout cela pèse au total ? Les comptes de l'époque ne permettent pas de le dire. Et on ne va pas l'inventer.
+Est-ce que ça blanchit le nouveau gouvernement ? Non plus. Dès juin, il engage des dépenses sociales sans recette en face : plus de 5 milliards de francs rien que pour l'État. Les taux d'intérêt, qui montaient déjà, grimpent encore après l'élection. Combien tout cela pèse au total ? Les comptes de l'époque ne permettent pas de le dire.
 
-Donc 1981, ce n'est ni l'héritage, ni la gauche. Ce sont les deux, dans une économie qui se dégrade. Le sortant laisse s'éteindre une recette pendant que le chômage monte. L'arrivant dépense sans financer.
+1981, ce n'est donc pas l'héritage ou la gauche. C'est l'héritage et la gauche, dans une économie qui se dégrade. Le sortant laisse s'éteindre une recette pendant que le chômage monte. L'arrivant dépense sans financer.
 
 ### 7 · Deux récits
 
@@ -130,7 +130,7 @@ Supprimée. Le mot n'est pas faux. Il oublie seulement qu'elle devait s'arrêter
 
 Tu as donc deux récits. Pour les uns : un geste pour le pouvoir d'achat. Pour les autres : une recette supprimée. Et dans aucun des deux, la date écrite en 1979.
 
-Chaque camp a gardé le morceau de vérité qui l'arrangeait. C'est une bonne manière d'écouter les débats d'aujourd'hui.
+Chaque camp a gardé le morceau de vérité qui l'arrangeait. Tu reconnaîtras le procédé.
 
 La porte de 1980 se referme. La suivante mettra vingt ans à s'ouvrir. Entre-temps, deux choses changent le pays.
 
@@ -140,23 +140,23 @@ La porte de 1980 se referme. La suivante mettra vingt ans à s'ouvrir. Entre-tem
 
 La première se passe loin des budgets.
 
-Prends un ouvrier de 57 ans, en 1982. Il n'existe pas, c'est un exemple. Son usine réduit ses effectifs. On lui propose de partir, avec un revenu garanti jusqu'à la retraite. Pour lui, c'est une protection. Pour un pays où le chômage explose, ça ressemble à une solution.
+Imagine un ouvrier de 57 ans, en 1982. Son usine réduit ses effectifs. On lui propose de partir, avec un revenu garanti jusqu'à la retraite. Pour lui, c'est une protection. Pour un pays où le chômage explose, ça ressemble à une solution.
 
 Maintenant, multiplie. En 1975, quatre Français sur dix âgés de 60 à 64 ans ont un emploi. En 2001 : un sur dix.
 
-Et à l'échelle du pays, ça donne ceci. En 1974, on travaille en France à peu près autant d'heures que chez nos voisins, rapporté à la population en âge de travailler. En 1990 : 8 % de moins.
+À l'échelle du pays, ça donne ceci. En 1974, à nombre égal de personnes en âge de travailler, on fait en France à peu près autant d'heures que chez nos voisins. En 1990 : 8 % de moins.
 
-Deux précisions. Tout le monde perd des heures sur cette période, l'Allemagne aussi : la France en perd plus. Et une partie de ces heures, c'est du chômage que personne n'a choisi.
+Tout le monde perd des heures sur cette période, l'Allemagne aussi. La France en perd plus. Et une partie de ces heures, c'est du chômage que personne n'a choisi.
 
-Ça ne dit rien de l'envie de travailler de qui que ce soit. Ça dit que le pays finance ses retraites, sa santé et ses allocations sur une base de travail qui s'est rétrécie plus qu'ailleurs. Ce n'est pas un trésor caché qu'il suffirait de récupérer. C'est le terrain sur lequel tout le reste se joue.
+Ce n'est donc pas une affaire d'envie de travailler. C'est une affaire de base. Les retraites, la santé, les allocations : le pays les finance d'abord sur le travail. Et cette base s'est rétrécie plus qu'ailleurs. Pas un trésor caché qu'il suffirait de récupérer. Le terrain sur lequel tout le reste se joue.
 
 ### 9 · La facture
 
 La deuxième chose, c'est le prix des déficits eux-mêmes. Chaque année dans le rouge s'ajoute à la dette. Et la dette se paie en intérêts. Entre 1974 et 1996, leur poids dans la richesse du pays est multiplié par six.
 
-Les années quatre-vingt-dix sont rudes. 1993 : récession, et le pire déficit depuis le début de la série. Et là, contrairement à la légende du pays qui ne fait jamais rien, il se passe des choses. En pleine récession, on fait plus que doubler la CSG. On allonge la durée de cotisation pour la retraite. Puis il y a une échéance : pour entrer dans l'euro, il faut ramener le déficit sous 3 % en 1997. Dans les comptes de l'époque, la France y parvient de justesse, en s'aidant d'un versement exceptionnel de France Télécom.
+Les années quatre-vingt-dix sont rudes. 1993 : récession, et le pire déficit depuis le début de la série. Et là, contrairement à la légende du pays qui ne fait jamais rien, il se passe des choses. En pleine récession, on fait plus que doubler la CSG, ce prélèvement qui touche presque tous les revenus. On allonge la durée de cotisation pour la retraite. Puis il y a une échéance : pour entrer dans l'euro, il faut ramener le déficit sous 3 % en 1997. Dans les comptes de l'époque, la France y parvient de justesse, en s'aidant d'un versement exceptionnel de France Télécom.
 
-Dos au mur, une deuxième fois. Et une deuxième fois, ça marche. Regarde les deux colonnes. 1998, 1999, 2000, 2001 : avant intérêts, la France est dans le vert quatre années de suite. Ce qui la maintient dans le rouge, c'est la facture du passé.
+Dos au mur, une deuxième fois. Et une deuxième fois, ça marche. Mets de côté les intérêts, comme pour 1980. 1998, 1999, 2000, 2001 : la France encaisse plus qu'elle ne dépense, quatre années de suite. Ce qui la maintient dans le rouge, c'est la facture du passé.
 
 Vingt ans après 1980, la ligne est de nouveau à portée. Et cette fois, l'argent tombe du ciel.
 
@@ -168,11 +168,11 @@ Qu'est-ce qu'on en fait ? En 1980, on a dû chercher le motif. En 2000, pas beso
 
 Les quatre cinquièmes partent en baisses d'impôts : la TVA perd un point, l'impôt sur le revenu et la taxe d'habitation baissent. Le reste, en dépenses. Et le déficit du budget de l'État ? Le texte le dit aussi : il est maintenu « à un niveau inchangé ».
 
-Autre chose, écrite dans le même projet. Une partie de cette recette y est classée « exceptionnelle » : elle ne reviendra pas. Les baisses d'impôts, elles, sont définitives.
+Un détail, dans le même projet, qui devrait te rappeler quelque chose. Une partie de cette recette y est classée « exceptionnelle » : elle ne reviendra pas. Les baisses d'impôts, elles, sont définitives. (pause) En 1980, la recette avait une date de fin. En 2000, une partie de la recette s'en va, et la baisse reste.
 
 Une autre voie existait-elle ? Oui, et elle est imprimée aussi. Au Sénat, la commission des finances, tenue par l'opposition, propose de financer les dépenses nouvelles par des économies, et de réduire le déficit. Le dernier mot revient à l'Assemblée. La proposition reste sur le papier.
 
-Maintenant, attention. C'est ici qu'on raconte souvent n'importe quoi.
+C'est ici qu'on raconte souvent n'importe quoi.
 
 Si le gouvernement avait tout gardé, jusqu'au dernier franc, est-ce que la France revenait à l'équilibre ? Non. Loin de là. Avec les chiffres de l'époque, ça couvrait au maximum 41 % du déficit. Il en restait plus de la moitié. Et encore : en supposant que l'économie n'aurait pas réagi.
 
@@ -184,13 +184,15 @@ Deux ans plus tard, la croissance est retombée. Les baisses d'impôts sont rest
 
 ### 11 · La colonne éteinte
 
-2002. La colonne « avant intérêts » repasse au rouge. Jusque-là, rien d'anormal : elle avait déjà fait des allers-retours. Sauf que cette fois, elle ne revient pas. 2003, 2004, 2005. Jusqu'à aujourd'hui. Une seule année frôle zéro : 2006.
+2002. Le ménage qui bouclait son budget avant de rembourser son crédit : cette année-là, la France cesse d'en être un. Jusque-là, rien d'anormal, elle avait déjà fait des allers-retours. Sauf que cette fois, elle ne revient pas. 2003, 2004, 2005. Jusqu'à aujourd'hui. Une seule année frôle zéro : 2006.
 
 Autrement dit : depuis vingt-quatre ans, avant même de payer un euro d'intérêt, la France dépense plus qu'elle n'encaisse. Chaque année. Quelle que soit la majorité, quelle que soit la conjoncture.
 
+Et ça n'a rien d'automatique. Prends l'Italie. En apparence, la même histoire que nous : des déficits sans interruption. Mais de 2010 à 2019, avant intérêts, l'Italie est dans le vert dix années sur dix. La France : zéro. L'Italie n'est pas un modèle, sa dette est plus lourde et sa croissance à l'arrêt. Elle montre seulement qu'un même compteur peut cacher deux histoires.
+
 Voilà ce qu'il faut expliquer. Plus l'origine du déficit. Sa durée.
 
-Première piste : les baisses d'impôts. Elles ont compté, et ce n'est pas un chiffre militant. En avril 2010, un rapport officiel l'écrit : depuis 1999, les décisions fiscales ont « réduit les recettes publiques de près de 3 points de PIB ». En 2007, sous une autre majorité que celle de 2000, 12 milliards d'euros de baisses nouvelles s'appliquent, alors que le déficit est déjà à 3 %.
+Première piste : les baisses d'impôts. Elles ont compté, et ce n'est pas un chiffre militant. En avril 2010, un rapport officiel l'écrit : depuis 1999, les décisions fiscales ont « réduit les recettes publiques de près de 3 points de PIB ». Trois points de toute la richesse produite en un an. En 2007, sous une autre majorité que celle de 2000, 12 milliards d'euros de baisses nouvelles s'appliquent, alors que le déficit est déjà à 3 %.
 
 Mais méfie-toi du coupable trop simple. Entre 2011 et 2013, les impôts remontent fortement. Le déficit est toujours là. Selon l'année d'où tu pars pour compter, tu fais dire aux impôts une chose ou son contraire.
 
@@ -206,7 +208,7 @@ Une règle pour les bonnes années, que n'importe quelle bonne année peut effac
 
 ### 12 · Les dates
 
-Et ce n'est pas la seule promesse écrite. Depuis fin 1998, la France dit régulièrement, à Bruxelles et à son Parlement, où en sera son déficit trois ans plus tard. On a repris ces documents un par un. Trente et une de ces échéances sont passées.
+Et ce n'est pas la seule promesse écrite. Depuis fin 1998, la France dit régulièrement, à Bruxelles et à son Parlement, où en sera son déficit trois ans plus tard. On a repris ces documents un par un. Pour trente et un d'entre eux, les trois ans sont écoulés : on peut comparer.
 
 Pour l'année qui vient, l'État ne se trompe pas tant que ça : quatre fois sur dix, il fait aussi bien ou mieux que prévu.
 
@@ -220,31 +222,27 @@ C'était il y a dix-huit ans.
 
 ### 13 · Les crises
 
-Tu vas me dire : et les crises ? 2008. Le Covid. Ce n'est pas rien. Et tu as raison : à chaque fois, la dette monte d'une marche d'une vingtaine de points. Et elle ne redescend pas.
+Tu vas me dire : et les crises ? 2008. Le Covid. Ce n'est pas rien. Et tu as raison : à chaque fois, la dette monte d'une marche : au moins deux mois de tout ce que le pays produit. Et elle ne redescend pas.
 
-Mais regarde ce que les crises n'expliquent pas.
+Mais voilà ce que les crises n'expliquent pas.
 
 On entend souvent que les aides d'urgence ne s'arrêtent jamais. C'est faux. Après le Covid, plus de 80 milliards d'euros de soutien sont retirés dès 2021.
 
 Ce qui reste d'une crise, ce n'est pas l'aide. C'est la dette, et ses intérêts. Et une dette ne peut redescendre qu'entre deux crises.
 
-Or regarde l'entre-deux-crises. 2011 : la France est sous surveillance européenne, la zone euro vacille. Dos au mur, troisième fois. Et troisième redressement. Comment ? Comme en 1976 : d'abord par les impôts, pour plus de quatre cinquièmes de l'effort entre 2011 et 2014. Avec un coup de pouce : entre 2012 et 2015, la baisse des taux d'intérêt fait à elle seule près de la moitié de l'amélioration.
+Or entre deux crises, il se passe quelque chose. 2011 : la zone euro vacille, la France est sous surveillance européenne. Dos au mur, troisième fois. (pause) Et troisième redressement.
 
-Et pourtant, même au sommet de ce redressement, en 2018, la colonne « avant intérêts » ne repasse pas au vert. Et dès 2018, les impôts rebaissent.
+Comment ? Comme à la fin des années soixante-dix : d'abord par les impôts. De 2011 à 2014, ils font plus des quatre cinquièmes de l'effort. Avec un coup de pouce : de 2012 à 2015, la seule baisse des taux d'intérêt fait près de la moitié de l'amélioration.
 
-Compare avec l'Italie. En apparence, la même histoire que nous : des déficits sans interruption. Mais de 2010 à 2019, avant intérêts, l'Italie est dans le vert dix années sur dix. La France : zéro. L'Italie n'est pas un modèle, sa dette est plus lourde et sa croissance à l'arrêt. Elle montre seulement qu'un même compteur peut cacher deux histoires.
+Pourtant, même au plus haut de ce redressement, en 2018, la France ne boucle toujours pas son budget avant intérêts. (pause) Et à partir de cette année-là, les impôts rebaissent.
 
 ### 14 · L'écart
 
-Prends du recul. En 1985, à la fin de la grande dérive, la dépense publique dépasse les recettes de 3 points de richesse nationale. Quarante ans plus tard : 5. Les deux ont monté ensemble. L'écart, lui, n'a jamais été refermé.
+Prends du recul. En 1985, à la fin de la grande dérive, la dépense publique dépasse les recettes de 3 points de richesse nationale. Quarante ans plus tard : 5. La dépense a monté plus vite que les recettes, et l'écart ne s'est jamais refermé. (pause) Pas une explosion : un écart ancien, que chaque gouvernement a trouvé en arrivant. Et laissé en partant.
 
-C'est ça, la persistance. Pas une explosion. Un écart ancien, que chaque gouvernement a trouvé en arrivant et laissé en partant.
+Cette dépense, ce n'est pas le train de vie de l'État. Plus de la moitié, ce sont les retraites, la santé et les allocations, financées d'abord sur le travail. Et la base de travail n'est jamais revenue au niveau de nos voisins.
 
-Et ce n'est pas le train de vie de l'État : plus de la moitié de la dépense, ce sont les retraites, la santé et les allocations.
-
-La base de travail, elle, n'est jamais revenue au niveau de nos voisins. Pour y répondre, le pays a fait un pari, à partir de 1993 : baisser les cotisations sur les bas salaires pour créer de l'emploi. Ce pari coûte aujourd'hui 78 milliards d'euros par an.
-
-Son coût est connu au milliard près. Sur les emplois créés, les études vont du simple au sextuple. Et ce que le pari rapporte, au bout du compte, aux finances publiques : aucune ne le mesure.
+Pour y répondre, le pays a fait un pari, à partir de 1993 : baisser les cotisations sur les bas salaires pour créer de l'emploi. Ce pari coûte aujourd'hui 78 milliards d'euros par an. Ce coût est connu au milliard près. Les emplois créés ? Pour les premiers allègements, d'une étude à l'autre, l'estimation va de un à six. (pause) Et ce que le pari rapporte au bout du compte aux finances publiques, aucune ne le mesure.
 
 ### 15 · Le blocage
 
@@ -260,17 +258,15 @@ Le blocage aggrave le problème d'aujourd'hui. Il n'a pas créé celui d'hier.
 
 Alors, qu'est-ce qu'on a trouvé ?
 
-Que les suspects habituels ont presque tous compté, et qu'aucun ne suffit. Le choc a ouvert la série. Les règles des années de croissance ont continué de tourner. Les baisses d'impôts ont coûté. Les crises ont empilé la dette. Le blocage n'arrange rien.
+Que les suspects habituels ont presque tous compté. Et qu'aucun ne suffit.
 
-Mais la découverte n'est pas là. La découverte, c'est le motif qui revient.
+Mais la découverte n'est pas là. La découverte, c'est un motif. Il revient trois fois.
 
 Trois fois, la France a vraiment redressé ses comptes. À la fin des années soixante-dix, quand la Sécurité sociale était à sec. Dans les années quatre-vingt-dix, quand il fallait se qualifier pour l'euro. Après 2010, sous surveillance européenne. Trois fois, le dos au mur. Et deux fois sur trois, presque uniquement en prélevant plus.
 
-Et à chaque fois que le mur s'est éloigné, elle a rendu une partie de ce qu'elle venait de gagner. 1980 : la Sécurité sociale est redevenue excédentaire, et on laisse s'éteindre la recette qui fait cet excédent. 2000 : une cagnotte qu'on « restitue ». À partir de 2018 : des impôts qu'on rebaisse. Aucun de ces gestes n'explique le déficit à lui seul. On les a mesurés. Mais c'est le même geste.
+Et à chaque fois que le mur s'est éloigné, elle a rendu une partie de ce qu'elle venait de gagner. 1980 : la Sécurité sociale est redevenue excédentaire, et on laisse s'éteindre la recette qui fait cet excédent. 2000 : une cagnotte qu'on « restitue ». À partir de 2018 : des impôts qu'on rebaisse. Aucun de ces gestes n'explique le déficit à lui seul. On les a mesurés. Et trois épisodes ne font pas une loi. Mais ce sont ceux que montrent les archives. Et c'est trois fois le même geste.
 
 La France n'a pas un problème avec les mauvaises années. (pause) Elle a un problème avec les bonnes.
-
-Trois épisodes ne font pas une loi. Mais ce sont ceux que montrent les archives.
 
 Et il y a ce détail. En 1979, l'État écrit la date de fin d'une cotisation. Il la tient, au jour près. Cinq fois, il a écrit la date de fin de son déficit. (pause) Il ne l'a jamais tenue.
 
