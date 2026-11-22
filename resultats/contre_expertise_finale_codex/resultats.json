@@ -1,0 +1,2130 @@
+{
+  "commit_sources": "ffb03b64268b8012c0d54b4c8747bf64c1ca5b14",
+  "fiscal": {
+    "annees_scenarios_verifiees": 396,
+    "impulsions": {
+      "2000": -1.2,
+      "2001": -1.0,
+      "2002": -0.4,
+      "2003": 0.1,
+      "2004": 0.1,
+      "2005": 0.4,
+      "2006": 0.1,
+      "2007": -0.6,
+      "2008": -0.5,
+      "2009": -0.8,
+      "2010": 0.1,
+      "2011": 0.93,
+      "2012": 1.1,
+      "2013": 1.41,
+      "2014": 0.15,
+      "2015": -0.07,
+      "2016": -0.15,
+      "2017": 0.16,
+      "2018": -0.41,
+      "2019": -0.97,
+      "2020": 0.22,
+      "2021": -0.59,
+      "2022": -0.29,
+      "2023": -0.25,
+      "2024": 0.12,
+      "2025": 0.77
+    },
+    "scenarios": [
+      {
+        "depart": 2000,
+        "annee2010": 0.1,
+        "cice": "publie",
+        "report": "points",
+        "cumul": -1.57,
+        "residu_PO": 0.93596,
+        "solde": -3.498177,
+        "solde_interets": -2.656476,
+        "dette_interets": 70.927993,
+        "annees_solde_positif": [
+          2001
+        ],
+        "annees_positives_interets": [
+          2001,
+          2007,
+          2008
+        ],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2000,
+        "annee2010": 0.1,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": -0.739479,
+        "residu_PO": 0.105438,
+        "solde": -4.328698,
+        "solde_interets": -3.577216,
+        "dette_interets": 76.387176,
+        "annees_solde_positif": [
+          2001
+        ],
+        "annees_positives_interets": [
+          2001,
+          2007,
+          2008
+        ],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2000,
+        "annee2010": 0.1,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": -1.384677,
+        "residu_PO": 0.750636,
+        "solde": -3.6835,
+        "solde_interets": -2.873489,
+        "dette_interets": 72.739148,
+        "annees_solde_positif": [
+          2001
+        ],
+        "annees_positives_interets": [
+          2001,
+          2007,
+          2008
+        ],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2000,
+        "annee2010": -0.4,
+        "cice": "publie",
+        "report": "points",
+        "cumul": -2.07,
+        "residu_PO": 1.43596,
+        "solde": -2.998177,
+        "solde_interets": -2.024616,
+        "dette_interets": 63.662913,
+        "annees_solde_positif": [
+          2001
+        ],
+        "annees_positives_interets": [
+          2001,
+          2007,
+          2008,
+          2019
+        ],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2000,
+        "annee2010": -0.4,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": -1.239479,
+        "residu_PO": 0.605438,
+        "solde": -3.828698,
+        "solde_interets": -2.945356,
+        "dette_interets": 69.122096,
+        "annees_solde_positif": [
+          2001
+        ],
+        "annees_positives_interets": [
+          2001,
+          2007,
+          2008
+        ],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2000,
+        "annee2010": -0.4,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": -1.884677,
+        "residu_PO": 1.250636,
+        "solde": -3.1835,
+        "solde_interets": -2.241629,
+        "dette_interets": 65.474069,
+        "annees_solde_positif": [
+          2001
+        ],
+        "annees_positives_interets": [
+          2001,
+          2007,
+          2008
+        ],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2003,
+        "annee2010": 0.1,
+        "cice": "publie",
+        "report": "points",
+        "cumul": 1.03,
+        "residu_PO": 0.118678,
+        "solde": -6.098177,
+        "solde_interets": -6.400197,
+        "dette_interets": 132.206721,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "depart": 2003,
+        "annee2010": 0.1,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": 1.860521,
+        "residu_PO": -0.711844,
+        "solde": -6.928698,
+        "solde_interets": -7.320937,
+        "dette_interets": 137.665904,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "depart": 2003,
+        "annee2010": 0.1,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": 1.215323,
+        "residu_PO": -0.066646,
+        "solde": -6.2835,
+        "solde_interets": -6.61721,
+        "dette_interets": 134.017877,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "depart": 2003,
+        "annee2010": -0.4,
+        "cice": "publie",
+        "report": "points",
+        "cumul": 0.53,
+        "residu_PO": 0.618678,
+        "solde": -5.598177,
+        "solde_interets": -5.768337,
+        "dette_interets": 124.941641,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2025
+        ]
+      },
+      {
+        "depart": 2003,
+        "annee2010": -0.4,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": 1.360521,
+        "residu_PO": -0.211844,
+        "solde": -6.428698,
+        "solde_interets": -6.689077,
+        "dette_interets": 130.400824,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "depart": 2003,
+        "annee2010": -0.4,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": 0.715323,
+        "residu_PO": 0.433354,
+        "solde": -5.7835,
+        "solde_interets": -5.98535,
+        "dette_interets": 126.752797,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2025
+        ]
+      },
+      {
+        "depart": 2007,
+        "annee2010": 0.1,
+        "cice": "publie",
+        "report": "points",
+        "cumul": 0.33,
+        "residu_PO": 0.27316,
+        "solde": -5.398177,
+        "solde_interets": -5.446497,
+        "dette_interets": 118.490643,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2025
+        ]
+      },
+      {
+        "depart": 2007,
+        "annee2010": 0.1,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": 1.160521,
+        "residu_PO": -0.557362,
+        "solde": -6.228698,
+        "solde_interets": -6.367237,
+        "dette_interets": 123.949826,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "depart": 2007,
+        "annee2010": 0.1,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": 0.515323,
+        "residu_PO": 0.087836,
+        "solde": -5.5835,
+        "solde_interets": -5.66351,
+        "dette_interets": 120.301798,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2025
+        ]
+      },
+      {
+        "depart": 2007,
+        "annee2010": -0.4,
+        "cice": "publie",
+        "report": "points",
+        "cumul": -0.17,
+        "residu_PO": 0.77316,
+        "solde": -4.898177,
+        "solde_interets": -4.814637,
+        "dette_interets": 111.225563,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2020
+        ]
+      },
+      {
+        "depart": 2007,
+        "annee2010": -0.4,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": 0.660521,
+        "residu_PO": -0.057362,
+        "solde": -5.728698,
+        "solde_interets": -5.735377,
+        "dette_interets": 116.684746,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2025
+        ]
+      },
+      {
+        "depart": 2007,
+        "annee2010": -0.4,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": 0.015323,
+        "residu_PO": 0.587836,
+        "solde": -5.0835,
+        "solde_interets": -5.03165,
+        "dette_interets": 113.036719,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2025
+        ]
+      },
+      {
+        "depart": 2012,
+        "annee2010": 0.1,
+        "cice": "publie",
+        "report": "points",
+        "cumul": 1.2,
+        "residu_PO": -0.178742,
+        "solde": -6.268177,
+        "solde_interets": -6.627919,
+        "dette_interets": 135.338194,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "depart": 2012,
+        "annee2010": 0.1,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": 2.030521,
+        "residu_PO": -1.009264,
+        "solde": -7.098698,
+        "solde_interets": -7.548659,
+        "dette_interets": 140.797377,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "depart": 2012,
+        "annee2010": 0.1,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": 1.385323,
+        "residu_PO": -0.364066,
+        "solde": -6.4535,
+        "solde_interets": -6.844932,
+        "dette_interets": 137.14935,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "depart": 2012,
+        "annee2010": -0.4,
+        "cice": "publie",
+        "report": "points",
+        "cumul": 1.2,
+        "residu_PO": -0.178742,
+        "solde": -6.268177,
+        "solde_interets": -6.627919,
+        "dette_interets": 135.338194,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "depart": 2012,
+        "annee2010": -0.4,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": 2.030521,
+        "residu_PO": -1.009264,
+        "solde": -7.098698,
+        "solde_interets": -7.548659,
+        "dette_interets": 140.797377,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "depart": 2012,
+        "annee2010": -0.4,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": 1.385323,
+        "residu_PO": -0.364066,
+        "solde": -6.4535,
+        "solde_interets": -6.844932,
+        "dette_interets": 137.14935,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      {
+        "depart": 2017,
+        "annee2010": 0.1,
+        "cice": "publie",
+        "report": "points",
+        "cumul": -1.24,
+        "residu_PO": 0.301852,
+        "solde": -3.828177,
+        "solde_interets": -3.646222,
+        "dette_interets": 105.106372,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2017
+        ]
+      },
+      {
+        "depart": 2017,
+        "annee2010": 0.1,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": -0.409479,
+        "residu_PO": -0.528669,
+        "solde": -4.658698,
+        "solde_interets": -4.566962,
+        "dette_interets": 110.565555,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2017
+        ]
+      },
+      {
+        "depart": 2017,
+        "annee2010": 0.1,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": -1.054677,
+        "residu_PO": 0.116529,
+        "solde": -4.0135,
+        "solde_interets": -3.863235,
+        "dette_interets": 106.917528,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2017
+        ]
+      },
+      {
+        "depart": 2017,
+        "annee2010": -0.4,
+        "cice": "publie",
+        "report": "points",
+        "cumul": -1.24,
+        "residu_PO": 0.301852,
+        "solde": -3.828177,
+        "solde_interets": -3.646222,
+        "dette_interets": 105.106372,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2017
+        ]
+      },
+      {
+        "depart": 2017,
+        "annee2010": -0.4,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": -0.409479,
+        "residu_PO": -0.528669,
+        "solde": -4.658698,
+        "solde_interets": -4.566962,
+        "dette_interets": 110.565555,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2017
+        ]
+      },
+      {
+        "depart": 2017,
+        "annee2010": -0.4,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": -1.054677,
+        "residu_PO": 0.116529,
+        "solde": -4.0135,
+        "solde_interets": -3.863235,
+        "dette_interets": 106.917528,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": [
+          2017
+        ]
+      },
+      {
+        "depart": 2018,
+        "annee2010": 0.1,
+        "cice": "publie",
+        "report": "points",
+        "cumul": -1.4,
+        "residu_PO": -0.267488,
+        "solde": -3.668177,
+        "solde_interets": -3.463353,
+        "dette_interets": 103.77304,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2018,
+        "annee2010": 0.1,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": -0.569479,
+        "residu_PO": -1.098009,
+        "solde": -4.498698,
+        "solde_interets": -4.384093,
+        "dette_interets": 109.232223,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2018,
+        "annee2010": 0.1,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": -1.214677,
+        "residu_PO": -0.452811,
+        "solde": -3.8535,
+        "solde_interets": -3.680366,
+        "dette_interets": 105.584196,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2018,
+        "annee2010": -0.4,
+        "cice": "publie",
+        "report": "points",
+        "cumul": -1.4,
+        "residu_PO": -0.267488,
+        "solde": -3.668177,
+        "solde_interets": -3.463353,
+        "dette_interets": 103.77304,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2018,
+        "annee2010": -0.4,
+        "cice": "D08-neutralise",
+        "report": "points",
+        "cumul": -0.569479,
+        "residu_PO": -1.098009,
+        "solde": -4.498698,
+        "solde_interets": -4.384093,
+        "dette_interets": 109.232223,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2018,
+        "annee2010": -0.4,
+        "cice": "Cour-trois-flux",
+        "report": "points",
+        "cumul": -1.214677,
+        "residu_PO": -0.452811,
+        "solde": -3.8535,
+        "solde_interets": -3.680366,
+        "dette_interets": 105.584196,
+        "annees_solde_positif": [],
+        "annees_positives_interets": [],
+        "annees_cumul_positif": []
+      },
+      {
+        "depart": 2000,
+        "annee2010": 0.1,
+        "cice": "Cour-trois-flux",
+        "report": "euros",
+        "cumul": -0.470457,
+        "residu_PO": -0.163583,
+        "solde": -4.59772,
+        "solde_interets": -4.032339,
+        "dette_interets": 86.204204,
+        "annees_solde_positif": [
+          2001
+        ],
+        "annees_positives_interets": [
+          2001
+        ],
+        "annees_cumul_positif": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ]
+      }
+    ]
+  },
+  "histoire": {
+    "reference": [
+      {
+        "debut_ref": 1960,
+        "croissance_volume": 5.62198,
+        "croissance_dep": 6.713611,
+        "part_PIB_seule": 128.182373,
+        "dep_seule": -12.309064,
+        "derive": 4.950636,
+        "allocation_PIB": 18.330177,
+        "allocation_dep": -10.439363
+      },
+      {
+        "debut_ref": 1965,
+        "croissance_volume": 5.472095,
+        "croissance_dep": 5.6422,
+        "part_PIB_seule": 123.557599,
+        "dep_seule": -5.323366,
+        "derive": 0.739378,
+        "allocation_PIB": 16.646013,
+        "allocation_dep": -4.543941
+      },
+      {
+        "debut_ref": 1968,
+        "croissance_volume": 5.855527,
+        "croissance_dep": 4.595702,
+        "part_PIB_seule": 135.233493,
+        "dep_seule": 0.849061,
+        "derive": -5.101425,
+        "allocation_PIB": 17.229878,
+        "allocation_dep": 0.712998
+      }
+    ],
+    "dep_observee": 4.745993,
+    "PIB_observe": 2.201628,
+    "variation_dep": 12.84145,
+    "variation_rec": 9.741214,
+    "regimes_1980": {
+      "RG_net_MdF": 1.317,
+      "part_RG": 87.655825,
+      "RG_pt": 0.318653,
+      "tous_annonce_pts": 0.340732
+    },
+    "soldes": {
+      "1970": -0.033512,
+      "1974": 0.095753,
+      "1975": -2.94799,
+      "1979": -0.486399,
+      "1980": -0.432774,
+      "1981": -2.43227,
+      "1985": -3.004483,
+      "1999": -1.54423,
+      "2000": -1.312655,
+      "2001": -1.417359,
+      "2002": -3.175565,
+      "2025": -5.068177
+    },
+    "deficits_avant_1975": [
+      1967,
+      1968,
+      1969,
+      1970,
+      1971,
+      1973
+    ],
+    "soldes_primaires": {
+      "1979": 0.658571,
+      "1980": 0.799883,
+      "2000": 1.646652,
+      "2025": -2.870929
+    },
+    "deficits_1975_2025": 51
+  },
+  "travail": {
+    "heures": [
+      {
+        "annee": 1970,
+        "France": 1282.849092,
+        "mediane": 1258.355738,
+        "rang_croissant": 6,
+        "ecart": 1.946457,
+        "rattrapage": -1.909293,
+        "sans_un_pays": {
+          "DEU": 2.275976,
+          "ITA": 1.338943,
+          "ESP": 2.275976,
+          "NLD": 1.66454,
+          "SWE": 2.275976,
+          "GBR": 1.338943,
+          "USA": 1.338943
+        }
+      },
+      {
+        "annee": 1971,
+        "France": 1276.359531,
+        "mediane": 1231.230931,
+        "rang_croissant": 7,
+        "ecart": 3.665324,
+        "rattrapage": -3.535728,
+        "sans_un_pays": {
+          "DEU": 4.46864,
+          "ITA": 2.4668,
+          "ESP": 4.46864,
+          "NLD": 3.251578,
+          "SWE": 4.46864,
+          "GBR": 2.4668,
+          "USA": 2.4668
+        }
+      },
+      {
+        "annee": 1972,
+        "France": 1240.614279,
+        "mediane": 1208.7213,
+        "rang_croissant": 6,
+        "ecart": 2.638572,
+        "rattrapage": -2.570741,
+        "sans_un_pays": {
+          "DEU": 3.293845,
+          "ITA": 1.500493,
+          "ESP": 3.293845,
+          "NLD": 2.14127,
+          "SWE": 3.293845,
+          "GBR": 1.500493,
+          "USA": 1.500493
+        }
+      },
+      {
+        "annee": 1973,
+        "France": 1238.411118,
+        "mediane": 1231.684549,
+        "rang_croissant": 5,
+        "ecart": 0.546128,
+        "rattrapage": -0.543161,
+        "sans_un_pays": {
+          "DEU": 2.027183,
+          "ITA": -0.093124,
+          "ESP": 2.027183,
+          "NLD": -0.093124,
+          "SWE": 1.369021,
+          "GBR": 2.027183,
+          "USA": -0.093124
+        }
+      },
+      {
+        "annee": 1974,
+        "France": 1220.086261,
+        "mediane": 1224.073961,
+        "rang_croissant": 4,
+        "ecart": -0.325773,
+        "rattrapage": 0.326838,
+        "sans_un_pays": {
+          "DEU": 1.507749,
+          "ITA": -1.106332,
+          "ESP": 1.507749,
+          "NLD": -1.106332,
+          "SWE": 1.507749,
+          "GBR": 0.698325,
+          "USA": -1.106332
+        }
+      },
+      {
+        "annee": 1975,
+        "France": 1185.422652,
+        "mediane": 1195.858336,
+        "rang_croissant": 4,
+        "ecart": -0.872652,
+        "rattrapage": 0.880334,
+        "sans_un_pays": {
+          "DEU": 1.306116,
+          "ITA": -1.611335,
+          "ESP": 2.08943,
+          "NLD": -1.611335,
+          "SWE": 2.08943,
+          "GBR": 2.08943,
+          "USA": -1.611335
+        }
+      },
+      {
+        "annee": 1976,
+        "France": 1204.449073,
+        "mediane": 1191.605939,
+        "rang_croissant": 6,
+        "ecart": 1.0778,
+        "rattrapage": -1.066308,
+        "sans_un_pays": {
+          "DEU": 3.340519,
+          "ITA": 0.742793,
+          "ESP": 3.340519,
+          "NLD": 0.742793,
+          "SWE": 3.340519,
+          "GBR": 2.990371,
+          "USA": 0.742793
+        }
+      },
+      {
+        "annee": 1977,
+        "France": 1181.707497,
+        "mediane": 1175.434181,
+        "rang_croissant": 5,
+        "ecart": 0.533702,
+        "rattrapage": -0.530869,
+        "sans_un_pays": {
+          "DEU": 1.188893,
+          "ITA": 0.06336,
+          "ESP": 1.188893,
+          "NLD": 0.06336,
+          "SWE": 1.188893,
+          "GBR": 0.712416,
+          "USA": 0.06336
+        }
+      },
+      {
+        "annee": 1978,
+        "France": 1160.33178,
+        "mediane": 1163.119883,
+        "rang_croissant": 4,
+        "ecart": -0.239709,
+        "rattrapage": 0.240285,
+        "sans_un_pays": {
+          "DEU": 0.836263,
+          "ITA": -0.926989,
+          "ESP": -0.926989,
+          "NLD": -0.926989,
+          "SWE": 0.836263,
+          "GBR": 0.13413,
+          "USA": 0.836263
+        }
+      },
+      {
+        "annee": 1979,
+        "France": 1156.758985,
+        "mediane": 1163.25828,
+        "rang_croissant": 4,
+        "ecart": -0.558715,
+        "rattrapage": 0.561854,
+        "sans_un_pays": {
+          "DEU": 3.073921,
+          "ITA": -1.432239,
+          "ESP": -1.432239,
+          "NLD": -1.432239,
+          "SWE": 3.073921,
+          "GBR": 2.135711,
+          "USA": 3.073921
+        }
+      },
+      {
+        "annee": 1980,
+        "France": 1144.116403,
+        "mediane": 1122.095155,
+        "rang_croissant": 5,
+        "ecart": 1.962512,
+        "rattrapage": -1.924738,
+        "sans_un_pays": {
+          "DEU": 4.564323,
+          "ITA": -0.375255,
+          "ESP": -0.375255,
+          "NLD": -0.375255,
+          "SWE": 4.564323,
+          "GBR": 2.107165,
+          "USA": 4.564323
+        }
+      },
+      {
+        "annee": 1981,
+        "France": 1114.561204,
+        "mediane": 1058.868562,
+        "rang_croissant": 5,
+        "ecart": 5.259637,
+        "rattrapage": -4.996822,
+        "sans_un_pays": {
+          "DEU": 5.973954,
+          "ITA": 1.811571,
+          "ESP": 1.15209,
+          "NLD": 1.15209,
+          "SWE": 5.973954,
+          "GBR": 1.15209,
+          "USA": 5.973954
+        }
+      },
+      {
+        "annee": 1982,
+        "France": 1056.933685,
+        "mediane": 1055.852632,
+        "rang_croissant": 5,
+        "ecart": 0.102387,
+        "rattrapage": -0.102282,
+        "sans_un_pays": {
+          "DEU": 1.40741,
+          "ITA": -1.343847,
+          "ESP": -2.57945,
+          "NLD": -2.57945,
+          "SWE": 1.40741,
+          "GBR": -2.57945,
+          "USA": 1.40741
+        }
+      },
+      {
+        "annee": 1983,
+        "France": 1031.674373,
+        "mediane": 1047.14249,
+        "rang_croissant": 4,
+        "ecart": -1.477174,
+        "rattrapage": 1.499322,
+        "sans_un_pays": {
+          "DEU": 0.244507,
+          "ITA": -1.555525,
+          "ESP": -3.216443,
+          "NLD": -3.216443,
+          "SWE": 0.244507,
+          "GBR": -3.216443,
+          "USA": 0.244507
+        }
+      },
+      {
+        "annee": 1984,
+        "France": 1010.222558,
+        "mediane": 1036.949806,
+        "rang_croissant": 3,
+        "ecart": -2.577487,
+        "rattrapage": 2.645679,
+        "sans_un_pays": {
+          "DEU": -2.284298,
+          "ITA": -4.55632,
+          "ESP": -4.55632,
+          "NLD": -4.55632,
+          "SWE": -2.284298,
+          "GBR": -4.274938,
+          "USA": -2.284298
+        }
+      },
+      {
+        "annee": 1985,
+        "France": 980.313243,
+        "mediane": 1064.034075,
+        "rang_croissant": 3,
+        "ecart": -7.868247,
+        "rattrapage": 8.540212,
+        "sans_un_pays": {
+          "DEU": -6.468376,
+          "ITA": -8.469639,
+          "ESP": -8.469639,
+          "NLD": -8.469639,
+          "SWE": -6.468376,
+          "GBR": -7.08812,
+          "USA": -6.468376
+        }
+      },
+      {
+        "annee": 1986,
+        "France": 977.693302,
+        "mediane": 1067.052249,
+        "rang_croissant": 3,
+        "ecart": -8.374374,
+        "rattrapage": 9.139773,
+        "sans_un_pays": {
+          "DEU": -7.218477,
+          "ITA": -9.127687,
+          "ESP": -9.127687,
+          "NLD": -9.127687,
+          "SWE": -7.218477,
+          "GBR": -7.990836,
+          "USA": -7.218477
+        }
+      },
+      {
+        "annee": 1987,
+        "France": 987.704853,
+        "mediane": 1082.605635,
+        "rang_croissant": 3,
+        "ecart": -8.76596,
+        "rattrapage": 9.608213,
+        "sans_un_pays": {
+          "DEU": -7.360506,
+          "ITA": -8.841519,
+          "ESP": -8.841519,
+          "NLD": -8.841519,
+          "SWE": -7.360506,
+          "GBR": -7.438409,
+          "USA": -7.360506
+        }
+      },
+      {
+        "annee": 1988,
+        "France": 997.096935,
+        "mediane": 1092.901889,
+        "rang_croissant": 3,
+        "ecart": -8.766107,
+        "rattrapage": 9.608389,
+        "sans_un_pays": {
+          "DEU": -9.572368,
+          "ITA": -10.919642,
+          "ESP": -10.919642,
+          "NLD": -10.919642,
+          "SWE": -7.352388,
+          "GBR": -7.352388,
+          "USA": -7.352388
+        }
+      },
+      {
+        "annee": 1989,
+        "France": 1000.37544,
+        "mediane": 1089.74135,
+        "rang_croissant": 3,
+        "ecart": -8.200653,
+        "rattrapage": 8.933237,
+        "sans_un_pays": {
+          "DEU": -10.028379,
+          "ITA": -11.441276,
+          "ESP": -11.441276,
+          "NLD": -11.441276,
+          "SWE": -6.681573,
+          "GBR": -6.681573,
+          "USA": -6.681573
+        }
+      },
+      {
+        "annee": 1990,
+        "France": 1003.690505,
+        "mediane": 1090.491391,
+        "rang_croissant": 3,
+        "ecart": -7.959796,
+        "rattrapage": 8.648173,
+        "sans_un_pays": {
+          "DEU": -9.812514,
+          "ITA": -10.966393,
+          "ESP": -10.966393,
+          "NLD": -10.966393,
+          "SWE": -6.72613,
+          "GBR": -6.72613,
+          "USA": -6.72613
+        }
+      },
+      {
+        "annee": 1991,
+        "France": 999.360055,
+        "mediane": 1097.521195,
+        "rang_croissant": 3,
+        "ecart": -8.943895,
+        "rattrapage": 9.8224,
+        "sans_un_pays": {
+          "DEU": -9.152489,
+          "ITA": -10.203938,
+          "ESP": -10.203938,
+          "NLD": -10.203938,
+          "SWE": -7.862552,
+          "GBR": -7.862552,
+          "USA": -7.862552
+        }
+      },
+      {
+        "annee": 1992,
+        "France": 988.509205,
+        "mediane": 1081.679457,
+        "rang_croissant": 2,
+        "ecart": -8.613481,
+        "rattrapage": 9.42533,
+        "sans_un_pays": {
+          "DEU": -7.776364,
+          "ITA": -8.736477,
+          "ESP": -8.736477,
+          "NLD": -8.736477,
+          "SWE": -7.776364,
+          "GBR": -7.901622,
+          "USA": -7.776364
+        }
+      },
+      {
+        "annee": 1993,
+        "France": 970.980723,
+        "mediane": 1047.63299,
+        "rang_croissant": 2,
+        "ecart": -7.31671,
+        "rattrapage": 7.894314,
+        "sans_un_pays": {
+          "DEU": -7.701424,
+          "ITA": -8.274613,
+          "ESP": -8.274613,
+          "NLD": -8.274613,
+          "SWE": -6.731448,
+          "GBR": -6.731448,
+          "USA": -6.731448
+        }
+      },
+      {
+        "annee": 1994,
+        "France": 972.322436,
+        "mediane": 1043.686144,
+        "rang_croissant": 2,
+        "ecart": -6.83766,
+        "rattrapage": 7.339511,
+        "sans_un_pays": {
+          "DEU": -7.307459,
+          "ITA": -8.523459,
+          "ESP": -8.523459,
+          "NLD": -8.523459,
+          "SWE": -5.576119,
+          "GBR": -5.576119,
+          "USA": -5.576119
+        }
+      },
+      {
+        "annee": 1995,
+        "France": 967.076236,
+        "mediane": 1042.920156,
+        "rang_croissant": 2,
+        "ecart": -7.272265,
+        "rattrapage": 7.8426,
+        "sans_un_pays": {
+          "DEU": -8.678367,
+          "ITA": -9.352873,
+          "ESP": -9.352873,
+          "NLD": -9.352873,
+          "SWE": -6.56632,
+          "GBR": -6.56632,
+          "USA": -6.56632
+        }
+      },
+      {
+        "annee": 1996,
+        "France": 967.413719,
+        "mediane": 1055.877298,
+        "rang_croissant": 2,
+        "ecart": -8.378206,
+        "rattrapage": 9.144338,
+        "sans_un_pays": {
+          "DEU": -10.147909,
+          "ITA": -10.147909,
+          "ESP": -10.147909,
+          "NLD": -9.173501,
+          "SWE": -7.36482,
+          "GBR": -7.36482,
+          "USA": -7.36482
+        }
+      },
+      {
+        "annee": 1997,
+        "France": 971.161392,
+        "mediane": 1073.956497,
+        "rang_croissant": 2,
+        "ecart": -9.571627,
+        "rattrapage": 10.58476,
+        "sans_un_pays": {
+          "DEU": -11.213049,
+          "ITA": -11.213049,
+          "ESP": -11.213049,
+          "NLD": -9.635588,
+          "SWE": -7.934763,
+          "GBR": -7.934763,
+          "USA": -7.934763
+        }
+      },
+      {
+        "annee": 1998,
+        "France": 979.614874,
+        "mediane": 1091.963657,
+        "rang_croissant": 2,
+        "ecart": -10.288693,
+        "rattrapage": 11.468669,
+        "sans_un_pays": {
+          "DEU": -11.333761,
+          "ITA": -11.333761,
+          "ESP": -11.333761,
+          "NLD": -9.939769,
+          "SWE": -8.861381,
+          "GBR": -8.861381,
+          "USA": -8.861381
+        }
+      },
+      {
+        "annee": 1999,
+        "France": 996.606638,
+        "mediane": 1116.69956,
+        "rang_croissant": 1,
+        "ecart": -10.754273,
+        "rattrapage": 12.050183,
+        "sans_un_pays": {
+          "DEU": -10.908443,
+          "ITA": -10.908443,
+          "ESP": -10.908443,
+          "NLD": -9.089597,
+          "SWE": -8.929063,
+          "GBR": -8.929063,
+          "USA": -8.929063
+        }
+      },
+      {
+        "annee": 2000,
+        "France": 1003.627048,
+        "mediane": 1115.833083,
+        "rang_croissant": 1,
+        "ecart": -10.055808,
+        "rattrapage": 11.180053,
+        "sans_un_pays": {
+          "DEU": -10.248722,
+          "ITA": -10.248722,
+          "ESP": -10.248722,
+          "NLD": -8.813588,
+          "SWE": -8.813588,
+          "GBR": -9.011861,
+          "USA": -8.813588
+        }
+      },
+      {
+        "annee": 2001,
+        "France": 998.816516,
+        "mediane": 1120.840797,
+        "rang_croissant": 1,
+        "ecart": -10.886852,
+        "rattrapage": 12.216887,
+        "sans_un_pays": {
+          "DEU": -11.159524,
+          "ITA": -11.159524,
+          "ESP": -11.159524,
+          "NLD": -10.201974,
+          "SWE": -10.201974,
+          "GBR": -10.478847,
+          "USA": -10.201974
+        }
+      },
+      {
+        "annee": 2002,
+        "France": 974.806057,
+        "mediane": 1115.172863,
+        "rang_croissant": 1,
+        "ecart": -12.587,
+        "rattrapage": 14.39946,
+        "sans_un_pays": {
+          "DEU": -12.598111,
+          "ITA": -12.343231,
+          "ESP": -12.598111,
+          "NLD": -12.332055,
+          "SWE": -12.332055,
+          "GBR": -12.598111,
+          "USA": -12.332055
+        }
+      },
+      {
+        "annee": 2003,
+        "France": 970.33223,
+        "mediane": 1107.508601,
+        "rang_croissant": 1,
+        "ecart": -12.386032,
+        "rattrapage": 14.137052,
+        "sans_un_pays": {
+          "DEU": -12.893957,
+          "ITA": -12.302924,
+          "ESP": -12.81181,
+          "NLD": -12.893957,
+          "SWE": -12.302924,
+          "GBR": -12.893957,
+          "USA": -12.302924
+        }
+      },
+      {
+        "annee": 2004,
+        "France": 979.57636,
+        "mediane": 1115.534227,
+        "rang_croissant": 1,
+        "ecart": -12.187691,
+        "rattrapage": 13.879252,
+        "sans_un_pays": {
+          "DEU": -12.421186,
+          "ITA": -11.942006,
+          "ESP": -12.176808,
+          "NLD": -12.421186,
+          "SWE": -11.942006,
+          "GBR": -12.421186,
+          "USA": -11.942006
+        }
+      },
+      {
+        "annee": 2005,
+        "France": 979.273437,
+        "mediane": 1123.414831,
+        "rang_croissant": 1,
+        "ecart": -12.830647,
+        "rattrapage": 14.719218,
+        "sans_un_pays": {
+          "DEU": -13.128651,
+          "ITA": -12.872109,
+          "ESP": -12.57234,
+          "NLD": -13.128651,
+          "SWE": -12.57234,
+          "GBR": -13.128651,
+          "USA": -12.57234
+        }
+      },
+      {
+        "annee": 2006,
+        "France": 972.359179,
+        "mediane": 1146.583182,
+        "rang_croissant": 1,
+        "ecart": -15.19506,
+        "rattrapage": 17.917659,
+        "sans_un_pays": {
+          "DEU": -15.376806,
+          "ITA": -14.163889,
+          "ESP": -13.976891,
+          "NLD": -15.376806,
+          "SWE": -13.976891,
+          "GBR": -15.376806,
+          "USA": -13.976891
+        }
+      },
+      {
+        "annee": 2007,
+        "France": 994.495937,
+        "mediane": 1158.15528,
+        "rang_croissant": 1,
+        "ecart": -14.131036,
+        "rattrapage": 16.456512,
+        "sans_un_pays": {
+          "DEU": -14.192273,
+          "ITA": -13.607984,
+          "ESP": -13.669969,
+          "NLD": -14.192273,
+          "SWE": -13.607984,
+          "GBR": -14.192273,
+          "USA": -13.607984
+        }
+      },
+      {
+        "annee": 2008,
+        "France": 999.793105,
+        "mediane": 1149.486251,
+        "rang_croissant": 1,
+        "ecart": -13.022613,
+        "rattrapage": 14.972412,
+        "sans_un_pays": {
+          "DEU": -13.384924,
+          "ITA": -13.384924,
+          "ESP": -13.325786,
+          "NLD": -12.962979,
+          "SWE": -12.962979,
+          "GBR": -13.384924,
+          "USA": -12.962979
+        }
+      },
+      {
+        "annee": 2009,
+        "France": 978.279824,
+        "mediane": 1103.304912,
+        "rang_croissant": 1,
+        "ecart": -11.331871,
+        "rattrapage": 12.780095,
+        "sans_un_pays": {
+          "DEU": -12.726762,
+          "ITA": -11.664938,
+          "ESP": -12.726762,
+          "NLD": -10.235619,
+          "SWE": -10.235619,
+          "GBR": -12.726762,
+          "USA": -10.235619
+        }
+      },
+      {
+        "annee": 2010,
+        "France": 981.560016,
+        "mediane": 1098.67375,
+        "rang_croissant": 1,
+        "ecart": -10.659555,
+        "rattrapage": 11.931388,
+        "sans_un_pays": {
+          "DEU": -11.620103,
+          "ITA": -11.803223,
+          "ESP": -11.803223,
+          "NLD": -10.47165,
+          "SWE": -10.47165,
+          "GBR": -11.803223,
+          "USA": -10.47165
+        }
+      },
+      {
+        "annee": 2011,
+        "France": 992.20706,
+        "mediane": 1122.430294,
+        "rang_croissant": 1,
+        "ecart": -11.601899,
+        "rattrapage": 13.124603,
+        "sans_un_pays": {
+          "DEU": -11.041921,
+          "ITA": -12.174662,
+          "ESP": -12.174662,
+          "NLD": -10.454239,
+          "SWE": -10.454239,
+          "GBR": -12.174662,
+          "USA": -10.454239
+        }
+      },
+      {
+        "annee": 2012,
+        "France": 993.759801,
+        "mediane": 1115.637663,
+        "rang_croissant": 2,
+        "ecart": -10.924502,
+        "rattrapage": 12.264318,
+        "sans_un_pays": {
+          "DEU": -10.535166,
+          "ITA": -11.527962,
+          "ESP": -11.527962,
+          "NLD": -9.91804,
+          "SWE": -9.91804,
+          "GBR": -11.527962,
+          "USA": -9.91804
+        }
+      },
+      {
+        "annee": 2013,
+        "France": 985.845145,
+        "mediane": 1113.519336,
+        "rang_croissant": 2,
+        "ecart": -11.465826,
+        "rattrapage": 12.950735,
+        "sans_un_pays": {
+          "DEU": -11.47798,
+          "ITA": -11.873334,
+          "ESP": -11.873334,
+          "NLD": -11.066798,
+          "SWE": -11.066798,
+          "GBR": -11.873334,
+          "USA": -11.066798
+        }
+      },
+      {
+        "annee": 2014,
+        "France": 985.505468,
+        "mediane": 1132.034443,
+        "rang_croissant": 1,
+        "ecart": -12.943862,
+        "rattrapage": 14.868408,
+        "sans_un_pays": {
+          "DEU": -12.954452,
+          "ITA": -12.954452,
+          "ESP": -12.954452,
+          "NLD": -12.683822,
+          "SWE": -12.673166,
+          "GBR": -12.673166,
+          "USA": -12.673166
+        }
+      },
+      {
+        "annee": 2015,
+        "France": 989.897504,
+        "mediane": 1134.134733,
+        "rang_croissant": 1,
+        "ecart": -12.717821,
+        "rattrapage": 14.570926,
+        "sans_un_pays": {
+          "DEU": -12.91639,
+          "ITA": -12.91639,
+          "ESP": -12.91639,
+          "NLD": -12.56571,
+          "SWE": -12.56571,
+          "GBR": -12.76497,
+          "USA": -12.56571
+        }
+      },
+      {
+        "annee": 2016,
+        "France": 1001.000929,
+        "mediane": 1157.003447,
+        "rang_croissant": 1,
+        "ecart": -13.483323,
+        "rattrapage": 15.584653,
+        "sans_un_pays": {
+          "DEU": -13.702339,
+          "ITA": -13.702339,
+          "ESP": -13.702339,
+          "NLD": -12.691811,
+          "SWE": -12.691811,
+          "GBR": -12.914846,
+          "USA": -12.691811
+        }
+      },
+      {
+        "annee": 2017,
+        "France": 1003.625342,
+        "mediane": 1160.959797,
+        "rang_croissant": 1,
+        "ecart": -13.552102,
+        "rattrapage": 15.676612,
+        "sans_un_pays": {
+          "DEU": -14.450914,
+          "ITA": -14.450914,
+          "ESP": -14.450914,
+          "NLD": -13.078244,
+          "SWE": -13.078244,
+          "GBR": -13.986885,
+          "USA": -13.078244
+        }
+      },
+      {
+        "annee": 2018,
+        "France": 1018.446318,
+        "mediane": 1171.443928,
+        "rang_croissant": 1,
+        "ecart": -13.0606,
+        "rattrapage": 15.022648,
+        "sans_un_pays": {
+          "DEU": -14.553053,
+          "ITA": -14.553053,
+          "ESP": -14.553053,
+          "NLD": -12.655447,
+          "SWE": -12.655447,
+          "GBR": -14.161722,
+          "USA": -12.655447
+        }
+      },
+      {
+        "annee": 2019,
+        "France": 1034.034217,
+        "mediane": 1184.901316,
+        "rang_croissant": 1,
+        "ecart": -12.732461,
+        "rattrapage": 14.590146,
+        "sans_un_pays": {
+          "DEU": -14.661704,
+          "ITA": -14.661704,
+          "ESP": -14.661704,
+          "NLD": -12.126058,
+          "SWE": -12.126058,
+          "GBR": -14.081905,
+          "USA": -12.126058
+        }
+      },
+      {
+        "annee": 2020,
+        "France": 954.528804,
+        "mediane": 1117.289246,
+        "rang_croissant": 1,
+        "ecart": -14.56744,
+        "rattrapage": 17.051391,
+        "sans_un_pays": {
+          "DEU": -14.039494,
+          "ITA": -16.972696,
+          "ESP": -16.972696,
+          "NLD": -11.458648,
+          "SWE": -11.458648,
+          "GBR": -16.972696,
+          "USA": -11.458648
+        }
+      },
+      {
+        "annee": 2021,
+        "France": 1030.379514,
+        "mediane": 1150.089924,
+        "rang_croissant": 1,
+        "ecart": -10.408787,
+        "rattrapage": 11.618089,
+        "sans_un_pays": {
+          "DEU": -13.05062,
+          "ITA": -13.542894,
+          "ESP": -13.542894,
+          "NLD": -9.880066,
+          "SWE": -9.880066,
+          "GBR": -13.542894,
+          "USA": -9.880066
+        }
+      },
+      {
+        "annee": 2022,
+        "France": 1071.045976,
+        "mediane": 1167.235574,
+        "rang_croissant": 1,
+        "ecart": -8.240804,
+        "rattrapage": 8.980903,
+        "sans_un_pays": {
+          "DEU": -12.130358,
+          "ITA": -12.143378,
+          "ESP": -12.143378,
+          "NLD": -8.226602,
+          "SWE": -8.226602,
+          "GBR": -12.143378,
+          "USA": -8.226602
+        }
+      },
+      {
+        "annee": 2023,
+        "France": 1080.760813,
+        "mediane": 1189.87461,
+        "rang_croissant": 1,
+        "ecart": -9.170193,
+        "rattrapage": 10.096017,
+        "sans_un_pays": {
+          "DEU": -12.324884,
+          "ITA": -11.286432,
+          "ESP": -12.324884,
+          "NLD": -8.055192,
+          "SWE": -8.055192,
+          "GBR": -12.324884,
+          "USA": -8.055192
+        }
+      },
+      {
+        "annee": 2024,
+        "France": 1092.798248,
+        "mediane": 1217.46604,
+        "rang_croissant": 1,
+        "ecart": -10.23994,
+        "rattrapage": 11.408125,
+        "sans_un_pays": {
+          "DEU": -12.880873,
+          "ITA": -11.044901,
+          "ESP": -12.880873,
+          "NLD": -8.289724,
+          "SWE": -8.289724,
+          "GBR": -12.880873,
+          "USA": -8.289724
+        }
+      },
+      {
+        "annee": 2025,
+        "France": 1083.048448,
+        "mediane": 1233.65674,
+        "rang_croissant": 1,
+        "ecart": -12.208282,
+        "rattrapage": 13.905961,
+        "sans_un_pays": {
+          "DEU": -13.788563,
+          "ITA": -11.686961,
+          "ESP": -13.788563,
+          "NLD": -10.027954,
+          "SWE": -10.027954,
+          "GBR": -13.788563,
+          "USA": -10.027954
+        }
+      }
+    ],
+    "coefficient_raccord": 0.99897,
+    "grille": [
+      {
+        "heures_pct": 1.0,
+        "rho": 0.46,
+        "tau": 0.35,
+        "eco": 0,
+        "gain_solde": 0.18347
+      },
+      {
+        "heures_pct": 1.0,
+        "rho": 0.46,
+        "tau": 0.35,
+        "eco": 0.2,
+        "gain_solde": 0.275048
+      },
+      {
+        "heures_pct": 1.0,
+        "rho": 0.46,
+        "tau": 0.459,
+        "eco": 0,
+        "gain_solde": 0.23338
+      },
+      {
+        "heures_pct": 1.0,
+        "rho": 0.46,
+        "tau": 0.459,
+        "eco": 0.2,
+        "gain_solde": 0.324959
+      },
+      {
+        "heures_pct": 1.0,
+        "rho": 1,
+        "tau": 0.35,
+        "eco": 0,
+        "gain_solde": 0.396715
+      },
+      {
+        "heures_pct": 1.0,
+        "rho": 1,
+        "tau": 0.35,
+        "eco": 0.2,
+        "gain_solde": 0.594734
+      },
+      {
+        "heures_pct": 1.0,
+        "rho": 1,
+        "tau": 0.459,
+        "eco": 0,
+        "gain_solde": 0.504635
+      },
+      {
+        "heures_pct": 1.0,
+        "rho": 1,
+        "tau": 0.459,
+        "eco": 0.2,
+        "gain_solde": 0.702655
+      },
+      {
+        "heures_pct": 12.2,
+        "rho": 0.46,
+        "tau": 0.35,
+        "eco": 0,
+        "gain_solde": 2.129139
+      },
+      {
+        "heures_pct": 12.2,
+        "rho": 0.46,
+        "tau": 0.35,
+        "eco": 0.2,
+        "gain_solde": 3.191897
+      },
+      {
+        "heures_pct": 12.2,
+        "rho": 0.46,
+        "tau": 0.459,
+        "eco": 0,
+        "gain_solde": 2.708342
+      },
+      {
+        "heures_pct": 12.2,
+        "rho": 0.46,
+        "tau": 0.459,
+        "eco": 0.2,
+        "gain_solde": 3.7711
+      },
+      {
+        "heures_pct": 12.2,
+        "rho": 1,
+        "tau": 0.35,
+        "eco": 0,
+        "gain_solde": 4.356789
+      },
+      {
+        "heures_pct": 12.2,
+        "rho": 1,
+        "tau": 0.35,
+        "eco": 0.2,
+        "gain_solde": 6.531477
+      },
+      {
+        "heures_pct": 12.2,
+        "rho": 1,
+        "tau": 0.459,
+        "eco": 0,
+        "gain_solde": 5.541994
+      },
+      {
+        "heures_pct": 12.2,
+        "rho": 1,
+        "tau": 0.459,
+        "eco": 0.2,
+        "gain_solde": 7.716682
+      },
+      {
+        "heures_pct": 13.905961,
+        "rho": 0.46,
+        "tau": 0.35,
+        "eco": 0,
+        "gain_solde": 2.408963
+      },
+      {
+        "heures_pct": 13.905961,
+        "rho": 0.46,
+        "tau": 0.35,
+        "eco": 0.2,
+        "gain_solde": 3.611395
+      },
+      {
+        "heures_pct": 13.905961,
+        "rho": 0.46,
+        "tau": 0.459,
+        "eco": 0,
+        "gain_solde": 3.064288
+      },
+      {
+        "heures_pct": 13.905961,
+        "rho": 0.46,
+        "tau": 0.459,
+        "eco": 0.2,
+        "gain_solde": 4.26672
+      },
+      {
+        "heures_pct": 13.905961,
+        "rho": 1,
+        "tau": 0.35,
+        "eco": 0,
+        "gain_solde": 4.891636
+      },
+      {
+        "heures_pct": 13.905961,
+        "rho": 1,
+        "tau": 0.35,
+        "eco": 0.2,
+        "gain_solde": 7.333292
+      },
+      {
+        "heures_pct": 13.905961,
+        "rho": 1,
+        "tau": 0.459,
+        "eco": 0,
+        "gain_solde": 6.222339
+      },
+      {
+        "heures_pct": 13.905961,
+        "rho": 1,
+        "tau": 0.459,
+        "eco": 0.2,
+        "gain_solde": 8.663995
+      }
+    ],
+    "productivite_BCL": {
+      "1960/1973/1990": -0.559387,
+      "1973/1990/2007": -0.609588,
+      "1990/2007/2019": 0.048178,
+      "2007/2019/2024": -1.013336
+    },
+    "emploi_seniors": {
+      "De 55 \u00e0 59 ans": {
+        "1975": 61.8,
+        "1987": 48.2,
+        "2025": 78.8
+      },
+      "De 60 \u00e0 64 ans": {
+        "1975": 40.5,
+        "2001": 10.8,
+        "2025": 44.4
+      }
+    },
+    "productivite_5pct_gain": {
+      "1": 0.0,
+      "0.8": 0.54579,
+      "0.5": 1.364474
+    },
+    "ETP_S13": {
+      "1980": 4484.0,
+      "1985": 5032.3
+    },
+    "croissance_ETP": 2.334055,
+    "cotisations_sur_D11": {
+      "1993": 50.323276,
+      "1996": 49.995994,
+      "2018": 42.789422,
+      "2019": 39.590494,
+      "2025": 39.52231
+    }
+  },
+  "transcriptions": {
+    "bareme_1980_premier_seuil": 10.094637,
+    "bareme_1980_dernier_seuil": 0.0,
+    "nationalisations_1983_MdF": 7.618,
+    "croissance_DGAFP_avec_PT": 1.548905,
+    "croissance_DGAFP_hors_PT": 1.578574,
+    "part_FPT_FPH": 59.439608
+  }
+}
