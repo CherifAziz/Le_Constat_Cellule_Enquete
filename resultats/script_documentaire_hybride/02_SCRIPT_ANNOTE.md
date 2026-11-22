@@ -1,6 +1,6 @@
 <!-- METADONNEES (lues par outils/construire_script.py)
 titre: Avant la ligne
-version: Hybride, premier jet complet
+version: Hybride, version complète après relectures
 date: 22 novembre 2026
 etat: Version hybride après contre-expertise d'Astra (938fc95), relectures factuelle et narrative appliquées
 base: 2cbc221
@@ -78,7 +78,7 @@ D'où vient cet élan ? Plusieurs règles de prestations avaient été écrites 
 
 Avec une dépense sur sa lancée et une croissance cassée, le trou devrait se creuser chaque année. C'est l'inverse. De 1975 à 1980, la France refait presque tout le chemin.
 
-Sur la dernière ligne droite, de 1978 à 1980, pas tellement par le budget de l'État. Surtout par la Sécurité sociale, dont le régime général, celui des salariés, a fini 1978 avec près de 11 milliards de francs de déficit. Quatre plans en quatre ans. Et à chaque fois, on relève les cotisations. Par décret.
+Comment ? Regarde la Sécurité sociale. Son régime général, celui des salariés, finit 1978 avec près de 11 milliards de francs de déficit. Quatre plans en quatre ans, et à chaque fois, on relève les cotisations. Par décret. Sur la dernière ligne droite, de 1978 à 1980, la Sécurité sociale fait plus de la moitié du redressement. Le budget de l'État, environ un huitième.
 
 > **IMAGE** — Le compteur. Deux colonnes pour 1980 : « avant intérêts » en vert, « après intérêts » en rouge.
 
@@ -183,7 +183,7 @@ Mets de côté les intérêts, comme pour 1980. 1998, 1999, 2000, 2001 : la Fran
 
 Printemps 2000. L'économie tourne à plein régime. Le gouvernement de Lionel Jospin revoit les recettes de l'État à la hausse : 51 milliards de francs de plus que prévu. On l'appelle la cagnotte.
 
-Qu'est-ce qu'on en fait ? En 1980, il a fallu chercher le motif. En 2000, il est imprimé. Le texte traduit, je cite, « la volonté du Gouvernement de restituer aux Français une partie des fruits de la croissance ». (silence)
+Qu'est-ce qu'on en fait ? En 1980, il a fallu chercher le motif. En 2000, il est imprimé. Le projet de loi du 26 avril traduit, je cite, « la volonté du Gouvernement de restituer aux Français une partie des fruits de la croissance ». (silence)
 
 > **ARCHIVE** — Le tableau d'équilibre : solde général, — 215 327 ; — 215 278. Carton : « Projet déposé le 26 avril 2000 · variation du solde du budget de l'État ». À l'écran, sans voix : « + 49 millions de francs ». Si l'image vient de la loi promulguée le 13 juillet 2000, afficher 64.
 
@@ -232,7 +232,7 @@ Un écart ne dit pas pourquoi il s'est produit. Une prévision trop optimiste, u
 
 > **IMAGE** — Le solde de 2010 à 2018 remonte. À côté, la courbe des recettes qui monte.
 
-2011. La zone euro vacille. La France est sous surveillance européenne. Dos au mur, troisième fois. Et troisième redressement. Comment ? Comme en 1979, d'abord par les recettes : de 2011 à 2014, elles font environ quatre cinquièmes de l'effort budgétaire mesuré.
+2011. La zone euro vacille. La France est sous surveillance européenne. Dos au mur, troisième fois. Et troisième redressement. Comment ? Comme à la fin des années soixante-dix, d'abord par les recettes : de 2011 à 2014, elles font environ quatre cinquièmes de l'effort budgétaire mesuré.
 
 > **IMAGE** — Deux dates sur une frise : « décembre 2017 : loi de finances pour 2018 » ; « 22 juin 2018 : clôture de la procédure européenne ».
 
@@ -300,7 +300,7 @@ Et pour quarante-deux de nos cinquante et un budgets, le camp du gouvernement es
 > **IMAGE** — Carton noir, une ligne à la fois : « Objectif : qu'en 2030 la dette cesse de monter par rapport à la richesse produite (ratio 2030 = ratio 2029) » · « Départ : scénario sans nouvelles mesures, ni celles du projet de budget 2027 · déficit de 6,5 % en 2027 » · « Effort : environ 135 à 165 Md€ par an, niveau atteint en 2030 et maintenu, à la taille de l'économie de 2025 » · « Deux modèles · exercice daté du 22 novembre 2026 · simulation, pas prévision ».
 > **LECTURE** — 3 s
 
-Alors, quelle est la taille du problème ? Prenons un objectif modeste : qu'en 2030, la dette cesse de grossir plus vite que l'économie. Pas la rembourser. Juste arrêter la hausse de son poids dans l'économie. En partant d'un scénario sans nouvelles mesures, il faudrait que les décisions prises d'ici là rapportent, en 2030, entre 135 et 165 milliards d'euros par an, à la taille de l'économie de 2025. (pause) Pas 165 milliards de plus chaque année. Un niveau, atteint par étapes. Puis tenu.
+Alors, quelle est la taille du problème ? Prenons un objectif modeste : qu'en 2030, la dette cesse de grossir plus vite que l'économie. Pas la rembourser. Juste arrêter la hausse de son poids. En partant d'un scénario sans nouvelles mesures, il faudrait que les décisions prises d'ici là rapportent, en 2030, entre 135 et 165 milliards d'euros par an, à la taille de l'économie de 2025. (pause) Pas 165 milliards de plus chaque année. Un niveau, atteint par étapes. Puis tenu.
 
 Attention : stabiliser la dette, ce n'est ni passer sous 3 % de déficit, ni revenir à l'équilibre. Ce sont d'autres cibles. L'équilibre coûterait bien davantage.
 
@@ -309,7 +309,7 @@ Attention : stabiliser la dette, ce n'est ni passer sous 3 % de déficit, ni rev
 
 Maintenant, prenons les mesures chiffrées qu'on a pu rassembler, dans le projet de budget, chez la Cour des comptes, dans nos dossiers. Sans les compter deux fois, on les fait passer dans un même modèle. Regarde une seule chose : de combien la dette monte entre 2029 et 2030. Le but, c'est zéro.
 
-Sans nouvelles mesures : près de quatre points de PIB, en une seule année. (pause) Avec tout le portefeuille central, appliqué jusqu'au bout : deux points. Et si une partie seulement est appliquée, dans une hypothèse d'exécution partielle : environ deux et demi. (silence)
+Sans nouvelles mesures : près de quatre points de PIB, en une seule année. (pause) Avec tout le portefeuille central, appliqué jusqu'au bout : deux points. Et dans une hypothèse où une partie seulement est appliquée : environ deux et demi. (silence)
 
 Ce ne sont pas des prédictions. Ce sont des simulations, avec leurs hypothèses. Mais elles disent une chose importante. Ces mesures ne sont pas rien : elles ralentissent nettement la hausse. Et pourtant, même appliquées jusqu'au bout, la dette continue de monter. (pause) Le compte n'y est pas encore.
 
@@ -366,7 +366,7 @@ Alors qu'est-ce qui reste, quand on retire le vent ? Une méthode. Persson en do
 
 > **IMAGE** — La frise suédoise revient. Une zone éclairée couvre 1995–1996 : « plus de 8 des quelque 11¾ points d'amélioration du solde (1994-1998, FMI) ». Le repère « 1997 : plafonds » s'allume après.
 
-Et les fameux plafonds de dépenses ? Ils s'appliquent quand l'essentiel de l'amélioration est déjà fait. Ce n'est pas leur application qui a fait l'essentiel du redressement. Ils ont servi d'outil de suivi pour la suite.
+Et les fameux plafonds de dépenses ? Ils s'appliquent quand l'essentiel de l'amélioration est déjà fait. Ce n'est donc pas leur application qui a redressé les comptes. Ils ont servi d'outil de suivi pour la suite.
 
 La méthode suédoise ne promet pas le résultat suédois. Elle montre comment on peut demander un effort à tout un pays, sans que chacun le défasse dans son coin. (pause) Retour en France. Quatre situations. Pour chacune, trois questions : qui paie ? Quand est-ce que ça rapporte ? Et comment saura-t-on que c'est tenu ? Puis la meilleure objection.
 
@@ -380,13 +380,13 @@ Première situation : une pension de 1 300 euros par mois. Imagine qu'une année
 
 Pour les comptes publics, c'est une économie rapide : elle joue dès le premier versement. Un gel d'un an des pensions de base et de plusieurs prestations rapporterait de l'ordre de quatre milliards et demi par an en 2030, s'il n'est ni retiré, ni rattrapé.
 
-> **IMAGE** — Carton : « Qui supporte un gel des seules pensions ? Ménages classés par niveau de vie · moitié la plus modeste : 37 à 40 % · quatre dixièmes suivants : 47 à 48 % (recalcul S04 d'après l'Institut des politiques publiques) ».
+> **IMAGE** — Carton : « Qui supporte un gel des seules pensions ? Ménages classés par niveau de vie · moitié la plus modeste : 37 à 40 % · quatre dixièmes suivants : 47 à 48 % (calcul de la cellule, S04, sur la simulation de l'Institut des politiques publiques, 2025, tableau 2.2) ».
 
-Qui paie ? Les retraités, bien sûr. Mais pas d'abord les plus aisés. Prends un gel des seules pensions, d'après les calculs de l'Institut des politiques publiques, et range les ménages du plus modeste au plus aisé, selon leur niveau de vie. Près de quatre euros sur dix de l'effort pèsent sur la moitié la plus modeste. Et près d'un euro sur deux, sur les quatre dixièmes juste au-dessus.
+Qui paie ? Les retraités, bien sûr. Mais pas d'abord les plus aisés. Prends un gel des seules pensions, simulé par l'Institut des politiques publiques. D'après nos calculs sur ses résultats, si l'on range les ménages du plus modeste au plus aisé, selon leur niveau de vie : près de quatre euros sur dix de l'effort pèsent sur la moitié la plus modeste. Et près d'un euro sur deux, sur les quatre dixièmes juste au-dessus.
 
 > **IMAGE** — Carton : « Autre mesure, distincte du gel : revalorisation égale à l'inflation moins 0,4 point, de 2028 à 2032, pour les pensions au-dessus de 1 260 € · effet direct en 2030 : 1,9 Md€ (A15, échelle du PIB 2025) ».
 
-Une autre règle épargnerait les petites pensions : ne freiner, plusieurs années de suite, que les pensions au-dessus d'environ 1 260 euros. Plus étalée, plus ciblée, elle rapporte aussi moins : autour de deux milliards en 2030.
+Une autre règle épargnerait les petites pensions : ne freiner, plusieurs années de suite, que les pensions au-dessus d'environ 1 260 euros. Elle rapporterait autour de deux milliards en 2030.
 
 > **IMAGE** — Deux flèches : « dépense publique en moins » ; « dépense déplacée vers les ménages, les mutuelles ou les communes ». Carton : « une charge transférée n'est pas une économie publique consolidée ».
 
@@ -401,9 +401,9 @@ Deuxième situation : une addition de restaurant. La TVA y est réduite, à 10 %
 
 > **IMAGE** — Carton : « baisse de 2009, restaurants avec service à table : environ 56 % du gain allé aux propriétaires (Benzarti et Carloni, note IPP n° 32) · non transposable à une hausse ».
 
-Mais rien ne dit que tout le serait. Quand cette TVA avait été baissée, en 2009, une étude a estimé qu'environ 56 % du gain était allé aux propriétaires des restaurants, pas aux clients. (pause) Ce qui ne dit pas ce que ferait une hausse.
+Mais rien ne dit que tout le serait. Quand cette TVA avait été baissée, en 2009, une étude a estimé qu'environ 56 % du gain était allé aux propriétaires des restaurants, pas aux clients. (pause) Ce qui ne dit pas ce que ferait une hausse. Ça, on ne le saura qu'en relevant les prix sur les cartes, après coup.
 
-Fermer ces avantages un par un rapporte quelques milliards à chaque fois. Si l'on veut davantage, on arrive aux impôts de tout le monde. Et il faut savoir lequel, parce qu'ils ne frappent pas les mêmes.
+Fermer ces avantages un par un rapporte en général quelques milliards à chaque fois. Si l'on veut davantage, on arrive aux impôts de tout le monde. Et il faut savoir lequel, parce qu'ils ne frappent pas les mêmes.
 
 > **IMAGE** — Un ticket de caisse de 120 euros, entièrement au taux normal : 121 euros. Carton : « + 1 point du seul taux normal de TVA : 7,5 Md€ en année pleine (DG Trésor, base 2025, après la TVA sur les achats publics, avant effets sur les prix, les indexations et l'activité) ».
 

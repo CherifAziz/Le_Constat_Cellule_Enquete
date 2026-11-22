@@ -1,10 +1,10 @@
-# 01 · Script voix off — *Avant la ligne* (Hybride, premier jet complet)
+# 01 · Script voix off — *Avant la ligne* (Hybride, version complète après relectures)
 
 **22 novembre 2026. Version hybride après contre-expertise d'Astra (938fc95), relectures factuelle et narrative appliquées.** Texte seul, tel qu'il est dit. Les indications d'image et d'archive sont dans [02_SCRIPT_ANNOTE.md](02_SCRIPT_ANNOTE.md), dont ce fichier est extrait automatiquement.
 
 `(pause)` : respiration marquée, environ une seconde. `(silence)` : deux à trois secondes sans voix.
 
-**4796 mots. Durée estimée par le calcul : 28:33** (hypothèse de 182 mots par minute ; (pause) = 1 s ; (silence) = 2,5 s ; 0,5 s entre deux paragraphes ; temps de lecture des archives indiqués dans le script annoté ; 4 s de carton de titre et 3 s de silence final hors voix). Ce n'est pas une durée mesurée sur un enregistrement.
+**4824 mots. Durée estimée par le calcul : 28:42** (hypothèse de 182 mots par minute ; (pause) = 1 s ; (silence) = 2,5 s ; 0,5 s entre deux paragraphes ; temps de lecture des archives indiqués dans le script annoté ; 4 s de carton de titre et 3 s de silence final hors voix). Ce n'est pas une durée mesurée sur un enregistrement.
 
 ---
 
@@ -44,7 +44,7 @@ D'où vient cet élan ? Plusieurs règles de prestations avaient été écrites 
 
 Avec une dépense sur sa lancée et une croissance cassée, le trou devrait se creuser chaque année. C'est l'inverse. De 1975 à 1980, la France refait presque tout le chemin.
 
-Sur la dernière ligne droite, de 1978 à 1980, pas tellement par le budget de l'État. Surtout par la Sécurité sociale, dont le régime général, celui des salariés, a fini 1978 avec près de 11 milliards de francs de déficit. Quatre plans en quatre ans. Et à chaque fois, on relève les cotisations. Par décret.
+Comment ? Regarde la Sécurité sociale. Son régime général, celui des salariés, finit 1978 avec près de 11 milliards de francs de déficit. Quatre plans en quatre ans, et à chaque fois, on relève les cotisations. Par décret. Sur la dernière ligne droite, de 1978 à 1980, la Sécurité sociale fait plus de la moitié du redressement. Le budget de l'État, environ un huitième.
 
 En 1980, si l'on met de côté les intérêts de la dette, la France encaisse plus qu'elle ne dépense. (pause) Elle sait donc se redresser. Elle l'a fait en prélevant plus. Et une partie de ce redressement tient à une recette qui a une date de fin.
 
@@ -110,7 +110,7 @@ Mets de côté les intérêts, comme pour 1980. 1998, 1999, 2000, 2001 : la Fran
 
 Printemps 2000. L'économie tourne à plein régime. Le gouvernement de Lionel Jospin revoit les recettes de l'État à la hausse : 51 milliards de francs de plus que prévu. On l'appelle la cagnotte.
 
-Qu'est-ce qu'on en fait ? En 1980, il a fallu chercher le motif. En 2000, il est imprimé. Le texte traduit, je cite, « la volonté du Gouvernement de restituer aux Français une partie des fruits de la croissance ». (silence)
+Qu'est-ce qu'on en fait ? En 1980, il a fallu chercher le motif. En 2000, il est imprimé. Le projet de loi du 26 avril traduit, je cite, « la volonté du Gouvernement de restituer aux Français une partie des fruits de la croissance ». (silence)
 
 Les quatre cinquièmes partent en baisses d'impôts : la TVA perd un point, l'impôt sur le revenu et la taxe d'habitation baissent. Le reste, en dépenses. Le déficit du budget de l'État est maintenu, dit le texte, « à un niveau inchangé ». Et une partie de cette recette y est classée exceptionnelle : elle ne reviendra pas.
 
@@ -140,7 +140,7 @@ Un écart ne dit pas pourquoi il s'est produit. Une prévision trop optimiste, u
 
 ### 11 · Troisième fois
 
-2011. La zone euro vacille. La France est sous surveillance européenne. Dos au mur, troisième fois. Et troisième redressement. Comment ? Comme en 1979, d'abord par les recettes : de 2011 à 2014, elles font environ quatre cinquièmes de l'effort budgétaire mesuré.
+2011. La zone euro vacille. La France est sous surveillance européenne. Dos au mur, troisième fois. Et troisième redressement. Comment ? Comme à la fin des années soixante-dix, d'abord par les recettes : de 2011 à 2014, elles font environ quatre cinquièmes de l'effort budgétaire mesuré.
 
 Puis deux dates. Décembre 2017 : le Parlement vote des baisses d'impôts pour 2018. Juin 2018 : la procédure européenne prend fin. (pause) Les baisses d'impôts étaient votées avant même la fin de la surveillance.
 
@@ -180,13 +180,13 @@ Et pour quarante-deux de nos cinquante et un budgets, le camp du gouvernement es
 
 ### 16 · Le compte
 
-Alors, quelle est la taille du problème ? Prenons un objectif modeste : qu'en 2030, la dette cesse de grossir plus vite que l'économie. Pas la rembourser. Juste arrêter la hausse de son poids dans l'économie. En partant d'un scénario sans nouvelles mesures, il faudrait que les décisions prises d'ici là rapportent, en 2030, entre 135 et 165 milliards d'euros par an, à la taille de l'économie de 2025. (pause) Pas 165 milliards de plus chaque année. Un niveau, atteint par étapes. Puis tenu.
+Alors, quelle est la taille du problème ? Prenons un objectif modeste : qu'en 2030, la dette cesse de grossir plus vite que l'économie. Pas la rembourser. Juste arrêter la hausse de son poids. En partant d'un scénario sans nouvelles mesures, il faudrait que les décisions prises d'ici là rapportent, en 2030, entre 135 et 165 milliards d'euros par an, à la taille de l'économie de 2025. (pause) Pas 165 milliards de plus chaque année. Un niveau, atteint par étapes. Puis tenu.
 
 Attention : stabiliser la dette, ce n'est ni passer sous 3 % de déficit, ni revenir à l'équilibre. Ce sont d'autres cibles. L'équilibre coûterait bien davantage.
 
 Maintenant, prenons les mesures chiffrées qu'on a pu rassembler, dans le projet de budget, chez la Cour des comptes, dans nos dossiers. Sans les compter deux fois, on les fait passer dans un même modèle. Regarde une seule chose : de combien la dette monte entre 2029 et 2030. Le but, c'est zéro.
 
-Sans nouvelles mesures : près de quatre points de PIB, en une seule année. (pause) Avec tout le portefeuille central, appliqué jusqu'au bout : deux points. Et si une partie seulement est appliquée, dans une hypothèse d'exécution partielle : environ deux et demi. (silence)
+Sans nouvelles mesures : près de quatre points de PIB, en une seule année. (pause) Avec tout le portefeuille central, appliqué jusqu'au bout : deux points. Et dans une hypothèse où une partie seulement est appliquée : environ deux et demi. (silence)
 
 Ce ne sont pas des prédictions. Ce sont des simulations, avec leurs hypothèses. Mais elles disent une chose importante. Ces mesures ne sont pas rien : elles ralentissent nettement la hausse. Et pourtant, même appliquées jusqu'au bout, la dette continue de monter. (pause) Le compte n'y est pas encore.
 
@@ -220,7 +220,7 @@ Et la France n'a pas de couronne à laisser glisser : elle est dans l'euro. Elle
 
 Alors qu'est-ce qui reste, quand on retire le vent ? Une méthode. Persson en donnait trois conditions. Un effort réparti équitablement. Un plan présenté d'un seul bloc, pour que chacun voie qu'il n'est pas le seul à payer. Et tout mettre sur la table : les hypothèses, les calculs, les mauvaises nouvelles.
 
-Et les fameux plafonds de dépenses ? Ils s'appliquent quand l'essentiel de l'amélioration est déjà fait. Ce n'est pas leur application qui a fait l'essentiel du redressement. Ils ont servi d'outil de suivi pour la suite.
+Et les fameux plafonds de dépenses ? Ils s'appliquent quand l'essentiel de l'amélioration est déjà fait. Ce n'est donc pas leur application qui a redressé les comptes. Ils ont servi d'outil de suivi pour la suite.
 
 La méthode suédoise ne promet pas le résultat suédois. Elle montre comment on peut demander un effort à tout un pays, sans que chacun le défasse dans son coin. (pause) Retour en France. Quatre situations. Pour chacune, trois questions : qui paie ? Quand est-ce que ça rapporte ? Et comment saura-t-on que c'est tenu ? Puis la meilleure objection.
 
@@ -230,9 +230,9 @@ Première situation : une pension de 1 300 euros par mois. Imagine qu'une année
 
 Pour les comptes publics, c'est une économie rapide : elle joue dès le premier versement. Un gel d'un an des pensions de base et de plusieurs prestations rapporterait de l'ordre de quatre milliards et demi par an en 2030, s'il n'est ni retiré, ni rattrapé.
 
-Qui paie ? Les retraités, bien sûr. Mais pas d'abord les plus aisés. Prends un gel des seules pensions, d'après les calculs de l'Institut des politiques publiques, et range les ménages du plus modeste au plus aisé, selon leur niveau de vie. Près de quatre euros sur dix de l'effort pèsent sur la moitié la plus modeste. Et près d'un euro sur deux, sur les quatre dixièmes juste au-dessus.
+Qui paie ? Les retraités, bien sûr. Mais pas d'abord les plus aisés. Prends un gel des seules pensions, simulé par l'Institut des politiques publiques. D'après nos calculs sur ses résultats, si l'on range les ménages du plus modeste au plus aisé, selon leur niveau de vie : près de quatre euros sur dix de l'effort pèsent sur la moitié la plus modeste. Et près d'un euro sur deux, sur les quatre dixièmes juste au-dessus.
 
-Une autre règle épargnerait les petites pensions : ne freiner, plusieurs années de suite, que les pensions au-dessus d'environ 1 260 euros. Plus étalée, plus ciblée, elle rapporte aussi moins : autour de deux milliards en 2030.
+Une autre règle épargnerait les petites pensions : ne freiner, plusieurs années de suite, que les pensions au-dessus d'environ 1 260 euros. Elle rapporterait autour de deux milliards en 2030.
 
 Attention aussi aux fausses économies : moins rembourser un soin, ou baisser la dotation d'une commune, c'est souvent déplacer la dépense vers les ménages, les mutuelles ou les communes. Pas la supprimer. (pause) La meilleure objection, enfin, c'est l'histoire récente : ces gels ont déjà été retirés, ou rattrapés. Une économie qu'on défait l'année suivante n'en est pas une. Pour le savoir, il faudra regarder les bulletins des années suivantes.
 
@@ -240,9 +240,9 @@ Attention aussi aux fausses économies : moins rembourser un soin, ou baisser la
 
 Deuxième situation : une addition de restaurant. La TVA y est réduite, à 10 %. C'est un avantage fiscal, et la Cour des comptes a chiffré son retour au taux normal, avec celui de certains services à la personne. Si tout était répercuté, un repas de 30 euros passerait à près de 33.
 
-Mais rien ne dit que tout le serait. Quand cette TVA avait été baissée, en 2009, une étude a estimé qu'environ 56 % du gain était allé aux propriétaires des restaurants, pas aux clients. (pause) Ce qui ne dit pas ce que ferait une hausse.
+Mais rien ne dit que tout le serait. Quand cette TVA avait été baissée, en 2009, une étude a estimé qu'environ 56 % du gain était allé aux propriétaires des restaurants, pas aux clients. (pause) Ce qui ne dit pas ce que ferait une hausse. Ça, on ne le saura qu'en relevant les prix sur les cartes, après coup.
 
-Fermer ces avantages un par un rapporte quelques milliards à chaque fois. Si l'on veut davantage, on arrive aux impôts de tout le monde. Et il faut savoir lequel, parce qu'ils ne frappent pas les mêmes.
+Fermer ces avantages un par un rapporte en général quelques milliards à chaque fois. Si l'on veut davantage, on arrive aux impôts de tout le monde. Et il faut savoir lequel, parce qu'ils ne frappent pas les mêmes.
 
 Prends un ticket de caisse. Un point de plus sur le seul taux normal de TVA rapporterait environ 7,5 milliards d'euros, en année pleine. Les commerçants la collectent ; selon la concurrence, elle se partage entre les prix, les marges, les salaires. Si elle passe dans les prix, un ménage qui dépense presque tout ce qu'il gagne la sent davantage, en proportion de son revenu.
 

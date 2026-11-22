@@ -22,30 +22,30 @@ Le film raconte une enquête. Ce n'est pas une suite de rapports.
 
 - la séquence 16, où l'on passe des milliards aux points de dette ;
 - la séquence 21, la plus chargée en chiffres ;
-- la durée, 43 s au-dessus de l'objectif d'Astra.
+- la durée, 52 s au-dessus de l'objectif d'Astra.
 
 ## 2. La courbe de curiosité
 
 | Heure | Ce qui accroche | Ce qui relance |
 |---|---|---|
 | 0:00–1:18 | Les 51 barres, puis le vote 458 à 0 | « Regarde cette barre-là. 1980. » La page floutée : « On va la lire ensemble » |
-| 1:22–3:11 | « L'État a ouvert les vannes ? » Non : la croissance casse | La remontée de 1975–1980, inattendue |
-| 3:11–5:41 | Les deux dates au-dessus du tableau ; la page lue | « On tient le coupable ? » |
-| 5:41–6:38 | 11 à 15 % : le film dément sa propre piste | « Neuf mois après » : la cotisation rétablie |
-| 6:38–7:44 | L'homme de 57 ans, planté pour l'acte IV | « Voilà comment elle s'enferme » : fin du premier acte |
-| 7:44–10:05 | L'argent tombe du ciel, le motif imprimé, l'autre voie | « Même pas la moitié », puis « Par écrit » |
-| 10:05–12:33 | L'Italie ; la règle de 2005 jamais appliquée ; 31 sur 31 | « Alors pourquoi ne pas recommencer ? » |
-| 12:33–15:15 | Le levier déjà tiré ; 57 sur 100 ; septembre 2023 ; 42 sur 51 | « Le blocage… n'a pas créé celui d'hier » |
-| 15:15–17:05 | Le carton du besoin, puis la pente : « Le but, c'est zéro » | « Le compte n'y est pas encore. » Puis : un pays l'a fait |
-| 17:05–20:28 | Le télétexte ; « Ne dites jamais que ça ne fera pas mal » ; 94 % sur le but | Le retournement : le vent dans le dos, le prix |
-| 20:28–26:07 | Quatre situations, chacune avec sa meilleure objection | « Pas un euro » : la règle ne rapporte rien |
-| 26:07–28:30 | Trois réponses, la position, son prix, la phrase de 2027 | 1979 tenue au jour près ; les trois questions |
+| 1:22–3:14 | « L'État a ouvert les vannes ? » Non : la croissance casse | La remontée de 1975–1980, inattendue |
+| 3:14–5:43 | Les deux dates au-dessus du tableau ; la page lue | « On tient le coupable ? » |
+| 5:43–6:41 | 11 à 15 % : le film dément sa propre piste | « Neuf mois après » : la cotisation rétablie |
+| 6:41–7:47 | L'homme de 57 ans, planté pour l'acte IV | « Voilà comment elle s'enferme » : fin du premier acte |
+| 7:47–10:09 | L'argent tombe du ciel, le motif imprimé, l'autre voie | « Même pas la moitié », puis « Par écrit » |
+| 10:09–12:39 | L'Italie ; la règle de 2005 jamais appliquée ; 31 sur 31 | « Alors pourquoi ne pas recommencer ? » |
+| 12:39–15:21 | Le levier déjà tiré ; 57 sur 100 ; septembre 2023 ; 42 sur 51 | « Le blocage… n'a pas créé celui d'hier » |
+| 15:21–17:10 | Le carton du besoin, puis la pente : « Le but, c'est zéro » | « Le compte n'y est pas encore. » Puis : un pays l'a fait |
+| 17:10–20:32 | Le télétexte ; « Ne dites jamais que ça ne fera pas mal » ; 94 % sur le but | Le retournement : le vent dans le dos, le prix |
+| 20:32–26:17 | Quatre situations, chacune avec sa meilleure objection | « Pas un euro » : la règle ne rapporte rien |
+| 26:17–28:39 | Trois réponses, la position, son prix, la phrase de 2027 | 1979 tenue au jour près ; les trois questions |
 
 **Points de risque de décrochage**, du plus au moins sensible :
 
-1. **15:15–16:00.** Le carton du besoin dit trois choses (objectif, départ, niveau tenu) en 40 s. Les corrections ont fait passer le spectateur au graphique par une seule consigne : « Regarde une seule chose… Le but, c'est zéro ». Le passage reste exigeant, et c'est le premier à tester à l'écoute.
-2. **21:59–23:53.** La séquence 21 dit sept chiffres en chiffres. Le ticket de caisse et la fiche de paie les rattachent à des objets, et l'exemple personnel précède le total national. C'est la séquence la plus longue de l'acte IV. Une coupe est proposée en 06.
-3. **10:40–11:55.** Il y a trois couches d'engagements : la règle, les 31 cibles, les cinq dates. Chacune est courte et nécessaire.
+1. **15:21–16:05.** Le carton du besoin dit trois choses (objectif, départ, niveau tenu) en 40 s. Les corrections ont fait passer le spectateur au graphique par une seule consigne : « Regarde une seule chose… Le but, c'est zéro ». Le passage reste exigeant, et c'est le premier à tester à l'écoute.
+2. **22:03–24:02.** La séquence 21 dit sept chiffres en chiffres. Le ticket de caisse et la fiche de paie les rattachent à des objets, et l'exemple personnel précède le total national. C'est la séquence la plus longue de l'acte IV. Une coupe est proposée en 06.
+3. **10:44–11:59.** Il y a trois couches d'engagements : la règle, les 31 cibles, les cinq dates. Chacune est courte et nécessaire.
 
 ## 3. Les dix corrections du relecteur
 
@@ -88,7 +88,7 @@ Coupes **refusées**, parce que ces passages répondent à une consigne :
 | Situation | Qui paie | Quand ça rapporte | Comment vérifier | Meilleure objection |
 |---|---|---|---|---|
 | 20 · Une pension | Ménages classés par niveau de vie, surtout du bas et du milieu | « dès le premier versement » ; 2030 | « regarder les bulletins des années suivantes » | Gels retirés ou rattrapés ; fausses économies |
-| 21 · Une addition | Clients, patrons, salariés ; ménages qui consomment tout leur revenu ; salariés modestes pour la CSG | « en année pleine » | Le partage observé après coup (2009) | Une partie du rendement se perd ; on ne sait pas combien |
+| 21 · Une addition | Clients, patrons, salariés ; ménages qui consomment tout leur revenu ; salariés modestes pour la CSG | « en année pleine » « on ne le saura qu'en relevant les prix sur les cartes, après coup » | Une partie du rendement se perd ; on ne sait pas combien |
 | 22 · Deux personnes | Ceux qui ne peuvent pas rester en poste | « en années, pas en mois » | Personnes en emploi, heures, chômage, invalidité | L'âge se vote, le poste ne se vote pas |
 | 23 · Une promesse | — | « Pas un euro » | Le document public annuel | Une loi ultérieure peut défaire une programmation ; sans accord, rien ne tient |
 

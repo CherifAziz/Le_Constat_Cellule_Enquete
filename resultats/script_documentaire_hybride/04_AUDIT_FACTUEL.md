@@ -9,15 +9,15 @@ Aucune nouvelle enquête économique n'a été faite. Le référentiel est la co
 
 ## 1. Verdict
 
-**Conforme, sous les réserves du §5.** Les cinq points bloquants sont corrigés. Il ne reste dans la voix aucune des formulations réfutées par Astra : la jauge 130–165 / 60–70 / 40–50, « au mieux la moitié », « comme les précédentes », les 63 Md€ de dérive, le 0,6 point attribué à une règle, les 0,8–2,7 points d'emploi, les 3,9 Md€ pour la restauration seule, les « deux tiers de coupes », le « pire déficit » de 1993, l'hôtel de New York, et les « dix milliards en dix jours ». La recherche de chaînes sur la voix finale ne trouve aucune de ces formulations.
+**Conforme selon la rédaction, sous les réserves du §7.** Les cinq points bloquants sont corrigés. Le relecteur indépendant a lu le premier jet. Il n'a pas relu la version corrigée : la conformité de la version finale repose sur la vérification de la rédaction (recherche de chaînes, relecture intégrale de la voix, concordance automatique). Un contrôle du différentiel `e4580f2..HEAD` par un tiers reste souhaitable. Il ne reste dans la voix aucune des formulations réfutées par Astra : la jauge 130–165 / 60–70 / 40–50, « au mieux la moitié », « comme les précédentes », les 63 Md€ de dérive, le 0,6 point attribué à une règle, les 0,8–2,7 points d'emploi, les 3,9 Md€ pour la restauration seule, les « deux tiers de coupes », le « pire déficit » de 1993, l'hôtel de New York, et les « dix milliards en dix jours ». La recherche de chaînes sur la voix finale ne trouve aucune de ces formulations.
 
 ## 2. Les cinq points bloquants
 
 | # | Problème relevé | Correction appliquée |
 |---|---|---|
 | B1 | « où en sera son déficit trois ans plus tard » : depuis la publication, le compte donne 31 cibles manquées sur 32, et non 31 sur 31 | « trois budgets plus loin », conforme à la convention d'A08. Le carton précise « trois exercices au-delà de l'année budgétaire de départ » |
-| B2 | Les parts « quatre sur dix » étaient rattachées au gel général des pensions et des prestations, alors qu'elles portent sur un gel des seules pensions, étudié dans une autre étude | « Prends un gel des seules pensions, d'après les calculs de l'Institut des politiques publiques… » |
-| B3 | La règle « inflation − 0,4 point » était présentée comme une variante du gel, et comparée à lui comme « prix de la protection » | Elle devient « une autre règle », présentée avec son propre rendement (« autour de deux milliards en 2030 »). Le carton dit « autre mesure, distincte du gel ». Plus aucun rapport entre les deux n'est fait |
+| B2 | Les parts « quatre sur dix » étaient rattachées au gel général des pensions et des prestations, alors qu'elles portent sur un gel des seules pensions, étudié dans une autre étude | « Prends un gel des seules pensions, simulé par l'Institut des politiques publiques. D'après nos calculs sur ses résultats… » Le carton nomme le calcul de la cellule (S04) sur le tableau 2.2 de l'IPP |
+| B3 | La règle « inflation − 0,4 point » était présentée comme une variante du gel, et comparée à lui comme « prix de la protection » | Elle devient « une autre règle », avec son propre rendement : « Elle rapporterait autour de deux milliards en 2030. » Le carton dit « autre mesure, distincte du gel ». Plus aucune comparaison n'est faite entre les deux |
 | B4 | « Les déficits font la dette », une formule qu'Astra avait corrigée dans la V6 | « Les déficits contribuent à augmenter la dette » |
 | B5 | « quarante-deux ont été votés alors que… » assimile un classement des sièges à un décompte des votes | « pour quarante-deux de nos cinquante et un budgets, le camp du gouvernement est classé majoritaire, seul ou avec ses alliés » |
 
@@ -36,36 +36,38 @@ Aucune nouvelle enquête économique n'a été faite. Le référentiel est la co
 | Séq. 14 : « La réforme passe sans vote » | « sans vote à l'Assemblée » (le Sénat a voté) |
 | Séq. 14, carton art. 105 | Le calendrier est décalé par génération, à partir des pensions prenant effet en septembre 2026 ; âge maintenu à 62 ans et 9 mois jusqu'en janvier 2028 |
 | Séq. 15 : « Il ne l'a pas créé » | « Il n'a pas créé celui d'hier » (formule validée en V6) |
-| Séq. 16 : « hypothèse prudente » | « hypothèse d'exécution partielle » (la grille 90/75/50 est la décote centrale) |
+| Séq. 16 : « hypothèse prudente » | « dans une hypothèse où une partie seulement est appliquée » (la grille 90/75/50 est la décote centrale) |
 | Séq. 18 : « Et ça a coûté », qui attribuait chômage et défaite de 1998 au plan | « Ces années sont dures » ; pour l'emploi des jeunes, « crise et plan sont mêlés » ; pour 1998, « sans qu'on sache quelle part revient aux coupes ». Seules les coupes locales sont attribuées au plan, et au conseiller qui les rapporte |
-| Séq. 19 : « Ils n'ont pas fait le redressement » | « Ce n'est pas leur application qui a fait l'essentiel du redressement » |
+| Séq. 19 : « Ils n'ont pas fait le redressement » | « Ils s'appliquent quand l'essentiel de l'amélioration est déjà fait. Ce n'est donc pas leur application qui a redressé les comptes. » La première phrase borne la seconde à ce qu'établit la chronologie |
 | Séq. 20 : « l'économie la plus rapide qui existe » | « une économie rapide » |
 | Séq. 22 : « a bondi de 16 à 17 points » | « a gagné entre 16 et 17 points » |
 
 ## 4. Mineurs (20)
 
-Dix-neuf sont appliqués, un est jugé sans objet :
+Bilan des vingt mineurs :
 
 - « Neuf mois trop tard » → « Neuf mois après » (aucune pièce ne permet de juger).
 - « n'a jamais suffi » → « ne suffit pas ».
 - « effort budgétaire mesuré ».
 - « Cinquante et un ans ».
 - « 23 milliards d'euros de mesures de recettes ».
-- « hausse de son poids dans l'économie », parce que la dette nominale continue de croître.
+- « Juste arrêter la hausse de son poids », parce que la dette nominale continue de croître.
 - « dirigé par un gouvernement minoritaire ».
 - « soutiennent l'objectif de redressement », formulation de la consigne. La page 416 du discours n'a pas été relue.
 - Collectivités locales et coupes attribuées au conseiller de Persson.
 - « ont déjà été retirés, ou rattrapés ».
 - « Une pension exonérée **peut** rester protégée ; les revenus du capital concentrent davantage l'effort chez les plus aisés ».
-- « environ deux milliards dans notre exemple ».
+- « environ deux milliards dans notre exemple » pour la compensation. Pour les niches (M17, première partie), « en général quelques milliards à chaque fois ».
 - « une grande partie de l'effet ».
 - « dans les documents qu'elle examine ».
 - « dans nos simulations ».
 - Carton du besoin : « sans nouvelles mesures, ni celles du projet de budget 2027 ».
 
-Les deux fichiers de renvoi manquants (M1) existent désormais.
+- M1 : les deux fichiers de renvoi manquants existent désormais.
+- M2 et M5 : conformes, aucun changement nécessaire.
+- M4 : sans objet, la phrase ayant été réécrite (« La question du printemps 2000, la France se l'est donc reposée. Par écrit. »).
 
-M14, qui demandait d'aligner la paraphrase des trois conditions de Persson sur la page 414, reste à faire au montage. La traduction affichée à l'écran fera foi, et la voix devra la suivre mot pour mot une fois la traduction arrêtée.
+**Reste ouvert :** M14, qui demandait d'aligner la paraphrase des trois conditions de Persson sur la page 414, reste à faire au montage. La traduction affichée à l'écran fera foi, et la voix devra la suivre mot pour mot une fois la traduction arrêtée.
 
 ## 5. Chiffres dits dans les actes III, IV et la conclusion (version finale)
 
@@ -96,6 +98,7 @@ Les chiffres dits dans l'ouverture et les actes I–II sont contrôlés ligne pa
 | 20 | quatre milliards et demi en 2030 | Gel général 2027 : 4,52 nets courants (A13) ; 4,7 directs à l'échelle 2025 (A15) | A/03 | conforme. L'arrondi couvre les deux bases, chacune au carton |
 | 20 | quatre sur dix ; un sur deux | Gel des seules pensions, ménages classés par niveau de vie, 37–40 % et 47–48 % | A/03 (S04) | conforme |
 | 20 | 1 260 € ; deux milliards | Règle distincte, inflation − 0,4 point, 2028–2032, 1,945 Md€ direct en 2030 (A15) | A/03 | conforme |
+| 21 | quelques milliards par niche | « en général quelques milliards à chaque fois » | A/03 (lignes de 1,2 à 4,6 Md€) | conforme |
 | 21 | 10 % ; 30 → près de 33 € | TVA restauration ; repas illustratif, répercussion complète supposée | calcul : 30 / 1,10 × 1,20 = 32,73 | conforme (hypothèse dite) |
 | 21 | 56 % ; 2009 | Baisse de 2009, restaurants avec service à table, part allée aux propriétaires | A/03 (IPP n° 32) | conforme, non transposé |
 | 21 | 7,5 milliards, année pleine | + 1 point du seul taux normal, base 2025, après achats publics, avant effets | A/03 §1 (Trésor) | conforme |
@@ -107,8 +110,7 @@ Les chiffres dits dans l'ouverture et les actes I–II sont contrôlés ligne pa
 | Concl. | trente-huit mesures | Portefeuille central K1 | A/02 §3 | conforme |
 | Concl. | 3 % en 2029 | Cible du projet de budget 2027, RESF p. 134 | V6 | conforme |
 
-**Comparaisons orales.** La voix ne rapporte jamais le besoin (135–165) aux rendements des mesures (4,5 ; 7,5 ; 2). Le carton du besoin et le graphique de pente ne sont jamais divisés l'un par l'autre. La conclusion ne fait pas d'addition de rendements. Elle reprend le résultat du graphique : « même les trente-huit mesures… ralentissent dans nos simulations la hausse ». Deux rapprochements restent, chacun sur une base homogène :
-- Séq. 20 : « elle rapporte aussi moins ». Les 1,9 et 4,7 Md€ sont deux effets directs A15, en 2030, à l'échelle du PIB 2025. La phrase présente deux mesures distinctes, pas une variante.
+**Comparaisons orales.** La voix ne rapporte jamais le besoin (135–165) aux rendements des mesures (4,5 ; 7,5 ; 2). Le carton du besoin et le graphique de pente ne sont jamais divisés l'un par l'autre. La conclusion ne fait pas d'addition de rendements. Elle reprend le résultat du graphique : « même les trente-huit mesures… ralentissent dans nos simulations la hausse ». Un seul rapprochement reste, signalé :
 - Séq. 21 : CSG « du même ordre, en théorie », que la TVA. L'écart de nature entre les deux chiffrages est signalé au carton.
 
 ## 6. Causalités

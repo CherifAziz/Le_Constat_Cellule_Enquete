@@ -11,7 +11,7 @@
 | Suède | Dans le film, avant la conclusion. Elle enseigne une méthode et ses conditions. Elle ne promet aucun résultat à la France |
 | Durée | Environ 28 minutes. Le rythme passe avant tout |
 | Dernière phrase | Trois questions : **qui paie, quand ça rapporte, comment savoir que c'est tenu**. La troisième question remplace « qu'est-ce qui empêche de le défaire ». Ce changement suit Astra, qui donne un rendement nul à la règle et la traite comme un outil de suivi |
-| Questions laissées ouvertes par 06 §5 | La note de Bercy de 2023 sort du film : elle ira dans un format court. Le parallèle avec 1979 et 2025 est montré, jamais dit. Le sondage est coupé. Les personnes d'aujourd'hui sont nommées à l'écran seulement. Les visages sont des personnages d'illustration, annoncés comme tels, à remplacer par des témoins réels si la production le permet. Le titre n'est pas tranché ; *Avant la ligne* reste le titre de travail |
+| Questions laissées ouvertes par 06 §5 | La note de Bercy de 2023 sort du film : elle ira dans un format court. Le parallèle entre 1979 et 2025 est finalement écarté, même à l'image : la contribution de 2025 a été prolongée en 2026 (A14), ce qui le rendrait trompeur. Le sondage est coupé. Les personnes d'aujourd'hui sont nommées à l'écran seulement. Les visages sont des personnages d'illustration, annoncés comme tels, à remplacer par des témoins réels si la production le permet. Le titre n'est pas tranché ; *Avant la ligne* reste le titre de travail |
 
 ## 2. Ce qui change par rapport à l'architecture de `2cbc221`
 
@@ -40,16 +40,16 @@
 
 ## 3. Séquencier
 
-Durées indicatives. Les durées calculées sont dans `durees.json`.
+Heures de début calculées sur la version finale (`durees.json`). Ce sont des estimations, pas des mesures.
 
 | Temps | Acte | Séquences | Question du spectateur | Fin d'acte |
 |---|---|---|---|---|
 | 0:00 | **Ouverture** | Le compte d'aujourd'hui, puis la barre de 1980 et la page floutée | En quoi ça me concerne ? | Les trois questions, et la promesse d'une position |
-| ~1:30 | **I · Comment elle s'est enfermée** | 1 Les ciseaux · 2 La remontée · 3 Trente francs · 4 Novembre 1980 · 5 Faisons le compte · 6 Ce que ces années laissent | D'où vient le trou ? | Elle sait se redresser, en prélevant, et en partie avec une recette provisoire |
-| ~8:30 | **II · Les occasions** | 7 Dos au mur · 8 Printemps 2000 · 9 La colonne éteinte · 10 Les promesses écrites · 11 Troisième fois | Et quand ça allait mieux ? | « Alors pourquoi ne pas recommencer ? » |
-| ~14:00 | **III · Le mur** | 12 Le levier déjà tiré · 13 Où est l'argent · 14 Septembre 2023 · 15 L'effort retiré · 16 Le compte | Pourquoi pas maintenant ? | Les mesures ralentissent la hausse sans l'arrêter. Un pays a-t-il fait mieux ? |
-| ~20:00 | **IV · Ce qui pourrait marcher** | 17 Stockholm · 18 Le vent dans le dos · 19 Ce qui se transpose · 20 Une pension · 21 Une addition · 22 Deux personnes de soixante ans · 23 Quatorze ans plus tard | Quelqu'un y est arrivé ? Et nous ? | Une règle ne rapporte rien : elle dit si le reste est tenu |
-| ~26:30 | **Conclusion** | Trois réponses, la position, son prix, la phrase de 2027, les trois questions | Qu'est-ce que j'en retiens ? | — |
+| 1:22 | **I · Comment elle s'est enfermée** | 1 Les ciseaux · 2 La remontée · 3 Trente francs · 4 Novembre 1980 · 5 Faisons le compte · 6 Ce que ces années laissent | D'où vient le trou ? | Elle sait se redresser, en prélevant, et en partie avec une recette provisoire |
+| 7:47 | **II · Les occasions** | 7 Dos au mur · 8 Printemps 2000 · 9 La colonne éteinte · 10 Les promesses écrites · 11 Troisième fois | Et quand ça allait mieux ? | « Alors pourquoi ne pas recommencer ? » |
+| 12:39 | **III · Le mur** | 12 Le levier déjà tiré · 13 Où est l'argent · 14 Septembre 2023 · 15 L'effort retiré · 16 Le compte | Pourquoi pas maintenant ? | Les mesures ralentissent la hausse sans l'arrêter. Un pays a-t-il fait mieux ? |
+| 17:10 | **IV · Ce qui pourrait marcher** | 17 Stockholm · 18 Le vent dans le dos · 19 Ce qui se transpose · 20 Une pension · 21 Une addition · 22 Deux personnes de soixante ans · 23 Quatorze ans plus tard | Quelqu'un y est arrivé ? Et nous ? | Une règle ne rapporte rien : elle dit si le reste est tenu |
+| 26:17 | **Conclusion** | Trois réponses, la position, son prix, la phrase de 2027, les trois questions | Qu'est-ce que j'en retiens ? | — |
 
 ## 4. Les révélations, dans l'ordre
 
