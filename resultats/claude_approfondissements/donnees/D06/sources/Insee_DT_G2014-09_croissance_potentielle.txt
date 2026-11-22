@@ -1,0 +1,3019 @@
+Direction des Études et Synthèses Économiques G 2014 / 09
+Croissance potentielle en France et en zone euro : un tour d’horizon des méthodes d’estimation Matthieu LEQUIEN et Alexis MONTAUT Document de travail
+Institut National de la Statistique et des Études Économiques
+
+INSTITUT NATIONAL DE LA STATISTIQUE ET DES ÉTUDES ÉCONOMIQUES
+Série des documents de travail de la Direction des Études et Synthèses Économiques
+G 2014 / 09
+Croissance potentielle en France et en zone euro : un tour d’horizon des méthodes d’estimation Matthieu LEQUIEN* et Alexis MONTAUT**
+31 JUILLET 2014
+Les auteurs remercient Cédric AUDENIS, José BARDAJI, Etienne CHANTREL Laurent CLAVEL, Éric DUBOIS, Corinne PROST et Camille SUTTER pour leur aide. Ils remercient également Aurélien DAUBAIRE et Gabor KATAY pour leurs discussions et remarques pertinentes sur une version antérieure de l’article.
+_____________________________________________ * Département des Études Économiques - Division « Études Macroéconomiques »Timbre G220 - 15, bd Gabriel Péri - BP
+100 - 92 244 MALAKOFF CEDEX - CREST LMA
+** Département des Études Économiques - Division « Études Macroéconomiques »Timbre G220 - 15, bd Gabriel Péri - BP
+100 - 92 244 MALAKOFF CEDEX
+Département des Études Économiques - Timbre G201 - 15, bd Gabriel Péri - BP 100 - 92244 MALAKOFF CEDEX - France Tél. : 33 (1) 41 17 60 68 - Fax : 33 (1) 41 17 60 45 - CEDEX - E-mail : d3e-dg@insee.fr - Site Web Insee : http://www.insee.fr
+Ces documents de travail ne reflètent pas la position de l’Insee et n'engagent que leurs auteurs. Working papers do not reflect the position of INSEE but only their author's views.
+
+2
+Croissance potentielle en France et en zone euro : un tour d’horizon des méthodes d’estimation
+Résumé
+Fin 2013, le PIB français n’est que légèrement supérieur à son niveau de début 2008. Quelle part de la perte d’activité depuis 2008 est pérenne ? Répondre à cette question fait appel à deux grandeurs qu’on ne peut pas observer directement : le PIB potentiel et l’output gap. De ce fait, ils sont difficiles à estimer, particulièrement sur les années récentes, et appellent plusieurs techniques d’estimation. Quatre sont mobilisées ici : (A) l’approche désormais habituelle de la fonction de production à deux facteurs, capital et travail ; (B) une variante de celle-ci à un facteur de production, le travail ; (C) un filtre multivarié enrichi par des indicateurs conjoncturels et (D) une estimation directe de l'output gap par une analyse en composante principale.
+Selon ces quatre approches, la croissance potentielle en France pourrait être comprise entre 0,7 % et 1,3 % en 2014 et l’output gap serait négatif, compris entre -2,3 et -3,5 points de PIB en 2013, ce qui signale un potentiel de rebond substantiel mais entérine comme pérenne la majeure partie de la perte d’activité observée depuis la crise. Ces estimations, également réalisées pour la zone euro, situent la croissance potentielle entre 0,2 % et 0,7 % en 2014 pour un déficit de demande proche de celui de la France. Ces approches présentent toutes des forces et des faiblesses. Elles délivrent des lectures différentes du passé récent. Ainsi, les approches (B) et (D) indiquent une perte de PIB potentiel concentrée au moment de la crise, puis une reprise plus vigoureuse que ne le suggèrent les approches (A) et (C).
+Mots-clés : Croissance potentielle, PIB potentiel, écart de production, fonction de production, équation d’emploi, modèle espace-état, analyse en composante principale, crise financière
+Potential growth in France and the euro area: an overview of the estimation methods
+Abstract
+At the end of 2013, the French GDP is only slightly higher than in the pre-crisis peak of 2008. Which part of the loss of activity is definitive? Providing an answer to this question brings to the fore two unobserved variables: potential GDP and output gap. These variables are difficult to estimate, especially on recent years, which calls for several estimation techniques. Four approaches are mobilized here: (A) the usual production function approach with two factors, capital and labor; (B) a variant thereof with a factor production, labor; (C) a multivariate filter improved with economic indicators and (D) a direct estimation of the output gap through a principal component analysis.
+According to these approaches, potential growth in France would lie between 0.7 % and 1.3% in 2014 and the output gap would be negative, between -2.3 and -3.5 GDP points in 2013, which signals capacity for economic rebound but confirms as definitive most of the loss of activity observed since the crisis. For the euro area, potential growth would stand between 0.2% and 0.7% in 2014 and the demand deficit would be close to the French one. These approaches all have pros and cons. They deliver different readings of the recent past. Thus, approaches (B) and (D) signal a loss of potential GDP concentrated at the time of crisis, followed by a recovery stronger than suggested by the two others approaches.
+Keywords: potential growth, potential output, output gap, production function, employment equation, state space model, principal component analysis, financial crisis
+Classification JEL: C32, E22, E32, E60, O47
+
+3
+
+Sommaire
+
+Introduction ............................................................................................................ 4
+
+I.
+
+L’approche structurelle (A) ........................................................................ 6
+
+I.1. Une fonction de production pour expliciter les déterminants de la
+
+croissance potentielle
+
+6
+
+I.2. Une croissance potentielle proche de 0,7 % en France en 2014,
+
+notamment en raison du ralentissement de la PGF
+
+6
+
+II. L’approche reposant sur une équation d’emploi (B).............................. 10
+
+II.1. Une fonction de production simplifiée, avec pour seul facteur l’emploi10
+
+II.2. Une croissance potentielle estimée à 1,3 % en France en 2014
+
+10
+
+II.3. Comprendre les divergences entre la PGF de l’approche (A) et la
+
+productivité apparente du travail de l’approche (B)
+
+13
+
+III. L’approche semi-structurelle (C) ............................................................. 16
+
+III.1. Une méthode de filtrage améliorée par de l’information
+
+conjoncturelle
+
+16
+
+III.2. La croissance potentielle serait proche de 1,0 % en France selon
+
+cette approche
+
+18
+
+IV. L’approche directe (D) .............................................................................. 20 IV.1. Des indicateurs cycliques pour déduire directement l’output gap 20 IV.2. Un output gap à -2,9 points et une croissance potentielle à 0,8 % 21
+
+V. Synthèse : des estimations peu précises, mais quelques conclusions robustes................................................................................................................ 23
+
+V.1. Quatre méthodes d’estimations complémentaires
+
+23
+
+V.2. Des méthodes fragiles, qui empêchent de quantifier précisément la
+
+croissance potentielle et l’output gap sur la période récente
+
+24
+
+V.3. Conclusion : quatre estimations différentes mais quelques conclusions
+
+robustes
+
+25
+
+Bibliographie ........................................................................................................ 28
+
+Annexes ................................................................................................................ 30 A. L’approche structurelle ......................................................................... 30
+
+B. L’approche reposant sur une équation d’emploi ................................. 38
+
+C. L’approche semi-structurelle ................................................................ 42
+
+D. L’approche directe ................................................................................. 44
+
+E. Les estimations en base 2010 ............................................................... 46
+
+4
+Introduction
+Le PIB potentiel peut être défini comme le niveau de PIB que connaîtrait l’économie si les facteurs de production (travail et capital) étaient utilisés de façon maximale sans faire apparaître de tensions sur les prix. La croissance potentielle correspond alors à la croissance de ce PIB potentiel et l’output gap à l’écart entre le PIB effectif et le PIB potentiel. Parce qu’on n’observe pas directement l’équilibre des marchés, croissance potentielle et output gap sont difficiles à estimer, particulièrement sur les années récentes. De ce fait quatre techniques d’estimation différentes sont mobilisées ici sur la France et la zone euro. Leur confrontation peut fournir des indications sur l’incertitude qui entoure les évaluations de croissance potentielle et d’output gap, mais aussi sur les aspects où elles convergent, ce qui permet de tirer quelques enseignements robustes. Ce document décrit en détail les méthodes qui ont été utilisées pour estimer les output gap dans Chantrel, Lequien, Montaut et Sutter (2014). Il apporte également des approfondissements et des tests de robustesse.
+La première approche (A), dite « structurelle », repose sur une fonction de production. Elle part d’une structure théorique de la croissance potentielle ; l’output gap s’en déduit alors comme l’écart entre la production effective et celle qui résulterait de l’utilisation optimale des facteurs de production. Dans ce cadre, la production potentielle résulte de l’utilisation des facteurs de production capital et travail à leurs niveaux structurels ; la croissance potentielle dépend alors de celle de ses trois déterminants, la main-d’œuvre, le capital et la productivité globale des facteurs (PGF). La difficulté principale de cette méthode est d’enlever le cycle à la mesure de la PGF pour en déduire les tendances. À l’instar de Belet et Cotis (1989), le taux d’utilisation des capacités de production est utilisé pour corriger la PGF observée de sa composante cyclique.
+La deuxième méthode (B) est une variante simplifiée, avec un seul facteur de production, le travail. Il s’agit alors de déterminer la tendance de la productivité apparente du travail, qui peut être estimée à partir d’une équation d’emploi.
+La troisième approche (C) a été proposée dans un document de travail du FMI en 2010. Dans cette approche « semi-structurelle », la démarche est inversée : il s’agit d’estimer les cycles à partir de plusieurs indicateurs de tensions et d’en déduire la production potentielle. Les causes des variations conjoncturelles ne sont pas modélisées ; mais les relations dynamiques entre l’output gap d’une part et respectivement l’inflation, le chômage et l’utilisation des capacités de production d’autre part, sont modélisées. Il est possible de compléter avec d’autres indicateurs de cycle ; dans ce dossier, est ajouté l’indicateur synthétique du climat des affaires qui présente l’avantage de couvrir l’ensemble des secteurs d’activité.
+L’approche « directe » (D), proposée dans un document de travail de l’Office for Budget Responsibility anglais en 2011, est une méthode statistique sans structure économique qui extrait le cycle de différentes variables liées à la position de l’économie dans le cycle. L’output gap est considéré comme étant la composante commune à ces différents indicateurs de cycle, à partir d’une analyse en composantes principales (ACP).
+Dans le cas de la France, le diagnostic que ces méthodes livrent est le suivant : la croissance potentielle serait comprise entre 0,7 % et 1,3 % en 2014, marquant un net ralentissement par rapport à la tendance pré-crise de 2 %. L’output gap s’établirait entre -2,3 et -3,5 points de PIB en 2013, ce qui signale un potentiel de rebond substantiel mais entérine comme pérenne la majeure partie de la perte d’activité observée depuis la crise. Ces estimations sont réalisées en base 2005 car toutes les séries ne sont pas disponibles en base 2010 au moment de l’écriture de ce document de travail ; toutefois les approches (C) et (D) indiquent qu’on peut s’attendre à une croissance potentielle rehaussée de 0,2 point par an en base 2010 depuis la crise.
+Pour la zone euro, les évaluations de croissance potentielle résultant de ces méthodes se situent entre 0,2 % et 0,7 % en 2014 pour un déficit de demande relativement proche de celui de la France, compris entre -2,1 et -3,6 points en 2013.
+
+5
+Ces quatre méthodes ont toutes des faiblesses qu’il est important de garder à l’esprit et de cerner dans la mesure du possible, mais dans le même temps elles apportent chacune un enseignement différent. Ainsi les approches (B) et (D), qui n’utilisent pas ou peu les techniques statistiques de lissages, signalent plutôt une perte de PIB potentiel au moment de la crise, en 2009-2010, puis une reprise de la croissance potentielle plus vigoureuse que ne le suggèrent les approches (A) et (C).
+Enfin, ces méthodes fournissent des évaluations d’une croissance potentielle de court terme, où les facteurs de production (stock de capital et population en âge de travailler) sont considérés comme donnés. En situation de PIB inférieur à son potentiel (output gap négatif), comme c’est le cas actuellement selon les résultats de cette étude, le faible investissement réduit les capacités de production (machines, etc.) à court terme. À moyen-long terme, en revanche, les facteurs de production deviennent flexibles : l’investissement et le stock de capital se retrouveraient sur le sentier de croissance équilibrée et augmenteraient donc plus vite qu’au rythme actuel. La croissance potentielle de moyen-long terme serait donc supérieure à celle de court terme estimée ici. Toutefois cette croissance potentielle de moyen-long terme est aussi évaluée avec incertitude : Cabannes et al. (2013) l’estiment ainsi entre 1,2 % et 1,9 % pour la période 2015-2025 en France.
+
+6
+
+I. L’approche structurelle (A)
+
+I.1. Une fonction de production pour expliciter les déterminants de la croissance potentielle
+Une méthode d’estimation usuelle de la croissance potentielle s’appuie sur le potentiel d'offre de l'économie au travers d’une fonction de production (D’auria et al., 2010, Chetouane et al., 2011). Elle a l'avantage de reposer sur un modèle théorique, la fonction de production, et donc d’expliciter les hypothèses qui sous-tendent les concepts et les évaluations. Le PIB potentiel est alors déterminé par trois composantes : le niveau des facteurs de production disponibles dans l’économie, travail (L) et capital (K), et la productivité globale des facteurs (PGF). Cette PGF correspond aux progrès techniques et organisationnels mais elle inclut plus largement toutes les sources de croissance non prises en compte par les deux facteurs travail et capital, comme la hausse du niveau de connaissances des travailleurs.
+( ) Ainsi, le PIB (Y) peut s’écrire Y = PGF × POP15−64 × TX act × (1 − U ) × NBH α × K (1−α )
+où POP15−64 désigne la population en âge de travailler (de 15 à 64 ans), TX act le taux d’activité, U le taux de chômage, NBH le nombre d’heures de travail par an et par personne, K le stock de capital net et α la part de la rémunération du travail dans la valeur
+ajoutée.
+
+La croissance potentielle peut alors s’écrire (cf. annexe A.1 pour plus de détails) :
+( ) y* = pgf * + α × pop15−64 + txa*ct − ∆U * + nbh* + (1 − α ) × k , où les minuscules
+représentent les taux de croissance des variables en majuscule et * leurs valeurs potentielles. À noter que le capital potentiel est supposé égal au capital observé tout comme la population en âge de travailler.
+
+L’output gap peut également s’écrire :
+
+OG
+
+=
+
+Y −Y* Y*
+
+≈
+
+ln Y Y*
+
+ 
+
+=
+
+ln PGF  PGF *
+
+ 
+
++
+
+α
+
+×
+
+
+
+ln
+
+TX TX
+
+act * act
+
+
+
++
+
+ln 
+
+1−U 1−U*
+
+ 
+
++
+
+ln 
+
+NBH NBH *
+
+ 
+
+Il s’exprime donc comme la somme des composantes conjoncturelles des facteurs.
+
+I.2. Une croissance potentielle proche de 0,7 % en France en 2014, notamment en raison du ralentissement de la PGF
+Avec cette méthode, la croissance potentielle de la France est ainsi estimée être passée d’un rythme annuel de 2 % environ avant la grande récession à 0,7 % en 2014 (cf. Figure 1). Le déficit de demande atteindrait -2,3 points de PIB en France en 2013 (cf. annexe A.1 pour les hypothèses retenues pour 2014).
+Selon cette approche, le recul de la croissance potentielle serait encore plus marqué dans la zone euro : la croissance potentielle est estimée autour de 0,2 % en 2014 et le déficit de demande, à -2,1 points de PIB en 2013 (cf. Figure 2), serait proche de celui observé en France. Ces estimations cachent des situations contrastées pour les autres grandes économies de la zone euro, avec d’un côté l’Allemagne, dont la croissance potentielle resterait relativement dynamique et dont l’output gap serait presque refermé en 2013, et de l’autre côté l’Italie et l’Espagne dont les croissances potentielles seraient très faibles depuis 2009, voire négatives, mais les output gap très creusés.
+
+7
+
+Figure 1 : croissance effective et potentielle et Output gap (France)
+
+6% 5% 4% 3% 2% 1% 0% -1% -2% -3% -4%
+1980
+
+Croissance effective
+Output Gap
+1984 1988 1992 1996 2000
+
+Croissance potentielle
+2004 2008 2012
+
+Figure 2 : croissance effective et potentielle et Output gap (zone euro)
+
+6% 5% 4% 3% 2% 1% 0% -1% -2% -3% -4%
+1980
+
+Croissance effective
+
+Croissance potentielle
+
+Output Gap
+1984 1988 1992 1996 2000 2004 2008 2012
+
+La contribution à la croissance potentielle de ses trois principaux facteurs, travail, capital et PGF, est maintenant détaillée.
+Le ralentissement de la population active et une hausse du chômage structurel auraient freiné la croissance potentielle, en France comme dans la zone euro
+Le travail potentiel correspond au produit de trois composantes : la population active potentielle, le taux de chômage structurel et la durée du travail tendancielle.
+La population active correspond à la population en âge de travailler qui occupe un emploi ou qui est à la recherche d’un emploi. Ses évolutions sont largement gouvernées par des tendances lourdes : tendances démographiques d’abord, qui déterminent l’évolution de la population en âge de travailler ; tendances de taux d’activité par âge et sexe ensuite, gouvernées notamment par des évolutions sociologiques longues (insertion croissante des femmes sur le marché du travail, élévation puis stabilisation de la durée des études, etc.) et l’effet des réformes des retraites sur l’activité des seniors enfin. En France, depuis 2009, la population active potentielle est en hausse : la population en âge de travailler (15-64 ans) a certes quasiment cessé de croître, mais le taux d’activité tendanciel a continué d’augmenter nettement depuis 2009, en raison de la participation croissante des 55-64 ans sur le marché du travail.
+Les taux d’activité peuvent également être affectés par la conjoncture économique, mais ces effets de flexion sont a priori ambigus : en effet, la récession peut décourager une partie de la population qui deviendrait inactive (effet travailleur découragé) ; à l’inverse, elle pourrait inciter les conjoints inactifs à retourner sur le marché du travail pour remédier à la baisse de revenus du ménage (effet travailleur additionnel). En France, ces effets semblent globalement s’être compensés de 2008 à 2012. En définitive, le taux d’activité serait proche de son niveau potentiel en 2013 (cf. annexe A.3).
+
+8
+
+Le taux de chômage structurel dépend des caractéristiques et du fonctionnement du marché du travail. Il n’est pas directement mesurable. Une manière de l’évaluer consiste à le déduire des évolutions de l’inflation : une baisse de l’inflation traduit ainsi un marché du travail où le chômage effectif est supérieur au chômage structurel. Une évaluation s’appuyant sur de tels raisonnements conduit à un taux de chômage structurel à 9,4 % environ en 2013, soit environ un point de moins que le taux de chômage effectif (cf. annexe A.2).
+
+Depuis le milieu des années 2000, la durée du travail est globalement stable en France (cf. annexe A.3).
+
+Au total, en France, le facteur travail contribue à la baisse de la croissance potentielle en raison de la hausse du chômage structurel et du moindre dynamisme de la population en âge de travailler (cf. Figure 3).
+
+Figure 3 : contributions à la croissance potentielle (France)
+
+2,5
+
+2,0
+
+1,9 0,2
+
+1,5
+
+0,8
+
+1,0
+
+0,5
+
+0,9
+
+0,0
+
+… du travail … du capital … de la PGF
+
+0,6
+
+0,7
+
+0,1
+
+0,2
+
+0,5
+
+0,5
+
+-0,1
+
+0,0
+
+-0,5 1993-2008
+
+2009-2013
+
+2014
+
+Figure 4 : contributions à la croissance potentielle (zone euro)
+
+2,5 2,0
+2,0 0,4
+1,5 0,8
+1,0
+
+0,5
+
+0,8
+
+0,0
+
+-0,5 1993-2008
+
+… du travail … du capital … de la PGF
+
+0,3 0,3 0,1 -0,2
+2009-2013
+
+0,2 0,2 0,1 -0,1
+2014
+
+Dans la zone euro, la population active croît faiblement depuis 2009. La population en âge de travailler stagne comme en France, en raison de la faible fécondité dans de nombreux pays de la zone euro. Elle diminue particulièrement en Espagne depuis 2009, du fait d’une inversion des mouvements migratoires. À l’inverse, le taux d’activité continue d’augmenter dans la plupart des pays, comme depuis plusieurs décennies, notamment chez les femmes et les seniors.
+Selon une modélisation analogue à celle menée pour la France, le taux de chômage structurel aurait beaucoup augmenté dans la zone euro et serait proche de 11 % en 2013, ce qui porte la partie cyclique du chômage à 1,5 point. Enfin, la durée du travail en zone euro a diminué au plus fort de la crise, notamment en Allemagne (en lien avec les dispositifs d’aménagement du temps de travail) mais aussi dans d’autres pays (réduction du volume d’heures supplémentaires, développement du temps partiel). Toutefois, cette baisse n’a été que temporaire et la durée du travail est revenue sur sa tendance.
+
+9
+Comme en France, le facteur travail pénalise donc la croissance potentielle depuis la crise en raison de la hausse du chômage structurel et d’une population active moins dynamique (cf. Figure 4).
+Le recul de l’investissement aurait pesé sur la croissance potentielle
+Le stock de capital évolue chaque année en fonction de l’investissement et de l’usure du capital. Or l’investissement des entreprises a chuté en 2009 puis en 2012 et 2013, en France comme dans la plupart des autres pays de la zone euro. La chute sans précédent de la demande a fait apparaître de fortes surcapacités de production. En outre, la Grande Récession s’est matérialisée par un durcissement des conditions d’octroi de crédits, qui a pu peser sur les entreprises ayant des besoins de trésorerie importants, par une hausse des incertitudes et, dans une moindre mesure, par un renchérissement du capital pour les petites et moyennes entreprises. Par conséquent, les entreprises ont annulé ou reporté des dépenses d’équipement au cours de cette période, freinant l’accumulation du capital.
+Ainsi, après une longue période de récession, l’investissement dans la zone euro en 2013 est inférieur de 18 % à son niveau de 2008. En France, l’investissement a plutôt mieux résisté que dans les autres économies européennes puisqu’il n’a baissé que de 10 % (Eudeline et al., 2013). Bien entendu, une partie de cette baisse s’explique par l’éclatement de la bulle immobilière dans plusieurs pays de la zone euro, mais l’ampleur reste conséquente quand on considère l’investissement hors construction, avec une baisse de 16 % dans la zone euro et de 5 % en France.
+Cet affaissement de l’investissement s’est traduit, de manière amortie, dans l’évolution du stock de capital net, qui a fortement ralenti dans la zone euro et dans une moindre mesure en France (cf. annexe A.1).
+En conséquence, le capital contribue moins à la croissance potentielle française sur la période récente que par le passé (+0,5 point entre 2009 et 2013 contre +0,8 point entre 1993 et 2008, cf. Figure 3). De même dans la zone euro, le capital contribue peu à la croissance potentielle depuis la Grande Récession (+0,3 point entre 2009 et 2013 contre +0,8 point avant la crise).
+Mais c’est surtout le ralentissement de la productivité globale des facteurs tendancielle qui pèserait sur la croissance potentielle depuis 2009.
+Comme l’emploi et le capital ne s’ajustent qu’avec retard aux fluctuations de l’activité, la productivité globale des facteurs (PGF) est cyclique, faible en période de faible croissance et élevée en période de forte croissance : une correction de cette partie conjoncturelle est nécessaire pour en déterminer la composante tendancielle (cf. annexe A.4). Cette correction a été effectuée ici à l’aide du taux d’utilisation des capacités de production dans l’industrie.
+En France, la PGF tendancielle ainsi estimée a stagné depuis 2009 (-0,1 point en moyenne par an, contre +0,9 point entre 1993 et 2008). Dans la zone euro également, la PGF tendancielle aurait nettement ralenti, résultat d’évolutions contrastées dans les principales économies : sur la période 2009-2013, la PGF aurait reculé en Italie, résisté en Allemagne et serait même devenue dynamique en Espagne.
+Tous comptes faits, selon ces estimations, la croissance potentielle atteindrait +0,7 % en France en 2014 et l’écart de production serait de -2,3 points en 2013. Dans la zone euro, la croissance potentielle serait plus faible, à +0,2 % en 2014, et l’output gap autant creusé qu’en France, à -2,1 points en 2013.
+
+10
+II. L’approche reposant sur une équation d’emploi (B)
+II.1. Une fonction de production simplifiée, avec pour seul facteur l’emploi
+L’utilisation d’une fonction de production à deux facteurs pour évaluer la croissance potentielle est plus fondée sur un plan théorique, mais elle est dépendante de la mesure de la PGF, particulièrement fragile. En effet, celle-ci est affectée par toutes les erreurs de mesure sur les facteurs de production. Or la mesure du capital est particulièrement délicate et sujette à des erreurs de mesure qui, de surcroît, peuvent être cycliques (cf. annexe B.1). C’est pourquoi une approche alternative s’appuyant sur les seules évolutions de l’emploi et de la productivité apparente du travail mérite également d’être mobilisée pour compléter le diagnostic. Cela évite d’avoir à mesurer le capital, mais ne permet pas en contrepartie de tenir compte d’éventuels changements dans son mode de formation et sa contribution à la production potentielle.
+Est utilisée ici une équation d’emploi portant sur les branches marchandes non agricoles. Se restreindre aux seules branches marchandes a l’avantage de se concentrer sur les secteurs de l’économie où la notion de productivité est la plus pertinente. En particulier, l’évaluation de la productivité du secteur non marchand est dépendante d’hypothèses assez conventionnelles pour évaluer la production de ce secteur. Elle a évidemment l’inconvénient de nécessiter de faire d’autres hypothèses pour en déduire la croissance potentielle de l’ensemble de l’économie.
+Pour la France, l’équation retenue est celle utilisée régulièrement par l’Insee et présentée dans un dossier de la Note de conjoncture (cf. Argouarc’h et al., 2010). Elle modélise l’emploi en fonction d’une tendance de productivité, de l’impact des politiques de l’emploi et de la valeur ajoutée du secteur marchand non agricole (cf. annexe B.2). Comme la PGF, la productivité du travail est cyclique : lors d’un ralentissement de l’activité, la productivité du travail ralentit en général également, car l’emploi s’ajuste avec retard. Symétriquement, une reprise de l’activité s’accompagne de forts gains de productivité, car les entreprises peuvent satisfaire la demande avec les effectifs en place et attendre avant d’embaucher à nouveau. L’impact du cycle sur la productivité est ici pris en compte via les retards d’ajustement de l’emploi à la valeur ajoutée : il ne dépend donc pas du TUC, contrairement à la composante cyclique de la PGF.
+Pour la zone euro, une équation d’emploi similaire, dont l’Insee se sert régulièrement pour les prévisions d’emploi, est utilisée (cf annexe B.3). L’emploi est estimé à partir de la valeur ajoutée en zone euro et d’une tendance de productivité.
+II.2. Une croissance potentielle estimée à 1,3 % en France en 2014
+Selon cette approche, la productivité du travail corrigée du cycle aurait crû dans le secteur marchand à un rythme annuel de 1,1 % en 2011-2013, retrouvant ainsi sa tendance de 1993-2008. La croissance potentielle serait de +1,3 % en 2014, résultat d’une croissance de 1,2 % de la productivité du travail dans le secteur marchand, d’une différence tendancielle de productivité entre salariés du secteur marchand et toutes les personnes en emploi dans l’ensemble de l’économie de -0,1 %, et d’une croissance de 0,2 % de l’emploi (cf. Figure 5). Cette approche conduit à une croissance potentielle de -0,1 % par an sur 2009-2010 et 1,1 % sur 2011-2013 et l’output gap atteindrait -3,2 points de PIB en 2013 (cf. Figure 6).
+
+11 Figure 5 : croissance potentielle de l’approche reposant sur une équation d’emploi (France)
+
+Note de lecture : la productivité potentielle dans le secteur marchand est prolongée en 2014 avec sa moyenne 2012-2013, soit 1,2 %.
+
+Figure 6 : croissance potentielle et output gap avec l’approche reposant sur une équation d’emploi (B) pour la France
+
+6%
+
+5%
+
+Croissance effective
+
+Croissance
+
+4%
+
+potentielle
+
+3%
+
+2%
+
+1%
+
+0%
+
+-1%
+
+-2% -3%
+
+Output Gap
+
+-4% 1990
+
+1994
+
+1998
+
+2002
+
+2006
+
+2010
+
+2014
+
+Ainsi, cette approche décrit une perte en niveau de PIB potentiel en 2009-2010, puis une reprise de la croissance potentielle ensuite. Pour comprendre ce diagnostic, il est utile de se pencher sur la capacité qu’a eue l’équation d’emploi à retranscrire l’évolution de l’emploi sur la période récente. En 2009-2010, la productivité du travail observée a décroché par rapport à la productivité attendue (cf. Figure 7). Dit autrement, et étant donné l’ampleur du choc sur l’activité, l’économie a détruit moins d’emplois en 2009-2010 que ne le laisserait supposer son comportement moyen depuis le début des années 1990. Cela se manifeste par des contributions des résidus importants sur ces deux années dans l’équation. Ces résidus se répercutent sur la croissance potentielle, ce qui explique son profit heurté entre 2008 et 2010.
+
+À partir de 2011, les contributions des résidus sont toutefois à nouveau à peu près nulles, la productivité du travail retrouvant son rythme de croissance d’avant-crise. Ces observations
+
+12
+
+plaident plutôt pour une perte permanente du niveau de productivité concentrée sur les années 2009 et 2010. En revanche, la croissance de la productivité tendancielle serait globalement inchangée.
+
+Figure 7 : productivité observée et simulée à l’aide de l’équation d’emploi (échelle de gauche), et contribution des résidus de l’équation (échelle de droite)
+
+160
+
+0.9%
+
+150
+
+0.6%
+
+140
+
+0.3%
+
+130
+
+0.0%
+
+120
+
+-0.3%
+
+110
+
+-0.6%
+
+100
+
+-0.9%
+
+1984 1988 1992 1996 2000 2004 2008 2012
+
+productivité observée productivité simulée contribution des résidus (droite)
+
+Une analyse comparable a été menée sur la zone euro. La croissance potentielle pourrait alors atteindre +0,7 % en 2014, résultat d’une croissance de 0,8 % de la productivité du travail et d’une baisse de 0,2 % de l’emploi potentiel (cf. Figure 8). La croissance potentielle en zone euro serait selon cette approche de 0,4 % pour 2009-2010 et de 0,7 % pour 20112013 et l’output gap atteindrait -3,6 points de PIB en 2013 (cf. Figure 9).
+Figure 8 : croissance potentielle de l’approche reposant sur une équation d’emploi (zone euro)
+
+13
+
+Figure 9 : croissance potentielle et output gap avec l’approche reposant sur une équation d’emploi (B) pour la zone euro
+
+6% 5% 4% 3% 2% 1% 0% -1% -2% -3% -4%
+1993
+
+Croissance effective
+
+Croissance potentielle
+
+1997
+
+Output Gap
+
+2001
+
+2005
+
+2009
+
+2013
+
+II.3. Comprendre les divergences entre la PGF de l’approche (A) et la productivité apparente du travail de l’approche (B)
+En France, l’approche (B) décrit une croissance potentielle égale à -0,1 % par an sur 20092010 et 1,1 % sur 2011-2013, soit une estimation sur l’ensemble de la période 2009-2013 égale à celle de l’approche (A) en moyenne mais avec un profil nettement plus heurté (cf. Figure 6). Alors que l’approche reposant sur une équation d’emploi (B) suggère que la productivité (apparente du travail) a connu une perte en niveau concentrée sur les années 2009 et 2010, mais est ensuite quasiment repartie sur sa tendance antérieure, l’approche structurelle (A) conduit à considérer que la productivité (globale des facteurs) a plutôt connu une baisse de son taux de croissance sur l’ensemble de cette période. Faute de recul suffisant, il est aujourd’hui difficile de trancher entre ces deux interprétations des évolutions récentes.
+Toutefois, l’apparente divergence de diagnostic entre la PGF de l’approche (A) et la productivité du travail de l’approche (B) peut être imputée à trois facteurs principaux. Premièrement, la hausse de l’intensité capitalistique (le ratio du capital sur la valeur ajoutée) apparaît plus forte qu’elle ne le serait sur un sentier de croissance équilibrée. Cela peut traduire une réponse des entreprises à une baisse du coût du capital. Cela peut aussi traduire une surestimation du stock de capital net (il est possible que la crise ait entraîné une accélération de la mise au rebut des équipements, non mesurée par la comptabilité nationale, cf. Bonleu, Cette et Horny, 2012). Deuxièmement la croissance récente des emplois aidés dans le secteur non marchand tire vers le bas la productivité des secteurs non marchands et donc de l’ensemble de l’économie. Cet effet est pris en compte dans l’approche (B) pour le calcul de la croissance potentielle mais ne l’est pas dans l’approche (A). Troisièmement, le partage entre évolution cyclique et évolution tendancielle est différent entre les deux approches : le cycle est corrigé à l’aide du TUC dans l’approche (A) et à l’aide de la valeur ajoutée dans l’approche (B) et il est difficile de trancher entre ces deux évaluations du cycle, qui ont chacune leurs avantages et leurs inconvénients.
+
+14
+
+II.3.1. En théorie
+La première cause de divergence entre les approches (A) et (B), une erreur de mesure du stock de capital, peut être appréhendée avec un exemple théorique simple, qui fait abstraction du facteur travail. Un exemple moins stylisé intégrant le travail décrirait une baisse conjoncturelle du travail au moment de la crise, ce qui contribuerait à creuser l’output gap au moment de la crise.
+
+La Figure 10 décrit le fonctionnement de cette économie simplifiée à travers une crise ; les courbes bleues montrent ce qu’il se passe dans la réalité, les courbes oranges ou jaune ce qui est mesuré. Dans cet exemple, la crise se matérialise uniquement par un déclassement accéléré du capital, la PGF n’étant pas affectée. Ce déclassement est mal capté par la méthode de l’inventaire permanent utilisée en comptabilité nationale pour mesurer le stock de capital : ce stock est reconstitué à partir de tous les investissements passés et de toutes les sorties de capital (déclassement et usure). Alors que l’investissement est directement mesuré, le déclassement et la consommation de capital fixe sont estimés à partir de lois de mortalité et de dépréciation calibrées sur les durées de vie moyennes des différents types d’actifs Cette erreur de mesure sur le stock de capital se répercute alors sur la PGF puisqu’elle est déterminée comme un résidu. Le lissage de la PGF répartit ces erreurs de mesure sur une période plus longue. Si on surestime le capital en période de crise (a), cela veut dire que la PGF est alors sous-estimée (b, courbe jaune). Le lissage atténue un peu cette sous-estimation pendant la crise, mais conduit à sous-estimer la PGF* sur la période pré-crise également (b, courbe orange). En outre, le capital doit, après cette période de surestimation, être sous-estimé pour qu’à long terme le stock de capital soit le même en niveau (la méthode de l’inventaire permanent fait disparaître tôt ou tard la surestimation du capital). En période de reprise, cette sous-estimation s’accompagne d’une surestimation de la PGF et, dans une moindre mesure, de la PGF potentielle. En sommant les contributions du capital et de la PGF potentielle, on en déduit une croissance potentielle (c) : elle est surestimée en période de crise, et sous-estimée pré- et post-crise. En miroir, et en écart au vrai output gap, l’output gap mesuré apparaitrait plus positif avant la crise et plus négatif pendant la crise.
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0 tendance
+1.8 1.7 1.6 1.5 1.4 1.3 1.2 1.1 1.0 tendance
+
+Figure 10 : Exemple théorique : le déclassement du capital se retrouve dans la PGF
+
+Stock de capital, taux de croissance
+
+pré-crise vrai capital
+
+crise
+
+reprise
+
+capital observé
+
+long terme
+
+PGF, taux de croissance
+
+1.4
+
+1.3
+
+1.2
+
+1.1
+
+1.0
+
+0.9
+
+0.8
+
+0.7
+
+0.6 tendance
+
+pré-crise
+
+crise
+
+PGF avec vrai capital PGF lissée avec capital observé
+
+reprise
+
+long terme
+
+PGF avec capital observé
+
+Croissance potentielle
+
+Output gap
+
+pré-crise
+
+crise
+
+reprise
+
+long terme
+
+g* avec vrai capital
+
+g* avec capital observé
+
+0.2 0.1 0.1 0.0 -0.1 -0.1 -0.2 -0.2 tendance
+
+pré-crise
+
+crise
+
+reprise
+
+écart d'OG dû à l'erreur de mesure du capital
+
+long terme
+
+15
+
+II.3.2. En pratique
+
+Cet exemple simple conduirait à penser que l’approche par la PGF (A) a plutôt tendance à surestimer la croissance potentielle pendant la crise, et à la sous-estimer avant et après la crise, par rapport à l’approche (B). De fait en France, la croissance potentielle est inférieure de 0,4 point en 2007-2008, supérieure de 0,7 point en 2009-2010, et à nouveau inférieure de 0,6 point en 2011-2013 dans l’approche (A) par rapport à l’approche (B) (cf. Figure 11). Le même phénomène s’observe aussi en zone euro même s’il est moins prononcé. Avec un regard plus prospectif, l’approche par la PGF pourrait donc conduire à sous-estimer la croissance potentielle en 2014.
+
+2.0% 1.5%
+
+Figure 11 : Croissance potentielle, approches (A) et (B), France et zone euro
+
+France
+
+2.0%
+
+approche équation d'emploi (B)
+
+approche structurelle (A)
+
+1.5%
+
+Zone euro
+approche équation d'emploi (B) approche structurelle (A)
+
+1.0%
+
+1.0%
+
+0.5%
+
+0.5%
+
+0.0%
+
+0.0%
+
+-0.5%
+
+-0.5%
+
+2007 2008 2009 2010 2011 2012 2013
+
+2007 2008 2009 2010 2011 2012 2013
+
+16
+III. L’approche semi-structurelle (C)
+III.1. Une méthode de filtrage améliorée par de l’information conjoncturelle
+À l’image de Benes et al. (2010), la méthode « semi-structurelle » (C) repose sur l’idée que la position dans le cycle de l’économie peut être déduite d’un ensemble de variables de nature cyclique, telles que l’utilisation des capacités de production, l’inflation et le « climat des affaires » observé par les enquêtes de conjoncture. Le niveau de PIB observé peut alors être corrigé de la position dans le cycle ainsi estimée pour fournir une évaluation du PIB potentiel.
+Les liens entre variables inobservées et observées (appelées équations de mesures) et la dynamique des variables inobservées (appelées équations d’état) sont spécifiés dans un modèle espace-état, ce qui fournit alors une estimation des variables inobservées, notamment de l’output gap (cf. Figure 12). La croissance potentielle, l’output gap et la variation du chômage structurel (inobservées) sont ainsi reliées aux variables observées (inflation, chômage effectif, TUC et climat économique) et sont supposées suivre un processus autorégressif AR(1)1.
+Plus précisément, l’output gap, inobservé, est mis en relation avec les variables observées suivantes :
+– l’inflation sous-jacente (π), à l’image d’une courbe de Phillips augmentée (cf. Figure 13a)
+– la différence entre les taux de chômage effectif (U) et structurel (U*), à l’image d’une loi d’Okun (cf. Figure 13b)
+– le taux d’utilisation des capacités de production, qui renseigne sur l’intensité avec laquelle le capital est utilisé dans l’industrie manufacturière (cf. Figure 13c)
+– le climat des affaires lié à la variation d’output gap. Cet indicateur synthétique est supposé être aussi un bon indicateur du cycle économique sur l’ensemble de l’économie (cf. Figure 13d).
+La plupart des coefficients sont significatifs au seuil de 1 %, les constantes dans les équations d’inflation et de croissance potentielle faisant exception (ces deux constantes sont toutefois conservées dans le modèle, car ne pas les inclure reviendrait à considérer qu’à long terme, la croissance potentielle et l’inflation seraient nulles). Les statistiques de Student sont indiquées entre parenthèses. Le coefficient de la loi d’Okun reliant chômage et output gap est bien négatif et l’excès de capacités de production est positivement relié à l’output gap, conformément à l’intuition économique. De même, une inflation sous-jacente (corrigée des mesures fiscales) supérieure à sa moyenne est liée à un output gap positif. Enfin un indicateur du climat des affaires au-dessus de 100 indique une amélioration de l’output gap.
+1 L’ordre d’intégration de ces variables inobservées est cohérent avec l’ordre d’intégration des variables correspondantes observées : par exemple le PIB potentiel (en log) est modélisé intégré d’ordre 1 puisqu’il ne s’écarte du PIB, lui-même intégré d’ordre 1, que d’une composante stationnaire, l’output gap.
+
+17
+
+Figure 12 : Modèles et estimations des paramètres
+
+France
+
+Zone euro
+
+Équations de mesure
+
+Y = Y*+OG
+
+Y = Y*+OG
+
+π = 0,6 % + 0,6 π-1 - 0,4 x (U-U*) + eπ (1,2) (6,8) (-2,9)
+
+π = 0,1 % + 0,8 π-1 - 0,5 x (U-U*) + eπ
+
+(0,3)
+
+(8,7) (-2,1)
+
+U-U* = - 0,41 x (OG+OG-1)/2 + eU (-6,1)
+
+U-U* = - 0,45 x (OG+OG-1)/2 + eU (-3,7)
+
+TUC = 84,4 % + 1,2 x OG + eTUC (32,2) (4,6)
+
+TUC = 80,5 % + 1,3 x OG + eTUC (42,3) (2,2)
+
+climat = 100 + 6,2 x (OG - OG-1) + eIS (7,0)
+
+climat = 100 + 5,2 x (OG - OG-1) + eIS (4,6)
+
+Équations d’état
+
+Y* = Y*-1 + g*
+
+g* = 0,3 % + 0,84 g*-1 + eg
+
+(1,2)
+
+(10,3)
+
+Y* = Y*-1 + g*
+
+g* = 0,2 % + 0,88 g*-1 + eg
+
+(0,4)
+
+(6,7)
+
+OG = 0,81 x OG-1 + eOG (4,6)
+
+OG = 0,69 x OG-1 + eOG (3,5)
+
+∆U* = 0,89 ∆U*-1 + eU (7,6)
+
+∆U* = 0,78 ∆U*-1 + eU (4,1)
+
+Note de lecture : Y et Y* désignent le log du PIB et du PIB potentiel, leur différence fournissant l’output gap OG. π représente l’inflation sous-jacente, U et U* les taux de chômage effectif et structurel. TUC et climat sont le taux d’utilisation des capacités de production et l’indicateur synthétique du climat économique. g* est la croissance potentielle.
+
+Toutes ces variables apportent effectivement une information pertinente sur le cycle économique (cf. Figure 13).
+
+Figure 13 : France - Output Gap et (a) inflation sous jacente, (b) chômage conjoncturel (U-U*), (c) TUC et (d) indicateur synthétique du climat économique
+
+5%
+
+4.0%
+
+4%
+
+Inflation sous- 3.5%
+
+3%
+
+jacente ->
+
+3.0%
+
+2%
+
+2.5%
+
+1%
+
+2.0%
+
+0%
+
+1.5%
+
+-1%
+
+1.0%
+
+-2%
+
+0.5%
+
+-3% <- (OG + OG-1)/2
+-4% 1980 1988 1996
+
+2004
+
+0.0%
+-0.5% 2012
+
+5%
+
+-2 .0 %
+
+4%
+
+U - U* (échelle inversée) -> -1.6%
+
+3%
+
+-1 .2 %
+
+2%
+
+-0 .8 %
+
+1%
+
+-0 .4 %
+
+0%
+
+0 .0 %
+
+-1%
+
+0 .4 %
+
+-2%
+
+0 .8 %
+
+-3% -4%
+
+<- (OG + OG-1)/2
+
+1 .2 % 1 .6 %
+
+-5%
+
+2 .0 %
+
+1980 1988 1996 2004 2012
+
+6%
+4% 2%
+0% -2%
+-4% <- Output Gap
+-6%
+-8% 1980 1988 1996
+
+93 TUC -> 90
+87 84 81 78 75 72 2004 2012
+
+4%
+3% <- Variation de l'output 2% gap (OG - OG-1)
+
+1%
+
+0%
+
+-1%
+
+-2%
+
+-3%
+
+-4% 1980
+
+1988
+
+1996
+
+130 climat des affaires -> 123
+115
+
+108
+
+100
+
+93
+
+85
+
+78
+
+2004
+
+70 2012
+
+18
+À la suite de Borio (2013), une variable financière a aussi été ajoutée pour expliquer l’output gap, ce qui permet de capter un éventuel déséquilibre financier. Le taux de croissance du stock de crédit au secteur privé non financier (réel, déflaté par le prix du PIB) ressort bien corrélé au cycle. Toutefois les estimations des paramètres du modèle, tout comme la croissance potentielle et l’output gap qui en résultent, restent globalement inchangées dans le cas de la France. Ce test de robustesse est présenté plus en détail en annexe C.1.
+III.2. La croissance potentielle serait proche de 1,0 % en France selon cette approche
+Cette méthode conduit à estimer un output gap à -3,5 points de PIB en France et -2,4 points dans la zone euro en 2013 (cf. Figure 14 et Figure 15). La croissance potentielle est évaluée à 0,9 % en France et 0,3 % dans la zone euro en 2014, proche de celle qui résulte de l’approche structurelle. La méthode semi-structurelle permet en outre d’estimer des intervalles de confiance, représentés en pointillés sur les graphiques.
+
+Figure 14 : Croissance effective, croissance potentielle et intervalle de confiance à 95 %
+
+France
+
+Zone euro
+
+5%
+
+5%
+
+Croissance potentielle
+
+4%
+
+croissance observée
+
+4%
+
+Croissance potentielle croissance observée
+
+3%
+
+3%
+
+2%
+
+2%
+
+1%
+
+1%
+
+0%
+
+0%
+
+-1% 1978 1982 1986 1990 1994 1998 2002 2006 2010 2014
+
+-1% 1978 1982 1986 1990 1994 1998 2002 2006 2010 2014
+
+Figure 15 : Output gap et intervalle de confiance à 95 %
+
+France
+
+Zone euro
+
+5% 4% 3% 2% 1% 0% -1% -2% -3% -4% -5%
+1978
+
+1982
+
+1986
+
+1990
+
+1994
+
+1998
+
+2002
+
+2006
+
+2010
+
+5% 4% 3% 2% 1% 0% -1% -2% -3% -4% -5%
+1978
+
+1982
+
+1986
+
+1990
+
+1994
+
+1998
+
+2002
+
+2006
+
+2010
+
+Même en ajoutant une information économique, cette méthode reste sujette à des effets de bords, rendant incertaines les estimations sur la période récente. Ces effets de bords restent malgré tout limités, et concernent surtout le dernier point estimé (cf. annexe C.2).
+L’output gap estimé à partir de l’approche semi-structurelle est très inférieur aux pertes de production observées depuis 2008. Ce résultat est la conséquence directe de la dynamique des indicateurs de cycle utilisés, qui reflète un déséquilibre réel, mais pas d’ampleur exceptionnelle.
+À titre d’exemple, le taux d’utilisation des capacités de production dans la zone euro en 2013 est inférieur de 3 points seulement à sa moyenne de longue période, et comparable à son niveau de 1993. En France, l’écart avec la moyenne de long terme est légèrement plus élevé (5 points). Cette relative résistance du TUC est donc cohérente avec une perte substantielle de capacités productives.
+
+19
+De même, l’inflation est faible en Europe, mais toujours positive. L’inflation a été fortement perturbée ces dernières années d’une part par l’augmentation des taxes indirectes et des prix administrés, en particulier en Espagne et Italie, d’autre part par l’évolution des prix des matières premières (qui a soutenu l’inflation en 2012, et accentué sa chute en 2013). Une fois ces effets corrigés, l’inflation est restée faible ces dernières années, en particulier dans la zone euro. Mais l’écart avec les valeurs d’avant-crise n’est pas si élevé. En Allemagne, non affectée par les variations de taxe indirecte, l’inflation sous-jacente moyenne en 20122013 y est proche de sa moyenne 2000-2008, alors même que la croissance moyenne du PIB est passée de 1,4 % par an à 0,7 % par an. Pour la France, l’inflation sous-jacente a effectivement baissé entre ces deux périodes (1,6 % par an avant la crise, 1,0 % en 20122013) mais cette baisse reste très modérée.
+
+20
+
+IV. L’approche directe (D)
+
+IV.1. Des indicateurs cycliques pour déduire directement l’output gap
+L’inflation sous-jacente, le chômage et le TUC sont de bons indicateurs du cycle, mais ils ne sont pas les seuls à pouvoir apporter une information conjoncturelle : le nombre d’entreprises faisant faillite, les prix de l’immobilier dans le cas d’une bulle ou encore le pourcentage d’entreprises du secteur des services qui déclarent des difficultés pour recruter de la main-d’œuvre peuvent aussi être des indicateurs pertinents (cf. Figure 16).
+
+Figure 16 : Différents indicateurs de déséquilibre dans le cas de la France
+
+3 2 1 0 -1 -2 -3 -4 -5 -6 1997
+
+TUC (industrie) taux de chômage défaillances prix immobiliers
+
+2001
+
+2005
+
+2009
+
+2013
+
+Note de lecture : les indicateurs ont été centrés-réduits (moyenne = 0 et écart-type = 1). Le chômage est sur une échelle inversée. Les prix immobiliers sont représentés en taux de croissance.
+
+La dernière approche, appelée approche directe (D), est la plus récente dans la littérature et a été proposée par l’Office for Budget Responsibility (Pybus, 2011). Elle propose une estimation directe de l’output gap à partir des indicateurs du cycle économique. Contrairement à l’approche précédente, les relations dynamiques entre variables ne sont pas modélisées. Les indicateurs du cycle économique ont une composante commune, que l’on interprète comme une mesure de l’output gap. La liste des indicateurs est établie a priori, en diversifiant leur provenance (enquêtes de conjoncture, comptes nationaux) et en représentant les différents marchés (des biens et services, du travail, de l’immobilier) et secteurs (industrie, services et construction).
+
+On retient ici 12 indicateurs de provenance variée (données d’enquête ou comptabilité nationale) et reflétant les différents marchés (des biens et services, du travail, de l’immobilier) et secteurs (industrie, services, construction). Les indicateurs choisis doivent être corrélés à l’output gap et pas à la croissance. L’indicateur du climat économique, puisqu’il mesure plutôt la variation d’output gap, ne peut pas être utilisé ici, contrairement au cas de l’approche semi-structurelle.
+- Industrie - Taux d’utilisation des capacités (TUC) - Industrie - pourcentage d'entreprises qui déclarent des difficultés à produire en
+raison d’une demande insuffisante (IINSUFFDEM) - Industrie - pourcentage d'entreprises qui déclarent des difficultés à recruter de la
+main-d’œuvre (IINSUFFMAIND) - Services - pourcentage d'entreprises qui déclarent des difficultés à produire en
+raison d’une demande insuffisante (disponible depuis 2004 seulement, SINSUFFDEM) - Services - pourcentage d'entreprises qui déclarent des difficultés à recruter de la main-d’œuvre (disponible depuis 2004 seulement, SINSUFFMAIND)
+
+21
+- Construction - Taux d’utilisation des capacités (CTUC) - Taux de chômage (CHO) - Inflation sous-jacente (CORE_GA) - Prix immobiliers, taux de croissance (PRIXIMMO) - Salaire horaire réel, taux de croissance (SALH) - Taux d’investissement (INV) - Nombre de défaillances d’entreprises (DEFAILL) Tous ces indicateurs de déséquilibre sont corrélés entre eux. Une ACP permet d’extraire la composante commune à tous les indicateurs, supposée une bonne mesure directe de l’output gap. Cette composante commune résume 56 % de la variabilité des 12 indicateurs utilisés dans le cas de la France. Les variables de prix (immobiliers, salaire horaire réel et inflation sous-jacente) sont celles qui contribuent le moins à l’axe principal, tandis que l’insuffisance de demande dans les services et l’industrie, et le TUC dans l’industrie et la construction sont celles qui y contribuent le plus (cf. Figure 17).
+Figure 17 : Contribution des différentes variables à l’axe principal de l’ACP (France)
+La composante principale ainsi obtenue doit ensuite être normalisée : on la contraint à avoir la moyenne et la variance d’un output gap calculé par ailleurs2. Enfin, les séries relatives au secteur des services ne sont disponibles que depuis 2004, ce qui nécessite un traitement pour gagner un peu de profondeur historique (voir annexe D.1 pour plus d’explications sur ces deux points, normalisation et rétropolation avant 2004).
+IV.2. Un output gap à -2,9 points et une croissance potentielle à 0,8 %
+En France, selon cette approche, l’output gap atteindrait -2,9 points de PIB en 2013 (cf. Figure 18). Dans la zone euro, l’output gap atteindrait -2,4 points de PIB en 2013 (cf. Figure 19).
+Cette estimation repose sur la capacité des indicateurs à correctement refléter le cycle économique et dépend de la liste des indicateurs retenus. En modifiant le jeu de variables, les estimations sont cohérentes dans l’ensemble mais l’output gap peut néanmoins différer de plus ou moins 1½ point de pourcentage. Ainsi, en 2013, en faisant varier la liste des indicateurs, l’output gap en France pourrait être estimé entre -0,8 et -3,4 points (cf. annexe D.2).
+La croissance potentielle qui découle de cet output gap est assez heurtée. Toutefois, elle est proche de 2,0 % entre 1997 et 2007 en moyenne. À l’instar de l’approche reposant sur une équation d’emploi (B), cette méthode plaiderait pour une rupture du PIB potentiel en 2008 et 2009, mais d’une moindre ampleur (croissance potentielle à 0,5 % en moyenne sur ces deux
+2 Par défaut, l’indicateur présente une moyenne de 0,0 et un écart-type de 2,5 points de PIB sur la période 20042013, qu’on normalise à -1,3 et 1,5, correspondant respectivement à la moyenne et à l’écart-type de l’output gap donné par la première méthode sur la même période.
+
+22
+
+années dans le cas de la France), puis une croissance potentielle un peu plus dynamique ensuite (+0,8 % en France en moyenne entre 2010 et 2013).
+
+En zone euro, une première rupture sur le PIB potentiel aurait eu lieu en 2009 et une seconde en 2011 (croissance potentielle nulle ces deux années), puis la croissance potentielle serait proche de 0,4 % depuis 2012. Entre 1997 et 2007, comme en France, la croissance potentielle aurait été proche de 2,0 % en zone euro.
+
+Figure 18 : croissance potentielle et output gap par l’approche directe (France)
+
+6%
+
+5%
+
+Croissance effective
+
+Croissance
+
+4%
+
+potentielle
+
+3%
+
+2% 1% 0%
+
+-1%
+
+-2% -3% -4%
+1997
+
+Output Gap
+
+2001
+
+2005
+
+2009
+
+2013
+
+Figure 19 : croissance potentielle et output gap par l’approche directe (zone euro)
+
+6%
+
+5%
+
+Croissance effective
+
+Croissance
+
+4%
+
+potentielle
+
+3%
+
+2%
+
+1%
+
+0%
+
+-1%
+
+-2%
+
+Output Gap
+
+-3%
+
+-4% 1997
+
+2001
+
+2005
+
+2009
+
+2013
+
+L’approche directe a l’avantage de fournir un output gap qui est peu révisé à mesure que de nouvelles observations sont disponibles, car elle ne repose pas sur des lissages. C’est pourquoi, dans un exercice de simulation en temps réel, les estimations d’output gap à partir de l’approche directe pourraient être de meilleure qualité que celles réalisées à partir d’approches structurelles (Graves, 2013).
+
+23
+
+V. Synthèse : des estimations peu précises, mais quelques conclusions robustes
+V.1. Quatre méthodes d’estimations complémentaires
+La difficile mesure de la croissance potentielle et de l’output gap est à l’origine du développement et de l’estimation des quatre méthodes. Ces dernières méthodes présentent des complémentarités suivant deux dimensions (cf. Figure 20) :
+• Modélisation de l’offre ou de la demande : les approches (A) et (B) s’appuient sur la modélisation de l’offre, à travers une fonction de production et les données de comptabilité nationale. En explicitant les déterminants de la croissance potentielle, elles peuvent être mobilisées pour réaliser des estimations à moyen et long terme, contrairement aux approches de mesure de la demande (C) et (D). Ces dernières s’appuient davantage sur des indicateurs conjoncturels de déséquilibre, dont la projection sur le futur est difficilement envisageable. Les deux premières approches tendent ainsi à privilégier la mesure de la croissance potentielle tandis que les deux suivantes privilégient la mesure de l’output gap.
+• Degré de lissage / autorisation d’une rupture : les méthodes (A) et (C), en raison de la présence de lissages, peuvent aussi être opposées aux méthodes (B) et (D) pour lesquelles les lissages sont rares (B), voire absents (D), et autorisent donc des ruptures de croissance potentielle. Cette opposition est tout particulièrement intéressante sur les dix dernières années, marquées par la Grande récession. En effet, selon Cerra et Saxena (2008) qui ont étudié l’impact des crises financières passées sur un panel de pays, les pertes de PIB en niveau au moment de la crise ne sont en général pas rattrapées. Il peut donc être pertinent de disposer de modélisations attribuant ces évolutions directement à la croissance potentielle, même s’il s’agit sans doute d’une représentation excessivement schématique des phénomènes à l’œuvre.
+
+Reposent fortement sur des lissages
+Reposent peu ou pas sur des lissages
+
+Figure 20 : typologie des approches
+Approches fonction de production (Offre)
+
+Approches indicateurs cycliques (Demande)
+
+Approche structurelle (A)
+
+Approche semi-structurelle (C)
+
+Approche équation d’emploi (B)
+
+Approche directe (D)
+
+Dans le cas de la France, les approches (A) et (C), reposant sur de nombreux lissages, concluent à une croissance potentielle qui ralentit dès 2006 et est faible et stable depuis 2009. En revanche, les approches (B) et (D) indiquent une rupture plus ou moins forte de la croissance potentielle entre 2008 et 2010, qui s’apparenterait à une perte de PIB potentiel en niveau, puis un retour à une croissance potentielle un peu plus élevée ensuite (cf. Figure 21). La rupture est particulièrement marquée dans le cas de l’approche reposant sur une équation d’emploi.
+
+24
+
+Figure 21 : Les quatre estimations de croissance potentielle pour la France
+
+4.0
+
+3.5
+
+structurelle
+
+3.0
+
+équation d'emploi semi-structurelle
+
+2.5
+
+directe
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+-0.5
+
+-1.0 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013
+
+V.2. Des méthodes fragiles, qui empêchent de quantifier précisément la croissance potentielle et l’output gap sur la période récente
+Les quatre méthodes développées ici, tout comme les estimations des organisations internationales (Commission européenne, OCDE, FMI, plutôt de type « approche structurelle »), fournissent des évaluations de la croissance potentielle et de déficits de demande différentes, révélant l’incertitude qui entoure la mesure de ces grandeurs. Toutes les estimations reposent en effet sur des choix et des hypothèses, ainsi que des indicateurs de déséquilibres imparfaits, ce qui empêche de quantifier précisément la croissance potentielle et l’output gap (Chantrel, Lequien, Montaut et Sutter, 2014).
+V.2.1. Des méthodes qui reposent sur des choix et des hypothèses
+Les estimations de croissance potentielle et d’output gap sont en effet fragiles et entourées d’une marge d’incertitude. Elles reposent sur des choix qui peuvent prêter à discussion (fonction de production, spécification des modèles, indicateurs de déséquilibre retenus, …). Elles peuvent également reposer sur des lissages qui peuvent générer de larges révisions (Orphanides et Van Norden, 2002).
+Dans le cas de la France, une façon d’illustrer la fragilité aux bords de l’estimation consiste à se placer dans un cadre d’analyse en « temps réel » (cf. annexe C.2 pour un tel exercice à partir de l’approche semi-structurelle). À partir de la même spécification, le modèle est estimé avec l’information disponible en fin d’année, pour chaque année de 2007 à 2012. Certains coefficients importants du modèle ont sensiblement varié à partir du moment où le point de 2009 était connu, ce qui différencie les output gap estimés fin 2007 et fin 2008 de tous les suivants. En revanche depuis 2009, les estimations sont proches. Ainsi et mis à part un très gros choc sur l’économie, ces estimations ne semblent pas trop affectées par l’ajout de nouveaux points, ce qui signale une certaine robustesse de l’estimation, y compris des derniers points.
+Il est possible de donner une première estimation de la marge d’incertitude qui entoure les estimations à partir de l’approche semi-structurelle. La croissance potentielle française serait ainsi comprise entre 0,1 % et 1,6 % en 2014 et l’output gap entre -4,6 et -2,4 points de PIB en 2013 (au seuil statistique habituel de 5 % de risque d’erreur). L’approche directe fournit également une fourchette pour l’output gap, dont la largeur est proche de la précédente.
+
+25
+Ces estimations de l’incertitude, déjà grandes, la sous-estiment toutefois puisqu’elles ne tiennent qu’en partie compte du fait que les paramètres des modèles sous-jacents à ces méthodes sont estimés alors qu’il faudrait également tenir compte de l’incertitude qui les entoure et que les choix de modélisation, aussi raisonnables qu’ils puissent paraître, ne peuvent pas être considérés comme intangibles. Les quatre approches ont leurs propres forces et faiblesses, c’est pourquoi l’accent est mis sur l’intervalle donné par ces quatre estimations, et non sur les résultats d’une approche en particulier.
+V.2.2. Des indicateurs de cycle imparfaits
+Les quatre approches précédentes font intervenir, à un moment ou un autre, des indicateurs de déséquilibre (TUC, inflation, indicateur synthétique du climat des affaires). Or ces variables mesurent imparfaitement la position de l’économie dans le cycle.
+– Le TUC ne concerne que l’industrie manufacturière (seulement 10 % de la valeur ajoutée en France, même si l’industrie manufacturière exerce un effet d’entraînement important sur le reste de l’économie) et de plus c’est une donnée d’enquête, tout comme l’indicateur du climat des affaires (problèmes liés à la nonréponse, à la compréhension des questions par les entreprises, …). Toutefois, le TUC reste l’indicateur le plus significatif du cycle dans nos estimations.
+– L’inflation, même sous-jacente, n’est que partiellement et imparfaitement corrigée des prix très volatils (matières premières, énergies) et des changements de taxations indirectes (TVA). De plus, l’aplatissement de la courbe de Phillips depuis les années 2000 remet en cause la pertinence de l’inflation comme indicateur du cycle.
+– De même, les salaires sont aussi un indicateur cyclique imparfait, notamment en raison de rigidités nominales à la baisse, parfois institutionnelles. L’estimation par la méthode directe confirme que les salaires sont, dans le meilleur des cas, faiblement corrélés au cycle issu des autres indicateurs.
+V.3. Conclusion : quatre estimations différentes mais quelques conclusions robustes
+Les différentes méthodes présentées ici conduisent pour la France à des évaluations de la croissance potentielle de court terme comprises entre 0,7 et 1,3 % en 2014. L’output gap serait compris entre -2,3 et -3,5 points de PIB en 2013, soit nettement moins que la perte d’activité par rapport à la tendance d’avant-crise, qui est de l’ordre d’une dizaine de points. On peut donc considérer que la perte d’activité par rapport à la tendance d’avant-crise est en grande partie pérenne. Ce diagnostic renvoie au fait que les indicateurs retraçant la position de l’économie dans le cycle ne sont pas si bas aujourd’hui, et proches des niveaux atteints en 1993 par exemple.
+L’ensemble des estimations convergent également pour indiquer que la croissance potentielle est elle-même plus faible qu’avant-crise, comprise entre 0,7 % et 1,3 % selon les méthodes utilisées, contre 2 % environ avant 2008 (cf. Figure 22). Si les estimations de croissance potentielle sont incertaines, comme l’illustre le chapitre V.2, ces conclusions peuvent toutefois être considérées comme robustes. Pour la zone euro, les évaluations de croissance potentielle de court terme résultant de ces méthodes se situent entre 0,2 % et 0,7 % en 2014 pour un déficit de demande relativement proche de celui de la France, compris entre -2,1 et -3,6 points de PIB en 2013.
+Une partie des comptes nationaux annuels a été publiée en base 2010 au moment de la rédaction de ce document de travail. Le taux de croissance du PIB français a été notamment
+
+26
+rehaussé de 0,2 point sur la période récente (de 2009 à 2013). Les données disponibles nous permettent de mettre à jour les deux approches (C) et (D). Il en ressort un output gap quasiment inchangé. La croissance potentielle se retrouve donc rehaussée d’autant que la croissance effective, d’un peu moins de 0,2 point en moyenne par an depuis la crise (cf. annexe E).
+Ces quatre approches présentent des avantages et des inconvénients et apportent des éclairages différents. Ainsi les approches (B) et (D), qui n’utilisent pas ou peu les techniques statistiques de lissages, signalent une plus forte perte de PIB potentiel au moment de la crise, pour la France comme pour la zone euro, puis une reprise de la croissance potentielle un peu plus vigoureuse que ne le suggèrent les deux autres approches (A) et (C). Il est difficile de mettre en avant une de ces approches et c’est pourquoi l’accent est mis sur la fourchette issue des quatre estimations. Selon l’idée que l’on se fait d’une croissance potentielle (plus ou moins lisse), les estimations plus volatiles, (B) et (D), ou plus lisses, (A) et (C), peuvent être privilégiées. Dans tous les cas, la variance de la croissance potentielle est par essence inconnue et sa volatilité présumée résulte en partie d’un choix, lui-même reposant sur un jugement.
+Enfin, ces méthodes fournissent des évaluations d’une croissance potentielle de court terme, où les facteurs de production (stock de capital et population en âge de travailler) sont considérés comme donnés. En situation de PIB inférieur à son potentiel (output gap négatif), comme c’est le cas actuellement selon les résultats de cette étude, le faible investissement réduit les capacités de production (machines, etc.) à court terme. À moyen-long terme, en revanche, les facteurs de production deviennent flexibles : l’investissement et le stock de capital se retrouveraient sur le sentier de croissance équilibrée et augmenteraient donc plus vite qu’au rythme actuel. La croissance potentielle de moyen-long terme serait donc supérieure à celle de court terme estimée ici. Toutefois cette croissance potentielle de moyen-long terme est aussi évaluée avec incertitude : Cabannes et al. (2013) l’estiment ainsi entre 1,2 % et 1,9 % pour la période 2015-2025 en France.
+
+27
+Figure 22 : Récapitulatif des estimations de croissance potentielle et d’output gap entre 2000 et 2014 (France et zone euro)
+
+28
+Bibliographie
+Argouarc’h J., Debauche É., Leblanc P. & Ourliac B. (2010), « Comment expliquer les évolutions de l’emploi depuis le début de la crise », Insee, Note de conjoncture, décembre
+Baron J.-F., 2008, « Les comptes de patrimoine et de variation de patrimoine », note méthodologique de l’Insee, janvier
+Belet G. & J.-P. Cotis, « Croissance et répartition des « fruits de la croissance » depuis 1970 », Insee, rapport sur les comptes de la nation, 1989
+Benes, J., Clinton, K., Garcia-Saltos, R., Johnson, M., Laxton, D., Manchev, P. & Matheson, T. (2010). Estimating Potential Output with a Multivariate Filter. IMF Working Paper, 285
+Blanchard, O. J., & Leigh, D. (2013). Growth Forecast Errors and Fiscal Multipliers. American Economic Review, 103(3): 117-20
+Biscourp P., Dessy O., Fourcade N. & Kempf H. (2005), « Les salaires sont-ils rigides ? Le cas de la France à la fin des années 1990 », Économie et statistique, n°386, p. 59-89
+Bloom N. (2013), Fluctuations In Uncertainty, NBER Working Paper n°19714
+Bonleu, A. , Cette, G. & Horny, G. (2012). Capital Utilisation and retirement, Banque de France Working Paper, n°343
+Borio, C., Disyatat, P. & Juselius, M. (2014). A parsimonious approach to incorporating economic information in measures of potential output. BIS Working Paper, (442)
+Borio, C., Disyatat, P. & Juselius, M. (2013). Rethinking potential output: Embedding information about the financial cycle. BIS Working Paper, (404)
+Borio, C. & Filardo. A (2007). Globalisation and Inflation: New Cross-Country Evidence on the Global Determinants of Domestic Inflation, BIS Working Paper No. 227
+Cabannes, P.-Y., Lapègue, V., Pouliquen, E., Beffy, M. & Gaini, M. (2010). Quelle croissance de moyen terme après la crise ? L’économie française
+Cabannes, P.-Y., Montaut, A. & Pionnier, P.-A. (2013). Évaluer la productivité globale des facteurs : l’apport d’une mesure de la qualité du capital et da travail, L’économie française
+Cerra V. & Saxena S.-C. (2008). Growth dynamics: The Myth of Economic Recovery, American Economic Review 2008, 98:1, 439-457
+Chantrel E., Lequien, M., Montaut, A. & Sutter, C. (2014). Quel potentiel de rebond de l’économie française ?, Note de conjoncture de l’Insee, mars
+Chetouane M., Lemoine M., de la Serve M.-E. (2011), Impact de la crise sur la croissance potentielle, une approche par les modèles à composantes inobservables, Document de travail de la Banque de France, N°331
+Chouard V., Fuentes Castro D., Irac D., Lemoine M. (2013), Assessing the losses in euro area potential productivity due to the financial crisis, Document de travail de la Banque de France, n°468
+D'Auria F., Denis C., Havik K., Mc Morrow K. Planas C., Raciborski R., Röger W. & Rossi A. (2010), The production function methodology, for calculating potential growth rates and output gaps, Economic paper (European Commission), n°420
+
+29
+Elliott, G., Rothenberg, T.J. & Stock, J.H. (1996). Efficient Tests for an autoregressive unit root, Econometrica, 46(4), 813-836
+Graves, S. (2013), Measuring European output gaps in real time, Goldman Sachs, European economic analyst, Issue N° 13/31
+Hendel I. & Spiegel. Y (2014), "Small Steps for Workers, a Giant Leap for Productivity." American Economic Journal: Applied Economics, 6(1): 73-90
+Kwiatkowski, D., Phillips, P. C. B., Schmidt, P. & Shin, Y. (1992): Testing the Null Hypothesis of Stationarity against the Alternative of a Unit Root. Journal of Econometrics 54, 159–178
+OCDE (2001), Measuring capital, OECD Manual, 2001
+Orphanides, A. & Van Norden, S. (2002). The Unreliability of output-gap estimates in real time. The Review of Economics and Statistics, 84(4), 569–583
+Phillips, P.C.B & Perron, P. (1988). "Testing for a Unit Root in Time Series Regression", Biometrika, 75, 335–346
+Ravn M.-O et Uhlig H. (2002). On adjusting the Hodrick-Prescott filter for the frequency of observations, The Review of Economics and Statistics, 84(2): 371–380
+Renne J.-P. (2007). Quelles sont les parts cyclique et structurelle du chômage en France ?, Direction générale du Trésor, Trésor-Éco N°10
+Roberts J.-M. (2006): Monetary Policy and Inflation Dynamics, International Journal of Central Banking, 2(3), pp 193–230.
+Pybus, T. (2011). Estimating the UK’s historical output gap, Office for Budget Responsibility, Working Paper N°1, november
+Verdugo G. (2013), Les salaires réels ont-ils été affectés par les évolutions du chômage en France avant et pendant la crise ?, Bulletin de la Banque de France, issue 192, p. 71-79
+
+30
+Annexes
+A. L’approche structurelle
+A.1. Croissance potentielle et output gap à partir d’une fonction de production
+Y = PGF × Lα × K (1−α ) est une fonction de production de type Cobb-Douglas à deux
+facteurs, le capital (noté K) et le travail (noté L). α désigne la part de la rémunération du facteur travail dans la valeur ajoutée et PGF est la productivité globale des facteurs.
+Le facteur travail, ici le nombre total d’heures travaillées peut s’écrire
+L = POP15−64 × TX act × (1 − U ) × NBH où POP15−64 désigne la population en âge de travailler (entre 15 et 64 ans), TX act le taux d’activité, U le taux de chômage et NBH la
+durée du travail (nombre moyen d’heures de travail par an et par personne).
+Sous les hypothèses classiques de concurrence pure et parfaite et de rendements d’échelle constants, on peut montrer que le taux de croissance de la PGF peut s’écrire
+pgf = y − α × ( pop15−64 + txact − ∆U + h) − (1 − α ) × k où les lettres minuscules
+désignent les taux de croissance des variables en majuscules. La PGF se déduit donc des évolutions du PIB et de tous les autres facteurs de production.
+Pour estimer la croissance potentielle, il faut connaître les niveaux structurels de chaque composante. La population en âge de travailler peut être considérée comme intégralement structurelle. En effet, même si les mouvements migratoires peuvent être influencés par la conjoncture (cf. l’exemple espagnol des dernières années), les évolutions de la population en âge de travailler restent largement déterminées par des tendances démographiques en France comme en zone euro.
+Le capital est également supposé alimenter intégralement la croissance potentielle. Le stock de capital est assez inerte et est pour une très grande part déterminé par les investissements3. Lorsqu’on cherche à évaluer le potentiel de croissance à court terme, comme c’est le cas ici, il faut donc raisonner à stock de capital donné. Si on cherchait à évaluer la croissance potentielle à un horizon plus lointain (par exemple au cours des dix prochaines années), alors il faudrait tenir compte du fait que, comme l’investissement bien que de façon amortie, le stock de capital est cyclique et que donc sa croissance est appelée à se redresser au cours des prochaines années au fur et à mesure que le déficit de demande actuel se comblera. À court terme, le stock de capital est donc supposé entièrement structurel, en revanche son utilisation est sensible à la conjoncture. Comme son utilisation est mal connue et n’est pas prise en compte ici dans la fonction de production, elle se retrouve par construction dans la PGF ce qui vient alimenter la composante cyclique de cette dernière. Ceci contribue à justifier la correction cyclique de la PGF qui est traditionnellement réalisée à l’aide du TUC, à l’instar de Belet et Cotis (1989). Ainsi,
+POP15−64* = POP15−64 et K * = K où * désigne le niveau structurel de chaque variable.
+Les autres facteurs (chômage, PGF, taux d’activité et durée du travail) comportent une composante structurelle et conjoncturelle qu’il s’agit d’estimer. Les modèles permettant de réaliser ces estimations sont détaillés dans les paragraphes suivants. Une fois les niveaux structurels de chaque composante estimés, le PIB potentiel peut alors s’écrire :
+3 En réalité, le capital est lui aussi cyclique. D’ailleurs, des travaux récents de la Commission européenne cherchent à estimer un « Capital Gap » à l’aide des cycles financiers. Le déclassement du capital est lui aussi cyclique (Bonleu, Cette, Horny, 2012), faible en période de boom économique, les entreprises ayant tendance à maintenir leurs machines anciennes pour satisfaire le surplus de demande, et fort en période de creux, où elles déclassent plus rapidement leurs équipements les plus anciens pour minimiser les coûts d’entretien.
+
+31
+
+( ) Y*
+
+= PGF* ×
+
+POP15−64
+
+×
+
+TX
+
+* act
+
+×
+
+(1
+
+−
+
+U
+
+*
+
+)
+
+×
+
+NBH
+
+*
+
+α × K (1−α )
+
+et la croissance potentielle
+
+( ) s’en déduit :
+
+y* = pgf * + α ×
+
+pop15−64
+
++
+
+tx
+
+* act
+
+− ∆U *
+
++
+
+nbh*
+
++ (1 − α ) × k .
+
+Enfin, l’output gap peut aussi s’écrire comme la somme des composantes conjoncturelles des facteurs de production :
+
+OG
+
+=
+
+Y Y*
+
+−1≈
+
+ln 
+
+Y Y*
+
+ 
+
+=
+
+ln 
+
+PGF PGF *
+
+ 
+
++α
+
+×
+
+
+
+ln
+
+TX TX
+
+act * act
+
+
+
++
+
+ln 
+
+1−U 1−U *
+
+ 
+
++
+
+ln 
+
+NBH NBH *
+
+ 
+
+
+
+Les séries ont été prolongées jusqu’en 2013, voire 2014, à l’aide des scenarii des Notes de conjoncture de l’Insee de mars et juin 2014. Pour les années 2013 à 2014, les hypothèses sont les suivantes :
+- PIB : Pour 2013, nous supposons une croissance de +0,2 %, cohérente avec les notes de conjoncture de mars et juin 2014. Pour 2014, nous supposons une croissance de +1,0 %, cohérente avec les prévisions du gouvernement et de la CE pour 2014 (prévisions de mai 2014), et légèrement supérieure à celles des notes de conjoncture de mars et juin 2014 (+0,7 %).
+- VA : Les hypothèses de croissance sont les mêmes que celles pour le PIB.
+- Stock de capital net : l’investissement reculerait de 2,3 % en 2013, d’où un stock de capital net qui croîtrait de 1,3 % en 2013 (sous l’hypothèse d’un taux de déclassement identique à 2012). Ce stock croîtrait ensuite de +1,4 % en 2014 (hypothèse de la Commission Européenne de mai 2014, AMECO).
+- Population en âge de travailler : correspond à la population âgée de 15 à 64 ans. Après 2012, les séries sont extrapolées à partir des projections de population de l’Insee.
+- Nombre d’heures travaillées par tête : En 2013 et 2014, il est supposé stable, égal à son niveau de 2012, lui-même stable depuis 2010.
+- Taux de chômage annuel : construit comme la moyenne des taux de chômage trimestriels issus des enquêtes Emploi en Continu. Nous supposons qu’il se stabilise en 2014, au niveau de 2013, soit 10,3 %.
+- α : il est supposé stable en 2013 et 2014, égal à sa valeur de 2012 (65 %).
+- Emploi : hypothèse de -0,4 % en 2013 et +0,3 % en 2014, concept comptabilité nationale, cohérente avec la Note de conjoncture de décembre 2013 (qui adopte un concept différent d’emploi)
+- Inflation sous-jacente : Pour 2014, la prévision d’inflation sous-jacente est de +0,6 %.
+- PGF : La PGF est extrapolée en 2014, où elle est ici supposée croître de +0,5 % (phase de reprise), ce qui correspond à la moitié de la croissance du PIB pour la même année (c’est-à-dire la contribution moyenne observée sur la période 19932008).
+
+32
+A.2. Estimer un taux de chômage structurel
+En 2013, le taux de chômage en France est égal à 10,3 % de la population active, soit presque 3 points de plus qu’en 2008. L’augmentation a été encore plus marquée dans la zone euro (12,2 % contre 7,6 %), malgré la bonne performance de quelques pays, dont l’Allemagne. Ainsi, cette augmentation est supérieure à 15 points en Espagne, au Portugal et en Grèce.
+Un chômage conjoncturel prolongé peut avoir des effets néfastes : éloignés du marché du travail pendant longtemps, les chômeurs peuvent perdre une partie de leurs compétences professionnelles, ce qui réduit leurs chances de retrouver un emploi. On désigne sous le nom « d’effet d’hystérèse » le fait que le chômage conjoncturel peut se transformer peu à peu en chômage structurel lors d’une période récessive prolongée. Compte tenu de ces effets d’hystérèse, il est vraisemblable que la reprise économique ne soit pas suffisante pour résorber la totalité de la hausse du chômage. En effet, les emplois vacants sont toujours aussi nombreux, ce qui pourrait traduire une mauvaise adéquation des compétences et des postes, alimentée par le chômage de longue durée, et la multiplication des emplois de très courte durée (moins d’un mois) qui conduisent à un manque d’accumulation des connaissances. Ainsi, le chômage de longue durée a augmenté de 2 points dans la zone euro depuis la crise (3,4 % de la population active en 2007), tandis que le taux de chômage de très longue durée a doublé. En France, les difficultés de recrutement déclarées par les entreprises dans l’enquête de conjoncture sur l’activité dans l’industrie sont à peine plus faibles que la moyenne d’avant-crise (de l’ordre de 0,2 point d’écart-type), ce qui plaide pour une part structurelle significative dans l’augmentation du taux de chômage.
+Une façon de procéder pour obtenir une évaluation quantitative de cette part structurelle consiste à estimer une courbe de Phillips, qui met en relation le taux de chômage à l'inflation (sous-jacente ici pour corriger les évolutions de chocs d'offre temporaires tels qu'une augmentation des prix du pétrole). Dans cette approche, une hausse du chômage qui n'est pas accompagnée d'une baisse de l'inflation est interprétée comme une hausse de la partie structurelle du chômage. En utilisant un modèle inspiré de Renne (2007), ces deux variables sont alors mises en relation à l’aide d’un modèle espace-état suivant lequel l'inflation sousjacente (πsj) est expliquée par les anticipations d'inflation, supposées se former à partir de l’inflation passée et de l'excès ou de l'insuffisance de demande, approché par l'écart entre le chômage effectif (Ut) et structurel (Ut*). Les estimations montrent que l’indexation sur l’inflation passée n’est pas unitaire, ce qui peut soit traduire la présence d’« illusion nominale », soit que les agents forment pour partie leurs anticipations sur une cible de long terme constante, telle que la cible de 2 % retenue par la Banque centrale européenne. Le chômage structurel est modélisé intégré d’ordre 1 par souci de cohérence avec le chômage effectif, qui ressort intégré d’ordre 1 d’après les tests de racine unitaire menés (ElliottRothenberg-Stock, 1996, Phillips-Perron, 1988 et Kwiatkowski-Phillips-Schmidt-Shin, 1992).
+L’estimation porte sur la période 1980-2014. Le paramètre -0,49 représente la pente de la courbe de Phillips dans le cas de la France (cf. Figure 23, estimation des paramètres du modèle). Il est statistiquement significatif, ce qui signifie que l'excès (ou l'insuffisance) de demande contribue significativement à l'évolution de l'inflation sous-jacente. Un modèle similaire est utilisé pour la zone euro.
+
+33
+
+Figure 23 : Chômage effectif et structurel et modèle d’estimation
+
+France
+
+Zone euro
+
+13%
+
+12%
+
+11%
+
+10%
+
+9%
+
+8%
+
+7%
+
+Taux de chômage
+
+6%
+
+Taux de chômage structurel (U*)
+
+5% 1980 1984 1988 1992 1996 2000 2004 2008 2012
+
+13% 12% 11% 10%
+9% 8% 7% 6% 5%
+1980
+
+1984
+
+Taux de chômage Taux de chômage structurel (U*)
+1988 1992 1996 2000 2004 2008 2012
+
+π sj t
+
+Ut
+
+∆U
+
+* t
+
+ct
+
+estimation des paramètres du modèle
+
+( ) =
+
+0,0053
+
++
+
+0,63
+
+π
+
+sj t −1
+
+−
+
+0,49 U t
+
+−
+
+U
+
+* t
+
++ e1
+
+(1, 5 )
+
+(3,8)
+
+( −3,8 )
+
+=
+
+U
+
+* t
+
++
+
+ct
+
+=
+
+0,80
+
+∆U
+
+* t −1
+
++
+
+ε
+
+1 t
+
+( 4,1)
+
+= 0,71 ct−1 + e2 (2,9)
+
+π sj t
+
+Ut
+
+∆U
+
+* t
+
+ct
+
+estimation des paramètres du modèle
+
+( ) =
+
+0,002
+
++
+
+0,84
+
+π
+
+sj t −1
+
+−
+
+0,40
+
+Ut
+
+−
+
+U
+
+* t
+
++ e1
+
+(0,4)
+
+(6,0)
+
+( −3, 0 )
+
+=
+
+U
+
+* t
+
++
+
+ct
+
+=
+
+0,94
+
+∆U
+
+* t −1
+
++
+
+ε
+
+1 t
+
+(15 ,3)
+
+= 0,82 ct −1 + e2 (4,5)
+
+Toutefois, plusieurs travaux sur données américaines montrent que la courbe de Phillips se serait aplatie depuis le milieu des années 1990 (Roberts, 2006), ce qui signifierait que l’inflation, y compris sous-jacente, est moins cyclique et moins liée à l’état du marché du travail qu’auparavant. En France également, depuis 1993 le lien entre chômage et inflation s’est nettement affaibli (cf. Figure 24).
+
+Plusieurs raisons sont évoquées :
+
+- Des banques centrales plus crédibles et réactives, notamment la BCE, et des réactions monétaires préventives. Les anticipations d’inflation sont de ce fait plus ancrées et l’inflation est plus stable et maîtrisée depuis la fin des années 1990 ;
+
+- en raison de la mondialisation, l’inflation est davantage déterminée mondialement, et moins liée aux marchés nationaux (Borio et Filardo, 2007).
+
+34
+
+Figure 24 : Pente de la courbe de Phillips, lien entre inflation et chômage (France)
+
+14% inflation
+
+12% 10%
+8%
+
+1975
+
+1980
+
+1979 1976 1978
+1977
+
+1981 1982
+1983
+
+1975-1992 1993-2013
+1984
+
+6%
+1985 1986
+
+4%
+
+1990
+
+1991
+
+1987 1988 1992
+
+1989
+
+1993
+
+2% 0%
+
+2008
+
+2002 2003 2001 20072000
+
+2200004620029010201219199598
+
+1994 1996
+
+2005 2011 1999 2013 1997
+
+3%
+
+4%
+
+5%
+
+6%
+
+7%
+
+8%
+
+9%
+
+10%
+
+11%
+
+chômage
+
+Lecture : la pente de la courbe de Philips est représentée en bleu sur la période 1975-1992. Elle est bien décroissante, ce qui signifie que les années où le chômage est élevé sont aussi des années de faible inflation et inversement. En revanche, depuis 1993 (en orange), la pente de la courbe de Phillips est presque horizontale : que le chômage soit faible ou élevé, l’inflation reste proche de 2 %.
+
+Une modélisation alternative pourrait reposer sur le TUC en lieu et place de l’inflation (en supposant que l’utilisation du facteur capital de la part des entreprises renseigne sur
+l’utilisation du facteur travail) : U = U * +β (TUC − 85,6) + ε où U* est supposé I(2). Dans
+le cas de la France, le chômage structurel obtenu à partir de l’indicateur TUC est assez proche de celui obtenu à partir de l’inflation, excepté sur la période récente où il lui est inférieur de 0,5 point de pourcentage depuis 2009, mais évolue de façon comparable (cf. Figure 25). Ce chômage structurel alternatif conduirait à une croissance potentielle supérieure de +0,1 % par an sur 2002-2010, soit un output gap plus creusé, de l’ordre de 0,4 point à partir de 2009.
+
+Figure 25 : chômage structurel selon l’indicateur cyclique utilisé (cas de la France)
+
+13%
+
+12%
+
+U U* (inflation)
+
+11%
+
+U* (TUC)
+
+10%
+
+9%
+
+8%
+
+7%
+
+6%
+
+5% 1980 1984 1988 1992 1996 2000 2004 2008 2012
+
+35
+
+A.3. Estimer les taux d’activité et la durée du travail potentiels
+Le taux d’activité est en effet en partie conjoncturel en raison des effets de flexion, c’est-àdire le fait qu’en période de creux conjoncturel (cf. Figure 26, période 1993-1996), le taux d’activité baisse parce que les jeunes par exemple retardent leur entrée sur le marché du travail et prolongent leurs études ou par le phénomène de travailleurs découragés. À l’inverse, il augmente en période de boom économique (par exemple période 1999-2001) car des inactifs peuvent être incités à s’insérer sur le marché du travail lorsque les perspectives économiques sont favorables.
+
+Un modèle espace-état où le taux d’activité est mis en relation avec le TUC permet alors d’estimer un taux d’activité potentiel corrigé des effets de flexion. Le taux d’activité potentiel est supposé I(2). En s’appuyant sur une telle modélisation, le taux d’activité potentiel en France en 2013 serait donc très légèrement supérieur à son niveau actuel.
+
+Un modèle semblable est utilisé pour la zone euro.
+
+Figure 26 : Taux d’activité effectif et potentiel et modèle d’estimation
+
+France
+
+Zone euro
+
+75% 74% 73% 72% 71% 70% 69% 68% 67% 66%
+1980
+
+1984
+
+1988
+
+1992
+
+1996
+
+Taux d'activité effectif Taux d'activité potentiel
+2000 2004 2008 2012
+
+78% 76% 74% 72% 70% 68% 66% 64% 62%
+1980
+
+1984
+
+1988
+
+1992
+
+1996
+
+Taux d'activité effectif Taux d'activité potentiel
+2000 2004 2008 2012
+
+estimation des paramètres du modèle
+
+TXACT
+
+= TXACT * + 0,052× (TUC − 85,6) + e1 (2,7)
+
+∆TXACT
+
+* t
+
+=
+
+∆TXACT
+
+* t −1
+
++
+
+e2
+
+estimation des paramètres du modèle
+
+TXACT
+
+= TXACT * + 0,047× (TUC − 81,2) + e1 (1,7 )
+
+∆TXACT
+
+* t
+
+=
+
+∆TXACT
+
+* t −1
+
++
+
+e2
+
+La durée du travail (nombre d’heures effectuées par personne et par an) en France et en zone euro semble très peu sensible à la conjoncture (cf. Figure 27). Son niveau potentiel est alors obtenu par un simple lissage à l’aide d’un filtre HP.
+
+Figure 27 : durée du travail par personne et par an, effective et potentielle
+
+France
+
+Zone euro
+
+1800 1750 1700 1650 1600 1550 1500 1450 1400
+1980
+
+1984
+
+1988
+
+1992
+
+1996
+
+heures effectives heures potentielles
+2000 2004 2008 2012
+
+1900 1850 1800 1750 1700 1650 1600 1550 1500
+1980
+
+1984
+
+1988
+
+1992
+
+1996
+
+heures effectives heures potentielles
+2000 2004 2008 2012
+
+36
+
+A.4. Estimer la PGF potentielle
+L’estimation de la PGF est complexe et dépend des conventions sur la comptabilisation des facteurs de production. Par exemple, si l’amélioration des produits du type nouvelles technologies est estimée comme une baisse de prix, le capital est accru en volume et la PGF associée est mécaniquement réduite d’autant. Il en est de même pour une sousestimation du déclassement du capital à la suite de faillites au moment des crises par exemple. A contrario, une hausse du travail dissimulé tendrait à surestimer la PGF (et à sous-estimer le facteur travail). Le partage entre la PGF d’une part et les facteurs de production d’autre part est ainsi fragile.
+
+En outre, la série de PGF est obtenue à partir de la croissance effective, elle est donc affectée par les cycles économiques. Pour extraire ces cycles, est utilisé le taux d’utilisation des capacités, produit par l’enquête de conjoncture auprès des industriels, dans un modèle espace-état où la PGF observée est liée à la PGF potentielle (PGF*), supposée I(1) avec un ratio signal/bruit contraint à 6 (cf. Figure 28, estimation des paramètres du modèle).
+D’autres soldes issus des mêmes enquêtes ont été testés à la place du TUC (les goulots de production, le jugement sur les capacités de production et les difficultés de demande) mais celui-ci reste le meilleur indicateur de cycle, en théorie comme en pratique.
+Par ailleurs, les tests de racine unitaire (ERS, PP, KPSS) ne permettent pas de conclure quant au caractère I(1) persistant ou I(2) de la PGF (en logarithme). La PGF est toutefois considérée comme intégrée d’ordre 1, par souci de cohérence avec le PIB, qui est I(1) aussi.
+Tous les coefficients estimés sont significatifs au seuil de 5 %, à l’exception de la constante. Toutefois, ne pas l’inclure est moins satisfaisant d’un point de vue théorique, puisque cela implique une PGF* qui ne croît plus à long terme. Dans tous les cas, inclure ou pas la constante ne modifie pas les estimations, et modéliser la PGF* intégrée d’ordre 2 non plus. L’estimation porte sur la période 1976-2014. Pour 2014, la PGF est prolongée avec un taux de croissance de 0,5 %, soit la moitié du taux de croissance du PIB prévu ; sur le passé, la PGF a en effet contribué pour moitié environ à la croissance économique (cf. Figure 3).
+En France, sur la période 2009-2013, la PGF effective a reculé de 0,4 % en moyenne par an. Selon l’approche structurelle, la PGF potentielle serait stable entre 2009 et 2013 (cf. Figure 28). Une PGF potentielle plus lisse pourrait être obtenue avec un ratio signal-bruit λ fixé à 100 au lieu de 6 recommandé par Ravn et Uhlig (2002) dans le cas de données annuelles. Elle serait alors plus dynamique entre 2008 et 2012, mais elle le serait moins en 2013 et 2014. Un modèle espace-état (régression sur le TUC et lissage) similaire est utilisé pour estimer la PGF potentielle de la zone euro (cf. Figure 28).
+
+Figure 28 : PGF effective et structurelle (taux de croissance) et modèle d’estimation
+
+France
+
+Zone euro
+
+5%
+
+5%
+
+PGF effective
+
+PGF effective
+
+4%
+
+PGF* (régression sur le TUC)
+
+4%
+
+PGF* (régression sur le TUC industrie)
+
+3%
+
+PGF* (régression et lissage)
+
+3%
+
+PGF* (régression et lissages)
+
+2%
+
+2%
+
+1%
+
+1%
+
+0%
+
+0%
+
+-1%
+
+-1%
+
+-2% 1980 1984 1988 1992 1996 2000 2004 2008 2012
+
+-2% 1980 1984 1988 1992 1996 2000 2004 2008 2012
+
+estimation des paramètres du modèle (régression et lissage)
+
+PGF = PGF * + 0,28× (TUC − 85,6) + e1 (2,6)
+
+∆
+
+PGF
+
+* t
+
+=
+
+0,06 % +
+
+0,89
+
+∆
+
+PGF
+
+* t −1
+
++
+
+e2
+
+(0,5)
+
+(11,8)
+
+PGF = PGF * + 0,29× (TUC − 81,2) + e1 (7,5)
+
+∆PGF t* =
+
+0,02 % +
+
+0,92
+
+∆PGF
+
+t
+
+* −1
+
++
+
+e2
+
+(0,4)
+
+( 25 ,3)
+
+Lecture : la « PGF* (régression et lissage) » est obtenue à partir du modèle espace-état ci-dessus. La « PGF*
+
+(régression sur le TUC) » est obtenue à partir d’une simple régression : pgf* = a + b ∆TUC + e
+
+37
+
+Le fait que la PGF stagne pourrait être le résultat d’un indicateur de cycle, ici le TUC, spécifique au secteur de l’industrie. Le constat est identique si l’on remplace le TUC par l’indicateur « Goulots de production » (pourcentage d’entreprises qui déclarent produire à pleine capacité, secteur de l’industrie). En revanche, remplacer le TUC par l’indicateur du climat des affaires, qui porte sur l’ensemble de l’économie, pourrait permettre d’obtenir une PGF potentielle un peu plus dynamique (+0,5 % par an en moyenne depuis 2010, cf. Figure 29).
+
+Figure 29 : PGF* selon différents indicateurs cycliques (cas de la France)
+
+3,0% 2,5% 2,0% 1,5% 1,0% 0,5% 0,0% -0,5% -1,0% -1,5% -2,0%
+2000
+
+PGF * (régression climat des affaires) PGF * (regression goulots industrie) PGF* (régression sur le TUC industrie)
+
+2004
+
+2008
+
+2012
+
+Lecture : la « PGF* (régression sur le TUC industrie) » est obtenue à partir du modèle pgf* = a + b ∆TUC + e, la « PGF* (régression goulots industrie) » est obtenue à partir du modèle pgf* = a + b ∆Goulots + e, où les goulots sont la proportion d’entreprises qui déclarent produire à pleine capacité, et la « PGF* (régression climat des affaires) » est obtenue à partir du modèle pgf* = a + b climat + e. Contrairement au TUC et aux goulots, le climat des affaires n’est pas utilisé en variation, car il est plus particulièrement homogène à une croissance.
+
+La Commission européenne publie également des estimations de PGF potentielle pour la France à partir d’une approche structurelle similaire à l’approche (A) développée ici. Selon la Commission, la PGF potentielle française aurait crû de +0,3 % par an entre 2009 et 2013, contre +0,0 % dans ce dossier. Des différences dans la méthode et les séries utilisées expliquent cet écart, qui peut se décomposer comme suit :
+- +0,2 point car l’estimation de la PGF potentielle par la Commission européenne s’appuie sur une PGF effective extrapolée jusqu’en 2025 selon un taux de croissance à peine inférieur à celui d’avant-crise ;
+- +0,1 point car l’indicateur cyclique utilisé par la Commission européenne est un indicateur composite, couvrant un champ plus large que le seul secteur de l’industrie, en combinant le TUC dans l’industrie aux climats économiques dans les services et dans la construction4 ;
+- +0,05 point en raison d’un lissage appliqué sur la PGF effective par la Commission européenne plus fort que celui appliqué dans ce dossier et pour d’autres raisons méthodologiques (filtre bayésien dans le cas de la Commission européenne).
+
+La Banque de France a cherché à modéliser d’éventuelles ruptures sur la PGF, en niveau et en tendance suite à la crise financière (Chouard et al., 2013). Dans le cas de la France, les auteurs concluent à une rupture de PGF significative en niveau, qui vient s’ajouter au vieillissement du capital. Ils ne concluent toutefois pas à une rupture significative en tendance, le recul post-crise restant encore à ce stade insuffisant.
+
+4 Constructing the combined Capacity Utilization Business Survey (CUBS) indicator, Information note for Members of the Output Gap Working Group of the Economic Policy Committee
+
+38
+B. L’approche reposant sur une équation d’emploi
+B.1. La mesure du stock de capital et ses limites
+La méthode d’évaluation du capital est celle utilisée par la comptabilité nationale dans tous les pays développés (Baron, 2008 et OCDE, 2001). Elle se fonde sur le principe de l’inventaire permanent : un stock de capital brut est reconstitué à partir des flux d'entrées (investissement) et des flux de sorties (déclassement). Pour la mesure du capital net, un stock est reconstitué à partir des flux d'entrées et de l’usure (consommation de capital fixe). L’investissement est mesuré mais le déclassement et la consommation de capital fixe sont estimés (respectivement lois de mortalité et lois de dépréciation) à partir de durées de vie moyennes des différents types d’actifs mesurées sur des données historiques. Cette méthode permet une approche fine, de type comptable, et évite les ruptures de série. En revanche, par construction, elle ne permet pas de prendre en compte certains effets liés à la conjoncture, en particulier pendant une longue récession. Ainsi, le taux de déclassement pourrait augmenter en France durant les phases de ralentissement de l’activité et diminuer durant les périodes d’expansion (Bonleu, Cette et Horny, 2013).
+
+B.2. Une productivité potentielle pour la France à partir d’une équation d’emploi
+Dans cette variante simplifiée à un seul facteur de production (le travail), la fonction de
+production s’écrit Y = PL,SMNA × ESMNA→ENS × L où L est le nombre de personnes en emploi, PL,SMNA la productivité apparente du travail des salariés du secteur marchand non agricole et ESMNA→ENS un effet de champ, qui permet de passer de la productivité des
+salariés SMNA à la productivité de l’ensemble des personnes en emploi dans l’ensemble des branches.
+
+La croissance potentielle s’écrit donc y = pL,SMNA e + SMNA→ENS + l
+
+et
+
+l’output
+
+gap
+
+OG
+
+=
+
+ln
+
+PL ,SMNA P*
+L,SMNA
+
+ + ln
+
+E SMNA→ ENS E*
+SMNA→ENS
+
+ + ln
+
+L L*
+
+ 
+
+où
+
+les
+
+variables
+
+en
+
+minuscules désignent les taux de croissance de celles en majuscules et * leur niveau
+
+potentiel. Pour chacune de ces composantes, le niveau potentiel doit être estimé.
+
+Pour la France, une équation de comportement est utilisée pour prévoir l’emploi salarié des branches marchandes non agricoles à partir de ses déterminants usuels, la productivité SMNA, l’évolution de la VA et l’emploi passé. Elle est constituée de deux équations, une caractérisant le long terme et une caractérisant le court terme, au sein d’un modèle à correction d’erreur sur données trimestrielles.
+
+À long terme, la productivité du travail corrigée des politiques de l’emploi évolue selon une tendance estimée à 1,4 % depuis le début des années 1990, mais qui était plus élevée auparavant.
+ln(VA) − ln(SAL') = a1 + a2 × T1 + a3 × T2
+où ln(SAL’) désigne l’emploi salarié des branches marchandes, corrigé des politiques de l’emploi. T1 et T2 représentent les tendances de productivité, avant et à partir du 1er trimestre 1990.
+
+39
+
+À court terme, le taux de croissance de l’emploi salarié corrigé des politiques de l’emploi dépend des fluctuations de la VA, de l’emploi passé, ainsi que d’une force de rappel, qui tend à ramener les évolutions de l’emploi vers ce qu’indiquent ses déterminants de long terme.
+sal'= b1 + b2 × sal'(−1) + b3 × va + b4 (ln(SAL'(−1)) − ln(VA(−1)) + a1 + a2 ×T1(−1) + a3 ×T2 (−1))
+
+Le modèle est estimé en deux étapes et fournit les coefficients suivants dans le cas de la
+France : a1 = 2,5 , a2 = 0,62 % , a3 = 0,34 % , de sorte que la tendance de productivité
+est dite « coudée » avec une croissance trimestrielle de 0,62 % avant 1990 et de 0,34 % depuis.
+
+b1 = −0,00078 , b2 = 0,44 , b3 = 0,27 et b4 = −0,10
+
+En réécrivant l’équation de sorte à faire apparaître la productivité apparente du travail
+corrigée des politiques de l’emploi ln(VA) − ln(SAL') , on a :
+
+ln(VA(−1))
+
+−
+
+ln(SAL' (−1))
+
+=
+
+a1
+
++
+
+a2
+
+× T1 (−1)
+
++
+
+a3
+
+× T2 (−1)
+
++
+
+1 b4
+
+(−
+
+sal'+b1
+
++
+
+b2
+
+×
+
+sal ' (−1)
+
++
+
+b3
+
+× va)
+
+Il est possible de déduire de cette équation une productivité potentielle du travail, en prenant
+
+les valeurs potentielles de ses déterminants5 :
+
+• ln(SAL’) est lissé à l’aide d’un filtre HP pour obtenir une approximation de son potentiel
+
+sur la période, dont on déduit son taux de croissance sal'*
+
+• va* peut être déduit au premier ordre de la relation de long terme
+
+va* = a2 × ∆T1 + a3 × ∆T2 + sal'* .
+
+On en déduit (ln(VA) − ln(SAL'))* la productivité potentielle corrigée des politiques de
+l’emploi. Les emplois aidés sont ensuite réintégrés dans l’équation pour obtenir une productivité potentielle du secteur marchand (y compris effet des politiques de l’emploi). Et on intègre les résidus sur toute la période même s’ils captent d’autres phénomènes que les évolutions de la productivité potentielle ; les résidus s’apparentant à un bruit blanc en temps normal, ils n’ont donc un effet notable sur la croissance potentielle qu’en 2009-2010.
+
+Ainsi, le niveau de la productivité potentielle s’écrit, à partir de 1990 :
+
+∑ (ln(VA) − ln(SAL))*
+
+=
+
+a1
+
++
+
+a2
+
+× T1
+
++
+
+a3
+
+× T2
+
++
+
+b1
+
++ b3a3 b4
+
++
+
+b2
+
++ b3 b4
+
+−1 sal'* +
+
+ε − ln L'
+
+où ε représente ici l’évolution de la productivité observée qui n’est pas expliquée par ses
+∑ déterminants ; ε est donc le cumul des résidus de l’équation. ln L' représente l’effet des
+politiques de l’emploi et relie l’emploi total et l’emploi corrigé des politiques de l’emploi avec
+la relation suivante : ln SAL' = ln SAL − ln L'
+
+L’équation d’emploi permet ainsi d’estimer une productivité potentielle sur le secteur marchand. Un effet champ permet en outre de passer d’une telle productivité à celle de l’ensemble de l’économie (cf. Figure 30). L’effet champ signifie que la productivité de l’ensemble de l’économie est égale à 90 % de celle du secteur marchand non agricole (la productivité dans les branches non marchandes serait plus faible en niveau d’une part parce qu’elles sont essentiellement constituées de services, moins productifs, mais aussi en raison des hypothèses de comptabilité nationale qui sous-tendent l’évaluation de la VA dans ces
+
+5 En raison de l’absence d’homogénéité dynamique (b2 + b3 n’est pas égal à 1), il n’est pas possible de supposer que la productivité potentielle se réduit à celle donnée par l’équation de long terme.
+
+40
+
+branches). Seule la partie tendancielle de cet effet champ est supposée structurelle, calculée comme la tendance sur la période 1993-2013. Lorsque l’effet champ s’écarte de cette tendance, cela alimente l’output gap. L’effet champ est particulièrement creusé en 2012 et 2013 et s’écarte de sa tendance parce que la répartition entre l’emploi privé et public se serait déformé au profit du public. D’une part l’emploi privé aurait reculé, d’autre part, l’emploi public se serait maintenu, soutenu de plus par des emplois aidés, généralement peu qualifiés et à faible productivité. Cette déformation de la composition de l’emploi tirerait la productivité de l’ensemble de l’économie vers le bas sur les dernières années, mais cette déformation est ici supposée conjoncturelle.
+Enfin l’emploi potentiel est le même que celui utilisé pour l’approche (A), hormis le fait qu’il s’agit d’un emploi potentiel en nombre de personnes physiques et non en nombre d’heures.
+
+L*
+
+=
+
+POP1*5− 64
+
+×
+
+TX
+
+* act
+
+× (1 − U * )
+
+90%
+
+Figure 30 : Effet champ effectif et tendanciel
+
+89%
+
+88%
+
+87%
+effet champ effectif
+
+86%
+
+effet champ tendanciel
+
+85% 1990
+
+1994
+
+1998
+
+2002
+
+2006
+
+2010
+
+B.3. Équation d’emploi pour la zone euro
+La fonction de production s’écrit ici Y = PL,Sal × ESal→Tot × L où L est le nombre de personnes en emploi, PL,Sal la productivité apparente du travail des salariés (toutes branches) et ESal→Tot un effet de champ, uniquement sur l’emploi, qui permet de passer de
+la productivité des salariés à la productivité de l’ensemble des personnes en emploi (y compris non-salariés).
+Une équation d’emploi est utilisée pour l’étude de la conjoncture de la zone euro. Cette équation est proche de celle utilisée pour la France, elle est toutefois plus simple, notamment parce qu’elle ne corrige pas des politiques de l’emploi.
+L’équation permet de simuler l’emploi salarié (toutes branches) de la zone euro à partir de ses déterminants usuels, l’évolution du PIB, l’évolution de l’emploi salarié à la période précédente et une force de rappel qui assure la cohérence entre les évolutions de l’emploi et celles de la productivité du travail à long terme. L’équation est ici estimée en une seule étape et s’écrit, en données trimestrielles :
+∆sal = 0,56 + 0,20 × ∆pib + 0,51× ∆sal(−1) − 0,076 × (sal(−1) − pib(−1) + 0,00198 × t1(−1))
+où ∆ pib est le taux de croissance du PIB et ∆ sal celui de l’emploi salarié et t1 une
+tendance de gains de productivité de 0,2 % par trimestre, soit 0,8 % en rythme annuel.
+Comme pour la France, l’absence d’homogénéité dynamique oblige à faire quelques hypothèses pour en déduire la productivité potentielle qui sous-tend cette équation.
+
+41
+De même, la composante structurelle de l’effet champ est assimilée à sa tendance sur longue période, et estimée par une régression linéaire. L’effet champ est cette fois croissant, reflétant le fait que l’emploi non salarié augmente moins vite que l’emploi salarié en zone euro.
+Enfin, comme dans le cas de la France, l’emploi potentiel est le même que celui utilisé dans l’approche structurelle (A) pour la zone euro, à l’exception du fait qu’il s’agit d’un emploi en personnes physiques et non en heures.
+
+42
+C. L’approche semi-structurelle
+C.1. Test de robustesse : ajout d’une variable financière (crédit au secteur privé)
+Borio et al. (2013) proposent d’intégrer des variables financières pour capter des déséquilibres de la sphère financière. Dans le cas français, la modélisation est donc enrichie avec l’ajout d’une équation de mesure liant le taux de croissance du stock de crédit au secteur privé non financier (entreprises non financières, ménages et ISBLSM ; réel, déflateur du PIB) à l’output gap :
+∆crédit = 4,2 % + 1,2 x OG + ecr
+(2,5) (2,8)
+La Figure 31(e) illustre la bonne corrélation entre l’output gap et le crédit distribué au secteur privé. Cependant, les estimations des autres paramètres du modèle sont globalement inchangées, et la croissance potentielle et l’écart de production sont très peu modifiés. Dans le cas de la France, l’ajout de cette variable financière ne modifie donc pas le diagnostic établi sans données financières.
+Figure 31 : France - Output Gap et (a) inflation sous jacente, (b) chômage conjoncturel (U-U*), (c) TUC, (d) indicateur synthétique du climat économique et (e) taux de croissance du crédit
+réel au secteur privé
+
+43
+
+C.2. Estimations en temps réel : une méthode sujette à révisions
+Une façon d’illustrer la fragilité de l’estimation aux bords consiste à se placer dans un cadre d’analyse en « temps réel ». À partir de la même spécification et dans le cas de la France, la relation est estimée avec l’information disponible en fin d’année, pour chaque année de 2007 à 2013. En particulier, sont intégrées les prévisions d’automne de PIB et de chômage de la Commission européenne pour l’année suivante.
+Les estimations de croissance potentielle et d’output gap jusqu’en 2008 (cf. Figure 32) et à partir de 2009 sont assez différentes entre elles, les coefficients du modèle étant fortement révisés au moment de l’avènement de la grande récession. En revanche, le modèle est plutôt stable depuis 2009. Les différentes estimations restent dans un intervalle relativement étroit, d’une largeur d’1 point pour la croissance potentielle et d’1½ pour l’output gap. Enfin, les intervalles de confiance s’élargissent en fin de période, ce qui reflète le manque d’information sur l’année 2014 (TUC, climat des affaires, inflation …).
+
+Figure 32 : France - Estimations en temps réel
+
+croissance potentielle
+
+output gap
+
+3.5% 3.0% 2.5% 2.0%
+
+3%
+
+estimations en 2007-2008
+
+2%
+
+1%
+
+IC95%
+
+0%
+
+IC95%
+
+estimations 2009 et suivantes
+
+1.5%
+
+-1%
+
+1.0%
+
+-2%
+
+0.5% 0.0%
+
+estimations 2009 et suivantes
+
+-0.5% 2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+-3%
+-4%
+-5% 2000
+
+estimations en 2007-2008 2002 2004 2006
+
+2008
+
+2010
+
+2012
+
+Note de lecture : Les intervalles de confiance sont issus de l’estimation sur la période 1970-2014.
+
+44
+
+D. L’approche directe
+
+D.1. Normalisation et rétropolation de l’output gap
+La composante principale issue de l’ACP ne peut pas être utilisée directement : elle doit au préalable être normalisée (en moyenne et en variance) à l’aide d’une estimation de l’output gap donnée par ailleurs sur le passé, à l’image de ce que fait l’OBR. En l’occurrence, l’output gap de la méthode structurelle est utilisé.
+
+Les variables ayant trait au secteur des services (insuffisance de la demande et difficultés de recrutement) ne débutant qu’en 2004, il est possible de faire l’ACP uniquement sur les 10 autres indicateurs, afin de gagner un peu de recul temporel et obtenir une série qui commence en 1997 (cf. Figure 33). Sur la période commune, les deux séries estimées sont très proches. L’output gap finalement retenu est une combinaison de ces deux séries, à l’image de ce que fait l’OBR : il correspond à celui obtenu à partir des 12 indicateurs à partir de 2007, et à partir des 10 indicateurs (hors secteur des services) entre 1997 et 2006.
+
+Figure 33 : Output gap avec les 12 indicateurs, ou avec 10 indicateurs seulement (France)
+3%
+
+2%
+
+1%
+
+0%
+
+-1% -2% -3% -4%
+1997
+
+1999
+
+Sans indicateurs du secteur des services (depuis 1997) Avec indicateurs du secteur des services (depuis 2004)
+2001 2003 2005 2007
+
+2009
+
+2011
+
+2013
+
+D.2. Une mesure de l’incertitude en faisant varier le jeu d’indicateurs
+L’approche directe donne un output gap qui est fonction du jeu d’indicateurs retenus. Les indicateurs peuvent être répartis en 4 groupes :
+- les indicateurs de prix (3 : inflation, salaire horaire et prix immobiliers) ;
+- les indicateurs de demande sur le marché des biens et services (4 : TUC dans l’industrie et la construction, insuffisance de la demande dans l’industrie et les services)
+- les indicateurs relatifs au marché du travail (3 : chômage, difficultés de recrutement dans l’industrie et les services) ;
+- les autres indicateurs (2 : taux d’investissement et défaillances d’entreprises).
+En choisissant à chaque fois une seule variable de chaque groupe et en réalisant l’ACP sur chacune de ces listes de 4 indicateurs, on obtient alors 3x4x3x2=72 estimations d’output gap, fournissant ainsi une borne haute et une borne basse de l’estimation par l’approche directe. Ces 72 jeux d’indicateurs conduisent à établir une marge d’incertitude sur l’output
+
+45
+
+gap d’en moyenne presque 3 points de PIB et pouvant atteindre 4 points de PIB dans le cas de la France (cf. Figure 34).
+Figure 34 : marge d’incertitude sur l’output gap d’après la méthode d’estimation directe (France)
+
+4% 3% 2% 1% 0% -1% -2% -3% -4% -5%
+1997
+
+1999
+
+liste a priori (12 indicateurs) 2001 2003 2005 2007 2009
+
+2011
+
+2013
+
+Note : en pointillés sont représentées les bornes maximales et minimales.
+
+46
+
+E. Les estimations en base 2010
+Une partie des comptes nationaux annuels a été publiée en base 2010 au moment de la rédaction de ce document de travail. Le taux de croissance du PIB a été rehaussé de 0,2 point sur la période récente (de 2009 à 2013), et de 0,1 point entre 1993 et 2007 (cf. Figure 35). On peut donc s’attendre à ce qu’en nouvelle base, la croissance potentielle soit aussi supérieure de 0,2 point depuis la crise. Les données ne sont pas toutes disponibles pour nous permettre de mettre à jour les quatre estimations en nouvelle base. Les séries de capital sont disponibles plus tardivement. Les deux approches (C) et (D) peuvent toutefois être mises à jour.
+
+Figure 35 : France - Croissance effective, bases 2010 et 2005
+8%
+
+6%
+
+4%
+
+2%
+
+08 %%
+6%
+-24 %%
+
+2%
+-4% 0% 1970 -2%
+
+0.4% -4 % 19 70
+
+19 75
+
+0.2%
+
+0.0%
+
+-0.2%1970
+
+-0.4%
+
+-0.6%
+
+1975 1980 1985 1990
+
+19 8 0
+
+19 8 5
+
+19 9 0
+
+19 9 5
+
+2000
+
+2005
+
+1975 1980 1985 1990
+
+écart base 2010- base 2005
+
+1995
+2 0 10
+
+0 .4% 0 .3% 0 .2% 0 .1% 0 .0% - 0 .1% -0 .2 %
+2000 -0 .3 %
+-0 .4 % -0 .5%
+
+1995 2000
+
+base 2005
+
+2005 2010 2005 2010 base 2010
+
+Que ce soit avec la méthode (C) ou la méthode (D), l’output gap est globalement inchangé en nouvelle base (cf. Figure 36 et Figure 37). La croissance potentielle se retrouve donc rehaussée d’autant que la croissance effective, d’un peu moins de +0,2 point en moyenne par an depuis la crise.
+En ce qui concerne l’approche directe (D), la majorité des 12 indicateurs de déséquilibre retenus sont issus d’enquêtes de conjoncture et ne sont donc pas révisés. Seul le taux d’investissement l’est, à la baisse. L’output gap obtenu est ainsi identique à celui montré en partie IV.2, il est en particulier toujours estimé à -2,9 points de PIB en 2013. La croissance potentielle se déduit alors de la nouvelle série de PIB effectif et de cet output gap. Sur la période 2011-2013, la croissance potentielle issue de l’approche (D) serait égale à +1,0 % en moyenne en nouvelle base, contre +0,8 % en base 2005 (cf. Figure 37).
+
+47
+
+Figure 36 : Approche (C) : France - croissance potentielle et output gap, bases 2010 et 2005
+
+3.5% 3.0% 2.5% 2.0%
+
+5%
+
+Croissance potentielle
+
+4%
+
+3%
+
+2%
+
+1%
+
+Output gap
+
+1.5%
+
+0%
+
+7%
+16.%0%
+5%
+04.%5%
+3%
+02.%0% 1% 1978 1983 1988 1993 1998 2003 2008 2013
+
+-1%
+
+0 .3% 0 .2%
+
+-2% -3%
+
+0 .2% 0 .1% 0 .1%
+
+0 .0%
+-4% - 0 .1% 1978 1983 1988 1993 1998 2003 2008 2013 - 0 .1%
+
+0.20 %519%70
+
+19 75
+
+0.20%
+
+0.15%
+
+0.10%
+
+0.05%
+
+0.00% -0.05% 1978 1983
+
+-0.10%
+
+19 8 0
+1988
+
+19 8 5
+1993
+
+19 9 0
+
+19 9 5
+
+2000
+
+1998 2003 2008 2013
+
+0.2% 2 0 0 5
+
+2 0 10
+
+0.1%
+
+-0.2 %
+
+0.0% -0.1% 1978 1983 1988
+
+-0.2%
+
+-0.3%
+
+1993
+
+1998
+
+2003
+
+2008 2013
+
+écart base 2010- base 2005
+
+base 2005
+
+base 2010
+
+Figure 37 : Approche (D) : France - croissance potentielle et output gap, bases 2010 et 2005
+
+3,5%
+3,0%
+2,5%
+2,0%
+1,5%
+4%
+13,%0%
+3%
+02,%5%
+2%
+01,%0% 1% 1998 0,40 %0%19 9 7 0,30% 0,20% 0,10% 0,00% -0,10% 1998 -0,20% -0,30%
+
+2%
+Croissance potentielle
+1%
+
+Output gap
+
+0%
+
+-1%
+
+2003
+2002
+
+-2%
+
+-3%
+
+2008
+
+-4%
+
+2013
+
+1997
+
+2007
+
+0,2% 2 0 12
+
+0,1%
+
+0 ,4% 0 ,3% 0 ,2% 0 ,1% 0 ,0% - 0 ,1%
+- 0 ,2 %2002
+-0,3 %
+
+2003
+
+2008
+
+0,0%
+
+2013
+
+1997 -0,1%
+
+2002
+
+-0,2%
+
+écart base 2010- base 2005
+
+base 2005
+
+2007 2007 base 2010
+
+2012 2012
+
+Liste des documents de travail de la Direction des Études et Synthèses Économiques
+
+G 9001 G 9002
+G 9003 G 9004 G 9005 G 9101 G 9102 G 9103 G 9104
+G 9105
+G 9106 G 9107 G 9108 G 9109 G 9110 G 9111 G 9112
+G 9113
+G 9201 G 9202
+
+J. FAYOLLE et M. FLEURBAEY Accumulation, profitabilité et endettement des entreprises
+
+H. ROUSSE Détection et effets de la multicolinéarité dans les modèles linéaires ordinaires - Un prolongement de la réflexion de BELSLEY, KUH et WELSCH
+
+P. RALLE et J. TOUJAS-BERNATE Indexation des salaires : la rupture de 1983
+
+D. GUELLEC et P. RALLE Compétitivité, croissance et innovation de produit
+
+P. RALLE et J. TOUJAS-BERNATE Les conséquences de la désindexation. Analyse dans une maquette prix-salaires
+
+Équipe AMADEUS Le modèle AMADEUS - Première partie Présentation générale
+
+J.L. BRILLET Le modèle AMADEUS - Deuxième partie Propriétés variantielles
+
+D. GUELLEC et P. RALLE Endogenous growth and product innovation
+
+H. ROUSSE Le modèle AMADEUS - Troisième partie - Le commerce extérieur et l'environnement international
+
+H. ROUSSE Effets de demande et d'offre dans les résultats du commerce extérieur manufacturé de la France au cours des deux dernières décennies
+
+B. CREPON Innovation, taille et concentration : causalités et dynamiques
+
+B. AMABLE et D. GUELLEC Un panorama des théories de la croissance endogène
+
+M. GLAUDE et M. MOUTARDIER Une évaluation du coût direct de l'enfant de 1979 à 1989
+
+P. RALLE et alii France - Allemagne : performances économiques comparées
+
+J.L. BRILLET Micro-DMS
+
+NON PARU
+
+A. MAGNIER Effets accélérateur et multiplicateur en France depuis 1970 : quelques résultats empiriques
+
+B. CREPON et G. DUREAU Investissement en recherche-développement : analyse de causalités dans un modèle d'accélérateur généralisé
+
+J.L. BRILLET, H. ERKEL-ROUSSE, J. TOUJASBERNATE "France-Allemagne Couplées" - Deux économies vues par une maquette macro-économétrique
+
+W.J. ADAMS, B. CREPON, D. ENCAOUA Choix technologiques et stratégies de dissuasion d'entrée
+
+J. OLIVEIRA-MARTINS, J. TOUJAS-BERNATE
+
+G 9203
+G 9204 G 9205 G 9206 G 9207 G 9208 G 9209
+G 9301 G 9302 G 9303 G 9304 G 9305 G 9306 G 9307 G 9308 G 9309 G 9310 G 9311
+
+Macro-economic import functions with imperfect competition - An application to the E.C. Trade
+I. STAPIC Les échanges internationaux de services de la France dans le cadre des négociations multilatérales du GATT Juin 1992 (1ère version) Novembre 1992 (version finale)
+P. SEVESTRE L'économétrie sur données individuellestemporelles. Une note introductive
+H. ERKEL-ROUSSE Le commerce extérieur et l'environnement international dans le modèle AMADEUS (réestimation 1992)
+N. GREENAN et D. GUELLEC Coordination within the firm and endogenous growth
+A. MAGNIER et J. TOUJAS-BERNATE Technology and trade: empirical evidences for the major five industrialized countries
+B. CREPON, E. DUGUET, D. ENCAOUA et P. MOHNEN Cooperative, non cooperative R & D and optimal patent life
+B. CREPON et E. DUGUET Research and development, competition and innovation: an application of pseudo maximum likelihood methods to Poisson models with heterogeneity
+J. TOUJAS-BERNATE Commerce international et concurrence imparfaite : développements récents et implications pour la politique commerciale
+Ch. CASES Durées de chômage et comportements d'offre de travail : une revue de la littérature
+H. ERKEL-ROUSSE Union économique et monétaire : le débat économique
+N. GREENAN - D. GUELLEC / G. BROUSSAUDIER - L. MIOTTI Innovation organisationnelle, dynamisme technologique et performances des entreprises
+P. JAILLARD Le traité de Maastricht : présentation juridique et historique
+J.L. BRILLET Micro-DMS : présentation et propriétés
+J.L. BRILLET Micro-DMS - variantes : les tableaux
+S. JACOBZONE Les grands réseaux publics français dans une perspective européenne
+L. BLOCH - B. CŒURE Profitabilité de l'investissement productif et transmission des chocs financiers
+J. BOURDIEU - B. COLIN-SEDILLOT Les théories sur la structure optimale du capital : quelques points de repère
+J. BOURDIEU - B. COLIN-SEDILLOT Les décisions de financement des entreprises
+
+ii
+
+G 9312 G 9313
+G 9314 G 9315 G 9316 G 9317 G 9318 G 9319
+G 9401 G 9402
+G 9403 G 9404 G 9405 G 9406 G 9407 G 9408
+G 9409 G 9410 G 9411
+
+françaises : une évaluation empirique des théories de la structure optimale du capital
+L. BLOCH - B. CŒURÉ Q de Tobin marginal et transmission des chocs financiers
+Équipes Amadeus (INSEE), Banque de France, Métric (DP) Présentation des propriétés des principaux modèles macroéconomiques du Service Public
+B. CREPON - E. DUGUET Research & Development, competition and innovation
+B. DORMONT Quelle est l'influence du coût du travail sur l'emploi ?
+D. BLANCHET - C. BROUSSE Deux études sur l'âge de la retraite
+D. BLANCHET Répartition du travail dans une population hétérogène : deux notes
+D. EYSSARTIER - N. PONTY AMADEUS - an annual macro-economic model for the medium and long term
+G. CETTE - Ph. CUNÉO - D. EYSSARTIER J. GAUTIÉ Les effets sur l'emploi d'un abaissement du coût du travail des jeunes
+D. BLANCHET Les structures par âge importent-elles ?
+J. GAUTIÉ Le chômage des jeunes en France : problème de formation ou phénomène de file d'attente ? Quelques éléments du débat
+P. QUIRION Les déchets en France : éléments statistiques et économiques
+D. LADIRAY - M. GRUN-REHOMME Lissage par moyennes mobiles - Le problème des extrémités de série
+V. MAILLARD Théorie et pratique de la correction des effets de jours ouvrables
+F. ROSENWALD La décision d'investir
+S. JACOBZONE Les apports de l'économie industrielle pour définir la stratégie économique de l'hôpital public
+L. BLOCH, J. BOURDIEU, B. COLIN-SEDILLOT, G. LONGUEVILLE Du défaut de paiement au dépôt de bilan : les banquiers face aux PME en difficulté
+D. EYSSARTIER, P. MAIRE Impacts macro-économiques de mesures d'aide au logement - quelques éléments d'évaluation
+F. ROSENWALD Suivi conjoncturel de l'investissement
+C. DEFEUILLEY - Ph. QUIRION Les déchets d'emballages ménagers : une analyse économique des politiques française et allemande
+
+G 9412
+G 9413 G 9414 G 9501 G 9502 G 9503
+G 9504
+G 9505 G 9505
+Bis G 9506
+G 9507 G 9601
+G 9602 G 9603 G 9604 G 9605
+G 9606
+G 9607
+
+J. BOURDIEU - B. CŒURÉ B. COLIN-SEDILLOT Investissement, incertitude et irréversibilité Quelques développements récents de la théorie de l'investissement
+B. DORMONT - M. PAUCHET L'évaluation de l'élasticité emploi-salaire dépendelle des structures de qualification ?
+I. KABLA Le Choix de breveter une invention
+J. BOURDIEU - B. CŒURÉ - B. SEDILLOT Irreversible Investment and Uncertainty: When is there a Value of Waiting?
+L. BLOCH - B. CŒURÉ Imperfections du marché du crédit, investissement des entreprises et cycle économique
+D. GOUX - E. MAURIN Les transformations de la demande de travail par qualification en France Une étude sur la période 1970-1993
+N. GREENAN Technologie, changement organisationnel, qualifications et emploi : une étude empirique sur l'industrie manufacturière
+D. GOUX - E. MAURIN Persistance des hiérarchies sectorielles de salaires: un réexamen sur données françaises
+D. GOUX - E. MAURIN Persistence of inter-industry wages differentials: a reexamination on matched worker-firm panel data
+S. JACOBZONE Les liens entre RMI et chômage, une mise en perspective NON PARU - article sorti dans Économie et Prévision n° 122 (1996) - pages 95 à 113
+G. CETTE - S. MAHFOUZ Le partage primaire du revenu Constat descriptif sur longue période
+Banque de France - CEPREMAP - Direction de la Prévision - Érasme - INSEE - OFCE Structures et propriétés de cinq modèles macroéconomiques français
+Rapport d’activité de la DESE de l’année 1995
+J. BOURDIEU - A. DRAZNIEKS L’octroi de crédit aux PME : une analyse à partir d’informations bancaires
+A. TOPIOL-BENSAÏD Les implantations japonaises en France
+P. GENIER - S. JACOBZONE Comportements de prévention, consommation d’alcool et tabagie : peut-on parler d’une gestion globale du capital santé ? Une modélisation microéconométrique empirique
+C. DOZ - F. LENGLART Factor analysis and unobserved component models: an application to the study of French business surveys
+N. GREENAN - D. GUELLEC La théorie coopérative de la firme
+
+iii
+
+G 9608 G 9609 G 9610 G 9611
+G 9612
+G 9613 G 9614 G 9701 G 9702 G 9703 G 9704 G 9705 G 9706 G 9707 G 9708 G 9709 G 9710 G 9711 G 9712
+G 9713
+
+N. GREENAN - D. GUELLEC Technological innovation and employment reallocation
+Ph. COUR - F. RUPPRECHT L’intégration asymétrique au sein du continent américain : un essai de modélisation
+S. DUCHENE - G. FORGEOT - A. JACQUOT Analyse des évolutions récentes de la productivité apparente du travail
+X. BONNET - S. MAHFOUZ The influence of different specifications of wages-prices spirals on the measure of the NAIRU: the case of France
+PH. COUR - E. DUBOIS, S. MAHFOUZ, J. PISANI-FERRY The cost of fiscal retrenchment revisited: how strong is the evidence?
+A. JACQUOT Les flexions des taux d’activité sont-elles seulement conjoncturelles ?
+ZHANG Yingxiang - SONG Xueqing Lexique macroéconomique Français-Chinois
+J.L. SCHNEIDER La taxe professionnelle : éléments de cadrage économique
+J.L. SCHNEIDER Transition et stabilité politique d’un système redistributif
+D. GOUX - E. MAURIN Train or Pay: Does it Reduce Inequalities to Encourage Firms to Train their Workers?
+P. GENIER Deux contributions sur dépendance et équité
+E. DUGUET - N. IUNG R & D Investment, Patent Life and Patent Value An Econometric Analysis at the Firm Level
+M. HOUDEBINE - A. TOPIOL-BENSAÏD Les entreprises internationales en France : une analyse à partir de données individuelles
+M. HOUDEBINE Polarisation des activités et spécialisation des départements en France
+E. DUGUET - N. GREENAN Le biais technologique : une analyse sur données individuelles
+J.L. BRILLET Analyzing a small French ECM Model
+J.L. BRILLET Formalizing the transition process: scenarios for capital accumulation
+G. FORGEOT - J. GAUTIÉ Insertion professionnelle des jeunes et processus de déclassement
+E. DUBOIS High Real Interest Rates: the Consequence of a Saving Investment Disequilibrium or of an insufficient Credibility of Monetary Authorities?
+Bilan des activités de la Direction des Études et Synthèses Économiques - 1996
+
+G 9714 G 9715 G 9716 G 9717 G 9718 G 9719 G 9720 G 9721 G 9722
+G 9723 G 9724
+G 9801 G 9802 G 9803 G 9804
+G 9805 G 9806 G 9807
+
+F. LEQUILLER Does the French Consumer Price Index Overstate Inflation?
+X. BONNET Peut-on mettre en évidence les rigidités à la baisse des salaires nominaux ? Une étude sur quelques grands pays de l’OCDE
+N. IUNG - F. RUPPRECHT Productivité de la recherche et rendements d’échelle dans le secteur pharmaceutique français
+E. DUGUET - I. KABLA Appropriation strategy and the motivations to use the patent system in France - An econometric analysis at the firm level
+L.P. PELÉ - P. RALLE Âge de la retraite : les aspects incitatifs du régime général
+ZHANG Yingxiang - SONG Xueqing Lexique macroéconomique français-chinois, chinois-français
+M. HOUDEBINE - J.L. SCHNEIDER Mesurer l’influence de la fiscalité sur la localisation des entreprises
+A. MOUROUGANE Crédibilité, indépendance et politique monétaire Une revue de la littérature
+P. AUGERAUD - L. BRIOT Les données comptables d’entreprises Le système intermédiaire d’entreprises Passage des données individuelles aux données sectorielles
+P. AUGERAUD - J.E. CHAPRON Using Business Accounts for Compiling National Accounts: the French Experience
+P. AUGERAUD Les comptes d’entreprise par activités - Le passage aux comptes - De la comptabilité d’entreprise à la comptabilité nationale - A paraître
+H. MICHAUDON - C. PRIGENT Présentation du modèle AMADEUS
+J. ACCARDO Une étude de comptabilité générationnelle pour la France en 1996
+X. BONNET - S. DUCHÊNE Apports et limites de la modélisation « Real Business Cycles »
+C. BARLET - C. DUGUET D. ENCAOUA - J. PRADEL The Commercial Success of Innovations An econometric analysis at the firm level in French manufacturing
+P. CAHUC - Ch. GIANELLA D. GOUX - A. ZILBERBERG Equalizing Wage Differences and Bargaining Power - Evidence form a Panel of French Firms
+J. ACCARDO - M. JLASSI La productivité globale des facteurs entre 1975 et 1996
+Bilan des activités de la Direction des Études et Synthèses Économiques - 1997
+
+iv
+
+G 9808 G 9809 G 9810
+G 9811
+G 9812 G 9813
+G 9814 G 9901
+G 9902 G 9903 G 9904 G 9905 G 9906
+G 9907 G 9908 G 9909 G 9910
+G 9911 G 9912 G 9912
+Bis
+
+A. MOUROUGANE Can a Conservative Governor Conduct an Accomodative Monetary Policy?
+X. BONNET - E. DUBOIS - L. FAUVET Asymétrie des inflations relatives et menus costs : tests sur l’inflation française
+E. DUGUET - N. IUNG Sales and Advertising with Spillovers at the firm level: Estimation of a Dynamic Structural Model on Panel Data
+J.P. BERTHIER Congestion urbaine : un modèle de trafic de pointe à courbe débit-vitesse et demande élastique
+C. PRIGENT La part des salaires dans la valeur ajoutée : une approche macroéconomique
+A.Th. AERTS L’évolution de la part des salaires dans la valeur ajoutée en France reflète-t-elle les évolutions individuelles sur la période 1979-1994 ?
+B. SALANIÉ Guide pratique des séries non-stationnaires
+S. DUCHÊNE - A. JACQUOT Une croissance plus riche en emplois depuis le début de la décennie ? Une analyse en comparaison internationale
+Ch. COLIN Modélisation des carrières dans Destinie
+Ch. COLIN Évolution de la dispersion des salaires : un essai de prospective par microsimulation
+B. CREPON - N. IUNG Innovation, emploi et performances
+B. CREPON - Ch. GIANELLA Wages inequalities in France 1969-1992 An application of quantile regression techniques
+C. BONNET - R. MAHIEU Microsimulation techniques applied to intergenerational transfers - Pensions in a dynamic framework: the case of France
+F. ROSENWALD L’impact des contraintes financières dans la décision d’investissement
+Bilan des activités de la DESE - 1998
+J.P. ZOYEM Contrat d’insertion et sortie du RMI Évaluation des effets d’une politique sociale
+Ch. COLIN - Fl. LEGROS - R. MAHIEU Bilans contributifs comparés des régimes de retraite du secteur privé et de la fonction publique
+G. LAROQUE - B. SALANIÉ Une décomposition du non-emploi en France
+B. SALANIÉ Une maquette analytique de long terme du marché du travail
+Ch. GIANELLA Une estimation de l’élasticité de l’emploi peu qualifié à son coût
+
+G 9913 G 9914 G 9915
+G 9916 G 9917 G 9918
+G 9919 G 2000/01 G 2000/02
+G 2000/03 G 2000/04 G 2000/05
+G 2000/06 G 2000/07 G 2000/08 G 2000/09 G 2000/10 G 2000/11 G2000/12 G2000/13
+
+Division « Redistribution et Politiques Sociales » Le modèle de microsimulation dynamique DESTINIE
+E. DUGUET Macro-commandes SAS pour l’économétrie des panels et des variables qualitatives
+R. DUHAUTOIS Évolution des flux d’emplois en France entre 1990 et 1996 : une étude empirique à partir du fichier des bénéfices réels normaux (BRN)
+J.Y. FOURNIER Extraction du cycle des affaires : la méthode de Baxter et King
+B. CRÉPON - R. DESPLATZ - J. MAIRESSE Estimating price cost margins, scale economies and workers’ bargaining power at the firm level
+Ch. GIANELLA - Ph. LAGARDE Productivity of hours in the aggregate production function: an evaluation on a panel of French firms from the manufacturing sector
+S. AUDRIC - P. GIVORD - C. PROST Évolution de l’emploi et des coûts par qualification entre 1982 et 1996
+R. MAHIEU Les déterminants des dépenses de santé : une approche macroéconomique
+C. ALLARD-PRIGENT - H. GUILMEAU A. QUINET The real exchange rate as the relative price of nontrables in terms of tradables: theoretical investigation and empirical study on French data
+J.-Y. FOURNIER L’approximation du filtre passe-bande proposée par Christiano et Fitzgerald
+Bilan des activités de la DESE - 1999
+B. CREPON - F. ROSENWALD Investissement et contraintes de financement : le poids du cycle Une estimation sur données françaises
+A. FLIPO Les comportements matrimoniaux de fait
+R. MAHIEU - B. SÉDILLOT Microsimulations of the retirement decision: a supply side approach
+C. AUDENIS - C. PROST Déficit conjoncturel : une prise en compte des conjonctures passées
+R. MAHIEU - B. SÉDILLOT Équivalent patrimonial de la rente et souscription de retraite complémentaire
+R. DUHAUTOIS Ralentissement de l’investissement : petites ou grandes entreprises ? industrie ou tertiaire ?
+G. LAROQUE - B. SALANIÉ Temps partiel féminin et incitations financières à l’emploi
+Ch. GIANELLA Local unemployment and wages
+B. CREPON - Th. HECKEL - Informatisation en France : une évaluation à partir de données individuelles
+
+v
+
+G2001/01
+G2001/02 G2001/03 G2001/04
+G2001/05 G2001/06 G2001/07 G2001/08 G2001/09 G2001/10 G2001/11 G2001/12
+G2001/13
+G2001/14 G2001/15 G2001/16 G2001/17
+
+- Computerization in France: an evaluation based on individual company data
+F. LEQUILLER - La nouvelle économie et la mesure
+de la croissance du PIB - The new economy and the measure
+ment of GDP growth
+S. AUDRIC La reprise de la croissance de l’emploi profite-telle aussi aux non-diplômés ?
+I. BRAUN-LEMAIRE Évolution et répartition du surplus de productivité
+A. BEAUDU - Th. HECKEL Le canal du crédit fonctionne-t-il en Europe ? Une étude de l’hétérogénéité des comportements d’investissement à partir de données de bilan agrégées
+C. AUDENIS - P. BISCOURP N. FOURCADE - O. LOISEL Testing the augmented Solow growth model: An empirical reassessment using panel data
+R. MAHIEU - B. SÉDILLOT Départ à la retraite, irréversibilité et incertitude
+Bilan des activités de la DESE - 2000
+J. Ph. GAUDEMET Les dispositifs d’acquisition à titre facultatif d’annuités viagères de retraite
+B. CRÉPON - Ch. GIANELLA Fiscalité, coût d’usage du capital et demande de facteurs : une analyse sur données individuelles
+B. CRÉPON - R. DESPLATZ Évaluation des effets des dispositifs d’allégements de charges sociales sur les bas salaires
+J.-Y. FOURNIER Comparaison des salaires des secteurs public et privé
+J.-P. BERTHIER - C. JAULENT R. CONVENEVOLE - S. PISANI Une méthodologie de comparaison entre consommations intermédiaires de source fiscale et de comptabilité nationale
+P. BISCOURP - Ch. GIANELLA Substitution and complementarity between capital, skilled and less skilled workers: an analysis at the firm level in the French manufacturing industry
+I. ROBERT-BOBEE Modelling demographic behaviours in the French microsimulation model Destinie: An analysis of future change in completed fertility
+J.-P. ZOYEM Diagnostic sur la pauvreté et calendrier de revenus : le cas du “Panel européen des ménages »
+J.-Y. FOURNIER - P. GIVORD La réduction des taux d’activité aux âges extrêmes, une spécificité française ?
+C. AUDENIS - P. BISCOURP - N. RIEDINGER Existe-t-il une asymétrie dans la transmission du prix du brut aux prix des carburants ?
+
+G2002/01 G2002/02 G2002/03 G2002/04
+G2002/05 G2002/06 G2002/07 G2002/08 G2002/09 G2002/10
+G2002/11 G2002/12 G2002/13 G2002/14
+G2002/15
+
+F. MAGNIEN - J.-L. TAVERNIER - D. THESMAR Les statistiques internationales de PIB par habitant en standard de pouvoir d’achat : une analyse des résultats
+Bilan des activités de la DESE - 2001
+B. SÉDILLOT - E. WALRAET La cessation d’activité au sein des couples : y at-il interdépendance des choix ?
+G. BRILHAULT - Rétropolation des séries de FBCF et calcul du
+capital fixe en SEC-95 dans les comptes nationaux français - Retropolation of the investment series (GFCF) and estimation of fixed capital stocks on the ESA-95 basis for the French balance sheets
+P. BISCOURP - B. CRÉPON - T. HECKEL - N. RIEDINGER How do firms respond to cheaper computers? Microeconometric evidence for France based on a production function approach
+C. AUDENIS - J. DEROYON - N. FOURCADE L’impact des nouvelles technologies de l’information et de la communication sur l’économie française - un bouclage macroéconomique
+J. BARDAJI - B. SÉDILLOT - E. WALRAET Évaluation de trois réformes du Régime Général d’assurance vieillesse à l’aide du modèle de microsimulation DESTINIE
+J.-P. BERTHIER Réflexions sur les différentes notions de volume dans les comptes nationaux : comptes aux prix d’une année fixe ou aux prix de l’année précédente, séries chaînées
+F. HILD Les soldes d’opinion résument-ils au mieux les réponses des entreprises aux enquêtes de conjoncture ?
+I. ROBERT-BOBÉE Les comportements démographiques dans le modèle de microsimulation Destinie - Une comparaison des estimations issues des enquêtes Jeunes et Carrières 1997 et Histoire Familiale 1999
+J.-P. ZOYEM La dynamique des bas revenus : une analyse des entrées-sorties de pauvreté
+F. HILD Prévisions d’inflation pour la France
+M. LECLAIR Réduction du temps de travail et tensions sur les facteurs de production
+E. WALRAET - A. VINCENT - Analyse de la redistribution intragénérationnelle dans le système de retraite des salariés du privé - Une approche par microsimulation - Intragenerational distributional analysis in the french private sector pension scheme - A microsimulation approach
+P. CHONE - D. LE BLANC - I. ROBERT-BOBEE Offre de travail féminine et garde des jeunes enfants
+
+vi
+
+G2002/16 G2003/01 G2003/02
+G2003/03 G2003/04
+G2003/05 G2003/06 G2003/07 G2003/08 G2003/09
+G2003/10 G2003/11 G2004/01 G2004/02 G2004/03 G2004/04 G2004/05
+
+F. MAUREL - S. GREGOIR Les indices de compétitivité des pays : interprétation et limites
+N. RIEDINGER - E.HAUVY Le coût de dépollution atmosphérique pour les entreprises françaises : Une estimation à partir de données individuelles
+P. BISCOURP et F. KRAMARZ Création d’emplois, destruction d’emplois et internationalisation des entreprises industrielles françaises : une analyse sur la période 19861992
+Bilan des activités de la DESE - 2002
+P.-O. BEFFY - J. DEROYON N. FOURCADE - S. GREGOIR - N. LAÏB B. MONFORT Évolutions démographiques et croissance : une projection macro-économique à l’horizon 2020
+P. AUBERT La situation des salariés de plus de cinquante ans dans le secteur privé
+P. AUBERT - B. CRÉPON Age, salaire et productivité La productivité des salariés décline-t-elle en fin de carrière ?
+H. BARON - P.O. BEFFY - N. FOURCADE - R. MAHIEU Le ralentissement de la productivité du travail au cours des années 1990
+P.-O. BEFFY - B. MONFORT Patrimoine des ménages, dynamique d’allocation et comportement de consommation
+P. BISCOURP - N. FOURCADE Peut-on mettre en évidence l’existence de rigidités à la baisse des salaires à partir de données individuelles ? Le cas de la France à la fin des années 90
+M. LECLAIR - P. PETIT Présence syndicale dans les firmes : quel impact sur les inégalités salariales entre les hommes et les femmes ?
+P.-O. BEFFY - X. BONNET - M. DARRACQPARIES - B. MONFORT MZE: a small macro-model for the euro area
+P. AUBERT - M. LECLAIR La compétitivité exprimée dans les enquêtes trimestrielles sur la situation et les perspectives dans l’industrie
+M. DUÉE - C. REBILLARD La dépendance des personnes âgées : une projection à long terme
+S. RASPILLER - N. RIEDINGER Régulation environnementale et choix de localisation des groupes français
+A. NABOULET - S. RASPILLER Les déterminants de la décision d’investir : une approche par les perceptions subjectives des firmes
+N. RAGACHE La déclaration des enfants par les couples non mariés est-elle fiscalement optimale ?
+
+G2004/06 G2004/07 G2004/08 G2004/09 G2004/10 G2004/11 G2004/12
+G2004/13 G2004/14 G2005/01 G2005/02 G2005/03 G2005/04 G2005/05 G2005/06 G2005/07 G2005/08 G2005/09
+
+M. DUÉE L’impact du chômage des parents sur le devenir scolaire des enfants
+P. AUBERT - E. CAROLI - M. ROGER New Technologies, Workplace Organisation and the Age Structure of the Workforce: Firm-Level Evidence
+E. DUGUET - C. LELARGE Les brevets accroissent-ils les incitations privées à innover ? Un examen microéconométrique
+S. RASPILLER - P. SILLARD Affiliating versus Subcontracting: the Case of Multinationals
+J. BOISSINOT - C. L’ANGEVIN - B. MONFORT Public Debt Sustainability: Some Results on the French Case
+S. ANANIAN - P. AUBERT Travailleurs âgés, nouvelles technologies et changements organisationnels : un réexamen à partir de l’enquête « REPONSE »
+X. BONNET - H. PONCET Structures de revenus et propensions différentes à consommer - Vers une équation de consommation des ménages plus robuste en prévision pour la France
+C. PICART Évaluer la rentabilité des sociétés non financières
+J. BARDAJI - B. SÉDILLOT - E. WALRAET Les retraites du secteur public : projections à l’horizon 2040 à l’aide du modèle de microsimulation DESTINIE
+S. BUFFETEAU - P. GODEFROY Conditions de départ en retraite selon l’âge de fin d’études : analyse prospective pour les générations 1945 à1974
+C. AFSA - S. BUFFETEAU L’évolution de l’activité féminine en France : une approche par pseudo-panel
+P. AUBERT - P. SILLARD Délocalisations et réductions d’effectifs dans l’industrie française
+M. LECLAIR - S. ROUX Mesure et utilisation des emplois instables dans les entreprises
+C. L’ANGEVIN - S. SERRAVALLE Performances à l’exportation de la France et de l’Allemagne - Une analyse par secteur et destination géographique
+Bilan des activités de la Direction des Études et Synthèses Économiques - 2004
+S. RASPILLER La concurrence fiscale : principaux enseignements de l’analyse économique
+C. L’ANGEVIN - N. LAÏB Éducation et croissance en France et dans un panel de 21 pays de l’OCDE
+N. FERRARI Prévoir l’investissement des entreprises Un indicateur des révisions dans l’enquête de conjoncture sur les investissements dans l’industrie.
+
+vii
+
+G2005/10 G2005/11 G2005/12
+G2005/13 G2005/14 G2005/15 G2005/16 G2006/01 G2006/02 G2006/03 G2006/04 G2006/05
+G2006/06 G2006/07 G2006/08 G2006/09 G2006/10
+
+P.-O. BEFFY - C. L’ANGEVIN Chômage et boucle prix-salaires : apport d’un modèle « qualifiés/peu qualifiés »
+B. HEITZ A two-states Markov-switching model of inflation in France and the USA: credible target VS inflation spiral
+O. BIAU - H. ERKEL-ROUSSE - N. FERRARI Réponses individuelles aux enquêtes de conjoncture et prévision macroéconomiques : Exemple de la prévision de la production manufacturière
+P. AUBERT - D. BLANCHET - D. BLAU The labour market after age 50: some elements of a Franco-American comparison
+D. BLANCHET - T. DEBRAND P. DOURGNON - P. POLLET L’enquête SHARE : présentation et premiers résultats de l’édition française
+M. DUÉE La modélisation des comportements démographiques dans le modèle de microsimulation DESTINIE
+H. RAOUI - S. ROUX Étude de simulation sur la participation versée aux salariés par les entreprises
+C. BONNET - S. BUFFETEAU - P. GODEFROY Disparités de retraite de droit direct entre hommes et femmes : quelles évolutions ?
+C. PICART Les gazelles en France
+P. AUBERT - B. CRÉPON -P. ZAMORA Le rendement apparent de la formation continue dans les entreprises : effets sur la productivité et les salaires
+J.-F. OUVRARD - R. RATHELOT Demographic change and unemployment: what do macroeconometric models predict?
+D. BLANCHET - J.-F. OUVRARD Indicateurs d’engagements implicites des systèmes de retraite : chiffrages, propriétés analytiques et réactions à des chocs démographiques types
+G. BIAU - O. BIAU - L. ROUVIERE Nonparametric Forecasting of the Manufacturing Output Growth with Firm-level Survey Data
+C. AFSA - P. GIVORD Le rôle des conditions de travail dans les absences pour maladie
+P. SILLARD - C. L’ANGEVIN - S. SERRAVALLE Performances comparées à l’exportation de la France et de ses principaux partenaires Une analyse structurelle sur 12 ans
+X. BOUTIN - S. QUANTIN Une méthodologie d’évaluation comptable du coût du capital des entreprises françaises : 19842002
+C. AFSA L’estimation d’un coût implicite de la pénibilité du travail chez les travailleurs âgés
+
+G2006/11 G2006/12 G2006/13
+G2006/14 G2006/15 G2007/01 G2007/02 G2007/03 G2007/04 G2007/05 G2007/06 G2007/07 G2007/08 G2007/09 G2007/10 G2007/11
+G2007/12 G2008/01 G2008/02 G2008/03
+
+C. LELARGE Les entreprises (industrielles) françaises sontelles à la frontière technologique ?
+O. BIAU - N. FERRARI Théorie de l’opinion Faut-il pondérer les réponses individuelles ?
+A. KOUBI - S. ROUX Une réinterprétation de la relation entre productivité et inégalités salariales dans les entreprises
+R. RATHELOT - P. SILLARD The impact of local taxes on plants location decision
+L. GONZALEZ - C. PICART Diversification, recentrage et poids des activités de support dans les groupes (1993-2000)
+D. SRAER Allègements de cotisations patronales et dynamique salariale
+V. ALBOUY - L. LEQUIEN Les rendements non monétaires de l’éducation : le cas de la santé
+D. BLANCHET - T. DEBRAND Aspiration à la retraite, santé et satisfaction au travail : une comparaison européenne
+M. BARLET - L. CRUSSON Quel impact des variations du prix du pétrole sur la croissance française ?
+C. PICART Flux d’emploi et de main-d’œuvre en France : un réexamen
+V. ALBOUY - C. TAVAN Massification et démocratisation de l’enseignement supérieur en France
+T. LE BARBANCHON The Changing response to oil price shocks in France: a DSGE type approach
+T. CHANEY - D. SRAER - D. THESMAR Collateral Value and Corporate Investment Evidence from the French Real Estate Market
+J. BOISSINOT Consumption over the Life Cycle: Facts for France
+C. AFSA Interpréter les variables de satisfaction : l’exemple de la durée du travail
+R. RATHELOT - P. SILLARD Zones Franches Urbaines : quels effets sur l’emploi salarié et les créations d’établissements ?
+V. ALBOUY - B. CRÉPON Aléa moral en santé : une évaluation dans le cadre du modèle causal de Rubin
+C. PICART Les PME françaises : rentables mais peu dynamiques
+P. BISCOURP - X. BOUTIN - T. VERGÉ The Effects of Retail Regulations on Prices Evidence form the Loi Galland
+Y. BARBESOL - A. BRIANT Économies d’agglomération et productivité des
+
+viii
+
+G2008/04 G2008/05 G2008/06 G2008/07 G2008/08 G2008/09 G2008/10 G2008/11 G2008/12
+G2008/13 G2009/01 G2009/02 G2009/03 G2009/04 G2009/05 G2009/06 G2009/07 G2009/08
+
+entreprises : estimation sur données individuelles françaises
+D. BLANCHET - F. LE GALLO Les projections démographiques : principaux mécanismes et retour sur l’expérience française
+D. BLANCHET - F. TOUTLEMONDE Évolutions démographiques et déformation du cycle de vie active : quelles relations ?
+M. BARLET - D. BLANCHET - L. CRUSSON Internationalisation et flux d’emplois : que dit une approche comptable ?
+C. LELARGE - D. SRAER - D. THESMAR Entrepreneurship and Credit Constraints Evidence from a French Loan Guarantee Program
+X. BOUTIN - L. JANIN Are Prices Really Affected by Mergers?
+M. BARLET - A. BRIANT - L. CRUSSON Concentration géographique dans l’industrie manufacturière et dans les services en France : une approche par un indicateur en continu
+M. BEFFY - É. COUDIN - R. RATHELOT Who is confronted to insecure labor market histories? Some evidence based on the French labor market transition
+M. ROGER - E. WALRAET Social Security and Well-Being of the Elderly: the Case of France
+C. AFSA Analyser les composantes du bien-être et de son évolution Une approche empirique sur données individuelles
+M. BARLET - D. BLANCHET T. LE BARBANCHON Microsimuler le marché du travail : un prototype
+P.-A. PIONNIER Le partage de la valeur ajoutée en France, 1949-2007
+Laurent CLAVEL - Christelle MINODIER A Monthly Indicator of the French Business Climate
+H. ERKEL-ROUSSE - C. MINODIER Do Business Tendency Surveys in Industry and Services Help in Forecasting GDP Growth? A Real-Time Analysis on French Data
+P. GIVORD - L. WILNER Les contrats temporaires : trappe ou marchepied vers l’emploi stable ?
+G. LALANNE - P.-A. PIONNIER - O. SIMON Le partage des fruits de la croissance de 1950 à 2008 : une approche par les comptes de surplus
+L. DAVEZIES - X. D’HAULTFOEUILLE Faut-il pondérer ?… Ou l’éternelle question de l’économètre confronté à des données d’enquête
+S. QUANTIN - S. RASPILLER - S. SERRAVALLE Commerce intragroupe, fiscalité et prix de transferts : une analyse sur données françaises
+M. CLERC - V. MARCUS Élasticités-prix des consommations énergétiques des ménages
+
+G2009/09 G2009/10 G2009/11
+G2009/12 G2009/13 G2009/14 G2009/15 G2010/01
+G2010/02 G2010/03 G2010/04 G2010/05 G2010/06
+G2010/07 G2010/08 G2010/09 G2010/10
+
+G. LALANNE - E. POULIQUEN - O. SIMON Prix du pétrole et croissance potentielle à long terme
+D. BLANCHET - J. LE CACHEUX - V. MARCUS Adjusted net savings and other approaches to sustainability: some theoretical background
+V. BELLAMY - G. CONSALES - M. FESSEAU S. LE LAIDIER - É. RAYNAUD Une décomposition du compte des ménages de la comptabilité nationale par catégorie de ménage en 2003
+J. BARDAJI - F. TALLET Detecting Economic Regimes in France: a Qualitative Markov-Switching Indicator Using Mixed Frequency Data
+R. AEBERHARDT - D. FOUGÈRE R. RATHELOT Discrimination à l’embauche : comment exploiter les procédures de testing ?
+Y. BARBESOL - P. GIVORD - S. QUANTIN Partage de la valeur ajoutée, approche par données microéconomiques
+I. BUONO - G. LALANNE The Effect of the Uruguay round on the Intensive and Extensive Margins of Trade
+C. MINODIER Avantages comparés des séries des premières valeurs publiées et des séries des valeurs révisées - Un exercice de prévision en temps réel de la croissance trimestrielle du PIB en France
+V. ALBOUY - L. DAVEZIES - T. DEBRAND Health Expenditure Models: a Comparison of Five Specifications using Panel Data
+C. KLEIN - O. SIMON Le modèle MÉSANGE réestimé en base 2000 Tome 1 – Version avec volumes à prix constants
+M.-É. CLERC - É. COUDIN L’IPC, miroir de l’évolution du coût de la vie en France ? Ce qu’apporte l’analyse des courbes d’Engel
+N. CECI-RENAUD - P.-A. CHEVALIER Les seuils de 10, 20 et 50 salariés : impact sur la taille des entreprises françaises
+R. AEBERHARDT - J. POUGET National Origin Differences in Wages and Hierarchical Positions - Evidence on French FullTime Male Workers from a matched EmployerEmployee Dataset
+S. BLASCO - P. GIVORD Les trajectoires professionnelles en début de vie active : quel impact des contrats temporaires ?
+P. GIVORD Méthodes économétriques pour l’évaluation de politiques publiques
+P.-Y. CABANNES - V. LAPÈGUE E. POULIQUEN - M. BEFFY - M. GAINI Quelle croissance de moyen terme après la crise ?
+I. BUONO - G. LALANNE La réaction des entreprises françaises à la baisse des tarifs douaniers étrangers
+
+ix
+
+G2010/11
+G2010/12 G2010/13 G2010/14 G2010/15 G2010/16 G2010/17 G2010/18 G2011/01 G2011/02 G2011/03
+G2011/04 G2011/05
+G2011/06 G2011/07 G2011/08 G2011/09
+
+R. RATHELOT - P. SILLARD L’apport des méthodes à noyaux pour mesurer la concentration géographique - Application à la concentration des immigrés en France de 1968 à 1999
+M. BARATON - M. BEFFY - D. FOUGÈRE Une évaluation de l’effet de la réforme de 2003 sur les départs en retraite - Le cas des enseignants du second degré public
+D. BLANCHET - S. BUFFETEAU - E. CRENNER S. LE MINEZ Le modèle de microsimulation Destinie 2 : principales caractéristiques et premiers résultats
+D. BLANCHET - E. CRENNER Le bloc retraites du modèle Destinie 2 : guide de l’utilisateur
+M. BARLET - L. CRUSSON - S. DUPUCH F. PUECH Des services échangés aux services échangeables : une application sur données françaises
+M. BEFFY - T. KAMIONKA Public-private wage gaps: is civil-servant human capital sector-specific?
+P.-Y. CABANNES - H. ERKEL-ROUSSE G. LALANNE - O. MONSO - E. POULIQUEN Le modèle Mésange réestimé en base 2000 Tome 2 - Version avec volumes à prix chaînés
+R. AEBERHARDT - L. DAVEZIES Conditional Logit with one Binary Covariate: Link between the Static and Dynamic Cases
+T. LE BARBANCHON - B. OURLIAC - O. SIMON Les marchés du travail français et américain face aux chocs conjoncturels des années 1986 à 2007 : une modélisation DSGE
+C. MARBOT Une évaluation de la réduction d’impôt pour l’emploi de salariés à domicile
+L. DAVEZIES Modèles à effets fixes, à effets aléatoires, modèles mixtes ou multi-niveaux : propriétés et mises en œuvre des modélisations de l’hétérogénéité dans le cas de données groupées
+M. ROGER - M. WASMER Heterogeneity matters: labour productivity differentiated by age and skills
+J.-C. BRICONGNE - J.-M. FOURNIER V. LAPÈGUE - O. MONSO De la crise financière à la crise économique L’impact des perturbations financières de 2007 et 2008 sur la croissance de sept pays industrialisés
+P. CHARNOZ - É. COUDIN - M. GAINI Wage inequalities in France 1976-2004: a quantile regression analysis
+M. CLERC - M. GAINI - D. BLANCHET Recommendations of the Stiglitz-Sen-Fitoussi Report: A few illustrations
+M. BACHELET - M. BEFFY - D. BLANCHET Projeter l’impact des réformes des retraites sur l’activité des 55 ans et plus : une comparaison de trois modèles
+C. LOUVOT-RUNAVOT L’évaluation de l’activité dissimulée des entre-
+
+G2011/10 G2011/11 G2011/12 G2011/13 G2011/14 G2011/15 G2011/16 G2011/17 G2012/01 G2012/02 G2012/03 G2012/04 G2012/05 G2012/06 G2012/07 G2012/08 G2012/09
+
+prises sur la base des contrôles fiscaux et son insertion dans les comptes nationaux
+
+A. SCHREIBER - A. VICARD La tertiarisation de l’économie française et le ralentissement de la productivité entre 1978 et 2008
+
+M.-É. CLERC - O. MONSO - E. POULIQUEN Les inégalités entre générations depuis le babyboom
+
+C. MARBOT - D. ROY Évaluation de la transformation de la réduction d'impôt en crédit d'impôt pour l'emploi de salariés à domicile en 2007
+
+P. GIVORD - R. RATHELOT - P. SILLARD Place-based tax exemptions and displacement effects: An evaluation of the Zones Franches Urbaines program
+
+X. D’HAULTFOEUILLE - P. GIVORD X. BOUTIN The Environmental Effect of Green Taxation: the Case of the French “Bonus/Malus”
+
+M. BARLET - M. CLERC - M. GARNEO V. LAPÈGUE - V. MARCUS La nouvelle version du modèle MZE, modèle macroéconométrique pour la zone euro
+
+R. AEBERHARDT - I. BUONO - H. FADINGER Learning, Incomplete Contracts and Export Dynamics: theory and Evidence form French Firms
+
+C. KERDRAIN - V. LAPÈGUE Restrictive Fiscal Policies in Europe: What are the Likely Effects?
+
+P. GIVORD - S. QUANTIN - C. TREVIEN A Long-Term Evaluation of the First Generation of the French Urban Enterprise Zones
+
+N. CECI-RENAUD - V. COTTET Politique salariale et performance des entreprises
+
+P. FÉVRIER - L. WILNER Do Consumers Correctly Expect Reductions? Testing Dynamic Behavior
+
+Price
+
+M. GAINI - A. LEDUC - A. VICARD School as a shelter? School leaving-age and the business cycle in France
+
+M. GAINI - A. LEDUC - A. VICARD A scarred generation? French evidence on young people entering into a tough labour market
+
+P. AUBERT - M. BACHELET Disparités de montant de pension et redistribution dans le système de retraite français
+
+R. AEBERHARDT - P GIVORD - C. MARBOT Spillover Effect of the Minimum Wage in France: An Unconditional Quantile Regression Approach
+
+A. EIDELMAN - F. LANGUMIER - A. VICARD Prélèvements obligatoires reposant sur les ménages : des canaux redistributifs différents en 1990 et 2010
+
+O. BARGAIN - A. VICARD Le RMI et son successeur le RSA découragentils certains jeunes de travailler ? Une analyse sur les jeunes autour de 25 ans
+
+x
+
+G2012/10
+G2012/11 G2012/12
+G2012/13
+G2012/14
+G2013/01F1301 G2013/02F1302 G2013/03 G2013/04
+G2013/05 G2013/06
+G2013/07
+G2013/08 G2013/09 G2013/10 G2013/11 G2013/12 G2013/13
+
+C. MARBOT - D. ROY Projections du coût de l’APA et des caractéristiques de ses bénéficiaires à l’horizon 2040 à l’aide du modèle Destinie
+A. MAUROUX Le crédit d’impôt dédié au développement durable : une évaluation économétrique
+V. COTTET - S. QUANTIN - V. RÉGNIER Coût du travail et allègements de charges : une estimation au niveau établissement de 1996 à 2008
+X. D’HAULTFOEUILLE - P. FÉVRIER L. WILNER Demand Estimation in the Presence of Revenue Management
+D. BLANCHET - S. LE MINEZ Joint macro/micro evaluations of accrued-to-date pension liabilities: an application to French reforms
+T. DEROYON - A. MONTAUT - P-A PIONNIER Utilisation rétrospective de l’enquête Emploi à une fréquence mensuelle : apport d’une modélisation espace-état
+C. TREVIEN Habiter en HLM : quel avantage monétaire et quel impact sur les conditions de logement ?
+A. POISSONNIER Temporal disaggregation of stock variables - The Chow-Lin method extended to dynamic models
+P. GIVORD - C. MARBOT Does the cost of child care affect female labor market participation? An evaluation of a French reform of childcare subsidies
+G. LAME - M. LEQUIEN - P.-A. PIONNIER Interpretation and limits of sustainability tests in public finance
+C. BELLEGO - V. DORTET-BERNADET La participation aux pôles de compétitivité : quelle incidence sur les dépenses de R&D et l’activité des PME et ETI ?
+P-Y. CABANNES - A.MONTAUT P-A. PIONNIER Évaluer la productivité globale des facteurs en France : l’apport d’une mesure de la qualité du capital et du travail
+R. AEBERHARDT - C. MARBOT Evolution of Instability on the French Labour Market During the Last Thirty Years
+J-B. BERNARD - G. CLÉAUD Oil price: the nature of the shocks and the impact on the French economy
+G. LAME Was there a « Greenspan Conundrum » in the Euro area?
+P. CHONÉ - F. EVAIN - L. WILNER - E. YILMAZ Introducing activity-based payment in the hospital industry : Evidence from French data
+C. GRISLAIN-LETRÉMY Natural Disasters: Exposure and Underinsurance
+P.-Y. CABANNES - V. COTTET - Y. DUBOIS C. LELARGE - M. SICSIC French Firms in the Face of the 2008/2009 Crisis
+
+G2013/14
+
+A. POISSONNIER - D. ROY Households Satellite Account for France in 2010. Methodological issues on the assessment of domestic production
+
+G2013/15
+
+G. CLÉAUD - M. LEMOINE - P.-A. PIONNIER Which size and evolution of the government expenditure multiplier in France (1980-2010)?
+
+G2014/01
+
+M. BACHELET - A. LEDUC - A. MARINO Les biographies du modèle Destinie II : rebasage et projection
+
+G2014/02
+
+B. GARBINTI L’achat de la résidence principale et la création d’entreprises sont-ils favorisés par les donations et héritages ?
+
+G2014/03
+
+N. CECI-RENAUD - P. CHARNOZ - M. GAINI Évolution de la volatilité des revenus salariaux du secteur privé en France depuis 1968
+
+G2014/04
+
+P. AUBERT Modalités d’application des réformes des retraites et prévisibilité du montant de pension
+
+G2014/05
+
+C. GRISLAIN-LETRÉMY - A. KATOSSKY The Impact of Hazardous Industrial Facilities on Housing Prices: A Comparison of Parametric and Semiparametric Hedonic Price Models
+
+G2014//06
+
+J.-M. DAUSSIN-BENICHOU - A. MAUROUX Turning the heat up. How sensitive are households to fiscal incentives on energy efficiency investments?
+
+G 2014 / 07 C. LABONNE - G. LAMÉ Credit Growth and Capital Requirements: Binding or Not?
+
+G 2014 / 08 C. GRISLAIN-LETRÉMY et C. TREVIEN The Impact of Housing Subsidies on the Rental Sector: the French Example
+
+G 2014 / 09
+
+M. LEQUIEN et A. MONTAUT Croissance potentielle en France et en zone euro : un tour d’horizon des méthodes d’estimation
+
+

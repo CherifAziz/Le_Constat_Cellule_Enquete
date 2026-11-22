@@ -1,0 +1,273 @@
+=== 1. Niveaux et variations (points de PIB), 1974 -> 1985 ===
+D1         10.79 ->   13.50  (+2.72)  74-75 +0.93 | 75-80 +1.11 | 80-85 +0.68  Rémunération des salariés (D1)
+P2          5.29 ->    6.32  (+1.03)  74-75 +0.46 | 75-80 +0.12 | 80-85 +0.45  Consommation intermédiaire (P2)
+AF          0.29 ->    0.35  (+0.06)  74-75 +0.05 | 75-80 +0.09 | 80-85 -0.08  Autres dépenses de fonctionnement (D29 + D4 hors D41 + D5)
+D41         0.59 ->    2.55  (+1.97)  74-75 +0.33 | 75-80 +0.31 | 80-85 +1.32  Intérêts (D41)
+D62        12.52 ->   17.24  (+4.72)  74-75 +1.49 | 75-80 +1.21 | 80-85 +2.02  Prestations sociales en espèces (D62)
+D632        2.99 ->    3.74  (+0.76)  74-75 +0.24 | 75-80 -0.02 | 80-85 +0.54  Transferts sociaux en nature marchands (D632)
+D3          1.78 ->    2.45  (+0.66)  74-75 +0.28 | 75-80 -0.05 | 80-85 +0.43  Subventions (D3)
+D7          1.09 ->    2.12  (+1.03)  74-75 +0.40 | 75-80 +0.07 | 80-85 +0.56  Autres transferts courants (D7, D73 nul)
+D9p         0.81 ->    0.85  (+0.03)  74-75 +0.25 | 75-80 -0.28 | 80-85 +0.07  Transferts en capital (D9p)
+P51g        5.00 ->    4.85  (-0.15)  74-75 +0.31 | 75-80 -0.62 | 80-85 +0.17  Investissement (FBCF, P51g)
+P5a         0.20 ->    0.21  (+0.01)  74-75 +0.12 | 75-80 -0.09 | 80-85 -0.02  Autres acquisitions d'actifs non financiers (P52, P53, NP)
+DEP        41.34 ->   54.18  (+12.84)  74-75 +4.85 | 75-80 +1.85 | 80-85 +6.14  Total des dépenses
+DEPPRIM    40.75 ->   51.63  (+10.88)  74-75 +4.52 | 75-80 +1.54 | 80-85 +4.82  Dépenses primaires (hors D41)
+D2         13.66 ->   15.84  (+2.18)  74-75 +0.81 | 75-80 +0.60 | 80-85 +0.78  Impôts sur la production et les importations (D2)
+D5r         6.89 ->    7.91  (+1.02)  74-75 -0.75 | 75-80 +1.26 | 80-85 +0.51  Impôts courants sur le revenu et le patrimoine (D5)
+D91r        0.18 ->    0.24  (+0.07)  74-75 +0.02 | 75-80 +0.03 | 80-85 +0.03  Impôts en capital (D91)
+COTEFF     13.44 ->   18.46  (+5.02)  74-75 +1.35 | 75-80 +2.52 | 80-85 +1.15  Cotisations sociales effectives (D61 - D612)
+D612        1.44 ->    1.73  (+0.29)  74-75 +0.11 | 75-80 +0.13 | 80-85 +0.05  Cotisations sociales imputées (D612)
+D995r      -0.37 ->   -0.42  (-0.06)  74-75 +0.01 | 75-80 +0.05 | 80-85 -0.11  Impôts et cotisations non recouvrables (D995, négatif)
+PROD        3.58 ->    4.54  (+0.97)  74-75 +0.31 | 75-80 +0.31 | 80-85 +0.35  Recettes de production (P11, P12, P13 partiel, D39)
+PROPR       1.47 ->    1.60  (+0.13)  74-75 -0.07 | 75-80 -0.42 | 80-85 +0.62  Revenus de la propriété (D4, dont intérêts reçus)
+AUTR        1.16 ->    1.27  (+0.11)  74-75 +0.02 | 75-80 -0.11 | 80-85 +0.19  Autres transferts reçus (D7, D9 hors impôts, D73, D733)
+REC        41.44 ->   51.18  (+9.74)  74-75 +1.81 | 75-80 +4.37 | 80-85 +3.57  Total des recettes
+SOLDE       0.10 ->   -3.00  (-3.10)  74-75 -3.04 | 75-80 +2.52 | 80-85 -2.57  Solde (recettes - dépenses)
+
+=== Sous-détail T_7301 (points de PIB 1974 -> 1985) ===
+  D11 : 8.00 8.69 9.29 9.61  (+1.61)
+  D121 : 1.35 1.47 1.85 2.16  (+0.82)
+  D122 : 1.44 1.55 1.68 1.73  (+0.29)
+  D621 : 9.43 10.67 12.08 13.11  (+3.69)
+  D622 : 1.61 1.72 1.76 1.91  (+0.30)
+  D623 : 1.48 1.61 1.37 2.21  (+0.73)
+  D631 : 7.51 8.26 9.17 9.48  (+1.97)
+  D31_vers : 0.61 0.71 0.76 0.83  (+0.22)
+  D39_vers : 1.17 1.35 1.25 1.61  (+0.44)
+  D391_vers : n.d. n.d. 0.28 0.37
+  D392_vers : n.d. n.d. n.d. n.d.
+  D399_vers : n.d. n.d. n.d. n.d.
+  D71_vers : 0.05 0.06 0.05 0.06  (+0.01)
+  D72_vers : 0.00 0.00 0.00 0.00  (+0.00)
+  D74_vers : 0.52 0.39 0.42 0.50  (-0.01)
+  D75_vers : 0.52 0.76 0.72 1.04  (+0.52)
+  D76_vers : 0.00 0.29 0.35 0.51  (+0.51)
+  D211 : 8.25 8.30 8.31 8.43  (+0.18)
+  D212 : 0.05 0.02 0.03 0.02  (-0.03)
+  D214 : 3.57 3.48 3.64 3.97  (+0.40)
+  D29 : 1.79 2.66 3.08 3.42  (+1.63)
+  D291 : n.d. n.d. 0.98 0.96
+  D51 : 6.60 5.46 6.69 6.91  (+0.30)
+  D59 : 0.28 0.68 0.71 1.00  (+0.72)
+  D611 : 9.80 10.81 11.65 11.99  (+2.19)
+  D613CE : 2.80 3.09 4.44 5.07  (+2.27)
+  D613NSI : 0.84 0.89 1.22 1.40  (+0.56)
+  D612 : 1.44 1.55 1.68 1.73  (+0.29)
+
+=== Sensibilité à l'année de départ (variation jusqu'en 1985, points de PIB) ===
+  DEP     niveaux 72-75 41.01 40.92 41.34 46.19 | Δ→1985 depuis 1973 +13.27, 1974 +12.84, 1975 +7.99
+  D2      niveaux 72-75 14.68 14.72 13.66 14.46 | Δ→1985 depuis 1973 +1.12, 1974 +2.18, 1975 +1.37
+  D5r     niveaux 72-75 6.07 6.00 6.89 6.14 | Δ→1985 depuis 1973 +1.91, 1974 +1.02, 1975 +1.77
+  COTEFF  niveaux 72-75 13.06 13.07 13.44 14.79 | Δ→1985 depuis 1973 +5.39, 1974 +5.02, 1975 +3.67
+  REC     niveaux 72-75 41.23 40.85 41.44 43.25 | Δ→1985 depuis 1973 +10.33, 1974 +9.74, 1975 +7.93
+  SOLDE   niveaux 72-75 0.22 -0.07 0.10 -2.95 | Δ→1985 depuis 1973 -2.94, 1974 -3.10, 1975 -0.06
+  D29     niveaux 72-75 2.01 2.69 1.79 2.66 | Δ→1985 depuis 1973 +0.73, 1974 +1.63, 1975 +0.76
+  D59     niveaux 72-75 0.50 0.68 0.28 0.68 | Δ→1985 depuis 1973 +0.33, 1974 +0.72, 1975 +0.33
+  D51     niveaux 72-75 5.57 5.33 6.60 5.46 | Δ→1985 depuis 1973 +1.58, 1974 +0.30, 1975 +1.44
+
+=== 2(a) Identité : variation = contribution du poste + contribution du PIB ===
+  D1       1974-1985 : Δ +2.72 = nominal +10.52 -7.80 | réel +5.02 -2.30 | log-moy +5.62 -2.90
+  P2       1974-1985 : Δ +1.03 = nominal +4.86 -3.83 | réel +2.16 -1.13 | log-moy +2.42 -1.39
+  AF       1974-1985 : Δ +0.06 = nominal +0.27 -0.21 | réel +0.12 -0.06 | log-moy +0.14 -0.08
+  D41      1974-1985 : Δ +1.97 = nominal +2.39 -0.42 | réel +2.09 -0.13 | log-moy +2.29 -0.32
+  D62      1974-1985 : Δ +4.72 = nominal +13.78 -9.06 | réel +7.39 -2.67 | log-moy +8.25 -3.53
+  D632     1974-1985 : Δ +0.76 = nominal +2.92 -2.16 | réel +1.39 -0.64 | log-moy +1.56 -0.80
+  D3       1974-1985 : Δ +0.66 = nominal +1.95 -1.29 | réel +1.04 -0.38 | log-moy +1.17 -0.50
+  D7       1974-1985 : Δ +1.03 = nominal +1.82 -0.79 | réel +1.26 -0.23 | log-moy +1.40 -0.37
+  D9p      1974-1985 : Δ +0.03 = nominal +0.62 -0.59 | réel +0.21 -0.17 | log-moy +0.23 -0.20
+  P51g     1974-1985 : Δ -0.15 = nominal +3.47 -3.62 | réel +0.92 -1.06 | log-moy +1.03 -1.18
+  P5a      1974-1985 : Δ +0.01 = nominal +0.16 -0.14 | réel +0.05 -0.04 | log-moy +0.06 -0.05
+  DEP      1974-1975 : Δ +4.85 = nominal +9.50 -4.65 | réel +4.46 +0.39 | log-moy +4.44 +0.42
+  DEP      1975-1980 : Δ +1.85 = nominal +23.93 -22.08 | réel +9.04 -7.18 | log-moy +9.82 -7.96
+  DEP      1980-1985 : Δ +6.14 = nominal +25.51 -19.37 | réel +9.83 -3.69 | log-moy +10.22 -4.09
+  DEP      1974-1985 : Δ +12.84 = nominal +42.75 -29.91 | réel +21.65 -8.81 | log-moy +24.21 -11.37
+  DEPPRIM  1974-1975 : Δ +4.52 = nominal +9.11 -4.59 | réel +4.13 +0.39 | log-moy +4.11 +0.41
+  DEPPRIM  1975-1980 : Δ +1.54 = nominal +23.18 -21.64 | réel +8.58 -7.04 | log-moy +9.32 -7.78
+  DEPPRIM  1980-1985 : Δ +4.82 = nominal +23.69 -18.87 | réel +8.42 -3.60 | log-moy +8.75 -3.94
+  DEPPRIM  1974-1985 : Δ +10.88 = nominal +40.36 -29.48 | réel +19.56 -8.68 | log-moy +21.89 -11.01
+  D2       1974-1985 : Δ +2.18 = nominal +12.06 -9.88 | réel +5.09 -2.91 | log-moy +5.71 -3.53
+  D5r      1974-1985 : Δ +1.02 = nominal +6.01 -4.98 | réel +2.49 -1.47 | log-moy +2.79 -1.77
+  D91r     1974-1985 : Δ +0.07 = nominal +0.20 -0.13 | réel +0.11 -0.04 | log-moy +0.12 -0.05
+  COTEFF   1974-1985 : Δ +5.02 = nominal +14.74 -9.72 | réel +7.89 -2.86 | log-moy +8.81 -3.79
+  D612     1974-1985 : Δ +0.29 = nominal +1.34 -1.04 | réel +0.60 -0.31 | log-moy +0.67 -0.38
+  D995r    1974-1985 : Δ -0.06 = nominal -0.32 +0.26 | réel -0.13 +0.08 | log-moy -0.15 +0.09
+  PROD     1974-1985 : Δ +0.97 = nominal +3.55 -2.59 | réel +1.73 -0.76 | log-moy +1.93 -0.97
+  PROPR    1974-1985 : Δ +0.13 = nominal +1.20 -1.06 | réel +0.45 -0.31 | log-moy +0.50 -0.37
+  AUTR     1974-1985 : Δ +0.11 = nominal +0.95 -0.84 | réel +0.35 -0.25 | log-moy +0.40 -0.29
+  REC      1974-1975 : Δ +1.81 = nominal +6.47 -4.66 | réel +1.41 +0.40 | log-moy +1.41 +0.40
+  REC      1975-1980 : Δ +4.37 = nominal +25.04 -20.67 | réel +11.09 -6.73 | log-moy +12.04 -7.67
+  REC      1980-1985 : Δ +3.57 = nominal +22.76 -19.19 | réel +7.23 -3.66 | log-moy +7.52 -3.95
+  REC      1974-1985 : Δ +9.74 = nominal +39.72 -29.98 | réel +18.57 -8.83 | log-moy +20.79 -11.05
+
+=== 2(b)(c) Contrefactuels, ancrage 1974, horizon 1985 (et 1980) ===
+  DEP     réf 1960-1973 → 1980 : obs 48.05 (Δ +6.70) | (b) 40.59 part PIB +7.46 | (c) agrégat 52.05 part dépense -4.00 ; somme postes 52.75 part -4.71 | tendance double 43.97 T +2.63 I -0.62 | B+C +3.45
+  DEPPRIM réf 1960-1973 → 1980 : obs 46.81 (Δ +6.06) | (b) 39.55 part PIB +7.27 | (c) agrégat 51.76 part dépense -4.95 ; somme postes 52.26 part -5.45 | tendance double 43.73 T +2.97 I -0.77 | B+C +2.32
+  REC     réf 1960-1973 → 1980 : obs 47.61 (Δ +6.18) | (b) 40.22 part PIB +7.39 | (c) agrégat 51.35 part dépense -3.74 ; somme postes 52.37 part -4.76 | tendance double 43.38 T +1.95 I -0.58 | B+C +3.65
+  DEP     réf 1960-1973 → 1985 : obs 54.18 (Δ +12.84) | (b) 37.72 part PIB +16.46 | (c) agrégat 66.49 part dépense -12.31 ; somme postes 68.58 part -14.39 | tendance double 46.29 T +4.95 I -3.74 | B+C +4.15
+  DEPPRIM réf 1960-1973 → 1985 : obs 51.63 (Δ +10.88) | (b) 35.95 part PIB +15.69 | (c) agrégat 66.60 part dépense -14.97 ; somme postes 68.13 part -16.50 | tendance double 46.37 T +5.61 I -4.55 | B+C +0.72
+  REC     réf 1960-1973 → 1985 : obs 51.18 (Δ +9.74) | (b) 35.63 part PIB +15.55 | (c) agrégat 64.74 part dépense -13.56 ; somme postes 67.38 part -16.20 | tendance double 45.07 T +3.64 I -4.12 | B+C +1.99
+  DEP     réf 1968-1973 → 1980 : obs 48.05 (Δ +6.70) | (b) 40.05 part PIB +7.99 | (c) agrégat 46.15 part dépense +1.89 ; somme postes 47.71 part +0.34 | tendance double 38.48 T -2.87 I +0.31 | B+C +9.88
+  DEPPRIM réf 1968-1973 → 1980 : obs 46.81 (Δ +6.06) | (b) 39.03 part PIB +7.79 | (c) agrégat 46.12 part dépense +0.69 ; somme postes 47.40 part -0.59 | tendance double 38.45 T -2.30 I +0.12 | B+C +8.48
+  REC     réf 1968-1973 → 1980 : obs 47.61 (Δ +6.18) | (b) 39.69 part PIB +7.92 | (c) agrégat 48.08 part dépense -0.47 ; somme postes 48.90 part -1.29 | tendance double 40.09 T -1.35 I -0.08 | B+C +7.45
+  DEP     réf 1968-1973 → 1985 : obs 54.18 (Δ +12.84) | (b) 36.82 part PIB +17.37 | (c) agrégat 53.33 part dépense +0.85 ; somme postes 57.74 part -3.56 | tendance double 36.24 T -5.10 I +0.27 | B+C +18.22
+  DEPPRIM réf 1968-1973 → 1985 : obs 51.63 (Δ +10.88) | (b) 35.08 part PIB +16.55 | (c) agrégat 53.91 part dépense -2.28 ; somme postes 57.55 part -5.92 | tendance double 36.63 T -4.13 I -0.73 | B+C +14.27
+  REC     réf 1968-1973 → 1985 : obs 51.18 (Δ +9.74) | (b) 34.78 part PIB +16.40 | (c) agrégat 57.39 part dépense -6.21 ; somme postes 59.48 part -8.30 | tendance double 39.00 T -2.44 I -1.99 | B+C +10.19
+
+=== 3. Croissance réelle annuelle moyenne (déflateur du PIB ; entre parenthèses prix conso ménages) ===
+  D1        6.53 ( 6.93) |  6.09 ( 6.64) |  5.70 ( 5.95) |  2.67 ( 2.12) |  4.31 ( 4.19)
+  P2        6.87 ( 7.27) |  6.25 ( 6.80) |  4.50 ( 4.75) |  3.11 ( 2.56) |  3.87 ( 3.75)
+  AF        6.07 ( 6.47) |  3.98 ( 4.52) |  9.76 (10.02) | -2.59 (-3.11) |  3.96 ( 3.84)
+  D41      -0.38 (-0.00) | -7.78 (-7.30) | 16.22 (16.49) | 17.54 (16.91) | 16.81 (16.68)
+  D62       7.58 ( 7.98) |  5.53 ( 6.08) |  6.09 ( 6.34) |  4.18 ( 3.63) |  5.22 ( 5.10)
+  D632     10.67 (11.08) | 10.18 (10.75) |  3.90 ( 4.15) |  4.83 ( 4.27) |  4.32 ( 4.20)
+  D3        5.70 ( 6.10) | -2.00 (-1.50) |  4.80 ( 5.04) |  5.67 ( 5.10) |  5.19 ( 5.07)
+  D7        3.29 ( 3.68) |  3.67 ( 4.21) |  8.96 ( 9.22) |  8.07 ( 7.50) |  8.56 ( 8.43)
+  D9p       3.81 ( 4.20) |  0.89 ( 1.42) |  2.03 ( 2.27) |  3.25 ( 2.70) |  2.58 ( 2.46)
+  P51g      6.16 ( 6.56) |  2.27 ( 2.80) |  1.60 ( 1.84) |  2.32 ( 1.78) |  1.93 ( 1.81)
+  P5a      11.04 (11.46) | -11.40 (-10.94) |  5.07 ( 5.32) |  0.03 (-0.50) |  2.75 ( 2.63)
+  DEP       6.71 ( 7.12) |  4.60 ( 5.14) |  5.30 ( 5.55) |  4.09 ( 3.53) |  4.75 ( 4.63)
+  DEPPRIM   6.87 ( 7.27) |  4.83 ( 5.38) |  5.09 ( 5.34) |  3.62 ( 3.07) |  4.42 ( 4.30)
+  D2        4.92 ( 5.32) |  4.01 ( 4.54) |  4.38 ( 4.63) |  2.64 ( 2.09) |  3.59 ( 3.47)
+  D5r       6.36 ( 6.76) |  6.41 ( 6.96) |  3.92 ( 4.17) |  2.99 ( 2.44) |  3.50 ( 3.38)
+  D91r      6.47 ( 6.88) |  5.78 ( 6.33) |  6.33 ( 6.58) |  4.19 ( 3.63) |  5.35 ( 5.23)
+  COTEFF    8.88 ( 9.29) |  6.99 ( 7.54) |  7.13 ( 7.38) |  2.92 ( 2.37) |  5.20 ( 5.07)
+  D612      5.79 ( 6.19) |  4.50 ( 5.05) |  5.41 ( 5.66) |  2.22 ( 1.67) |  3.95 ( 3.83)
+  D995r    n.d. | n.d. | n.d. | n.d. | n.d.
+  PROD      5.83 ( 6.23) |  2.35 ( 2.88) |  5.45 ( 5.70) |  3.25 ( 2.70) |  4.45 ( 4.33)
+  PROPR     7.36 ( 7.77) |  9.76 (10.33) | -4.04 (-3.81) | 12.18 (11.58) |  3.02 ( 2.90)
+  AUTR      6.28 ( 6.69) |  4.14 ( 4.68) |  1.43 ( 1.67) |  4.95 ( 4.39) |  3.02 ( 2.90)
+  REC       6.43 ( 6.83) |  5.27 ( 5.82) |  5.10 ( 5.35) |  3.09 ( 2.54) |  4.18 ( 4.06)
+  PIB vol   5.62 |  5.86 |  2.69 |  1.61 |  2.20   ;  prix du PIB  4.94 |  6.67 | 10.70 |  9.11 |  9.97
+
+=== 3bis. Rémunérations des APU : effectifs x rémunération réelle par tête ===
+  1960-1973 branches OZ+PZ (T_6211)                          effectifs  0.85 | par tête D1   5.63 (conso   6.03) | D11   5.09 (conso   5.48)
+  1960-1973 branche OQ (T_6211)                              effectifs  1.27 | par tête D1   5.19 (conso   5.59) | D11   4.65 (conso   5.04)
+  1960-1973 économie entière (D1 T_1105 / salariés T_6211)   effectifs  1.60 | par tête D1   4.88 (conso   5.28) | D11   n.d. (conso   n.d.)
+  1968-1973 branches OZ+PZ (T_6211)                          effectifs  2.30 | par tête D1   3.71 (conso   4.25) | D11   3.47 (conso   4.01)
+  1968-1973 branche OQ (T_6211)                              effectifs  2.31 | par tête D1   3.70 (conso   4.24) | D11   3.46 (conso   4.00)
+  1968-1973 économie entière (D1 T_1105 / salariés T_6211)   effectifs  2.16 | par tête D1   4.14 (conso   4.68) | D11   n.d. (conso   n.d.)
+  1970-1973 branches OZ+PZ (T_6211)                          effectifs  2.08 | par tête D1   3.57 (conso   4.21) | D11   3.54 (conso   4.18)
+  1970-1973 branche OQ (T_6211)                              effectifs  1.98 | par tête D1   3.68 (conso   4.32) | D11   3.65 (conso   4.29)
+  1970-1973 économie entière (D1 T_1105 / salariés T_6211)   effectifs  1.77 | par tête D1   4.09 (conso   4.73) | D11   n.d. (conso   n.d.)
+  1974-1980 branches OZ+PZ (T_6211)                          effectifs  2.38 | par tête D1   3.25 (conso   3.49) | D11   2.84 (conso   3.08)
+  1974-1980 branche OQ (T_6211)                              effectifs  2.23 | par tête D1   3.40 (conso   3.64) | D11   2.99 (conso   3.24)
+  1974-1980 économie entière (D1 T_1105 / salariés T_6211)   effectifs  0.90 | par tête D1   2.91 (conso   3.15) | D11   n.d. (conso   n.d.)
+  1974-1978 branches OZ+PZ (T_6211)                          effectifs  2.67 | par tête D1   4.06 (conso   4.88) | D11   3.36 (conso   4.18)
+  1974-1978 branche OQ (T_6211)                              effectifs  2.28 | par tête D1   4.46 (conso   5.28) | D11   3.76 (conso   4.58)
+  1974-1978 économie entière (D1 T_1105 / salariés T_6211)   effectifs  0.87 | par tête D1   3.33 (conso   4.14) | D11   n.d. (conso   n.d.)
+  1978-1985 S13 (T_1109)                                     effectifs  2.26 | par tête D1   0.62 (conso  -0.01) | D11   0.41 (conso  -0.22)
+  1978-1985 branches OZ+PZ (T_6211)                          effectifs  2.02 | par tête D1   0.86 (conso   0.23) | D11   0.65 (conso   0.01)
+  1978-1985 branche OQ (T_6211)                              effectifs  2.12 | par tête D1   0.75 (conso   0.12) | D11   0.54 (conso  -0.09)
+  1978-1985 économie entière (D1 T_1105 / salariés T_6211)   effectifs  0.37 | par tête D1   1.22 (conso   0.59) | D11   n.d. (conso   n.d.)
+  1980-1985 S13 (T_1109)                                     effectifs  2.33 | par tête D1   0.33 (conso  -0.21) | D11  -0.03 (conso  -0.57)
+  1980-1985 branches OZ+PZ (T_6211)                          effectifs  2.11 | par tête D1   0.55 (conso   0.01) | D11   0.19 (conso  -0.35)
+  1980-1985 branche OQ (T_6211)                              effectifs  2.13 | par tête D1   0.53 (conso  -0.01) | D11   0.17 (conso  -0.37)
+  1980-1985 économie entière (D1 T_1105 / salariés T_6211)   effectifs  0.14 | par tête D1   0.89 (conso   0.35) | D11   n.d. (conso   n.d.)
+  1974-1985 branches OZ+PZ (T_6211)                          effectifs  2.25 | par tête D1   2.01 (conso   1.89) | D11   1.63 (conso   1.51)
+  1974-1985 branche OQ (T_6211)                              effectifs  2.18 | par tête D1   2.08 (conso   1.97) | D11   1.70 (conso   1.58)
+  1974-1985 économie entière (D1 T_1105 / salariés T_6211)   effectifs  0.55 | par tête D1   1.98 (conso   1.87) | D11   n.d. (conso   n.d.)
+  validation 1978-85 : ETP S13 2.26 %/an ; OZ+PZ 2.02 ; OQ 2.12
+
+=== 4. Sous-périodes : contributions à la variation du solde (points de PIB) ===
+  1974-1975 : Δsolde -3.04 ; Δrecettes +1.81 ; Δdépenses +4.85
+     plus défavorables : D62 -1.49, D1 -0.93, D5r -0.75, P2 -0.46
+     plus favorables   : COTEFF +1.35, D2 +0.81, PROD +0.31, D612 +0.11
+  1975-1980 : Δsolde +2.52 ; Δrecettes +4.37 ; Δdépenses +1.85
+     plus défavorables : D62 -1.21, D1 -1.11, PROPR -0.42, D41 -0.31
+     plus favorables   : COTEFF +2.52, D5r +1.26, P51g +0.62, D2 +0.60
+  1980-1985 : Δsolde -2.57 ; Δrecettes +3.57 ; Δdépenses +6.14
+     plus défavorables : D62 -2.02, D41 -1.32, D1 -0.68, D7 -0.56
+     plus favorables   : COTEFF +1.15, D2 +0.78, PROPR +0.62, D5r +0.51
+  1974-1985 : Δsolde -3.10 ; Δrecettes +9.74 ; Δdépenses +12.84
+     plus défavorables : D62 -4.72, D1 -2.72, D41 -1.97, P2 -1.03
+     plus favorables   : COTEFF +5.02, D2 +2.18, D5r +1.02, PROD +0.97
+
+=== 5. Cotisations effectives sur salaires : taux légal x écart x assiette ===
+  1974-1985 W1 employeur+salarié  : 12.60 -> 17.06 (+4.47) = taux légal +3.40 [+3.23;+3.57] + écart +1.27 [+1.12;+1.43] + assiette -0.20 [-0.24;-0.17]
+  1974-1985 W1 employeur (D611)   : 9.80 -> 11.99 (+2.19) = taux légal +1.18 [+1.10;+1.25] + écart +1.17 [+1.10;+1.24] + assiette -0.15 [-0.17;-0.13]
+  1974-1985 W1 salarié (D613CE)   : 2.80 -> 5.07 (+2.27) = taux légal +2.47 [+2.41;+2.54] + écart -0.15 [-0.20;-0.10] + assiette -0.05 [-0.07;-0.04]
+  1974-1985 W2 employeur+salarié  : 12.60 -> 17.06 (+4.47) = taux légal +3.40 [+3.22;+3.58] + écart +1.30 [+1.15;+1.47] + assiette -0.24 [-0.28;-0.20]
+  1974-1985 W2 employeur (D611)   : 9.80 -> 11.99 (+2.19) = taux légal +1.18 [+1.10;+1.25] + écart +1.19 [+1.12;+1.27] + assiette -0.17 [-0.19;-0.16]
+  1974-1985 W2 salarié (D613CE)   : 2.80 -> 5.07 (+2.27) = taux légal +2.47 [+2.41;+2.54] + écart -0.14 [-0.19;-0.10] + assiette -0.06 [-0.09;-0.04]
+  1974-1980 W1 employeur+salarié  : 12.60 -> 16.10 (+3.50) = taux légal +2.86 [+2.80;+2.92] + écart +0.15 [+0.13;+0.17] + assiette +0.49 [+0.44;+0.54]
+  1974-1980 W1 employeur (D611)   : 9.80 -> 11.65 (+1.86) = taux légal +1.25 [+1.22;+1.29] + écart +0.24 [+0.22;+0.26] + assiette +0.36 [+0.34;+0.39]
+  1974-1980 W1 salarié (D613CE)   : 2.80 -> 4.44 (+1.64) = taux légal +1.80 [+1.70;+1.90] + écart -0.27 [-0.36;-0.21] + assiette +0.12 [+0.09;+0.16]
+  1980-1985 W1 employeur+salarié  : 16.10 -> 17.06 (+0.97) = taux légal +0.51 [+0.48;+0.54] + écart +1.25 [+1.21;+1.30] + assiette -0.79 [-0.84;-0.75]
+  1980-1985 W1 employeur (D611)   : 11.65 -> 11.99 (+0.34) = taux légal -0.11 [-0.11;-0.10] + écart +1.01 [+0.98;+1.04] + assiette -0.57 [-0.59;-0.54]
+  1980-1985 W1 salarié (D613CE)   : 4.44 -> 5.07 (+0.63) = taux légal +0.67 [+0.64;+0.70] + écart +0.18 [+0.17;+0.20] + assiette -0.23 [-0.25;-0.21]
+  assiette W2/PIB 1974-1985 : 38.95 -> 38.33 (-0.62) = D11/D1 -2.06 + D1/VA +1.46 + VA/PIB -0.02 ; part des rémunérations dans la VA 58.3 -> 60.5 %
+  assiette W2/PIB 1974-1980 : 38.95 -> 40.31 (+1.36) = D11/D1 -1.26 + D1/VA +2.53 + VA/PIB +0.09 ; part des rémunérations dans la VA 58.3 -> 62.1 %
+  assiette W2/PIB 1980-1985 : 40.31 -> 38.33 (-1.98) = D11/D1 -0.85 + D1/VA -1.02 + VA/PIB -0.11 ; part des rémunérations dans la VA 62.1 -> 60.5 %
+  cotisations effectives (D61-D612) 13.44 -> 18.46 (+5.02) = sur salaires +4.47 + non-salariés +0.56
+
+=== 5bis. Impôt sur le revenu, inflation et barème ===
+  1973 IRPP 3.26 | majorations - | IS 2.03 | D5 6.00 | D51 5.33 | inflation N-1 5.7
+  1974 IRPP 3.85 | majorations 0.19 | IS 2.71 | D5 6.89 | D51 6.60 | inflation N-1 7.3
+  1975 IRPP 3.73 | majorations - | IS 1.83 | D5 6.14 | D51 5.46 | inflation N-1 14.0
+  1976 IRPP 4.18 | majorations 0.13 | IS 2.18 | D5 7.00 | D51 6.27 | inflation N-1 11.5
+  1977 IRPP 4.35 | majorations - | IS 2.11 | D5 7.05 | D51 6.38 | inflation N-1 9.4 | barème +9.5/+0.0
+  1978 IRPP 4.29 | majorations - | IS 1.79 | D5 6.69 | D51 6.02 | inflation N-1 9.4 | barème +7.5/+5.0
+  1979 IRPP 4.30 | majorations - | IS 1.85 | D5 6.95 | D51 6.28 | inflation N-1 8.7 | barème +9.0/+5.0
+  1980 IRPP 4.62 | majorations - | IS 2.05 | D5 7.40 | D51 6.69 | inflation N-1 10.8 | barème +8.0/+0.0
+  1981 IRPP 4.79 | majorations 0.10 | IS 2.08 | D5 7.54 | D51 6.85 | inflation N-1 12.9 | barème +13.3/+8.0
+  1982 IRPP 4.79 | majorations 0.16 | IS 2.16 | D5 7.69 | D51 6.93 | inflation N-1 13.4 | barème +13.5/+13.5
+  1983 IRPP 5.05 | majorations 0.17 | IS 1.90 | D5 7.79 | D51 6.96 | inflation N-1 11.7 | barème +12.3/+12.3
+  1984 IRPP 5.14 | majorations - | IS 1.84 | D5 8.02 | D51 7.09 | inflation N-1 9.5
+  1985 IRPP 4.85 | majorations - | IS 1.89 | D5 7.91 | D51 6.91 | inflation N-1 7.9
+  1986 IRPP 4.78 | majorations - | IS 2.10 | D5 7.88 | D51 6.86 | inflation N-1 6.2
+
+=== 6. Intérêts : taux apparent x dette ===
+  1979-1985 : intérêts 1.14 -> 2.55 (+1.41) ; taux apparent 6.06 -> 9.06 % ; dette(N-1)/PIB 18.9 -> 28.2 % ; contribution taux +0.71 [+0.57;+0.84], dette +0.70
+  1979-1981 : intérêts 1.14 -> 1.72 (+0.57) ; taux apparent 6.06 -> 9.10 % ; dette(N-1)/PIB 18.9 -> 18.9 % ; contribution taux +0.57 [+0.57;+0.57], dette -0.00
+  1981-1985 : intérêts 1.72 -> 2.55 (+0.83) ; taux apparent 9.10 -> 9.06 % ; dette(N-1)/PIB 18.9 -> 28.2 % ; contribution taux -0.01 [-0.01;-0.01], dette +0.84
+  1974-1979 : intérêts 0.59 -> 1.14 (+0.56) — dette non disponible avant 1978 : non décomposé
+  1974-1985 : intérêts versés 0.59 -> 2.55 (+1.97) ; reçus 0.68 -> 0.80 ; nets -0.09 -> +1.75
+
+=== 7. Rapprochement avec Codex, A05, S03 ===
+  Codex ponts_points_pib.csv | 1974-1975 | recettes | REC | +1.809 | +1.809 | +0.000
+  Codex ponts_points_pib.csv | 1974-1975 | dépenses primaires | DEPPRIM | +4.521 | +4.521 | +0.000
+  Codex ponts_points_pib.csv | 1974-1975 | intérêts | D41 | +0.332 | +0.332 | -0.000
+  Codex ponts_points_pib.csv | 1974-1975 | fonctionnement | D1+P2+AF | +1.434 | +1.434 | -0.000
+  Codex ponts_points_pib.csv | 1974-1975 | transferts et prestations | D62+D632+D3+D7+D9p | +2.656 | +2.656 | +0.000
+  Codex ponts_points_pib.csv | 1974-1975 | actifs non financiers | P51g+P5a | +0.430 | +0.430 | -0.000
+  Codex ponts_points_pib.csv | 1974-1975 | solde | SOLDE | -3.044 | -3.044 | +0.000
+  Codex ponts_points_pib.csv | 1975-1980 | recettes | REC | +4.367 | +4.367 | -0.000
+  Codex ponts_points_pib.csv | 1975-1980 | dépenses primaires | DEPPRIM | +1.537 | +1.537 | -0.000
+  Codex ponts_points_pib.csv | 1975-1980 | intérêts | D41 | +0.314 | +0.314 | -0.000
+  Codex ponts_points_pib.csv | 1975-1980 | fonctionnement | D1+P2+AF | +1.330 | +1.330 | -0.000
+  Codex ponts_points_pib.csv | 1975-1980 | transferts et prestations | D62+D632+D3+D7+D9p | +0.921 | +0.921 | -0.000
+  Codex ponts_points_pib.csv | 1975-1980 | actifs non financiers | P51g+P5a | -0.713 | -0.713 | +0.000
+  Codex ponts_points_pib.csv | 1975-1980 | solde | SOLDE | +2.515 | +2.515 | -0.000
+  Codex ponts_points_pib.csv | 1980-1985 | recettes | REC | +3.566 | +3.566 | +0.000
+  Codex ponts_points_pib.csv | 1980-1985 | dépenses primaires | DEPPRIM | +4.818 | +4.818 | -0.000
+  Codex ponts_points_pib.csv | 1980-1985 | intérêts | D41 | +1.320 | +1.320 | +0.000
+  Codex ponts_points_pib.csv | 1980-1985 | fonctionnement | D1+P2+AF | +1.044 | +1.044 | -0.000
+  Codex ponts_points_pib.csv | 1980-1985 | transferts et prestations | D62+D632+D3+D7+D9p | +3.625 | +3.625 | +0.000
+  Codex ponts_points_pib.csv | 1980-1985 | actifs non financiers | P51g+P5a | +0.149 | +0.149 | +0.000
+  Codex ponts_points_pib.csv | 1980-1985 | solde | SOLDE | -2.572 | -2.572 | -0.000
+  Codex ponts_points_pib.csv | 1974-1985 | recettes | REC | +9.741 | +9.741 | +0.000
+  Codex ponts_points_pib.csv | 1974-1985 | dépenses primaires | DEPPRIM | +10.876 | +10.876 | -0.000
+  Codex ponts_points_pib.csv | 1974-1985 | intérêts | D41 | +1.966 | +1.966 | -0.000
+  Codex ponts_points_pib.csv | 1974-1985 | fonctionnement | D1+P2+AF | +3.808 | +3.808 | -0.000
+  Codex ponts_points_pib.csv | 1974-1985 | transferts et prestations | D62+D632+D3+D7+D9p | +7.202 | +7.202 | +0.000
+  Codex ponts_points_pib.csv | 1974-1985 | actifs non financiers | P51g+P5a | -0.134 | -0.134 | +0.000
+  Codex ponts_points_pib.csv | 1974-1985 | solde | SOLDE | -3.100 | -3.100 | -0.000
+  A05 A05_nature_contrib_periodes.csv | 1974-1985 | Remunerations_D1 | D1 | +2.718 | +2.718 | +0.000
+  A05 A05_nature_contrib_periodes.csv | 1974-1985 | Conso_intermediaires_P2 | P2 | +1.029 | +1.029 | -0.000
+  A05 A05_nature_contrib_periodes.csv | 1974-1985 | Prestations_especes_D62 | D62 | +4.719 | +4.719 | -0.000
+  A05 A05_nature_contrib_periodes.csv | 1974-1985 | Prestations_nature_marchandes_D632 | D632 | +0.756 | +0.756 | +0.000
+  A05 A05_nature_contrib_periodes.csv | 1974-1985 | Interets_D41 | D41 | +1.966 | +1.966 | -0.000
+  A05 A05_nature_contrib_periodes.csv | 1974-1985 | Subventions_D3 | D3 | +0.665 | +0.665 | +0.000
+  A05 A05_nature_contrib_periodes.csv | 1974-1985 | Autres_transferts_courants_D7 | D7 | +1.028 | +1.028 | +0.000
+  A05 A05_nature_contrib_periodes.csv | 1974-1985 | Transferts_capital_D9 | D9p | +0.034 | +0.034 | +0.000
+  A05 A05_nature_contrib_periodes.csv | 1974-1985 | FBCF_P51g | P51g | -0.146 | -0.146 | +0.000
+  A05 A05_nature_contrib_periodes.csv | 1974-1985 | Autres_D29_D4_D5_P52_NP | AF+P5a | +0.073 | +0.073 | -0.000
+  A05 A05_nature_contrib_periodes.csv | 1974-1985 | Total | DEP | +12.841 | +12.841 | +0.000
+  D01 (détail du regroupement A05) | 1974-1985 | AF : D29 + D4 hors D41 + D5 (bloc fonctionnement) | AF | +0.060 |  | 
+  D01 (détail du regroupement A05) | 1974-1985 | P5a : P52 + P53 + NP (bloc actifs) | P5a | +0.012 |  | 
+  Première enquête (prestations décomposées) | 1974-1985 | D62 + D632 (APU, comptes nationaux) | D62+D632 | +5.476 | +5.500 | -0.024
+  S03 S03_decomposition.csv (Drees, protection sociale) | 1974-1985 | Total des prestations de protection sociale | D62+D632 | +5.476 | +7.777 | -2.301
+  T_7301 (D631, information) | 1974-1985 | Transferts sociaux en nature non marchands (D631 : santé et éducation publiques, compris dans D1 et P2) | D631 | +1.975 |  | 
+  S03 - (D62+D632+D631) | 1974-1985 | écart de périmètre restant, non décomposé |  | +0.327 |  | 
+
+=== Contrôles : 1581 ; en écart : 0 ===

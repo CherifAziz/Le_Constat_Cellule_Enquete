@@ -1,0 +1,2957 @@
+                                                                                                                                                                          ISSN 2443-8022 (online)
+
+                          The Semi-Elasticities
+                          Underlying
+                          the Cyclically-Adjusted
+                          Budget Balance:
+                          An Update & Further Analysis
+
+                                      Gilles Mourre, AurÃ©lien Poissonnier
+                                      and Martin Lausegger
+
+                                           DISCUSSION PAPER 098 | MAY 2019
+
+EUROPEAN ECONOMY
+
+EUROPEAN  Economic and
+          Financial Affairs
+European Economy Discussion Papers are written by the staff of the European Commissionâ€™s
+Directorate-General for Economic and Financial Affairs, or by experts working in association with them, to
+inform discussion on economic policy and to stimulate debate.
+The views expressed in this document are solely those of the author(s) and do not necessarily represent the
+official views of the European Commission.
+Authorised for publication by Lucio Pench, Director for Fiscal Policy and Policy Mix.
+
+LEGAL NOTICE
+Neither the European Commission nor any person acting on behalf of the European Commission is responsible
+for the use that might be made of the information contained in this publication.
+This paper exists in English only and can be downloaded from
+https://ec.europa.eu/info/publications/economic-and-financial-affairs-publications_en.
+Luxembourg: Publications Office of the European Union, 2019
+PDF ISBN 978-92-79-77435-5 ISSN 2443-8022 doi:10.2765/72585 KC-BD-18-025-EN-N
+
+Â© European Union, 2019
+Non-commercial reproduction is authorised provided the source is acknowledged. For any use or reproduction
+of material that is not under the EU copyright, permission must be sought directly from the copyright holders.
+European Commission
+
+Directorate-General for Economic and Financial Affairs
+
+The Semi-Elasticities Underlying
+the Cyclically-Adjusted Budget Balance:
+An Update and Further Analysis
+
+Gilles Mourre, AurÃ©lien Poissonnier and Martin Lausegger
+
+Abstract
+
+We update the semi-elasticities of the budget balance to output for the 28 EU Member States using new
+weights based on ESA2010 data (with unchanged elasticities for individual fiscal items). The revisions of
+the semi-elasticities are fairly small across Member States and leave the assessment of fiscal developments
+in the EU broadly unchanged. The revision of the Cyclically Adjusted Balance (CAB) is mainly driven by
+that in the headline balance and the estimated output gap, not by the update of the fiscal semi-elasticities. A
+sensitivity analysis shows that revenue and expenditure weights, if allowed to vary over time, can have a
+larger impact on the semi-elasticities than the present update would suggest, although this would affect the
+CAB only marginally. Based on the existing four vintages of the estimated semi-elasticities, exploratory
+panel data analysis confirms that semi-elasticities are country-specific structural parameters, mostly of
+fiscal nature: they are linked to the size of government, the share of unemployment-related spending, the
+share of non-tax revenue and tax progressivity. They can also be influenced by the belonging to specific
+country groupings and an emulation effect between neighbours.
+
+JEL Classification: E62, H62, E32.
+
+Keywords: budgetary semi elasticity, cyclically-adjusted budget balance (CAB), structural balance,
+revenue and expenditure elasticities, EU fiscal surveillance.
+
+Acknowledgements: We would like to thank the members of the output gap working group for their
+comments. We are also grateful to Savina Princen for her useful detailed comments and suggestions.
+
+Contact: Gilles Mourre, European Commission, Directorate-General for Economic and Financial Affairs,
+
+gilles.mourre@ec.europa.eu. AurÃ©lien Poissonnier, European Commission, Directorate-General for
+Economic and Financial Affairs, aurelien.poissonnier@ec.europa.eu. Martin Lausegger substantially
+contributed to the early stage of the project, when he was a Commission trainee.
+
+EUROPEAN ECONOMY  Discussion Paper 097
+Executive Summary
+
+We recall the method to adjust the budget balance from the effect of the business cycle, which is used
+in the context of the EU fiscal surveillance, and present the recent update of one of its key elements,
+namely the fiscal semi-elasticities. They capture the reactivity of the budget balance in % of GDP to a
+change in the output gap. While an elasticity applies to a level, (e.g. a monetary amount), a semi-
+elasticity applies to a ratio. This is particularly relevant since the EU fiscal framework deals with
+ratios, that is, variables expressed as percentage of GDP. The semi-elasticity captures both changes in
+numerator and denominator due to the business cycle.
+
+The paper presents the update of the fiscal semi-elasticities, which follows the calendar and
+methodology agreed with the Member States. The semi-elasticity for each Member State is a weighted
+average of the individual elasticities of each revenue and spending item. The present exercise focuses
+on the update of the weights. It yields the following results:
+
+    â€¢ The revisions of the semi-elasticities are overall small and more marked on the expenditure
+         than revenue side. They are close to null in terms of EU average and downward in a majority
+         of Member States.
+
+    â€¢ Consequently, for the 28 EU Member States, the update of the weights has a negligible effect
+         on the cyclically adjusted budget balance and therefore our assessment of the fiscal
+         developments in the EU remains unchanged compared with the last update in 2014.
+
+We analyse the semi-elasticity revisions and find that:
+
+    â€¢ Three factors drive the revisions: i) better data availability (concerning several Member States
+         who acceded as of 2004), ii) a new time window for the weights and iii) the changeover to a
+         new European System of Accounts (ESA 2010) since the last update.
+
+    â€¢ The latter two factors account for the bulk of the revisions, to a comparable extent.
+    â€¢ Despite the changeover to ESA 2010, revisions remain particularly small compared with the
+
+         volatility of semi-elasticities appearing if we were to update the weights every year.
+
+We examine the robustness of the EU methodology of fiscal cyclical adjustment to the use of some
+simplifying assumptions, which is confirmed, noticeably:
+
+    â€¢ The approximations made for the calculation of the cyclically adjusted budget balance by the
+         EU common methodology, such as using constant weights or making a linear approximation,
+         are empirically negligible.
+
+We run exploratory panel data analysis based on the four available vintages of semi-elasticities to
+investigate their determinants and find that:
+
+    â€¢ The semi-elasticities used by the Commission are not affected by a residual impact of the
+         business cycle, which is a desirable property.
+
+    â€¢ The semi-elasticities are are related to structural fiscal variables, in particular the size of
+         government and the share of non-tax revenue, which capture the share of budgetary items
+         which are less affected by the business cycle in nominal terms. The share of unemployment-
+         related spending is also highly significant, as expected. Indicators of tax progressivity also
+         appear to significantly influence the semi-elasticity.
+
+                                                                    3
+â€¢ Many non-fiscal structural economic variables tested in this paper turn out to be not robustly
+    correlated to the semi-elasticities, such as the income per capita, the economic size, the labour
+    share in the value added and the economic output volatility.
+
+â€¢ This said, some economic or geographical clustering effects seem to be relevant: EU Member
+    States with lower income or those having acceded as of 2004 tend to have lower semi-
+    elasticities. Moreover, semi-elasticities appear to be subject to an emulation effect between
+    neighbouring EU Member States.
+
+                                                              4
+CONTENTS
+
+1. Introduction                                                                7
+
+2. Theoretical framework for computing the cyclically-adjusted budget balance 11
+
+2.1. Cyclical adjustment: the main concepts                                    11
+
+2.2. Components of the revenue and expenditure elasticities                    13
+
+3. Revisions of the fiscal semi-elasticities                                   16
+
+3.1. The revised semi-elasticities                                             16
+
+3.2. Revisions and their causes                                                17
+
+3.2.1. Sources of revision of semi-elasticities                                17
+
+3.2.2. Contribution of the revenue and expenditure components to the revision  20
+
+4. Analysis of the semi-elasticities                                           23
+
+4.1 Sensitivity analysis to time variation                                     23
+
+4.2 Regression analysis                                                        26
+
+5. Impact of Revisions on the cyclically-adjusted budget balance (CAB)         30
+
+5.1. The revised CAB                                                           30
+
+5.2. Revision and its causes                                                   31
+
+5.2.1. Contributions to the CAB revisions                                      31
+
+5.2.2. A validation of the Commissionâ€™s CAB methodology                        34
+
+REFERENCES                                                                     36
+
+I. Main tables: deriving the semi-elasticity values                            39
+
+II. Mathematical derivations                                                   42
+
+III. Data sources, codes and treatment                                         45
+
+IV. Comparing the results 2018 vs 2014                                         47
+
+V. Sensitivity and exploratory analysis                                        50
+
+                                                 5
+LIST OF FIGURES
+
+Figure 1.1. Timeline of the revisions of the semi-elasticities................................................................10
+Figure 2.1. Composition of the general government revenue (EU, % of GDP) .............................12
+Figure 2.2. Composition of the general government expenditure (EU, % of GDP) ......................13
+Figure 2.3. Composition of the general government expenditure (EU, % of GDP) ......................13
+Figure 2.4. Decomposition of the fiscal semi-elasticities ....................................................................15
+Figure 3.1. Revised budget balance semi-elasticities ........................................................................17
+Figure 3.2 Expenditure to GDP and the semi-elasticities of the budget balance ........................17
+Figure 3.3. Sources of revision of the semi-elasticities .........................................................................19
+Figure 3.4. Contribution to the revision of the semi-elasticities .........................................................21
+Figure 3.5. Components' contribution to the revision of the semi-elasticities................................22
+Figure 4.1. Dispersion of budget balance semi-elasticities with time varying weights between
+2002 and 2017 ............................................................................................................................................23
+Figure 4.2. Time varying fiscal semi-elasticities (three examples).....................................................24
+Figure 4.3. Comparison with the empirical semi-elasticities ..............................................................25
+Figure 4.4. Economic factors and the semi-elasticities of the budget balance ...........................28
+Figure 5.1. EU CAB change vs output gap ...........................................................................................30
+Figure 5.2. CAB annual revisions (2002-2013) .......................................................................................31
+Figure 5.3. Contributions to EU CAB revision and 2018 vintage of the CAB ...................................32
+Figure 5.4. Absolute mean contribution to CAB revision across Member States (2002-2013) ....32
+Figure 5.5. Absolute mean CAB approximations across Member States (2002 to 2017).............34
+Figure 5.6. CAB calculation (and approximation) in selected Member States ............................35
+Figure II.1. EU CAB three calculations ....................................................................................................44
+
+LIST OF TABLES
+
+Table 4.1 Baseline models for semi-elasticities in a four-vintage panel .......................................... 29
+Table I.1. Elasticities of individual revenue and expenditure categories ....................................... 39
+Table I.2. Updated shares of revenue and expenditure categories (% of total
+revenue/expenditure) .............................................................................................................................. 40
+Table I.3. Decomposition of the semi-elasticity of budget balance to output gap .................... 41
+Table III.1. List of variables for replication.............................................................................................. 46
+Table IV.1. Shares of revenue categories (% of total revenue), average 2002-2011 ................... 47
+Table IV.2. Shares of expenditure categories (% of total expenditure), average 2002-2011 ..... 48
+Table IV.3. Revised aggregate semi-elasticities of fiscal variables .................................................. 49
+Table V.1. Sensitivity analysis of budget balance semi-elasticities .................................................. 50
+Table V.2. Estimation of semi-elasticity models against structural indicators ................................ 51
+Table V.3. Estimation of semi-elasticity models against tentative geographical typologies ..... 53
+
+                                                                    6
+1. INTRODUCTION
+
+Governments' budget balance fluctuates with the business cycle, which requires computing a
+cyclically adjusted balance (CAB). To get a fair picture of the fiscal stance taken by the government,
+it is key to correct for the cyclical fluctuations of the budget balance, which are outside the control of
+the general government.
+
+The EU methodology to compute the CAB aims to achieve the triple goals of economic
+soundness, communicability and stability. On the one hand, the methodology should be
+economically sound, capturing the adequate concept with a proper measurement using regularly
+updated information. On the other hand, the measure should be simple enough to be communicable
+and remain intuitive, avoiding the â€˜black-boxâ€™ syndrome. This justifies the use of first-order
+approximation and some other simplifying assumptions in the derivation of the indicator. Lastly, the
+methodology should remain stable over time, so as to ensure time-consistent fiscal surveillance and
+comparability of the data over the years. This makes the case for the stability of the key parameters
+underlying the cyclical adjustment of the budget balance and a not overly frequent update of the
+methodology.
+
+The methodology requires computing both the output gap â€“ measuring the position in the
+business cycle â€“ and the semi-elasticity of the budget balance to the output gap â€“ measuring the
+reaction of the budget balance to macroeconomic conditions, which is the focus of this paper.
+The output gap methodology has been agreed with Member States and is regularly reviewed by
+Member States at the Output Gap Working Group (Havik et al., 2014; Mc Morrow, 2015). The second
+key parameter, namely the semi-elasticity of the budget balance to the output gap measures the
+reactivity of the budget balance (expressed as a ratio to GDP) to a change in the output gap. The
+cyclical component of the budget balance is the product of this semi-elasticity and the output gap,
+which is subtracted from the budget balance to compute the CAB.
+
+As a useful clarification, why are we dealing with a semi-elasticity and not with a simple
+elasticity? An intuitive answer is that i) a semi-elasticity applies to a ratio, while an elasticity applies
+to a level (i.e. absolute number or monetary amount) and ii) the EU fiscal framework deals with ratios,
+that is, variables expressed as percentage of GDP. The semi-elasticity captures both changes in
+numerator and denominator due to the business cycle.
+
+This paper presents the regular update of the semi-elasticities of the budget balance of the EU
+Member States, consisting in revising the 10-year average revenue and spending weights based
+on the most recent government statistics. The semi-elasticities are computed by combining i) the
+individual elasticities of each revenue and expenditure category composing the government budget
+balance and ii) their weights as a percentage of GDP. The present revision focuses exclusively on the
+weights of revenue and expenditure categories. They are now calculated as an average over the period
+2008-2017, instead of 2002-2011 in the last updates carried out in Mourre et al. (2013). In addition to
+the change of time period, another source of revision is the implementation of the 2010 European
+System of Accounts (ESA 2010) which took place after the previous update of the weights. By
+contrast, the individual elasticities are unchanged with respect to their last update (Mourre et al, 2014).
+
+The methodology currently used by the Commission to compute the semi-elasticity is the result
+of two decades of research. The estimates and the underlying method have been gradually revised
+and improved. Early estimations of the fiscal elasticities include Giorno et al. (1995). The
+Commissionâ€™s method for the cyclical adjustment of government budget balances used at the time is
+also presented in European Commission (1995). In 2000, Van den Noord (2000) updated the
+elasticities of revenue and expenditure components, which were included in the method used by the
+OECD and the Commission (OECD 1999, European Commission 2000). In parallel, Bouthevillain et
+al. (2001) provided alternative estimates of the fiscal elasticities, used by the Eurosystem. A new
+
+                                                                    7
+update was performed five years later for OECD countries by Girouard and AndrÃ© (2005). The
+European Commission (2005, 2006, 2010) extended these estimations Ã  la Girouard and AndrÃ© to all
+EU countries, including the subsequent waves of accession to the EU. More recently, Mourre et al.
+(2013) propose a change in the methodology to compute actual semi-elasticities, rather than
+sensitivities, where the denominator is not corrected for the impact of the output gap. A re-estimation
+of the output elasticities of the individual revenue and expenditure components for the EU is set out in
+Price et al. (2014), who also explore the cyclical pattern of component assumed a-cyclical, such as
+earning-related transfers or non-tax revenue. Mourre et al. (2014) use these new estimates to compute
+the semi-elasticities for EU Member States. Price et al. (2015) perform a similar update for OECD
+countries.
+
+In addition to the CAB calculation, the fiscal semi-elasticities find several applications. They play
+several roles in the context of fiscal surveillance, more specifically of the preventive arm of the SGP
+as shown in Box 1.1. The fiscal semi-elasticities (and the underlying elasticities of tax revenue
+components to their base) are also key parameters in the forecast of fiscal variables (see Mourre et al,
+2016). Finally, the fiscal elasticities can be used in the analysis of fiscal policy (e.g. Blanchard and
+Perotti, 2002 and Perotti, 2005, employing a structural vector autoregressive model (VAR) to calculate
+the fiscal multipliers).
+
+Some limitations of the EU aggregate methodology are discussed in the literature. The EU
+methodology is often referred to as an aggregate approach, since it is using the output gap as a single
+(synthetic) measure of the business cycle, applied to all fiscal items. By contrast, more disaggregated
+methodologies identify a specific cyclical pattern for each and every component of the budget balance.
+Advocates of disaggregated approaches often argue that the cyclical correction based on the output
+gap could overlook important dimensions. First, the economic cycles may differ across revenue and
+expenditure components (Bouthevillain et al., 2001), while the EU methodology uses the output gap
+for all components. Second, the EU method corrects for real business cycle fluctuations but neglects
+the price effects which can be sizeable in times of high inflation (Tanzi, 1977; Tanzi et al., 1987;
+Escolano, 2010; Morris and Schuknecht, 2007). Third, fiscal elasticities can differ in the short and
+long run and, therefore, be varying substantially over time (Koester and Priesmeier, 2017; Mourre and
+Princen, 2015; Belinga et al., 2014). A side criticism relates to the assumption of the constancy of the
+weights, which could be made time-variant. This said, Mourre and Princen (2019) highlight the
+difficulty to measure time-varying elasticities for all countries, given the lack of long time series
+corrected for tax policy changes and the absence of a clear pattern in the volatility of
+implicit/empirical elasticities in some Member States. All these factors could account for the residual
+cyclical component identified by studies carried out before the Great Financial Crisis, such as Alberola
+et al. (2003) or Morris et al. (2009).
+
+The EU methodology seeks to weigh these limitations against practical objectives, relevant for
+fiscal surveillance. Taking the above limitations into account would render the methodology much
+more complex and difficult to communicate, also less transparent in practice for users. This is an
+important issue given the current complexity of the fiscal rules (Deroose et al. 2018). The current
+intuitive formula to correct the effect of the business cycle (using the output gap times the semi-
+elasticities) would not apply anymore in a more disaggregated approach: the cyclical component
+would become a weighted average of the different tax bases, which should be filtered in real time1.
+The use of time-varying weight would pose a new problem when forecasting the CAB or the structural
+balance, since the weights would need to be forecast as well. Lastly, the performance of the EU
+method appeared to be not so bad during the economic and financial crisis, compared with more
+disaggregated approaches, since the cyclical pattern of some specific granular components could be
+
+1 The weight of each component would be varying over time as well. It is far from guaranteed that filtering
+specific cycles for each component of the CAB or prices would reduce the revision frequency of the real-time
+estimates of the cyclical component of the budget, compared with the current method based on the output gap.
+The opposite is likely given the absence of fixed parameters.
+
+                                                                    8
+particularly erratic in periods of strong recession and thereby very difficult to identify based on past
+behaviours.
+
+Overall, the present revision has a limited impact on fiscal elasticities. In the EU,2 the average
+semi-elasticity of the budget balance remains equal to 0.50. Comparing the new estimates with the
+previous values (Mourre et al, 2014) the semi-elasticities are revised downward in a majority of
+Member States, where the government budget balance has become less cyclical. In the great majority
+of cases, the revisions were lower than 0.04 in absolute terms. The revisions are due, to an equal
+proportion, to the introduction of ESA 2010 and to the new window used to compute the weights
+(2008-2017 against 2002-2011 previously). Despite the changeover to ESA 2010, it is remarkable that
+the revisions in the semi-elasticities remain within the range of the intrinsic volatility of the weights
+(when left to vary annually). Furthermore, the revision affects the expenditure side more markedly
+than the revenue side.
+
+The revisions of the cyclical correction of the headline budget balance are also limited. The
+evolution of the fiscal stance over the past years is broadly unchanged. In fact, revisions linked to the
+new elasticities are much smaller than those related to revisions in the headline balance or the output
+gap.
+
+Beyond the application of the EU common methodology, the paper runs some exploratory
+analysis of the possible determinants of semi-elasticities. We run a panel data analysis of the last
+four vintages of the semi-elasticities, resting on a theory-related baseline and including â€“ non-
+exhaustively â€“ public finance, economic and geographical factors. Reassuringly, we find no sign of
+cyclical bias in the semi-elasticities used by the Commission. The empirical analysis confirms that the
+fiscal semi-elasticities are structural parameters â€“ i.e. country-specific lasting features â€“, which are
+largely related to budgetary variables, such as the size of government, the share of non-tax revenue,
+the share of unemployment-related expenditure and the progressivity of the tax system. Other
+structural features of the economies, of non-fiscal nature, do not seem to explain the level of fiscal
+semi-elasticities. There are nevertheless some identifiable geographical patterns: newly acceded
+Member States and lower-income Member States tend to have lower semi-elasticities. Semi-
+elasticities also appear to be subject to an emulation effect between neighbouring Member States
+within the EU.
+
+We also confirm the robustness of our methodology to some simplifying assumptions. Alternative
+calculations of the CAB, relaxing some simplification assumptions made by the EU common
+methodology, do not affect the results substantially, validating our methodology empirically.
+
+The remainder of this paper is organised as follows: Section 2 recalls the methodology to compute
+the semi-elasticities and the CAB. Section 3 sets out the revised estimates of the fiscal semi-elasticities
+and the sources of revision. Section 4 offers some sensitivity analysis and examines the determinants
+of the fiscal semi-elasticities by way of panel data econometrics. Section 5 exposes how these
+revisions affect the CAB. The different annexes present i) a pedagogical step-by-step derivation of the
+value of the semi-elasticities, also with the aim to ensuring the replicability of the results, ii) the
+detailed mathematical derivation of the cyclical adjustment formula, iii) the data sources, codes and
+data treatments, iv) the value of weights and semi-elasticities in 2018 compared with that of last
+update in 2014, v) additional information on the sensitivity analysis and the exploratory econometric
+analysis on possible determinants.
+
+2 Throughout, EU refers to the 28 EU Member States at the time of our analysis
+
+                                                                    9
+Box 1.1. THE ROLE OF FISCAL ELASTICITIES IN THE EU BUDGETARY RULES AND CALENDAR ISSUES
+
+Fiscal elasticities are instrumental to the implementation of the EU fiscal rules, known as Stability
+and Growth Pact (SGP). Indeed, the change in the structural balance, defined as the CAB minus one-off
+measures, is a key indicator to measure the fiscal effort made by the government, in response to the
+requirement of fiscal rules (Larch and Turrini, 2009). This is true in the preventive arm, where the
+expenditure benchmark- a spending rule often considered as more predictable - is the other indicator to
+measure the fiscal adjustment by government. This is also true in the corrective arm, where the nominal
+deficit targets to correct the excessive deficit are then converted in structural balance terms and finally
+expressed in operational spending growth limit.
+
+The revision of the semi-elasticities follows a pre-defined institutional process involving the Member
+States (Figure 1.1). Every 9 years (i.e. 3 MTO cycles), the individual output elasticities of the revenue and
+expenditure components of the government budget balance are re-estimated. The next update will be
+completed by end-2024. It will then be used in fiscal surveillance as of spring 2025 to determine the fiscal
+requirement for 2026, 2027 and 2028. The weights used to combine these elasticities into an aggregate
+semi-elasticity of the government balance to output are updated every 6 years (i.e. 2 MTO cycles). The
+present update has been endorsed by the Member States (in the context of the Economic Policy Committee)
+and will be used in setting the next MTO as of 2019. For sake of consistency, the new elasticity will also be
+used as of 2019 to compute the structural balance. The next update should be completed by the end 2024,
+alongside the revisions of the individual revenue and spending elasticities. These updates are conducted in
+cooperation with Member States and overseen by the members of the output gap working group (OGWG).
+The structural balance is computed with the new semi-elasticities as from the start of the year following the
+endorsement of the update.
+
+Figure 1.1. Timeline of the revisions of the semi-elasticities
+
+                 2013       2016           2019                    2022       2025
+              MTO cycle  MTO cycle      MTO cycle               MTO cycle  MTO cycle
+
+              (2014-16)  (2017-19)      (2020-22)               (2023-25)  (2026-28)
+
+              Update:    Update:        Update:                 No update  Update:
+
+New           âœ“                         âœ“                                  âœ“
+
+weights
+
+New
+
+individual               âœ“                                                 âœ“
+
+elasticities
+
+Note: The MTO cycle is identified by the year T, when the country appoints their new MTO,
+which is applied to determine the fiscal requirement applying youâ€™re the three following year
+(T+1, T+2 and T+3). These three years of application are shown in bracket.
+Source: European Commission Services
+
+                                    10
+2. THEORETICAL FRAMEWORK FOR COMPUTING THE
+        CYCLICALLY-ADJUSTED BUDGET BALANCE
+
+2.1. CYCLICAL ADJUSTMENT: THE MAIN CONCEPTS
+
+The cyclically-adjusted budget balance (CAB) corresponds to the deficit/surplus-to-GDP ratio
+that would prevail if the economy was running at its potential. It is computed as the difference
+between the actual balance-to-GDP ratio and an estimated cyclical component. In algebraic terms:
+
+í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí±¡í µí±¡     =  (í µí±…í µí±…í µí±¡í µí±¡  âˆ’                     í µí°ºí µí°ºí µí±¡í µí±¡ )  âˆ’    í µí¼€í µí¼€  í µí±‚í µí±‚í µí±¡í µí±¡  =      âˆ’  í µí¼€í µí¼€  í µí±‚í µí±‚í µí±¡í µí±¡        (1)
+                                   í µí±Œí µí µí±Œí±¡í µí±¡
+where R and G stand for the nominal government revenue and expenditure respectively and Y for
+
+nominal GDP. The headline budget balance B is defined as the difference between the nominal
+
+government revenue and expenditure (in percentage of GDP). The cyclical component of the budget
+
+balance is the product of a cyclical adjustment parameter (Îµ, the semi-elasticity of the headline budget
+
+balance to output) and the output gap (OG). This cyclical component is subtracted from B to obtain the
+
+CAB. This formula is the linear approximation of an exponential expression3. It has the merit of being
+
+easily calculated and clearly communicable to policymakers. To avoid any undesirable breaks in
+
+statistics, we apply the most recent semi-elasticities Îµ consistently over time in order to derive the
+
+whole CAB time-series used in the fiscal surveillance and available in AMECO.
+
+The cyclical component (í µí¼€í µí¼€ í µí±‚í µí±‚í µí±¡í µí±¡) is by definition proportional to the output gap. The assessment of
+the cyclical position of the economy is the first key input for the computation of the CAB. It is
+provided by the output gap, i.e. the distance between actual and potential real GDP in percentage
+points of potential output: í µí±‚í µí±‚ = (í µí±Œí µí±Œ âˆ’ í µí±Œí µí±Œí µí±í µí±)â„í µí±Œí µí±Œí µí±í µí±. The method currently applied by the Commission to
+measure the output gap is based on a production function (Havik et al., 2014; Mc Morrow, 2015).
+Output gap estimates are surrounded by a degree of uncertainty and, therefore, often subject to
+significant revisions. It appears difficult in practice to estimate potential output in real time, especially
+at cyclical turning points or in the presence of structural breaks (see D'Auria et al., 2010). As we show
+in Section 5.2.1, revisions to the output gap have a more sizeable impact on the CAB than the semi-
+elasticity revisions.
+
+The budgetary semi-elasticity (í µí¼€í µí¼€) measures the sensitivity of the budget balance as a share of
+GDP to the economic cycle. Mathematically, it measures the absolute change of a variable (here the
+budget-to-GDP ratio) as a result of the relative change of another (here GDP). More intuitively, it
+measures by how many percentage points the budget-to-GDP ratio changes for a 1% increase in GDP.
+Importantly, this concept allows for reflecting the impact of the business cycle both on the numerator
+of the budget balance ratio (budget balance in monetary terms) and on its denominator (GDP). The
+semi-elasticity of the budget-to-GDP ratio differs from the concept of budgetary elasticity, which
+measures the relative variation of the budget balance expressed in monetary terms (e.g. in euro)
+resulting from a unitary relative variation in output (say an output gap of 1%). As seen in the next sub-
+section, the budgetary semi-elasticity can be derived as a linear combination of the tax and
+expenditures elasticities.
+
+                                                                                                                 í µí±‘í µí±‘ ï¿½í µí±Œí µí±Œï¿½  (2)
+                                                                                                                  í µí±‘í µí±‘
+í µí±†í µí±†í µí±†í µí±†í µí±†í µí±†í µí±†í µí±†  âˆ’  í µí±’í µí±’í µí±’í µí±’í µí±’í µí±’í µí±’í µí±’í µí±’í µí±’í µí±’í µí±’í µí±’í µí±’  í µí±œí µí±œí µí±œí µí±œ  â„Ž  í µí±Ÿí µí±Ÿ      /í µí±Œí µí±Œ  =  í µí¼€í µí¼€  =
+
+                                                                                                                          í µí±Œí µí±Œ
+
+3 See Annex II for the mathematical derivation of this approximation and Section 4.1 for a sensitivity analysis.
+                                                                   11
+                                                         í µí±‘í µí±‘
+
+â‰   í µí°¸í µí°¸ í µí±œí µí±œí µí±œí µí±œ    = í µí¼‚í µí¼‚  =        
+                                                         í µí±‘í µí±‘
+
+                                                         í µí±Œí µí±Œ
+
+The budgetary semi-elasticity is equal to the difference of the semi-elasticity of revenue and the
+semi-elasticity of expenditure. Rewriting the actual surplus/deficit in terms of its components
+(revenue and expenditure), the semi-elasticity Îµ can be broken down into the semi-elasticities of the
+two sides of the budget balance (revenue and expenditure).
+
+   í µí¼€í µí¼€  =  í µí±‘í µí±‘ ï¿½í µí±Œí µí±Œï¿½            =  í µí±‘í µí±‘ ï¿½í µí µí±…í±Œí µí µí±Œí±…ï¿½  âˆ’  í µí±‘í µí±‘ ï¿½í µí µí°ºí±Œí µí µí°ºí±Œï¿½  =  í µí¼€í µí¼€í µí±…í µí±…  âˆ’  í µí¼€í µí¼€í µí°ºí µí°º        (3)
+             í µí±‘í µí±‘                      í µí±‘í µí±‘              í µí±‘í µí±‘
+
+                               í µí±Œí µí±Œ     í µí±Œí µí±Œ                     í µí±Œí µí±Œ
+
+where ÎµR and ÎµG denote respectively the semi-elasticity of (total) revenue and expenditure with respect
+to GDP.
+
+The semi-elasticity of revenue is fairly close to zero, since the revenue to GDP ratio is quite stable
+over time. Revenues in the Member States - except for non-tax revenue - broadly follow the cyclical
+developments in GDP. Therefore, total revenue as a percentage of GDP does not vary much with the
+cycle (Figure 2.1). Hence, while the elasticity of revenue (expressed in monetary amount) is close to 1,
+the semi-elasticity of revenue ÎµR is close to zero, which is a frequent source of confusion.
+
+Figure 2.1. Composition of the general government revenue (EU, % of GDP)
+
+50%
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+
+ 5%
+ 0%
+
+         2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+
+Personnal income tax                 Corporate income tax                                    Indirect taxes
+Social security contributions        Non-tax revenues                                        Total revenue
+
+Note: EU refers to the EU Member States at the time of our analysis
+Source: AMECO, Spring forecast 2018, authors' calculations
+
+Among all expenditures, only unemployment-related spending is considered to have a marked
+cyclical pattern. Unemployment-related spending follows the unemployment rate variations, which
+are closely linked to the economic cycle. However, they only form a small fraction of total public
+spending (Figure 2.2). Other expenditure is assumed invariant with the cycle. In other words, the low
+cyclicality of expenditure makes the expenditure-to-GDP ratio clearly counter cyclical, since the ratio
+is mainly influenced by its denominator (GDP) with little offsetting effect from the numerator
+(expenditure). In particular, the expenditure to GDP ratio increased from 45% to 50% during the crisis.
+As this ratio rises in bad times and decreases in good times: í µí¼€í µí¼€í µí°ºí µí°º is negative.
+
+                                                                   12
+Figure 2.2. Composition of the general government expenditure (EU, % of GDP)
+
+Note: EU refers to the EU Member States at the time of our analysis
+Source: AMECO, Spring forecast 2018, authors' calculations
+
+A positive fiscal semi-elasticity for all Figure 2.3. Composition of the general government
+
+Member States (í µí»†í µí»† > 0) means that the expenditure (EU, % of GDP)
+
+headline budget balance increases in good
+times and deteriorates in bad times. The 4 %
+
+cyclical inertia of public spending (see 2 %
+
+above, í µí¼€í µí¼€í µí°ºí µí°º < 0), combined with the 0 %
+
+cyclically-driven pattern of public revenue -2 %
+(see above, í µí¼€í µí¼€í µí±…í µí±… â‰ˆ 0), corresponds to the so-
+called fiscal stabilisers: the headline budget     -4 %
+
+balance deteriorates in economic troughs and -6 %
+
+improves in booms, which mitigates the -8 %
+
+business cycle itself by supporting domestic             2002
+                                                             2003
+demand (i.e. exercising a counter-cyclical                       2004
+effect). The correlation between the output                          2005
+                                                                         2006
+                                                                             2007
+                                                                                  2008
+                                                                                      2009
+                                                                                          2010
+                                                                                              2011
+                                                                                                  2012
+                                                                                                       2013
+                                                                                                           2014
+                                                                                                               2015
+                                                                                                                   2016
+                                                                                                                       2017
+
+                                                                     Output Gap  Nominal Balance  CAB
+
+gap and the headline balance in the EU is
+
+equal to 71%, whereas the correlation of the Note: EU refers to the EU Member States at the time of our
+
+output gap with the CAB (correcting for this analysis
+
+cyclical component) drops dramatically to Source: AMECO, Spring forecast 2018, authors' calculations
+
+17% (Figure 2.3). The CAB is therefore
+
+more representative of the fiscal stance decided by governments.
+
+2.2. COMPONENTS OF THE REVENUE AND EXPENDITURE ELASTICITIES
+
+This paper updates the aggregate semi-elasticities. The aggregate semi-elasticities of revenue and
+expenditure are based on the elasticities of their components (Mourre et al., 2014). Four individual
+revenue categories (personal income taxes, corporate income taxes, indirect taxes, social security
+contributions, denoted R1<i<4) and one spending category (unemployment-related expenditure, denoted
+Gu) are found sensitive to the economic cycle. Non-tax revenue (sales and capital transfers other than
+capital taxes, R5) and other expenditure (Go) are assumed to be non-cyclical.4 For each Member State,
+the elasticities (í µí¼‚í µí¼‚í µí±…í µí±… and í µí¼‚í µí¼‚í µí°ºí µí°º) of total revenue (R) and expenditure (G) are calculated as a weighted
+
+4 Attempts to identify a cyclical pattern in non-tax revenue and other expenditure, such as income-based
+transfers, were inconclusive (e.g. Price et al., 2015).
+
+                                                   13
+average of the elasticities of their components (í µí¼‚í µí¼‚í µí±…í µí±…,í µí±–í µí±– and í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¢í µí±¢). These aggregate elasticities can then be
+converted into the semi-elasticities ÎµR and ÎµG as follows (see also annex I):
+
+                                                                                               4
+                                                   í µí±…í µí±…                           í µí°ºí µí°º     ï¿½ï¿½ï¿½ í µí±–ï¿½í µí±–=ï¿½1ï¿½í µí¼‚í µï¿½í¼‚í µí±…í µï¿½í±…,í µí±–í µí±–ï¿½í µí µí±…í±…í µí µí±…í±…í µï¿½í±–í µí±– âˆ’ï¿½ï¿½1ï¿½ï¿½ï¿½ï¿½í µí µí±…í±Œí µí µí±Œí±…  âˆ’ ï¿½ï¿½í µí¼‚ï¿½í µí¼‚í µí°ºï¿½í µí°º,í µï¿½í±¢í µí±¢ï¿½í µí°ºí µí µí°ºï¿½í°ºí µí µí°ºí±¢í µí±¢ ï¿½âˆ’ï¿½ï¿½1ï¿½ï¿½ï¿½í µí µí°ºí±Œí µí µí°ºí±Œ
+í µí¼€í µí¼€  =  í µí¼€í µí¼€í µí±…í µí±…  âˆ’ í µí¼€í µí¼€í µí°ºí µí°º  =  (í µí¼‚í µí¼‚í µí±…í µí±…  âˆ’ 1) í µí±Œí µí±Œ âˆ’ (í µí¼‚í µí¼‚í µí°ºí µí°º  âˆ’   1)        í µí±Œí µí±Œ  =                                                                                                                    (4)
+                                                                                                          í µí¼€í µí¼€í µí±…í µí±…                                                     í µí¼€í µí¼€í µí°ºí µí°º
+
+                                  í µí¼€í µí¼€       =   4               âˆ’  1)  í µí±…í µí±…í µí±–í µí±–  âˆ’     í µí±…í µí±…5  âˆ’(í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¢í µí±¢  âˆ’  1)  í µí°ºí µí°ºí µí±¢í µí±¢  +  í µí°ºí µí°ºí µí±œí µí±œ                                                                 (5)
+                                                                        í µí±Œí µí±Œ            í µí±Œí µí±Œ                           í µí±Œí µí±Œ         í µí±Œí µí±Œ
+                                                ï¿½(í µí¼‚í µí¼‚í µí±…í µí±…,í µí±–í µí±–
+
+                                                í µí±–í µí±–=1
+
+In the present update only the weights used to aggregate the elasticities of the revenue and
+expenditure components into the headline budget balance semi-elasticity are updated. The
+following weighting parameters are updated in order to derive the new budgetary semi-elasticities
+(Table IV.1 Table IV.2 in annex IV):
+
+   â€¢ The revenue and expenditure structure
+       âˆ’ the share of the five individual revenue categories in % of total general government revenue
+           (Riâ„R),
+       âˆ’ the share of the unemployment-related expenditure in % of total general government
+           expenditure (GUâ„G).
+
+   â€¢ The aggregate revenue and expenditure ratios
+       âˆ’ the weight of total general government revenue in % of GDP (R/Y),
+       âˆ’ the weight of total general government expenditure in % of GDP (G/Y).
+
+Elasticities are assumed to be constant in Equation (4). The elasticities of the revenue and
+expenditure components are taken from (Mourre et al., 2014; Price et al., 2014), and are assumed to be
+constant. They are recalled in Table III.1 in annex. The elasticities of the cyclical revenue are above 1
+for personal income tax and corporate income tax, below 1 for social security contributions (except for
+EE, IE and LT) and by assumptions equal to 1 for indirect taxes (except for IT) and equal to 0 for non-
+tax revenue.5 The elasticity of unemployment related expenditure is (very) negative but its weight in
+total expenditure is no larger than 6%. Other expenditure has an elasticity of 0 by assumption.6
+
+The weights are computed as ten year averages. The weights are in principle time varying. It is
+however, much more convenient to assume that they are constant in order to compute a unique semi-
+elasticity per Member State (see Sections 4.1 and 5.2.2 for a sensitivity analysis of the time-varying
+nature of the weights). In Mourre et al., 2013, weights were computed as 10-year averages over the
+2002â€“2011 period. For the current update they are computed as 10-year averages over the 2008â€“2017
+period. Since the previous estimation, these weights have also been revised according to the new ESA
+2010 framework for National Accounts. These are the two main sources of revisions of the fiscal
+elasticities (see Section 3.2.1).
+
+5 The elasticity of non-tax revenue is set at 0. Attempts in the past to identify a cyclical pattern turn very
+inconclusive (Price et al., 2015).
+6 In this respect, it should be recalled that attempts to identify the cyclicality of other expenditure, such as
+income-based transfers were inconclusive (Price et al., 2015).
+
+                                                                   14
+Figure 2.4. Decomposition of the fiscal semi-elasticities
+ 0,8
+
+0,6
+
+0,4
+
+0,2
+
+0
+
+-0,2
+        BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU
+
+     Direct tax revenues        Other levies                          Non-tax revenues
+
+     Unemployment-related exp.  Expenditure excl. unemployment related Semi-elasticity
+
+Note: EU refers to the EU Member States at the time of our analysis.
+Source: AMECO, Spring forecast 2018, authors' calculations
+
+The main contributor to fiscal semi-elasticities is by far public expenditure, especially that
+unrelated to unemployment, while the contribution of various tax items broadly offset each
+otherâ€™s. Looking at the EU average, expenditure excluding unemployment-related spending appears
+the main driver of fiscal semi-elasticities (Figure 2.4). This is directly due to its large size, around 46%
+of GDP, and its stability in terms of monetary amount, making the expenditure-to-GDP ratio cyclical
+due to the denominator effect. Unemployment-related expenditure brings an additional contribution of
+almost 0.1, because of the highly cyclical fluctuations of unemployment benefits and despite their low
+size as a percentage of GDP. Direct taxes (personal and corporate income taxes) contribute to fiscal
+semi-elasticities by 0.1 as well, due to their progressivity. In contrast, non-tax revenue and other levies
+(indirect taxes and social security contributions) contribute negatively to the semi-elasticities, due to
+no or limited responsiveness to the business cycles. This decomposition of the semi-elasticities for the
+EU is similar across Member States.
+
+                                              15
+3. REVISIONS OF THE FISCAL SEMI-ELASTICITIES
+
+This section first presents the updated semi-elasticities and compares them to those from Mourre et al.
+(2014). We then analyse the causes of revision along several dimensions.
+
+3.1 THE REVISED SEMI-ELASTICITIES
+
+The semi-elasticity of the budget balance in the EU is equal to 0.50 on average and ranges from
+0.29 (BG) to 0.63 (FR). (Table I.3 in annex) Due to these differences, the cyclical component of the
+budget balance corresponding to a one-percent output gap would be around 0.6% of (potential) GDP
+in FR compared to around 0.3% of (potential) GDP in BG.
+
+Three categories of Member States could be identified regarding the size of their fiscal semi-
+elasticities. The â€œhigher semi-elasticityâ€ countries experience a semi-elasticity (somewhat) higher
+than 0.55, which corresponds to the semi-elasticity of the EU treated as a single country. This category
+includes â€œoldâ€ Member States (i.e. Members of the EU before 2004) with fairly high size of
+government (FR, BE, DK, FI and AT) or/and with high expenditure elasticity due to a large share of
+unemployment-related expenditure (NL and ES). The â€œmedium-sized semi-elasticityâ€ countries show
+a semi-elasticity ranging from almost 0.45 to 0.55. This category corresponds to the majority of EU
+Member States and is fairly heterogeneous (SE, UK, IT, PT, EL, IE, CY, DE, PL, EE, MT, SI, LU,
+HU and HR). The â€œlower semi-elasticityâ€ countries have a semi-elasticity comprised between 0.3 and
+0.4. This category covers countries with a relatively low size of government and having acceded the
+EU in 2004 or thereafter (LT, CZ, SK, LV, RO and BG).7
+
+On the revenue side, the semi-elasticities are close to zero. As mentioned in Section 2, this result
+stems from the fact that revenue is almost as cyclical as GDP and therefore the revenue-to-GDP ratio
+remains broadly stable throughout the business cycle. The semi-elasticity of revenue ranges from -0.08
+(BG) to 0.09 (UK). It is positive for EE, IE, ES, IT, CY, MT, NL, PL and UK which indicates that the
+tax system in those countries is overall (slightly) progressive: the revenue to GDP ratio increases
+(slightly) following an increase in GDP. In FR, the tax system is almost neutral while in the remaining
+Member States, the tax system is (slightly) regressive.
+
+The expenditure semi-elasticity is on average equal to -0.50, ranging from -0.37 (RO) to -0.64
+(FI). Expenditure semi-elasticities contribute to a larger extent than revenue semi-elasticities to
+disparities across Member States. Their values broadly correspond to the share of total expenditure in
+GDP: as mentioned in Section 2, for the most part, expenditure is assumed acyclical; therefore the
+semi-elasticity of public expenditure to output is close to the share of this expenditure to GDP (see
+Equation (4)). It follows that the expenditure to GDP ratio has a first order scaling effect on the semi-
+elasticity of the budget balance (Figure 3.2). In particular, low shares of expenditure to GDP in
+Member States who joined the EU as of 2004 are associated with low budget balance semi-
+elasticities.8
+
+The 2018 semi-elasticities of the budget balance are very close to the 2014 estimates (Table IV.3
+in annex and Figure 3.1). Overall, the revisions to the total semi-elasticities are negative in 18 cases
+out of 28. On average they are equal to -0.01 and the standard deviation of the revisions is equal to
+0.03 which remains small compared to the average semi-elasticity (0.50). The semi-elasticities
+
+7 While the gap between the lower and medium size categories is large (0.4), it is more moderate between the
+high and medium size categories (almost 0.2), which could be seen as the existence of a continuum between
+those.
+8 Especially BG, CZ, EE, HR, LV, LT, HU, PL, RO, SI and SK.
+
+                                                                   16
+changed by 0.04 point in absolute terms in EE, EL, CZ, HU, NL, SE and UK, by 0.05 point in DE and
+0.06 in ES. For the other Member States, the absolute revisions are lower.
+
+Figure 3.1. Revised budget balance semi-elasticities                             2014                       Avg 2018          Avg 2014
+
+ 0,7
+                                                                           2018
+
+ 0,6
+
+0,5
+
+0,4
+
+0,3
+
+0,2
+
+0,1
+
+    0
+         FR BE NL ES DK FI AT EU SE UK IT PT EL IE CY DE PL EE MT SI LU HU HR LT CZ SK LV RO BG
+
+Note: EU refers to the EU Member States at the time of our analysis.
+Source: AMECO 2018 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+Figure 3.2. Expenditure to GDP and the semi-elasticities of the budget balance
+
+                                0,65
+
+                                          y = 0,0114x - 0,0248                                                      BE        FR
+                                                 RÂ² = 0,57
+Budget balance semi-elasticity  0,60                                      ES NL                                         DFKI
+
+                                0,55                                              EU                 IT SE  AT
+                                                                                 PT
+                                                                          UK
+
+                                                           IE                 DE EU (avg)                       EL
+                                                                  CY                       HR SHI U
+                                0,50                       EEMT       PL
+                                0,45
+                                                                      LU
+
+                                0,40          LT                SKCZ
+                                                       LV
+
+                                0,35
+
+                                0,30      RO
+
+                                          BG
+
+                                0,25
+
+                                      35      40                          45     50                                 55                  60
+                                                                      10Y avg public expenditure as % of GDP
+
+Note: EU refers to the EU Member States at the time of our analysis.
+Source: AMECO 2018 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+3.2 REVISIONS AND THEIR CAUSES
+
+3.2.1 Sources of revision of semi-elasticities
+
+With respect to the latest estimates, three methodological sources of revisions affect the semi-
+elasticities. First, a major revision of the European System of Accounts in 2010 led to major changes
+in the categorisation of transactions in the general government accounts as well as a redefinition of
+GDP. Second, the new weights are computed on a more recent time window (2008-2017 instead of
+2002-2011) which includes almost all years of the Great Recession and its aftermath, including major
+
+                                                                   17
+changes in countriesâ€™ fiscal policies (see Section 4.1). Finally, the treatment of the data has been
+improved, noticeably thanks to better data availability and time coverage, which allows reducing the
+use of imputations for missing data and of other data sources than AMECO. We use consistently
+AMECO for all weights, including the breakdown of direct taxes into personal and corporate income
+taxes (see annex III).
+
+The revisions of the semi-elasticities are smaller on the revenue side than on the expenditure side
+(Figure 3.3). On the revenue side, the revisions to the semi-elasticities are in most cases negative and
+primarily explained by the introduction of ESA2010 and the change in the time window. On the
+expenditure side, the revisions are primarily driven by the change of the time window and are positive
+for the EU.
+
+On the revenue side, all but five revisions are downward. These revisions are slightly smaller than
+those on the expenditure side. They are linked to the shift in time period and the new national accounts
+system (ESA 2010), both contributing negatively in the majority of cases.
+
+On the expenditure side, there are downward revisions in 15 cases out of 28.9 These downward
+revisions are associated with increases in the share of public expenditure to GDP, primarily due to the
+new time window which is centred on the crisis years. The new national accounts system (ESA 2010)
+often has a positive contribution to the revision of the expenditure semi-elasticities. On the budget
+balance semi-elasticities, the contributions from the expenditure side will therefore be reversed:
+downward for the ESA revision and upward for the new time window.
+
+Increased data coverage explains the largest data treatment revisions (HR and MT). The data
+treatment revision for revenues in MT can be explained by the fact that for MT personal and corporate
+income taxes are estimated, since their values are missing in the AMECO database. However, with the
+new estimate, their sum is benchmarked on reported data (see annex III for further information). For
+HR the data treatment revision is explained by the shift from using the IMF as data source for personal
+income and corporate taxes (Mourre et al., 2014) towards using the AMECO database for the 2018
+calculations. This unification of data sources is possible because HR has been reporting more
+information to Eurostat following its accession.
+
+9  We  recall  here  that  í µí¼€í µí¼€  =  í µí¼€í µí¼€í µí±…í µí±…  âˆ’  í µí¼€í µí¼€í µí°ºí µí°º  and  í µí¼€í µí¼€í µí°ºí µí°º  =  ï¿½í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¢í µí±¢  í µí°ºí µí°ºí µí±¢í µí±¢  âˆ’  1ï¿½  í µí°ºí µí°º,  see  Equation  (4)
+                                                                                             í µí°ºí µí°º
+                                                                                                              í µí±Œí µí±Œ
+
+                                                                                                          18
+Figure 3.3. Sources of revision of the semi-elasticities
+                                                                 a. Revenue (ÎµR)
+
+   0,08
+   0,06
+   0,04
+   0,02
+   0,00
+  -0,02
+  -0,04
+  -0,06
+
+             BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU
+                       Data treatment revision ESA revision Time window revision Total revision
+
+                                                              b. Expenditure (ÎµG)
+    0,06
+    0,04
+    0,02
+    0,00
+   -0,02
+   -0,04
+   -0,06
+   -0,08
+
+             BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU
+                       Data treatment revision ESA revision Time window revision Total revision
+
+                                                            c. Budget balance (Îµ)
+    0,08
+    0,06
+    0,04
+    0,02
+    0,00
+   -0,02
+   -0,04
+   -0,06
+   -0,08
+
+             BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU
+                       Data treatment revision ESA revision Time window revision Total revision
+
+Note: EU refers to the EU Member States at the time of our analysis.
+Source: AMECO 2018 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+                                                                   19
+3.2.2 Contribution of the revenue and expenditure components to the revision
+
+We can decompose the revisions of the semi-elasticities into the effect of the revenue/expenditure-to-
+GDP ratios (R/Y, G/Y) and the composition effect reflected by their elasticities (Î·í µí±…í µí±…, Î·í µí°ºí µí°º;
+Equation (6)).10
+
+í µí±…í µí±…  í µí°ºí µí°º                                                            (6)
+í µí¼€í µí¼€í µí±…í µí±… = í µí±Œí µí±Œ âˆ— (Î·í µí±…í µí±… âˆ’ 1) í µí±Ží µí±Ž í µí¼€í µí¼€í µí°ºí µí°º = í µí±Œí µí±Œ âˆ— (Î·í µí°ºí µí°º âˆ’ 1)
+
+While the revenue revisions are primarily driven by changes in the revenue-to-GDP ratio, the
+expenditure revisions are mostly driven by changes in the aggregate revenue elasticity (Figure
+3.4). On the revenue side, revisions are primarily driven by changes in the total revenue-to-GDP ratio:
+as most revenue categories have non-zero elasticities, changes in their relative weights have a limited
+impact on the revision of total revenue elasticity Î·í µí±…í µí±…. The total expenditure elasticity is, on the
+contrary, quite sensitive to expenditure composition effects. Because of the strong difference in
+elasticity of unemployment related expenditure and other expenditure, revisions are mainly driven by
+changes in Î·í µí°ºí µí°º.
+
+In more details, revisions can be decomposed into the contribution of the individual revenue and
+expenditure components (Box 5.1). On the revenue side, the revisions' primary driving force is non-
+tax revenue (Figure 3.5.a), which saw an increase of its share in total revenue between the 2014 and
+the 2018 estimate in all Member States beside PL and CY. This together with a decrease in the share
+of corporate tax in most Member States led to negative revisions of the revenue semi-elasticities. The
+large contributions of personal and corporate income tax for HR and MT are linked to the data
+revisions mentioned in Subsection 3.2.1. On the expenditure side, unemployment-related expenditure
+and other expenditure equally drive the revisions, which frequently have the same directionality
+(Figure 3.5.b). The share of unemployment-related expenditure, as % of total expenditure, decreased
+in 18 countries (Table IV.2 in annex), contributing positively to the revision of the semi-elasticity.
+This was caused by both time-window and ESA revisions.
+
+10 The effect of the revision of the total revenue and expenditure elasticities is fully due to the change in the
+composition of revenue and expenditure since the individual elasticities of their components are unchanged.
+
+                                                                   20
+Figure 3.4. Contribution to the revision of the semi-elasticities
+                                                                 a. Revenue (ÎµR)
+
+   0,08
+   0,06
+   0,04
+   0,02
+   0,00
+  -0,02
+  -0,04
+  -0,06
+
+            BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU
+                              Elasticity of revenue-to-GDP ratio Revenue-to-GDP ratio Revenue
+
+                                                           b. Expenditure (ÎµG)
+0,06
+
+0,04
+
+0,02
+
+0,00
+
+-0,02
+
+-0,04
+
+-0,06
+
+-0,08
+          BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU
+
+       Elasticity of expenditure-to-GDP ratio  Expenditure-to-GDP ratio             Expenditure
+
+Note: EU refers to the EU Member States at the time of our analysis.
+Source: AMECO 2018 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+                                               21
+Figure 3.5. Components' contribution to the revision of the semi-elasticities
+
+                                                             a. Revenue (ÎµR)
+0,08
+
+0,06
+
+0,04
+
+0,02
+
+0,00
+
+-0,02
+
+-0,04
+
+-0,06
+          BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU
+
+       Personal income tax  Corporate income tax                                    Social security contributions
+       Indirect tax         Non-tax revenue                                         Revenue
+
+                                                           b. Expenditure (ÎµG)
+0,06
+
+0,04
+0,02
+
+ 0,00
+-0,02
+
+-0,04
+-0,06
+
+-0,08
+          BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU
+
+       Unemployment-related expenditures      Other expenditure                     Expenditure
+
+Note: EU refers to the EU Member States at the time of our analysis.
+Source: AMECO 2018 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+                                          22
+4. ANALYSIS OF THE SEMI-ELASTICITIES
+
+In this section, we examine the robustness of the EU methodology of fiscal cyclical adjustment to the
+use of some simplifying assumptions, by introducing time-varying weights. We also run exploratory
+panel data analysis based on the four available vintages of semi-elasticities to investigate the
+relationship between semi-elasticities and economic and geographical factors.
+
+4.1 SENSITIVITY ANALYSIS TO TIME VARIATION
+
+We undertake a preliminary sensitivity analysis by calculating the semi-elasticities of the budget
+balance with annual time varying weights (Figure 4.1). The whiskers illustrate the maximum and
+minimum values while the boxes illustrate the middle 50% of the estimations between 2002 and 2017.
+For EE, IE, EL, ES, CY, LT, SI, the max to min distance is larger than 0.15. As expected, the new
+estimates, which rely on 10-year average weights, are within the middle of the distribution.
+Interestingly, despite the new ESA, the revisions of semi-elasticities since the last update appear
+relatively minor compared to the hypothetical revisions occurring if annual time varying weights were
+to be used. For some countries, the potentially large year-on-year volatility in the semi-elasticity
+highlights the trade-off between the communicability of a simple measure in the context of fiscal
+surveillance and tracking changes in the revenue and expenditure structure in the Member States.
+
+Figure 4.1. Dispersion of budget balance semi-elasticities with time varying weights between 2002 and
+2017
+
+0,8
+
+         Mourre et al (2014)                                                        2018
+
+0,7
+
+0,6
+
+0,5
+
+0,4
+
+0,3
+
+0,2
+
+     BE
+         BG
+              CZ
+                  DK
+                       DE
+                            EE
+                                IE
+                                     EL
+                                          ES
+                                              FR
+                                                   HR
+                                                        IT
+                                                            CY
+                                                                 LV
+                                                                      LT
+                                                                          LU
+                                                                               HU
+                                                                                    MT
+                                                                                        NL
+                                                                                             AT
+                                                                                                  PL
+                                                                                                      PT
+                                                                                                           RO
+
+                                                                                                                SI
+                                                                                                                    SK
+                                                                                                                         FI
+                                                                                                                              SE
+                                                                                                                                  UK
+                                                                                                                                       EU
+
+Note: EU refers to the EU Member States at the time of our analysis.
+Source: AMECO 2018 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+     23
+For EE, IE, and ES, the dispersion of the       Figure 4.2. Time varying fiscal semi-elasticities
+time varying semi-elasticity is quite large     (three examples)
+(0.20, 0.43 and 0.20 respectively). The recent
+crisis led to drastic increases of the semi-    0,8
+elasticities from 2008 onwards (Figure 4.2).
+This was primarily driven by decreasing         0,7
+expenditure semi-elasticities across all three  0,6
+countries, which was caused by increasing
+unemployment expenditure. While they            0,5
+amounted to 0.94% of GDP (EE), 4.23% of         0,4
+GDP (IE) and 4.02% of GDP (ES) in 2006,
+they increased to 4.51%, 4.79% and 6.69%        0,3
+respectively in 2009. The extent of decreasing
+expenditure semi-elasticities (which has a                             2002 2004 2006 2008 2010 2012 2014 2016
+positive effect on the budget balance
+elasticities) more than compensated for the                            EE  IE  ES
+parallel decreasing revenue semi-elasticities.
+                                                Source: AMECO 2018 Spring forecast, Mourre et al. (2014)
+                                                and authors' calculations
+
+Smoothing out the effect of the economic and financial crisis barely affects the semi-elasticities,
+which would become only marginally lower than the revised value (Table V.1 in annex). We
+smooth out the effect of the Great Recession in two ways. First, we exclude capital transfers11 from
+total expenditure in order to exclude one-off capital transfers (bank recapitalisation) that occurred
+during the financial crisis. Excluding capital transfers from public expenditure (denoted G in
+Equation (4)) would automatically decrease the semi-elasticities compared to the proposed update.
+The effect on the semi-elasticity is on average only of -0.01 and ranges between 0 and -0.03. Second,
+we also calculate the semi-elasticities using the full 2002-17 time-window to reduce the weight of the
+crisis in an expanded sample. The revisions compared to the present estimates would be negative for
+most Member States (also -0.01 on average) and range from 0.02 to -0.04. The decrease in the semi-
+elasticities would be the most sizeable for the three countries were the weights are the most time
+varying (-0.04 for EE and ES, -0.03 for IE). In the case of EE or ES, this would mitigate the upward
+revision of the semi-elasticity. For IE it would further increase the downward revision of the semi-
+elasticity.
+
+Empirically observable semi-elasticities â€“ measured from a year to another - are far more
+volatile than our time varying estimates and their information is not easy to interpret (Figure
+4.3). By making the weights time-varying, we capture part of the year-on-year variations of the fiscal
+elasticities. Our estimates however neglect other sources of volatility, in particular changes to the
+individual elasticities and the impact of new policy decisions. While the comparison between our
+estimates and the empirical elasticity illustrates the existence of other sources of volatility, it should be
+borne in mind that the empirically observable semi-elasticities remain a temporal concept (measured
+between two years) and cannot be equated to the underlying cyclical semi-elasticities (unobserved
+concept, used to correct the cyclical component for a given year). In practice the empirical semi-
+elasticities greatly depart from our estimates and show large variations, sometimes linked numerically
+to small GDP growth rates in the denominator. For instance on the IE case, which shows one of the
+greatest volatility, the pic observed in 2010 in the time-varying semi-elasticities (Figure 4.2) is very
+limited compared to the jump in the empirical semi-elasticity that same year (Figure 4.3). In addition
+to this high volatility, country comparisons show that the empirical semi-elasticity does not fluctuate
+around the value computed using the EU methodology (from a detailed approach considering each
+revenue and expenditure item separately). The effective semi-elasticities are therefore hardly
+exploitable in the context of fiscal policy analysis. This confirms the results of Princen et al. (2013).
+
+11 AMECO code UKTGT, ESA/Eurostat D9 paid.
+                                                                   24
+This very strong volatility of empirical elasticities could be traced back to a number of factors.
+Princen et al. (2013) recall the web of possible drivers of empirical semi-elasticities. Four types of
+factors can be distinguished: i) the composition of growth, with more or less tax-rich components; ii)
+asset price cycle effects (generating tax shortfall/windfall); iii) dynamic effects (fiscal drags, but also
+declaration/collection lags) and iv) tax compliance effect (due to higher credit constraints or higher
+rate of bankruptcy in bad times). These elements â€“ not taken into account in the EU methodology â€“ are
+mostly country-specific.
+
+Figure 4.3. Comparison with the empirical semi-elasticities
+
+       EU                                                                           FR
+
+ 1,50  2002                                                   1,50
+ 1,00      2003                                               1,00
+ 0,50          2004                                           0,50
+ 0,00              2005                                       0,00
+-0,50                  2006                                  -0,50
+-1,00                      2007                              -1,00
+-1,50                          2008
+-2,00                              2009
+-2,50                                  2010
+-3,00                                      2011
+-3,50                                           2012
+                                                    2013
+                                                        2014
+                                                            2015
+                                                                2016
+                                                                    2017
+                                                                                          2002
+                                                                                             2003
+                                                                                                2004
+                                                                                                    2005
+                                                                                                       2006
+                                                                                                           2007
+                                                                                                              2008
+                                                                                                                 2009
+                                                                                                                     2010
+                                                                                                                        2011
+                                                                                                                            2012
+                                                                                                                               2013
+                                                                                                                                  2014
+                                                                                                                                      2015
+                                                                                                                                         2016
+                                                                                                                                             2017
+
+       IE                                                                           DE
+
+14,00  2002     1,00
+12,00     2003  0,80
+10,00         20040,60
+                  20050,40
+ 8,00                20060,20
+ 6,00                    20070,00
+ 4,00                        2008-0,20
+ 2,00                           2009-0,40
+ 0,00                               2010-0,60
+-2,00                                   2011-0,80
+                                           2012
+                                               2013
+                                                   2014
+                                                      2015
+                                                          2016
+                                                              2017
+
+                                                                                     2002
+                                                                                         2003
+                                                                                            2004
+                                                                                                2005
+                                                                                                    2006
+                                                                                                       2007
+                                                                                                           2008
+                                                                                                               2009
+                                                                                                                  2010
+                                                                                                                      2011
+                                                                                                                          2012
+                                                                                                                             2013
+                                                                                                                                 2014
+                                                                                                                                     2015
+                                                                                                                                        2016
+                                                                                                                                            2017
+                                                                                    Semi-elasticitiy
+                                                                                    Empirical semi-elasticity
+
+Note: EU refers to the EU Member States at the time of our analysis
+Source: AMECO 2018 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+           25
+4.2 EXPLORATORY ANALYSIS OF DETERMINANTS
+
+This section investigates which cyclical and structural factors can be associated with the semi-
+elasticities. We consider four vintages of the semi-elasticities for the 28 EU countries: i) the present
+estimates, ii) those of Mourre et al (2014), iii) those of Mourre et al (2013), and iv) those of Girouard
+and AndrÃ© (2005), as extended to the EU27 (European Commission, 2005 and 2006).12
+
+We derive a simple model to explain the semi-elasticities from Equation (5) in Section 2. This
+develops the Equation (4) by isolating individual tax and non-tax revenue on the one side and
+unemployment and other expenditure on the other, all taken as a percentage of GDP. Our econometric
+model specification (7) closely follows this formula. The estimated coefficients for Î± and Î² capture the
+average semi-elasticity of the two types of expenditure (unemployment-related spending and the rest),
+while the estimated value for Î³k capture the average semi-elasticity of each revenue component k. The
+residual corresponds to the cross country dispersion and time variations in individual elasticities. Part
+of these effects can be captured with country and vintage fixed effects:
+
+í µí¼€í µí¼€í µí±–í µí±–,í µí±£í µí±£  =  í µí»¼í µí»¼  í µí°ºí µí°ºí µí±¢í µí±¢í µí±–í µí±–,í µí±£í µí±£  +  í µí»½í µí»½  í µí°ºí µí°ºí µí±œí µí±œí µí±–í µí±–,í µí±£í µí±£        5       í µí±…í µí±…í µí±˜í µí±˜,í µí±–í µí±–,í µí±£í µí±£  +  í µí¼‡í µí¼‡  í µí±‹í µí±‹í µí±–í µí±–,í µí±£í µí±£  + í µí»¿í µí»¿í µí±–í µí±–  +  í µí¼‡í µí¼‡í µí±£í µí±£  + í µí¼Œí µí¼Œí µí±–í µí±–,í µí±£í µí±£  (7)
+                        í µí±Œí µí µí±Œí±–í µí±–,í µí±£í µí±£               í µí±Œí µí µí±Œí±–í µí±–,í µí±£í µí±£                     í µí±Œí µí µí±Œí±–í µí±–,í µí±£í µí±£
+                                                                       + ï¿½ í µí»¾í µí»¾í µí±˜í µí±˜
+
+                                                                          í µí±˜í µí±˜=1
+
+with i and v the country and vintages indexes, í µí»¿í µí»¿í µí±–í µí±– country fixed effects, í µí¼‡í µí¼‡í µí±£í µí±£ vintage fixed effects, X
+additional explanatory variables and í µí¼Œí µí¼Œí µí±–í µí±–,í µí±£í µí±£ a residual.
+
+We run several specifications sequentially to seek a parsimonious model (Table 4.1). A
+minimalistic model (column a), including only the total revenue and expenditure to GDP ratio
+(alongside two measures of the business cycle), shows the significance of these two aggregate ratios
+but has a limited explanatory power, due to missing variables. An exhaustive model including all
+revenue and expenditure components (column b, Equation (7)) has a much larger explanatory power,
+but may be partly tautological, since based on the very formula defining the semi-elasticities. Its
+usefulness remains to empirically identify the significant and non-significant variables. For instance,
+the effect of tax revenue categories turns out to be not significant. This result is robust to the
+introduction of vintage dummies (column c) and to the grouping of taxes (column d). This allows
+specifying a reduced model with vintage dummies (column e), which includes only the non-tax
+revenue-to-GDP ratio, the ratios of unemployment-related spending and other expenditure to GDP.
+
+We obtain a baseline specification, which is in line with the expectation from the theory.
+Throughout the models shown in columns (a) to (e), there is no evidence of a residual cyclical effect,
+either measured by the output gap or unemployment gap, which is a desirable feature. Adding the
+deficit does not turn out significant. In an amended reduced model, which we use as our baseline in the
+subsequent regressions shown in annex (column f), we remove all cyclical variables (and the deficit)
+to only retain three significant variables at the 1% threshold (plus vintage dummies, which are jointly
+statistically significant at the 1% threshold). These variables correspond to structural fiscal parameters,
+in particular the size of government, the share of non-tax revenue and the share of unemployment-
+related expenditure.13 The non-significance of tax variables can be related to their weak contribution to
+fiscal semi-elasticities, as shown in Figure 2.4. We also test the restrictions that the coefficient on non-
+
+12 The 2005 vintage of semi-elasticities excludes HR.
+
+13 The size of government (proxied here by the total amount of expenditure â€“ excluding unemployment benefits)
+and the share of non-tax revenue are little affected by the business cycle when expressed in nominal terms and
+therefore highly cyclical when expressed as a ratio to GDP. The unemployment-related expenditure completes
+the picture, since the ratio to GDP is very cyclical, with the combined effects of the numerator and denominator.
+
+                                                                       26
+tax revenue is equal to -1 and that the coefficient on other expenditure is equal to 1, which is accepted
+at the standard 5% threshold, as expected from Equation (5). Also in line with Equation (5), the
+estimated coefficient of unemployment expenditure is not statistically different from 5.15, which is the
+opposite of the panel average of the unemployment expenditure output semi-elasticity. Finally, the
+baseline model is robust to the presence of country fixed effects, which do not substantially improve
+the goodness to fit, although statistically significant.
+
+We investigate the link between the semi-elasticities and economic factors or geographical
+factors. For the present analysis, we consider economic factors potentially related to fiscal elasticities
+(e.g. Figure 3.2, Figure 4.4). In particular, we consider factors related to i) the fundamentals of the
+economy (relative size in the EU, economic volatility, GDP per capita), wage to value-added ratio), ii)
+fiscal and taxation policy (debt and deficit-to-GDP ratio, top personal income tax (PIT) and corporate
+income tax (CIT) rates). We also test the significance of geographical clusters, such as the euro area
+membership, Member States who joined the EU in 2004 and after,14 lower-income countries,15
+programme countries,16 and the GDP-weighted elasticity of the neighbouring countries.17 In order to
+identify the additional explanatory power of these variables/dummies (introduced in the baseline
+model one by one), we remove the country fixed effects.
+
+Unlike fiscal variables, many non-fiscal economicvariables tested in this paper turn out to be not
+robustly related to the elasticities. The semi-elasticities are structural parameters specific to EU
+economies. However, the income per capita, the economic size, the labour share and the output gap
+volatility do not turn out to be statistically significant. When considering additional fiscal variables,
+the progressivity of the tax system (as roughly proxied by PIT and CIT top statutory rates) appears to
+significantly affect the semi-elasticity.18 This result was expected, since the tax progressivity should
+capture part of the cross-country variability related to different elasticities of direct taxes.
+
+Some economic or geographical grouping of Member States seems to be relevant as well as an
+emulation effect between neighbours. Using geographical dummies (see Table V.3, column c to f in
+annex) we find that Member States who joined the EU since 2004 or those with lower income tend to
+have lower semi-elasticities. We also test for the influence of close peers with the GDP-weighted
+semi-elasticity of the neighbouring countries as a regressor. Member States tend to have higher semi-
+elasticities when the semi-elasticity of their neighbours is higher (Table V.3 column b in annex). This
+would suggest that Member States are somehow aligning their semi-elasticities, or rather, some
+elements of their tax and benefit systems underlying those, with those of the neighbouring countries.
+
+14 BG, CZ, CY, EE, HR, LV, LT, MT, HU, PL, RO, SI and SK
+15 BG, HR, HU, PL, RO. This follows the categories used by the IMF.
+16 This includes the euro area Member States once covered by an Economic Assistance Programme or non-euro-
+area Member States once subject to a Balance of Payment Programme following the crisis (IE, EL, ES, CY, LV,
+PT, RO).
+17 Using the elasticity of the neighbouring countries in our model tests for the influence of neighbours on each
+Member State, which can be interpreted as a sort of peer pressure or exemplarity effect.
+
+18 Time series on top marginal statutory rates are available on-line and correspond by definition to reliable data
+(DG TAXUD): https://ec.europa.eu/taxation_customs/business/economic-analysis-taxation/data-taxation_en. A
+high top marginal statutory rate generally means a very progressive tax scale for personnel income taxation. This
+is even true for â€œflat taxâ€ countries, because of the existence of a tax-free allowance. For corporate income
+taxation, the link is more indirect, given the existence of many tax expenditures, e.g. for small and medium size
+firms taxed at a lower rate than the top statutory rate.
+
+                                                                   27
+Figure 4.4. Economic factors and the semi-elasticities of the budget balance
+                                          a. Economic development
+
+                                0,70
+
+Budget balance semi-elasticity  0,65      y = 0,0027x + 0,4277
+                                0,60
+                                              RÂ² = 0,26                   FR BE NL
+                                                                              FIAT
+                                                                     ES                        DK
+
+                                0,55                     PELT         ITEU UK              SE
+
+                                0,50          PL EE              CY   EU (avg) DE                    IE
+                                0,45          HHUR           SIMT
+                                                                                                                                        LU
+
+                                0,40           LT  SKCZ
+                                              LV
+
+                                0,35
+
+                                0,30      RO
+                                          BG
+
+                                0,25      10         20               30            40         50    60             70         80           90
+                                       0
+
+                                                                      GDP per capita (thousand EUR)
+
+                                                               b. Output gap volatility
+
+                                0,65               BE          FR                                                y = -0,0189x + 0,5519
+                                0,60                           NL
+Budget balance semi-elasticity  0,55                                      DKFI                       ES             RÂ² = 0,11
+                                0,50
+                                0,45               AT
+                                0,40                 EU               SEUK IT
+                                0,35                      PT
+                                0,30                                            IE
+                                0,25                           DE                                    CY
+                                                                         EUPL(avg)                 SI                       EE
+                                       0                       MT
+                                                                          HULU HR                            RO     LT
+                                                                                                                                    LV
+                                                                                CZ SK
+
+                                              1                    2                3          4                 5      6                   7
+                                                                      Standard deviation of the output gap (% of GDP)
+
+Note: EU refers to the 28 EU Member States at the time of our analysis
+Source: AMECO 2018 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+                                                                                       28
+Table 4.1. Baseline models for semi-elasticities in a four-vintage panel
+
+                                   (a)        (b)  (c)           (d)      (e)      (f)
+
+Expenditure
+
+Expenditure/GDP                    0.986***
+
+                                   (0.000)
+
+Unemployment spending/GDP                     8.680*** 7.646*** 7.584*** 7.622*** 7.026***
+
+                                              (0.000) (0.000) (0.000) (0.000) (0.000)
+
+Other expenditure / GDP                       1.011*** 0.890*** 0.871*** 0.998*** 0.867***
+
+                                              (0.000) (0.000) (0.000) (0.000) (0.000)
+
+Revenue
+
+Revenue / GDP                      -0.881***
+
+                                   (0.000)
+
+Total taxes / GDP                                                0.0702
+
+                                                                 (0.828)
+
+Direct taxes (PIT+CIT) / GDP                                     0.182
+
+                                                                 (0.643)
+
+PIT / GDP                                     -0.384 0.249
+
+                                              (0.511) (0.530)
+
+CIT / GDP                                     -0.502 0.184
+
+                                              (0.406) (0.751)
+
+SSC / GDP                                     -0.921*** -0.0154
+
+                                              (0.007) (0.961)
+
+Indirect tax / GDP                            -0.124 0.329
+
+                                              (0.731) (0.362)
+
+Non tax revenue / GDP                         -0.910*** -0.798*** -0.776*** -0.898*** -0.803***
+
+                                              (0.000) (0.000) (0.000) (0.000) (0.000)
+
+Possible residual cyclical effect
+
+Output gap                         0.00239 0.00459 0.00425 0.00438 0.00410
+
+                                   (0.507) (0.217) (0.230) (0.226) (0.230)
+
+Unemployment gap                   0.00504* 0.00233 -0.00232 -0.00186 -0.00204
+
+                                   (0.084) (0.444) (0.360) (0.459) (0.406)
+
+Budget balance                                                            0.133
+
+                                                                          (0.617)
+
+Vintage dummies
+
+Vintage 2013                                       -0.00882 -0.00984 -0.0102 -0.00803
+
+                                                   (0.186) (0.175) (0.170) (0.212)
+
+Vintage 2014                                       0.0361*** 0.0359*** 0.0358*** 0.0385***
+
+                                                   (0.001) (0.001) (0.001) (0.000)
+
+Vintage 2018                                       0.0409*** 0.0411*** 0.0410*** 0.0376***
+
+                                                   (0.000) (0.000) (0.000) (0.000)
+
+Constant                           0.403*** 0.162* -0.0404 -0.00980 -0.00870 0.0457
+
+                                   (0.000) (0.070) (0.681) (0.917) (0.926) (0.257)
+
+Observations                       111        111  111           111      111      111
+
+Country fixed effects              Yes        Yes  Yes           Yes      Yes      Yes
+
+Vintage fixed effects              No         No   Yes           Yes      Yes      Yes
+
+R2 within                          0.238 0.418 0.674 0.670 0.669 0.660
+
+R2 between                         0.0243 0.804 0.841 0.839 0.823 0.831
+
+R2 overall                         0.0617 0.737 0.809 0.807 0.795 0.801
+
+Note: p-values in parentheses. * p<0.10, ** p<0.05, *** p<0.01.
+Source: authors' calculations
+
+                                                   29
+5. IMPACT OF REVISIONS ON THE CYCLICALLY-ADJUSTED
+        BUDGET BALANCE (CAB)
+
+While the previous section focused on the semi-elasticities, this section examines the impact of the
+semi-elasticity updates on the CAB itself. It first compares the updated CAB estimates with those
+based on the 'old' semi-elasticities, set out in Mourre et al. (2014). Next, we decompose the revision
+and show that the semi-elasticities are only a minor source of CAB revisions. In a sensitivity analysis,
+we compute the CAB without first order approximation and with time-varying weights. This analysis
+reassuringly shows that little information is lost with the simplified approach used by the Commission.
+
+5.1 THE REVISED CAB
+
+Despite revisions of its components, our assessment of the CAB for the EU as a whole over the
+last 15 years is unchanged (Figure 5.1). Changes in the CAB are a key measure of the fiscal effort
+analysed in perspective of the position in the economic cycle (output gap). For the EU as a whole, the
+CAB is equal to the aggregation of the 28 CAB of the Member States. The revisions of the semi-
+elasticities do not generate sizeable revisions of the aggregate EU CAB, since the more sizeable
+revisions of the nominal balances and (most importantly) output gaps broadly cancel out across
+Member States. In all, over the period common with the previous update (2003-2013), the revisions of
+the aggregate CAB are minor.
+
+Figure 5.1. EU CAB change vs output gap
+
+       1,5
+
+                        2013                  2011                          CAB (2018)    CAB (2014)
+                                                                                    2006      2007
+       1
+                                        2012
+
+       0,5                                          2016
+
+âˆ† CAB  0                      2014 2015                       2017 2005
+                                                                      2004
+
+                                                               2003
+
+     -0,5                     2010
+
+       -1                                                                   2008
+
+                  2009
+
+-1,5
+
+            -4,0  -3,0        -2,0            -1,0        0,0   1,0         2,0           3,0                4,0
+
+                                                    Output gap
+
+Note: EU refers to the EU Member States at the time of our analysis
+Source: AMECO 2018 Spring forecast and 2014 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+At country level, the CAB estimates were sizeably revised since 2014, especially for EE, EL and
+PL (Figure 5.2). Comparing the new country-specific estimates with the ones from Mourre et al.
+(2014) between 2002 and 2013, revisions ranged from -5.3pp (EE, 2005) to 3.1pp (PL, 2007), while
+revisions of the EU aggregate CAB only ranged from -0.1 to 0.1 (Figure 5.2). This is mainly due to
+some annual CAB estimates for EE, EL and PL, which are outliers as compared to the annual
+estimates of other Member States.
+
+                                                          30
+BEFigure 5.2. CAB annual revisions (2002-2013)
+    BG
+         CZ4,0
+              DK3,0
+                   DE2,0
+                        EE1,0
+                            IE0,0
+                                 EL-1,0
+                                      ES-2,0
+                                           FR-3,0
+                                                HR-4,0
+                                                    IT-5,0
+                                                         CY-6,0
+                                                              LV
+                                                                   LTNote: EU refers to the EU Member States at the time of our analysis
+                                                                        LUSource: AMECO 2018 Spring forecast and 2014 Spring forecast, Mourre et al. (2014) and authors' calculations
+                                                                            HU
+                                                                                 MT5.2 REVISION AND ITS CAUSES
+                                                                                      NL
+                                                                                           AT5.2.1 Contributions to the CAB revisions
+                                                                                                PL
+                                                                                                    PTCAB revisions can be decomposed into contributions of the output gap, the headline balance and
+                                                                                                         ROthe semi-elasticities (Box 5.1). The causes for the semi-elasticity revisions have been discussed in
+detail in Section 3.2. The headline balance revisions are directly linked to the shift from ESA-1995 to
+                                                                                                              SIESA-2010. For the output gap, econometric revisions and methodological changes are causing
+                                                                                                                   SKrevisions in addition to the new ESA.
+                                                                                                                        FI
+                                                                                                                             SEThe EU CAB revisions are primarily driven by revisions of the output gap. The EU CAB revision
+                                                                                                                                 UKbetween 2002 and 2013 (Figure 5.3)19 is mainly caused by output gap revisions, while also the
+                                                                                                                                      EUcontribution of the headline balance is sizeable. However, revisions linked to the semi-elasticities are
+barely visible. The output gap revisions are counter-cyclical: negative in times of economic
+expansions and positive in times of economic contractions. However, output gaprevisions are
+complex, as cyclical turning points are difficult to identify and first estimates of the output gap tend to
+be conservative during crisis and booms. As more data becomes available, output gap estimates
+improve, making the output gap more negative during crisis (more positive during upturns) and
+leading to a positive (negative) revision of the CAB.
+
+19 This EU CAB revision is based on computation for the EU as if it were a Member State. In annex II, we
+discuss the aggregation of the CAB.
+
+                                                                   31
+Figure 5.3. Contributions to EU CAB revision and 2018 vintage of the CAB
+
+0,15                                                                                 0
+
+0,1                                                                                  -1
+
+0,05                                                                                 -2
+
+0                                                                                    -3
+
+-0,05                                                                                -4
+
+-0,1                                                                                 -5
+
+-0,15                                                                                -6
+
+       2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+       Output gap  Nominal balance  Semi elasticity  Total CAB revision   CAB (RHS)
+
+Note: EU refers to the EU Member States at the time of our analysis
+Source: AMECO 2018 Spring forecast and 2014 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+These findings are confirmed by the mean absolute CAB revisions per Member State over the
+same time period (Figure 5.4). The largest annual revisions identified in Figure 5.2 are caused by
+large revisions in the headline balance for EE (around 2005), PL (2006-2007) and to some extend EL
+(2003-2004). Apart from these cases, the CAB revisions are caused primarily by output gap revisions
+with semi-elasticity revisions having a marginal effect. In particular, for ES and DE, the two Member
+States with the largest revisions of their semi-elasticities, the effect on the CAB revision remains
+small. For other Member States (MT, LV, HR, DK) the effect of the semi-elasticity revision can be
+more pronounced, even though the revision of the semi-elasticities itself is not large, as it is amplified
+by the magnitude of their output gaps.
+
+Figure 5.4. Absolute mean contribution to CAB revision across Member States (2002-2013)
+
+  2,5
+                                            Output gap Nominal balance Semi-elasticities Total mean abs. revision
+
+  2,0
+
+  1,5
+
+  1,0
+
+  0,5
+
+  0,0
+
+       BE
+           BG
+                CZ
+                     DK
+                         DE
+                              EE
+                                   IE
+                                       EL
+                                            ES
+                                                 FR
+                                                     HR
+                                                          IT
+                                                               CY
+                                                                   LV
+                                                                        LT
+                                                                             LU
+                                                                                 HU
+                                                                                      MT
+                                                                                           NL
+                                                                                               AT
+                                                                                                    PL
+                                                                                                         PT
+                                                                                                             RO
+                                                                                                                  SI
+                                                                                                                       SK
+                                                                                                                           FI
+                                                                                                                                SE
+                                                                                                                                     UK
+                                                                                                                                         EU
+                                                                                                                                              EU (avg)
+
+Note: EU refers to the EU Member States at the time of our analysis. Mean absolute contribution to the revision do not
+add up to the mean absolute revision as the different sources of revisions donâ€™t cancel-out in absolute terms.
+Source: AMECO 2018 Spring forecast and 2014 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+                                    32
+Box 5.1. COMPUTING CONTRIBUTIONS TO THE REVISION OF THE SEMI-ELASTICITY AND OF THE
+CYCLICALY ADJUSTED BALANCE
+
+Contributions to the revision of the semi-elasticity
+
+We recall the expression for the semi-elasticity:
+
+í µí¼€í µí¼€  =  í µí¼€í µí¼€í µí±…í µí±…  âˆ’ í µí¼€í µí¼€í µí°ºí µí°º    =      4    í µí¼‚í µí¼‚í µí±…í µí±…,í µí±–í µí±–  í µí±…í µí±…í µí±–í µí±–  âˆ’ 1ï¿½    í µí±…í µí±…  âˆ’  ï¿½í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¢í µí±¢  í µí°ºí µí°ºí µí±ˆí µí±ˆ        í µí°ºí µí°º
+                                                            í µí±…í µí±…              í µí±Œí µí±Œ                     í µí°ºí µí°º      âˆ’ 1ï¿½ í µí±Œí µí±Œ
+                                    ï¿½ï¿½
+
+                                     í µí±–í µí±–=1
+
+Introducing í µí±…í µí±…5 = í µí±…í µí±… âˆ’ âˆ‘4í µí±–í µí±–=1 í µí±…í µí±…í µí±–í µí±– with í µí¼‚í µí¼‚í µí±…í µí±…,5 = 0 and í µí°ºí µí°ºí µï¿½í±ˆí µí±ˆ = í µí°ºí µí°º âˆ’ í µí°ºí µí°ºí µí±ˆí µí±ˆ with í µí¼‚í µí¼‚í µí°ºí µí°º,í µï¿½í±ˆí µí±ˆ = 0, one can also write:
+
+                         5                         í µí±…í µí±…í µí±–í µí±–                                                í µí°ºí µí°ºí µí±¥í µí±¥
+                                                   í µí±Œí µí±Œ                                                    í µí±Œí µí±Œ
+         í µí¼€í µí¼€      =     ï¿½ï¿½í µí¼‚í µí¼‚í µí±…í µí±…,í µí±–í µí±–  âˆ’  1ï¿½                       âˆ’    ï¿½ ï¿½í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¥í µí±¥    âˆ’       1ï¿½
+
+                         í µí±–í µí±–=1                                           í µí±¥í µí±¥âˆˆ{í µí±ˆí µí±ˆ,í µï¿½í±ˆí µí±ˆ}
+
+The current revision leaves the elasticities of the revenue and expenditure components (í µí¼‚í µí¼‚í µí±…í µí±…,í µí±–í µí±–, í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¢í µí±¢)
+unchanged. One can therefore directly relate the change in the elasticity to the changes in the share of each
+
+revenue and expenditure component to GDP:
+
+                               5                                                                                                 ï¿½í µí°ºí µí µí±Œí°ºí µí µí±Œí±¥í µí±¥ ï¿½
+âˆ†í µí¼€í µí¼€ = í µí¼€í µí¼€í µí±›í µí±› âˆ’ í µí¼€í µí¼€í µí±œí µí±œ = ï¿½ï¿½í µí¼‚í µí¼‚í µí±…í µí±…,í µí±–í µí±– âˆ’ 1ï¿½ âˆ† ï¿½í µí µí±…í±Œí µí µí±…í±Œí µí±–í µí±–ï¿½
+                                                                              âˆ’      ï¿½ ï¿½í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¥í µí±¥            âˆ’   1ï¿½       âˆ†
+                              í µí±–í µí±–=1
+                                                                                    í µí±¥í µí±¥âˆˆ{í µí±ˆí µí±ˆ,í µï¿½í±ˆí µí±ˆ}
+
+with superscripts "o" and "n" identifying the old and new values and Î” the revision operator.
+
+Contributions to the revision of the CAB
+
+We recall the expression for the CAB calculation
+
+                                          í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí±¡í µí±¡ = í µí±¡í µí±¡ âˆ’ í µí¼€í µí¼€ í µí±‚í µí±‚í µí±¡í µí±¡
+
+Revisions to the CAB can come from three sources: revisions to the headline balance (Î”B), revision to the
+output gap estimates (Î”OG) and revision to the semi-elasticity (Î”Îµ):
+
+      âˆ†í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí±¡í µí±¡ = í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí±¡í µí±¡í µí±›í µí±› âˆ’ í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí±¡í µí±¡í µí±œí µí±œ = âˆ†í µí±¡í µí±¡ âˆ’ âˆ†(í µí¼€í µí¼€ í µí±‚í µí±‚í µí±¡í µí±¡)
+                                     âˆ’ í µí±‚í µí±‚í µí±¡í µí±¡í µí±œí µí±œ       + í µí±‚í µí±‚í µí±¡í µí±¡í µí±›í µí±›        í µí¼€í µí¼€ í µí±œí µí±œ  + í µí¼€í µí¼€í µí±›í µí±›
+      âˆ†í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí±¡í µí±¡  =  âˆ†í µí±¡í µí±¡                         2                 âˆ†í µí¼€í µí¼€ âˆ’          2                 âˆ†í µí±‚í µí±‚í µí±¡í µí±¡
+
+The three sources of revisions differ markedly: revisions to the headline balance are direct revisions of the
+national accounts; revisions to the output-gap can be more substantial and also reflect econometric revisions
+and methodological changes; revisions to the semi-elasticities are explained in detail in Section 3.2.
+
+                                                                      33
+5.2.2 A validation of the Commissionâ€™s CAB methodology
+
+The EU common methodology to estimate the CAB relies on a linear approximation20 and some
+simplifications (constant semi-elasticities and weights). To test the robustness of the CAB
+estimates, we calculate the CAB with time varying weights and donâ€™t make a linear approximation.
+
+CAB estimates are robust to using time-varying semi-elasticities21 and a non-linear
+approximation, validating the EU common methodology. As illustrated in Figure 5.5 and Figure
+5.6 both approximations are relatively small compared to the level of the CAB. This empirically
+validates the Commissionâ€™s CAB methodology and reassuringly shows that little information is lost
+with the simplified approach used by the Commission. Figure 5.6 displays the CAB for some Member
+States with the most time varying semi-elasticities (IE, ES, EE), with the most volatile output gap (EL,
+LV, EE), or with the highest semi-elasticity (FR). It shows that the CAB is only marginally impacted
+by the use of time varying elasticities (the effect is most visible during the crisis) and almost not
+impacted by the nonlinear approximation). This is confirmed across Member States by the mean
+absolute effect over the 2002-17 time-period of using time varying weights or not making a first order
+approximation (Figure 5.5).
+
+Figure 5.5. Absolute mean CAB approximations across Member States (2002 to 2017)
+
+0,35  Time varying elasticities (LHS)                                                                                                              8,0
+
+0,30  Non-linear formula (LHS)                                                                                                                     7,0
+
+      CAB constant elasticities (RHS)                                                                                                              6,0
+
+0,25  CAB no approx (RHS)
+
+                                                                                                                                                   5,0
+0,20
+
+                                                                                                                                                   4,0
+0,15
+
+                                                                                                                                                   3,0
+
+0,10                                                                                                                                               2,0
+
+0,05                                                                                                                                               1,0
+
+0,00                                                                                                                                               0,0
+
+      BE
+          BG
+               CZ
+                   DK
+                        DE
+                            EE
+                                 IE
+                                     EL
+                                          ES
+                                              FR
+                                                   HR
+                                                       IT
+                                                            CY
+                                                                 LV
+                                                                     LT
+                                                                          LU
+                                                                              HU
+                                                                                   MT
+                                                                                       NL
+                                                                                            AT
+                                                                                                PL
+                                                                                                     PT
+                                                                                                         RO
+                                                                                                              SI
+                                                                                                                   SK
+                                                                                                                       FI
+                                                                                                                            SE
+                                                                                                                                UK
+                                                                                                                                     EU
+                                                                                                                                         EU (avg)
+
+Note: EU refers to the EU Member States at the time of our analysis.
+Source: AMECO 2018 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+20 To compute the CAB as in Equation (1), one has to assume that (1 + í µí±‚í µí±‚í µí±¡í µí±¡)1âˆ’í µí¼‚í µí¼‚ â‰ˆ 1 + (1 âˆ’ í µí¼‚í µí¼‚)í µí±‚í µí±‚í µí±¡í µí±¡ both for
+
+the expenditure and revenue side, see annex II, Equations (10) to (12).
+21 Note that this time-varying estimation of the semi-elasticities solely uses time-varying weights and not time-
+varying individual elasticities, due to the non-availability of the latter.
+
+                                                                   34
+Figure 5.6. CAB calculation (and approximation) in selected Member States
+
+                 EE                                                                 ES
+
+ 6         2005  2008  2011  2014  2017        2        2005                        2008  2011  2014  2017
+ 4                                             0
+ 2                                            -2
+ 0                                            -4
+-2                                            -6
+-4                                            -8
+-6                                           -10
+
+    2002                                          2002
+
+                 IE                                                                 EL
+
+  5        2005  2008  2011  2014  2017       10        2005                        2008  2011  2014  2017
+  0                                            5
+ -5                                            0
+-10                                           -5
+-15
+-20                                          -10
+-25                                          -15
+-30                                          -20
+-35
+                                                  2002
+     2002
+
+                 LV                                                                 FR
+
+ 2                                             5        2005 2008 2011 2014                           2017
+ 1                                                              Non-linear formula
+ 0                                             0
+-1                                                              Time varying elasticities
+-2                                            -5
+-3
+-4                                           -10
+-5                                                2002
+-6
+-7         2005  2008  2011  2014  2017
+
+    2002
+
+Source: AMECO 2018 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+                                         35
+REFERENCES
+
+Deroose, S., Carnot, N., Pench, L. R., and Mourre, G. (2018). EU fiscal rules: Root causes of its
+complexity. VoxEU.org. https://voxeu.org/article/eu-fiscal-rules-root-causes-its-complexity
+
+Alberola, E., GonzÃ¡lez MÃ­nguez, J.M., HernÃ¡ndez de Cos, P., and MarquÃ©s, J.M. (2003). How cyclical
+do cyclically-adjusted balances remain? An EU study. Hacienda PÃºblica EspaÃ±ola, IEF, vol. 166(3),
+pages 151-181, (Sept.) https://ideas.repec.org/a/hpe/journl/y2003v166i3p151-181.html
+
+Blanchard, O., and Perotti, R. (2002). An Empirical Characterization of the Dynamic Effects of
+Changes in Government Spending and Taxes on Output. The Quarterly Journal of Economics, 117(4),
+1329-1368. http://www.jstor.org/stable/4132480
+
+Bouthevillain, C., Cour-Thimann, P., van den Dool, G., Hernandez de Cos, P., Langenus, G., Mohr,
+M., Momigliano, S. and Tujula, M. (2001). Cyclically Adjusted Budget Balances: An Alternative
+Approach. ECB Working Paper Series 77. https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp077.pdf
+
+Belinga V., D. Benedek, R. A. de Mooij and Norregaard, J. (2014). Tax Buoyancy in OECD
+Countries. IMF Working Paper 110. http://www.imf.org/external/pubs/ft/wp/2014/wp14110.pdf
+
+D'Auria, F., Denis, C., Havik, K., Mc Morrow, K., Planas, C., Raciborski, R., Roeger, W. and Rossi,
+A. (2010). The production function methodology for calculating potential growth rates and output
+gaps. European Economy Economic Papers No. 420. doi: 10.2765/71437
+
+Escolano, J. (2010). A Practical Guide to Public Debt Dynamics, Fiscal Sustainability, and Cyclical
+Adjustment of Budgetary Aggregates. IMF Technical Note and Manuals 10/02.
+http://www.imf.org/external/pubs/ft/tnm/2010/tnm1002.pdf
+
+European Commission (1995). The Commission services' method for the cyclical adjustment of
+
+government budget balances. Technical note in European Economy Broad economic policy guidelines
+
+vol         60,      p                                                                 35:90
+
+http://ec.europa.eu/economy_finance/publications/pages/publication_summary7975_en.htm
+
+European Commission (2000). Public Finances in EMU. European Economy 3/2000
+https://publications.europa.eu/en/publication-detail/-/publication/f54190f8-5e37-4388-b079-
+432cdaed454d/language-en/format-PDF/source-80716032
+
+European Commission (2005). New and updated budgetary sensitivities for the EU Budgetary
+Surveillance. September.
+http://ec.europa.eu/economy_finance/economic_governance/sgp/pdf/budg_sensitivities_092005_v02_e
+n.pdf
+
+European Commission (2006). Public Finances in EMU. European Economy 3/2006. Part II.4.3 pp
+115-122. http://ec.europa.eu/economy_finance/publications/pages/publication_summary429_en.htm
+
+European Commission (2010). Public Finances in EMU. European Economy 4/2010. doi:
+10.2765/36026
+
+European Commission (2018). Vade mecum on the stability and growth pact. European Economy
+Institutional paper 075/2018 (March). doi: 10.2765/698908
+
+Giorno, C., Richardson, P. and van den Noord, P. (1995). Estimating Potential Output, Output Gaps
+and Structural Budget Balances. OECD Economics Department Working Papers 24.
+https://doi.org/10.1787/533876774515
+
+                 36
+Girouard, N. and Andre, C. (2005). Measuring Cyclically-Adjusted Budget Balances for the OECD
+Countries. OECD Economics Department Working Papers 434. https://doi.org/10.1787/787626008442
+
+Havik, K., Mc Morrow, K., Orlandi, F., Planas, C., Raciborski, R., RÃ¶ger, W., Rossi, A., Thum-
+Thysen, A. and Vandermeulen, V. (2014). The production function methodology for calculating
+potential growth rates and output gaps. European Economy Economic Papers No. 535 (Nov.). doi:
+10.2765/71437
+
+Koester, G. and Priesmeier, C. (2017). Revenue elasticities in euro area countries An analysis of long-
+run and short-run dynamics. ECB Working Paper No. 1989 (Jan.) doi: 10.2866/47408
+
+Larch, M. and Turrini, A. (2010). The Cyclically Adjusted Budget Balance in EU Fiscal
+Policymaking: A Love at First Sight Turned into a Modern Relationship. Intereconomics. Volume 45,
+Issue 1, pp 48â€“60 https://doi.org/10.1007/s10272-010-0324-9
+
+Morris, R. and Schuknecht, L. (2007). Structural Balances and Revenue Windfalls: The Role of Asset
+Prices Revisited. ECB Working Papers No. 737. https://ssrn.com/abstract=970621
+
+Morris, R., Rodrigues Braz, C., de Castro, F., Jonk, S., Kremer, J., Linehan, S., Marino, M.R., Schalck,
+C. and Tkacevs, O. (2009). Explaining Government Revenue Windfalls and Shortfalls: An Analysis
+for Selected EU Countries. ECB Working Papers No. 1114. https://ssrn.com/abstract=1502683
+
+Mc Morrow K., Roeger, W., Vandermeulen, V. and Havik, K. (2015). An assessment of the relative
+quality of the Output Gap estimates produced by the EU's Production Function Methodology.
+European Economy Discussion Papers No. 20. doi: 10.2765/374342
+
+Mourre, G., Isbasoiu, G.-M., Paternoster, D. and Salto, M. (2013). The cyclically-adjusted budget
+balance used in the EU fiscal framework: an update. European Economy Economic Papers No. 478.
+doi: 10.2765/3922
+
+Mourre, G., Astarita, C. and Princen, S. (2014). Adjusting the budget balance for the business cycle:
+the EU methodology. European Economy Economic Papers No. 536. doi: 10.2765/71756
+
+Mourre, G., Astarita, C. and Maftei, S. (2016). Measuring the Uncertainty in Predicting Public
+Revenue. European Economy Discussion Papers No. 39. doi: 10.2765/195166
+
+Mourre, G. and Princen, S. (2015). Tax Revenue Elasticities Corrected for Policy Changes in the EU
+European Economy Discussion Papers No. 18. doi: 10.2765/622532
+
+Mourre, G. and Princen, S. (2019). The dynamics of tax elasticities in the whole European Union,
+CESifo Economic Studies. Oxford University Press. 25 January, 1â€“32.
+
+OECD (1999). OECD Economic Outlook. December https://doi.org/10.1787/eco_outlook-v1999-2-en
+
+Perotti, R., (2005) Estimating the Effects of Fiscal Policy in OECD Countries. CEPR Discussion
+Paper No. 4842. Available at SSRN: https://ssrn.com/abstract=717561
+
+Price, R., Dang, T., and Guillemette, Y. (2014). New Tax and Expenditure Elasticity Estimates for EU
+Budget Surveillance. OECD Economics Department Working Papers No. 1174, OECD Publishing,
+Paris, https://doi.org/10.1787/5jxrh8f24hf2-en.
+
+Price, R., Dang, T. and Botev, J. (2015). Adjusting fiscal balances for the business cycle: New tax and
+expenditure elasticity estimates for OECD countries. OECD Economics Department Working Papers,
+No. 1275, OECD Publishing, Paris, http://dx.doi.org/10.1787/5jrp1g3282d7-en.
+
+                                                                   37
+Princen S., Mourre G., Paternoster D. and Isbasoiu G.M. (2013). Discretionary tax measures: pattern
+and impact on tax elasticities. European Economy Economic Papers No. 499, May. doi:
+10.2765/44081
+Tanzi, V. (1977). Inflation, Lags in Collection, and the Real Value of Tax Revenue. Staff Papers
+(International Monetary Fund), Vol. 24, No. 1 (Mar.), pp. 154-167
+http://www.jstor.org/stable/3866540
+Tanzi, V., Blejer, M.I. and Teijeiro, M.O. (1987). Inflation and the Measurement of Fiscal Deficits.
+Staff Papers (International Monetary Fund), Vol. 34, No. 4 (Dec.), pp. 711-738
+http://www.jstor.org/stable/3867195
+van den Noord, P. (2000). The Size and Role of Automatic Fiscal Stabilizers in the 1990s and Beyond,
+OECD Economics Department Working Papers No. 230. https://doi.org/10.1787/18151973
+
+                                                                   38
+ANNEXES
+
+I. MAIN TABLES: DERIVING THE SEMI-ELASTICITY VALUES
+
+Table I.1. Elasticities of individual revenue and expenditure categories
+
+                                Revenue                                   Expenditure
+
+Country  Income tax  Corporate       Social        Indirect  Non-tax      Unemployment-      Other
+                         tax       security           tax    revenue            related  expenditure
+                                contributions
+                                                                            expenditure
+
+         (A)         (B)        (C)                (D)       (E)          (F)            (G)
+
+BE       1.31        2.48       0.71               1.00      0.00         -3.70          0.00
+
+BG       1.15        2.13       0.61               1.00      0.00         -3.91          0.00
+
+CZ       1.65        1.78       0.86               1.00      0.00         -2.45          0.00
+
+DK       1.00        3.15       0.41               1.00      0.00         -4.97          0.00
+
+DE       1.87        1.91       0.60               1.00      0.00         -3.30          0.00
+
+EE       1.58        1.78       1.40               1.00      0.00         -5.18          0.00
+
+IE       1.58        1.25       1.04               1.00      0.00         -5.45          0.00
+
+EL       2.22        1.90       0.58               1.00      0.00         -3.15          0.00
+
+ES       1.84        1.56       0.72               1.00      0.00         -5.83          0.00
+
+FR       1.86        2.76       0.63               1.00      0.00         -3.23          0.00
+
+HR       1.71        2.29       0.70               1.00      0.00         -2.39          0.00
+
+IT       1.46        3.07       0.58               1.10      0.00         -2.29          0.00
+
+CY       2.28        2.26       0.91               1.00      0.00         -3.08          0.00
+
+LV       1.50        1.99       0.81               1.00      0.00         -3.94          0.00
+
+LT       1.79        1.67       1.04               1.00      0.00         -5.60          0.00
+
+LU       1.34        2.36       0.39               1.00      0.00         -3.06          0.00
+
+HU       1.73        2.21       0.76               1.00      0.00         -1.25          0.00
+
+MT       2.07        2.11       0.71               1.00      0.00         -1.96          0.00
+
+NL       2.37        3.13       0.62               1.00      0.00         -5.76          0.00
+
+AT       1.66        2.74       0.65               1.00      0.00         -4.71          0.00
+
+PL       1.88        2.92       0.97               1.00      0.00         -6.18          0.00
+
+PT       1.97        1.33       0.79               1.00      0.00         -6.04          0.00
+
+RO       1.29        2.02       0.62               1.00      0.00         -3.91          0.00
+
+SI       1.63        3.76       0.66               1.00      0.00         -2.81          0.00
+
+SK       1.93        1.58       0.89               1.00      0.00         -2.98          0.00
+
+FI       1.41        2.03       0.77               1.00      0.00         -3.66          0.00
+
+SE       1.32        1.56       0.71               1.00      0.00         -4.42          0.00
+
+UK       1.68        3.92       0.60               1.00      0.00         -4.21          0.00
+
+EU       1.68        2.27       0.74               1.00      0.00         -3.91          0.00
+
+Note: EU refers to the EU Member States at the time of our analysis. For the EU, individual elasticities have been
+estimated as if the Union was a country of its own.
+Source: Mourre et al. (2014); Price et al. (2014).
+
+                                               39
+Table I.2. Updated shares of revenue and expenditure categories (% of total revenue/expenditure)
+
+                            Revenue                              Expenditure
+
+Country  Income  Corporate  Social security  Indirect   Non-tax  Unemployment-      Other
+           tax       tax    contributions       tax     revenue        related  expenditure
+
+           (H)   (I)        (J)                  (K)       (L)     expenditure        (N)
+
+                                                                         (M)
+
+BE       25.95   6.42       32.72                25.82  9.10     4.15           95.85
+
+BG       8.70    6.18       21.04                42.32  21.76    0.24           99.76
+
+CZ       9.93    8.18       36.62                29.45  15.82    0.65           99.35
+
+DK       50.28   4.82       2.14                 30.32  12.44    2.07           97.93
+
+DE       21.33   5.53       37.49                24.50  11.15    4.55           95.45
+
+EE       14.28   3.95       29.77                34.94  17.06    2.91           97.09
+
+IE       29.13   8.48       17.02                32.26  13.11    4.52           95.48
+
+EL       13.11   7.95       29.91                32.00  17.02    1.38           98.62
+
+ES       21.10   5.97       34.23                28.90  9.80     5.69           94.31
+
+FR       18.73   4.87       35.98                29.93  10.48    3.34           96.66
+
+HR       11.09   4.12       27.30                42.58  14.91    1.05           98.95
+
+IT       26.21   5.08       28.54                31.14  9.04     2.00           98.00
+
+CY       9.58    16.65      21.01                38.36  14.40    1.94           98.06
+
+LV       17.07   4.68       24.29                35.04  18.92    1.38           98.62
+
+LT       11.80   4.36       34.27                33.59  15.99    1.47           98.53
+
+LU       19.46   13.43      28.14                28.44  10.53    3.59           96.41
+
+HU       12.81   3.85       28.44                38.67  16.23    1.07           98.93
+
+MT       22.44   11.24      17.41                33.80  15.11    1.13           98.87
+
+NL       19.84   5.82       33.80                25.97  14.57    3.56           96.44
+
+AT       22.56   4.49       30.62                29.25  13.07    2.64           97.36
+
+PL       12.35   5.82       33.19                34.31  14.33    1.58           98.42
+
+PT       15.60   7.43       27.59                32.70  16.68    2.45           97.55
+
+RO       10.85   7.90       27.56                36.50  17.20    0.49           99.51
+
+SI       13.81   3.75       33.92                32.84  15.68    1.39           98.61
+
+SK       9.09    8.06       34.89                27.68  20.28    0.52           99.48
+
+FI       25.35   5.03       23.43                25.84  20.35    4.22           95.78
+
+SE       30.44   5.48       6.59                 43.83  13.65    2.69           97.31
+
+UK       30.29   7.44       20.19                32.44  9.65     0.62           99.38
+
+EU       23.00   5.79       30.07                29.72  11.42    3.06           96.94
+
+Note: EU refers to the EU Member States at the time of our analysis. COFOG database is used to compute the share
+of unemployment-related expenditure in total expenditure (except for DK, using LMP database of OECD). See annex
+III â€œData sources, codes and treatmentâ€ for more details, in particular the treatment of missing data. For the EU, the
+reported shares are the shares of the revenue or expenditure categories in the EU as a whole over GDP of the EU.
+Source: Authorsâ€™ calculations, mainly based on DG ECFINâ€™s AMECO database (2018 Spring vintage).
+
+                                             40
+Table I.3. Decomposition of the semi-elasticity of budget balance to output gap
+
+                  Elasticities                              Weights (% of         Semi-elasticity
+                                                                  GDP)
+
+Country Revenue Expenditure  Revenue-to-  Expenditure-        Total      Total    Revenue Expenditure  Budget
+                              GDP ratio   to-GDP ratio      revenue  expenditure                       balance
+
+       (a)   (b)             c=a-1        d=b-1             (e)      (f)          g=c*e h=d*f i=g-h
+
+BE     0,99  -0,15           -0,01        -1,15 50,74 53,84 -0,006 -0,621 0,615
+
+BG     0,78  -0,01           -0,22        -1,01 35,73 37,14 -0,077 -0,375 0,298
+
+CZ     0,92  -0,02           -0,08        -1,02 40,09 42,08 -0,033 -0,428 0,395
+
+DK     0,97  -0,10           -0,03        -1,10 54,04 54,93 -0,017 -0,606 0,589
+
+DE     0,97  -0,15           -0,03        -1,15 44,26 44,77 -0,011 -0,515                              4
+
+EE     1,06  -0,15           0,06         -1,15 39,72 40,10                       0,025 -0,461 0,486
+
+IE     1,06  -0,25           0,06         -1,25 31,60 40,21                       0,021 -0,501 0,522
+
+EL     0,93  -0,04           -0,07        -1,04 45,45 53,11 -0,030 -0,554 0,524
+
+ES     1,02  -0,33           0,02         -1,33 37,32 44,39                       0,006 -0,591 0,597
+
+FR     1,01  -0,11           0,01         -1,11 51,99 56,50                       0,004 -0,626 0,630
+
+HR     0,90  -0,03           -0,10        -1,03 43,09 47,31 -0,042 -0,485 0,443
+
+IT     1,05  -0,05           0,05         -1,05 46,76 49,96                       0,022 -0,522 0,544
+
+CY     1,17  -0,06           0,17         -1,06 38,10 41,48                       0,064 -0,440 0,504
+
+LV     0,90  -0,05           -0,10        -1,05 36,30 39,50 -0,038 -0,416 0,378
+
+LT     0,98  -0,08           -0,02        -1,08 34,25 37,63 -0,008 -0,407 0,399
+
+LU     0,97  -0,11           -0,03        -1,11 43,67 42,71 -0,012 -0,474 0,462
+
+HU     0,91  -0,01           -0,09        -1,01 45,67 48,79 -0,041 -0,494 0,453
+
+MT     1,16  -0,02           0,16         -1,02 39,05 40,66                       0,063 -0,416 0,479
+
+NL     1,12  -0,21           0,12         -1,21 43,37 45,73                       0,054 -0,551 0,605
+
+AT     0,99  -0,12           -0,01        -1,12 48,96 51,37 -0,006 -0,577 0,571
+
+PL     1,07  -0,10           0,07         -1,10 38,95 43,07                       0,026 -0,473 0,499
+
+PT     0,95  -0,15           -0,05        -1,15 42,75 48,66 -0,021 -0,559 0,538
+
+RO     0,83  -0,02           -0,17        -1,02 32,73 36,80 -0,054 -0,375 0,321
+
+SI     0,92  -0,04           -0,08        -1,04 43,68 48,53 -0,036 -0,504 0,468
+
+SK     0,89  -0,02           -0,11        -1,02 37,75 41,52 -0,041 -0,422 0,381
+
+FI     0,90  -0,15           -0,10        -1,15 53,57 55,08 -0,054 -0,636 0,582
+
+SE     0,97  -0,12           -0,03        -1,12 50,62 50,66 -0,014 -0,567 0,553
+
+UK     1,24  -0,03           0,24         -1,03 38,41 44,44                       0,094 -0,456 0,550
+
+EU     1,04  -0,12           0,04         -1,12             44,40    47,94        0,017   -0,537       0,554
+             -0,10           -0,01        -1,10             42,45    45,75        -0,006  -0,502       0,496
+ EU    0,99
+(avg)
+
+Note: The parameters (a) and (b) are derived from Table I.1 and Table I.2;
+(a) = (A * H + B * I + C * J + D * K + E * L) / 100; (b) = (F * M + G * N)/ 100. The semi-elasticities for revenue and
+expenditure are rounded to three decimals. These rounded values are the ones used for the cyclical adjustment in
+the framework of EU fiscal surveillance. EU refers to the EU Member States at the time of our analysis.
+For sake of illustration, the row â€œEU (avg)â€ shows the unweighted average. The row â€œEUâ€ displays the results for the EU
+as a whole, directly computed from aggregate data (as if EU was a single country).
+Source: AMECO 2018 Spring vintage, Mourre et al. (2014) and authorsâ€™ calculations
+
+                                                        41
+II. MATHEMATICAL DERIVATIONS
+
+From the headline balance to the CAB (and the first order
+approximation)
+
+We recall Equation (1): the cyclically-adjusted budget balance (CAB) is computed as the difference
+between the actual balance-to-GDP ratio and an estimated cyclical component.
+
+                                                                                      í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí±¡í µí±¡           =  (í µí±…í µí±…í µí±¡í µí±¡     âˆ’            í µí°ºí µí°ºí µí±¡í µí±¡ )       âˆ’  í µí¼€í µí¼€    í µí±‚í µí±‚í µí±¡í µí±¡                                                                                                       (8)
+                                                                                                                                  í µí±Œí µí µí±Œí±¡í µí±¡
+
+This formula can be derived from the definition of the CAB:
+
+                                                     í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí±¡í µí±¡        =        í µí±¡í µí µí±í±¡í µí±       =         ï¿½í µí±…í µí±…í µí µí±¡í µí±í±¡í µí± âˆ’ í µí°ºí µí°ºí µí±¡í µí µí±í±¡í µí±ï¿½    =              í µí±…í µí±…í µí±¡í µí±¡      í µí±…í µí±…í µí µí±¡í µí±í±¡í µí±       âˆ’  í µí°ºí µí°ºí µí±¡í µí±¡      í µí°ºí µí°ºí µí±¡í µí µí±í±¡í µí±                                                             (9)
+                                                                                      í µí±Œí µí µí±Œí±¡í µí µí±¡í±í µí±                    í µí±Œí µí µí±Œí±¡í µí µí±¡í±í µí±                               í µí±Œí µí µí±Œí±¡í µí µí±¡í±í µí±  í µí±…í µí±…í µí±¡í µí±¡              í µí±Œí µí µí±Œí±¡í µí µí±¡í±í µí±  í µí°ºí µí°ºí µí±¡í µí±¡
+
+The revenue and expenditure elasticities allow us to link the deviation of R and G from potential to the
+deviation of output from its potential:22
+
+                                                               í µí±…í µí±…í µí µí±¡í µí±í±¡í µí±           =  ï¿½í µí±Œí µí µí±Œí µí±Œí µí±¡í µí µí±Œí µí±¡í±¡í±í µí±¡í µí±    í µí¼‚í µí¼‚í µí±…í µí±…,í µí±¡í µí±¡  í µí±Ží µí±Ž         í µí°ºí µí°ºí µí±¡í µí µí±í±¡í µí±   =         ï¿½í µí±Œí µí µí±Œí µí±Œí µí±¡í µí µí±Œí µí±¡í±¡í±í µí±¡í µí±    í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¡í µí±¡                                                                           (10)
+                                                               í µí±…í µí±…í µí±¡í µí±¡                                                                           í µí°ºí µí°ºí µí±¡í µí±¡
+                                                                                                                ï¿½                                                                                 ï¿½
+
+Replacing Equation (10) in Equation (9) yields:
+
+                                   í µí±…í µí±…í µí±¡í µí±¡      ï¿½í µí±Œí µí µí±Œí µí±Œí µí±¡í µí µí±Œí µí±¡í±¡í±í µí±¡í µí±ï¿½í µí¼‚í µí¼‚í µí±…í µí±…,í µí±¡í µí±¡     í µí°ºí µí°ºí µí±¡í µí±¡      ï¿½í µí±Œí µí µí±Œí µí±Œí µí±¡í µí µí±Œí µí±¡í±¡í±í µí±¡í µí±    í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¡í µí±¡     í µí±…í µí±…í µí±¡í µí±¡       ï¿½í µí±Œí µí µí±Œí µí±Œí µí±¡í µí µí±Œí µí±¡í±¡í±í µí±¡í µí±ï¿½í µí¼‚í µí¼‚í µí±…í µí±…,í µí±¡í µí±¡âˆ’1                       í µí°ºí µí°ºí µí±¡í µí±¡  ï¿½í µí±Œí µí µí±Œí µí±Œí µí±¡í µí µí±Œí µí±¡í±¡í±í µí±¡í µí±    í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¡í µí±¡  âˆ’1
+                                   í µí±Œí µí µí±Œí±¡í µí µí±¡í±í µí±                                          í µí±Œí µí µí±Œí±¡í µí µí±¡í±í µí±                                             í µí±Œí µí µí±Œí±¡í µí±¡                                                                   í µí±Œí µí µí±Œí±¡í µí±¡
+    í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí±¡í µí±¡     =                                                            âˆ’                                       ï¿½                =                                                                   âˆ’                                          ï¿½
+
+                                   í µí±…í µí±…í µí±¡í µí±¡                                                                         í µí°ºí µí°ºí µí±¡í µí±¡                                                                                                                                                                (11)
+                                   í µí±Œí µí µí±Œí±¡í µí±¡                                                                         í µí±Œí µí µí±Œí±¡í µí±¡
+    í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí±¡í µí±¡     =                       (1  +         í µí±‚í µí±‚í µí±¡í µí±¡ )1âˆ’í µí¼‚í µí¼‚í µí±…í µí±…,í µí±¡í µí±¡                      âˆ’                (1            +  í µí±‚í µí±‚í µí±¡í µí±¡ )1âˆ’í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¡í µí±¡
+
+It is then possible to approximate Equation (11) with a first order development around OG=0:
+
+    í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí±¡í µí±¡  =  í µí±…í µí±…í µí±¡í µí±¡  âˆ’  í µí°ºí µí°ºí µí±¡í µí±¡   +   ï¿½ï¿½1       âˆ’                      í µí¼‚í µí¼‚í µí±…í µí±…,í µí±¡í µí±¡ ï¿½  í µí±…í µí±…í µí±¡í µí±¡  âˆ’            ï¿½1  âˆ’            í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¡í µí±¡  ï¿½  í µí°ºí µí°ºí µí±¡í µí±¡  ï¿½   í µí±‚í µí±‚í µí±¡í µí±¡         =                í µí±¡í µí±¡    âˆ’   ï¿½í µí¼€í µí¼€í µí±…í µí±…,í µí±¡í µí±¡               âˆ’  í µí¼€í µí¼€í µí°ºí µí°º,í µí±¡í µí±¡ ï¿½í µí±‚í µí±‚í µí±¡í µí±¡
+                         í µí±Œí µí µí±Œí±¡í µí±¡     í µí±Œí µí µí±Œí±¡í µí±¡                                                         í µí±Œí µí µí±Œí±¡í µí±¡                                                  í µí±Œí µí µí±Œí±¡í µí±¡                                          í µí±Œí µí µí±Œí±¡í µí±¡
+                                                     í µí±¡í µí±¡                                                                                                                                                                                                                                 (12)
+                                                     í µí±Œí µí µí±Œí±¡í µí±¡
+                                                 =             âˆ’  í µí¼€í µí¼€í µí±¡í µí±¡            âˆ—  í µí±‚í µí±‚í µí±¡í µí±¡
+
+This equation takes the same form as Equation (1), with semi-elasticities of revenue and expenditure
+(ÎµR, ÎµG) which are not constant a priori, both because of the time varying shares of revenue and
+expenditure to GDP and the underlying elasticities. For practical reasons, semi-elasticities are
+computed based on constant weights and elasticities which constitutes an additional simplification.
+Under this assumption, Equation (10) is no longer an approximation but Equation (16) shows that this
+assumption is unlikely to hold already because of the changing composition of revenue and
+expenditure.
+
+In all, one can therefore see Equation (1) as the results of one assumption (constant elasticities of the
+revenue and expenditure components), a first order approximation (see Equations (10) and (12)) and a
+simplification (constant weights of total revenue and expenditure in GDP and of their components).
+
+22  This formula is the result of a first order Taylor development of R and G (in logs) around their
+
+potentials. Note that elasticities are not assumed to be constant in time since we only compare two states of the
+
+economy within the same period.
+
+                                                                                                                                  42
+From elasticities to semi-elasticities
+
+The budgetary semi-elasticity (í µí¼€í µí¼€) measures the sensitivity of an economic variable as a share of GDP
+(e.g. revenue) to the economic cycle. It measures by how many percentage points the revenue to GDP
+
+ratio changes for a 1% increase in GDP.
+
+                                                                          í µí¼€í µí¼€í µí±…í µí±…        =       í µí±‘í µí±‘ ï¿½í µí µí±…í±Œí µí µí±Œí±…ï¿½                                                                                       (13)
+                                                                                                   í µí±‘í µí±‘
+
+                                                                                                      í µí±Œí µí±Œ
+
+By comparison to the semi-elasticity, the elasticity captures the relative variation of one variable to the
+relative variation of another variable, i.e. measures by how many percent revenue changes for a 1%
+increase in GDP:
+
+                                                                          í µí¼‚í µí¼‚í µí±…í µí±…        =       í µí±‘í µí±‘ï¿½í µí±…í µí±…                                                                                           (14)
+                                                                                                  í µí±‘í µí±‘ï¿½í µí±Œí µí±Œ
+
+The same definition and relation between the elasticity and semi-elasticity apply to the expenditure
+side of the headline budget balance and to the subcomponents.
+
+There is a direct link between the elasticities and semi-elasticities of revenue and expenditure to GDP:
+
+í µí¼€í µí¼€í µí±…í µí±…  =  í µí±‘í µí±‘ ï¿½í µí µí±…í±Œí µí µí±Œí±…ï¿½  =  í µí±‘í µí±‘    âˆ’  í µí±‘í µí±‘       í µí±…í µí±…  =  í µí±…í µí±…  ï¿½í µí±‘í µí µí±‘í±…í µí±…             âˆ’  í µí±‘í µí µí±‘í±Œí µí±Œï¿½     =  í µí±…í µí±…  (Î·í µí±…í µí±…    âˆ’               1)  â‡’                             í µí±Œí µí±Œ          (15)
+              í µí±‘í µí±‘             í µí±Œí µí±Œ         í µí±Œí µí±Œ2                 í µí±Œí µí±Œ                                                í µí±Œí µí±Œ                                                     Î· = í µí¼€í µí¼€í µí±…í µí±… í µí±…í µí±… + 1
+
+                                           í µí±‘í µí±‘                                       í µí±‘í µí±‘
+
+             í µí±Œí µí±Œ                          í µí±Œí µí±Œ                                           í µí±Œí µí±Œ
+
+The term 1 between the two concepts corresponds to the elasticity of the denominator (GDP) of the
+revenue-to-GDP ratio to itself. The fraction í µí±…í µí±… corrects for the different reference (changes in the
+
+                                                                              í µí±Œí µí±Œ
+
+revenue-to-GDP ratio for the semi elasticity, changes in revenue as a fraction of total revenue for the
+
+elasticity).
+
+Aggregation of elasticities
+
+The aggregate elasticities are the weighted average of their components' elasticities. Taking the
+revenue elasticities as an example, one can write:
+
+                                           í µí±‘í µí±‘ï¿½í µí±…í µí±…           âˆ‘í µí µí±–í±›í µí±–í µ=í±› 1 í µí±‘í µí±‘í µí±–í µí±–             í µí±›í µí±› í µí±‘í µí±‘í µí±–í µí±–     í µí±…í µí±…í µí±–í µí±–                 í µí±›í µí±›                 í µí±…í µí±…í µí±–í µí±–
+                                           í µí±‘í µí±‘ï¿½í µí±Œí µí±Œ               í µí±…í µí±…                                    í µí±…í µí±…í µí±–í µí±–    í µí±…í µí±…                                          í µí±…í µí±…
+                              í µí¼‚í µí¼‚í µí±…í µí±…  =                  =                              =       ï¿½         í µí±‘í µí±‘ï¿½í µí±Œí µí±Œ            =    ï¿½               í µí¼‚í µí¼‚í µí±…í µí±…,í µí±–í µí±–                                   (16)
+                                                                   í µí±‘í µí±‘ï¿½í µí±Œí µí±Œ
+                                                                                                  í µí±–í µí±–=1                                í µí±–í µí±–=1
+
+Five individual revenue categories Î·Ri (personal income taxes, corporate income taxes, indirect taxes,
+social security contributions, non-tax revenue) and one spending category Î·GU (unemployment-related
+expenditure) are found sensitive to the economic cycle (their elasticity is not zero). One can therefore
+
+write the aggregate revenue and expenditure elasticities as:
+
+                                                                 5                      í µí±…í µí±…í µí±–í µí±–                                        í µí°ºí µí°ºí µí±¢í µí±¢
+                                                                                        í µí±…í µí±…                                            í µí°ºí µí°º
+                                                 í µí¼‚í µí¼‚í µí±…í µí±…  =     ï¿½       í µí¼‚í µí¼‚í µí±…í µí±…,í µí±–í µí±–            í µí±Ží µí±Ž í µí¼‚í µí¼‚í µí°ºí µí°º  =   í µí¼‚í µí¼‚í µí°ºí µí°º,í µí±¢í µí±¢                                                                  (17)
+
+                                                                 í µí±–í µí±–=1
+
+                                                                                                  43
+EU aggregation of elasticities
+
+There are several possibilities to compute the CAB at the EU level (or for any other group of
+countries). In practice, the aggregate CAB is the aggregation of the CAB of its components. In
+contrast, it is also possible to treat the EU as its own country using the elasticities of each of the
+revenue and expenditure categories estimated at the EU level (Price et al., 2014). The aggregation of
+the CABs of the Member States shows that applying a formula similar to (1) at the EU level would
+miss a cyclical effect linked to the business cycle differentials between the EU and it Member States:
+
+                                                             í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¸í µí°¸   =  âˆ‘í µí°¸í µí°¸ í µí±…í µí±…âˆ— âˆ’ í µí°ºí µí°ºâˆ—  =  ï¿½             í µí±Œí µí±Œâˆ—       í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶
+                                                                                        âˆ‘í µí°¸í µí°¸ í µí±Œí µí±Œâˆ—                       í µí±Œí µí±Œí µí°¸í µí°¸âˆ—
+                                                                                                                    í µí°¸í µí°¸
+
+          í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¶í µí°¸í µí°¸  =  â‹¯=                   í µí±…í µí±…í µí°¸í µí°¸ âˆ’ í µí°ºí µí°ºí µí°¸í µí°¸  âˆ’  í µí¼€í µí¼€í µí°¸í µí°¸ í µí±‚í µí±‚í µí°¸í µí°¸ + ï¿½ï¿½ï¿½ï¿½í µí°¸í µí°¸ï¿½ í µï¿½í±Œí µí±Œí µí µí±Œï¿½í°¸í µí µí±Œí°¸âˆ—ï¿½âˆ—ï¿½ï¿½ï¿½í µí±Œí µï¿½í±Œ(ï¿½1í µï¿½í±…í µ+í±…ï¿½âˆ’ï¿½í µí±‚í µí±‚ï¿½í µí°ºí µí°ºï¿½í µí°¸í µí°¸ï¿½)ï¿½+ï¿½ï¿½í µí¼€í µí¼€ï¿½ï¿½ï¿½(ï¿½í µí±‚í µí±‚ï¿½ï¿½í µí°¸í µí°¸ï¿½ï¿½âˆ’ï¿½ï¿½í µí±‚í µí±‚ï¿½ï¿½)  (18)
+
+                                                             í µí±Œí µí±Œí µí°¸í µí°¸
+
+                                                                                                                            í µí±í µí±í µí±í µí±í µí±í µí±í µí±í µí±í µí±í µí± í µí±›í µí±›í µí±›í µí±› í µí± í µí± .í µí±í µí±í µí±í µí±í µí±í µí±í µí±í µí±
+
+    with  í µí¼€í µí¼€ í µí°¸í µí°¸  =      âˆ‘í µí°¸í µí°¸   í µí±Œí µí±Œâˆ—         í µí¼€í µí¼€.
+                                       í µí±Œí µí±Œí µí°¸í µí°¸í µí°¸í µí°¸âˆ—
+
+Even on average over 10 years, the semi-elasticity for the EU treated as any other Member State may
+note coincide with í µí¼€í µí¼€í µí°¸í µí°¸ in the above formula (the weighted average of the Member Stateâ€™s semi-
+elasticities, with the weights being their potential GDP). This is however the case here to the third
+decimal, í µí¼€í µí¼€í µí°¸í µí°¸ is equal to 0.554 which is equal to the value estimated for the EU as if it was a Member
+State (Table IV.3).
+
+Figure II.1. EU CAB three calculations
+
+0
+
+                              EU (aggr)                                  EU (sync)   EU (MS)
+
+-1
+
+-2
+
+-3
+
+-4
+
+-5
+
+ -6
+        2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+
+Note: EU refers to the EU Member States at the time of our analysis. (aggr) is the aggregation of the MSâ€™s CAB, (sync)
+is the same calculation forgetting the correction for non-synchronisation of the business cycles, (MS) is the CAB of the
+EU computed as for any other MS.
+Source: AMECO 2018 Spring forecast, Mourre et al. (2014) and authors' calculations
+
+In addition, the term correcting for cyclical desynchronisation is small because desynchronisations
+cancel each other out. Therefore, the CAB computed for the EU as if it were a single Member State or
+
+                                                                                     44
+computed as the aggregation of the Member Statesâ€™ CABs (without or without the corrective term for
+non-synchronisation of the business cycles) are almost identical (Figure II.1).
+
+III. DATA SOURCES, CODES AND TREATMENT
+
+The data for the updated weights was collected from AMECO's 2018 spring vintage. All variables
+(Table III.1) are in current prices and are converted to EUR (for non euro area Member States) using
+time varying annual exchange rates. This conversion has no effect on country specific semi-elasticities
+but facilitates the calculation of EU aggregates for analytical purposes. The calculations were cross
+checked with data in percentage of GDP and in national currency.
+
+Total revenue and expenditure coincide with excessive deficit procedure (EDP) notifications.
+Total revenue is URTG and total expenditure is UUTG. Apart from their publication calendar, these
+correspond to the revenue and expenditure notified by Member States as part of the EDP notification.
+
+The revenue categories before adjustments are:
+
+     â€¢ UTYC for corporate income tax,
+     â€¢ UTYH for personal income tax,
+     â€¢ UTVG for indirect taxes,
+     â€¢ UTSG for social contributions,
+     â€¢ UKTTG+UTOG for non-tax revenue.
+
+Two adjustments are necessary to compute the weights of the revenue categories:
+     â€¢ First, the sum of current taxes on income and wealth paid by corporations (UTYC) and
+          households and non-profit institutions serving households (UTYH) is not equal to the total
+          current taxes on income and wealth collected by the government (UTYG), because of direct
+          taxes received from or paid to the rest of the world. We redistribute the missing direct taxes in
+          proportion of UTYC and UTYH to ensure that personal and corporate income tax amounts add
+          up to the direct taxes received by the government.
+     â€¢ Second, capital taxes, which represent a relatively small amount, are used to compute total tax
+          revenue. The individual elasticities calculated by OECD do not specify the elasticity of capital
+          taxes. As the elasticity of capital taxes is unlikely to be 0, the revenue generated by them (
+          UKTG) is spread across personal income tax, corporate income tax, social security
+          contributions, indirect taxes in proportion to their size.
+
+On the expenditure side, the share of unemployment related expenditure is taken from the
+COFOG classification of expenditure. The corresponding code is UUTG105. Total government
+expenditure in the COFOG classification (UUTG00) are almost always equal to the baseline ESA
+estimates for total expenditure (UUTG). However, to avoid small inconsistencies, the ratio of
+UUTG105 to UUTG00 is applied to UUTG to compute the governmentâ€™s unemployment related
+expenditure.23
+
+Data availability has much improved since the last revision of weights, but limited country
+specific adjustments were still needed to fill some gaps in the data. Mourre et al. (2013) identified
+
+23 To ensure the consistency of unemployment-related expenditure across MS and respond to an issue raised by
+Denmark during past updates (including the 2013 one), we use the OECD database on Labour Market
+Programmes ('Public expenditure and participant stocks on LMP') and use the variable 'Full unemployment
+benefits' instead of AMECO's UUTG105 variable. This is because the elasticity of unemployment related
+expenditure was estimated based on the OECD data and those present a large discrepancy with the COFOG data
+for Denmark.
+
+                                                                   45
+a lot of data gaps, which were filled using other data sources or assumptions, especially for non-OECD
+EU countries. These are very limited now. To estimate the missing data points of several variables for
+the time period under consideration (all 2017 data points for UTTG00; several data points for UTYC,
+UTYH, UTTG105 in the early 2000s), we apply a constant ratio to a total (e.g. total revenue, total
+expenditure) with respect to the previous or following year's value. To estimate the missing UTYH and
+UTYC series for MT, we take their average annual weights in UTYG from the other 9 countries who
+joined the EU in the 2004 accession round.
+
+Table III.1. List of variables for replication
+
+ AMECO               ESA (Eurostat) code                                           Description
+    Code
+                 B1g                            Gross domestic product at current prices
+UVGD             TR by S13
+URTG             D5r (r for received) by        Total revenue; general government - ESA 2010
+UTYG             S13
+                 D5 paid by S14 and S15         Current taxes on income and wealth (direct taxes); general
+UTYH             D5 paid by S11 and S12         government - ESA 2010
+UTYC             D2r S13                        Current taxes on income and wealth; households and NPISH
+UTVG
+                                                Current taxes on income and wealth; corporations
+UTSG             D61r S13
+                                                Taxes linked to imports and production (indirect taxes); general
+UKTTG            D9r S13                        government - ESA 2010
+UTKG                                            Net social contributions received; general government - ESA
+UTOG             D91r S13                       2010
+                                                Capital transfers received; general government - ESA 2010
+UUTG00           P11+P12+P131+D39+D4
+UUTG105          +D7 of S13                     Capital taxes; general government - ESA 2010
+                 COFOG 01 to 10
+                                                Other current revenue including sales; general government -
+                 COFOG 10.5                     ESA 2010
+                                                General government; Total expenditure
+UUTG             TE
+                                                General government; Social protection; unemployment; total
+                                                expenditure
+                                                Total expenditure; general government - ESA 2010
+
+Source: Authors
+
+In the context of fiscal surveillance, semi-elasticities are rounded to the third decimal. The semi-
+elasticities of revenue and expenditure are rounded to the third decimal with the semi-elasticity of the
+budget balance being the difference of those two rounded estimates (Table I.3). This allows for the full
+replication of the calculation of the CAB by either the Commission or the Member States.
+
+                                                46
+IV. COMPARING THE RESULTS 2018 VS 2014
+
+Table IV.1. Shares of revenue categories (% of total revenue), average 2002-2011
+
+                                                              Revenue
+
+Country  Income tax       Corporate tax    Social security  Indirect tax Non-tax revenue
+                                           contributions
+
+               (H)              (I)              (J)        (K)                   (L)
+
+         2014 2018 2014 2018 2014 2018 2014 2018 2014 2018
+
+BE       27.43 25.95 6.68            6.42 33.92 32.72 26.61 25.82 5.36                 9.10
+
+BG       6.11       8.70  5.29       6.18 24.81 21.04 44.23 42.32 19.56 21.76
+
+CZ       10.68 9.93 10.25 8.18 39.05 36.62 27.44 29.45 12.58 15.82
+
+DK       47.85 50.28 6.11            4.82  3.57       2.14 31.14 30.32 11.33 12.44
+
+DE       20.25 21.33 5.74            5.53 40.06 37.49 24.99 24.50 8.96 11.15
+
+EE       16.31 14.28 3.55            3.95 30.50 29.77 35.00 34.94 14.64 17.06
+
+IE       24.30 29.13 9.77            8.48 18.45 17.02 35.76 32.26 11.72 13.11
+
+EL       12.83 13.11 7.99            7.95 33.69 29.91 31.20 32.00 14.29 17.02
+
+ES       19.55 21.10 8.38            5.97 34.57 34.23 28.91 28.90 8.59                 9.80
+
+FR       17.62 18.73 4.96            4.87 37.14 35.98 30.70 29.93 9.59 10.48
+
+HR       7.25 11.09 9.09             4.12 29.49 27.30 43.23 42.58 10.94 14.91
+
+IT       25.70 26.21 6.17            5.08 29.40 28.54 31.77 31.14 6.95                 9.04
+
+CY       11.12 9.58 15.99 16.65 19.97 21.01 37.98 38.36 14.94 14.40
+
+LV       17.65 17.07 5.52            4.68 24.96 24.29 34.30 35.04 17.56 18.92
+
+LT       18.48 11.80 5.60            4.36 27.40 34.27 35.58 33.59 12.94 15.99
+
+LU       16.03 19.46 15.38 13.43 28.78 28.14 31.61 28.44 8.20 10.53
+
+HU       16.41 12.81 4.28            3.85 29.15 28.44 35.84 38.67 14.32 16.23
+
+MT       13.74 22.44 7.79 11.24 30.89 17.41 35.00 33.80 12.58 15.11
+
+NL       18.65 19.84 7.08            5.82 33.13 33.80 27.50 25.97 13.63 14.57
+
+AT       22.55 22.56 4.86            4.49 33.50 30.62 29.96 29.25 9.13 13.07
+
+PL       12.52 12.35 6.28            5.82 31.00 33.19 35.07 34.31 15.13 14.33
+
+PT       14.02 15.60 7.91            7.43 29.09 27.59 34.21 32.70 14.77 16.68
+
+RO       10.47 10.85 8.55            7.90 29.74 27.56 37.09 36.50 14.14 17.20
+
+SI       14.54 13.81 4.88            3.75 33.80 33.92 34.39 32.84 12.40 15.68
+
+SK       9.60       9.09  8.43       8.06 37.88 34.89 32.83 27.68 11.26 20.28
+
+FI       26.13 25.35 6.71            5.03 23.41 23.43 25.81 25.84 17.93 20.35
+
+SE       32.11 30.44 5.69            5.48 18.33 6.59 31.95 43.83 11.92 13.65
+
+UK       31.79 30.29 8.24            7.44 20.71 20.19 31.81 32.44 7.45                 9.65
+
+EU       23.04 23.00 6.35            5.79 29.34 30.07 30.51 29.72 10.76 11.42
+
+Note: EU refers to the EU Member States at the time of our analysis. For the EU, the reported shares are the shares of
+
+the revenue or expenditure categories in the EU as a whole over GDP of the EU.
+Source: AMECO 2018 Spring vintage
+
+                                           47
+Table IV.2. Shares of expenditure categories (% of total expenditure), average 2002-2011
+
+                                                       Expenditure
+
+Country    Unemployment-          Other expenditure
+         related expenditure
+
+               (M)                       (N)
+
+         2014       2018          2014        2018
+
+BE       4.46       4.15          95.54       95.85
+
+BG       0.70       0.24          99.30       99.76
+
+CZ       0.74       0.65          99.26       99.35
+
+DK       2.82       2.07          97.18       97.93
+
+DE       6.22       4.55          93.78       95.45
+
+EE       1.89       2.91          98.11       97.09
+
+IE       4.32       4.52          95.68       95.48
+
+EL       1.66       1.38          98.34       98.62
+
+ES       4.89       5.69          95.11       94.31
+
+FR       3.46       3.34          96.54       96.66
+
+HR       0.80       1.05          99.20       98.95
+
+IT       1.18       2.00          98.82       98.00
+
+CY       1.28       1.94          98.72       98.06
+
+LV       1.70       1.38          98.30       98.62
+
+LT       1.48       1.47          98.52       98.53
+
+LU       2.46       3.59          97.54       96.41
+
+HU       1.15       1.07          98.85       98.93
+
+MT       1.35       1.13          98.65       98.87
+
+NL       3.87       3.56          96.13       96.44
+
+AT       2.56       2.64          97.44       97.36
+
+PL       2.08       1.58          97.92       98.42
+
+PT       2.18       2.45          97.82       97.55
+
+RO       1.14       0.49          98.86       99.51
+
+SI       1.36       1.39          98.64       98.61
+
+SK       1.06       0.52          98.94       99.48
+
+FI       4.98       4.22          95.02       95.78
+
+SE       3.32       2.69          96.68       97.31
+
+UK       0.78       0.62          99.22       99.38
+
+EU       3.33       3.06          96.67       96.94
+
+Note: EU refers to the EU Member States at the time of our analysis. For the EU, the reported shares are the shares of
+
+the revenue or expenditure categories in the EU as a whole over GDP of the EU.
+Source: AMECO 2018 Spring vintage
+
+                              48
+Table IV.3. Revised aggregate semi-elasticities of fiscal variables
+
+Country   Revenue           Expenditure                                      Budget balance
+
+          2014    2018      2014                                     2018    2014   2018
+
+    BE    0,015    -0,006   -0,591                                   -0,621  0,605  0,615
+   BG     -0,084   -0,077   -0,391                                   -0,375  0,308  0,298
+    CZ    -0,012   -0,033   -0,446                                   -0,428  0,433  0,395
+   DK     -0,001   -0,017   -0,620                                   -0,606  0,619  0,589
+   DE     -0,009   -0,011   -0,560                                   -0,515  0,551  0,504
+    EE    0,037    0,025    -0,406                                   -0,461  0,443  0,486
+    IE    0,019    0,021    -0,508                                   -0,501  0,528  0,522
+    EL    -0,023   -0,030   -0,506                                   -0,554  0,483  0,524
+    ES    0,011    0,006    -0,528                                   -0,591  0,539  0,597
+    FR    0,002    0,004    -0,601                                   -0,626  0,603  0,630
+   HR     -0,011   -0,042   -0,479                                   -0,485  0,467  0,443
+    IT    0,038    0,022    -0,501                                   -0,522  0,539  0,544
+    CY    0,071    0,064    -0,452                                   -0,440  0,523  0,504
+    LV    -0,028   -0,038   -0,408                                   -0,416  0,380  0,378
+    LT    0,022    -0,008   -0,391                                   -0,407  0,413  0,399
+    LU    0,003    -0,012   -0,442                                   -0,474  0,445  0,462
+   HU     -0,019   -0,041   -0,511                                   -0,494  0,492  0,453
+   MT     0,007    0,063    -0,449                                   -0,416  0,456  0,479
+    NL    0,066    0,054    -0,579                                   -0,551  0,646  0,605
+   AT     0,012    -0,006   -0,569                                   -0,577  0,580  0,571
+    PL    0,027    0,026    -0,494                                   -0,473  0,521  0,499
+   PT     -0,019   -0,021   -0,525                                   -0,559  0,506  0,538
+   RO     -0,045   -0,054   -0,384                                   -0,375  0,339  0,321
+    SI    -0,006   -0,036   -0,483                                   -0,504  0,477  0,468
+    SK    -0,005   -0,041   -0,398                                   -0,422  0,393  0,381
+    FI    -0,030   -0,054   -0,604                                   -0,636  0,574  0,582
+    SE    -0,020   -0,014   -0,609                                   -0,567  0,590  0,553
+   UK     0,120    0,094    -0,471                                   -0,456  0,591  0,550
+   EU     0,024    0,017    -0,539                                   -0,537  0,563  0,554
+EU (avg)  0,005    -0,006   -0,497                                   -0,502  0,502  0,496
+
+Note: EU refers to the EU Member States at the time of our analysis. EU calculations are based on elasticities and
+weights of the EU28 while the EU (avg) is the arithmetic average of the 28 countries.
+Source: AMECO (2018 Spring vintage), Mourre et al. (2014) and authorsâ€™ calculations
+
+                        49
+V. SENSITIVITY AND EXPLORATORY ANALYSIS
+
+Table V.1. Sensitivity analysis of budget balance semi-elasticities
+
+               Budget balance                                        Revisions  Revisions compared
+                                                                     compared           to 2018
+
+                                                                      to 2014
+
+Country                2018      2018                                             2018      2018
+                        excl                                                       excl
+         2014  2018   capital    weights                             2018        capital    weights
+                     transfers  computed                                        transfers  computed
+                       (D9p)                                                      (D9p)
+                                   over                                                       over
+                                extended                                           -0,01   extended
+                                 window                                                     window
+                                 2002-17                                                    2002-17
+
+BE       0,61 0,61   0,60           0,61                             -0,01                   0,00
+
+BG       0,31 0,30   0,29           0,30                             0,01       -0,01      0,00
+
+CZ       0,43 0,40   0,39           0,40                             0,04       -0,01      0,00
+
+DK       0,62 0,59   0,58           0,59                             0,03       -0,01      0,00
+
+DE       0,55 0,50   0,49           0,52                             0,05       -0,01      0,02
+
+EE       0,44 0,49   0,47           0,45                             -0,04      -0,02      -0,04
+
+IE       0,53 0,52   0,49           0,49                             0,01       -0,03      -0,03
+
+EL       0,48 0,52   0,50           0,50                             -0,04      -0,02      -0,02
+
+ES       0,54 0,60   0,59           0,56                             -0,06      -0,01      -0,04
+
+FR       0,60 0,63   0,62           0,61                             -0,03      -0,01      -0,02
+
+HR       0,47 0,44   0,43           0,45                             0,02       -0,01      0,01
+
+IT       0,54 0,54   0,53           0,53                             -0,01      -0,01      -0,01
+
+CY       0,52 0,50   0,48           0,49                             0,02       -0,02      -0,01
+
+LV       0,38 0,38   0,37           0,37                             0,00       -0,01      -0,01
+
+LT       0,41 0,40   0,39           0,40                             0,01       -0,01      0,00
+
+LU       0,44 0,46   0,45           0,46                             -0,02      -0,01      0,00
+
+HU       0,49 0,45   0,43           0,47                             0,04       -0,02      0,02
+
+MT       0,46 0,48   0,47           0,47                             -0,02      -0,01      -0,01
+
+NL       0,65 0,61   0,60           0,60                             0,04       -0,01      -0,01
+
+AT       0,58 0,57   0,56           0,57                             0,01       -0,01      0,00
+
+PL       0,52 0,50   0,50           0,51                             0,02       0,00       0,01
+
+PT       0,51 0,54   0,53           0,52                             -0,03      -0,01      -0,02
+
+RO       0,34 0,32   0,31           0,32                             0,02       -0,01      0,00
+
+SI       0,48 0,47   0,45           0,47                             0,01       -0,02      0,00
+
+SK       0,39 0,38   0,37           0,38                             0,01       -0,01      0,00
+
+FI       0,57 0,58   0,58           0,57                             -0,01      0,00       -0,01
+
+SE       0,59 0,55   0,55           0,57                             0,04       0,00       0,02
+
+UK       0,59 0,55   0,53           0,54                             0,04       -0,02      -0,01
+
+EU       0,56 0,55   0,55           0,55                             0,01       0,00       0,00
+
+Note: EU refers to the EU Member States at the time of our analysis. Counterfactual revisions of the semi-elasticities
+are computed by either taking the period covering both vintages for the weights or by excluding capital transfers
+from public expenditure (D9p). Such changes in the methodology would have resulted in minor differences in the
+semi-elasticities, with the largest effects on EE, IE, and ES. EU calculations are based on elasticities and weights of the
+Union as if it was a country of its own.
+Source: AMECO (2018 Spring vintage), Mourre et al. (2014) and authorsâ€™ calculations
+
+                                50
+Table V.2. Estimation of semi-elasticity models against structural indicators
+
+                                (a)        (b)        (c)                      (d)           (e)         (f)       (g)        (h)         (i)         (j)
+
+Baseline specification          7.026***   5.581***   5.731***                 6.056***   6.229***   6.157***   6.319***   6.185***   4.682***    5.872***
+Unemployment exp. / GDP          (0.000)    (0.000)    (0.000)                  (0.000)    (0.000)    (0.000)    (0.000)    (0.000)     (0.000)    (0.000)
+Other exp. / GDP                0.867***   0.880***   0.888***                 0.897***   0.911***   0.905***   0.923***   0.887***   0.743***    0.878***
+non tax rev. / GDP               (0.000)    (0.000)    (0.000)                  (0.000)    (0.000)    (0.000)    (0.000)    (0.000)     (0.000)    (0.000)
+Economic fundamentals           -0.803***  -0.846***  -0.845***                -0.858***  -0.883***  -0.879***  -0.902***  -0.860***  -0.792***   -0.862***
+Income per capita (average)      (0.000)    (0.000)    (0.000)                  (0.000)    (0.000)    (0.000)    (0.000)    (0.000)     (0.000)    (0.000)
+Income per capita (end value)
+GDP Member State / GDP EU                  0.000846   0.000657                  0.00113   -0.000370  -0.000630  0.000201   0.000131   0.00185***  0.00125*
+Economic volatility (stdev OG)              (0.172)    (0.207)                  (0.522)    (0.893)    (0.659)    (0.800)    (0.444)     (0.002)    (0.086)
+
+Economic volatility (stdev GDP
+growth)
+
+wage / value added
+
+Fiscal and tax policy
+debt / GDP
+
+PIT top rate
+
+CIT top rate
+
+                                                                               51
+Vintage dummies        0         0                                   0          0          0          0          0          0          0          0
+Vintage 2005                                                         (.)        (.)        (.)        (.)        (.)        (.)        (.)        (.)
+                                                                 -0.00551   -0.00560   -0.00515   -0.00467   -0.00273   -0.00583   0.00593    0.00336
+                       (.)       (.)                              (0.367)    (0.366)    (0.488)    (0.472)    (0.633)    (0.344)    (0.422)    (0.717)
+                                                                0.0408***  0.0410***  0.0414***  0.0419***  0.0436***  0.0407***  0.0525***  0.0499***
+Vintage 2013           -0.00803  -0.00692                         (0.000)    (0.000)    (0.000)    (0.000)    (0.000)    (0.000)    (0.000)    (0.000)
+                        (0.212)   (0.291)                       0.0387***  0.0402***  0.0408***  0.0410***  0.0414***  0.0381***  0.0541***  0.0520***
+                                                                  (0.000)    (0.000)    (0.000)    (0.000)    (0.000)    (0.000)    (0.000)    (0.000)
+Vintage 2014           0.0385*** 0.0396***                        0.0344     0.0393     0.0371     0.0425     0.0188     0.0401     0.0369     0.0137
+                                                                  (0.246)    (0.235)    (0.319)    (0.273)    (0.673)    (0.206)    (0.169)    (0.729)
+                       (0.000)   (0.000)                            111        111        111        111        106        111        111        111
+                                                                    No         No         No         No         No         No         No         No
+Vintage 2018           0.0376*** 0.0379***                          Yes        Yes        Yes        Yes        Yes        Yes        Yes        Yes
+                                                                   0.656      0.657      0.655      0.653      0.685      0.654      0.650      0.668
+                       (0.000)   (0.000)                           0.857      0.847      0.845      0.848      0.849      0.848      0.883      0.841
+                                                                   0.822      0.814      0.812      0.814      0.821      0.815      0.844      0.811
+Constant               0.0457    0.0363
+                       (0.257)   (0.223)
+
+Observations            111       111
+Country fixed effects   Yes       No
+Vintage fixed effects   Yes       Yes
+R2 within              0.660     0.659
+R2 between             0.831     0.860
+
+R2 overall             0.801     0.825
+
+Note: p-values in parentheses. * p<0.10, ** p<0.05, *** p<0.01
+Source: authors' calculations
+
+                                                                           52
+Table V.3. Estimation of semi-elasticity models against tentative geographical typologies
+
+                          (a)        (b)                        (c)        (d)        (e)        (f)
+
+Baseline specification    7.026*** 5.537*** 6.289***                       5.434***   5.907***   6.271***
+Unemployment exp. /                                                          (0.000)    (0.000)    (0.000)
+GDP                        (0.000)    (0.000)                    (0.000)   0.862***   0.906***   0.918***
+                          0.867***   0.863***                   0.911***     (0.000)    (0.000)    (0.000)
+Other exp. / GDP           (0.000)    (0.000)                    (0.000)   -0.826***  -0.872***  -0.886***
+                          -0.803***  -0.848***                  -0.881***    (0.000)    (0.000)    (0.000)
+non tax rev. / GDP         (0.000)    (0.000)                    (0.000)
+                                                                            -0.0261*  -0.0254**   0.00553
+Peer effect                          0.193**                                 (0.085)    (0.050)    (0.708)
+Weighted neighbours'                 (0.027)
+semi-elasticity                                                                 0          0          0
+                                                    -0.000982                   (.)        (.)        (.)
+Geographical groups                                   (0.923)               -0.00471   -0.00501   -0.00565
+Euro area (time varying)                                                     (0.443)    (0.424)    (0.366)
+                                                                           0.0418***  0.0415***  0.0409***
+Joined EU no sooner                                                          (0.000)    (0.000)    (0.000)
+than 2004                                                                  0.0408***  0.0408***  0.0403***
+                                                                             (0.000)    (0.000)    (0.000)
+Lower income Europe                                                        0.0753**     0.0459     0.0317
+                                                                             (0.050)    (0.174)    (0.301)
+Programme countries                                                            111        111        111
+                                                                               No         No         No
+Vintage dummies           0          0                          0              Yes        Yes        Yes
+Vintage 2005                                                                  0.653      0.655      0.656
+                                                                              0.863      0.857      0.844
+                          (.)        (.)                        (.)           0.826      0.822      0.812
+
+Vintage 2013              -0.00803   -0.00519                   -0.00556
+                           (0.212)    (0.398)                    (0.337)
+
+Vintage 2014              0.0385*** 0.0341*** 0.0410***
+
+                          (0.000)    (0.000)                    (0.000)
+
+Vintage 2018              0.0376*** 0.0357*** 0.0405***
+
+                          (0.000)    (0.000)                    (0.000)
+
+Constant                  0.0457     -0.0331                    0.0362
+                          (0.257)    (0.500)                    (0.254)
+
+Observations               111        111                        111
+Country fixed effects      Yes        No                         No
+Vintage fixed effects      Yes        Yes                        Yes
+R2 within                 0.660      0.660                      0.656
+R2 between                0.831      0.868                      0.843
+R2 overall                0.801      0.832                      0.811
+
+Note: p-values in parentheses. * p<0.10, ** p<0.05, *** p<0.01
+Source: authors' calculations
+
+                                              53
+EUROPEAN ECONOMY DISCUSSION PAPERS
+
+European Economy Discussion Papers can be accessed and downloaded free of charge from the following
+address:
+https://ec.europa.eu/info/publications/economic-and-financial-affairs-
+publications_en?field_eurovoc_taxonomy_target_id_selective=All&field_core_nal_countries_tid_selective=All
+&field_core_date_published_value[value][year]=All&field_core_tags_tid_i18n=22617.
+
+Titles published before July 2015 under the Economic Papers series can be accessed and downloaded free of
+charge from:
+http://ec.europa.eu/economy_finance/publications/economic_paper/index_en.htm.
+GETTING IN TOUCH WITH THE EU
+In person
+All over the European Union there are hundreds of Europe Direct Information Centres. You can find the
+address of the centre nearest you at: http://europa.eu/contact.
+On the phone or by e-mail
+Europe Direct is a service that answers your questions about the European Union. You can contact this
+service:
+
+    â€¢ by freephone: 00 800 6 7 8 9 10 11 (certain operators may charge for these calls),
+    â€¢ at the following standard number: +32 22999696 or
+    â€¢ by electronic mail via: http://europa.eu/contact.
+
+FINDING INFORMATION ABOUT THE EU
+Online
+Information about the European Union in all the official languages of the EU is available on the Europa
+website at: http://europa.eu.
+EU Publications
+You can download or order free and priced EU publications from EU Bookshop at:
+http://publications.europa.eu/bookshop. Multiple copies of free publications may be obtained by contacting
+Europe Direct or your local information centre (see http://europa.eu/contact).
+EU law and related documents
+For access to legal information from the EU, including all EU law since 1951 in all the official language
+versions, go to EUR-Lex at: http://eur-lex.europa.eu.
+Open data from the EU
+The EU Open Data Portal (http://data.europa.eu/euodp/en/data) provides access to datasets from the EU.
+Data can be downloaded and reused for free, both for commercial and non-commercial purposes.
+

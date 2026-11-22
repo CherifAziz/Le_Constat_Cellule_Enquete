@@ -1,0 +1,10 @@
+serie;premiere_annee;valeur_premiere_annee;annee_minimum;valeur_minimum;creux_debut_(min+2pts);retournement_fin_du_creux_(min+2pts);derniere_annee;valeur_derniere_annee;source
+France (Insee) 55-59;1975;61.8;1987;48.2;1984;1999;2025;78.8;Insee T207
+France (Insee) 60-64;1975;40.5;2001;10.8;1995;2002;2025;44.4;Insee T207
+France (Insee) 55-64;1975;49;1998;29.7;1992;2000;2025;61.7;Insee T207
+Germany (ILOSTAT) 55-59;1983;55.42;1993;49.86;1992;1994;2025;83.09;"ILOSTAT ; Allemagne : rupture probable 1991 (reunification) non documentee"
+Germany (ILOSTAT) 60-64;1983;22.837;1994;16.992;1986;1998;2025;67.591;"ILOSTAT ; Allemagne : rupture probable 1991 (reunification) non documentee"
+Netherlands (ILOSTAT) 55-59;1977;44.98;1985;40.321;1983;1991;2025;81.853;ILOSTAT
+Netherlands (ILOSTAT) 60-64;1977;29.017;1995;13.557;1989;1997;2025;69.54;ILOSTAT
+Sweden (ILOSTAT) 55-59;1975;73.56;1976;73.428;1975;1997;2025;85.064;ILOSTAT
+Sweden (ILOSTAT) 60-64;1975;52.687;2000;46.036;1994;2000;2025;71.132;ILOSTAT

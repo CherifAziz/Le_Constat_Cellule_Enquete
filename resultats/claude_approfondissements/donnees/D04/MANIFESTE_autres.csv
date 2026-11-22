@@ -1,0 +1,7 @@
+fichier;url;date_acces;sha256;description
+sources/a04_po_recettes_1959_2025.csv;copie locale de Le_Constat_Cellule_Enquete/resultats/donnees/A04/a04_po_recettes_1959_2025.csv;2026-11-22;voir fichier;PIB base 2020 (colonne PIB_implicite_Md_EUR) pour les points de PIB
+sources/D08_cotisations_par_salaire_copie.csv;copie locale de claude_approfondissements/donnees/D08/D08_cotisations_par_salaire.csv;2026-11-22;voir fichier;salaires bruts D11 (comptes nationaux) pour les points de salaires bruts
+(non copié) ../D02/sources/*.txt;pièces de D02 (Sénat 1976-1983, CCSS 1980-1983);2026-11-22;voir manifeste de D02;citations recontrôlées par scripts/D04/d04_verif_citations_D02.py
+(non copié) ../D05/sources/AN_QE2062_L11_TVA1995.pdf;https://www.assemblee-nationale.fr/dyn/11/questions/QANR5L11QE2062.pdf;2026-11-22;voir manifeste de D05;lue par D04 (hausse de TVA de 1995, 57 MdF)
+(non copié) ../D05/sources/RESF_PLF2019.txt;pièce de D05;2026-11-22;voir manifeste de D05;encadré 16 et tableau 8 (bascule du CICE)
+(non copié) ../D05/sources/insee_ip1548_APU2014.txt;pièce de D05;2026-11-22;voir manifeste de D05;le CICE compté en dépense en comptabilité nationale (p.1)

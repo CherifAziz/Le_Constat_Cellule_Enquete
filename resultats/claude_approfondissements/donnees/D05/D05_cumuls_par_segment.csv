@@ -1,0 +1,5 @@
+segment;annees;nb_annees;conventions;somme_pts_PIB_source;somme_Md_EUR_courants;somme_pts_PIB_base2020;avertissement
+S1_2000_2008_DGTresor_2009;2000-2008;9;B;-3.0;non calculable (Md€ manquants);non calculable;"somme d'effets annuels ex ante, sans effet retour ; points de PIB de bases comptables différentes"
+S2_2009_2011_heterogene;2009-2011;3;A+C;non calculable (points manquants);non calculable (Md€ manquants);non calculable;conventions mélangées : ne pas cumuler
+S3_2012_2016_RESF;2012-2016;5;A;2.4;non calculable (Md€ manquants);non calculable;somme d'effets annuels ex ante, sans effet retour
+S4_2017_2025_Insee;2017-2025;9;A;non calculable (points manquants);-27.6;-1.24;somme d'effets annuels ex ante, sans effet retour

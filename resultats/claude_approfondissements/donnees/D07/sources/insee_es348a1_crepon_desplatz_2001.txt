@@ -1,0 +1,1420 @@
+                                         EMPLOI
+
+Une nouvelle évaluation des
+effets des allégements de charges
+sociales sur les bas salaires
+
+Bruno Crépon et Rozenn Desplatz*
+
+Instaurés à partir de 1993, les dispositifs d’allégement de charges sur les bas salaires ont
+connu un développement important en 1995 et 1996, au point de devenir aujourd’hui un
+instrument central de la politique pour l’emploi. Leur impact sur l’économie a fait
+jusqu’ici l’objet d’évaluations ex ante, au moyen de modèles macroéconomiques
+traditionnels. À partir de données d’entreprises, et pour la première fois, une évaluation
+ex post de l’effet des allégements de charges sur l’emploi est proposée, portant sur les
+extensions importantes apportées au dispositif initial en 1995 et en 1996. Elle repose sur
+le calcul, pour chaque entreprise, de la réduction du coût moyen du travail qu’implique
+l’extension des dispositifs de 1995 et 1996, sur la base des rémunérations versées en
+1994. L’évaluation est ensuite effectuée en comparant l’évolution entre 1994 et 1997 de
+l’emploi et des autres performances entre entreprises bénéficiant ex ante différemment
+des dispositifs. Cette évaluation utilise et étend des méthodes récemment proposées pour
+l’évaluation des politiques économiques. L’effet des mesures est en particulier séparé de
+celui des caractéristiques des entreprises (taille, activité, exposition à la concurrence
+internationale, etc.), susceptibles d’affecter l’ampleur de la réduction de coût ex ante et
+l’évolution de l’emploi (approche « toutes choses égales par ailleurs »).
+
+Les dispositifs d’allégement de charges ont permis de nombreuses créations d’emplois
+entre 1994 et 1997. Le taux de croissance des effectifs qui leur est imputable est de 2,6 %
+dans l’industrie et de 3,4 % dans le tertiaire. 460 000 emplois auraient été ainsi créés ou
+sauvegardés dans l’économie, entre 1994 et 1997, grâce à ces mesures. La moitié de ces
+emplois seraient des emplois non qualifiés. Ces créations d’emplois s’expliquent par
+d’importantes substitutions de salariés non qualifiés à des salariés qualifiés, et, dans une
+moindre mesure, du travail au capital. Cela conforte ainsi l’idée, souvent avancée, que
+l’enrichissement du contenu en emplois de la croissance observé sur cette période est lié
+aux allégements de charges sur les bas salaires. Des effets de volume, liés aux baisses de
+prix, elles-mêmes induites par la réduction des coûts de production, contribuent aussi à
+ces créations d’emplois. Ainsi, si la croissance est plus riche en emplois, et en particulier
+non qualifié, elle est elle-même plus forte.
+
+Toutefois, ces évaluations ne prennent en compte qu’une partie des effets liés à
+l’instauration des dispositifs d’allégement de charges sur les bas salaires. Leur
+échappent, en particulier, l’effet du financement de ces mesures et les effets
+macroéconomiques indirects qui ont pu les accompagner. Ces évaluations sur données
+d’entreprises sont proches, néanmoins, des évaluations macroéconomiques habituelles.
+
+* Au moment de la rédaction de cet article, Bruno Crépon était chef de la division Marchés et stratégies d’entreprise du Département des
+Études économiques d’ensemble de l’Insee. Rozenn Desplatz appartenait à la division Marchés et stratégies d’entreprise, et était membre
+de EUREQua, Université de Paris I.
+
+Les noms et dates entre parenthèses renvoient à la bibliographie en fin d’article.
+
+ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8  3
+   Depuis 1993, une succession de mesures               dans l’évolution observée de leur emploi, ce qui
+        d’allégements de charges sur les bas salai-     tient aux réductions de charges de ce qui tient à
+   res ont été introduites afin de freiner la dispari-  leurs autres caractéristiques.
+   tion des emplois non qualifiés, largement repré-
+   sentés au sein des salariés les moins rémunérés.     Cette méthode s’apparente à celles proposées
+   En diminuant progressivement les taux de coti-       par Rubin (1974, 1977, 1983) et plus récem-
+   sations sociales employeurs, ces dispositifs ont     ment par Heckman et ses différents co-auteurs
+   permis de réduire sensiblement le coût du tra-       dans le domaine de l’évaluation des politiques
+   vail des bas salaires. Ces mesures ont connu une     économiques (voir Heckman, Lalonde et Smith
+   amplification importante en 1995 et 1996. Alors      (1999) pour une revue de la littérature, voir
+   que pour un salarié payé au Smic, la réduction       aussi Heckman, Ichimura, et Todd (1997, 1998)
+   du taux de charges sociales est seulement de         et Heckman, Ichimura, Smith et Todd (1999)).
+   5,4 % du salaire brut en juillet 1993, elle est de   Les méthodes d’évaluation sont particulière-
+   18,2 % en octobre 1996. Les dépenses budgétai-       ment adaptées pour traiter les problèmes de
+   res consacrées aux allégements de charges ont        sélectivité et d’hétérogénéité des effets des
+   également fortement progressé avec l’intensifi-      mesures étudiées. Elles ont cependant été déve-
+   cation de la politique d’abaissement de charges.     loppées pour l’étude de mesures « discrètes »,
+   Le coût de ces mesures est de près de 38 mil-        lesquelles ne concernent qu’une partie seule-
+   liards de francs en 1996 (environ 5,8 milliards      ment des individus ou des entreprises. De ce
+   d’euros) contre quatre milliards en 1993             fait, elles ne sont pas directement applicables au
+   (0,6 milliard d’euros). Il continue aujourd’hui      cas des mesures d’abaissements de charges, qui,
+   de progresser, sans que les effets des mesures       à la différence des précédentes, affectent l’ensem-
+   déjà mises en œuvre ne soient pleinement connus.     ble des entreprises mais à des degrés divers
+                                                        selon leur proportion de bas salaires. On a donc
+   Cet article cherche à évaluer, à partir des évolu-   proposé une extension du cadre de référence de
+   tions observées, les effets des extensions du dis-   Rubin et Heckman et al. pour l’étude plus com-
+   positif de réductions de charges de 1995 et 1996     plexe de ces mesures dites « continues ». Elle a
+   sur différentes variables telles que la valeur       consisté à définir différents paramètres d’intérêt
+   ajoutée, l’emploi, le capital, la productivité de    et les conditions de leur identification. Pour
+   ces facteurs ou encore la part des différentes       l’estimation, on a également développé une pro-
+   catégories de salariés répartis selon leur âge,      cédure d’estimation semi-paramétrique repo-
+   leur qualification et leur sexe. Réalisée au         sant sur des estimateurs par séries.
+   niveau des entreprises, elle utilise des informa-
+   tions issues de sources de données très riches       Le dispositif d’allégement
+   comptant plusieurs centaines de milliers             de charges sur les bas salaires
+   d’entreprises et des millions de salariés. L’iden-
+   tification des effets de ces mesures repose sur le   La France a mis en œuvre, depuis l’été 1993,
+   fait que les entreprises ne sont pas toutes con-          diverses mesures d’allégements de cotisa-
+   cernées de la même façon par les réductions de       tions sociales employeurs sur les bas salaires (1).
+   charges. Les entreprises qui en bénéficient le       Ainsi, à partir du 1er juillet 1993, les employeurs
+   plus ex ante sont celles dont la proportion de bas   bénéficient d’une exonération totale des cotisa-
+   salaires est la plus importante. Pour distinguer     tions patronales d’allocations familiales pour les
+   les entreprises plus ou moins concernées, on         salaires mensuels inférieurs à 1,1 fois le Smic
+   construit, pour chaque entreprise, un indicateur     (soit 5,4 points de cotisations) et une réduction
+   synthétique, qui mesure le taux de réduction du      de moitié pour ceux compris entre 1,1 et 1,2 fois
+   coût du travail imputable aux réductions de          le Smic (soit 2,7 points de cotisations). Au
+   charges de 1995 et 1996. Cette variable est cal-     1er janvier 1995, les seuils sont relevés à
+   culée en 1994 à partir de la distribution des        1,2 Smic et 1,3 Smic respectivement pour l’exo-
+   rémunérations au sein de l’entreprise à cette        nération complète et l’exonération partielle. À
+   date. L’analyse consiste ensuite à comparer          partir du 1er septembre 1995, les employeurs dis-
+   entre entreprises l’évolution entre 1994 et 1997     posent, en sus du dispositif précédent, d’une
+   d’un ensemble de variables telles que l’emploi,      réduction dégressive des cotisations patronales
+   selon l’intensité de la réduction de coût ex ante.   d’assurance maladie, laquelle est totale au
+   Comme les entreprises ont des caractéristiques       niveau du Smic (soit 12,8 points de cotisations)
+   qui influencent à la fois l’ampleur des allége-
+   ments de charges et l’évolution de leur emploi,      1. Pour une discussion détaillée de ces mesures, voir les rap-
+   il est nécessaire d’isoler l’effet spécifique des    ports du Cserc (1996) et Malinvaud (1998).
+   réductions de charges. Pour cela, on sépare,
+
+4                                                       ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+et nulle au niveau de 1,2 fois le Smic. Le                                     (cf. graphique II) ; hausse régulière de la pro-
+1er octobre 1996, les deux mesures fusionnent en                               ductivité du travail et baisse quasi continue de
+une ristourne unique dégressive pour les salaires                              celle du capital (cf. graphique III) ; enfin, ten-
+mensuels inférieurs à 1,33 fois le Smic. L’abat-                               dance longue à la baisse de l’emploi non quali-
+tement maximum équivaut alors au montant des                                   fié (cf. graphique IV).
+cotisations employeurs pour la famille et l’assu-
+rance maladie au niveau du Smic (soit                                          Ces évolutions défavorables se sont pour la plu-
+18,2 points de cotisations). Au 1er janvier 1998,                              part inversées à partir de 1994, date d’introduc-
+le seuil est abaissé de 1,33 à 1,3 Smic.                                       tion des premiers dispositifs d’allégements de
+                                                                               charges sur les bas salaires. L’activité comme
+Des réductions de charges substantielles                                       l’emploi reprennent en 1994. La croissance
+à partir de 1995                                                               s’enrichit en emplois et la productivité du capi-
+                                                                               tal cesse de se détériorer à partir de 1994. Enfin,
+À la suite des différentes mesures introduites en                              la part de l’emploi non qualifié dans l’emploi
+France depuis 1993, les réductions de charges,                                 total se stabilise.
+plutôt modestes entre juillet 1993 et septembre
+1995, deviennent substantielles à partir de cette                              Néanmoins, ces évolutions agrégées ne permet-
+dernière date (cf. graphique I). Par exemple,                                  tent pas d’attribuer la reprise de l’activité et de
+pour un salarié rémunéré au niveau du Smic, la                                 l’emploi, en particulier non qualifié, aux mesures
+réduction de charges est de 5,4 % du salaire brut                              d’abaissement de charges. Pour juger de l’effica-
+entre le 1er juillet 1993 et le 31 août 1995 et de                             cité de cette politique, une évaluation ex post de
+18,2 % à partir du 1er septembre 1995. Cette                                   ses effets à partir des évolutions observées au
+montée en charge des allégements a eu pour                                     niveau des entreprises est nécessaire.
+conséquence de faire baisser sensiblement les
+taux de cotisations sociales employeurs au                                     Un dispositif qui touche
+niveau du Smic, de 40 % au début des années 90                                 différemment les entreprises
+à 22 % à partir de 1996.
+                                                                               Cet article se propose d’évaluer les effets des
+Des mesures s’inscrivant dans un contexte                                           mesures d’abaissement de charges de 1995
+macroéconomique dégradé                                                        et 1996 sur un certain nombre d’indicateurs
+                                                                               mesurés au niveau de l’entreprise, tels que la
+Le contexte macroéconomique prévalant au                                       croissance de la valeur ajoutée, des effectifs, de
+début de la décennie 90, avant l’instauration                                  la part du travail non qualifié, etc., entre 1994 et
+des premières mesures d’allégement de                                          1997. Pour cela, on est conduit dans un premier
+charges était fortement dégradé : stagnation de                                temps à distinguer les entreprises selon leur
+l’activité avec une forte baisse de l’emploi
+
+Graphique I
+Les abaissements de charges de 1993 à 1998
+
+                                20
+
+                                18
+
+Réduction en % du salaire brut  16
+
+                                14                                                         1er juillet 93-1er janvier 95
+                                                                                           1er septembre 95-1er octobre 96
+                                12                                                         1er janvier 95-1er septembre 95
+                                                                                           1er octobre 96-1er janvier 98
+                                10
+                                                                                                                         5
+                                8
+
+                                6
+
+                                4
+
+                                2
+
+                                0
+
+                                    1,00  1,05  1,10  1,15  1,20         1,25  1,30  1,35
+
+                                                      Salaire brut/Smic
+
+Source : calcul des auteurs.
+
+ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+   capacité à bénéficier en 1994 – ex ante – des                                      déclarations annuelles de données sociales
+   allégements de charges qui vont être introduits                                    (DADS) – on calcule pour cette année-là deux
+   après cette date. Sur la base de la structure des                                  coûts : l’un, réel, conforme à la législation sur les
+   rémunérations versées en 1994 au sein de cha-                                      allégements de charges de 1994 ; l’autre, fictif,
+   que entreprise, on calcule pour chacune d’elle la                                  conforme à celle de 1997. Ils sont notés respecti-
+   réduction du coût moyen du travail en 1994 uni-                                    vement cj,i,94(L94) et cj,i,94(L97) et sont définis par :
+   quement liée à la modification du dispositif
+   d’allégement de charges entre 1994 et 1997.                                        cj,i,94(L94) = (1 + T94(wj,i,94)) wj,i,94
+                                                                                      cj,i,94(L97) = (1 + T97 (wj,i,94)) wj,i,94
+   La réduction du coût du travail,
+   très variable d’une entreprise à l’autre, ...                                      où T94(wj,i,94) (respectivement T97(wj,i,94)) est
+                                                                                      égal au taux de cotisations sociales employeurs
+   À partir du salaire brut wj,i,94 du salarié j de                                   de 1994 diminué de la ristourne de charges
+   l’entreprise i en 1994 – issu des données des                                      sociales, en pourcentage du salaire brut, impu-
+
+   Graphique II                                                                       Graphique III
+   Emploi et valeur ajoutée entre 1978 et 1996,                                       Productivité du travail et du capital entre 1978
+   branches marchandes                                                                et 1996, branches marchandes
+
+   0,10                                                                       0,20    6,05                                                                     - 0,20
+
+   0,08                                                                       0,15    6,00
+                                                                                                                                                                       - 0,25
+   0,05                                                                       0,10
+                                                                                      5,95
+
+   0,03                                                                       0,05    5,90                                                                     - 0,30
+
+   0,00                                                                       0,00    5,85
+                                                                                                                                                                       - 0,35
+   - 0,03                                                                     - 0,05
+                                                                                      5,80
+   - 0,05                                                                     - 0,10
+
+   - 0,08                                                                     - 0,15  5,75                                                                     - 0,40
+
+   - 0,10                                                                     - 0,20  5,70
+                                                                                                                                                                       - 0,45
+   - 0,13                                                                     - 0,25
+                                                                                      6,65
+
+   - 0,15                                                                     - 0,35  5,60                                                                     - 0,50
+
+           78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99                78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99
+
+           Emploi (échelle gauche)  VA (échelle droite)                                     Productivité du travail (échelle droite)
+
+                                                                                            Productivité du capital (échelle gauche)
+
+   Lecture : grandeurs en logarithme normalisées à zéro en 1994.                      Lecture : grandeurs en logarithme.
+   Source : Comptes de la nation.                                                     Source : Comptes de la nation.
+
+   Graphique IV
+   Part des non qualiﬁés entre 1982 et 1996
+
+        En %
+     28
+
+   26
+
+   24
+
+   22                                                                                       Industrie y.c. BTP
+
+                                                                                            (secteurs U02 à U07)
+
+   20                                                                                       Tertiaire
+                                                                                            (secteurs U08 à U13)
+
+                                                                                                                                                Ensemble
+   18
+
+   16
+
+   14
+
+     12
+              82 83 84 85 86 87 88 89 90 91 92 93 94 95 96
+
+   Champ : salariés à temps plein du secteur marchand, hors agriculture. Les discontinuités proviennent de l’absence des DADS en 1983
+   et 1990.
+   Source : séries d’emploi construites par Audric, Givord et Prost (2000) à partir des Déclarations annuelles de données sociales (DADS).
+
+6                                                                                           ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+table au dispositif de 1994 (respectivement de                                                    par les mesures sont bien sûr les entreprises dont
+1997). Pour l’entreprise, la réduction de coût                                                    la valeur de cette variable est importante.
+ex ante s’écrit alors comme :
+                                                                                                  Les valeurs de la réduction ex ante du coût du
+            ∑ c j,i,94(L97) – cj,i,94(L94)                                                        travail sont très hétérogènes entre les entreprises
+            -j---∈----i----------------------------------------------------------------           (cf. tableau 1 et graphique V). Cette dispersion
+ti       =                                                                                        s’explique bien sûr par des différences dans la
+                   ∑ c j,i,94(L94)                                                                composition de la main-d’œuvre – pourcentages
+                                         j∈i                                                      de bas salaires – mais également par la nature
+                                                                                                  même du dispositif d’allégement de charges –
+Cette variable est d’autant plus forte que la pro-                                                allégement dégressif – qui distingue les diffé-
+portion de bas salaires dans l’entreprise est                                                     rents niveaux de rémunération parmi les bas
+importante. Elle varie de 0 % pour les entrepri-                                                  salaires. La proportion d’entreprises pour les-
+ses ne comprenant aucun salarié rémunéré en                                                       quelles la réduction ex ante du coût du travail est
+dessous de 1,33 Smic en 1994 à 9,58 % pour les                                                    nulle n’est pas négligeable. Ainsi, 5,6 % des
+entreprises dont tous les salariés sont rémunérés
+au Smic. Les entreprises les plus concernées ex ante
+
+Tableau 1
+Réduction du coût moyen du travail ex ante
+
+                                                                                                                                                    En %
+
+            Taux de réduction                       0%                                   0à1%        1à6%                   6 à 9,5 %       Plus de 9,5 %
+
+Industrie                                           5,6                                     45,9     46,9                           1,5        0,1
+Part des entreprises
+Part des emplois                                    0,8                                     73,3     25,6                           0,3        0,0
+
+Tertiaire                                           8,3                                     35,1     52,4                           3,3        0,9
+Part des entreprises
+Part des emplois                                    1,3                                     56,4     41,3                           0,9        0,1
+
+Ensemble                                            7,2                                     39,3     50,2                           2,6        0,6
+Part des entreprises
+Part des emplois                                    1,0                                     65,6     32,7                           0,6        0,0
+
+Lecture : dans l’industrie, 45,9 % des entreprises représentant 73,3 % des emplois ont bénéficié d’une réduction ex ante comprise entre 0 et
+1 %. Ces chiffres sont obtenus à partir d’un échantillon comprenant 87 720 entreprises dont 34 371 (39 %) dans l’industrie et 53 349 (61 %)
+dans le tertiaire. Ces entreprises emploient 3 772 941 salariés dont 2 053 777 (54 %) dans l’industrie et 1 719 164 (46 %) dans le tertiaire.
+Source : fichiers des BRN et des DADS, Insee, et calculs des auteurs.
+
+Graphique V
+Distribution de la réduction du coût moyen du travail ex ante dans l’industrie et le tertiaire
+
+         0,50
+
+         0,45
+
+         0,40
+
+         0,35
+
+         0,30                                                                                                            Industrie
+
+Densité  0,25                                                                                                            Tertiaire
+
+         0,20
+
+         0,15
+
+         0,10
+
+         0,05
+
+         0,00                                 1  2  3                                    4        5  6                   7               8  9       10
+                0
+
+                                                                                         Réduction en % du coût ex ante
+
+Lecture : estimations à noyau des densités pour les valeurs positives de la réduction du coût ex ante.
+
+ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8                                                                                                                    7
+   Encadré 1
+
+              DÉFINITION DES VARIABLES
+
+   Les variables d’intérêt sont en évolution entre 1994 et     taxes. La valeur ajoutée en volume est ensuite obtenue
+   1997. Il s’agit des différences du logarithme de la         en déflatant la valeur ajoutée en valeur par l’indice de
+   valeur ajoutée brute aux coûts des facteurs en volume,      prix de la valeur ajoutée au niveau 40 de la nomencla-
+   des effectifs, de la rémunération moyenne de l’emploi,      ture (Nap).
+   de l’intensité capitalistique, de la productivité de
+   l’emploi et de celle du capital, du mark-up et du coût      L’emploi est mesuré par l’effectif moyen du personnel
+   unitaire de production. Toutes ces variables sont cal-      dans l’entreprise.
+   culées à partir des BRN. On examine également la
+   variation de la part dans le total des heures travaillées   Le coût moyen du travail est calculé comme le rapport
+   de certaines catégories de salariés telles que les non      entre la masse salHelveticae (salaires et charges socia-
+   qualifiés, les jeunes et les jeunes non qualifiés. On uti-  les) et les effectifs.
+   lise pour cela les informations des DADS.
+                                                               La valeur du stock de capital est mesurée par les
+   Les variables de contrôle sont introduites à leur niveau    immobilisations corporelles brutes (terrains, construc-
+   de 1994 et pour certaines d’entre elles en évolution        tion, matériel, autres immobilisations corporelles,
+   moyenne sur une période passée. Elles sont réparties        immobilisations en cours et avances et acomptes). Le
+   en quatre types – caractéristiques passées, variables       stock en volume s’obtient alors en déflatant le stock au
+   de concurrence, variables financières et variables sur      coût historique par l’indice de prix des investisse-
+   la structure des qualifications. Pour les caractéristi-     ments, décalé d’un nombre de périodes égal à l’âge du
+   ques passées des entreprises reflétant les chocs de         capital lui même estimé à partir des amortissements
+   demande, il s’agit du logarithme de la valeur ajoutée       cumulés et d’une durée de vie fixée à 16 ans.
+   brute aux coûts des facteurs et de sa différence
+   moyenne. Pour les caractéristiques passées reflétant        Sur la base de ces informations, on mesure l’intensité
+   les chocs de progrès techniques, on considère le loga-      capitalistique par le capital en volume par tête, la pro-
+   rithme de la productivité du travail ainsi que la crois-    ductivité du travail par la valeur ajoutée en volume par
+   sance moyenne de la productivité globale des fac-           tête, la rentabilité économique du capital par l’excédent
+   teurs, le logarithme et la différence moyenne du            brut d’exploitation (écart entre la valeur ajoutée en valeur
+   logarithme de l’intensité capitalistique. Ces différentes   aux coûts des facteurs et la masse salHelveticae) par
+   variables sont calculées à partir des BRN. Les varia-       unité de capital en valeur (au coût de renouvellement).
+   bles de concurrence sont mesurées au niveau indivi-
+   duel par le mark-up en niveau et en évolution. Au           Pour la construction du coût d’usage du capital, on
+   niveau sectoriel, on retient les taux d’importation et      calcule un coût individualisé du capital en suivant la
+   d’exportation au niveau deux chiffres de la nomencla-       méthode de Auerbach (1983). Il s’agit de la somme de
+   ture (niveau 100 de la Nap). Ces taux sont issus de la      termes reflétant la dépréciation économique et l’infla-
+   comptabilité nationale, de même que des taux                tion et d’une moyenne pondérée du coût des fonds
+   d’entrée et de sortie au niveau quatre chiffres de la       propres et du coût de l’endettement, la pondération
+   nomenclature (niveau 600 de la Nap), construits à par-      étant égale à leur part respective dans le financement
+   tir des BRN (Dunne, Roberts et Samuelson, 1988). Les        des actifs. Le coût de l’endettement est mesuré par le
+   variables financières, issues des BRN, se composent         taux d’intérêt apparent, le coût des fonds propres en
+   du coût d’usage du capital, de la part des dettes dans      utilisant les taux d’imposition relatifs au revenu du
+   le financement ainsi que de la variation ex ante du coût    capital et le taux de dépréciation comme le rapport
+   du capital, mesurant la variation uniquement induite        entre les amortissements de l’exercice et les immobili-
+   par les changements de fiscalité sur la période. Enfin,     sations productives brutes.
+   les variables sur la structure des qualifications sont
+   mesurées au niveau des entreprises par les parts dans       On calcule aussi la variation ex ante du coût du capital
+   les heures travaillées de 18 catégories de salariés,        induite par les changements de fiscalité entre 1994 et
+   créées à partir des DADS par le croisement du sexe,         1997. Elle est déterminée en comparant les deux coûts
+   de trois qualifications définies à partir de la catégorie   du capital obtenus en appliquant aux caractéristiques
+   socioprofessionnelle et de trois classes d’âge. Elles       bilantiaires des entreprises de 1994 les paramètres fis-
+   comprennent également au niveau individuel la part          caux de 1994 et de 1997.
+   des salaires dans les coûts et au niveau sectoriel le
+   coût moyen et les effectifs des non qualifiés au niveau     Le coût total de l’entreprise est calculé à partir des coûts
+   deux chiffres de la nomenclature, obtenus par agréga-       du travail et du capital. On en déduit la part des salaires
+   tion des informations des DADS à ce niveau.                 dans les coûts totaux ainsi qu’une proxy du mark-up
+                                                               mesurée comme le rapport entre la valeur ajoutée et les
+   On donne maintenant leur définition, selon qu’elles         coûts totaux. On calcule aussi la croissance de la pro-
+   proviennent des BRN ou des DADS.                            ductivité globale des facteurs comme l’écart entre la
+                                                               croissance de la valeur ajoutée en volume et une
+   Variables des BRN                                           moyenne de la croissance du capital en volume et du tra-
+                                                               vail, pondérée par la part de chacun des facteurs dans
+   La valeur ajoutée en valeur au coût des facteurs est        les coûts totaux. Enfin, on calcule la croissance du coût
+   définie comme l’écart entre la production immobilisée       de production unitaire comme une moyenne de la crois-
+   et les consommations intermédiaires, augmenté des           sance des rémunérations de l’emploi et du capital, pon-
+   subventions d’exploitation et diminué des impôts et         dérée par les parts des facteurs dans les coûts totaux.
+
+8                                                              ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+entreprises de l’industrie et 8,3 % de celles du                tifs. Les réductions ex ante supérieures à 6 %
+tertiaire ne sont pas susceptibles de bénéficier                sont rares (0,6 % des effectifs).
+des allégements de charges de 1995 et 1996 si
+l’on se réfère à leur situation en 1994. Néan-                  ... bénéficie davantage aux petites
+moins, ces entreprises ne représentent que                      entreprises et au secteur tertiaire
+0,8 % des effectifs salariés dans l’industrie et
+1,3 % dans le tertiaire. Pour environ 50 % des                  Les réductions de charges bénéficient relative-
+entreprises dans l’industrie et dans le tertiaire, la           ment plus aux entreprises de petite taille
+réduction de coût du travail ex ante est plus                   (cf. tableau 2). La réduction moyenne du coût
+substantielle, comprise entre 1 et 6 %. Alors que               du travail ex ante est ainsi de 1,8 % dans les
+dans l’industrie ces entreprises ne représentent                entreprises de moins de 20 salariés, alors qu’elle
+que le quart des effectifs salariés, dans le ter-               est de seulement 0,8 % dans les entreprises de
+tiaire, elles représentent environ 40 % des effec-              plus de 500 salariés. Les réductions de coût
+
+Encadré 1 (suite)                                               apprentis et stagiaires), salariés qualifiés (ouvriers et
+                                                                employés qualifiés), et salariés très qualifiés (chefs
+Comme cette variable est une approximation de la crois-         d’entreprise, cadres et professions intellectuelles
+sance des prix (au mark-up près), on l’utilise pour calcu-      supérieures et professions intermédiaires). On distin-
+ler des variables d’intérêt comme la croissance de la           gue également trois classes d’âges : les salariés de
+valeur ajoutée en volume, de la productivité du travail et      moins de 25 ans, les salariés entre 25 et 49 ans et enfin
+de celle du capital.                                            ceux de 50 ans et plus. Au total, 18 catégories de sala-
+                                                                riés sont créées par le croisement des trois qualifica-
+Variables des DADS                                              tions, des trois classes d’âge et du sexe.
+
+Les DADS comprennent des informations sur la rému-              Le coût annuel de chaque individu est calculé à partir
+nération nette annuelle de chacun des salariés,                 de son salaire net en tenant compte des allégements
+son sexe, son âge, l’emploi qu’il exerce, la durée              de cotisations sociales employeurs pour les individus
+d’emploi (en jours) et le nombre d’heures salariées dans        concernés par les mesures.
+l’année, et le statut : temps plein, temps partiel, travail
+intermittent (catégorie regroupant les intermittents pro-       On agrège les coûts et les heures travaillées annuels
+prement dits, les intérimaires et les travailleurs ayant un     par catégorie de salariés au sein de chaque entreprise.
+temps partiel très faible) et travail domestique. On a          S’en déduisent les parts dans les coûts et dans les
+retenu les salariés à temps plein et à temps partiel.           heures, des catégories de salariés considérées.
+
+Les DADS contiennent une variable catégorie socio-              Les données des DADS servent aussi à calculer la
+professionnelle proche de la PCS à deux chiffres à par-         réduction ex ante du coût du travail.
+tir de laquelle sont définies trois qualifications : salariés
+non qualifiés (ouvriers et employés non qualifiés,
+
+Tableau 2
+Réduction du coût moyen du travail ex ante selon la taille des entreprises
+
+                                                                                                             En %
+
+                                         Moins de     20 à 50   50 à 100  100 à 250  250 à 500  Plus de 500  Ensemble
+                                         20 salariés  salariés  salariés   salariés   salariés    salariés
+
+Industrie                                 58,7         24,9          7,3     5,4        2,0        1,8        39,3
+Nombre                                      8,7        13,3          8,4   13,5       11,3       44,8         53,4
+Effectifs                                              1,35        1,23    1,10       0,72       0,49         1,43
+Taux de réduction                         1,57        (1,31)      (1,16)  (1,12)     (0,87)     (0,59)       (1,48)
+                                         (1,62)
+Tertiaire                                              14,5          3,5     2,3        0,6        0,5        60,7
+Nombre                                    78,7         13,5        7,10    10,0         5,8      48,1         46,6
+Effectifs                                 15,5         1,48        1,37    1,42       1,39       1,49         1,84
+Taux de réduction                         1,95        (1,48)      (1,36)  (1,36)     (1,36)     (1,52)       (1,90)
+                                         (2,00)
+Ensemble                                               18,6          5,0     3,5        1,2        1,0         100
+Nombre                                    70,8         13,4          7,8   11,9         8,7      46,3          100
+Effectifs                                 11,9         1,41        1,29    1,23       0,93       0,78         1,68
+Taux de réduction                         1,83        (1,40)      (1,25)  (1,23)     (1,10)     (1,06)       (1,76)
+                                         (1,89)
+
+Lecture : dans l’échantillon, 24,9 % des entreprises industrielles ont entre 20 et 50 salariés. Ces entreprises représentent 13,3 % des
+emplois industriels. La réduction ex ante moyenne pour ces entreprises est de 1,35 %, et son écart-type, de 1,31. Ces chiffres sont obte-
+nus à partir d’un échantillon comprenant 87 720 entreprises, dont 34 371 (39 %) dans l’industrie et 53 349 (61 %) dans le tertiaire. Ces
+entreprises emploient 3 772 941 salariés, dont 2 053 777 (54 %) dans l’industrie et 1 719 164 (46 %) dans le tertiaire. On a fait figurer
+l’écart-type entre parenthèses.
+Source : fichiers des BRN et des DADS, Insee, et calculs des auteurs.
+
+ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8                                                                                    9
+    ex ante sont également beaucoup plus importan-       la réduction ex ante et les variables de contrôle
+    tes dans le tertiaire. Elles y sont en moyenne de    est tout d’abord supposée linéaire. Cette hypo-
+    1,8 % et de 1,4 % dans l’industrie. En outre, la     thèse est ensuite relâchée.
+    relation décroissante entre la taille et la réduc-
+    tion de coût ex ante est beaucoup moins pronon-      Une comparaison entre entreprises
+    cée dans le tertiaire. Les réductions moyennes       similaires...
+    de coût ex ante y sont de 2,0 % pour les entre-
+    prises de moins de 20 salariés et de 1,5 % pour      On compare donc les performances des entrepri-
+    les entreprises de plus de 500 salariés. Dans        ses selon les valeurs de la réduction ex ante de
+    l’industrie, les réductions moyennes sont de         coût du travail. Mais on réalise ces comparaisons
+    1,6 % et 0,5 % respectivement pour les petites       entre entreprises « proches », dans la mesure où
+    et les grandes entreprises. Enfin, les réductions    les entreprises fortement touchées par les réduc-
+    de coût ex ante ne s’expliquent pas seulement        tions de charges ont des caractéristiques qui
+    par le secteur et la taille des entreprises. Elles   influencent aussi directement leurs résultats.
+    restent, en effet, très dispersées au sein des dif-  Ainsi, il est possible, par exemple, que les entre-
+    férentes catégories d’entreprises (avec des          prises, dont l’activité décline sous l’effet de la
+    écarts-types du même ordre de grandeur que les       concurrence des pays à bas salaires, soient les
+    réductions moyennes de coût).                        plus concernées par les réductions de charges.
+                                                         Dans ce cas, une simple corrélation entre les per-
+    Évaluer ex post l’impact                             formances des entreprises et les réductions de
+    des mesures sur les performances                     coût ex ante conduirait à sous-évaluer l’effet des
+    des entreprises                                      allégements de charges. Une évaluation correcte
+                                                         devrait alors être basée sur la comparaison
+    P our mesurer rétrospectivement la contribu-         d’entreprises bénéficiant différemment des
+         tion des allégements de cotisations sur les     réductions de charges mais soumises à un même
+    bas salaires à l’évolution de l’emploi et autres     choc négatif sur leur demande. De même, les
+    grandeurs économiques (activité, productivité,       modifications importantes de la fiscalité sur la
+    coûts de production, etc.), il est nécessaire        période 1994-1997 (progression du taux de l’IS
+    d’isoler l’effet de ces mesures de celui des         de 33,3 à 41,7 %) ont conduit à une augmenta-
+    caractéristiques spécifiques aux bénéficiaires       tion du coût du capital, différente d’une entre-
+    (taille, secteur d’activité, qualification des       prise à l’autre selon leur mode de financement.
+    emplois, etc.), susceptibles d’influer aussi sur     Si les entreprises les plus affectées par ce choc
+    les variables d’intérêt. Pour cela, on s’appuie      négatif sont aussi les plus touchées par les réduc-
+    sur les méthodes développées par Heckman             tions de charges, une comparaison directe des
+    et al. pour l’évaluation de mesures « discrètes »    performances sous-estimerait, là encore, l’effet
+    (comme, par exemple, la participation à un           des réductions de charges.
+    stage de formation). On s’intéresse en particu-
+    lier à la méthode dite « par appariement », qui      Pour mesurer correctement l’impact de la politi-
+    consiste à comparer la situation d’individus         que d’allégement de charges, il est donc néces-
+    ayant bénéficié de la mesure à celle d’individus     saire d’isoler les effets des réductions de charges
+    n’en ayant pas bénéficié mais présentant des         de ceux des autres facteurs extérieurs. On définit
+    caractéristiques proches. Toutefois, comme les       l’ensemble de ces facteurs dans l’annexe 1.
+    mesures de réductions de charges que l’on étu-       Comme ils ne sont cependant pas toujours direc-
+    die ici ne sont pas « discrètes » mais               tement observables, on les approche par une cin-
+    « continues » dans le sens où elles concernent       quantaine de variables, que l’on répartit en qua-
+    l’ensemble des entreprises mais différemment         tre groupes distincts : caractéristiques passées,
+    selon la proportion de salariés à bas salaires       variables de concurrence, variables financières
+    qu’elles emploient (la réduction ex ante du coût     et variables sur la structure des qualifications.
+    du travail prend en effet n’importe quelle valeur    Pour les caractéristiques passées, on considère
+    entre 0 et 9,5 %), on étend, pour leur évaluation,   la valeur ajoutée brute au coût des facteurs, la
+    la méthodologie de Heckman. La démarche              productivité du travail, la croissance de la pro-
+    adoptée consiste alors à comparer les perfor-        ductivité globale des facteurs et l’intensité capi-
+    mances des entreprises selon les valeurs de la       talistique. S’agissant des variables de concur-
+    réduction ex ante de coût du travail en contrô-      rence, elles sont mesurées au niveau individuel
+    lant l’effet des facteurs qui leur sont communs.     par le mark-up (ou taux de marge) et au niveau
+    La relation entre les variables de performance,      sectoriel par des taux d’importation et d’expor-
+                                                         tation ainsi que par des taux d’entrée et de sortie
+                                                         (Dunne, Roberts et Samuelson, 1988). Les
+
+10                                                       ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+variables financières se composent du coût                 trôle est non spécifiée. Pour cela, on s’appuie sur
+d’usage du capital, de la part des dettes dans le          les travaux de Rubin et de Heckman et al. dans
+financement ainsi que de la variation ex ante du           le domaine de l’évaluation. À partir du modèle
+coût du capital, mesurant la variation unique-             statistique de référence de Rubin, dans lequel un
+ment induite par les changements de fiscalité sur          individu peut bénéficier ou non d’un dispositif
+la période. Enfin, les variables sur la structure          donné (mesure « discrète »), on développe dans
+des qualifications sont mesurées au niveau des             l’encadré 2 un modèle plus complexe visant à
+entreprises par les parts dans le total des heures         évaluer les effets des réductions de charges
+travaillées de 18 catégories de salariés, créées           (mesure « continue »). (2)
+par le croisement des critères de sexe, de quali-
+fication et d’âge. Ces variables de contrôle sont          Dans cette seconde approche, qui laisse la forme
+mesurées pour la plupart en 1994 et pour certai-           de la relation non spécifiée, on réduit le nombre
+nes en évolution moyenne sur une période pas-              de variables de contrôle, trop important compte
+sée. Leur définition précise ainsi que celle des           tenu de la taille de l’échantillon, en introduisant
+variables d’intérêt figure dans l’encadré 1.               à leur place un indice de dimension 1, appelé le
+                                                           score : ∆yi = g(s(xi), ti) + ui. La possibilité de
+... mais bénéficiant différemment                          réduire la dimension des variables de contrôle
+des réductions de charges                                  tient au fait que la seule information utile
+                                                           qu’elles contiennent est celle qu’elles apportent
+Le principe des évaluations est alors de régresser         sur la réduction du coût ex ante. Le score est
+linéairement l’évolution entre 1994 et 1997                donc basé sur cette information (3) (4). On pro-
+d’un certain nombre de variables d’intérêt ∆yi             cède ensuite à une estimation non paramétrique
+– comme l’emploi, la part du travail non qualifié,         gˆ (s, t) de la fonction g(s, t) à l’aide d’un estima-
+la valeur ajoutée – sur la réduction ex ante du coût       teur par séries de cette fonction. Dans ce cadre
+moyen du travail ti et les variables de contrôle xi        plus général, le paramètre désignant l’effet
+décrites ci-dessus : ∆yi = ati + xib + ui, ∀i avec ui      moyen d’une hausse marginale de la réduction
+un terme d’erreur. Les conditions de validité de           de coût ex ante est défini comme :
+cette approche sont examinées dans l’annexe 1.
+                                                           E1 = ∑ ϖi∂gˆ (ti, si) ⁄ ∂t , tandis que le para-
+Un paramètre permettant de caractériser le dis-                       i
+positif d’allégement de charges, est naturelle-
+ment le paramètre E1 = â, qui mesure l’effet               mètre représentant le taux de croissance moyen
+d’un accroissement marginal de la réduction de             uniquement imputable au dispositif s’écrit
+coût du travail ex ante. Une autre quantité inté-
+ressante est â ti, qui mesure le taux de croissance        comme : E2 = ∑ ϖi(∆yi – gˆ (si, 0)) (5) (6).
+de la variable d’intérêt imputable aux mesures                                      i
+de réductions de charges sur les bas salaires
+dans l’entreprise i. La moyenne pondérée de                2. On introduit la variable des effectifs dans la liste des variables
+cette quantité représente alors le taux de crois-
+sance moyen de la variable d’intérêt unique-               ∑ de contrôle ce qui garantit bien que ϖiui = 0 .
+                                                                                                                                 i
+ment induit par les mesures : E2 = aˆ ∑ ϖiti , où
+                                                        i  3. Une propriété de la régression linéaire permet d’éclairer ce
+                                                           point. Dans la régression y = at + xb + u, le coefficient de la varia-
+ϖi est le poids de l’entreprise i dans l’emploi (2).       ble t obtenu par les moindres carrés ordinaires (MCO) est le même
+Ce second paramètre permet d’obtenir une éva-              que celui obtenu, toujours par les MCO, mais dans la régression
+luation macroéconomique du nombre d’emplois                y = at + cˆt + v , où ˆt est la projection de t sur les variables x.
+créés grâce aux mesures d’allégements de char-             Pour estimer le coefficient de t, il n’est donc pas nécessaire
+ges, en appliquant le taux de croissance des               d’introduire toute l’information contenue dans les x, seule celle
+effectifs qui leur est imputable au nombre                 concernant la variable t est nécessaire.
+d’emplois dans l’économie.                                 4. En pratique, le score est estimé à partir de la régression
+                                                           h(t) = xβ + u, où h(t) est la transformation logistique de la réduc-
+La spécification retenue est cependant très con-           tion de coût ex ante : h(t) = log(t/(0, 10 – t)). Il est alors simple-
+trainte dans la mesure où l’effet d’un accroisse-          ment défini comme : s(x) = h–1(xβˆ ) et ses valeurs sont compri-
+ment marginal de la réduction du coût du travail           ses entre 0 et 10 %.
+ex ante est supposé constant (relation linéaire) et        5. Comme dans le cas précédent, pour garantir que la somme
+identique entre entreprises. On examine donc               pondérée des résidus soit nulle, on introduit linéairement les
+aussi l’impact des mesures d’abaissement de                effectifs dans la régression des variables de performance :
+charges lorsque la relation entre variables d’inté-        ∆yi = nib + g(si, ti) + vi. Ceci n’affecte pas la définition du paramè-
+rêt, réduction de coût ex ante et variables de con-        tre E1, le paramètre E2 est par contre redéfini en :
+
+                                                           ∑ Eˆ 2 = ϖi(∆yi – nibˆ – gˆ (si, 0)).
+                                                                        i
+
+                                                           6. Comme dans la régression linéaire, le paramètre E2 est obtenu
+                                                           en comparant la situation effective des entreprises avec celle qui
+                                                           aurait prévalu en l’absence de mesures d’allégement de charges.
+                                                           Il suppose aussi que la situation des entreprises en l’absence de
+                                                           dispositif est la même que la situation des entreprises qui n’en
+                                                           bénéficient pas lorsque le dispositif est en place.
+
+ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8                    11
+    Dans la seconde approche, une étape impor-            breuses variables nécessitées par ce travail.
+    tante, bien que purement technique, est celle de      Toutefois, les variables d’intérêt étant en évolu-
+    l’estimation du score. Pour comprendre les            tion entre 1994 et 1997 et les variables de con-
+    effets de l’introduction du score sur les résultats,  trôle définies en 1994, on a dû imposer, pour
+    il est utile d’examiner une dernière spécifica-       leur calcul, que les entreprises soient présentes
+    tion, dans laquelle chaque variable d’intérêt est     dans l’échantillon au moins à ces deux dates. Ce
+    définie comme une fonction linéaire de la             « cylindrage » a conduit à laisser de côté un
+    réduction de coût ex ante et du score (7).            nombre important d’entreprises, créées ou
+                                                          détruites pendant la période. Malgré cela,
+    Des données très riches                               l’échantillon reflète assez bien l’évolution glo-
+    sur les entreprises et leurs salariés                 bale des effectifs sur la période 1994-1997 telle
+                                                          qu’elle est mesurée dans la comptabilité natio-
+    Les évaluations sont réalisées à partir d’un vaste    nale, même s’il a tendance à sous-évaluer la
+    échantillon d’entreprises, issu de l’appariement      baisse des effectifs dans l’industrie et sa hausse
+    du fichier de déclarations des Bénéfices réels        dans le tertiaire. La constitution de l’échantillon
+    normaux (BRN) avec celui des Déclarations             est détaillée dans l’encadré 3. Au total, l’échan-
+    annuelles de données sociales (DADS). En réu-         tillon utilisé comprend quelque 90 000 entrepri-
+    nissant ainsi deux sources d’informations             ses, dont près de 35 000 dans l’industrie et
+    majeures, l’une au niveau de l’employeur et           55 000 dans le tertiaire. (7)
+    l’autre au niveau du salarié, on a pu obtenir des
+    informations très riches et détaillées sur les        7. En sus des effectifs.
+    entreprises, qui ont permis de calculer les nom-
+
+    Encadré 2
+
+                        MODÈLE CAUSAL DE RUBIN ET EXTENSION MÉTHODOLOGIQUE
+
+    On s’appuie sur les les travaux de Rubin (1974, 1977, 1983) et de Heckman, Ichimura et Todd (1997, 1998) sur
+    l’évaluation de mesures « discrètes », du type participation à un stage de formation, que l’on prolonge pour l’éva-
+    luation de mesures « continues », du type abaissements de charges sociales sur les bas salaires. À la différence
+    des mesures discrètes, les mesures continues affectent l’ensemble des individus mais avec une intensité variant
+    continûment dans un intervalle donné.
+
+    1. Modèle causal de Rubin pour l’étude de mesures discrètes
+
+    Les travaux, initiés par Rubin, ont trouvé leur origine dans l’évaluation des traitements dans le domaine médical.
+    On distingue ici des individus « traités » c’est-à-dire bénéficiant de la mesure (à l’origine d’un traitement), des indi-
+    vidus « non traités » qui n’en bénéficient pas.
+
+    a. Notations, effet causal et paramètres d’intérêt
+
+    Les mesures divisent donc la population en deux groupes : le groupe des individus « traités » composé des indivi-
+    dus ayant bénéficié de la mesure et le groupe de contrôle composé des autres individus. Le « traitement » ti prend
+    alors ses valeurs dans { 0,1 } selon que l’individu i, i = 1, ..., N, bénéficie ou non du dispositif étudié. Le modèle
+    introduit pour chaque individu deux variables latentes yi(1) et yi(0), correspondant aux situations de l’individu quand
+    il bénéficie du dispositif (ti = 1) et quand il n’en bénéficie pas (ti = 0). Néanmoins, seule l’une de ces variables est
+    observée : c’est celle qui est associée au « traitement » que l’individu a effectivement reçu, c’est-à-dire yi(1) pour
+    un individu traité et yi(0) pour un individu non traité. À partir des variables latentes, Rubin définit l’effet causal du
+    traitement sur l’individu comme la différence entre les situations de cet individu en présence et en l’absence de
+    traitement : ci = yi(1) – yi(0). Comme ces deux quantités ne sont pas simultanément observables, il n’est pas pos-
+    sible d’identifier l’effet individuel. En revanche, sous certaines hypothèses, on peut identifier l’effet moyen du trai-
+    tement dans la population, E(ci) = E(yi(1) – yi(0)), ou encore l’effet moyen du traitement dans la population des indi-
+    vidus traités, E(ci  ti = 1) = E(yi(1) – yi(0)  ti = 1).
+
+    b. Identification sous l’hypothèse d’indépendance conditionnelle à des variables observables
+
+    Une comparaison directe des situations moyennes sur les individus traités et non traités conduirait à une estimation
+    biaisée des paramètres d’intérêt. En effet,
+    E(yi  ti = 1) – E(yi  ti = 0) = E(yi(1)  ti = 1) – E(yi(0)  ti = 0)
+    = [E(yi(1)  ti = 1) – E(yi(0)  ti = 1)] + [E(yi(0)  ti = 1) – E(yi(0)  ti = 0)]
+    = E(ci ti = 1) + [E(yi(0)  ti = 1) – E(yi(0)  ti = 0)]
+
+12                                                        ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+Encadré 2 (suite)
+
+Le biais provient du fait que la situation moyenne des individus traités en l’absence de traitement n’est pas la même
+que celle des individus non traités car les deux populations ne sont pas identiques. Il faudrait, par exemple, se situer
+dans le cadre d’une expérience contrôlée pour que cet estimateur soit sans biais. Dans ce cas, les individus
+seraient affectés aléatoirement au traitement et on aurait indépendance entre la variable d’output yi(0) et la variable
+de traitement ti. Une hypothèse, plus réaliste et couramment faite en pratique, est de supposer que la propriété
+d’indépendance est vérifiée conditionnellement à un ensemble de variables observables xi. Elle permet d’identifier
+la situation des individus traités en l’absence de traitement à partir de celle des individus non traités. On a alors :
+E(yi(0)  xi, ti = 1) = E(yi(0)  xi, ti = 0) = E(yi  xi, ti = 0) = g(xi) avec g(xi) une fonction identifiable, ce qui implique
+E(ci  ti = 1) = E(yi – g(xi)  ti = 1). En pratique, la construction du contrefactuel g(xi) est effectuée en associant à
+chaque individu traité un individu non traité de caractéristiques similaires. Les travaux de Heckmann ont permis de
+développer ce type d’estimateurs par appariement et de préciser ses propriétés de convergence. Le contrefactuel
+est alors calculé comme une moyenne pondérée des observations de l’échantillon de contrôle, le poids accordé à
+l’individu non traité étant d’autant plus fort que son score est proche de celui de l’individu traité considéré.
+
+Rosenbaum et Rubin (1983) ont établi une propriété, qui permet de simplifier les appariements en diminuant le
+nombre de variables de conditionnement. Ils montrent, en effet, que la propriété d’indépendance conditionnelle-
+ment à des observables xi implique celle d’indépendance conditionnellement à un résumé de ces variables,
+c’est-à-dire le score s(xi) = P(ti = 1  xi). Il n’est donc pas nécessaire d’apparier les individus sur l’ensemble des
+caractéristiques xi. Il suffit de considérer le résumé de dimension 1 de ces variables que constitue le score.
+
+2. Extension méthodologique pour l’étude des effets de mesures continues
+
+Le cadre de référence précédent doit être élargi pour évaluer l’effet des réductions de charges. Le traitement, qui
+est ici la réduction ex ante du coût du travail, est en effet compris entre 0 et 9,5% selon les entreprises. On propose
+maintenant une formalisation des problèmes d’évaluation de mesures « continues », qui définit différents paramè-
+tres d’intérêt et précise les conditions de leur identification.
+
+a. Notations, effet causal et paramètres d’intérêt
+
+Dans ce nouveau modèle, les entreprises i, i = 1, ..., N, peuvent recevoir n’importe quel traitement t se situant dans
+l’intervalle [t, t]. En outre, le modèle introduit pour chaque entreprise autant de variables d’output latentes yi(t) que
+de traitements possibles t, soit une infinité. Seule l’une de ces variables est cependant observée : c’est celle qui
+est associée au traitement que l’entreprise a effectivement reçu c’est-à-dire yi(ti). C’est à partir de ces variables
+latentes que peuvent être définis différents effets individuels de la mesure. On définit l’effet de la mesure pour un
+individu : ei = yi – yi(0). On s’intéresse aussi à l’effet d’un accroissement marginal du traitement reçu : fi = ∂yi(ti)/∂t. À
+l’instar du modèle de Rubin, ces effets sont inobservables car ils sont définis à partir des variables latentes yi(t)
+inobservables. Sous certaines hypothèses, il est cependant possible d’identifier et d’estimer l’espérance de ces
+paramètres. On définit ainsi les deux paramètres d’intérêt suivants : Eϖi (∂yi(ti)/∂t) et Eϖi (yi – yi(0)), où Eϖ désigne la
+moyenne pondérée par les effectifs.
+
+b. Identification des paramètres d’intérêt
+
+Comme dans le cas d’un traitement unique, on recourt à une hypothèse d’indépendance entre les variables latentes
+yi(t) et de traitement ti conditionnellement à des variables observables xi, ∀t ∈ [t, t]. Sous cette hypothèse et en défi-
+nissant la fonction g(xi, ti) par g(xi, ti) = E(yi  xi, ti), on peut montrer que le premier paramètre s’écrit comme :
+Eϖi (∂g(xi ti)/∂t) et le second comme : Eϖi (yi – g(xi, 0)). La propriété de Rosenbaum et Rubin (1983) peut également
+être généralisée. Pour tout indice s(x) des variables observables tel que : l(ti  xi) = l(ti  s(xi)), où l(ti  xi) est la distri-
+bution du traitement conditionnellement à xi, l’hypothèse d’indépendance conditionnellement à des observables
+entraîne celle d’indépendance conditionnellement au score, ∀t ∈ [t, t]. Il suffit donc d’estimer la fonction bivariée
+g(s(xi), ti) (1).
+
+c. Estimation semi-paramétrique
+
+On utilise un estimateur non paramétrique par séries pour estimer la fonction bivariée g(s, t). Pour cela, on utilise
+une base de polynômes (Pk) à partir de laquelle on définit l’ensemble des régresseurs Pi = (Pk(si) Pl(ti)), avec k et l
+les degrés de chacun des polynômes. On choisit des polynômes de degré 6 ou moindre, ce qui revient à introduire
+
+29 régresseurs (variable des effectifs inclue). Les estimations gˆ (s, t) et -∂-∂--tgˆ (s, t) , respectivement de l’approxima-
+tion de la fonction g(s, t) et de celle de sa dérivée ∂g(s, t)/∂t, sont alors obtenues pour toute valeur de s et t à partir
+des coefficients de la régression linéaire des variables ∆yi sur ces polynômes Pi, ∀i. On en déduit alors les estima-
+teurs des paramètres :
+
+i ϖi ∂--∂--t gˆ (si,ti) et E2 =            ϖi(yi – gˆ (si,0)).
+∑ ∑ E1 =
+                                         i
+
+1. La procédure adoptée pour estimer le score est détaillée dans le corps du texte.
+
+ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8                                              13
+    De nombreuses créations                                       tions supposent l’homogénéité de l’effet d’un
+    d’emplois                                                     accroissement marginal de la réduction ex ante
+                                                                  dans la population. La première introduit la tota-
+    Le tableau 3 présente les estimations du                      lité des variables de contrôle, tandis que la
+         paramètre E1 – séparément dans l’industrie               seconde considère seulement leur résumé,
+    et le tertiaire – selon les trois méthodes présen-            c’est-à-dire le score. La troisième estimation
+    tées ci-dessus. Celles du paramètre E2 figurent               permet, au contraire, à l’effet marginal de varier
+    dans le tableau 4. Les deux premières estima-                 d’une valeur à l’autre de la réduction ex ante et
+                                                                  d’un individu à l’autre.
+
+    Encadré 3
+
+                           SOURCES ET CONSTITUTION DE L’ÉCHANTILLON
+
+    Les données utilisées résultent principalement de             toyages ont conduit à éliminer près de la moitié des
+    l’appariement de deux sources qui sont les déclara-           entreprises dans l’industrie et un peu plus de 60 %
+    tions des Bénéfices réels normaux (BRN) et les Décla-         dans les services. Ce taux d’élimination important pro-
+    rations annuelles de données sociales (DADS). Les             vient essentiellement des nettoyages effectués sur le
+    déclarations des BRN sont remplies annuellement par           coût du capital. On a ensuite fusionné les informations
+    les entreprises de plus de 3,5 millions de francs de          des BRN avec celles des DADS en ne conservant que
+    chiffre d’affaires (530 000 euros) (seuil de 1992) soumi-     les entreprises présentes dans les deux sources de
+    ses à l’impôt sur le revenu au titre des Bénéfices indus-     données entre 1993 et 1997. L’appariement a éliminé
+    triels et commerciaux (BIC). Les BIC correspondent            9 % des entreprises « nettoyées », que ce soit dans
+    aux bénéfices déclarés par les entreprises dont l’acti-       l’industrie ou le tertiaire. Enfin, un dernier nettoyage
+    vité, commerciale, industrielle ou artisanale, est exer-      sur les variables de contrôle et d’intérêt a éliminé 14 %
+    cée dans un but lucratif (60 % des entreprises, 94 %          des entreprises, à la fois dans l’industrie et le tertiaire.
+    du chiffre d’affaires). Les déclarations des DADS sont        Au terme de ces opérations, 30 % des 295 118 entre-
+    remplies annuellement par toute entreprise employant          prises présentes dans les BRN de 1993 à 1997 sont
+    des salariés. Elles couvrent l’ensemble des                   retenues dans l’échantillon, soit 87 720. Elles se répar-
+    employeurs et de leurs salariés à l’exception toutefois       tissent en 34 371 (39 %) dans l’industrie, et 53 349
+    des salariés agricoles et des agents de l’État. L’exploi-     (61 %) dans le tertiaire. Ces entreprises emploient au
+    tation statistique des DADS est devenue exhaustive à          total 3 772 941 salariés dont 2 053 777 (54 %) dans
+    compter de 1993. Actuellement, ils représentent près          l’industrie (BTP compris) et 1 719 164 (46 %) dans le
+    de 80 % des emplois salariés.                                 tertiaire.
+
+    La constitution de l’échantillon d’entreprises s’est          Malgré le taux d’élimination important lié aux nettoya-
+    déroulée en plusieurs étapes. On a tout d’abord sélec-        ges des données, l’évolution globale des effectifs
+    tionné les entreprises (hors secteurs agricoles, énergie      mesurée à partir de l’échantillon reflète assez bien
+    et financiers) présentes chaque année dans les BRN à          celle de la comptabilité nationale (CN) (cf. tableau
+    partir de l’année 1993 au moins et jusqu’en 1997. On          ci-dessous). On retrouve en particulier la baisse des
+    a ensuite réalisé un certain nombre de nettoyages sur         effectifs dans l’industrie et leur hausse dans le tertiaire.
+    des variables standards pour éliminer les valeurs aber-       L’échantillon se distingue toutefois par la surreprésen-
+    rantes. On a ainsi imposé que la valeur ajoutée, les          tation du secteur industriel et par une légère suréva-
+    effectifs, le capital et la masse salariale soient positifs   luation du taux de croissance de ses effectifs (– 1,2 %
+    à chaque date. On n’a retenu que les entreprises dont         contre – 2,6 % dans la CN). À l’inverse, le secteur ter-
+    les taux de croissances annuels de la valeur ajoutée,         tiaire est sous-représenté et le taux de croissance de
+    du capital et des effectifs sont compris entre le 1er et le   ses effectifs sous-évalué (2,5 % contre 5,7 % dans la
+    99e centile au niveau 40 de la nomenclature à chaque          CN)). En revanche l’échantillon rend très bien compte
+    date. On a procédé de la même façon pour les loga-            de l’évolution du BTP. De telles différences sont usuel-
+    rithmes et les différences premières des logarithmes          les lorsque l’on compare des données issues directe-
+    de la productivité du travail, de l’intensité capitalistique  ment des comptes des entreprises avec les données
+    et des coûts unitaires du travail et du capital. Ces net-     de la CN.
+
+    Répartition et croissance des effectifs salariés
+
+                                                                                  En %
+
+                           Comptabilité nationale                    Échantillon
+
+                  Secteur  Part en 1994  Taux de croissance       Part en 1994  Taux de croissance
+                                              1994-1997                              1994-1997
+    Industrie (hors BTP)        31,6                                   44,8
+    BTP                           9,9             – 2,6                  9,7             – 1,2
+    Tertiaire                                     – 5,6                                  – 5,3
+                                58,5                                   45,5
+                                                    5,7                                    2,5
+
+14                                                                ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+Trois estimations allant dans le même sens                          ordres de grandeur varient cependant sensible-
+                                                                    ment. Les valeurs les plus importantes sont sou-
+La mise en œuvre des deux dernières estima-                         vent obtenues avec la dernière méthode, qui est
+tions a nécessité l’estimation préalable du score                   aussi la moins précise, tandis que les valeurs les
+(cf. annexe 2). Sur la cinquantaine de variables                    plus faibles sont généralement obtenues avec la
+initialement introduites, on en a retenu in fine                    première méthode. Les deux premières régres-
+une quarantaine. Les variables éliminées sont                       sions présentent par ailleurs des résultats assez
+quelques indicateurs sectoriels de concurrence                      proches. Les différences d’ordre de grandeur sont
+ainsi que certaines variables financières. La                       donc spécifiques à la troisième régression et par
+représentation de la variable de traitement par les                 conséquent à la prise en compte des non-linéari-
+variables de conditionnement est satisfaisante :                    tés dans la relation entre performances, réduction
+le R2 est de 0,50 à la fois dans l’industrie et le                  ex ante et score. Malgré leur imprécision impor-
+tertiaire. La variance de la variable de traite-                    tante, les estimations du paramètre E1 de la der-
+ment est donc réduite de façon substantielle.                       nière colonne sont statistiquement différentes de
+Néanmoins, il persiste une source de variabilité                    celles des deux premières colonnes. La non-linéa-
+importante, qui va permettre de comparer les                        rité de la relation étudiée est ainsi vraisemblable-
+entreprises de scores identiques mais de réduc-                     ment importante, et la méthode semi-paramétri-
+tions de coût ex ante différentes (8).                              que, bien que moins précise, préférable. (8)
+
+Les résultats obtenus avec les trois types de                       8. Les résultats de cette estimation ne sont pas commentés, car
+régressions sont qualitativement similaires.                        ils n’offrent pas d’intérêt en eux-mêmes. L’estimation du score
+D’une régression à l’autre, les effets mesurés                      n’est qu’une étape intermédiaire purement descriptive.
+vont tous effectivement dans le même sens. Les
+
+Tableau 3
+Évaluation de l’effet moyen d’un accroissement marginal de la réduction ex ante du coût du travail
+reçue sur l’évolution : paramètre E1
+
+                                                    (1)                        (2)                        (3)
+
+             Variables                   Industrie       Tertiaire  Industrie       Tertiaire  Industrie       Tertiaire
+Effectifs salariésa
+Coût moyen du travaila                     1,60            1,79       2,00            2,36       3,30            5,16
+Part des non qualiﬁés                      (0,14)         (0,10)      (0,16)         (0,12)      (0,82)         (0,68)
+Part des jeunes
+Part des jeunes non qualiﬁés              – 2,30          – 2,25     – 3,20          – 2,86     – 4,37          – 6,40
+Intensité capitalistiquea                  (0,10)         (0,09)      (0,12)         (0,11)      (0,69)         (0,58)
+Productivité du capitala,b
+Productivité du travaila,b                 0,38            0,49       0,62            0,53       0,71            0,73
+Mark-upa                                   (0,09)         (0,07)      (0,10)         (0,07)      (0,49)         (0,34)
+Coût unitaire de productiona
+Valeur ajoutéea,b                          0,04            0,30       0,37            0,42      – 0,54          – 0,31
+                                           (0,06)         (0,05)      (0,09)         (0,07)      (0,28)         (0,25)
+
+                                           0,03            0,17       0,22            0,25      – 0,64          – 0,05
+                                           (0,04)         (0,04)      (0,05)         (0,06)      (0,38)         (0,34)
+
+                                          – 1,40          – 1,58     – 1,87          – 1,94     – 1,58          – 2,21
+                                           (0,17)         (0,13)      (0,19)         (0,14)      (1,08)         (0,97)
+
+                                           1,28            1,27       1,45            1,50       0,89            1,69
+                                           (0,17)         (0,13)      (0,19)         (0,14)      (1,20)         (0,95)
+
+                                          – 0,12          – 0,31     – 0,42          – 0,44     – 0,69          – 0,52
+                                           (0,08)         (0,07)      (0,09)         (0,07)      (0,61)         (0,46)
+
+                                           0,13           – 0,05     – 0,07          – 0,09     – 0,16          – 0,06
+                                           (0,08)         (0,06)      (0,09)         (0,07)      (0,63)         (0,43)
+
+                                          – 1,87          – 1,82     – 2,59          – 2,31     – 3,29          – 5,37
+                                           (0,09)         (0,08)      (0,11)         (0,09)      (0,63)         (0,51)
+
+                                           1,48            1,49       1,58            1,92       2,61            4,65
+                                           (0,15)         (0,11)      (0,17)         (0,12)      (1,01)         (0,81)
+
+Lecture : Suivant l’estimateur considéré (1), (2) ou (3), une hausse d’un point de la réduction ex ante conduit dans l’industrie à une pro-
+gression de l’emploi de 1,6 % (avec (1)), 2,0% (avec (2)) et 3,3 % (avec (3)).
+(1) E1 = â dans la régression ∆yi = ati + xib + cni + vi, où xi sont les variables de contrôle et ni les effectifs.
+(2) E1 = â dans la régression ∆yi = ati + sib + cni + vi, où si est le résumé des variables de contrôle (le score) et ni les effectifs.
+
+∑ (3) E1 = i ϖi -∂-∂--t gˆ (si,ti) dans la régression ∆yi = g(si, ti) + cni + vi, où g est une fonction non spécifiée de la réduction ex ante du coût
+
+du travail et du score et ni les effectifs.
+Ces estimations sont réalisées sur 32 459 observations dans l’industrie et 48 930 observations dans le tertiaire. Chacune des spécifica-
+tions introduit les effectifs comme variable supplémentaire, de telle sorte que la somme pondérée des résidus soit nulle.
+L’exposant a signifie que la variable est en logarithme et b qu’elle est déflatée par un indice de coût de production unitaire, pondérant le coût
+du travail et le coût du capital par leur part dans les coûts totaux de l’entreprise. L’écart-type relatif à chaque coefficient figure entre parenthèse.
+Source : fichiers des BRN et des DADS, Insee, et calculs des auteurs.
+
+ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8                                                                                   15
+    De fortes substitutions                                  effet correspond à des substitutions entre les
+    entre catégories de salariés                             facteurs : le contenu de la production en emplois
+                                                             non qualifiés augmente. Le second correspond à
+    L’emploi et la réduction ex ante du coût du tra-         un effet de profitabilité : la baisse des coûts de
+    vail sont liés par une relation positive : la crois-     production permet aux entreprises de baisser
+    sance de l’emploi dans les entreprises sur la            leurs prix ce qui induit une augmentation de la
+    période 1994-1997 a été d’autant plus vive que           demande. Cette augmentation des débouchés
+    les entreprises ont fortement bénéficié d’une            conduit alors à un accroissement de l’ensemble
+    réduction ex ante du coût du travail. Ainsi, une         des facteurs de production. Au total, la réduc-
+    augmentation d’un point de la réduction du coût          tion de coût du travail ex ante exerce un effet
+    du travail ex ante conduit à une progression de          positif certain sur la demande de travail non
+    l’emploi estimée à 1,6 % dans l’industrie et à           qualifié. En revanche, pour l’emploi qualifié et
+    1,8 % dans le tertiaire avec les régressions para-       le capital, deux effets contraires se combinent :
+    métriques (première colonne du tableau 3).               un effet négatif dû aux substitutions et un effet
+    Avec les régressions semi-paramétriques (troi-           positif dû à l’accroissement des débouchés.
+    sième colonne du tableau 3), ces élasticités sont
+    beaucoup plus élevées avec des valeurs respec-           Les substitutions s’opèrent principalement entre
+    tivement égales à 3,3 et 5,2 %.                          les salariés : la structure de la main-d’œuvre s’est
+                                                             fortement déformée en faveur des travailleurs les
+    Ces évolutions importantes de l’emploi ren-              moins rémunérés, en particulier les non qualifiés
+    voient à deux types de mécanismes. Le premier
+
+    Tableau 4
+    Évaluation des taux de croissance imputables aux réductions de charges : paramètre E2
+
+                                             (1)                        (2)                        (3)
+
+                  Variables       Industrie       Tertiaire  Industrie       Tertiaire  Industrie       Tertiaire
+    Effectifs salariésa
+    Coût moyen du travaila          1,28            2,35       1,60            3,10       2,62            3,44
+    Part des non qualiﬁés           (0,12)         (0,19)      (0,13)         (0,23)      (0,58)         (0,78)
+    Part des jeunes
+    Part des jeunes non qualiﬁés   – 1,84          – 2,96     – 2,57          – 3,76     – 3,10          – 4,36
+    Intensité capitalistiquea       (0,09)         (0,20)      (0,11)         (0,25)      (0,48)         (0,86)
+    Productivité du capitala,b
+    Productivité du travaila,b      0,31            0,65       0,50            0,69       0,69            0,69
+    Mark-upa                        (0,07)         (0,10)      (0,08)         (0,10)      (0,30)         (0,34)
+    Coût unitaire de productiona
+    Valeur ajoutéea,b               0,03            0,40       0,30            0,56      – 0,23          – 0,50
+                                    (0,05)         (0,07)      (0,07)         (0,10)      (0,14)         (0,22)
+
+                                    0,02            0,22       0,17            0,33      – 0,14          – 0,30
+                                    (0,03)         (0,05)      (0,04)         (0,08)      (0,26)         (0,29)
+
+                                   – 1,12          – 2,07     – 1,50          – 2,54     – 1,41          – 1,61
+                                    (0,14)         (0,20)      (0,15)         (0,23)      (0,66)         (0,84)
+
+                                    1,03            1,67       1,17            1,97       0,73            1,36
+                                    (0,14)         (0,19)      (0,15)         (0,21)      (0,69)         (0,79)
+
+                                   – 0,10          – 0,40     – 0,33          – 0,58     – 0,69          – 0,25
+                                    (0,07)         (0,09)      (0,08)         (0,10)      (0,37)         (0,37)
+
+                                    0,10           – 0,07     – 0,05          – 0,12     – 0,34           0,16
+                                    (0,06)         (0,08)      (0,07)         (0,09)      (0,36)         (0,35)
+
+                                   – 1,50          – 2,39     – 2,07          – 3,03     – 2,44          – 3,48
+                                    (0,08)         (0,17)      (0,09)         (0,20)      (0,43)         (0,70)
+
+                                    1,19            1,95       1,27            2,52       1,94            3,19
+                                    (0,13)         (0,18)      (0,14)         (0,21)      (0,63)         (0,74)
+
+    Lecture : Suivant l’estimateur considéré (1), (2), ou (3), le taux de croissance des effectifs imputable au dispositif dans l’industrie est de
+    1,3 % avec (1), 1,6 % avec (2) et 2,6 % avec (3).
+
+    ∑ (1) E2 = aˆ ϖiti dans la régression ∆yi = ati + xib + cni + vi, où ti est la réduction ex ante du coût du travail, xi les variables de contrôle et
+                    i
+    ni les effectifs.
+
+    ∑ (2) E2 = aˆ ϖiti dans la régression ∆yi = ati + sib + cni + vi, où ti est la réduction ex ante du coût du travail, si le résumé des variables de
+                        i
+    contrôle (le score) et ni les effectifs.
+
+    ∑ (3) E2 = ϖi(∆yi – gˆ (si, 0) – cˆ ni) dans la régression ∆yi = g(si, ti) + cni + vi, où g est une fonction non spécifiée de la réduction ex ante
+                  i
+    du coût du travail ti et du score si et ni les effectifs.
+    Ces estimations sont réalisées sur 32 459 observations dans l’industrie et 48 930 observations dans le tertiaire. Chacune des spécifications
+    introduit les effectifs comme variable supplémentaire, de telle sorte que la somme pondérée des résidus soit nulle.
+    L’exposant a signifie que la variable est en logarithme et b qu’elle est déflatée par un indice de coût de production unitaire, pondérant le coût
+    du travail et le coût du capital par leur part dans les coûts totaux de l’entreprise. L’écart-type relatif à chaque coefficient figure entre parenthèse.
+    Source : fichiers des BRN et des DADS, Insee, et calculs des auteurs.
+
+16                                                                           ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+et les jeunes non qualifiés. Les réductions ex ante   peut ainsi être assimilée à celle des prix (10). Il
+du coût du travail ont, en effet, conduit à un        ressort que la baisse des coûts de production
+accroissement important de la part des non quali-     unitaires, et donc aussi celle des prix, induite par
+fiés. Une hausse d’un point de la réduction           les réductions de charges a été importante et que
+ex ante du coût du travail conduit à une progres-     l’activité en a été fortement stimulée. En effet,
+sion de la part de l’emploi non qualifié que l’on     les estimations semi-paramétriques fournissent
+estime à 0,7 point à partir de la régression          des élasticités du coût unitaire de production à la
+semi-paramétrique (9). Les substitutions entre        réduction ex ante de 3,3 % pour l’industrie et
+salariés s’observent aussi au travers de l’évolu-     5,4 % pour le tertiaire, qui, bien qu’imprécises,
+tion du coût du travail ex post. Une augmentation     sont statistiquement significatives. Les autres
+de la réduction du coût du travail ex ante de         estimations donnent des valeurs plus faibles
+1 point conduit à une baisse du coût moyen du         mais qui restent importantes, autour de 2 %.
+travail ex post de 4,4 % dans l’industrie et de       L’amélioration des conditions de l’offre a con-
+6,4 % dans le tertiaire avec les régressions          duit à un développement important de l’activité
+semi-paramétriques. Ce type de régression abou-       des entreprises. Une augmentation d’un point de
+tit aux élasticités les plus fortes. Néanmoins, les   la réduction du coût du travail ex ante conduit à
+deux autres méthodes donnent elles aussi une          un accroissement de l’activité de 2,6 % dans
+élasticité du coût du travail ex post à la réduction  l’industrie et de 4,7 % dans le tertiaire selon les
+ex ante très importante, de plus de 2 %.              estimations semi-paramétriques. (9) (10)
+
+Des substitutions s’opèrent également entre tra-      Une croissance des effectifs imputable
+vail et capital. On observe en effet une baisse de    aux mesures de 2,6 % dans l’industrie
+l’intensité capitalistique, une baisse de la pro-     et 3,4 % dans le tertiaire
+ductivité du travail et une progression de la pro-
+ductivité du capital. Les ordres de grandeur des      Les estimations du paramètres E2, représentant
+élasticités de la productivité de chacun des          les taux de croissance imputables aux abaisse-
+facteurs et de l’intensité capitalistique sont        ments de charges (cf. tableau 4), confirment les
+quasiment inchangés d’une régression à l’autre.       résultats précédents relatifs aux différents effets
+Toutefois, l’imprécision des estimations              de substitution et de profitabilité à l’œuvre (11).
+semi-paramétriques les font paraître in fine          Parmi les résultats obtenus pour l’ensemble des
+comme non statistiquement significatives, alors       variables, la mesure des effets sur l’emploi, total
+qu’avec les deux autres méthodes, elles appa-         et non qualifié, présente cependant le plus
+raissent largement significatives.                    d’intérêt. Elle permet en effet de mesurer
+                                                      l’ampleur des créations d’emplois associées au
+De forts effets de volume                             dispositif de réductions de charges.
+
+Les créations d’emplois trouvent aussi leur ori-      On évalue le taux de croissance des effectifs
+gine dans le développement des débouchés liés         imputable aux réductions de charges à 2,6 %
+aux baisses de prix, elles-mêmes permises par la      dans l’industrie et à 3,4 % dans le tertiaire avec
+réduction des coûts de production. Apprécier          la méthode semi-paramétrique. Les estimations
+l’ampleur de ce phénomène est difficile dans la       sont toutefois peu précises : les intervalles de
+mesure où cela nécessite de réaliser un partage       confiance à 5 % des estimateurs semi-paramé-
+des valeurs entre volumes et prix. Or il n’existe     triques sont respectivement 1,5 %-3,8 % dans
+pas d’information sur les prix au niveau des          l’industrie et 1,9 %-5,0 % dans le tertiaire. Les
+entreprises. Une façon possible de procéder           différences avec les autres estimateurs apparais-
+consiste à décomposer l’évolution des prix            sent ainsi moins marquantes que dans le
+comme la somme de l’évolution du mark-up              tableau 2. À titre de comparaison, les estima-
+(sur coût moyen) et de celle des coûts de pro-
+duction unitaires. Il est possible, sous l’hypo-      9. Les estimations des effets sur la part des jeunes et des jeu-
+thèse de rendements d’échelle constants, de           nes non qualiﬁés ne sont pas les mêmes suivant les différentes
+mesurer le mark-up comme le rapport entre la          régressions. Les régressions paramétriques fournissent des
+valeur ajoutée et les coûts totaux (rémunération      élasticités positives, pas toujours signiﬁcatives, les régressions
+du capital comprise). Les estimations réalisées       semi-paramétriques fournissant, quant à elles, des élasticités
+indiquent que le mark-up n’a pas augmenté sous        négatives, pas toujours signiﬁcatives non plus.
+l’effet des réductions de coût ex ante. Il semble     10. L’évolution des coûts de production unitaires peut donc être
+donc que les réductions de coût associées au dis-     utilisée comme déflateur pour la mesure de la croissance de
+positif aient été répercutées dans les prix.          l’activité des entreprises. Elle l’est aussi pour la mesure de la
+L’évolution des coûts de production unitaires         croissance de la productivité des facteurs.
+                                                      11. Par rapport au paramètre E1, le paramètre E2 tient compte de
+                                                      la distribution de l’intensité des réductions de charges.
+
+ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8               17
+    tions obtenues avec la première méthode four-                  ble au dispositif (2,6 + 0,7/0,2). Un calcul simi-
+    nissent des taux de croissance agrégés de 1,3 %                laire donne un taux de croissance pour les qua-
+    pour l’industrie et de 2,4 % dans le tertiaire.                lifiés de 1,8 %. Dans le tertiaire, où la part des
+                                                                   non qualifiés est de 30 %, les taux de croissance
+    Près de 460 000 emplois                                        par qualification sont estimés à 5,7 % pour les
+    auraient été créés ou sauvegardés…                             non qualifiés et à 2,5 % pour les qualifiés. On en
+                                                                   déduit alors des créations ou sauvegardes
+    En appliquant les taux de croissance des effec-                d’emplois non qualifiés de 70 000 dans l’indus-
+    tifs aux nombres d’emplois dans l’industrie et le              trie et de 150 000 dans le tertiaire. Les créations
+    tertiaire, on obtient une évaluation du nombre                 d’emplois qualifiés s’élèveraient alors à 80 000
+    d’emplois créés ou sauvegardés grâce au dis-                   dans l’industrie et à 160 000 dans le tertiaire. Au
+    positif d’allégement de charges. On retient                    total, il en résulterait 220 000 créations ou
+    pour cela un emploi salarié de 5,7 millions                    maintiens d’emplois non qualifiés, et 240 000
+    dans l’industrie et de 9,1 millions dans le                    de qualifiés, dans l’économie.
+    tertiaire (12). Les évaluations sont alors
+    d’environ 150 000 emplois dans l’industrie                     Ces chiffres illustrent bien les effets de substitu-
+    (5,7 millions × 2,6 %) et de 310 000 emplois                   tion et de volume à l’œuvre. Alors que la part des
+    dans le tertiaire (9,1 millions × 3,4 %). Ainsi,               non qualifiés est d’environ 25 % dans l’emploi
+    les mesures d’allègements de charges de 1995 et                total, elle est de près de 50 % dans les créations
+    1996 auraient permis la création ou la sauve-                  d’emplois. Même si toutes les catégories de
+    garde de près de 460 000 emplois dans l’écono-                 salariés ont vu croître leurs effectifs, les créa-
+    mie. Cette estimation est cependant imprécise :                tions d’emplois ont été en proportion les plus
+    compte tenu des écarts-types des estimations                   importantes pour les non qualifiés. Sur les
+    des taux de croissance, les créations d’emplois                460 000 créations d’emplois, près de la moitié
+    se situeraient dans une fourchette de 255 000 à                concernerait des emplois non qualifiés. (12)
+    670 000 emplois. Les estimations paramétri-
+    ques conduisent, quant à elles, à une évaluation               Des résultats très proches
+    de 290 000 créations d’emplois, dont 75 000                    des évaluations ex ante disponibles…
+    dans l’industrie et 215 000 dans le tertiaire.
+                                                                   Les évaluations obtenues sont très proches de
+    ... dont la moitié environ d’emplois                           celles issues de modèles d’équilibre général.
+    non qualifiés                                                  Elles ne leur sont cependant pas directement
+                                                                   comparables. En effet, contrairement aux éva-
+    On peut également évaluer le nombre d’emplois                  luations ex ante réalisées à l’aide de tels modè-
+    non qualifiés créés grâce au dispositif d’allége-              les, les évaluations ex post ici présentées ne
+    ments de charges. Il suffit alors de déduire, des              prennent pas en compte les effets de bouclage et
+    estimations du tableau 4, le taux de croissance                de financement des mesures. Par exemple, en ce
+    de l’emploi non qualifié imputable au dispositif.              qui concerne les effets de bouclage, on ne con-
+    Il peut être calculé à partir de la relation :                 sidère pas les effets sur l’emploi d’un accroisse-
+                                                                   ment de la demande globale résultant de l’amé-
+    ∆log N j  =  ∆log N  +  ∆  log  -N-----j                       lioration de la situation de l’emploi (effets
+                                    N                              keynésiens). On ne considère pas non plus
+                                                                   l’impact de la baisse du chômage sur les salaires
+              = ∆log N + -∆--(--(N--N---j--j-⁄--⁄-N--N---)--), ∀J  (effets Phillips). Par ailleurs, les interactions
+                                                                   existant entre entreprises opérant sur un même
+    et des estimations du taux de croissance de                    marché ne sont pas complètement prises en
+    l’emploi total et de la variation de la part des               compte. On suppose, en effet, que les entrepri-
+    non qualifiés imputables aux mesures de réduc-                 ses dont la réduction de coût ex ante est nulle ne
+    tions de charges, ainsi que du niveau moyen de                 sont pas affectées par les réductions de charges.
+    la part de l’emploi non qualifié dans l’emploi                 Cette hypothèse peut conduire à une surestima-
+    total. Dans l’industrie où le taux de croissance               tion ou à une sous-estimation du nombre
+    des effectifs est estimé à 2,6 %, la variation de              d’emplois créés grâce aux mesures. En effet, ces
+    la part des non qualifiés à 0,7 point et la part des           entreprises peuvent perdre des parts de marché
+    non qualifiés à 22 %, on évalue à 5,8 % le taux                si elles sont soumises à une forte concurrence de
+    de croissance de l’emploi non qualifié imputa-
+                                                                   12. Ces chiffres sont ceux de 1994 (cf. rapports sur les Comp-
+                                                                   tes de la nation).
+
+18                                                                 ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+la part d’entreprises largement bénéficiaires des      composantes, en outre vraisemblablement très
+mesures. Mais elles peuvent être également             hétérogènes d’une entreprise à l’autre. Cette
+incitées à embaucher des bas salaires pour en          évaluation ne nécessite donc pas l’estimation
+bénéficier elles aussi.                                des élasticités de substitution entre les différents
+                                                       types de travailleurs, pas plus que celle de
+Néanmoins, à titre de comparaison, Laffargue           l’élasticité de la demande de travail à son coût.
+(2000), à l’aide d’un modèle d’équilibre géné-         Elle permet néanmoins de bien comprendre les
+ral, obtient de 116 000 à 440 000 créations            mécanismes qui ont pu être à l’œuvre dans les
+d’emplois à long terme selon la valeur de l’élas-      créations d’emplois.
+ticité de substitution entre le travail non qualifié
+et les autres facteurs. De même, Audric, Givord        Cette approche présente cependant quelques
+et Prost (2000) aboutissent à des résultats très       faiblesses. Il est ainsi nécessaire de faire un
+voisins, variant de 120 000 à 410 000 créations        minimum d’hypothèses sur les relations de
+d’emplois. Sur données individuelles, Laroque          substituabilité entre les travailleurs concernés
+et Salanié (2000) chiffrent l’effet de ces mesu-       par les réductions de charges. Les hypothèses
+res à 490 000 emplois. Avec une méthodologie           identificatrices jouent également un rôle impor-
+différente mais toujours sur données individuel-       tants dans l’obtention des résultats. Ces hypo-
+les, Kramarz et Philippon (2001) mettent égale-        thèses ont été rendues aussi transparentes que
+ment en évidence une forte sensibilité de              possibles. Enfin, l’évaluation ne vaut que pour
+l’emploi des bas salaires à leur coût sans toute-      le dispositif en vigueur sur la période
+fois proposer de chiffrage macro-économique.           1994-1997. Elle ne peut donc pas être utilisée
+                                                       pour l’étude de dispositifs alternatifs comme,
+… mais qui ne valent que pour                          par exemple, l’extension des abaissements de
+le dispositif d’allégement en vigueur                  charges à une population plus large ou au con-
+                                                       traire leur intensification sur la population déjà
+Les résultats montrent que le dispositif d’allége-     concernée. C’est en quelque sorte le prix à payer
+ment de charges sur les bas salaires a conduit à       pour contourner la difficulté de l’estimation de
+des créations d’emplois très importantes. Le           modèle structurel (qui présenterait elle aussi ses
+principal intérêt de l’approche retenue est de ne      propres limites). Cette étude montre néanmoins
+pas reposer sur la spécification et l’estimation       que les mesures de politique économique visant
+de modèles structurels. Les effets mesurés sont        à modifier la distribution du coût du travail,
+une combinaison de différents paramètres struc-        notamment au niveau des bas salaires, ont au
+turels, dont on ne peut distinguer les différentes     total des effets importants sur l’activité et
+                                                       l’emploi de toutes les catégories de salariés. ■
+
+Les auteurs remercient Denis Fougère, Francis Kramarz, Françoise Maurel, Guy Laroque,
+Jean-Luc Tavernier et plus généralement les participants aux séminaires du D3E, du Crest et de la
+Direction de la Prévision.
+
+                                         BIBLIOGRAPHIE
+
+Audric S., Givord P. et Prost C. (2000),               Dunne T., Roberts M.J. et Samuelson L. (1988),
+« Estimation de l’impact sur l’emploi non qualifié     « Patterns of Firm Entry and Exit in U.S. Manu-
+des mesures de baisse de charges », Revue              facturing Industries », Rand Journal of Econo-
+Économique, vol. 51, n˚ 3, pp. 513-522.                mics, vol. 19, n˚ 4, winter.
+
+Auerbach A.J. (1983), « Taxation, Corporate            Heckman J., Ichimura H., Smith J. et Todd P.
+Financial policy and the Cost of Capital », Journal    (1999), « Characterizing Selection Bias Using
+of Economic Literature, 21, September.                 Experimental Data », Econometrica, 66(5),
+                                                       pp. 1017-1098.
+Cserc (1996), « L’allégement des charges sociales
+sur les bas salaires : rapport au premier ministre »,  Heckman J., Ichimura H. et Todd P. (1997),
+Paris, La documentation Française.                     « Matching as an Econometric Evaluation
+
+ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8                 19
+    Estimator : Evidence from Evaluating a Job Trai-     Laroque G. et Salanié B. (2000), « Une décom-
+    ning Program », Review of Economic Studies,          position du non-emploi en France ». Economie et
+    64(4), pp. 605-654.                                  Statistique, n˚ 331, pp. 47-66.
+
+    Heckman J., Ichimura H. et Todd P. (1998),           Malinvaud E. (1998), « Les cotisations sociales à
+    « Matching as an Econometric Evaluation              la charge des employeurs : analyse économique »,
+    Estimator », Review of Economic Studies, 65(2),      La documentation Française, Paris.
+    pp. 261-294.
+                                                         Rosenbaum P. et Rubin D. (1983), « The Central
+    Heckman J., Lalonde R. et Smith J. (1999),           Role of the Propensity Score in Observational Stu-
+    « The Economics and Econometrics of Active           dies for Causal Effects », Biometrika, 70(1),
+    Labor Market Programs », Handbook of Labor           pp. 41-55.
+    Economics, Volume III, Ashenfelter O. et Card D.
+    eds.                                                 Rubin D. (1974), « Estimating Causal Effects of
+                                                         Treatments in Randomized and Non Randomized
+    Kramarz F. et Philippon T. (2001), « The Impact      Studies », Journal of Educational Psychology, 66,
+    of Differential Payroll Tax Subsidies on Minimum     pp. 688-701.
+    Wage Employment », Journal of Public Econo-
+    mics, vol. 82, n˚ 1, pp. 115-146.                    Rubin D. (1977), « Assignement to Treatment
+                                                         Group on the Basis of a Covariate », Journal of
+    Laffargue J-P. (2000), « Effets et financement       Educational Statistics, vol. 2 (1), spring.
+    d’une réduction des charges sur les bas salaires »,
+    Revue Économique, vol. 51, n˚ 3, pp. 489-498.
+
+20                                                       ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+ANNEXE 1
+
+                      PEUT-ON IDENTIFIER L’EFFET DES RÉDUCTIONS DE CHARGES
+                 À PARTIR DE LA RÉDUCTION EX ANTE DU COÛT MOYEN DU TRAVAIL ?
+
+La démarche adoptée pour identifier l’effet des réductions de charges consiste à régresser l’évolution, entre 1994 et
+1997, d’un certain nombre de variables d’intérêt (emploi, coût moyen du travail, structure de la main-d’œuvre, etc.) sur
+la réduction de coût ex ante et un ensemble de variables de contrôle destiné à éliminer les biais de sélectivité.
+
+Le choix des variables de contrôle n’est cependant pas immédiat. On dispose a priori de toute l’information nécessaire
+pour déterminer la réduction de coût ex ante. Néanmoins, il n’est pas utile d’introduire tous ces éléments dans les
+régressions pour éliminer les biais de sélectivité. On peut, en effet, omettre les déterminants de la réduction ex ante du
+coût du travail qui n’affectent pas les variables d’intérêt. En fait, il est même nécessaire, pour l’identification des effets
+des allégements de charges, de montrer qu’il existe une source de variabilité spécifique à la réduction de coût ex ante,
+c’est-à-dire qui affecte la réduction ex ante sans affecter directement les variables d’intérêt.
+
+Dans cette annexe, on utilise un modèle d’offre et de demande de travail à plusieurs catégories de main-d’œuvre pour :
+i) déterminer les sources d’hétérogénéité entre entreprises de la réduction de coût ex ante, ii) préciser les conditions
+sous lesquelles on peut écrire les variables d’intérêt en évolution entre 1994 et 1997 comme une fonction de la réduc-
+tion de coût ex ante et iii) examiner s’il existe une source d’hétérogénéité spécifique à la réduction de coût ex ante.
+Pour simplifier, on présente le modèle sous forme matricielle en omettant les indices temporel et individuel.
+
+i. Modélisation des offres et demandes des catégories de main-d’œuvre
+
+Les demandes de main-d’œuvre sont déterminées par des entreprises en concurrence monopolistique sur le marché
+de leur produit. Elles s’écrivent sous la forme matricielle suivante :
+
+log N = ΣN,NπN log cN + ΣN,K πK + u
+
+où N et cN sont les vecteurs respectivement des L catégories d’emplois considérées et de leur coût unitaire, K et cK le
+
+capital et son coût, ΣN,N = [σNj,Nl – ε]j,l = 1,…,L et ΣN,K = [σNj,K – ε]j = 1,…,L les matrices des élasticités de substitution
+de Allen nettes  de l’élasticité prix de la demande (en valeur  absolue),    πN =    Diag  (πN1,…,πNL) la matrice diagonale    des
+parts dans les   coûts totaux de chaque catégorie d’emploi      (avec ΣLj =  1πNj +  πK =   1 ) et u le vecteur des termes de  per-
+
+turbation incluant les facteurs technologiques et de demande.
+
+Les offres de travail relatives à chaque entreprise sont définies de façon ad hoc comme :
+
+log N = P log w + v
+
+où w représente le vecteur des salaires bruts des L catégories d’emplois, P la matrice diagonale des élasticités des
+offres de travail à leur rémunération brute et v le vecteur des termes de perturbation affectant les offres de travail. Les
+coûts et salaires bruts des différentes catégories de main-d’œuvre sont liés par : cNj = (1 + T(wj))wj, où T( ) est la
+fonction qui associe aux salaires les taux de cotisations sociales patronales. C’est cette fonction que la politique de
+réductions de charges a modifiée.
+
+ii. Déterminants de la réduction de coût ex ante
+
+En supposant que les salaires prévalant dans l’entreprise sont ceux qui égalisent l’offre et la demande de chaque caté-
+gorie de main-d’œuvre au sein de l’entreprise, on en déduit :
+
+log w = [P – ΣN,NπN]–1 [ΣN,N πN log(1 + T(w)) + ΣN,K πK log cK + u – v].
+
+Les salaires dépendent ainsi des paramètres structurels (élasticités de substitution, élasticité prix de la demande et
+élasticités des offres de travail), des parts des différents facteurs dans les coûts totaux, du coût d’usage du capital, de
+la fonction déterminant les taux de cotisations sociales et des éléments inobservés affectant aussi bien les offres que
+les demandes de travail (1).
+
+En appliquant ces équations aux données de 1994, on obtient les rémunérations des différentes catégories de salariés
+à cette date, lesquelles permettent de calculer la réduction de coût ex ante de l’entreprise. Cette dernière est
+effectivement égale à la somme des réductions de coût ex ante relatives aux différentes catégories de salariés :
+
+1. Les parts de la rémunération de chacun des facteurs interviennent comme des variables explicatives dans l’équation. Ces variables
+peuvent être explicitées comme des fonctions des sources de variabilité du modèle, qui seraient alors seulement les paramètres struc-
+turels et les chocs u et v. Ce point n’est cependant pas crucial pour l’analyse. L’aspect important est que, à parts de la rémunération des
+facteurs données, la rémunération de chacune des qualiﬁcations soit encore fonction des paramètres du modèle et des chocs u et v.
+
+ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8                                                                                        21
+    ANNEXE 1 (suite)
+
+    t  = tN1 + … + tNL, où tNj    est la réduction de coût du travail de la catégorie            j avec tNj = π˜ Nj[log (1 + T97(wj,94))
+    –  log (1 + T94(wj,94)) ] et  π˜ Nj la part dans les coûts salariaux des travailleurs de la  catégorie j. On en déduit l’expression
+
+    de la réduction ex ante du coût du travail t :
+
+    t = t(Σ, P, πN,94, πK,94, cK,94, u94, v94).
+
+    iii. Déterminants des variables d’intérêt
+
+    Les salaires en évolution entre 1994 et 1997 sont obtenus en considérant les équations de salaires ci-dessus en diffé-
+    rence. En notant π˜ N = Diag(π˜ N1,…,π˜ NL) la matrice diagonale des parts dans les coûts salariaux des différentes caté-
+    gories de main-d’œuvre et en les supposant constantes, ils s’écrivent comme :
+
+    ∆log w = [P – ΣN,NπN]–1[(1 – πK)ΣN,Nπ˜ N∆log (1 + T(w)) + ΣN,KπK∆log cK + ∆u – ∆v ]
+
+    Le terme ∆log(1 + T(w)) peut se décomposer en deux termes : la variation due à la seule modification des mesures
+    d’allégements de charges entre 1994 et 1997 (salaires nets inchangés) et la variation due à l’ajustement des salaires
+    nets entre 1994 et 1997 (le dispositif d’allégement de charges étant celui de 1997) :
+
+    π˜ N∆log (1 + T(w)) = π˜ N[log (1 + T97(w94))–log (1 + T94(w94))] + π˜ N[log (1 + T97(w97))–log (1 + T97(w94))]
+
+    Le premier terme π˜ N[log (1 + T97(w94))–log (1 + T94(w94) ) ] correspond aux réductions ex ante relatives aux catégo-
+    ries de salariés tN. En supposant que le second terme est négligeable c’est-à-dire que les réductions du taux de coti-
+    sations sociales de 1997 s’appliquant aux salaires de 1994 et de 1997 sont identiques, il vient :
+
+    ∆ log w = [P – ΣN,NπN]–1[(1 – πK) ΣN,NtN + ΣN,K πK ∆ log cK + ∆u – ∆v].
+
+    Pour définir l’évolution des salaires en fonction de la réduction ex ante du coût du travail de l’entreprise t, où
+    t = tN1 + … + tNL, on suppose les restrictions suivantes sur les substitutions entre les l catégories de salariés touchées
+    par les réductions de charges :
+
+    σNj,Nk = σNj,Nl = σNj∀k, ∀l ≤ l et ∀j = 1, …, L (2)
+    Cette hypothèse est en particulier satisfaite lorsque les catégories de travailleurs touchées par les réductions de char-
+    ges sont parfaitement complémentaires (3). Elle est suffisante pour exprimer l’évolution des salaires et de l’emploi des
+    différentes catégories de main-d’œuvre comme une fonction linéaire de la réduction ex ante du coût du travail de
+    l’entreprise :
+
+    ∆ log w = [P – ΣN,N πN]–1[ζN(1 – πK) t + ΣN,K πK ∆ log c K + ∆u – ∆v
+
+    ∆ log N = P∆ log w + ∆v
+
+    où ζN est le vecteur (L × 1) défini par ζN = [σNj – ε]j = 1,…,L. Les variables d’intérêt (emploi, rémunérations, stock de
+    capital, valeur ajoutée, etc.) s’écrivent alors comme :
+
+    ∆y = ∆y(Σ, P, πN, πK, ∆cK, ∆u, ∆v, t).
+
+    iv. Identification de l’impact des réductions de charges
+    En résumé, on a :
+    ∆yi = ∆y(Σi, Pi, πN,i, πK,i, ∆cK,i, ∆u, ∆vi, ti)
+    et ti = t(Σi, Pi, πN,i, πK,i cK,i, ui, vi).
+
+    2. Ces restrictions impliquent :  σ Nl ,Nk  =  σ∀l,k ≤  l et σNl,Nk  =  σNl∀l >  l  et k ≤  l , où 1,…, l  désignent les catégories touchées
+    par les réductions de charges.
+
+    3. À partir de la formule des élasticités de substitution de Allen σi,j = CCi,j/CiCj où C est la fonction de coût, on vérifie que la propriété est
+    satisfaite dès lors que cette fonction peut s’écrire sous la forme :
+
+    C = (cN1,…,cN l ,cN l + 1,…,cNL) = C(λ N1cN1 + … + λN l cN l , cN l + 1,…,cNL )
+
+22                                                                                              ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+ANNEXE 1 (fin)
+
+Ce modèle permet de dégager trois résultats importants :
+
+1. les variables d’intérêt ex post peuvent être définies comme des fonctions de la réduction ex ante du coût moyen du
+travail dès lors que l’on suppose que les catégories de salariés touchées par les réductions de charges sont
+complémentaires ;
+
+2. les variables d’intérêt dépendent de nombreux facteurs affectant aussi la réduction ex ante du coût du travail ;
+
+3. Il existe des facteurs ayant un impact sur la réduction ex ante mais pas sur les variables ex post. Il s’agit du coût du
+capital et des effets individuels d’entreprises des équations de demande et d’offre : ils influencent la distribution des
+salaires en 1994 et donc la réduction ex ante du coût du travail mais n’exercent plus d’effet direct sur les variables ex
+post car celles-ci sont en évolution.
+
+Ces résultats montrent qu’il est possible d’évaluer l’impact des réductions de charges sur les évolutions ultérieures des
+entreprises en les comparant selon l’intensité de leur réduction de coût ex ante. Compte tenu de l’existence de nom-
+breuses caractéristiques des entreprises communes à la réduction ex ante et aux variables d’intérêt, il est nécessaire
+de réaliser les comparaisons entre entreprises présentant des caractéristiques similaires. En pratique, on approche ces
+caractéristiques par un ensemble de variables observables et on régresse les variables d’intérêt sur ces variables de
+contrôle et la réduction ex ante du coût du travail.
+
+On utilise quatre types de variables de contrôle : des caractéristiques passées des entreprises, des variables de con-
+currence, des variables financières et des variables sur la structure des qualifications. Ces variables sont des approxi-
+mations des facteurs communs inobservables. Les caractéristiques passées reflètent ainsi les chocs de demande et
+de productivité inobservés. Les variables de concurrence approchent le paramètre inconnu de l’élasticité prix de la
+demande. Les variables financières prennent en compte les chocs sur le coût du capital qui ont résulté de la forte baisse
+des taux d’intérêt et des modifications importantes de la fiscalité sur la période 1994-1997 (progression du taux de pré-
+lèvement libératoire de 19,4 % à 25 %, de l’IS de 33,3 % à 41,7 % et du taux d’imposition des plus-values de 19,4 %
+à 26 %). Enfin, comme les parts des différents facteurs dans l’entreprise sont observées, elles sont directement intro-
+duites.
+
+Ces variables sont mesurées pour la plupart en 1994 et pour certaines en évolution moyenne entre une date antérieure
+à 1994 (généralement la date de première année de présence dans l’échantillon) et l’année 1994. Les caractéristiques
+passées considérées sont la valeur ajoutée brute aux coûts des facteurs, la productivité du travail, la croissance de la
+productivité globale des facteurs et l’intensité capitalistique. Les variables de concurrence sont mesurées au niveau
+individuel par le mark-up et au niveau sectoriel par des taux d’importation et d’exportation ainsi que par des taux
+d’entrée et de sortie. Les variables financières se composent du coût d’usage du capital, de la part des dettes dans le
+financement ainsi que de la variation ex ante du coût du capital, mesurant la variation uniquement induite par les chan-
+gements de fiscalité sur la période. Enfin, les variables sur la structure des qualifications sont mesurées au niveau des
+entreprises par les parts dans le total des heures travaillées de dix-huit catégories de salariés, créées par le croisement
+des critères de sexe, de qualifications et d’âge.
+
+ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8  23
+    ANNEXE 2
+
+              RÉGRESSION DU LOGIT DE LA VARIABLE DE TRAITEMENT
+                     SUR LES VARIABLES DE CONTRÔLE RETENUES
+
+                                              Variables       Industrie         Tertiaire
+
+    Variables générales de l’entreprise                    – 0,161 (0,005)  – 0,235 (0,005)
+    Valeur ajoutée en log                                  – 2,457 (0,031)  – 1,662 (0,024)
+    Productivité du travail en log                         – 0,066 (0,020)  – 0,322 (0,017)
+    Intensité capitalistique en log                        – 0,153 (0,023)  – 0,138 (0,012)
+    Rentabilité économique                                 – 0,462 (0,072)  – 0,356 (0,056)
+    Valeur ajoutée en évolution
+    Productivité globale des facteurs en évolution           2,423 (0,112)    1,308 (0,072)
+    Intensité capitalistique en évolution                    0,161 (0,060)    0,405 (0,044)
+    Rentabilité économique en évolution                                       0,072 (0,020)
+                                                                    –
+    Variables de concurrence                                                  1,811 (0,027)
+    Taux de marge                                            2,461 (0,054)  – 0,877 (0,069)
+    Taux de marge en évolution                             – 1,330 (0,127)
+    Taux d’entrée sectoriel                                – 0,264 (0,018)    1,132 (0,051)
+    Taux de sortie sectoriel                                                – 0,991 (0,094)
+    Taux d’importation sectoriel                             0,093 (0,136)
+    Taux d’exportation sectoriel                           – 0,833 (0,052)    2,981 (0,134)
+                                                                            – 4,852 (0,175)
+    Variables sur la structure des qualiﬁcations             0,213 (0,055)
+    Part des salaires dans les coûts                                        – 5,192 (0,108)
+    Part des salaires dans les coûts en évolution          – 3,859 (0,139)    2,703 (0,264)
+    Coût moyen des non qualiﬁés sectoriel en log             1,172 (0,519)
+    Effectif des non qualiﬁés sectoriel en évolution         0,609 (0,078)  – 0,921 (0,040)
+    Part des hommes jeunes non qualiﬁés                                     – 0,207 (0,056)
+    Part des hommes d’âges moyens non qualiﬁés             – 0,037 (0,051)
+    Part des hommes vieux non qualiﬁés                       0,756 (0,097)    0,735 (0,076)
+    Part des hommes jeunes qualiﬁés                                         – 0,170 (0,038)
+    Part des hommes d’âges moyens qualiﬁés                 – 0,397 (0,054)  – 0,380 (0,103)
+    Part des hommes vieux qualiﬁés                         – 0,325 (0,135)
+    Part des hommes jeunes très qualiﬁés                                      0,230 (0,061)
+    Part des hommes d’âges moyens très qualiﬁés              0,174 (0,076)  – 0,680 (0,028)
+    Part des hommes vieux très qualiﬁés                    – 0,906 (0,041)  – 0,807 (0,069)
+    Part des femmes jeunes non qualiﬁées                   – 0,926 (0,071)  – 0,003 (0,141)
+    Part des femmes d’âges moyens non qualiﬁées            – 0,120 (0,231)  – 1,316 (0,033)
+    Part des femmes vieilles non qualiﬁées                 – 1,612 (0,053)  – 1,363 (0,053)
+    Part des femmes jeunes qualiﬁées                       – 1,737 (0,080)
+    Part des femmes d’âges moyens qualiﬁées                                   1,137 (0,053)
+    Part des femmes vieilles qualiﬁées                       1,124 (0,158)    0,745 (0,030)
+    Part des femmes jeunes très qualiﬁées                    0,876 (0,066)    0,673 (0,062)
+    Part des femmes d’âges moyens très qualiﬁées             0,677 (0,152)    1,248 (0,114)
+    Part des femmes vieilles très qualiﬁées                  1,426 (0,188)    0,549 (0,042)
+                                                             0,305 (0,068)    0,234 (0,092)
+    Variables ﬁnancières                                   – 0,055 (0,143)    0,630 (0,111)
+    Coût d’usage du capital en log                           2,608 (0,411)  – 0,483 (0,034)
+    Coût d’usage du capital en évolution                   – 0,942 (0,104)  – 0,980 (0,071)
+    Structure de la dette (dettes/(dettes+fonds propres))  – 0,924 (0,183)
+    Variation ex ante du coût du capital                                    – 0,048 (0,028)
+                                                             0,450 (0,027)          –
+    R2                                                     – 0,138 (0,081)
+                                                                              0,109 (0,018)
+                                                             0,219 (0,023)    1,522 (0,214)
+                                                             2,291 (0,088)
+                                                                                 0,504
+                                                                 0,508
+
+    Lecture : on introduit des variables sectorielles au niveau de la Nap 15, ainsi qu’une constante. Les variables sont prises en 1994 et pour
+    certaines d’entre elles, en évolution moyenne sur une période antérieure. La régression est effectuée sur 32 769 observations dans
+    l’industrie et sur 49 614 dans le tertiaire. L’écart-type relatif à chaque coefficient figure entre parenthèses.
+    Source : fichiers des BRN et des DADS, Insee, et calculs des auteurs.
+
+24                                                         ÉCONOMIE ET STATISTIQUE N° 348, 2001- 8
+

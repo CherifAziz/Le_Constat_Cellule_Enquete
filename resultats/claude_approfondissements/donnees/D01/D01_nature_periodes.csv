@@ -1,0 +1,25 @@
+cote;code;libelle;pct_1960;pct_1973;pct_1974;pct_1975;pct_1980;pct_1985;var_1974_1975;var_1975_1980;var_1980_1985;var_1974_1985
+depense;D1;Rémunération des salariés (D1);9.3349;10.4315;10.7863;11.7115;12.8236;13.5044;0.9253;1.1121;0.6808;2.7181
+depense;P2;Consommation intermédiaire (P2);4.5776;5.3307;5.2902;5.7485;5.8731;6.3193;0.4582;0.1246;0.4463;1.0291
+depense;AF;Autres dépenses de fonctionnement (D29 + D4 hors D41 + D5);0.2771;0.2928;0.2926;0.3433;0.4362;0.3531;0.0507;0.0929;-0.0831;0.0605
+depense;D41;Intérêts (D41);1.1129;0.5203;0.5869;0.9186;1.2327;2.5526;0.3318;0.3140;1.3199;1.9657
+depense;D62;Prestations sociales en espèces (D62);9.7239;12.3446;12.5176;14.0077;15.2131;17.2369;1.4902;1.2054;2.0237;4.7193
+depense;D632;Transferts sociaux en nature marchands (D632);1.6147;2.9613;2.9872;3.2258;3.2040;3.7436;0.2385;-0.0218;0.5396;0.7564
+depense;D3;Subventions (D3);1.8669;1.8849;1.7811;2.0632;2.0112;2.4459;0.2821;-0.0520;0.4348;0.6648
+depense;D7;Autres transferts courants (D7, D73 nul);1.5026;1.1241;1.0909;1.4911;1.5567;2.1187;0.4002;0.0657;0.5620;1.0278
+depense;D9p;Transferts en capital (D9p);1.0139;0.8095;0.8124;1.0574;0.7811;0.8462;0.2451;-0.2763;0.0651;0.0338
+depense;P51g;Investissement (FBCF, P51g);4.6336;4.9509;4.9972;5.3038;4.6852;4.8511;0.3065;-0.6185;0.1658;-0.1462
+depense;P5a;Autres acquisitions d'actifs non financiers (P52, P53, NP);0.1383;0.2650;0.1994;0.3234;0.2288;0.2115;0.1239;-0.0946;-0.0172;0.0121
+depense;DEP;Total des dépenses;35.7964;40.9158;41.3418;46.1943;48.0456;54.1833;4.8525;1.8513;6.1377;12.8414
+depense;DEPPRIM;Dépenses primaires (hors D41);34.6834;40.3954;40.7549;45.2757;46.8130;51.6307;4.5207;1.5373;4.8177;10.8758
+recette;D2;Impôts sur la production et les importations (D2);16.0522;14.7239;13.6583;14.4643;15.0637;15.8390;0.8060;0.5994;0.7753;2.1806
+recette;D5r;Impôts courants sur le revenu et le patrimoine (D5);5.4853;6.0031;6.8865;6.1388;7.3957;7.9105;-0.7477;1.2568;0.5148;1.0239
+recette;D91r;Impôts en capital (D91);0.1535;0.1704;0.1753;0.1903;0.2160;0.2448;0.0150;0.0257;0.0288;0.0695
+recette;COTEFF;Cotisations sociales effectives (D61 - D612);8.8104;13.0717;13.4366;14.7903;17.3132;18.4594;1.3536;2.5229;1.1462;5.0228
+recette;D612;Cotisations sociales imputées (D612);1.3996;1.4288;1.4400;1.5522;1.6840;1.7347;0.1123;0.1318;0.0507;0.2947
+recette;D995r;Impôts et cotisations non recouvrables (D995, négatif);-0.3088;-0.3475;-0.3652;-0.3588;-0.3079;-0.4213;0.0064;0.0508;-0.1133;-0.0561
+recette;PROD;Recettes de production (P11, P12, P13 partiel, D39);3.4111;3.4986;3.5780;3.8845;4.1936;4.5433;0.3065;0.3092;0.3497;0.9654
+recette;PROPR;Revenus de la propriété (D4, dont intérêts reçus);0.9959;1.2317;1.4675;1.4008;0.9770;1.6019;-0.0667;-0.4238;0.6249;0.1345
+recette;AUTR;Autres transferts reçus (D7, D9 hors impôts, D73, D733);0.9828;1.0660;1.1606;1.1839;1.0775;1.2665;0.0233;-0.1063;0.1889;0.1059
+recette;REC;Total des recettes;36.9820;40.8466;41.4376;43.2463;47.6128;51.1788;1.8087;4.3665;3.5659;9.7412
+solde;SOLDE;Solde (recettes - dépenses);1.1856;-0.0691;0.0958;-2.9480;-0.4328;-3.0045;-3.0437;2.5152;-2.5717;-3.1002

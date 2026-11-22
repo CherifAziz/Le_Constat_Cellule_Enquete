@@ -1,0 +1,14 @@
+table;ligne;d_1978_1980;d_1980_1985;d_total
+D03_apul_1978_1985.csv;Consommation intermédiaire (P2);0.113;0.217;0.33
+D03_apul_1978_1985.csv;Rémunération des salariés (D1);0.071;0.357;0.428
+D03_apul_1978_1985.csv;Impôts courants sur le revenu et le patrimoine (D5);0.029;0.252;0.281
+D03_apul_1978_1985.csv;Transferts courants entre administrations publiques (D73);-0.017;-0.285;-0.302
+D03_apul_1978_1985.csv;Formation brute de capital fixe (P51g);0.12;0.014;0.134
+D03_apul_1978_1985.csv;Total des dépenses;0.209;0.459;0.668
+D03_apul_1978_1985.csv;Impôts sur la production et les importations (D2);0.077;0.603;0.68
+D03_asso_1978_1985.csv;Consommation intermédiaire (P2);-0.002;-0.02;-0.022
+D03_asso_1978_1985.csv;Rémunération des salariés (D1);0.169;0.108;0.277
+D03_asso_1978_1985.csv;Transferts sociaux en nature de produits marchands (D632);0.053;0.515;0.568
+D03_asso_1978_1985.csv;Formation brute de capital fixe (P51g);-0.016;-0.08;-0.096
+D03_asso_1978_1985.csv;Total des dépenses;0.92;1.844;2.764
+D03_po_apul_1970_1985.csv;PO APUL, 1973-1985 (1974 écarté);;;1.371

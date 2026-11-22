@@ -1,0 +1,1484 @@
+CONSEIL D’ORIENTATION DES RETRAITES Séance plénière du 27 janvier 2016 à 9 h 30 « Le cadre macroéconomique à long terme »
+
+Document N°5 Document de travail, n’engage pas le Conseil
+
+Le produit intérieur brut par habitant sur longue période en France et dans les pays avancés : le rôle de la productivité et de l'emploi
+Antonin Bergeaud, Gilbert Cette et Rémy Lecat Économie et Statistique, février 2015 - n°474, pages 5-34
+
+1
+
+2
+
+ÉCONOMIE
+
+Le produit intérieur brut par habitant sur longue période en France et dans les pays avancés : le rôle de la productivité et de l’emploi
+Antonin Bergeaud *, Gilbert Cette ** et Rémy Lecat ***
+
+Rappel :
+Les jugements et opinions exprimés par les auteurs n’engagent qu’eux mêmes, et non les institutions auxquelles ils appartiennent, ni a fortiori l’Insee.
+
+Sur la période 1890‑2012, le produit intérieur brut par habitant a connu une très forte progression dans les pays avancés, principalement grâce à l’augmentation de la pro‑ ductivité globale des facteurs (PGF) et de l’intensité capitalistique. Cette progression, correspondant par exemple en France à un PIB neuf fois plus élevé en fin de période, n’a pas été régulière : elle connait de fortes fluctuations liées à des chocs globaux dont les effets ne sont pas nécessairement identiques d’un pays à l’autre.
+Les hiérarchies de PIB par habitant entre pays, qui placent les États‑Unis au premier rang pendant la plus grande partie du XXe siècle, sont influencées par la PGF et l’intensité capi‑ talistique mais aussi par les écarts de taux d’emploi et de durée moyenne du travail. Un fort contraste apparait depuis le milieu des années 1970 concernant la contribution du facteur travail entre les pays anglo‑saxons, dont principalement les États‑Unis, et les autres, en particulier européens. Du milieu des années 1970 jusqu’au milieu des années 1990, cette contribution diminue dans les seconds vis‑à‑vis des États‑Unis, ce qui contribue à abaisser le niveau relatif de PIB par habitant. Cette évolution s’inverse en partie dès le milieu des années 1990, en particulier du fait de l’augmentation du taux d’emploi des seniors.
+Sur l’ensemble de la période, le PIB par habitant augmente en France dans les mêmes proportions que dans la zone euro reconstituée. Mais la position française se dégrade relativement à la zone euro du milieu des années 1970 au milieu des années 1990 en raison d’une baisse relative du taux d’emploi. Depuis le milieu des années 1990, la stabilité de la situation française par rapport à l’ensemble de la zone euro résulte d’une baisse relative du PIB par habitant de l’Italie qui compense une hausse relative de celui de l’Allemagne. Les écarts avec l’Allemagne résultent largement des dynamiques diffé‑ rentes des taux d’emploi.
+Codes JEL : N10, O47, E20.
+Mots-clés : PIB par habitant, productivité, convergence, changement technologique, histoire mondiale.
+* Banque de France et École Polytechnique. ** Banque de France et Université Aix‑Marseille (Aix‑Marseille School of Economics), CNRS et EHESS. *** Banque de France.
+Les opinions présentées dans cet article ne reflètent pas nécessairement ceux de la Banque de France ou de l’Eurosystème. Nous remercions chaleureusement deux référés anonymes de la revue.
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+5
+
+L es comparaisons internationales de niveau de vie restent très souvent conduites à partir d’indicateurs de PIB par habitant. Cette approche est évidemment réductrice : elle ne s’intéresse qu’à une dimension du niveau de vie, elle ne concerne que la situation moyenne des habitants sans prendre en compte la dispersion de leurs situations, elle laisse de côté la question de la soutenabilité de ce niveau de vie ainsi que celle de l’arbitrage possible entre niveau du PIB par habitant et loisirs ou travail non marchand. Ces carences ont donné lieu à une abondante lit‑ térature explorant divers types d’alternatives au PIB : indices composites, mesures directes du bien‑être subjectif ou encore PIB « corrigés » d’un certain nombre de composantes non direc‑ tement monétaires du bien‑être1. Le rapport de la Commission Stiglitz, Sen et Fitoussi (2009) a poursuivi la réflexion sur ces différentes pistes (pour une synthèse, voir Simon, 2009) et ces propositions font l’objet d’une prise en compte progressive. Mais la comparaison des niveaux de PIB par habitant reste néanmoins un exer‑ cice utile. Même si le PIB ne mesure que très imparfaitement le niveau de vie ou le niveau de bien‑être, il est une de leurs composantes et mérite d’être examiné à ce titre, ou en tant que mesure de l’activité économique globale, ce qui reste sa vocation principale.
+La littérature économique consacrée à la com‑ paraison internationale des niveaux ou des évo‑ lutions de ce PIB par habitant a principalement abordé deux questions non indépendantes : celle de la convergence entre pays des niveaux de PIB par habitant et celle des facteurs de sa croissance (pour une synthèse, cf. Islam, 2003). De nombreux travaux ont constaté que les niveaux de PIB par habitant ne convergent pas nécessairement entre pays (voir par exemple Baumol, 1986, ou Barro, 1991). En d’autres termes, les pays à bas niveau de PIB par habitant ne convergent pas nécessairement vers les niveaux des pays les plus développés, et ils peuvent même s’en éloigner durant de longues périodes. La littérature a caractérisé de nombreux facteurs de croissance du PIB par habitant et de convergence des pays les moins avancés sur les plus avancés. Elle accorde généralement un rôle central aux facteurs institutionnels et éducatifs (voir par exemple Barro, 1991 ; Barro et Sala‑I‑Martin ; 1997 ; la synthèse de Cette et al., 2008, et, pour des évaluations récentes, Aghion et al., 2008, ou Madsen, 2010a et 2010b). Les facteurs ins‑ titutionnels correspondent par exemple à la défense des droits de propriété, aux régulations des marchés du travail, des biens, des services
+
+financiers, à la qualité du système judiciaire… La dimension éducative correspond au niveau d’éducation de la population en âge de tra‑ vailler. L’innovation technologique et le pro‑ grès technique lui‑même dépendent de ces facteurs institutionnels et éducatifs (cf. par exemple Aghion et Howitt, 1998, 2006 et 2009). Crafts et O’Rourke (2013) suggèrent d’ailleurs que le rôle des facteurs institution‑ nels sur la croissance des principaux pays industrialisés se serait accru sur les dernières décennies. Concernant les seuls États‑Unis, Gordon (2012, 2013, 2014) souligne que la croissance du niveau de vie moyen de la plus grande partie de la population sera largement contrariée au cours des prochaines décennies par l’émergence de six « vents contraires » (headwinds) : le vieillissement de la popula‑ tion, qui pèsera sur le taux d’activité moyen de la population totale, le plafonnement du niveau d’éducation de la population en âge de travail‑ ler  – notamment en raison du coût des études universitaires – , l’augmentation des inégali‑ tés qui aboutit à une croissance ne bénéficiant qu’à une part réduite de la population, les niveaux élevés d’endettement et la nécessité d’un désendettement des ménages et des admi‑ nistrations publiques, la globalisation – en rai‑ son de ses effets sur la distribution des revenus dans les pays industrialisés – et enfin les ques‑ tions liées à la soutenabilité environnementale de la croissance. 1
+Le but principal de cette étude est de remettre ces constats ou pronostics en perspective en revenant sur plus d’un siècle d’évolutions du PIB par habitant dans les principaux pays industrialisés. La période couverte s’étendra de 1890 à 2012 et on s’intéressera à 13 pays indus‑ trialisés : les pays du G7 (États‑Unis, Japon, Allemagne, France, Royaume‑Uni, Italie et Canada) et six autres pays importants par leur taille (Espagne, Australie, Pays‑Bas) ou par leurs spécificités (Finlande, Norvège, Suède). Par ailleurs, une zone euro est reconstituée en agrégeant l’Allemagne, la France, l’Italie, l’Es‑ pagne, les Pays‑Bas et la Finlande, ces six pays représentant ensemble environ 84 % du PIB de la zone euro de 20122. Les frontières de ces pays sont considérées comme fixes et correspondent aux frontières actuelles. À l’intérieur de la période analysée, on retient quelques dates qui paraissent particulièrement pertinentes : 1890,
+1.  Sur cette dernière approche, voir par exemple, les travaux de Fleurbaey et Gaulier (2009). 2.  Dans la suite, nous utiliserons le terme de « zone euro » pour désigner cet ensemble, y compris avant l’existence formelle de la zone euro.
+
+6
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+le début de la disponibilité de nos données ; 1913, juste avant la Première Guerre mondiale ; 1950, quelques années après la Seconde Guerre mondiale, ce qui permet d’intégrer les efforts de reconstruction et de reconstitution des capaci‑ tés de production détruites ou désorganisées par le conflit ; 1974, au moment du premier choc
+
+pétrolier qui se traduit par de fortes inflexions, notamment de la productivité ; et enfin 1995, lorsque se dessine une accélération de l’impact des TIC aux États‑Unis. 2012 est retenu comme terme de l’analyse. Les données proviennent principalement de Bergeaud et al. (2014) et sont présentées dans l’encadré 1.
+
+Encadré 1
+
+LES SOURCES DES DONNÉES UTILISÉES
+
+Les données utilisées dans cette étude concernent treize pays industrialisés : les pays du G7 (États‑Unis, Japon, Allemagne, France, Royaume‑Uni, Italie et Canada) et six autres pays importants par leur taille (Espagne, Australie, Pays‑Bas) ou par leurs spécificités (Finlande, Norvège, Suède). Elles s’étendent sur la longue période 1890‑2012. Par ailleurs, une zone euro est reconstituée en agrégeant l’Allemagne, la France, l’Italie, l’Espagne, les Pays‑Bas et la Finlande, ces six pays représentant ensemble environ 84 % du PIB de la zone euro en 2012. Les frontières de ces pays sont considérées comme fixes et correspondent aux frontières actuelles (les sources utilisées reconstituent les pays à frontières constantes
+
+sur la base d’informations locales disponibles ou sinon de simples « règles de trois »). Cette hypothèse nous permet de traiter le cas de pays dont les frontières ont fortement évolué comme l’Allemagne ou qui n’ont pas continument existé sur l’ensemble de la période de notre analyse, comme la Finlande avant 1918.
+Les données utilisées concernant le PIB, le capital productif, le nombre d’employés et le temps de travail annuel moyen sont reprises de Bergeaud et al. (2014). Nous en résumons les principales caractéristiques. Les sources utilisées sont par ailleurs précisées dans le tableau ci‑dessous.
+
+Tableau Sources des données historiques utilisées dans la construction des séries de PIB par habitant et de PGF
+
+Pays
+
+PIB
+
+Investissement
+
+Emploi
+
+Heures travaillées
+
+Allemagne
+
+Bolt et al. (2013), met‑ tant à jour Maddison (2001)
+
+Kirner (1968) et Maddison (1994)
+
+Hoffman (1965) et Mitchell (1988)
+
+Maddison (2001)
+
+Australie
+
+Bolt et al. (2013) mettant Mitchell (1998c) à jour Maddison (2001) Et Butlin (1977)
+
+Bultin (1977)
+
+Maddison (2001) et Butlin (1977)
+
+Canada
+
+Bolt et al. (2013) mettant Historical Canadian à jour Maddison (2001) Macroeconomic Dataset
+(1871‑1994)
+
+Historical Statistics of Canada
+
+Maddison (2001) et Altman (1999)
+
+Espagne
+
+Prados (2003)
+
+Prados (2003)
+
+Prados (2003)
+
+Les données de l’Italie sont utilisées avant 1950
+
+États‑Unis
+
+Bolt et al. (2013) mettant Maddison (1994) à jour Maddison (2001)
+
+Mitchell (1998a)
+
+Maddison (2001)
+
+Finlande
+
+Bolt et al. (2013) mettant Hjerppe (1996) à jour Maddison (2001)
+
+Hjerppe (1996)
+
+Maddison (2001)
+
+France
+
+Villa (1994)
+
+Levy‑Leboyer (1978) et Maddison (1994)
+
+Villa (1994)
+
+Maddison (2001)
+
+Italie
+
+Baffigi (2011)
+
+Baffigi (2011)
+
+Broadberry et al. (2011)
+
+Maddison (2001)
+
+Japon
+
+Bolt et al. (2013) mettant Maddison (1994) à jour Maddison (2001)
+
+Maddison (2001, 2003)
+
+Maddison (2001)
+
+Norvège
+
+Bolt et al. (2013) mettant Historical National à jour Maddison (2001) Accounts
+et Grytten (2004)
+
+Mitchell (1998b)
+
+Maddison (2001)
+
+Pays Bas
+
+Bolt et al. (2013) mettant Smits et al. (2000) à jour Maddison (2001) et Groote et al. (1996)
+
+Smits et al. et Tweehonderd Maddison (2001) jaar statistiek in tijdreeksen 1800‑1999.
+
+Royaume‑Uni Bolt et al. (2013) mettant Maddison (1994) à jour Maddison (2001)
+
+Feinstrein et al. (1988)
+
+Mitchell (1998b)
+
+Suède
+
+Bolt et al. (2013) mettant Swedish Historical National Swedish Historical National Maddison (2001)
+
+à jour Maddison (2001) Accounts 1800‑2000.
+
+Accounts 1800‑2000.
+
+Lecture : Ce tableau détaille les sources historiques mobilisées pour la rétropolation des séries de comptabilité nationale. Dans le
+
+cas de la France, les données historiques de PIB sont, par exemple, tirées de Villa (1994).
+
+Source : Bergeaud et al. (2014).
+
+➔
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+7
+
+Encadré 1 (suite)
+
+-- Pour le PIB, les données partent des évaluations fournies par les comptabilités nationales, sur la période la plus longue (souvent jusqu’en 1960). Ces données sont ensuite complétées en mobilisant dans la plupart des cas les données historiques de Bolt et al. (2013) qui met à jour Maddison (2001).
+-- L’évaluation du capital productif fixe est basée sur la méthode d’inventaire permanent en utilisant l’in‑ vestissement comme flux et un taux de dépréciation constant dans le temps. Deux types de capital pro‑ ductif sont distingués : le capital bâtiment et le capital matériel, pour lesquels les taux de dépréciation sont différents (respectivement 2,5 %, soit une durée de vie moyenne de 40 ans, et 10 %, soit une durée de vie moyenne de 10 ans). Les dommages liés aux guerres et aux grandes catastrophes naturelles sont pris en compte à partir de travaux de plusieurs historiens. Concernant les séries d’investissement, les données de comptabilité nationale sont complétées par des données historiques issues de plusieurs sources : Maddison (1994), Villa (1994), Groote et al. (1996) ou encore Prados (2003) par exemple.
+-- Pour le nombre d’employés, de nombreuses sources historiques sont également mises à contribution afin de compléter les données des comptabilités natio‑ nales, dont les détails sont fournis dans le tableau.
+-- Pour la durée moyenne du travail, les données du Conference Board (Total Economy Database) et, entre autres, celles de Maddison (2001) sont utilisées afin de compléter celles fournies par l’OCDE. Maddison (2001) propose des années de référence :1870, 1913, 1950, 1974 et 1995. À l’exception de la première, ces années correspondent à celles que nous étudions spécifiquement dans la présente étude.
+Afin de permettre les comparaisons des niveaux de PIB par habitant, les données concernant le PIB et le capital productif sont converties en dollars US de 2005 ($2005 ppp), à même parité de pouvoir d’achat. L’indice utilisé pour cela est celui des Penn World Tables. Il faut souligner que les comparaisons de niveaux de PIB par habitant sont particulièrement sen‑ sibles à la date de référence du taux de conversion ; les dates précises de rattrapage et les niveaux relatifs peuvent varier selon la référence choisie. Plusieurs autres évaluations de taux de conversion PPA sont disponibles pour l’année 2005, en particulier celles du FMI et de la Banque Mondiale. Pour certains pays, les différences peuvent s’élever jusqu’à près de 8 %, ce qui représente une différence de 5 % pour la PGF. L’utilisation des taux de conversion des Penn World Tables demeure néanmoins le choix recommandé pour des analyses macroéconomiques.
+Au‑delà des données reprises de Bergeaud et al. (2014), la présente étude mobilise des évaluations concernant la population totale et la population en âge de travailler supposée correspondre à celle âgée de 15 à 64 ans.
+-- Pour la population totale, les données de la Banque Mondiale disponibles sur la période 1960‑2012 sont complétées par celles de Bolt et al. (2013) qui actua‑ lise Maddison (2001).
+
+-- Les données de population âgée de 15 à 64 ans sont reprises de l’OCDE et issues des Labor Force Survey. Elles ne remontent ici que jusqu’en 1960. Nous n’avons pas utilisé de données historiques pour cette variable démographique car la fourchette 15‑64 ans perd de son sens en tant qu’indicateur de la part de la population en âge de travailler lorsque l’on remonte loin dans le passé, compte tenu notamment des variations dans le temps de l’âge légal de travail des enfants ou des systèmes de retraite.
+
+Le tableau ci‑dessus donne les sources historiques utilisées pour chaque pays et pour chacune des quatre séries considérées (PIB, Investissement, Emploi et Nombre moyen d’heures travaillées par employé). Comme expliqué plus haut, les séries sont construites en utilisant des données issues des comptabilités nationales complétées en utilisant les taux de varia‑ tion en volume issues d’estimations historiques. Les années à partir desquelles la transition entre compta‑ bilité nationale et données historiques se fait varient selon les pays et se situent généralement dans les années 1960.
+
+Au‑delà de la mobilisation des données indiquées dans ce tableau, un travail d’interpolation et d’estima‑ tion a été nécessaire pour compléter les éventuelles lacunes existant dans les séries (pour plus de détails, consulter l’Annexe de Bergeaud et al., 2014). Par ail‑ leurs, la construction des séries de capital, qui se fait par méthode d’inventaire permanent, a nécessité la prise en compte des destructions de capital se pro‑ duisant lors des guerres (guerres mondiales et guerre civile espagnole) et des grandes catastrophes natu‑ relles (tsunami de 2011 et tremblements de terre japo‑ nais de 1923 et 1995). Nous résumons ci‑dessous la construction de ces coefficients de destruction pour les pays concernés.
+
+Allemagne : Selon Demotes‑Mainard (1989), l’Alle‑ magne de l’Ouest a subi une perte équivalente à 15 % de son capital pendant la totalité de la Seconde Guerre mondiale. Parmi ces 15 %, un cinquième est dû à des démontages d’usines qui sont principalement interve‑ nus entre 1945 et 1946. Les 12 % restants sont prin‑ cipalement ventilés sur les années 1943 à 1945, sur la base de données relatives à l’intensité des bombarde‑ ments alliés (Humble, 1975).
+
+Espagne : Selon Prados (2008), l’Espagne a subi pen‑ dant la guerre civile de 1936‑1938 des destructions de capital égales à 7 % de son stock de capital de 1935. De plus, 4 à 6 % des immeubles et infrastructures ont été détruits au cours de la même période.
+
+France : Villa (1994) propose des « lois de destruc‑
+
+tion » affectant le coefficient de dépréciation pendant
+
+la première et la Seconde Guerre mondiale. Nous
+
+avons converti ses données pour les adapter à notre
+
+modèle. Ceci conduit à des destructions d’environ
+
+1 % du capital chaque année de la Première guerre
+
+mondiale, et de 2 % chaque année de la Seconde
+
+Guerre mondiale (avec une légère augmentation à
+
+partir de 1944).
+
+➔
+
+8
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+L’analyse des évolutions et des écarts entre pays du PIB par habitant s’appuie sur une décomposition comptable faisant apparaitre les contributions de la productivité globale des facteurs (PGF), de l’intensité capitalis‑ tique (ces deux composantes déterminant la productivité du travail), du taux d’emploi de la population totale et de la durée moyenne du travail des employés. Sur la période récente, à partir du premier choc pétrolier, on distinguera également dans la contribution du taux d’emploi global les sous‑contributions de la part relative et du taux d’emploi de la popu‑ lation en âge de travailler (ici la population âgée de 15 à 64 ans).
+Au total, la contribution de cette étude est principalement de trois ordres : elle est menée sur un large ensemble de pays, sur longue période et en utilisant la PGF dans la décom‑ position comptable. Ce travail a été rendu possible par la constitution minutieuse d’une base de données de séries macroéconomiques permettant de comparer les pays entre eux sur plus de 120 ans. Les évolutions du PIB par habitant dans les différents pays et zones sont tout d’abord commentées en caractérisant leurs grandes variations, puis en décomposant les principaux facteurs de ces évolutions. Les convergences ou divergences des niveaux de PIB par habitant sont ensuite analysées, tout d’abord en comparant les niveaux de PIB par habitant des différents pays par rapport à celui des États‑Unis, le plus élevé à l’exception du cas très particulier de la Norvège, puis en décomposant les facteurs d’évolutions de ces niveaux relatifs de PIB par habitant et enfin en analysant sur la période la plus récente (depuis 1975) le rôle plus particulier du fac‑ teur travail.
+
+Les évolutions du PIB par habitant sur longue période
+D e 1890 à 2012, le PIB par habitant a pro‑ gressé en moyenne de 1,8 % par an en France, 2,0 % aux États‑Unis, 2,6 % au Japon et 1,5 % au Royaume‑Uni, à partir de niveaux de départ très différents. Néanmoins, cette pro‑ gression a été très irrégulière sur la période et très hétérogène entre les pays. De nombreux chocs contribuent à ce profil heurté : ils peuvent être globaux, c’est‑à‑dire communs à tous les pays tels les guerres mondiales, les révolutions technologiques ou les fortes variations des prix des matières premières, ou bien idiosyncra‑ tiques, c’est‑à‑dire spécifiques à chaque pays, tels que l’engagement de réformes ambitieuses (Australie, Canada, Finlande et Suède dans les années 1990, par exemple). L’impact parfois décalé dans le temps des chocs globaux et les chocs idiosyncratiques contribuent à expliquer l’hétérogénéité des profils entre pays. On carac‑ térisera successivement les grandes vagues d’évolution du PIB par habitant puis les prin‑ cipaux facteurs ayant comptablement contribué aux évolutions du PIB par habitant3.
+Plusieurs grandes vagues de croissance
+Afin de dégager les grandes vagues de progres‑ sion du PIB par habitant, on filtre son taux de croissance pour faire ressortir les cycles d’une
+3.  Une évaluation « économique » et non seulement comptable consisterait à identifier les déterminants de chacun des éléments de cette décomposition comptable et notamment l’impact de la R&D, de la diffusion des technologies et de l’éducation sur la productivité et celui des politiques publiques sur le taux de participation de la main d’œuvre.
+
+Encadré 1 (suite)
+
+Italie : Nous affectons un coefficient de 1 % sur le capital en 1944 et en 1945 en suivant Broadberry et al. (2011).
+Japon : Nous considérons trois catastrophes natu‑ relles majeures de l’histoire du Japon : le séisme de Kanto en 1923, le séisme de Kobé en 1995 et le tsu‑ nami de 2011. D’après l’OCDE intitulé « From tragedy to the revitalization of Japan », les dommages sur le capital sont estimés à respectivement 29 %, 2 % et 3,6 % du PIB de l’année. Pour la Seconde Guerre mondiale, nous utilisons un document de la Banque
+
+du Japon « Hundred Years of the Japanese Economy » indiquant une destruction en 1945 de 25,9 % des bâti‑ ments et 24,6 % du matériel.
+Pays Bas : Nous suivons Madsen (2010b) et comp‑ tabilisons 3,5 % de destructions annuelles du capital entre 1943 et 1945.
+Royaume‑Uni : Comme pour les Pays Bas, nous comptabilisons 3,3 % de destructions annuelles du capital sur la période 1943‑1945.
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+9
+
+amplitude longue d’un quart de siècle ou plus (cf. graphique I).
+Pour la France, deux vagues de croissance du PIB par habitant apparaissent. Tout d’abord, sur la première partie de l’entre deux guerres, après la longue période de croissance faible précédant la Première Guerre mondiale et le léger creux associé à cette guerre, la reconstruction a donné lieu dans les années 1920 à une première vague de croissance culminant à 2,5 %. Ensuite, après le creux très marqué associé à la crise de 1929 et à la Seconde Guerre mondiale, la période dite des « Trente glorieuses », combinant une nouvelle phase de reconstruction et une phase de rattra‑ page technologique des États‑Unis, correspond à une deuxième vague de croissance, de forte amplitude (pic à plus de 5 %) et particulièrement longue. Cette vague ralentit progressivement dès le début des années 1950, puis ce ralentissement s’intensifie sur la période des deux chocs pétro‑ liers durant la décennie 1970 et à nouveau sur la décennie 1990, la croissance du PIB par habitant retrouvant son faible niveau d’avant la Première Guerre mondiale (entre 1 % et 1,5 % dans les toutes dernières années du XXe siècle) et deve‑ nant quasiment nulle en fin de période.
+
+Ce profil est très proche de celui de la zone euro, avec deux vagues de croissance du PIB par habitant après les deux guerres mondiales et un ralentissement par palier depuis le pic de la fin des années 1950. Les deux vagues y sont néanmoins légèrement plus tardives qu’en France, la reconstruction ayant été plus progressive chez les vaincus des deux guerres mondiales4. Le rebond s’observe ainsi dès 1945 en France, « année zéro » pour l’Alle‑ magne qui doit attendre 1947 pour repartir5. Le rythme de croissance du PIB par habitant a été légèrement plus faible en France que dans la zone euro  pendant les années 1980 et 1990, ce qui peut être attribué à la poursuite du rat‑ trapage dans les pays moins avancés de cette zone (Italie et Espagne) et à une moindre par‑ ticipation de la main‑d’œuvre en France, liée à la montée du chômage, mais également aux politiques de l’emploi qui réduisent l’offre de travail (cf. infra).
+4.  Ce décalage peut être observé à partir des séries de producti‑ vités dont la construction est présentée dans l’encadré 1. 5.  Ces dates sont obtenues à partir des séries de productivité et non de leur lissage.
+
+Graphique I Taux de croissance annuel du PIB par habitant lissé
+En % 9,0 8,0 7,0 6,0 5,0 4,0 3,0 2,0 1,0 0,0 - 1,01891 1896 1901 1906 1911 1916 1921 1926 1931 1936 1941 1946 1951 1956 1961 1966 1971 1976 1981 1986 1991 1996 2001 2006 2011 - 2,0
+
+France
+
+Zone euro
+
+États-Unis
+
+Japon
+
+Royaume Uni
+
+Lecture : ce graphique présente, pour la France, la Zone euro, les États‑Unis, le Japon et le Royaume‑Uni le taux de croissance du ratio PIB par habitant filtré selon la méthode Hodrick‑Prescott (λ = 500) afin de capter les cycles d’¼ de siècle ou plus. En 1952, au pic de sa croissance, le PIB par habitant filtré augmentait en France de 5,1 %. Source : voir encadré 1 et calculs des auteurs.
+
+10
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+Le profil français et européen est très différent de celui, beaucoup moins heurté, des États‑Unis. Après une phase de ralentissement depuis le début du siècle, la croissance du PIB par habitant connait aux États‑Unis une grande vague (« one big wave », Gordon, 1999) sur les deux décennies 1930 et 1940 correspondant à la fin de la Grande dépression, à un ensemble d’innovations ayant permis une forte accélération de la productivité et au choc de demande6 qu’a entraîné la Seconde Guerre mondiale. Le choc technologique de la vague d’innovation a donc touché les États‑Unis (Gordon, 1999), leader technologique, une ou deux décennies avant la France, et la Seconde Guerre mondiale a eu un effet stimulant sur l’éco‑ nomie américaine, qui a pu enfin combler l’écart de production entre une capacité d’offre renforcée par les innovations et une demande affectée par la Grande Dépression (Fields, 2012). Après ces deux décennies, la croissance du PIB par habitant a été à peu près stabilisée jusqu’aux années 2000 où elle baisse fortement jusqu’à devenir presque nulle sur les années récentes, comme en France et dans la zone euro. L’avance des États‑Unis pour bénéficier des vagues technologiques, celle de la seconde révolution industrielle au début du XXe siècle, correspondant en particulier à la diffusion de l’usage de l’électricité, du moteur à explosion et de l’industrie chimique, et celle associée aux Technologies de l’Information et de la Communication (TIC) à la fin du XXe siècle, est généralement expliquée par des facteurs insti‑ tutionnels (voir par exemple Ferguson et Washer, 2004). Ces facteurs institutionnels correspondent par exemple à une plus grande opérationnalité du système financier, à la diminution des barrières à l’entrée ou plus généralement à la concurrence sur le marché des biens, à une plus forte flexibi‑ lité du marché du travail et un plus haut niveau d’éducation de la population en âge de travail‑ ler (pour une synthèse, se reporter à Crafts et O’Rourke, 2013, ou à Bergeaud et al. 2014).
+Le profil de croissance du produit par habitant au Japon est plus proche de celui de la France. Après le creux lié aux destructions et à la désor‑ ganisation de la production pendant la Seconde Guerre mondiale, la période 1945‑1974 y a donné lieu à un rattrapage de grande ampleur (pic de croissance à près de 8 %) et particuliè‑ rement long, à partir d’un niveau très bas au sortir de la guerre (47 % du niveau français). Le ralentissement a ensuite été très rapide dans les années 1980 et 1990 avec la crise financière qu’a connue le pays. Avec les mesures pour sor‑ tir l’économie de la déflation, le ralentissement est cependant plutôt moins prononcé qu’ailleurs dans les années 2000.
+
+Le Royaume‑Uni a connu une évolution très dif‑ férente de celle de la France : la Première Guerre mondiale y a été suivie d’un creux marqué et prolongé. La première vague de croissance du PIB par habitant n’apparaît que dans les années 1930 et pendant la Seconde Guerre mondiale, en fort contraste avec la France. La vague de croissance qui a suivi a été beaucoup plus tar‑ dive qu’en France, dans les années 1960 et de moindre amplitude. Enfin, le Royaume‑Uni a connu une accélération de sa production par tête dans les années 1990, en partie liée aux réformes des années 1980 (Card et Freeman, 2002), avant un ralentissement très marqué avec la crise financière de 2008. Ces évolutions doivent être mises en perspective avec le niveau élevé de PIB par habitant britannique en début de période : en 1890, il représentait 1,5 fois celui de la France. Partant d’un niveau plus élevé, le processus de convergence avec les États‑Unis après la Seconde Guerre mondiale a donc été nécessairement plus lent et de moindre ampli‑ tude. Par ailleurs, alors que les guerres et leurs destructions ont profondément désorganisé le processus de production en France et au Japon, elles ont constitué un choc de demande qui a stimulé l’activité au Royaume‑Uni comme aux États‑Unis. Les périodes de reconstruction, au contraire, ont été plus marquées en France qu’au Royaume‑Uni.6
+1890‑2012 : une forte croissance du PIB par habitant principalement imputable à la PGF et, dans une moindre mesure, à l’intensité capitalistique
+Ces différents profils du produit par tête peuvent être analysés à l’aide d’une décomposition comptable des évolutions du PIB par habitant entre la progression de la productivité globale des facteurs (PGF, mesurée par rapport au facteur travail et au stock de capital en équipements et bâtiments), de l’intensité capitalistique (volume de capital productif fixe par heure de travail), de la part de la population totale en emploi et des heures travaillées par employé (cf. encadré 2, section B, pour le détail de cette décomposition comptable). Le résultat de cette décomposition est présenté dans les graphiques II.
+Un socle commun à la croissance du PIB par habitant sur la période apparaît au travers de ces différents graphiques : la contribution la plus importante à son décuplement entre 1890
+6.  Voir par exemple Barro et Ursua (2008).
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+11
+
+Encadré 2
+
+DÉCOMPOSITION COMPTABLE DU NIVEAU ET DE L’ÉVOLUTION DU PIB PAR HABITANT
+
+Les décompositions comptables présentées dans l’article concernent le niveau et les évolutions du PIB par habitant. Dans ce cadre, les interactions entre les différentes composantes ne sont pas explicitement prises en compte alors qu’elles peuvent être impor‑ tantes dans la réalité. Par exemple, du fait de leurs ren‑ dements décroissants, les heures travaillées et le taux d’emploi influencent la productivité horaire du travail (Bourlès et Cette, 2005 et 2007). De même, la durée des études impacte simultanément le taux de partici‑ pation et la productivité.
+
+A ‑ Décomposition comptable du niveau du PIB par habitant
+Le PIB par habitant peut être comptablement décom‑ posé en :
+
+Y N
+
+=
+
+Kα
+
+Y ( L.H )1−α
+
+.
+
+K L.H
+
+α 
+
+.H. L N
+
+(1)
+
+avec Y le volume du PIB, N le nombre d’habitants, L le nombre de travailleurs, H le nombre moyen d’heures travaillées par an et par employé et K le volume du capital productif fixe. Cette décomposition repose sur l’hypothèse d’une fonction de production de Cobb‑Douglas, qui suppose une valeur unitaire de l’élasticité de substitution capital‑travail. Le coef‑ ficient de pondération α correspond usuellement à la part de la rémunération du capital dans le PIB. Il est ici par hypothèse supposé égal à 30 % (α = 0,3) pour tous les pays et sur l’ensemble de la période. Les enseignements de l’analyse ne sont que marginale‑ ment modifiés pour des valeurs de 25 % ou de 35 % de ce coefficient.
+La relation (1) peut aussi s’écrire :
+
+Y = PGF.IKα .H. L
+
+(2)
+
+N
+
+N
+
+B ‑ Décomposition comptable du taux de croissance du PIB par habitant
+À partir de ces décompositions comptables du niveau du PIB par habitant, il est possible de décomposer comptablement les évolutions du PIB par habitant, en différenciant les relations précédentes log‑linéarisées :
+
+∆
+
+ 
+
+y n
+
+ 
+
+=
+
+∆
+
+(tfp)
+
++
+
+α∆
+
+(
+
+ik
+
+)
+
++
+
+∆
+
+(h)
+
++
+
+∆
+
+ 
+
+l n
+
+ 
+
+=
+
+∆
+
+(
+
+tfp)
+
++
+
+α∆
+
+(
+
+ik
+
+)
+
++
+
+∆
+
+(
+
+h)
+
++
+
+∆
+
+ 
+
+l n15−64
+
+ 
+
++∆
+
+ 
+
+n15−64 n
+
+ 
+
+où x correspond au logarithme de la variable X et où ∆x est une approximation usuelle du taux de croissance de X. C’est cette décomposition comptable du taux de croissance du PIB par habitant qui est utilisée dans les graphiques II.
+
+C ‑ Décomposition comptable des écarts relatifs du PIB par habitant vis‑à‑vis des États‑Unis
+
+Nous définissons l’opérateur ∆US ( X ) comme l’écart
+relatif pour la variable X entre le pays i et les États‑Unis
+(US), soit :
+
+∆US
+
+(X
+
+)
+
+=
+
+Xi X US
+
+−1
+
+Si la variable X est elle‑même le produit de plusieurs variables, nous avons alors :
+-- si X est le produit de deux variables A et B (X = A.B) :
+
+∆US ( X ) = ∆US ( A) + ∆US (B) + ∆US ( A) ∆US (B) ;
+
+-- si X est le produit de trois variables A, B et C  (X = A.B.C) :
+
+Avec
+
+PGF
+
+=Y
+
+/
+
+Kα
+
+.(
+
+L.H
+
+)1−α
+
+ 
+
+la
+
+productivité
+
+globale
+
+des facteurs et IK = K / (L.H) l’intensité capitalistique.
+
+L / N correspond à la part de l’emploi dans la popula‑
+
+tion totale.
+
+Il est encore possible de décomposer le dernier terme L / N de la relation (2) :
+
+L N
+
+=
+
+L N15−64
+
+. N15−64 N
+
+Où L / N15−64 représente le taux d’emploi de la popu‑ lation en âge de travailler (ici la population âgée de 15 à 64 ans) et N15−64 / N la part de la population en âge de travailler dans la population totale. Ces deux der‑ niers termes n’apparaissent que dans le graphique V, dans les autres cas, ils sont agrégés en L / N.
+
+∆US ( X ) = ∆US ( A) + ∆US (B) + ∆US (C) +∆US ( A).∆US (B) + ∆US ( A).∆US (C) +∆US (B).∆US (C) +∆US ( A).∆US (B).∆US (C)
+Le même principe s’applique si X est le produit d’un plus grand nombre de variables, comme c’est le cas pour le PIB par habitant dans les décompositions pro‑ posées par les relations précédentes.
+À chaque fois, l’écart relatif (par rapport aux États‑Unis) de la variable X considérée se décompose en la somme des écarts relatifs de chacune des composantes de la variable X, et une partie corrective d’ordre deux et plus (notée CORR) composée de la somme des pro‑ duits des termes relatifs. Lorsque les valeurs de la variable X sont proches pour le pays i considéré et les
+➔
+
+12
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+et 20127 a été apportée par la productivité glo‑ bale des facteurs et l’intensité capitalistique (respectivement 1,6 % et 0,6 % par an pour les États‑Unis, 1,7 % et 0,8 % pour la zone euro et 1,6 % et 1,5 % pour le Japon), tandis que les heures travaillées ont eu une contribution
+
+négative et la part de 7l’emploi dans la population une contribution tantôt positive, tantôt négative
+7. Entre 1890 et 2012, le niveau de vie moyen a été multiplié par 9 en France, 11 aux États‑Unis, 6 au Royaume‑Uni et 23 au Japon.
+
+Encadré 2 (suite)
+
+États‑Unis, alors ce terme d’erreur CORR est faible et il est souvent négligé. L’écart relatif de la variable X est alors approximé par la somme des écarts relatifs des différentes composantes de X. Cependant, dans notre cas, cette approximation est parfois trop forte compte tenu des différences entre les valeurs des différentes composantes de X avec les États‑Unis.
+Ainsi, la décomposition des écarts relatifs du PIB par habitant par rapport aux États‑Unis correspond, à par‑ tir de la relation (2), à la relation suivante :
+
+( ) ∆US
+
+ 
+
+Y N
+
+ 
+
+=
+
+∆US
+
+(
+
+PGF
+
+)
+
++
+
+∆US
+
+IKα
+
++
+
+∆US
+
+(
+
+H
+
+)
+
++
+
+∆US
+
+ 
+
+L N
+
+ 
+
++CORR
+
+(4)
+
+où CORR représente le terme d’erreur défini à l’ins‑ tant. C’est cette décomposition comptable des écarts relatifs vis‑à‑vis des États‑Unis qui est utilisée dans les graphiques III.
+D ‑ Décomposition comptable des évolutions des écarts relatifs du PIB par habitant vis‑à‑vis des États‑Unis
+Pour décomposer en évolutions les écarts de varia‑ tion sur une période du PIB par habitant entre un pays donné et les États‑Unis, nous faisons simplement la différence, pour chaque composante de la relation (4), entre la valeur du pays et celle des États‑Unis. De cette façon, il n’y a pas de raison d’introduire un terme d’erreur. C’est cette méthode qui est utilisée dans les graphiques IV.
+
+Graphiques II Décomposition par sous‑périodes des facteurs d’évolution du PIB par habitant
+
+En points de pourcentage 3,5
+
+1890-2012
+
+3,0
+
+2,5
+
+2,0
+
+1,5
+
+1,0
+
+0,5
+
+0,0
+
+- 0,5
+
+- 1,0 États-UnisZone Euro
+
+JapRonoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique
+
+PGF
+
+Heures Travaillées Taux d’emploi
+
+PIB par habitant ➔
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+13
+
+Graphiques II (suite)
+
+En points de pourcentage 3,5
+
+1890-1913
+
+3,0
+
+2,5 2,0
+
+1,5
+
+1,0
+
+0,5
+
+0,0
+
+- 0,5
+
+- 1,0 États-UnisZone Euro
+
+JapRonoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi PIB par habitant
+
+En points de pourcentage
+
+3,5
+
+1913-1950
+
+3,0
+
+2,5
+
+2,0
+
+1,5
+
+1,0
+
+0,5
+
+0,0
+
+- 0,5
+
+- 1,0
+
+- 1,5 États-UnisZone Euro
+
+JapRonoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique
+
+PGF
+
+Heures Travaillées
+
+Taux d’emploi
+
+PIB par habitant ➔
+
+14
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+Graphiques II (suite)
+
+En points de pourcentage 8
+
+1950-1974
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2 États-Unis Zone Euro
+
+JapRonoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande Canada Australie Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi PIB par habitant
+
+En points de pourcentage 5
+
+1974-1995
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2 États-Unis Zone Euro
+
+JapRonoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi PIB par habitant ➔
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+15
+
+selon les pays. Il faut néanmoins nuancer la contribution très importante de la PGF : elle inclut ici des éléments qui pourraient être rat‑ tachés au facteur travail, comme la progression du niveau d’éducation, ou au facteur capital, comme certains éléments immatériels, non comptabilisés dans le stock de capital équipe‑ ment et bâtiment. Intensité capitalistique et PGF peuvent par ailleurs être étroitement imbriquées, à la fois pour des raisons économiques (dans la mesure où certaines innovations ne peuvent être introduites que par le biais de nouveaux inves‑ tissements) et pour des raisons de mesure statis‑ tique, les difficultés de l’évaluation du capital, par exemple de la prise en compte des effets qualités, se reportant dans la PGF (Cette et al., 2000). La contribution négative des heures tra‑ vaillées sur l’ensemble de la période pèse sur l’évolution du PIB par habitant mais peut être le résultat d’un arbitrage entre travail et loisir : si la réduction du temps de travail abaisse la production par habitant toutes choses égales par
+
+ailleurs, elle peut aussi être associée à une élé‑ vation du bien‑être (cf. infra).
+1890‑1913 : la PGF assure l’essentiel de la croissance
+L’ensemble de la période 1890‑1913 a été caractérisée par une croissance du PIB par habitant de 1,5 % à 2 % en moyenne par an dans la plupart des pays. En tant que lea‑ der technologique en début de période, le Royaume‑Uni a connu une croissance infé‑ rieure. Sur cette période, la PGF assure l’es‑ sentiel de la croissance avec, dans une moindre mesure, la progression de l’intensité capitalis‑ tique. Au Canada et au Japon, c’est l’intensité capitalistique qui contribue le plus à la crois‑ sance, ce qui reflète un rattrapage des niveaux d’équipement des autres pays. La contribution des heures travaillées est partout légèrement négative. La part de la population en emploi
+
+Graphiques II (suite) En points de pourcentage 3,0
+
+1995-2012
+
+2,5
+
+2,0
+
+1,5
+
+1,0
+
+0,5
+
+0,0
+
+- 0,5
+
+- 1,0 États-Unis Zone Euro
+
+JapRonoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande Canada Australie Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi PIB par habitant
+Lecture : le principe de la décomposition des facteurs d’évolutions du PIB par habitant est explicité à la section B de l’encadré 2 et correspond à la mise en œuvre de la relation (4). Sur la période 1995‑2012, la croissance du PIB par habitant est en France de 1,0 % en moyenne par an, qui se décompose en une contribution positive de l’intensité capitalistique de 0,6 point, de la PGF de 0,8 point et de la part de la population en emploi de 0,1 point, tandis que l’évolution des heures travaillées par employé a contribué négativement à hauteur de 0,5 point. Source : voir encadré 1 et calculs des auteurs.
+
+16
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+apporte une contribution généralement limitée à la progression de la production par habitant, qu’elle soit positive ou négative, sauf dans les pays d’immigration comme les États‑Unis ou le Canada où sa contribution est positive et assez importante.
+1913‑1950 : un fort ralentissement surtout induit par la baisse des heures travaillées et par des chocs de grande ampleur
+La période 1913‑1950 connaît des chocs d’am‑ pleur considérable, avec des conséquences sur le PIB par habitant parfois opposées selon les pays : deux guerres mondiales, un choc tech‑ nologique aux États‑Unis avec la diffusion d’innovations liées à la seconde révolution industrielle, et la Grande dépression. La pro‑ duction par tête a ralenti par rapport à la période précédente dans les pays touchés sur leur sol par la guerre, soit la plupart des pays européens et le Japon. Elle a été stable aux États‑Unis et au Royaume‑Uni. Pour la France, l’ensemble des composantes du PIB par tête contribuent à son ralentissement entre les deux périodes, mais l’accélération de la baisse des heures travaillées apparaît comme le premier facteur de ralentisse‑ ment, en lien avec des avancées sociales comme l’introduction des congés payés (généralisés à l’ensemble de l’économie en juin 1936) ou de la semaine de 40 heures ainsi qu’avec le chômage partiel lié à la Grande dépression. Cette baisse a été similaire à celle observée aux États‑Unis, où la progression a néanmoins été particulière‑ ment forte grâce à la vague de productivité des années 1930 et 1940, comme le montre la forte contribution de la PGF – près de 2,5 points par an – durant cette période (Fields, 2012, Gordon, 1999 et Bergeaud et al., 2014). Cette progres‑ sion a été particulièrement faible en Espagne, touchée par la guerre civile, et en Allemagne, touchée par une forte baisse du taux d’emploi.
+1950‑1974 : le rattrapage des États‑Unis par les pays européens repose essentiellement sur la PGF
+La période 1950‑1974, celle des « Trente Glorieuses », se caractérise par une progression exceptionnelle : beaucoup de pays connaissent des taux de croissance moyens du PIB par habi‑ tant de plus de 3 % par an et le Japon atteint 7 % par an. La progression est beaucoup plus modeste aux États‑Unis, au Royaume‑Uni, au Canada et en Australie, entre 2 % et 3 %. Les États‑Unis ont connu leur grande vague de
+
+productivité sur la période précédente et béné‑ ficient déjà d’un niveau élevé de PIB par habi‑ tant. Les trois autres pays avaient également en 1950 un niveau de production par habitant plus élevé que leurs voisins. Dans tous les pays, hors États‑Unis, le principal facteur d’accéléra‑ tion est la PGF. Ensuite vient l’augmentation de l’intensité capitalistique. L’évolution des heures travaillées a partout un impact négatif sur la progression du PIB par habitant, qui peut résul‑ ter d’un arbitrage en faveur du loisir. La contri‑ bution de la part de la population en emploi est positive en Allemagne et au Japon, mais néga‑ tive en France et en Italie.
+1974‑1995 : baisse de la contribution de la PGF et moindre contribution de la population en âge de travailler
+La période 1974‑1995 s’amorce par le pre‑ mier choc pétrolier et traduit l’épuisement de la dynamique de convergence et de la précé‑ dente vague technologique. La production par habitant ralentit sensiblement et revient dans une fourchette de 1,5 % à 2 %. Certains pays ont une croissance plus élevée du PIB par tête : l’Espagne et le Japon, dont le rattrapage n’était pas achevé, la Norvège, qui bénéficie de l’exploitation de ses ressources pétrolières. La Suède a connu une progression plus faible en raison de la crise financière qui l’a touchée au début des années 1990. Ce ralentissement géné‑ ralisé se traduit principalement par une forte baisse de la contribution de la PGF, puis de l’in‑ tensité capitalistique dans certains pays, tandis que la contribution des heures travaillées et de la population en emploi est faible dans la plupart des pays. La production par tête a progressé en France de 1,8 % sur la période, principalement soutenue par l’intensité capitalistique, tandis que la PGF a apporté une contribution posi‑ tive mais en forte diminution par rapport à la sous‑période antérieure. Les heures travaillées et la population en emploi ont contribué négati‑ vement, plus encore qu’à la période précédente pour les heures. Sur cette période, on observe donc en France une substitution capital‑travail qui peut être reliée aux évolutions des coûts relatifs de ces facteurs et aux politiques rédui‑ sant l’offre de travail (préretraite, dispense de recherche d’emploi…) et les heures travaillées (cinquième semaine de congés payés, réduction à 39 heures de la semaine de travail, subven‑ tionnement du temps partiel, notamment par le biais des allègements de charges…). Dans les autres pays, on observe une contribution par‑ ticulièrement faible de la PGF et de l’intensité capitalistique aux États‑Unis, en Australie, au
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+17
+
+Canada et en Suède, liée à une phase de ralen‑ tissement technologique, mais également dans plusieurs de ces pays à des crises structurelles (bulle immobilière et crise bancaire et financière en Suède en particulier). Les heures travaillées contribuent partout négativement. La popula‑ tion en emploi apporte une contribution posi‑ tive aux États‑Unis, au Canada et en Norvège et négative en Finlande, en Espagne et en France.
+1995‑2012 : l’intensité capitalistique ralentit dans la plupart des pays
+Le ralentissement se poursuit sur la période 1995‑2012, sauf dans les pays ayant lancé de vastes programmes de réformes structurelles (Australie, Suède, Finlande, Canada). Ces pro‑ grammes de réformes ont consisté en une réduc‑ tion du déficit public et un assainissement de la fiscalité afin de réduire considérablement le ratio dette sur PIB et le taux de chômage, et en la mise en œuvre de réformes sur les marchés des biens et du travail8. Le ralentissement est limité dans les pays qui ont le plus bénéficié de la révolu‑ tion des TIC, États‑Unis et Royaume‑Uni (pour une synthèse, cf. Cette, 2014), et très marqué au contraire dans les pays de la zone euro. Le taux de croissance annuel du PIB par habitant est ainsi compris en moyenne entre 1 % et 1,5 % pour la plupart des pays sur la période ; il est plus élevé en Australie, Suède, Finlande et au Royaume‑Uni et plus faible en Italie et au Japon. L’intensité capitalistique explique une part du ralentissement dans la plupart des pays, tandis que la contribution de la population en emploi et des heures travaillées a été plus élevée (moins négative dans le cas des heures travaillées). Ces évolutions peuvent être reliées aux politiques de l’emploi qui se sont tournées dans de nom‑ breux pays vers une meilleure participation de la main‑d’œuvre, en rupture avec les politiques d’incitation aux retraits du marché du travail de la sous‑période précédente. Les États‑Unis sont le seul pays où la contribution de l’intensité capitalistique augmente par rapport à la période précédente, ce qui s’explique en grande partie par des investissements en TIC (voir notam‑ ment Jorgenson, 2001). Les évolutions de la PGF sont particulièrement contrastées : alors qu’elle accélère aux États‑Unis sous l’effet des TIC, en Australie, au Canada et en Suède sous l’effet des réformes structurelles, elle ralentit partout ailleurs. Ce ralentissement s’observe au Japon dans un contexte de déflation et de mau‑ vaise allocation des ressources (voir notamment Caballero et al., 2008, sur les prêts aux entre‑ prises « zombies ») et, en Europe, sous l’effet de la fin du rattrapage technologique avec les
+
+États‑Unis. La diffusion des TIC a été beaucoup plus faible en Europe qu’aux États‑Unis, l’ana‑ lyse de Cette et Lopez (2012) attribuant cet écart aux rigidités structurelles plus importantes sur les marchés des biens et du travail et à un niveau d’éducation moyen plus faible en moyenne pour l’ensemble de la population en âge de travailler. La France connaît ainsi un fort ralentissement de son PIB par habitant, à 1 % par an, lié à un très net ralentissement de la PGF et de l’inten‑ sité capitalistique, tandis que la contribution de la participation à l’emploi est devenue positive et celle des heures travaillées moins négative. 8
+Convergence et écarts des niveaux de PIB par habitant
+L a question de la convergence des niveaux de PIB par habitant a, nous l’avons dit, fait l’objet d’une littérature abondante, dont il ressort qu’elle n’a rien d’automatique. On commence ici par aborder la question des écarts des niveaux de PIB par habitant des différents pays qui font l’objet de la présente analyse, et des principaux facteurs qui y contribuent comptablement, en prenant les États‑Unis pour pays de référence. Ces écarts sont examinés aux six dates charnières de l’analyse : 1890, 1913, 1950, 1974, 1995 et 2012. Les États‑Unis sont retenus comme réfé‑ rence car, mis à part le cas très particulier de la Norvège, c’est le pays qui bénéficie du niveau le plus élevé de PIB par habitant depuis la Seconde Guerre mondiale. On poursuit ensuite par une analyse des facteurs d’évolution de ces écarts de PIB par habitant par rapport aux États‑Unis, ce qui amène naturellement à porter une attention toute particulière à la question de la participation de la force de travail sur la période récente.
+Les facteurs des écarts en niveau avec les États‑Unis, en général en défaveur des autres pays, ont considérablement varié en 100 ans
+Les graphiques III fournissent pour les dif‑ férents pays une décomposition comptable des écarts de PIB par habitant par rapport aux États‑Unis. Le principe de cette décomposition est détaillé dans l’encadré 2 (section C).
+8. Pour une analyse plus précise des réformes opérées en Suède, au Canada et en Australie, voir le chapitre 4 de Aghion et al., 2014.
+
+18
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+Graphiques III Décomposition de l’écart de PIB par habitant par rapport aux États‑Unis
+
+En points de pourcentage – ppa $2005 100
+
+1890
+
+50
+
+0
+
+- 50
+
+- 100
+
+- 150 Zone Euro
+
+JaponRoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi Correction PIB par habitant
+
+En points de pourcentage – ppa $2005
+
+80 60 40 20
+0 - 20 - 40 - 60 - 80 - 100 - 120
+Zone Euro
+
+JapoRnoyaume Uni Allemagne
+
+France
+
+1913
+
+Italie Espagne Pays Bas
+
+Finlande
+
+Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi Correction PIB par habitant
+
+➔
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+19
+
+Graphiques III (suite) En points de pourcentage – ppa $2005
+40
+
+1950
+
+20 0
+
+- 20
+
+- 40
+
+- 60 - 80
+
+- 100
+
+- 120
+
+- 140 Zone Euro
+
+JapoRnoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas
+
+Finlande
+
+Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi Correction PIB par habitant
+
+En points de pourcentage – ppa $2005 40
+
+1974
+
+20
+
+0
+
+- 20
+
+- 40
+
+- 60
+
+- 80 Zone Euro
+
+JapoRnoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas
+
+Finlande
+
+Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi Correction PIB par habitant
+
+➔
+
+20
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+Graphiques III (suite) En points de pourcentage – ppa $2005
+
+50 40 30 20 10
+0 - 10 - 20 - 30 - 40 - 50 - 60
+Zone Euro
+
+JapoRnoyaume Uni Allemagne
+
+France
+
+1995
+
+Italie Espagne Pays Bas Finlande
+
+Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi Correction PIB par habitant
+
+En points de pourcentage – ppa $2005
+
+50 40 30 20 10
+0 - 10 - 20 - 30 - 40 - 50 - 60
+Zone Euro
+
+JapoRnoyaume Uni Allemagne
+
+France
+
+2012
+
+Italie Espagne Pays Bas
+
+Finlande
+
+Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi Correction PIB par habitant
+Lecture : le principe de cette décomposition des facteurs d’écart du PIB par habitant par rapport aux États‑Unis est explicité à la section C de l’encadré 2 et correspond à la relation (5). En 1890, le PIB par habitant est en France inférieur de 12 points au niveau de PIB par habitant des États‑Unis. Cet écart se décompose en une contribution de ‑ 8 points de l’intensité capitalistique, de ‑ 33 points de la PGF, de + 1 point de la part de l’emploi dans la popula‑ tion totale et de + 29 points de la durée moyenne du travail. En raison du terme de correction, la somme des contributions ne correspond pas à l’écart de PIB par habitant (cf. encadré 2). Source : voir encadré 1 et calculs des auteurs.
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+21
+
+Jusqu’en 1913, trois pays ont un PIB par habitant supérieur à celui des États‑Unis
+En 1890, trois pays bénéficient d’un niveau de PIB par habitant supérieur à celui des États‑Unis : les Pays‑Bas (supérieur d’un tiers), le Royaume‑Uni (+ 35 %) et l’Australie (+ 63 %). Ces écarts s’expliquent par un taux d’emploi de la population totale plus élevé et surtout, pour le Royaume‑Uni et l’Australie, par un niveau nettement plus élevé de la PGF, la durée du travail apportant au contraire une contribution légèrement négative dans ces deux derniers pays. Ce niveau de PGF plus élevé est au moins en partie lié à la composition sectorielle de ces économies : selon Broadberry (1997) et Broadberry et Irwin (2006), le secteur manufac‑ turier aux États‑Unis bénéficiait dès le milieu du XIXe siècle d’une nette avance par rapport au Royaume‑Uni ; en revanche, la composition sectorielle était plus favorable au Royaume‑Uni (part de l’agriculture plus faible), cet effet étant renforcé par un niveau de productivité plus faible aux États‑Unis dans l’agriculture et les services ; pour l’Australie, la concentration de l’activité sur des ressources naturelles facile‑ ment exploitables et un taux d’emploi élevé lié à une forte immigration expliquent cette per‑ formance (McLean, 2007). Dans tous les autres pays, le PIB par habitant est inférieur au niveau des États‑Unis, l’écart allant de 9 points pour l’Allemagne à 64 points pour le Japon. Ces écarts défavorables s’expliquent par des contri‑ butions relatives négatives de l’intensité capita‑ listique, de la PGF (à l’exception du Canada) et, plus faiblement, de la durée moyenne du travail.
+Ces contributions défavorables dont l’ampleur varie d’un pays à l’autre sont faiblement contre‑ balancées par une contribution positive du taux d’emploi de la population totale (toujours à l’exception du Canada). La France connait une situation assez comparable à celle de l’Alle‑ magne ou de l’ensemble de la zone euro, l’écart de PIB par habitant vis‑à‑vis des États‑Unis étant de ‑ 12 points et se décomposant en des contributions de ‑ 8 points de l’intensité capi‑ talistique, de ‑ 28 points de la PGF, de 1 point des heures travaillées et de 33 points du taux d’emploi de l’ensemble de la population9 10.
+Juste avant la Première Guerre mondiale, en 1913, les Pays‑Bas, le Royaume‑Uni et l’Aus‑ tralie bénéficient toujours d’un niveau de PIB par habitant supérieur à celui des États‑Unis, mais l’écart est beaucoup plus faible, puisqu’il s’élève à respectivement 4 %, 6 % et 19 %. Les facteurs d’écarts favorables et défavorables demeurent, pour ces trois pays, les mêmes qu’en
+
+1890. Le Canada a rattrapé le niveau de PIB par habitant des États‑Unis, la contribution positive de la PGF y étant contrebalancée par la contri‑ bution négative du taux d’emploi. Dans tous les autres pays, le PIB par habitant est inférieur à celui des États‑Unis, l’écart allant de 12 points pour l’Allemagne à 69 points pour le Japon. Ces écarts défavorables s’expliquent par les mêmes facteurs qu’en 1890. La France connait encore une situation assez comparable à celle de l’Alle‑ magne ou de l’ensemble de la zone euro, l’écart de PIB par habitant vis‑à‑vis des États‑Unis étant de ‑ 17 points et se décomposant en des contributions de ‑ 13 points de l’intensité capi‑ talistique, de ‑ 23 points de la PGF, de 1 point des heures travaillées et de 23 points du taux d’emploi de l’ensemble de la population.
+En 1950 et en 1974, l’écart partout négatif par rapport aux États‑Unis s’explique par un déficit de l’intensité capitalistique et de la PGF non compensé par la durée de travail et le taux d’emploi
+Quelques années après la Seconde Guerre mon‑ diale, en 1950, le PIB par habitant est devenu inférieur à celui des États‑Unis dans l’ensemble des pays, l’écart allant de 21 points pour l’Aus‑ tralie à 80 points pour le Japon, pays fortement affecté par la guerre. L’écart s’explique partout par une contribution négative de l’intensité capitalistique et de la PGF, faiblement contre‑ balancée par une contribution positive du taux d’emploi (à l’exception de l’Allemagne et du Canada) et de la durée du travail (à l’exception de la Suède). En France, le PIB par habitant est inférieur de 47 points au niveau observé aux États‑Unis, cet écart se décomposant en des contributions défavorables de ‑ 16 points de l’intensité capitalistique et de ‑ 50 points de la PGF, et favorables de 4 points des heures tra‑ vaillées et de 20 points du taux d’emploi de l’ensemble de la population.190
+Au moment du premier choc pétrolier, en 1974, le PIB par habitant est toujours inférieur à celui des États‑Unis dans tous les pays, mais l’écart est moins important qu’en 1950 et va de 7 points pour les Pays‑Bas à 43 points pour l’Espagne. Les facteurs expliquant comptable‑ ment ces écarts sont qualitativement les mêmes
+9.  En raison du terme de correction, les contributions n’ont pas pour somme l’écart de PIB par habitant (cf. encadré 2). 10.  Cette faiblesse du taux d’emploi aux États-Unis peut s’expli‑ quer par la part importante que représentent les jeunes dans la population totale, notamment en comparaison avec la France. Mitchell (1998a, 1998b) signale ainsi qu'en 1910, la part de la population de moins de 19 ans était de 41,9 % aux États-Unis contre 33,5 % en France.
+
+22
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+qu’en 1950, mais avec une importance amoin‑ drie. En France, le PIB par habitant est inférieur de 17 points au niveau observé aux États‑Unis, cet écart se décomposant en des contributions défavorables de ‑ 5 points de l’intensité capita‑ listique et de ‑ 15 points de la PGF, et favorables de 2 points du taux d’emploi de l’ensemble de la population, la contribution de la durée moyenne du travail étant négligeable.
+En 1995 et en 2012, les contributions négatives de la PGF et du travail insuffisamment compensées par la contribution positive de l’intensité capitalistique conduisent partout à un écart négatif, sauf en Norvège
+En 1995, au moment de nouvelles inflexions de la productivité, le PIB par habitant est infé‑ rieur dans tous les pays, à l’exception de la Norvège, à celui des États‑Unis, l’écart étant assez comparable à celui observé en 1974 et s’étendant de 13 points pour les Pays‑Bas à 36 points pour l’Espagne. Mais les facteurs contribuant à ces écarts défavorables sont, cette fois, très nettement différents de ceux de 1974. Si la contribution de la PGF demeure négative (à l’exception de l’Allemagne où elle est légèrement positive et de la France où elle est nulle), celle de l’intensité capita‑ listique est devenue favorable dans la plupart des pays. De plus, une grande différence avec les contributions de 1974 apparait concernant la participation au travail de la population, les contributions de la durée moyenne du travail et du taux d’emploi de l’ensemble de la popula‑ tion étant maintenant partout négatives (à l’ex‑ ception du Japon). Ce changement radical par rapport à la situation de 1974 sera plus longue‑ ment commenté par la suite. La Norvège est le seul pays où le PIB par habitant est supérieur à celui des États‑Unis, l’écart de 13 points s’expliquant par une contribution positive de 15 points de l’intensité capitalistique et de 20 points de la PGF et une contribution négative de 20 points de la durée moyenne du travail. Comme cela est présenté par Bergeaud et al. (2014), cette situation particulière s’explique par l’importance relative dans ce pays de trois secteurs à forte intensité capitalistique et fort niveau de PGF : l’exploitation pétrolière, le bois et la pêche. En France, le PIB par habitant est inférieur de 21 points au niveau observé aux États‑Unis, cet écart se décomposant en des contributions défavorables de ‑ 18 points du taux d’emploi de l’ensemble de la popu‑ lation et de ‑ 14 points de la durée moyenne du travail, la contribution de l’intensité
+
+capitalistique étant favorable mais faible à 11 points et celle de la PGF étant négligeable.
+En 2012, au terme de la période d’analyse, comme en 1995, le PIB par habitant est toujours inférieur à celui des États‑Unis dans tous les pays, Norvège à nouveau exceptée, les écarts étant encore assez comparables à ceux observés en 1995 et allant de 12 points pour les Pays‑Bas à 36 points pour l’Espagne. Les facteurs de ces écarts sont qualitativement assez semblables à ceux de 1995, avec des intensités qui ont par‑ fois un peu varié. En France, le PIB par habi‑ tant est inférieur de 27 points au niveau observé aux États‑Unis, cet écart se décomposant en des contributions défavorables de ‑ 4 points de la PGF, de ‑ 14 points du taux d’emploi de l’ensemble de la population et de ‑ 18 points de la durée moyenne du travail, la contribution de l’intensité capitalistique étant favorable, mais faible à 8 points.
+Les dynamiques comparées : à une dégradation relative prolongée jusqu’en 1950 succède un rattrapage qui marque le pas depuis 1974
+L’autre façon d’examiner les évolutions rela‑ tives par rapport aux États‑Unis est de s’intéres‑ ser aux écarts de croissance relatifs du PIB par habitant par sous périodes et à leur déterminants. C’est ce qui est fait sur les graphiques IV, qui sont donc complémentaires de la présentation en niveau relatif des graphiques III. Le principe de la décomposition des écarts de croissance est détaillé dans l’encadré 2 (section D).
+1890‑1913 : les contributions négatives de l’intensité capitalistique et du taux d’emploi conduisent presque partout à une dégradation relative de faible ampleur
+De 1890 à 1913, les évolutions du niveau relatif de PIB par habitant par rapport aux États‑Unis ont en moyenne une ampleur assez faible et négative dans la plupart des pays. L’ampleur des différentes contributions à ces évolutions est partout réduite. Il est à souligner que, dans la plupart des pays, les contributions de l’in‑ tensité capitalistique et du taux d’emploi de la population totale sont négatives. La situation française se dégrade en moyenne chaque année de 0,3 point, avec une contribution négative de ‑ 0,3 point de l’intensité capitalistique et de ‑ 0,3 point du taux d’emploi en partie contre‑ balancées par une contribution positive de 0,3 point de la PGF.
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+23
+
+Graphiques IV Décomposition de l’évolution du niveau relatif de PIB par habitant par rapport aux États‑Unis
+
+En points de pourcentage par an 1,20
+
+1890-2012
+
+1,00
+
+0,80
+
+0,60
+
+0,40
+
+0,20
+
+0,00
+
+- 0,20
+
+- 0,40
+
+- 0,60
+
+- 0,80 Zone Euro
+
+JapoRnoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas
+
+Finlande Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi PIB par habitant
+
+En points de pourcentage par an 1,50
+
+1890-1913
+
+1,00
+
+0,50
+
+0,00
+
+- 0,50
+
+- 1,00
+
+- 1,50
+
+- 2,00 Zone Euro
+
+JapoRnoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande
+
+Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi PIB par habitant
+
+➔
+
+24
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+Graphiques IV (suite) En points de pourcentage par an 1,50
+
+1913-1950
+
+1,00
+
+0,50
+
+0,00
+
+- 0,50
+
+- 1,00
+
+- 1,50
+
+- 2,00
+
+- 2,50
+
+- 3,00 Zone Euro
+
+JapoRnoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande
+
+Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi PIB par habitant
+
+En points de pourcentage par an 5,50
+
+1950-1974
+
+4,50
+
+3,50
+
+2,50
+
+1,50
+
+0,50
+
+- 0,50
+
+- 1,50 Zone Euro
+
+JapoRnoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi PIB par habitant
+
+➔
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+25
+
+Graphiques IV (suite) En points de pourcentage par an 4,00
+
+1974-1995
+
+0,00
+
+2,00
+
+1,00
+
+0,00
+
+- 1,00
+
+- 2,00
+
+- 3,00 Zone Euro
+
+JaponRoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi PIB par habitant
+
+En points de pourcentage par an 2,00
+
+1995-2012
+
+1,50
+
+1,00
+
+0,50
+
+0,00
+
+- 0,50
+
+- 1,00
+
+- 1,50
+
+- 2,00 Zone Euro
+
+JaponRoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande Canada Australie
+
+Suède Norvège
+
+Intensité Capitalistique PGF Heures Travaillées Taux d’emploi PIB par habitant
+Lecture : le principe de cette décomposition des facteurs d’écart du PIB par habitant par rapport aux États‑Unis est explicité à la section D de l’encadré 2. De 1890 à 2012, le PIB par habitant décline en France de 0,15 point par an en moyenne par rapport aux États‑Unis. Cette évolution se décompose en une contribution de 0,13 point de l’intensité capitalistique et de ‑ 0,36 point du taux d’emploi de l’ensemble de la popu‑ lation, une contribution de ‑ 0,17 point de la durée moyenne du travail et une contribution de 0,24 point de la PGF. Source : voir encadré 1 et calculs des auteurs.
+
+26
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+1913‑1950 : une dégradation relative générale et marquée liée à la contribution fortement négative de la PGF
+De 1913 à 1950, le PIB par habitant se dégrade vis‑à‑vis des États‑Unis dans la plupart des pays. Il est à souligner que dans tous les pays, les contributions de la PGF sont négatives et que celles de la durée du travail sont au contraire positives. Cette progression relative de la PGF aux États‑Unis vient du fait que ce pays bénéficie bien avant les autres des effets favorables sur la productivité d’innovations issues de la seconde révolution industrielle (Bergeaud et al., 2014). La situation française se dégrade en moyenne chaque année de 1,25 point, avec une contribution négative de ‑ 0,08 point de l’intensité capitalis‑ tique, de ‑ 1,20 point de la PGF et de ‑ 0,07 point du taux d’emploi et une faible contribution posi‑ tive de 0,1 point de la durée moyenne du travail.
+1950‑1974 : un rattrapage en général imputable à l’intensité capitalistique et à la PGF
+De 1950 à 1974, le PIB par habitant s’élève vis‑à‑vis des États‑Unis dans tous les pays, à l’exception du Royaume‑Uni et de l’Australie où il demeure à peu près stabilisé à un niveau relatif initialement élevé. Il est à souligner que, dans tous les pays, les contributions de l’intensité capitalistique et, à l’exception du Royaume‑Uni, du Canada et de l’Australie, celle de la PGF, sont positives. Sauf pour ces trois pays, cette sous‑période est celle du rattrapage du niveau de productivité des États‑Unis par tous les pays qui bénéficient avec retard des effets favorables sur la productivité de la seconde révolution indus‑ trielle (cf. Bergeaud et al., 2014). Ce rattrapage est particulièrement important au Japon dont le décollage s’amorce en début de sous‑période à partir de très bas niveaux de PGF et d’inten‑ sité capitalistique. La situation française s’amé‑ liore en moyenne chaque année de 1,72 point, avec une contribution positive de 0,48 point de l’intensité capitalistique et de 2,12 points de la PGF et une contribution négative de ‑ 0,59 point du taux d’emploi et de ‑ 0,17 point de la durée moyenne du travail.
+1974‑1995 : les contributions positives de l’intensité capitalistique et de la PGF et celles, négatives, du taux d’emploi et de la durée du travail engendrent une quasi‑stabilité
+De 1974 à 1995, les évolutions du PIB par habi‑ tant relativement aux États‑Unis sont au total
+
+d’une ampleur très faible dans tous les pays. Cette stabilité résulte des contributions partout positives de l’intensité capitalistique et souvent de la PGF, et des contributions partout néga‑ tives du taux d’emploi et de la durée du travail. Ces contributions de sens opposé ne sont pas indépendantes : Bourlès et Cette (2005, 2007) ont montré que, compte tenu de rendements décroissants du taux d’emploi et de la durée du travail, une moindre participation au travail de la population peut avoir des effets favo‑ rables sur la productivité horaire. L’orientation de ces pays vers un modèle davantage tourné qu’aux États‑Unis vers les loisirs ou le travail domestique fait ci‑dessous l’objet d’une ana‑ lyse spécifique. La France illustre ces contri‑ butions de sens contradictoire et sa situation relative demeure en moyenne stabilisée, ce qui résulte d’une contribution annuelle positive de 0,71 point de l’intensité capitalistique et de 0,96 point de la PGF et une contribution négative de ‑ 0,99 point du taux d’emploi et de ‑ 0,68 point de la durée moyenne du travail.
+1995‑2012 : des évolutions globalement de faible ampleur car la contribution positive des taux d’emploi compense celles, négatives, de l’intensité capitalistique, de la PGF et de la durée du travail
+De 1995 à 2012, les évolutions du PIB par habi‑ tant relativement aux États‑Unis sont à nouveau d’une faible ampleur globale dans la plupart des pays. Cette relative stabilité résulte d’évolutions souvent opposées à celles de la sous‑période antérieure : les contributions de l’intensité capi‑ talistique, celles de la PGF, mais aussi celles de la durée du travail sont souvent négatives, tandis que les contributions du taux d’emploi deviennent partout positives, à l’exception du Japon. Cette augmentation du taux d’emploi rela‑ tif de la population apparait importante dans de nombreux pays. La situation relative de la France se dégrade légèrement de 0,35 point par an, avec des contributions négatives de ‑ 0,16 point de l’intensité capitalistique, de ‑ 0,21 point de la PGF et de ‑ 0,34 point de la durée du travail et une contribution positive de 0,34 point du taux d’emploi de l’ensemble de la population.
+Le rôle de la participation au travail depuis 1974 : l’impact des politiques visant à réduire l’offre de travail
+Pour la période postérieure à 1974, on affine l’analyse de la contribution du taux d’emploi
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+27
+
+en distinguant deux composantes de ce taux d’emploi : une composante démographique, correspondant à la part de la population en âge de travailler, ici la population âgée de 15 à 64 ans, dans la population totale, et une composante caractérisant l’équilibre du marché du travail, plus précisément le taux d’emploi de la population en âge de travailler. Avec la durée du travail, cette décomposition permet de mieux caractériser, dans chacun des pays, la participation au travail de la popula‑ tion totale10.
+Les graphiques V représentent pour les diffé‑ rents pays les contributions aux évolutions rela‑ tives du PIB par habitant des trois composantes de la participation au travail de la population totale : la part de la population en âge de tra‑ vailler dans la population totale, le taux d’em‑ ploi de cette population en âge de travailler et la durée moyenne du travail. Le principe de cette décomposition est détaillé dans l’encadré 2 (section D).
+
+1974‑1995 : la contribution négative de la participation au travail résulte des taux d’emploi de la population en âge de travailler et de la durée du travail1
+Sur la période 1974‑1995, la contribution de la participation au travail de l’ensemble de la population à l’évolution du PIB par habitant relativement aux États‑Unis est généralement négative. C’est le cas au Japon et dans tous les pays européens. Certaines caractéristiques d’ensemble apparaissent. Tout d’abord, la
+11.  Thubin (2014) présente un travail similaire sur cette période 1975‑2012, en prenant la France pour référence. Il aboutit à des résultats cohérents avec les nôtres et montre en particulier que : (i) depuis une quarantaine d’années, la France présente un déficit annuel moyen de croissance du PIB par habitant de 0,4 point par rapport aux pays de l’OCDE, lié à la démographie à hauteur de 0,1 point et au taux d’emploi (taux d’activité et taux de chômage) à hauteur de 0,2 point ; (ii) depuis le milieu des années 1990, les gains de productivité horaire en France ne suffisent plus à com‑ penser le recul des heures travaillées et la moindre productivité par tête explique l’essentiel du déficit de croissance par rapport à la moyenne des pays de l’OCDE depuis 20 ans (0,5 point).
+
+Graphiques V Décomposition de l’évolution de la participation au travail de la population par rapport aux États‑Unis
+
+En points de pourcentage par an 2,00
+
+1974-1995
+
+1,50
+
+1,00
+
+0,50
+
+0,00
+
+- 0,50
+
+- 1,00
+
+- 1,50
+
+- 2,00
+
+- 2,50 Zone Euro
+
+JapoRnoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas
+
+Finlande
+
+Canada Australie
+
+Suède Norvège
+
+Population en âge de travailler
+
+Heures Travaillées
+
+Taux d’emploi dans la population en âge de travailler
+
+Taux d’emploi
+
+➔
+
+28
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+composante purement démographique apporte dans tous les pays une contribution favorable à l’évolution du PIB par habitant relativement aux États‑Unis. Cet avantage apparent corres‑ pond en fait à une évolution moins favorable des taux de fécondité, qui baissent généralement par rapport aux États‑Unis où ils demeurent assez élevés, ce qui diminue partout la part des jeunes qui n’ont pas encore l’âge de travailler. Par ailleurs, la contribution de la participation au travail de la population en âge de travailler est négative dans tous les pays à l’exception de l’Australie pour laquelle elle est négligeable. Sauf pour cette exception ainsi que pour le Royaume‑Uni, la contribution des taux d’em‑ ploi est le plus souvent négative. Mais, surtout, la contribution de la durée moyenne du travail est partout négative, à l’exception de la Suède. En France, la contribution du facteur travail à l’évolution relative du PIB par habitant est de ‑ 1,64 point par an, et elle se décompose en des
+
+contributions négatives de ‑ 1,02 point du taux d’emploi et de ‑ 0,68 point de la durée du tra‑ vail, très légèrement atténuées par une contri‑ bution positive de 0,04 point de la part de la population en âge de travailler dans la popula‑ tion totale.
+Ces observations concernant les contributions du taux d’emploi et de la durée du travail sug‑ gèrent que dans de très nombreux pays, et en particulier dans les pays européens à l’excep‑ tion de la Suède, un arbitrage s’est fait sur cette sous‑période en faveur d’une plus forte orienta‑ tion qu’aux États‑Unis vers une « société de loi‑ sirs », privilégiant le temps libre sur les gains de PIB par habitant ou bien le travail domestique sur le travail marchand. Ce constat a donné lieu à une abondante littérature au cours de la dernière décennie, la question étant de savoir si cette plus forte orientation vers une société de loisirs résulte de préférences collectives
+
+Graphiques V (suite)
+
+En points de pourcentage par an 2,00
+
+1995-2012
+
+1,50
+
+1,00
+
+0,50
+
+0,00
+
+- 0,50
+
+- 1,00
+
+- 1,50
+
+- 2,00
+
+- 2,50 Zone Euro
+
+JapoRnoyaume Uni Allemagne
+
+France
+
+Italie Espagne Pays Bas Finlande Canada Australie
+
+Suède Norvège
+
+Population en âge de travailler Taux d’emploi dans la population en âge de travailler
+
+Heures Travaillées Taux d’emploi
+
+Lecture : le principe de cette décomposition est explicité à la section D de l’encadré 2. De 1974 à 1995, la contribution à l’évolution du PIB par habitant de la France par rapport aux États‑Unis est de ‑ 1,02 point pour le taux d’emploi et de ‑ 0,68 point pour la durée du travail et de + 0,04 point pour la part de la population en âge de travailler dans la population totale. Source : voir encadré 1 et calculs des auteurs.
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+29
+
+ou de réglementations bridant l’offre et la demande de travail et de désincitations, fiscales par exemple, de l’offre de travail. Les ensei‑ gnements de cette littérature demeurent non consensuels. Prescott (2004) montre à partir d’une modélisation calibrée que ces évolutions semblent effectivement résulter, en Europe, de désincitations essentiellement fiscales à l’offre de travail. L’effet de la taxation est également mis en avant par Ohanian et al., mais Blanchard (2004) privilégie plutôt l’explication par les préférences collectives. Une des interrogations soulevées par l’analyse de Prescott (2004) est qu’il retient des élasticités macroéconomiques de l’offre de travail au revenu net beaucoup plus importantes que celles qui résultent des estimations micro‑économiques. Ce contraste a lui‑même fait l’objet de nombreuses analyses. Pour Alesina et al. (2005), il résulte de l’effet de multiplicateurs sociaux11 mais aussi d’inter‑ ventions syndicales qui forcent l’expression des préférences collectives et brident l’offre et la demande de travail, en particulier des seniors. Rogerson et Wallenius (2009) montrent que la forte hétérogénéité des préférences individuelles correspond, au niveau micro‑économique, à une faible élasticité à la marge intensive (décision de travailler plus ou moins) pour les gens en emploi mais simultanément à une forte élasti‑ cité à la marge extensive (décision de travailler ou de ne pas travailler) pour les jeunes et les seniors. Ainsi, la faible élasticité habituellement estimée à la marge intensive sur des données micro‑économiques peut correspondre à une forte élasticité globale (à la marge intensive et extensive) au niveau macroéconomique. Pour Freeman et Schettkat (2005), les écarts entre les États‑Unis et l’Europe en termes de compor‑ tements d’offre de travail concernent pour une grande part les femmes et traduisent essentiel‑ lement une plus grande facilité aux États‑Unis à substituer des produits et services marchands au travail domestique.
+Même si elle n’est pas totalement consensuelle, cette littérature suggère que les politiques suivies dans le dernier quart du XXe siècle n’ont pas été neutres pour les taux d’emploi globaux et, par‑ tant, pour le niveau du PIB par tête. Tel aurait été le cas, en France, des politiques de l’emploi suivies sur cette période qui ont explicitement visé à réduire l’offre de travail, dans le contexte de l’arrivée sur le marché du travail des généra‑ tions du baby boom et d’augmentation de l’acti‑ vité féminine. Ces politiques, mises en œuvre dès le début des années 1970, ont notamment eu recours aux préretraites apparues en 1972 (700 000 personnes en 1984), à la dispense de
+
+recherche d’emploi pour les chômeurs de plus de 57,5 ans (1984) et à une politique migratoire restrictive. La durée du travail a également été réduite, d’une part par des mesures de réduc‑ tion du temps de travail (5e semaine de congés payés, réduction à 39 heures de la durée légale hebdomadaire du travail), d’autre part par le subventionnement du temps partiel, notamment par le biais des allègements de charges.12
+1995‑2012 : la contribution positive du facteur travail est liée au taux d’emploi et, dans une mesure moindre, à la démographie
+Sur la période 1995‑2012, la contribution du facteur travail à l’évolution relative du PIB par habitant redevient positive dans tous les pays, à l’exception notable du Royaume Uni et de la Suède. Cette contribution positive est associée essentiellement à celle, importante, du taux d’emploi, la contribution de la durée du travail restant partout négative, à l’exception de la Suède. Enfin, la contribution de la com‑ posante purement démographique, est générale‑ ment positive : elle n’est négative que dans trois pays, l’Allemagne, les Pays‑Bas et la Suède. En France, la contribution totale du facteur travail à l’évolution de l’écart avec les États‑Unis est nulle et se décompose en une contribution posi‑ tive de 0,47 point du taux d’emploi et des contri‑ butions négatives de ‑ 0,34 point de la durée du travail et de ‑ 0,13 point de la part de la popula‑ tion en âge de travailler dans la population totale. Selon Thubin (2014), ce facteur démographique devrait jouer positivement à l’avenir.
+La contribution devenue très positive du taux d’emploi durant cette sous période, dans tous les pays à l’exception du Royaume‑Uni, s’ex‑ plique par deux mouvements de sens opposé : une baisse du taux d’emploi aux États‑Unis et, à l’inverse, une hausse du taux d’emploi dans les autres pays. La baisse du taux d’emploi aux États‑Unis s’observe sur les jeunes mais aussi sur la population adulte, le taux d’emploi des seniors augmentant au contraire. Ainsi, sur les seules années 1995 à 201213, le taux d’emploi des jeunes de 15 à 24 ans passe de 58,3 % à 46 %, celui des adultes de 25 à 54 ans passe de 79,7 % à 75,7 % tandis que celui des seniors de 55 à 64 ans passe de 55,1 % à 60,7 %. La hausse du taux d’emploi dans les autres pays
+12.  Par exemple, le départ en retraite d’un membre d’un couple se traduit par une forte incitation pour l’autre membre du couple à partir lui‑même à la retraite. 13.  Les chiffres ici présentés sont issus de la base Labour Force Statistics de l’OCDE.
+
+30
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+s’observe essentiellement sur la population des seniors. Concernant les cinq plus grands pays de la zone euro, le taux d’emploi des seniors passe, de 1995 à 2012, de 37,4 % à 61,5 % en Allemagne, de 29,4% à 44,5 % en France, de 28,4 % à 40,4 % en Italie, de 32,4 % à 43,9 % en Espagne et de 29,4 % à 58,6 % aux Pays‑Bas. Ces augmentations du taux d’emploi des seniors compensent largement, en Allemagne, en Italie, en Espagne et aux Pays‑Bas, la baisse du taux d’emploi des jeunes : ce dernier passe de 49,1 % à 46,6 % en Allemagne et de 27,3 % à 20,5 % en Italie et de 28,6% à 20,3% en Espagne. Il passe de 56,3% à 63,3 % dans le cas des Pays‑Bas mais avec un pic en 2000 à 66,5%. Le taux d’emploi des jeunes augmente en revanche légèrement en France, passant de 26,1% à 28,8%.
+Les fortes augmentations du taux d’emploi des seniors traduisent entre autres les effets de diverses politiques structurelles mises en œuvre de façons généralement très différenciées dans ces différents pays européens mais visant toutes à inverser le mouvement de la période précédente : réforme des retraites, réduction ou disparition de dispositifs de préretraites et de politiques d’indemnisation chômage spéci‑ fiques, comme par exemple en France les dis‑ penses de recherche d’emploi. En 2012, selon Thubin (2014), le niveau du taux de partici‑ pation en France se situe dans la moyenne de l’OCDE, avec un taux de participation plus élevé pour les 25‑54 ans et plus faible pour les 15‑24 ans et les hommes de 55 à 64 ans.
+*  * *
+Les principaux enseignements à tirer de cette analyse sont les suivants :
+-- Sur l’ensemble de la période étudiée, le PIB par habitant a connu une très forte progression, correspondant par exemple en France à une multip­lication par un facteur neuf. Cette pro‑ gression n’a pas été régulière : elle connait de fortes irrégularités liées à des chocs globaux, comme les guerres, les innovations techno‑ logiques et les chocs pétroliers, ou propres à chaque pays ou zone comme la mise en œuvre de programmes de réformes ambitieux. Les deux facteurs qui ont principalement contribué à cette forte progression du PIB par habitant sont la productivité globale des facteurs (PGF) et l’intensité capitalistique. Les vagues techno‑ logiques ont des effets décalés entre pays, les États‑Unis anticipant le plus souvent leur impact
+
+par rapport aux autres pays industrialisés. Ces décalages tiennent fortement à des aspects ins‑ titutionnels (fonctionnement des marchés des biens et du travail, qualité des services fournis par l’État, niveau d’éducation…).
+-- Le Royaume‑Uni et l’Australie étaient les pays bénéficiant du plus haut niveau de PIB par habitant en début de période, les États‑Unis pre‑ nant leur place entre les deux guerres mondiales et maintenant cette avance par la suite (si on écarte le cas très spécifique de la Norvège). Les hiérarchies de PIB par habitant entre pays sont fortement influencées par la PGF et l’intensité capitalistique mais aussi par les écarts de taux d’emploi et de durée moyenne du travail.
+-- Un fort contraste apparait depuis le milieu des années 1970 concernant la contribution du facteur travail entre les pays anglo‑saxons, dont principalement les États‑Unis, et les autres pays, en particulier européens. Du milieu des années 1970 jusqu’au milieu des années 1990, cette participation diminue dans les seconds vis‑à‑vis des États‑Unis, tant en ce qui concerne le taux d’emploi que la durée moyenne du travail, ce qui contribue à abaisser le niveau relatif de PIB par habitant. Cette évolution s’inverse en par‑ tie dès le milieu des années 1990, en particu‑ lier du fait de l’augmentation du taux d’emploi des seniors.
+-- Sur l’ensemble de la période, l’évolution du PIB par habitant est en France assez semblable à celle de l’ensemble de la zone euro. Mais depuis le milieu des années 1990, la stabilité de la situation française par rapport à l’ensemble de la zone euro résulte d’une évolution défavo‑ rable de l’Italie qui compense l’évolution restée plus favorable de l’Allemagne. Les écarts avec l’Allemagne résultent largement de dynamiques différentes des taux d’emploi.
+Différentes politiques économiques peuvent avoir un effet sur le positionnement relatif des pays en termes de PIB par habitant. Outre les politiques d’innovation, les politiques écono‑ miques les plus déterminantes sont, tout d’abord, celles qui permettent de bénéficier le plus rapi‑ dement possible des chocs technologiques, autrement dit les politiques visant à réduire les barrières anticompétitives sur le marché des biens, les politiques visant à flexibiliser le marché du travail, et bien entendu les politiques éducatives élevant le niveau moyen d’éducation de la population en âge de travailler (voir sur ces aspects : Aghion et Howitt, 1998, 2006, 2009 ; Aghion et al., 2008, pour une illustration et
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+31
+
+Cette et al., 2008, pour une synthèse). Viennent ensuite les politiques qui influencent la parti‑ cipation au travail de la population en âge de travailler, et en particulier les taux d’emploi. En ce domaine, le PIB par habitant de la France et plus largement de la zone euro relativement
+
+à celui des États‑Unis pâtissent de taux d’emploi plus faibles à la fois des juniors et des seniors. Mais la forte augmentation des taux d’emploi des seniors en France et en Europe depuis le début des années 2000 montre que ce genre de situation n’a rien d’irréversible.
+
+BIBLIOGRAPHIE
+
+Aghion P., Askenazy P., Bourlès R., Cette G. et Dromel N. (2008), « Distance à la frontière technologique, rigidités de marché, éducation et croissance », Économie et Statistique, n° 419‑420, pp. 11‑30.
+Aghion P., Cette G. et Cohen E. (2014), Changer de modèle, Éditions Odile Jacob, Paris.
+Aghion P. et Howitt P. (1998), Endogenous growth theory, MIT Press, Cambridge.
+Aghion P. et Howitt P. (2006), « Joseph Schum‑ peter Lecture ‑ Appropriate Growth Policy: A Unifying Framework », Journal of the European Economic Association, vol.  4, n°  2‑3, pp. 269‑314.
+Aghion P. et Howitt P. (2009), The economics of growth, MIT Press, Cambridge.
+Alesina A., Glaeser E. et Sacerdote B. (2005), « Work and leisure in the US and Europe : Why so different? », NBER Working paper Series, n° 11278.
+Altman M. (1999), « New estimates of hours of work and real income in Canada from the 1880s to 1930s: Long Run trends and workers’ prefe‑ rences », Review of Income and Wealth, vol. 45, n° 3, pp. 353‑372.
+Baffigi A. (2011), « Italian National Accounts, 1861‑2011 », Bank of Italy, Economic Research and International Relations Area, Quaderni di storia economica (Economic History Working Papers), n° 18.
+Barro R. (1991), « Economic growth in a cross section of countries », The Quarterly Journal of Economics, vol. 106, n° 2, pp. 407‑443.
+Barro R. et Ursua J.F. (2008), « Macroeconomic Crises since 1870 », Brookings Papers on Econo‑ mic Activity, vol. 39, n° 1, pp. 255‑350.
+
+Barro R. et Sala‑I‑Martin X. (1997), « Techno‑ logical diffusion, convergence and growth », Jour‑ nal of Economic Growth, vol. 2, n° 1, pp. 1‑27.
+Baumol W.J. (1986), « Productivity growth, convergence and welfare: What the long‑run data show? », American Economic Review, vol. 76, n° 5, pp. 1072‑1085.
+Bergeaud A., Cette G. et Lecat R. (2014), « Pro‑ ductivity trends from 1890 to 2012 in advanced countries », Document de travail de la Banque de France n° 475.
+Blanchard O. (2004), « The economic future of Europe », Journal of Economic Perspectives, vol. 18, n° 4, pp. 3‑26.
+Bolt J. et van Zanden J.L. (2013), « The First Update of the Maddison Project; Re‑estimating Growth Before 1820 », Maddison Project Wor‑ king Paper n° 4.
+Bourlès R. et Cette G. (2005), « A comparison of structural productivity levels in the major indus‑ trialised countries », OECD Economic Studies, OECD Publishing, vol. 2005, n° 2, pp. 75‑108.
+Bourlès R. et Cette G. (2007), « Trends in ‘Struc‑ tural’ Productivity Levels in the Major Industria‑ lized Countries », Economics Letters, vol. 95, n° 1, pp. 151‑156.
+Broadberry S. (1997), « The Long Run Growth and Productivity Performance of the United Kingdom », Scottish Journal of Political Eco‑ nomy, vol. 44, n° 4, pp. 403‑24.
+Broadberry S. et Irwin D. (2006), « Labor pro‑ ductivity in the United States and the United Kingdom during the nineteenth century », Explorations in Economic History, vol. 43, n° 2, pp. 257‑279.
+
+32
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+PIB par habitant sur longue période
+
+Caballero R.J., Hoshi T. et Kashyap A.K. (2008), « Zombie Lending and Depressed Res‑ tructuring in Japan », American Economic Review, vol. 98, n° 5, pp. 1943‑1977.
+Card D. et Freeman R.B. (2002), « What have two decades of British economic reform delivered in Terms of Productivity Growth? », International Productivity Monitor, vol. 5, pp. 541‑52.
+Cette G., Epaulard A. et Givord P. (2008), « Croissance de la productivité : le rôle des insti‑ tutions et de la politique économique », Économie et Statistique, n° 419‑420, pp. 3‑10.
+Cette G., Mairesse J. et Kocoglu Y. (2000), « La mesure de l’investissement en technologies de l’information et de la communication : quelques considérations méthodologiques », Économie et Statistique, n° 339‑340, pp. 73‑91.
+Cette G. (2014), « Does ICT remain a powerful engine of growth ? », Revue d’Économie Poli‑ tique, vol. 124, n° 4, juillet-août, pp. 473‑492.
+Cette G. et Lopez J. (2012), « ICT demand beha‑ viour: an international comparison », Economics of Innovation and New Technology, vol. 21, n° 4, pp. 397‑410.
+Crafts N. et O’Rourke K. (2013), « Twentieth Century Growth », Discussion Paper Series, CEPR, n° 9633.
+Demotes‑Mainard M. (1989), L’économie de la RFA, collection Repères, la Découverte.
+Feinstein C. et Pollard S. (1988), Studies in Capi‑ tal Formation in the United Kingdom 1750‑1920, Clarendon Press, Oxford University.
+Ferguson R. et Wascher W. (2004), « Distin‑ guished lecture on economics in Government: les‑ sons from past productivity booms », The Journal of Economic Perspectives, vol. 18, n° 2, pp. 3‑28.
+Field A. (2012), A Great Leap Forward: 1930s Depression and U.S. Economic Growth, Yale Uni‑ versity Press.
+Freeman R. B. et Schettkat R. (2005), « Marketi‑ zation of household production and the EU‑US gap in work », Economic Policy, vol. 20, n° 41, pp. 6‑50.
+Fleurbaey M. et Gaulier G. (2009), « Internatio‑ nal comparisons of living standards by equivalent incomes », The Scandinavian Journal of Econo‑ mics, vol. 111, n° 3, pp. 597‑624.
+
+Gordon R. (1999), « US Economic Growth since 1870: One Big Wave? », American Economic Review, vol. 89, n° 2, pp. 123‑128.
+Gordon R. (2012), « Is U.S. Economic Growth Over? Faltering Innovation Confronts the Six Headwinds », NBER Working Papers, n° 18315.
+Gordon R. (2013), « US productivity Growth: The Slowdown has returned after a temporary revival », International Productivity Monitor, vol. 25, pp. 13‑19.
+Gordon R. (2014), « The demise of US Economic Growth: Restatement, rebuttal, and reflexions », NBER Working Papers, n° 19895.
+Groote P., Albers R. et de Jong H. (1996), « A standardised time series of the stock of fixed capital in the Netherlands, 1900‑1995 », GGDC Research Memorandum, n° 199625, Groningen Growth and Development Centre, University of Groningen.
+Grytten O. (2004), « The Gross Domestic Pro‑ duct for Norway 1830‑2003: Historical Monetary Statistics for Norway 1819‑2003 », Norges Bank Occasional Papers n° 35., pp. 241‑288.
+Hoffmann W. (1965), Das Wachstum der Deutschen Wirtschaft seit der Mitte des 19. Jah‑ rhunderts, Springer Verlag, Berlin.
+Humble R. (1975), War in the air 1939‑1945 (Purnell’s History of the World Wars Special), Salamander Books, Londres
+Kirner W. (1968), Zeitreihen für das Anlagever‑ mögen der Wirtschaftsbereiche in der Bundesrepu‑ blik Deutschland, Dunkcer und Humblot, Berlin.
+Islam N. (2003), « What have we learnt from the convergence debate? », Journal of Economic Surveys, vol. 17, n° 3, pp. 309‑358.
+Jorgenson D. (2001), « Information technology and the US economy », The American Economic Review, vol. 91, n° 1, pp. 1‑32.
+Lévy‑Leboyer M. (1978), « Capital Investment and Economic Growth in France (1820‑1913) », Cam‑ bridge History of Europe, Chapitre V, pp. 231‑295.
+Maddison A. (1994), « Standardised Estimates of Fixed Capital Stock: A Six Country Compari‑ son », GGDC Research Memorandum 1994‑09, Groningen Growth and Development Centre, Uni‑ versity of Groningen.
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+33
+
+Maddison A. (2001), The World Economy, a Mil‑ lennial Perspective, OECD publishing.
+Madsen J. (2010a), « Growth and capital dee‑ pening since 1870: is it all technological pro‑ gress? », Journal of Macroeconomics, vol. 32, n° 2, pp. 641‑656.
+Madsen J. (2010b), « The anatomy of growth in the OECD since 1870 », Journal of Monetary Economics, vol. 57, n° 6, pp. 753‑767.
+McLean I.W. (2007), « Why was Australia so rich? », Explorations in Economic History, vol. 44, n° 4, pp. 635‑656.
+Mitchell B. (1998a), International Historical Statistics: The Americas, 1750‑1993, 4e édition, Stockton Press, New York.
+Mitchell B. (1998b), International Historical Sta‑ tistics: Europe, 1750‑1993, 4e édition, Stockton Press, New York.
+Mitchell B. (1998c), International Historical Statistics: Africa, Asia and Oceania, 1750‑1993, 4e édition, Stockton Press, New York.
+Prados de la Escosura L. (2003), El progreso economico de España (1850‑2000), Fundacion BBVA, 1e édition, n° 201136, Bilbao.
+
+Prescott E.C. (2004), « Why do Americans work so much more than Europeans? », Federal Reserve Bank of Minneapolis Quaterly Review, vol. 28, n° 1, pp. 2‑13.
+Rogerson R. et Wallenius J. (2009), « Micro and macro elasticities in a life cycle model with taxes », Journal of Economic Theory, vol. 144, n° 6, pp. 2277‑2292.
+Simon O. (2009), « Mesure des performances économiques et du progrès social : les conclu‑ sions de la Commission Stiglitz‑Sen‑Fitoussi », Trésor‑Éco, n° 67.
+Smits J.P., Horlings E., et van Zanden J.L. (2000), « Dutch GNP and its components, 1800‑1913 », Groningen Growth and Developement Centre.
+Stiglitz J., Sen A. et Fitoussi J.P. (2009), Rap‑ port de la Commission sur la mesure des perfor‑ mances économiques et du progrès social, www. stiglitz‑sen‑fitoussi.fr/documents/rapport_francais.pdf.
+Thubin C. (2014), « Le décrochage du PIB par habitant en France depuis 40 ans : pourquoi ? », Trésor Éco, n° 131.
+Villa P. (1994), Un siècle de données macro­ économiques, Insee Résultats, série économie générale, n° 86‑87.
+
+34
+
+ÉCONOMIE ET STATISTIQUE N° 474, 2014
+
+

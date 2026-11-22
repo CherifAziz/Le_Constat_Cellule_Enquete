@@ -1,0 +1,552 @@
+Analyses
+
+                               RÉFORME 2023
+
+               PREMIERS EFFETS
+               DE LA RÉFORME
+               DE CONTRACYCLICITÉ
+
+                               Décembre 2025
+
+Entrée en vigueur le 1er février 2023, la réforme gouvernementale dite de « contracyclicité » introduit un
+mécanisme d’ajustement automatique de la durée totale d’indemnisation par l’Assurance chômage en fonction de
+la conjoncture économique. Codifiée par le décret n°2023-33 du 26 janvier 2023, cette réforme réduit la durée
+maximale d’indemnisation, tout en renforçant la protection des demandeurs d’emploi en cas de dégradation du
+marché du travail.
+Concrètement, la réforme réduit de 25 % la durée d’indemnisation tout en conservant une durée minimale
+d’indemnisation de 6 mois. Un complément de fin de droit (CFD) peut être accordé aux allocataires dont le droit
+arrive à échéance en période de conjoncture défavorable. Selon les estimations ex ante de l’Unédic1, une fois la
+mesure pleinement montée en charge – à l’horizon 2027 et sous l’hypothèse d’une conjoncture stable – les
+moindres dépenses pour le régime seraient de l’ordre de 4,5 Md€ par an. Il s’agit de la réforme ayant le plus fort
+impact financier sur l’Assurance chômage au cours des dix dernières années.
+Cette note dresse un premier bilan des effets de cette réforme sur l’indemnisation des demandeurs d’emploi,
+2 ans et demi après son entrée en vigueur : durée des droits, consommation des allocations, arrivées en fin de
+droit. Des travaux plus approfondis sont en cours pour évaluer les effets de la réforme sur les parcours des
+allocataires (reprise d’emploi, indemnisation par l’Assurance chômage, arrivée en fin de droit, accès aux
+dispositifs de solidarité…), qui nécessitent plus de recul, notamment pour observer les droits longs.
+Il s’agira dans un premier temps de revenir sur les objectifs du législateur en lien avec le contexte économique
+au moment de l’instauration de la règle, avant d’analyser les premiers effets observés sur la durée des droits,
+la consommation des allocations et les arrivées en fin de droit.
+
+1 Unédic, « Effets de l'adaptation des règles d'assurance chômage à la conjoncture », février 2023
+
+                                                 1/13
+PREMIERS EFFETS DE LA RÉFORME 2023 DE CONTRACYCLICITÉ  Décembre 2025
+
+À retenir
+
+        La réforme de contracyclicité réduit de 25 % la durée potentielle d’indemnisation par l’Assurance
+            chômage pour les allocataires dont la fin de contrat de travail – ou la date d’engagement de la procédure
+            de licenciement – est intervenue à compter du 1er février 2023. La durée minimale d’indemnisation est
+            maintenue à 6 mois ; ainsi, les allocataires qui, en l’absence de décret, auraient ouvert un droit d’une
+            durée comprise entre 6 et 8 mois se voient attribuer une durée potentielle de 6 mois, entraînant pour eux
+            une diminution inférieure à 25 %. En cas de conjoncture dégradée, évaluée à partir du taux de chômage
+            et de son évolution, un complément de fin de droit est attribué aux allocataires qui approchent de leur
+            fin de droit.
+
+        Cette réforme gouvernementale s’est mise en place dans un contexte de reprise économique soutenue
+            post-crise sanitaire. Selon les dernières prévisions macroéconomiques et financières de l’Unédic, dans
+            les critères reflétant le passage à une conjoncture dégradée ne seraient pas réunis d’ici à fin 2027, le
+            complément de fin de droit ne serait donc pas activé.
+
+        Cette réglementation s’applique à près de 9 allocataires entrants sur 10 au regard de son champ
+            d’application qui exclut certaines sous-populations ou territoires d’outre-mer. Elle est en cours de
+            montée en charge : fin juillet 2025, 71 % des allocataires relevant de son champ d’application sont
+            concernés par la règle de contracyclicité.
+
+        La durée potentielle des droits ouverts est désormais limitée à 18 mois maximum hors filière seniors
+            (contre 24 mois auparavant), et respectivement 22,5 et 27 mois pour les filières seniors qui
+            commençaient à 53 et 55 ans jusqu’en 2024. En 2024, 40 % de personnes ouvrent un droit de 18 mois
+            maximum. La durée potentielle de droit s’établit désormais à 16 mois en moyenne, contre 20 mois en
+            2022 (soit -20 %). Elle retrouve ainsi un niveau moyen proche de celui observé avant la réforme de
+            2019-2021 ; cette dernière avait rehaussé le niveau d’affiliation nécessaire pour ouvrir un droit et allongé
+            la durée potentielle de droit pour les allocataires aux parcours professionnels discontinus tout en
+            réduisant le montant de leur allocation via un nouveau mode de calcul. Le décret de 2023 a quant à lui
+            entraîné une réduction de la durée potentielle pour tous les allocataires de tout profil.
+
+        La durée réellement indemnisée diminue également en moyenne, mais de manière plus contenue que
+            la durée potentielle de droit (-14 % versus -20 % pour les allocataires de moins de 53 ans), de sorte que la
+            part de droit consommée se trouve réhaussée. Les allocataires de moins de 53 ans mobiliseraient
+            désormais en moyenne deux tiers de leurs droits.
+
+        Le nombre de personnes arrivant en fin de droit sans possibilité de rechargement, qui était en baisse
+            depuis 2022, est reparti à la hausse mi-2023, passant de 41 000 à 70 000 fins de droit entre mars 2023 et
+            mars 2025. Le taux de fins de droit retrouve un niveau proche de celui d’avant la réforme de 2019-
+            2021, autour de 30 % des allocataires entrants. Parmi les allocataires arrivant en fin de droit, la part de
+            ceux bénéficiant ensuite de l’Allocation de solidarité spécifique (ASS) est en nette augmentation,
+            passant de 13 % mi-2022 à 20 % mi-2025.
+
+        La réforme fait par ailleurs passer de 45 % à 60 % la part de capital de droit mobilisable au titre de l’Aide
+            à la reprise ou à la création d’entreprise (ARCE) au moment d’une création d’entreprise. Cette
+            augmentation vise à compenser la réduction de la durée potentielle de droit. Le relèvement du taux
+            s’est accompagné d’une hausse d’environ un tiers du recours au dispositif en 2023 et 2024, sans que l’on
+            observe de hausse équivalente du nombre de créations d’entreprises parmi les allocataires. Cela suggère
+            un effet de report vers l’ARCE depuis le dispositif alternatif de cumul de l’ARE avec des revenus
+            d’activité.
+
+2/13
+PREMIERS EFFETS DE LA RÉFORME 2023 DE CONTRACYCLICITÉ         Décembre 2025
+
+La réforme de contracyclicité vise à inciter davantage au retour à l’emploi en période de
+conjoncture favorable
+
+La réforme s’inscrit dans une logique d’ajustement de la durée d’indemnisation en fonction des cycles
+économiques qui visait à :
+
+                 inciter au retour rapide à l’emploi en période favorable, en réduisant la durée de versement de
+                     l’allocation chômage ;
+
+                 réduire de cette manière les tensions de recrutement2.
+
+La réforme s’est mise en place dans un contexte de            GRAPHIQUE 1 – TAUX DE CHÔMAGE AU T4 2022
+reprise économique soutenue post-crise sanitaire,
+caractérisé notamment par :                                   Source : Insee, données CVS (corrigées des variations saisonnières)
+
+                 un taux de chômage en baisse :
+                     -1,1 point entre le 1er trimestre 2021
+                     et le 4e trimestre 2022, pour s’établir
+                     à 7,1 % au 4e trimestre 2022, avec
+                     toutefois des disparités territoriales
+                     (Graphiques 1 et 3) ;
+
+                 un taux d’emploi en hausse de
+                     +1,9 point entre le 1er trimestre 2021
+                     et le 4e trimestre 2022, atteignant
+                     68,6 % au 4e trimestre 2022.
+
+La montée en charge de la réglementation 2023 est en cours : fin juillet, 71 % des allocataires
+relevant de son champ d’application ont un droit de durée réduite
+
+Lorsqu’une nouvelle réglementation d’assurance chômage entre en vigueur, ses effets ne se manifestent pas
+immédiatement sur l’ensemble des allocataires. En effet, comme c’est le cas pour la réforme de 2023, cette
+réglementation s’applique uniquement aux nouveaux entrants. Ce n’est qu’après plusieurs années que la totalité
+des allocataires en cours de droit relèvent de la nouvelle réglementation. La réforme de 2023 a désormais atteint
+plus des deux tiers de sa montée en charge : fin juillet 2025, 71 % des allocataires relevant de son champ
+d’application (voir Encadré 1) sont concernés par la règle de contracyclicité (Graphique 2).
+
+GRAPHIQUE 2 – NOMBRE D’ALLOCATAIRES EN COURS DE DROIT, SELON LA RÉGLEMENTATION LES
+CONCERNANT
+
+Source : Fichier national des allocataires (FNA), données brutes à fin août 2025
+Champ : allocataires en cours de droit à l’ARE ou l’AREF, champ d’application de la contracyclicité (voir Encadré 1)
+
+2 Selon le ministre du Travail, il s’agissait ainsi de rendre le régime d’assurance chômage « plus protecteur, quand les choses vont mal, et plus
+incitatif, quand les choses vont bien ». (Source : compte rendu intégral du débat en séance publique du 7 décembre 2022, dans le cadre de
+travaux parlementaires)
+
+                                                3/13
+PREMIERS EFFETS DE LA RÉFORME 2023 DE CONTRACYCLICITÉ  Décembre 2025
+
+Le complément de fin de droit ne serait pas activé dans les deux prochaines années selon les
+prévisions de l’Unédic
+
+En cas de conjoncture économique dégradée, un complément de fin de droit (CFD) pourra être accordé aux
+allocataires proches de leur fin de droit (reliquat de droit de 30 jours ou moins). Il est égal à la différence entre la
+durée d’indemnisation sans réduction et celle après réduction.
+
+Le CFD peut être activé lorsque l’un des deux critères suivants est rempli :
+                 un taux de chômage BIT en France (hors Mayotte) égal ou supérieur à 9 % ;
+
+                 une hausse du taux de chômage d’au moins 0,8 point sur un trimestre.
+
+Le CFD cesse d’être octroyé aux allocataires arrivant en fin de droit, à compter du premier jour du mois suivant la
+constatation d’une amélioration de la conjoncture, dès lors que les deux critères suivants sont observés
+simultanément sur trois trimestres consécutifs :
+
+                 un taux de chômage inférieur à 9 % ;
+
+                 une hausse trimestrielle inférieure à 0,8 point.
+
+Le Graphique 3 présente les périodes qui auraient rempli les critères d’activation du CFD depuis l’an 2000, si le
+mécanisme avait été appliqué durant cette période. Selon les critères définis par le décret de 2023, une
+dégradation du marché du travail aurait été constatée lors de la crise de 2009 ainsi que pendant la crise liée à la
+Covid, mais pas depuis l’entrée en vigueur de la réforme. Au 2e trimestre 2025, le taux de chômage s’élève à 7,5 %,
+en hausse de 0,2 point par rapport au 2e trimestre 2024. Selon les prévisions de l’Unédic3, cette conjoncture
+« favorable » devrait se poursuivre au moins jusqu’à fin 2027.
+
+GRAPHIQUE 3 – CONJONCTURE DU MARCHÉ DU TRAVAIL SELON LES SEUILS DÉFINIS PAR LE DÉCRET 2023
+
+Sources : Insee, prévision Unédic d’octobre 2025
+Champ : France hors Mayotte.
+Lecture : la courbe est dans une zone verte lorsque le marché du travail est jugé « favorable », et dans une zone rouge lorsqu’il est considéré
+« dégradé » selon les critères du décret de 2023. Au 1er trimestre 2009, une hausse de 0,8 point du taux de chômage aurait, selon ces critères, signalé
+une dégradation du marché du travail. Ce n’est qu’au 2e trimestre 2019 que les critères du décret auraient permis de qualifier la situation de
+favorable : le taux de chômage étant resté inférieur à 9 % pendant trois trimestres consécutifs, sans qu’aucune de ces périodes n’enregistre de
+hausse trimestrielle d’au moins 0,8 point.
+
+Par ailleurs, afin de tenir compte de la situation des allocataires n’ayant pas achevé leur formation au terme de
+leur durée d’indemnisation, un complément de fin de formation peut permettre d’allonger le versement de
+l’allocation jusqu’à la fin d’une formation qualifiante d’au moins 6 mois. Seuls 1 % des droits ouverts en mars ou
+avril 2023 ont bénéficié de ce complément4.
+
+3 Unédic, « Situation financière de l'Assurance chômage pour 2025-2027 », octobre 2025
+4 Résultat obtenu pour les allocataires de moins de 53 ans relevant du champ d'application de la contracyclicité.
+
+                                                4/13
+PREMIERS EFFETS DE LA RÉFORME 2023 DE CONTRACYCLICITÉ  Décembre 2025
+
+   ENCADRÉ 1 - DONNÉES, CHAMP ET PRÉCAUTIONS MÉTHODOLOGIQUES
+
+   Données
+
+   Les analyses présentées ici sont établies à partir des données du Fichier national des allocataires (FNA) à
+   fin août 2025. Cela permet de bénéficier d’un recul de 30 mois depuis l’entrée en vigueur du décret. Le
+   FNA, produit par France Travail, rassemble des données administratives détaillées sur l’ensemble des
+   droits ouverts à l’Assurance chômage.
+
+   Champ
+
+   Les analyses sont principalement faites sur les allocataires relevant du champ d’application de la
+   contracyclicité, auxquelles s’appliquent la réduction de durée de droit et les règles associées (complément
+   de fin de droit, complément de fin de formation). Le champ d’application de la réforme couvre 88 % des
+   personnes ouvrant des droits. Certaines catégories de travailleurs sont exclues de la mesure, en raison de
+   la nature de leur activité (dockers occasionnels, marins-pêcheurs, expatriés), d’une situation
+   réglementaire particulière (intermittents du spectacle) ou des spécificités économiques locales
+   (demandeurs d’emploi dans les territoires d’outre-mer). Par ailleurs, certaines situations dérogent à la
+   réduction de droit, en particulier les droits de 6 mois avant application de la réduction de 25 %, qui ne
+   peuvent être réduits davantage, les bénéficiaires du Contrat de sécurisation professionnelle (CSP) dans la
+   mesure où l’indemnisation en ASP n’est pas affectée du coefficient de contracyclicité, et les bénéficiaires
+   de l’Allocation des travailleurs indépendants (ATI) toujours versée pour une durée de 6 mois maximum.
+
+   Précautions méthodologiques
+
+   Certaines précautions d’interprétation doivent être soulignées, à commencer par la montée en charge
+   progressive de la réglementation de 2023 mentionnée plus haut. De plus, les résultats relatifs à la
+   consommation des droits et aux fins de droit sont provisoires, faute d’un recul suffisant. En effet, la
+   consommation des droits s’étale généralement dans le temps : elle peut être interrompue (en cas de reprise
+   d’activité, d’arrêt maladie, etc.) puis réactivée, tant que le délai de déchéance n’est pas dépassé (voir
+   Encadré 2).
+
+Depuis l’entrée en vigueur de la contracyclicité, la durée potentielle moyenne de droit est réduite
+d’un cinquième, contrebalançant l’augmentation observée lors de la réforme précédente, de 2019-
+2021
+
+Depuis l’entrée en vigueur du décret de 2023, la durée potentielle5 de droit est désormais principalement répartie
+entre 6 et 18 mois. Les droits de 18 mois deviennent prépondérants, représentant 40 % des ouvertures de droits
+en 2024 (Graphique 4).
+
+Pour ces droits ouverts en 2024, la durée potentielle moyenne s’établit à près de 16 mois (476 jours), un niveau
+proche de celui observé avant la réforme de 2019-2021 (486 jours, soit 16 mois, pour les droits ouverts en 2018)
+(Graphique 5). Cette évolution résulte des effets opposés des deux réformes.
+
+        La réforme de 2019-2021 a durci les conditions d’ouverture des droits en allongeant la période minimale
+            d’affiliation de 4 à 6 mois pour les droits initiaux (de 1 à 6 mois pour les rechargements), affiliation
+            désormais recherchée dans les 24 derniers mois au lieu des 28 derniers (pour les filières seniors,
+            l’affiliation est toujours recherchée dans les 36 derniers mois). Ce changement implique des droits d’une
+            durée potentielle désormais d’au moins 6 mois (Graphique 4).
+
+            De plus, depuis le 1er octobre 2021, le calcul des droits repose sur une nouvelle méthode : les jours non
+            travaillés entre deux emplois sont désormais inclus dans le calcul du salaire journalier de référence.
+
+5 La durée potentielle correspond au nombre maximal de jours pendant lesquels un allocataire peut percevoir l’allocation chômage. Il ne s’agit pas
+forcément de la durée réellement utilisée (« durée indemnisée »), car un allocataire peut ne pas consommer la totalité de ses droits. Cette durée
+est déterminée à partir de l’intervalle entre le premier et le dernier jour travaillé dans la période de référence des 24 derniers mois (36 pour les
+allocataires seniors) précédant le dernier contrat ouvrant droit. Pour les allocataires soumis au décret de 2023, une réduction de 25 % est appliquée
+à cette durée. La durée potentielle présentée ici est celle notifiée à l’ouverture de droit, éventuellement révisée en cas d’allongement jusqu'à l'accès
+à une retraite à taux plein ou en cas de prolongation exceptionnelle liée à la crise sanitaire.
+
+                                                5/13
+PREMIERS EFFETS DE LA RÉFORME 2023 DE CONTRACYCLICITÉ  Décembre 2025
+
+            Cela a pour effet de réduire le montant de l’allocation. En contrepartie, la durée d’indemnisation
+            s’allonge, car elle est désormais calculée sur l’ensemble des jours calendaires, et non plus sur les seuls
+            jours effectivement travaillés. Pour les demandeurs d’emploi ayant alterné périodes travaillées et non-
+            travaillées avant d’accéder à une indemnisation, cette réforme 2019-2021 a donc pour effets d’allonger
+            significativement la durée potentielle d’indemnisation, tout en réduisant le montant journalier.6
+
+            Par conséquent, la durée potentielle moyenne avait augmenté de 23 % entre 2018 et 2022
+            (Graphique 5). Les droits de 24 mois étaient devenus prépondérants, représentant 41 % des droits
+            ouverts en 2022, après 23 % en 2018 (Graphique 4).
+
+        La réforme de 2023 est venue inverser cette tendance. Elle réduit la durée potentielle moyenne
+            d’indemnisation pour tous les profils des demandeurs d’emploi ouvrant des droits. Entre 2022 et 2024,
+            la durée moyenne a diminué d’environ un cinquième pour l’ensemble des allocataires (-21 %) comme
+            pour ceux ayant un parcours discontinu (-20 %) (Graphique 5).
+
+Pour les personnes aux parcours discontinus, l’augmentation moyenne de la durée potentielle engendrée par la
+réforme de 2021 est désormais compensée par la diminution moyenne de durée résultant de la réforme de 2023.
+Le capital de droit moyen — correspondant à la durée potentielle multipliée par le montant de l’allocation — qui
+était resté stable lors de la réforme de 2021, enregistre une baisse d’environ un cinquième à la suite de celle de
+2023 (comme pour l’ensemble des allocataires) (Graphiques 5 et 6).
+
+GRAPHIQUE 4 – RÉPARTITION DES ALLOCATAIRES SELON LA DURÉE POTENTIELLE DE LEUR DROIT
+
+GRAPHIQUE 5 – DURÉE POTENTIELLE DE DROIT  GRAPHIQUE 6 – CAPITAL DE DROIT MOYEN
+MOYENNE, EN MOIS                          EN EUROS CONSTANTS 2025
+
+  Note : les allocataires impactés – ou qui l’auraient été – par le mode de calcul du droit introduit en 2021, mais non par les modifications de COD
+  mises en place entre 2019 et 2021, ont un parcours discontinu tout en totalisant au moins 6 mois d’affiliation. Un parcours est considéré comme
+  discontinu lorsque l’allocataire compte au moins 1 % de jours non travaillés sur sa période de référence pour le calcul de l’ouverture de droit.
+  Source : FNA, données brutes à fin août 2025
+  Champ : ouvertures de droit, champ d’application de la contracyclicité (voir Encadré 1)
+
+6 Voir Unédic, « Réforme 2019-2021 – Évaluation du nouveau mode de calcul de l’allocation chômage », mars 2025
+
+                                                6/13
+PREMIERS EFFETS DE LA RÉFORME 2023 DE CONTRACYCLICITÉ  Décembre 2025
+
+À la suite de la réforme de 2023, la durée moyenne réellement indemnisée diminue, mais moins
+que la durée potentielle : les allocataires utilisent en moyenne une part plus importante de leurs
+droits qu’auparavant
+
+Le décret de 2023 n’impacte pas la répartition des durées d’indemnisation en deçà de six mois : environ un tiers
+des allocataires de moins de 53 ans7 sont indemnisés moins de 6 mois, aussi bien parmi ceux entrés avant le
+décret que parmi ceux entrés après. Désormais, environ la moitié des allocataires sont indemnisés entre 6 et
+moins de 18 mois, soit une hausse d’environ 5 points par rapport à la période précédant le décret. L’effet du
+décret se concentre surtout sur les indemnisations longues : les indemnisations de plus de 18 mois, qui
+concernaient un cinquième des entrants en 2022, ont quasiment disparu. Un nouveau groupe d’allocataires
+indemnisés exactement 18 mois apparaît, représentant environ un dixième des entrants de juin 2023, en lien avec
+la nouvelle durée maximale instaurée par le décret (Graphique 7).
+
+L’application du décret de 2023 conduit à une baisse de la durée indemnisée moyenne estimée à -14 % pour les
+allocataires de moins de 53 ans ; celle-ci est moins marquée que la diminution de la durée potentielle (-20 % pour
+cette population). Cette réaction avait déjà été observée lors de la modification fin 2021 du calcul des droits et de la
+condition d’affiliation, où la hausse de la durée potentielle (+15 %) s'était répercutée de manière plus modérée sur
+la durée indemnisée (+10 %) (Graphique 8).
+
+Ainsi, depuis le raccourcissement des droits instauré par le décret de 2023, les allocataires utilisent en moyenne
+une part plus importante de leurs droits qu’auparavant, en particulier ceux disposant de droits de durée
+intermédiaire ou longue, correspondant à des durées d’affiliation d’au moins 12 mois. D’une part, ces
+allocataires sont confrontés à une réduction complète de 25 % de leur durée potentielle. D’autre part, leur durée
+potentielle plus longue leur laisse une marge plus importante pour augmenter la part de droits consommés,
+contrairement aux titulaires de droits courts, qui utilisent généralement déjà la majeure partie de leurs droits
+(Graphiques 8 et 9).
+
+        La durée d’affiliation correspond à la période de travail prise en compte pour ouvrir ou recharger des
+  droits à l’Assurance chômage. Elle est définie comme la période comprise entre le premier jour du premier
+  contrat et le dernier jour du dernier contrat retenus dans la période de recherche d’affiliation, soit les
+  2 années précédant la dernière fin de contrat de travail (période allongée à 3 années pour les salariés de
+  55 ans et plus au moment de leur fin de contrat à compter du 1er avril 2025, ou pour les salariés de 53 ans et
+  plus au moment de leur fin de contrat avant le 1er avril 2025).
+
+  Pour être indemnisé par l’Assurance chômage, le demandeur d’emploi doit justifier d’une durée minimale de
+  6 mois d’affiliation sur la période de recherche d’affiliation.
+
+  La durée d’affiliation ainsi déterminée constitue la durée du droit, avant l'application éventuelle de la
+  réduction de 25 %.
+
+Cette évolution contraste avec la tendance observée après la réforme de 2021, période durant laquelle la part des
+droits consommés avait diminué. Cette baisse s’expliquait en partie par l’allongement de la durée d’indemnisation
+pour les personnes aux parcours professionnels discontinus8. En effet, plus la durée potentielle des droits est
+longue, plus la part effectivement utilisée tend à être faible9 (Graphique 8).
+
+Finalement, les allocataires de moins de 53 ans entrés dans les premiers mois suivant la réforme seraient
+indemnisés en moyenne 10 mois, pour une durée potentielle moyenne de 15 mois, soit des valeurs proches de
+celles observées pour les allocataires entrés en 2018, avant les deux réformes. En moyenne, ils mobiliseraient
+deux tiers de leurs droits10(Graphique 8).
+
+7 Les droits dépassant 24 mois des allocataires plus âgés nécessitent plus de recul pour observer leur utilisation.
+8 Par ailleurs, la réduction du montant des allocations introduite par la réforme de 2019-2021 a pu inciter à une reprise d’emploi plus rapide, tout en
+réduisant les possibilités de cumul entre emploi et indemnisation, ce qui contribue également à diminuer la part de droit consommé.
+9 Voir la publication : Unédic, « Le point sur les durées d'indemnisation et la consommation des droits », juin 2025.
+10 On observe toutefois qu'en 2018, la part moyenne des droits consommés était plus élevée, d'environ 74 %, malgré des durées potentielle et
+indemnisée comparables. Cette différence s’explique d’une part par l’évolution de la structure des durées de droits entre 2018 et 2023 — désormais
+comprises entre 6 et 18 mois pour les allocataires de moins de 53 ans, contre 1 à 24 mois auparavant — et d’autre part par le fait que la part moyenne
+consommée ne correspond pas au simple rapport entre les durées indemnisée et potentielle moyennes, mais à la moyenne des parts individuelles.
+
+                                                7/13
+PREMIERS EFFETS DE LA RÉFORME 2023 DE CONTRACYCLICITÉ  Décembre 2025
+
+GRAPHIQUE 7 – RÉPARTITION CVS DES                      GRAPHIQUE 8 – DURÉE POTENTIELLE, DURÉE
+ALLOCATAIRES SELON LA DURÉE DE LEUR                    INDEMNISÉE ET PART CONSOMMÉE DU DROIT
+INDEMNISATION SUR UNE PÉRIODE DÉTERMINÉE*              MOYENNES**
+
+             ALLOCATAIRES DE MOINS DE 53 ANS                    ALLOCATAIRES DE MOINS DE 53 ANS
+
+GRAPHIQUE 9 – DURÉE POTENTIELLE, DURÉE INDEMNISÉE ET PART CONSOMMÉE MOYENNES SUR UNE
+PÉRIODE DÉTERMINÉE*, SELON LA DURÉE D'AFFILIATION
+
+                                                        ALLOCATAIRES DE MOINS DE 53 ANS
+
+FINS DE CONTRAT AVANT DÉCRET (déc-22, jan-23)          FINS DE CONTRAT APRÈS DÉCRET (mars-avr. 23)
+
+* L’indemnisation des allocataires entrés avant le décret de 2023 est observée sur une période de 30 mois à compter de leur ouverture de droit,
+contre 24 mois pour ceux entrés après le décret – soit une période plus courte de 6 mois, en cohérence avec la réduction de leur durée maximale
+d’indemnisation (voir Encadré 2).
+** De mi-2021 à mi-2023, la durée indemnisée moyenne et la part consommée moyenne sont corrigées du manque de recul pour observer leurs
+valeurs définitives sur la totalité de la période de droit (voir Encadré 2).
+Source : FNA, données brutes à fin août 2025 ; Unédic. Graphiques 7 et 8 : corrections des variations saisonnières (CVS)
+Champ : ouvertures de droit d'allocataires de moins de 53 ans, champ d’application de la contracyclicité (voir Encadré 1)
+
+                                                8/13
+PREMIERS EFFETS DE LA RÉFORME 2023 DE CONTRACYCLICITÉ  Décembre 2025
+
+    ENCADRÉ 2 - MÉTHODE DE MESURE DE LA CONSOMMATION DES DROITS
+
+                     Une consommation possible sur plus de 5 ans
+
+    Un droit peut être utilisé en plusieurs fois sur une période limitée appelée délai de déchéance. Ce délai, qui
+    démarre à l’ouverture ou au rechargement du droit, est de 3 ans plus la durée du droit.
+
+    Avant le décret de 2023, pour les allocataires de moins de 53 ans dont la durée de droit pouvait atteindre
+    24 mois, ce délai pouvait atteindre 5 ans. Depuis le décret de 2023, pour les droits qui durent jusqu’à 18 mois,
+    ce délai est de 4 ans et demi maximum.
+
+    Jusqu’à récemment, ce critère d’indemnisation n’était vérifié qu’au moment d’une reprise de droit, c’est-à-dire
+    lors d’une réinscription à France Travail. Ainsi, les allocataires inscrits sans interruption pouvaient
+    consommer leur droit sur plus de 5 ans. Depuis le 1er avril 2025 (à la suite de la convention de 2024), ce délai
+    est désormais contrôlé chaque mois.
+
+                     Faute de disposer d’un recul suffisant, la consommation des droits est observée sur un
+                          horizon déterminé à partir de leur date d’ouverture
+
+    Le recul actuel ne permet pas encore d’observer entièrement la consommation des droits ouverts juste avant ou
+    juste après le décret de 2023. C’est pourquoi on observe la consommation des droits ouverts avant le décret sur
+    30 mois, soit 6 mois de plus que leur durée maximale de 24 mois. Par souci d’équivalence, la consommation des
+    droits ouverts après le décret est observée sur 24 mois, soit également 6 mois de plus que leur durée maximale
+    de 18 mois.
+
+                     Estimation de la consommation sur la totalité de la période de droit
+
+    Sur le passé, l’évolution de la consommation moyenne mesurée sur cet horizon limité est proche de celle
+    observée sur la totalité de la période de droit, ce qui permet de prolonger – de mi-2021 à mi-2023 – la
+    durée indemnisée moyenne et la part consommée moyenne sur la totalité de la période de droit. Ces
+    valeurs sont qualifiées de « corrigées du manque de recul ».
+
+Le nombre d’arrivées en fin de droit augmente depuis mi-2023, surtout parmi les allocataires à
+affiliation longue
+
+Les premiers effets du décret de 2023 sur les fins de droit se manifestent à partir d’août 2023, soit 6 mois après son
+entrée en vigueur. Entre mars 2023 et mars 2025, le nombre d’allocataires atteignant la fin de leur droit sans
+possibilité de rechargement est passé de 43 000 à 71 000, soit une hausse de +65 % (Graphique 10).
+
+Précédemment et à l’inverse, en 2022, les arrivées en fin de droit avaient diminué (-31 % entre mars 2022 et
+mars 2023). Cette diminution s’expliquait à la fois par la conjoncture favorable à la reprise d’activité post-Covid et
+par la réforme de 2019-2021 et son effet à la hausse sur les durées de droit, repoussant et limitant ainsi l’atteinte de la
+fin de droit (Graphique 10).
+
+Avant la réforme de 2019-2021, les fins de droit concernaient majoritairement des personnes ayant moins de
+12 mois d’affiliation. À la suite de cette réforme, les fins de droit liées à de courtes affiliations ont nettement reculé :
+fin 2022, on observe un équilibre entre les fins de droit des allocataires ayant moins de 12 mois d’affiliation et celles
+des allocataires ayant plus de 18 mois d’affiliation. Sur la période récente (de mi-2024 à mi-2025), les arrivées en fin
+de droit d’allocataires ayant plus de 18 mois d’affiliation augmentent et deviennent prédominantes (Graphique 11).
+
+9/13
+PREMIERS EFFETS DE LA RÉFORME 2023 DE CONTRACYCLICITÉ                                                Décembre 2025
+
+GRAPHIQUE 10 – NOMBRE MENSUEL                          GRAPHIQUE 11 – NOMBRE MENSUEL D’ALLOCATAIRES
+D’ALLOCATAIRES ARRIVANT EN FIN DE DROIT,               ARRIVANT EN FIN DE DROIT,
+SELON LA RÉGLEMENTATION LES CONCERNANT                 SELON LEUR DURÉE D’AFFILIATION
+
+  Source : FNA, données brutes à fin août 2025
+  Champ : allocataires, champ d’application de la contracyclicité (voir Encadré 1)
+
+Ainsi, le taux d’atteinte de la fin de droit sans possibilité de rechargement progresse à nouveau pour les
+allocataires ayant ouvert un droit après l’entrée en vigueur du décret. Alors que la réforme de 2019-2021 avait
+conduit à une baisse d’environ 3 points de ce taux (en moyenne en 2022 par rapport à la période 2016-2018), celle
+de 2023 inverse cette tendance. À ce stade, 29 % des allocataires ayant ouvert un droit en juin 2023 ont atteint la fin
+de leur droit, un niveau proche de celui observé avant les effets de la réforme de 2019-2021 et la Covid.
+L’augmentation du taux touche plus fortement les allocataires ayant une durée d’affiliation comprise entre 12 et
+18 mois (+17 %) que ceux dont l’affiliation est inférieure à 12 mois (+10 %), tandis qu’un délai supplémentaire est
+nécessaire pour analyser la situation des allocataires ayant au moins 18 mois d’affiliation (Graphique 12).
+
+Ces résultats demeurent toutefois provisoires. Parmi les allocataires ayant ouvert un droit depuis 2021, la
+proportion moyenne d’entre eux atteignant la fin de leur droit devrait encore augmenter, certains droits étant
+toujours en cours de consommation, d’autant plus que les dates d’ouverture sont plus récentes et que les
+allocataires disposent de durées de droits plus longues.
+
+GRAPHIQUE 12 – TAUX D’ATTEINTE DE LA FIN DE DROIT (CVS), SELON LA DURÉE D’AFFILIATION
+
+                                                        ALLOCATAIRES DE MOINS DE 53 ANS
+
+Source : FNA, données brutes à fin août 2025, corrections de variation saisonnière (CVS)
+Champ : allocataires de moins de 53 ans, champ d’application de la contracyclicité (voir Encadré 1)
+
+                                                10/13
+PREMIERS EFFETS DE LA RÉFORME 2023 DE CONTRACYCLICITÉ  Décembre 2025
+
+Depuis la mi-2022, une part croissante des allocataires arrivant en fin de droit bénéficie de
+l’allocation de solidarité spécifique (ASS), sous l’effet notamment des réformes de 2021 et de 2023
+
+À l’issue de leurs droits à l’Assurance chômage, certains demandeurs d’emploi peuvent bénéficier de dispositifs de
+solidarité financés par l’État : le revenu de solidarité active (RSA), selon leur situation familiale et les revenus du
+foyer11, ou l’allocation de solidarité spécifique (ASS). L’ASS est destinée aux personnes ayant épuisé leurs droits à
+l’ARE et remplissant à la fois des conditions d’affiliation – avoir travaillé au moins cinq ans au cours des dix
+années précédant la période de chômage – et des conditions de ressources du foyer.
+
+Au second semestre 2022, 31 % des allocataires de moins de 59 ans arrivant en fin de droit occupent un emploi
+salarié trois mois plus tard, 18 % perçoivent le RSA et 11 % bénéficient de l’ASS12. Le devenir des allocataires en fin
+de droit, ainsi que les effets du décret de 2023 sur les dispositifs de solidarité, feront l’objet d’analyses
+approfondies de l’Unédic dans la continuité de cette étude. Néanmoins, certaines tendances récentes concernant
+le passage vers l’ASS peuvent d’ores et déjà être observées.
+
+Entre juin 2022 et juin 2025, la part des fins de droits suivies d’un recours à l’ASS est passée de 13 % à 20 %
+(Graphique 13). Cette progression s’expliquerait notamment par les réformes de 2019-2021 et de 2023, sous le
+double effet de l’allongement de la durée moyenne de droit liées aux premières, avec une proportion
+d’allocataires avec des durées d’affiliation plus longues parmi ceux arrivant en fin de droit (cf. partie précédente)
+et du raccourcissement des droits lié à la réforme suivante. En lien avec l’augmentation des fins de droit, le
+nombre d’entrées à l’ASS augmente depuis mi-2023 (Graphique 14).
+
+Fin 2024, 267 000 demandeurs d’emploi perçoivent l’ASS, en légère hausse par rapport à 2023(Graphique 15). En
+outre, la part des nouveaux entrants augmente fortement : 40 % des allocataires de l’ASS fin 2024 ne la percevaient
+pas fin 202313.
+
+GRAPHIQUE 13 – PART DES FINS DE DROIT SUIVIES  GRAPHIQUE 14 – NOMBRE D’ALLOCATAIRES ARRIVÉS
+DE L’ASS                                       EN FIN DE DROIT PUIS BÉNÉFICIANT DE L’ASS
+
+  Source : FNA, données brutes à fin août 2025
+  Champ : allocataires, champ d’application de la contracyclicité (voir
+  Encadré 1)
+
+GRAPHIQUE 15 – NOMBRE DE BÉNÉFICIAIRES DE L’ASS EN FIN D’ANNÉE
+
+                                                                                                                             Source : FNA, données brutes à fin août 2025
+                                                                                                                             Champ : bénéficiaires de l’ASS à fin décembre
+
+11 À noter que certains allocataires en bénéficient en cours de droit ARE (3 % des personnes prises en charge par l’Assurance chômage en 2022).
+12 Source : Dares, « Profil et devenir des allocataires en fin de droit au régime de l’assurance-chômage », octobre 2025
+13 Drees, « Une très forte hausse en 2024 de la part des entrants dans l’allocation de solidarité spécifique (ASS) », décembre 2025
+
+                                                11/13
+PREMIERS EFFETS DE LA RÉFORME 2023 DE CONTRACYCLICITÉ  Décembre 2025
+
+Le dispositif d’Aide à la reprise ou à la création d’entreprise (ARCE) et les effets de la réforme de
+2023
+
+L’ARCE permet à un demandeur d’emploi indemnisé au titre de l’ARE de recevoir une partie de ses droits restants
+sous forme de capital au moment où il crée ou reprend une entreprise. Le versement s’effectue en deux fois : la
+moitié au démarrage de l’activité et l’autre environ six mois plus tard, sous réserve que l’entreprise soit toujours
+active. L’ARCE constitue une alternative au dispositif de cumul de l’ARE avec les revenus d’activité, qui permet,
+lui, de bénéficier d’une partie des allocations mensuelles en complément des revenus tirés de l’entreprise.
+
+La réforme de 2023, en réduisant la durée de droits, réduisait mécaniquement le capital mobilisable en ARCE.
+Afin de compenser la réduction de 25 % de la durée potentielle, un décret paru le 26 juin 2023 (applicable aux
+fins de contrat intervenues à compter du 1er juillet 2023) a porté le taux de l’ARCE de 45 % à 60 % du capital
+restant des droits à l’ARE au moment de la demande.
+
+Les premières analyses montrent une hausse marquée du recours à l’ARCE (Graphique 16), sans progression
+équivalente du nombre de créations d’entreprise en cours de droit (Graphique 17). En 2024, avec 67 000 premiers
+versements d’ARCE, le nombre de bénéficiaires est supérieur d’environ 35 % à celui observé en 2022. Les
+dépenses d’ARCE (820 M€ en 2024) augmentent de 37 % sur la même période. En revanche, le nombre total de
+créations d’entreprises par des allocataires (215 000 en 2024) marque un léger ralentissement depuis 2022, ce qui
+suggère que l’augmentation du taux de l’ARCE pourrait conduire certains allocataires à privilégier ce dispositif
+plutôt que le cumul ARE-revenus d’activité non salariée. Des analyses complémentaires devront être menées afin
+d’évaluer plus précisément l’ampleur et la nature de cette possible substitution entre les deux dispositifs.
+
+GRAPHIQUE 16 – NOMBRE ANNUEL DE PREMIERS  GRAPHIQUE 17 – NOMBRE TOTAL D’ALLOCATAIRES
+VERSEMENTS D'ARCE ET MONTANT ANNUEL       AYANT CRÉE OU REPRIS UNE ENTREPRISE EN
+D’ARCE VERSÉÉ (EN M€)                     COURS DE DROIT
+
+  Note : dans le nombre d’allocataires ayant créé une entreprise en cours de droit sont comptabilisés les allocataires dont la date légale de
+  début d’activité non salariée intervient au cours du droit ouvert.
+  Source : FNA, données brutes à fin août 2025
+  Champ : ensemble des allocataires de l’Assurance chômage
+
+En savoir plus
+             Unédic, « Effets de l’adaptation des règles d’assurance chômage à la conjoncture », février 2023
+             Unédic, « Suivi statistique de l’assurance chômage », mars 2025
+             Unédic, « Circulaire n° 2023-08 du 26 juillet 2023 – Réglementation d'assurance chômage applicable à
+                compter du 1er février 2023 », juillet 2023
+             Unédic, Fiche thématique « Durée d'indemnisation », septembre 2025
+             Unédic, Fiche thématique « Le complément de fin de droits », avril 2025
+
+                                                12/13
+RÉFORME 2023 :
+PREMIERS EFFETS
+DE LA RÉFORME
+DE CONTRACYCLICITÉ
+
+Décembre 2025
+Marie-Hélène Nguyen
+Marion Salliot
+

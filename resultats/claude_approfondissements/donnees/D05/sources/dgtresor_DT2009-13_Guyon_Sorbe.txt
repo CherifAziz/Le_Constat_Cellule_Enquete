@@ -1,0 +1,1796 @@
+Numéro 2009/13 - Décembre 2009
+
+        Solde structurel et effort
+        structurel : vers une
+        décomposition par sous-
+        secteur des
+        administrations
+        publiques
+
+                  Thibault GUYON
+                  Stéphane SORBE
+SOLDE STRUCTUREL ET EFFORT
+     STRUCTUREL : VERS UNE
+
+   DECOMPOSITION PAR SOUS-
+SECTEUR DES ADMINISTRATIONS
+
+                PUBLIQUES
+
+                                        Thibault GUYON*
+                                       Stéphane SORBE*
+
+                Ce document de travail n’engage que ses auteurs.
+                L’objet de sa diffusion est de stimuler le débat et
+                d’appeler commentaires et critiques.
+
+                *Thibault GUYON est Administrateur de l’Insee à la
+                Direction Générale du Trésor et de la Politique
+                Économique du Ministère de l’Économie, de
+                l’Industrie et de l’Emploi (France)
+                thibault.guyon@dgtpe.fr : +33-1-44-87-73-03
+
+                *Stéphane SORBE est Administrateur de l’Insee à
+                la Direction Générale du Trésor et de la Politique
+                Économique du Ministère de l’Économie, de
+                l’Industrie et de l’Emploi (France)
+                stephane.sorbe@dgtpe.fr : +33-1-44-87-14-51
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 1  ____________________________
+                                     SOMMAIRE
+
+Résumé/Abstract ................................................................................................................................................ 3
+Synthèse ................................................................................................................................................................. 4
+1. Le solde structurel : définition, calcul et limites..............................................................................6
+
+     1.1. Définition du solde structurel ................................................................................................................ 6
+
+     1.2. Calcul du solde structurel ........................................................................................................................ 7
+           1.2.1. Calcul des recettes structurelles ................................................................................................................. 8
+           1.2.2. Calcul des dépenses structurelles............................................................................................................... 8
+           1.2.3. Calcul du solde structurel .............................................................................................................................. 9
+
+     1.3. La prise en compte des événements exceptionnels affectant le solde public.....................10
+
+     1.4. Exemple : décomposition de l’évolution du solde public entre 2000 et 2008....................11
+
+     1.5. Incertitudes autour de la mesure du solde structurel et limites de son interprétation.12
+
+2. L’effort structurel, composante discrétionnaire de la variation du solde structurel...... 13
+
+     2.1. Définition de l’effort structurel ...........................................................................................................13
+
+     2.2. Calcul de l’effort structurel....................................................................................................................14
+           2.2.1. Décomposition de la variation des recettes structurelles ..............................................................14
+           2.2.2. Décomposition de la variation des dépenses structurelles ...........................................................15
+           2.2.3. Décomposition de la variation du solde structurel ...........................................................................15
+
+     2.3. Exemple : décomposition de l’évolution du solde structurel entre 2000 et 2008 ............15
+
+     2.4. Limites du concept d’effort structurel...............................................................................................18
+
+3. Solde structurel et effort structurel des sous-secteurs des administrations publiques 18
+
+     3.1. Solde structurel des sous-secteurs des administrations publiques.......................................19
+
+     3.2. Une partition de l’effort structurel et de la composante non discrétionnaire de la
+                 variation de solde structurel ................................................................................................................21
+
+           3.2.1. Le retraitement des mesures de périmètre et des dépenses et recettes de transferts ......21
+           3.2.2. Exemples de retraitements .........................................................................................................................22
+
+4. Exemples d’application.......................................................................................................................... 23
+
+     4.1. Partition de la variation structurelle et de l’effort structurel par sous-secteurs pour
+                 l’année 2009 ...............................................................................................................................................24
+
+     4.2. Analyse rétrospective des évolutions de la contribution de l’État à la variation du
+                 solde structurel .........................................................................................................................................25
+
+     4.3. Sensibilité à l’estimation de l’output gap .........................................................................................27
+           4.3.1. Exemple de la croissance potentielle de la Commission.................................................................27
+           4.3.2. Effort structurel et sensibilité à l’estimation de la croissance potentielle ..............................30
+           4.3.3. Sensibilité des soldes conjoncturels et structurels des sous‐secteurs à l’estimation
+                       de la croissance potentielle ..........................................................................................................................31
+
+     Bibliographie ..............................................................................................................................................................32
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 2  ____________________________
+                                    RÉSUMÉ
+
+L’évolution du solde public est fortement influencée par les variations de la conjoncture
+économique. Ainsi, pour apprécier l’orientation de la politique budgétaire, on a
+traditionnellement recours au solde public « structurel », c'est-à-dire corrigé de l’impact du
+cycle économique. Après avoir explicité la définition et la méthode de calcul de ce solde, ce
+document de travail enrichit l’analyse des variations du solde public en exposant deux outils
+supplémentaires. D’une part, il rappelle de manière détaillée la définition de l’« effort
+structurel », un concept introduit par Duchêne et Lévy (2003) qui permet d’isoler la partie
+discrétionnaire des évolutions du solde structurel, sur laquelle les décisions politiques peuvent
+influer, de leur partie non discrétionnaire, qui inclut notamment l’impact des variations des
+élasticités des prélèvements obligatoires. D’autre part, il présente une ventilation de cette
+décomposition du solde entre les différents sous-secteurs des administrations publiques, ce
+qui permet notamment de comprendre les évolutions des finances publiques à un niveau plus
+fin.
+
+                                  ABSTRACT
+
+The evolution of the public budget balance is strongly influenced by short-term economic
+developments. Consequently, the “structural” budget balance, i.e. the balance adjusted for the
+impact of the business cycle, is traditionally used to assess the stance of the fiscal policy. This
+paper clarifies the definition and calculation of this balance and enriches the analysis by
+presenting two additional tools. Firstly, it recalls in a detailed manner the definition of the
+“structural effort”, a concept first introduced by Duchêne & Lévy (2003), which aims at
+isolating the discretionary part of the change in the structural balance, on which policy
+decisions may have an influence, from its non-discretionary part, which includes the impact
+of changes in the elasticity of tax revenues. Secondly, it presents a breakdown of this
+decomposition between the various sub-sectors of general government, thus improving the
+understanding of the evolution of public finances at a more detailed level.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 3  ____________________________
+Synthèse
+
+Une question essentielle à la conduite de la politique budgétaire est celle de l’évaluation de la
+part des fluctuations du solde public qui peut être expliquée par des facteurs conjoncturels ou
+temporaires (« solde conjoncturel »), et de celle que l’on peut imputer aux évolutions du solde
+sous-jacent (« solde structurel »). Le solde conjoncturel est traditionnellement calculé à partir
+des sensibilités moyennes des dépenses et recettes à la position de l’économie dans le cycle
+(écart de production ou output gap)1. Le solde structurel est alors obtenu en retranchant du
+solde public le solde conjoncturel ainsi construit. Son calcul détaillé est présenté dans la
+première partie de ce document, selon une méthode proche de celle utilisée par les différentes
+organisations internationales (Commission européenne, FMI, OCDE). Cet outil présente
+néanmoins deux grandes limites.
+
+(1) Le solde structurel mesure imparfaitement la part conjoncturelle du solde public puisqu’il
+repose sur une évaluation par nature imparfaite de la position de l’économie dans le cycle
+(problème allant au-delà du champ du présent document) et sur des hypothèses de sensibilité
+moyenne des différentes composantes du solde public. Ce faisant, le solde structurel dans sa
+définition traditionnelle contient toujours une partie au moins de nature conjoncturelle,
+notamment celle liée aux fluctuations des élasticités au PIB des différentes composantes du
+solde public.
+
+Pour répondre en partie à cette difficulté, on rappelle dans la deuxième partie de ce document
+la définition de « l’effort structurel » des administrations publiques, un concept mis en avant
+par S. Duchêne et D. Lévy (2003)2. Celui-ci correspond à la composante de la variation du
+solde structurel imputable à des facteurs discrétionnaires. Par construction, l’effort structurel
+est égal à la somme d’un effort en dépenses (égal à la réduction du ratio structurel de dépenses
+publiques) et des mesures nouvelles en prélèvements obligatoires. Le reste de la variation du
+solde structurel est appelé « composante non discrétionnaire » et regroupe les effets liés aux
+fluctuations des élasticités des différents prélèvements obligatoires et la contribution des
+évolutions des recettes hors prélèvements obligatoires (dividendes, recettes de production,
+etc).
+
+(2) Deuxième limite, le concept de solde structurel se borne à une analyse agrégée, qui peut
+être pertinente si l’on s’intéresse avant tout à l’analyse des impulsions macroéconomiques,
+mais ne permet pas de donner des éléments suffisants aux décideurs publics pour définir les
+quantums de consolidation ou les marges de manœuvre de relance des différents sous-secteurs
+des administrations publiques (État, organismes divers d’administration centrale ou ODAC,
+administrations publiques locales ou APUL, administrations de sécurité sociale ou ASSO).
+
+Pour répondre à cette difficulté, on peut appliquer de façon « mécanique » la méthode de
+calcul du solde structurel aux soldes des différents sous-secteurs. Pour assurer une cohérence
+d’ensemble entre l’indicateur agrégé et les indicateurs désagrégés, il suffit de conserver au
+niveau des sous-secteurs les mêmes estimations de sensibilité des grandes composantes de
+dépenses et de recettes. Cette décomposition est suffisante pour obtenir une évaluation de la
+
+1 Plus précisément, on suppose que seuls les prélèvements obligatoires et les dépenses d’indemnisation du chômage sont
+sensibles aux fluctuations de l’output gap. Les prélèvements obligatoires sont divisés en quatre grandes familles : l’impôt sur
+le revenu et l’impôt sur les sociétés, pour lesquels on tient compte d’un décalage temporel entre la date de liquidation et la
+date de recouvrement de l’impôt, puis les cotisations sociales et enfin les autres prélèvements obligatoires.
+2 « Solde structurel et effort structurel : un essai d’évaluation de la composante discrétionnaire de la politique budgétaire », S.
+Duchêne et D. Lévy, DPAE n°18, novembre 2003.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 4  ____________________________
+position sous-jacente des différents sous-secteurs, mais les limites déjà exprimées sur
+l’évaluation de cet indicateur au niveau de l’ensemble des APU sont toujours valables.
+
+Il est donc souhaitable de croiser les deux grilles d’analyse, et de décomposer les évolutions
+du solde structurel par sous-secteurs selon ses composantes discrétionnaire et non
+discrétionnaire. A la différence de l’évaluation du solde structurel des sous-secteurs, ceci n’a
+rien de mécanique. La lecture des évolutions des soldes structurels des différents sous-
+secteurs est en effet brouillée par les mesures de périmètre et les variations de flux croisés
+internes aux administrations publiques, que l’on peut souhaiter corriger pour définir des
+« contributions » des sous-secteurs à champ constant. En effet, comme les dépenses et recettes
+des administrations publiques sont consolidées de ces flux croisés, une mesure de l’effort en
+dépenses d’un sous-secteur tenant pour « effort discrétionnaire » une baisse de dépenses
+consécutives à un transfert de compétences ou une baisse des transferts à destination d’un
+sous-secteur n’aurait qu’un intérêt limité.
+
+Ce document décrit la méthode de calcul d’une partition par sous-secteurs des variations du
+solde structurel et de ses composantes (effort structurel, …) et illustre, par les deux exemples
+suivants, comment cet outil permet d’enrichir l’analyse de l’évolution des finances publiques :
+
+    - une partition de la variation structurelle et de l’effort structurel par sous-secteurs pour
+         l’année 2009 ;
+
+    - une analyse rétrospective des évolutions de la contribution de l’État à la variation du
+         solde structurel.
+
+Enfin, un troisième exemple permet d’illustrer la sensibilité des estimations précédentes vis-à-
+vis de l’incertitude pesant sur l’évaluation de l’écart de production.
+
+Au final, ce nouvel outil permet d’enrichir l’analyse tant rétrospective que prospective des
+évolutions du solde structurel. Il convient toutefois d’être conscient de ses limites. Ainsi, une
+utilisation du solde conjoncturel par sous-secteurs ne saurait être suffisante pour définir un
+niveau de « déficit de crise », en raison notamment de l’incertitude sur le niveau de l’output
+gap ou sur le niveau « structurel » du taux de prélèvements obligatoires. Par ailleurs, il est
+important de préciser que l’analyse des contributions passées des sous-secteurs aux évolutions
+du solde structurel restent dépendantes des hypothèses retenues sur les mesures de périmètre,
+souvent estimées ex-ante, et non révisées ex-post.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 5  ____________________________
+1. Le solde structurel : définition, calcul et limites
+
+    1.1 Définition du solde structurel
+
+L’estimation du solde public structurel, c'est-à-dire du solde public corrigé des effets du cycle
+économique, repose sur la définition d’un PIB potentiel. Celui-ci représente l’offre de
+production qu’une économie est capable de soutenir durablement sans poussée inflationniste.
+On appelle écart de production ou output gap la différence entre le PIB effectif et le PIB
+potentiel, exprimée en points de PIB potentiel ; c’est l’indicateur de la position de l’économie
+dans le cycle. Son estimation dépasse le cadre de ce document de travail, et il sera donc
+considéré comme donné dans ce qui suit3.
+
+La méthode de calcul du solde structurel décrite ci-dessous est globalement conforme avec
+celle utilisée par les organisations internationales.
+
+On définit les recettes et les dépenses structurelles des administrations publiques comme les
+recettes et les dépenses qui se réaliseraient si le PIB était égal à son potentiel, c’est à dire si
+l’économie n’était ni en excès ni en déficit de demande. Les recettes et les dépenses
+conjoncturelles sont définies comme la différence entre recettes et dépenses effectives et
+recettes et dépenses structurelles.
+
+Côté dépenses, seules les dépenses d’indemnisation du chômage sont ici considérées comme
+étant de nature conjoncturelle. Les autres dépenses ne sont pas considérées comme
+directement reliées au cycle économique, soit du fait de leur nature discrétionnaire, soit parce
+que leur lien avec le cycle économique est faible et/ou difficile à mesurer4. Par ailleurs, si
+certaines études suggèrent que les dépenses de santé ou de retraites présentent un certain
+caractère cyclique, il n’existe pas de consensus sur les causes exactes d’un tel phénomène ou
+sur son ampleur5.
+
+Côté recettes, tous les prélèvements obligatoires (PO) sont supposés cycliques, tandis que les
+recettes hors PO sont supposées ne pas l’être. Puisque la sensibilité des rentrées fiscales à la
+conjoncture est différente d’un impôt à l’autre, les recettes structurelles sont obtenues en
+corrigeant les recettes effectives des effets du cycle à partir des élasticités des principaux
+impôts à l’écart de production.
+
+La méthode distingue quatre catégories de PO : l’impôt sur le revenu (IR), l’impôt sur les
+sociétés (IS), les cotisations de sécurité sociale (CSS), qui regroupent les cotisations salariés,
+employeurs, des travailleurs indépendants et sans emploi et la CSG, et les autres prélèvements
+obligatoires (APO). Les élasticités des différentes composantes du solde public à l’écart de
+production sont supposées constantes. Pour l’IR et l’IS, le décalage d’un an entre le fait
+générateur (évolution de la base taxable) et le recouvrement effectif est pris en compte dans la
+méthode. La méthode diffère sur ce point de celle de la Commission européenne, qui ne tient
+pas compte de ce décalage.
+
+3 Pour plus de détail sur l’estimation de la croissance potentielle de l’économie française, cf. par exemple « Révisions de la
+
+croissance potentielle de l’économie française à moyen-long terme », M. Coupet, Trésor-Eco n°2, novembre 2006.
+4 Ainsi, les dépenses de RMI sont a priori liées au cycle économique, mais leur élasticité à la conjoncture est mal connue.
+5 Sur ce point, cf. « Le solde structurel des administrations de sécurité sociale : méthode et évaluation », E. Bretin et R.
+
+Soulignac, Document de travail de la DGTPE, 2009, ainsi que “Social spending and automatic stabilizers in the OECD”, J.
+
+Darby et J. Melitz, octobre 2008.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 6  ____________________________
+Les élasticités retenues pour les différentes catégories de PO et les dépenses d’indemnisation
+du chômage correspondent à celles mesurées par l’OCDE6, qui sont également utilisées par la
+Commission Européenne7. Seule exception : l’élasticité des cotisations de sécurité sociale
+(0,825 contre 0,79 selon l’OCDE) correspond à une estimation de la DGTPE8. Ces différentes
+
+élasticités sont présentées dans le tableau ci-dessous.
+
+Tableau 1 : élasticité des différentes catégories de PO et des dépenses d’indemnisation du
+chômage à la conjoncture
+
+                                    IR                       IS    CSS    APO   Chômage
+
+Élasticité à l’écart de production  1,18                     1,59  0,825  1,00  -3,3
+
+Lecture : lorsque l’écart de production augmente de 1 point de PIB, les recettes perçues au titre de l’IR
+augmentent de 1,18 %, tandis que les dépenses d’indemnisation du chômage diminuent de 3,3 %.
+
+Les élasticités des différentes catégories de PO dépendent notamment :
+
+    - de la progressivité des impôts considérés9 : pour un impôt proportionnel, comme la
+         TVA, l’élasticité est généralement proche de l’unité. Ensuite, plus un impôt est
+         progressif, plus l’élasticité qui lui est associée va être importante : en effet, dans le cas
+         d’un impôt progressif, la conjoncture va affecter à la fois les bases taxables et le taux
+         moyen d’imposition. C’est notamment ce qui explique que l’IR ait une élasticité
+         supérieure à 1 ;
+
+    - de la sensibilité à la conjoncture de l’évolution de la base taxable : ainsi, les bénéfices
+         des sociétés ont des variations généralement plus marquées que leur valeur ajoutée, ce
+         qui a pour conséquence une élasticité agrégée de l’IS supérieure à l’unité. De même, la
+         masse salariale, qui est la base taxable sur laquelle reposent les contributions sociales,
+         est en partie protégée des évolutions de la conjoncture du fait d’une certaine inertie de
+         la masse salariale publique : cela a pour conséquence une élasticité des cotisations
+         sociales inférieure à l’unité.
+
+   1.2 Calcul du solde structurel
+
+Ce paragraphe a pour but de présenter de manière plus formelle le calcul du solde structurel
+tel que défini précédemment.
+
+On note S le solde public, Y le PIB effectif, Y* le PIB potentiel, R les recettes effectives, D les
+dépenses effectives et Y − Y * l’écart de production ou output gap. Les indices s et c font
+
+                              Y*
+respectivement référence aux valeurs structurelles et conjoncturelles. Enfin, les quatre
+catégories de PO et les dépenses d’indemnisation du chômage sont respectivement indicées
+par IR, IS, CSS, APO et cho.
+
+6 “Measuring cyclically-adjusted budget balances for OECD countries”, N. Girouard et C. André, OECD Economics
+Department Working Paper n°434, 2005.
+7 Cf. “New And Updated Budgetary Sensitivities For The EU Budgetary Surveillance”, Commission Européenne, Septembre
+2005.
+8 Cf. « Le solde structurel des administrations de sécurité sociale : méthode et évaluation », E. Bretin et R. Soulignac,
+Document de travail de la DGTPE, 2009.
+9 Un impôt progressif est un impôt pour lequel le taux marginal est supérieur au taux moyen, c'est-à-dire pour lequel le taux
+moyen d’imposition croît avec l’assiette.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 7  ____________________________
+1.2.1 Calcul des recettes structurelles
+
+Pour chaque catégorie de prélèvements obligatoires R, la composante structurelle Rs s’écrit
+en fonction de l’élasticité conventionnelle θ à l’écart de production :
+
+Rs  =  R Y * θ
+        Y 
+
+Cette formule est valable pour les catégories CSS et APO. Pour l’IR et l’IS, on tient compte
+du décalage d’un an entre le fait générateur (évolution de la base taxable) et le recouvrement
+effectif (l’indice -1 faisant référence à l’année précédente) :
+
+Rs  =  R  Y−1 *  θ
+              Y−1
+
+Les recettes conjoncturelles Rc s’en déduisent :
+
+Rc  =  R  −   Rs  =  R1  −    Y*  θ    =  R1   −  1  +  Y  −Y  *  −θ  
+                                   Y                                  Y*          
+
+Soit, après linéarisation au premier ordre en l’écart de production :
+
+Rc  =  R−     Rs  ≈ θR Y      −Y  * 
+                               Y*   
+
+En ce qui concerne les autres recettes (recettes hors PO), on considère que leur niveau
+structurel est toujours égal à leur niveau effectif.
+
+1.2.2 Calcul des dépenses structurelles
+
+Concernant les dépenses publiques, seules les dépenses d’indemnisation du chômage sont
+
+supposées dépendre de la conjoncture. La part conjoncturelle de ces dépenses est supposée
+dépendre du rapport entre le taux de chômage effectif et le taux de chômage structurel10. On
+
+fait ensuite l’hypothèse que ce rapport est proportionnel à l’écart de production, ce qui revient
+
+à appliquer la loi d’Okun11. Si η désigne l’élasticité des dépenses de chômage à l’écart de
+
+production, on a, de manière analogue à ce qui a été écrit pour les recettes :
+
+                                    D cho    =   D cho  Y * η
+                                       s              Y 
+
+On en déduit les dépenses conjoncturelles liées au chômage (au premier ordre en l’écart de
+production) :
+
+                                D cho   ≈ ηDcho  Y            −Y   * 
+                                   c                           Y*    
+
+10 Pour plus de détails sur le taux de chômage structurel, cf. « Quelles sont les parts cyclique et structurelle du chômage en
+France », J.P. Renne, Trésor Eco n°10, mars 2007.
+11 Le fait que l’emploi s’ajuste généralement avec quelques mois de retard sur l’activité pourrait introduire un léger décalage
+temporel entre le ratio chômage effectif sur chômage structurel et l’écart de production, décalage dont on n’a pas tenu compte
+ici.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 8          ____________________________
+Pour les autres dépenses publiques, on considère que leur niveau structurel est égal à leur
+niveau effectif.
+
+     1.2.3 Calcul du solde structurel
+
+On déduit des calculs précédents les soldes structurel et conjoncturel :
+
+                                 θ  IR                          θ  IS  + RCSS  Y * θ CSS            + R APO  Y * θ APO
+                                                                                      Y                               Y 
+Ss   =       R  IR    Y−1 *             +  R  IS    Y−1 *                                                                       + Rhors _ PO
+                          Y−1                               Y−1
+
+         −   Dcho  Y * η            −    Dhors _ cho
+                  Y 
+
+Sc = S − Ss ,
+
+en notant Rhors_ PO les recettes hors prélèvements obligatoires et Dhors_cho les dépenses hors
+dépenses de chômage.
+
+En supposant que les parts                                       des différentes catégories de PO et des dépenses
+
+d’indemnisation du chômage dans le PIB effectif sont constantes dans le temps, on exprime la
+
+variation du solde conjoncturel en points de PIB effectif (en notant OG l’écart de production),
+
+au premier ordre en l’écart de production :
+
+∆  Sc    ≈  θ   IRδ   IR ∆OG−1             +θ     IS δ  IS ∆OG−1           +θ   δ CSS      CSS ∆OG          +θ  δ APO     APO ∆OG   − ηδ  cho ∆OG
+    Y   
+
+La variation du solde structurel est généralement exprimée en points de PIB potentiel. Elle
+peut s’écrire comme la différence entre la variation du solde effectif (en points de PIB
+effectif) et la variation du solde conjoncturel (en points de PIB effectif), plus un terme
+corrigeant de la différence entre les dénominateurs utilisés (PIB effectif ou potentiel) :
+
+                                        ∆  Ss     =     ∆  S       −   ∆  Sc    +  ∆  Ss    −  ∆  S  s  
+                                            Y *               Y                Y                  Y             Y
+                                                                                                                           *
+
+Ce terme entre crochets correspond à « l’effet dénominateur ». Il est négligeable au premier
+ordre devant l’output gap, mais peut se révéler significatif en cas de fortes variations de
+l’écart de production ; ainsi en 2009, il contribuerait à hauteur de 0,3 point de PIB à la
+dégradation du solde public. On définit la variation conjoncturelle du solde public comme la
+somme de la variation du solde conjoncturel (en points de PIB effectif) et de cet effet
+dénominateur. Dans ce qui suit, on désignera souvent par abus de langage la variation
+conjoncturelle du solde public sous le nom de variation du solde conjoncturel, ce qui n’est
+justifié que lorsque l’effet dénominateur est négligeable.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 9                                    ____________________________
+Encadré 1 : la « règle du pouce » : une méthode simplifiée de calcul du solde structurel
+
+On peut estimer de façon approchée le solde structurel en faisant les hypothèses simplificatrices
+suivantes :
+
+- on ne tient pas compte des effets « retardés » de l’IR et de l’IS (décalage d’un an entre l’évolution de
+la base taxable et le recouvrement effectif de l’impôt) ;
+
+- les parts δ des différentes catégories de PO et des dépenses d’indemnisation du chômage dans le
+
+PIB effectif sont supposées constantes ;
+
+- on raisonne au premier ordre en l’écart de production, et on considère notamment comme
+négligeable l’« effet dénominateur » mentionné à la fin du paragraphe 1.2.
+
+Sous ces hypothèses, la variation du solde conjoncturel peut s’écrire :
+
+           ( ) ∆ Sc  ≈ θ IRδ IR + θ ISδ IS + θ CSSδ CSS + θ δ APO APO −ηδ cho .∆OG
+                    Y 
+
+Compte tenu des élasticités présentées dans le tableau 1 et du poids moyen des différents PO et des
+dépenses d’indemnisation du chômage dans le PIB entre 2000 et 2008, on obtient la formule
+approchée suivante, appelée « règle du pouce » :
+
+                                             ∆ Sc  ≈ 0,46.∆OG
+                                               Y 
+
+On estime donc à environ 0,46 la sensibilité du solde conjoncturel aux variations de l’écart de
+production. Cette sensibilité est susceptible de varier dans le temps si le poids des différentes
+catégories de PO ou des dépenses d’indemnisation du chômage dans le PIB varie. En utilisant les
+poids de 2003 et des champs légèrement différents, l’OCDE estimait cette sensibilité à 0,53 pour la
+France, et la Commission Européenne à 0,4912. A noter que la Commission utilise directement cette
+méthode pour évaluer le solde structurel.
+
+De manière plus générale, cette sensibilité est de l’ordre de un demi pour les principaux pays d’Europe
+occidentale13. Selon les estimations de l’OCDE, elle est en revanche plus proche d’un tiers aux États-
+Unis et au Japon, ce qui s’explique principalement par un poids moins grand des prélèvements
+obligatoires dans ces deux pays.
+
+    1.3 La prise en compte des événements exceptionnels affectant le solde public
+
+Certains événements ou mesures de nature exceptionnelle affectent le solde public une année
+donnée mais n’ont pas d’effet pérenne sur le solde. C’est le cas par exemple de certaines
+mesure de relance décidées en 2009 pour faire face à la crise économique, ou des recettes
+exceptionnelles liées aux versements de soultes. Du fait de leur caractère exceptionnel, la
+question de les exclure du solde structurel peut se poser.
+
+Ainsi, la Commission européenne distingue le concept de « solde corrigé des variations
+cycliques » de celui de « solde structurel ». Le solde corrigé des variations cycliques
+correspond à la définition donnée plus haut de solde structurel. Le solde structurel affiché par
+la Commission européenne est quant à lui égal au solde corrigé des variations cycliques
+duquel sont retranchées les mesures exceptionnelles affectant le solde public.
+
+12 Sources : “Measuring cyclically-adjusted budget balances for OECD countries”, N. Girouard et C. André, OECD
+Economics Department Working Paper n°434, 2005 ; “New and updated budgetary sensitivities for the EU budgetary
+surveillance”, Commission Européenne, septembre 2005.
+13 Selon les estimations de l’OCDE : 0,51 pour l’Allemagne, 0,53 pour l’Italie, 0,44 pour l’Espagne, 0,45 pour le Royaume-
+Uni.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 10  ____________________________
+Par mesures exceptionnelles, la Commission entend toutes les mesures qui affectent
+temporairement le solde public, y compris celles qui consistent en une modification pérenne
+de la législation. Ainsi, l’impact sur le solde public de mesures comme les acomptes sur
+dividende résultant d’un changement pérenne de la politique de versement des entreprises
+publiques, est exclu du calcul du solde structurel de la Commission. La définition de ce qui
+représente une mesure exceptionnelle reste toutefois largement une question d’interprétation :
+ainsi, malgré son caractère non pérenne, le plan de relance de 2009 n’a pas été considéré
+comme « exceptionnel » par la Commission alors que le surcoût temporaire en 2010 de la
+réforme de la taxe professionnelle l’a été.
+
+La DGTPE retient une approche différente, qui est présentée dans ce document de travail : les
+effets des événements ayant un impact temporaire sur le solde public sont inclus dans le
+calcul du solde structurel. Cela se justifie notamment par la difficulté d’identifier de manière
+consensuelle le caractère exceptionnel ou non de chaque mesure.
+
+Toutefois, la DGTPE publie, en plus de son évaluation de « solde structurel », un « solde
+structurel hors soultes » qui retranche du solde structurel les recettes exceptionnelles de
+soultes qui ne peuvent être considérées comme pérennes. En effet, les soultes dites Marcoule,
+IEG et La Poste, qui compensent le transfert au régime général des prestations de retraites des
+salariés de ces entreprises, ont contribué à élever les recettes hors prélèvements obligatoires
+de façon exceptionnelle, respectivement en 2004, 2005 et 2006.
+
+    1.4 Exemple : décomposition de l’évolution du solde public entre 2000 et 2008
+
+A titre illustratif, voici pour la période 2000-2008 la décomposition du solde public entre la
+composante conjoncturelle et sa composante structurelle.
+
+Les données utilisées sont issues de la comptabilité nationale pour la plupart des agrégats
+macroéconomiques et de finances publiques. Les recettes fiscales de l’État (IR et IS
+notamment) proviennent de la comptabilité budgétaire. La croissance potentielle correspond à
+une estimation de la DGTPE, qui apparaît notamment dans le « Rapport économique social et
+financier » annexé au PLF 2010.
+
+Tableau 2 : décomposition de l’évolution du solde public entre 2000 et 2008
+                                                   2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+Solde public (% du PIB)                     -1,5 -1,6 -3,2 -4,1 -3,6 -3,0 -2,3 -2,7 -3,4
+
+Solde structurel hors soultes               -2,5 -2,8 -4,2 -4,8 -4,4 -4,0 -2,9 -3,1 -3,1
+(% du PIB potentiel)                        0,3 -0,1 -1,6 -1,0 0,5 0,7 0,6 -0,4 -0,7
+Variation du solde public                   0,7 0,1 -0,2 -0,3 0,1 -0,2 -0,1 0,0 -0,6
+(point de PIB)                              -0,5 -0,2 -1,4 -0,6 0,4 0,9 0,8 -0,4 0,0
+Variation du solde conjoncturel
+(point de PIB potentiel)
+Variation du solde structurel
+(point de PIB potentiel)
+
+dont impact des soultes                     0,0 0,0 0,0 0,0 0,1 0,4 -0,4 -0,1 0,0
+
+Variation du solde structurel hors soultes  -0,5  -0,2 -1,4   -0,6  0,3  0,5  1,1 -0,3  0,0
+(point de PIB potentiel)
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 11  ____________________________
+Graphique 1 : décomposition des variations du solde public                      points de PIB
+                                                                                            -1.0
+                       points de PIB
+                         1.5
+
+1.0                                                                                                        -1.5
+
+0.5                                                                                                        -2.0
+
+0.0                                                                                                        -2.5
+
+-0.5                                                                                                       -3.0
+
+-1.0                                                                                                       -3.5
+
+-1.5                                                                                                       -4.0
+
+-2.0             2001   2002            2003  2004            2005  2006  2007               -4.5
+           2000                                                                 2008
+
+      variations du solde conjoncturel                        variations du solde structurel hors soultes
+      impact des soultes                                      Solde public (échelle de droite)
+
+Source : calculs DGTPE
+
+On observe que lors du ralentissement de l’activité économique entre 2001 et 2003, le
+creusement du déficit public s’explique en premier lieu par une dégradation du solde
+structurel et dans une moindre mesure par la dégradation du solde conjoncturel. C’est ensuite
+l’amélioration du solde structurel qui explique le redressement du solde public entre 2003 et
+2006, alors que la conjoncture a eu un léger effet négatif sur cette période. En 2007 et 2008, le
+déficit public s’est de nouveau creusé, pour des raisons structurelles en 2007 et pour des
+raisons conjoncturelles en 2008.
+
+Cette première analyse des variations du solde public est intéressante, mais elle demande à
+être complétée : elle le sera dans ce qui suit par la définition du concept d’« effort structurel »,
+qui vise à mesurer ce qui dans l’évolution du solde structurel est réellement de nature
+discrétionnaire (partie 2), et par l’analyse de l’évolution du solde structurel par sous-secteurs
+des administrations publiques (partie 3).
+
+    1.5 Incertitudes autour de la mesure du solde structurel et limites de son
+         interprétation
+
+Une première difficulté dans l’évaluation du solde structurel provient de l’utilisation du PIB
+potentiel, qui est un concept non directement mesurable et qui fait l’objet de différentes
+évaluations selon les organismes internationaux et leurs méthodes respectives. Des mesures
+différentes de l’écart de production et donc de la conjoncture économique aboutissent à des
+niveaux de solde structurel différents. En revanche, comme on le verra au paragraphe 4.3., la
+variation du solde structurel est moins sensible au choix de la méthode utilisée dans la mesure
+où la croissance potentielle l’est elle-même moins que le PIB potentiel en niveau.
+
+Au delà de ces problèmes de mesure, le solde structurel n’est pas un outil adapté à
+l’évaluation de l’action publique discrétionnaire. Le calcul du solde structurel repose en effet
+sur des élasticités conventionnelles des différentes catégories de PO et des dépenses
+d’indemnisation du chômage à la conjoncture supposées constantes au cours du temps. Cette
+hypothèse, valable à long terme ne l’est pas à chaque instant, ce qui biaise la mesure du solde
+structurel dans la mesure où les écarts entre les élasticités conventionnelles et les élasticités
+effectives se reportent intégralement sur lui. Enfin, par construction, l’évolution du solde
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 12  ____________________________
+structurel inclut les variations des recettes hors prélèvements obligatoires alors qu’elles ne
+sont pas nécessairement de nature discrétionnaire.
+
+2 L’effort structurel, composante discrétionnaire de la variation du solde
+    structurel
+
+    2.1 Définition de l’effort structurel
+
+L’effort structurel des administrations publiques représente ce qui dans la variation du solde
+structurel est imputable à des facteurs discrétionnaires.
+
+Il est défini comme la somme d’un effort en dépenses et d’un effort en recettes. L’effort en
+dépenses est mesuré comme l'opposé de la variation du ratio de dépenses structurelles (c'est-à-
+dire corrigées de l’impact du cycle sur les dépenses de chômage) sur le PIB potentiel et
+dépend ainsi de l’écart entre taux de croissance de la dépense publique structurelle et la
+croissance potentielle nominale de l’économie. L’effort en recettes est égal à l’impact estimé
+des mesures fiscales et sociales nouvelles sur les prélèvements obligatoires perçus par
+l'ensemble des administrations publiques.
+
+Le concept d’effort structurel ainsi défini permet en partie de surmonter les limites inhérentes
+à la mesure du solde structurel.
+
+    - L’effort structurel est à rapprocher de la variation du solde structurel, qui est moins
+           sensible au choix de la méthode utilisée pour le calcul de l’écart de production dans
+           la mesure où la croissance potentielle l’est elle-même moins que le PIB potentiel en
+           niveau.
+
+    - L’effort structurel permet de soustraire de la variation de solde structurel les effets
+           liés aux fluctuations des élasticités fiscales et les évolutions des recettes hors
+           prélèvements obligatoires, en se concentrant uniquement sur l’impact des mesures
+           discrétionnaires en recettes.
+
+    - Toutefois, le choix retenu pour la définition de l’effort en dépense, tenant pour
+           discrétionnaire tout accroissement des dépenses à un rythme différent du PIB
+           potentiel – et non à un rythme tendanciel de la dépense – peut être discuté.
+
+La composante non discrétionnaire de la variation du solde structurel, qui se définit par
+différence, peut également se décomposer en la somme de deux termes :
+
+    - la contribution des recettes hors prélèvements obligatoires, qui est égale à
+           l’accroissement de la part des recettes hors prélèvements obligatoires dans le PIB
+           potentiel ;
+
+    - la contribution des fluctuations des élasticités fiscales des prélèvements obligatoires,
+           obtenue comme un résidu, à rapprocher de l’évolution spontanée du taux de
+           prélèvements obligatoires14.
+
+14 La contribution de l’évolution spontanée à la variation du taux de prélèvements obligatoires est définie comme la variation
+du taux de PO (en points de PIB) entre T-1 et T auquel on retranche la part des mesures nouvelles dans le PIB en T. Si les
+élasticités sont unitaires et en l’absence de décalage temporel entre liquidation et recouvrement des différents impôts, la
+contribution devrait être égale à zéro. Par conséquent, la contribution de l’évolution spontanée donne une mesure de la
+déviation des élasticités ex post par rapport à cette « norme ». La contribution de l’évolution spontanée des prélèvements
+obligatoires à l’évolution du solde structurel diffère quelque peu de cette dernière. En effet, elle mesure les déviations non
+pas à la situation de référence d’élasticités des PO unitaires et d’absence de décalage temporel, mais par rapport à la situation
+de référence implicite au calcul du solde conjoncturel (élasticités évoluant comme la sensibilité moyenne historiquement
+observée, prise en compte du décalage temporel entre date de perception et date de recouvrement de l’impôt sur le revenu et
+l’impôt sur les sociétés).
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 13  ____________________________
+    2.2 Calcul de l’effort structurel
+
+De manière plus formelle, en reprenant les notations du paragraphe 1.2, on peut définir
+l’effort structurel de la manière suivante.
+
+2.2.1 Décomposition de la variation des recettes structurelles
+
+En notant MN les mesures nouvelles sur les prélèvements obligatoires et ε l’élasticité
+
+effective des recettes par rapport au PIB effectif contemporain, la variation des recettes
+effectives peut s’écrire :
+
+∆R  =  MN     +  R IRε IR      ∆Y    +   R IS ε IS      ∆Y    +     ε R CSS CSS              ∆Y      +  R APOε     APO     ∆Y  + ∆Rhors _ PO
+                               Y                        Y                                    Y                             Y
+
+A la suite des calculs du paragraphe 1.2, la variation des recettes conjoncturelles s’écrit, au
+premier ordre en l’écart de production :
+
+∆Rc ≈ θ IR R IR ∆OG−1 + θ IS R IS ∆OG−1 + θ CSS R CSS ∆OG + θ APO R APO ∆OG
+
+D’où la variation des recettes structurelles :
+
+∆Rs = ∆R − ∆Rc
+
+La variation des recettes structurelles en points de PIB peut s’écrire de la manière suivante, au
+premier ordre en l’écart de production, et en notant y * le taux de croissance potentielle
+nominale :
+
+∆ Rs   =  Rs  −     Rs −1  +     Rs      .   1  −     1                ≈     ∆(Rs  )  −  y *  Rs 
+ Y *        Y*        Y*                          Y*        *−1                                        Y * −1
+                                         −1                Y                              Y*
+
+On obtient ainsi la décomposition suivante pour la variation des recettes structurelles en
+points de PIB, au premier ordre, en considérant la part des recettes δ * dans le PIB potentiel
+constante :
+
+∆ Rs   =  MN  +     ∆  Rhors _ PO     +  Reste
+ Y *        Y*                 Y*
+
+Le premier terme correspond à l’effort structurel en recettes : c’est l’effet des mesures
+nouvelles en prélèvements obligatoires sur l’évolution des recettes structurelles. Le deuxième
+terme représente l’impact des variations des recettes hors prélèvements obligatoires. Enfin, le
+terme Reste peut s’écrire au premier ordre comme :
+
+∑ ( ) ∑ Reste ≈                      ∆Y                                              ∆Y  − θ i . ∆Y        .δ  *i
+                        εi −θi       Y       δ      *i  +                       ε  i  .  Y        Y       
+
+           i=CSS , APO                                     i  = IR  , IS                                       −1
+
+              ∑ +                    (θ  i  −1) y *    Rsi      −1
+                                                           Y*
+                 i=IR,IS ,CSS , APO
+
+Ce terme dépend des différences entre les élasticités spontanées et les élasticités
+conventionnelles, et entre les élasticités conventionnelles et l’unité. Il sera désigné comme la
+contribution des « effets d’élasticités » à la variation des recettes structurelles.
+
+Les deux derniers termes de la décomposition de la variation des recettes structurelles ne sont
+pas de nature discrétionnaire.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 14                                 ____________________________
+2.2.2 Décomposition de la variation des dépenses structurelles
+
+Avec les notations définies précédemment, la variation des dépenses conjoncturelles s’écrit
+(au premier ordre en l’écart de production) :
+
+∆ Dc  ≈ ηδ *cho ∆OG
+ Y *
+
+L’évolution de la part des dépenses publiques dans le PIB potentiel peut s’écrire (au premier
+ordre) :
+
+         ∆ D  ≈ D−1 (d − y*)
+            Y *  Y *−1
+
+en notant d le taux de croissance nominal de la dépense publique.
+
+D’où la variation des dépenses structurelles en points de PIB, ou effort structurel en dépense,
+qui dépend principalement de l’écart entre taux de croissance de la dépense publique
+structurelle et la croissance potentielle nominale de l’économie :
+
+∆ Ds  ≈ D−1 (d − y*) −ηδ *cho ∆OG
+  Y *  Y *−1
+
+2.2.3 Décomposition de la variation du solde structurel
+
+Finalement, on obtient grâce à ce qui précède la décomposition suivante de la variation du
+
+solde structurel :
+
+∆ S s   =        MN     −   D−1   (d  −  y*) +ηδ  *cho   ∆OG    +  ∆  Rhors _ PO    +         
+ Y *                         Y *−1                                                Y*                 Re ste
+                      Y  *                                        
+                                                                                                                
+
+Le premier crochet correspond aux variations discrétionnaires du solde structurel, c'est-à-dire
+à l’effort structurel. Il peut se décomposer comme la somme des mesures nouvelles en PO et
+de l’effort en dépense. Le second crochet représente les variations non discrétionnaires du
+solde structurel. Elles peuvent se décomposer comme la somme de deux termes : la
+contribution des recettes hors PO et les effets d’élasticités.
+
+    2.3 Exemple : décomposition de l’évolution du solde structurel entre 2000 et 2008
+
+A titre illustratif, le tableau 3 ainsi que les graphiques 2, 3 et 4 présentent une décomposition
+de la variation du solde structurel entre 2000 et 2008 sur la base des définitions qui précèdent.
+Ils permettent notamment d’analyser de manière plus fine les évolutions présentées au
+paragraphe 1.4.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 15       ____________________________
+Tableau 3 : décomposition de l’évolution du solde structurel entre 2000 et 2008
+
+                                       2000 2001 2002 2003 2004 2005 2006                                          2007  2008
+
+Variation du solde structurel          -0,5 -0,2 -1,4 -0,6 0,4 0,9 0,8                                             -0,4   0,0
+(en point de PIB)
+                                                                                                                   -0,1   0,0
+dont impact des soultes                0,0 0,0 0,0 0,0 0,1 0,4 -0,4                                                -0,3   0,0
+                                                                                                                   -0,2   0,0
+Variation du solde structurel hors soultes -0,5 -0,2 -1,4 -0,6 0,3 0,5 1,1                                         -0,6  -0,5
+                                                                                                                    0,4   0,5
+dont effort structurel                 -1,1 -1,0 -1,2 -0,1 0,1 0,4 0,9                                              0,0  -0,1
+
+dont mesures nouvelles en PO           -1,2 -1,0 -0,4 0,1 0,1 0,4 0,1                                               0,0   0,0
+                                                                                                                   -0,1   0,0
+    dont effort en dépense             0,0 0,1 -0,8 -0,2 -0,1 0,1 0,8
+                                       0,7 0,7 -0,2 -0,5 0,3 0,0 0,3
+dont composante non discrétionnaire
+(hors soultes)
+
+dont recettes hors PO, hors soultes    0,3 0,2 0,0 -0,3 0,0 0,0 0,0
+
+dont effets d’élasticités              0,5 0,6 -0,2 -0,2 0,3 0,0 0,2
+
+Graphique 2 : décomposition des variations du solde structurel (hors soultes)
+
+1,5
+        Variations du solde structurel, en point de PIB
+
+1,0
+
+0,5
+
+0,0
+
+-0,5
+-1,0
+-1,5
+
+-2,0                       2001  2002  2003              2004             2005  2006  2007  2008
+            2000
+
+      Effort structurel (composante discrétionnaire)                Composante non discrétionnaire (hors soultes)
+
+Source : calculs DGTPE
+
+Graphique 3 : décomposition de l’effort structurel
+
+                      1,0
+                                Effort structurel, en point de PIB
+
+0,5
+
+0,0
+
+-0,5
+
+-1,0
+
+-1,5                       2001  2002  2003                         2004  2005  2006  2007  2008
+            2000
+
+                                 Mesures nouvelles en PO Effort en dépenses
+
+Source : calculs DGTPE
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 16              ____________________________
+Graphique 4 : décomposition de la composante non discrétionnaire de l’évolution du solde
+structurel
+
+1,2
+
+1,0   Composante non discrétionnaire de l'évolution du
+
+                  solde structurel, en points de PIB
+
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+0,0
+
+-0,2
+
+-0,4
+
+-0,6
+
+-0,8              2001  2002  2003                    2004    2005  2006                    2007  2008
+            2000
+
+                        recettes hors PO (hors soultes)       effets d’élasticités
+
+Source : calculs DGTPE
+
+Entre 2000 et 2003, le solde structurel s’est dégradé de 2,7 points de PIB. Cette dégradation
+s’explique en premier lieu par un relâchement important de l’effort structurel entre 2000 et
+2002 (1 point de PIB par an environ pendant ces trois années), sous l’effet de nombreux
+allègements fiscaux (baisses de l’impôt sur le revenu en 2000 et 2001, mise en place de la
+Prime pour l’emploi, baisse du taux normal de TVA de 20,6 % à 19,6 % en 2000, baisse de
+30 % de la TIPP sur le fioul domestique, suppression de la vignette automobile, baisse de
+l’impôt sur les sociétés en particulier pour les PME, réforme de la taxe professionnelle visant
+à supprimer la part salariale de son assiette, etc15). Le niveau élevé des élasticités des recettes
+fiscales en 2000 et 2001 ainsi que le dynamisme des recettes hors PO ont cependant permis de
+limiter la détérioration du solde structurel sur cette période. En 2003 en revanche, la
+dégradation du solde structurel a été principalement de nature non discrétionnaire, avec
+notamment une contribution négative de la croissance des recettes hors PO.
+
+On observe ici un exemple de corrélation de la composante non discrétionnaire avec le cycle
+économique : elle a contribué à l’amélioration du solde public en 2000 et 2001, lors d’une
+période de conjoncture favorable, et a contribué négativement en 2002 et 2003 lors d’un
+ralentissement conjoncturel. Cela s’explique par une certaine corrélation au cycle économique
+des élasticités fiscales ainsi que des recettes hors PO (par exemple les dividendes versés à
+l’État au titre de ses participations dans des entreprises). Cette corrélation reste toutefois
+irrégulière, ce qui contribue à justifier la non prise en compte des effets d’élasticités fiscales
+dans le solde conjoncturel.
+
+Entre 2004 et 2006, le solde structurel (hors soultes) s’est amélioré de 2,0 points de PIB au
+total, sous l’effet conjugué d’un effort structurel important (1,4 point) et d’une contribution
+positive de la composante non discrétionnaire (0,6 point). L’effort structurel sur la période a
+résulté à la fois d’une croissance de la dépense moins rapide que celle du PIB potentiel, en
+particulier en 2006, et de mesures nouvelles en PO allant dans le sens de l’amélioration du
+solde public, en particulier en 2005 (réforme de l’assurance maladie, création de la
+
+15 Pour plus de détails, cf. L’Économie française, éditions 2001-2002 et 2002-2003, Insee.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 17  ____________________________
+contribution de solidarité pour l’autonomie, réforme du régime des acomptes de l’impôt sur
+les sociétés, etc16).
+
+En 2007, le solde structurel (hors soultes) s’est dégradé de 0,4 point sous l’effet de différentes
+mesures nouvelles en PO (en particulier : réforme du barème de l’impôt sur le revenu et
+diminution de l’impôt sur les sociétés). La faible croissance de la dépense publique par
+rapport à la croissance potentielle a toutefois limité la dégradation du solde structurel.
+
+En 2008, le solde structurel est resté relativement stable, la faible croissance de la dépense
+publique venant contrebalancer l’effet des baisses d’impôts (en particulier : différentes
+mesures de la loi TEPA en faveur des ménages et mesures visant à diminuer l’impôt sur les
+sociétés et allègements de cotisations sociales pour les entreprises). Cette faible croissance de
+la dépense publique (par rapport à la croissance potentielle nominale) s’explique en partie par
+une surprise d’inflation positive. En effet, l’inflation observée pour l’année 2008 (2,8 %) a été
+nettement plus élevée que l’inflation prévue au moment de la loi de finances initiale (1,6 %).
+Cela a eu pour conséquence de limiter la croissance de la dépense de l’État en volume, dont
+l’évolution est décidée sur la base de l’inflation prévue au moment de la loi de finances
+initiale.
+
+    2.4 Limites du concept d’effort structurel
+
+L’effort structurel constitue incontestablement un progrès par rapport au solde structurel dans
+la recherche d’un indicateur de la composante discrétionnaire du solde public. Il permet
+notamment d’éliminer de la variation du solde structurel les mouvements d’élasticités de
+recettes fiscales, qui impactent par construction la variation du solde structurel alors qu’ils ne
+résultent pas de décisions discrétionnaires de l’autorité publique.
+
+Cependant, si du côté des recettes, les mesures nouvelles sur les prélèvements obligatoires
+constituent un bon indicateur de la conduite la politique fiscale, l’évaluation de l’effort en
+dépense repose sur une référence conventionnelle pour la croissance des dépenses publiques :
+la croissance potentielle. Rendre cette hypothèse moins conventionnelle apparaît cependant
+difficile.
+
+Par exemple, dans le cas de l’augmentation du point d’indice de la fonction publique,
+considère-t-on qu’est discrétionnaire une augmentation du point (approche juridique), une
+augmentation du point au delà de l’inflation (afin de préserver le pouvoir d’achat absolu des
+fonctionnaires) ou une augmentation au delà du salaire privé (afin de préserver leur pouvoir
+d’achat relatif) ?
+
+La question du périmètre de la dépense publique discrétionnaire se pose également : un
+certain nombre de dépenses publiques, comme le paiement des charges d’intérêts sur la dette,
+sont incompressibles et on pourrait être tenté de les ôter de l’effort structurel en dépense.
+Dans l’approche retenue ici, on considère que la dépense publique dans son ensemble est de
+nature discrétionnaire ; cela repose notamment sur l’idée selon laquelle l’évolution de la
+dépense publique est décidée à un niveau agrégé, ce qui est par exemple le cas pour l’État
+dans le cadre de la norme budgétaire.
+
+3 Solde structurel et effort structurel des sous-secteurs des administrations
+    publiques
+
+On peut affiner encore l’analyse des variations du solde public en appliquant la méthode de
+calcul du solde structurel et de l’effort structurel précédemment décrites aux quatre grands
+
+16 Pour plus de détails, cf. L’Economie française, éditions 2005-2006 et 2006-2007, Insee.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 18  ____________________________
+sous-secteurs des administrations publiques : l’État, les organismes divers d’administration
+centrale (ODAC), les administrations publiques locales (APUL) et les administrations de
+sécurité sociale (ASSO). Une telle approche désagrégée vise notamment à estimer la position
+budgétaire structurelle des différents sous-secteurs ou encore déterminer la contribution de
+chaque sous-secteur à l’effort structurel.
+
+La partition de l’effort structurel et de la composante non discrétionnaire de la variation de
+solde structurel demande des retraitements supplémentaires des mesures de périmètre d’une
+part et des variations de transferts entre sous-secteurs, d’autre part.
+
+    3.1 Solde structurel des sous-secteurs des administrations publiques
+
+On peut appliquer de façon mécanique la méthode de calcul du solde structurel aux différents
+sous-secteurs des administrations publiques. On définit ainsi pour chaque sous-secteur les
+recettes et les dépenses structurelles comme celles qui seraient observées si le PIB était égal
+au PIB potentiel.
+
+On conserve au niveau des sous-secteurs les estimations de sensibilités des grandes
+composantes de dépenses et de recettes définies précédemment, ce qui permet notamment
+d’assurer une cohérence d’ensemble entre l’indicateur agrégé et l’indicateur désagrégé.
+
+Le tableau 4 ci-dessous donne, pour l’année 2008, les poids dans le PIB de chaque
+composante des finances des sous-secteurs des administrations publiques.
+
+Tableau 4 : poids dans le PIB des composantes conjoncturelles et structurelles des finances des
+
+administrations publiques (en 2008)
+
+                                                              Poids dans le PIB, en %
+
+                                             APU              État  ODAC APUL ASSO
+
+Recettes                                     49,3             17,1  3,4  10,9          24,2
+
+Prélèvements obligatoires                    42,5             13,7  0,9  5,8           22,2
+
+dont impôt sur le revenu (IR)                3,0              3,0   0    0             0
+
+dont impôt sur les sociétés(IS)              2,5
+
+                                                              2,5   0    0             0
+
+dont cotisations sociales (CSS)              20,1
+
+                                                              0     0    0             20,1
+
+dont autres prélèvements obligatoires (APO)  16,9
+
+                                                              8,1   0,9  5,8           2,1
+
+Recettes hors prélèvements obligatoires      6,7              3,4   2,5  5,1           2,0
+
+Dépenses                                     52,7             19,9  3,5  11,3          24,2
+
+Dépenses d’indemnisation du chômage          1,0              0     0    0             1,0
+
+Autres dépenses publiques                    51,6             19,9  3,5  11,3          23,2
+
+(*) Les dépenses hors chômage et les recettes hors prélèvements obligatoires des APU sont consolidées des
+transferts entre sous-secteurs.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 19  ____________________________
+Solde conjoncturel des sous-secteurs des administrations publiques et output gap
+
+en % du PIB                                                                                            en % du PIB
+1.5                                                                                                                    3
+
+1.0                                                                                                                        2
+
+0.5                                                                                                                        1
+
+0.0                                                                                                                        0
+
+-0.5                                                                                                                       -1
+
+-1.0                                                                                                                       -2
+
+-1.5              2001  2002                     2003        2004        2005        2006        2007                -3
+            2000                                                                                       2008
+
+      État        ODAC                           APUL        ASSO        Toutes APU              output gap (éch. droite)
+
+Source : calculs DGTPE
+
+Graphique 6 : solde structurel (hors soultes) des sous-secteurs des administrations publiques
+
+                  en % du PIB
+                  2.0
+
+1.0
+
+0.0
+
+-1.0
+
+-2.0
+
+-3.0
+
+-4.0
+
+-5.0              2001  2002                           2003        2004        2005  2006        2007  2008
+            2000
+
+                                           État  ODAC        APUL        ASSO        Toutes APU
+
+Source : calculs DGTPE
+
+Les graphiques 5 et 6 présentent l’évolution du solde conjoncturel et du solde structurel des
+différents sous-secteurs des administrations publiques entre 2000 et 2008.
+
+Compte tenu de la part prépondérante des prélèvements obligatoires de l’État et des ASSO
+dans les prélèvements totaux des administrations publiques, ces deux sous-secteurs portent
+l’essentiel des variations du solde public conjoncturel, comme l’illustre le graphique 5. Le
+graphique 6 met quant à lui en évidence le fait que sur la période considérée, l’État est le
+principal contributeur au déficit structurel des administrations publiques.
+
+Si cette décomposition entre solde conjoncturel et solde structurel est suffisante pour obtenir
+une évaluation de la position sous-jacente des différents sous-secteurs, les limites déjà
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 20                   ____________________________
+exprimées sur l’évaluation de cet indicateur au niveau de l’ensemble des administrations
+publiques restent valables. Il apparaît donc souhaitable d’appliquer à cette partition le concept
+d’effort structurel introduit dans la partie 2, et de déterminer ce qui dans l’évolution du solde
+structurel de chaque sous-secteur est de nature discrétionnaire.
+
+    3.2 Une partition de l’effort structurel et de la composante non discrétionnaire de la
+         variation de solde structurel
+
+A la différence de l’évaluation du solde structurel des sous-secteurs, la déclinaison de la
+décomposition entre effort structurel et composante non discrétionnaire n’a rien de
+mécanique. En effet, au-delà des limites déjà connues sur le champ de l’ensemble des
+administrations publiques (qui restent évidemment valables au niveau désagrégé), le calcul du
+solde structurel et de l’effort structurel par sous-secteurs présente deux difficultés
+supplémentaires, qui nécessitent des retraitements particuliers.
+
+          3.2.1 Le retraitement des mesures de périmètre et des dépenses et recettes de
+                 transferts
+
+          - Les mesures de périmètre
+
+La lecture de l’évolution des ratios de dépenses et de recettes au niveau des sous-secteurs des
+administrations publiques est brouillée par des mesures de périmètre et des transferts de
+compétences entre administrations publiques, qui sont neutres au niveau de l’ensemble des
+administrations publiques.
+
+Deux exemples permettent d’illustrer ce point.
+
+La fusion de l’ANPE (ODAC) et de l’UNEDIC (ASSO) au sein de Pôle emploi, a conduit à
+classer l’intégralité du nouvel ensemble dans les ASSO. Ce changement de périmètre conduit
+à une hausse des dépenses et des recettes des ASSO et à une baisse symétrique pour les
+ODAC. Pour autant, cette diminution de la dépense ODAC ne constitue pas un « effort » en
+dépense des ODAC.
+
+Le transfert du RMI aux départements diminue la dépense de l’État et augmente celle des
+APUL sans qu’on puisse l’attribuer à un effort en dépense de l’État ou d’un effort en dépense
+négatif de la part des APUL.
+
+Il convient donc de raisonner à champ constant glissant, c'est-à-dire de corriger les évolutions
+des recettes et des dépenses des mesures de périmètre y compris les transferts de
+compétences.
+
+          - La consolidation des dépenses publiques
+
+Par ailleurs, la somme des dépenses des sous-secteurs des administrations publiques est
+supérieure à la dépense publique totale. En effet, la dépense publique totale est « consolidée »
+des transferts entre administrations publiques, ce qui permet de ne pas comptabiliser deux fois
+les mêmes dépenses. Par exemple l’allocation spécifique de solidarité (ASS) est versée par le
+fonds de solidarité (ODAC) mais est financée par une dotation de l’État.
+
+De manière conventionnelle, on attribue la dépense au sous-secteur qui est responsable de son
+exécution finale ce qui revient pour calculer l’effort structurel de chaque sous-secteur des
+administrations publiques à s’intéresser aux dépenses (et par symétrie aux recettes) hors
+transferts entre administrations publiques.
+
+Ces conventions (correction des mesures de périmètre et des transferts entre administrations
+publiques) reprennent celles retenues dans la partition de la dépense présentée dans le rapport
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 21  ____________________________
+sur la dépense publique17 ; par symétrie, les mêmes corrections sont effectués coté recettes.
+Par exemple, la réforme du financement des caisses de sécurité sociale a conduit en 2006 à
+affecter aux ASSO, pour le financement des exonérations de charges patronales, une partie
+des recettes de TVA et d’autres impôts, en contrepartie de la suppression d’un transfert de
+l’État vers les ASSO. On retraite alors ces deux opérations, neutres sur les soldes des secteurs,
+mais affectant les dépenses et recettes, afin de ne pas faire apparaître de contribution
+structurelle positive des prélèvements sociaux (que ce soit dans la composante discrétionnaire
+ou non discrétionnaire de la variation du solde structurel).
+
+Concernant les recettes hors prélèvements obligatoires, les hausses de recettes liées aux
+reclassements au sein d’un autre secteur d’une unité institutionnelle sont également
+retranchées des contributions à la composante non discrétionnaire de la variation de solde
+structurel. Ainsi, on n’enregistre pas de baisse non discrétionnaire des recettes hors PO lors de
+la sortie de la Direction des constructions navales des administrations publiques en 2003.
+
+Une fois le retraitement des transferts entre sous-secteurs et des mesures de périmètre réalisé,
+on peut mesurer la contribution de chaque sous-secteur aux variations du solde structurel.
+
+          3.2.2 Exemples de retraitements
+
+Quelques exemples permettent de mieux illustrer les conséquences de ces conventions sur la
+définition des contributions des sous-secteurs à la variation de solde structurel et aux
+composantes discrétionnaires et non discrétionnaires.
+
+    A. Lorsque des flux entre secteurs ne constituent pas de changement de politique
+         budgétaire au niveau macroéconomique, ces flux sont retraités afin de ne pas brouiller
+         la lecture des différentes composantes. Par exemple, la décentralisation du RMI aux
+         départements en 2004 n’a pas modifié la politique générale conduite par les
+         administrations publiques. Sa mise en œuvre a assuré une neutralité sur les soldes des
+         sous-secteurs grâce à un transfert de TIPP d’un même montant de l’État vers les
+         départements.
+
+Exemple A : décentralisation du RMI aux départements (chiffres illustratifs)
+
+                   En termes effectifs                              En contributions à l’effort
+                                                                              structurel
+
+                   État                                       APUL            État  APUL
+
+Dépenses
+
+Dépenses de RMI    -10                                        10              0     0
+
+Recettes
+
+Transfert de TIPP  -10                                        10              0     0
+Solde
+                   0                                          0               0     0
+
+B. En 2009, l’État a remis à niveau sa dotation à l’AFITF (Agence de Financement des
+    Infrastructures de Transports de France), qui fait partie des ODAC. Ce changement est
+    neutre sur le solde public total et ne modifie pas la dépense totale. En revanche, il
+    augmente la dépense de l’État et les recettes des ODAC. Il y a donc une détérioration
+    structurelle du solde de l’État et une amélioration symétrique du solde des ODAC. On
+    n’enregistre toutefois pas d’ « effort structurel » des ODAC.
+
+17 Cf. « Rapport sur la dépense publique et son évolution » annexé au projet de loi de finances de 2010, pages 16 et suivantes.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 22  ____________________________
+Exemple B : remise à niveau de la dotation de l’État à l’AFITF (chiffres illustratifs)
+
+                                En termes effectifs                    En contributions à l’effort
+                                                                                 structurel
+
+                                État                          ODAC     État             ODAC
+
+Dépenses
+
+Transfert                          10                              0      0                  0
+
+Recettes
+
+Transfert                            0                             10     0                  0
+Solde
+                                   -10                             10     0                  0
+
+C. La disposition de la loi TEPA concernant l’exonération de charges sociales des heures
+    supplémentaires constitue une mesure nouvelle de baisse de cotisations sociales
+    (prélèvement obligatoire des ASSO) au niveau agrégé qui impacte le solde de l’État
+    car c’est lui qui compense cette mesure nouvelle par un transfert de recettes. Le solde
+    structurel de l’État se détériore mais la baisse de PO sera attribuée aux ASSO dans la
+    décomposition de l’effort structurel.
+
+Exemple C : exonération de charges sociales des heures supplémentaires (chiffres illustratifs)
+
+                                En termes effectifs                    En contributions à l’effort
+                                                                                 structurel
+
+                                État                          ASSO     État             ASSO
+
+Dépenses
+
+Recettes                        0                             -10      0                -10
+Mesures heures supplémentaires
+Transfert de recettes           -10                           10
+Solde
+                                -10                           0        0                -10
+
+Ces conventions, cohérentes avec la décomposition de la dépense retenue dans le « Rapport
+sur la dépense publique et son évolution », attribuent donc la dépense au secteur qui l’exécute
+et les prélèvements obligatoires au secteur qui les reçoit au final. Elles ne poseraient aucune
+difficulté si tous les sous-secteurs disposaient chacun d’une totale autonomie de décision sur
+le niveau et la nature de leur dépense, comme c’est essentiellement le cas pour les
+administrations publiques locales en vertu du principe de libre administration.
+
+Elles peuvent toutefois être discutées compte tenu des interdépendances entre secteurs et du
+rôle prépondérant de l’État dans les décisions des administrations publiques. Ces conventions
+ont le mérite de la simplicité et de la cohérence et permettent de fixer une règle simple pour
+analyser des contributions des sous-secteurs à la variation du solde structurel, mais elles ne
+donnent pas une mesure directe de l’impact des décisions prises par les différents exécutifs
+respectifs (État, exécutifs locaux et partenaires sociaux).
+
+4 Exemples d’application
+
+Les trois exemples d’application suivants visent à illustrer le fonctionnement de la maquette
+de partition du solde structurel par sous-secteur présentée précédemment. Les deux premiers
+montrent comment elle permet d’enrichir l’analyse de l’évolution des finances publiques : il
+s’agit d’une décomposition de l’évolution du solde public par sous-secteur pour une année
+donnée (2009), puis d’une décomposition de l’évolution du solde de l’État entre 2000 et 2008.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 23  ____________________________
+Enfin, le troisième exemple d’application permet d’illustrer la sensibilité de cette
+décomposition aux incertitudes pesant sur l’écart de production.
+
+   4.1 Partition de la variation structurelle et de l’effort structurel par sous-
+         secteurs pour l’année 2009
+
+Ce paragraphe illustre une application possible du nouvel outil défini précédemment pour
+l’analyse d’une prévision de finances publiques d’une année donnée, en prenant pour exemple
+l’année 2009. Les prévisions utilisées sont celles du « Rapport économique social et
+financier » (RESF) annexé au projet de loi de finances pour 2010.
+
+Le déficit des administrations publiques s’établirait à 8,2 points de PIB en 2009, après 3,4
+points de PIB en 2008 (cf. graphique 7). Ce creusement du déficit s’expliquerait notamment
+par une dégradation du solde conjoncturel des administrations publiques, à hauteur de 1,9
+point de PIB, qui résulterait principalement d’un creusement de l’écart de production de 3,9
+points entre 2008 et 2009. Elle serait la résultante d’une diminution des recettes
+conjoncturelles, pour 1,4 point de PIB, d’un accroissement des dépenses conjoncturelles pour
+0,2 point de PIB et par un effet dénominateur (cf. paragraphe 1.2.3.) pour 0,3 point de PIB.
+
+Dans le même temps, le solde structurel des administrations publiques se dégraderait de 2,9
+points de PIB potentiel, sous l’effet :
+
+    - d’une contribution négative de la composante non discrétionnaire du solde structurel
+           (-1,6 point de PIB potentiel), principalement sous l’effet d’une baisse des élasticités
+           fiscales ;
+
+    - d’un effort structurel négatif (-1,2 point de PIB potentiel), essentiellement sous
+           l’effet des différentes mesures du plan de relance (y compris mesures sociales et
+           mesures de soutien au secteur automobile) ;
+
+Au total, l’essentiel de la dégradation du solde structurel entre 2008 et 2009 serait donc liée à
+la crise économique, puisqu’elle résulterait presque entièrement des mesures de relance et de
+la forte baisse des élasticités fiscales, qui est elle-même très probablement imputable à la
+crise.
+
+Graphique 7 : décomposition de l’évolution du solde public entre 2008 et 2009 (par type
+d’évolution)
+
+0   solde public 2008
+
+-1
+
+-2  -3,4%
+
+-3                              dégradation du
+                              solde conjoncturel
+
+-4  recettes conjoncturelles                                     variation non
+                                                              discrétionnaire du
+    dépenses conjoncturelles  -1,9 pt
+                                                               solde structurel
+-5
+    effet dénominateur
+
+                                                                                  effort structurel
+
+-6                      effets d'élasticités fiscales         -1,6 pt             (dont plan de
+
+                              recettes hors PO                                    relance)
+
+-7
+
+                                                              plan de relance                    -1,2 pt
+
+-8                                                effort structurel hors relance
+
+       points de PIB                                          solde public 2009 : -8,2%
+-9
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 24  ____________________________
+Au niveau des sous-secteurs des administrations publiques, ces évolutions se traduiraient de la
+manière suivante (cf. graphique 8).
+
+La dégradation du solde conjoncturel des administrations publiques concernerait
+principalement l’État et les ASSO. La dégradation du solde conjoncturel de l’État serait un
+peu plus faible que celle des ASSO en raison des « effets retards » sur l’IR et l’IS modélisés
+dans la maquette de solde structurel18.
+
+La dégradation de la composante non discrétionnaire du solde public serait essentiellement
+portée par l’État, qui subit notamment les baisses d’élasticités fiscales sur l’impôt sur les
+sociétés (IS) et dans une moindre mesure sur la TVA.
+
+Les mesures du plan de relance seraient presque intégralement portées par l’État, qui est
+responsable d’une grande partie de son exécution. Toutefois, conformément aux conventions
+présentées précédemment, la partition de l’effort structurel attribue aux autres secteurs les
+dépenses qu’ils ont engagées dans le cadre du plan de relance (notamment aux collectivités
+locales dans le cadre de la mesure FCTVA), bien que celles-ci aient été intégralement
+financées par l’État sous forme de transferts.
+
+Graphique 8 : décomposition de l’évolution du solde public entre 2008 et 2009 (par sous-secteur
+des administrations publiques)
+
+                    0 solde public 2008
+
+-1                                       dégradation du
+                  -3,4%                solde conjoncturel
+
+-2
+-3
+
+-4                               État                            variation non
+                                                              discrétionnaire du
+                         ASSO          -1,9 pt
+                                                               solde structurel
+
+-5                       Autres
+
+-6                                      Autres                -1,6 pt                      effort structurel
+                                        État                                                (dont plan de
+                                                                                                relance)
+                                       ASSO
+
+-7                                                                 plan de relance État
+                                                           plan de relance autres APU
+                                                                                           -1,2 pt
+
+-8                                                         effort structurel hors relance
+       points de PIB
+                                                              solde public 2009 : -8,2%
+-9
+
+   4.2 Analyse rétrospective des évolutions de la contribution de l’État à la variation du
+        solde structurel
+
+Ce paragraphe illustre comment la maquette présentée précédemment permet d’analyser la
+contribution d’un sous-secteur aux évolutions passées du solde public, en prenant pour
+exemple l’État.
+
+Pour l’analyse, on s’intéresse à la contribution cumulée de l’État sur la période 2001-200819.
+Partant du constat que le déficit de l’État en comptabilité nationale s’est creusé légèrement sur
+
+18 L’écart de production a en effet nettement moins diminué en 2008 qu’il ne diminuerait en 2009 (-1,6 point en 2008 contre
+-3,9 points en 2009).
+19 Les mesures de périmètre ont été reconstituées sur le passé jusqu’à l’année 2002. Par conséquent, la décomposition des
+variations du solde structurel, de ses composantes discrétionnaires et non discrétionnaires par sous-secteur n’est disponible
+qu’à partir de cette date.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 25  ____________________________
+cette période (de -2,4 % en 2001 du PIB à -2,8 % du PIB en 2008), on cherche à identifier la
+part des facteurs conjoncturels et structurels dans cette évolution.
+
+En utilisant la maquette présentée précédemment, on estime que le creusement du déficit de
+l’État sur la période 2001-2008 est essentiellement lié aux évolutions de la conjoncture (la
+croissance ayant été en moyenne inférieure à son potentiel), ces dernières ayant pesé à hauteur
+de 0,6 point de PIB sur le solde de l’État. Ainsi, la dégradation du solde de l’État masquerait
+en fait une légère amélioration structurelle, de 0,2 point de PIB potentiel sur ces sept années20
+(cf. graphique 9).
+
+Graphique 9 : décomposition du solde de l’État
+
+                     en points de PIB
+                       1
+
+0
+
+-1
+
+-2
+
+-3
+
+-4
+
+-5                  2001  2002  2003            2004          2005        2006  2007          2008
+         2000
+
+                          Solde structurel  Solde conjoncturel            Solde de l'État
+
+Graphique 10 : contributions aux variations du solde structurel de l’État
+
+point de PIB
+ 1,0
+
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+0,0
+
+-0,2
+
+-0,4
+
+-0,6
+
+-0,8
+
+-1,0                      2003  2004            2005                2006        2007          2008
+              2002                                                                             Total
+
+      Effort en dépense         Mesures nouvelles en PO       Composante non discrétionnaire
+
+Source : calculs DGTPE
+
+20 Dans le même temps, les mesures neutres sur le solde public (transferts vers et depuis les autres sous-secteurs des
+administrations publiques, transferts de compétences…) ont eu une contribution quasiment nulle au total.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 26  ____________________________
+Cette amélioration structurelle résulte d’évolutions très contrastées (cf. graphique 10).
+
+La contribution totale de l’Etat à l’effort en dépense a été importante sur cette période, de 1,3
+point de PIB potentiel. En effet, les dépenses de l’Etat à champ constant glissant ont
+systématiquement crû moins rapidement que la croissance potentielle sauf en 2002. Cet effort
+s’explique notamment par la progression depuis 2003 des dépenses budgétaires à un rythme
+proche des prix (norme « zéro volume »).
+
+Le profil de la contribution de l’État entre 2002 et 2008 n’est toutefois pas régulier. Cela
+s’explique par plusieurs facteurs : les fluctuations de la croissance potentielle, les écarts entre
+dépenses de l’État en comptabilité nationale et dépenses en comptabilité budgétaire et enfin
+des effets « termes de l’échange »21. Ceux-ci proviennent à la fois :
+
+    - des écarts entre l’inflation ex ante, c'est-à-dire l’inflation prévue au moment de la loi
+           de finances initiale d’une année donnée (sur la base de laquelle est décidée la norme
+           d’évolution de la dépense de l’État) et l’inflation ex post, c'est-à-dire l’inflation
+           finalement observée ;
+
+    - des écarts entre l’inflation au sens de l’IPC hors tabac (sur la base de laquelle est
+           décidée la norme d’évolution de la dépense de l’État) et l’inflation au sens du
+           déflateur du PIB, qui sert à mesurer la croissance potentielle en valeur (qui sert de
+           référence pour juger de l’existence d’un effort en dépense).
+
+Parallèlement à l’effort en dépense réalisé sur la période considérée, l’Etat a mis en œuvre
+d’importantes mesures d’allègements de la charge fiscale des contribuables, pour 1,6 point de
+PIB au total22 Les baisses d’impôts les plus importantes ont eu lieu en 2002 puis en 2007 et
+2008. En 2002, les mesures comprennent notamment des allègements de charges sociales
+dans le cadre du passage aux 35 heures, des baisses d’impôt sur le revenu, une diminution de
+l’impôt sur les sociétés (diminution du taux réduit pour les PME, suppression progressive de
+la majoration de 10 % instituée en 1995) et la poursuite de la suppression de la part salariale
+de la taxe professionnelle. En 2007 et 2008, elles traduisent essentiellement la réforme du
+barème de l’impôt sur le revenu, la hausse de la prime pour l’emploi, la mise en place du
+crédit d’impôt sur le développement durable et les dispositions relatives à la loi TEPA.
+
+Enfin, les facteurs non discrétionnaires (effets d’élasticités fiscales et recettes hors PO) ont été
+particulièrement défavorables en 2002 et 2003 alors qu’ils ont joué positivement sur la
+période 2004-2007. Ceci tend à montrer une certaine procyclicité de la composante non
+discrétionnaire du solde structurel.
+
+   4.3 Sensibilité à l’estimation de l’output gap
+
+Le principal point faible du concept de solde structurel réside dans l’incertitude pesant sur
+l’estimation de l’écart de production, incertitude qui est encore plus aiguë en temps réel. Afin
+de mieux comprendre les enjeux liés à cette incertitude, l’exemple suivant illustre la
+sensibilité de la décomposition du solde public présentée précédemment à l’estimation de
+l’output gap.
+
+          4.3.1 Exemple de la croissance potentielle de la Commission
+
+Pour cela, on présente une comparaison entre différents résultats présentés dans ce document
+(qui reposent sur l’estimation de la croissance potentielle de la DGTPE) et les résultats
+
+21 Écarts entre inflation ex ante et inflation ex post, et écarts entre inflation ex post et déflateur du PIB.
+22 Hors mesures de périmètre.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 27  ____________________________
+obtenus avec une méthode identique mais en utilisant la croissance potentielle estimée par la
+Commission européenne23.
+
+Graphique 11 : écart de production (output gap)
+
+                    en % du PIB
+                     3%
+
+2%
+
+1%
+
+0%
+
+-1%       Calculé avec la croissance potentielle
+
+          de la Commission européenne
+
+-2%
+
+-3%                                               Calculé avec la croissance potentielle
+
+                                                              de la DGTPE
+
+-4%
+
+-5%
+
+-6%       2001  2002                  2003  2004  2005        2006  2007   2008           2009  2010
+    2000
+
+Les écarts de production obtenus en utilisant respectivement la croissance potentielle de la
+DGTPE et celle de la Commission sont présentés sur le graphique 11. Pour 2009 et 2010, la
+croissance prévue est la même et correspond au scénario du RESF annexé au PLF 2010.
+
+Du fait de la différence importante dans l’estimation de l’output gap, le solde conjoncturel est
+sensiblement différent entre les deux méthodes : pour 2008 par exemple, il est positif si l’on
+utilise la croissance potentielle de la Commission européenne mais négatif si l’on utilise celle
+de la DGTPE (cf. graphique 12).
+
+Graphique 12 : solde conjoncturel
+
+                    en points de PIB
+                    1.5
+
+1
+
+0.5
+
+0
+
+-0.5      Calculé avec la croissance potentielle
+
+          de la Commission européenne
+
+-1
+
+-1.5                                              Calculé avec la croissance potentielle
+
+                                                              de la DGTPE
+
+-2
+
+-2.5
+
+-3        2001  2002                  2003  2004  2005        2006  2007   2008           2009  2010
+ 2000
+
+23 La croissance potentielle de la Commission européenne correspond à ses estimations dans le cadre de ses prévisions de
+l’automne 2009.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 28  ____________________________
+Par conséquent, les soldes structurels estimés sont significativement différents
+(cf. graphique 13).
+
+Graphique 13 : solde structurel
+
+               en points de PIB
+               0
+
+-1
+
+                                               Calculé avec la croissance potentielle
+
+-2                                                                  de la DGTPE
+
+-3
+
+-4
+
+-5
+
+-6                                             Calculé avec la croissance potentielle
+
+                                                   de la Commission européenne
+
+-7
+
+-8            2001  2002         2003  2004    2005           2006  2007         2008                         2009  2010
+ 2000
+
+Le niveau des soldes conjoncturel et structurel est donc particulièrement sensible à
+l’incertitude sur l’écart de production. En revanche, leurs variations le sont moins : en effet,
+elles dépendent non pas du niveau de l’écart de production mais de ses variations. Or celles-ci
+sont généralement estimées avec plus de précision, car elles correspondent pour une année
+donnée à la différence entre la croissance observée et la croissance potentielle, tandis que le
+niveau de l’écart de production dépend de cette différence cumulée sur plusieurs années, ce
+qui conduit les erreurs à s’accumuler.
+
+Les variations du solde structurel avec les deux méthodes sont présentées sur les graphiques
+ci-dessous.
+
+Graphique 14 : variations du solde structurel
+
+                   en points de PIB
+                    1.5
+
+    1
+
+    0.5
+
+    0
+
+    -0.5
+
+    -1
+
+                    Calculées avec la croissance potentielle
+
+    -1.5            de la Commission européenne
+
+    -2
+                                                                    Calculées avec la croissance potentielle
+
+    -2.5                                                      de la DGTPE
+
+    -3
+
+    -3.5      2002        2003         2004  2005             2006  2007         2008                         2009  2010
+        2001
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 29        ____________________________
+          4.3.2 Effort structurel et sensibilité à l’estimation de la croissance potentielle
+
+Comme le montre ce dernier exemple, l’incertitude quant à l’estimation de la croissance
+potentielle est une des principales limites du concept de solde structurel et des décompositions
+présentées précédemment. Par conséquent, il est intéressant d’observer dans la décomposition
+des variations du solde structurel (que ce soit entre effort structurel et composante non
+discrétionnaire, ou par sous-secteurs des administrations publiques) ce qui est sensible à cette
+incertitude et ce qui ne l’est pas.
+
+Le tableau 7 ci-dessous présente la sensibilité des différentes composantes du solde structurel
+(telles que définies dans la partie 2) à l’estimation de la croissance potentielle : les chiffres
+affichés correspondent à l’effet sur ces différentes composantes d’une estimation de la
+croissance potentielle plus forte d’un point de PIB en année 1 par rapport à un scénario central
+donné. La croissance potentielle de l’année 2 est inchangée par rapport au scénario central.
+Les trajectoires de croissance effective et de solde public effectif sont également inchangées.
+
+Tableau 5 : sensibilité des composantes du solde structurel à l’estimation de la croissance
+potentielle
+
+(impact d’une différence d’un point de PIB dans l’estimation de la croissance potentielle de l’année 1)
+
+                                                              Année 1  Année 2
+
+Sensibilité de la variation du solde conjoncturel             -0,4     -0,1
+Sensibilité da la variation du solde structurel
+Dont effort structurel (composante discrétionnaire)           0,4      0,1
+
+                                                              0,6      0,0
+
+         mesures nouvelles en PO                              0,0      0,0
+         effort en dépense
+Dont composante non discrétionnaire                           0,6      0,0
+
+                                                              -0,2     0,1
+
+recettes hors PO (hors soultes)                               -0,1     0,0
+effets d’élasticités
+                                                              -0,1     0,1
+
+Dans le scénario où la croissance potentielle est plus élevée, la variation de solde conjoncturel
+est inférieure à celle du scénario central, à hauteur de 0,4 point la première année et de 0,1
+point la seconde. Au total, on retrouve bien une élasticité globale du solde conjoncturel à
+l’output gap de l’ordre d’un demi, qui correspond au chiffre avancé dans l’encadré 1.
+
+De manière symétrique, la variation de solde structurel est supérieure à celle du scénario
+central (car le solde effectif est inchangé). Cette amélioration structurelle s’explique par :
+
+    - une amélioration de l’effort structurel, à hauteur de 0,6 point de PIB, qui correspond
+           à un effort en dépense de cette ampleur – en effet, l’écart entre croissance de la
+           dépense et croissance potentielle a diminué d’un point, et le poids des dépenses
+           publiques dans le PIB est de l’ordre de 55 % ;
+
+    - une légère détérioration de la composante non discrétionnaire en année 1, sous
+           l’effet d’une diminution de la composante recettes hors PO – l’écart entre croissance
+           des recettes hors PO et croissance potentielle a en effet diminué d’un point – et
+           d’une contribution négative des effets d’élasticités, qui est compensée l’année
+           suivante.
+
+Finalement, l’effort structurel est donc légèrement plus sensible à l’incertitude sur
+l’estimation de la croissance potentielle que la variation du solde structurel. Sa sensibilité
+provient entièrement de l’estimation de l’effort en dépense, qui dépend en effet directement
+de la croissance potentielle. On retrouve là la limite qui a été évoquée au paragraphe 2.4.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 30  ____________________________
+          4.3.3 Sensibilité des soldes conjoncturels et structurels des sous-secteurs à
+                   l’estimation de la croissance potentielle
+
+De la même manière, le tableau 8 ci-dessous présente la sensibilité du solde conjoncturel et du
+solde structurel des différents secteurs des administrations publiques à l’estimation de la
+croissance potentielle.
+
+Tableau 6 : sensibilité des soldes conjoncturel et structurel des sous-secteurs des
+
+administrations publiques à l’estimation de la croissance potentielle
+
+(impact d’une différence d’un point de PIB dans l’estimation de la croissance potentielle de l’année 1)
+
+                                                              Année 1       Année 2
+
+Sensibilité de la variation du solde conjoncturel             -0,4          -0,1
+     dont État
+     dont ODAC                                                -0,1          -0,1
+     dont APUL
+     dont ASSO                                                         0,0  0,0
+
+Sensibilité de la variation du solde structurel               -0,1          0,0
+     dont État
+     dont ODAC                                                -0,2          0,0
+     dont APUL
+     dont ASSO                                                         0,4  0,1
+
+                                                                       0,1  0,1
+
+                                                                       0,0  0,0
+
+                                                                       0,1  0,0
+
+                                                                       0,2  0,0
+
+Du fait de la part prépondérante des prélèvements obligatoires de l’État et des ASSO dans les
+prélèvements totaux des administrations publiques, l’estimation de leur solde conjoncturel (et
+donc de leur solde structurel) est plus sensible à l’incertitude sur la croissance potentielle.
+Ainsi, une erreur d’un point dans l’estimation de la croissance potentielle d’une année donnée
+engendrerait une erreur de 0,2 point sur le solde structurel des ASSO, et de 0,2 point sur le
+solde structurel de l’État (0,1 point la première année et 0,1 point la seconde à cause des effets
+retardés sur l’IR et l’IS). L’estimation du solde structurel des APUL est moins sensible (erreur
+de 0,1 point) et celle du solde structurel des ODAC ne l’est quasiment pas.
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 31  ____________________________
+Bibliographie
+
+« Le solde structurel des administrations de sécurité sociale : méthode et évaluation », E.
+Bretin et R. Soulignac, Document de travail de la DGTPE, 2009
+
+« Measuring cyclically-adjusted budget balances for OECD countries », N. Girouard et
+C. André, OECD Economics Department Working Paper n°434, 2005
+
+« New and Updated Budgetary Sensitivities for the EU Budgetary Surveillance »,
+Commission Européenne, Septembre 2005
+
+« The structural budget balance – The IMF Methodology », FMI, R. Hagemann, juillet 1999
+
+« Social spending and automatic stabilizers in the OECD », J. Darby et J. Melitz, octobre
+2008
+
+« Solde structurel et effort structurel : un essai d’évaluation de la composante discrétionnaire
+de la politique budgétaire », S. Duchêne et D. Lévy, DPAE n°18, novembre 2003
+
+Les Cahiers de la DGTPE – n° 2009-13 – Décembre 2009 – p. 32  ____________________________
+

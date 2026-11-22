@@ -1,0 +1,87 @@
+table;id;fichier;citation;resultat
+montants;M01;D03:senat_i1974_1975_0099_01.txt;prévues dans la loi de finances 1974 (587 millions;ok
+montants;M02;D03:senat_i1974_1975_0099_01.txt;l'année 1974 (8 823 millions);ok
+montants;M03;S01:i1976_1977_0065_01.txt;l'année 1976 (2 697 millions de francs);ok
+montants;M04;S01:i1976_1977_0065_01.txt;loi de finances 1976 (498 millions de francs;ok
+montants;M05;S01:i1983_1984_0062_01.txt;on crée 220 000 emplois publics en deux ans;ok
+montants;M06;D03:senat_i1974_1975_0099_01.txt;1 627 6 747 1 121 104;ok
+montants;M07;S01:i1976_1977_0065_01.txt;Houillères 2 507 + 940;ok
+montants;M08;S01:i1979_1980_0050_01.txt;avec un montant de 34,3 milliards de francs;ok
+montants;M09;S01:i1981_1982_0058_01.txt;passe de 36,7 à 43,5 milliards de francs;ok
+montants;M10;S01:i1981_1982_0058_01.txt;passe de 36,7 à 43,5 milliards de francs;ok
+montants;M11;S01:i1983_1984_0062_01.txt;28.332 18.661 9.842;ok
+montants;M12;S01:i1983_1984_0062_01.txt;31.375 20.809 14.921;ok
+montants;M13;S01:i1983_1984_0062_01.txt;6 980 millions en 1984 contre 7 618 millions en 1983;ok
+montants;M14;S01:i1983_1984_0062_01.txt;6 980 millions en 1984 contre 7 618 millions en 1983;ok
+montants;M15;S01:i1981_1982_0058_01.txt;22 582 34 409;ok
+montants;M16;S01:i1981_1982_0058_01.txt;22 582 34 409;ok
+montants;M17;S01:i1983_1984_0062_01.txt;dépense à hauteur de 43 milliards de francs environ;ok
+montants;M18;D03:senat_i1974_1975_0104_01.txt;porté à 17 001 millions de francs;ok
+montants;M19;D03:senat_i1974_1975_0104_01.txt;Dépenses totales 31 064 34 120;ok
+montants;M20;D03:senat_i1974_1975_0104_01.txt;44 400 + 14 %;ok
+montants;M21;S01:i1982_1983_0095_01.txt;Total 99,7 119,0;ok
+montants;M22;S01:i1982_1983_0095_01.txt;Total 99,7 119,0;ok
+montants;M23;S01:i1982_1983_0095_01.txt;Dotation globale de fonctionnement 51.9 58.7;ok
+montants;M24;S01:i1982_1983_0095_01.txt;Dotation globale de fonctionnement 51.9 58.7;ok
+montants;M25;S01:i1984_1985_0069_01.txt;99 125 millions de francs contre 94 365 millions en 1984;ok
+montants;M26;S01:i1984_1985_0069_01.txt;99 125 millions de francs contre 94 365 millions en 1984;ok
+montants;M27;S01:i1984_1985_0069_01.txt;7,9 milliards de francs en 1984 à 12.4 milliards;ok
+montants;M28;D03:senat_i1974_1975_0104_01.txt;soit, pour 1975, 128,44 millions de francs;ok
+montants;M29;D02:senat_i1982_1983_0032.txt;Garantie de ressources 21,3;ok
+montants;M30;S10:dares_comptes_emploi_1984-1985_transcription.txt;pèse encore près de 29 MF;ok
+montants;M31;D02:CCSS-RAPPORT-NOVEMBRE_1981.txt;Non salariés non agricoles: 1.233 1.361;ok
+montants;M32;D02:CCSS-RAPPORT-NOVEMBRE_1981.txt;Régimes spéciaux 16.213 18.497;ok
+montants;M33;D02:senat_i1981_1982_0058_03_29.txt;Amélioration des pensions «avant-loi Boulin » et des pensions de reversion 1 ,30;ok
+montants;M35;S01:i1979_1980_0050_01.txt;Total I 10 763 12 337;ok
+montants;M36;S01:i1984_1985_0069_01.txt;un contrôle strict des dépenses a permis près de 25 milliards d'économies;ok
+montants;M34;D03:senat_i1973_1974_0043_02.txt;s'élevaient à 41.385 millions;ok
+creations;1974;D03:senat_i1974_1975_0099_01.txt;21 000 emplois nouveaux contre 37 000 un an auparavant;ok
+creations;1975;D03:senat_i1974_1975_0099_01.txt;21 000 emplois nouveaux contre 37 000 un an auparavant;ok
+creations;1976;S01:i1976_1977_0065_01.txt;47 000 unités contre 44 000 il y a un an;ok
+creations;1977;S01:i1976_1977_0065_01.txt;47 000 unités contre 44 000 il y a un an;ok
+creations;1977;S01:i1977_1978_0088_01.txt;Créations nettes d'emplois 21 937 26 174;ok
+creations;1978;S01:i1977_1978_0088_01.txt;Créations nettes d'emplois 21 937 26 174;ok
+creations;1980;S01:i1980_1981_0098_01.txt;avait prévu l'ouverture de 14500 postes nouveaux;ok
+creations;1981;S01:i1980_1981_0098_01.txt;les créations nettes d'emplois seront de 1 890;ok
+creations;1981;S01:i1981_1982_0058_01.txt;le collectif de 1981 avait créé plus de 54000 emplois;ok
+creations;1982;S01:i1981_1982_0058_01.txt;(61000 en 1982 contre 1890 en 1981);ok
+creations;1982;S01:i1982_1983_0095_01.txt;203 500 emplois, dont globalement 80 800 en 1981 et 122 700 en 1982;ok
+creations;1983;S01:i1982_1983_0095_01.txt;fixé à 21 000 dont 13 000 emplois budgétaires;ok
+creations;1985;S01:i1984_1985_0069_01.txt;solde négatif = 5 454 emplois;ok
+creations;1986;S01:i1985_1986_0096_01.txt;solde négatif de 4 330 emplois;ok
+sante;CSBM en volume, croissance annuelle moyenne 1965-1970;D03:drees_er572_depenses_sante_1950_2005.txt;1965-1970 8,5 5,4 -0,1;ok
+sante;CSBM en volume, croissance annuelle moyenne 1970-1975;D03:drees_er572_depenses_sante_1950_2005.txt;1970-1975 8,8 3,5 -1,5;ok
+sante;CSBM en volume, croissance annuelle moyenne 1975-1980;D03:drees_er572_depenses_sante_1950_2005.txt;1975-1980 5,8 3,3 -0,7;ok
+sante;CSBM en volume, croissance annuelle moyenne 1980-1985;D03:drees_er572_depenses_sante_1950_2005.txt;1980-1985 5,5 1,5 -1,4;ok
+sante;PIB en volume, croissance annuelle moyenne (même tableau) 1970-1975;D03:drees_er572_depenses_sante_1950_2005.txt;1970-1975 8,8 3,5 -1,5;ok
+sante;PIB en volume, croissance annuelle moyenne (même tableau) 1975-1980;D03:drees_er572_depenses_sante_1950_2005.txt;1975-1980 5,8 3,3 -0,7;ok
+sante;PIB en volume, croissance annuelle moyenne (même tableau) 1980-1985;D03:drees_er572_depenses_sante_1950_2005.txt;1980-1985 5,5 1,5 -1,4;ok
+sante;prix relatif de la santé, variation annuelle moyenne 1970-1975;D03:drees_er572_depenses_sante_1950_2005.txt;1970-1975 8,8 3,5 -1,5;ok
+sante;dépenses globales de l'assurance maladie, indice (1968 = 100), prévision 1974 1968-1974;D03:senat_i1973_1974_0043_02.txt;100 122,2 151,5 172,6 200,9 228,8 270,0;ok
+sante;hospitalisation publique à la charge du régime général, rythme annuel juillet 1979;D02:CCSS-RAPPORT-NOVEMBRE_1980.txt;un rythme annuel de 25,6 % au 31 juillet 1979;ok
+sante;hospitalisation publique à la charge du régime général, rythme annuel septembre 1980;D02:CCSS-RAPPORT-NOVEMBRE_1980.txt;soit 22,4 % , pour les dépenses d'hospitalisation publique;ok
+sante;frais de séjour hospitaliers, régime général 1981;D02:ccss_rapport_juin_1982.txt;+ 20,1 % contre + 17,4 % en 1981;ok
+sante;frais de séjour hospitaliers, régime général 1982;D02:ccss_rapport_juin_1982.txt;+ 20,1 % contre + 17,4 % en 1981;ok
+sante;frais de séjour publics, régime général (champ élargi) 1982;D02:ccss_rapport_juin_1982.txt;(+ 22 % en 1982);ok
+sante;taux moyen de couverture de la CSBM par la sécurité sociale 1980;D03:drees_er572_depenses_sante_1950_2005.txt;passe à 80 % de taux moyen de cou- verture en 1980;ok
+sante;couverture sociale de la quasi-totalité de la population 1978;D03:drees_er572_depenses_sante_1950_2005.txt;à partir de 1978, la quasi-totalité de la population bénéficie d’une couverture sociale;ok
+sante;hôpital : « freinage puis quasi-suppression des créations d'emploi », budget global 1983-1984;S01:i1984_1985_0069_01.txt;freinage puis quasi-suppression des créations d'emploi;ok
+sante;part des frais de séjour hospitalier dans les prestations de l'assurance maladie 1980;D02:CCSS-RAPPORT-NOVEMBRE_1980.txt;représentent plus de 55 % des dépenses de prestations;ok
+decisions;loi n° 66-509 du 12 juillet 1966;D02:senat_i1976_1977_0069_04.txt;loi n° 66-509 du 12 juillet 1966;ok
+decisions;loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière;D03:senat_i1974_1975_0103_02.txt;était prévue dans le délai d'un an par l'article 52;ok
+decisions;loi n° 70-1318, article 52 (suite);D02:senat_i1979_1980_0128.txt;réforme de la tarification prévue par l'article 52 de la loi n° 70-1318 du 31 décembre 1970;ok
+decisions;loi n° 71-525 du 3 juillet 1971;D03:senat_i1974_1975_0103_04.txt;loi n° 71-525 du 3 juillet 1971;ok
+decisions;loi du 13 juillet 1971;D02:senat_i1976_1977_0069_04.txt;l'allocation instituée par la loi du 13 juillet 1971;ok
+decisions;loi du 16 juillet 1971 relative à l'allocation de logement;D03:senat_i1973_1974_0043_02.txt;loi du 16 juillet 1971 relative à l'allocation de logement;ok
+decisions;loi du 31 décembre 1971 (dite loi Boulin);D02:senat_i1976_1977_0069_04.txt;loi du 31 décembre 1971 qui a porté à trente-cinq ans;ok
+decisions;loi du 31 décembre 1971 (suite);D02:senat_i1978_1979_0078_04.txt;la loi du 31 décembre 1971 a considérablement assoupli la notion d'inaptitude;ok
+decisions;accord interprofessionnel de 1972 (garantie de ressources);D02:senat_i1982_1983_0032.txt;licenciés économiques ou non (1972);ok
+decisions;décret du 29 décembre 1972;D02:senat_i1976_1977_0069_04.txt;décret du 29 décembre 1972, qui a prévu le calcul de la pension sur la base des dix meilleures années;ok
+decisions;mesures d'assurance vieillesse intervenues en 1973 (texte de la loi non lu);D03:senat_i1973_1974_0043_02.txt;la généralisation des retraites complémentaires;ok
+decisions;décret n° 73-530 du 15 juin 1973 (pensions minières);D03:senat_i1973_1974_0043_02.txt;garantie supplémentaire d'évolution des retraites en fonction des salaires;ok
+decisions;lois de finances pour 1971 et 1972;D03:senat_i1973_1974_0043_02.txt;insérées dans les lois de finances pour 1971 et 1972;ok
+decisions;loi de finances pour 1974;D03:senat_i1974_1975_0099_01.txt;prévues dans la loi de finances 1974 (587 millions;ok
+decisions;régimes de retraite des entreprises nationales (SNCF, mines);S01:i1979_1980_0050_01.txt;Total I 10 763 12 337;ok
+decisions;mensualisation des salaires (accords contractuels);S01:i1976_1977_0065_01.txt;l'absentéisme favorisé par la mensualisation;ok
+decisions;versement représentatif de la taxe sur les salaires (VRTS);D03:senat_i1974_1975_0104_01.txt;porté à 17 001 millions de francs;ok
+decisions;plan de nationalisation ou d'étatisation des lycées municipaux, CEG et CES;D03:senat_i1974_1975_0104_01.txt;soit, pour 1975, 128,44 millions de francs;ok

@@ -1,0 +1,2138 @@
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+Stagnation of productivity in France: a legacy of the crisis or a structural slowdown?
+Gilbert Cette*, Simon Corde** et Rémy Lecat**
+Résumé – Le ralentissement de la productivité a été analysé soit comme un effet de la crise, lié aux conséquences du choc financier et de demande, soit comme un épuisement plus structurel. En France, sur données macroéconomiques et microéconomiques, nous identifions des ruptures à la baisse des tendances de la productivité du travail et de la productivité globale des facteurs dans les années 2000, plusieurs années avant la crise. Ces ruptures amènent ces tendances sur des rythmes historiquement faibles. Sur les données d’entreprises implantées en France, nous mettons en évidence que la productivité a accéléré à la frontière technologique, surtout sur la période récente, ce qui contredit l’hypothèse d’un épuisement de l’innovation. Les entreprises les plus productives une année donnée n’accentuent toutefois pas leur avantage relatif. La conver‑ gence de la productivité des entreprises ne paraît pas avoir ralenti dans les années 2000, ce qui ne confirme pas l’hypothèse d’une diminution de la diffusion de l’innovation. En revanche, la dispersion de la productivité entre firmes s’est accrue, ce qui suggère une augmentation des dif‑ ficultés de réallocation des facteurs de production, travail et capital, entre firmes.
+Abstract – The productivity slowdown has been analysed either as an effect of the crisis, resulting from the financial and demand shocks, or as a more structural decline. In France, using macroeconomic and microeconomic data, we identify downward breaks in the trends of labour productivity and total factor productivity in the 2000s, several years before the crisis. These breaks result in historically weak rhythms of the trends. Using data on firms located in France, we highlight that, at the technological frontier, productivity has accelerated, especially over the recent period, which contradicts the hypothesis of a decline in innovation. The most productive firms in a given year do not, however, improve their relative advantage. The convergence of firms’ productivity does not seem to have slowed down in the 2000s, which does not confirm the hypothesis of a decrease in the dissemination of innovation. On the other hand, the dispersion of productivity between firms has increased, which suggests increasing difficulties in the reallocation of production factors, labour and capital, between firms.
+Codes JEL / JEL Classification : E22, L11, O47 Mots‑clés : productivité du travail, productivité globale des facteurs, tests de rupture, diffusion de l’innovation Keywords: labour productivity, total factor productivity, tests for breaks, dissemination of innovation
+
+Rappel :
+Les jugements et opinions exprimés par les auteurs n’engagent qu’eux mêmes, et non les institutions auxquelles ils appartiennent, ni a fortiori l’Insee.
+
+* Banque de France et Université Aix‑Marseille, Aix‑Marseille School of Economics (gilbert.cette@banque‑france.fr). ** Banque de France (simon.corde@ensae‑paristech.fr; remy.lecat@banque‑france.fr).
+Les opinions présentées dans cet article ne reflètent pas nécessairement celles de la Banque de France ou de l’Eurosystème. Nous remercions chaleu‑ reusement les participants du séminaire OCDE, de la conférence « Productivité : une énigme française ? » et notre discutant Giuseppe Nicoletti pour leurs remarques, Roxanne Tabouret pour son assistance de recherche, Sébastien Roux pour ses conseils méthodologiques, ainsi que les référés anonymes de la revue.
+
+Reçu le 5 septembre 2016, accepté après révisions le 29 mars 2017
+
+https://doi.org/10.24187/ecostat.2017.494t.1916
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+11
+
+L a productivité est la source principale des gains de PIB par habitant et donc de l’augmentation du niveau de vie moyen d’une population. Or la productivité a connu au début de la décennie 2000, c’est‑à‑dire avant la crise financière entamée en 2007‑2008, un ralentis‑ sement dans toutes les principales économies les plus développées, parmi lesquels la France (voir à ce sujet Bergeaud et al., 2016). Un tel ralentissement porte les gains de productivité à des niveaux historiquement bas, comparés à ceux auxquels nous avait habitués la seconde révolution industrielle qui a bouleversé les modes de vie et de production au XXe siècle. La troisième révolution industrielle, associée à la production et la diffusion des technolo‑ gies de l’information et de la communication (TIC), a dynamisé la productivité dans quelques pays et sur de courtes périodes (par exemple aux États‑Unis du milieu de la décennie 1990 au milieu de la décennie 2000). Elle n’a pas encore répondu aux plus fortes attentes que de nombreux intervenants plaçaient dans la « nouvelle économie ».
+Cet épuisement apparent des gains de produc‑ tivité a été largement commenté dans la litté‑ rature1. Il amène certains économistes (par exemple Summers, 2014 et 2015 ; ou Gordon, 2016) à envisager le risque d’une secular stagnation, autrement dit d’une longue période de faible croissance2. En fait, comme l’ont bien analysé Mokyr et al. (2015) dans un article récent déjà célèbre, une telle crainte a été récur‑ rente depuis l’amorce des premières révolutions industrielles. D’autres économistes envisagent des bouleversements considérables dans les décennies à venir ‒ par exemple Brynjolfsson et McAfee (2014) ou, dans la robotique, Pratt (2015) ‒ qui vont aboutir à une nouvelle vague de croissance de la productivité (voir Cette, 2014 et 2015, pour une revue de littérature). La troisième révolution industrielle, associée aux TIC, aboutirait donc à deux vagues successives d’accélération de la productivité, la première ayant été clairement identifiée aux États‑Unis et dans quelques autres pays sur la décennie 1995‑2005, la seconde vague étant encore
+1.  Pour une revue de littérature, voir par exemple Crafts & O’Rourke (2013), ou Bergeaud et al. (2016). Sur les seuls États‑Unis, voir par exemple Byrne et al. (2013). 2.  Cet épuisement apparent des gains de productivité a amené certains observateurs à suggérer que la mesure du PIB ignorerait une part crois‑ sante de l’activité liée à l’économie numérique et à l’économie collabo‑ rative. Des travaux récents sur la question (par exemple Byrne et al., 2016 ; ou Syverson, 2016) montrent cependant que, sur les États‑Unis que, même sous des hypothèses extrêmes, la valorisation de nouvelles activités associées à l’économie numérique ne remettrait pas en cause le constat d’un fléchissement de la productivité au début de la décennie 2000, voire augmenterait l’ampleur de ce ralentissement.
+
+devant nous. Un tel phénomène de double vague d’accélération de la productivité avait déjà été observé durant la première révolution industrielle associée, entre autres transforma‑ tions, à l’invention et la diffusion du moteur à vapeur, une première vague s’étant produite de la fin du XVIIIe siècle à la première moitié du XIXe, avec par exemple l’utilisation de cette source d’énergie dans l’industrie textile, et de la seconde moitié du XIXe siècle au début du XXe siècle avec le développement des trans‑ ports ferroviaires. Autrement dit, et comme l’écrit Van Ark (2016), la pause actuelle dans les progrès de productivité induits par la troi‑ sième révolution industrielle caractériserait la transition entre la phase de création et d’ins‑ tallation des nouvelles technologies à la phase d’un véritable déploiement. Comme cela avait été le cas pour les précédentes révolutions technologiques, notamment l’électricité, cette phase de déploiement demanderait du temps car elle nécessite de profonds changements de nos institutions et de nos processus de produc‑ tion et de management, mais elle serait désor‑ mais proche. Mais pour certains économistes, comme par exemple Branstetter et Sichel (2017), les gains de productivité induits par les transformations associées à l’économie numé‑ rique pourraient être à la fois durables et de très grande ampleur.
+L’objet du présent article n’est pas de répondre à toutes les questions ouvertes par le ralentisse‑ ment universel de la productivité dans le monde développé depuis le début de la décennie 2000. Il est, dans le cadre bien délimité de l’écono‑ mie française, tout d’abord de s’assurer d’un tel ralentissement et d’en rechercher quelques élé‑ ments d’explication. Pour cela, deux corps de données sont mobilisés : les données macroé‑ conomiques et des données d’entreprises. Si ces deux corps de données seront utiles à caractéri‑ ser les éventuelles inflexions de la productivité, seule la richesse du second nous permettra de confronter certaines lectures économiques de ce ralentissement aux observations empiriques. Deux indicateurs de productivité seront consi‑ dérés sur les deux corps de données : la produc‑ tivité du travail (PT) et la productivité globale des facteurs (PGF). On verra que les diagnos‑ tics de ralentissement de la productivité sont cohérents pour les deux indicateurs et les deux corps de données. Les données d’entreprises font par ailleurs apparaître que la dispersion de la productivité entre firmes s’est accrue, ce qui suggère une augmentation des difficultés de réallocation des facteurs de production, travail et capital (voir encadrés 1 et 2).
+
+12
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+
+Encadré 1 – Les indicateurs de productivité
+L’objectif de l’étude consiste à identifier et estimer les dates potentielles de rupture de tendances structurelles de deux indicateurs de productivité : la productivité du travail (PT) et la productivité globale des facteurs (PGF). Ces deux indicateurs sont calculés sur chacune des deux bases de données mobilisées : les données macro­ économiques issues des comptes nationaux (Source Insee) et des données individuelles d’entreprises issues de bases de données construites à la Banque de France. Ces bases sont présentées dans l’encadré 2.
+L’indicateur de productivité du travail (PT) rapporte le volume de l’output (Q) à la quantité de travail (T) : PT = Q/T. L’indicateur de productivité globale des fac­ teurs (PGF) rapporte le volume de l’output (Q) à une moyenne géométrique (conformément à une fonction de Cobb‑Douglas) des deux facteurs considérés, le capital (K) et le travail (T) : PGF = Q/(Kα.Tβ). On suppose des rendements constants des deux facteurs de production, ce qui correspond à la contrainte : α + β = 1. La PGF se définit alors par la relation : PGF = Q/(Kα.T1‑α). Sur les données macroéconomiques, ces deux indicateurs sont calculés au niveau global de l’ensemble de l’économie tandis qu’ils sont calculés pour chaque entreprise sur la base de données individuelles.
+Le volume de l’output (Q) correspond au volume du PIB sur les données macroéconomiques et au volume de la valeur ajoutée produite sur les données individuelles d’entreprises. Sur ces dernières, ne disposant pas d’une mesure du prix de valeur ajoutée de chaque entreprise, le volume de la valeur ajoutée est calculé, pour chaque entreprise, en déflatant la valeur ajoutée de cette entre­ prise en valeur courante par un indice de prix par branche (niveau 40 de la nomenclature d’activités économiques française NAF rev 2) de la valeur ajoutée brute, cet indice de prix étant issu des comptes nationaux.
+Sur les données macroéconomiques, l’évaluation du volume du capital productif fixe (K) reprend celle réa­ lisée par Bergeaud et al. (2016). Elle est basée sur la méthode d’inventaire permanent en utilisant l’investisse­ ment comme flux d’entrée et le déclassement comme flux de sortie, ce dernier étant calculé avec un taux de dépréciation constant dans le temps. Deux types de capital productif sont distingués : le capital bâtiment et le capital matériel, pour lesquels les taux de dépré­ ciation sont différents (respectivement 2.5 %, soit une durée de vie moyenne de 40 ans, et 10 %, soit une durée de vie moyenne de 10 ans). Sur les données d’entreprises, l’évaluation du volume du capital produc­ tif fixe (K) est également réalisée sur les deux produits, bâtiments et équipements. Pour chacun de ces deux produits, les comptes des entreprises fournissent une valeur du capital productif fixe immobilisé aux coûts historiques (c’est‑à‑dire à la valeur d’achat de chaque investissement composant ce capital). Pour passer à une mesure en volume, ces mesures aux coûts histo­ riques sont déflatées par un indice de prix de l’inves­ tissement retardé de l’âge moyen de la composante du capital considérée. L’âge moyen de chacune des deux composantes du capital est évalué à partir de la propor­ tion du capital amorti, reconstituée à partir des comptes
+
+des entreprises. Enfin, sur les deux types de données, le capital intervenant dans le calcul de la PGF d’une année est celui immobilisé à la fin de l’année précédente.
+Sur les données macroéconomiques, deux mesures alternatives du travail (T) sont mobilisées : le nombre moyen d’employés (N) ou le nombre moyen d’heures tra­ vaillées (L) qui est égal au produit du nombre d’employés (N) et du nombre annuel moyen d’heures travaillées par employé (H) : L = N.H. Nous construisons ainsi sur ces données deux mesures de chacun des deux indicateurs de productivité : la productivité du travail horaire (PTL) et par employé (PTN) et la PGF horaire (PGFL) et par employé (PGFN). Sur les données d’entreprises, nous ne disposons pas de mesure de la durée du travail des employés (H). Nous construisons ainsi sur ces données une seule mesure de chacun des deux indicateurs de productivité : la PT par employé (PTN) et la PGF par employé (PGFN). Sur les quatre décennies s’étendant de 1974 à 2015, le nombre annuel moyen d’heures tra­ vaillées par employé a baissé en France de 22 %, avec des sous périodes de baisses plus rapides que d’autres (par exemple les trois premières décennies comparées à la dernière). De ce fait, les indicateurs horaires et par employé peuvent connaître des évolutions contrastées. La littérature empirique sur données macroéconomiques privilégie généralement des indicateurs de productivité horaire (cf. par exemple Bergeaud et al., 2016). Mais, afin de comparer les évolutions caractérisées sur données macroéconomiques à celles caractérisées sur données d’entreprises pour lesquelles nous ne disposons pas d’information sur la durée du travail, les deux mesures sont donc considérées sur données macroéconomiques.
+La valeur du coefficient de pondération (α) interve­ nant dans le calcul de la PGF prend, sur les données macroéconomiques, une valeur fixe de 0.3 (α = 0.3), comme dans Bergeaud et al. (2016) qui montrent que les résultats (en termes de rythme de croissance la PGF et de datation de ses ruptures) sont robustes au choix d’autres valeurs envisageables (α = 0.25 ou α = 0.35). Sur les données d’entreprises, la valeur moyenne de la part de la rémunération du capital dans la valeur ajoutée est de 30 %. Nous avons retenu pour ce paramètre une valeur spécifique pour chaque secteur (au niveau d’une nomenclature en 40 secteurs) et égale à la moyenne observée sur la base de données individuelles mobili­ sée. Les valeurs retenues varient ainsi de 0.168 dans le secteur Hébergement médico‑social (QB) à 0.622 dans le secteur Production et distribution d’électricité, de gaz, de vapeur et d’air conditionné (DZ) ; la moyenne sur l’ensemble des secteurs est de 0.303.
+Enfin, pour caractériser les ruptures de productivité à partir d’une approche économétrique, il est utile de s’efforcer de neutraliser les effets de variations conjonc­ turelles courtes. Pour cela, nous utilisons sur données macroéconomiques un indicateur de taux d’utilisation des capacités de production dans l’industrie (TUC, source Insee) et sur données individuelles d’entreprise de variation du logarithme du chiffre d’affaires (CA, source Fiben, Fichier bancaire des entreprises, gérée par la Banque de France).
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+13
+
+Les ruptures de tendances de la productivité
+Sur données macroéconomiques, des ruptures de tendances à la baisse au début des années 1990 et 2000
+Sur la période 1976‑2015, postérieure au pre‑ mier choc pétrolier, l’évolution de la producti‑ vité globale des facteurs horaire (PGFL) connait
+
+deux ruptures3 significatives à la baisse, la pre‑ mière au début des années 1980, la croissance annuelle de PGFL passant de 2.1 % à 1.5 %, puis au début de la décennie 2000, la crois‑ sance de PGFL devenant nulle (figure 1‑A). L’évolution de la productivité du travail horaire (PTL) connait trois ruptures à la baisse à des dates presque identiques aux deux ruptures
+3.  L’encadré 3 détaille la méthodologie de détection des ruptures de tendance.
+
+Encadré 2 – Les bases de données mobilisées
+Deux bases de données sont mobilisées : les données macroéconomiques et des données individuelles d’en­ treprises issues de bases de données construites à la Banque de France.
+Les données macroéconomiques mobilisées sont directement issues des comptes nationaux base 2010, compte provisoire 2015 (source Insee), à l’exception des séries de capital productif fixe (K) indispensables au calcul de la PGF. Les séries de capital (K) sont reprises de Bergeaud et al. (2016) qui les ont construites par la méthode de l’inventaire permanent à partir des données d’investissement macroéconomiques (source Insee), voir aussi encadré 1. Ces séries sont disponibles sur www.longtermproductivity.com
+Les données individuelles d’entreprises mobilisées sont issues de la base de données Fiben (Fichier bancaire des entreprises) gérée par la Banque de France. Fiben est une très large base de données regroupant les données comptables (correspondant aux déclarations fiscales) de toutes les entreprises (France métropolitaine et DOM) dont le chiffre d’affaires dépasse 750 000 euros par an ou bénéficiant d’un crédit supérieur à 380 000 euros. Cette base est donc moins exhaustive que les bases Ficus‑Fare de l’Insee mais elle se concentre sur les entreprises constituant l’essentiel de la valeur ajoutée et des effectifs du secteur privé (secteurs marchands à l’exception du secteur financier) et dont les données comptables sont de meilleure qualité. La base Fiben a vu sa couverture augmenter au cours de la période considérée sous l’effet de différents facteurs, en raison principalement de la fixation de seuils en termes nomi­ naux et non réels. Les entreprises présentes dans cette base correspondent à l’unité légale, et à une définition juridique de l’entreprise. La base Fiben couvre 84 % de l’emploi des entreprises présentes dans les BIC‑BRN en 2004, les entreprises de moins de 20 salariés étant moins bien couvertes que les autres (54 % de l’emploi).
+Un nettoyage de cette base a été réalisé afin d’éviter la présence de données aberrantes. Pour les calculs des indicateurs de productivité globale des facteurs et de pro­ ductivité du travail, nous appliquons une méthode fondée sur le principe « d’outliers » développé par John Tukey (Kremp, 1995), consistant à supprimer les valeurs situées au‑delà du quartile 1 (et 3) moins (et plus) trois fois l’écart interquartile. On effectue le traitement des observations aberrantes d’abord pour la variable prise en logarithme puis pour la variable prise en taux de croissance.
+
+À partir de Fiben ainsi nettoyée, nous disposons d’un échantillon non cylindré comportant entre 59 767 et 130 750 entreprises par année sur la période d’étude pour étudier l’évolution de la productivité du travail (PTN) (11 428 entreprises sur l’échantillon cylindré et la période 1992‑2014) et entre 42 241 et 109 579 entre­ prises pour étudier l’évolution de la PGFN (7 857 entre­ prises sur l’échantillon cylindré et la période 1993‑2014, sachant que pour obtenir un échantillon de taille signifi­ cative sur le panel cylindré, la période d’étude débute un an plus tard pour la PGFN). L’écart du nombre d’entreprises disponibles s’explique par le fait que la construction de l’indicateur de PGF requiert davantage d’informations comptables que l’indicateur PT. Les deux indicateurs sont calculés par entreprise et par année (cf. encadré 1).
+La problématique de la convergence de la productivité des plus petites entreprises n’est pas traitée et les diffé­ rents indicateurs utilisés sont adaptés à cette limitation (par exemple l’utilisation d’indicateurs médians plutôt que de moyennes). Les indicateurs mobilisés dans la présente étude sont toujours des indicateurs médians sur le champ considéré : secteur, taille, secteur x taille, les 5 % d’entreprises les plus productives pour caracté­ riser la frontière technologique ou les 95 % d’entreprises restantes pour caractériser les autres… Ce choix permet aux indicateurs de ne pas être influencés par de pos­ sibles valeurs extrêmes voire aberrantes souvent obser­ vées sur données individuelles.
+Afin de caractériser la possible hétérogénéité des dates de rupture, nous avons distingué six secteurs d’activité (agriculture et sylviculture, industries manufacturières, construction, commerce, transport et autres services, les regroupements étant effectués sur la base de la NAF rev 2) et trois classes de taille des entreprises, en moyenne sur leur période de présence au sein de la base (taille 1 : effectifs inférieurs à 50 employés, taille 2 : effectifs allant de 50 à 249 employés, taille 3 : effectifs de 250 employés ou plus). La taille 1 représente 87 % des entreprises des deux échantillons, la taille 2 près de 11 %, la taille 3 un peu plus de 2 %.
+La frontière de la productivité est définie comme la valeur médiane des 5 % d’entreprises les plus produc­ tives. Pour caractériser les phénomènes de rattrapage de cette frontière, la valeur médiane des 95 % entre­ prises les moins productives est comparée à la valeur médiane des 5 % d’entreprises les plus productives.
+
+14
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+
+identifiées sur la PGFL, au début des années 1980, la croissance annuelle de PTL passant de 3.9 % à 2.4 %, puis au début des années 1990, la croissance de PTL passant à 1.9 % et enfin au début de la décennie 2000, la croissance de PTL passant alors à 0.5 % (figure I‑C)4. Ces dates de rupture diffèrent un peu de celles détectées dans de précédentes études, par exemple Bergeaud et al. (2016), pour deux raisons. Tout d’abord, les données sont ici actualisées par rapport à cette précédente étude. Ensuite, parce que l’estima‑ tion sous‑jacente à la détection des ruptures prend ici en compte la situation conjoncturelle et son possible impact sur l’évolution de la productivité, via l’indicateur de taux d’utilisa‑ tion des capacités de production (TUC). Mais le diagnostic global est bien le même et peut être résumé par deux principaux aspects : (i) un ralentissement progressif de la productivité s’observe sur la période et (ii) un ralentissement se produit au début des années 2000, avant la crise de 2008.
+Le premier fléchissement (au début des années 1980) des deux indicateurs de productivité horaire s’observe également dans de très nom‑ breux pays développés (cf. Bergeaud et al., 2016, pour une synthèse) et peut s’expliquer par différents facteurs, comme par exemple le
+4.  L’annexe 1 présente des tests de robustesse par rapport à ces tests de rupture.
+
+second choc pétrolier mais aussi le début du déploiement de politiques visant à renforcer le contenu en emploi de la croissance, comme par exemple un abaissement du coût du travail des travailleurs les moins qualifiés. Le second flé‑ chissement, dans la première moitié des années 1990 (sauf pour PGFL) s’observe également dans de très nombreux pays, à l’exception notable des États‑Unis. Il peut également être associé dans ces pays au renforcement de poli‑ tiques de modération du coût du travail, souvent via des abaissements de contributions sociales ciblées sur les bas salaires et donc sur les tra‑ vailleurs les moins qualifiés. Aux États‑Unis, une rupture de croissance de la productivité est également observée au début des années 1990, mais à la hausse, ce qui singularise ce pays. Cette accélération, qui a fait l’objet de très nom‑ breuses analyses (cf. par exemple Jorgenson, 2001), est généralement associée à la produc‑ tion et à la diffusion rapide des technologies de l’information et de la communication (TIC). Comme cela a été montré ensuite dans de très nombreuses analyses (par exemple Van Ark et al., 2008 ; ou Timmer et al., 2011), l’écart de diffusion des TIC serait l’un des facteurs essen‑ tiels expliquant le contraste entre les États‑Unis et les autres pays concernant la dynamique de la productivité, cette diffusion étant beaucoup plus forte et rapide aux États‑Unis qu’ailleurs. Enfin, le dernier fléchissement des deux indica‑ teurs, au début de la décennie 2000, est observé
+
+Encadré 3 – La détection des ruptures de productivité
+
+La détection des ruptures de productivité est réalisée avec la même méthodologie sur données macroéco­ nomiques et sur les données individuelles. Sur ces dernières, la détection des ruptures est faite sur les médianes par année des indicateurs considérés.
+Pour chaque indicateur de productivité considéré (Y), les tendances de la productivité sont définies sur le loga­ rithme de l’indicateur (y = Log(Y)) :
+m
+yt = α + ∑ βk .(t − Tk ). (t ≥ Tk ) + γ.TUCt + ut . k =0
+Avec y, le logarithme de la productivité ; m le nombre de ruptures ; {T1,T2,…,Tm} les dates des ruptures ;  une fonction indicatrice telle que  = 1 si t ≥ Tk et  = 0 sinon ; β = {β1,…,βm} la différence de la tendance de la croissance de la productivité entre deux périodes consé­ cutives ; TUC le taux d’utilisation des capacités de pro­ duction, et ut le terme d’erreur.
+Nous testons d’abord l’hypothèse de stationnarité, (i.e. m = 0), qui voudrait dire que la productivité a une ten­ dance constante sur toute la période. Si la stationnarité
+
+est rejetée, on peut exclure la présence d’une tendance unique. On ne peut néanmoins conclure à la présence d’une tendance stochastique car le test de racine uni­ taire est biaisé en cas de changement structurel dans la tendance (Perron, 2006). Le test de Bai et Perron (1998) détermine si la série suit le modèle ci‑dessus, avec des tendances linéaires par morceau, un régresseur linéaire et des erreurs I(0). Les valeurs de m et les dates de rup­ tures {T1,T2,…,Tm} doivent être déterminées. Trois tests (ADF, Phillips-Perron et KPSS) nous conduisent au rejet de la stationnarité des séries de productivité du travail et de PGF (prises en log) par rapport à une tendance temporelle.
+Bai & Perron (1998) ont développé une méthodologie pour calculer simultanément le nombre de ruptures, leurs dates et les tendances (sur les méthodolo­ gies de ruptures de tendance, voir Eksi, 2009, et Aue & Horvath, 2013). L’idée principale est d’estimer {β0,…,βm} pour chaque partition τ = {T1,T2,…,Tm} en minimisant la somme des carrés des résidus. Ensuite, une valeur appropriée de τ  est choisie à l’aide de la sta­ tistique sup F (τ +1|τ ), avec F, statistique de Fisher.
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+15
+
+dans la presque totalité des pays développés, y compris les États‑Unis. Ce ralentissement n’a pas encore reçu d’explication consensuelle.
+L’analyse des évolutions de la productivité qui est proposée dans la section suivante porte sur des indicateurs par employé ‒ et non horaire du fait de l’absence d’information concernant la durée moyenne du travail sur les données individuelles d’entreprises mobilisées. Aussi, il est utile à ce stade de caractériser également les évolutions de la productivité au niveau macroéconomique sur des indicateurs par employé, et non seulement horaire comme cela vient d’être fait. Les écarts d’évolution entre les indicateurs horaires et les indicateurs par employé seront évidemment liés aux changements de la durée annuelle moyenne du travail sur la période, cette durée annuelle ayant connu une forte baisse à des rythmes cepen‑ dant très variés selon les sous‑périodes. Ainsi, sur la période ici étudiée, la durée annuelle moyenne du travail des employés a diminué à un rythme d’environ – 1.6 % de 1976 à 1982, de – 0.5 % de 1982 à 1993, de – 1.0 % de 1993 à 2003 et est demeurée stable ensuite5. Il apparaît que la prise en compte ou non de la durée du travail ne modi‑ fie que le positionnement et l’ampleur de certains fléchissements de la productivité, sans remettre en cause le diagnostic d’un ralentissement, en particulier au début de la décennie 2000.
+Les deux indicateurs de productivité par employé ont, comme la productivité du travail horaire, connu trois ruptures sur la période étu‑ diée, et approximativement aux mêmes dates (figure I‑B et D). Mais, concernant la PGF, l’indicateur PGFN connait une première rup‑ ture à la hausse au début de la décennie 1980, sa croissance annuelle moyenne passant de 0.8 % à 1.3 %. La rupture du début des années 1990 est à la baisse et ramène le taux de croissance annuel moyen de PGFN à 0.9 %. Enfin, la rupture du début de la décennie 2000 est également à la baisse et aboutit à une quasi stabilité de PGFN sur les années suivantes, le taux de croissance annuel moyen de cet indicateur devenant alors 0.1 %, très proche de celui de PGFL, ce qui est assez logique, la durée annuelle moyenne du travail des employés demeurant stabilisée. Concernant la productivité du travail, l’indica‑ teur PTN connait une légère accélération, non significative, au début des années 1980, son taux de croissance annuel moyen passant de
+
+2.0 % à 2.1 %, puis un fléchissement important et significatif au début des années 1990, son taux de croissance passant à 1.2 %, et enfin un deu‑ xième au début de la décennie 2000, son taux de croissance passant à 0.5 %, comme celui de l’indicateur horaire (PTL) du fait de la stabilisa‑ tion sur cette dernière sous‑période de la durée annuelle moyenne du travail des employés.
+Pour la comparaison avec les évolutions de la productivité observées sur données indi‑ viduelles d’entreprises à partir du début de la décennie 1990, les deux résultats importants dégagés sur les données macro‑économiques sont les suivants :
+‑ La plupart des indicateurs de productivité (horaire et par employé, productivité du travail et PGF) connaissent un double fléchissement significatif à la baisse, le premier au début de la décennie 1990 et le second au début de la décen‑ nie 2000, avant la crise de 2008. La première rupture est moins forte que la seconde et résulte au moins en partie des politiques d’enrichisse‑ ment de la croissance en emploi (allègement de contributions sociales employeurs notamment), et a pu être atténuée par l’effet du choc techno‑ logique positif lié au TIC.
+‑ Sur la dernière sous‑période, c’est‑à‑dire depuis le début des années 2000, la progression de la productivité est historiquement très faible. La croissance annuelle moyenne des deux indi‑ cateurs de PGF serait presque nulle (0.1 %), tan‑ dis que celle des deux indicateurs de productivité du travail ne serait que d’environ 0.5 % par an.
+Sur données d’entreprises, des ruptures à la baisse dans les années 2000 pour la plupart des secteurs et taille d’entreprises
+Les évolutions de la productivité sont carac‑ térisées sur données d’entreprises à partir de la médiane des indicateurs de PGF par employé (PGFN) et de productivité du tra‑ vail par employé (PTN) calculée sur diffé‑ rents champs : l’ensemble de l’économie marchande, trois tailles d’entreprises (taille 1, moins de 50 salariés ; taille 2, de 50 à moins de 250 salariés ; taille 3, 250 salariés et plus6), six secteurs d’activité (agriculture, industrie, construction, commerce, transports, autres ser‑ vices) et le croisement des trois tailles et de ces
+
+5.  Sur la période étudiée, ces évolutions de la durée du travail ont pu être influencées par la baisse de la durée hebdomadaire légale, de 40 heures à 39 heures en 1982 et de 39 à 35 heures en 1998‑2000, ainsi que par la généralisation de la 5e semaine de congés payés en 1982.
+
+6.  Ces seuils ont été choisis à la fois en raison de l’existence de seuils légaux majeurs pour ces effectifs et/ou en raison de l’existence de ce cri‑ tère de taille dans la définition des catégories d’entreprises au sens de la Loi de modernisation de l’économie (LME).
+
+16
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+
+Figure I Tendance des différents indicateurs de productivité sur données macro‑économiques
+A – Productivité globale horaire des facteurs (PGFL) en log, base 0 en 1976, taux de croissance annuel moyen tendanciel en % (méthode Bai et Perron avec TUC)
+0.3
+
+0,0 % 0.2
+
+1,5 % 0.1
+
+2,1 %
+
+0.0 1976 1979 1982 1985 1988 1991 1994 1997 2000 2003 2006 2009 2012 2015
+
+Productivité du travail observée
+
+Tendance de la productivité du travail
+
+B – Productivité globale par employé des facteurs (PGFN) en log, base 0 en 1976, taux de croissance annuel moyen tendanciel en % (méthode Bai et Perron avec TUC)
+0.2
+
+0.1
+0,8 % 0.0
+
+1,3 %
+
+0,9 %
+
+0,1 %
+
+-0.1 1976 1979 1982 1985 1988 1991 1994 1997 2000 2003 2006 2009 2012 2015
+
+Productivité du travail observée
+
+Tendance de la productivité du travail
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+17
+
+C – Productivité du travail horaire (PTL) en log, base 0 en 1976, taux de croissance annuel moyen tendanciel en % (méthode Bai et Perron avec TUC)
+0.4
+0,5 % 0.3
+1,9 %
+
+0.2
+0.1 3,9 %
+
+2,4 %
+
+0.0 1976 1979 1982 1985 1988 1991 1994 1997 2000 2003 2006 2009 2012 2015
+
+Productivité du travail observée
+
+Tendance de la productivité du travail
+
+D – Productivité du travail par employé (PTN) en log, base 0 en 1976, taux de croissance annuel moyen tendanciel en % (méthode Bai et Perron avec TUC)
+0.3
+
+0.2
+0.1 2,0 %
+
+2,1 %
+
+1,2 %
+
+0,5 %
+
+0.0 1976 1979 1982 1985 1988 1991 1994 1997 2000 2003 2006 2009 2012 2015
+
+Productivité du travail observée
+
+Tendance de la productivité du travail
+
+Lecture : les barres verticales indiquent les ruptures de croissance de la productivité, déterminées sur la base de la méthode Bai et Perron (1998) avec les taux d’utilisation des capacités de production comme contrôle du cycle (cf. encadré 3). Les nombres apparaissant au‑dessus de la courbe sur chaque sous‑période correspondent aux taux de croissance annuel moyen estimés de l’indicateur sur la sous‑période correspondante ; ils sont grisés si ces tendances sont non significativement différentes de la précédente (ce qui n’est le cas que de la rupture en 1982 dans le graphique‑D). Champ : ensemble de l’économie. Source : Comptes nationaux, 2015 provisoire, base 2010, Insee ; estimations des auteurs.
+
+18
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+
+six secteurs. Comme sur les données macroé‑ conomiques, les ruptures de productivité sont caractérisées pour chaque indicateur et sur cha‑ cun des différents champs d’entreprises consi‑ dérés par la méthode de Bai et Perron (1998). Les effets de variations conjoncturelles courtes sont neutralisés en intégrant comme variable explicative dans la régression la variation du logarithme du chiffre d’affaires (CA).
+Les données d’entreprises ne portent que sur le secteur marchand tandis que les données macro‑économiques intègrent également le secteur non marchand. Pour cette raison parmi d’autres, les inflexions des indicateurs de pro‑ ductivité caractérisées sur ces deux types de données peuvent différer. Enfin, il faut souligner que comme la taille 1 (moins de 50 salariés) représente environ 90 % des entreprises de notre base, les évolutions des médianes de nos indi‑ cateurs de productivité sont, sur l’ensemble de l’économie ou sur chaque secteur, assez proches sur l’ensemble du champ ou sur la seule taille 1.
+Sur l’ensemble des données, les deux indica‑ teurs de PGF par employé (PGFN) et de produc‑ tivité du travail par employé (PTN) connaissent trois ruptures significatives : au milieu des années 1990, au début de la décennie 2000 et au moment de la crise, en 2008 (tableau 1). La première rupture du milieu des années 1990 tra‑ duit une forte accélération de la productivité, qui correspond à la reprise de l’activité écono‑ mique après la récession de 1993. Cette reprise cyclique n’est ainsi que partiellement capturée par l’indicateur de variation du chiffre d’af‑ faires. La seconde rupture du début des années 2000 correspond à un fort ralentissement de la productivité, comme sur les données macro‑éco‑ nomiques. Enfin, la troisième rupture, contem‑ poraine au début de la crise, en 2008, correspond également à un ralentissement de la productivité dont la croissance annuelle moyenne devient alors inférieure à celle observée sur les autres précédentes sous‑périodes. Cette dernière rup‑ ture est souvent non significative d’un point de vue statistique.
+Les inflexions de la productivité sont sem‑ blables, pour chacun des deux indicateurs considérés, sur les seules entreprises de la taille 1 à celles qui viennent d’être commentées sur l’ensemble des trois tailles. Pour l’indicateur de PGF par employé (PGFN), elles sont éga‑ lement semblables sur les deux sous‑ensembles de tailles plus grandes, les tailles 2 et 3. Pour l’indicateur de productivité par employé (PTN), le nombre de rupture est plus faible : deux pour
+
+la taille 2, à la fin des années 1990 et en 2008, et une seule en 2008 pour la taille 3. Mais ces rup‑ tures traduisent alors un fléchissement de la pro‑ ductivité dont la croissance annuelle moyenne à partir de 2008 devient également inférieure ou égale à celle observée sur les précédentes sous‑périodes.
+Sur l’ensemble de chacun de quatre des six sec‑ teurs considérés ‒ l’agriculture, l’industrie, la construction et les transports ‒ les deux indica‑ teurs de productivité connaissent également des inflexions à la baisse comme sur l’ensemble des secteurs, après parfois une accélération, mais soit uniquement au début des années 2000 (ou à la toute fin de la décennie 1990), soit en 2008, soit à ces deux dates. Dans les autres services, une inflexion à la baisse est également obser‑ vée en 2008 pour l’indicateur de PGF (PGFN). Des inflexions du même type sont généralement observées dans ces activités sur chacune des trois tailles d’entreprises. Seuls deux secteurs parmi les six considérés font exception à cela : le commerce et, pour le seul indicateur de pro‑ ductivité par employé (PTN), les autres services. Dans ces deux activités, la productivité accélère à au moins l’une de ces deux dates et le taux de croissance observé en fin de période est équiva‑ lent ou supérieur à celui observé en moyenne sur les sous‑périodes précédentes. Ce comportement plus atypique est le fait des seules entreprises de petite taille dans le commerce et s’observe sur les trois tailles d’entreprise concernant la pro‑ ductivité du travail dans les autres services.
+Le résultat important dégagé sur les données d’entreprise est que, sauf quelques rares excep‑ tions comme le secteur du commerce et, pour le seul indicateur de productivité du travail, dans les autres services, les deux indicateurs de productivité connaissent un fléchissement, tant sur l’ensemble des activités que dans chacun des secteurs, au début de la décennie 2000 ou en 2008 ou encore à ces deux dates. Ce fléchis‑ sement porte la croissance de la productivité en fin de période à des niveaux équivalents ou inférieurs à ceux observés en moyenne sur les sous‑périodes précédentes. De telles évolutions sont généralement observées sur chacune des trois tailles d’entreprises considérées. Les don‑ nées d’entreprises confirment donc de façon presque générale le constat dégagé sur données macroéconomiques d’un ralentissement de la productivité après le début de la décennie 2000. La différence notable est que le moment de ce ralentissement n’y apparaît pas nécessairement uniquement au début des années 2000, mais aussi, ou parfois seulement, à partir de 2008.
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+19
+
+20
+
+Tableau 1 Tendance des différents indicateurs de productivité sur données d’entreprises non cylindrées – taux de croissance annuel moyen en %
+A – Productivité globale des facteurs par employé (PGFN)
+
+1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Agriculture Industrie Construction Commerce Transports Autres Services Tous secteurs
+
+taille 1 taille 2 taille 3 toutes tailles taille 1 taille 2 taille 3 toutes tailles taille 1 taille 2 taille 3 toutes tailles taille 1 taille 2 taille 3 toutes tailles taille 1 taille 2 taille 3 toutes tailles taille 1 taille 2 taille 3 toutes tailles taille 1 taille 2 taille 3 toutes tailles
+
+Données macroéconomiques
+
+1.9
+0.9 0.9 1.7 1.3
+0.1 - 0.8
+0.1 0.6 0.6
+1.3 0.6
+5.5 5.4 5.7
+5.6 - 0.5 - 1.3
+- 0.5 - 0.1 0.2 0.6 0.0 0.4
+
+2.3 0.7
+2.4 2.3
+4.0 3.0 2.8 3.4
+3.1 3.5 1.0
+3.1 3.0 1.5
+2.8
+2.5
+- 0.6 - 0.6 - 0.5
+- 0.5 3.8
+2.6 2.7
+3.7 0.9
+
+- 0.2
+
+5.6
+
+- 2.7
+
+2.5
+
+- 0.1
+
+2.9
+
+0.5
+
+0.5
+
+0.6
+
+0.4
+
+- 3.5
+
+- 2.8
+
+- 2.0
+
+- 3.7
+
+- 3.0
+
+- 2.4
+
+- 3.4
+
+- 2.8
+
+0.0
+
+1.5
+
+- 0.5
+
+- 0.5
+
+0.2
+
+- 0.7
+
+0.0
+
+1.1
+
+0.9
+
+1.2
+
+- 0.8
+
+1.0
+
+0.2
+
+- 0.4
+
+0.0
+
+- 0.8
+
+- 2.5
+
+- 2.3
+
+0.2
+
+- 0.5
+
+0.7
+
+- 0.1
+
+0.7
+
+- 0.4
+
+0.6
+
+- 0.5
+
+0.8
+
+- 0.2
+
+0.1
+
+- 0.1
+
+1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+2014
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+B – Productivité du travail par employé (PGFN)
+
+Agriculture
+
+taille 1
+
+4.3
+
+1.4
+
+taille 2
+
+4.4
+
+1.2
+
+7.0
+
+- 1.4
+
+taille 3
+
+1.1
+
+4.1
+
+- 0.7
+
+toutes tailles
+
+4.2
+
+1.6
+
+Industrie
+
+taille 1
+
+2.2
+
+3.8
+
+1.6
+
+taille 2
+
+2.8
+
+3.8
+
+1.9
+
+taille 3
+
+3.4
+
+3.9
+
+1.3
+
+toutes tailles
+
+2.3
+
+3.8
+
+1.7
+
+Construction
+
+taille 1
+
+- 0.4
+
+3.0
+
+- 2.4
+
+- 2.2
+
+taille 2
+
+0.6
+
+1.7
+
+- 1.8
+
+- 2.3
+
+taille 3
+
+1.4
+
+- 1.2
+
+- 2.9
+
+toutes tailles
+
+- 0.3
+
+2.9
+
+- 2.4
+
+- 2.3
+
+Commerce
+
+taille 1
+
+0.1
+
+2.8
+
+0.9
+
+1.8
+
+taille 2
+
+1.1
+
+0.9
+
+0.9
+
+0.6
+
+taille 3
+
+1.3
+
+1.1
+
+0.8
+
+0.8
+
+toutes tailles
+
+0.2
+
+2.6
+
+0.9
+
+1.8
+
+Transports
+
+taille 1
+
+2.2
+
+0.7
+
+taille 2
+
+3.1
+
+0.5
+
+0.6
+
+1.3
+
+taille 3
+
+3.9
+
+- 0.6
+
+1.5
+
+toutes tailles
+
+2.5
+
+0.7
+
+Autres services taille 1
+
+- 1.1
+
+- 0.4
+
+0.3
+
+0.5
+
+taille 2
+
+- 0.9
+
+- 1.5
+
+- 0.4
+
+taille 3
+
+- 0.1
+
+0.3
+
+toutes tailles
+
+- 0.8
+
+- 0.5
+
+0.2
+
+0.4
+
+Tous secteurs
+
+taille 1
+
+0.9
+
+3.0
+
+1.0
+
+0.9
+
+taille 2
+
+1.9
+
+1.3
+
+0.3
+
+taille 3
+
+2.1
+
+0.0
+
+toutes tailles
+
+1.1
+
+2.8
+
+1.0
+
+0.9
+
+Données macroéconomiques
+
+1.4
+
+1.1
+
+0.7
+
+0.2
+
+Lecture : pour la taille 1, dans l’agriculture, la tendance de la productivité du travail par employé est de 4.3 % par an de 1990 à 2008, puis de 1.4 % de 2009 à 2014. Les ruptures de croissance de la productivité sont déterminées sur la base de la méthode Bai et Perron (1998) avec le chiffre d’affaires comme contrôle du cycle (cf. encadré 3). Les nombres correspondent aux taux de croissance annuel moyen estimés de l’indicateur sur la sous‑période correspondante ; ils sont grisés si ces tendances sont non significativement différentes de la précédente (ou tendance non significativement différente de 0 pour la tendance immédiatement après 1990). Les tests sur données macroéconomiques diffèrent de ceux présentés dans la figure I car la période d’estimation est plus courte par cohérence avec les données d’entreprises. Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM. Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon non cylindré ; estimations des auteurs.
+
+21
+
+À la recherche de causes du ralentissement de la productivité française au travers des données d’entreprises
+Quelques interprétations du ralentissement de la productivité
+La productivité a donc connu une rupture à la baisse avant la crise financière, généralisée entre les secteurs et les tailles et sa croissance est particulièrement faible dans la période actuelle. Plusieurs explications ont été avan‑ cées pour expliquer ce ralentissement, qui touche la plupart des pays avancés (Bergeaud et al., 2016), et les données d’entreprises per‑ mettront d’apporter un éclairage sur plusieurs d’entre elles.
+‑ Un essoufflement de la contribution du progrès technologique à la croissance de la productivité (Gordon, 2012, 2013, 2014 et 2016) : la vague de progrès technologique actuelle ne serait pas à la mesure de celle que le monde a connue à la suite de la deuxième révolution industrielle et qui a alimenté la croissance, directement ou au travers du rattrapage des États‑Unis, jusque dans les années 1970 (voir Cette, 2014 et 2015, pour une synthèse de ce débat). Dans cette hypothèse, la productivité des entreprises à la frontière devrait alors ralentir.
+‑ Un ralentissement de la diffusion des techno‑ logies entre les entreprises à la frontière et les autres, en raison de l’importance croissante des « connaissances tacites », liée à l’augmentation de la complexité des technologies avec le temps (Andrews et al., 2015) : la convergence du niveau de productivité des entreprises les moins productives vers le niveau des plus productives devrait alors ralentir.
+‑ Des phénomènes de « winner‑takes‑all » liés aux caractéristiques des TIC (fortes éco‑ nomies d’échelle, liées notamment aux effets de réseau ; biens non rivaux, dont le coût de production marginale est nul) : dans ce cas, la productivité des entreprises les plus pro‑ ductives devrait fortement accélérer relative‑ ment aux entreprises les moins productives. Ces évolutions ont un impact ambigu sur la productivité agrégée, dans la mesure où elles expliquent plutôt une divergence croissante qu’un ralentissement global. On peut noter qu’elles conduisent néanmoins à des situations de monopole qui affaiblissent la concurrence et en conséquence à terme défavorables à la croissance de la productivité.
+
+‑ Une réallocation insuffisamment performante face à des chocs nécessitant des réallocations sectorielles/géographiques importantes des fac‑ teurs de production. Il peut s’agir de chocs tech‑ nologiques, comme celui des TIC, de chocs sur la spécialisation industrielle avec la mondialisation, ou de chocs liés à la crise financière ou au dégon‑ flement de la bulle immobilière, qui a eu un impact significatif sur la construction en France. Berthou (2016) a montré que l’efficacité alloca‑ tive de la main d’œuvre aurait été particulière‑ ment faible en France après la crise. Fontagné et Santoni (2015) expliquent les différences d’effi‑ cacité allocative par les économies d’aggloméra‑ tion, l’efficacité allocative étant meilleure dans les zones les plus denses. Dans ce cas, la disper‑ sion de la productivité augmente et la producti‑ vité des entreprises survivantes ralentit.
+Des arguments plus spécifiques au cas fran‑ çais ont été évoqués. Askenazy et Erhel (2015) ont ainsi mis en évidence le rôle du marché du travail : l’assouplissement jurisprudentiel du recours aux contrats à durée déterminée (CDD) et l’auto‑entreprenariat ont ainsi contribué à développer des emplois à faible productivité, tandis que les réductions de charges ont incité les entreprises à garder leur main‑d’œuvre peu qualifiée, même dans la période de crise.
+En France, sur données d’entreprises issues éga‑ lement de la base Fiben, Chevalier et al. (2008) ont examiné spécifiquement la convergence de la productivité jusqu’au début des années 2000. Ils ont mis en évidence un ralentissement de la convergence de la productivité des entreprises du milieu des années 1990 au début des années 2000 qui serait lié à une accélération de la productivité des entreprises les plus productives. Cette accélé‑ ration relative était expliquée par trois facteurs :
+‑ Les technologies de l’information et de la com‑ munication (TIC) ont particulièrement bénéficié aux entreprises déjà les plus productives, dispo‑ sant d’une main d’œuvre bien formée capable d’en tirer pleinement partie.
+‑ Le développement des échanges extérieurs avec la mondialisation a bénéficié aux entreprises les plus productives car elles ont les seules à pouvoir financer les coûts fixes nécessaires pour entrer sur un marché étranger (Bernard & Jensen, 1999).
+‑ En faisant baisser le niveau moyen de rentabi‑ lité, le renforcement de la concurrence lié aux déréglementations des années 1990 a pu conduire les entreprises les plus productives à chercher à échapper à la concurrence « neck‑and‑neck », tandis qu’elle a pu décourager les entreprises les
+
+22
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+
+moins productives de rattraper le niveau moyen de productivité (Aghion et al., 2005).
+L’évolution de la productivité à la frontière : augmentation de la dispersion entre les firmes les plus productives et les autres
+Un essoufflement du progrès technique sup‑ poserait un ralentissement de la productivité à la frontière de production, tandis qu’un méca‑ nisme de « winner‑takes‑all » amènerait au contraire une accélération de la productivité à la frontière. Néanmoins, dans ce dernier cas, les entreprises à la frontière une année donnée devraient accentuer leur avance.
+Pour départager ces deux explications, nous allons donc examiner l’évolution de la produc‑ tivité des entreprises à la frontière sous deux angles. Dans un premier temps, nous suivrons la productivité des entreprises qui étaient les plus productives à une date donnée, en conservant cet échantillon par la suite, même s’il ne constitue plus nécessairement la frontière de productivité les années suivantes. Dans un deuxième temps, nous suivrons la productivité des entreprises les plus productives chaque année, ces entreprises pouvant être différentes d’une année sur l’autre. Dans les deux cas, nous retenons les entreprises dans les 5 % les plus productives mais les résul‑ tats ne sont pas qualitativement différents pour les 2 % ou les 10 % les plus productives.
+Avec la figure II, nous constatons, dans un pre‑ mier temps, que la productivité médiane des entreprises les plus productives à une date don‑ née ‒ 1995, 2000 et 2005 (trait pointillé) ‒ baisse tendanciellement, tandis qu’elle augmente pour les entreprises moins productives à cette même date (trait discontinu).
+Ceci indique une convergence de la productivité des entreprises sur l’ensemble de la période : quelle que soit la date de référence, la produc‑ tivité des entreprises les plus productives à une date donnée se dégrade par rapport à celle des autres entreprises. Il faut néanmoins noter que le niveau de productivité médian des entreprises les plus productives reste très largement au‑des‑ sus de celui des entreprises les moins produc‑ tives à la date de référence ou des entreprises de l’ensemble de l’échantillon, quelle que soit la période de référence. Ainsi, en 2014, les entre‑ prises les plus productives en 1995 restent 1.9 fois plus productives (contre 3.4 fois en 1995) que les entreprises qui étaient moins produc‑ tives qu’elles en 1995.
+
+La productivité des entreprises à la frontière une année donnée baisse, sauf sur de très rares et courtes sous‑périodes. Cette baisse s’est accen‑ tuée sur la fin de la période. Ces évolutions ne vont pas dans le sens d’une dynamique du « winner‑takes‑all » : la productivité des entreprises les plus productives n’accélère pas, contrairement à ce que l’on attendrait si ces entreprises gagnaient de plus en plus de parts de marché pour un coût marginal nul. Il semble en effet difficile d’envi‑ sager qu’une dynamique de ce type s’applique à l’ensemble des secteurs de l’économie, dont les caractéristiques ne correspondent pas toutes aux secteurs TIC (économies d’échelle liées à des effets de réseau, biens non rivaux).
+Dans un deuxième temps, nous nous intéres‑ sons à l’évolution de la frontière de producti‑ vité, avec un échantillon variable chaque année. Contrairement à la figure II, la figure III repré‑ sentent la médiane de la productivité des 5 % des entreprises les plus productives de l’année7. Le trait noir définit donc la frontière de producti‑ vité, avec un renouvellement chaque année des entreprises qui la définissent. Le trait pointillé correspond à la productivité médiane des autres entreprises. L’écart entre les deux traits constitue donc un indicateur de la dispersion de la pro‑ ductivité entre les entreprises à la frontière et les autres entreprises. Depuis le milieu des années 1990, la productivité des entreprises à la fron‑ tière accélère par rapport à celle des autres entre‑ prises, avec une pause au tournant des années 2000. La crise financière n’a pas ralenti ces évo‑ lutions qui se sont au contraire accusées en 2014.
+La frontière de productivité accélère signifi‑ cativement, surtout sur la période récente, de façon très proche des résultats de Andrews et al. (2015) sur données internationales. Ceci ne va pas dans le sens d’un essoufflement du progrès technologique, hypothèse défendue par Gordon. Néanmoins, dans le cas de la France, la diffu‑ sion des TIC a été moindre que dans d’autres pays (Cette et al., 2015). Ainsi, la progression de productivité au niveau de la frontière de pro‑ ductivité en France ne correspond pas nécessai‑ rement à des progrès technologiques de niveau mondial, car il peut également s’agir d’une poursuite de la diffusion de technologies exis‑ tantes au sein des entreprises les plus produc‑ tives. La frontière d’efficience est évidemment internationale, mais il est frappant de constater la similitude des résultats obtenus sur données
+7.  Ces figures correspondent aux graphiques 1 de Andrews et al. (2015). Néanmoins, la frontière est ici définie au niveau national et non mondial comme dans cette étude.
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+23
+
+Figure II Dynamique comparée de la productivité des entreprises les plus productives à une date donnée et des autres entreprises – échantillon cylindré
+
+A – Productivité par employé log, médiane par catégorie,
+base 0 en 1995
+0.4
+
+B – Productivité globale des facteurs
+log, médiane par catégorie, base 0 en 1995
+0.5
+
+0.2 0
+0 -0.5
+-0.2
+
+-0.4 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013
+
+-1 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013
+
+5 % les plus productives en 1995 95 % les moins productives en 1995
+
+5 % les plus productives en 1995 95 % les moins productives en 1995
+
+log, médiane par catégorie, base 0 en 2000
+0.2 0.1
+0 -0.1 -0.2 -0.3 -0.4
+2000 2002 2004 2006 2008 2010 2012 2014
+5 % les plus productives en 2000 95 % les moins productives en 2000
+
+log, médiane par catégorie, base 0 en 2000
+0.5
+0
+-0.5
+-1 2000 2002 2004 2006 2008 2010 2012 2014 5 % les plus productives en 2000 95 % les moins productives en 2000
+
+log, médiane par catégorie, base 0 en 2005
+0.2
+0.1
+0
+
+log, médiane par catégorie, base 0 en 2005
+0.5
+0
+
+-0.1 -0.2 -0.3
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+-0.5
+
+-1 2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+5 % les plus productives en 2005 95 % les moins productives en 2005
+
+5 % les plus productives en 2005 95 % les moins productives en 2005
+
+Lecture : sur le premier graphique en haut à gauche le trait pointillé représente la médiane de la productivité des entreprises qui étaient les 5 % les plus productives dans leur secteur en 1995, le trait discontinu la médiane de la productivité des entreprises faisant partie des 95 % les moins productives dans leur secteur en 1995. Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM, Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon cylindré à partir de l’année de base ; calculs des auteurs.
+
+24
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+
+françaises dans le présent article et sur don‑ nées internationales dans Andrew et al. (2015). Signalons que, compte tenu de la sous‑représen‑ tation de l’Allemagne et surtout des États‑Unis dans les données d’entreprises mobilisées par Andrew et al. (2015), relatives aux principaux pays de l’OCDE8, la frontière qui y est carac‑ térisée empiriquement n’est pas nécessairement la frontière d’efficience mondiale.
+Le concept de frontière de productivité est néan‑ moins difficile à appréhender ici : en effet, nous constatons que les entreprises de notre base restent en moyenne 3 ans parmi les plus pro‑ ductives une année donnée, pour la PGF comme pour la productivité du travail. Cette durée est d’ailleurs proche de celle de l’analyse proposée par Andrews et al. (2015) sur données inter‑ nationales. Compte tenu de leur niveau relatif initial très élevé, la productivité des entreprises à la frontière revient naturellement vers la moyenne, comme illustré dans la figure II9. La frontière représentée dans la figure III corres‑ pond donc à une performance ponctuelle, avec une performance de productivité qui peut être insoutenable à long terme pour une forte pro‑ portion de firmes.
+8.  Autriche, Belgique, République tchèque, Danemark, Estonie, Finlande, France, Allemagne, Royaume‑Uni, Grèce, Hongrie, Italie, Japon, Corée, Pays‑Bas, Norvège, Pologne, Portugal, Espagne, Suède, Slovénie, République slovaque, Etats‑Unis. 9. Sans atteindre toutefois cette moyenne, puisque ces entreprises restent plus productives que la médiane, même après 19 ans de baisse de leur niveau relatif de productivité.
+
+La productivité des autres entreprises ralentit, voire stagne pour la PGF, depuis la crise finan‑ cière. Cette accélération relative des plus pro‑ ductives témoigne donc d’une augmentation de la dispersion de la productivité entre entreprises très productives et autres entreprises. Ceci est confirmé dans la figure IV, où sont représentées les dispersions inter-quartile ou inter-décile10 : la dispersion augmente fortement depuis la crise et atteint ses plus hauts niveaux en fin de période. Ceci peut correspondre à l’hypothèse de difficultés de réallocation suite à des chocs. En effet, les chocs sectoriels peuvent accentuer les besoins de réallocation, mais si des rigidi‑ tés de marché ou des compétences inadaptées brident ces réallocations, des entreprises peu productives vont continuer d’opérer et leur pro‑ ductivité va ralentir, tandis que la productivité des entreprises performantes bénéficiant de fac‑ teurs de production adaptés accélère. L’impact de ces chocs peut s’illustrer, par exemple, dans le secteur de la construction : suite à la crise financière, l’ajustement du secteur immobilier résidentiel s’est effectué par un ralentissement des mises en chantier plutôt que par une baisse des prix immobiliers ; ceci s’est traduit par une baisse de la productivité médiane des entreprises du secteur (cf. tableau 1) et par des difficultés de réallocations de la main d’œuvre de ce secteur.
+10. Compte tenu de la non‑exhaustivité de la base de données, ces indicateurs de dispersion ont été choisis car ils sont moins sensibles aux variations de l’échantillon que les indicateurs basés sur l’écart‑type ou le coefficient de Gini.
+
+Figure III Productivité des entreprises les plus productives chaque année
+
+A – Productivité par employé – échantillon non cylindré
+
+B – Productivité globale des facteurs – échantillon non cylindré
+
+log, médiane par catégorie, base 0 en 1991
+0.7 0.6 0.5 0.4 0.3 0.2 0.1
+0 -0.1
+1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013
+
+log, médiane par catégorie, base 0 en 1991 1.2 1.0 0.8 0.6 0.4 0.2 0.0
+-0.2 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013
+
+5 % les plus productives chaque année 95 % les moins productives chaque année
+
+5 % les plus productives chaque année 95 % les moins productives chaque année
+
+Lecture : contrairement à la figure II, la productivité médiane est mesurée sur l’ensemble de la base chaque année et non sur les entreprises les plus ou les moins productives l’année de base. Le trait continu mesure la productivité médiane des 5 % des entreprises les plus productives de l’année et du secteur. Le trait discontinu la productivité médiane de l’ensemble des autres entreprises. Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM. Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon non cylindré ; calculs des auteurs.
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+25
+
+Figure IV Indicateur de dispersion de la productivité des entreprises– échantillon non cylindré
+
+A – Dispersion inter‑quartiles (Q3‑Q1)/(Q1+Q3)
+
+B – Dispersion inter‑déciles (D9‑D1)/(D1+D9)
+
+0.37 0.36 0.35 0.34 0.33 0.32 0.31 0.30
+1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013
+
+Productivité du travail
+
+PGF
+
+0.64 0.63 0.62 0.61 0.60 0.59 0.58 0.57
+1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013
+
+Productivité du travail
+
+PGF
+
+Lecture : ces deux graphiques présentent des indicateurs de dispersion, sur la base de l’écart interquartile ou inter décile. Plus ces indicateurs sont élevés, plus la dispersion est forte. Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM. Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon non cylindré ; calculs des auteurs.
+
+De telles difficultés de réallocation sont confirmées par la littérature économique, par exemple par Bartelsman et al. (2016) sur plu‑ sieurs pays européens. Pour les États‑Unis et le Royaume‑Uni, Foster et al. (2014) et Barnett et al. (2014) ont montré que les réallocations avaient été moins favorables à la productivité après la Grande Récession. Berthou (2016) montre que l’efficacité allocative du travail en France aurait d’ailleurs été particulièrement faible depuis la crise par rapport à d’autres pays européens. Les enquêtes auprès des entreprises confirment ces résultats et notamment l’enquête Wage Dynamics Network de l’Eurosystème : 70 % des entreprises (pondérées par leur effec‑ tif) y déclarent que le manque de disponibilité d’une main d’œuvre compétente est un obstacle au recrutement en France contre un peu plus de 40 % en Espagne et de 30 % en Italie (Jadeau et al., 2015).
+Parmi les explications de ces difficultés de réallocation, l’impact de la crise financière sur le fonctionnement du système bancaire a été évoqué pour plusieurs pays. Néanmoins, pour la France, il ne semble pas que des mésalloca‑ tions des crédits vers des entreprises insolvables (« zombie lending ») se soient particulièrement développées avec la crise (Avouyi‑Dovi et al., 2016). Dès lors, les explications sont plutôt à rechercher dans les rigidités sur le marché du travail, notamment les obstacles à la mobilité de la main d’œuvre ou des entreprises (Fontagné &Santoni, 2015 ; Bergeaud & Ray, 2017), dans la qualité de la formation initiale et continue, ou dans des régulations sur le marché des biens qui
+
+peuvent réduire la concurrence par des barrières à l’entrée. Enfin, l’effondrement du commerce international, particulièrement marqué pendant la Grande Récession, a pu toucher plus parti‑ culièrement les entreprises les plus productives, qui sont également celles qui exportent le plus. Hormis en 2008‑2009, les données françaises que nous mobilisons ne semblent pas confirmer cette explication.
+Pas de ralentissement de la convergence de la productivité dans les années 2000
+Parmi les hypothèses pour expliquer le ralen‑ tissement de la productivité au niveau agrégé, Andrews et al. (2015) ont mis en avant une convergence plus lente de la productivité des entreprises les moins productives vers le niveau des plus productives. Cette convergence plus lente pourrait s’expliquer par une moindre dif‑ fusion du progrès technologique des entreprises les plus productives vers les moins productives.
+Cette convergence plus lente peut être testée
+dans le cadre d’une équation de β‑convergence,
+faisant dépendre la croissance de la productivité de l’écart à la frontière :
+( ) (1) ∆prodit = β ⋅ ( prod 95e percentile t−1 − prodit−1) + Xist + εist
+Pour l’entreprise i, du secteur s, la croissance de sa productivité par employé ou de sa PGF, prod (en log), est exprimée en fonction de l’écart entre la médiane du log de la productivité des 5 % des entreprises les plus productives de leur secteur
+
+26
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+
+et de l’année considérée, prod(95e percentile),
+
+et sa productivité, prod, et en fonction des effets
+
+fixes (année, secteur, taille ou entreprise selon
+
+les
+
+spécifications)
+
+Xist,
+
+avec
+
+ε ist
+
+terme
+
+d’erreur11.
+
+S’il y a convergence, la croissance de la produc‑ tivité sera d’autant plus rapide que l’écart à la frontière de productivité sera élevé : β sera posi‑ tif et significatif. La convergence s’effectue vers une cible qui dépend des effets fixes : la produc‑ tivité de l’entreprise converge à long terme vers prod(95e percentile)t‑1+ Xist/β. Comme cela est montré dans Chevalier et al. (2008), la produc‑ tivité retardée constitue une variable endogène, dans la mesure où elle est corrélée à l’hétéro‑ généité inobservée de la firme. Estimé par la méthode des moindres carrés ordinaires (MCO), on peut montrer que β sera sous‑estimé, tandis
+
+11.  Une spécification alternative consiste à régresser sur le niveau de productivité de l’entreprise retardée uniquement, sans la productivité du 95e percentile. En cas de convergence, β est alors négatif. Les résultats, présentés en Annexe 2, sont très proches, ainsi que sur la convergence par années.
+
+qu’il sera surestimé avec des effets fixes entre‑ prises. Une solution serait d’utiliser un estima‑ teur à la Arellano‑Bover (1995). Néanmoins, ce type d’estimateur entraîne une forte perte de précision dans l’estimation de β, tandis que le biais de l’estimation en MCO va dans le sens d’une absence de convergence. Si β est signifi‑ catif et positif, alors on peut donc effectivement conclure à une convergence de la productivité des entreprises.
+Les résultats sur l’ensemble de la période sont présentés dans le tableau 2. Avec les MCO, quels que soit les effets fixes, on trouve une convergence significative, avec près de 11 % de l’écart à la frontière comblé chaque année pour la PGF et 14 % pour la productivité par employé (PTN). Avec effets fixes entreprises (colonnes 7 et 8), la convergence est beaucoup plus rapide, ce qui tient à la fois à la définition de l’objec‑ tif de convergence de long terme au niveau de l’entreprise mais également au biais d’estima‑ tion évoqué plus haut.
+
+Tableau 2 Convergence de la productivité estimée sur l’ensemble de la période
+
+A – Productivité globale des facteurs
+
+Distance à la frontièret‑1
+N R2 Effets fixes Année Secteur Taille
+
+(1) mco 0.101*** (0.000351) 1781198 0.0441
+
+(2) Mco 0.104*** (0.000351) 1781198 0.0560
+
+(3) mco 0.112*** (0.000365) 1781198 0.0526
+
+(4) mco 0.115*** (0.000370) 1781198 0.0549
+
+(5) mco 0.100*** (0.000351) 1781198 0.0442
+
+(6) mco 0.118*** (0.000370) 1781198 0.0662
+
+(7) ef 0.434*** (0.000704) 1781198 0.197
+
+(8) ef 0.512*** (0.000729) 1781198 0.248
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+( ) ( ) «Làeleacftfu»rroepnot:iuèerrseetfidmfeeatsPtiofGixnFedsdeeen∆l’terpenrptorredispiteris=se;βéi⋅cl(’aaprntr‑notéydpeet9‑e15n,etXpreiestrpecafefrenettnsitlhfeixèets−se1s−an; pn*répoed,<ist0−e1.c1)t,+e*u*Xrp,ist<ta+i0ll.e0ε5ois,ut **ea* nvpetr<cep0(r.ip0s1reo.sd;
+
+«9m5ecpoe»rcpeonutrilme ot−in1d−repsrcoadrirt−é1s)
+
+, la distance ordinaires et
+
+B – Productivité par employé
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+mco
+
+Mco
+
+mco
+
+mco
+
+mco
+
+mco
+
+ef
+
+ef
+
+Distance à la frontièret‑1
+
+0.113*** (0.000268)
+
+0.115*** (0.000269)
+
+0.139*** (0.000294)
+
+0.113*** (0.000269)
+
+0.140*** (0.000293)
+
+0.140*** (0.000294)
+
+0.506*** (0.000532)
+
+0.530*** (0.000533)
+
+N
+
+3348931 3348931 3348931 3348931 3348931 3348931 3348931 3348931
+
+R2
+
+0.0502
+
+0.0566
+
+0.0642
+
+0.0502
+
+0.0701
+
+0.0701
+
+0.236
+
+0.257
+
+Effets fixes
+
+Année
+
+X
+
+X
+
+X
+
+X
+
+Secteur
+
+X
+
+X
+
+X
+
+Taille
+
+X
+
+X
+
+( ) ( ) Lclaaerfcrrtoéunsretoiè:rredesintdiameiraeptsriooendtud«ceteivf∆it»pérppooadurirtee=mffβpelto⋅s(yfpéixredosedel’ne9tn5rteerpeprpeisrriescseen;itéli’laceanrntt−é‑1tey−pte‑p1re,onXdtrisiett−e1p)faf+eretsXntfihsixtèe+sseεasins;tnaé* vpee,<cse0(c.p1ter,uo**rd,pta9<i5ll0ee.0po5eu,rec**e*npntrtei<pler0is.t0−e11s.−;
+
+prodit−1) , la distance à « mco » pour moindres
+
+Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM. Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon non cylindré ; calculs des auteurs.
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+27
+
+La convergence est plus rapide pour la pro‑ ductivité par employé (PTN) que pour la PGF. En effet, il apparaît plus facile d’augmenter l’intensité capitalistique d’une entreprise pour augmenter sa productivité que d’améliorer l’efficacité de son processus productif à capi‑ tal constant. Nous avons testé si la vitesse de convergence était plus faible pour les secteurs intensifs en TIC. En utilisant comme proxy de l’intensité en TIC la part des revenus du capi‑ tal TIC dans le revenu total du capital (source EU‑KLEMS), nous trouvons une vitesse de convergence qui décroît avec l’intensité en TIC mais de façon limitée.
+
+Pour étudier l’évolution de la vitesse de conver‑
+
+gence sur la période, nous utilisons une spécifi‑
+
+cation légèrement différente :
+
+∆prodit = α ⋅ ( prod (95%)t−1 − prodit−1)
+
+( ) 2014
+
++ ∑ β j Dj ( prod j =1991
+
+95%
+
+j−1 − prodij−1)�
+
+(2)
+
++Dt + Ds + Da + εist
+
+avec toujours les indices i pour l’entreprise, s pour le secteur et t pour l’année, prod est l’indica‑ teur de productivité en log, prod(95%) le log de la productivité médiane des 5 % des entreprises
+
+les plus productives de leur secteur, Dj des dummies année ; Dt, Ds et Da, des effets fixes année, secteur et taille, et εist. le terme d’erreur.
+La vitesse de convergence l’année j est alors α+βj. Il y a convergence si la somme de ces deux coefficients est significative et positive.
+Les résultats de ces estimations sont présentés en Annexe 3 et représentés dans la figure V12.
+La vitesse de convergence a ralenti tout au long des années 1990, avec un point bas en 1999. Elle a stagné ensuite jusqu’à la crise financière. Le choc de la crise financière a conduit à une accélération de la convergence qui est large‑ ment conjoncturelle et corrigée par la suite. En 2014, la convergence ralentit fortement. Il fau‑ dra néanmoins attendre d’autres années pour confirmer ce nouveau décrochage de la vitesse de convergence, observé sur une seule année à ce stade.
+12.  Les résultats sur l’échantillon cylindré sont présentés en Annexe 4. L’échantillon cylindré permet de s’abstraire de l’effet des entrées‑sorties, bien que la probabilité de survie diminue avec le temps pour les entre‑ prises de cette échantillon. Les résultats sont qualitativement similaires, le ralentissement apparaissant encore moins évident sur la période récente.
+
+Figure V Convergence de la productivité par année
+
+A – Productivité globale des facteurs α+βi ‑ Coefficients de convergence – PGF – échantillon non cylindré – MCO
+
+( ) ( ) 2014
+
+∆pgfα = α ⋅ ( pgf
+
+95%
+
+α−1 −
+
+pgfα−1) + ∑ βi Di ( pgf i =1991
+
+95% i−1 − pgfi−1) + Ds + Dt + Dα
+
+0.15
+
+Convergence
+
+plus
+
+0.14
+
+rapide
+
+0.13
+
+0.12
+
+0.11
+
+0.10
+
+0.09
+
+Convergence
+
+moins
+
+rapide 0.08
+
+1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013
+
+α+β
+
+Intervalle de con ance à 95 %
+
+28
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+
+B – Productivité par employé α+βi ‑ Coefficients de convergence – Productivité du travail – échantillon non cylindré – MCO
+
+( ) ( ) 2014
+
+∆ptα = α ⋅ ( pt
+
+95%
+
+α−1 −
+
+ptα−1) + ∑ βi Di ( pt i =1991
+
+95%
+
+i−1 − pti−1) + Ds + Dt + Dα
+
+Convergence 0.18
+plus
+
+0.17
+
+rapide
+
+0.16
+
+0.15
+
+0.14
+
+0.13
+
+0.12
+
+Convergence
+
+0.11 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013
+
+moins rapide
+
+α+β
+
+Intervalle de con ance à 95 %
+
+Lecture : ces deux graphiques présentent la somme des coefficients α+βi de l’équation (2). Plus ces indicateurs sont élevés, plus la convergence est rapide. Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM. Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon non cylindré ; calculs des auteurs.
+
+S’il y a eu un ralentissement apparent de la vitesse de convergence dans les années 1990 (confir‑ mant les résultats de Chevalier et al., 2008), le ralentissement depuis les années 2000 ou 2010 n’est pas avéré. Si elle n’est pas infirmée, l’hy‑ pothèse d’un ralentissement de la convergence des entreprises les moins productives n’est donc pas non plus confirmée à ce stade.
+Ce résultat contraste avec celui d’une augmen‑ tation de la dispersion mesurée par des indica‑ teurs d’écarts inter-déciles ou inter-quartiles (voir figure IV). Ces deux approches ne sont pas indépendantes mais diffèrent également sur différents aspects : i) la β‑convergence est estimée en prenant en compte un terme d’erreur εist, tandis que les indicateurs de dis‑ persion intègrent les chocs ponctuels ; ii) la β‑convergence est estimée sur les entreprises présentes deux années consécutives, tandis que la dispersion est caractérisée sur toutes les entreprises présentes chaque année ; iii) l’estimation de la β‑convergence inclut des effets fixes, qui font varier l’objectif de conver‑ gence par secteur, année, taille d’entreprise, ces modulations n’étant pas prises en compte dans les indicateurs de dispersion ; iv) enfin, les indicateurs de dispersion construits sur les écarts inter‑déciles ou inter‑quartiles écartent
+
+par définition les productivités des entreprises aux bords la distribution de notre échantil‑ lon, qui interviennent dans l’estimation de la β‑convergence. En termes d’interprétation, le contraste entre les deux approches appelle à une certaine prudence : si la dispersion des niveaux de productivité a augmenté sur les dernières années, comme le montrent les indicateurs de dispersion mobilisés, les estimations envisa‑ geables et qui souffrent de nombreuses limites ne permettent pas d’attribuer cette augmenta‑ tion à un affaiblissement de la convergence des niveaux de productivité.
+*  * *
+Les résultats essentiels de notre analyse concer‑ nant les évolutions de la productivité du travail et de la PGF en France sur les dernières décen‑ nies sont les suivants :
+‑ Tant les données macroéconomiques que les données d’entreprises indiquent que la produc‑ tivité du travail et la PGF ont ralenti dans les années 1990 puis dans les années 2000. Sur les
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+29
+
+données macroéconomiques, ce dernier ralen‑ tissement est observé au début des années 2000, avant la crise financière ouverte en 2007‑2008. Mais sur données d’entreprises, il est parfois plutôt observé au moment de la crise, ou aux deux dates dans cette même décennie. Sauf très rares exceptions, le ralentissement de la décen‑ nie 2000 est observé sur les données d’entre‑ prises sur les trois tailles d’entreprises et les six secteurs d’activité considérés. Il apparaît que la croissance de la productivité est, depuis le ralentissement de la décennie 2000, plus faible qu’elle n’a jamais été sur la période considérée.
+‑ Les données d’entreprises indiquent claire‑ ment que le ralentissement de la productivité des entreprises françaises durant la décennie 2000 ne viendrait pas d’un essoufflement à la frontière technologique. La croissance de la productivité des entreprises les plus productives ne connaît pas de fléchissement apparent. Cette observation semble démentir, au moins pour la France, l’idée d’un épuisement des effets sur la productivité du progrès technique.
+‑ Les données d’entreprises indiquent éga‑ lement que la convergence des entreprises followers vers la frontière technologique n’au‑ rait pas diminué sur la décennie 2000, ce qui semble démentir l’idée d’un affaiblissement de la diffusion des innovations des entreprises les plus productives vers les autres. Dans le même temps, la dispersion des niveaux de pro‑ ductivité semble s’être accrue, ce qui pourrait témoigner d’une allocation moins efficiente des facteurs de production en faveur des entreprises les plus performantes.
+Au terme de ces investigations empiriques sur deux corps de données distincts (macro et micro‑économiques), il apparaît donc que les raisons du fléchissement de la productivité en France avant la crise financière amorcée en 2007‑2008 demeurent au moins en partie incer‑ taines. L’idée d’une allocation déficiente des facteurs de production vers les activités les plus prometteuses et les entreprises les plus perfor‑ mantes semble garder une réelle pertinence. Cette idée est renforcée par le fait que le ralen‑ tissement observé en France l’est également dans toutes les principales économies dévelop‑ pées, alors même que ces économies diffèrent sur de multiples aspects : distance à la frontière, institutions, niveau d’éducation de la population en âge de travailler… Cette universalité suggère que les raisons du fléchissement peuvent être
+
+semblables dans les différentes économies avan‑ cées. Un facteur qui vient immédiatement à l’es‑ prit est évidemment la baisse des taux d’intérêt réels, généralisée depuis la décennie 1990. Une telle baisse du coût des capitaux empruntés a pu permettre la survie de nombreuses entreprises qui auraient été condamnées par des conditions de crédit plus onéreuses. Elle a pu aussi renta‑ biliser des projets d’investissement peu perfor‑ mants. Il en résulte au total une allocation des ressources productives moins favorable, en moyenne, au dynamisme de la productivité.
+Les précédentes révolutions industrielles se sont toujours accompagnées de vastes transforma‑ tions des institutions favorables à la production, la diffusion et l’amélioration des nouvelles tech‑ nologies (cf. par exemple Ferguson et Washer, 2004). Dans une telle approche, il importe donc pour chaque pays ou zone économique de se préparer à la mise en œuvre de réformes struc‑ turelles ambitieuses qui favoriseront la renais‑ sance de la révolution technologique en cours et dont des prémisses apparaissent dans de nom‑ breux domaines (cf. Cette, 2014 et 2015, pour une revue de la littérature en ce domaine). Une adaptation insuffisante condamnera le pays ou la zone économique concernée à une perte de performances, autrement dit une paupérisation, relativement aux pays qui se seront adaptés et bénéficieront davantage des effets de la révolu‑ tion technologique en cours.
+L’histoire des précédentes révolutions tech‑ nologiques nous a montré qu’il n’y avait pas nécessairement d’arbitrages à envisager entre le plein bénéfice de révolutions technologiques, les protections des travailleurs et, au‑delà, le niveau de vie économique des populations. Ainsi, les gains de productivité associés à la seconde révolution industrielle, qui a boule‑ versé les modes de production et de vie au XXe siècle, ont permis le financement d’une aug‑ mentation à la fois des protections (sociales en particulier), du niveau de vie économique moyen (le pouvoir d’achat) et des loisirs (par la baisse de la durée du travail moyenne). C’est bien la perspective de tels gains qui doit guider les adaptations institutionnelles souhaitables pour favoriser une allocation plus performante des ressources productives et une dynamisa‑ tion de la productivité portée par la révolu‑ tion technologique encore inachevée des TIC et de l’économie numérique.
+
+30
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+
+BIBLIOGRAPHIE
+
+Aghion P., Bloom N., Blundell R. & Howitt P. (2005). Competition and innovation: an inverted U relationship. Quarterly Journal of Economics, 120(2), 701‒728.
+Andrews D., Criscuolo C. & Gal P. N. (2015). Fron‑ tier Firms, Technology Diffusion and Public Policy: Micro Evidence from OECD Countries, OECD Productivity Working Papers 2, OECD Publishing.
+Arellano, M. & Bover, O. (1995). Another Look at the Instrumental Variable Estimation of Error Com‑ ponent Models. Journal of Econometrics, 68(1), 29‒51.
+Askenazy, P. & Erhel, H. (2015). The French Pro‑ ductivity Puzzle. IZA Discussion Paper N°9188, July.
+Aue, A. & Horvath, L. (2013). Structural Breaks in Time Series. Journal of Time Series Analysis, 34(1), 1–16.
+Avouyi‑Dovi, S., Lecat, R., O’Donnell, C., Bureau, B. & Villetelle, J.‑P. (2016). Les crédits aux entreprises à taux particulièrement bas en France. Bulletin de la Banque de France, 203, 5‒18.
+Barnett, A., Batten, S., Chiu, A., Franklin, J. & Sebastia‑Barriel, M. (2014). The UK produc‑ tivity puzzle. Bank of England Quarterly Bulletin, 54(2), 114‒128.
+Bartelsman, E., Lopez‑Garcia, P. & Presidente, G. (2016). Factor reallocation in Europe. mimeo.
+Bergeaud, A., Cette, G. & Lecat, R. (2016). Pro‑ ductivity trends from 1890 to 2012 in advanced countries. The Review of Income and Wealth, 62(3), 420‒444.
+Bergeaud, A. & Ray, S. (2017). Frictions in the corporate real‑estate market, firms’ relocation and employment. Document de travail de la Banque de France, à paraître.
+Bernard, A. B. & Jensen, J. B. (1999). Exceptional Exporter Performance: Cause, Effect, or Both? Journal of International Economics, 47(1), 1–25.
+Berthou A. (2016). Ajustement du compte courant et dynamique de la productivité en Europe pendant la crise. Bulletin de la Banque de France, N° 207.
+
+Branstetter, L. & Sichel, D (2017). The case for an American Productivity Revival. Policy Brief, 17‒26, June, Peterson Institute for International Economics.
+Brynjolfsson, E. & Mcafee, A. (2014). The second machine age – Work, progress, and prosperity in a time of brilliant technologies. New York: W. W. Nor‑ ton & Company.
+Byrne, D., Oliner, S. & Sichel, D. (2013). Is the Information Technology Revolution Over? International Productivity Monitor, 25, Spring, 20‒36.
+Byrne, D. M., Reinsdorf, M. B. & Fernald J.G. (2016). Does the United States have a Produc‑ tivity Slowdown or a Measurement Problem? Brookings Papers on Economic Activity, Spring, 109–182.
+Cette, G. (2014). Does ICT remain a powerful engine of growth? Revue d’économie politique, 124(4), 473‒492.
+Cette, G. (2015). Which role for ICTs as a produc‑ tivity driver over the last years and the next future? Digiworld Economic Journal (Communications & Strategies), 100(4), 65‒83.
+Cette, G., Clerc, C. & Bresson, L. (2015). Contri‑ bution of ICT Diffusion to Labour Productivity Growth: The United States, Canada, the Eurozone, and the United Kingdom, 1970‑2013. International Productivity Monitor, 28.
+Chevalier, P. A., Lecat, R. & Oulton, N. (2008). Convergence de la productivité des entreprises, mondialisation, technologies de l’information et concurrence. Économie et Statistique, 419‑420, 101‒124.
+Crafts, N. & O’Rourke, K. (2013). Twentieth Century Growth. Oxford University Economic and Social History Series, 117.
+Eksi, O. (2009). Structural break estimation: A survey. Working paper Universitat Pompeu Fabra, octobre.
+Ferguson, R. & Wascher, W. (2004). Distinguished lecture on economics in Government: lessons from past productivity booms. The Journal of Economic Perspectives, 18(2), 3‒28.
+Fontagné, L. & Santoni, G. (2015). Firm Level Allocative Inefficiency: Evidence from France. CEPII Working Paper 2015‑12.
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+31
+
+Foster, L., Grim, C. & Haltiwanger, J. (2014). Reallocation in the Great Recession: Cleansing or Not? NBER Working Papers N°20427.
+Gordon, R. (2012). Is U.S. Economic Growth Over? Faltering Innovation Confronts the Six Headwinds. NBER Working Papers N°18315.
+Gordon, R. (2013). US productivity Growth: The Slowdown has returned after a temporary revival. International Productivity Monitor, 25, 13‒19.
+Gordon, R. (2014). The demise of US Economic Growth: Restatement, rebuttal, and reflexions. NBER Working Papers N° 19895.
+Gordon, R. (2016). The rise and fall of American growth: the U.S. standard of living since the Civil War. Princeton University Press.
+Jadeau, C., Jousselin, E., Roux, S. & Verdugo, G. (2015). Les entreprises dans la crise. Premiers résul‑ tats d’une enquête européenne. Bulletin de la Banque de France N°201, 33‒40.
+Jorgenson, D. (2001). Information Technology and the U.S. Economy. American Economic Review, 91(1), 1-32.
+
+Kremp, E. (1995). Nettoyage de fichiers dans le cas de données individuelles, Recherche de la cohérence transversale. Économie et Prévision, 119, 171–193.
+Mokyr, J., Vickers, C. & Ziebarth, N. L. (2015). The History of Technological Anxiety and the Future of Economic Growth: is This Time Different? Journal of Economic Perspectives, 29, 31–50.
+Perron, P. (2006). Dealing with structural breaks. Handbook of econometrics, Palgrave.
+Pratt, G. A. (2015). Is a Cambrian explosion coming from robotics? Journal of Economic Perspectives, 29(3), 51‒60.
+Summers, L. (2014). U.S. Economic Prospects: Secular Stagnation, Hysteresis, and the Zero Lower Bound. Business Economics, 49(2), 65‒74.
+Summers, L. (2015). Demand side Secular stagna‑ tion. American Economic review, 105(5), 60‒65.
+Syverson, C. (2016). Challenges to Mismeasurement Explanations of the U. S. Productivity Slowdown. NBER Working Paper N° 21974.
+Van Ark, Bart (2016). The productivity paradox of the new digital economy. International Productivity Monitor, 31, 3‒18.
+
+32
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+
+ANNEXE 1____________________________________________________________________________________ TESTS DE RUPTURE SUR DONNÉES MACROÉCONOMIQUES
+
+Tableau A Rupture de tendance de la productivité horaire du travail (dates de rupture, barré si non significatif)
+
+Modèle/Période Sans contrôle du cycle
+TUC PIB PIB + accélération du PIB
+
+1974 ‑ 2014 1985 ‑1990‑1997‑2001‑2006
+1981 ‑ 1995 ‑ 2004 1984 ‑ 2003 1985 ‑ 2003
+
+1990‑2014 1999‑2003‑2008
+1997‑2003 2004
+1994‑2003‑2009
+
+Tableau B Rupture de tendance de la PGF horaire (dates de rupture, barré si non significatif)
+
+Modèle/Période
+
+1974 ‑ 2014
+
+1990‑2014
+
+Sans contrôle du cycle
+
+1977‑1985‑1995‑2006
+
+1997‑2008
+
+TUC
+
+1981 ‑ 2004
+
+2003
+
+PIB
+
+1981 ‑ 1988 ‑ 1999 ‑ 2007
+
+1996‑2001‑2008
+
+PIB + accélération du PIB
+
+1990 ‑ 1999 ‑ 2007
+
+1995‑2004‑2009
+
+Note : ruptures de croissance de la productivité, déterminées sur la base de la méthode Bai et Perron (1998) avec les taux d’utilisation des capa­ cités de production, la croissance du PIB ou son accélération comme contrôle du cycle ou sans contrôle du cycle (cf. encadré 3). Dates barrées si la rupture n’est pas significative. Pour la productivité horaire du travail, sur la période 1974 à 2014, sans contrôle du cycle, la méthode de Bai et Perron (1998) identifie 5 ruptures, en 1985, 1990, 1997, 2001 et 2006, mais seuls 1990 et 2001 sont des ruptures statistiquement significatives. Champ : ensemble de l’économie. Source : Comptes nationaux, 2015 provisoire, base 2010, Insee ; estimations des auteurs.
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+33
+
+ANNEXE 2____________________________________________________________________________________ RÉSULTATS DES TESTS DE CONVERGENCE SANS FRONTIÈRE DE PRODUCTION
+
+A – Productivité globale des facteurs
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+mco
+
+mco
+
+mco
+
+mco
+
+mco
+
+mco
+
+ef
+
+ef
+
+pgft‑1
+
+‑ 0.0984*** (0.000324)
+
+‑ 0.0993*** (0.000328)
+
+‑ 0.113*** (0.000359)
+
+‑ 0.0986*** (0.000326)
+
+‑ 0.114*** (0.000363)
+
+‑ 0.114*** (0.000364)
+
+‑ 0.466*** (0.000701)
+
+‑ 0.475*** (0.000706)
+
+N
+
+1781198
+
+1781198
+
+1781198
+
+1781198
+
+1781198
+
+1781198
+
+1781198
+
+1781198
+
+R2
+
+0.0493
+
+0.0582
+
+0.0555
+
+0.0493
+
+0.0645
+
+0.0645
+
+0.221
+
+0.234
+
+Effet fixe
+
+Année
+
+X
+
+X
+
+X
+
+X
+
+Secteur
+
+X
+
+X
+
+X
+
+Taille
+
+X
+
+X
+
+Lecture: estimation entreprises ; « mco
+
+d»epΔouprgmfito=inβdrpesgfcita‑1rr+éXs iostr+diεnisatiraevsecetp«gefift‑1»,
+
+la PGF en log de l’entreprise pour effets fixes entreprises ;
+
+iélc’aanrtn‑étyepet‑1e,nXtriest
+
+effets fixes année, secteur, taille ou parenthèses ; * p < 0.1, ** p < 0.05,
+
+*** p < 0.01.
+
+Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM.
+
+Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon non cylindré ; calculs des auteurs.
+
+B – Productivité par employé
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+mco
+
+mco
+
+mco
+
+mco
+
+mco
+
+mco
+
+ef
+
+ef
+
+ptt‑1
+
+‑ 0.115***
+
+‑ 0.119***
+
+‑ 0.133***
+
+‑ 0.116***
+
+‑ 0.135***
+
+‑ 0.136***
+
+‑ 0.489***
+
+‑ 0.498***
+
+(0.000261) (0.000266) (0.000285) (0.000261) (0.000288) (0.000289) (0.000513) (0.000520)
+
+N
+
+3348931
+
+3348931
+
+3348931
+
+3348931
+
+3348931
+
+3348931
+
+3348931
+
+3348931
+
+R2
+
+0.0554
+
+0.0606
+
+0.0632
+
+0.0555
+
+0.0682
+
+0.0683
+
+0.237
+
+0.244
+
+Effet fixe
+
+Année
+
+X
+
+X
+
+X
+
+X
+
+Secteur
+
+X
+
+X
+
+X
+
+Taille
+
+X
+
+X
+
+Lecture secteur,
+
+:taeisllteimoautioenntdreepΔripsetist
+
+= ;
+
+β «
+
+pmtcit‑o1
+
++ »
+
+Xpiostu+r
+
+εmistoainvdercesptcita‑1r,rléaspororddiuncatiirveitséepta«r
+
+employé en log ef » pour effets
+
+dfiexel’esnetrnetrperpisreisiels’a;néncéaertt‑‑t1y,pXeiset netfrfeetspafirxeensthaènsneése,;
+
+* p < 0.1, ** p < 0.05, *** p < 0.01.
+
+Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM.
+
+Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon non cylindré ; calculs des auteurs.
+
+34
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+ANNEXE 3____________________________________________________________________________________ CONVERGENCE PAR ANNÉE
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+A – Productivité globale des facteurs par année
+
+α+β
+Intervalle de confiance à 95%
+
+1991 0,134 (0,0027062) 0,139884 0,1290592
+
+1992 0,128 (0,0021651) 0,131876 0,1232156
+
+1993 0,132 (0,0019954) 0,1358906 0,127909
+
+1994 0,134 (0,0019029) 0,1376896 0,130078
+
+1995 0,111 (0,001851) 0,1148541 0,1074501
+
+1996 0,121 (0,0017831) 0,1242331 0,1171007
+
+1997 0,122 (0,0017558) 0,1251061 0,1180829
+
+1998 0,113 (0,001755) 0,1167816 0,1097616
+
+1999 0,098 (0,0017646) 0,1011093 0,0940509
+
+2000 0,102 (0,0017313) 0,1055762 0,098651
+
+2001 0,117 (0,0016733) 0,1202483 0,1135551
+
+2002 0,118 (0,00167) 0,1216808 0,1150008
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+α+β
+
+0,115
+
+0,118
+
+0,103
+
+0,116
+
+0,103
+
+0,116
+
+0,139
+
+0,144
+
+0,110
+
+0,100
+
+0,104
+
+0,083
+
+(0,0016664) (0,0016517) (0,0016406) (0,0015961) (0,0015625) (0,0015175) (0,0014372) (0,0013355) (0,0013125) (0,0012804) (0,0012942) (0,0013339)
+
+Intervalle de
+
+0,1181963 0,1216044 0,1062357 0,1188139 0,1059255 0,1189874 0,1415068 0,1470523 0,1128604
+
+0,102118
+
+0,106756 0,0852946
+
+confiance à 95%
+
+0,1115307 0,1149976 0,0996733 0,1124295 0,0996755 0,1129174 0,135758 0,1417103 0,1076104 0,0969964 0,1015792 0,079959
+
+( ) ( ) Lecture: estimation par mco de ∆prodit = α *
+
+prod (95%)t−1 �− prodit−1
+
+∑ + β D 2014 j=1991 j j
+
+prod (95%)t� −1 − prodit−1
+
++ Dt + Ds + Da + εist avec prodit‑1, la PGF en log de l’entreprise i l’année t‑1, Dt, Ds et Da effets fixes année, secteur,
+
+taille d’entreprise; écart type entre parenthèses.
+
+Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM.
+
+Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon non cylindré ; calculs des auteurs.
+
+B – Productivité par employé par année
+
+α+β
+Intervalle de confiance à 95%
+
+1991 0,138 (0,0017) 0,1410239 0,1342795
+
+1992 0,140 (0,0016) 0,1432496 0,1367484
+
+1993 0,146 (0,0016) 0,1493037 0,1430101
+
+1994 0,146 (0,0015) 0,1485956 0,1424256
+
+1995 0,128 (0,0015) 0,1314449 0,1254393
+
+1996 0,140 (0,0015) 0,1429107 0,1370743
+
+1997 0,136 (0,0014) 0,1388308 0,1330484
+
+1998 0,137 (0,0014) 0,139472 0,13374
+
+1999 0,130 (0,0014) 0,1324079 0,1266931
+
+2000 0,129 (0,0014) 0,131589 0,1259882
+
+2001 0,139 (0,0014) 0,1418694 0,136399
+
+2002 0,142 (0,0014) 0,1446793 0,1392417
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+α+β
+
+0,138
+
+0,138
+
+0,131
+
+0,135
+
+0,128
+
+0,130
+
+0,158
+
+0,174
+
+0,127
+
+0,125
+
+0,124
+
+0,114
+
+(0,0014)
+
+(0,0013)
+
+(0,0013)
+
+(0,0013)
+
+(0,0013)
+
+(0,0012)
+
+(0,0012)
+
+(0,0011)
+
+(0,0011)
+
+(0,0011)
+
+(0,0011)
+
+(0,0011)
+
+Intervalle de
+
+0,1402297 0,1401619 0,1338355 0,1379293 0,1305815 0,1320791 0,1599767 0,1759997 0,1288072 0,1269227 0,1260372 0,1163485
+
+confiance à 95%
+
+0,1348249 0,1348523 0,1285811 0,1327785 0,1255379 0,1272339 0,1553559 0,1714773 0,1243076 0,1225647 0,1216048
+
+0,1117945
+
+( ) ( ) Lecture: estimation par mco de ∆prodit = α *
+
+prod (95%)t−1 �− prodit−1
+
+∑ + β D 2014 j=1991 j j
+
+prod (95%)t� −1 − prodit−1
+
++ Dt + Ds + Da + εist avec prodit‑1, la productivité par employé en log de l’entreprise i l’année t‑1, Dt, Ds et Da effets
+
+fixes année, secteur, taille d’entreprise; écart type entre parenthèses.
+
+Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM.
+
+Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon non cylindré ; calculs des auteurs.
+
+Source : Comptes nationaux, 2015 provisoire, base 2010, Insee ; estimations des auteurs.
+
+35
+
+ANNEXE 4____________________________________________________________________________________ CONVERGENCE DE LA PRODUCTIVITÉ ‑ ÉCHANTILLON CYLINDRÉ
+
+A – Productivité globale des facteurs
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+mco
+
+mco
+
+mco
+
+mco
+
+mco
+
+mco
+
+ef
+
+ef
+
+Distance à la frontièret‑1
+
+0.0670*** (0.000975)
+
+0.0717*** (0.000966)
+
+0.0711*** (0.00101)
+
+0.0670*** (0.000975)
+
+0.0762*** (0.001000)
+
+0.0763*** (0.00100)
+
+0.280*** (0.00183)
+
+0.312*** (0.00184)
+
+N
+
+172854
+
+172854
+
+172854
+
+172854
+
+172854
+
+172854
+
+172854
+
+172854
+
+r2
+
+0.0266
+
+0.0585
+
+0.0362
+
+0.0266
+
+0.0683
+
+0.0684
+
+0.124
+
+0.174
+
+Effet fixe
+
+Année
+
+X
+
+X
+
+X
+
+X
+
+Secteur 38
+
+X
+
+X
+
+X
+
+Taille
+
+X
+
+X
+
+( ) ( ) àeLet lceatfufprroeonu:trieèesrfetfiemtdsaetfiioxPenGsdFeendter∆eplp’errniostdereistp=;riésβcea⋅ (ritplt’rayopndenéee9n5ttre‑e1pp,earXrciesetnnetthfifèleestset−sf1ix;−e*spprao<ndn0iét.−1e1,,)
+
++ X ist + εist avec ( prod 95e secteur, taille ou entreprises; ** p < 0.05, *** p < 0.01.
+
+percentile mco pour
+
+mt −o1 i−ndprersodcita−r1r)é,slaorddisintaanircees
+
+Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM.
+
+Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon cylindré ; calculs des auteurs.
+
+B – Productivité par employé
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+mco
+
+mco
+
+mco
+
+mco
+
+mco
+
+mco
+
+ef
+
+ef
+
+Distance à la frontièret‑1
+
+0.0761*** (0.000806)
+
+0.0784*** (0.000799)
+
+0.0856*** (0.000847)
+
+0.0763*** (0.000806)
+
+0.0882*** (0.000840)
+
+0.0884*** (0.000841)
+
+0.325*** (0.00155)
+
+0.340*** (0.00154)
+
+N
+
+262843
+
+262843
+
+262843
+
+262843
+
+262843
+
+262843
+
+262843
+
+262843
+
+r2
+
+0.0328
+
+0.0553
+
+0.0448
+
+0.0330
+
+0.0675
+
+0.0676
+
+0.149
+
+0.181
+
+Effet fixe
+
+Année
+
+X
+
+X
+
+X
+
+X
+
+Secteur 38
+
+X
+
+X
+
+X
+
+Taille
+
+X
+
+X
+
+( ) ( ) àcLaelracrtéufrsroeonr:tidèeirnsetaimidreeastliaoentperdofedpuoc∆utrpiveritoféfdeptitsa=rfixeβem⋅s(peplonrytoréedpdre9is5le’eesnp;teréerccpaerirnsttetiylieple’at−en1nn−téreeprpto‑a1dr,eitX−n1its)ht+èesfXfeesitsst;+fi*xpεeiss<t a0an.vn1eé,ce**,(pspe<rco0tde.0u5r9,,5t*a*e*iplplee<rocu0e.n0et1nil.terept−r1is−esp;rmodciot−1p)o,ulramdoisintadnrcees
+Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM.
+Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon cylindré ; calculs des auteurs.
+
+36
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+Stagnation de la productivité en France : héritage de la crise ou ralentissement structurel ?
+
+C – Convergence de la productivité par année sur échantillon cylindré
+
+0.15
+
+α+βi – Coef cients de convergence – PGF – échantillon non cylindré – MCO
+
+( ) ( ) 2014
+
+∆pgfα = α ⋅ ( pgf
+
+95% α−1 − pgfα−1) + ∑ βi Di ( pgf i =1991
+
+95% i−1 − pgfi−1) + Ds + Dt + Dα
+
+0.13
+
+Convergence plus
+rapide
+
+0.11
+
+0.09
+
+0.07
+
+0.05
+0.03 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013
+
+Convergence moins rapide
+
+α+β
+
+Intervalle de con ance à 95 %
+
+0.14 0.12
+
+α+βi – Coef cients de convergence – Productivité du travail échantillon cylindré – MCO
+
+( ) ( ) 2014
+
+∆ptα = α ⋅ ( pt
+
+95%
+
+∑ α−1
+
+−
+
+ptα −1 )
+
++
+
+βi Di ( pt
+i =1991
+
+95%
+
+i−1 − pti−1) + Ds + Dt + Dα
+
+Convergence plus
+rapide
+
+0.10
+
+0.08
+
+0.06
+0.04 1992
+
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+Convergence moins rapide
+2014
+
+α+β
+
+Intervalle de con ance à 95 %
+
+Lecture : est forte
+
+ces deux graphiques présentent la somme des ; échantillon cylindré à partir de 1993 (PGF) et
+
+1c9o9e2ffic(pierondtsuαct+ivβitiédedul’étrqauvaatiilo)naf(i2n).dPelucsoncseesrvinedricuantenuorms bsroentséulfefivséasn,t
+
+plus la convergence d’observations pour
+
+les estimations.
+
+Champ : ensemble de l’économie marchande à l’exception du secteur financier. France métropolitaine et DOM.
+
+Source : base de données des auteurs à partir de Fiben, Banque de France ; échantillon cylindré ; calculs des auteurs.
+
+ECONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS N° 494-495-496, 2017
+
+37
+
+

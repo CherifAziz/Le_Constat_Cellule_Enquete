@@ -1,0 +1,3 @@
+fichier;url;date_acces;sha256;description
+(aucune pièce nouvelle conservée);voir D09_empreintes.csv;2026-11-22;;25 pièces des dossiers D02, D03, D05, D07 et de la première enquête retéléchargées à leur adresse d'origine : empreintes identiques aux manifestes, copies retéléchargées supprimées
+images/*.png;rendu pymupdf (d09_images.py) des pièces locales;2026-11-22;;pages citées rendues en image pour lecture visuelle

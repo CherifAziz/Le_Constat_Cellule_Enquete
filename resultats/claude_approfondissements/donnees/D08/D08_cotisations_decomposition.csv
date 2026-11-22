@@ -1,0 +1,9 @@
+﻿debut;fin;variation_cotisations_pts_PIB;dont_effet_taux_apparent_pts;dont_effet_part_des_salaires_pts;taux_apparent_debut_pct;taux_apparent_fin_pct;cotisations_en_moins_a_taux_apparent_constant_MdEUR;idem_pts_PIB;emploi_ETP_variation_pct;salaire_brut_par_ETP_variation_nominale_pct;PIB_nominal_par_ETP_variation_pct
+1993;2000;-2.814;-2.813;-0.0;50.32;42.69;41.5;2.81;7.89;20.34;20.35
+2000;2007;0.058;0.128;-0.07;42.69;43.03;-2.5;-0.13;6.91;22.47;23.01
+2007;2012;0.708;0.274;0.435;43.03;43.77;-5.8;-0.28;-0.06;10.77;7.83
+2012;2017;0.34;0.343;-0.003;43.77;44.68;-7.9;-0.34;2.48;7.07;7.08
+2017;2019;-1.956;-1.916;-0.04;44.68;39.59;46.5;1.91;2.4;3.38;3.64
+2019;2025;0.043;-0.026;0.069;39.59;39.52;0.8;0.03;7.79;14.62;14.09
+2019;2023;-0.247;-0.425;0.179;39.59;38.47;12.1;0.43;6.73;10.5;9.17
+1993;2025;-3.621;-4.029;0.408;50.32;39.52;122.0;4.08;30.4;107.12;102.13

@@ -1,0 +1,1563 @@
+EMPLOI
+
+RTT, productivité et emploi : nouvelles estimations sur données d’entreprises
+Bruno Crépon, Marie Leclair et Sébastien Roux*
+
+Les données individuelles d’entreprises permettent a priori de mesurer l’effet de la RTT sur l’emploi au travers de la comparaison entre entreprises passées à 35 heures et entreprises restées à 39 heures. Une telle comparaison doit porter sur des entreprises aussi semblables que possible. Cependant, certaines questions subsistent : l’information dont on dispose suffit-elle à repérer les entreprises comparables, ou existe-t-il aussi des caractéristiques microéconomiques non mesurées qui différencient les deux groupes ? Les entreprises ont-elles la même capacité de s’adapter à la RTT ? Enfin, peut-on considérer que les effets de la RTT n’ont concerné que les entreprises passées à 35 heures, ou y-a-t-il aussi eu des effets indirects sur celles restées à 39 heures ?
+Ces questions sont complexes. On les examine en abordant d’abord les effets de la RTT sur la production et la productivité. Ainsi, à caractéristiques comparables, les entreprises passées à 35 heures dans le cadre de la loi Aubry I ont vu, entre 1997 et 2000, leur productivité globale des facteurs – qui reflète leur capacité à produire à effectifs et capital inchangés – diminuer faiblement, d’environ 3,7 % par rapport à celles restées à 39 heures fin 2000, alors que le passage à 35 heures aurait dû diminuer dans ces entreprises le temps de travail hebdomadaire de 4 heures, soit 10,2 %. Dans le même temps, l’emploi dans ces entreprises aurait augmenté de 9,9 % par rapport aux entreprises restées à 39 heures.
+L’examen simultané de ces effets sur la productivité globale des facteurs avec ceux induits sur l’emploi et les salaires permet d’examiner au travers de quel scénario la RTT a pu créer de l’emploi. Les pertes de productivité auraient été inférieures aux effets de la modération salariale et des allégements de charges. Les entreprises Aubry I auraient donc tiré parti de la RTT pour réduire leurs coûts de production unitaires. Cette baisse des coûts de production aurait ainsi pu contribuer au dynamisme de leur emploi. Les mécanismes de partage du travail ne semblent pas prépondérants dans ces évolutions.
+
+* Au moment de la rédaction de cet article, Bruno Crépon appartenait au Crest, Marie Leclair et Sébastien Roux à la division Marchés et stratégies d’entreprise. Les noms et dates entre parenthèses renvoient à la bibliographie en fin d’article.
+Les auteurs remercient Didier Blanchet, Pierre Cahuc, Nicolas Deniau, Jean-Marc Germain, Stéphane Jugnot, Frédéric Lerais, Françoise Maurel, Vladimir Passeron, Muriel Roger, les participants aux Journées de Microéconomie Appliquée 2003, au séminaire d’économie de l’université d’Évry de novembre 2004, au séminaire Fourgeaud de novembre 2003, au séminaire Recherche de février 2003 et aux séminaires D3E et MSE de l’Insee. Ils remercient également deux rapporteurs anonymes de la revue pour leurs remarques, mais restent seuls responsables des erreurs ou omissions qui peuvent subsister.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+55
+
+À la suite des deux lois Aubry, plusieurs études micro-économétriques ont cherché à évaluer l’impact des dispositifs de réduction du temps de travail. Ces travaux reposent sur la comparaison des évolutions d’emploi des entreprises passées à 35 heures et de celles restées à 39 heures (1). Ils concluent que les lois Aubry ont conduit à de fortes créations d’emploi (Fiole, Passeron et Roger, 2000 ; Bunel et Jugnot, 2003), mais la portée de ces résultats est parfois contestée (2). Cet article propose une nouvelle évaluation qui éclaire la portée de tels travaux et la robustesse de leurs résultats.
+Cet examen se fera selon deux axes principaux.
+D’une part, une limite des travaux existants est qu’ils ne s’intéressent qu’aux effets de la RTT sur l’emploi et les salaires. Le diagnostic sera complété par l’examen des effets sur d’autres variables, telles que la production ou la productivité. Un même constat sur les effets emploi de la RTT s’interprète différemment selon ce qu’ont été les évolutions de ces deux autres variables. Pour simplifier, il est usuel de distinguer deux scénarios polaires pour expliquer l’effet sur l’emploi d’une réduction du temps de travail. Le premier correspond au scénario de partage du travail : les entreprises doivent fournir un niveau de production qui leur est imposé car contraint par la demande. Les entreprises s’ajustent à cette demande en procédant à des recrutements d’autant plus importants que la productivité a fortement diminué : une forte chute de la productivité se traduit par de fortes créations d’emploi.
+Le second scénario est dit classique : les entreprises choisissent le niveau de production qui maximise leur profit. Leur activité ne dépend plus que de leurs propres capacités de production et de leurs coûts. L’évolution du coût unitaire de production s’avère alors déterminante : si la productivité par tête (3) baisse plus que le coût du travail par tête, le coût unitaire de production augmente, ce qui conduit l’entreprise à diminuer son niveau d’emploi. En revanche, si le coût du travail baisse plus que la productivité par tête, notamment du fait des abaissements de charges et de la modération salariale, le coût unitaire de production diminue, ce qui conduit l’entreprise à augmenter son activité et in fine à embaucher. Dans ce scénario, les entreprises créent donc d’autant plus d’emplois que les pertes de productivité par tête sont faibles. Tel pourra être le cas si les entreprises limitent les pertes de productivité en jouant sur une forte réorganisation ou une forte intensification du travail (4). On cherchera par la même occasion à déterminer duquel de ces
+
+deux scénarios relèvent les évolutions enregistrées entre 1997 et 2000.
+L’autre axe d’enrichissement concerne la méthode d’estimation. Les travaux précités comparent les entreprises passées à 35 heures et celles restées à 39 heures, une fois tenu compte d’un certain nombre de facteurs observables qui différencient ces deux groupes. Ces contrôles éliminent une partie des biais affectant une comparaison directe des évolutions d’emploi entre les deux types d’entreprises. Mais on peut se demander si ces contrôles sont suffisants. Trois biais additionnels sont en effet susceptibles d’exister. (1) (2) (3) (4) Tout d’abord, avec ou sans RTT, la dynamique de l’emploi ou d’activité des deux groupes d’entreprises dépend non seulement de variables observables, mais aussi d’un certain nombre de variables supplémentaires, variables dites « inobservables », dont les effets ne peuvent pas être contrôlés par les procédures directes qui sont mises en œuvre dans la plupart des études existantes (5). Le biais qui en résulte sera par la suite appelé biais d’hétérogénéité inobservée.
+En second lieu, les entreprises diffèrent non seulement par leurs tendances générales d’emploi ou
+1. Un grand nombre de travaux plus macroéconomiques ont cherché à estimer l’effet de la RTT avant sa mise en œuvre. L’intérêt principal de ces travaux est qu’ils prennent en compte dans un cadre cohérent l’ensemble des effets attendus de la réduction du temps de travail : ils ont permis de simuler différents scénarios de mise en place de cette réforme. Leur inconvénient est toutefois double : d’une part, ils ne reposent pas sur une observation objective des effets d’une réduction du temps de travail, car le plus souvent réalisés avant la réforme, d’autre part ils ne prennent pas en compte l’hétérogénéité des situations, fondement de la méthode présentée dans cet article (cf. Cahuc et d’Autume (1999) pour une présentation de ces modèles macro-économiques). 2. De Coninck (2004) dans une étude non encore publiée, exploite un effet de seuil induit par les lois Aubry. Il compare les évolutions d’emploi des entreprises de moins de 20 salariés (a priori non concernées) et de plus de 20 salariés (obligées de réduire leur temps de travail à partir de 2000). En appliquant une estimation de type « regression discontinuity », il montre que les entreprises de juste moins de 20 salariés ont plus augmenté leur emploi que celles de juste plus de 20 salariés. Cette différence d’évaluation, qui va dans le sens opposé des études précitées, est attribuée à la réduction du temps de travail (cf. infra pour une interprétation alternative de ces effets). 3. Le concept de productivité par tête est introduit ici pour simpliﬁer le discours : la variable examinée dans le corps du texte est la productivité globale des facteurs, ceux-ci correspondant au capital et au travail, mesuré par les effectifs de l’entreprise et non les heures travaillées (cf. encadré 3). 4. Une formalisation fruste de ces deux mécanismes est proposée en encadré 4. 5. Les études précitées (à l’exception de Bunel (2005) et de De Coninck (2004)) s’appuient au mieux sur des estimateurs en différences premières ou en doubles différences. Dans chacun des cas, l’idée est de comparer l’évolution d’emploi d’entreprises passées ou non à 35 heures mais très similaires entre elles, cette similarité étant appréciée à l’aide de variables observables. Ces méthodes ne permettent donc pas de contrôler les caractéristiques non observées affectant à la fois la décision de passer à 35 heures et les évolutions d’emploi.
+
+56
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+de productivité, mais aussi dans leurs capacités d’adaptation à la RTT : on parlera de biais d’hétérogénéité des effets du traitement. Si une telle hétérogénéité existe, on s’attend à ce que les entreprises qui ont anticipé le passage à 35 heures soient précisément celles pour qui la mesure était a priori la plus profitable ou la moins pénalisante. Un tel biais pose problème lorsqu’on prétend extrapoler les effets mesurés à l’ensemble des entreprises. Ce qui est observé sur les entreprises passées à 35 heures ne donne alors aucune information sur les effets qu’aurait eus ou pourrait avoir la RTT sur les entreprises restées à 39 heures.
+Enfin, un dernier biais résulte de ce qu’on appelle des effets de bouclage : mesurer les effets de la RTT en prenant comme base de comparaison (ou groupe de contrôle) les entreprises restées à 39 heures suppose que celles-ci n’aient pas été affectées par le processus de RTT. Si tel n’est pas le cas, ce qui est plausible, il faut essayer de contrôler ces effets en retour. Ils empêchent de considérer la population des entreprises restées à 39 heures comme un point de référence valide, et ils doivent être pris en compte si on veut porter un jugement macro-économique global sur la mesure. L’effet macroéconomique est en effet la moyenne de l’effet direct mesuré sur les entreprises passées à 35 heures et de l’effet indirect observé sur les entreprises restées à 39 heures.
+Comme on le verra, le travail présenté ici ne fournit pas de réponses définitives au problème du contrôle de ces biais. Il est d’ailleurs probable que certains de ces biais sont impossibles à éliminer totalement. Ceci incite à la prudence dans l’interprétation de l’ensemble des résultats, d’autant que d’autres biais peuvent encore exister, tels que l’effet de sélection dans l’échantillon. Pour observer des évolutions individuelles d’entreprises, il faut s’assurer qu’elles sont présentes au début et à la fin de la période considérée (cf. encadré 2).
+
+Dans la première partie, on reconduit les méthodes d’estimation préexistantes, c’est-à-dire des comparaisons entre entreprises en se bornant à contrôler leur hétérogénéité directement observable. En dehors d’une confirmation éventuelle des effets apparents sur l’emploi des études antérieures, cette section étendra ce type d’approche à d’autres variables que l’emploi et les salaires, telles que la productivité. Cet élargissement est rendu possible par l’utilisation d’une base de données plus riche.
+L’existence et les conséquences des trois types de biais mentionnés plus haut sur les effets de la RTT sont abordées dans les deux parties suivantes, d’abord dans le cas de la productivité, puis dans celui de l’emploi. Pour chacune de ces deux variables, ces conséquences permettent de confirmer ou d’infirmer les résultats donnés dans la première partie (selon qu’il existe ou non des biais d’hétérogénéité inobservée). Il devient également possible de savoir, pour la productivité et l’emploi, si les effets de la RTT (estimés dans le cas des entreprises effectivement passées à 35 heures) sont extrapolables à celles restées à 39 heures (existence éventuelle de biais des effets du traitement), et si les entreprises restées à 39 heures constituent un bon groupe de référence pour apprécier les conséquences de la RTT sur les autres entreprises (existence éventuelle d’un biais de bouclage).
+La dernière partie tente de dégager quelques conclusions de ces estimations : dans quelle mesure la RTT a-t-elle pu aboutir, dans les entreprises qui sont passées aux 35 heures, à une réduction des coûts de production unitaires ? Dans cette hypothèse, son efficacité aurait pu résulter de ressorts classiques, autant que des effets du partage du travail. Ces effets classiques ont-ils également joué sur les entreprises restées à 39 heures ? Et dans quel sens ? Du fait de la RTT, ces dernières ont eu à faire face à une croissance plus soutenue du Smic qui pourrait avoir eu des conséquences négatives sur leur emploi.
+
+Pour toutes ces raisons, cet article se veut essentiellement méthodologique. Il illustre, sur le cas exemplaire de la RTT, les difficultés de l’évaluation empirique des effets d’une politique économique. En particulier, en se restreignant aux entreprises pérennes, il n’examine pas les effets de la RTT sur les probabilités de survie des entreprises, ce qui aurait pu affecter les évolutions globales d’emploi.
+
+Gains de productivité horaire, coût du travail et emploi
+D ans un premier temps, on a comparé les évolutions des principales variables économiques des entreprises, selon qu’elles sont ou non passées à 35 heures, en ne tenant compte que des facteurs d’hétérogénéité observable.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+57
+
+Un préalable est de rappeler les principaux dispositifs de réduction du temps de travail intervenus entre 1997 et 2000.
+Trois dispositifs de passage aux 35 heures
+La réduction du temps de travail légal a été régie par trois lois : la loi Robien et les deux lois Aubry. Ces lois ont successivement proposé aux entreprises des modalités de réduction du temps de travail qui diffèrent par la date de ce passage, par l’ampleur effective de la réduction du temps de travail, par le montant des aides de l’État et par les engagements demandés à l’entreprise en termes de créations d’emploi (cf. encadré 1).
+Compte tenu de cette diversité, évaluer les effets du passage à 35 heures implique d’en distinguer les principales modalités. Ainsi, cette évaluation concernera-t-elle les trois modalités principales de la réduction du temps de travail à partir de 1998, dénommées par la suite dispositif « Aubry I aidées », dispositif « Aubry II précurseurs » et dispositif « Aubry II ». L’identification des entreprises passées à 35 heures dans les fichiers utilisés (fichier des BRN, DADS) est détaillée dans l’annexe 1.
+Les entreprises relevant du cadre Aubry I aidées sont passées à 35 heures entre juillet 1998 et janvier 2000. En plus des allègements de charges, elles ont bénéficié d’aides incitatives puis des aides structurelles à partir de janvier 2000. D’après la loi, elles devraient légalement réduire effectivement leur temps de travail de 10 % et augmenter l’emploi de 6 %. Elles représentaient 17 % des entreprises de plus de 20 salariés fin 2000 (« volet offensif », cf. encadré 1).
+Les entreprises Aubry II précurseurs sont passées à 35 heures avant janvier 2000 sans avoir demandé d’aides incitatives. Elles n’étaient, à ce titre, pas soumises aux obligations de créations d’emploi des Aubry I aidées, ni à une réduction effective de la durée du travail de 10 % (6). Elles bénéficiaient également des aides structurelles à partir de janvier 2000. Elles représentaient 3,4 % des entreprises de plus de 20 salariés.
+Les entreprises Aubry II enfin, ont bénéficié, à compter de l’année 2000, d’aides structurelles annuelles et n’étaient pas non plus soumises aux obligations légales de créations d’emploi et de réduction effective du temps de travail. En 2000, 12,9 % des entreprises de plus de 20 salariés étaient passées à 35 heures dans ce cadre.
+
+En 2000, 52,2 % (7) des entreprises de plus de 20 salariés n’étaient pas passées à 35 heures. Ces entreprises sont plus petites : seulement 23,2 % des salariés travaillant dans des entreprises de plus de 20 salariés étaient encore à 39 heures fin 2000. Elles constituent le groupe de contrôle permettant d’évaluer les effets des différents dispositifs de réduction du temps de travail sur l’évolution de l’emploi, de la productivité et des coûts salariaux entre 1997 et 2000.
+Les entreprises passées à 35 heures avaient déjà auparavant des évolutions différentes (6) (7)
+Les précédentes études statistiques sur données microéconomiques (Fiole, Passeron et Roger, 2000 ; Fiole et Roger, 2002 ; Jugnot, 2002 ; Bunel, 2005) s’intéressaient principalement à l’emploi. Alors que la plupart de ces travaux se limitaient aux entreprises de plus de 50 salariés, l’étude présentée dans cet article concerne les entreprises de plus de 20 salariés. Cet élargissement du champ est rendu possible par l’utilisation (sur la période 1993 - 2000) d’une nouvelle source de données d’entreprises, les données fiscales des entreprises soumises au régime du Bénéfice Réel Normal (BRN) (cf. encadré 2). En dehors des évolutions d’emplois, ces données fiscales fournissent des informations sur les salaires, le coût salarial (y compris les aides à la réduction du temps de travail), la valeur ajoutée et le capital.
+On peut alors comparer les évolutions d’emploi, de valeur ajoutée, de capital des entreprises entre 1993 et 2000 selon leur situation par rapport aux 35 heures fin 2000.
+Entre 1993 et 2000, l’évolution de l’emploi des entreprises signataires d’un accord Aubry I aidées est en moyenne de 27 % alors qu’elle n’est que de 15 % pour les entreprises encore à 39 heures fin 2000 (8). Ces différences d’évolution se sont
+6. Ces entreprises peuvent en effet atteindre une durée légale de 35 heures de travail hebdomadaire en redéﬁnissant leur temps de travail. Notamment, elles peuvent exclure de la mesure du temps de travail des pauses ou une sixième semaine de vacances qui ne l’étaient pas auparavant. Dès lors, la réduction effective de leur temps de travail est inférieure à 10 %. 7. 14,5 % des entreprises déclarent un horaire de 35 heures sans percevoir aucune aide (y compris une aide structurelle Aubry II). Ces entreprises particulières sont enlevées de l’analyse, une grande partie correspondant à des problèmes dans le suivi de leurs déclarations. 8. Ces croissances de l’emploi sont importantes compte tenu de la période. Du moins ne concernent-elles que les entreprises de plus de 20 salariés pérennes sur la période 1993-2000, les seules étudiées dans cette partie. Comme seules les entreprises pérennes sont incluses dans l’analyse, on ne tient pas compte des pertes d’emploi liées à la disparition d’entreprises.
+
+58
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+Encadré 1
+
+LES LOIS ET LES DIFFÉRENTS TYPES D’ACCORD DE RÉDUCTION DU TEMPS DE TRAVAIL
+
+Trois lois ont encadré la réduction du temps de travail jusqu’à 35 heures hebdomadaires, dans les établissements. Si les deux premières lois, la loi du 11 juin 1996, dite Robien et la loi du 13 janvier 1998, dite Aubry I, n’étaient qu’incitatives, la loi du 19 janvier 2000, dite Aubry II, réduit la durée légale du travail dans tous les établissements de plus de 20 salariés.
+Les conditions de réduction du temps de travail dans le cadre de ces deux dernières lois sont détaillées cidessous.
+La Loi du 13 juin 1998, dite Aubry I
+Comme la loi Robien, la loi Aubry I incite les établissements à réduire leur temps de travail en créant ou préservant des emplois en contrepartie d’aides importantes.
+Pour obtenir les aides, l’entreprise doit effectivement réduire son temps de travail d’au moins 10 %, ce qui lui permet d’atteindre une durée collective hebdomadaire de 35 heures. La loi Aubry I contenait deux volets : un offensif et un défensif. Dans le cas du volet offensif, les entreprises s’engagent à créer des emplois, au moins 6 % (10 % dans le cadre de la loi Robien). Le volet défensif, dans le cas où la réduction du temps de travail permet d’éviter un plan social et des licenciements économiques, donne accès également à ces aides.
+L’aide est attribuée pour chacun des employés auquel s’applique la réduction du temps de travail ainsi que pour ceux nouvellement embauchés. Elle consiste en des avantages, sous forme de réductions de cotisations sociales patronales, forfaitaires et dégressives pendant cinq ans à compter de la date d’entrée en vigueur de la réduction du temps de travail. L’aide est dégressive dans le temps pour inciter aux réductions du temps de travail rapides.
+La sortie de ce système d’aides, dites incitatives, est assurée par la loi Aubry II.
+La Loi du 19 janvier 2000, dite Aubry II
+Pour les établissements de plus de 20 salariés, la seconde loi met en place de nouveaux allègements de cotisations patronales comprenant deux composantes qui s’ajoutent :
+• une aide pérenne et forfaitaire pour les entreprises aux 35 heures de 4 000 francs par an et par salarié.
+• des allégements de charges sur les bas et moyens salaires de 17 500 francs par an et par salarié au Smic, dégressifs pour des salaires plus élevés jusqu’à 1,8 fois le Smic.
+Ces aides, dites structurelles, s’appliquent aux entreprises ne bénéficiant pas d’autres aides à la réduction du temps de travail, si l’entreprise a signé un accord majoritaire (1) fixant la durée du travail à 35 heures sur la semaine ou à 1 600 heures sur l’année (2) et compor-
+
+tant un certain nombre de clauses (durée du travail, nombre d’embauches prévues ou d’emplois préservés). Par ailleurs, certaines entreprises sont non éligibles aux aides : c’est le cas des grandes entreprises publiques par exemple.
+Les entreprises, bénéficiant déjà des aides incitatives, peuvent bénéficier des allègements de charges sur les bas et moyens salaires, puis de l’aide pérenne quand les aides incitatives cessent.
+Les différentes catégories d’entreprise passées à 35 heures
+On distingue fin 2000, six types d’entreprises, parmi les entreprises de plus de 20 salariés, dont cinq réunissent des entreprises passées à 35 heures :
+• Certaines entreprises sont restées à 39 heures malgré la réduction de la durée légale du travail et payent à leurs salariés des heures supplémentaires.
+• Les entreprises Robien sont passées à 35 heures avant juillet 1998 dans le cadre d’une convention Robien.
+• Les entreprises Aubry I aidées (volet offensif) : elles sont passées aux 35 heures entre juillet 1998 et janvier 2000. En plus d’allégements de charges, elles bénéficient d’abord d’aides incitatives, puis des aides structurelles. Elles sont contraintes légalement à réduire effectivement leur temps de travail de 10 % et à augmenter l’emploi de 6 %, dans un délai d’au plus un an après la réduction du temps de travail.
+• Les entreprises Aubry II précurseurs : elles sont passées aux 35 heures avant janvier 2000 mais n’ont pas demandé les aides incitatives. Elles ne sont pas, à ce titre, soumises aux obligations de créations d’emploi des entreprises Aubry I aidées, ni à une réduction effective de la durée du travail de 10 %. Elles bénéficient également des aides structurelles à partir de janvier 2000.
+• Les entreprises Aubry II : elles sont passées aux 35 heures après janvier 2000. Elles bénéficient d’aides structurelles et ne sont pas non plus soumises aux obligations légales de créations d’emploi et de réduction du temps de travail.
+• Certaines entreprises réduisent leur temps de travail sans recevoir d’aides, soit parce qu’elles sont non éligibles aux aides, soit parce qu’elles ne le demandent pas.
+1. Un accord est majoritaire s’il est signé par une ou plusieurs organisations syndicales ayant recueilli, lors des dernières élections au comité d’entreprise ou des délégués du personnel, la majorité des voix ou s’il est approuvé par la majorité du personnel. Les entreprises de moins de 50 salariés peuvent appliquer par ailleurs un accord de branche étendu ou agréé. 2. Ce passage à 35 heures était sufﬁsant pour recevoir les aides sans conditions supplémentaires sur la réduction effective du temps de travail à 10 %. Des entreprises ont pu ainsi afﬁcher une durée hebdomadaire de 35 heures sans baisser effectivement leur temps de travail de 10 %. Pour cela, elles ont redéﬁni leur temps de travail en en excluant des pauses ou une sixième semaine de congés payés, auparavant comprises dans le calcul de leur durée du travail.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+59
+
+Encadré 2
+
+LES DONNÉES ET LE CHAMP DE L’ÉTUDE
+
+Deux sources de données complémentaires
+On utilise les données fiscales issues du BRN (Bénéfice Réel Normal) de 1997 et 2000. L’avantage de cette source par rapport aux enquêtes utilisées jusqu’ici pour l’étude des 35 heures est qu’elle fournit une information sur les performances des entreprises (valeur ajoutée, excédent brut d’exploitation, immobilisation brute, endettement, etc.). Elle couvre également un champ très large, défini en fonction du régime de déclaration fiscale des entreprises. Au-delà d’un certain chiffre d’affaires, toutes les entreprises doivent faire leur déclaration au régime du BRN. Enfin, cette source permet d’avoir des données de panel grâce auxquelles on peut contrôler des caractéristiques passées des entreprises.
+Les variables de contrôle sont enrichies avec une autre source exhaustive, les Déclarations Annuelles de Données Sociales (DADS) de 1997 à 2000. Ces déclarations regroupent par entreprise l’information sur la rémunération des salariés, leurs horaires et leurs caractéristiques. On peut ainsi reconstituer la structure de la main-d’œuvre de l’entreprise par qualification, âge, sexe. Les DADS permettent également de reconstruire un certain nombre de variables contrefactuelles qui ont pu affecter les décisions des entreprises et qui serviront de variables instrumentales. Parmi celles-ci, on calcule, en fonction de la structure salariale de l’entreprise, les aides qu’elle aurait reçues si elle était passée aux 35 heures dans le cadre d’un accord Aubry II mais également le renchérissement du coût du travail dû à l’augmentation différente des Smic (Smic multiples), si elle retarde la réduction de son temps de travail (cf. annexe 2).
+
+Le champ d’étude
+On se restreint tout d’abord aux entreprises de plus de 20 salariés (en 1997) c’est-à-dire celles qui étaient légalement obligées de réduire leur temps de travail avant le 1er janvier 2000. On exclut également les secteurs de l’agriculture, de l’éducation, de la santé et de l’action sociale, de l’administration ainsi que les activités financières et immobilières. Enfin, on se désintéresse des accords de réduction du temps de travail ambigus (les entreprises inéligibles aux aides dans la mesure où ce sont des entreprises très spécifiques, les Aubry I aidées défensif qui ont des trajectoires d’emplois très particulières et sont très peu nombreuses, les petites Aubry II qui reçoivent des aides incitatives car elles ne sont présentes que suite à l’agrégation des établissements en entreprise, celles dont on ignore si elles ont reçu ou non des aides structurelles et les entreprises Robien qui ont réduit leur temps de travail avant les autres) (cf. annexe 1).
+Enfin, on conserve les entreprises pérennes entre 1997 et 2000 et on effectue un nettoyage sur les variables d’intérêt.
+Le champ retenu donne-t-il des résultats compatibles avec ceux de l’économie française ?
+La sélection de l’échantillon est susceptible d‘affecter ses caractéristiques. Or, l’objectif est d’évaluer une politique publique dont les effets sont attendus au niveau macroéconomique. Les caractéristiques de cet échantillon ne doivent donc pas trop différer de la réalité macroéconomique de la période (cf. tableau ci-dessous).
+Les problèmes de définition de champ et parfois de concepts ou de temporalité rendent difficile la comparaison des données de la comptabilité nationale, des BRN et d’autres sources.
+
+Taux de croissance entre 1997 et 2000
+
+Source
+Restriction Hors A, Q, R, L, M Plus de 20 salariés en 1997 Pérenne Taux de croissance de l’emploi Taux de croissance de la valeur ajoutée
+
+BRN
+
+Comptabilité nationale
+
+oui
+
+oui
+
+oui oui
+
+oui
+
+oui
+
+oui
+
+oui
+
+oui
+
+oui oui
+
+12,1
+
+12,8
+
+13,0
+
+13,3
+
+13,6
+
+7,9 6,2 10,4
+
+18,8
+
+9,4
+
+17,6
+
+20,3
+
+20,6 15,4 13,5 16,1
+
+Lecture : les grandeurs économiques sont exprimées en valeur. La restriction pour les secteurs en comptabilité nationale est la restriction aux sociétés non financières. Les secteurs A, Q, R, L, M correspondent respectivement à l’agriculture (A), l’éducation, la santé et l’action sociale (Q), l’administration (R), les activités financières (L) et les activités immobilières (M). Dans le champ de l’étude, représenté en grisé, pour lequel sont ôtés ces secteurs et ne sont conservées que les entreprises ayant plus de 20 salariés en 1997 et pérennes sur la période 1997-2000, le taux de croissance de l’emploi entre 1997 et 2000 est de 12,13 %. Celui de la valeur ajoutée est de 18,76 %. Sur les mêmes secteurs marchands et sur la même période, la comptabilité nationale montre que l’évolution de l’emploi a été de 10,37 % et celle de la valeur ajoutée de 16,15 %. Source : DADS 1997, BRN 1997 et 2000, Comptabilité nationale, Insee.
+
+60
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+fortement accentuées après 1997. Elles existent cependant antérieurement, c’est-à-dire avant le passage à 35 heures. Très proches jusqu’à 1996 de l’évolution des entreprises à 39 heures, les entreprises Aubry II et Aubry II précurseurs s’en distinguent, elles aussi, avant leur passage à 35 heures en 2000 (cf. graphique I).
+Les évolutions du capital productif sont moins heurtées que celles de l’emploi. Avant même la mise en place des 35 heures, les entreprises qui sont toujours à 39 heures fin 2000 se différencient de celles qui réduiront leur temps de travail avant 2000. Les entreprises Aubry I voient leur capital productif augmenter de 10 % de plus que les entreprises restées à 39 heures, soit de 51 % contre 41 % entre 1993 et 2000 (9).
+Le taux de croissance de l’intensité capitalistique (le volume de capital par tête) modifie un peu ce constat : les entreprises Aubry II précurseurs sont celles dont le ratio croît le plus fortement. Les entreprises dont l’intensité capitalistique augmente le plus lentement sont les entreprises restées à 39 heures, avant l’application des lois Aubry, et les entreprises Aubry I aidées en 2000.
+L’évolution de la valeur ajoutée reflète, outre l’évolution des prix, celle de la richesse effectivement produite par l’entreprise. De la même manière, les entreprises à 39 heures en 2000 ont, avant les lois de réduction du temps de travail, une progression de leur valeur ajoutée plus faible que celle des entreprises passées à 35 heures par les filières Aubry I ou Aubry II. Seules les entreprises Aubry II précurseurs ont un comportement semblable à celui des entreprises restées à 39 heures. La productivité apparente du travail (valeur ajoutée par tête) mesure la quantité de richesse effectivement produite par salarié. Elle ne prend pas en compte les différences d’intensité capitalistique entre entreprises. Elle a une évolution beaucoup plus heurtée que les autres grandeurs économiques, mais peu différenciée d’une catégorie d’entreprises à l’autre. Néanmoins, fin 2000, la productivité apparente du travail stagne dans les entreprises restées à 39 heures, alors qu’elle décroît fortement dans celles qui sont passées à 35 heures.
+Les évolutions de l’emploi et de la valeur ajoutée ne correspondent pas tout à fait aux évolutions macroéconomiques de la période correspondante, car les entreprises devant survivre à terme (c’est-à-dire présentes au moins en 1997 et en 2000) sont surreprésentées. Avant 1997, les évolutions observées ne font que refléter le
+
+fait que les entreprises survivantes sont plus souvent dans une situation de croissance d’activité ou d’emploi que les autres. En revanche, l’écart de progression mis en évidence entre les entreprises Aubry I et celles restées à 39 heures garde tout son sens pour opposer les entreprises qui ont réduit leur temps de travail aux autres.
+De fortes créations d’emplois et de faibles pertes de productivité globale des facteurs dans les entreprises passées à 35 heures (9)
+De nombreux travaux utilisant des données d’entreprises et d’établissements ont déjà fourni une évaluation des effets sur l’emploi des différents dispositifs de réduction du temps de travail. Tous reposent sur la comparaison des évolutions d’emploi des entreprises passées à 35 heures à celles des entreprises restées à 39 heures ayant des caractéristiques identiques. À partir des données de l’enquête sur l’activité et les conditions d’emploi de la main-d’œuvre (Acemo), Fiole, Passeron et Roger (2000) évaluent respectivement à 6 % et 4,7 % les effets respectifs des lois Robien et Aubry I sur l’évolution de l’emploi des entreprises concernées entre 1995 et 1999. Avec les mêmes données, Bunel et Jugnot (2003) estiment qu’entre 1997 et fin 2001, les entreprises Aubry I aidées ont créé 6 % d’emplois de plus que les entreprises encore à 39 heures, et les entreprises Aubry II, seulement 3 % de plus. Fiole et Roger (2002), à partir des données de l’Unedic, évaluent les effets de la loi Robien sur l’emploi entre 1993 et 1999 à 6 %. Bunel (2002) compare les évolutions d’emplois déclarées dans l’enquête Reponse par les entreprises Aubry I aidées et Aubry II précurseurs et trouve que les premières ont créé 3,2 % d’emplois de plus que les secondes.
+9. Ces évolutions très fortes du capital productif peuvent apparaître surprenantes quand on les compare à celles que donne la comptabilité nationale. Cela tient tout d’abord au fait que le capital est mesuré ici en valeur, et non en volume, comme c’est le cas dans la comptabilité nationale. En effet, reconstruire un capital en volume aurait requis de reconstituer, pour chaque entreprise, la somme des investissements passés déﬂatés de leurs prix correspondants. Ce travail, très important, n’a pas été entrepris, car l’impact de ces indices de prix, dont la variabilité est principalement sectorielle peut être éliminé par l’introduction d’indicatrices sectorielles dans les régressions présentées par la suite. On s’intéresse ici à la différence de comportement entre les entreprises, et non au niveau. D’autres raisons peuvent expliquer ces évolutions : la sélection dans l’échantillon d’entreprises pérennes, présentes jusqu’à ﬁn 2000, qui fait que les entreprises dont l’activité a augmenté y sont surreprésentées par rapport à celles amenées à disparaître prématurément, les différences de concept entre comptabilité nationale et d’entreprise ou encore la pondération par entreprises plutôt que par stock de capital des évolutions observées.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+61
+
+Ainsi les entreprises passées à 35 heures semblentelles avoir eu des évolutions d’emplois, de capital et de valeur ajoutée différentes de celles des entreprises restées à 39 heures, et cela, avant même qu’elles ne réduisent leur temps de travail (cf. tableau 1 et graphique I). Pour contrôler ces différences, on explique les évolutions d’emploi et de productivité, entre 1997 et 2000, par le type d’accord de réduction du temps de travail signé avant 2000 et par un certain nombre de caractéristiques des entreprises (leur secteur, leur taille, la structure de leur maind’œuvre en 1997). Une telle méthode s’apparente à celles utilisées par les études antérieures.
+
+À caractéristiques identiques, les entreprises Aubry I aidées ont créé, entre 1997 et 2000, 9,9 % d’emplois de plus que les entreprises restées à 39 heures, les entreprises Aubry II précurseurs, 3,8 %, et les entreprises Aubry II, 4,9 % (cf. tableau 2) (10).
+10. Ces chiffres varient peu quand on utilise d’autres méthodes d’estimation, comme l’estimateur par appariement en premières différences qui corrige également de la sélection sur observables mais sans faire d’hypothèses paramétriques, quand on multiplie les variables de contrôle ou quand on modiﬁe le champ des estimations (le secteur ou la taille).
+
+Graphique I Évolution de la situation économiques des entreprises selon leur situation par rapport aux 35 heures ﬁn 2000
+
+A - Emploi
+En % 30 25 20 15 10
+5 0 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001
+
+D - Capital (Évolution relative par rapport aux entreprises restées à 39 heures)
+
+En % 10
+9 8 7 6 5 4 3 2 1 0 1992 1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+B - Valeur ajoutée
+En % 40 35 30 25 20 15 10
+5 0 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001
+
+C - Valeur ajoutée par tête
+En % 16 14 12 10
+8 6 4 2 0 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001
+
+Aubry I aidées
+
+Aubry II précurseurs
+
+Aubry II
+
+39 heures
+
+E - Intensité capitalistique (Évolution relative par rapport aux entreprises restées à 39 heures)
+En % 10
+8
+6
+4
+2
+0
+-2
+-4 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001
+Lecture : entre 1993 et 2000, l’emploi dans les entreprises Aubry I aidées a, en moyenne non pondérée, augmenté de 27,4 %, la valeur ajoutée (en valeur), de 36,9 % et la valeur ajoutée par tête (en valeur), de 9,6 %. Sur la même période, le niveau de capital productif détenu par les entreprises Aubry I aidées a, en valeur, augmenté de 9,2 % de plus que celui des entreprises restées à 39 heures en 2000. Entre 1993 et 2000, l’intensité capitalistique dans les entreprises Aubry I aidées a moins augmenté que dans les entreprises restées à 39 heures, l’écart étant de 2,3 %. Champ : entreprises de plus de 20 salariés (sauf secteurs de l’agriculture, de l’éducation de la santé et de l’action sociale, de l’administration ainsi que les activités financières et immobilières) présentes dans le fichier en 1997 et 2000 (pas nécessairement les autres années). Source : BRN 1993-2000, fichiers de l’Urssaf, Insee.
+
+62
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+Le taux de croissance de la valeur ajoutée est également plus important pour les entreprises passées à 35 heures que pour les entreprises restées à 39 heures, aux caractéristiques comparables : les entreprises Aubry I aidées ont vu
+
+leur valeur ajoutée croître de 5 % de plus que les entreprises restées à 39 heures entre 1997 et 2000. Néanmoins, cette croissance de la valeur ajoutée est moins forte que la croissance de leur emploi, si bien que la productivité apparente du
+
+Tableau 1 Moyennes des taux de croissance des variables d’intérêt entre 1997 et 2000 selon le type d’entreprise
+En %
+
+Type d’entreprise
+Emploi (L) Valeur ajoutée (VA) Capital productif (K) Productivité apparente du travail (VA/L) Productivité apparente du capital (VA/K) Intensité capitalistique (K/L) Productivité globale des facteurs (PGF) (1) Salaire par tête (w) Coût du travail par tête (c) Coût (salarial) unitaire de production (cL/VA) Nombre d’observations 1. Se reporter à l’encadré 3.
+
+39 heures
+7,8 19,8 29,5 13,5
+1,3 26,3
+9,1 8,9 10,0 1,2 22 991
+
+Aubry II
+7,1 16,9 28,1 10,8 - 0,1 23,9
+6,8 8,2 8,2 2,8 8 032
+
+Aubry II précurseurs
+0,5 12,8 29,3 22,4 - 7,5 48,7 10,3 11,4 10,3 - 1,1 1 972
+
+Aubry I aidées
+21,1 26,3 48,7
+6,0 - 6,9 29,8
+2,8 7,6 5,1 2,6 10 206
+
+Lecture : moyenne des taux de croissance pondérée par l’effectif de l’entreprise en 1997. Entre 1997 et 2000, le nombre de salariés d’entreprises Aubry I aidées a augmenté de 21,1 %. La valeur ajoutée des entreprises dans lesquelles travaillaient ces salariés a, en moyenne pondérée par l’effectif de ces entreprises, augmenté de près de 26,3 %. Toutes les grandeurs économiques sont données ici en valeur nominale. Le capital productif correspond à celui déclaré dans les bilans des entreprises. Les règles comptables imposent qu’il soit exprimé au coût historique. Champ : entreprises de plus de 20 salariés (sauf secteurs de l’agriculture, de l’éducation de la santé et de l’action sociale, de l’administration ainsi que les activités financières et immobilières). Source : DADS 1997, BRN 1997 et 2000, fichiers de l’Urssaf, Insee.
+
+Tableau 2 Évolutions relatives des entreprises passées à 35 heures par rapport aux entreprises restées à 39 heures (entre 1997 et 2000) (après contrôle des variables observables)
+En %
+
+Type d’accord
+Emploi (L) Productivité globale des facteurs (PGF) (1) Capital productif (K) Valeur ajoutée (VA) Intensité capitalistique (K/L) Productivité apparente du travail (VA/L) Productivité apparente du capital (VA/K) Salaire par tête (w) Coût du travail par tête (c) Coût (salarial) unitaire apparent de production (cL/VA) Différence entre le coût salarial et la PGF 1. Se reporter à l’encadré 3.
+
+Aubry I aidées
+
+9,91 - 3,68
+4,20 5,02 - 5,71 - 4,89 0,82 - 2,54 - 5,97 - 1,08 - 2,29
+
+(0,33) (0,31) (0,42) (0,39) (0,44) (0,32) (0,47) (0,23) (0,23) (0,24) (0,25)
+
+Aubry II précurseurs
+
+3,78 - 1,79
+0,40 1,28 - 3,38 - 2,50 0,88 - 2,45 - 4,26 - 1,77 - 2,47
+
+(0,67) (0,62) (0,86) (0,80) (0,89) (0,64) (0,95) (0,46) (0,46) (0,48) (0,50)
+
+Aubry II
+
+4,89 - 0,67
+2,55 3,76 - 2,34 - 1,14 1,20 - 1,49 - 1,98 - 0,84 - 1,31
+
+(0,37) (0,34) (0,47) (0,44) (0,49) (0,35) (0,52) (0,25) (0,25) (0,26) (0,27)
+
+Lecture : estimation à l’aide des moindres carrés ordinaires. On régresse les taux de croissance (en log) de chacune des variables sur des indicatrices d’accords de réduction du temps de travail (Aubry I aidées, Aubry II précurseurs ou Aubry II, la référence étant 39 heures) et des variables de contrôle (taille, secteur, composition de la main-d’œuvre en 1997 en terme de qualifications, d’âge, part de la masse salariale dans la valeur ajoutée en 1997). Ces coefficients sont présentés dans le tableau, avec leur écart-type entre parenthèses. Le groupe de référence est constitué des entreprises encore à 39 heures fin 2000. Les grandeurs économiques sont en valeur nominale. Les indicatrices sectorielles introduites parmi les variables explicatives prennent en compte les évolutions différenciées des prix dans chacun de ces secteurs. Les effets obtenus peuvent donc s’interpréter comme des effets volume. Les régressions ne sont pas pondérées par l’effectif de l’entreprise, cette variable étant parmi les variables explicatives. Champ : 43 208 entreprises de plus de 20 salariés (sauf secteurs de l’agriculture, de l’éducation de la santé et de l’action sociale, de l’administration ainsi que les activités financières et immobilières). Cf. encadré 2 pour les précisions sur le champ de l’étude. Source : DADS 1997, BRN 1997 et 2000, fichiers de l’Urssaf, Insee.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+63
+
+travail a augmenté moins vite dans les entreprises à 35 heures que dans celles restées à 39 heures (l’écart entre les taux de croissance de ce ratio est de 5 %). Ce résultat était prévisible : les salariés à 35 heures travaillent moins longtemps et devraient donc moins produire.
+Cependant, la réduction du temps de travail semble avoir également eu un impact sur l’intensité capitalistique. Le capital productif s’est accru plus vite dans les entreprises Aubry I aidées que dans les entreprises restées à 39 heures. Comme leur main-d’œuvre a progressé plus vite que ce capital productif, l’intensité capitalistique y a augmenté moins vite que dans les entreprises restées à 39 heures.
+A priori, la réduction du temps de travail modifie non seulement la productivité par tête du travail mais également la productivité du capital puisqu’elle joue sur la durée d’utilisation de ses
+
+équipements. Le différentiel de productivité du capital par rapport aux entreprises restées à 39 heures continue néanmoins à être non significativement différent de zéro pour les entreprises Aubry I aidées et Aubry II précurseurs. Pour connaître l’impact de la RTT sur la productivité de l’entreprise, on calcule l’évolution de la productivité globale des facteurs (PGF) (11). On entend par là l’évolution de la valeur ajoutée non expliquée par l’évolution du nombre de salariés ou du volume du capital (cf. encadré 3).
+11. La productivité globale des facteurs n’a pas de déﬁnition intrinsèque : elle dépend des facteurs pris en compte pour la mesurer. De façon générale, elle mesure l’évolution de la production à facteurs inchangés, les facteurs étant le plus communément le capital et le travail. D’un point de vue macroéconomique, Carré, Dubois et Malinvaud (1972) utilisent cette décomposition de la production pour déterminer les principales sources de la croissance en considérant comme facteurs, en plus du capital et du travail, la durée du travail, les migrations professionnelles et le rajeunissement du capital. Le résidu obtenu ﬁnalement est interprété comme la résultante du progrès technique.
+
+Encadré 3
+
+L’ÉQUATION DE PRODUCTIVITÉ GLOBALE DES FACTEURS
+
+L’effet de la réduction du temps de travail sur la productivité, tant du travail que du capital, est central pour évaluer l’impact des lois Aubry sur l’emploi. Bien avant les lois françaises sur les 35 heures, plusieurs articles avaient cherché à mesurer l’élasticité de la production à la durée du travail (Feldstein, 1967). L’entreprise s’est avérée ardue : afin d’estimer plus directement l’impact du passage aux 35 heures sur la productivité globale des facteurs, les méthodes de ces pionniers ont été simplifiées pour les besoins de cet article. Cet encadré vise à préciser le concept de productivité globale des facteurs adopté, qui a une incidence sur les variables visant à l’expliquer.
+Introduire la durée du travail parmi les facteurs de production pour mesurer l’effet d’une réduction du temps de travail sur la productivité globale des facteurs...
+Les fonctions de production traditionnelles (1) considèrent que les effectifs L et la durée du travail H sont deux facteurs parfaitement substituables.
+(1)
+Il serait alors équivalent en terme de production (Y) que l’entreprise emploie L personnes travaillant H heures ou H personnes travaillant L heures. C’est ce genre d’hypothèses qui est faite lorsqu’on applique la « règle de trois » pour mesurer l’impact d’une réduction du temps de travail sur l’emploi.
+Mais cette hypothèse peut être remise en question car on peut penser, d’une part, que la durée du travail affecte l’efficacité des heures travaillées et, d’autre part, qu’en modifiant la durée d’utilisation des équipements, elle change la productivité du capital.
+
+La fonction de production (2) prend en compte ces deux effets de la durée du travail sur la productivité des facteurs de production.
+(2)
+e(H) mesure l’efficacité des heures travaillées. La diminution de la durée du travail produit deux effets sur cette efficacité, un « effet fatigue » (l’efficacité des heures travaillées s’accroît car on supprime les dernière heures de la journée où le salarié était fatigué) et un « effet mise en train » (l’efficacité des heures décroît car la part des moments improductifs dans les heures travaillées, comme les pauses, la mise en route de l’équipement, s’accroît). d(H) mesure le temps d’utilisation du capital qui peut ne pas baisser avec la durée du travail s’il y a une réorganisation suffisante. La réorganisation du travail, rendue possible par une baisse de la durée du travail, peut affecter ainsi positivement à la fois l’efficacité des heures travaillées et la durée d’utilisation des équipements.
+Pour estimer cette fonction de production, on peut la simplifier en choisissant une fonction de Cobb-Douglas où la durée du travail (H) est un facteur à part entière :
+Dans cette spécification, g mesure l’élasticité de la production par rapport à la durée du travail. Si g est inférieur à 1, alors une baisse de la durée du travail s’accompagnera d’une baisse moins importante de la production : il y a des gains de productivité horaire. Ces gains sont à la fois imputables à l’efficacité accrue du travail et du capital.
+
+64
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+Même si cette mesure est une mesure de PGF, elle a la dimension d’une évolution de la productivité par tête car le facteur travail est pris en compte en effectifs de l’entreprise et non en volume horaire. Il s’agit de l’évolution de la valeur ajoutée que l’on aurait observée si l’entreprise n’avait modifié que les heures de travail de ses salariés, en conservant leur nom-
+
+bre et son capital constants. Cette PGF n’a aucune raison de dépendre du coût des facteurs. Son évolution reflète la technologie et l’organisation de l’entreprise. De fait, on s’attend à ce que son évolution soit négative quand l’entreprise réduit son temps de travail : les salariés travaillant moins longtemps et la durée d’utilisation des équipements étant probablement plus
+
+Encadré 3 (suite)
+... mais cet effet est très difficile à estimer
+Néanmoins, il est très difficile de mesurer ainsi les effets d’une réduction de la durée du travail sur la productivité. Les auteurs qui ont tenté de le faire ont trouvé des résultats très différents les uns des autres, probablement à cause des nombreux problèmes posés par l’estimation des fonctions de production (Griliches et Mairesse, 1997). Craine (1973) trouve des pertes de productivité horaire à la suite d’une réduction du temps de travail ; Wise (1980) observe des gains de productivité. Feldstein (1967), Hart et MacGregor (1988) et Gianella et Lagarde (1999) trouvent des résultats trop imprécis pour conclure.
+Par ailleurs, on ne dispose pas d’une mesure appropriée de la variation de la durée du travail. Dans les DADS, les heures rémunérées par salarié sont renseignées, mais cette variable ne permet pas de prendre convenablement en compte l’ampleur de la réduction du temps de travail. Si les entreprises Aubry I aidées devaient s’engager à réduire effectivement leur temps de travail d’au moins 10 %, les autres pouvaient redéfinir leur temps de travail pour arriver à une durée du travail finale de 35 heures. Elles pouvaient notamment exclure du temps de travail des pauses ou une sixième semaine de congés payés préalablement accordées par l’entreprise. Or, ce changement de définition n’est pas perceptible au moyen des DADS. La mesure de la baisse des heures de travail est donc entachée d’erreur.
+Une approche alternative : la productivité globale des facteurs
+L’indisponibilité des heures travaillées et la difficulté d’estimation de paramètres d’une fonction de production par ailleurs secondaires par rapport aux objectifs d’étude, conduisent à simplifier le cadre de l’analyse. Une fonction de production à rendement d’échelle constant, Y = ANβ K1–β Hg conduit à :
+où le terme de gauche peut se comprendre comme le taux de croissance de la productivité globale des facteurs (PGF). Ce terme, le taux de croissance de la PGF, est directement mesurable si l’on fait des hypothèses sur l’élasticité de la production à l’emploi (β). Différentes hypothèses peuvent être retenues, soit en fixant β à 0,7, 0,8 etc., soit en faisant l’hypothèse que les facteurs sont rémunérés à leur productivité marginale (β est égal à la part des coûts salariaux dans la valeur ajoutée). Ce coefficient β pourra refléter une part plus ou moins grande de l’hétérogénéité des entreprises,
+
+s’il est supposé différer selon le secteur et la taille (on prend alors la moyenne ou la médiane de la part des coûts salariaux dans la valeur ajoutée des entreprises d’un secteur et d’une taille donnée) ou selon chaque entreprise (la part des coûts salariaux dans la valeur ajoutée pour l’entreprise). Les résultats ne sont pas sensibles à ces différentes hypothèses.
+Avec cette spécification, les coefficients du travail et du capital ne sont pas estimés : ils n’intéressent pas directement les finalités de cette étude.
+Par ailleurs, ∆ln(H) n’étant pas connu, il est remplacé par une indicatrice de type d’accord de réduction du temps de travail, 1AubryI, 1AubryIIp, 1AubryII et on estime :
+Dans cette équation, les variables X sont des variables de contrôle qui expliquent des changements de PGF non dus à la réduction du temps de travail. gAI représente g∆ ln (H )AI c’est-à-dire la baisse moyenne de la production due au passage aux 35 heures. Les différences entre les entreprises Aubry I et Aubry II reflètent à la fois une baisse de la durée effective du travail différente (∆ ln(H )) et des élasticités de la production à la durée du travail différentes (g), dues par exemple à des réorganisations de la production plus ou moins importantes.
+Les variables explicatives X introduites dans les régressions sont les suivantes : des indicatrices de secteur, de taille, la structure par âge, qualification et sexe de la main-d’œuvre de l’entreprise, la part des salaires dans la valeur ajoutée (mesurée au niveau du secteur croisé avec la taille) comme mesure de l’élasticité de la production au travail, et les variables de structure de la main-d’œuvre de l’entreprise croisée avec cette élasticité (1). Ces variables sont mesurées au début de la période considérée, soit en 1997.
+Enfin, la mesure de la productivité retenue, à savoir la PGF, n’est pas affectée par une variation de la composition des facteurs de production (K/L) qui pourtant pourrait être due aux 35 heures. La productivité apparente du travail (Y/L) dépend, elle, de la variation de la PGF mais aussi de l’ajustement des facteurs de production :
+1. Les variables croisées avec l’élasticité permettent de rendre partiellement compte des évolutions différentes des producti-
+. vités spéciﬁques du capital et de l’emploi
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+65
+
+faible, la productivité globale des facteurs, telle qu’elle est définie ici, devrait diminuer. En revanche, l’évolution de la productivité horaire (12) (non disponible dans la mesure où l’on ne peut pas mesurer la véritable baisse de la durée du travail) ne devrait pas être négative. Par heure, les salariés doivent produire toujours autant et même plus s’il y a un changement d’organisation, des gains de flexibilité ou une intensité accrue du travail. Par conséquent, cette baisse de PGF peut être inférieure à la réduction du temps de travail s’il y a des gains de productivité horaires.
+Entre 1993 et jusqu’en 1998, les entreprises passées à 35 heures et restées à 39 heures ont connu des évolutions de leur productivité globale des facteurs similaires. En revanche, depuis 1998, alors que la PGF des entreprises restées à 39 heures continuait à croître, celle des entreprises Aubry I aidées et Aubry II précurseur décroissait (cf. graphique II). (12)
+Des comparaisons, à caractéristiques observables contrôlées, entre les évolutions de cette productivité globale des facteurs des entreprises restées à 39 heures et celles des entreprises passées à 35 heures montrent que les différen-
+
+ces sont peu importantes au regard de la réduction du temps de travail (cf. tableau 2). Les entreprises Aubry I aidées, qui devaient réduire leur temps de travail de 10 %, ne voient leur PGF baisser entre 1997 et 2000 que de 3,7 % par rapport aux entreprises restées à 39 heures fin 2000 (à caractéristiques observables identiques). Ces entreprises auraient donc connu de forts gains de productivité horaire, de l’ordre de 6,3 %. Les entreprises Aubry II et Aubry II précurseurs connaissent, en comparaison des entreprises restées à 39 heures, des pertes de productivité encore plus faibles, respectivement 1,8 % et 0,7 %. Il est vrai que la réduction du temps de travail y revêt moins d’ampleur et y est plus récente que dans les entreprises Aubry I (13).
+12. Il aurait été souhaitable de proposer une mesure horaire de la productivité globale des facteurs. Cela n’a pas été possible dans la mesure où il n’existe pas de mesure ﬁable du niveau de réduction du temps de travail. En particulier, les entreprises Aubry II précurseurs et Aubry II ont pu passer à 35 heures en modiﬁant la façon de mesurer les heures travaillées dans l’entreprise (temps de pause, etc.). Supposer un niveau de réduction horaire similaire pour toutes les entreprises (éventuellement selon l’accord) n’apporte pas d’information supplémentaire : il s’agit avant tout d’une question de présentation des résultats. 13. Comme les résultats sur l’emploi, les résultats sur la productivité sont robustes aux changements de la méthode économétrique utilisée pour corriger la sélection sur observables. Ils sont aussi robustes à des changements du champ d’estimation.
+
+Graphique II Évolution moyenne de la productivité globale des facteurs (PGF) des entreprises selon leur situation par rapport aux 35 heures ﬁn 2000
+En % 8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0 1992
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+Aubry I aidées
+
+Aubry II précurseurs
+
+Aubry II
+
+39 heures
+
+Lecture : entre 1993 et 2000, la productivité globale des facteurs des entreprises Aubry I aidées a, en moyenne, augmenté de 3,2 % (en valeur), tandis qu’elle augmentait de 7,1 % dans les entreprises restées à 39 heures fin 2000. Champ : entreprises de plus de 20 salariés (sauf secteurs de l’agriculture, de l’éducation de la santé et de l’action sociale, de l’administration ainsi que les activités financières et immobilières). Source : BRN 1993-2000, fichiers de l’Urssaf, Insee.
+
+66
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+Enfin, le coût du travail par tête a augmenté plus lentement dans les entreprises passées à 35 heures que dans celles restées à 39 heures. Cette baisse relative du coût de travail par tête s’explique par la modération salariale négociée au moment du passage à 35 heures et les aides et allègements de cotisations sociales qui ont accompagné la réduction du temps de travail. Dans toutes les entreprises ayant réduit leur temps de travail, le coût salarial a augmenté moins rapidement que la production (mesurée
+
+par la valeur ajoutée), par rapport à celles restées à 39 heures. Cette baisse accentuée du coût salarial par tête par rapport au niveau de production désiré a pu conduire les entreprises passées à 35 heures à embaucher plus qu’elles ne l’auraient fait sans RTT. Plus précisément, la variable pertinente à considérer pour examiner le comportement des entreprises en terme d’embauche est l’écart entre la PGF et la variation du coût salarial (cf. encadré 4). Cette différence est positive et forte dans tous les cas.
+
+Encadré 4
+
+PARTAGE DU TRAVAIL OU DEMANDE DE TRAVAIL CLASSIQUE
+
+Deux scénarios polaires permettent d’interpréter les effets de la réduction du temps de travail. Le modèle est simplifié à l’extrême et, pour cette raison, est adapté à la description fruste d’entreprises très différentes entre elles. Dans la mesure où le seul événement pris en compte par ces deux scénarios est la réduction du temps de travail, il faut considérer ce modèle comme représentatif de ce qui s’est passé, une fois tenu compte de toutes les autres raisons ayant pu affecter les variables observées.
+On considère une fonction de production Q(K, L) = PGF.K1–β Lβ où Q est la production de l’entreprise, L son facteur travail (le nombre de salariés) et K son facteur capital. On suppose par la suite que ce facteur n’est pas affecté par la réduction du temps de travail. Sans ajustement du capital, le profit de l’entreprise est égal à Π = min( Q , Q(L)) – wL où w est le coût mensuel d’un salarié et Q la demande adressée à l’entreprise.
+Soit L* le niveau d’emploi d’équilibre initial, c’est-àdire avant l’application d’une loi de réduction du temps de travail. Selon que l’entreprise se trouve dans un cadre de demande classique de travail (la demande de biens adressée à l’entreprise ne la contraint pas ( Q > Q(L*)) ou dans un cadre où elle est contrainte par sa demande de bien ( Q < Q(L*)), l’effet d’une réduction de son temps de travail sera différente.
+Scénario de demande classique de travail
+On a Q > Q(L*). Alors la demande de travail maximise le profit, on a :
+
+Le passage à 35 heures de l’entreprise modifie également son coût salarial individuel w puisque les salariés ont pu accepter en contrepartie de la réduction de leur temps de travail une modération salariale et surtout parce que l’entreprises reçoit des aides de l’État.
+Le passage à 35 heures de l’entreprise entraîne donc une modification de sa demande de travail de :
+
+la variation du capital étant supposée ne pas dépendre du passage à 35 heures.
+Dans le cadre d’une demande classique de travail, les pertes de productivité globale des facteurs (on s’attend à ce que ∆ln PGF soit négatif) diminuent la demande de travail de l’entreprise. La baisse du coût individuel du travail (on s’attend également à ce que ∆ln w soit négatif) augmente la demande de travail de l’entreprise. Si les pertes de PGF sont supérieures à la baisse du coût du travail, la réduction du temps de travail a un impact négatif sur l’emploi.
+
+Scénario où l’entreprise est saturée par la demande de biens
+
+Dans le cas où
+
+, alors Q(L*) > Q ,
+
+l’entreprise est contrainte par la demande qui lui est
+
+adressée : elle embauche de manière à atteindre un
+
+niveau de production équivalent à sa demande. Dans
+
+ce modèle, le niveau de l’emploi est d’autant plus
+
+élevé que l’entreprise est peu productive.
+
+Une réduction du temps de travail amènera une évolution de la demande de travail de l’entreprise de :
+
+La réduction du temps de travail a un impact sur la productivité globale des facteurs de l’entreprise (PGF). Cet impact prend en compte le fait que ses salariés sont moins productifs (puisqu’ils travaillent moins longtemps) et le fait que le capital peut être moins productif si la durée d’utilisation des équipements est moins longue.
+
+Dans ce cadre, les pertes de productivité induites par la réduction du temps de travail sont favorables aux créations d’emplois. Plus elles sont fortes et plus on a besoin de salariés en nombre pour produire autant.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+67
+
+L’évolution de l’emploi des entreprises passées à 35 heures par rapport à celles restées à 39 heures n’est pas incompatible avec un scénario dit « classique » et pourrait donc s’expliquer par une baisse du coût unitaire due aux 35 heures (par le biais de la baisse du coût du travail et la modération salariale).
+
+(cf. encadré 3). En revanche, les deux autres biais peuvent être mis en évidence à l’aide de variables instrumentales. (14) (15) (16) (17) (18)
+Peut-on comparer les entreprises passées à 35 heures à celles restées à 39 heures ?
+
+Les méthodes d’estimation traitant uniquement de la sélection sur observables sont-elles valides ?
+Le cas de la productivité
+Les résultats présentés ci-dessus reposent sur la comparaison de la situation des entreprises passées à 35 heures et de celle des entreprises restées à 39 heures. C’est sur ce genre de comparaison que s’appuient les évaluations de politique économique à partir de données microéconomiques. Pourtant, la capacité de ces comparaisons à mesurer l’effet d’une politique économique peut être remise en cause et a été largement discutée par les micro-économètres (14). Une telle discussion est présentée dans ce qui suit. Elle s’appuie sur des méthodes à variables instrumentales qui peuvent permettre de répondre à une partie de ces critiques car elles sont fondées sur des hypothèses différentes. Leur principe est de filtrer l’information pour ne retenir que ce qui correspond au seul effet (effet pur) de la réduction du temps de travail.
+Leur mise en oeuvre est délicate car elles requièrent l’existence de variables dont on doit supposer qu’elles affectent le choix de l’entreprise de passer à 35 heures sans affecter la variable d’intérêt (15) (la productivité, l’emploi de l’entreprise). Ces variables, appelées instruments, sont supposées n’être liées à la variable d’intérêt qu’à travers l’effet qu’elles ont sur le passage à 35 heures. Aussi ne seront-elles appliquées qu’à un seul dispositif, le dispositif Aubry I aidé (16) et sur une période relativement courte : 1997-2000.
+On considère tout d’abord le cas de la productivité globale des facteurs (PGF), pour lequel on peut se permettre de négliger le biais de bouclage (17). Ce biais résulte d’un effet éventuel de la RTT sur la variable d’intérêt dans les entreprises qui ne l’ont pas mise en œuvre. Il est vraisemblable, en première approximation, qu’elle n’a pas perturbé leur productivité (18), qui est un paramètre technique. La PGF est en effet une caractéristique de l’entreprise : elle ne dépend pas de la structure de ses coûts
+
+Ces deux biais doivent être précisés. Pour évaluer les effets de la réduction du temps de travail sur une variable d’intérêt Y (la PGF ou l’emploi), à partir de données microéconomiques, on compare la situation des entreprises passées à 35 heures (cf. schéma 1, droite 1) à celle des entreprises restées à 39 heures (cf. schéma 1, droite 4). Cet écart n’est qu’une approximation, habituellement appelée « effet naïf » de la politique considérée (cf. schéma 1, écart NAIF). En dehors de l’effet de bouclage, deux biais peuvent
+14. Se reporter à Brodaty et al. (2002) pour une discussion complète de ces méthodes. 15. Ces hypothèses ne sont pas testables directement : elles conditionnent les estimations. 16. Cette restriction est problématique car elle suppose implicitement que le choix des entreprises est limité entre le seul dispositif Aubry I aidées et le fait de rester à 39 heures. Les entreprises Aubry II précurseurs et Aubry II sont exclues de l’échantillon. Les raisons de ce choix et ses conséquences sont exposées dans la suite de cet article. 17. Les différents biais rencontrés dans l’estimation des effets d’une politique sont mentionnés en introduction. 18. À l’inverse, l’emploi de ces entreprises restées à 39 heures a pu être affecté par la RTT (cf. infra).
+
+Schéma 1 Représentation des biais et des paramètres d’intérêt
+Taux de croissance de l'emploi
+
+ETT NAIF
+
+3
+
+1 2
+
+ETNT
+
+4
+
+1997
+
+2000
+
+Lecture : la flèche 1 représente le taux de croissance de l’emploi observé entre 1997 et 2000 pour les entreprises passées à 35 heures. La flèche 2 représente ce qu’aurait été le taux de croissance de l’emploi entre 1997 et 2000 pour les entreprises passées à 35 heures si elles n’étaient pas passées à 35 heures. La flèche 3 représente ce qu’aurait été le taux de croissance de l’emploi entre 1997 et 2000 des entreprises restées à 39 heures si elles étaient passées à 35 heures. La flèche 4 représente le taux de croissance de l’emploi observé entre 1997 et 2000 pour les entreprises restées à 39 heures.
+
+68
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+expliquer une différence entre cet effet naïf et l’effet réel de la RTT. Le véritable effet de la réduction du temps de travail pour les entreprises passées à 35 heures est la différence entre leur situation effectivement observée (cf. schéma 1, droite 1) et la situation qui aurait été la leur si aucune n’avait réduit son temps de travail (cf. schéma 1, droite 2). Cet effet est dénommé « effet du traitement sur les traités » (ETT), par analogie avec les situations d’expérimentation médicale (cf. schéma I, différentiel ETT).
+Deux raisons majeures peuvent expliquer que l’ETT ne coïncide pas avec l’effet dit « naïf » de la réduction du temps de travail.
+D’une part, les entreprises qui ont souscrit à un dispositif de réduction du temps de travail ne l’ont pas fait par hasard. Réduire son temps de travail est un choix de l’entreprise. Ce choix peut être affecté par des caractéristiques existant antérieurement à la mise en place de la RTT. Les entreprises passées précocement à 35 heures seraient donc initialement différentes des entreprises restées à 39 heures, si bien que même sans RTT, elles n’auraient pas connu les mêmes évolutions (les droites 2 et 4 du schéma 1 ne coïncident pas). Les estimations précédentes n’ont tenu compte que des différences de caractéristiques observables entre les entreprises passées à 35 heures et celles restées à 39 heures (19). Se limiter à de telles caractéristiques observables peut être insuffisant. En effet, certaines caractéristiques non observées peuvent affecter à la fois la décision de l’entreprise de réduire son temps de travail et l’évolution spontanée de sa PGF ou de son emploi. Dans ce cas, les différences entre entreprises passées à 35 heures et restées à 39 heures auraient subsisté même sans la mise en place de la réduction du temps de travail.
+Le deuxième biais intervient lorsque l’on se propose d’extrapoler le diagnostic porté sur les entreprises effectivement passées à 35 heures à l’ensemble des entreprises. Dans la mesure où réduire le temps de travail constitue un choix de l’entreprise, cette décision peut se fonder sur les résultats attendus en termes d’emploi ou de PGF. Réduire le temps de travail peut donc ne pas avoir les mêmes conséquences d’une entreprise à l’autre, notamment sur la variable d’intérêt (PGF ou emploi). Si l’évolution de cette variable est un élément influant la décision de réduire son temps de travail, les entreprises pour lesquelles les conséquences de la réduction du temps de travail sont le plus favorables ont pu effectivement faire ce choix. Dès lors, on peut penser que si les entreprises restées à 39 heures
+
+avaient été forcées de passer à 35 heures, les évolutions de leur variable d’intérêt auraient été moins favorables (cf. schéma 1, droite 3). L’effet de la réduction du temps de travail pour ces entreprises (cf. schéma 1, ETNT) aurait été différent de celui des entreprises passées à 35 heures (cf. schéma 1, ETT) (20). (19) (20)
+Ces deux types d’endogénéité ne sont pas de même importance : la deuxième, l’hétérogénéité de l’effet d’une politique, n’est gênante que si l’on veut extrapoler l’effet de la réduction du temps de travail sur l’emploi ou la PGF à des entreprises qui ne sont pas encore passées à 35 heures. De fait, conscients de cette difficulté, la plupart des travaux cherchant à évaluer les 35 heures à partir de données microéconomiques se gardent d’extrapoler leurs résultats aux entreprises n’ayant pas réduit leur temps de travail. Le premier type d’endogénéité, en revanche, est plus lourd de conséquence. Il semble que Bunel (2005) soit le seul à le prendre en compte, après avoir montré son existence.
+Des variables instrumentales permettent de corriger les biais
+Les méthodes utilisant des variables instrumentales permettent de contourner les deux problèmes d’endogénéité mentionnés ci-dessus. Leur principe est de filtrer l’information contenue dans la variable indiquant si l’entreprise a réduit son temps de travail, pour en conserver la partie purement exogène, dont l’effet sur la variable d’intérêt va pouvoir directement s’interpréter comme tel. Pour cela, on utilise des variables exogènes qui servent à filtrer l’information. Ces variables sont appelées variables instrumentales. Il faut qu’elles ne jouent pas directement sur la variable d’intérêt mais qu’elles expliquent en partie le fait, pour une entreprise, de réduire son temps de travail.
+La méthode utilisée ici est celle d’Heckman. Elle procède en deux temps. Une première étape consiste à expliquer la sélection des entreprises dans un dispositif de réduction du temps de travail. Dans un second temps, l’équation de PGF ou d’emploi est estimée en utilisant les résultats
+19. Les méthodes de régression linéaire simple (MCO) aussi bien que les méthodes fondées sur les estimateurs par appariement en premières ou en secondes différences sont fondées sur le contrôle des seules différences observables. 20. ETNT est l’effet du traitement sur les non-traités : l’évolution des non-traités s’ils étaient soumis au traitement. Il ne faut pas confondre cette grandeur avec l’effet de la politique publique sur les non-traités résultant des effets de bouclage.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+69
+
+de l’équation de sélection. De la sorte, les éléments liés à l’endogénéité, source des biais, sont éliminés de l’effet de réduction du temps de travail .
+L’application de cette méthode amène à simplifier le processus de sélection des entreprises dans les différents dispositifs de réduction du temps de travail. On suppose ici que les entreprises n’ont le choix qu’entre le dispositif Aubry I aidées et le choix de rester à 39 heures fin 2000. L’existence de deux autres choix possibles (Aubry II précurseurs et Aubry II) n’est pas censée modifer le choix des entreprises de signer un accord Aubry I plutôt que de rester à 39 heures (21). On modélise alors la sélection sous la forme d’un probit binomial.
+Une variable instrumentale particulièrement appropriée
+Un second jeu d’hypothèses concerne le choix des variables instrumentales. On entend par là des variables qui expliquent le choix de l’entreprise de réduire son temps de travail mais qui n’ont pas d’effet direct sur ses évolutions de PGF. Dans le cadre des processus de sélection, ces variables sont appelées variables d’exclusion. Leur choix est déterminant pour l’application de ces méthodes.
+La principale de ces variables instrumentales est le niveau des aides offertes à l’entreprise dans le cadre Aubry II (22), qui peut être calculé (23) aussi bien pour les entreprises passées à 39 heures que pour les entreprises passées à 35 heures, en appliquant les formules légales. Ce montant des aides varie d’une entreprise à l’autre, et c’est a priori un bon prédicteur du choix de rester à 39 heures. On peut penser qu’il est, en revanche, sans effet sur l’évolution de la PGF.
+Une variable instrumentale appropriée doit d’abord expliquer directement et fortement la signature d’un accord Aubry I aidées. Le tableau 3 confirme empiriquement cette corrélation qui est positive. Le mécanisme sous-tendant cette corrélation est toutefois complexe. Les entreprises Aubry I aidées, au moment où elles ont choisi cette modalité d’accord, n’étaient pas a priori au courant de l’existence des aides Aubry II qu’elles recevront à partir de 2000. Elles ne se sont donc pas décidées à réduire leur temps de travail à cause du montant élevé d’aides qu’elles allaient recevoir. Cette variable explique plutôt pourquoi certaines entreprises sont encore à 39 heures fin 2000
+
+alors qu’elles auraient pu signer des accords Aubry II et recevoir en contrepartie des aides importantes. Cette variable a donc vraisemblablement un impact direct sur le fait pour une entreprise d’être restée à 39 heures. Plus le montant d’aides est faible, plus il est probable que l’entreprise a décidé de ne pas réduire son temps de travail. Elle se trouve donc encore à ce titre dans le champ d’étude (restreint ici aux entreprises à 39 heures et aux entreprises Aubry I aidées). Cette variable joue donc très fortement sur la probabilité de rester à 39 heures : les entreprises pour lesquelles le niveau des aides est le plus faible ont plus de chances de rester à 39 heures (coefficient - 0,35 avec une élasticité de - 0,08, cf. tableau 3). Il s’agit de la variable dont la significativité est la plus importante dans cette régression (le T de Student est égal à 154,05). (21) (22) (23)
+Il aurait été souhaitable de disposer d’une variable affectant directement le choix, pour une entreprise, de signer un accord Aubry I. Il n’a pas été possible d’en trouver. Les estimations seraient sans doute différentes si les dispositifs Aubry II précurseur et Aubry II se trouvaient explicitement pris en compte. Néanmoins, les conclusions auxquelles conduisent les biais mis en évidence n’en seraient pas affectées. On cherche en effet davantage à tester l’hypothèse selon laquelle les biais d’hétérogénéité inobservée et d’effet du traitement n’affectent pas les estimations présentées dans le tableau 2, qu’à obtenir des résultats quantitativement interprétables. On cherche à mettre en évidence les biais là où ils sont vraisemblablement les plus forts, c’est-à-dire entre les entreprises Aubry I aidées et celles restées à 39 heures.
+Il faut également que la variable instrumentale n’ait pas d’effet théorique direct sur les variations de la PGF des entreprises concernées. C’est bien le cas, car la productivité globale des facteurs (PGF) est un paramètre technologique de l’entreprise indépendant de ses coûts. Toutefois, le montant d’aides étant construit à partir de la structure salariale de l’entreprise, il pourrait
+21. Cela revient à supposer que ces entreprises Aubry II précurseurs et Aubry II, si elles n’avaient pas pu passer à 35 heures dans une de ces deux modalités de réduction du temps de travail, auraient choisi de signer un accord Aubry I ou de rester à 39 heures dans les mêmes proportions que l’on observe d’entreprises Aubry I aidées et d’entreprises à 39 heures. Cette hypothèse est très restrictive. Elle affecte la valeur des coefﬁcients, mais non les conclusions auxquelles ils conduisent. 22. Les aides Aubry I auraient pu constituer une variable instrumentale particulièrement appropriée. Cependant, la très faible variabilité de ces aides forfaitaires individuelles interdit leur utilisation dans ce cadre. 23. Les aides offertes à l’entreprise sont estimées en fonction de sa structure salariale en 1997 (cf. annexe 2).
+
+70
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+Tableau 3 Coefﬁcients du modèle probit expliquant le choix de rester à 39 heures (plutôt que d’avoir signé un accord Auby I aidé)
+
+Constante
+
+Secteur d'activité
+
+Industries agro-alimentaires
+
+Biens de consommation
+
+Industrie automobile
+
+Biens d'équipement
+
+Biens intermédiaires
+
+Énergie
+
+Construction
+
+Commerce
+
+Transport
+
+Services aux entreprises
+
+Services aux particuliers
+
+Taille de l'entreprise
+
+De 20 à 49 salariés
+
+De 50 à 99 salariés
+
+De 100 à 249 salariés
+
+De 250 à 499 salariés
+
+Plus de 500 salariés
+
+Structure par âge et qualiﬁcation
+
+Part des salariés âgés de 24 ans et moins Part des salariés âgés de 25 à 34 ans
+
+Part des salariés âgés de 35 à 49 ans
+
+Part des salariés âgés de plus de 50 ans
+
+Part des salariés non qualiﬁés
+
+Part des salariés qualiﬁés
+
+Part des salariés très qualiﬁés
+
+Part des hommes
+
+Part des femmes
+
+Part des salaires dans la valeur ajoutée
+
+Structure par âge et qualiﬁcation interagie avec la part des salaires dans la valeur ajoutée
+
+Part des salariés âgés de 24 ans et moins Part des salariés âgés de 25 à 34 ans Part des salariés âgés de 35 à 49 ans Part des salariés âgés de plus de 50 ans
+
+Part des salariés non qualiﬁés
+
+Part des salariés qualiﬁés
+
+Part des salariés très qualiﬁés
+
+Part des hommes
+
+Part des femmes
+
+Variables instrumentales
+
+Endettement/Capital productif>50 % Montant potentiel des aides Aubry II (en log)
+
+Part d'entreprises du secteur (N114) ayant signé un accord Robien
+
+Pourcentage de concordance
+
+Nombre d’observations
+
+Paramètre
+3,40 - 0,48 - 0,59 - 0,20 - 0,07 - 0,17 - 1,42 - 0,30 - 0,36
+0,10 - 0,49 Réf.
+0,67 0,50 0,44 0,21 Réf. - 1,53 0,06 - 0,03 Réf. 0,24 0,20 Réf. 0,14 Réf. 0,95 0,40 - 0,96 - 1,15 Réf. - 0,33 - 0,19 Réf. 0,11 Réf. - 0,04 - 0,35
+- 4,25
+
+Écart-type
+0,43 0,05 0,05 0,10 0,05 0,04 0,16 0,04 0,04 0,05 0,04
+
+Signiﬁcativité
+< 0,0001 < 0,0001 < 0,0001
+0,04 0,14 < 0,0001 < 0,0001 < 0,0001 < 0,0001 0,04 < 0,0001
+
+Effet marginal
+- 26,8 % - 33,5 % - 10,4 %
+- 3,7 % - 10,2 % - 73,5 % - 17,8 % - 23,6 %
+5,4 % - 28,5 %
+
+0,07
+
+< 0,0001
+
+62,7 %
+
+0,07
+
+< 0,0001
+
+25,0 %
+
+0,07
+
+< 0,0001
+
+20,5 %
+
+0,08
+
+0,01
+
+9,9 %
+
+0,46
+
+0,00
+
+- 0,10
+
+0,36
+
+0,87
+
+0,01
+
+0,47
+
+0,95
+
+0,00
+
+0,17
+
+0,17
+
+0,04
+
+0,21
+
+0,34
+
+0,03
+
+0,17
+
+0,42
+
+0,02
+
+0,95
+
+0,42
+
+0,02
+
+0,57
+
+0,48
+
+0,02
+
+0,43
+
+0,03
+
+- 0,08
+
+0,57
+
+0,05
+
+- 0,10
+
+0,21
+
+0,12
+
+- 0,04
+
+0,25
+
+0,44
+
+- 0,03
+
+0,21
+
+0,60
+
+0,02
+
+0,02
+
+0,03
+
+0,03
+
+< 0,0001
+
+0,46
+
+< 0,0001
+
+65,5 %
+
+33 202
+
+- 2,4 % - 0,08
+- 0,06
+
+Lecture : L’effet pour une entreprise d’être dans le secteur agro-alimentaire diminue la propension à rester à 39 heures (- 0,48). Son écart-type est égal à 0,05. Cet effet est significatif : l’hypothèse d’égalité de ce coefficient à 0 est rejetée avec une probabilité inférieure à 0,001 de se tromper. La propension à rester à 39 heures se décompose en une composante expliquée par les variables présentées dans le tableau et une composante résiduelle, supposée suivre une loi normale centrée réduite (modèle probit). L’estimation est effectuée par maximum de vraisemblance. 65,5 % des observations sont correctement prédites par le modèle (pourcentage de concordance). À caractéristiques autres identiques, appartenir à un secteur d’industrie agro-alimentaire diminue de 26,8 % la probabilité de rester à 39 heures, par rapport à une entreprise de services aux particuliers. L’effet marginal reflète l’effet sur la probabilité de posséder telle ou telle caractéristique. Il est calculé différemment selon que la variable est continue ou discrète. Si la variable est discrète : il s’agit d’un rapport de probabilité fondé sur la moyenne de l’ensemble des variables explicatives. Le numérateur correspond à la probabilité prédite par le modèle d’un individu ayant la caractéristique étudiée et une moyenne de toutes les autres, le dénominateur est la probabilité prédite d’un individu ne possédant pas la caractéristique mais possédant une moyenne de toutes les autres. Si la variable est continue : il s’agit de l’inverse du ratio de Mills (estimé pour un individu ayant une moyenne toutes les caractéristiques) multiplié par le coefficient estimé dans la régression et l’écart-type de la variable continue étudiée. Cet effet s’interprète comme une élasticité de l’effet d’une hausse de la variable continue (ramenée à sa dispersion). Il n’est pas possible de comparer les effets marginaux d’une variable continue et d’une variable discrète. Les effets marginaux sur variables discrètes sont présentés en pourcentage, ceux sur variables continues en format standard. Champ : entreprises de plus de 20 salariés ayant signé un accord Aubry I ou encore à 39 heures fin 2000 du secteur privé (hors secteurs immobilier et financier). Source : DADS 1997, BRN 1997 et 2000, fichiers de l’Urssaf, Insee.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+71
+
+refléter sa structure par qualification, un salaire élevé étant le signe d’une qualification élevée. L’introduction d’une autre variable, indiquant directement la structure par qualification de l’entreprise, comme variable de contrôle dans l’équation de PGF répond à cette objection. Même en contrôlant la structure par qualification de la main-d’œuvre de l’entreprise, le montant des aides reste corrélé aux évolutions de PGF. Cette corrélation est la traduction statistique des biais d’endogénéité évoqués plus haut.
+Deux variables instrumentales complémentaires
+D’autres variables instrumentales sont introduites. Elles expliquent moins bien la décision de l’entreprise de signer un accord Aubry I aidé plutôt que de rester à 39 heures et seule l’introduction des aides contrefactuelles Aubry II dans les variables instrumentales permet de montrer l’existence de biais d’endogénéité. L’introduction de ces variables permet néanmoins d’améliorer la précision des estimations et d’en évaluer dans une certaine mesure la robustesse. Ces variables sont au nombre de deux.
+Tout d’abord, l’incertitude quant aux modes d’application des lois Aubry (24) ou l’incertitude touchant les négociations avec les représentants du personnel ont sans doute eu une incidence sur le passage aux 35 heures : elles ont pu le retarder ou le hâter. Un passage à 35 heures précoce des autres entreprises du secteur (mesuré par la part des entreprises du secteur passées à 35 heures avant l’application des lois Aubry (25)) a pu atténuer cette incertitude : l’exemple des entreprises pionnières donne une information aux autres entreprises sur les conséquences de la réduction du temps de travail. Ceci a conduit à introduire comme variable instrumentale la part des entreprises de même secteur (N114) et de même taille ayant signé un accord Robien (26). Les entreprises appartenant à des secteurs où un grand nombre d’entreprises ont déjà signé un accord Robien ont une plus faible probabilité, toutes choses égales par ailleurs, de rester à 39 heures fin 2000 (le coefficient est égal à - 4,25 avec une élasticité de - 0,06 sur la probabilité, cf. tableau 3).
+On a également introduit le taux d’endettement de l’entreprise. L’hypothèse sous-jacente est qu’il atteste d’une plus forte valorisation du futur par l’entreprise : une telle valorisation conduit l’entreprise à s’engager dans des inves-
+
+tissements importants, à plus long terme que des entreprises moins endettées. Des entreprises valorisant plus le futur souhaiteraient passer le plus rapidement à 35 heures, anticipant que passer plus tardivement pourrait leur être plus coûteux, car la loi Aubry I ne spécifiait pas les formes de réduction de temps de travail auxquelles les entreprises pourraient avoir droit après janvier 2000. Les entreprises les plus endettées ont une probabilité plus faible de rester à 39 heures : la variable indiquant le fait d’avoir un ratio endettement sur capital productif supérieur à 50 % ressort dans le modèle probit avec un signe significativement négatif (coefficient égal à - 0,04 significatif au seuil de 5 %, cf. tableau 3). (24) (25) (26)
+Le calcul, pour chaque entreprise, de ces variables de contrôle, est donné dans l’annexe 2.
+Le signe des coefficients de ces variables est conforme à l’intuition (27) (cf. tableau 3).
+Le tableau 3 présente également l’ensemble des déterminants du fait d’être resté à 39 heures en 2000 plutôt qu’être passé à 35 heures dans le cadre Aubry I aidé. Les variables les plus discriminantes sont la taille et le secteur : c’est dans les entreprises les plus petites que le passage à 35 heures semble avoir été le plus tardif. Par ailleurs, les 35 heures auraient fait plus d’adeptes dans les secteurs de l’énergie, des biens de consommation et des services aux entreprises que dans ceux des transports, des services aux particuliers et des biens d’équipement. Les variables reflétant la structure par âge et qualification sont moins discriminantes que les variables instrumentales ou le secteur et la taille. Seule la part des salariés âgés de moins de 24 ans a un effet négatif sur la probabilité de rester à 39 heures : les entreprises à maind’œuvre jeune sont passées plus rapidement à 35 heures. L’élasticité de la production au facteur travail est estimée par la part des salaires
+24. Quel serait le champ d’application des 35 heures ? Quel serait le régime des heures supplémentaires ? 25. C’est-à-dire dans le cadre de la loi Robien dont on ne cherche pas à évaluer les effets. 26. L’introduction de cette variable instrumentale peut être discutée dans la mesure où elle pourrait reﬂéter un effet du secteur N114 croisé avec la taille sur les gains de productivité. On suppose que l’introduction de variables de contrôle sectorielles à un niveau plus agrégé sufﬁt à contrôler l’effet sectoriel. L’interprétation habituelle en termes d’effet d’entraînement est ainsi privilégiée. 27. Ce tableau sert à montrer quels sont les principaux déterminants expliquant le fait qu’une entreprise soit passée à 35 heures dans le cadre de la loi Aubry I plutôt que restée à 39 heures en 2000. D’autres variables pourraient être introduites dans cette régression (capacité de réorganisation ou environnement de l’entreprise) (cf. Bunel).
+
+72
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+dans la valeur ajoutée médiane dans la cellule constituée par le secteur (NES114) croisée avec la taille correspondant à l’entreprise. Cette variable, et son interaction avec la structure par âge, sexe et qualification, sont des déterminants de l’évolution de la PGF (cf. encadré 3). Cela justifie leur introduction parmi les déterminants du fait de rester à 39 heures.
+Les estimations de la PGF sont sans biais d’hétérogénéité inobservée
+La méthode d’Heckman en deux étapes sert à tester l’existence de l’une et l’autre des deux endogénéités mentionnées précédemment. Si la première existe, les entreprises à 35 heures auraient connu, sans réduction du temps de travail, des évolutions de PGF différentes de celles des entreprises restées à 39 heures fin 2000 (hétérogénéité inobservée des caractéristiques des entreprises). Si la seconde existe, les entreprises choisissent de réduire leur temps de travail en fonction de l’effet qu’elles escomptent sur leur PGF et seules les
+
+Tableau 4 Méthode avec sélection sur inobservables
+
+Moindres Maximum de
+
+carrés vraisemblance
+
+ordinaires (1)
+
+(1)
+
+Corrélations
+
+ρ0
+
+0,085 0,122
+
+ρ1
+
+0,268 0,151
+
+ρ1σ1 - ρ 0σ0
+
+0,0424 0,0420
+
+Estimations des effets
+
+Effet du traitement sur les traités (Aubry I aidées)
+
+- 0,071 0,051
+
+Effet du traitement sur les nontraités (entreprises à 39 heures)
+
+- 0,144 0,035
+
+Effet moyen du traitement (pour les entreprises Aubry I aidées et à 39 heures)
+
+- 0,122 0,048
+
+1. Se reporter à l’annexe 3.
+
+0,031 0,117 0,566 0,027 0,149 0,030
+- 0,049 0,048
+- 0,413 0,031
+- 0,223 0,018
+
+Lecture : on introduit comme contrôles des équations de PGF la taille de l’entreprise, le secteur, la structure de la main-d’œuvre en 1997 par âge et par qualification, la part des salaires dans la valeur ajoutée en 1997. Ces variables sont introduites dans l’équation de sélection dans le dispositif Aubry I aidées en sus des variables instrumentales. ρ0σ0 (resp. ρ1σ1) est le coefficient du Ratio de Mills dans les équations de PGF des entreprises restées à 39 heures (resp. Aubry I aidées). ρ0 (resp. ρ1) mesure la corrélation entre les résidus de l’équation de PGF et ceux de l’équation de sélection (cf. annexe 3). Les résultats de l’ensemble de la régression sont présentés en annexe 4. Les écart-types sont en italique. Champ : 33 202 entreprises Aubry I aidées et 39 heures de plus de 20 salariés du secteur privé (hors secteurs immobilier et financier). Source : DADS 1997, BRN 1997 et 2000, fichiers de l’Urssaf, Insee.
+
+entreprises pour lesquelles cet effet est le moins pénalisant passent à 35 heures (hétérogénéité de l’effet du traitement).
+L’endogénéité liée à l’hétérogénéité inobservée (endogénéité du premier type) n’est pas validée par les données. Cette endogénéité est testée en examinant la corrélation, contrôlée des caractéristiques observables, entre le résidu de l’équation de la propension à passer à 35 heures et celui de l’équation de l’évolution de la PGF entre 1997 et 2000 pour les entreprises restées à 39 heures (cf. tableau 4 (coefficient ρ0) et annexe 3). Elle n’est pas significativement différente de zéro. Ainsi, à caractéristiques observées similaires, les entreprises qui ont signé un accord Aubry I aidées auraient connu des évolutions de PGF similaires à celles observées pour les entreprises restées à 39 heures s’il n’y avait pas eu de politique de réduction du temps de travail. Il s’ensuit que les estimations de la PGF données plus haut (cf. tableau 2) peuvent effectivement s’interpréter comme des effets de la réduction du temps de travail sur leur PGF.
+En revanche, les conclusions concernant le deuxième type d’endogénéité (hétérogénéité de l’effet du traitement) sont moins évidentes : les entreprises encore à 39 heures fin 2000 n’auraient peut-être pas connu les mêmes gains de PGF que les entreprises Aubry I si elles étaient passées à 35 heures dans ce cadre.
+Ce type d’endogénéité se caractérise par une différence entre les coefficients ρ1 et ρ0, pondérée par les variances respectives des résidus ρ1 et ρ0, significativement différente de zéro. Dans les spécifications retenues, on observe dans tous les cas que le coefficient ρ1σ1 - ρ0σ0 est positif. Les entreprises qui sont passées à 35 heures étaient celles pour lesquelles les baisses de PGF dues à la RTT étaient les plus faibles. Cette différence n’est toutefois pas significative dans tous les cas. Selon la méthode d’estimation, l’existence de cette sorte d’endogénéité est parfois confirmée (cf. tableau 4, colonne 2) et parfois rejetée (cf. tableau 4, colonne 1).
+D’après ces nouveaux estimateurs, la réduction du temps de travail se serait traduite en moyenne, pour les entreprises Aubry I aidées, par des pertes de PGF par tête de 5 à 7 % (cf. tableau 4, effet du traitement sur les traités). Mais ces estimations sont très imprécises et s’avèrent non significativement différentes des estimations par la méthode des appariements ou par MCO. Puisqu’on rejette l’hypothèse de sélectivité sur inobservables (p0 n’étant pas significativement
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+73
+
+différent de 0), l’ordre de grandeur fourni par ces estimations initiales peut être conservé : il correspondrait à des pertes de PGF de 3 à 4 % (cf. tableau 1). Les entreprises Aubry I aidées ont ainsi connu de faibles pertes de PGF par rapport à la baisse de 10 % de leur durée du travail. Selon les mêmes estimateurs, l’application du dispositif de réduction du temps de travail Aubry I aux entreprises encore à 39 heures fin 2000 aurait été en revanche plus préjudiciable à la PGF (cf. tableau 4, effet du traitement sur les non traités). En moyenne, elles auraient en effet perdu entre 14 et 40 % de PGF.
+Un processus plus complexe sur l’emploi
+L’application de cette méthode aux équations d’emploi se heurte à deux difficultés.
+D’une part, la variable instrumentale principale, les aides contrefactuelles Aubry II, n’est plus forcément adéquate pour toutes les entreprises sur lesquelles ces effets sont estimés. En effet, un grand nombre de travaux montrent que le niveau d’emploi dans les entreprises est sensible au coût salarial (28). Ainsi, les aides Aubry II qui affectent le coût du travail des entreprises qui réduisent leur temps de travail ont eu un impact sur les évolutions d’emploi de ces entreprises. Pour ces entreprises, cette variable ne peut plus donc être considérée comme une variable instrumentale (29).
+Elle demeure néanmoins une bonne variable instrumentale pour les entreprises restées à 39 heures. En effet, ces entreprises n’ont pas perçu ces aides : elles n’auraient pu les obtenir que si elles avaient réduit leur temps de travail. Puisque les entreprises restées à 39 heures ne les reçoivent finalement pas, elles n’ont pas de raison d’être corrélées avec leurs propres évolutions d’emploi. Cela permet de tester l’existence du biais d’hétérogénéité inobservée, car seule l’équation d’emploi pour les entreprises restées à 39 heures a besoin d’être estimée pour cela (cf. annexe 3). En revanche, il n’est plus possible de tester l’existence du biais d’hétérogénéité de l’effet du traitement.
+
+entreprises restées à 39 heures, elles ont pu avoir eu un effet indirect sur cet emploi par leur impact sur le Smic : dans les entreprises restées à 39 heures, le Smic horaire a augmenté plus rapidement qu’en l’absence de réduction du temps de travail. (28) (29)
+En effet, le Smic horaire est revalorisé tous les ans en fonction du salaire horaire de base ouvrier (SHBO). Sur la période, celui-ci a particulièrement augmenté car le SHBO est calculé à partir d’un échantillon d’entreprises dont certaines sont passées à 35 heures. Les entreprises qui passent à 35 heures doivent assurer une « garantie mensuelle » à leurs salariés payés au Smic, c’est-à-dire leur verser un salaire mensuel égal à ce qu’ils touchaient quand ils travaillaient 39 heures. La garantie mensuelle contribue donc à augmenter leur salaire horaire, donc le SHBO et donc la valeur du Smic horaire des entreprises restées à 39 heures. L’évolution du Smic des entreprises passées à 35 heures dépend, quant à elle, du salaire mensuel de base ouvrier (SMBO) qui n’a pas connu d’évolution aussi importante sur la période. Les entreprises restées à 39 heures ont donc connu une évolution du Smic plus importante du fait des 35 heures (pour plus de précision voir Desplatz, Jamet, Passeron et Romans (2003)).
+Les entreprises qui sont restées à 39 heures ne sont pas un bon groupe de contrôle puisque leur emploi a été affecté par les lois de réduction du temps de travail : sans loi Aubry, leur évolution d’emploi (cf. schéma 2, droite 4b) aurait été probablement plus forte que celle observée (cf. schéma 2, droite 4).
+L’évaluation des effets sur l’emploi de la politique de réduction du temps de travail sort alors du cadre standard de l’évaluation utilisé pour estimer les effets sur la productivité globale des facteurs. Il s’avère alors nécessaire d’examiner en quoi chacune des étapes de cette évaluation peut être affectée, dans le cas de l’emploi, par le biais d’hétérogénéité du traitement (effet de bouclage).
+La première étape consiste à estimer les équations donnant les évolutions d’emploi des entre-
+
+La RTT a contribué à faire progresser plus rapidement le coût salarial des entreprises restées à 39 heures
+D’autre part, comme on l’a déjà annoncé, il devient impossible de négliger a priori l’effet de bouclage : même si les aides Aubry n’ont, par définition, pas pu affecter l’emploi des
+
+28. Se reporter à Cahuc et Zylberberg (2001) pour une revue de la littérature dans ce domaine. 29. On pourrait toutefois imaginer que le coût salarial n’affecte pas l’emploi, ce qui serait cohérent avec l’hypothèse de partage du travail. Les estimations effectuées sous cette hypothèse montrent alors de très fortes pertes d’emploi, non cohérentes avec les faibles pertes de productivité observées dans la partie précédente. On conclue de cette incohérence que les aides contrefactuelles Aubry II ne sont pas une bonne variable instrumentale pour les équations d’emploi, y compris dans un schéma de partage du travail.
+
+74
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+prises restées à 39 heures. Elle n’est que peu affectée par les problèmes de bouclage : il s’agit surtout de s’assurer que l’ensemble des variables expliquant les évolutions d’emploi figurent bien parmi les variables explicatives. La seconde étape utilise ces équations pour reconstruire les évolutions d’emploi qu’auraient connues les entreprises passées à 35 heures si elles étaient restées à 39 heures. Elle est plus problématique lorsque les variables expliquant les évolutions d’emploi sont affectées par la RTT. Dans ce cas, pour évaluer correctement les effets de cette politique, il faut faire des hypothèses non usuelles sur la manière dont les variables expliquant les évolutions d’emploi du groupe de référence (ou groupe de contrôle) ont été affectées par les lois Aubry.
+On suppose que l’effet des lois Aubry sur l’emploi des entreprises à 39 heures n’est dû qu’à l’augmentation particulière de leur Smic (qui aurait été moins forte si aucune loi de réduction du temps de travail n’avait été adoptée). Celle-ci est prise en compte par l’introduction dans l’équation d’emploi de l’augmentation du coût salarial due à l’accroissement du Smic horaire et à sa diffusion aux salaires proches du Smic (30). Cette augmentation du coût salarial est estimée à partir de l’évolution observée du Smic horaire entre 1997 et 2000 et de la dispersion des salaires propre à chaque entreprise (cf. annexe 2). Il s’agit de l’augmentation minimale en l’absence de toute hausse de salaire propre à l’entreprise. Elle ne dépend que de la revalorisation du Smic (qui a augmenté de 7 % entre 1997 et 2000) et des modifications de cotisations patronales entre 1997 et 2000. Cette variable est introduite de préférence à l’évolution du coût observée car elle n’est pas endogène. En effet, le coût que l’on observe directement peut être affecté par les évo-
+
+Schéma 2 Évolution de l’emploi si toutes les entreprises sont affectées par les lois Aubry
+
+Emploi
+
+Entreprises à 35 heures : 1. Situation observée,
+Entreprises à 39 heures : 4. Situation observée, 4b. Situation si les lois Aubry n'avaient pas existé (sans surcoût lié au Smic).
+
+1
+
+1997
+
+4b 4
+2000
+
+lutions d’emploi décidées par l’entreprise. Ainsi, entre 1997 et 2000, l’évolution du coût salarial induite par les hausses du Smic et les modifications des cotisations patronales est, en moyenne, de 1,6 %. Si le Smic était resté constant (en valeur nominale) et que les cotisations patronales avaient connu les évolutions observées, la hausse du coût salarial n’aurait été que de 1 %. (30)
+Les aides Aubry II potentielles restent pour leur part une variable instrumentale correcte qui n’est pas corrélée à l’emploi des entreprises demeurées à 39 heures (31), ce qui n’aurait pas été le cas si la variable indiquant l’évolution du coût n’avait pas été introduite. L’élasticité de l’emploi au coût du travail ainsi mesurée est de 1,51 et est significativement différente de zéro (cf. tableau 5). L’emploi est donc indirectement affecté par la hausse du Smic, via la hausse du coût du travail. Cette élasticité de l’emploi au coût du travail, cohérente avec les résultats obtenus par CréponDesplatz (2002), est dans la fourchette supérieure des estimations existantes. Par ailleurs, cette estimation montre que, sans réduction du temps de travail, les entreprises Aubry I aidées n’auraient pas connu d’évolutions d’emploi différentes de celles des entreprises restées à 39 heures (32). Les estimations effectuées en première partie sur l’emploi ne sont donc pas biaisées par l’hétérogénéité inobservée. Le différentiel d’emploi estimé de 10 % entre les entreprises restées à 39 heures et celles passées à 35 heures est bien imputable à la politique de RTT. Mais, avant d’interpréter ce différentiel comme le montant des créations nettes d’emploi dû à la RTT, il faut mener des investigations complémentaires.
+La RTT a modérément affecté l’évolution de l’emploi des entreprises restées à 39 heures
+La RTT aurait pu contribuer à limiter la création d’emplois parmi les entreprises restées à 39 heures. Ainsi, la forte hausse du Smic induite
+30. Cet accroissement du coût est reconstruit à partir de la distribution des salaires observée dans la ﬁrme en 1997 (source : DADS, cf. annexe 2). L’effet du Smic dépend notamment de la part de bas salaires dans l’entreprise, son effet est modéré par un effet de diffusion différent selon les entreprises. 31. Les aides Aubry II peuvent mesurer approximativement le nombre de salariés dans l’entreprise rémunérés à un salaire proche du Smic. Ne pas introduire les variables indiquant la déformation de la masse salariale liée à la hausse du Smic aurait pour conséquence d’introduire une corrélation entre les aides Aubry II et la variation d’emploi. Les aides Aubry II ne seraient plus alors une bonne variable instrumentale. 32. ρ0 n’est plus différent de zéro d’après les estimations effectuées à l’aide de la méthode d’Heckman en deux étapes (cf. tableau 5).
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+75
+
+par la RTT n’a eu d’effets négatifs que sur l’emploi des entreprises restées à 39 heures puisque cette hausse n’a pas concerné les entreprises restées à 35 heures.
+Pour donner un ordre de grandeur des effets de la réduction du temps de travail sur les entreprises restées à 39 heures, il faudrait alors connaître l’évolution du Smic sans la mise en œuvre de cette politique. Les coefficients présentés dans le tableau 5 permettraient alors, en reconstituant l’évolution des coûts salariaux dans chaque entreprise induite par une telle évolution du Smic, de simuler les évolutions d’emploi qu’auraient connues les entreprises restées à 39 heures. En appliquant la hausse du coût salarial induite par les seules hausses de cotisation patronale de 1 % (cf. supra), on peut estimer, par différence, l’effet du Smic sur l’emploi à 0,9 % (33).
+Au total, si le différentiel de 10 % d’évolution d’emploi estimé en première partie s’interprète bien comme l’effet pour une entreprise donnée d’avoir réduit son temps de travail plutôt que d’être restée à 39 heures, il ne mesure pas parfaitement l’écart avec l’évolution d’emploi qu’elle aurait connue en l’absence totale des lois Aubry. Compte tenu de ce qui précède, il surestime légèrement l’évolution d’emploi imputable à la RTT.
+
+Tableau 5 Estimation des effets de la RTT sur l’emploi
+
+Méthode Maximum de d’Heckman vraisemblance
+
+ρ0
+Coefﬁcient de l’augmentation du coût salarial induite par l’évolution du Smic dans l’équation d’emploi
+Effet du traitement sur les traités
+
+0,006 0,132
+- 1,509 0,252
+0,097 0,019
+
+- 0,004 0,138
+- 1,510 0,229
+0,101 0,064
+
+Lecture : la sélection des entreprises dans le dispositif Aubry I aidées est binomiale et modélisée par un probit binomial. Les contrôles dans l’équation d’emploi sont la taille de l’entreprise, du secteur, de la composition de la main-d’œuvre de l’entreprise en 1997 en termes de qualification, de sexe, d’âge, de la part de la masse salariale dans la valeur ajoutée en 1997 et l’évolution du coût du travail due à l’accroissement particulier du Smic pour les entreprises restées à 39 heures. Les variables instrumentales sont les aides Aubry II contrefactuelles, le taux d’endettement de l’entreprise, le nombre d’entreprises signataires d’un accord Robien dans le secteur. La construction de la variable décrivant l’évolution du coût salarial à partir de l’évolution du Smic et de la distribution des salaires dans l’entreprise est présentée dans l’annexe 2. Les résultats de l’ensemble de la régression sont présentés en annexe 4. Les écarts-types sont indiqués en italique. Champ : 33 202 entreprises Aubry I aidées et restées à 39 heures de plus de 20 salariés du secteur privé (hors secteurs immobilier et financier). Source : DADS 1997, BRN 1997 et 2000, fichiers de l’Urssaf, Insee.
+
+Partage du travail ou demande de travail « classique » : quel scénario explique les créations d’emplois ? (33)
+Ainsi, les estimations données dans la première partie de cet article ne sont pas affectées par le biais d’hétérogénéité inobservée. C’est pour la PGF que ceci conduit aux résultats les plus robustes, dans la mesure où l’effet de bouclage peut être écarté a priori. Les effets observés peuvent effectivement s’interpréter comme l’effet de la RTT sur la productivité des entreprises ayant réduit leur temps de travail. La seule limite concerne l’extrapolation de cet effet aux entreprises restées à 39 heures : les résultats ne disent rien des effets qu’aurait ou aurait eu la RTT sur la PGF des entreprises n’ayant pas réduit leur temps de travail, qui sont très vraisemblablement différents.
+Dans le cas de l’emploi, l’effet de bouclage limite plus fortement l’interprétation des résultats. Grâce à l’absence de biais d’hétérogénéité inobservée, on peut certes continuer à interpréter l’effet mesuré dans la première partie comme le gain en emploi résultant du choix de passer à 35 heures, plutôt que de rester à 39 heures. Mais cet effet superpose cette fois deux composantes : le gain en emploi lié aux 35 heures proprement dit, et les éventuelles limitations ou pertes d’emploi que l’entreprise aurait connues, si elle était restée à 39 heures, sous l’effet de la hausse du Smic horaire.
+Pour corriger les estimations de cet effet, il serait nécessaire de reconstituer l’évolution qu’aurait eu le Smic sans réduction du temps de travail. L’hypothèse d’un Smic constant en l’absence de réduction du temps de travail permet de déterminer une borne supérieure aux résultats obtenus. On propose dans ce qui suit une interprétation économique aux estimations de la première partie.
+Le scénario de partage du travail est à écarter pour les entreprises Aubry I aidées
+Deux principaux cadres théoriques peuvent expliquer les effets d’une réduction du temps de travail sur l’emploi : le scénario de partage du
+33. Cette estimation est obtenue à l’aide du calcul suivant : (1,6 % - 1 %)*(- 1,51) = 0,9 %. 1,6 % correspond à la hausse du coût du travail induite par les revalorisations du Smic et les hausses de cotisations patronales, 1 % correspond à la hausse du coût du travail induite par les seules hausses de cotisations patronales. - 1,51 est l’élasticité de l’emploi à la hausse du coût salarial.
+
+76
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+travail, et le scénario dit « classique » (Cahuc, d’Autume, 1997) (cf. encadré 4 et introduction). Dans le premier, les entreprises sont contraintes par leur demande et décident de leur demande de travail en fonction de l’objectif de production qu’elles veulent atteindre. Dans ce scénario, une réduction du temps de travail accroît l’emploi, puisque l’entreprise a besoin de plus de salariés pour produire autant. Des gains de productivité horaire limitent cet effet positif sur l’emploi dans la mesure où l’entreprise a alors besoin de moins d’heures pour atteindre le même objectif de production.
+
+Cette interprétation semble, à première vue, à écarter pour les entreprises Aubry I aidées : les créations d’emploi ont été, on l’a vu, très importantes par rapport aux pertes de PGF par tête. On est donc conduit à calculer, les créations d’emploi qu’aurait dû connaître chaque entreprise Aubry I aidée dans un cadre de pur partage du travail, compte-tenu de ses pertes de PGF par tête. Les hypothèses adoptées pour ce calcul supposent une relation entre production et facteur travail purement technologique et non fondée sur un comportement d’optimisation de l’entreprise (34). L’évolution de l’emploi ∆lnL due aux 35 heures est alors liée à la variation de la productivité globale des facteurs ∆ln PGF selon la relation suivante :
+
+∆ ln L
+
+=
+
+–-∆----l--n---P----G-----Fβ
+
+où β est l’élasticité de court terme de la production au travail (cf. encadré 4). Cette élasticité peut être estimée de différentes manières avec les données disponibles. De façon générale, elle est égale à la masse salariale divisée par la valeur ajoutée en 1997. L’inconvénient de cette mesure est qu’elle est sujette à des perturbations : pour un certain nombre d’observations, elle est supérieure à 1. Comme cette variable reflète la technologie de l’entreprise, on retient comme estimation de β la valeur médiane par secteur et par taille d’entreprise du ratio masse salariale sur valeur ajoutée calculé pour chaque entreprise (35).
+
+d’une hypothèse extrême, selon laquelle le Smic n’aurait pas augmenté en l’absence de la RTT. Elle conduit à une augmentation du coût salarial de 1 %, au lieu de 1,6 %. L’autre hypothèse, également extrême, correspond à l’absence d’effet de bouclage. L’évolution réelle qu’aurait dû connaître le Smic en l’absence de RTT se situe entre les deux. (34) (35)
+Avec l’hypothèse d’une absence totale d’évolution du Smic sans RTT, le différentiel d’emploi doit être diminué de l’effet des hausses du Smic sur l’emploi des entreprises restées à 39 heures, soit 0,9 % (36). Dans ce cas extrême, le différentiel ne se monte plus qu’à 9 %, toujours significativement différent des 4,6 % obtenus sous l’hypothèse de partage pur du travail. Même sous cette hypothèse extrême, qui réduit au maximum l’écart d’évolution d’emploi entre entreprises Aubry I aidées et entreprises restées à 39 heures, l’hypothèse de partage pur du travail est rejetée. Le résultat est similaire lorsqu’on examine les entreprises Aubry II. En revanche, les entreprises Aubry II précurseurs semblent s’être trouvées dans un cadre de partage du travail, c’est-à-dire contraintes par leur demande.
+L’estimation précédente est fondée sur l’hypothèse que le différentiel d’évolution du capital productif n’est pas lié à la réduction du temps de travail, alors même qu’il apparaît significatif et positif (+ 4,6 % pour les entreprises Aubry I aidées et + 2,7 % pour les Aubry II). Sans même faire cette hypothèse, le différentiel observé de valeur ajoutée, également positif et significatif, est contradictoire avec l’hypothèse de partage du travail, dans lequel il devrait être nul s’il n’était imputable qu’à la RTT.
+La baisse du coût salarial dans les entreprises Aubry I et Aubry II a plus que compensé la baisse de productivité due aux 35 heures
+Le deuxième cadre théorique pour expliquer les effets de la réduction du temps de travail est le
+
+Avec ces hypothèses, et compte tenu des effets de la réduction du temps de travail sur la productivité globale des facteurs, les entreprises Aubry I aidées auraient dû créer en moyenne seulement 4,6 % d’emplois. Ce chiffre n’est pas directement comparable à l’évolution d’emploi de 9,6 % observée, car il est affecté par les effets de bouclage (cf. tableau 2). Il ne s’agit que
+
+34. Ces hypothèses concernent la fonction de production (une fonction Cobb-Douglas avec un facteur capital qui ne s’ajuste pas à court terme) et l’élasticité de la production au facteur travail. 35. Si on considérait la valeur de β ﬁxée pour l’ensemble de l’économie, les résultats seraient sensibles à cette valeur. En revanche, les résultats ne diffèrent pas qualitativement (en ce qui concerne l’acceptation et le rejet pour les différents tests) lorsqu’on modiﬁe l’estimation de cette valeur, à condition de conserver sufﬁsamment d’hétérogénéité entre les entreprises. 36. Cf. estimation ci-dessus.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+77
+
+cadre de demande de travail classique. Dans ce cadre, les entreprises ne sont pas contraintes par la demande et décident du niveau de leur demande de travail en maximisant leur profit. La réduction du temps de travail ne crée de l’emploi que si les pertes de productivité globale des facteurs par tête sont compensées par une baisse au moins aussi importante du coût du travail par tête (cf. encadré 4).
+En moyenne, les salaires ont progressé de 2,5 % moins vite dans les entreprises Aubry I aidées que dans les entreprises de caractéristiques identiques restées à 39 heures fin 2000. À cette modération salariale s’ajoute l’effet des aides qu’ont reçues ces entreprises. Leur coût salarial par tête a baissé au total de 6 % entre 1997 et 2000 (cf. tableau 2). Les entreprises Aubry I aidées ont connu en moyenne, des pertes de PGF de 3,7 % entre 1997 et 2000. Au total, la perte de productivité est inférieure à la baisse du coût salarial par tête, la différence étant de 2,3 %.
+Là encore, ces estimations ne prennent pas en compte les effets de bouclage. Elles sont effectuées sous l’hypothèse extrême selon laquelle le coût salarial des entreprises restées à 39 heures n’aurait pas été affecté par la réduction du temps de travail. On peut faire l’hypothèse alternative, également extrême, selon laquelle l’évolution du Smic aurait été nulle en l’absence de réduction du temps de travail. Dans ce cas, le différentiel d’évolution du coût du travail entre 35 heures et 39 heures doit être réduit de 1,5 point. Pour les entreprises Aubry I aidées, la perte de productivité globale des facteurs reste inférieure à celle du coût du travail par tête, la différence n’étant plus alors que de 0,8 %, beaucoup moins élevée. Pour les entreprises Aubry II, la différence devient négative (- 0,2 %), non significativement différente de zéro.
+En conclusion, l’effet réel de la réduction du temps de travail sur la différence entre PGF et coût salarial par tête est compris entre 0,8 et 2,3 % : il est donc dans tous les cas positif.
+Dans ce cadre de demande de travail classique, la perte de PGF aurait dû entraîner des pertes d’emploi, mais elle a été plus que compensée par les effets bénéfiques pour l’emploi de la modération salariale et des aides. Au total, la réduction du temps de travail a pu créer des emplois parce qu’y étaient associées des aides et parce qu’elle incitait à une certaine modération salariale.
+Cette interprétation est confirmée par l’étude de De Coninck (2004), qui compare des entreprises
+
+de moins de 20 salariés et de plus de 20 salariés entre 2000 et 2001 à partir de l’enquête Emploi par une méthode dite de « regression discontinuity » (37). Entre ces deux dates, l’horaire légal du travail passe de 39 à 35 heures pour les entreprises de plus de 20 salariés. Celles-ci sont obligées de réduire leur durée de travail, éventuellement dans le cadre d’un accord, ou d’augmenter leurs coûts salariaux, en payant sous forme d’heures supplémentaires les quatre heures excédant la durée légale après la réforme. L’auteur montre que l’emploi augmente moins vite dans les entreprises d’une taille légèrement supérieure à 20 salariés (c’est-à-dire dans le champ d’application des lois Aubry) que dans celles qui ont un peu moins de 20 salariés (c’està-dire hors du champ d’application des lois Aubry). Dans la mesure où la plupart des entreprises de taille proche de 20 salariés sont restées à 39 heures (cf. tableau 3) (38), on peut interpréter cette évolution d’emploi à l’aune de l’augmentation du coût du travail induit par la transformation des heures au-delà des 35 heures en heures supplémentaires que les entreprises de moins de 20 salariés n’ont pas connue. Cette étude confirme le rôle central du coût du travail dans les évolutions d’emploi observées.
+On peut néanmoins s’interroger sur l’ampleur des effets mis en évidence dans cet article. Dans l’hypothèse où les effets de bouclage n’ont pas été importants, la baisse relative du coût du travail par rapport à la PGF est de 2,3 %, pour des hausses de l’emploi de 9,9 %, soit une élasticité de la demande de travail à son coût de l’ordre de 4 à 5 (39). Cette élasticité est cohérente avec le mécanisme d’ajustement de l’emploi à la variation de PGF proposé en encadré 4, c’est-à-dire dans un cadre classique sans coût d’ajustement (40). Mais elle est très supérieure aux estimations de l’élasticité de la demande de travail à son coût fournies jusqu’ici par la littérature.
+Peut-être serait-il possible d’expliquer l’ampleur de cette réaction en tenant compte d’effets d’interaction entre la réduction des coûts unitai-
+37. Cette méthode exploite les effets de seuil. Son inconvénient est qu’elle est locale et que son extrapolation à un effet global n’est pas immédiate. Elle contourne cependant certains biais d’hétérogénéité inobservée évoqués ci-dessus. 38. Dans le stade actuel de l’étude, ne sachant pas quelles entreprises ont signé un accord de réduction du temps de travail, l’auteur attribue à la RTT les évolutions obtenues. On en fait ici une interprétation un peu différente. 39. Si des effets de bouclage existaient, l’élasticité de l’emploi au coût serait encore plus importante. 40. Cette estimation de l’élasticité est obtenue en reprenant le coefﬁcient correspondant à l’effet d’une variation du coût salarial sur la variation d’emploi dans le cadre classique. Il est égal à 1/(1-β), où β a une valeur comprise entre 0,7 et 0,8.
+
+78
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+res et la conjoncture générale de la période. Les entreprises Aubry I, grâce à l’évolution favorable de leur coût relatif, auraient été beaucoup plus aptes à tirer parti de la conjoncture porteuse de la fin des années 1990 : elles en auraient profité pour accroître leurs parts de marché au détriment des autres entreprises. Mais il ne s’agit que d’une hypothèse.
+Au terme de cette analyse, il reste encore difficile de parvenir à une explication à la fois complète et simple des différentiels d’évolution
+
+d’emploi des entreprises Aubry I et des entre-
+
+prises restées à 39 heures, même restreinte à la
+
+seule période 1997-2000. Il est a fortiori diffi-
+
+cile d’effectuer une analyse complète des effets
+
+à moyen et long terme de la RTT. Les dévelop-
+
+pements méthodologiques proposés peuvent
+
+contribuer à cette expertise : ils poussent cepen-
+
+dant les méthodes d’évaluation sur données
+
+micro-économiques en leurs limites extrêmes.
+
+Aussi ne faut-il pas en attendre davantage qu’un
+
+éclairage partiel.
+
+■
+
+BIBLIOGRAPHIE
+
+Brodaty T., Crépon B. et Fougère D. (2002), « Les méthodes micro-économétriques d’évaluation : développements récents et applications aux politiques actives de l’emploi », à paraître dans Économie et Prévision.
+Bunel M. (2005), « Les déterminants des embauches des établissements à 35 heures : aides incitatives, effets de sélection et modalités de mise en œuvre », Économie et Statistique, dans ce numéro.
+Bunel M. et Jugnot S. (2003), « 35 heures : évaluation de l’effet emploi. », Revue Économique, vol. 54, n˚ 3, pp. 595-606.
+Cahuc P. et d’Autume A. (1997), « Réduction du temps de travail et emploi : une synthèse », in La réduction du temps de travail : une solution pour l’emploi ?, Économica.
+Carré J.-J., Dubois P. et Malinvaud E. (1972), La Croissance française, Éditions du Seuil.
+Cette G., Dromel N. et Méda D. (2003), « Les déterminants du jugement des salariés sur la RTT », Document d’études de la Dares, n˚ 77.
+CGP (2001), Réduction du temps de travail : les enseignements de l’observation, Rapport de la commission présidée par Henri Rouilleault, La documentation Française.
+Craine R. (1973), « On the Service Flow from Labour », Review of Economics Studies; vol. 40, n˚ 11, pp. 39-46.
+De Coninck R. (2004), « A Regression Discontinuity Analysis of the 35-hour Workweek in France », mimeo, Department of Economics, Chicago University.
+
+Desplatz R, Jamet S., Passeron V. et Romans F. (2003), « La modération salariale en France depuis le début des années 1980 », Économie et Statistique, n˚ 367, pp. 39-52.
+Feldstein M. (1967), « Specification of the Labor Input in the Aggregate Production Function », Review of Economic Studies, n˚ 34, pp. 375-386.
+Fiole M., Passeron V. et Roger M. (2000), « Premières évaluations quantitatives des réductions collectives du temps de travail », Document d’études de la Dares, n˚ 35.
+Fiole M. et Roger M. (2002), « Les effets sur l’emploi de la loi du 11 juin 1996 sur la réduction du temps de travail : une analyse microéconométrique » Économie et Statistique, n˚ 357-358, pp. 3-22.
+Gianella C. et Lagarde P. (1999), « Productivity of Hours in The French Manufacturing Sector », Document de travail, n˚ G9918, Insee.
+Griliches Z. et Mairesse J. (1997), « Production Functions: The Search for Identification », Working Paper, Crest-Insee, n˚ 9730.
+Hart R.A. et Mc Gregor P.G. (1988), « The Returns to Labor Services in West Germany », European Economic Review, n˚ 32, pp. 947-963.
+Jugnot S. (2002), « Combien d’emplois créés par la réduction du temps de travail ? », La société française, Données Sociales 2002-2003, pp. 255262.
+Wise L. (1980), « The Productivity of Hours in UK Manufacturing and Production Industry », Economic Journal, vol. 90, n˚ 357, pp. 74-81.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+79
+
+ANNEXE 1
+
+L’IDENTIFICATION DES ENTREPRISES PASSÉES À 35 HEURES
+
+Les sources d’information
+Pour identifier les établissements passés à 35 heures, on dispose d’un ensemble de sources dont aucune n’est exhaustive et qui ne sont pas toujours cohérentes entre elles. Il est donc nécessaire de les confronter et de choisir, en cas d’incohérence, celle qui paraît la plus fiable. Les sources sont présentées selon un ordre de fiabilité décroissant.
+Le fichier des aides structurelles
+La loi Aubry II accorde l’allègement de cotisations sociales à tout établissement ayant signé un accord majoritaire de réduction du temps de travail et en faisant la demande auprès de l’Urssaf. Ces demandes, faites au niveau départemental, sont par la suite centralisées à la Dares.
+Ce fichier contient donc les établissements Robien et les établissements Aubry I aidés, auxquels on accorde les aides structurelles Aubry II en sus des aides incitatives prévues par les précédentes lois sur la réduction du temps de travail. À ces établissements s’ajoutent les établissements communément appelés Aubry I non-aidées ou Aubry II anticipés : ils ont réduit leur temps de travail avant janvier 2000 mais n’ont pas demandé les aides Aubry I, pour ne pas être contraints, dans le nombre d’emplois créés ou préservés, par exemple. Enfin, on trouve dans ce fichier les établissements Aubry II, passés aux 35 heures après janvier 2000 et ne pouvant à ce titre bénéficier que de l’aide structurelle prévue par la loi Aubry II.
+Ce fichier devrait recenser l’ensemble des établissements passés à 35 heures, mais ce n’est pas le cas pour deux raisons. La première vient d’une remontée différée de l’information des départements jusqu’à la Dares. À une date donnée, on n’a qu’une vision imparfaite des accords signés. La deuxième provient de la législation qui impose aux établissements de signer un accord majoritaire pour recevoir ces aides et apparaître ainsi dans le fichier. Certains établissements peuvent trouver cette contrainte trop importante et s’y refuser.
+D’autres sources que le suivi statistique des déclarations en vue du bénéfice de l’allégement de cotisations sociales doivent donc être utilisées pour identifier les établissements passés aux 35 heures. La Dares a déjà repéré certains établissements à l’aide de la base destin 1999 et 2000 et de la base DGEFP (Délégation Générale à l’Emploi et à la Formation Professionnelle).
+Par ailleurs, la Dares a fourni le suivi des conventions de réduction collective de la durée du travail, Robien et Aubry I.
+Le suivi des conventions Robien et Aubry I
+Les accords Robien et Aubry donnaient lieu, pour obtenir les aides incitatives à la réduction du temps de travail, à des conventions entre l’État et l’établissement signataire. Ces conventions signées au niveau régional étaient ensuite centralisées à la Dares et ont permis à celle-ci de
+
+constituer des fichiers des établissements Robien et Aubry I, contenant un certain nombre de renseignements sur les modalités de passage aux 35 heures.
+Même si selon la loi c’est l’établissement qui décide de passer aux 35 heures, les conventions signées avec l’État pouvait l’être au niveau de l’entreprise ou du groupe. Grâce aux enquêtes Lifi (Liaisons financières), on peut retrouver l’ensemble des établissements d’un groupe passé aux 35 heures.
+Les changements d’horaires renseignés dans les DADS
+Enfin, on peut prendre en compte les horaires déclarés dans les DADS pour identifier les entreprises passées à 35 heures. On déclare qu’une entreprise a réduit son temps de travail si entre 1997 à 2000 elle a réduit sa durée hebdomadaire de travail (y compris heures supplémentaires) de 8 % et si, en 2000, ses salariés travaillent, en moyenne, moins de 37 heures.
+Identifier une entreprise plutôt qu’un établissement
+Le passage aux 35 heures se fait juridiquement au niveau de l’établissement, mais les performances économiques se mesurent au niveau de l’entreprise. Pour évaluer l’effet des lois Aubry sur ces performances, il faut définir des entreprises passées à 35 heures. Le passage de l’établissement à l’entreprise se fait souvent sans difficulté, car les négociations ont fréquemment eu lieu au niveau de l’entreprise, et l’ensemble des établissements d’une entreprise sont passés au même moment dans le même cadre. Lorsque ce n’est pas le cas, on considère qu’une entreprise a réduit son temps de travail si plus de 50 % de ses salariés sont passés aux 35 heures.
+La structure par type d’accord des entreprises appartenant au champ de l’étude ne diffère pas considérablement de celle constatée dans le cas des entreprises de plus de 20 salariés (cf. tableau infra).
+Accès aux données
+La plupart des données utilisées dans cette étude sont d’une façon ou d’une autre, accessibles aux chercheurs souhaitant effectuer une analyse du même ordre.
+Les fichiers décrivant les accords passés par les entreprises peuvent être obtenus en demandant l’autorisation auprès du ministère du Travail.
+Les informations de bilan des entreprises peuvent être obtenues à partir des enquêtes annuelles d’entreprises. L’accès à ces données est possible après passage devant le Comité du secret (1).
+1. Le dossier peut être retiré auprès de la division Environnement juridique de la statistique de l’Insee, qui assure le secrétariat du comité du Secret.
+
+80
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+Les seules informations exploitées exclusivement à l’Insee et pour lesquelles l’accès est restreint sont les DADS (Déclarations Annuelles de Données Sociales). Celles-ci sont utilisées pour l’estimation des aides contrefactuelles Aubry II et pour le calcul des variations de coût relatives à la hausse du Smic.
+
+Les graphiques ci-contre illustrent le passage progressif de la plupart des entreprises à 35 heures entre juin 1998 et décembre 2001. Le champ de l’étude est décrit précisément en note du tableau ci-dessous.
+
+Répartition des entreprises de plus de 20 salariés et dans champ de l’étude en fonction de l’accord de réduction du temps de travail ﬁn 2000
+
+Type d’accord
+
+Robien
+
+Passées à 35 heures avant juillet 1998 Reçoivent les aides Robien
+
+Passées entre juillet 1998 et décembre 1999
+
+Aubry I aidées offensif
+
+Réduction effective du temps de travail de 10 %
+Obligation de création d’emplois
+
+Aides incitatives
+
+Aubry I non aidées
+
+Passées entre juillet 1998 et décembre 1999 Redéﬁnition éventuelle du temps de travail Pas d’aides, ni d’obligations
+
+Passées depuis janvier 2000
+
+Aubry II
+
+Redéﬁnition éventuelle du temps de travail Aides structurelles
+
+Aubry II + aides incitatives
+
+Entreprises constituées à partir d’établissements de moins de 50 salariés ou dont les effectifs ont fortement diminué depuis 1997
+
+Aides structurelles
+
+Entreprises passées à 35 heures sans que l’on soit capable d’identiﬁer le cadre de réduction du temps de travail.
+
+Inéligibles Entreprises inéligibles aux aides
+
+Passées entre juillet 1998 et décembre 1999
+
+Aubry I
+
+Réduction effective du temps de travail de
+
+aidées volet 10 %
+
+défensif
+
+Obligation de préserver des emplois
+
+Aides incitatives
+
+Non RTT Pas encore passées aux 35 heures ﬁn 2000
+
+Entreprises de plus de 20 salariés
+
+En nombre d’entreprises
+
+%
+
+En nombre de salariés
+
+%
+
+Champ de l’étude
+
+En nombre d’entreprises
+
+%
+
+En nombre de salariés
+
+1 689
+
+2,14 599 333 6,65
+
+13 503
+
+17,07 1 876 295 20,82
+
+11 594 20,93 1 620 836
+
+2 691
+
+3,4 919 537 10,2
+
+2 347
+
+4,24 847 317
+
+10 167
+
+12,85 1 440 635 15,98
+
+8 907 16,08 1 206 372
+
+352
+
+0,44
+
+9695 0,11
+
+6 589 2 022
+
+8,33 649 974 7,21
+
+2,56 328 443
+
+3,64
+
+5 699 10,29 570 748
+
+767
+
+0,97 119 851 1,33
+
+41 330
+
+52,24 3 068 783 34,05
+
+26 846 48,46 1 540 630
+
+% 28,01 14,64 20,85
+9,86
+26,63
+
+Lecture : ﬁn 2000, 1 689 entreprises avaient réduit leur temps de travail dans le cadre de la loi Robien. Ces entreprises correspondent à 2,14 % des entreprises de plus de 20 salariés. Ces entreprises employaient en 1997 600 000 salariés, correspondant à 6,7 % des employés du champ des entreprises de plus de 20 salariés. Parmi les entreprises sélectionnées pour l’étude, 11 594 ont signé un accord Aubry I offensif, elles correspondent à 20,9 % de l’ensemble des entreprises du champ. En nombre de salariés, elles en employaient 1,6 millions en 1997, soit 28 % du champ considéré. Champ : entreprises de plus de 20 salariés, dans le secteur marchand (hors secteurs ﬁnancier et immobilier), actives en 1997 et 2000 (dont la production, la valeur ajoutée, les effectifs et le capital productif sont positifs les deux années). Ne sont également incluses dans ce champ que les entreprises dont les principales variables d’intérêt (évolution du log de la valeur ajoutée, des immobilisations productives, des effectifs, du coût, de la PGF) ont un écart absolu à leur valeur médiane inférieur à cinq fois l’écart interquartile (contrôle de valeurs extrêmes). Source : DADS 1997, BRN 1997 et 2000, ﬁchiers de l’Urssaf, Insee.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+81
+
+Mise en place de la réduction du temps de travail dans les entreprises du champ retenu Part des entreprises ayant signé un accord de réduction du temps de travail
+A - Par rapport au nombre total d’entreprises En %
+100 90 80 70 60 50 40 30 20 10 0
+
+08/1998 10/1998 12/1998 02/1999 04/1999 06/1999 08/1999 10/1999 12/1999 02/2000 04/2000 06/2000 08/2000 10/2000 12/2000 02/2001 04/2001 06/2001
+
+Aubry I
+B - Par rapport au nombre total de salariés En %
+100 90 80 70 60 50 40 30 20 10 0
+
+Aubry II précurseurs
+
+Aubry II
+
+08/1998 10/1998 12/1998 02/1999 04/1999 06/1999 08/1999 10/1999 12/1999 02/2000 04/2000 06/2000 08/2000 10/2000 12/2000 02/2001 04/2001 06/2001
+
+Aubry I
+
+Aubry II précurseurs
+
+Aubry II
+
+Lecture : en décembre 2001, sur les 48 572 entreprises identifiées comme ayant signé un accord de réduction du temps de travail ou toujours à 39 heures à cette date, seules 45 % étaient passées à 35 heures, 22 % dans le cadre Aubry I aidé, 5 % dans le cadre Aubry II précurseur et 18 % dans le cadre Aubry II. Pondérées par leur effectif en 1997, ces poids sont très différents. En décembre 2001, les entreprises du champ de l’étude toujours à 39 heures ne représentent plus que 30 % des salariés de ces entreprises, contre 31 % pour les entreprises Aubry I aidées, 16 % pour les entreprises Aubry II précurseurs et 23 % pour les entreprises Aubry II. Champ : entreprises de plus de 20 salariés, dans le secteur marchand (hors secteurs financier et immobilier), actives en 1997 et 2000 (dont la production, la valeur ajoutée, les effectifs et le capital productif sont positifs les deux années). Ne sont également incluses dans ce champ que les entreprises dont les principales variables d’intérêt (évolution du log de la valeur ajoutée, des immobilisations productives, des effectifs, du coût, de la PGF) ont un écart absolu à leur valeur médiane inférieur à cinq fois l’écart interquartile (contrôle de valeurs extrêmes). Source : BRN 1997, 2000 et fichiers de l’Urssaf.
+
+82
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+ANNEXE 2 CONSTRUCTION DES VARIABLES INSTRUMENTALES ET DE CONTRÔLE
+
+Les aides contrefactuelles Aubry II
+Les aides Aubry II sont des aides pour une part forfaitaire et pour une part fonction dégressive de la rémunération mensuelle du salarié (1). Connaissant la rémunération de tous les salariés de l’entreprise, on peut donc calculer de manière certaine les aides que l’entreprise pourrait recevoir si elle réduisait son temps de travail. Ces rémunérations sont connues en 1997 grâce aux DADS. Il est donc possible de calculer la valeur moyenne par salarié des aides que l’entreprise toucherait si elle passait à 35 heures et en faisant l’hypothèse qu’elle ne modifie pas trop sa structure salariale en même temps qu’elle réduit son temps de travail.
+Ce montant moyen des aides par salarié varie d’une entreprise à une autre selon l’importance des salariés rémunérés moins de 1,8 Smic mais son effet peut être identifié indépendamment de la part des salariés rémunérés en dessous de 1,8 Smic.
+Reconstruire les évolutions de coût salarial à partir du seul Smic
+On construit deux variables retraçant l’évolution du coût salarial de l’entreprise due à l’augmentation du Smic, pour la première variable lorsque l’entreprise passe à 35 heures, pour la deuxième variable lorsqu’elle reste à 39 heures.
+Les Smic appliqués aux entreprises sont en effet différents selon qu’elles ont réduit leur temps de travail ou non et selon la date à laquelle elles sont passées à 35 heures. Connaissant le nombre de salariés au Smic en 1997, on peut reconstruire pour chaque entreprise l’évolution de son coût du travail liée aux évolutions des Smic entre 1997 et 2000, lorsqu’elle réduit son temps de travail avant juin 1999 ou lorsqu’elle reste à 39 heures. En dehors d’une évolution différente du coût pour les salariés au Smic, ce calcul prend en compte d’éventuels effets de diffusion. Le renchérissement du Smic mensuel s’accompagne probablement également d’une augmentation des salaires proches du Smic (on suppose qu’il y a des effets de diffusion jusqu’à 1,5 Smic (2)). Enfin, l’évolution du coût salarial des entreprises passées à 35 heures est supposée affectée par les allégements de charges qu’elle reçoit.
+L’algorithme de reconstruction du coût salarial à partir du Smic observé (programme SAS) est disponible sur demande auprès des auteurs. Son principe est le suivant : à partir du salaire d’un employé de l’entreprise, on reconstruit son évolution en fonction du choc postulé
+
+sur le Smic. Pour les entreprises restées à 39 heures, on considère que ce choc correspond à l’évolution nominale du Smic sur la période 1997-2000. Si le salaire considéré est proche du Smic, son évolution va refléter celle du Smic. Si le salaire est supérieur à 1,5 Smic, son évolution est nulle. À partir de cette évolution brute, on reconstitue le coût salarial en appliquant les taux de cotisation légaux correspondant à l’année considérée et en tenant compte des abaissements, ristournes Juppé pour les entreprises restées à 39 heures, Aides Aubry I et II pour les entreprises passées à 35 heures. On a ainsi reconstitué, pour chaque salarié de l’entreprise, un coût individuel contrefactuel dépendant de l’évolution du Smic, de l’évolution des taux de cotisations patronales, des abaissements et de la propre position de son salaire initial par rapport au Smic de 1997. La variation de coût introduite dans la régression d’emploi est alors la moyenne de la différence entre le coût reconstruit et le coût observé en 1997. (1)
+La part des entreprises Robien
+La proportion d’entreprises passées à 35 heures dans le secteur fin d’activité est introduite comme une variable instrumentale supplémentaire. Celle-ci reflète l’incitation qu’à l’entreprise à passer, elle aussi, à 35 heures, dans la mesure où un certain nombre d’entreprises appartenant au même secteur (concurrents éventuels) ont déjà réduit leur temps de travail. (2)
+Le taux d’endettement
+Le taux d’endettement (endettement/capital productif) est introduit sous la forme d’une indicatrice indiquant s’il est en 1997 plus grand que 50 %.
+1. Les aides Aubry II (les aides pérennes forfaitaires + les allégements de charges) se calculent pour un salarié en fonction de sa rémunération mensuelle, comme suit : • pour une rémunération mensuelle entre 6 881,68 F et 11 899,57 F : [(41 500 F × 6 881,68 F/rémunération mensuelle) – 20 000 F]. • pour une rémunération mensuelle supérieure à 11 899,57 : 4 000 F. 2. On suppose que les salaires supérieurs au Smic et inférieurs à 1,5 Smic augmentent en même temps que le Smic mais d’autant moins qu’ils sont éloignés du Smic. Plus exactement, une augmentation de x % du Smic se traduit pour un salarié rémunéré à un salaire, w, inférieur à 1,5 Smic par une croissance de
+x.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+83
+
+ANNEXE 3 MISE EN ŒUVRE DE L’ÉVALUATION DANS LE CAS DE SÉLECTION SUR INOBSERVABLES
+
+Dans le cadre des méthodes d’évaluation des politiques publiques à partir de données microéconomiques, deux paramètres sont particulièrement étudiés : l’effet du traitement sur les traités (1) (ETT) et l’effet du traitement sur les non traités (ETNT). On donne dans ce qui suit le formalisme adopté pour ces deux effets, la manière de les estimer quand des caractéristiques inobservables expliquent le choix pour une entreprise de « se soumettre au traitement », et enfin, les tests effectués pour montrer l’existence des trois biais susceptibles de fausser l’estimation de l’effet de la politique économique.
+L’effet du traitement sur les traités et sur les non-traités
+On appelle Y0i la situation que connaît l’entreprise i si elle n’est pas traitée, c’est-à-dire si Ti = 0 (si elle est restée à 39 heures). On appelle Y1i la situation que connaît la même entreprise i si elle est traitée, c’est-à-dire si Ti = 1 (si elle a signé un accord Aubry I aidées). L’effet de la politique de réduction du temps de travail pour l’entreprise i sur une variable Y est l’écart entre ces deux situations Y1i – Y0i. Il est impossible de le calculer directement puisque on ne peut pas observer conjointement pour une même entreprise la situation qu’elle aurait connue si elle avait été traitée et celle qu’elle aurait connue si elle n’avait pas été traitée.
+Pour évaluer l’effet d’une politique économique, deux paramètres d’intérêt peuvent être utilisés. L’un mesure quel a été l’effet moyen de la réduction du temps de travail sur les entreprises effectivement passées à 35 heures : c’est l’effet du traitement sur les traités que l’on note ETT = E(Y1i – Y0i/Ti = 1). L’autre permet de savoir ce que serait l’effet de cette politique si elle était appliquée à l’ensemble de la population (aux entreprises effectivement passées à 35 heures aussi bien qu’à celles restées à 39 heures) : c’est l’effet moyen du traitement, EMT = E(Y1i – Y0i), plus difficile à mesurer puisque c’est un effet extrapolé. On a en effet besoin pour mesurer cet effet de connaître l’effet de la politique économique sur les entreprises qui ont décidé de ne pas être traitées, l’effet du traitement sur les non-traités ETNT = E(Y1i – Y0i/Ti = 0).
+Pour estimer ces paramètres, on reconstruit la situation contrefactuelle de l’entreprise, celle qui n’est pas observée (c’est-à-dire Y0i pour les entreprises non traitées, Y1i pour les entreprises traitées), à partir de la situation observée pour les entreprises de l’autre groupe. Mais pour cela, il faut prendre en compte le fait qu’en moyenne les groupes des entreprises traitées et non traitées peuvent être différents : à cet effet, on considère l’évolution avant et après traitement de la variable Y et on prend en compte un certain nombre de caractéristiques X. Ces caractéristiques peuvent être insuffisantes pour mesurer sans biais les différents effets. On utilise alors des méthodes qui corrigent de la sélection sur inobservables.
+Elles permettent d’estimer les effets du traitement quand des caractéristiques inobservables expliquent le choix pour une entreprise de « se soumettre au traitement », c’est-à-dire d’entrer dans le dispositif de RTT.
+
+Modéliser la décision de réduire son temps de travail
+Dans un premier temps, on modélise la décision des entreprises de signer un accord Aubry I aidées plutôt que d’être resté à 39 heures fin 2000 par un probit binomial. On explique le choix de l’entreprise de réduire son temps de travail dans un cadre Aubry I aidé à l’aide de variables Z (les variables explicatives X, plus les variables instrumentales ou variables d’exclusion) qui permettent de mesurer l’intérêt qu’a l’entreprise à réduire son temps de travail. Cet intérêt est mesuré par la variable latente T*. On observe que l’entreprise a choisi le traitement T = 1, c’est-à-dire a réduit son temps de travail dans le cadre Aubry I, pourvu que T* respecte les conditions suivantes : (1)
+
+C39 est une constante qui détermine le palier au-delà duquel la réduction du temps de travail devient avanta-
+geuse pour l’entreprise.
+
+Modéliser les équations d’emploi et de productivité globale des facteurs
+
+On estime ensuite une équation d’emploi ou de PGF pour chaque groupe d’entreprises traitées (T = 1) ou non traitées (T = 0). On explique leurs évolutions par les variables X et par un aléa u.
+
+Si T = 1, on observe
+
+(1)
+
+Si T = 0, on observe
+
+(2)
+
+Pour estimer correctement les paramètres a, b, on doit
+prendre en compte la corrélation entre les résidus u et v,
+c’est-à-dire entre les évolutions d’emploi ou de PGF et
+les décisions de réduire son temps de travail. Pour cela,
+on spécifie la loi jointe des résidus u1, u0, v en choisissant par exemple une loi normale où ρk mesure la corrélation entre le résidu v et le résidu uk et σk l’écart-type du résidu uk.
+
+Méthode d’Heckman et maximum de vraisemblance
+Ce modèle peut alors être estimé de deux façons : par la méthode d’Heckman en deux étapes ou par maximum de vraisemblance.
+La méthode d’Heckman en deux étapes repose sur l’écriture suivante de l’espérance de l’évolution de la variable d’intérêt conditionnelle au traitement :
+
+1. Dans l’évaluation des politiques économiques, on utilise les termes traités et traitement par analogie avec le domaine médical où l’on cherche à évaluer l’efﬁcacité d’un médicament ou d’un traitement.
+
+84
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+L’introduction de l’inverse du ratio de Mills,
+, comme variable explicative
+dans l’équation ∆Y1, supprime le biais de sélection sur inobservables. φ mesure la densité de la loi normale et Φ la fonction de répartition de la loi normale.
+
+De la même manière pour estimer correctement les paramètres a0 et b0, on introduit l’inverse du ratio de
+
+Mills,
+
+dans l’équation
+
+d’emploi ou de PGF estimée pour les entreprises restées à 39 heures.
+
+L’estimation par le maximum de vraisemblance requiert l’écriture explicite de la log-vraisemblance. Selon que l’entreprise est passée ou non à 35 heures, elle s’écrit de la façon suivante. Si l’entreprise choisit le traitement T = 1, alors sa contribution à la log-vraisemblance est
+
+Si elle choisit le traitement T = 0, sa contribution s’écrit :
+
+de l’existence du biais d’hétérogénéité du traitement et non comme preuves absolues.
+Calcul de l’effet du traitement sur les traités et sur les non-traités L’effet du traitement sur les traités que l’on note ETT = E(∆Y1 – ∆Y0i/T = 1, X, Z) peut alors être estimé par :
+Seule l’estimation de l’équation (2) sur les entreprises restées à 39 heures est nécessaire pour mesurer correctement ETT. En revanche, pour mesurer l’effet du traitement sur les non-traités, l’estimation doit être faite sur les entreprises passées à 35 heures (équation 1) et restées à 39 heures (équation 2) et les deux coefficients ρ1σ1, ρ0σ0 doivent être correctement estimés. L’effet du traitement Aubry I pour les entreprises encore à 39 heures ETNT = E(∆Y1 – ∆Y0i/X, Z) est mesuré par :
+
+Si bien que la log-vraisemblance totale s’écrit :
+Celle-ci est programmée et maximisée à l’aide de la PROC IML de Sas (les programmes sont disponibles sur demande auprès des auteurs).
+Ces méthodes se différencient par la robustesse et la précision de leurs résultats : l’estimation par la méthode d’Heckman est robuste à la spécification de la loi mais peu précise, l’estimation par maximum de vraisemblance est moins robuste mais plus précise. Les résultats présentés dans le tableau 4 montrent une certaine divergence des estimations entre les deux méthodes, notamment pour le paramètre ρ1. La méthode d’Heckman a été mise en oeuvre dans un premier temps. Les résultats étant imprécis et la valeur du paramètre d’intérêt élevée, on a eu recours à l’estimation par le maximum de vraisemblance. Les résultats aboutissent à une meilleure précision mais une valeur du paramètre d’intérêt nettement plus élevée. Deux raisons peuvent expliquer cette différence. D’un côté la méthode d’Heckman repose moins sur l’hypothèse de normalité que le maximum de vraisemblance qui est une méthode complètement paramétrique. Ainsi, la remise en cause de cette hypothèse affecte plus les estimations effectuées avec la seconde méthode. D’un autre côté, si la méthode d’Heckman est adaptée pour les paramètres du premier ordre (effet direct de telle ou telle variable), elle est moins performante pour les paramètres du second ordre (corrélations et variance), ce qu’est le paramètre d’intérêt. Au final, il faut considérer ces deux résultats comme indices
+
+Test de la présence des trois biais
+Un estimateur naïf et intuitif des effets d’une politique économique est la comparaison de la situation moyenne, en termes d’emploi ou de PGF, des entreprises qui sont effectivement passées à 35 heures et de celles qui sont restées à 39 heures. Trois biais peuvent affecter cet estimateur naïf. À l’aide de la méthode présentée ci-dessus, on peut tester l’existence de ces trois biais.
+Hétérogénéité des caractéristiques des entreprises
+Si les caractéristiques des entreprises passées à 35 heures et de celles restées à 39 heures sont hétérogènes, il est probable que, même sans réduction du temps de travail, les entreprises signataires d’accords Aubry I aidées n’auraient pas connu les mêmes évolutions d’emploi et de productivité globale des facteurs que celles observées pour les entreprises restées à 39 heures.
+Il peut y avoir hétérogénéité des caractéristiques des entreprises passées ou non à 35 heures pour deux raisons. Premièrement, en moyenne, les caractéristiques observables des entreprises passées à 35 heures sont différentes de celles restées à 39 heures ( X0 ≠ X1 ). Deuxièmement, en moyenne, les caractéristiques inobservables sont différentes selon que l’entreprise est passée ou non à 35 heures (E(u0i/T = 1) ≠ E(u0i/T = 0)).
+Si ρ0σ0 n’est pas nul, alors les entreprises passées à 35 heures n’auraient pas connu, à cause de caractéristiques inobservées, les mêmes évolutions de PGF ou
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+85
+
+d’emploi que les entreprises restées à 39 heures s’il n’y avait pas eu de politique de réduction du temps de travail : il y a hétérogénéité des caractéristiques inobservables des entreprises et la prise en compte de la sélection sur inobservables est nécessaire pour mesurer correctement l’effet du traitement sur les traités.
+Si ρ0σ0 est nul, au contraire, les méthodes par appariement ou par Moindres Carrés Ordinaires suffisent pour estimer l’effet du traitement sur les traités.
+Hétérogénéité de l’effet du traitement
+L’effet du traitement est hétérogène si les entreprises restées à 39 heures en réduisant leur temps de travail ne connaissaient pas un effet du traitement similaire à celui observé pour les entreprises qui sont déjà passées à 35 heures.
+Il peut y avoir hétérogénéité de l’effet du traitement pour deux raisons. D’une part, les rendements des caractéristiques observables sont différents selon que l’entreprise est passée ou non à 35 heures (b1 ≠ b0). D’autre part, les rendements des variables inobservables sont eux aussi différents entre les deux populations ((ρ1σ1 – ρ0σ0) ≠ 0). Si l’existence d’aucune de ces hétérogénéités n’est avérée, alors l’effet du traitement sur les traités est égal à l’effet moyen du traitement.
+Effets de bouclage du Smic
+Les effets de bouclage dus aux lois Aubry sont probablement multiples. Le seul que l’on cherche à mettre en évidence est le suivant : une part de l’augmentation du Smic horaire entre 1997 et 2000 est imputable à la mon-
+
+tée en charge des dispositifs Aubry. Ce Smic horaire n’était appliqué qu’aux entreprises restées à 39 heures et a pu affecter leurs évolutions d’emploi.
+On connaît pour chaque entreprise l’effet de la hausse du Smic sur son coût salarial (on peut le recalculer à partir de la structure de sa masse salariale en 1997). Par ailleurs, cet effet est hétérogène entre les entreprises (cela dépend de leur recours à des salariés payés au Smic ou à un salaire proche du Smic). On peut essayer de mesurer l’effet (c) de cette hausse du coût (∆cout) sur l’emploi :
+
+Si c est significativement différent de zéro, les effets de bouclage liés au Smic affectent les évaluations de l’effet des lois Aubry sur l’emploi puisque les évolutions d’emploi des entreprises restées à 39 heures sont sousestimées par rapport à ce qu’aurait été leur situation sans loi Aubry. Pour pouvoir corriger ces évaluations, il faudrait savoir quelle part de l’évolution du coût du Smic (et donc de l’emploi) est imputable aux effets de bouclage.
+
+Si on connaissait cette évolution
+
+∆
+
+c
+
+o
+
+u
+
+t
+
+s 0
+
+an
+
+sRT
+
+T
+
+,
+
+on pourrait alors reconstruire la situation en termes
+
+d’évolution de l’emploi pour les entreprises restées à
+
+39 heures, si aucune politique de réduction du temps de
+
+travail n’avait eu lieu :
+
+. Ce nouveau contrefactuel permet-
+
+trait alors d’estimer l’effet de la RTT sur les entreprises
+
+passées à 35 heures.
+
+On ne connaît pas cette évolution mais une évolution nulle donne un minorant des effets de la réduction du temps de travail sur l’emploi des entreprises passées à 35 heures.
+
+86
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+ANNEXE 4
+
+RÉSULTATS DES RÉGRESSIONS SUR LA PGF ET L’EMPLOI
+
+Tableau A Équation de PGF (méthode d’Heckman et méthode du maximum de vraisemblance)
+
+A1 - Entreprises restées à 39 heures
+
+Secteur d’activité
+
+Taille de l’entreprise
+
+Inverse du ratio de Mills Constante Industries agro- alimentaires Biens de consommation Industrie automobile Biens d’équipement Biens intermédiaires Énergie Construction Commerce Transport Services aux entreprises Services aux particuliers De 20 à 49 salariés De 50 à 99 salariés De 100 à 249 salariés De 250 à 499 salariés Plus de 500 salariés Part des salariés âgés de 24 ans et moins Part des salariés âgés de 25 à 34 ans Part des salariés âgés de 35 à 49 ans Part des salariés âgés de plus de 50 ans Part des salariés non qualiﬁés Part des salariés qualiﬁés Part des salariés très qualiﬁés Part des hommes Part des femmes Part des salaires dans la valeur ajoutée Part des salariés âgés de 24 ans et moins Part des salariés âgés de 25 à 34 ans Part des salariés âgés de 35 à 49 ans Part des salariés âgés de plus de 50 ans Part des salariés non qualiﬁés Part des salariés qualiﬁés Part des salariés très qualiﬁés Part des hommes Part des femmes
+ρ0 σ0
+
+Méthode d’Heckman en deux étapes
+
+Coefﬁcient - 0,021 0,125 - 0,079 - 0,055 - 0,007 - 0,044 - 0,032 0,027 0,008 - 0,028 - 0,039 - 0,033 Réf. - 0,014 - 0,015 - 0,028 - 0,017 Réf. 0,034 - 0,279 - 0,319 Réf. - 0,135 - 0,162 Réf. 0,040 Réf. - 0,049 0,128 0,426 0,424 Réf. 0,153 0,171 Réf. - 0,036 Réf. 0,085 0,249
+
+Écart-type (0,030) (0,110) (0,015) (0,015) (0,022) (0,010) (0,010) (0,082) (0,011) (0,010) (0,011) (0,012)
+(0,026) (0,025) (0,025) (0,026)
+(0,153) (0,114) (0,136)
+(0,056) (0,062)
+(0,054)
+(0,128) (0,191) (0,139) (0,164)
+(0,070) (0,076)
+(0,067)
+(0,122) (0,176)
+
+Maximum de vraisemblance
+
+Coefﬁcient
+
+Écart-type
+
+0,114 - 0,083 - 0,059 - 0,009 - 0,045 - 0,033
+0,017 0,005 - 0,030 - 0,038 - 0,036 Réf. - 0,007 - 0,009 - 0,022 - 0,014 Réf. 0,021 - 0,280 - 0,321 Réf. - 0,135 - 0,162 Réf. 0,042 Réf. - 0,044 0,132 0,420 0,418 Réf. 0,152 0,170
+- 0,036 Réf. 0,031 0,250
+
+(0,058) (0,014) (0,014) (0,022) (0,009) (0,009) (0,044) (0,010) (0,009) (0,010) (0,011)
+(0,026) (0,024) (0,024) (0,026)
+(0,079) (0,052) (0,075)
+(0,028) (0,035)
+(0,031)
+(0,062) (0,088) (0,063) (0,090)
+(0,034) (0,041)
+(0,037)
+(0,117) (0,013)
+
+Structure par âge et qualiﬁcation
+
+Structure par âge et qualiﬁcation croisée avec la part des salaires
+dans la valeur ajoutée
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+87
+
+A2 - Entreprises Aubry I aidées
+
+Méthode d’Heckman en deux étapes
+
+Maximum de vraisemblance
+
+Coefﬁcient
+
+Écart-type
+
+Coefﬁcient
+
+Écart-type
+
+Secteur d’activité
+
+Taille de l’entreprise
+
+Inverse du ratio de Mills Constante Industries agro- alimentaires Biens de consommation Industrie automobile Biens d’équipement Biens intermédiaires Énergie Construction Commerce Transport Services aux entreprises Services aux particuliers De 20 à 49 salariés De 50 à 99 salariés De 100 à 249 salariés De 250 à 499 salariés Plus de 500 salariés Part des salariés âgés de 24 ans et moins Part des salariés âgés de 25 à 34 ans Part des salariés âgés de 35 à 49 ans Part des salariés âgés de plus de 50 ans Part des salariés non qualiﬁés Part des salariés qualiﬁés Part des salariés très qualiﬁés Part des hommes Part des femmes Part des salaires dans la valeur ajoutée Part des salariés âgés de 24 ans et moins Part des salariés âgés de 25 à 34 ans Part des salariés âgés de 35 à 49 ans Part des salariés âgés de plus de 50 ans Part des salariés non qualiﬁés Part des salariés qualiﬁés Part des salariés très qualiﬁés Part des hommes Part des femmes
+ρ1 σ1
+
+- 0,064 - 0,047 - 0,051 - 0,047 - 0,015 - 0,049 - 0,021
+0,026 0,015 - 0,004 - 0,065 - 0,018 Réf. - 0,043 - 0,043 - 0,041 - 0,041 Réf. 0,302 - 0,286 - 0,280
+Réf. - 0,090 - 0,044
+Réf. - 0,037
+Réf. 0,035 - 0,227 0,458 0,425
+0,093 0,019 Réf. 0,021 Réf. 0,268 0,238
+
+(0,032) (0,167) (0,021) (0,020) (0,032) (0,017) (0,016) (0,065) (0,017) (0,016) (0,018) (0,018)
+(0,024) (0,022) (0,020) (0,021)
+(0,196) (0,168) (0,214)
+(0,077) (0,099)
+(0,078)
+(0,206) (0,241) (0,208) (0,263)
+(0,096) (0,122)
+(0,099)
+(0,151) (0,042)
+
+- 0,136 - 0,013 - 0,003
+0,005 - 0,042 - 0,005
+0,102 0,038 0,023 - 0,076 0,015 Réf. - 0,096 - 0,082 - 0,071 - 0,055 Réf. 0,411 - 0,279 - 0,269
+Réf. - 0,079 - 0,036
+Réf. - 0,054
+Réf. - 0,027 - 0,251
+0,525 0,505
+0,102 0,028 Réf. 0,017 Réf. 0,566 0,277
+
+(0,109) (0,017) (0,017) (0,036) (0,020) (0,015) (0,033) (0,019) (0,015) (0,024) (0,016)
+(0,026) (0,025) (0,024) (0,026)
+(0,152) (0,104) (0,140)
+(0,050) (0,059)
+(0,034)
+(0,118) (0,164) (0,144) (0,186)
+(0,060) (0,067)
+(0,003)
+(0,027) (0,054)
+
+Structure par âge et qualiﬁcation
+
+Structure par âge et qualiﬁcation interagie avec la part des salaires
+dans la valeur ajoutée
+
+Lecture : résultats obtenus à l’aide des méthodes présentées dans l’annexe 3. Les écarts-types sont entre parenthèses. Pour la méthode d’Heckman, le coefﬁcient de l’inverse du ratio de Mills est directement estimé par les MCO. ρ et σ sont alors estimés à partir de ce coefﬁcient et des résidus de l’équation. Pour l’estimation par le maximum de vraisemblance, ces coefﬁcients sont directement estimés. Champ : 22 991 entreprises restées à 39 heures ﬁn 2000 et 10 211 entreprises Aubry I aidées. Source : DADS 1997, BRN 1997 et 2000, ﬁchiers de l’Urssaf, Insee.
+
+88
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+Tableau B Équation d’emploi (méthode d’Heckman et méthode du maximum de vraisemblance)
+
+Entreprises restées à 39 heures
+
+Méthode d’Heckman en deux étapes
+
+Maximum de vraisemblance
+
+Coefﬁcient
+
+Écart-type
+
+Coefﬁcient
+
+Écart-type
+
+Secteur d’activité
+
+Taille de l’entreprise
+
+Structure par âge et qualiﬁcation
+
+Inverse du ratio de Mills Constante Industries agro- alimentaires Biens de consommation Industrie automobile Biens d’équipement Biens intermédiaires Énergie Construction Commerce Transport Services aux entreprises Services aux particuliers De 20 à 49 salariés De 50 à 99 salariés De 100 à 249 salariés De 250 à 499 salariés Plus de 500 salariés Part des salariés âgés de 24 ans et moins Part des salariés âgés de 25 à 34 ans Part des salariés âgés de 35 à 49 ans Part des salariés âgés de plus de 50 ans Part des salariés non qualiﬁés Part des salariés qualiﬁés Part des salariés très qualiﬁés Part des hommes Part des femmes Part des salaires dans la valeur ajoutée Part des salariés âgés de 24 ans et moins Part des salariés âgés de 25 à 34 ans Part des salariés âgés de 35 à 49 ans Part des salariés âgés de plus de 50 ans Part des salariés non qualiﬁés Part des salariés qualiﬁés Part des salariés très qualiﬁés Part des hommes Part des femmes Effet de la variation du coût salarial induit par la hausse du Smic (à effectif inchangé)
+ρ0 σ0
+
+- 0,002 - 0,156 - 0,018 - 0,004
+0,078 0,033 0,028 - 0,124 0,060 0,013 0,098 0,051 Réf. - 0,030 - 0,011 - 0,017 - 0,012 Réf. 0,330 0,471 0,354 Réf. 0,038 0,083 Réf. - 0,008 Réf. - 0,076 0,094 - 0,093 - 0,139
+- 0,146 - 0,165
+Réf. 0,065 Réf. - 1,509
+0,006 0,280
+
+(0,037) (0,100) (0,016) (0,017) (0,020) (0,011) (0,010) (0,064) (0,012) (0,011) (0,012) (0,015)
+(0,030) (0,028) (0,028) (0,028)
+(0,132) (0,093) (0,124)
+(0,055) (0,068)
+(0,054)
+(0,114) (0,164) (0,115) (0,153)
+(0,072) (0,085)
+(0,069)
+(0,252)
+(0,132) (0,167)
+
+- 0,158 - 0,018 - 0,004
+0,078 0,033 0,028 - 0,126 0,060 0,013 0,098 0,051 Réf. - 0,028 - 0,009 - 0,016 - 0,011 Réf. 0,328 0,471 0,354 Réf. 0,038 0,083 Réf. - 0,008 Réf. - 0,075 0,095 - 0,094 - 0,141
+- 0,146 - 0,165
+Réf. 0,065 Réf. - 1,516
+- 0,004 0,280
+
+(0,082) (0,017) (0,017) (0,031) (0,012) (0,011) (0,070) (0,012) (0,012) (0,011) (0,014)
+(0,033) (0,030) (0,029) (0,031)
+(0,113) (0,078) (0,102)
+(0,037) (0,040)
+(0,039)
+(0,087) (0,127) (0,093) (0,122)
+(0,043) (0,046)
+(0,045)
+(0,230)
+(0,138) (0,010)
+
+Structure par âge et qualiﬁcation interagie avec la part des salaires
+dans la valeur ajoutée
+
+Lecture : résultats obtenus à l’aide des méthodes présentées dans l’annexe C. Les écart-types sont entre parenthèses. Pour la méthode d’Heckman, le coefficient de l’inverse du ratio de Mills est directement estimé par les MCO. ρ et σ sont alors estimés à partir de ce coefficient et des résidus de l’équation. Pour l’estimation par le maximum de vraisemblance, ces coefficients sont directement estimés. Champ : 22 991 entreprises restées à 39 heures fin 2000 et 10 211 entreprises Aubry I aidées. Source : DADS 1997, BRN 1997 et 2000, fichiers de l’Urssaf, Insee.
+
+ÉCONOMIE ET STATISTIQUE N° 376-377, 2004
+
+89
+
+

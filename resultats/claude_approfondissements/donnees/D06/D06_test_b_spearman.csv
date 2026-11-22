@@ -1,0 +1,25 @@
+periode;variable_solde;variable_rapprochee;rho_spearman;n_pays;lecture_declaree
+1995-2007;d_solde;g_pib_hab;0.4524;8;pas d'association nette
+1995-2007;d_solde;d_part_manuf;0.5476;8;pas d'association nette
+1995-2007;d_solde;g_heures_1564;0.5714;8;pas d'association nette
+1995-2007;d_solde_cvc;g_pib_hab;0.5357;7;pas d'association nette
+1995-2007;d_solde_cvc;d_part_manuf;0.5;7;pas d'association nette
+1995-2007;d_solde_cvc;g_heures_1564;0.0714;7;pas d'association nette
+2007-2019;d_solde;g_pib_hab;0.6429;8;association descriptive marquee
+2007-2019;d_solde;d_part_manuf;0.6905;8;association descriptive marquee
+2007-2019;d_solde;g_heures_1564;0.619;8;association descriptive marquee
+2007-2019;d_solde_cvc;g_pib_hab;0.2143;7;pas d'association nette
+2007-2019;d_solde_cvc;d_part_manuf;0.9286;7;association descriptive marquee
+2007-2019;d_solde_cvc;g_heures_1564;0.3214;7;pas d'association nette
+2019-2025;d_solde;g_pib_hab;0.6429;8;association descriptive marquee
+2019-2025;d_solde;d_part_manuf;0.381;8;pas d'association nette
+2019-2025;d_solde;g_heures_1564;0.3333;8;pas d'association nette
+2019-2025;d_solde_cvc;g_pib_hab;0.1071;7;pas d'association nette
+2019-2025;d_solde_cvc;d_part_manuf;0.0714;7;pas d'association nette
+2019-2025;d_solde_cvc;g_heures_1564;-0.0357;7;pas d'association nette
+1995-2025;d_solde;g_pib_hab;-0.0714;8;pas d'association nette
+1995-2025;d_solde;d_part_manuf;0.5238;8;pas d'association nette
+1995-2025;d_solde;g_heures_1564;0.4762;8;pas d'association nette
+1995-2025;d_solde_cvc;g_pib_hab;0.2857;7;pas d'association nette
+1995-2025;d_solde_cvc;d_part_manuf;0.5357;7;pas d'association nette
+1995-2025;d_solde_cvc;g_heures_1564;-0.0357;7;pas d'association nette

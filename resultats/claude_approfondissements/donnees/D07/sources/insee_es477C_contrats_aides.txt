@@ -1,0 +1,1173 @@
+                         Le Panel 2008 de la Dares :
+                         un outil d’évaluation de l’impact
+                         des contrats aidés sur la trajectoire
+                         professionnelle des demandeurs d’emploi
+
+                         Isabelle Benoteau et Véronique Rémy *
+
+Rappel :                 Le Panel 2008 s’inscrit dans une longue tradition de panels menés par la Dares depuis
+                         le début des années 1990 visant à décrire les trajectoires des bénéficiaires de contrat aidé
+Les jugements et         (CIE, CAE, CAV, et CI‑RMA) et à évaluer l’effet du passage en contrat aidé sur ces
+opinions exprimés        trajectoires. Le Panel 2008 a en effet été conçu dans une optique évaluative fondée sur
+par les auteurs          la compararaison entre des bénéficiaires et des non‑bénéficiaires éligibles, via notamment
+n’engagent qu’eux        la mobilisation de techniques d’appariement. Il s’agit d’une enquête en deux vagues menée
+mêmes, et non les        fin 2008 et fin 2009, auprès d’un échantillon de demandeurs d’emploi qui se sont inscrits à
+institutions auxquelles  l’ANPE au printemps 2005, dont certains ont été recrutés en contrat aidé entre le deuxième
+ils appartiennent, ni    trimestre 2005 et le deuxième trimestre 2007 et d’autres non. La comparabilité entre béné‑
+a fortiori l’Insee.      ficiaires et non‑bénéficiaires est une hypothèse cruciale des techniques d’appariement.
+                         Le protocole du Panel 2008 a cherché à garantir cette hypothèse dès l’échantillonnage,
+                         réalisé dans une source unique, mais également lors de la conception du questionnaire
+                         élaboré de manière à être le plus proche possible entre les deux populations ainsi que lors
+                         des traitements réalisés à l’issue de la collecte (correction de la non‑réponse et calage).
+                         De plus, l’enquête comprend de nombreuses variables permettant de mesurer finement
+                         l’hétérogénéité inobservée des répondants, en particulier sur des dimensions inédites telles
+                         leur rapport aux études, leur littératie ou leur état de santé. La richesse des informations
+                         disponibles dans le questionnaire permet également d’identifier un effet causal du passage
+                         en contrat aidé sur plusieurs variables de résultat, comme la probabilité d’être en emploi à
+                         différentes dates ou l’évolution des conditions de vie des bénéficiaires. Cet article propose
+                         une présentation détaillée de la conception et de la réalisation de cette enquête originale,
+                         qui occupe une place importante dans l’évaluation des politiques publiques de l’emploi.
+
+                         Codes JEL : C42, H53, J23, J38.
+
+                         Mots‑clés : politiques actives du marché du travail, évaluation, méthodes d’appariement,
+                         pondérations.
+
+                         * Les auteurs travaillaient au département des Politiques de l’emploi de la Dares au moment de la rédaction de cet article.
+
+                         Le Panel 2008 est le fruit d’un travail collectif, débuté en 2007, au sein du département des Politiques de l’emploi de la Dares. Les
+                         auteurs tiennent à remercier Sylvie Le Minez et Laurent Lequien pour leurs contributions aux premiers travaux d’exploitation du panel
+                         ainsi que Christel Colin, François Guillaumat‑Tailliet, Philippe Zamora et les deux rapporteurs anonymes de la revue pour leurs remarques
+                         et leurs relectures attentives. Cet article n’engage que leurs auteurs et non les institutions auxquelles ils appartiennent.
+
+ÉCONOMIE ET STATISTIQUE N° 477, 2015  33
+    L es politiques actives du marché du travail,       des bénéficiaires après un passage en mesure et
+         mises en œuvre par l’ensemble des pays         les conséquences de ces mesures à court terme
+    occidentaux, ont pour principal objectif d’aider    sur l’emploi (encadré 1), elles ne suffisent pas
+    les demandeurs d’emploi à se réinsérer sur le       à conclure sur l’efficacité des dispositifs étu‑
+    marché du travail. Elles comprennent les poli‑      diés. En effet, pour évaluer la plus‑value du
+    tiques d’aide à la recherche d’emploi, de forma‑    passage par un dispositif au niveau individuel,
+    tion, de subvention à l’embauche et de créations    il est nécessaire de comparer la situation des
+    d’emplois publics temporaires. L’importance         bénéficiaires à celle qu’ils auraient connue en
+    des sommes consacrées aux politiques actives        l’absence de la mesure. Cette plus‑value du
+    (22 milliards € en 2010 en France) font qu’elles    contrat aidé peut être mesurée sur divers aspects
+    constituent un enjeu de taille pour la politique    de la trajectoire professionnelle (insertion dans
+    économique. Elles sont fortement mobilisées en      l’emploi durable, qualité des emplois retrou‑
+    période de forte dégradation de la conjoncture      vés, récurrence au chômage), mais aussi sur des
+    afin de limiter la hausse du chômage. Ces poli‑     dimensions plus larges, comme l’évolution des
+    tiques sont souvent difficiles à évaluer en raison  conditions de vie.21
+    du caractère multidimensionnel des objectifs
+    qui leur sont assignés (aide à l’insertion, rôle    Dans cette perspective, la Dares met en œuvre
+    contra‑cyclique, soutien à l’activité, améliora‑    depuis le début des années 1990 des dispositifs
+    tion du capital humain) et de la multiplicité des   d’observation plus spécifiques qui s’appuient
+    états possibles sur le marché du travail (emploi,   sur la comparaison des trajectoires profession‑
+    chômage, activité réduite, formation, etc.).        nelles de bénéficiaires de contrats aidés et de
+                                                        « témoins », individus éligibles aux caracté‑
+    En France, dans les années 1970, le dévelop‑        ristiques proches de celles des bénéficiaires et
+    pement des politiques d’emploi ciblées sur des      n’ayant pas bénéficié de la mesure. Plusieurs
+    publics particuliers (demandeurs d’emploi de        « panels de bénéficiaires » ont ainsi été réalisés
+    longue durée, jeunes, personnes en difficulté       (Even, 2002 ; Charpail, Klein et Zylberman,
+    sur le marché du travail) s’est de prime abord      2005 ; Even et Klein, 2007). Le dernier panel
+    accompagné du suivi du nombre et des carac‑         en date, dit Panel 2008, porte sur un échantil‑
+    téristiques des bénéficiaires, ainsi que des coûts  lon de demandeurs d’emploi qui se sont ins‑
+    budgétaires associés. L’évaluation de ces dis‑      crits à l’ANPE au deuxième trimestre 2005 en
+    positifs a ensuite été systématisée au cours des    France métropolitaine (Benoteau et al., 2012).
+    années 1980 et une attention constante a été        Parmi eux, deux groupes sont distingués selon
+    portée au taux d’insertion dans l’emploi à la sor‑  que les demandeurs d’emploi sont entrés ou
+    tie de ces dispositifs (Gélot et Simonin, 1996).    non en contrat aidé durant les deux ans sui‑
+    Les contrats aidés occupent une place impor‑        vant leur inscription à Pôle emploi. Ces deux
+    tante parmi les politiques d’emploi ciblées.        groupes sont interrogés fin 2008 et fin 2009
+    Ils prennent la forme de subventions à l’em‑        sur leur trajectoire professionnelle depuis leur
+    bauche dans le secteur marchand et de créa‑         inscription à l’ANPE. Les dispositifs étudiés
+    tion d’emplois temporaires dans le secteur          dans le cadre du Panel 2008 sont les contrats
+    non marchand. Dans une approche évaluative,         aidés créés par la loi de programmation pour la
+    une entrée en contrat aidé n’est pas consi‑         cohésion sociale de 20053 (encadré 2). Cette loi
+    dérée comme une sortie vers l’emploi mais           spécialise par secteur – marchand et non mar‑
+    comme faisant partie intégrante de l’épisode        chand – les contrats réservés aux allocataires de
+    de chômage1, un des principaux objectifs des        minima sociaux, renforce les actions de forma‑
+    contrats aidés est en effet de favoriser l’accès    tion et d’accompagnement et introduit la possi‑
+    de leurs bénéficiaires à l’emploi non aidé2.        bilité de moduler localement les aides associées
+    Des enquêtes régulières destinées à qualifier       aux dispositifs non ciblés sur les allocataires
+    l’insertion professionnelle des bénéficiaires       de minima sociaux. Le Panel 2008 a été conçu
+    plusieurs mois après la sortie de ces contrats      pour évaluer ces nouveaux contrats avec le souci
+    existent toujours aujourd’hui (Biau, Le Rhun
+    et Lamarche, 2008 ; Fendrich et Rémy, 2009).        1. Les demandeurs d’emploi recrutés en contrats aidés ne
+    Parallèlement, des enquêtes sont menées auprès      sortent pas des listes de Pôle emploi mais sont supposés bas‑
+    des employeurs afin d’identifier les effets des     culer automatiquement en catégorie E. De plus, ils ne sont pas
+    contrats aidés sur leurs décisions d’embauche       comptabilisés dans les effectifs des entreprises.
+    et les créations d’emploi induites (Belleville,     2.  Lorsque le contrat aidé est à durée indéterminée, le bénéfi‑
+    2001 ; Fendrich, Gratadour et Rémy, 2010). Si       ciaire est considéré comme sortant du dispositif à la date de fin
+    ces deux types d’enquêtes permettent respecti‑      de versement de l’aide financière associée au contrat.
+    vement d’identifier le taux de retour à l’emploi    3. Ces contrats ont été remplacés par le contrat unique d’in‑
+                                                        sertion (CUI) le 1er janvier 2010 en France métropolitaine et le
+                                                        1er janvier 2011 dans les DOM.
+
+34                                                      ÉCONOMIE ET STATISTIQUE N° 477, 2015
+                                                               Le Panel 2008 de la Dares
+
+Encadré 1
+
+                                      LES ENQUÊTES MENÉES À LA DARES SUR LES CONTRATS AIDÉS
+
+Parallèlement aux panels de bénéficiaires, l’Agence            versement de l’aide financière, et sur les motifs d’éven‑
+de services et de paiement (ASP) mène des enquêtes             tuelle rupture de contrat. Mais, par construction, ces
+en continu auprès de l’ensemble des bénéficiaires de           enquêtes ne donnent pas d’informations sur les tra‑
+contrats aidés six mois après leur sortie de dispositif.       jectoires ultérieures des bénéficiaires non restés chez
+Ces derniers sont interrogés, d’une part, sur leur situa‑      leur employeur. Ces enquêtes permettent par ailleurs,
+tion professionnelle et, d’autre part, sur le déroulement      et c’est un de leur principal intérêt, d’estimer les effets
+de leur contrat aidé (accompagnement et formation) et          de ces dispositifs sur l’emploi, en isolant les effets d’au‑
+leur opinion sur le dispositif. Ces courtes enquêtes, dites    baine, d’anticipation et de substitution : une réponse
+« enquêtes Sortants », permettent de mesurer l’évolu‑          négative à la question « Auriez‑vous recruté en l’ab‑
+tion des taux d’insertion dans l’emploi d’une année sur        sence de tout dispositif d’aide à l’emploi ? » permet par
+l’autre en fonction de la conjoncture et de l’évolution        exemple d’identifier l’« effet emploi » du contrat aidé
+des publics ciblés par le dispositif. Elles mettent égale‑     tandis qu’une série de questions sur la manière dont le
+ment en avant une corrélation positive entre formation         dispositif a conduit à infléchir le profil du salarié recruté
+suivie durant le contrat aidé et insertion professionnelle     (plus ou moins âgé, expérimenté, etc.) permet d’isoler
+ultérieure ; l’effet de l’accompagnement est en revanche       un « effet de substitution » (Charpail et al., 2005). Les
+plus mitigé (Biau, Le Rhun et Lamarche, 2008 ; Fendrich        deux dernières enquêtes mettent ainsi en évidence des
+et Rémy, 2009 ; Fendrich, 2010). Bien que très utiles,         effets emploi beaucoup plus élevés dans le secteur non
+ces enquêtes ne fournissent pas de résultats évalua‑           marchand, témoignant de logiques d’utilisation des dis‑
+tifs – puisque menées uniquement auprès des bénéfi‑            positifs différentes selon le type d’employeur (Fendrich,
+ciaires – et disposent d’informations très limitées sur les    Gratadour et Rémy, 2010, Dares Analyses à venir sur
+caractéristiques des bénéficiaires.                            l’enquête de 2014). Les réponses des employeurs sont
+                                                               toutefois sensibles à la formulation des questions et à la
+Les enquêtes conduites par la Dares auprès des                 conjoncture prévalant lors de l’enquête, ce qui rend déli‑
+employeurs utilisateurs de contrats aidés viennent com‑        cate toute comparaison entre les différentes enquêtes.
+pléter le point de vue des salariés sur le déroulement         En outre, les effets emplois ne sont mesurés qu’à un
+des dispositifs. Ces enquêtes relativement régulières          niveau microé­ conomique et ne prennent pas en compte
+(1998, 2000, 2007, 2014) permettent de recueillir des          les effets sur les autres employeurs. Or, ces autres
+informations sur les canaux de recrutement en contrat          employeurs sont susceptibles de perdre des parts de
+aidé, les motivations des employeurs et leurs pratiques        marché au profit des employeurs destinataires de l’aide
+en matière d’accompagnement et de formation, ainsi             financière (effet de concurrence) ou, à l’inverse, de béné‑
+que leur opinion sur l’utilité de ces dispositifs. Elles ren‑  ficier du surcroît d’activité des employeurs destinataires
+seignent également sur les perspectives de maintien            de l’aide si leur propre activité dépend de la demande
+et d’évolution du salarié dans la structure à l’issue du       de ces derniers (effet d’entraînement).
+
+Encadré 2
+
+                                      LES CONTRATS AIDÉS ISSUS DE LA LOI DE COHÉSION SOCIALE DE 2005
+
+Les contrats aidés sont des emplois subventionnés par          (depuis 2006), l’allocation de parent isolé (API) et le
+l’État destinés à favoriser l’insertion professionnelle de     revenu minimum d’insertion (RMI). Ces deux derniers
+publics cibles plus ou moins éloignés du marché du tra‑        ont été remplacés par le RSA‑socle au 1er juin 2009.
+vail : chômeurs de longue durée, allocataires de minima
+sociaux, jeunes non qualifiés, etc. La loi de programma‑       Le montant de l’aide associée aux contrats réservés aux
+tion pour la cohésion sociale du 18 janvier 2005 a pro‑        bénéficiaires de minima sociaux (CAV et CI‑RMA) est for‑
+cédé à une refonte des contrats aidés en direction des         faitaire et correspond au montant du RMI/RSA versé à
+personnes rencontrant des difficultés particulières d’ac‑      une personne seule, tandis que les employeurs recrutant
+cès à l’emploi. Dans le secteur non marchand, le contrat       en CAE et en CIE reçoivent une subvention proportion‑
+d’avenir (CAV) et le contrat d’accompagnement dans             nelle au salaire versé sur la base d’un taux fixé localement.
+l’emploi (CAE) ont remplacé le contrat emploi solidarité       Ces aides sont cumulables avec les exonérations
+(CES) et le contrat emploi consolidé (CEC) tandis que,         générales de cotisations employeurs pour les contrats
+dans le secteur marchand, le contrat initiative emploi         du secteur marchand, et complétées par une exo‑
+(CIE) et le contrat insertion‑revenu minimum d’activité        nération étendue pour ceux du secteur non mar‑
+(CI‑RMA) ont été fortement remodelés. Les critères             chand. En outre, les publics recrutés dans le secteur
+d’éligibilité sont plus ou moins larges selon les contrats :   non marchand étant généralement plus éloignés de
+                                                               l’emploi que ceux embauchés dans le secteur mar‑
+-- Les CAE et les CIE sont destinés aux « personnes            chand, l’aide versée à l’employeur est plus consé‑
+sans emploi rencontrant des difficultés sociales et            quente pour les premiers que pour les seconds.
+professionnelles particulières d’accès à l’emploi »            Le détail des aides reçues par l’employeur est présenté
+(Loi n° 2005‑32 du 18 janvier 2005) ;                          dans le tableau A en annexe.
+
+-- Les CAV et les CI‑RMA sont réservés aux béné‑               À partir de janvier 2010, l’ensemble des contrats issus
+ficiaires de minima sociaux. Les minima sociaux                de cette loi ont été remplacés en France métropoli‑
+concernés sont : l’allocation de solidarité spécifique         taine par le contrat unique d’insertion (CUI).
+(ASS), l’allocation aux adultes handicapés (AAH)
+
+ÉCONOMIE ET STATISTIQUE N° 477, 2015                                                                  35
+    de garantir au mieux la comparabilité des béné‑        dispositif et sur leur trajectoire spontanée sur
+    ficiaires du dispositif et des non‑bénéficiaires       le marché du travail (c’est‑à‑dire observée en
+    éligibles, depuis l’échantillonnage jusqu’aux          l’absence du dispositif). Plusieurs acteurs sont
+    traitements post‑collecte, en passant par la           impliqués dans le recrutement en contrat aidé :
+    construction du questionnaire et le mode de            le demandeur d’emploi, qui décide d’entrer ou
+    recueil des données. En particulier, l’enquête         non dans le dispositif en fonction des avan‑
+    comprend de nombreuses variables permettant            tage qu’il compte en retirer, les agents du ser‑
+    de capter au mieux les différences de profil           vice public de l’emploi et le futur employeur.
+    entre les bénéficiaires et les non‑bénéficiaires       La sélection des bénéficiaires de contrat aidé
+    éligibles, y compris celles généralement inob‑         s’effectue sur la base de leurs caractéristiques
+    servées dans les fichiers administratifs (freins à     observables (niveau de diplôme, ancienneté au
+    l’emploi, état de santé, etc.) et susceptibles de      chômage, etc.) et/ou plus difficilement obser‑
+    biaiser les comparaisons. En détaillant finement       vables (motivation, état de santé, etc.).4
+    les trajectoires des enquêtés, elle permet égale‑
+    ment d’étudier, plus systématiquement que lors         Ces différences de caractéristiques entre bénéfi‑
+    des précédentes éditions de panel, le délai opti‑      ciaires et non‑bénéficiaires créent un biais dit de
+    mal avant le placement des demandeurs d’em‑            sélection : supposons, par exemple, que les per‑
+    ploi dans ce type de dispositif.                       sonnes en mauvaise santé bénéficient en priorité
+                                                           des contrats aidés ; observer que ces personnes
+    Le plan de l’article est le suivant : la première      sont moins souvent en emploi que les autres à la
+    section dresse un panorama succinct des géné‑          sortie du contrat aidé ne dit rien de l’efficacité
+    rations successives de panels de bénéficiaires         de ce contrat car il est probable que cela tienne
+    conçus par la Dares en dégageant leurs limites         à leur mauvais état de santé. Pour corriger ce
+    et leurs apports en matière d’estimation d’effet       biais, il est nécessaire de recourir à des tech‑
+    causal du passage en contrat aidé. La deuxième         niques économétriques qui permettent de tenir
+    section présente plus spécifiquement les enjeux        compte des écarts de composition des groupes
+    de la conception du Panel 2008 en amont de la          comparés. Parmi ces techniques figurent aussi
+    collecte (échantillonnage, protocole d’enquête,        bien les méthodes paramétriques – de type
+    questionnaire). Enfin, la troisième section            régression linéaire ou modèle de durée – que
+    détaille les conditions de mise en œuvre du            non paramétriques (ou semi‑paramétriques) –
+    recueil des données dans une optique évaluative,       de type appariement5 (encadré 3). Quelle que
+    ainsi que le redressement de la non‑réponse.           soit la méthode considérée, la richesse des don‑
+                                                           nées disponibles est un facteur clé de la qualité
+    Les panels de bénéficiaires :                          des estimations produites.
+    portée et limites
+                                                           Les données administratives permettent rare‑
+    Le principe de l’évaluation                            ment de disposer de toute l’information néces‑
+                                                           saire à une évaluation robuste des politiques
+    Les panels constitués par la Dares visent à esti‑      publiques et requièrent que leur soient adossées
+    mer l’impact sur le devenir des bénéficiaires du       des enquêtes conçues spécifiquement dans ce
+    passage par une mesure de politique d’emploi.          but. Toute technique d’estimation de relations
+    Le problème sous‑jacent à toute évaluation de          causales reposant sur des hypothèses fortes,
+    politique publique réside dans l’impossibilité         l’anticipation en amont des enjeux économé‑
+    d’observer simultanément la situation4 d’un            triques renforce la validité des estimateurs
+    bénéficiaire à la sortie du dispositif et celle qu’il  mobilisés. Les panels de la Dares, en particulier
+    aurait connue en l’absence de celui-ci. Cette          les dernières générations, s’efforcent d’intégrer
+    dernière situation, dite contrefactuelle, peut être    aux mieux ces enjeux dans la mesure où ils ont
+    approchée spontanément à partir de la situation        d’emblée été conçus pour permettre des ana‑
+    des individus non bénéficiaires du dispositif.         lyses causales du passage en contrat aidé.
+    Cependant, une comparaison directe des situa‑
+    tions des bénéficiaires et des non‑bénéficiaires       4.  Il peut s’agir de la probabilité d’être en emploi, aidé ou non, à
+    conduit à une estimation biaisée de l’effet du         une date donnée, de la vitesse de retour à l’emploi, de la qualité
+    dispositif. En effet, les premiers peuvent pré‑        de l’emploi retrouvé, de la récurrence du chômage, du revenu
+    senter des caractéristiques particulières suscep‑      obtenu, etc.
+    tibles de jouer simultanément sur leur entrée en       5.  Nous laissons ici de côté les expérimentations aléatoires, qui
+                                                           ne peuvent être utilisées pour évaluer des dispositifs déjà mis en
+                                                           œuvre à l’échelle nationale.
+
+36                                                         ÉCONOMIE ET STATISTIQUE N° 477, 2015
+                                                                                 Le Panel 2008 de la Dares
+
+Les enseignements tirés des précédentes                                    se faire que sur la base des variables communes
+générations de panels                                                      aux deux sources de données. Dans le cas du
+                                                                           recours à plusieurs enquêtes, le mode de recueil
+Le Panel 2008 s’inscrit dans une longue tradition                          pouvait également différer selon les sources, le
+de panels mis en œuvre par la Dares depuis le                              premier panel ayant combiné un recueil par voie
+début des années 1990. Chaque panel a bénéficié                            postale auprès des bénéficiaires et par téléphone
+des enseignements tirés des expériences précé‑                             pour les non‑bénéficiaires (Aucouturier, 1993).
+dentes (tableau 1). Les deux premières généra‑                             Au problème d’homogénéité des informations
+tions de panel mélangeaient données d’enquêtes                             issues à la fois de données déclaratives et admi‑
+spécifiques pour les bénéficiaires et données                              nistratives s’ajoutait l’incomplétude des sources
+administratives – comme le fichier historique                              administratives, notamment sur les motifs de
+des demandeurs d’emploi de l’ANPE (FH) –                                   sortie des listes de l’ANPE (Charpail et al.,
+ou d’enquêtes en population générale – comme                               2005). La nécessité d’un mode identique de
+les enquêtes Générations du Cereq – pour les                               recueil des données auprès des bénéficiaires et
+non‑bénéficiaires. Les comparaisons entre béné‑                            des non‑bénéficiaires pour améliorer la qualité
+ficiaires et non‑bénéficiaires ne pouvaient alors                          des comparaisons s’est ainsi progressivement
+
+Encadré 3
+
+                                      PRINCIPE DES MÉTHODES D’APPARIEMENT (MATCHING)
+
+Dans leur version la plus simple, les techniques d’ap‑                     mesurées. La crédibilité de cette hypothèse est toute‑
+pariement consistent à apparier chaque bénéficiaire à                      fois d’autant plus grande que le nombre de variables
+un individu, dit « témoin », ayant des caractéristiques                    sur lesquelles apparier est important. La contrepar‑
+observables proches mais n’ayant pas bénéficié de la                       tie est qu’il devient alors très difficile de trouver pour
+mesure : l’effet causal du passage en contrat aidé est                     chaque bénéficiaire un non‑bénéficiaire identique sur
+alors estimé par la différence entre la trajectoire des                    l’ensemble des variables considérées. Une solution
+bénéficiaires et celle des témoins qui leur sont appa‑                     consiste à apparier bénéficiaires et non‑bénéficiaires
+riés. La différence principale avec une estimation par                     sur la base d’un index résumant l’effet de ces variables
+régression réside dans le fait que les individus dont                      de contrôle sur l’entrée dans le dispositif : le score de
+les caractéristiques diffèrent trop de celles des bénéfi‑                  propension (Rosenbaum et Rubin, 1983).
+ciaires ne contribuent pas à l’estimation.
+                                                                           La méthode repose en outre sur la présence, dans
+L’hypothèse sous‑jacente aux méthodes d’appa‑                              les données, de témoins ayant des caractéristiques
+riement est l’indépendance – conditionnellement à                          identiques à celles des bénéficiaires (condition dite de
+un ensemble de variables observées – entre l’entrée                        support commun). Une personne qui aurait des carac‑
+en dispositif et la trajectoire qu’aurait eue l’individu en                téristiques telles que ses chances d’entrée en dispo‑
+l’absence de bénéfice du dispositif. Cette hypothèse                       sitif seraient nulles ne pourrait, par définition, servir de
+suppose qu’il n’existe pas, en dehors des variables                        témoin. De même, l’entrée en dispositif ne doit pas
+observées, de caractéristiques inobservées qui influent                    être déterministe : si le dispositif couvrait l’ensemble
+à la fois sur l’entrée en dispositif et sur la variable de                 de la population ciblée (sans contrainte d’enveloppe
+résultat. Or, les caractéristiques susceptibles de jouer                   budgétaire) ou simplement l’ensemble d’une caté‑
+simultanément sur l’entrée en contrat aidé et la tra‑                      gorie d’éligibles, il serait impossible de trouver des
+jectoire ultérieure sur le marché du travail sont nom‑                     personnes ayant les mêmes caractéristiques que les
+breuses et ne peuvent probablement pas toutes être                         bénéficiaires mais n’ayant pas bénéficié de la mesure.
+
+Tableau 1
+Historique des panels de la Dares
+
+                                      Comparaison avec Correction du biais  Enquête commune  Échantillonnage
+
+                                      des non‑bénéficiaires  de sélection   bénéficiaires / non‑bénéficiaires dans une source unique
+
+1er panel (1990‑1991)                 oui                    non            non              ‑
+
+2e panel (1995‑1999)                  oui                    oui            non              ‑
+
+3e panel (2000‑2004)                  oui                    oui            oui              non
+
+4e panel (2008‑2009)                  oui                    oui            oui              oui
+
+Lecture : tous les panels de la Dares reposent sur une comparaison entre bénéficiaires et non‑bénéficiaires, mais seul le quatrième panel
+(Panel 2008) est échantillonné dans une source unique pour l’ensemble des populations étudiées (en particulier les bénéficiaires et les
+non‑bénéficiaires).
+
+ÉCONOMIE ET STATISTIQUE N° 477, 2015                                                                          37
+    imposée. La troisième génération de panel (dite      d’activité du Panel 2000), afin d’être en mesure
+    Panel 2000) a en partie intégré cette dimension      d’étudier la qualité de l’insertion sur le marché
+    en interrogeant simultanément les bénéficiaires      du travail et son évolution dans le temps, mais
+    et les non‑bénéficiaires à l’aide d’un question‑     aussi les enchaînements de différentes mesures
+    naire unique (Even, 2002). Néanmoins, en vue         de politiques de l’emploi.
+    de maximiser le taux de réponse, bénéficiaires
+    et non‑bénéficiaires ont été enquêtés en faisant     Le quatrième panel de la Dares, dernier en date, a
+    appel à plusieurs modes d’interrogation (par         cherché à répondre à ces différentes exigences :
+    téléphone, puis par courrier ou en face à face       échantillonnage de toutes les populations dans
+    pour les non‑répondants). Le biais induit par des    un fichier unique ; renseignement de la situation
+    comportements de non‑réponse susceptibles de         détaillée de l’enquêté sur le marché du travail ;
+    différer selon le mode de recueil était toutefois    mode de recueil des informations identique entre
+    moindre que celui observé dans les panels pré‑       bénéficiaires et non‑bénéficiaires. Ces innova‑
+    cédents pour lesquels le mode d’interrogation        tions font du Panel 2008 un outil particulière‑
+    différait quasi‑systématiquement entre béné‑         ment adapté à l’identification d’un effet causal
+    ficiaires et non‑bénéficiaires. L’interrogation      du passage en contrat aidé sur les trajectoires
+    simultanée des bénéficiaires et des non‑béné‑        individuelles. En revanche, son champ est plus
+    ficiaires du Panel 2000 a également permis           restreint que celui des panels précédents puisque
+    d’étendre le champ des questions posées au‑delà      l’alternance et les contrats aidés spécifiquement
+    du seul champ professionnel en intégrant des         destinés aux jeunes ne sont pas étudiés. Les dif‑
+    questions sur les conditions de vie, le logement et  férentes spécificités du Panel 2008 sont détail‑
+    les revenus. Les variables de résultats et d’appa‑   lées dans la section suivante.
+    riement ont donc été particulièrement enrichies.
+    Pour mieux identifier le biais de sélection, des     Le Panel 2008 : une enquête
+    questions ont également été ajoutées sur les cir‑    conçue pour l’évaluation
+    constances de l’entrée (ou de la non‑entrée pour
+    les non‑bénéficiaires) en contrat aidé. Enfin, le    L a validité des estimateurs est tributaire
+    recours à un plan de sondage équilibré a permis           de la qualité des données disponibles, et
+    d’améliorer la précision des résultats par rapport   donc en grande partie du protocole d’enquête
+    aux générations antérieures.                         retenu. Celui‑ci se doit d’anticiper au mieux les
+                                                         problèmes d’identification susceptibles de se
+    Dans un souci de perfectionnement des futures        poser ex post lors de l’évaluation. Dans le cadre
+    générations de panels, la troisième édition a        du Panel 2008, suivant les recommandations
+    donné lieu à un rapport de chercheurs spéciali‑      du rapport d’expertise du Crest (Crépon et
+    sés en évaluation des politiques publiques ayant     Kamionka, 2006), le mode de sélection des
+    pour objectif de mettre en avant les forces et les   non‑bénéficiaires tout comme le questionnaire
+    faiblesses de cet outil d’évaluation (Crépon et      ont été pensés pour garantir au mieux la com‑
+    Kamionka, 2006). Une des principales recom‑          parabilité des bénéficiaires et des non‑bénéfi‑
+    mandations de ce rapport consistait à échantil‑      ciaires. Cette comparabilité est en effet essen‑
+    lonner bénéficiaires et non‑bénéficiaires dans       tielle pour estimer in fine l’effet du passage en
+    une source unique, afin d’assurer une meilleure      contrat aidé sur le devenir des bénéficiaires (en
+    comparabilité entre les deux populations (les        éliminant les différences de structures entre les
+    bénéficiaires du Panel 2000 étaient tirés dans les   deux populations).
+    données administratives sur les contrats aidés
+    tandis que les non‑bénéficiaires l’étaient dans les  Échantillonnage
+    fichiers de l’Unedic). Afin de mieux connaître
+    le parcours antérieur à l’entrée en contrat aidé,    Les bénéficiaires et les non‑bénéficiaires ont été
+    les auteurs du rapport préconisaient égale‑          échantillonnés dans la même source, à savoir le
+    ment de tirer systématiquement bénéficiaires         fichier historique de l’ANPE (FH). En effet, ils
+    et non‑bénéficiaires dans un flux de personnes       ont tous comme point commun le fait de s’être
+    devenant éligibles à la mesure. En effet, le panel   inscrit à l’ANPE en catégorie A, B ou C au deu‑
+    précédent multipliait les modes d’échantillon‑       xième trimestre 2005 après une sortie des listes
+    nage : parfois dans le stock, parfois dans le flux   d’au moins trente jours depuis leur dernier épi‑
+    d’entrants ou de sortants de mesure. Les auteurs     sode de chômage. Ils sont également tous éli‑
+    soulignaient également la nécessité de disposer      gibles aux contrats aidés. Ils se distinguent en
+    de situations détaillées sur le marché du travail à
+    chaque date, en particulier de la nature du contrat
+    de travail (non disponible dans le calendrier
+
+38                                                       ÉCONOMIE ET STATISTIQUE N° 477, 2015
+                                                     Le Panel 2008 de la Dares
+
+revanche en fonction de leur parcours profes‑        reposent sur un cadre statique, pour prendre
+sionnel durant les deux années qui suivent : les     en compte la variabilité des dates d’entrée en
+bénéficiaires ont été recrutés sous l’un des quatre  contrat aidé (Sianesi, 2004 ; Fredriksson et
+contrats issus de la loi de cohésion sociale entre   Johansson, 2008).
+le deuxième trimestre 2005 et le deuxième tri‑
+mestre 2007, au contraire des non‑bénéficiaires      Échantillonnage des bénéficiaires de contrat
+qui, bien qu’éligibles, n’ont pas été embauchés      aidé
+en contrat aidé durant cette période.
+                                                     Parmi les 870 000 demandeurs d’emploi qui
+Pour isoler, parmi les demandeurs d’emploi           se sont inscrits à l’ANPE au deuxième tri‑
+qui se sont inscrits à l’ANPE au deuxième tri‑       mestre 2005 selon la définition retenue ci‑des‑
+mestre 2005, ceux qui ont été recrutés en contrat    sus, environ 50 000, soit un peu plus de 6 %,
+aidé au cours des deux ans qui ont suivi, le FH      ont été recrutés en CAE, CAV, CIE ou CI‑RMA
+a été apparié aux fichiers administratifs relatifs   pour une durée d’au moins un mois entre avril
+aux conventions individuelles d’embauches en         2005 et juin 20076. Ces populations étant trop
+contrat aidé en provenance de l’ASP (Agence de       importantes pour être intégralement suivies, il
+services et de paiement, ex‑Cnasea). Ces fichiers    a été nécessaire d’échantillonner une fraction
+administratifs, qu’exploite régulièrement la         des individus concernés. Compte tenu du coût
+Dares (Lamarche et Pujol, 2006, 2007 ; Le Rhun       des enquêtes et pour limiter la taille de l’échan‑
+et Fendrich, 2008) contiennent de nombreuses         tillon, l’approche retenue pour échantillonner
+informations sur le contrat aidé, notamment les      les bénéficiaires de contrat aidé a consisté à
+dates de début et de fin de contrat.                 les surreprésenter dans l’échantillon (choice
+                                                     based sampling). La probabilité de tirage des
+Cette base de sondage présente deux limites          bénéficiaires, comprise entre 10 % et 100 %,
+principales. La première est l’absence de prise      est ainsi nettement supérieure à celle des non‑
+en compte des éligibles non inscrits sur les listes  bénéficiaires (au plus 2 %).
+de l’ANPE, soit environ 13 % des entrants en
+contrat aidé entre le deuxième trimestre 2005 et     Un tirage sans remise stratifié par type de contrat
+le deuxième trimestre 2007 (plus précisément,        a été réalisé avec, dans chacune des strates, des
+14 % des entrants en CAE, 11 % de ceux en CAV,       probabilités égales de tirage et un équilibrage
+8 % de ceux en CIE et 19 % de ceux en CI‑RMA         sur certaines variables clé garantissant la repré‑
+n’étaient pas inscrits comme demandeurs d’em‑        sentativité de l’échantillon sur ces dimensions
+ploi au moment de leur entrée dans le dispositif     (encadré 4).
+en 2006). La seconde est le non‑repérage d’une
+partie des bénéficiaires de CI‑RMA (ceux pour        Échantillonnage des non‑bénéficiaires éligibles
+lesquels les Conseils généraux n’ont pas délégué
+le versement de l’aide à l’ASP). Cette dernière      Les critères d’éligibilité aux CAE et CIE
+restriction de champ n’a a priori pas d’effet        sont moins précis que les critères d’éligibilité
+sensible puisque les caractéristiques des béné‑      aux CI‑RMA et CAV (encadré 2). Aussi, le
+ficiaires non suivis par l’ASP sont identiques à     choix a‑t‑il été fait d’échantillonner des non‑
+celles des autres bénéficiaires de CI‑RMA, tout      bénéficiaires spécialisés en fonction du public
+comme l’accompagnement dont ils bénéficient.         ciblé par le contrat.
+
+À la différence des panels précédents, la popu‑      Deux groupes de non‑bénéficiaires ont donc été
+lation de référence est définie dans le Panel        retenus : un premier groupe éligible aux CAE
+2008 par l’entrée dans l’état d’éligibilité aux      et CIE ; un second groupe éligible aux CI‑RMA et
+contrats aidés, cette éligibilité étant mesurée      CAV. Chaque groupe de non‑bénéficiaires pou‑
+par l’inscription à l’ANPE. Ce mode d’échan‑         vant servir de point de comparaison à deux popu‑
+tillonnage dans le flux entrant dans l’état d’éli‑   lations de bénéficiaires, le choix a été fait – pour
+gibilité permet de s’assurer que les trajectoires    minimiser les coûts d’enquête – d’échantillon‑
+des bénéficiaires de contrat aidé échantillonnés     ner un nombre de non‑bénéficiaires éligibles
+dans le Panel 2008 sont bien représentatives.
+Elle assure également un suivi continu des indi‑     6.  Le contrat aidé de référence correspond au premier contrat
+vidus, qui permet d’analyser la durée passée         observé sur la fenêtre. Les demandeurs d’emploi restés moins
+dans les différents états du marché du travail,      d’un mois en contrat aidé sont très peu nombreux et leurs carac‑
+et ainsi l’effet des dispositifs au cours du temps.  téristiques sont proches de celles des entrants restés au moins
+Cette approche nécessite toutefois d’adap‑           un mois. Le fait de les exclure ne diminue donc pas la portée des
+ter les méthodes standards d’appariement, qui        résultats de l’enquête.
+
+ÉCONOMIE ET STATISTIQUE N° 477, 2015                 39
+    inférieur à l’effectif total des deux échantillons        restriction garantit la présence dans l’échan‑
+    de bénéficiaires concernés. De plus, la spéciali‑         tillon de non‑bénéficiaires éligibles y compris
+    sation des non‑bénéficiaires n’exclut pas la pos‑         pour les bénéficiaires entrés tardivement en
+    sibilité qu’ils puissent servir de contrefactuels         dispositif. La population de non‑bénéficiaires
+    pour un autre dispositif que celui pour lequel ils        éligibles ainsi définie peut cependant s’avérer
+    ont été échantillonnés si leurs caractéristiques          moins comparable à celle des bénéficiaires. En
+    individuelles le permettent.                              effet, sont conservées comme non‑bénéficiaires
+                                                              les personnes sorties trop rapidement du chô‑
+    Ceci étant posé, à quelle condition un deman‑             mage pour se voir proposer un contrat aidé,
+    deur d’emploi peut‑il servir de contrefactuel à           mais sont exclues celles restées assez longtemps
+    un bénéficiaire ? Une condition nécessaire est            pour en bénéficier (cf. le troisième article de ce
+    que ses caractéristiques soient les plus proches          dossier pour une discussion détaillée sur ces
+    possibles de celles du bénéficiaire auquel il est         enjeux méthodologiques).
+    censé être comparé, autrement dit qu’il ait les
+    mêmes chances d’entrer en dispositif que ce der‑          Les non‑bénéficiaires éligibles aux CAE et CIE
+    nier. Les non‑bénéficiaires sont, par construction,       ont été sélectionnés selon un sondage stratifié
+    des demandeurs d’emploi qui se sont inscrits à            sans remise, proportionnel au nombre de béné‑
+    l’ANPE au deuxième trimestre 2005 et n’ont pas            ficiaires de CAE et CIE échantillonnés. Les
+    été recrutés en contrat aidé entre cette date et le       variables définissant les strates sont le sexe,
+    deuxième trimestre 2007. Cela ne signifie pas             l’âge, le niveau de diplôme, le nombre d’en‑
+    pour autant qu’ils n’auraient pas pu être recru‑          fants, la situation maritale et, pour les éligibles
+    tés sur un contrat aidé au cours de la période au         aux CAV et CI‑RMA, l’éligibilité aux minima
+    vu de leurs caractéristiques : il a donc été fait         sociaux. Le même type de sondage a été appli‑
+    l’hypothèse que les témoins potentiels devaient           qué aux non‑bénéficiaires éligibles aux CAV
+    être identiques aux bénéficiaires sur un certain          et CI‑RMA. En revanche, les strates étant plus
+    de nombre de caractéristiques observables – et            nombreuses, certaines d’entre elles se sont avé‑
+    donc avoir la même probabilité conditionnelle             rées trop petites pour comporter suffisamment
+    d’entrer en contrat aidé – que les bénéficiaires.         de non‑bénéficiaires éligibles7. Lorsque le cas
+
+    Définir un bon contrefactuel n’est pas trivial.           7.  Ce problème d’un nombre insuffisant de non‑bénéficiaires
+    Imposer le non‑recrutement en contrat aidé                éligibles dans certaines strates a été renforcé par le fait que l’éli‑
+    pendant deux ans constitue une nouveauté du               gibilité à ces contrats était difficile à repérer à partir des seules
+    Panel 2008, justifiée par l’étalement des dates           données du FH et pouvait n’être acquise qu’après l’inscription
+    d’entrée en contrat aidé des bénéficiaires. Cette         (le temps d’attente pour entrer dans les contrats réservés aux
+                                                              bénéficiaires de minima sociaux est relativement long).
+
+    Encadré 4
+
+               LE PLAN DE SONDAGE ÉQUILIBRÉ
+
+    Pour tenir compte de l’hétérogénéité des publics          L’échantillon a été tiré avec la macro SAS CUBE, algo‑
+    visés, la population des bénéficiaires a été stratifiée   rithme d’échantillonnage disponible sur le site de l’Insee
+    par type de contrat. En raison de leur faible préva‑      qui permet de tirer de manière aléatoire un échantillon
+    lence, les bénéficiaires de CI‑RMA ont tous été sélec‑    équilibré sur un ensemble de totaux connus à partir
+    tionnés, tandis que les bénéficiaires de CAE, CAV et      d’informations auxiliaires disponibles dans la base de
+    CIE ont été échantillonnés selon un plan de sondage       sondage. La méthode consiste à choisir un échantil‑
+    équilibré. Cette méthode assure le choix aléatoire        lon tel que les estimateurs d’Horvitz‑Thompson des
+    d’un échantillon apte à restituer les structures de la    totaux des variables servant à l’équilibrage coïncident
+    base de sondage pour les variables sur lesquelles il a    avec les vrais totaux de la base de sondage. La macro
+    été équilibré : le sexe, l’âge, le niveau de diplôme, la  s’applique aux bases de sondage munies d’informa‑
+    date d’entrée en contrat aidé (avant le deuxième tri‑     tions auxiliaires, qualitatives ou quantitatives, connues
+    mestre 2006 – période de montée en charge de ces          au niveau individuel. Cette méthode permet d’amélio‑
+    contrats – ou après le deuxième trimestre 2006). Pour     rer la précision des estimateurs associés aux variables
+    les bénéficiaires de CAV, le type d’allocation au titre   d’intérêt de l’enquête, dès lors que ces variables sont
+    duquel l’individu est entré en contrat aidé a également   corrélées avec celles utilisées pour l’équilibrage. En
+    été retenu : allocataire du RMI au deuxième trimestre     effet, la variance de l’estimateur d’Horvitz‑Thompson
+    2005, allocataire du RMI après cette date, allocataire    de la variable d’intérêt ne dépend que de la part de sa
+    de l’ASS au deuxième trimestre 2005, allocataire de       variabilité non expliquée par les variables utilisées pour
+    l’ASS après cette date.                                   l’équilibrage (Deville et Tillé, 2000).
+
+40                                                            ÉCONOMIE ET STATISTIQUE N° 477, 2015
+                                                                                                Le Panel 2008 de la Dares
+
+s’est présenté, l’ensemble des non‑bénéficiaires                               entrées en contrat aidé (échelonnées sur une
+de la strate ont été échantillonnés, et complé‑                                période de deux ans), mais également le devenir
+tés par un tirage aléatoire dans la strate voi‑                                à la sortie de celui-ci compte tenu de la durée
+sine8. Cette stratification réalisée ex ante limite                            moyenne des différents types de contrats aidés
+le risque d’échantillonner de nombreux non‑                                    (de 8 à 18 mois pour les embauches de 2005 et
+bénéficiaires qui s’avéreraient non comparables                                de 10 à 12 mois pour celles de 2006).8
+aux bénéficiaires et donc non mobilisables dans
+les estimations. Elle ne repose pas nécessaire‑                                Richesse du questionnaire
+ment sur les mêmes variables que celles utilisées
+ex post pour identifer l’effet causal du passage                               Le questionnaire a été conçu pour recueillir le
+en contrat aidé. En effet, de nombreuses infor‑                                maximum d’informations utiles à l’identifica‑
+mations complémentaires sur les bénéficiaires                                  tion d’un effet causal par appariement, qu’il
+et non‑bénéficiaires ont été collectées dans                                   s’agisse des nombreuses variables sur les‑
+l’enquête en vue de réaliser un appariement de                                 quelles apparier ex post témoins et bénéficiaires
+meilleure qualité.                                                             ou encore de variables de résultat variées sur
+                                                                               lesquelles mener l’évaluation.
+Protocole d’enquête
+                                                                               Une caractérisation fine des bénéficiaires
+Les bénéficiaires et les non‑bénéficiaires ont été                             et des non‑bénéficiaires
+interrogés à deux reprises : une première fois de
+novembre 2008 à février 2009, soit environ trois                               Afin de ne pas risquer d’attribuer au passage
+ans et demi après leur inscription à l’ANPE ; une                              en contrat aidé des effets sur l’insertion pro‑
+seconde fois un an plus tard, de novembre 2009                                 fessionnelle qui ne lui seraient pas liés, les
+à mars 2010 (figure 1). Le choix de cette fenêtre                              individus ont été interrogés sur certaines de
+d’observation résulte d’un compromis : d’une
+part, interroger sur un passé trop lointain pou‑                               8. La proximité entre les strates a été établie sur la base d’un
+vait engendrer des biais de mémoire ; d’autre                                  score de propension (probabilité d’entrer dans le dispositif)
+part, un recul suffisant était indispensable pour                              estimé à l’aide d’un modèle de durée afin de tenir compte du
+que puissent être observés non seulement les                                   temps écoulé avant l’entrée en contrat aidé.
+
+Figure I                                                         Contrat aidé          T4-2008     T4-2009
+Le protocole d’enquête                                              T2-2007            Vague 1     Vague 2
+
+                         Les béné ciaires
+                        Contrat
+
+                           aidé
+
+  T2-2005
+  ANPE
+
+                                      Les non-béné ciaires
+
+                                             pas d’entrée
+                                           en contrat aidé
+
+0                                     0,5  1                1,5  2             2,5  3  3,5      4  4,5 années
+
+Lecture : tous les enquêtés du Panel 2008 se sont inscrits à l’ANPE au deuxième trimestre 2005. Les « bénéficiaires » sont entrés en
+contrat aidé entre cette date et le deuxième trimestre 2007, au contraire des « non‑bénéficiaires ». La deuxième interrogation a eu lieu
+en moyenne quatre ans et demi après l’inscription à l’ANPE.
+Source : Dares, Panel 2008.
+
+ÉCONOMIE ET STATISTIQUE N° 477, 2015                                                                           41
+    leurs caractéristiques susceptibles d’expliquer          difficultés de transport mais aussi éventuelles
+    simultanément leur recrutement en contrat aidé           discriminations ressenties, etc.) ainsi que sur
+    et leur insertion sur le marché du travail. En           leur parcours professionnel antérieur. Toutes
+    effet, certains facteurs jouant sur la décision          ces questions, qui permettent de capter au
+    d’accepter ou non un contrat aidé sont égale‑            mieux l’hétérogénéité habituellement inobser‑
+    ment susceptibles d’expliquer pourquoi certains          vée des individus, sont importantes pour amé‑
+    individus s’insèrent mieux sur le marché du tra‑         liorer la qualité de l’évaluation, notamment
+    vail (possibilité de s’investir sur son poste de         dans le cas d’un appariement entre bénéficiaires
+    travail, motivation, état de santé, etc.). Le ques‑      et non‑bénéficiaires reposant sur l’hypothèse
+    tionnaire de la deuxième vague du panel a ainsi          d’indépendance conditionnelle9.
+    visé à recueillir auprès des bénéficiaires et des
+    non‑bénéficiaires les mêmes informations sur             D’autres informations non spécifiques à
+    leurs conditions de vie et sur certaines caracté‑        l’année 2005 permettent de mieux caractéri‑
+    ristiques habituellement inobservées : situation         ser les enquêtés comme, par exemple, ce que
+    familiale, état de santé et niveau de vie (dimen‑        les enquêtés considèrent être leurs atouts en
+    sions subjectives et objectives), littératie (capa‑      termes d’emploi (disponibilité, expérience,
+    cité à lire facilement un journal, à écrire une          formation initiale, voire propension à accep‑
+    lettre, etc.), niveau de formation et rapport aux        ter tout emploi qui leur serait proposé) ou
+    études (encadré 5).                                      encore les concessions qu’ils sont prêts à faire
+                                                             pour occuper un emploi (accepter un emploi à
+    Toutes ces informations ont été renseignées              temps partiel, loin de leur domicile, ne corres‑
+    pour l’année 2009, mais également de manière             pondant pas à leurs aspirations salariales, etc.).
+    rétrospective pour l’année 2005, soit avant              Les enquêtés ont aussi été interrogés sur leurs
+    l’entrée en contrat aidé. Les informations ainsi         rapports avec le service public de l’emploi
+    recueillies peuvent donc êtres mobilisées pour           (SPE) : régularité des contacts, besoins des
+    effectuer l’appariement entre bénéficiaires et           individus, propositions d’emploi et de forma‑
+    non‑bénéficiaires. En effet, les variables mobi‑         tion de la part du SPE. Lors de la deuxième
+    lisées pour conditionner l’appariement, si elles         vague d’enquête, des questions ont égale‑
+    sont susceptibles d’être affectées par le passage        ment été posées, aux bénéficiaires comme aux
+    par un contrat aidé, doivent être relatives à la         non‑bénéficiaires, sur les offres d’emploi en
+    période précédant l’entrée en contrat pour éviter        contrat aidé qu’ils ont pu recevoir au‑delà de
+    tout problème d’endogénéité (Givord, 2010).              la fenêtre d’entrée en contrat aidé : en ont‑ils
+
+    Les enquêtés ont également été interrogés sur            9. Even et Klein (2007) concluaient d’ailleurs leur article sur la
+    leur situation lors de l’inscription à l’ANPE au         nécessité d’ajouter des variables pour mieux prendre en compte
+    deuxième trimestre 2005 (motif d’inscription,            l’hétérogénéité inobservée. Des questions, non présentes dans
+    objectifs professionnels, etc.), sur les difficultés     le panel précédent, sur le rapport aux études, l’état de santé sub‑
+    rencontrées alors pour trouver un emploi – ou            jectif des individus, leur littératie, l’origine de leurs parents, etc.
+    freins à l’emploi – (problèmes de garde d’enfants,       ont ainsi été introduites dans le questionnaire du Panel 2008.
+
+    Encadré 5
+
+               EXTRAITS DU QUESTIONNAIRE
+
+    En 2005, diriez‑vous que financièrement :                Dans l’ensemble, avez‑vous le sentiment que l’école
+       1. Vous étiez à l’aise                                ou vos études...
+       2. Ça allait
+       3. C’était juste, il fallait faire attention             1. Vous ont aidé(e) à réussir dans la vie ?
+      4. Vous ne pouviez pas y arriver sans faire de dettes     2. Ne vous ont pas apporté grand chose ?
+       5. Vous n’arriviez plus à payer vos dettes               3. Vous ont gêné(e) plus qu’autre chose ?
+
+    Avez‑vous le sentiment d’avoir arrêté ou dû arrêter      Dans quelle(s) langue(s) vous parlaient d’habitude vos
+    trop tôt vos études ?                                    parents quand vous étiez enfant (vers l’âge de 5 ans)?
+
+      Oui / Non                                                 1. Le français uniquement
+                                                                2. Le français, mais pas seulement
+                                                                3. Une ou plusieurs langues, autres que le français
+
+42                                                           ÉCONOMIE ET STATISTIQUE N° 477, 2015
+                                                                                                  Le Panel 2008 de la Dares
+
+effectivement reçu ? Les ont‑ils acceptées ou                           salarié ou non, etc.), de chômage (indemnisé
+refusées ? Pour quelles raisons ?                                       ou non), d’inactivité ainsi que de formation, de
+                                                                        stage ou d’études. Pour la période antérieure au
+Enfin, autre nouveauté du Panel 2008, les                               printemps 2005, ce calendrier peut être com‑
+enquêtés ont été interrogés fin 2009 sur leur                           plété par la trajectoire des enquêtés observée
+connaissance des contrats aidés (noms des                               dans le FH entre 1997 et 2005. Connaître pré‑
+contrats, personnes éligibles, aides associées,                         cisément la temporalité des épisodes (fréquence
+type d’employeur éligible) ainsi que sur leur                           mensuelle dans le Panel 2008) constitue en effet
+regard sur ces contrats (moyen pour reprendre                           un préalable indispensable pour étudier l’effet
+contact avec le marché du travail, moyen d’accé‑                        causal d’un dispositif.
+der à l’emploi, etc.). Ces questions n’étaient pas
+mobilisables pour l’appariement dans la mesure                          Afin de mesurer la qualité de l’insertion pro‑
+où elles ont pu être influencées par le parcours                        fessionnelle, des informations sur les caracté‑
+qu’a connu le demandeur d’emploi de 2005 à                              ristiques des emplois occupés (rémunération,
+2009. Elles apportent néanmoins des éléments                            temps de travail, métier exercé, type d’em‑
+d’information essentiels et souvent peu connus                          ployeur, etc.) à des moments‑clés du parcours
+sur la notoriété des dispositifs d’aide à l’em‑                         professionnel ont été recueillies : dernier
+ploi. En particulier, l’opinion des demandeurs                          emploi avant l’inscription à l’ANPE au prin‑
+d’emploi sur les contrats aidés est globalement                         temps 2005 ; premier emploi après le contrat
+positive même si elle varie selon leur parcours                         aidé pour les bénéficiaires, ou après l’inscrip‑
+professionnel antérieur et leur situation à l’issue                     tion à l’ANPE pour les non‑bénéficiaires ; der‑
+du contrat le cas échéant (cf. deuxième article                         nier emploi occupé lors de la première vague
+de ce dossier).                                                         d’interrogation (fin 2008‑début 2009) ; et
+                                                                        dernier emploi occupé entre les deux vagues
+Un calendrier d’activité détaillé                                       d’interrogation s’il est différent du précédent
+pour mieux appréhender les trajectoires                                 (figure 2). Enfin, des précisions sur le dérou‑
+professionnelles                                                        lement du contrat aidé ont été demandées
+                                                                        aux bénéficiaires (existence et intensité de
+Un des objectifs principaux du questionnaire                            l’accompagnement pendant le contrat, nature
+de l’enquête a été de renseigner un calendrier                          des éventuelles formations suivies, etc.), pour
+rétrospectif d’activité couvrant la période allant                      compléter les informations disponibles dans
+de la date d’inscription à l’ANPE au printemps                          les fichiers administratifs des conventions
+2005 jusqu’à la date de la deuxième interroga‑                          d’embauche en contrat aidé. La qualité du
+tion, soit entre novembre 2009 et mars 2010.                            contrat aidé, en matière de formation ou d’ac‑
+Ce calendrier d’activité se décline selon quinze                        compagnement, constitue en effet une dimen‑
+modalités qui distinguent les différentes situa‑                        sion importante de son efficacité. Even et Klein
+tions d’emploi (aidé ou non, durable ou non,
+
+Figure II
+Les principaux emplois décrits dans l’enquête
+
+    Inscription à                     description                                                 Interrogation au Interrogation au
+l'ANPE au T2-2005                      du contrat
+                                                                                1er emploi après  T4-2008  T4-2009
+                                          aidé                                   le contrat aidé
+                                                                                                           béné ciaire
+                                                                        T2-2007
+
+dernier emploi                        période d'entrée en contrat aidé     dernier emploi                    emploi
+    avant                                                                  avant le T4-2008                entre les 2
+
+l'inscription à                                                                                              vagues
+
+l'ANPE                                                1er emploi après                                     non-béné ciaire
+                                                   l’inscription à l’ANPE
+
+Lecture : chaque figure entourée correspond à un bloc du questionnaire.  
+‑ Le contrat aidé peut intervenir à n’importe quel moment sur la période d’entrée en contrat aidé. Si la personne est entrée plusieurs fois
+en contrat aidé sur la période, c’est le 1er contrat aidé de plus d’un mois qui est décrit.
+‑ Le dernier emploi avant l’interrogation fin 2008‑début 2009 n’est décrit que s’il ne correspond pas au 1er emploi après l’inscription à
+l’ANPE pour les non‑bénéficiaires et après le contrat aidé pour les bénéficiaires.
+‑ L’emploi entre les deux vagues n’est décrit que s’il est différent du dernier emploi avant fin 2008‑début 2009 ; dans le cas contraire,
+c’est l’évolution des caractéristiques de cet emploi qui est étudiée.
+Source : Panel 2008, Dares.
+
+ÉCONOMIE ET STATISTIQUE N° 477, 2015                                                                                                 43
+    (2007) soulignaient déjà l’intérêt d’ouvrir la         CI‑RMA, contre 49 % pour les non‑bénéficiaires
+    boîte noire du programme10.                            éligibles à ces deux contrats (tableau 2).10
+
+    Au total, la richesse du calendrier permet l’étude     Les coordonnées des bénéficiaires de contrats
+    de nombreuses variables de résultats comme             aidés, renseignées dans la base des conventions
+    la probabilité d’occuper un emploi non aidé à          de l’ASP ou dans le fichier historique de l’ANPE,
+    l’issue du passage en contrat aidé, la qualité de      étaient en effet probablement plus récentes que
+    l’emploi retrouvé (CDD ou CDI, emploi aidé             celles des non‑bénéficiaires. Si le fichier his‑
+    ou non, etc.), le temps écoulé avant d’obtenir         torique contient théoriquement les coordon‑
+    un emploi non aidé, la récurrence des passages         nées de la totalité de l’échantillon en date du
+    en contrat aidé ou encore le risque de chômage         deuxième trimestre 2005, les bénéficiaires de
+    à l’issue du contrat ainsi qu’après des emplois        contrat aidé ont pu actualiser leurs coordonnées
+    ultérieurs. En outre, les enquêtés ont été égale‑      téléphoniques au moment de leur embauche
+    ment interrogés sur l’évolution de leurs condi‑        en contrat aidé. De plus, certains ont pu avoir
+    tions de vie depuis l’entrée en contrat aidé, ce       des contacts plus fréquents avec l’ANPE en
+    qui permet d’élargir l’analyse causale du pas‑         cours de contrat ou se réinscrire à l’ANPE à
+    sage en contrat aidé à d’autres dimensions que         l’issue de ce dernier. La qualité des coordon‑
+    celle de la seule trajectoire professionnelle. Cet     nées semble ainsi être la principale explication
+    élargissement est d’autant plus pertinent que les      d’un plus faible taux de réponse des non‑béné‑
+    objectifs assignés aux contrats aidés sont sou‑        ficiaires éligibles ; cette explication est d’ail‑
+    vent multiples : l’étude de leurs effets sur les       leurs confirmée par les motifs de non‑réponse
+    revenus, sur le lien entretenu avec le marché          détaillés fournis par le prestataire12. N’étant pas
+    du travail ou encore sur la formation peut utile‑      directement lié aux variables d’appariement ou
+    ment compléter celle de leurs effets sur le taux       d’intérêt, le biais susceptible d’affecter la com‑
+    de retour à l’emploi (Charpail et al., 2005).          paraison entre bénéficiaires et non‑bénéficiaires
+                                                           peut être considéré comme limité13. Les taux de
+    Recueil et traitement des données                      réponse de la deuxième vague très homogènes
+                                                           entre les différentes populations (de l’ordre de
+    Déroulement du recueil de données                      82 %) tendent à confirmer l’hypothèse émise
+                                                           d’une plus grande fraîcheur des coordonnées
+    Recueillir des données similaires pour les béné‑       des bénéficiaires en première vague.
+    ficiaires et les non‑bénéficiaires est essentiel à la
+    qualité de l’évaluation car cela permet d’élimi‑       10.  Quelques questions sur ces aspects existaient déjà dans le
+    ner toute corrélation entre l’entrée en dispositif     Panel 2000 mais elles étaient plus ou moins approfondies selon
+    et les erreurs de mesure ou comportements de           les dispositifs et ne permettaient pas de disposer d’une mesure
+    non‑réponse (Crépon et Kamionka, 2006).Aussi,          homogène.
+    les bénéficiaires et les non‑bénéficiaires ont‑ils     11.  Lors du Panel 2000, les personnes avaient d’abord été inter‑
+    fait l’objet d’un questionnaire téléphonique           rogées par téléphone, puis les non‑répondants l’avaient été en
+    commun. Lors de la collecte, il était également        face à face et enfin les non‑répondants restants avaient reçu
+    fondamental de garantir la comparabilité entre         un questionnaire par voie postale. Or, ces modes multiples de
+    bénéficiaires et non‑bénéficiaires, et notamment       recueil de l’information, s’ils avaient le mérite d’augmenter le
+    un taux de réponse homogène entre les deux             taux de réponse et de permettre de caractériser les non‑répon‑
+    populations. Cette exigence s’est traduite par         dants à l’enquête téléphonique, présentaient l’inconvénient de
+    une non‑spécialisation des enquêteurs par popu‑        mélanger des informations obtenues de manière différente et
+    lation (bénéficiaires versus non‑bénéficiaires),       donc non directement comparables.
+    ainsi que par un effort de recherche des coordon‑      12. La part des faux numéros nominatifs, des numéros non
+    nées et un nombre d’appels téléphoniques iden‑         attribués, incomplets, etc., est un peu plus élevée pour les
+    tiques entre bénéficiaires et non‑bénéficiaires11      non‑bénéficiaires que pour les bénéficiaires qui leur sont asso‑
+    (encadré 6). Malgré tout, le taux de réponse           ciés. D’autres explications peuvent toutefois être avancées : le
+    s’est avéré légèrement plus élevé pour les             plus faible taux de réponse observé pour les non‑bénéficiaires
+    bénéficiaires que pour les non‑bénéficiaires :         pourrait s’expliquer par des difficultés avec la langue française
+    il atteint respectivement 58 % et 55 % pour            plus importantes parmi les témoins ; ce qui pourrait conduire à
+    les bénéficiaires de CAE et de CIE, contre             sous‑estimer l’effet du dispositif, les non‑bénéficiaires interrogés
+    51 % pour les non‑bénéficiaires éligibles à ces        étant davantage insérés professionnellement que les non‑répon‑
+    deux contrats ; il s’élève respectivement à 56 %       dants. Ce facteur est néanmoins limité puisque d’après les motifs
+    et 52 % pour les bénéficiaires de CAV et de            renseignés par le prestataire, la part des dialogues impossibles
+                                                           liés à des difficultés de langue diffère relativement peu entre
+                                                           bénéficiaires et non‑bénéficiaires.
+                                                           13. Néanmoins, la mobilité peut être corrélée avec l’em‑
+                                                           ploi (déménagement pour reprise d’emploi dans une autre
+                                                           région, jeunes quittant le domicile familial) : il est possible que
+                                                           les non‑bénéficiaires interrogés soient davantage suscep‑
+                                                           tibles d’être au chômage que l’ensemble de la population des
+                                                           non‑bénéficiaires, ce qui conduirait à surestimer l’effet du dis‑
+                                                           positif. A contrario, dans le cas de téléphones mobiles, les per‑
+                                                           sonnes pourraient avoir abandonné leur forfait faute de revenus :
+                                                           l’effet de la mesure serait alors sous‑estimé.
+
+44                                                         ÉCONOMIE ET STATISTIQUE N° 477, 2015
+                                                                                         Le Panel 2008 de la Dares
+
+Globalement, la non‑réponse en première vague                          etc.) : hormis pour les bénéficiaires de CI‑RMA
+d’enquête s’explique à hauteur de 79 % par l’im‑                       pour lesquels cette part est de 73 %, on observe
+possibilité de joindre les personnes de l’échan‑                       peu de variations entre les populations. Tous
+tillon (faux numéros, répondeurs, personnes                            publics confondus, 10 % de la non‑réponse est
+injoignables durant la période de l’enquête,                           imputable à des refus ; environ 4 % se justifie
+
+Encadré 6
+
+     ÉLÉMENTS MIS EN ŒUVRE POUR MAXIMISER LE TAUX DE RÉPONSE À L’ENQUÊTE
+
+Afin de vérifier l’homogénéité du taux de réponse et                   Des enveloppes T ont été jointes à cet envoi pour que
+tenter de le maximiser, un suivi des remontées du                      les personnes sans numéro après recherche des coor‑
+terrain au jour le jour a été mis en place : le nombre                 données puissent renvoyer un numéro de téléphone
+d’entretiens réalisés auprès de chaque population                      auquel les contacter (12 % des personnes concernées
+de témoins et de bénéficiaires a ainsi été mesuré                      ont répondu).
+en continu. Les coordonnées des enquêtés ont
+été fournies par lots au prestataire en charge de                      Lors de la seconde vague, un coupon réponse a systé‑
+l’enquête : afin d’améliorer le taux de réponse ces                    matiquement été envoyé aux enquêtés pour leur per‑
+lots n’ont été débloqués que séquentiellement de                       mettre d’actualiser leurs coordonnées téléphoniques
+manière à ce que le prestataire focalise ses efforts                   et de donner les horaires auxquels les joindre (le taux
+de contact téléphonique sur un nombre restreint de                     de retour des coupons a été de l’ordre de 20 %) ;
+personnes simultanément.                                               les personnes injoignables au bout de 20 appels ont
+                                                                       été rappelées aux plages horaires auxquelles elles
+Pour compléter les numéros de téléphone man‑                           n’avaient pas été appelées ; celles qui avaient com‑
+quants et corriger les numéros erronés, le prestataire                 muniqué leur adresse mail lors de la première vague
+a recherché et vérifié les coordonnées téléphoniques                   d’enquête ont été contactées par ce biais ; le pres‑
+de toutes les personnes appartenant à l’échantillon                    tataire a également utilisé un numéro de téléphone
+(appariement avec les fichiers de France Télécom et                    démasqué censé diminuer la non‑réponse.
+des déménagés de la Poste, recherche des homo‑
+nymes, etc.).                                                          Enfin, pour faciliter la passation du questionnaire et
+                                                                       éviter les abandons en cours d’entretien, plusieurs
+Conformément aux engagements de la Dares vis‑à‑vis                     informations concernant le contrat aidé des béné‑
+du Comité du Label du Cnis, un courrier a été envoyé                   ficiaires ont été extraites des bases administratives
+à l’ensemble des personnes enquêtées les informant                     et introduites dans le questionnaire (le nom de l’em‑
+des objectifs de l’enquête et de l’appel d’un enquêteur.               ployeur notamment et la date précise d’embauche).
+
+Tableau 2
+
+Échantillonnage des populations de bénéficiaires et de non‑bénéficiaires
+
+                                            Effectifs      Nombre      Taux de réponse         Nombre     Taux de réponse
+                                         dans dans la  de répondants     à la 1re vague   de répondants     à la 2e vague
+                                      base de sondage  à la 1re vague        (en %)      aux deux vagues        (en %)
+
+CAE                                   25 000           1 313           58                1 088            83
+
+CIE                                   15 100           1 515           55                1 257            83
+
+Non‑bénéficiaires éligibles           819 500          2 285           51                1 872            82
+
+aux CAE et CIE
+
+CAV                                   8 400            1 435           56                1 165            81
+
+CI‑RMA                                1 200            630             52                518              82
+
+Non‑bénéficiaires éligibles           132 200          1 185           49                965              81
+
+aux CAV et CI‑RMA
+
+Ensemble                              869 200          8 363           53                6 865            82
+
+Note : les effectifs de non‑bénéficiaires éligibles aux CAV et CI‑RMA dans la base de sondage sont inclus dans les effectifs de non‑
+bénéficiaires éligibles aux CAE et CIE (deuxième colonne). Le taux de réponse en seconde vague d’interrogation est calculé sur le
+champ des répondants à la première vague d’interrogation (dernière colonne).
+
+Lecture : 25 000 personnes sont repérées comme bénéficiaires de CAE parmi les près de 870 000 personnes présentes dans la base
+de sondage.
+Champ : demandeurs d’emploi qui se sont inscrits à l’ANPE en catégorie A, B ou C au deuxième trimestre 2005 en France métropoli‑
+taine, après une sortie des listes d’au moins 30 jours.
+Source : ASP, fichier des conventions individuelles d’embauches en contrat aidé ; Pôle emploi, fichier historique des demandeurs
+d’emploi ; Dares, Panel 2008.
+
+ÉCONOMIE ET STATISTIQUE N° 477, 2015                                                                          45
+    par des difficultés de compréhension du ques‑               de pondération ont‑ils été construits (un pour
+    tionnaire pour des personnes ne parlant pas très            la première vague exclusivement et un pour les
+    bien le français. Au total, 8 363 entretiens ont            répondants aux deux vagues). La méthode géné‑
+    été réalisés en première vague et 6 865 en deu‑             rale de redressement des données (encadré 7) a
+    xième vague.                                                été mise en œuvre en deux étapes : dans un pre‑
+                                                                mier temps pour corriger de la non‑réponse à la
+    Le calcul des pondérations                                  première vague, en mobilisant les variables pré‑
+                                                                sentes dans la base de sondage ; dans un second
+    Afin d’assurer la représentativité des estima‑              temps pour corriger de l’attrition entre la pre‑
+    tions conduites sur le Panel 2008, les poids de             mière et la seconde vague, en mobilisant de sur‑
+    sondage des individus ayant répondu à l’enquête             croît les variables recueillies lors de la première
+    ont été modifiés pour corriger de la non‑réponse            vague. Il n’y a en effet aucune raison pour que
+    en première vague, ainsi que de l’attrition entre           les variables expliquant la non‑réponse soient
+    les deux vagues. Il est nécessaire de calculer ces          les mêmes que celles expliquant l’attrition. En
+    pondérations pour les non‑bénéficiaires aussi               première étape, en plus des variables « clas‑
+    bien que pour les bénéficiaires : en effet, dans            siques » d’explication de la non‑réponse, telles
+    le cadre d’un appariement sur la base d’un score            que le sexe, la situation familiale ou le niveau
+    de propension (cas le plus fréquent), la régres‑            de diplôme, jouent également la trajectoire
+    sion modélisant la probabilité d’entrer dans le             antérieure sur le marché du travail (le nombre
+    dispositif doit être pondérée pour être précisé‑            d’épisode de chômage indemnisés ou non, la
+    ment estimée. Les données de la première vague              perception d’un minimum social) et les caracté‑
+    peuvent, sur certains champs de l’enquête, être             ristiques du contrat aidé de référence (tableau B
+    exploitées seules, sans nécessité de recourir aux           en annexe). Ainsi, le temps de travail hebdo‑
+    données de la deuxième vague, aussi deux jeux               madaire prévu durant le contrat explique la
+                                                                non‑réponse pour tous les bénéficiaires exceptés
+
+    Encadré 7
+
+               LE CALCUL DES PONDÉRATIONS
+
+    Le principe général consiste à attribuer à chaque           h sur le nombre d’individus nh enquêtés dans cette
+    répondant r une probabilité de réponse pr qui, multi­       même sous‑population :
+    pliée par la probabilité d’inclusion, permet de dis‑
+    poser d’estimateurs sans biais sur la population du         ∑1/ π k
+    champ couvert :
+                                                                ∑ �ph =rh
+                      ∑ Y� = 1 yr
+                                                                         1/ πk
+                                     R π r pr
+                                                                nh
+
+    où R désigne l’ensemble des répondants, yr la valeur        Notons que certains individus classés ont été repérés
+    de la variable Y pour l’individu répondant r et πr sa pro‑  comme hors champ parmi les enquêtés. Il s’agit en par‑
+    babilité d’inclusion.                                       ticulier des individus « hors cible » par les enquêteurs
+                                                                (personnes retraitées, décédées, etc.), mais aussi des
+    Les vraies probabilités de réponse étant inconnues,         bénéficiaires ayant déclaré ne pas avoir eu de contrat
+    la démarche consiste à calculer les poids par un            aidé ainsi que des non‑bénéficiaires éligibles ayant
+    modèle de non‑réponse et par calage (Caron, 2005).          déclaré être passés par un contrat aidé sur la période
+    Pour ce faire, un arbre de décision modélisant le           de référence, Ces individus hors champ ont été traités
+    comportement de réponse a été construit séparé‑             comme répondants – avec dilatation de leur poids –
+    ment pour chaque population de bénéficiaires et             puis supprimés de l’échantillon en fin de première étape
+    de non‑bénéficiaires éligibles (utilisation de l’algo‑      avec leurs poids redressés et calés (Brion et al., 2005 ;
+    rithme CHAID (CHi squared Automatic Interaction             Brilhault et Caron, 2005). Le calage de l’échantillon de
+    Detector). Cette modélisation par segmentation four‑        la deuxième vague – qui compte uniquement les répon‑
+    nit des regroupements d’individus, dits « groupes de        dants à la deuxième vague appartenant au champ de
+    réponse homogènes » (GRH) car les individus qui les         l’enquête – s’effectue alors sur les marges construites
+    composent sont supposés avoir un comportement               à partir de l’échantillon de répondants à la première
+    de réponse similaire. Les probabilités de réponse           vague pondéré par les poids calés de première étape.
+    au sein de chaque GRH h sont calculées comme le             Cette méthode permet d’estimer les caractéristiques
+    rapport pondéré (par les probabilités d’inclusion πk )      des individus dans le champ de l’enquête, et assure par
+    du nombre de répondants rh dans la sous‑population          conséquent une bonne représentativité de l’échantillon.
+
+46                                                              ÉCONOMIE ET STATISTIQUE N° 477, 2015
+                                                       Le Panel 2008 de la Dares
+
+ceux de CAV pour lesquels ce temps de tra‑             l’ensemble des demandeurs d’emploi qui se
+vail est fixé à 26 heures. Le type d’employeur         sont inscrits à l’ANPE au printemps 2005.
+(association, Éducation nationale, etc.) est éga‑
+lement corrélé au comportement de réponse                                        *  *
+des bénéficiaires de CAE et de CAV. La prise                                       *
+en compte des variables d’enquête en deu‑
+xième étape permet d’enrichir l’analyse et de          Le Panel 2008, grâce à un protocole conçu spé‑
+mieux modéliser le comportement d’attrition.           cifiquement pour l’évaluation, permet d’isoler
+Par exemple, le motif d’entrée ou l’utilité            l’effet du passage en contrat aidé et de répondre
+retirée du passage en contrat aidé expliquent          aux questions suivantes : les chances d’obte‑
+quasi‑systématiquement l’attrition des bénéfi‑         nir un emploi sont‑elles plus grandes après un
+ciaires. Disposer du permis de conduire en 2005        contrat aidé ? Les emplois retrouvés (CDD/
+explique l’attrition des bénéficiaires de CAE          CDI, salaire, durée en emploi, etc.) sont‑ils de
+et de CIE et des non‑bénéficiaires éligibles à         meilleure qualité ? Le contrat aidé ne fait‑il
+ces contrats.                                          que différer l’accès à un emploi durable ou, au
+                                                       contraire, permet‑il d’y accéder plus rapidement
+Un calage sur marges a également été mis en            une fois terminé ? La richesse du question‑
+œuvre à chaque étape afin de redonner à l’échan‑       naire permet d’étudier des variables de résultat
+tillon une structure comparable à celle de la base     variées : emploi versus chômage à l’issue du
+de sondage, constituée des personnes qui se sont       contrat aidé ; temps écoulé avant l’obtention
+inscrites à l’ANPE au printemps 2005. Chaque           d’un emploi à l’issue d’un contrat aidé ; qualité
+population a été calée séparément. Les variables       de l’emploi retrouvé ; conditions de vie à l’issue
+retenues pour caler les échantillons sont issues       du contrat aidé (objectives et subjectives) ; état
+du FH (caractéristiques individuelles – sexe,          de santé, etc.
+âge, niveau de diplôme – trajectoire passée au
+chômage, catégorie et motif d’inscription, per‑        Parallèlement à ces travaux évaluatifs, le
+ception d’un minimum social, etc.), ainsi que          Panel 2008 alimente des travaux descriptifs
+des conventions individuelles d’embauche en            sur de nombreux aspects des trajectoires des
+contrat aidé pour les bénéficiaires (durée heb‑        bénéficiaires de contrat aidé, leurs caractéris‑
+domadaire du travail pendant le contrat aidé,          tiques (état de santé, configurations familiales,
+secteur d’activité et statut de l’employeur du         niveau de vie, etc.) ainsi que leur opinion sur
+contrat aidé, durée du contrat, etc.). Mobiliser       les contrats aidés et leurs relations avec le ser‑
+les variables issues des fichiers des conventions      vice public de l’emploi. Plus généralement, il
+individuelles d’embauche en contrat aidé per‑          fournit également des informations sur les liens
+met de s’assurer que les échantillons de béné‑         que les bénéficiaires entretiennent avec le mar‑
+ficiaires sont représentatifs des demandeurs           ché du travail. Ces analyses donnent lieu à des
+d’emploi entrés en CAE, CAV, CIE ou CI‑RMA             publications spécifiques (Le Minez et al., 2012,
+entre le printemps 2005 et le printemps 2007.          Benoteau et Rémy, 2013, Benoteau, 2014),
+                                                       les derniers aspects évoqués font notamment
+Avec ces jeux de pondérations, les résultats           l’objet du 2e article de ce dossier.
+sur les répondants permettent de caractériser
+
+                                      BIBLIOGRAPHIE
+
+Aucouturier A.‑L. (1993), « Contribution à la          d’évaluation de l’impact des contrats aidés sur la
+mesure de l’efficacité de la politique de l’emploi »,  trajectoire professionnelle », Document d’études
+Travail et Emploi, vol. 55, pp. 20‑29.                 de la Dares, n° 174, novembre, Dares.
+
+Belleville A. (2001), « L’utilisation des aides        Benoteau I. et Rémy V. (2013), « L’opinion des
+à l’emploi par les entreprises : permanence ou         demandeurs d’emploi sur les contrats aidés »,
+logique conjoncturelle ? », Premières Synthèses        Dares Analyses, n° 018, Dares.
+n° 25.1, Dares.
+                                                       Benoteau I. (2014), « Les déterminants de
+Benoteau I., Le Minez S., Lequien L. et Rémy V.        l’entrée en contrat aidé », Dares Analyses, n° 004,
+(2012), « Le Panel 2008 de la Dares : un outil         Dares.
+
+ÉCONOMIE ET STATISTIQUE N° 477, 2015                   47
+    Biau O., Le Rhun B., et Lamarche P. (2008),           Fendrich Y. et Le Rhun B. (2008), « Les contrats
+    « Le devenir des salariés sortis de contrat aidé du   aidés du Plan de Cohésion Sociale en 2007 : forte
+    Plan de Cohésion Sociale en 2006, six mois après      baisse des entrées en contrat initiative emploi »,
+    la fin de l’aide de l’État », Premières Synthèses,    Premières Synthèses, n° 51.4, Dares.
+    n° 35.1, Dares.
+                                                          Fendrich Y. et Rémy V., en collaboration avec
+    Brilhault G., et Caron N. (2005), « La correction     Le Rhun B. (2009), « L’insertion professionnelle
+    de la non‑réponse totale : quelles méthodes ? »,      six mois après la sortie de contrats aidés : une ana‑
+    La lettre du SSE, n° 58, Dossier « Méthodes de        lyse des salariés sortis en 2007 de CIE, CI‑RMA,
+    redressement de la non‑réponse ».                     CAE et CAV », Premières Synthèses, n° 45.1, Dares.
+
+    Brion P., Caron N. et Piétri‑Bessy P. (2005),         Fredriksson P. et Johansson P. (2008), « Dyna‑
+    « Redresser la non‑réponse totale dans les            mic Treatment Assignment: the Consequences for
+    enquêtes auprès des entreprises : les pièges à évi‑   Evaluations Using Observational Data », Journal
+    ter. Illustration avec l’enquête Innovation, Docu‑    of Business and Economic Statistics, vol. 26, n° 4,
+    ment Insee, Actes des IXes Journées de Méthodo‑       pp. 435‑445.
+    logie Statistique.
+                                                          Gélot D. et Simonin B. (1996), « L’évaluation
+    Caron N. (2005), «  La correction de la non‑réponse   de la politique de l’emploi : un bilan partiel des
+    par repondération et par imputation », Document       pratiques depuis la fin des années soixante‑dix »,
+    de travail de l’Insee, n° M0502, Paris.               dans 40 ans de politique de l’emploi, Dares, La
+                                                          documentation française, Paris, pp. 277‑322.
+    Charpail C., Klein T. et Zylberman S. (2005),
+    « Évaluation des politiques d’emploi : la deu‑        Givord P. (2010), « Méthodes économétriques
+    xième génération des panels des bénéficiaires »,      pour l’évaluation de politiques publiques », Docu‑
+    Document d’études de la Dares, n° 95.                 ment de travail de la DESE, n° G2010‑08, Insee.
+
+    Crépon B. et Kamionka T. (2006), « Expertise          Lamarche P. et Pujol J. (2007), « Les contrats
+    des fichiers du Panel 2000 des bénéficiaires des      d’aide à l’emploi du Plan de Cohésion Sociale en
+    politiques de l’emploi de la Dares et orientations    2006 », Premières Synthèses, n° 41.2, Dares.
+    pour le futur », mimeo, Dares.
+                                                          Lamarche P. et Pujol J. (2006), « Les contrats
+    Deville J.‑C. et Tillé Y. (2000), « Balanced sam‑     d’aide à l’emploi du Plan de Cohésion Sociale
+    pling by means of the Cube method », Document         en 2005 : premier bilan », Premières Synthèses,
+    de travail Crest‑Ensai.                               n° 37.3, Dares.
+
+    Even K. (2002), « Un outil rénové pour évaluer        Le Minez S., Lequien L., Le Rhun B. et Rémy V.,
+    la politique de l’emploi et de la formation profes‑   avec la collaboration de Bahu M. (2012), « Les
+    sionnelle : le panel des bénéficiaires », Premières   trajectoires professionnelles des bénéficiaires de
+    Informations, n° 33.1, Dares.                         contrats aidés. Premiers résultats du Panel 2008
+                                                          de la Dares », Dares Analyses, n° 085, Dares.
+    Even K. et Klein T. (2007), « Les contrats et stages
+    aidés : un profit à moyen terme pour les partici‑     Le Rhun B. et Fendrich Y. (2008), « Les contrats
+    pants ? Les exemples du CIE, du CES et du Sife »,     aidés du Plan de Cohésion Sociale en 2007 : forte
+    Économie et Statistique, n° 408‑409, pp. 3‑32.        baisse des entrées en contrat initiative emploi »,
+                                                          Premières Synthèses, n° 51.4, Dares.
+    Fendrich Y. (2010), « L’insertion professionnelle
+    des personnes sorties de contrat aidé en 2008 : un    Rosenbaum P. et Rubin D. (1983), « The cen‑
+    accès à l’emploi relativement peu affecté par la      tral role of the propensity score in observational
+    dégradation de la conjoncture », Dares Analyses,      studies for causal effects », Biometrika, vol. 70,
+    n° 078, Dares.                                        pp. 41‑55.
+
+    Fendrich Y., Gratadour C. et Rémy V. (2010),          Sianesi B. (2004), « An evaluation of the Swedish
+    « Les employeurs et les contrats aidés : motivation   system of active labour market programmes in the
+    et processus de recrutement », Dares Analyses         1990s », The Review of Economics and Statistics,
+    n° 041, Dares.                                        vol. 86, n° 1, pp. 133‑155.
+
+48                                                        ÉCONOMIE ET STATISTIQUE N° 477, 2015
+ÉCONOMIE ET STATISTIQUE N° 477, 2015  Tableau A                                                      Secteur marchand                                                       CAE                  Secteur non marchand                                                            Le Panel 2008 de la Dares
+                                      Réglementation sur les contrats aidés                                                                                                                                                             CAV
+                                                                                                                                     CI‑RMA            Les publics sont définis                                                                                       ANNEXE______________________________________________________________________________________
+                                                                                                CIE                                                    au niveau régional.                    Bénéficiaires du revenu minimum d’insertion (RMI), de l’allocation
+                                                                                                                Bénéficiaires du revenu minimum                                               de solidarité spécifique (ASS), de l’allocation de parent isolé (API),
+                                      Publics éligibles     Les publics sont définis                            d’insertion (RMI), de l’allocation                                            de l’allocation aux adultes handicapés (AAH) (depuis mars 2006).
+                                                            au niveau régional.                                 de solidarité spécifique (ASS),
+                                                                                                                de l’allocation de parent isolé
+                                                                                                                (API), de l’allocation aux adultes
+                                                                                                                handicapés (AAH) (depuis avril 2006).
+
+                                      Type de contrat       CDI ou CDD de 24 mois                    CDI ou CDD de 6 mois minimum                      CDD de 6 mois minimum                  CDD de 24 mois, renouvelable dans la limite de 36 mois
+                                      de travail            maximum.                                 ou contrat de travail temporaire                  renouvelable dans la limite            (voire 60 mois pour les plus de 50 ans et les travailleurs
+                                                                                                     renouvelables deux fois dans la limite            de 24 mois.                            handicapés). Par dérogation, CDD d’une durée comprise
+                                                                                                     de 18 mois.                                                                              entre 6 et 24 mois, renouvelable 2 fois dans la limite de 36 mois.
+
+                                      Temps de travail      Temps partiel ou temps complet ;         Temps partiel ou temps complet ;                  Temps partiel ou temps complet ;       Durée hebdomadaire fixée à 26 heures. À partir du début 2006,
+                                                            s’il est à temps partiel, la durée       s’il est à temps partiel, la durée                s’il est à temps partiel, la durée     elle peut être comprise entre 20 et 26 heures lorsque l’embauche
+                                                            hebdomadaire de travail doit être        hebdomadaire de travail doit être                 hebdomadaire de travail doit être      est réalisée par les ateliers et chantiers d’insertion ou
+                                                            d’au moins 20 heures.                    d’au moins 20 heures.                             d’au moins 20 heures.                  par une entreprise ou une association de services à la personne.
+
+                                      Prise en charge       Aide mensuelle de l’État fixée           Aide forfaitaire égale au montant                 Aide mensuelle de l’État fixée         Aide forfaitaire égale au montant du RMI‑RSA garanti
+                                      de l’État             par arrêté du préfet de région,          du RMI‑RSA garanti à une personne                 par arrêté du préfet de région,        à une personne isolée
+                                                            dans la limite de 47 % du Smic.          isolée.                                           dans la limite de 95 % du Smic.        Aide dégressive complémentaire : 75 % du coût restant à la charge
+                                                                                                                                                                                              de l’employeur la première année, 50 % les années suivantes.
+                                                                                                                                                                                              L’aide complémentaire de l’État a été égale à 90 % du coût restant
+                                                                                                                                                                                              à la charge de l’employeur les 6 premiers mois jusque fin 2007.
+                                                                                                                                                                                              Pour les ateliers et chantiers d’insertion, le taux de l’aide est fixé
+                                                                                                                                                                                              à 90 % pendant toute la durée d’exécution du contrat.
+
+                                      Autres avantages      Cumul possible avec certains             Cumul possible avec certains                      Exonérations des cotisations           Exonération de cotisations et de contributions patronales
+                                      pour l’employeur      dispositifs d’allégement                 dispositifs d’allégement ou                       et contributions patronales            de sécurité sociale.
+                                                            ou d’exonération de cotisations          d’exonération de cotisations sociales.            de sécurité sociale dans la limite     Aide supplémentaire de 1500 € en cas d’embauche en CDI
+                                                            patronales de sécurité sociale.                                                            du Smic, de la taxe sur les salaires,  avant la fin du contrat
+                                                                                                                                                       de la taxe d’apprentissage,
+                                                                                                                                                       de la taxe due au titre de l’effort
+                                                                                                                                                       de construction
+
+                                      Employeurs éligibles  Tous les employeurs entrant              Tous les employeurs entrant                       Les collectivités territoriales        Les collectivités territoriales et autres personnes morales de droit
+                                                            dans le champ de l’assurance             dans le champ de l’assurance                      et autres personnes morales            public, les personnes morales chargées de la gestion d’un service
+                                                            chômage et les employeurs de             chômage et les employeurs de pêche                de droit public, les personnes         public, les autres organismes de droit privé à but non lucratif.
+                                                            pêche maritime. Les particuliers         maritime. Les particuliers employeurs             morales chargées de la gestion
+                                                            employeurs sont exclus.                  sont exclus.                                      d’un service public, les autres
+                                                                                                                                                       organismes de droit privé à but
+                                                                                                                                                       non lucratif.
+
+49
+50
+
+                                      Tableau B
+                                      Variables mobilisées pour le redressement des données
+
+                                                                      CIE                          CI‑RMA                    CAE                          CAV                       Non‑bénéficiaires de CIE       Non‑bénéficiaires
+                                                                                                                                                                                              et de CAE         de CI‑RMA et de CAV
+                                        Taille de la base de sondage  15 119                                    1 221             25 000                  8 416
+                                              (hors champ inclus)     14 877                                    1 213             24 825                  8 297                                819 429                   132 187
+                                                                      2 775                                     1 210             2 280                   2 583                                797 040                   123 254
+                                      Population sans les hors champ
+                                                                                                                 635         Vague 1                      1 451                                  4 550                     2 470
+                                                 Échantillon tiré                                                630                                      1 435
+                                                                                                                                  1 322                   Sexe                                   2 342                     1 246
+                                        Retours en vague 1            1 538                             Situation familiale       1 313                                                          2 285                     1 185
+                                      Répondants en vague 1           1 515                            Niveau de diplôme           Sexe                                                           Sexe                      Sexe
+                                                                                                                                                                                                  Age              Situation familiale
+                                                                                    Age            Perception d’un minimum        Situation familiale          Nivau de diplôme          Situation familiale      Niveau de diplôme
+                                                                                                                social           Niveau de diplôme                                      Niveau de diplôme     Perception d’un minimum
+                                                                           Situation familiale                                                                      Nationalité               Nationalité                  social
+                                                                                                      Motif et/ou catégorie            Nationalité                                  Perception d’un minimum
+                                                                          Niveau de diplôme          d’inscription à l’ANPE  Perception d’un minimum      Perception d’un minimum                social         Périodes de chômage
+                                                                                                                                                                       social          Motif et/ou catégorie   connues sur la période
+                                                                                Nationalité                 au T2‑2005                    social                                      d’inscription à l’ANPE
+                                                                                                     Périodes de chômage                                                                     au T2‑2005                 1997‑2005
+                                               Variables expliquant   Perception d’un minimum        indemnisées connues     Périodes de chômage                                      Périodes de chômage                 Région
+                                      le comportement de non‑réponse               social          sur la période 1997‑2005  connues sur la période                                   indemnisées connues
+                                                                                                                                                                                    sur la période 1997‑2005                 14
+                                                     en vague 1          Motif et/ou catégorie           Temps de travail            1997‑2005                                                  Région
+                                                                        d’inscription à l’ANPE       hebdomadaire durant                                                                                            [30 % ; 71 %] ➔
+ÉCONOMIE ET STATISTIQUE N° 477, 2015                                                                                                                                                               25
+                                                                               au T2‑2005                 le contrat aidé                                                                   [26 % ; 76 %]
+                                                                                                                   7
+                                                                        Périodes de chômage
+                                                                       connues sur la période              [39 % ; 80 %]
+
+                                                                                1997‑2005
+
+                                                                                  Région
+
+                                      Nombre de GRH                   Période d’entrée en contrat                            Type d’employeur pendant     Type d’employeur pendant
+                                      Taux de réponse                                aidé                                            le contrat aidé              le contrat aidé
+
+                                                                             Temps de travail                                  Durée prévue du contrat     Durée prévue du contrat
+                                                                         hebdomadaire durant                                                aidé                         aidé
+
+                                                                              le contrat aidé                                Période d’entrée en contrat                  11
+                                                                                                                                            aidé                  [33 % ; 76 %]
+                                                                                      15
+                                                                                                                                    Temps de travail
+                                                                               [35 % ; 77 %]                                    hebdomadaire durant
+
+                                                                                                                                     le contrat aidé
+
+                                                                                                                                             12
+
+                                                                                                                                      [37 % ; 77 %]
+ÉCONOMIE ET STATISTIQUE N° 477, 2015  Tableau B (suite)                         1 257                             518           Vague 2                  1 165                        1 872                    965
+                                                                                Sexe                              Sexe                1 088
+                                              Répondants en vague 2              Age
+                                                                        Situation familiale         Perception d’un minimum   Situation familiale
+                                                                                                                 social                                                               Sexe
+
+                                                                                                                                                                                      Age
+
+                                                                                                                                                         Perception d’un minimum      Perception d’un minimum  Perception d’un minimum
+                                                                                                                                                                      social                       social                   social
+
+                                                                                                                              Périodes de chômage                                      Motif et/ou catégorie    Motif et/ou catégorie
+                                                                                                                              connues sur la période                                  d’inscription à l’ANPE   d’inscription à l’ANPE
+
+                                                                                                                                      1997‑2005                                              au T2‑2005               au T2‑2005
+                                                                                                                                                                                                               Périodes de chômage
+                                                                                                                                                                                      Périodes de chômage      connues sur la période
+                                                                                                                                                                                      connues sur la période
+                                                                                                                                                                                                                       1997‑2005
+                                                                                                                                                                                              1997‑2005        Parcours déclaré avant
+                                                                                                                                                                                                                l’inscription à l’ANPE
+                                      Variables expliquant l’attrition          Permis en 2005                                      Permis en 2005               Permis en 2005        Permis en 2005
+                                      entre la vague 1 et la vague 2                                                                                                                                                  au T2‑2005
+                                                                        Connexion Internet en 2005                            Motif d’entrée en contrat  Connexion Internet en 2005   Emploi en vague 1
+                                              Nombre de GRH                                                                                 aidé                                                 8                           6
+                                              Taux de réponse            Motif d’entrée en contrat                                                         Motif d’entrée en contrat
+                                                                                       aidé                                                                             aidé             [74 % ; 96 %]             [71 % ; 91 %] ➔
+
+                                                                            Secteur d’activité de                             Type d’employeur pendant
+                                                                         l’employeur ayant recruté                                    le contrat aidé
+
+                                                                                en contrat aidé
+
+                                                                                                         Temps de travail        Temps de travail        Durée prévue du contrat                                                        Le Panel 2008 de la Dares
+                                                                                                     hebdomadaire durant      hebdomadaire durant                     aidé
+
+                                                                                                          le contrat aidé         le contrat aidé         Utilité du contrat aidé
+                                                                                                                                                            pour le bénéficiaire
+                                                                                                    Durée prévue du contrat   Utilité du contrat aidé
+                                                                                                                 aidé          pour le bénéficiaire         Emploi en vague 1
+
+                                                                                                     Utilité du contrat aidé               9                            9
+                                                                                                       pour le bénéficiaire        [66 % ; 97 %]
+                                                                                                                                                                [64 % ; 92 %]
+                                                                                9                           6
+                                                                        [61 % ; 92 %]               [62 % ; 92 %]
+
+51
+52
+
+                                      Tableau B (suite)
+
+                                                                                                                              Calage
+
+                                                                          Sexe, Age, Niveau de diplôme, RMI au T2‑2005, ASS au T2‑2005, RMI avant le T2‑2005, ASS avant le T2‑2005, RMI après le T2‑2005, ASS après le T2‑2005,
+                                                                                                                  durée du chômage (indemnisé et totale) avant le T2‑2005, catégorie et motif d’inscription à l’ANPE
+
+                                                                          Temps complet             Temps complet             Temps complet
+
+                                      Variables utilisées pour le calage  Secteur d’activité        Secteur d’activité        Type d’employeur          Type d’employeur
+
+                                               Poids de calage 1          Durée de la convention    Durée de la convention    Durée de la convention    Durée de la convention
+                                               Poids de calage 2          initiale de contrat aidé  initiale de contrat aidé  initiale de contrat aidé  initiale de contrat aidé
+
+                                                                          Période d’entrée en contrat Période d’entrée en contrat Période d’entrée en contrat Période d’entrée en contrat
+
+                                                                          aidé                      aidé                      aidé                      aidé
+
+                                                                          [5,1 ; 20,4]              [1,0 ; 3,5]               [10,0 ; 41,9]             [3,5 ; 11,9]                       [42,5 ; 1479]  [1,2 ; 1666]
+
+                                                                          [5,3 ; 38,8]              [1,0 ; 7,1]               [9,2 ; 63,9]              [3,7 ; 20,0]                       [38,5 ; 2077]  [1,1 ; 2650]
+
+ÉCONOMIE ET STATISTIQUE N° 477, 2015
+

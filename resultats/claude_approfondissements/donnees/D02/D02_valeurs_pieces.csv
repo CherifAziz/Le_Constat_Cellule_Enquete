@@ -1,0 +1,60 @@
+cle;valeur;unite;annee;perimetre;statut;source_fichier;page_pdf;page_imprimee;citation;marque
+cotis1pct_rg_1979;2239;M F;1979;Régime général;ex post partiel (tableau de novembre 1980);sources/senat_i1980_1981_0102_03.pdf;10;11;Régime général 2.239 7.691 1.444 (tableau du rendement);[C] lecture d'image vérifiée
+cotis1pct_rg_1980;7691;M F;1980;Régime général;ex ante (novembre 1980);sources/senat_i1980_1981_0102_03.pdf;10;11;Régime général 2.239 7.691 1.444;[C] lecture d'image vérifiée
+cotis1pct_rg_1981;1444;M F;1981;Régime général;ex ante (novembre 1980), reliquat de janvier 1981;sources/senat_i1980_1981_0102_03.pdf;10;11;Régime général 2.239 7.691 1.444;[C] lecture d'image vérifiée
+cotis1pct_autres_1979;594;M F;1979;Autres régimes de salariés (fonctionnaires 463, agricoles 43, mines 14, marins 7, SNCF 15, RATP 4, clercs 0, militaires 48);ex post partiel;sources/senat_i1980_1981_0102_03.pdf;10;11;Fonctionnaires 463 1.592 299;[C] lecture d'image vérifiée (somme recalculée par d02_calculs.py)
+cotis1pct_autres_1980;2235;M F;1980;Autres régimes de salariés (1592+292+58+31+65+26+8+163);ex ante;sources/senat_i1980_1981_0102_03.pdf;10;11;Militaires 48 163 31;[C] lecture d'image vérifiée (SNCF 65 sur l'image, 66 dans le texte extrait)
+cotis1pct_rg_1981_bis;1485;M F;1981;Régime général (reliquat de janvier 1981);ex post partiel (novembre 1981);sources/senat_i1981_1982_0058_03_29.pdf;43;43;Régime général 2 239 9 352 1 485;[C]
+plan_nov1981_total;35950;M F;1981-1982;Sécurité sociale, plan de financement du 10/11/1981 (prélèvements supplémentaires);ex ante;sources/senat_i1981_1982_0058_03_29.pdf;44;44;Total 35,95;[C]
+plan_nov1981_point_salarie;14000;M F;1981-1982;Un point déplafonné salarié dès novembre 1981;ex ante;sources/senat_i1981_1982_0058_03_29.pdf;44;44;Un point supplémentaire déplafonné d'assurance-maladie dès novembre 1981 14.00;[C]
+plan_nov1981_deplaf_employeurs;9100;M F;1981-1982;Déplafonnement de 3,5 points employeurs dès novembre 1981;ex ante;sources/senat_i1981_1982_0058_03_29.pdf;44;44;Déplafonnement de 3.5 points d'assurance-maladie dès novembre 1981 9,10;[C]
+plan_nov1981_mesures_juin;10150;M F;1981-1982;Coût des revalorisations de juillet 1981 (allocations familiales, minimum vieillesse, AAH, allocation logement) dans le plan;ex ante;sources/senat_i1981_1982_0058_03_29.pdf;44;44;Au 31 décembre 1981 (mesures déjà arrêtées) [...] 10,15;[C] horizon (1981 seul ou 1981-1982) ambigu dans la pièce
+unedic_beneficiaires_1980S1;926500;personnes;1980 S1;Unédic, total des bénéficiaires (moyenne mensuelle);ex post;sources/senat_i1982_1983_0032.pdf;14;16;Total des bénéficiaires des aides 926 500;[C] lecture d'image vérifiée
+unedic_beneficiaires_1980S2;1011200;personnes;1980 S2;idem;ex post;sources/senat_i1982_1983_0032.pdf;14;16;1 011 200;[C]
+unedic_beneficiaires_1981S1;1270500;personnes;1981 S1;idem;ex post;sources/senat_i1982_1983_0032.pdf;14;16;1 270 500;[C]
+unedic_beneficiaires_1981S2;1378900;personnes;1981 S2;idem;ex post;sources/senat_i1982_1983_0032.pdf;14;16;1 378 900;[C] image (le texte extrait lit 1 375 900)
+demandeurs_emploi_1980S1;1392350;personnes;1980 S1;demandeurs d'emploi fin de mois (moyenne);ex post;sources/senat_i1982_1983_0032.pdf;14;16;1 392 350;[C]
+demandeurs_emploi_1980S2;1508900;personnes;1980 S2;idem;ex post;sources/senat_i1982_1983_0032.pdf;14;16;1 508 900;[C]
+demandeurs_emploi_1981S1;1651200;personnes;1981 S1;idem;ex post;sources/senat_i1982_1983_0032.pdf;14;16;1 651 200;[C]
+demandeurs_emploi_1981S2;1894600;personnes;1981 S2;idem;ex post;sources/senat_i1982_1983_0032.pdf;14;16;1 894 600;[C]
+cotis1pct_autres_1981;491;M F;1981;Autres régimes de salariés (299+108+15+8+18+7+5+31);ex ante;sources/senat_i1980_1981_0102_03.pdf;10;11;Clercs de notaires - 8 5;[C] lecture d'image vérifiée
+cotis1pct_rg_1980_expost;9352;M F;1980;Régime général;ex post (comptes 1980 centralisés);sources/CCSS-RAPPORT-JUILLET_1981.pdf;8;4;incidence en année pleine pour l'année 1980 d'un montant de 9.352 millions;[C]
+cotis1pct_global_annonce;10000;M F;1980-1981;Tous régimes (montant global);ex ante (novembre 1980);sources/i1980_1981_0098_01.pdf;72;73;correspondrait à un montant global de 10 milliards de francs;[C]
+point_deplafonne_annee_pleine;13000;M F;1981-1982;Régime général (un point de cotisation déplafonnée);estimation de la Commission (décembre 1982);sources/CCSS-RAPPORT-DECEMBRE_1982.pdf;15;10;un point de cotisation déplafonnée rapportait en effet près de 13 milliards;[C]
+rg_solde_1978;-10800;M F;1978;Régime général;ex post;sources/senat_i1980_1981_0102_03.pdf;24;25;soldes — 10,8;[C] lecture d'image vérifiée
+rg_solde_1979;0;M F;1979;Régime général;ex post;sources/senat_i1980_1981_0102_03.pdf;21;22;l'exercice 1979 s'est traduit par un solde nul;[C]
+rg_solde_1980_prev_nov1980;8339;M F;1980;Régime général;ex ante (7 novembre 1980);sources/senat_i1980_1981_0102_03.pdf;23;24;Solde d'exploitation des caisses nationales + 8 339;[C]
+rg_solde_1980;10700;M F;1980;Régime général;ex post (juillet 1981);sources/CCSS-RAPPORT-JUILLET_1981.pdf;18;14;se trouve porté, après centralisation des résultats à près de+10,7 milliards;[C] lecture d'image vérifiée
+rg_solde_1980_hors_1pct;1320;M F;1980;Régime général;ex post, hors majoration de 1 %;sources/CCSS-RAPPORT-JUILLET_1981.pdf;18;14;le solde du régime général pour l'année 1980 est ramené à + 1,32 milliards;[C] dernier chiffre lu sur image (2 ou 3), à recontrôler
+rg_solde_1981_prev_nov1980;-3236;M F;1981;Régime général;ex ante (7 novembre 1980);sources/CCSS-RAPPORT-JUILLET_1981.pdf;31;27;l'exercice 1981 devait s'achever sur un déficit de 3.236 millions;[C]
+rg_solde_1981_prev_juil1981;-7069;M F;1981;Régime général;ex ante (juillet 1981, avant mesures nouvelles de financement);sources/CCSS-RAPPORT-JUILLET_1981.pdf;29;25;Total du régime général - 7.069 - 3.236 - 3.833;[C]
+rg_moins_value_recettes_5mois_1981;-3000;M F;1981 (janvier-mai);Régime général (Acoss);constat partiel;sources/CCSS-RAPPORT-JUILLET_1981.pdf;31;27;la moins value enregistrée est de l'ordre de 3 milliards;[C]
+rg_solde_1981_prev_nov1981;-10000;M F;1981;Régime général;ex ante (16 novembre 1981, avant mesures du 10 novembre);sources/CCSS-RAPPORT-DECEMBRE_1982.pdf;16;11;tablaient ainsi sur un déficit prévisionnel de 10 milliards de F;[C]
+rg_solde_1981;-6620;M F;1981;Régime général;ex post (résultats comptables);sources/ccss_rapport_juin_1982.pdf;30;-;En 1981, le déficit était de 6 620 millions;[C] (pièce datée du 21 juin 1983)
+rg_maladie_1981;-3230;M F;1981;Régime général, branche maladie;ex post;sources/ccss_rapport_juin_1982.pdf;30;-;elle était déficitaire de 3 230 millions en 1981;[C]
+rg_solde_1982;-7658;M F;1982;Régime général;ex post;sources/ccss_rapport_juin_1982.pdf;30;-;un résultat déficitaire de 7 658 millions;[C]
+rg_cotis_assures_1981;1.6;% d'évolution;1981;Régime général, cotisations des assurés;ex post;sources/ccss_rapport_juin_1982.pdf;22;-;quasi-stabilisation en 1981 : + 1,6 %;[C]
+rg_cotis_assures_1982;31.8;% d'évolution;1982;Régime général, cotisations des assurés (73,3 Md F);ex post;sources/ccss_rapport_juin_1982.pdf;22;-;progressent de 31,8 % en 1982;[C]
+etat_solde_1976;-20239;M F;1976;État, lois de finances hors FMI et Fonds de stabilisation des changes;ex post;sources/i1982_1983_0405.pdf;29;30;SOLDE HORS F.M.I. ET OPÉRATIONS DU FONDS DE STABILISATION DES CHANGES;[C] lecture d'image vérifiée (1976 1,21 | 1977 0,97 | 1978 1,60 | 1979 1,54 | 1980 1,10 | 1981 2,6 % du PIB de l'époque)
+etat_solde_1977;-18339;M F;1977;idem;ex post;sources/i1982_1983_0405.pdf;29;30;- 18.339 0.97;[C]
+etat_solde_1978;-34310;M F;1978;idem;ex post;sources/i1982_1983_0405.pdf;29;30;- 34.310 - 37.572 1.60 [ 1.54;[C] lecture d'image vérifiée
+etat_solde_1979;-37572;M F;1979;idem;ex post;sources/i1982_1983_0405.pdf;29;30;- 37.572;[C]
+etat_solde_1980;-30302;M F;1980;idem;ex post;sources/i1982_1983_0405.pdf;29;30;- 30.302 1,10;[C]
+etat_solde_1981;-80885;M F;1981;idem;ex post;sources/i1982_1983_0405.pdf;29;30;- 80.885 2,6;[C]
+etat_deficit_exec_1980;-23800;M F;1980;État, déficit d'exécution des lois de finances (avec Fonds de stabilisation des changes);ex post;sources/i1982_1983_0405.pdf;29;30;au déficit d'exécution de 1980 (23,8 milliards);[C]
+etat_deficit_prev_1980;-31100;M F;1980;État, déficit prévisionnel (loi de finances initiale);ex ante;sources/i1982_1983_0405.pdf;29;30;au déficit prévisionnel de 1980 (31,1 milliards);[C] 31,2 dans n° 98 p.92
+etat_deficit_exec_1979;-37500;M F;1979;État, découvert d'exécution;ex post;sources/i1980_1981_0098_01.pdf;93;94;37,5 milliards de francs enregistré en 1979 (1,6 % du PIB);[C]
+etat_deficit_prev_1981_lfi;-29400;M F;1981;État, déficit prévisionnel LFI;ex ante;sources/i1980_1981_0098_01.pdf;92;93;un déficit prévi­sionnel de 29,4 milliards de francs;[C]
+etat_deficit_1981_hors_fmi;-64300;M F;1981;État, solde d'exécution des lois de finances hors FMI;ex post;sources/i1982_1983_0405.pdf;29;30;s'est élevé à 64,3 milliards;[C]
+etat_dette_stricto_1980;26080;M F;1980;État, charge de la dette publique stricto sensu;ex post;sources/i1982_1983_0405.pdf;13;13;passe de 26,08 à 44,84 milliards de francs;[C]
+etat_dette_stricto_1981;44840;M F;1981;idem;ex post;sources/i1982_1983_0405.pdf;13;13;passe de 26,08 à 44,84 milliards de francs;[C]
+lfr1981_remise_niveau;-21900;M F;1981;État, remise à niveau du collectif de juillet 1981 (année pleine);ex ante (juin 1981);sources/i1980_1981_0311.pdf;50;50;une charge supplémentaire de 21,9 milliards de francs;[C]
+lfr1981_rn_dette;7000;M F;1981;dont dette publique, garanties, bonifications, épargne-logement;ex ante;sources/i1980_1981_0311.pdf;50;50;dette publique, garanties, bonifications d'intérêt, épargne-logement 7,0;[C]
+lfr1981_rn_chomage;4200;M F;1981;dont indemnisation du chômage et préretraites;ex ante;sources/i1980_1981_0311.pdf;50;50;indemnisation du chômage et préretraites [...] 4,2;[C]
+lfr1981_rn_prets;3600;M F;1981;dont prêts du FDES (2,0) et autres prêts ou avances (1,6);ex ante;sources/i1980_1981_0311.pdf;50;50;prêts du F.D.E.S 2,0 — autres prêts ou avances 1,6;[C] opérations financières, hors solde S13
+lfr1981_actions_nouvelles;7710;M F;1981;État, dépenses nouvelles gagées du collectif de juillet;ex ante;sources/i1980_1981_0311.pdf;56;56;Total 7,710;[C]
+lfr1981_non_gage;5300;M F;1981;État, mesures sociales du 3 juin non gagées (dont SMIC 2,6, minimum vieillesse 1,68);ex ante;sources/i1980_1981_0311.pdf;57;57;ce sont 5,3 milliards de francs supplémentaires;[C]
+unedic_charges_1979;28000;M F;1979;Assurance chômage (Unédic);ex post;sources/senat_i1982_1983_0032.pdf;13;15;33 milliards en 1980 et 28 milliards en 1979;[C]
+unedic_charges_1980;33000;M F;1980;Assurance chômage (Unédic);ex post;sources/senat_i1982_1983_0032.pdf;13;15;33 milliards en 1980;[C]
+unedic_charges_1981;54000;M F;1981;Assurance chômage (Unédic);ex post;sources/senat_i1982_1983_0032.pdf;13;15;54 milliards en 198 1;[C]
+unedic_charges_1982;80000;M F;1982;Assurance chômage (Unédic);ex ante (octobre 1982);sources/senat_i1982_1983_0032.pdf;13;15;devrait s élever à près de 80milliards de francs cette année;[C]

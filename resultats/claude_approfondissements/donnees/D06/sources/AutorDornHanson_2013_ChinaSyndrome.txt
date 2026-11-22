@@ -1,0 +1,2866 @@
+American Economic Review 2013, 103(6): 2121–2168 http://dx.doi.org/10.1257/aer.103.6.2121
+The China Syndrome: Local Labor Market Effects of Import Competition in the United States†
+By David H. Autor, David Dorn, and Gordon H. Hanson*
+We analyze the effect of rising Chinese import competition between 1990 and 2007 on US local labor markets, exploiting cross-market variation in import exposure stemming from initial differences in industry specialization and instrumenting for US imports using changes in Chinese imports by other high-income countries. Rising imports cause higher unemployment, lower labor force participation, and reduced wages in local labor markets that house importcompeting manufacturing industries. In our main specification, import competition explains one-quarter of the contemporaneous aggregate decline in US manufacturing employment. Transfer benefits payments for unemployment, disability, retirement, and healthcare also rise sharply in more trade-exposed labor markets. (JEL E24, F14, F16, J23, J31, L60, O47, R12, R23)
+The past two decades have seen a fruitful debate on the impact of international trade on US labor markets (Feenstra 2010). Beginning in the 1990s, the literature developed rapidly as economists sought to understand the forces behind rising US wage inequality. While in the 1980s, trade in the form of foreign outsourcing was associated with modest increases in the wage premium for skilled manufacturing labor (Feenstra and Hanson 1999), the evidence suggests that other shocks, including skill biased technical change, played a more important role in the evolution of the US wage structure in that decade (Katz and Autor 1999).1
+One factor limiting trade’s impact on US labor is that historically, imports from low-wage countries have been small (Krugman 2000). Though freer trade with countries at any income level may affect wages and employment, trade theory identifies low-wage countries as a likely source of disruption to high-wage labor markets (Krugman 2008). In 1991, low-income countries accounted for just
+* Autor: Department of Economics, MIT, 50 Memorial Drive, E52-371, Cambridge, MA 02142, and NBER (e-mail: dautor@mit.edu); Dorn: CEMFI, Casado del Alisal 5, 28014 Madrid, Spain (e-mail: dorn@cemfi.es); Hanson: School of International Relations and Pacific Studies, 0519, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0519, and NBER (e-mail: gohanson@ucsd.edu). We thank Daron Acemoglu, Arnaud Costinot, Dave Donaldson, Robert Lawrence, Isaac Mbiti, Guy Michaels, Robert Staiger, John Van Reenen, Jonathan Vogel, Su Wang, numerous seminar and conference participants, and three anonymous referees for valuable suggestions that improved the paper. Autor acknowledges funding from the National Science Foundation (SES-0239538). Dorn acknowledges funding from the Spanish Ministry of Science and Innovation (CSD200600016, ECO2010-16726, and JCI2011-09709) and from the Community of Madrid (S2007/HUM-0444).
+† Go to http://dx.doi.org/10.1257/aer.103.6.2121 to visit the article page for additional materials and author disclosure statement(s).
+1 The significance of technical change for the US wage structure is a source of continuing debate. See Lemieux (2006); Autor, Katz, and Kearney (2008); Beaudry, Doms, and Lewis (2010); Autor and Acemoglu (2011); Firpo, Fortin, and Lemieux (2011); and Autor and Dorn (2013) for recent work.
+2121
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2122
+
+Import penetration
+
+Manufacturing emp/pop
+
+0.05 0.04 0.03
+
+China import penetration ratio Manufacturing employment/population
+
+0.14 0.12
+
+0.02 0.1
+0.01
+
+0
+
+0.08
+
+1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007
+
+Year
+
+Figure 1. Import Penetration Ratio for US Imports from China (left scale), and Share of US Working-Age Population Employed in Manufacturing (right scale)
+
+9 percent of US manufacturing imports.2 However, owing largely to China’s spectacular economic growth, the situation has changed markedly. In 2000, the lowincome-country share of US imports reached 15 percent and climbed to 28 percent by 2007, with China accounting for 89 percent of this growth. The share of total US spending on Chinese goods rose from 0.6 percent in 1991 to 4.6 percent in 2007 (Figure 1), with an inflection point in 2001 when China joined the World Trade Organization (WTO).3 Over the same period, the fraction of US working-age population employed in manufacturing fell by a third, from 12.6 percent to 8.4 percent (Figure 1).4 Amplifying China’s potential impact on the US labor market are sizable current-account imbalances in the two countries. In the 2000s, China’s average current-account surplus was 5 percent of GDP, a figure equal to the contemporaneous average US current-account deficit. US industries have thus faced a major increase in import competition from China without an offsetting increase in demand for US exports.
+In this paper, we relate changes in labor-market outcomes from 1990 to 2007 across US local labor markets to changes in exposure to Chinese import competition. We treat local labor markets as subeconomies subject to differential trade shocks according to initial patterns of industry specialization. Commuting zones (CZs), which encompass all metropolitan and nonmetropolitan areas in the United States, are logical geographic units for defining local labor markets (Tolbert and Sizer 1996; Autor and Dorn 2013). They differ in their exposure to import competition as a result of regional variation in the importance of different manufacturing
+2 See Table 1. We classify countries as low income using the World Bank definition in 1989, shown in the online Data Appendix.
+3 In Figure 1, we define import penetration as US imports from China divided by total US expenditure on goods, measured as US gross output plus US imports minus US exports.
+4 The data series for manufacturing/population in Figure 1 is based on the Current Population Survey for workers aged 16 to 64. While the reduction in manufacturing employment was rapid during the recessions in 1990–1991 and 2001, there were also declines during the expansions 1992–2000 and particularly 2002–2007. In previous expansion phases of the 1970s and 1980s, the manufacturing/population ratio had increased.
+
+2123
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+industries for local employment. In 1990, the share of regional employment hours worked in manufacturing ranged from 12 percent for CZs in the bottom tercile to 27 percent for CZs in the top tercile. Variation in the overall employment share of manufacturing, however, only explains about a quarter of the variation in the measure of local labor market import exposure that we will define below. The main source of variation in exposure is within-manufacturing specialization in industries subject to different degrees of import competition. In particular, there is differentiation according to local labor market reliance on labor-intensive industries, in which China’s comparative advantage is pronounced (Amiti and Freund 2010). By 2007, China accounted for over 40 percent of US imports in four four-digit SIC industries (luggage, rubber and plastic footwear, games and toys, and die-cut paperboard) and over 30 percent in 28 other industries, including apparel, textiles, furniture, leather goods, electrical appliances, and jewelry.
+The growth in low-income-country exports over the time period we examine is driven by China’s transition to a market-oriented economy, which has involved rural-to-urban migration of over 150 million workers (Chen, Jin, and Yue 2010), Chinese industries gaining access to long banned foreign technologies, capital goods, and intermediate inputs (Hsieh and Klenow 2009), and multinational enterprises being permitted to operate in the country (Naughton 2007).5 Compounding the positive effects of internal reforms on China’s trade is the country’s accession to the WTO, which gives it most-favored nation status among the 153 WTO members (Branstetter and Lardy 2006). In light of the internal and global external factors driving China’s exports, we instrument for the growth in US imports from China using Chinese import growth in other high-income markets.6 This approach requires that import demand shocks in high-income countries are not the primary cause of China’s export surge. While it seems plausible that during the 1990s and early 2000s China’s export growth was largely the result of internal supply shocks and falling global trade barriers, we also adopt alternative estimation strategies that impose weaker assumptions, including measuring CZ import exposure using the gravity model of trade. All approaches yield similar results.
+Because trade shocks play out in general equilibrium, one needs empirically to map many industry-specific shocks into a small number of aggregate outcomes. For national labor markets at annual frequencies, one is left with few observations and many confounding factors. One solution to the degrees-of-freedom problem is to exploit the general equilibrium relationship between changes in product prices and changes in factor prices, which allows one to estimate changes in wages for skilled and unskilled labor mandated by industry trade shocks (e.g., Leamer 1993; Feenstra and Hanson 1999; Harrigan 2000). This approach is well-grounded in trade theory
+
+5 While China dominates low-income-country exports to the United States, trade with middle-income nations, such as Mexico, may also matter for US labor-market outcomes. The North American Free Trade Agreement (1994) and the Central American Free Trade Agreement (2005) each lowered US barriers to imports. However, whereas China’s export growth appears driven by internal conditions and global changes in trade policy toward the country, export growth in Mexico and Central America appears more related to import demand associated with US outsourcing to the region. Consequently, it is more difficult to find exogenous variation in US imports from Mexico and Central America. In recent work, McLaren and Hakobyan (2010) do not detect substantial effects of NAFTA on local US labor markets, though they do find effects on wage growth nationally in exposed industries.
+6 Our identification strategy is related to that used by Bloom, Draca, and Van Reenen (2011), who consider the relationship between imports from China and innovation in Europe. See also Auer and Fischer (2008).
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2124
+
+but is silent on nonwage outcomes, such as employment status or receipt of government transfers.
+By taking regional economies as the unit of analysis, we circumvent the degreesof-freedom problem endemic to estimating the labor-market consequences of trade. We relate changes in exposure to low-income-country imports to changes in CZ wages, employment levels, industry employment shares, unemployment and laborforce participation rates, and take-up of unemployment, disability, welfare, and other publicly funded benefits, where we allow impacts to vary by age, gender, and education. Our local labor market approach to analyzing the impacts of trade exposure follows important early work by Borjas and Ramey (1995), who also emphasize the role of trade imbalances in mapping trade shocks to labor-market outcomes, as well as more recent work by Chiquiar (2008), Topalova (2005, 2010), and Kovak (2013), who study the effects of trade liberalizations on wages, poverty, and migration in local and regional labor markets in Mexico, India, and Brazil, respectively.7
+An alternative solution to the degrees-of-freedom problem in estimating the effects of trade shocks is to treat the industry or occupation as the unit of analysis. This approach is taken in recent work focusing on US imports from low-income countries, including Bernard, Jensen, and Schott (2006), who find that over 1977–1997, manufacturing plants more exposed to low-wage-country imports grew more slowly and were more likely to exit, and Liu and Trefler (2008), who estimate that over 1996–2006, US outsourcing of services to China and India had minimal effects on changes in occupation, employment, or earnings for US workers. Ebenstein et al. (2010), who like Liu and Trefler (2008) use data from the CPS, find larger effects of trade on wages, with wages growing more slowly in occupations more exposed to import penetration and to US multinationals moving production offshore.8 Our approach is complementary to this strand of literature. In examining economic outcomes at the level of local labor markets, we are able to capture both the direct effect of trade shocks on employment and earnings at import-competing employers as well as net effects on employment, earnings, labor force participation, geographic mobility, and take-up of public transfer benefits in the surrounding geographic area.
+If labor is highly mobile across regions, trade may affect workers without its consequences being identifiable at the regional level. The literature on regional adjustment to labor-market shocks suggests that mobility responses to labor demand shocks across US cities and states are slow and incomplete (Topel 1986; Blanchard and Katz 1992; Glaeser and Gyourko 2005). Mobility is lowest for noncollege workers, who are overrepresented in manufacturing (Bound and Holzer 2000; Notowidigdo 2010). It is therefore plausible that the effects of trade shocks on regional labor markets will be evident over the medium term; indeed, our analysis does not find significant population adjustments for local labor markets with substantial exposure to imports. The sluggish response of regional labor supply to import exposure may be related to the costly mobility of labor between sectors, as documented by Artuç, Chaudhuri, and McLaren (2010) in the United States and Dix-Carneiro (2011) in Brazil, also in the context of adjustment to trade shocks.
+
+7 See Michaels (2008) for work on how falling trade costs affect factor price equalization between regions. 8 Related literature examines wage outcomes of trade shocks at the plant level. See Verhoogen (2008) on Mexico, Amiti and Davis (2009) on Indonesia, and Hummels et al. (2010) on Denmark.
+
+2125
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Our results suggest that the predominant focus of the previous literature on wages misses important aspects of labor-market adjustments to trade. We find that local labor markets that are exposed to rising low-income-country imports due to China’s rising competitiveness experience increased unemployment, decreased labor-force participation, and increased use of disability and other transfer benefits, as well as lower wages. Comparing two CZs over the period of 2000 through 2007, one at the 25th percentile and the other at the 75th percentile of exposure to Chinese import growth, the more exposed CZ would be expected to experience a differential 4.5 percent fall in the number of manufacturing employees, a 0.8 percentage point larger reduction in the employment to population rate, a 0.8 percent larger decline in mean log weekly earnings, and larger increases in per capita unemployment, disability, and income assistance transfer benefits on the order of 2 to 3.5 percent. One implication of these results is that federally funded transfer programs, such as Social Security Disability Insurance (SSDI), implicitly insure US workers against traderelated employment shocks. Import exposure also predicts an increase in benefits from Trade Adjustment Assistance (TAA), which is the primary federal program that provides financial support to workers who lose their jobs as a result of foreign trade. TAA grants are however temporary, whereas most workers who take-up disability receive SSDI benefits until retirement or death (Autor and Duggan 2003). For regions affected by Chinese imports, the estimated dollar increase in per capita SSDI payments is more than thirty times as large as the estimated dollar increase in TAA payments.
+To motivate the empirical analysis, we begin in Section I by using a standard model of trade to derive product demand shocks facing local labor markets in the United States resulting from export growth in China. Section II provides a brief discussion of data sources and measurement. Section III provides our primary OLS and 2SLS estimates of the impact of trade shocks on regional employment in manufacturing. Section IV analyzes the consequences of these shocks for regional labor market aggregates. Section V expands the inquiry to broader measures of economic adjustment. Section VI considers alternative measures of trade exposure. In Section VII, we provide a rough estimate of the deadweight losses associated with trade-induced changes in transfer benefits and unemployment. Section VIII concludes.
+I. Theoretical Motivation and Empirical Approach
+In this section, we consider theoretically how growth in US imports from China affects the demand for goods produced by US regional economies. These product demand shocks motivate our empirical measure of exposure to import competition as well as our identification strategy.
+A. Shocks to Regional Markets
+Suppose China experiences productivity growth due to its transition from central planning to a market economy or a reduction in its trade costs as a result of its accession to the WTO. How would such shocks affect the labor market of US region i? In the online Theory Appendix, we develop a simple model of trade based on monopolistic competition (Helpman and Krugman 1987) and variation in industry labor
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2126
+
+productivities across countries.9 We treat region i as a small open economy and
+
+derive how shocks in China affect region i’s employment and wages.10 In applying
+
+the monopolistic competition model, we assume that trade has a “gravity” structure
+
+(as in Arkolakis, Costinot, and Rodriguez-Clare 2012), in which case one can map
+
+changes in trade quantities into labor-market outcomes. An alternative approach
+
+would be to use a Heckscher-Ohlin or a specific-factors model, as in Topalova
+
+(2005, 2010) or Kovak (2013), in which the mapping is strictly from trade prices
+
+to wages and employment. Given the absence of suitable US industry import price
+
+data, the quantity-based approach is appropriate for our setting.
+
+We assume that region i produces both traded goods and a homogeneous non-
+
+traded good, which could alternatively represent consumption of leisure. Traded
+
+goods are produced in sectors that each contain a large number of monopolistically
+
+competitive firms that manufacture differentiated product varieties.11 For simplicity,
+
+we ignore migration in or out of region i, though in the empirical analysis we test for
+
+regional population shifts in response to trade shocks.12 The labor-market outcomes
+
+of interest for region i are the change traded goods (LˆTi), and the change in
+
+ienmthpelowymageen(tWiˆni)n, othne-tcrahdaendgegionoedms (pLˆloNyi)m, wenhteirne
+
+hats over variables denote log changes (xˆ ≡ d lnx).13 Productivity growth or falling
+
+trade costs in China affect region i through two channels: (i) increased competition
+
+in the markets in which region i sells its output, captured by the change in China’s export-supply capability in each industry j (AˆCj), which we treat as exogenous and which is a function of changes in labor costs, trade costs, and the number of product
+
+varieties made in China, and (ii) increased demand for goods in China, captured by the change in expenditure in China on each industry j (EˆCj), which we also treat as exogenous.
+
+The impacts of export-supply and import-demand shocks in China on region i’s
+
+wages and employment are as follows:
+
+(1)
+
+[ ] Wˆ i
+
+=
+
+∑
+j
+
+cij
+
+_ Lij LNi
+
+θijC EˆCj
+
+−
+
+∑ θijk ϕCjk AˆCj
+k
+
+,
+
+[ ] LˆTi
+
+=
+
+ρi
+
+∑
+j
+
+cij
+
+_ Lij L Ti
+
+θijC EˆCj
+
+−
+
+∑ θijk ϕCjk AˆCj
+k
+
+,
+
+[ ] LˆNi
+
+=
+
+ρi
+
+∑
+j
+
+cij
+
+_ Lij LNi
+
+−θijC EˆCj
+
++
+
+∑ θijk ϕCjk AˆCj
+k
+
+.
+
+9 We treat these productivities as given. Melitz (2003) and Eaton, Kortum, and Kramarz (2011) give microfoundations for differences in national industry productivities in trade models based on monopolistic competition.
+10 We also solve a two-country model (i.e., for China and the United States). For global general equilibrium analyses of trade and productivity growth in China, see Hsieh and Ossa (2011) and di Giovanni, Levchenko, and Zhang (2011).
+11 We assume that labor is perfectly mobile between sectors. For an analysis of imperfect sectoral labor mobility and trade, see Artuç, Chaudhuri, and McLaren (2010) and Dix-Carneiro (2011).
+12 Allowing for migration would dampen the effects of trade on wages and amplify its effect on employment. 13 Wage changes are in nominal and not real terms. The model also delivers results for changes in the prices of non-traded goods, which vary by region according to trade exposure. Since we lack complete data on product prices at the CZ level, we leave consideration of regional variation in price changes out of the empirical analysis.
+
+2127
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Wage and employment outcomes are the sum of the increase in demand for region i’s exports to China, given by the change in expenditure in China (EˆCj) times the initial share of output by region i that is shipped to China (θijC ≡ XijC/Xij); and the decrease in demand for region i’s shipments to all markets in which it competes
+with China. The latter is given by the growth in China’s export-supply capability (AˆCj) times the initial share of output by region i that is shipped to each market k (θijk ≡ Xijk/Xij) and the initial share of imports from China in total purchases by each market k (ϕCjk ≡ MkjC/Ekj).14 These shocks are summed across sectors, weighted by the initial ratio of employment in industry j to total employment in non-traded
+or traded industries (Lij/LMi, M = N, T) and a general-equilibrium scaling factor (cij > 0). The employment equations are scaled further by ρi, the share of the current-account deficit in total expenditure in region i.
+In (1), positive shocks to China’s export supply decrease region i’s wage and employment in traded goods and increase its employment in non-traded goods.
+Similarly, positive shocks to China’s import demand increase region i’s wage and
+employment in traded goods and decrease its employment in non-traded goods.
+In the context of balanced trade, reduced labor demand in US regions relatively
+exposed to import competition from China would be offset by labor demand growth
+in US regions enjoying expanded export production for China, such that for the
+aggregate US economy labor demand may be unchanged. However, with imbal-
+anced trade this need not be the case. The import demand shock in China is a func-
+tion of growth in its expenditure, not income. Because over the time period we
+examine China’s income exceeds its expenditure, productivity growth in China need
+not result in commensurate increases in import demand and export supply. In (1), the impact of trade shocks on the division of employment between traded and non-
+traded sectors depends on ρi ≠ 0, or trade imbalance. With balanced trade, reduced traded-sector labor demand from greater import competition is offset by increased traded-sector labor demand from greater export production.15 Trade shocks may
+cause wages in region i to change, and labor may shift between different traded-
+sector industries but will not reallocate employment between the traded and non-
+traded sectors. Imbalanced trade breaks this symmetry, allowing shocks to affect the
+size of the traded sector.
+To use (1) for empirical analysis, we assume that the share of the trade imbalance in total expenditure (ρi) and the general equilibrium scaling factor (cij) are the same across US regions (such that ρi cij = α). Further, we begin by focusing on a single channel through which trade with China affects region i: greater import competition
+in the US market, thus ignoring (temporarily) the effects of greater US exports to China or greater import competition in the foreign markets that US regions serve.
+We impose these restrictions for our base specifications because US imports from
+China vastly exceed US exports to China (suggesting the export channel is relatively small) and because the US market accounts for the large majority of demand for
+
+14 As in Hsieh and Ossa (2011), log differentiation allows one to derive solutions for changes in wages and employment that are free of production parameters, which makes comparative advantage opaque in these equations. Implicitly, comparative advantage for region i is summarized by the output shares, θijk.
+15 In our simple model, export supply shocks in China affect employment in US traded industries only if bilateral trade is imbalanced. In a more general model, which allowed for a non-unitary elasticity of substitution in consumption between traded and non-traded goods, this need not be the case.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2128
+
+most US industries. With these restrictions in place, the change in employment for traded goods in region i becomes
+
+(2)
+
+Lˆ Ti
+
+=
+
+−α
+
+∑
+j
+
+_ Lij L Ti
+
+_ XijU Xij
+
+_ MCjU EUj
+
+AˆCj
+
+≈
+
+−˜α
+
+∑
+j
+
+_ Lij LUj
+
+_ MCjU AˆCj L Ti
+
+,
+
+with the change in the wage and the change in non-traded employment defined analogously.16 In (2), traded-sector employment in region i depends on growth in
+US imports from China mandated by growth in China’s export-supply capability (MCjU AˆCj), scaled by region i’s labor force (LTi), and weighted by the share of region i in US employment in industry j (Lij/LUj).17
+
+B. Empirical Approach
+
+Following (2), our main measure of local labor market exposure to import competition is the change in Chinese import exposure per worker in a region, where imports are apportioned to the region according to its share of national industry employment:
+
+(3)
+
+∆IPWuit
+
+=
+
+∑
+j
+
+_ Lijt Lujt
+
+_ ∆Mucjt Lit
+
+.
+
+In this expression, Lit is the start of period employment (year t) in region i and ∆Mucjt is the observed change in US imports from China in industry j between the start and end of the period.18
+Equation (3) makes clear that the difference in ∆IPWuit across local labor markets stems entirely from variation in local industry employment structure at the start of period t. This variation arises from two sources: differential concentration of employment in manufacturing versus nonmanufacturing activities and specialization in import-intensive industries within local manufacturing. Differences in manufacturing employment shares are not the primary source of variation, however; in a bivariate regression, the start-of-period manufacturing employment share explains less than 25 percent of the variation in ∆IPWuit. In our main specifications, we will control for the start-of-period manufacturing share within CZs so as to focus on variation in exposure to Chinese imports stemming from differences in industry mix within local manufacturing sectors.
+A concern for our subsequent estimation is that realized US imports from China in (3) may be correlated with industry import demand shocks, in which case the OLS estimate of how increased imports from China affect US manufacturing employment may understate the true impact, as both US employment and imports
+
+16In deriving (2), we use the fact that in the monopolistic competition model, Lij/Xij equals a constant. We further assume (due to lack of data on regional output or expenditure) that the share of region i in total US purchases in industry j (XijU/EUj) can be approximated by the share of region i in US employment in industry j (Lij/LUj).
+17 In equation (2), the impact of export supply growth in China on US traded employment embodies the combined effects of product-market competition and imbalanced trade.
+18Relative to (2), the quantity in (3) divides imports by total employment in the commuting zone (Lit) rather than traded sector employment (LTit). This renormalization is consistent with our initial dependent variable, the change in manufacturing employment as a share of the labor force (defined to be the working-age population to avoid having CZ employment on both sides of the regression).
+
+2129
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+may be positively correlated with unobserved shocks to US product demand. To identify the causal effect of rising Chinese import exposure on US manufacturing employment and other local labor-market outcomes, we employ an instrumentalvariables strategy that accounts for the potential endogeneity of US trade exposure. We exploit the fact that during our sample period, much of the growth in Chinese imports stems from the rising competitiveness of Chinese manufacturers (a supply shock from the United States producer perspective) and China’s lowering of trade barriers, dismantling of central planning, and accession to the WTO.
+To identify the supply-driven component of Chinese imports, we instrument for growth in Chinese imports to the United States using the contemporaneous composition and growth of Chinese imports in eight other developed countries.19 Specifically, we instrument the measured import exposure variable ∆IPWuit with a non-US exposure variable ∆IPWoit that is constructed using data on contemporaneous industry-level growth of Chinese exports to other high-income markets:
+
+(4)
+
+∆IPWoit
+
+=
+
+∑
+j
+
+_ Lijt−1 Lujt−1
+
+_ ∆Mocjt Lit−1
+
+.
+
+This expression for non-US exposure to Chinese imports differs from the expression in equation (3) in two respects. First, in place of realized US imports by industry (∆Mucjt), it uses realized imports from China to other high-income markets (∆Mocjt). Second, in place of start-of-period employment levels by industry and region, this expression uses employment levels from the prior decade. We use ten-year-lagged employment levels because, to the degree that contemporaneous employment by region is affected by anticipated China trade, the use of lagged employment to apportion predicted Chinese imports to regions will mitigate this simultaneity bias.
+Our IV strategy will identify the Chinese productivity and trade-shock component of United States import growth if the common within-industry component of rising Chinese imports to the United States and other high-income countries stems from China’s rising comparative advantage and (or) falling trade costs in these sectors. There are several possible threats to our strategy. One is that product demand shocks may be correlated across high-income countries. In this event, both our OLS and IV estimates may be contaminated by correlation between import growth and unobserved components of product demand, making the impact of trade exposure on labor-market outcomes appear smaller than it truly is.20 In a robustness exercise, we adopt a gravity-based strategy, described in the Theory Appendix, in which we replace the growth in US imports from China with the inferred change in China’s comparative advantage and market access vis-à-vis the United States. This approach helpfully neutralizes demand conditions in importing countries. To implement the
+
+19 The eight other high-income countries are those that have comparable trade data covering the full sample period: Australia, Denmark, Finland, Germany, Japan, New Zealand, Spain, and Switzerland.
+20 In the case of consumer electronics, rising Chinese imports to the United States and other high-income countries may stem from a mixture of increased domestic demand (e.g., for mobile phones) and improving Chinese TFP (so that components are sourced from China rather than, say, Japan). For this industry, we are likely to understate the impact that rising Chinese imports would have had on US manufacturing had they arisen solely from shifts in Chinese supply. Consistent with this logic, we find in unreported results that when we exclude the computer industry from our measure of imports, then the estimated impact of import exposure on manufacturing employment becomes larger.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2130
+
+strategy, we use bilateral trade data at the industry level to estimate a modified gravity model of trade for the period 1990 through 2007 that includes fixed effects at the importer and product level. We show that the residuals from this regression approximate the percentage growth in imports from China due to changes in China’s productivity and foreign trade costs relative to the United States. By using China-US relative exports, the gravity approach differences out import demand in the purchasing country, thereby isolating supply and trade-cost-driven changes in China’s export performance. That our gravity and IV estimates are similar suggests that correlated import demand shocks across countries are not overly important for our results.
+A second threat to identification is that US—rather than Chinese—productivity shocks may be driving growth in imports from China. If, for instance, the United States has poor productivity growth in furniture, sales of US furniture may fall on both the US and European markets, leading each to import more from third countries, including China. While we cannot rule out this possibility, evidence suggests that productivity growth in China is likely to be an important driver of China’s export surge. The country’s recent productivity growth is much more rapid than in the United States or any other major economy. Brandt, Van Biesebroeck, and Zhang (2012) estimate that over 1998 to 2007, China had average annual TFP growth in manufacturing of 8.0 percent, compared to the Bureau of Labor Statistics’ estimate (http://www.bls.gov/mfp/) of 3.9 percent for the United States.
+A third threat to identification, related to the second, is that growth in imports from China may reflect technology shocks common to high-income countries that adversely affect their labor-intensive industries, making them vulnerable to Chinese competition. In this story, rather than imports from China driving the move toward automation (as in Bloom, Draca, and Van Reenen 2011), automation drives imports from China. Again, we cannot categorically reject this possibility. China’s export growth however appears to be strongly related to factors that are specific to China. Rapid productivity growth and extensive policy reform have contributed to a massive increase in the country’s absolute and relative manufacturing capacity. Between 1992 and 2007, China accounted for three quarters of the worldwide growth in manufacturing value added that occurred in low- and middle-income nations. The increase in China’s relative productive potential is seen in its expanding global heft. From 1991 to 2007, the share of manufacturing imports from low-income countries accounted for by China increased from 77.4 percent to 89.8 percent in the United States and from 75.4 percent to 89.5 percent in other high-income nations (Table 1). China’s share of the US market has grown sharply even relative to Mexico and Central America, regions which recently formed preferential free trade areas with the United States (through NAFTA and CAFTA, respectively); China’s share of US imports among this group rose from 40.6 percent in 1991 to 64.3 percent in 2007.
+The growth in imports per worker in equation (3) is by no means the only way to measure changes in trade exposure. As additional approaches in Section VI, we replace the change in imports per worker as defined in (3) with (i) the change in net imports (imports–exports) per worker (following (1)); (ii) the change in imports per worker incorporating imports in non-US markets (also following (1)); (iii) the change in the imputed labor content of US net imports from China, an approach motivated by analyses of trade and labor markets based on the Heckscher-Ohlin model (Deardorff and Staiger 1988; Borjas, Freeman, and Katz 1997; Burstein and Vogel 2011); and
+
+2131
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Table 1—Value of Trade with China for the US and Other Selected High-Income Countries and Value of Imports from all Other Source Countries, 1991/1992–2007
+
+Panel A. United States
+1991/1992 2000 2007 Growth 1991–2007
+
+I. Trade with China (in billions 2007 US$)
+
+Imports from China
+(1)
+
+Exports to China
+(2)
+
+26.3 121.6 330.0 1,156%
+
+10.3 23.0 57.4 456%
+
+II. Imports from other countries (in billions 2007 US$)
+
+Imports from other low-inc.
+(3)
+
+Imports from Mexico/ CAFTA
+(4)
+
+Imports from rest of world
+(5)
+
+7.7 22.8 45.4 491%
+
+38.5 151.6 183.0 375%
+
+322.4 650.0 763.1 137%
+
+Panel B. Eight other developed countries
+
+1991/1992
+
+28.2
+
+2000
+
+94.3
+
+2007
+
+262.8
+
+Growth 1991–2007
+
+832%
+
+26.6 68.2 196.9 639%
+
+9.2 13.7 31.0 236%
+
+2.8 5.3 11.6 316%
+
+723.6 822.6 1329.8 84%
+
+Notes: Trade data is reported for the years 1991, 2000, and 2007, except for exports to China which are first available in 1992. The set of “other developed countries” in panel B comprises Australia, Denmark, Finland, Germany, Japan, New Zealand, Spain, and Switzerland. Column 3 covers imports from all countries that have been classified as low income by the World Bank in 1989, except for China. Column 4 covers imports from Mexico and the Central American and Carribean countries covered by the CAFTA-DR. Column 5 covers imports from all other countries (primarily from developed countries).
+
+(iv) the change in imports per worker net of imported intermediate inputs, the latter of which may have productivity enhancing effects on US industries (Goldberg et al. 2010). These strategies yield results that are comparable to our benchmark estimates.
+II. Data Sources and Measurement
+This section provides summary information on our data construction and measurement, with further details given in the online Data Appendix.
+We use data from the UN Comrade Database on US imports at the six-digit Harmonized System (HS) product level. Due to lags in countries adopting the HS classification, 1991 is the first year for which we can obtain data across many high-income economies. The first column in panel A of Table 1 shows the value of annual US imports from China for the years 1991, 2000, and 2007 (with all values in 2007 US$). During the 16 year period from 1991 to 2007, this import value increased by a factor of 11.5, from $26 billion to $330 billion. For comparison, the second column of panel A provides the value of annual US exports to China in 1992, 2000, and 2007. The volume of US exports was substantially smaller than the volume of imports throughout these years, and the growth of imports outpaced the growth of exports. The primary change in US-China trade during our sample period is thus the dramatic increase of US imports.
+The third and fourth columns of panel A summarize the value of imports from Mexico and Central America, and from a set of 51 low-income countries that are mostly located in Africa and Asia.21 While imports from these countries grew
+
+21 Mexico/CAFTA includes Mexico, the Dominican Republic, and all Central American countries except Belize and Panama. Other low-income countries include those the World Bank defined as low income in 1989, except China.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2132
+
+considerably over time, the expansion was much less dramatic than in the case of Chinese imports. Panel B summarizes trade flows from the same exporters to a group of eight high-income countries located in Europe, Asia, and the Pacific (Australia, Denmark, Finland, Germany, Japan, New Zealand, Spain, and Switzerland). Like the United States, these countries experienced a dramatic increase in imports from China between 1991 and 2007, and a more modest growth of imports from Mexico and Central America, and from other low-income countries. We focus on these highincome countries as they are the rich nations for which disaggregated HS trade data are available back to 1991.
+To assess the effect of imports of Chinese goods on local labor markets, we need to define regional economies in the United States. Our concept for local labor markets is Commuting Zones (CZs) developed by Tolbert and Sizer (1996), who used county-level commuting data from the 1990 Census data to create 741 clusters of counties that are characterized by strong commuting ties within CZs, and weak commuting ties across CZs. Our analysis includes the 722 CZs that cover the entire mainland United States (both metropolitan and rural areas).
+It is plausible that the effects of Chinese imports will vary across local labor markets in the United States because there is substantial geographic variation in industry specialization. Local economies that are specialized in industries whose outputs compete with Chinese imports should react more strongly to the growth of these imports. Our measure for the exposure of local labor markets to Chinese imports in equation (3) combines trade data with data on local industry employment. Information on industry employment structure by CZs, including employment in 397 manufacturing industries, is derived from the County Business Patterns data (see the online Data Appendix).
+Panel A of Appendix Table 1 shows descriptive statistics for ∆IPWujt by time period.22 In the median commuting zone, the ten-year equivalent growth of Chinese imports amounted to $890 per worker during 1990 through 2000, and to $2,110 per worker during 2000 through 2007, reflecting an acceleration of import growth over time. Appendix Table 1 also documents the considerable geographic variation in the exposure of local labor markets to Chinese import shocks. In both time periods, CZs at the 75th percentile of import exposure experienced an increase in import exposure per worker that was roughly twice as large as that faced by CZs at the 25th percentile. Panel B of the table summarizes changes in import exposure per worker among the 40 most populous CZs in the United States. These rankings provide evidence for considerable variation of trade exposure within US regions. For instance, the state of California contained three CZs in the top quartile of exposure in the 1990s (San Jose, San Diego, and Los Angeles) but also two CZs in the bottom quartile (Sacramento and Fresno). Relative trade exposure is generally persistent across the two time periods, with San Jose and Providence being the most exposed and Washington DC, New Orleans, and Orlando being the least exposed large CZs in both periods.
+Most of the empirical analysis studies changes in CZs’ population, employment, and wage structure by education, age, and gender. These variables are constructed
+22 In order to put the two periods on a comparable decadal scale, trade growth during 1991 to 2000 and during 2000 to 2007 has been multiplied with the factors 10/9 and 10/7, respectively.
+
+2133
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+from the Census Integrated Public Use Micro Samples (Ruggles et al. 2004) for the years 1970, 1980, 1990, and 2000, and the American Community Survey (ACS) for 2006 through 2008.23 We map these data to CZs using the matching strategy detailed in Dorn (2009). This approach has previously been applied by Autor and Dorn (2009, 2013) and Smith (2010). We also use data on federal and state transfer payments to CZ residents. These data were obtained from the Bureau
+of Economic Analysis and the Social Security Administration (see the online Data Appendix for details). Appendix Table 2 provides means and standard deviations for the main variables.
+
+III. The Impact of Trade Shocks on Manufacturing Employment
+
+Our instrumental variable strategy, outlined in Section IB, identifies the component of US import growth that is due to Chinese productivity and trade costs. The identifying assumption underlying this strategy is that the common within-industry component of rising Chinese imports to the United States and other high-income countries is due to China’s rising comparative advantage and falling trade costs.
+Figure 2 sketches the estimation strategy. Panel A reveals the substantial predictive power of the high-income-country instrument for changes in US import exposure. A $1,000 predicted increase in import exposure per CZ worker corresponds to a $815 increase in measured exposure per CZ worker.24 Panel B of Figure 2 plots a reduced form (OLS) regression of the change in manufacturing employment on the instrument. This figure shows a substantial reduction in manufacturing employment in the CZs facing large increases in Chinese import exposure.25 We explore the robustness and interpretation of this result in subsequent tables.
+
+A. 2SLS Estimates
+
+Table 2 presents initial estimates of the relationship between Chinese import exposure and US manufacturing employment. Using the full sample of 722 CZs and weighting each observation by start of period CZ population, we fit models of the following form:
+
+(5)
+
+∆L
+
+m it
+
+=
+
+γt
+
++
+
+β1 ∆IPWuit
+
++
+
+X i′t β 2
+
++
+
+eit ,
+
+where
+
+∆L
+
+m it
+
+is
+
+the
+
+decadal
+
+change
+
+in
+
+the
+
+manufacturing
+
+employment
+
+share
+
+of
+
+the
+
+working-age population in commuting zone i. When estimating this model for
+
+the long interval between 1990 and 2007, we stack the ten-year equivalent first
+
+23 We pool the Census ACS 2006 through 2008 files to increase sample size and hence the measurement precision. We treat the 2006 through 2008 data as referring to the year 2007.
+24 Predicted changes in US imports are constructed by regressing observed changes in US imports from China by industry (n = 397) between 1991 and 2007 on the corresponding changes in Chinese imports in eight other high-income countries, weighting industries by their US employment in 1991. This estimation yields a regression coefficient of 1.48 (t = 45.3) on other-country imports. Dropping Computers and Electronics hardly affects this point estimate (β = 1.53, t = 36.3). The bivariate correlation between changes in US–China imports by goods category and the corresponding changes in imports in the eight individual comparison countries used in constructing our instrument averages 0.54 in the 1991–2000 period and 0.56 in the 2000–2007 period.
+25 It bears note that our CZ exposure variable is by nature a proxy since imports are not shipped to importcompeting CZs for redistribution but rather are distributed broadly to wholesalers, retailers, and consumers.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2134
+
+Panel A. 2SLS first stage regression, full sample
+First stage regression, 1990–2007 50
+
+Change in import exposure per worker (in kUSD)
+
+40
+
+30 coef = 0.82, robust SE = 0.09, t = 8.88
+20
+
+10
+
+0
+
+−10
+
+−10
+
+0
+
+10
+
+20
+
+30
+
+Change in predicted import exposure per worker (in kUSD)
+
+Panel B. OLS reduced form regression, full sample Change in manufacturing emp by CZ, 1990–2007
+10
+
+Change % manufacturing emp in working-age pop.
+
+5
+
+0
+
+−5
+
+−10 −15
+
+coef = −0.34, robust SE = 0.07, t = −4.77
+
+−10
+
+0
+
+10
+
+20
+
+30
+
+Change in predicted import exposure per worker (in kUSD)
+
+Figure 2. Change in Import Exposure per Worker and Decline of Manufacturing Employment: Added Variable Plots of First Stage and Reduced Form Estimates
+Notes: N = 722. The added variable plots control for the start of period share of employment in manufacturing industries. Regression models are weighted by start of period CZ share of national population.
+
+differences for the two periods, 1990 to 2000 and 2000 to 2007, and include sepa-
+rate time dummies for each decade (in γt). The change in import exposure ∆IPWuit is instrumented by the variable ∆IPWoit as described above. Because the model is estimated in first differences, the decade-specific models are equivalent to fixed
+effects regressions, while the stacked first difference models are similar to a three-
+period fixed effects model with slightly less restrictive assumptions made on the
+
+2135
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Table 2—Imports from China and Change of Manufacturing Employment in CZs, 1970–2007: 2SLS Estimates
+Dependent variable: 10 × annual change in manufacturing emp/working-age pop (in % pts)
+
+(∆ current period imports from China to US)/worker
+(∆ future period imports from China to US)/worker
+
+I. 1990–2007
+
+1990–2000 2000–2007 1990–2007
+
+(1)
+
+(2)
+
+(3)
+
+−0.89*** −0.72*** −0.75***
+
+(0.18)
+
+(0.06)
+
+(0.07)
+
+II. 1970–1990 (pre-exposure)
+
+1970–1980 1980–1990 1970–1990
+
+(4)
+
+(5)
+
+(6)
+
+0.43*** −0.13
+
+(0.15)
+
+(0.13)
+
+0.15 (0.09)
+
+Notes: N = 722, except N = 1,444 in stacked first difference models of columns 3 and 6. The variable “future period imports” is defined as the average of the growth of a CZ’s import exposure during the periods 1990–2000 and 2000–2007. All regressions include a constant and the models in columns 3 and 6 include a time dummy. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period CZ share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+error term.26 Additionally, the vector Xit contains (in most specifications) a rich set of controls for CZs’ start-of-decade labor force and demographic composition that might independently affect manufacturing employment. Standard errors are clustered at the state level to account for spatial correlations across CZs.
+The first two columns of Table 2 estimate equation (5) separately for the 1990–2000 and 2000–2007 periods, and the third column provides stacked first differences estimates. The coefficient of −0.75 in column 3 indicates that a $1,000 exogenous decadal rise in a CZ’s import exposure per worker is predicted to reduce its manufacturing employment per working-age population by three-quarters of a percentage point. That the estimated coefficient is similar in magnitude in both time periods and all three models underscores the stability of the statistical relationships.
+Over the time period that we examine, US manufacturing experienced a secular decline. A concern for our analysis is that increased imports from China could be a symptom of this decline rather than a cause. To verify that our results capture the period-specific effects of exposure to China trade, and not some long-run common causal factor behind both the fall in manufacturing employment and the rise in Chinese imports, we conduct a falsification exercise by regressing past changes in the manufacturing employment share on future changes in import exposure. Column 4 shows the correlation between changes in manufacturing employment in the 1970s and the change in future import exposure averaged over the 1990s and 2000s, while column 5 shows the corresponding correlation for the 1980s and column 6 provides the results of the stacked first differences model. These correlations provide little evidence suggesting reverse causality. There is a weak negative relationship between the change in manufacturing employment and future import exposure in the 1980s; in the prior decade, this relationship is positive. While this exercise does not rule out the possibility that other factors contribute to the
+
+26 Estimating (5) as a fixed-effects regression assumes that the errors are serially uncorrelated, while the firstdifferenced specification is more efficient if the errors are a random walk (Wooldridge 2002). Since we use NeweyWest standard errors clustered on US state in all models, our estimates should be robust to either error structure.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2136
+
+contemporaneous CZ-level relationship between rising China trade exposure and declining manufacturing employment, the Table 2 estimates demonstrate that this relationship was absent in the decades immediately prior to China’s rise.
+Following a similar logic, we expect that CZs which only became strongly exposed to Chinese competition in the 2000s should not have seen differential declines in manufacturing employment in the 1990s. The first two columns of Appendix Table 3 test this prediction using the quartile of CZs with highest ratio of trade exposure in the 2000s relative to exposure in the 1990s, i.e., the local labor markets where exposure accelerated most across the two time periods. The estimates in columns 1 and 2 suggest that manufacturing employment in the 1990s responded negatively to contemporaneous trade exposure (panel A) but not to future exposure (panel B). Regressions for the full sample of CZs in columns 3 and 4 are more difficult to interpret since this sample comprises many CZs which were either strongly exposed to China in both periods, or weakly exposed in both periods. Therefore, a CZ that faced strong import competition in the 2000s was likely already exposed to China and losing manufacturing jobs in the 1990s. Indeed, column 3 of panel B finds a relatively small but statistically significant negative relationship between trade exposure in the 2000s and manufacturing employment in the 1990s. The relationship becomes weaker and insignificant in column 4 which controls for the manufacturing employment share at the start of the period. This component of CZ variation in trade exposure, which we include in all further regressions, is highly persistent over time thus contributing to serial correlation in the exposure measure.
+In Table 3, we augment the first difference model for the period 1990–2007 with a set of demographic and labor force measures which test robustness and potentially eliminate confounds. In the second column, we add a control for the share of manufacturing in a CZ’s start-of-period employment. This specification further addresses the concern that the China exposure variable may in part be picking up an overall trend decline in US manufacturing rather than the component that is due to differences across manufacturing industries in their exposure to rising Chinese competition. The column 2 estimate implies that a CZ with a one percentage point higher initial manufacturing share experiences a differential manufacturing employment share decline of 0.04 percentage points over the subsequent decade. This specification finds a slightly smaller effect of import exposure on manufacturing employment than does the corresponding estimate in column 1, but the relationship remains economically large and statistically significant. Noting that the interquartile range in CZ-level import exposure growth in the time interval 2000 through 2007 was approximately $1,000 per worker, the column 2 point estimate implies that the share of manufacturing employees in the working-age population of a CZ at the 75th percentile of import exposure declined by −0.65 percentage points more than in a CZ at the 25th percentile between 2000 and 2007.27
+Column 3 augments the regression model with geographic dummies for the nine Census divisions that absorb region-specific trends in the manufacturing employment
+27 Appendix Table 1 shows that the ten-year equivalent growth in import exposure for CZs at the 75th and 25th percentile was 3.11 and 1.60, respectively. The difference in growth of exposure during the period 2000– 2007 is (3.11 − 1.60) × 0.7 = 1.06 where 0.7 rescales the ten-year growth to the seven-year period. The predicted differential change between the CZs at the 75th and 25th percentile of import exposure is therefore 1.06 × −0.610 = −0.65.
+
+2137
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Table 3—Imports from China and Change of Manufacturing Employment in CZs, 1990–2007: 2SLS Estimates
+Dependent variable: 10 × annual change in manufacturing emp/working-age pop (in % pts)
+
+(∆ imports from China to US)/ worker
+Percentage of employment in manufacturing−1
+Percentage of college-educated population−1
+Percentage of foreign-born population−1
+Percentage of employment among women−1
+Percentage of employment in routine occupations−1
+Average offshorability index of occupations−1
+Census division dummies
+
+I. 1990–2007 stacked first differences
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+−0.746*** −0.610*** −0.538*** −0.508*** −0.562*** −0.596*** (0.068) (0.094) (0.091) (0.081) (0.096) (0.099)
+
+−0.035 −0.052*** −0.061*** −0.056*** −0.040*** (0.022) (0.020) (0.017) (0.016) (0.013)
+
+−0.008 (0.016)
+
+0.013 (0.012)
+
+−0.007 (0.008)
+
+0.030*** (0.011)
+
+−0.054** (0.025)
+
+−0.006 (0.024)
+
+−0.230*** −0.245*** (0.063) (0.064)
+
+0.244 −0.059 (0.252) (0.237)
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+(∆ imports from China to OTH)/ worker
+R2
+
+0.792*** (0.079)
+0.54
+
+II. 2SLS first stage estimates
+
+0.664*** 0.652*** 0.635*** 0.638*** (0.086) (0.090) (0.090) (0.087)
+
+0.57
+
+0.58
+
+0.58
+
+0.58
+
+0.631*** (0.087)
+0.58
+
+Notes: N = 1,444 (722 commuting zones × 2 time periods). All regressions include a constant and a dummy for the 2000–2007 period. First stage estimates in panel II also include the control variables that are indicated in the corresponding columns of panel I. Routine occupations are defined such that they account for 1/3 of US employment in 1980. The offshorability index variable is standardized to mean of 0 and standard deviation of 10 in 1980. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period CZ share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+share. These dummies modestly decrease the estimated effect of import exposure on manufacturing employment. Column 4 additionally controls for the start-of-period share of a CZ’s population that has a college education, the share of population that is foreign born, and the share of working-age women that are employed. These controls leave the main result unaffected.
+Column 5 introduces two variables that capture the susceptibility of a CZ’s occupations to substitution by technology or task offshoring. Both variables are based on occupational task data, which are described in detail in Autor and Dorn (2013). Routine-intensive occupations are a set of jobs whose primary activities follow a set of precisely prescribed rules and procedures that make them readily subject to computerization. This category includes white collar positions whose primary job tasks involve routine information processing (e.g., accountants and secretaries) and blue collar production occupations that primarily involve repetitive motion and monitoring tasks. If CZs that have a large start-of-period employment share in routine occupations experience strong displacement of manufacturing jobs due to automation, one would expect a negative relationship between the routine share variable and the change in manufacturing share. Indeed, the estimates in column 5 suggest that the
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2138
+
+population share in manufacturing falls by about 0.23 percentage points for each additional percentage point of initial employment in routine occupations.
+The offshorability index used in column 5 measures the average degree to which the occupations in a commuting zone require neither proximity to a specific worksite nor face-to-face contact with US based workers. If offshoring of occupations were a major driver for the decline in manufacturing within CZs, one would expect a negative relationship between the offshorability index and the change of the manufacturing employment share. The estimate in column 5 does not however find a negative or statistically significant coefficient for occupational offshorability. The fully augmented model in column 6 indicates a sizable, robust negative impact of increasing import exposure on manufacturing employment. The decline in manufacturing is also larger in CZs with a greater initial manufacturing employment share and in local labor markets where employment is concentrated in routine-task intensive occupations. It is smaller where there is a larger initial foreign born population.28
+A concern for our 2SLS estimates is that in some sectors, import demand shocks may be correlated across countries. This would run counter to our instrumental variables strategy, which seeks to isolate supply shocks affecting US producers, and would likely bias our results toward zero. To address this concern, in untabulated results we have experimented with dropping industries that one may consider suspect. During the 2000s, many rich countries experienced housing booms, associated with easy credit, which may have contributed to similar increases in the demand for construction materials. Using the specification in column 6 of Table 3 while dropping the steel, flat glass, and cement industries—inputs in relatively high demand by construction industries—has minimal effect on the coefficient estimate for import exposure, reducing it from −0.60 to −0.57. Computers are another sector in which demand shocks may be correlated, owing to common innovations in the use of information technology. Dropping computers raises the coefficient estimate on import exposure to −0.68. Finally, one may worry that the results are being driven by a handful of consumer goods industries in which China has assumed a commanding role. Dropping apparel, footwear, and textiles, for which China is by far and away the world’s dominant exporter, reduces the import exposure coefficient modestly to −0.51. In all cases, coefficient estimates remain highly significant.
+How do OLS and 2SLS estimates compare for our preferred specification in column 6 of Table 3? The OLS estimate for this specification, as seen in column 1 of panel A in Appendix Table 4, is −0.171.29 OLS is subject to both measurement error in CZ employment levels and simultaneity associated with US industry import demand shocks. It is possible to partially separate the importance of these two sources of bias, both of which tend to attenuate the point estimate of interest toward zero. If we measure the change in import exposure per worker using lagged employment levels (as we do in constructing the instrument in equation (4)) instead of beginning of period employment (as we do in equation (3)), the OLS coefficient estimate increases in magnitude from −0.171 to −0.273. It thus appears that addressing
+
+28 We have also estimated versions of the column 6 model that include, variously, state dummies and separate slope terms for the routine-intensive occupation share and offshorability index in both manufacturing and nonmanufacturing employment. These variables have almost no effect on the coefficient of interest.
+29 This table is discussed in greater detail below.
+
+2139
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+measurement concerns regarding CZ employment may account for one-quarter of the difference between OLS and 2SLS estimates, with the remaining difference (from −0.273 versus −0.596) associated with the correction for endogeneity.
+Having established the robustness of the basic setup, we build the remainder of the empirical analysis on the more detailed specification in column 6 that exploits geographic variation in import exposure conditional on initial manufacturing share, and which includes Census division dummies and measures of population demographics and labor force composition.
+B. Benchmarking the Impact of China Trade Exposure On US Manufacturing
+One way to gauge the economic magnitude of these effects is to compare the estimated trade-induced reduction in manufacturing employment with the observed decline during 1990 to 2007. Such an exercise supposes that increased exposure to Chinese imports affects the absolute level of manufacturing employment in the United States and not just relative employment across US commuting zones. Given the magnitudes of the US trade deficit and China trade surplus (and the much larger increase in US imports from China than in US exports to China, as seen in Table 1), the possibility seems real that import competition from China has an absolute impact on US manufacturing (at least as long as trade imbalances persist).
+Our preferred specification with full controls in column 6 of Table 3 implies that a $1,000 per worker increase in import exposure over a decade reduces manufacturing employment per working-age population by 0.596 percentage points. Appendix Table 2 shows that Chinese import exposure rose by $1,140 per worker between 1990 and 2000 and by an additional $1,839 per worker in the seven years between 2000 and 2007.30 Applying these values to the Table 3 estimates, we calculate that rising Chinese import exposure reduced US manufacturing employment per population by 0.68 percentage points in the first decade of our sample and 1.10 percentage points in the second decade of our sample. In comparison, US manufacturing employment per population fell by 2.07 percentage points between 1990 and 2000 and by 2.00 percentage points between 2000 and 2007 (Appendix Table 2). Hence, we estimate that rising exposure to Chinese import competition explains 33 percent of the US manufacturing employment decline between 1990 and 2000, 55 percent of the decline between 2000 and 2007, and 44 percent of the decline for the full 1990 through 2007 period.
+One sense in which this benchmark may overstate the contribution of rising Chinese imports to declining US manufacturing employment is that our 2SLS estimates measure the causal effect of the Chinese supply shock on US manufacturing whereas the import per worker measure that we employ refers to the total change in Chinese imports per worker, which combines both supply and demand factors. If plausibly the demand-driven component of Chinese imports has a less negative effect on manufacturing than the supply-driven component, our benchmark may overstate the cumulative adverse effect of rising Chinese import competition on US manufacturing employment.
+30 The 2000–2007 change in import growth in Appendix Table 2 is multiplied by 10/7 to place it in ten-year equivalent terms.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2140
+
+To isolate the share of variation in the China import measure that is driven by supply shocks, we perform in the Theory Appendix a simple decomposition that uses the relationship between OLS and 2SLS estimates to calculate the share of the variance in imports per worker that stems from the exogenous supply-driven component, with the remainder attributed to demand forces. This calculation implies that close to half (48 percent) of the observed variation in rising Chinese import exposure can be attributed to the supply-driven component. We more conservatively estimate that Chinese import competition explains 16 percent of the US manufacturing employment decline between 1990 and 2000, 26 percent of the decline between 2000 and 2007, and 21 percent of the decline over the full period. For the mainland US working-age population, these estimates imply a supply-shock driven net reduction in US manufacturing employment of 548,000 workers between 1990 and 2000 and a further reduction of 982,000 workers between 2000 and 2007.31
+C. The Importance of Non-China Trade
+The focus of our study on Chinese imports is motivated by the observation that China accounts for a very large portion of the dramatic recent increase in US imports from low-income countries (Table 1). Moreover, it is plausible that much of China’s recent trade expansion has been driven by internal productivity growth and reductions in trade barriers rather than by labor demand shocks in the United States. To consider Chinese imports alongside those of other countries, Appendix Table 4 compares the impact of growing exposure to Chinese imports to the effect of exposure to imports from other source countries. The first column repeats our baseline estimates from Tables 2 and 3. The second column shows that the effect of imports from all low-income countries (China included) is nearly identical to the effect of imports from China, suggesting that imports from other low-income countries may have a similar impact on US manufacturing as Chinese imports. Because the real dollar growth in imports from other low-income countries is an order of magnitude smaller than the growth in imports from China, their inclusion leaves our substantive conclusions regarding economic magnitudes unaffected.
+Columns 3 and 4 of the table contain estimates of the impact on US manufacturing employment of imports from Mexico and Central America. Column 3, which calculates import exposure by adding imports from Mexico and Central America to those of China, produces nearly identical 2SLS estimates to China’s imports alone, reinforcing the idea that trade with China is the driving force behind supply-driven US imports from lower wage countries. Column 4, which considers imports from Mexico and Central America separately from China, produces coefficient estimates that are more erratic. The OLS estimates in panel A show a positive relationship between increasing exposure to imports from Mexico and Central America and growth of manufacturing employment in the United States, consistent with the interpretation that growth in Mexican exports is largely driven by rising US
+
+31 Using the Census/ACS data, we calculate that the US mainland population was 157.6, 178.7, and 194.3 million adults ages 16 through 64 in 1990, 2000, and 2007 respectively. Our estimates therefore imply a supply-shock driven
+net reduction in US manufacturing employment of approximately 1.53 million workers ([ 0.5 · (157.6 + 178.7) × 1.14 + 0.5 · (178.7 + 194.3) × 1.84 ] × (0.00596 · 0.48) = 1.53).
+
+2141
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+product demand rather than changing conditions in Mexico.32 The 2SLS estimate of this coefficient, by contrast, is negative and significant. A likely explanation for this latter result is that our measure of predicted CZ-level exposure to Mexican imports is highly correlated with the corresponding exposure measure for Chinese imports. Indeed, the correlation between the predicted values of CZ-level exposure to Mexican imports and the predicted values for Chinese imports from the first stage models in columns 4 and 1, respectively, exceeds 0.70, implying that we cannot separately identify the Mexico/CAFTA versus China trade effect. Reassuringly, combining Mexico/CAFTA imports with Chinese imports has almost no effect on the point estimates, as was shown in column 3.33 The final 2SLS estimates in column 5, analyzing the impact of all other middle-income and high-income-country imports on US manufacturing, find small and inconsistently signed effects.
+The results of Sections IIIA to IIIC suggest that the exposure of CZs to growing imports from China is a quantitatively important determinant of the decline in the share of manufacturing employment in the working-age population. We now expand our focus beyond manufacturing to study the impacts of China trade shocks on broader labor market outcomes.
+IV. Beyond Manufacturing: Trade Shocks and Local Labor Markets
+Prior research on the labor market impacts of international trade has primarily focused on employment and wage effects in manufacturing industries or occupations. This approach is satisfactory if labor markets are geographically integrated, fully competitive, and in continuous equilibrium such that a shock to any one manufacturing industry affects the aggregate labor market through only two channels: directly, via a change in employment in the affected sector; and indirectly, to the degree that the sector affects aggregate labor demand. This latter channel will in turn move the competitive wage rate faced by all other sectors, spurring further employment adjustments economy-wide. If these rather stringent conditions are not satisfied, shocks to local manufacturing employment may also differentially affect employment, unemployment, and wages in the surrounding local labor market. We explore the relevance of these local labor market effects in this section, focusing on impacts in the aggregate labor market and in nonmanufacturing specifically.
+A. Population and Employment Effects in Local Labor Markets
+We begin in Table 4 by assessing the degree to which import shocks to local manufacturing cause reallocation of workers across CZs. If this mobility response is large, this would suggest that we are unlikely to find indirect effects of trade on local labor markets since initial local impacts will rapidly diffuse across regions. We find no robust evidence, however, that shocks to local manufacturing lead to
+
+32 Unlike China, Mexico has experienced little productivity growth following its market opening which began
+in the 1980s (Hanson 2010). Increased exports to the United States from Mexico appear largely driven by bilateral trade liberalization through NAFTA rather than through multilateral trade liberalization under the WTO (Romalis 2007).
+33 In related work that uses data for 1990 and 2000, McLaren and Hakobyan (2010) fail to find significant effects of NAFTA on local US labor markets (though they do detect effects on industry wage growth).
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2142
+
+Table 4—Imports from China and Change of Working-Age Population in CZ, 1990–2007: 2SLS Estimates
+Dependent variables: Ten-year equivalent changes in log population counts (in log pts)
+
+I. By education level
+
+All
+
+College Noncollege
+
+(1)
+
+(2)
+
+(3)
+
+Panel A. No census division dummies or other controls
+
+(∆ imports from China −1.031** −0.360
+
+to US)/worker
+
+(0.503)
+
+(0.660)
+
+R2
+
+—
+
+0.03
+
+−1.097** (0.488)
+0.00
+
+II. By age group
+
+Age 16–34 Age 35–49 Age 50–64
+
+(4)
+
+(5)
+
+(6)
+
+−1.299 (0.826)
+0.17
+
+−0.615 (0.572)
+0.59
+
+−1.127*** (0.422)
+0.22
+
+Panel B. Controlling for census division dummies
+
+(∆ imports from China −0.355
+
+0.147
+
+to US)/worker
+
+(0.513)
+
+(0.619)
+
+R2
+
+0.36
+
+0.29
+
+−0.240 (0.519)
+0.45
+
+−0.408 (0.953)
+0.42
+
+−0.045 (0.474)
+0.68
+
+−0.549 (0.450)
+0.46
+
+Panel C. Full controls (∆ imports from China
+to US)/worker
+R2
+
+−0.050 (0.746)
+0.42
+
+−0.026 (0.685)
+0.35
+
+−0.047 (0.823)
+0.52
+
+−0.138 (1.190)
+0.44
+
+0.367 (0.560)
+0.75
+
+−0.138 (0.651)
+0.60
+
+Notes: N = 1,444 (722 CZs × two time periods). All regressions include a constant and a dummy for the 2000– 2007 period. Models in panel B and C also include census division dummies while panel C adds the full vector of control variables from column 6 of Table 3. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period commuting zone share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+substantial changes in population. The regressions in Table 4 are analogous to our earlier models for the manufacturing employment share except that our dependent variable is the log of the working-age population ages 16 through 64 in the CZ, calculated using Census IPUMS data for 1990 and 2000 and American Community Survey for 2006 through 2008.
+The specifications in panel A, which include no controls except a constant and a time dummy for the 2000–2007 time period, find a significant negative relationship between exogenous increases in Chinese import exposure and CZ-level population growth. A $1,000 per worker increase in trade exposure predicts a decline of 1.03 log points in a CZ’s working-age population. In specifications that add Census division dummies (panel B)—which are equivalent to trends in our first-difference model— and in specifications that further include the full set of controls from Table 3, we find no significant effect of import shocks on local population size. This null is found for the overall working-age population (column 1), for college and noncollege adults (columns 2 and 3), and for age groups 16 through 34, 35 through 49, and 50 through 64 (columns 4 through 6). In moving from panel A to C, the point estimates on import exposure fall while the standard errors rise. These estimates suggest that the effect of trade exposure shocks on population flows is small, though the imprecision of these estimates does not preclude more substantial responses.
+The lack of a significant effect of trade exposure on population flows is consistent with several hypotheses. One is that shocks to manufacturing from China trade are too small to affect outcomes in the broader CZ. A second is that goods markets are sufficiently well integrated nationally that local labor markets adjust to adverse
+
+2143
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Table 5—Imports from China and Employment Status of Working-Age Population within CZs, 1990–2007: 2SLS Estimates
+Dependent variables: Ten-year equivalent changes in log population counts and population shares by employment status
+
+Mfg emp Non-mfg emp Unemp
+
+(1)
+
+(2)
+
+(3)
+
+NILF (4)
+
+Panel A. 100 × log change in population counts
+
+(∆ imports from China to US)/worker
+
+−4.231*** −0.274
+
+(1.047)
+
+(0.651)
+
+4.921*** 2.058* (1.128) (1.080)
+
+SSDI receipt (5)
+1.466*** (0.557)
+
+Panel B. Change in population shares All education levels
+(∆ imports from China to US)/worker
+
+−0.596*** −0.178
+
+(0.099)
+
+(0.137)
+
+0.221*** 0.553*** (0.058) (0.150)
+
+0.076*** (0.028)
+
+College education
+
+(∆ imports from China to US)/worker −0.592*** 0.168
+
+0.119*** 0.304***
+
+—
+
+(0.125)
+
+(0.122)
+
+(0.039) (0.113)
+
+No college education
+
+(∆ imports from China to US)/worker −0.581*** −0.531*** 0.282*** 0.831***
+
+—
+
+(0.095)
+
+(0.203)
+
+(0.085) (0.211)
+
+Notes: N = 1,444 (722 CZs × two time periods). All statistics are based on working age individuals (age 16 to 64). The effect of import exposure on the overall employment/population ratio can be computed as the sum of the coefficients for manufacturing and nonmanufacturing employment; this effect is highly statistically significant (p ≤ 0.01) in the full sample and in all reported subsamples. All regressions include the full vector of control variables from column 6 of Table 3. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period CZ share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+shocks without a mobility response. This would occur, for example, in a HeckscherOhlin setting if local labor markets operated within a single cone of diversification, such that factor price equalization pins down the wage in all markets, making local factor prices independent of local factor demands and supplies. A third possibility is that population adjustments to local economic shocks are sluggish because mobility is costly or because factors other than labor (including government transfer benefits or house prices) bear part of the incidence of labor demand shocks (Blanchard and Katz 1992; Glaeser and Gyourko 2005; Notowidigdo 2010). Costs to labor of moving between sectors (as in Artuç, Chaudhuri, and McLaren 2010, and Dix-Carneiro 2011) may contribute to costs of moving between regions. In this third case, we would expect to see local labor markets adjust along margins other than intersectoral or geographic mobility. Our evidence below is most consistent with the third interpretation.
+If working-age adults do not depart from CZs facing adverse trade shocks, then the trade-induced decline in manufacturing employment must yield a corresponding rise in either nonmanufacturing employment, unemployment, labor force exit or some combination of the three. In the first panel of Table 5, we study the impact of import shocks on the log change in the number of non-elderly adults in four exhaustive and mutually exclusive categories that sum up to the total working-age population as studied in column 1 of Table 4: employment in manufacturing, employment in nonmanufacturing, unemployment, and labor force nonparticipation. We find that
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2144
+
+a $1, 000 per worker increase in import exposure reduces the number of workers in manufacturing employment by 4.2 log points (∼ 4.2 percent, t = 4.04). Perhaps surprisingly, this effect is not offset by a rise in nonmanufacturing employment in the affected CZ; rather, there is a modest decline in local nonmanufacturing employment on the order of 0.27 log points. This point estimate is not statistically significant, though we show below that there is a significant reduction in noncollege employment in nonmanufacturing.
+These net declines in manufacturing and nonmanufacturing employment are echoed by sharp rises in the number of unemployed workers and labor force nonparticipants: a $1,000 per worker import shock increases the number of unemployed and nonparticipating individuals by 4.9 and 2.1 percent, respectively. In concert with the results in panel C of Table 4, these results indicate that trade-induced declines in manufacturing employment accrue essentially one-for-one to rising unemployment and nonemployment within affected CZs. These point estimates also underscore that the null results for population flows found in Table 4 are reliable. If tradeinduced population flows between CZs were as large as trade-induced flows within CZs, these population flows would be detectable in our sample at available levels of precision.
+Panel B of Table 5 presents a corresponding set of models for employment, unemployment, and nonemployment using as a dependent variable the share of the nonelderly adult population in each category: declines in the population share in one category (e.g., manufacturing employment) must yield equivalent gains in other categories.34 Since population—the denominator of the share variable—is not systematically affected by the shock, normalizing by this measure is not problematic. The sum of the first two coefficients in panel B indicates that a $1,000 per worker increase in a CZ’s import exposure reduces its employment to population rate by 0.77 percentage points. About three-quarters of that decline is due to the loss in manufacturing employment, with the remainder due to a (not significant) decline in nonmanufacturing employment. The next two columns show that one-quarter of the reduction in the employment to population ratio is accounted for by a rise in the unemployment to population rate (0.22 percentage points) while the remaining three-quarters accrue to labor force nonparticipation (0.55 percentage points). Thus, the shock to manufacturing employment leads to a more than one-for-one rise in nonemployment.
+While import shocks reduce employment and raise unemployment and nonparticipation among both college and noncollege adults, these effects are much more pronounced for noncollege adults.35 The next two rows of panel B show that a $1,000 import shock reduces both college and noncollege manufacturing employment per population by equivalent amounts, but has a distinct effect on college versus noncollege employment in nonmanufacturing employment, unemployment and nonemployment. Specifically, a $1,000 import exposure shock reduces noncollege employment in nonmanufacturing by a highly significant 0.53 percentage points,
+
+34 Our unemployment measure is the ratio of unemployed to the working-age population rather than labor force participants. Hence, ∆EMP/POP = −(∆UNEMP/POP + ∆NILF/POP).
+35 In our analysis, college adults are those with any completed years of postsecondary schooling whereas noncollege adults are those with high school or lower education.
+
+2145
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+which is comparable to its effect on noncollege manufacturing employment.36 By contrast, college employment in nonmanufacturing increases modestly by 0.17 percentage points (t = 1.37). A potential explanation for this pattern is that the decline of manufacturing industries decreases the demand for non-traded services that are typically provided by low-skilled workers, such as transportation, construction, or retail trade.37 On net, a $1,000 import exposure shock reduces the employment to population rate of college adults by 0.42 percentage points and of noncollege adults by 1.11 percentage points—which is nearly three times as large. For both groups, only about one-fourth of the net employment reduction is accounted for by rising unemployment, with the remainder accruing to labor force nonparticipation.
+As detailed in Appendix Table 5, declining employment and increasing unemployment and nonparticipation are similar for males and females in percentagepoint terms, though relative employment declines are larger among females because the initial share of manufacturing employment among women (8.3 percent in 1990) is considerably smaller than among men (17.3 percent). Employment-to-population reductions are equally concentrated among young, mid-career, and older workers (ages 16–34, 35–49, and 50–64), though the employment losses are relatively more concentrated in manufacturing among the young and in nonmanufacturing among the old. For the oldest group, fully 84 percent of the decline in employment is accounted for by a rise in nonparticipation, relative to 71 percent among the primeage group and 68 percent among the younger group.
+One mechanism that potentially accommodates the rise in labor force nonparticipation following a rise in import exposure is enrollment in the Social Security Disability Insurance (SSDI) program, which provides transfer benefits and Medicare coverage to working-age adults who are able to establish that their disabilities preclude gainful employment. The estimates in panel B of Table 5 suggest that 9.9 percent (0.076/0.77) of those who lose employment following an import shock obtain federal disability insurance benefits. While this is a large fraction, it is not implausible. As of 2010, 4.6 percent of adults age 25 to 64 receive SSDI benefits, and SSDI applications and awards are elastic to adverse labor market shocks (Autor and Duggan 2003 and 2010). It is likely that the increase in disability rolls is strongly concentrated among older workers and workers without a college education, though we cannot directly test this assumption since the SSDI data are not available to us separately by age or education group at the detailed geographic level.
+B. Wage Effects
+In Table 6, we analyze effects of import exposure shocks on CZ wage levels. Our estimation approach follows the models above except that our dependent variable is the mean log weekly earnings in a CZ.38 Because the outcome is only available for the
+36 Of course, manufacturing employs fewer workers than nonmanufacturing, so the proportionate reduction in nonmanufacturing employment is smaller.
+37 Disaggregating college workers into those with some college and those with a four-year degree or higher, the employment reduction in manufacturing is 40 percent larger for workers with some college than those with a fouryear degree (−0.66 versus −0.48 percentage points) whereas the gain in nonmanufacturing employment is 40 percent larger for workers with a four-year degree than those with some college (0.22 versus 0.14 percentage points).
+38 We use the log weekly wage as the outcome variable to measure the net effect of changes in hours worked and wages paid per hour.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2146
+
+Table 6—Imports from China and Wage Changes within CZs, 1990–2007: 2SLS Estimates
+Dependent variable: Ten-year equivalent change in average log weekly wage (in log pts)
+
+Panel A. All education levels (∆ imports from China to US)/worker
+R2
+
+All workers (1)
+
+Males (2)
+
+Females (3)
+
+−0.759*** (0.253)
+0.56
+
+−0.892*** (0.294)
+0.44
+
+−0.614*** (0.237)
+0.69
+
+Panel B. College education (∆ imports from China to US)/worker
+R2
+
+−0.757** (0.308)
+0.52
+
+−0.991*** (0.374)
+0.39
+
+−0.525* (0.279)
+0.63
+
+Panel C. No college education (∆ imports from China to US)/worker
+R2
+
+−0.814*** (0.236)
+0.52
+
+−0.703*** (0.250)
+0.45
+
+−1.116*** (0.278)
+0.59
+
+Notes: N = 1,444 (722 CZs × two time periods). All regressions include the full vector of control variables from column 6 of Table 3. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period CZ share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+employed, and bearing in mind that we have already established that import exposure shocks reduce employment, the wage estimates must be interpreted with caution. If, plausibly, workers with lower ability and earnings are more likely to lose employment in the face of an adverse shock, the observed change in wages in a CZ will understate the composition-constant change in wages. This concern is likely to be relevant for workers with lower education levels, among whom job losses are concentrated.39
+Despite the potential for upward bias, Table 6 finds a significant negative effect of import exposure on average weekly earnings within CZs. A $1,000 per worker increase in a CZ’s exposure to Chinese imports during a decade is estimated to reduce mean weekly earnings by −0.76 log points. While the point estimates are somewhat larger overall for males than for females, with the largest declines found among college males and noncollege females, we do not have sufficient precision to reject the null hypothesis that impacts are uniform across demographic groups.
+In Table 7, we explore wage effects separately for workers employed in manufacturing and nonmanufacturing. To aid interpretation, the upper panel of the table presents estimates of the effect of import exposure on log employment counts in both sectors. Consistent with the earlier estimates, Table 7 confirms that import exposure reduces head counts in manufacturing but has little employment effects outside of manufacturing, particularly for college workers.
+39 Another concern, which data limitations prevent us from addressing, is that the impact of import competition on local prices of non-traded goods and services may move in the same direction as the impact on local nominal wages, possibly attenuating the consequences of trade exposure for real earnings. See also note 13 and the related analysis in Notowidigdo (2010).
+
+2147
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Table 7—Comparing Employment and Wage Changes in Manufacturing and outside Manufacturing, 1990–2007: 2SLS Estimates
+Dependent variables: Ten-year equivalent changes in log workers and average log weekly wages
+
+I. Manufacturing sector
+
+All workers College Noncollege
+
+(1)
+
+(2)
+
+(3)
+
+Panel A. Log change in number of workers
+
+(∆ imports from China
+
+−4.231*** −3.992***
+
+to US)/worker
+
+(1.047) (1.181)
+
+R2
+
+0.31
+
+0.30
+
+−4.493*** (1.243)
+0.34
+
+II. Nonmanufacturing
+
+All workers College Noncollege
+
+(4)
+
+(5)
+
+(6)
+
+−0.274 (0.651)
+0.35
+
+0.291 (0.590)
+0.29
+
+−1.037 (0.764)
+0.53
+
+Panel B. Change in average log wage
+
+(∆ imports from China
+
+0.150
+
+to US)/worker
+
+(0.482)
+
+R2
+
+0.22
+
+0.458 (0.340)
+0.21
+
+−0.101 (0.369)
+0.33
+
+−0.761*** −0.743** −0.822*** (0.260) (0.297) (0.246)
+
+0.60
+
+0.54
+
+0.51
+
+Notes: N = 1,444 (722 CZs × two time periods). All regressions include the full vector of control variables from column 6 of Table 3. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period CZ share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+The effect of import exposure on mean wages found in panel B of Table 7 is the complement of the employment effects estimated in panel A. Although import exposure reduces manufacturing employment, it appears to have no significant effects on mean manufacturing wages in CZs. This finding mirrors the outcomes of industry-level studies such as Edwards and Lawrence (2010) or Ebenstein et al. (2010), which observe no negative wage effects of imports on US workers in import-competing manufacturing industries.40 One explanation for this pattern is that the most productive workers retain their jobs in manufacturing, thus biasing the estimates against finding a reduction in manufacturing wages. An alternative possibility, suggested by Bloom, Draca, and Van Reenen (2011), is that manufacturing plants react to import competition by accelerating technological and organizational innovations that increase productivity and may raise wages.
+By contrast, Chinese import exposure significantly reduces earnings in sectors outside manufacturing. Nonmanufacturing wages fall by 0.76 log points for a $1,000 increase in Chinese import exposure per worker, an effect that is comparable for college and noncollege workers. This result suggests that a negative shock to local manufacturing reduces the demand for local non-traded services while increasing the available supply of workers, creating downward pressure on wages in the sector.
+The results of this section demonstrate that an increase in the exposure of local US labor markets to Chinese imports stemming from rising Chinese comparative advantage leads to a significant decline in employment and wages in local markets. These findings suggest that a variety of partial and incomplete labor market adjustments are operative. Because total CZ employment falls following a shock to local manufacturing, we conclude that labor and product markets are not sufficiently
+40 An exception to this generalization is McLaren and Hakobyan (2010), who find a wage impact on US industries exposed to increased competition from Mexico by NAFTA.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2148
+
+integrated to diffuse the shock across the broader regional or national labor market. The fact that manufacturing wages do not fall along with employment may indicate that manufacturing wages are downwardly rigid or that any wage effects are masked by shifts in employment composition. That wages fall in nonmanufacturing, however, suggests that this sector is subject to a combination of negative demand shocks—working through reduced demand for non-traded services—and positive shocks to sectoral labor supply, as workers leaving manufacturing seek jobs outside of the sector. Overall, the findings suggest that general equilibrium effects operate within but not across local labor markets: an adverse demand shock to manufacturing reduces wages in other sectors locally but is not dissipated either within or across sectors in the broader (nonlocal) labor market.41
+V. Public Transfer Payments and Household Incomes
+The decline in employment and wages in CZs facing growing import exposure is likely to generate an increase in residents’ demand for public transfer payments, a conjecture that is reinforced by the finding in Table 5 that CZs facing increased import exposure experience a rise in federal disability program (SSDI) recipients. Table 8 studies how a variety of public transfer benefits respond to changes in import exposure. We use data from the BEA Regional Economic Accounts and from the Social Security Administration’s Annual Statistical Supplement to measure transfer payments per capita. Table 8 reports the estimated effect of changes in import exposure on both the dollar and log change in individual transfers per capita for total transfers and for major subcategories.
+The effect of import exposure on transfer payments to CZs is sizable. We estimate that a $1,000 increase in Chinese import exposure leads to a rise in transfer payments of $58 per capita (1.01 log points in the logarithmic specification).42 Logically, the largest proportionate increase is found for Trade Adjustment Assistance (TAA), which is targeted specifically at individuals who lose employment due to foreign competition.43 Other transfers that are elastic to import exposure are Unemployment Insurance benefits, Social Security Disability Insurance (SSDI) benefits, federal income assistance benefits from SSI (Supplemental Security Income), TANF (Temporary Assistance for Needy Families), and SNAP (Supplemental Nutrition Assistance), which are summed in column 7, and education and training assistance, which comprises means-tested education subsidies.
+These transfer programs differ substantially in expenditure levels per capita (Appendix Table 2). In-kind medical transfer benefit programs, which include
+41 We cannot rule out the possibility that there are also general equilibrium effects on national employment and wages. These would be absorbed by time dummies in our estimates. The lack of a migration response means that these effects would primarily have to operate through traded goods prices rather than through labor mobility.
+42 Import exposure is denominated by non-elderly adult workers whereas transfer payments are denominated by total CZ residents. If we instead perform a 2SLS estimate of the effect of imports per worker on total transfers divided by total workers, we obtain a coefficient of 113.18 (standard error 41.53). That this coefficient is roughly double that for transfers per capita point estimate reflects the fact that the ratio of US employment to total population (including children and the elderly) is approximately 50 percent.
+43 TAA payments are observed at the state level and assigned to CZs in proportion to unemployment payments. Columns 2 and 3 in panel A of Table 8 imply that the growth of TAA benefits is more concentrated in states with high import exposure than is the growth of unemployment benefits, consistent with TAA benefits primarily responding to import shocks and unemployment benefits also responding to other labor demand shocks.
+
+2149
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Table 8—Imports from China and Change of Government Transfer Receipts in CZs, 1990–2007: 2SLS Estimates
+Dep vars: Ten-year equivalent log and dollar change of annual transfer receipts per capita (in log pts and US$)
+
+Total individual transfers
+(1)
+
+TAA benefits
+(2)
+
+Unem- SSA
+
+SSA
+
+ployment retirement disability
+
+benefits benefits benefits
+
+(3)
+
+(4)
+
+(5)
+
+Medical benefits
+(6)
+
+Panel A. Log change of transfer receipts per capita
+
+(∆ imports from China 1.01*** 14.41* 3.46*
+
+to US)/worker
+
+(0.33) (7.59) (1.87)
+
+R2
+
+0.57
+
+0.28
+
+0.48
+
+0.72* (0.38)
+0.36
+
+1.96*** (0.69)
+0.32
+
+0.54 (0.49)
+0.27
+
+Federal income assist
+(7)
+
+Educ/ training assist
+(8)
+
+3.04*** 2.78**
+
+(0.96) (1.32)
+
+0.54
+
+0.33
+
+Panel B. Dollar change of transfer receipts per capita
+
+(∆ imports from China 57.73*** 0.23
+
+3.42
+
+to US)/worker
+
+(18.41) (0.17) (2.26)
+
+R2
+
+0.75
+
+0.28
+
+0.41
+
+10.00* (5.45)
+0.47
+
+8.40*** 18.27
+
+(2.21) (11.84)
+
+0.63
+
+0.66
+
+7.20*** 3.71***
+
+(2.35) (1.44)
+
+0.53
+
+0.37
+
+Notes: N = 1,444 (722 CZs × two time periods), except N = 1,436 in column 2, panel A. Results for TAA benefits in column 2 are based on state-level data that is allocated to CZs in proportion to unemployment benefits. Unemployment benefits in column 3 include state benefits and federal unemployment benefits for civilian federal employees, railroad employees, and veterans. Medical benefits in column 6 consist mainly of Medicare and Medicaid. Federal income assistance in column 7 comprises the SSI, AFDC/TANF, and SNAP programs while education and training assistance in column 8 includes such benefits as interest payments on guaranteed student loans, Pell grants, and Job Corps benefits. The transfer categories displayed in columns 2 to 8 account for over 85 percent of total individual transfer receipts. All regressions include the full vector of control variables from column 6 of Table 3. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period CZ share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+Medicare and Medicaid, spent about $2,500 per capita in 2007, whereas the Social Security retirement and disability insurance programs transferred about $1,400 and $300 per capita, respectively.44 Meanwhile, federal income assistance (SSI, TANF, and SNAP) transferred about as much income as SSDI. By contrast, average TAA payments amounted to a mere $2 per capita, which is less than 0.05 percentage points of total transfers from governments to individuals. The substantial relative growth of TAA payments in CZs with growing import exposure thus translates to just a small increase of $0.23 in per capita in benefits for every $1,000 of growth in a CZ’s per-worker exposure to Chinese imports. Unemployment benefits also contribute only modestly to the overall increase in transfers. In contrast, the increase in federal transfer spending on SSDI payments is large and significant, equal to about $8 per $1,000 growth of export exposure. In-kind medical benefits rise by $18 per capita, while federal income assistance and retirement benefits account for an additional $7 and $10 in per-capita transfer spending. Not all of these effects are precisely measured, however.
+Overall, Table 8 suggests that through its effects on employment and earnings, rising import exposure spurs a substantial increase in government transfer payments to citizens in the form of increased disability, medical, income assistance, and unemployment benefit payments. These transfer payments vastly exceed the expenses of
+
+44 Note that these figures are denominated by population not beneficiaries.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2150
+
+Table 9—Imports from China and Change in Household Income, 1990–2007: 2SLS Estimates Dependent variable: Ten-year equivalent percentage and real dollar change in average and median annual household income per working-age adult (in %pts and US$)
+
+Panel A. Percent change (∆ imports from China
+to US)/worker
+R2
+
+Average HH income/adult by source
+
+Total (1)
+
+Wagesalary
+(2)
+
+Business invest (3)
+
+SocSec + AFDC
+(4)
+
+Median HH income/adult
+
+Total (5)
+
+Wagesalary
+(6)
+
+−1.48*** (0.36)
+0.69
+
+−2.14*** (0.59)
+0.43
+
+−0.51 (0.74)
+0.76
+
+2.12*** (0.58)
+0.52
+
+−1.73*** (0.38)
+0.53
+
+−2.32*** (0.51)
+0.52
+
+Panel B. Dollar change (∆ imports from China
+to US)/worker
+R2
+
+−492.6*** −549.3***
+
+(160.4)
+
+(169.4)
+
+0.63
+
+0.40
+
+40.1 (116.7)
+0.72
+
+17.3*** (4.3)
+0.51
+
+−439.9*** −476.5***
+
+(112.7)
+
+(122.2)
+
+0.49
+
+0.48
+
+Notes: N = 1,444 (722 CZs × 2 time periods). Per capita household income is defined as the sum of individual incomes of all working-age household members (age 16–64), divided by the number of household members of that age group. Total income comprises wage and salary income; self-employment, business, and investment income; social security and welfare income; and income from other nonspecified sources. Social security and welfare income in column 4 includes social security retirement, disability, and supplementary income, aid to families with dependent children (AFDC), and general assistance. All regressions include the full vector of control variables from column 6 of Table 3. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period CZ share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+the TAA program, which specifically targets workers who lose employment due to import competition. The transfers should not for the most part be counted as economic losses, of course, since they primarily reflect income redistribution among citizens via taxation and transfers. However, applying a typical estimate of the deadweight loss of taxation of around 40 cents on the dollar (Gruber 2010), the real cost of the transfers spurred by rising import exposure is nontrivial.45 In addition, the trade-induced rise in labor force nonparticipation documented above should also be counted as a deadweight loss to the degree that workers’ market wage (prior to the shock) exceeds their value of leisure, a point we return to below.
+Import exposure shocks may also cause reductions in household income and therefore consumption. Table 9 shows that the combination of falling employment, declining wage levels, and growing transfer payments has measurable impacts on the level and composition of household income in local labor markets exposed to growing import competition. The models in Table 9, which are estimated using data from the Census and American Community Survey (rather than the BEA transfer data above), find that a $1,000 increase in a CZ’s import exposure leads to a fall in CZ average household wage and salary income per working-age adult of 2.14 percent (column 2 of panel A) or about $549 per working-age adult and year (panel B).46
+45 To the degree that SSA retirement benefits reflect deferred earnings rather than transfers per se, the tradeinduced increase in retirement benefits payments should not have a tax-related deadweight loss component.
+46 These estimates use the combined wage and salary income of working-age adults ages 16–64 in each household divided by the number of working-age adults. Households are weighted by their number of working-age adults.
+
+2151
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+The effect of import competition on household incomes is statistically significant and economically large. To confirm its plausibility, we benchmarked it against our earlier estimates of the effect of import exposure on employment and earnings among the employed. The estimates in the first two columns of Table 5 (panel B) indicate that a $1,000 per worker increase in a CZ’s import exposure reduces manufacturing and nonmanufacturing employment per population by 0.60 and 0.18 percentage points, respectively. Average annual earnings in these sectors at the midpoint of our sample was $44,233 and $36,142 (in 2007 US$), implying that a $1,000 increase in trade exposure lowered labor income per capita among adults by $331 through reduced employment, with four-fifths of the fall due to reduced manufacturing employment. Turning to wages, the estimates in Table 7 imply that a $1,000 per worker rise in trade exposure reduced weekly earnings by −0.76 log points among workers employed in nonmanufacturing and increased weekly earnings by 0.15 log points among workers in manufacturing. The average employment-to-population ratio in the manufacturing and nonmanufacturing sectors was 10.5 percent and 59.2 percent at the midpoint of our sample. We thus calculate a further reduction in labor earnings of $156 per adult accruing from reduced weekly earnings among the employed.47 Combining the employment and earnings margins yields an estimated per adult reduction of $487 per $1,000 increase in trade exposure, which is similar to the per adult wage/salary impact estimate of $549 obtained in Table 9.
+Also consistent with the estimates in Table 8, we find that rising transfer income offsets only a small part of the decline in household earnings. The estimates in column 4 show that a $1,000 increase in a CZ’s import exposure generates a $17 increase in average household transfer income per working-age adult from Social Security and AFDC. Other sources of transfer income, notably those that do not take the form of unrestricted cash benefits, cannot be observed in the Census data. However, given an increase in total government transfers of about $58 per person for a $1,000 increase in import exposure according to Table 8, it appears unlikely that the increase in households’ transfer benefits comes anywhere close to offsetting the substantial decline in earnings.
+VI. Exports and the Factor Content of Trade
+In this section, we consider alternative measures of trade exposure for US commuting zones in order to gauge the robustness of our results.
+First, we modify our definition of import exposure to include competition in other foreign markets. China’s growth not only displaces US producers in the US market but may also affect US sales in the foreign markets that US industries serve. We measure global US industry exposure to import competition from China using initial US exports to each market divided by the market’s imputed spending on industry output (calculated under the assumptions that preferences are Cobb-Douglas and that foreign industry expenditure shares equal those in the United States). Following
+
+47 The per capita earnings impact from reduced wages in nonmanufacturing is −0.0076 × $36,142 × 0.592 = −$163, while the diminutive countervailing effect from higher manufacturing wages is 0.0015 × $44, 233 × 0.105 = $7.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2152
+
+Table 10—Adding Exposure to Indirect Import Competition or Exposure to Net Imports, 1990–2007: 2SLS and OLS Estimates Dependent variables: Ten-year equivalent changes of indicated variables
+
+I. Employment/pop
+
+II. Log wages
+
+Mfg Nonmfg
+
+Mfg
+
+(1)
+
+(2)
+
+(3)
+
+Panel A. Baseline results: Gross Chinese imports per worker (2SLS)
+
+(∆ imports from China to US)/
+
+−0.60*** −0.18
+
+0.15
+
+worker
+
+(0.10) (0.14)
+
+(0.48)
+
+Nonmfg (4)
+−0.76*** (0.26)
+
+III. Transfers, wage inc
+
+log Avg log HH
+
+transfers wage inc
+
+(5)
+
+(6)
+
+1.01*** −2.14***
+
+(0.33)
+
+(0.59)
+
+Panel B. Domestic plus international exposure to Chinese exports (2SLS)
+
+(∆ domestic + intn’l exposure to −0.51*** −0.12
+
+0.16 −0.60***
+
+Chinese imports)/worker
+
+(0.08) (0.12)
+
+(0.42) (0.23)
+
+0.87*** −1.77***
+
+(0.27)
+
+(0.49)
+
+Panel C. Exposure to final goods and intermediate inputs (2SLS)
+
+(∆ imports from China to US net −0.49*** −0.01
+
+0.71
+
+of i’med inputs)/worker
+
+(0.12) (0.20)
+
+(0.52)
+
+−0.41 (0.37)
+
+0.84** −1.23
+
+(0.36)
+
+(0.82)
+
+Panel D. Net Chinese imports per worker (2SLS)
+
+(∆ net imports of US from China)/ −0.45*** −0.09
+
+worker
+
+(0.10) (0.15)
+
+0.46 −0.47* (0.42) (0.27)
+
+0.73** −1.39**
+
+(0.35)
+
+(0.58)
+
+Panel E. Change in China-US productivity differential (OLS gravity residual)
+
+∆ comparative advantage China
+
+−0.29*** −0.03
+
+0.04 −0.26*
+
+(gravity residual)
+
+(0.04) (0.08)
+
+(0.28) (0.15)
+
+0.53*** −0.78***
+
+(0.14)
+
+(0.25)
+
+Panel F. Factor content of net Chinese imports per worker (2SLS)
+
+(∆ factor content of net imports
+
+−0.57*** −0.12
+
+0.59
+
+from China)/worker
+
+(0.10) (0.15)
+
+(0.50)
+
+−0.66** (0.26)
+
+0.81** −1.70***
+
+(0.36)
+
+(0.54)
+
+Notes: N = 1,444 (722 CZs × 2 time periods). The estimates in panel A correspond to the main results of the preceding Tables 5, 7, 8, and 9. The mean (and standard deviation) of the trade exposure variables is 1.88 (1.75) in panel A; 2.28 (2.17) in panel B; 1.46 (1.48) in panel C; 1.58 (1.66) in panel D; 1.40 (1.79) in panel E; and 1.50 (1.48) in panel F. The first stage coefficient estimate is 0.61 (s.e. 0.07) for the models in panel B; 0.72 (0.09) for the final goods import instrument and −1.05 (0.25) for the intermediate inputs import instrument in panel C; 0.70 (0.10) for the import instrument and −0.32 (0.08) for the export instrument in panel D; and 0.72 (0.07) for the import instrument and −0.28 (0.06) for the export instrument in panel F. All regressions include the full vector of control variables from column 6 of Table 3. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period CZ share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+equations (1) and (3), the total exposure of United States region i to imports from China is
+
+∑ ∑ j
+
+_ Eijt Eujt
+
+_ ∆Mucjt + o≠_ c _ XXooujjtt ∆Mocjt Eit
+
+.
+
+This expression differs from equation (3) due to the second summation term, which captures growth in third markets’ imports from China (∆Mocjt) weighted by the initial share of spending in these markets on US produced goods (Xoujt/Xojt). The large share of spending most countries devote to domestic goods means that the imputed
+share of expenditures directed toward US products is small. Allowing for US expo-
+sure to China through third markets increases the mean change in China import
+exposure for CZs by only 21 percent.
+
+2153
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Panel B of Table 10 reports regression results in which we replace the import exposure measure in equation (3) with domestic plus international import exposure to Chinese trade. We adjust the instrument for import exposure in equation (4) in an analogous manner. The results are qualitatively similar to the baseline regressions in panel A and show similar patterns of statistical significance. The coefficients are smaller in absolute value, consistent with the scaling up of import exposure in the new measure. In column 1, the impact of a $1,000 increase in import competition from China on the manufacturing employment to population share falls to −0.51.
+A second issue with measuring trade exposure is that imports from China include both final goods purchased by US consumers and intermediate inputs purchased by US firms. If trade with China increases the variety of inputs to which US producers have access, it may raise their productivity (e.g., Goldberg et al. 2010), increasing their demand for labor and partially offsetting the impact of import competition in final goods. Panel C of Table 10 reports results in which we measure industry import exposure using total China imports per worker less China imports of intermediate inputs per worker, in which we calculate industry imported inputs by combining US trade data with the 1992 US input-output table (assuming that industry patterns of input usage are the same for imports as for US domestic goods).48 We construct the instrument for input-adjusted import exposure analogously. In column 1, the coefficient on import exposure is −0.49, 18 percent smaller than in panel A, and still very precisely estimated.
+Another feature missing in our analysis is US exports to China. Because US imports from China are much larger than US exports to China, excluding exports may not greatly affect our measure of trade exposure. Incorporating exports is complicated by China and the United States occupying different positions in global production chains. Whereas the model we outline in Section I treats all products as final goods, in practice firms may produce inputs in one country, export the goods to a second country for further processing, and so on until the final product is delivered to consumers (Hummels, Ishii, and Yi 2001). China is often the final link in the supply chain owing to its comparative advantage in labor-intensive assembly, which tends to be the last stage of production (Feenstra and Hanson 2005), meaning that goods leaving China tend to be on their way to consumers. China’s place in global production suggests that although we do not explicitly account for supply chains, our approach still captures how imports from China (and from other countries whose value added is embodied in US imports from China) affect the demand for US goods.49
+
+48 In principle, one could enter total imports and imports of intermediate inputs separately to gauge their independent contributions to changes in labor-market outcomes. In practice, the two import values are highly correlated, which creates concerns over collinearity. A similar issue arises in regressions that simultaneously include separate variables for imports and exports.
+49 While China may be the last link in global production chains, its contribution to value added is not small. Roughly half of China’s manufacturing exports are by “export processing” plants, which import most non-labor inputs and export most output. The other half of exports are by plants that produce a larger fraction of the inputs they consume and which sell a larger fraction of their output on the domestic market. Feenstra and Hanson (2005) estimate that over the period 1997–2002, value added in China was 36 percent of total output for export processing plants. Since the share of value added in output among other plants is almost certainly higher, the 36 percent figure is a lower bound for China’s value added in its manufacturing shipments abroad. Koopman et al. (2010) estimate that across all sectors in 2004, value added in China accounted for 63 percent of its gross exports.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2154
+
+The same is unlikely to hold for US exports to China. US firms tend to locate early in the production chain, meaning that US products destined for China may be shipped through third countries (e.g., US technology is used by Korea to manufacture chips for cell phones before these chips are sent to China for assembly and testing). Thus, there may be greater disconnect between our model and actual trade for US exports to China than for US imports from China.
+Despite these qualms, we construct net imports from China by subtracting US exports from US imports by industry, which following equation (3) yields
+
+∑
+j
+
+_ Eijt Eujt
+
+_ ∆Mucjt Eit
+
+−
+
+∑
+j
+
+_ Eijt Eujt
+
+_ ∆Xcujt Eit
+
+.
+
+We instrument for the net import measure using two variables: the potential import exposure index used in prior tables (equation (4)) and an analogously constructed potential export exposure measure, built using observed exports to China by industry from the eight comparison countries previously used for the potential import exposure measure. Panel D of Table 10 presents estimates. A $1,000 per worker increase in Chinese net import exposure reduces the manufacturing employment to population ratio by 0.45 percentage points. This point estimate is about 25 percent smaller and similarly precisely estimated to the model in panel A that uses gross rather than net import exposure.
+An alternative to studying net import effects that circumvents the conceptual and measurement issues discussed above is to apply the gravity residual described in the Theory Appendix. The virtue of the gravity measure is that it captures changes in the productivity or transport costs of Chinese producers relative to US producers. These relative changes are the force that gives rise to both Chinese imports and US exports. To interpret the scale of the gravity measure, note that a one unit increase in the gravity measure corresponds to a $1,000 per worker increase in a region’s Chinese import exposure stemming from a rise in China’s productivity or fall in China’s trade costs. This scaling is comparable to the import exposure variable in our baseline specification with two slight differences: first, because the gravity residual corresponds to a logarithmic measure of productivity, it is appropriate to exponentiate this coefficient for comparison; second, since changes in Chinese relative productivity or trade costs will affect net rather than gross imports, the gravity estimates are most comparable to the net import exposure models in panel D.
+Panel E of Table 10 use the gravity-based approach to measure the exposure of CZs to Chinese trade. Column 1 finds that a $1,000 per worker increase in net import exposure to Chinese trade resulting from rising relative Chinese productivity or falling transport costs reduces local US manufacturing employment by three-tenths of one percentage point. We detect a significant positive effect of increased Chinese trade exposure on receipt of transfer benefits in CZs and a significant negative effect on household wage income of CZ residents.
+As a final specification, we use the factor content of US net imports from China to replace imports per worker. An earlier literature, based on Heckscher-Ohlin trade theory, models trade as affecting labor markets through the import of factor services embodied in goods (Deardorff and Staiger 1988; Borjas, Freeman, and Katz
+
+2155
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+1997).50 We reestimate our core regressions using the factor content of trade to measure import exposure in CZs. Because our data at the CZ level do not permit measurement of factor content by labor type, we treat labor as a composite factor. In panel F of Table 10, we report results in which we replace the change in imports per worker with the change in the net import of effective labor services,
+
+∑
+j
+
+_ Eijt _ ˜Euj0 _ ∆Mucjt Eujt Vuj0 Eit
+
+−
+
+∑
+j
+
+_ Eijt Eujt
+
+_ ˜Euj0 Vuj0
+
+_ ∆Xcujt Eit
+
+.
+
+This measure of the labor content of US net imports from China calculates CZ exposure to trade by imputing labor services embodied in net imports using net imports times employment per dollar of gross shipments in US industries at the national level (˜Euj0/Vuj0), where we measure ˜Euj0 based on the direct plus indirect employment of labor used to manufacture goods in an industry.51 We instrument for the labor content of net imports from China in a manner analogous to our strategy for net imports in panel D.
+The results in column 1 of panel F show that the net import of labor services of one US worker displaces 0.81 workers in manufacturing, after adjusting for differences in the scale of the net-labor-services import measure (denominated in labor services per worker in a CZ) and the manufacturing-employment-per-population outcome (denominated in manufacturing workers per working-age population in a CZ).52 These coefficients are precisely estimated and are consistent with our findings for other measures of trade exposure: larger increases in the factor content of net imports yield lower wages in nonmanufacturing, higher government transfers to households, and lower household wage and salary income.
+Taken together, the Table 10 results suggest that our focus on Chinese imports effectively utilizes the economically consequential and well-identified variation in China trade exposure without compromising the substantive interpretation of the results.
+
+VII. Losses in Efficiency from Use of Public Benefits and Involuntary Labor Force Nonparticipation
+
+What do our results imply about US gains from trade with China? In theory, such gains are positive. Trade may lower incomes for workers exposed to import competition, but gains to consumers from lower product prices or increased product variety (Broda and Weinstein 2006) and gains to firms from having inputs at lower cost and in greater variety (Goldberg et al. 2010) should ensure that aggregate gains from
+
+50 The validity of the factor content approach was the subject of debate in the trade and wages literature of the 1990s (Krugman 2000; Leamer 2000; and Feenstra 2010). See Burstein and Vogel (2011) for recent work.
+51 That is, ˜Euj0 is the component for industry j of the vector E(I − C)−1, where E is the vector of direct employment in each industry, C is the industry input-output matrix, and I is the identity matrix (where we use values from 1992 for each element). The implicit assumption is that the labor intensities of US goods that are replaced by Chinese imports and of goods the US exports to China are the same as average US industry labor intensity. In reality, we expect imports from (exports to) China to be relatively labor (capital) intensive.
+52 The factor content of net imports is normalized by CZ employment, whereas manufacturing employment in the dependent variable is normalized by working-age CZ population. To place both on the same footing, we multiply the point estimate for factor contents by the inverse ratio of CZ employment to CZ population, which is equal to 0.70 at the midpoint of the sample. Hence, we calculate that the import of the labor services of one US worker displaces −0.57 × (1/0.70) = 0.81 US manufacturing workers.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2156
+
+trade are larger than zero. Trade may also induce firms to invest in innovation, contributing to productivity growth (Bloom, Draca, and Van Reenen 2011). Our finding that increased exposure to import competition is associated with lower manufacturing employment and lower wages in exposed local labor markets in no way contradicts this logic. It does, however, highlight trade’s distributional consequences.
+One manner in which adjustment to import competition may partly offset gains from trade is through the deadweight loss associated with individual take-up of government transfers. Such a loss is not a distributional consequence of trade but a reduction in economic efficiency associated with US benefit programs. The coefficient estimate in column 1 of Table 8 implies that annual per capita transfers increase by $58 for every $1,000 of additional import exposure per worker. By multiplying this coefficient by the observed growth of exposure to Chinese imports and the fraction of this growth that we attribute to supply shocks, we obtain that rising import competition from China has been associated with an increase in annual transfer receipts of $32 and $51 per capita in 1990–2000 and 2000–2007, respectively.53 Using Gruber’s (2010) estimate that the marginal excess burden of taxation (required to fund transfers) is equal to approximately 40 cents on the dollar, the increase in transfers resulting from import exposure implies an increase in annual deadweight loss of $13 and $21 in these two periods, or $33 in total. Applying a confidence interval of plus and minus one standard error around the point estimate for induced transfers, we estimate the range of deadweight losses during our sample period at $22 to $44 per capita.
+Another source of efficiency loss from trade adjustment is involuntary reductions in labor force participation, which will lead to deadweight losses if the market wage of involuntarily displaced workers exceeds their value of leisure. We benchmark the magnitude of this frictional cost by estimating workers’ forgone value of leisure during employment and comparing this to their market wage. The gap between these values is equal to workers’ surplus from employment or, in the case of involuntary unemployment, to the magnitude of the deadweight loss.
+We assume that workers initially choose hours freely, so they are indifferent at the margin between supplying an additional hour of labor and consuming an additional hour of leisure. We write
+
+(6)
+
+w0 uc ( y + w0 h0, h0) = −uh ( y + w0 h0, h0),
+
+where the left-hand side of this expression is equal to the marginal utility of the
+consumption afforded by an hour of labor at the optimal hours choice h0 and wage w0, and the right-hand side is the marginal disutility of work, or equivalently, the marginal utility of leisure. Due to risk aversion, the marginal utility of consumption
+is globally declining in income, so a lower bound on the consumer’s loss of welfare
+
+53 Import exposure per worker rose by $1,140 in 1990–2000 and by $1,840 in the seven-year period 2000–2007. Column 1 in Table 8 finds that a $1000 increase in exposure per worker induces $58 additional in per capita transfers, implying that increased trade flows led to an additional $66 and $106 in transfers per capita in 1990–2000 and 2000–2007 respectively. As in our benchmarks above for manufacturing employment, we scale this estimate downward by approximately half (52 percent) so that our impact estimate only incorporates the variation in rising Chinese import exposure that we can confidently attribute to supply shocks. By this metric, we estimate the increase in annual per capita transfers attributable to rising Chinese import competition at $32 and $51 in the first ten and last seven years of our sample.
+
+2157
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+from a reduction in income (holding labor supply constant) is the initial marginal
+
+utility of consumption times the income loss u0c. We therefore conservatively assume
+
+that
+
+uc(y
+
++
+
+w0 h0,
+
+h0)
+
+=
+
+u
+
+0 c
+
+is
+
+constant
+
+at
+
+the
+
+initial
+
+wage.54
+
+Applying
+
+this
+
+simplifi-
+
+cation to (6), taking logs and differentiating yields the inverse compensated hours
+
+elasticity of labor supply:55
+
+_ ∂ lnw ∂ lnh
+
+=
+
+_ ∂ ln (−uh ( y _ + w0 h0, h0))
+∂ lnh
+
+=
+
+_1 ηh
+
+.
+
+To estimate worker surplus from employment, we integrate the labor supply function over the relevant range and subtract this value from labor earnings:
+
+(7)
+
+∆
+
+=
+
+w0 h0
+
+−
+
+_ w0 h0 1 + 1/ηh
+
+=
+
+_ w0 h0 ηh + 1
+
+.
+
+A higher labor supply elasticity implies that workers gain less surplus from employ-
+
+ment since the wage demanded for an additional hour of labor is not much above the
+
+wage paid for the prior hour.
+
+Next consider a trade-induced shock that leads to involuntary displacement—
+
+forcing some workers to reduce hours of work to zero—and, further, reduces the
+
+market wage that displaced workers would receive were they to hypothetically
+
+regain employment.56 In estimating the associated deadweight loss, we must rec-
+
+ognize that trade-induced employment reductions are in part volitional, stemming
+
+from the effect of falling wages on labor supply. To estimate the deadweight loss
+
+from involuntary unemployment, we first net out the voluntary labor supply reduc-
+
+tions on the extensive (participation) and intensive (hours) margins.
+
+We estimate these voluntary responses by applying Hicksian labor force partici-
+
+pation and hours elasticities of ηe ≈ 0.25 and ηh ≈ 0.50, respectively, drawn from
+
+Chetty (2012). Our impact estimates in Tables 5 and 6 find that a $1,000 import
+
+shock by βˆe
+
+reduces wages by βˆw = −0.77 percentage
+
+= −0.76 percent and points. The extensive
+
+reduces labor force margin elasticity of
+
+participation 0.25 implies
+
+that a 0.76 percent wage decline will generate a decline in labor force participation
+
+of 0.19 percent, which is roughly one quarter as large as what we observe in the
+
+data. We infer that approximately three-quarters of the trade-induced fall in employ-
+
+ment is involuntary. Lower wages will also reduce desired hours among those who
+
+remain employed. To incorporate this response, we write the new market wage as
+
+w′0 : w0′ < w0 with associated hours choice h0′ ≈ h0(1 + ηh ln(w′0/w0)).
+Substituting these adjusted wage and hours value into equation (7) yields the wel-
+
+fare loss from involuntary employment,
+
+(8)
+
+∆′
+
+=
+
+_ α w0 h0 [1 + _ ηh (α − 1)] ηh + 1
+
+,
+
+54 Moreover, the literature suggests that consumption losses are much smaller than income losses for displaced
+
+workers, implying that income effects may also be relatively small (Gruber 1997).
+
+55 The
+
+associated
+
+inverse
+
+labor
+
+supply
+
+function
+
+is
+
+w
+
+=
+
+( h/k0 ) 1/η,
+
+where
+
+k0
+
+≡
+
+h0/w
+
+η 0
+
+.
+
+56 The decline in the market wage is a pecuniary cost that should arguably not be counted in the welfare
+
+calculation.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2158
+
+where α = w0′ /w0 and we approximate ln (w′0/w0) ≈ α ≈ 1 + βˆw × ∆IPWut. This equation says that the deadweight loss from involuntary unemployment is somewhat less than workers’ surplus from employment since reductions in the equilibrium wage and associated reductions in hours of work reduce worker surplus even conditional on remaining employed.57
+Applying these estimates, we calculate that the exogenous component of rising China trade exposure increased involuntary unemployment and nonparticipation by 0.32 and 0.52 percentage points, respectively, in the first and second periods of our sample, with associated reductions in earnings per capita of $65 and $106. Using equation (8) to calculate the loss in worker surplus, we estimate deadweight losses from involuntary unemployment of $43 in the first period and $69 per capita in the second. Allowing for a one standard error band for the estimated impact of trade exposure on the employment rate, we obtain a deadweight loss due to involuntary unemployment of $87 to $137 per capita for the full 1990 through 2007 interval.58
+As affected workers retire or pass away, the trade-induced welfare losses from either the transfers they receive or involuntary unemployment will dissipate whereas the gains from trade should persist. Nevertheless, in the medium run, losses in economic efficiency from increased usage of public benefits and involuntary labor-force nonparticipation may offset a portion of the gains from trade with China.
+VIII. Conclusion
+The value of annual US goods imports from China increased by a staggering 1,156 percent from 1991 to 2007, whereas US exports to China grew by much less. The rapid increase in US exposure to trade with China and other developing economies over this period suggests that the labor-market consequences of trade may have grown considerably relative to earlier decades. Much previous research has studied the effects of imports on manufacturing firms or employees of manufacturing industries. By analyzing local labor markets that are subject to differential trade shocks according to initial patterns of industry specialization, our paper extends the analysis of the consequences of trade beyond wage and employment changes in manufacturing. Specifically, we relate changes in manufacturing and nonmanufacturing employment, earnings, and transfer payments across US local labor markets to changes in market exposure to Chinese import competition. While most observed trade flows into the United States are the result of both
+
+57 In the numerator of this calculation, a higher labor supply elasticity partly mitigates welfare loss from the adverse shock because a worker will voluntarily reduce hours by more for a given reduction in the wage.
+58 Given a reduction of the employment rate by 0.77 percentage points per $1,000 of import exposure, and our estimate that 48 percent of import growth is due to the China supply shock, we obtain a supply shock–induced decline of the employment rate by 1,140 × −0.77 × 0.48 = −0.42 and 1,840 × −0.77 × 0.48 = −0.68 percent for the two periods. Voluntary reduction of employment due to lower wages accounts for 25 percent of this effect, and the trade-induced involuntary reduction of the employment rate is thus −0.32 and −0.52 percentage points in the first and second period, respectively. Finally, using a weighted average of the income of college and noncollege workers of $32,033 in 2000 (where weights are given by the Table 5 point estimates for the decline in college and noncollege employment to population, and the relative size of the college and noncollege population in 2000) and a ratio of working-age population to total population of 0.639, one can translate the involuntary employment reduction to an employment-induced decrease of per capita earnings of −0.0032 × 32,033 × 0.639 = −$65 and −0.0052 × 32,033 × 0.639 = −$106. The corresponding DWL according to equation (8) is $43 in the first and $69 in the second period.
+
+2159
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+supply and demand factors, the growth of Chinese exports is largely the result of reform-induced changes within China: rising productivity, greater investment in labor-intensive export sectors, and a lowering of trade barriers. In light of these factors, we instrument for the growth in US imports from China using Chinese import growth in other high-income markets.
+Our analysis finds that exposure to Chinese import competition affects local labor markets not just through manufacturing employment, which unsurprisingly is adversely affected, but also along numerous other margins. Import shocks trigger a decline in wages that is primarily observed outside of the manufacturing sector. Reductions in both employment and wage levels lead to a steep drop in the average earnings of households. These changes contribute to rising transfer payments through multiple federal and state programs, revealing an important margin of adjustment to trade that the literature has largely overlooked. Comparing two CZs at the 75th and 25th percentiles of rising Chinese trade exposure over the period of 2000 through 2007, we find a differential increase in transfer payments of about $63 per capita in the more exposed CZ. The largest transfer increases are for federal disability, retirement, and in-kind medical payments. Unemployment insurance and income assistance play a significant but secondary role. By contrast, Trade Adjustment Assistance (TAA), which specifically provides benefits to workers who have been displaced by trade shocks, accounts for a negligible part of the tradeinduced increase in transfers.
+Theory suggests that trade with China yields aggregate gains for the US economy. Our study also highlights the distributional consequences of trade and the mediumrun efficiency losses associated with adjustment to trade shocks. The consequences of China trade for US employment, household income, and government benefit programs may contribute to public ambivalence toward globalization and specific anxiety about increasing trade with China.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2160
+
+Appendix A. Tables
+
+Appendix Table 1—Descriptive Statistics for Growth of Imports Exposure per Worker across CZs: Ten-Year Equivalent Changes
+
+I. 1990–2000
+
+Panel A. Percentiles
+
+90th percentile
+
+2.05
+
+75th percentile
+
+1.32
+
+50th percentile
+
+0.89
+
+25th percentile
+
+0.62
+
+10th percentile
+
+0.38
+
+II. 2000–2007
+
+90th percentile
+
+4.30
+
+75th percentile
+
+3.11
+
+50th percentile
+
+2.11
+
+25th percentile
+
+1.60
+
+10th percentile
+
+1.03
+
+Rank
+
+Panel B. Largest and smallest values among the 40 largest CZs
+
+1
+
+San Jose, CA
+
+3.15 San Jose, CA
+
+7.32
+
+2
+
+Providence, RI
+
+2.59 Providence, RI
+
+4.99
+
+3
+
+Buffalo, NY
+
+2.24 Los Angeles, CA
+
+3.59
+
+4
+
+Boston, MA
+
+1.55 San Diego, CA
+
+3.08
+
+5
+
+Portland, OR
+
+1.53 Portland, OR
+
+2.96
+
+6
+
+San Diego, CA
+
+1.52 Pittsburgh, PA
+
+2.95
+
+7
+
+Newark, NJ
+
+1.32 Chicago, IL
+
+2.93
+
+8
+
+Los Angeles, CA
+
+1.28 Milwaukee, WI
+
+2.93
+
+9
+
+Bridgeport, CT
+
+1.27 Boston, MA
+
+2.79
+
+10
+
+Denver, CO
+
+1.23 Dallas, TX
+
+2.77
+
+20
+
+Forth Worth, TX
+
+0.83 Columbus, OH
+
+1.90
+
+21
+
+Phoenix, AZ
+
+0.83 Phoenix, AZ
+
+1.90
+
+31
+
+Atlanta, GA
+
+0.61 Fresno, CA
+
+1.56
+
+32
+
+Pittsburgh, PA
+
+0.56 St. Louis, MO
+
+1.53
+
+33
+
+Sacramento, CA
+
+0.53 Tampa, FL
+
+1.49
+
+34
+
+Kansas City, MO
+
+0.51 Atlanta, GA
+
+1.31
+
+35
+
+West Palm Beach, FL
+
+0.48 Baltimore, MD
+
+1.25
+
+36
+
+Fresno, CA
+
+0.47 West Palm Beach, FL
+
+1.22
+
+37
+
+Orlando, FL
+
+0.46 Kansas City, MO
+
+1.13
+
+38
+
+Houston, TX
+
+0.45 Washington, DC
+
+0.86
+
+39
+
+Washington, DC
+
+0.21 New Orleans, LA
+
+0.70
+
+40
+
+New Orleans, LA
+
+0.19 Orlando, FL
+
+0.59
+
+Notes: The table reports ten-year equivalent values of (∆ imports from China to US)/worker in kUS$. The statistics in panel A are based on 722 CZs and weighted by start-of-period population size. The ranking in panel B is based on the 40 CZs with largest population in 1990, and indicates the largest city of each ranked CZ.
+
+2161
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Appendix Table 2—Means and Standard Deviations of CZ Level Variables
+
+(Imports from China to US)/ (workers in 1990) (in kUS$)
+(Imports from China to US)/ (workers in 2000) (in kUS$)
+Percentage of working-age pop employed in manufacturing
+Percentage of working-age pop employed in nonmanufacturing
+Percentage of working-age pop unemployed
+Percentage of working-age pop not in the labor force
+Percentage of working-age pop receiving disability benefits
+Average log weekly wage, manufacturing sector (in log pts)
+Average log weekly wage, nonmanufacturing sectors (in log pts)
+Average individual transfers per capita (in US$)
+Average retirement benefits per capita (in US$)
+Average disability benefits per capita (in US$)
+Average medical benefits per capita (in US$)
+Average federal income assistance per capita (in US$)
+Average unemployment benefits per capita (in US$)
+Average TAA benefits per capita (in US$)
+Avg household income per working-age adult (in US$)
+Avg household wage and salary income per working age adult (in US$)
+
+1990/1991 (1)
+0.29 (0.32)
+0.25 (0.27)
+12.69 (4.80)
+57.75 (5.91)
+4.80 (0.99)
+24.76 (4.34)
+1.86 (0.63)
+655 (17)
+637 (16)
+3,338 (692)
+1,121 (284)
+136 (46)
+1,115 (371)
+298 (136)
+106 (52)
+0.6 (0.6)
+32,122 (6,544)
+23,496 (4,700)
+
+I. Levels
+2000 (2)
+1.32 (1.18)
+1.08 (0.90)
+10.51 (4.45)
+59.16 (5.24)
+4.28 (0.93)
+26.05 (4.39)
+2.75 (1.04)
+666 (17)
+650 (15)
+4,297 (908)
+1,262 (310)
+213 (77)
+1,789 (552)
+270 (134)
+86 (43)
+1.1 (1.0)
+38,126 (7,743)
+27,655 (5,449)
+
+2007 (3)
+3.58 (2.84)
+2.92 (2.13)
+8.51 (3.60)
+61.87 (4.95)
+4.87 (0.90)
+24.75 (3.70)
+3.57 (1.41)
+671 (19)
+653 (16)
+5,544 (1,091)
+1,398 (338)
+300 (112)
+2,564 (679)
+303 (129)
+108 (55)
+2.2 (2.7)
+37,909 (7,501)
+28,872 (6,304)
+
+II. Ten-year equivalent ∆s
+
+1990–2000 2000–2007
+
+(4)
+
+(5)
+
+1.14 (0.99)
+n/a
+−2.07 (1.63) 1.29 (2.38)
+−0.51 (0.73) 1.29 (2.56) 0.91 (6.38) 11.4 (6.4) 12.5 (4.1) 1,004.4 (334.0) 150.5 (79.3) 78.2 (39.8) 698.3 (231.9)
+−24.8 (43.6)
+−19.1 (29.4)
+0.5 (0.9) 5,964 (2,358) 4,152 (1,569)
+
+n/a
+2.63 (2.01)
+−2.73 (1.80) 3.70 (2.71) 0.85 (1.39)
+−1.82 (2.57) 1.23 (0.71) 7.8 (7.7) 3.5 (4.3) 1,844.0 (437.6) 206.2 (120.4) 128.3 (61.5) 1,142.8 (288.5) 52.2 (46.0) 34.1 (41.0) 1.6 (3.3)
+−367 (2,646) 1,703 (2,623)
+
+Notes: N = 722 CZs. Statistics in columns 1 and 4 are weighted by 1990 population, statistics in columns 2 and 5 are weighted by 2000 population, and statistics in column 3 are weighted by 2007 population. The first two rows of column 1 report import volumes for the year 1991, all other variables in column 1 are based on 1990 data. Information on employment composition, wages, and income in column 3 is derived from pooled 2006–2008 ACS data.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2162
+
+Appendix Table 3—Import Exposure 2000–2007 and Change in Manufacturing Employment 1990–2000: 2SLS Estimates Dependent variable: 10 × annual change in manufacturing emp/working-age pop (in %pts)
+
+I. CZs w/strong growth of import exposure 2000–2007
+versus 1990–2000
+
+(1)
+
+(2)
+
+II. All CZs
+
+(3)
+
+(4)
+
+Panel A. Current period exposure (1990–2000)
+
+(∆ current period imports
+
+−1.89**
+
+from China to US)/worker
+
+(0.83)
+
+Percentage of employment
+
+in manufacturing−1
+
+−1.08 (0.70)
+−0.05* (0.03)
+
+−0.89*** (0.18)
+
+−0.96*** (0.28)
+0.01 (0.03)
+
+Panel B. Future period exposure (2000–2007 )
+
+(∆ future period imports
+
+−0.15
+
+from China to US)/worker
+
+(0.12)
+
+Percentage of employment
+
+in manufacturing−1
+
+0.00 (0.11)
+−0.08*** (0.03)
+
+−0.27*** (0.07)
+
+−0.16 (0.12)
+−0.03 (0.03)
+
+Notes: N = 180 in panel I and N = 722 in panel II. Regressions in panel I include the quartile of CZs with the largest ratio of import exposure 2000–2007 vs import exposure 1990–2000. The variable “future period imports” in panel B refers to a CZ’s import exposure during the period 2000–2007. All regressions include a constant and the models in columns 2 and 4 control for the start-of-period share of employment in manufacturing industries. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period CZ share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+Appendix Table 4—Imports from Different Exporting Countries and Change in Manufacturing Employment in CZs, 1990–2007 Dependent variable: 10 × annual change in share of employment in manufacturing (in %pts)
+
+Panel A. OLS estimates
+(∆ imports from specified exporter to US)/worker
+
+China (1)
+
+Exporters
+
+China +
+
+China +
+
+other low-inc Mexico/Cafta
+
+(2)
+
+(3)
+
+Mexico/ Cafta (4)
+
+All other exporters
+(5)
+
+−0.171*** −0.182***
+
+(0.028)
+
+(0.026)
+
+−0.034 (0.031)
+
+0.297*** 0.050***
+
+(0.050)
+
+(0.011)
+
+Panel B. 2SLS estimates Second stage estimates (∆ imports from specified
+exporter to US)/worker
+First stage estimates (∆ imports from specified
+exporter to OTH)/worker T-statistic
+
+−0.596*** −0.587***
+
+(0.099)
+
+(0.096)
+
+−0.602*** (0.110)
+
+−1.870*** −0.042
+
+(0.682)
+
+(0.031)
+
+0.631*** (0.087) 7.3
+
+0.621*** (0.078) 7.9
+
+0.632*** (0.093) 6.8
+
+1.146** (0.514) 2.2
+
+0.445*** (0.051) 8.7
+
+Panel C. Descriptive statistics
+Mean and SD of (∆ imports to US)/worker
+
+1.88 (1.75)
+
+2.13 (1.89)
+
+2.76 (2.08)
+
+0.88 (1.12)
+
+2.73 (4.00)
+
+Notes: N = 1,444. The other (“OTH”) countries that were used to construct the instrument include Australia, Denmark, Finland, Germany, Japan, New Zealand, Spain, and Switzerland. “Low-Income” countries are defined according to the 1990 Worldbank classification (see the online Data Appendix); exporter countries in column 5 comprise all countries except low-income countries and Mexico/Cafta. All regressions contain the full vector of control variables from column 6 of Table 3. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period commuting zone share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+2163
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Appendix Table 5—Imports from China and Employment Status of Working-Age Population within CZs, 1990–2007: 2SLS Estimates Dependent Variables: Ten-year equivalent changes in population shares by employment status (in %pts)
+
+I. Overall and by sex
+
+II. By age group
+
+Mfg emp/ pop
+(1)
+
+Nonmfg emp/ pop
+(2)
+
+Unemp/ pop
+(3)
+
+NILF/ pop
+(4)
+
+Mfg emp/ pop
+(5)
+
+Nonmfg
+
+emp/ Unemp/
+
+pop
+
+pop
+
+(6)
+
+(7)
+
+Panel A. Entire working-age population
+
+Panel D. Age 16–34
+
+(∆ imports from China −0.596*** −0.178 0.221*** 0.553*** −0.686*** −0.155 0.271***
+
+to US)/worker
+
+(0.099) (0.137) (0.058) (0.150)
+
+(0.129)
+
+(0.145) (0.074)
+
+NILF/ pop (8)
+0.569*** (0.128)
+
+Panel B. Males
+
+Panel E. Age 35–49
+
+(∆ imports from China −0.625*** −0.140 0.224*** 0.541*** −0.637*** −0.162 0.236*** 0.563***
+
+to US)/worker
+
+(0.124) (0.151) (0.062) (0.159)
+
+(0.119)
+
+(0.119) (0.076)
+
+(0.157)
+
+Panel C. Females
+
+Panel F. Age 50–64
+
+(∆ imports from China −0.555*** −0.218 0.217*** 0.556*** −0.353*** −0.295 0.105*** 0.542***
+
+to US)/worker
+
+(0.088) (0.133) (0.060) (0.149)
+
+(0.079)
+
+(0.195) (0.035)
+
+(0.199)
+
+Notes: N = 1,444 (722 CZs × 2 time periods). All statistics are based on working age individuals (age 16 to 64). The effect of import exposure on the overall employment/population ratio can be computed as the sum of the coefficients for manufacturing and nonmanufacturing employment; this effect is highly statistically significant ( p ≤ 0.01) in the full sample and in all reported subsamples. All regressions include the full vector of control variables from column 6 of Table 3. Robust standard errors in parentheses are clustered on state. Models are weighted by start of period commuting zone share of national population.
+*** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+B. Theory Appendix
+
+A. Variance Decomposition: Supply and Demand Components of Chinese Imports
+
+To decompose the share of the variance in Chinese imports that is accounted for by supply versus demand-driven components, we rewrite equation (5) above for the effect of import exposure on manufacturing employment (suppressing covariates) as
+
+(B1)
+
+∆E
+
+m it
+
+=
+
+γt
+
++
+
+β∆IPWuit
+
++
+
+ect .
+
+Estimated by OLS, this equation recovers
+
+βˆOLS
+
+=
+
+σMI/σ
+
+2 I
+
+,
+
+where
+
+σ
+
+2 I
+
+is
+
+the
+
+variance
+
+of
+
+the
+
+observed
+
+changes
+
+in
+
+Chinese
+
+import
+
+exposure
+
+per
+
+worker and σMI is the covariance of this measure with CZ-level changes in manufac-
+
+turing employment. Similarly, 2SLS estimates of equation (B1) recover
+
+βˆ2SLS
+
+=
+
+σMIIV/σ
+
+2 I IV
+
+,
+
+where subscript IIV is the variation in the import exposure measure isolated by the IV estimator.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2164
+
+Because the instrumental variables estimator partitions the observed variation in ∆IPW into an exogenous component and a residual,
+
+We can rewrite βˆOLS as
+
+∆IPW = ∆IPWIV + ∆IPWe .
+
+βˆOLS
+
+=
+
+_ σMIIV + σMIe ,
+
+σ
+
+2 IIV
+
++
+
+σ
+
+2 Ie
+
+using the fact that ∆IPWIV and ∆IPWe are orthogonal by construction. Substituting, we obtain
+
+(B2)
+
+βˆOLS
+
+=
+
+βˆIV
+
+×
+
+_ σ 2IIV
+
+σ
+
+2 IIV
+
++
+
+σ
+
+2 Ie
+
++
+
+βˆe
+
+×
+
+_ σ2Ie .
+
+σ
+
+2 IIV
+
++
+
+σ
+
+2 Ie
+
+The OLS estimate is thus a weighted average of the coefficient on the import-driven component, βˆIV, and the coefficient on the residual (demand-driven) component, where the weights correspond to the fraction of the variance in import exposure
+
+explained by each.
+
+Equation (B2) suggests that the impact of supply-driven Chinese import shocks on
+
+US
+
+employment
+
+can
+
+be
+
+benchmarked
+
+by
+
+the
+
+product
+
+of
+
+βˆIV
+
+×
+
+( σ 2IIV/
+
+σ
+
+2 IIV
+
++
+
+) σ
+
+2 Ie
+
+and
+
+the observed change in Chinese import exposure ∆IPW. This quantity is equal to
+
+the causal effect of a supply-driven unit increase in Chinese import exposure scaled
+
+by the change in exposure, discounted by the fraction of the variance in exposure
+
+that is not driven by the supply shock. The terms in (B2) are obtained from the
+
+data: βˆOLS = −0.397, βˆ2SLS = −0.746 (column 1 of Table 3), βˆe = −0.029, imply-
+
+ing
+
+that
+
+( σ 2IIV/
+
+σ
+
+2 IIV
+
++
+
+) σ
+
+2 Ie
+
+≃
+
+0.48.
+
+For
+
+our
+
+benchmarking
+
+exercise,
+
+we
+
+calculate
+
+the
+
+magnitude of the causal effect of the supply-driven component of Chinese import
+
+exposure as βˆIV × ∆IPW × 0.48.
+
+B. Estimating the Gravity Model
+
+We measure the change in China’s export-supply capability (AˆCj), shown in (1), using the gravity model of trade. Let China’s exports to country k in industry j be
+XCjk and let US exports to country k in industry j be XUjk. Using a standard gravity specification (e.g., Feenstra 2004), we obtain the following equation for exports by
+China to country k in industry j relative to the United States:
+
+(B3) ln (XCjk) − ln (XUjk) = ln (zCj) − ln (zUj) − (σj − 1)[ln (τCjk) − ln (τUjk)],
+
+where zhj is the export capability of country h in industry j (determined by wages, labor productivity, and the number of product varieties produced in country h = C,U
+for industry j), τhjk is the iceberg trade cost between country h and country k in industry j, and σj is the elasticity of substitution for industry j. The term ln(zCj) − ln(zUj) captures China’s comparative advantage vis-à-vis the United States for
+
+2165
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+industry j. The expression in brackets on the right of (B3) is the China-US difference in trade costs to country k; note that demand-side factors in country k (e.g., expenditure) are removed from the regression, isolating the effects of bilateral differences in productivity and trade costs on exports.
+Now consider the following regression, where we add a dimension for year (t):
+
+(B4)
+
+ln (XCjkt) − ln (XUjkt) = αj + αk + ϵjkt ,
+
+where αj is an industry fixed effect (capturing China’s initial comparative advantage vis-à-vis the United States in industry j) and αk is an importer fixed effect (capturing time invariant differences in trade costs between China and the United States to
+country k). The residual from the regression in (B4) is
+
+(B5)
+
+[ ( ) ] [ ( ) ] ϵjkt =
+
+ln _ zzUCjjtt
+
+− αj +
+
+−(σj
+
+−
+
+1) ln
+
+_ τCjkt τUjkt
+
+− αk .
+
+The first term on the right of (B5) is China’s differential comparative advantage relative to the United States for industry j in year t. The industry fixed effect absorbs the mean difference in China and US export capabilities. The second term on the right of (B5) is China’s differential trade cost relative to the United States in industry j and year t for country k. The importing country fixed effect absorbs the mean difference in China-US trade costs, which are presumably driven by geography. Differential changes in trade costs are the sum of differential changes in transport costs (which Hummels 2007 suggests fluctuate during our sample period with no clear trend) and differential changes in trade barriers in importing countries, the primary component of which will relate to China’s joining the WTO in 2001, when WTO members jointly lowered their trade barriers toward China. The residual in (B5) therefore captures the upgrading in China’s comparative advantage relative to the US and China’s differential improvement in access to foreign markets. These are precisely the components of China’s export growth that matter for US labor demand. As an alternative to the specification in equation (3), we use the following gravitybased measure of exposure to imports from China:
+
+(B6)
+
+∆IPWgit
+
+=
+
+∑j
+
+_ Lijt−1 LUjt−1
+
+_ ∆ϵ_jt MUjCt−1 L it−1
+
+,
+
+where ∆ϵ_jt is the mean change in the residual in (B5) for industry j across destination markets k between year t and year t − 1 based on estimation of a gravity model of trade for China and US four-digit SIC exports to high-income countries over the
+period 1991 to 2007. When the change in residual is multiplied by initial US imports
+from China in industry j, MUjCt−1, we obtain the change in US imports from China predicted by China’s changing comparative advantage and falling trade costs. Note
+that in (B6) we use lagged values for employment shares, as in (4).
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2166
+
+REFERENCES
+Amiti, Mary, and Donald R. Davis. 2009. “Trade, Firms, and Wages: Theory and Evidence.” National Bureau of Economic Research Working Paper 14106.
+Amiti, Mary, and Caroline Freund. 2010. “The Anatomy of China’s Export Growth.” In China’s Growing Role in World Trade, edited by Robert C. Feenstra and Shang-Jin Wei, 35–62. Chicago: University of Chicago Press.
+Arkolakis, Costas, Arnaud Costinot, and Andres Rodriguez-Clare. 2012. “New Trade Models, Same Old Gains?” American Economic Review 102 (1): 94–130.
+Artuç, Erhan, Shubham Chaudhuri, and John McLaren. 2010. “Trade Shocks and Labor Adjustment: A Structural Empirical Approach.” American Economic Review 100 (3): 1008–45.
+Auer, Rafael, and Andreas Fischer. 2008. “The Effect of Trade with Low-Income Countries on US Industry.” Unpublished.
+Autor, David H., and Daron Acemoglu. 2011. “Skills, Tasks and Technologies: Implications for Employment and Earnings.” In Handbook of Labor Economics, Vol. 4B, edited by Orley Ashenfelter and David Card, 1043–1171. Amsterdam: Elsevier.
+Autor, David, and David Dorn. 2009. “This Job Is ‘Getting Old’: Measuring Changes in Job Opportunities Using Occupational Age Structure.” American Economic Review 99 (2): 45–51.
+Autor, David H., and David Dorn. 2013. “The Growth of Low Skill Service Jobs and the Polarization of the US Labor Market.” American Economic Review 103 (5): 1553–97.
+Autor, David H., David Dorn, and Gordon H. Hanson. 2013. “The China Syndrome: Local Labor Market Effects of Import Competition in the United States: Dataset.” American Economic Review. http://dx.doi.org/10.1257/aer.103.6.2121.
+Autor, David H., and Mark Duggan. 2003. “The Rise in the Disability Rolls and the Decline in Unemployment.” Quarterly Journal of Economics 118 (1): 157–205.
+Autor, David H., and Mark Duggan. 2010. “Supporting Work: A Proposal for Modernizing the US Disability Insurance System.” Washington, DC: Center for American Progress and the Hamilton Project.
+Autor, David H., Lawrence F. Katz, and Melissa S. Kearney. 2008. “Trends in US Wage Inequality: Revising the Revisionists.” Review of Economics and Statistics 90 (2): 300–23.
+Beaudry, Paul, Mark Doms, and Ethan Lewis. 2010. “Should the Personal Computer Be Considered a Technological Revolution? Evidence from US Metropolitan Areas.” Journal of Political Economy 118 (5): 988–1036.
+Bernard, Andrew B., J. Bradford Jensen, and Peter K. Schott. 2006. “Survival of the Best Fit: Exposure to Low-Wage Countries and the (Uneven) Growth of US Manufacturing Plants.” Journal of International Economics 68 (1): 219–37.
+Blanchard, Olivier Jean, and Lawrence F. Katz. 1992. “Regional Evolutions.” Brookings Papers on Economic Activity (1): 1–61.
+Bloom, Nicholas, Mirko Draca, and John Van Reenen. 2011. “Trade Induced Technical Change? The Impact of Chinese Imports on Diffusion, Innovation, and Productivity.” Unpublished.
+Borjas, George J., Richard B. Freeman, and Lawrence F. Katz. 1997. “How Much Do Immigration and Trade Affect Labor Market Outcomes?” Brookings Papers on Economic Activity (1): 1–67.
+Borjas, George J., and Valerie A. Ramey. 1995. “Foreign Competition, Market Power, and Wage Inequality.” Quarterly Journal of Economics 110 (4): 1075–110.
+Bound, John, and Harry J. Holzer. 2000. “Demand Shifts, Population Adjustments, and Labor Market Outcomes during the 1980s.” Journal of Labor Economics 18 (1): 20–54.
+Brandt, Loren, Johannes Van Biesebroeck, and Yifan Zhang. 2012. “Creative Accounting or Creative Destruction? Firm-Level Productivity Growth in Chinese Manufacturing.” Journal of Development Economics 97 (2): 339–51.
+Branstetter, Lee, and Nicholas Lardy. 2006. “China’s Embrace of Globalization.” National Bureau of Economic Research Working Paper 12373.
+Broda, Christian, and David E. Weinstein. 2006. “Globalization and the Gains from Variety.” Quarterly Journal of Economics 121 (2): 541–85.
+Burstein, Ariel, and Jonathan Vogel. 2011. “Factor Prices and International Trade: A Unifying Perspective.” National Bureau of Economic Research Working Paper 16904.
+Chen, Yuyu, Ginger Zhe Jin, and Yang Yue. 2010. “Peer Migration in China.” National Bureau of Economic Research Working Paper 15671.
+Chetty, Raj. 2012. “Bounds on Elasticities with Optimization Frictions: A Synthesis of Micro and Macro Evidence on Labor Supply.” Econometrica 80 (3): 969–1018.
+Chiquiar, Daniel. 2008. “Globalization, Regional Wage Differentials and the Stolper-Samuelson Theorem: Evidence from Mexico.” Journal of International Economics 74 (1): 70–93.
+
+2167
+
+THE AMERICAN ECONOMIC REVIEW
+
+OCTOBER 2013
+
+Deardorff, Alan V., and Robert W. Staiger. 1988. “An Interpretation of the Factor Content of Trade.” Journal of International Economics 24 (1/2): 93–107.
+di Giovanni, Julian, Andrei Levchenko, and Jing Zhang. 2011. “The Global Welfare Impact of China: Trade Integration and Technological Change.” Unpublished.
+Dix-Carneiro, Rafael. 2011. “Trade Liberalization and Labor Market Dynamics.” Unpublished. Dorn, David. 2009. “Essays on Inequality, Spatial Interaction, and the Demand for Skills.” Disserta-
+tion, University of St. Gallen no. 3613. Eaton, Jonathan, Samuel Kortum, and Francis Kramarz. 2011. “An Anatomy of International Trade:
+Evidence from French Firms.” Econometrica 79 (5): 1453–98. Ebenstein, Avraham, Ann Harrison, Margaret McMillan, and Shannon Phillips. 2010. “Estimating
+the Impact of Trade and Offshoring on American Workers Using the Current Population Surveys.” Unpublished. Edwards, Lawrence, and Robert Z. Lawrence. 2010. “US Trade and Wages: The Misleading Implications of Conventional Theory.” National Bureau of Economic Research Working Paper 16106. Feenstra, Robert C. 2004. Advanced International Trade: Theory and Evidence. Princeton, NJ: Princeton University Press. Feenstra, Robert C. 2010. Offshoring in the Global Economy: Microeconomic Structure and Macroeconomic Implications. Cambridge, MA: MIT Press. Feenstra, Robert C., and Gordon H. Hanson. 1999. “The Impact of Outsourcing and High-Technology Capital on Wages: Estimates for the United States, 1979–1990.” Quarterly Journal of Economics 114 (3): 907–40. Feenstra, Robert C., and Gordon H. Hanson. 2005. “Ownership and Control in Outsourcing to China: Estimating the Property-Rights Theory of the Firm.” Quarterly Journal of Economics 120 (2): 729–61. Firpo, Sergio, Nicole M. Fortin, and Thomas Lemieux. 2011. “Occupational Tasks and Changes in the Wage Structure.” Unpublished. Glaeser, Edward L., and Joseph Gyourko. 2005. “Urban Decline and Durable Housing.” Journal of Political Economy 113 (2): 345–75. Goldberg, Pinelopi Koujianou, Amit Kumar Khandelwal, Nina Pavcnik, and Petia Topalova. 2010. “Imported Intermediate Inputs and Domestic Product Growth: Evidence from India.” Quarterly Journal of Economics 125 (4): 1727–67. Gruber, Jonathan. 1997. “The Consumption Smoothing Benefits of Unemployment Insurance.” American Economic Review 87 (1): 192–205. Gruber, Jonathan. 2010. Public Finance and Public Policy. 3rd ed. New York: Worth Publishers. Hanson, Gordon H. 2010. “Why Isn’t Mexico Rich?” Journal of Economic Literature 48 (4): 987–1004. Harrigan, James. 2000. “International Trade and American Wages in General Equilibrium, 1967– 1995.” In The Impact of International Trade, edited by Robert C. Feenstra, 171–96. Chicago: University of Chicago Press. Helpman, Elhanan, and Paul Krugman. 1987. Market Structure and Foreign Trade. Cambridge, MA: MIT Press. Hsieh, Chang-Tai, and Peter J. Klenow. 2009. “Misallocation and Manufacturing TFP in China and India.” Quarterly Journal of Economics 124 (4): 1403–48. Hsieh, Chang-Tai, and Ralph Ossa. 2011. “A Global View of Productivity Growth in China.” National Bureau of Economic Research Working Paper 16778. Hummels, David. 2007. “Transportation Costs and International Trade in the Second Era of Globalization.” Journal of Economic Perspectives 21 (3): 131–54. Hummels, David, Jun Ishii, and Kei-Mu Yi. 2001. “The Nature and Growth of Vertical Specialization in World Trade.” Journal of International Economics 54 (1): 75–96. Hummels, David, Rasmus Jorgensen, Jakob Munch, and Chong Xiang. 2010. “The Wage and Employment Effects of Outsourcing: Evidence from Danish Matched Worker-Firm Data.” Unpublished. Katz, Lawrence F., and David Autor. 1999. “Changes in the Wage Structure and Earnings Inequality.” In Handbook of Labor Economics, Vol. 3A, edited by Orley Ashenfelter and David Card, 1463–555. Amsterdam: Elsevier Science. Koopman, Robert, William Powers, Zhi Wang, and Shang-Jin Wei. 2010. “Give Credit Where Credit Is Due: Tracing Value Added in Global Production Chains.” National Bureau of Economic Research Working Paper 16426. Kovak, Brian. 2013. “Regional Effects of Trade Reform: What is the Correct Measure of Liberalization?” American Economic Review 103 (5): 1960–76. Krugman, Paul R. 2000. “Technology, Trade and Factor Prices.” Journal of International Economics 50 (1): 51–71. Krugman, Paul R. 2008. “Trade and Wages, Reconsidered.” Brookings Papers on Economic Activity 2008 (1): 103–38.
+
+VOL. 103 NO. 6
+
+AUTOR ET AL.: THE CHINA SYNDROME
+
+2168
+
+Leamer, Edward E. 1993. “Wage Effects of a US-Mexican Free Trade Agreement.” In The Mexico-US Free Trade Agreement, edited by Peter M. Garber, 57–128. Cambridge, MA: MIT Press.
+Leamer, Edward E. 2000. “What’s the Use of Factor Contents?” Journal of International Economics 50 (1): 17–49.
+Lemieux, Thomas. 2006. “Increasing Residual Wage Inequality: Composition Effects, Noisy Data, or Rising Demand for Skill?” American Economic Review 96 (3): 461–98.
+Liu, Runjuan, and Daniel Trefler. 2008. “Much Ado About Nothing: American Jobs and the Rise of Service Outsourcing to China and India.” National Bureau of Economic Research Working Paper 14061.
+McLaren, John, and Shushanik Hakobyan. 2010. “Looking for Local Labor Market Effects of NAFTA.” National Bureau of Economic Research Working Paper 16535.
+Melitz, Marc J. 2003. “The Impact of Trade on Intra-industry Reallocations and Aggregate Industry Productivity.” Econometrica 71 (6): 1695–725.
+Michaels, Guy. 2008. “The Effect of Trade on the Demand for Skill: Evidence from the Interstate Highway System.” Review of Economics and Statistics 90 (4): 683–701.
+Naughton, Barry. 2007. The Chinese Economy: Transitions and Growth. Cambridge, MA: MIT Press. Notowidigdo, Matthew J. 2010. “The Incidence of Local Labor Demand Shocks.” Unpublished. Pierce, Justin R., and Peter K. Schott. 2009. “A Concordance Between Ten-Digit US Harmonized
+System Codes and SIC/NAICS Product Classes and Industries.” National Bureau of Economic Research Working Paper 15548. Romalis, John. 2007. “NAFTA’s and CUSFTA’s Impact on International Trade.” Review of Economics and Statistics 89 (3): 416–35. Ruggles, Steven, Matthew Sobek, Trent Alexander, Catherine A. Fitch, Ronald Goeken, Patricia Kelly Hall, Miriam King, and Chad Ronnander. 2010. Integrated Public Use Microdata Series: Version 3.0 [Machine-readable database]. Minneapolis, MN: Minnesota Population Center [producer and distributor]. Smith, Christopher L. 2010. “Polarization of the US Adult Labor Market and Its Effects on the Demand for Teenage Labor.” Unpublished. Tolbert, Charles M., and Molly Sizer. 1996. “US Commuting Zones and Labor Market Areas: A 1990 Update.” Economic Research Service Staff Paper 9614. Topalova, Petia. 2005. “Trade Liberalization, Poverty, and Inequality: Evidence from Indian Districts.” National Bureau of Economic Research Working Paper 11614. Topalova, Petia. 2010. “Factor Immobility and Regional Impacts of Trade Liberalization: Evidence on Poverty from India.” American Economic Journal: Applied Economics 2 (4): 1–41. Topel, Robert H. 1986. “Local Labor Markets.” Journal of Political Economy 94 (3): S111–43. United Nations Statistics Division. 2009. United Nations Comtrade Database. New York: United Nations. http://comtrade.un.org/. US Bureau of Economic Analysis. 2009. Table CA35, Personal Current Transfer Receipts. http://www. bea.gov/iTable/iTable.cfm?reqid=6&step=3&isuri=1&600=1#reqid=6&step=3&isuri=1&600=1. US Census Bureau. 2009. County Business Patterns. https://explore.data.gov/Business-Enterprise/ County-Business-Patterns/nsmw-x6kx. US Social Security Administration. Various years. Annual Statistical Report on the Social Security Dis-
+ability Insurance Program.
+US Social Security Administration. Various years. Annual Statistical Supplement to the Social Security
+Bulletin. Washington, DC: US Government Printing Office. Verhoogen, Eric A. 2008. “Trade, Quality Upgrading, and Wage Inequality in the Mexican Manufac-
+turing Sector.” Quarterly Journal of Economics 123 (2): 489–530. Wooldridge, Jeffrey M. 2002. Econometric Analysis of Cross Section and Panel Data. Cambridge,
+MA: MIT Press.
+
+

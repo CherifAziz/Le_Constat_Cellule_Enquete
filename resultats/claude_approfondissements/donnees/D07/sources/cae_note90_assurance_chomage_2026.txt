@@ -1,0 +1,828 @@
+                                                             François Fontainea, Roland Rathelotb,
+                                                                                      Alexandra Rouletc
+
+Mesurer l’efficacité
+de l’assurance chômage
+
+Les notes du conseil d’analyse économique, n° 90, avril 2026
+
+Depuis le début des années 2000, le système d’assurance      D’autre part, les différentes réformes affectent des publics
+chômage a été sans cesse modifié, tout en continuant à       distincts, en termes d’âge, de salaire antérieur ou de situa-
+s’endetter. Si la dette cumulée demeure importante, les      tion familiale, pour lesquels la valeur de l’assurance chô-
+réformes de 2019–2023 ont assaini la situation au prix       mage diffère. Cette valeur peut être mesurée à partir des
+d’une baisse notable de la générosité du système. Désor-     chutes de consommation observées dans des données ban-
+mais, la France ne se montre pas plus généreuse que ses      caires. Il en découle que les réformes réduisant l’assurance
+voisins sur les paramètres clé du système (montant, durée,   pour les publics les plus précaires, qui subissent les plus
+conditions d’accès).                                         fortes baisses de consommation en cas de perte d’emploi,
+                                                             doivent être appréciées avec une attention particulière.
+Cette Note propose un cadre d’analyse nouveau permet-
+tant de comparer de manière cohérente les réformes           La Note applique ce cadre d’analyse aux principales dimen-
+possibles. Elle s’appuie sur un indice d’efficacité de la    sions de l’assurance chômage — durée d’indemnisation,
+dépense publique (EDP) qui rapporte la valeur de l’assu-     montant des allocations, conditions d’éligibilité et filière
+rance pour les allocataires au rendement budgétaire net      seniors — et en tire plusieurs enseignements. Le durcisse-
+des réformes, en tenant compte à la fois de leurs effets     ment des conditions d’éligibilité (par exemple, passer de 6
+sur les finances publiques, sur l’emploi et sur les autres   à 8 mois d’affiliation) semble peu indiqué : il génère princi-
+prestations sociales.                                        palement des économies mécaniques, avec des effets com-
+                                                             portementaux limités, tout en affectant surtout des publics
+Les modifications de l’assurance chômage ont en effet        modestes. À l’inverse, la suppression de la marche inter-
+des conséquences multiples : elles influencent les durées    médiaire de la filière seniors, qui permet aux 55–57 ans de
+de chômage et les entrées au chômage en changeant les        bénéficier d’une durée d’indemnisation plus longue que les
+comportements des demandeurs d’emploi et des entre-          moins de 55 ans, semble justifiée : elle réduirait sensible-
+prises ; elles peuvent également modifier le recours à       ment les entrées au chômage, tandis que la perte d’assu-
+d’autres prestations, comme le revenu de solidarité active.  rance pour les publics concernés apparaît plus limitée, pro-
+Ces effets doivent être pris en compte pour raisonner en     bablement en raison d’une épargne plus élevée.
+termes de rendement budgétaire net. Dans cette optique,
+les réformes visant des économies provenant majoritaire-     Les codes ayant servi à ces calculs sont mis en accès libre,
+ment d’effets comportementaux, conduisant à une hausse       dans l’objectif de contribuer à la construction d’un cadre
+de l’emploi, apparaissent plus efficaces.                    partagé — et perfectible — pour l’analyse des réformes
+                                                             futures de l’assurance chômage.
+
+                            Cette Note est publiée sous la responsabilité des auteurs et n’engage qu’eux.
+a Université Paris 1-Panthéon-Sorbonne, PSE et CAE, b ENSAE, IP Paris et CREST, c Insead et CAE
+2                         Mesurer l’efficacité de l’assurance chômage
+
+Introduction                                                           financer l’accompagnement des demandeurs d’emploi et qui
+                                                                       décide parfois d’allégements de charges mal compensés.
+2017, 2019/2021, 2023, 2025 et 2026 : en dix années, l’as-
+surance chômage aura connu cinq réformes, que ce soit dans                Constat 1. Jusqu’en 2019, les recettes de
+le cadre de négociations entre partenaires sociaux ou sous                l’assurance chômage ont généralement été
+l’impulsion de l’État. Et il en va ainsi depuis de nombreuses             inférieures aux dépenses d’environ 2 milliards
+années (voir graphique 1). Certains changements visent à                  d’euros par an, quelle que soit la conjoncture.
+rendre les règles plus lisibles, parfois plus équitables, à géné-         À la suite des réformes de 2021 et 2023, les
+rosité constante. Mais le plus souvent, ils affectent la généro-          recettes couvrent les dépenses mais une dette
+sité du système, parfois à la hausse, comme en 2009 où il est             importante demeure.
+devenu plus facile d’être éligible, parfois à la baisse, comme
+en 2019 où l’on revint à la règle qui prévalait avant 2009.            En tout état de cause, l’assurance chômage ne peut pas être
+                                                                       réduite à une simple variable d’ajustement budgétaire. En ef-
+Pourtant, depuis le début des années 2000, le système s’est            fet, elle a pour objectif premier d’atténuer les conséquences
+continuellement endetté car les recettes étaient inférieures           de la perte d’emploi sur le revenu des ménages. Elle vise à
+aux dépenses, en moyenne de 2 milliards d’euros par an sur la          prévenir les situations de précarité en garantissant aux per-
+période. Les ajustements furent fréquents mais souvent insuf-          sonnes éligibles un revenu de remplacement. Celui-ci leur
+fisants et certaines réformes (ruptures conventionnelles, re-          permet de couvrir leurs dépenses incompressibles et de main-
+chargement des droits) ont eu des conséquences financières             tenir un niveau de consommation relativement stable durant
+mal anticipées. Les réformes de 2019/2021 et 2023 ont                  leur recherche d’emploi. Cependant, la valeur de cette assu-
+assaini la situation du régime : depuis 2022, les recettes sont        rance n’est pas la même pour tous, ne serait-ce que parce que
+supérieures aux dépenses, au prix d’une baisse notable de              certains disposent d’épargne et d’autres non. Par ailleurs, le
+sa générosité. Cependant, une dette de 60 milliards d’euros            système doit veiller à équilibrer de manière satisfaisante assu-
+demeure. Celle-ci témoigne aussi de difficultés dans l’articu-         rance et incitation au retour à l’emploi.
+lation avec l’État, qui prélève une partie des ressources pour
+
+   Graphique 1. Panorama des modifications des règles de l’assurance chômage au cours des 25 dernières années
+
+   Suppression de la dégressivité                 Filière unique                                               Hausse de la durée d’affiliation minimale
+   Baisse du taux de cotisation de 6,3% à 5,8%    Baisse de la durée d’affiliation minimale (6 à 4 mois)       (4 à 6 mois)
+   Hausse de la période de référence affiliation  Rupture conventionnelle (devient éligible)                   Baisse de la période de référence affiliation
+   pour filière courte (8 à 18 mois)              Financement de Pôle emploi/France Travail (10%)              (28 à 24 mois)
+                                                  Hausse de l’âge minimal pour maintien de droits              Réintroduction de la dégressivité
+                         Baisse de la durée       (60,5 à 61 ans)                                              (allocations élevées)
+                         d’indemnisation                                                                       Bonus-malus
+                         maximale (30 à 23 mois                            Cumul en cas de reprise d’emploi    Réforme salaire journalier de référence
+                         pour la filière                                   (suppression de limite de 15 mois)  Financement de Pôle emploi/France Travail (11%)
+                         principale)                                       Droits rechargeables                Démission pour projet professionnel
+                                                                           Hausse de l’âge minimal pour        devient éligible
+                                                                           maintien de droits (61 à 62 ans)
+                                                                                                                                            Baisse de la durée
+   2002                   2006 2008               2011 2013                     2017 2018                                                   d’indemnisation
+                                                                                                                                            (coeff. conversion
+                                                                                                                                            0,75)
+
+                                                                                                                                         2025 2026
+
+2001     2004             2009                         2014                                        2019 2021 2023
+
+      Hausse du taux de                                      Surtaxation des                     Suppression des cotisations chômage                        Baisse de la
+      cotisation de 5,8%                                     contrats courts                     salariales (compensées par une                             durée maximale
+      à 6,4%                                                                                     quote-part de CSG)                                         d’indemnisation
+                          Suppression Suppression des règles                                                                                                suite à une rupture
+                          de la dispense spécifiques aux saisonniers                       Décalage filière seniors (50 à 53 ans),                          conventionnelle
+                          de recherche                                                     marche intermédiaire seniors (53 à 55 ans)                       (18 à 15 mois)
+                          d’emploi pour les seniors                                        Modification du calcul de la durée
+                                                                                           d’indemnisation pour les contrats < 1 semaine
+
+                          Hausse du taux de cotisation de 6,4 à 6,48%                                                 Décalage filière senior (53 à 55 ans
+                                                                                                                               pour marche intermédiaire,
+                          Réorganisation des filières                                                                           55 à 57 ans régime senior)
+
+                          Baisse de la durée d’indemnisation maximale seniors (42 à 36 mois)                     Baisse de la durée d’affiliation minimale
+                                                                                                               saisonniers et primo-entrants (6 à 5 mois)
+                          Hausse de l’âge minimal pour maintien de droits (60 à 60,5 ans)
+
+                          Création de l’aide à la création d’entreprise (ARCE)             pour
+
+                                                                                           Baisse du taux de cotisation patronale (4,05 à 4%)
+
+   Réforme impulsée par l’Unédic/par l’État                               Hausse de l’âge minimal pour maintien de droits (62 à 64 ans)
+                                                                       Limitation du cumul de l’ARE et des revenus de l’entreprise créée
+
+* Ce travail doit beaucoup à Claudine Desrieux, conseillère scientifique, Alice Lapeyre, économiste senior, Emma Laveissière et Rose Salaün, chargées
+d’étude au CAE. Ce projet a bénéficié du soutien de Jean Ferreira, Reza Ghasemipour, Nicolas Grimprel, Lucie Huang, Orane Leonetti et Oskar Lasterra. Nous
+sommes redevables à Camille Landais qui a initié ce projet. Nous remercions Pierre Cahuc, Xavier Jaravel, Maxime Tô pour leurs retours constructifs, ainsi
+que l’Unédic, France Travail, la Dares, la DG Trésor. Nous remercions Laura Khoury, Clément Brébion et Simon Briole pour avoir partagé les données de leurs
+travaux et pour leurs commentaires, ainsi que Julien Fournel et le Crédit Mutuel Alliance Fédérale pour la mise à disposition de leurs données bancaires, leur
+assistance et leurs retours. Nous saluons enfin l’ensemble des membres du CAE pour leurs suggestions.
+
+Les notes du conseil d’analyse économique, n° 90
+                                                                     Avril 2026  3
+
+Or, chaque réforme modifie cet équilibre, affectant certains         des personnes aux trajectoires d’emploi irrégulières et baissé
+publics plutôt que d’autres, en fonction des paramètres              la durée moyenne des droits. S’il est difficile de comparer la
+modifiés. En effet, l’assurance chômage comporte de nom-             générosité des systèmes d’un pays à l’autre, en raison de la
+breux paramètres : il est, par exemple, possible de jouer sur        multiplicité des paramètres à prendre en compte (niveau d’al-
+les montants d’indemnisation, les durées d’indemnisation,            location, durée, éligibilité...), la France ne se distingue plus de
+les conditions d’éligibilité, la manière dont l’âge est pris en      ses partenaires européens 2.
+compte, etc.
+                                                                        Constat 2. À la suite des dernières réformes,
+Cette Note fait le constat que, depuis 25 ans, une série de             notre système d’assurance chômage s’est très
+réformes se sont succédé sans cadre conceptuel cohérent.                largement normalisé par rapport à ses voisins,
+Elles se sont concentrées sur tel ou tel levier lorsqu’il s’agis-       hormis sur le plafond des indemnités.
+sait de renforcer les incitations de retour à l’emploi ou de faire
+des économies, ou sur tel ou tel groupe de demandeurs d’em-          Les réformes envisagées ici touchent à différentes dimen-
+ploi (les saisonniers, les seniors, etc.) lorsqu’il s’agissait de    sions du système actuel. Pour cette raison, il est important
+mieux protéger. Nous proposons un cadre méthodologique,              d’en brosser les règles à grands traits. Tout d’abord, pour être
+inspiré par les récentes avancées de la recherche, pour pen-         éligible, il faut avoir travaillé 6 mois dans les 24 derniers mois,
+ser la vaste panoplie de réformes possibles de l’assurance           là où il n’en fallait que 4 avant 2021. Ces 6 mois sont appelés
+chômage en prenant en compte simultanément leurs impacts             durée d’affiliation, tandis que la fenêtre de 24 mois est nom-
+sur la situation financière des chômeurs indemnisés et leurs         mée période de référence affiliation (PRA).
+effets sur les finances publiques et sur le niveau d’emploi.
+
+Nous proposons ainsi une analyse conjointe des effets bud-           Le montant de l’indemnisation dépend, quant à lui, du salaire
+gétaires nets des réformes et une caractérisation fine, iné-         passé. Pour le déterminer, on calcule d’abord un salaire jour-
+dite, des publics concernés par ces différentes mesures,             nalier de référence (SJR) qui prend en compte l’ensemble des
+ainsi qu’une estimation de la valeur que représente pour eux         revenus du travail touchés sur la PRA3. Une fois ce SJR calculé,
+l’assurance chômage. Lorsque l’on réfléchit à des réformes           on applique une formule qui rend l’allocation d’autant plus gé-
+potentielles, il nous apparaît essentiel de prendre en compte        néreuse que le salaire passé était bas. L’allocation journalière
+le fait qu’elles touchent différents publics. Il faut privilégier    est ainsi égale à 75 % du SJR pour les plus bas salaires. Ce
+les réformes dont le rendement budgétaire provient majori-           pourcentage, appelé taux de remplacement, baisse ensuite
+tairement d’effets sur l’emploi, mais aussi celles qui réduisent     pour atteindre 57 % pour ceux qui avaient précédemment un
+l’assurance chômage pour des personnes qui en ont le moins           salaire mensuel supérieur à 2 400 €. En moyenne, le taux de
+besoin ou qui la renforcent pour des personnes qui, sinon,           remplacement net est de 70 % et seuls 6 % des allocataires
+verraient leur revenu et donc leur consommation chuter de            reçoivent plus de 2 000 € d’assurance chômage par mois 4. Le
+manière importante. Notre analyse nous amène à être très             plafond pour l’allocation mensuelle est fixé à 8 826 €.
+réservés sur l’opportunité de durcir les conditions d’éligibilité
+et, à l’inverse, à considérer que supprimer la marche inter-         La durée potentielle d’indemnisation (DPI) ou durée des
+médiaire de la filière seniors, voire repenser l’intégralité de la   droits, c’est-à-dire la durée maximale pendant laquelle un de-
+filière, se justifie.                                                mandeur d’emploi peut toucher une allocation s’il n’a pas re-
+                                                                     trouvé d’emploi, dépend du nombre de jours travaillés précé-
+Panorama de l’assurance                                              demment. Plus précisément, elle dépend du nombre de jours
+chômage française                                                    entre le premier et le dernier jours travaillés sur la période de
+                                                                     référence. Avant 2023, la DPI était égale à ce nombre. Depuis
+La France consacre 1,3 % du PIB (37 milliards d’euros en 2025)       2023, on n’en prend en compte que 75 %, avec un plancher
+aux dépenses d’indemnisation chômage 1. Pilotée par les par-         à 6 mois. Ainsi la durée d’indemnisation en temps normal ne
+tenaires sociaux, et plus rarement par l’État lorsque ceux-ci        peut dépasser 18 mois, mais une extension de droits est pré-
+échouent à trouver un accord, l’assurance chômage voit ses           vue en cas de retournement de la conjoncture.
+règles régulièrement évoluer. La dernière vague de réformes
+importantes a été impulsée par l’État entre 2019 et 2023. Elle       Enfin, l’assurance chômage française se caractérise par une
+a à la fois durci les conditions d’éligibilité, réduit l’allocation  filière seniors plus généreuse. À partir de 55 ans 5, les droits
+                                                                     sont calculés en prenant en compte les périodes travaillées
+
+1 Unédic 2025 : « Situation financière de l’assurance chômage pour 2025-2027 ».
+2 Voir panorama Europ’Info 2025 de l’Unédic et le graphique 4 du Focus « Le public affecté par les réformes de l’assurance chômage » associé à cette Note.
+3 Avant 2021, on divisait ces revenus par le nombre de jours travaillés pour obtenir le SJR. Désormais, on le divise par le nombre de jours entre le premier et
+le dernier jours travaillés sur cette période. On inclut donc des jours non travaillés ce qui donne un SJR plus faible pour les travailleurs ayant alterné contrats
+courts et périodes sans emploi. La réforme visait à désinciter ce type de trajectoires. Elle a entraîné une réduction d’environ 18 % de l’indemnisation des
+allocataires aux trajectoires discontinues. Voir Unédic (2025) : « Évaluation du nouveau mode de calcul de l’allocation chômage ».
+4 Unédic : « Quelle indemnisation pour les demandeurs d’emploi en France ? ».
+5 Avant 2024, l’âge seuil était de 53 ans, mais un accord entre partenaires sociaux l’a décalé de 2 ans, en cohérence avec la réforme des retraites de 2023.
+
+www.cae-eco.fr
+4  Mesurer l’efficacité de l’assurance chômage
+
+sur les 3 dernières années au lieu de 2 pour les non-seniors.        À l’inverse, un indice supérieur à 1 suggère qu’une augmenta-
+Mécaniquement, cette fenêtre de calcul plus longue allonge la        tion de la générosité pourrait être socialement justifiée. Cette
+durée potentielle d’indemnisation qui ne peut cependant pas          interprétation doit néanmoins être nuancée par la question du
+dépasser 22,5 mois pour les 55-57 ans, et 27 mois pour les           financement de la réforme lorsqu’elle est coûteuse. Si elle est
+57 ans ou plus.                                                      financée par la réduction d’une dépense moins efficace (EDP
+                                                                     inférieure), la réforme apparaît souhaitable. Mais si elle est fi-
+Il existe bien entendu d’autres caractéristiques de l’assurance      nancée par une hausse des prélèvements sur les salaires, elle
+chômage, comme le différé d’indemnisation (qui varie avec            n’est justifiée que si son indice EDP est supérieur à celui asso-
+certaines indemnités de licenciement), des cas particuliers          cié à une augmentation de ces prélèvements qui est d’environ
+(comme le régime intermittent) et des différences d’indem-           1,2 (voir infra). À moins, encore une fois, d’accorder un poids
+nisation selon le motif d’entrée au chômage (la démission            social plus élevé aux personnes concernées par l’indemnisa-
+ne donne généralement pas droit à être indemnisé). Dans              tion du chômage que par la taxation des revenus du travail.
+cette Note, nous nous concentrerons sur les principaux para-
+mètres. L’idée n’est pas d’être exhaustif mais de proposer, par      Au-delà de l’analyse isolée de chaque paramètre ou réforme,
+l’exemple, une méthode pour évaluer les réformes de l’assu-          l’intérêt principal des EDP réside dans leur comparaison.
+rance chômage à l’aune d’un indicateur unique et cohérent.           Cette approche comparative est en effet moins sensible au
+                                                                     choix des hypothèses car celles-ci sont en grande partie
+Penser les réformes de l’assurance                                   communes à l’ensemble des leviers étudiés. Concrètement,
+chômage avec l’indice d’efficacité                                   si l’indice EDP d’un premier levier est supérieur à celui d’un
+de la dépense publique                                               deuxième levier, mieux vaut toucher au levier 2 si l’on souhaite
+                                                                     réduire la générosité de l’assurance chômage… sauf à accor-
+L’indice d’efficacité de la dépense publique                         der davantage de préférence sociale au groupe touché par le
+                                                                     levier 2. Par exemple, on montre dans cette Note que l’indice
+Notre analyse s’appuie sur l’indice d’efficacité de la dépense pu-   EDP associé à la filière seniors est inférieur à celui associé à
+blique (EDP) développé par Hendren et Sprung-Keyser 6. Il offre      d’autres leviers. Cela conduit à interroger le maintien de cette
+une métrique commune pour comparer différentes politiques            filière. La seule justification d’un tel dispositif serait de donner
+en mesurant leur gain ou leur coût social par euro dépensé ou        une préférence particulière aux seniors par rapport aux autres
+économisé. Le Focus « L’indice EDP appliqué aux réformes du          demandeurs d’emploi.
+montant de l’assurance chômage » explique la méthodologie
+en détails. Elle permet d’identifier les politiques pour lesquelles  Pour calculer les indices EDP, deux ingrédients sont néces-
+le gain social par euro public mobilisé est le plus élevé.           saires : une estimation des rendements budgétaires nets des
+                                                                     réformes et une estimation de la valeur de l’assurance pour le
+                                                                     public affecté. L’indice EDP correspond au ratio de ces deux
+                                                                     quantités.
+
+Nous calculons ici des indices EDP pour différentes dimen-           Les rendements budgétaires nets
+sions de l’assurance chômage : la durée d’affiliation pour être
+éligible, la durée d’indemnisation, le montant d’indemnisation       Les chiffrages des réformes de l’assurance chômage se
+et la marche intermédiaire de la filière seniors. L’objectif est     contentent souvent de calculer leur rendement budgétaire
+d’abord de proposer un cadre de raisonnement commun. Ces             mécanique. Si l’on baisse les allocations de 10 € pour un mil-
+indices permettent de mettre en regard, de manière unifiée,          lion de bénéficiaires, le rendement mécanique est de 10 mil-
+les effets budgétaires des réformes, les changements de com-         lions d’euros. Or, la littérature académique montre clairement
+portements qu’elles peuvent induire et les publics qu’elles af-      que les modifications de l’assurance chômage changent les
+fectent 7. Il s’agit toutefois d’un exercice délicat, reposant sur   comportements et entraînent des effets de report sur d’autres
+un ensemble d’hypothèses qu’il convient d’expliciter.                dispositifs comme le RSA.
+
+L’interprétation des indices nécessite quelques remarques.           Il existe deux types d’effets comportementaux. Premièrement,
+Le cas d’un indice inférieur à 1 est relativement simple. Cela       une assurance chômage plus généreuse entraîne des durées
+signifie que le gain social associé à une plus grande géné-          de chômage plus longues. Ce constat empirique est bien éta-
+rosité sur cette dimension de l’assurance est inférieur à son        bli par de nombreuses études 8, même si l’intensité de cet
+coût budgétaire. En l’absence d’objectif particulier de redis-       effet peut varier selon certaines caractéristiques socio-dé-
+tribution en faveur des publics concernés, il convient plutôt        mographiques. Deuxièmement, la générosité de l’assurance
+d’envisager une réduction de générosité sur ce levier.
+
+6 Hendren N. et Sprung-Keyser B. (2020) : « A Unified Welfare Analysis of Government Policies », The Quarterly Journal of Economics. Cet indice a été utilisé
+dans la Note n°84 du CAE : Grenet J. et Landais C. « Éducation : comment mieux orienter la dépense publique ».
+
+7 Nous mettons en accès libre les codes ayant servi à nos calculs, dans l’espoir de contribuer à la mise en place d’un cadre partagé, sans doute perfectible
+au fil du temps, pour l’analyse de futures réformes.
+
+8 Pour une synthèse des principales estimations, voir Figures 6 et 7 de Le Barbanchon et al., reproduites dans le Focus 129. Le Barbanchon T., Schmieder J.
+et Weber A. (2024) : « Job Search, Unemployment Insurance and Active Labor Market Policies », dans Handbook of Labor Economics, Vol. 5, chap. 6.
+
+Les notes du conseil d’analyse économique, n° 90
+                                                                   Avril 2026  5
+
+chômage influence aussi les entrées au chômage indemnisé,          des réformes. Malgré leurs différences, ces deux modèles
+c’est-à-dire les fins de contrats, les licenciements ou les rup-   conduisent à des indices EDP très proches, même si les
+tures conventionnelles. Cela peut venir des comportements          estimations des économies budgétaires peuvent légèrement
+des salariés qui souhaitent quitter un emploi qui ne leur          diverger.
+convient pas, ou de ceux des entreprises pour qui il est plus
+facile de se séparer d’un salarié lorsque l’assurance chômage      La valeur de l’assurance chômage
+est plus généreuse. Les études sur ce deuxième canal sont
+plus récentes mais suggèrent qu’il est loin d’être négligeable 9.  Une réduction de la générosité de l’assurance chômage en-
+                                                                   gendre toujours, par définition, des économies budgétaires,
+   Constat 3. Les dernières réformes                               ce qui pourrait amener à conclure que ce type de réformes est
+   de l’assurance chômage ont bénéficié                            forcément souhaitable. Ce n’est pas le cas. L’assurance chô-
+   d’évaluations ex post portant sur leurs                         mage remplit une fonction : elle assure les personnes contre
+   effets comportementaux. Néanmoins, les                          la baisse de revenu qu’entraîne une perte d’emploi. Réduire la
+   évaluations ex ante, mobilisées pour la prise                   générosité de l’assurance chômage a un impact négatif sur la
+   de décision, se concentrent souvent sur les                     situation financière et le bien-être des demandeurs d’emploi.
+   effets budgétaires mécaniques, sans intégrer                    Pour juger du bien-fondé d’une réforme de l’assurance chô-
+   d’effets comportementaux. Or ils peuvent                        mage, il convient donc de mettre en regard son rendement
+   modifier sensiblement le coût budgétaire net des                budgétaire net avec la détérioration de la situation des per-
+   réformes et devraient être systématiquement                     sonnes affectées, potentiellement vulnérables. Cette détério-
+   pris en compte.                                                 ration correspond à ce que la littérature académique nomme
+                                                                   la valeur de l’assurance chômage.
+Les effets comportementaux sont importants pour deux rai-
+sons : ils peuvent être quantitativement significatifs et, dans       Constat 4. Les débats sur les réformes de
+le cas de réformes baissant la générosité du système, il faut         l’assurance chômage ne prennent pas en compte
+privilégier celles dont une part plus importante du rendement         sa valeur assurantielle pour les allocataires,
+budgétaire provient d’effets comportementaux. En effet, les           pourtant au cœur de la logique même de cette
+économies mécaniques correspondent à une perte directe de             assurance sociale. Cette valeur varie fortement
+revenus pour les demandeurs d’emploi. Au contraire, les éco-          selon les publics — notamment selon leurs
+nomies liées aux réponses comportementales correspondent              ressources et leur capacité d’épargne — et sa
+à un maintien ou à un retour accéléré dans l’emploi, et donc à        prise en compte peut conduire à apprécier
+une augmentation de l’activité économique, générant un sur-           différemment l’intérêt des réformes envisagées.
+croît de recettes fiscales.
+                                                                   Calculer la valeur de l’assurance chômage n’est pas chose
+En pratique, mesurer les rendements mécanique et compor-           aisée ; la recherche a suggéré plusieurs pistes. L’une des
+temental suppose de caractériser les demandeurs d’emploi           plus convaincantes consiste à combiner deux paramètres :
+concernés par une réforme, de mesurer leur taux de sortie          la chute de consommation qu’entraîne le passage de l’emploi
+du chômage et leur taux d’entrée au chômage, de faire des          au chômage et l’aversion au risque, qui capture le coût des
+hypothèses sur la façon dont leurs comportements vont chan-        variations de revenus en termes de bien-être. En effet, les
+ger avec la réforme et de calculer comment ces changements         fluctuations de revenus sont coûteuses et la théorie écono-
+vont modifier les dépenses d’indemnisation, les cotisations        mique indique qu’il est préférable de pouvoir lisser sa consom-
+collectées sur les salaires et le passage entre assurance chô-     mation 10. Cela se comprend aisément si l’on considère que
+mage et RSA ou allocation de solidarité spécifique.                nombre de dépenses sont contraintes et difficilement ajus-
+                                                                   tables à court terme (par exemple un loyer, les factures
+Nous détaillons, dans le Focus « Modéliser l’impact finan-         d’électricité, de cantine scolaire, etc.). Prenons l’exemple de
+cier de réformes de l’assurance chômage », deux modèles            Julien et Emma qui tombent au chômage. Supposons que l’on
+conçus à cette fin. Le premier, proche de ceux utilisés dans       observe dans les données que la consommation de Julien
+les administrations, intègre explicitement l’effet des change-     n’est pas du tout affectée par sa perte d’emploi tandis que
+ments de comportements sur les rendements budgétaires. Le          celle d’Emma chute de 50 %. On pourra en déduire que l’assu-
+second est un modèle simulé, estimé de manière à reproduire        rance chômage a davantage de valeur pour Emma puisque
+le nombre et les caractéristiques des demandeurs d’emploi,         Julien semble être en mesure de s’auto-assurer, par exemple
+ainsi que les flux de l’emploi au chômage : des individus hété-    grâce à une épargne préexistante.
+rogènes y accumulent et consomment des droits selon les
+règles de l’assurance chômage. Ce modèle permet notam-
+ment de prendre en compte la montée en charge progressive
+
+9 Jessen J., Jessen R., Johnston A. et Gałecka-Burdziak E. (2025): « Moral Hazard Among the Employed : Evidence From Regression Discontinuity » NBER
+Working Paper.
+10 Gruber, J. (1997): « The Consumption Smoothing Benefits of Unemployment Insurance », American Economic Review.
+
+www.cae-eco.fr
+6                             Mesurer l’efficacité de l’assurance chômage
+
+Le calcul de la chute de consommation lorsqu’un individu                                                                                                                                                    b. Salaire moyen passé
+passe de l’emploi au chômage a été réalisé par Gruber 11, par
+Ganong et Noel 12 sur données américaines, par Landais et                                                                                                                                                   11000
+Spinnewijn 13 sur données suédoises, par Bonnet et al. 14 sur
+données françaises de la Banque Postale, et par nous-mêmes                                                                                                                                                  10000
+sur des données du Crédit Mutuel 15. Les données bancaires
+sont en effet particulièrement adaptées pour calculer les
+variations de revenus et de consommation. Dans toutes ces
+analyses, les ordres de grandeur sont proches. En moyenne,
+la consommation d’un individu chute d’environ 10 % lorsqu’il
+perd son emploi et de 25 % lorsque ses indemnités chômage
+arrivent à échéance. L’aversion au risque est plus difficile à
+mesurer et les estimations sont nombreuses et assez disper-
+sées. Si nous utilisons ici une valeur cohérente avec certaines
+études de référence, nous montrons également comment
+les résultats changent quand nous supposons des individus
+moins averses à la perte de revenu 16.
+Âge                                                                                                                                                                                                         9000
+                                                                                                                                                          Salaires bruts mensuels avant perte d’emploi (€)
+                                                                                                                                                                                                            8000
+
+                                                                                                                                                                                                            7000
+
+                                                                                                                                                                                                            6000
+
+                                                                                                                                                                                                            5000
+
+                                                                                                                                                                                                            4000
+
+                                                                                                                                                                                                            3000
+
+                                                                                                                                                                                                            2000
+
+                                                                                                                                                                                                            1000
+
+                                                                                                                                                                                                            0
+
+                                                                                                                                                                                                                   Ensemble des  Montant                                     Eligibilité                  Durée
+                                                                                                                                                                                                                                                                               durée       baisse uniforme baisse 55-57 ans
+                                                                                                                                                                                                                   demandeurs baisse uniforme baisse ciblée baisse plafond
+                                                                                                                                                                                                                     d’emploi                                               d’affiliation
+
+Au-delà de la valeur de l’assurance pour un demandeur d’em-                                                                                                                                                 Note : Pour chaque réforme, la boîte représente la moitié centrale de
+ploi moyen, il est crucial de comprendre comment celle-ci                                                                                                                                                   la distribution de l’âge et du salaire moyen passé du public affecté :
+diffère selon les publics. En effet, chaque réforme affecte un                                                                                                                                              elle s’étend du 1er au 3e quartile. La ligne horizontale rouge indique la
+public différent et a donc un coût social différent. Nous procé-                                                                                                                                            médiane. Les lignes verticales (« moustaches ») vont du 1er au 9e décile.
+dons en deux étapes.
+                                                                                                                                                                                                            Clé de lecture : Le dernier décile de revenu des individus affectés par
+                                                                                                                                                                                                            une hausse de la durée d’affiliation (en violet foncé) se situe à 2 000 €
+                                                                                                                                                                                                            mensuels contre 5 500 € pour ceux affectés par une baisse du montant
+                                                                                                                                                                                                            d’allocation ciblé sur les hauts revenus (en bleu clair).
+
+                                                                                                                                                                                                            Source : Données MiDAS-FNA.
+
+Dans une première étape, nous avons réalisé un travail iné-                                                                                                                                               Le graphique 2 présente les caractéristiques moyennes des
+dit de caractérisation des publics affectés par différentes                                                                                                                                               personnes affectées par différentes réformes. Le Focus « Le
+réformes de l’assurance chômage, en fonction notamment de                                                                                                                                                 public affecté par les réformes potentielles de l’assurance
+l’âge, du salaire passé et de la situation maritale. Par exemple,                                                                                                                                         chômage » décrit en détail la façon dont nous avons procédé
+le public affecté par une réforme de la durée d’affiliation est                                                                                                                                           pour identifier les publics affectés par les différents leviers, à
+plus jeune et perçoit un salaire plus faible que le public affecté                                                                                                                                        partir d’un travail original réalisé sur données administratives,
+par une réforme de la durée maximum d’indemnisation.                                                                                                                                                      et propose une caractérisation plus poussée des publics.
+
+          Graphique 2. Comparaison des publics                                                                                                                                                            Dans une deuxième étape, nous estimons la chute de consom-
+             affectés par les différents leviers                                                                                                                                                          mation pour différents profils, par âge, salaire passé et situa-
+                                                                                                                                                                                                          tion maritale. Nous constatons, par exemple, que les publics
+   a. Âge                                                                                                                                                                                                 plus jeunes et dont le salaire est plus bas ont des pertes de
+                                                                                                                                                                                                          consommation au chômage et donc une valeur de l’assurance
+   60                                                                                                                                                                                                     plus élevée, ce qui est cohérent avec le fait que ces publics
+                                                                                                                                                                                                          disposent moins fréquemment d’épargne que des personnes
+   55                                                                                                                                                                                                     plus âgées ou ayant un salaire plus élevé. Le graphique 3 re-
+                                                                                                                                                                                                          présente les baisses de consommation moyennes que nous
+   50                                                                                                                                                                                                     avons estimées : elles varient de 5 % pour le public affecté
+                                                                                                                                                                                                          par une baisse du plafond d’allocation mensuelle à 12 % pour
+   45                                                                                                                                                                                                     le public affecté par un durcissement de l’éligibilité. Ces esti-
+                                                                                                                                                                                                          mations nous permettent d’attribuer à chaque réforme une
+   40                                                                                                                                                                                                     valeur de l’assurance correspondant au public affecté 17.
+                                                                                                                                                                                                          Celles-ci seront rapportées au rendement budgétaire net pour
+   35                                                                                                                                                                                                     calculer un indice EDP.
+
+   30
+
+   25
+
+   20
+
+   15
+
+       Ensemble des  Montant                                    Eligibilité  Durée
+
+       demandeurs baisse uniforme baisse ciblée baisse plafond     durée baisse uniforme baisse 55-57 ans
+         d’emploi                                               d’affiliation
+
+11 Op.cit.
+12 Ganong P. et Noel P. (2019): « Consumer Spending during Unemployment : Positive and Normative Implications », American Economic Review.
+13 Landais C. et Spinnewijn J. (2021): « The Value of Unemployment Insurance », The Review of Economic Studies.
+14 Bonnet O., Le Grand F., Olivia T., Ragot X. et Wilner L. (2024): « The consumption response to unemployment - Evidence from French bank account data »,
+Insee, Document de travail.
+15 Focus n°132 « Comment estimer la valeur d’un euro d’assurance chômage pour les demandeurs d’emploi ».
+16 Nous utilisons un coefficient d’aversion au risque de 4,5, en suivant Chetty et Szeidl (2007) et Landais et Spinnewijn (2021) mais montrons également les
+résultats avec un coefficient d’aversion au risque de 2. Chetty R. et Szeidl A. (2007): « Consumption Commitments and Risk Preferences », The Quarterly Journal
+of Economics ; ibid.
+17 Pour plus de détails sur la méthodologie, voir le Focus n°132 : « Modéliser l’impact financier des réformes de l’assurance chômage ».
+
+Les notes du conseil d’analyse économique, n° 90
+                                                                                                                                                                    Avril 2026  7
+
+Chute de la consommation 6 mois après la perte d’emploi (%)         Graphique 3. Chute de la consommation                                                           leur période d’emploi. On s’attend à ce que les contrats qui
+                                                                                 après perte d’emploi                                                               ouvrent des droits à l’assurance chômage soient plus recher-
+                                                                                                                                                                    chés. Augmenter la durée d’affiliation de 6 à 8 mois pourrait
+                                                             15                                                                                                     amener les entreprises à offrir plus fréquemment des contrats
+                                                                                                                                                                    de 8 mois au lieu de 6 mois. Notre analyse empirique suggère
+                                                             12                                                                                                     toutefois que cet effet, s’il existe, est très limité.
+
+                                                             9                                                                                                      Brébion et al. 19 ont analysé la réforme de 2009 qui baissait
+                                                                                                                                                                    la durée d’affiliation de 6 à 4 mois. Conformément à l’intui-
+                                                             6                                                                                                      tion, les auteurs observent une hausse de la fréquence des
+                                                                                                                                                                    contrats de 4 mois par rapport aux contrats de 3 mois, mais
+                                                             3                                                                                                      ne détectent pas de baisse du nombre de contrats de 6 mois
+                                                                                                                                                                    par rapport à ceux de 5 mois. L’effet existe donc, mais son
+                                                             0                                                                                                      ampleur est très faible. En utilisant les données que les au-
+                                                                                                                                                                    teurs de cette étude nous ont transmises, nous estimons une
+                                                                Ensemble des  Montant                                    Eligibilité  Durée                         borne supérieure des rendements budgétaires de la réforme
+                                                                                                                                                                    durcissant la durée d’affiliation minimale de 6 à 8 mois. Le
+                                                                demandeurs baisse uniforme baisse ciblée baisse plafond     durée baisse uniforme baisse 55-57 ans  Focus « Les conditions d’affiliation à l’assurance chômage »
+                                                                  d’emploi                                               d’affiliation                              détaille les hypothèses sous-jacentes à ce calcul.
+
+                                                             Clé de lecture : La chute de consommation six mois après la perte
+                                                             d’emploi pour le public affecté par une baisse du plafond (bleu clair) est
+                                                             de 5 % tandis qu’elle serait de plus de 12 % pour le public affecté par un
+                                                             durcissement de l’éligibilité (violet)
+
+                                                             Source : Données Crédit Mutuel Alliance Fédérale.
+
+Recommandation 1. Créer un modèle commun,                                                                                                                           Pour chaque euro économisé directement en durcissant l’éli-
+partagé entre les administrations et l’Unédic, qui                                                                                                                  gibilité, les effets comportementaux ajoutent, au plus, 2 cen-
+intègre les réponses comportementales dans le calcul                                                                                                                times. Ils ne représentent donc pas plus de 2 % du rendement
+des effets budgétaires.                                                                                                                                             budgétaire total. Autrement dit, l’impact budgétaire est uni-
+                                                                                                                                                                    quement tiré par l’effet direct ou mécanique. C’est ce qui ex-
+Recommandation 2. Lorsque l’on évalue l’opportunité                                                                                                                 plique que, sur le graphique 4, l’impact budgétaire direct soit
+des réformes, il serait souhaitable de prendre en                                                                                                                   très proche de 1 : il n’y a presque aucune amplification liée
+compte la valeur de l’assurance par catégories de                                                                                                                   aux effets de comportements, à la différence d’autres leviers.
+ménages et de mobiliser la méthodologie EDP pour
+produire, à intervalles réguliers, un cahier de variantes                                                                                                           Passons maintenant à la valeur de l’assurance. Nous com-
+montrant les impacts de réformes potentielles, en                                                                                                                   mençons par caractériser le profil des demandeurs d’emploi
+indiquant les différentes hypothèses sous-jacentes.                                                                                                                 qui sont directement affectés par une modification de la
+                                                                                                                                                                    durée d’affiliation. On pense souvent que les changements
+Application de la méthode à quatre                                                                                                                                  d’éligibilité impactent principalement les jeunes. C’est vrai :
+leviers de l’assurance chômage                                                                                                                                      l’âge médian des personnes concernées est de 33 ans, soit
+                                                                                                                                                                    moins que pour les publics affectés par d’autres types de
+Une réforme du critère d’éligibilité                                                                                                                                réformes (graphique 2a). Par ailleurs, le graphique 2b montre
+                                                                                                                                                                    que le salaire médian avant la perte d’emploi des personnes
+Dans cette section, nous examinons l’impact potentiel d’une                                                                                                         concernées par des modifications de l’éligibilité (en violet) est
+réforme qui augmenterait la durée d’affiliation minimale de                                                                                                         d’environ 1200 €, soit moins que celui des publics affectés
+6 à 8 mois (durée nécessaire pour ouvrir des droits à l’assu-                                                                                                       par tous les autres leviers. Ainsi, la durée d’affiliation touche
+rance chômage) 18. Nous suivons la méthode décrite plus                                                                                                             principalement des demandeurs d’emploi les plus pauvres.
+haut : nous estimons d’abord le rendement budgétaire direct,                                                                                                        L’analyse des chutes de consommation montre qu’il s’agit
+puis les effets comportementaux, avant de les comparer à la                                                                                                         d’un public pour lequel l’assurance contre la perte de revenus
+perte de valeur d’assurance pour les personnes concernées.                                                                                                          est essentielle.
+
+Quels effets de comportement attendre d’une telle réforme ?                                                                                                         Quand on met en regard les rendements budgétaires nets et
+En durcissant les critères d’éligibilité, une partie des per-                                                                                                       la valeur de l’assurance, la perte assurantielle dépasse les
+sonnes en emploi pourraient être amenées à prolonger                                                                                                                gains budgétaires pour ce type de réformes. L’indice EDP
+                                                                                                                                                                    d’une hausse de la durée d’affiliation est largement supérieur
+                                                                                                                                                                    à 1 (voir graphique 5).
+
+18 La durée d’affiliation nécessaire pour être éligible à l’assurance chômage a été modifiée plusieurs fois au cours des dernières années. En 2009, une
+réforme a accru la générosité du système en la baissant de 6 mois (sur 22 mois) à 4 mois (sur 28 mois). La réforme de 2019 fait machine arrière, rétablissant
+une durée d’affiliation de 6 mois (sur 24 mois) Un accord entre partenaires sociaux en 2025 a ensuite à nouveau baissé la durée d’affiliation, à 5 mois, pour
+les saisonniers et les primo-entrants.
+
+19 Brébion C., Briole S. et Khoury L. (2025): « Unemployment Insurance Eligibility and Employment Duration », Working Paper.
+
+                                                                                                                         www.cae-eco.fr
+8  Mesurer l’efficacité de l’assurance chômage
+
+   Recommandation 3. En cas de réforme                                                                                         Graphique 4. Comparaison du rendement
+   de l’assurance chômage visant à diminuer                                                                                               budgétaire entre leviers
+   la générosité du système, il ne faut pas
+   durcir les conditions d’éligibilité. Les effets                    Rendement budgétaire (par € d’économie mécanique)  1,75                           Effet retour à l’emploi    Effet entrée au chômage
+   comportementaux sont négligeables au regard                                                                                         Effet mécanique
+   du coût pour les personnes affectées, souvent
+   précaires.                                                                                                            1,50
+
+                                                                                                                         1,25
+
+                                                                                                                         1,00
+
+                                                                                                                         0,75
+
+Une baisse de la durée potentielle                                                                                       0,50
+d’indemnisation (DPI)
+                                                                                                                         0,25
+La réforme de 2023 a réduit la durée potentielle d’indemni-
+sation de 25 % (hors plancher et hors période de conjoncture                                                             0,00                         Montant      baisse plafond   Eligibilité                    Durée
+défavorable). Quels effets attendre si l’on raccourcissait da-                                                                   baisse uniforme    baisse ciblée                     durée       baisse uniforme baisse 55-57 ans
+vantage cette DPI ? De nombreux travaux ont montré qu’une
+baisse de la durée potentielle d’indemnisation accélère le                                                                                                                         d’affiliation
+retour à l’emploi. En considérant les estimations disponibles
+et en choisissant les plus pertinentes pour le cas français 20,                                                          Clé de lecture : L’impact budgétaire est de 1,30 € pour la baisse ciblée
+nous faisons l’hypothèse que, lorsque la durée d’indemnisa-                                                              du taux de remplacement (bleu clair). Ainsi, chaque 1 € d’économie
+tion diminue de 10 %, la durée de chômage diminue de 2,7 %.                                                              mécanique engendré par cette réforme se traduit par une économie
+Par ailleurs, en nous appuyant sur les travaux de Jessen et                                                              totale de 1,30 €.
+al. 21, nous considérons qu’elle a aussi un impact sur la pro-
+babilité d’entrer au chômage indemnisé : les fins de contrats,                                                           Source : Calculs des auteurs.
+les licenciements ou les ruptures conventionnelles sont plus
+fréquents lorsque les durées d’indemnisation sont plus géné-          sont ceux qui utilisaient, avant la réforme, la majeure partie
+reuses. Avec une diminution de la DPI de 10 %, les entrées au         de leur capital de droits, c’est-à-dire qui restaient indemnisés
+chômage baissent de 1,2 %. Sur la base de ces hypothèses,             longtemps. Par ailleurs, comme nous l’avons expliqué précé-
+les effets comportementaux augmentent le rendement budgé-             demment, la consommation chute encore plus à l’expiration
+taire direct d’une baisse de la durée d’indemnisation de 50 %,        des indemnités qu’au moment de la perte d’emploi. Ainsi, mal-
+chacune des deux marges contribuant à moitié. Autrement               gré des effets emplois élevés, notre indice EDP pour la DPI
+dit, pour un euro économisé du fait de la réduction de la du-         (post-réforme de 2023) n’est que légèrement plus faible que
+rée, les changements de comportements permettent d’espé-              pour la plupart des autres leviers (voir graphique 5).
+rer 50 centimes d’économies supplémentaires (graphique 4).
+                                                                                                                                                     Graphique 5. Comparaison
+                                                                                                                                                    des indices EDP entre leviers
+
+                                                                                                                         1,75  γ = 4,5                  γ=2
+
+                                                                      Indice d'efficacité de la dépense publique         1,50
+
+                                                                                                                         1,25
+
+                                                                                                                         1,00
+
+Par ailleurs, les craintes parfois formulées selon lesquelles                                                            0,75
+le raccourcissement des durées de chômage se ferait au dé-
+triment de la qualité de l’emploi ne semblent pas justifiées                                                             0,50
+empiriquement 22. Deux forces, qui jouent en sens inverse, se
+compensent 23 : d’une part, une durée d’indemnisation plus                                                               0,25
+longue laisse potentiellement plus de temps pour retrouver
+un salaire plus élevé (on peut se permettre d’être un peu plus                                                           0,00                         Montant      baisse plafond   Eligibilité                    Durée
+exigeant) ; mais, d’autre part, l’employabilité diminue avec le                                                                    baisse uniforme  baisse ciblée                     durée       baisse uniforme baisse 55-57 ans
+temps passé au chômage (perte possible de compétences, si-
+gnal négatif, etc.). Au final, les effets sur les salaires retrouvés                                                                                                               d’affiliation
+sont faibles, parfois faiblement négatifs et parfois faiblement
+positifs.                                                                                                                Notes : Pour chaque réforme envisagée, l’indice EDP est estimé sous
+                                                                                                                         l’hypothèse d’un coefficient d’aversion au risque de 2 (colonnes rayées)
+Cet impact budgétaire favorable doit être mis en regard de la                                                            et de 4,5 (colonnes pleines). La ligne horizontale rouge marque la valeur
+valeur de l’assurance pour les personnes affectées. Celle-ci                                                             de l’indice EDP d’une taxe sur le travail (voir infra).
+est relativement élevée dans le cas d’une baisse de la durée
+d’indemnisation. En effet, les demandeurs d’emploi concernés                                                             Clé de lecture : Pour une baisse uniforme du montant d’allocation (en
+                                                                                                                         bleu foncé), l’indice EDP vaut 1,16 pour un coefficient d’aversion au
+                                                                                                                         risque de 4,5 et 0,95 pour un coefficient de 2.
+
+                                                                                                                         Source : Estimation de la chute de la consommation issue des données
+                                                                                                                         Crédit Mutuel Alliance Fédérale, estimation des effets budgétaires :
+                                                                                                                         calculs des auteurs (graphique 4).
+
+20 Le Barbanchon T. (2016): « The Effect of the Potential Duration of Unemployment Benefits on Unemployment Exits to Work and Match Quality in France »,
+Labour Economics.
+21 Jessen et al. (2025) : op.cit.
+22 Le Barbanchon T. et al. (2024) : op.cit., graphique 8.
+23 Nekoei A. et Weber A. (2017): « Does Extending Unemployment Benefits Improve Job Quality? », American Economic Review.
+
+Les notes du conseil d’analyse économique, n° 90
+                                                                    Avril 2026  9
+
+Une baisse du montant de l’indemnisation                            Supprimer la marche intermédiaire
+                                                                    de la filière seniors
+Il existe de nombreuses manières de modifier le montant
+des allocations. Certaines affectent l’ensemble des deman-          Les demandeurs d’emploi de plus de 55 ans bénéficient de
+deurs d’emploi, d’autres uniquement certains publics, les           règles d’indemnisation chômage plus généreuses. En particu-
+mieux indemnisés par exemple. Trois scénarios de réformes           lier, leurs droits sont calculés sur une fenêtre de trois ans,
+sont étudiés ici : 1) une baisse uniforme du montant d’indem-       contre deux ans pour les autres, ce qui rallonge mécanique-
+nisation de 1 % pour l’ensemble des demandeurs d’emploi ;           ment la durée d’indemnisation.
+2) une baisse de 1 % ciblée sur les demandeurs d’emploi dont
+le salaire brut mensuel de référence est supérieur à 2 400 € ;      Nous nous concentrons ici sur la marche intermédiaire de la
+3) une baisse du plafond d’allocation mensuelle de 8 826 € à        filière seniors (55-57 ans), l’analyse étant plus compliquée
+2 500 € 24.                                                         au-delà de 57 ans du fait d’interactions avec le système des
+                                                                    retraites. Pour les 55-57 ans, la durée maximale d’indemnisa-
+Pour chacun des scénarios, le calcul de l’indice EDP repose         tion atteint 22,5 mois. Cette marche intermédiaire concerne
+sur des hypothèses relatives aux réactions des individus. Nous      un nombre limité de personnes, environ 65 000 nouveaux de-
+supposons qu’une baisse de 1 % du montant augmenterait les          mandeurs d’emploi par an, mais elle permet néanmoins d’il-
+sorties du chômage vers l’emploi de 0,3 % 25 et baisserait les      lustrer un point important. Les effets de comportement sont
+entrées au chômage de 0,1 % 26.                                     particulièrement marqués pour cette population tandis que la
+                                                                    chute de consommation consécutive à leur perte d’emploi est
+Les effets comportementaux contribuent de manière signifi-          souvent contenue car ils disposent d’une épargne plus impor-
+cative au rendement budgétaire (graphique 4) : pour un euro         tante que la moyenne des demandeurs d’emploi.
+de rendement mécanique, ils génèrent 20 à 30 centimes
+d’économies supplémentaires, via l’accélération des retours         Au regard de la littérature académique 27, nous retenons deux
+vers l’emploi et le ralentissement des entrées au chômage.          hypothèses. Tout d’abord, le retour à l’emploi est plus faible
+On peut être surpris que le rendement comportemental appa-          pour les demandeurs d’emploi seniors, et il réagit moins à
+raisse plus limité dans le cas d’une réforme affectant le pla-      l’indemnisation que la moyenne des demandeurs d’emploi. Là
+fond d’indemnisation (bleu clair). Cela s’explique par un effet     où la réduction de la durée de chômage était de 0,27 % pour
+mécanique particulièrement élevé : il est directement propor-       une baisse d’un pourcent de la DPI, pour les seniors, elle n’est
+tionnel à la forte diminution des allocations perçues par les       que de 0,2 %. Ceci est dû au fait qu’il est parfois plus difficile
+bénéficiaires situés au-dessus du plafond, sur l’ensemble de        pour les seniors de retrouver un emploi. En revanche, leur pro-
+leur durée de chômage. En revanche, l’effet comportemental          babilité d’entrer au chômage réagit fortement à des conditions
+se traduit par une réduction de la durée de chômage moins           d’indemnisation plus généreuses. Nous faisons l’hypothèse,
+que proportionnelle à la baisse des allocations : il contribue      en suivant une étude sur données françaises 28, qu’une baisse
+donc de manière plus modeste au rendement total.                    de 1 % de la DPI augmente les entrées au chômage de 0,24 %
+                                                                    (au lieu de 0,1 % pour l’ensemble de la population). In fine,
+En ce qui concerne la valeur d’assurance, celle-ci est diffé-       l’impact budgétaire direct d’une modification de l’indemnisa-
+rente selon que l’on considère l’ensemble des demandeurs            tion des seniors est amplifié des deux tiers par des effets de
+d’emploi (scénario 1) ou ceux dont le salaire antérieur était       comportement (en jaune sur le graphique 4) : pour un euro
+élevé (scénarios 2 et 3). Le graphique 2b montre que le public      économisé, on peut s’attendre à 65 centimes d’économies
+affecté par une baisse ciblée du taux de remplacement (scé-         supplémentaires.
+nario 2) et, encore plus, le public affecté par une baisse du pla-
+fond (scénario 3) se distinguent par des salaires passés plus       Par ailleurs, il s’agit du public pour lequel les chutes de consom-
+élevés. Nos données bancaires montrent qu’ils connaissent           mation à l’entrée au chômage mesurées sur données bancaires
+des baisses de consommation au chômage plus faibles que la          sont les plus faibles. Cela implique une valeur de l’assurance
+moyenne des demandeurs d’emploi.                                    elle aussi plus faible. Au total, principalement du fait des effets
+                                                                    de comportement, l’indice EDP pour la marche intermédiaire
+Au total, les indices EDP associés aux trois scénarios sont         de la filière seniors est très inférieur à 1, de l’ordre de 0,75.
+relativement proches (voir graphique 5). Ils sont cependant         C’est de loin le plus faible de tous les indices calculés dans
+d’autant plus faibles que la population ciblée correspond à         cette Note. Cela signifie que celle-ci n’est probablement pas
+des chômeurs précédemment bien rémunérés.                           justifiée : elle coûte trop cher au regard du gain assurantiel.
+
+24 Cette valeur est proche de la moyenne des autres pays européens. Par exemple, le plafond mensuel est de 2 339 € en Suède et 2 231 € en Belgique, voir
+panorama Europ’Info 2025 de l’Unédic pour plus de détails.
+25 La valeur de -0,3 retenue est une valeur intermédiaire, cohérente avec les estimations de Lalive et al. (2015) à -0,15 en Autriche, de Jessen et al. (2025)
+entre -0,25 et -0,34 en Pologne, et de Cohen et Ganong (2025) entre -0,34 et -0,43 pour les États-Unis. Lalive R., Landais C. et Zweimuller J. (2015): « Market
+Externalities of Large Unemployment Insurance Extension Program », American Economic Review ; Jessen et al. (2025) : op.cit. ; Cohen J. et Ganong P.
+(2025) : « Disemployment Effects of Unemployment Insurance : a Meta-Analysis » NBER Working Paper.
+26 Jessen et al. (2025) : op.cit.
+27 Le Barbanchon et al. (2024) : op.cit.
+
+www.cae-eco.fr
+10  Mesurer l’efficacité de l’assurance chômage
+
+   Recommandation 4. Supprimer la marche                              ayant travaillé en continu sur la période). La durée d’indem-
+   intermédiaire de la filière seniors.                               nisation est également réduite, dans une moindre mesure,
+                                                                      pour les personnes ayant des parcours d’emploi discontinus.
+Ce résultat invite aussi à réfléchir plus largement à l’ensemble      À l’inverse, l’effet sur l’éligibilité est plus limité : il concerne
+de la filière seniors, mais en prenant néanmoins en compte            uniquement les personnes qui remplissent les conditions
+plusieurs éléments. Premièrement, les interactions fortes             sur 24 mois mais pas sur 20 mois, soit une fraction plus res-
+entre assurance chômage et système de retraite, qui peuvent           treinte des demandeurs d’emploi.
+générer des effets d’aubaine ou des ajustements des trajec-
+toires de fin de carrière 29. Deuxièmement, la nécessité de pré-      Synthèse de l’effet des différents
+server le niveau d’assurance des seniors les plus modestes,           leviers au regard de l’indice EDP
+pour lesquels la perte d’emploi peut entraîner des chutes de
+consommation importantes et durables. Enfin, les situations           Le graphique 5 récapitule les résultats pour les différents le-
+d’inaptitudes pour certains emplois, fréquentes sur cette             viers. On peut comparer les leviers deux à deux. Ainsi, il peut
+tranche d’âge.                                                        être souhaitable de réduire la générosité de certains leviers
+                                                                      pour augmenter celle d’autres leviers à l’indice plus élevé. Par
+Un raccourcissement de la période                                     exemple, supprimer la filière seniors pour relâcher un peu les
+de référence affiliation                                              conditions d’éligibilité.
+
+La période de référence affiliation (PRA) correspond à la fe-         Par ailleurs, il peut être utile ici de prendre pour référence
+nêtre sur laquelle est déterminée l’éligibilité et la durée poten-    l’indice EDP associé à une hausse des prélèvements sur le
+tielle d’indemnisation. Modifier cette période a donc deux ef-        travail. En effet, une augmentation de la générosité de l’assu-
+fets : changer les conditions d’accès au dispositif, mais aussi       rance chômage doit, à moins de réduire d’autres dépenses,
+la durée des droits ouverts 30. En effet, depuis la réforme de        être financée par des recettes supplémentaires, d’autant plus
+2023, la durée potentielle d’indemnisation correspond à 75 %          dans un contexte de régime déjà fortement endetté.
+de la durée travaillée sur la période de référence (soit 18 mois
+pour une PRA de 24 mois). En pratique, ce second effet do-            Le calcul de l’indice EDP d’une taxe sur le travail est assez
+mine en général : réduire la PRA revient d’abord à réduire la         simple. Du côté du coût social, une hausse d’impôt de 1 €
+durée d’indemnisation ; on peut donc se référer aux effets            réduit le revenu des ménages du même montant. Du côté
+présentés auparavant dans la partie sur la durée potentielle          budgétaire, le rendement mécanique (1 €) est partiellement
+d’indemnisation.                                                      réduit par les effets comportementaux : une hausse de la fis-
+                                                                      calité diminue les heures travaillées et donc les recettes fis-
+Le décret dit « Attal », finalement abandonné en juillet 2024,        cales associées 31. La littérature académique suggère qu’une
+illustre bien ce point. Il prévoyait notamment de modifier la         baisse de 1 % des revenus du travail après impôts entraîne
+condition d’ouverture des droits, en passant de 6 mois travail-       une diminution des heures travaillées de 0,2 à 0,3 % 32. En rete-
+lés sur 24 mois à 8 mois sur 20 mois. Cette réforme a souvent         nant une élasticité de 0,25 et un taux d’imposition marginal
+été décrite comme un durcissement de l’éligibilité. En réalité,       de 43 %, l’indice EDP d’une augmentation des prélèvements
+elle combinait deux changements distincts : une hausse de la          sur le travail serait de l’ordre de 1,23.
+durée d’affiliation minimale (de 6 à 8 mois) et un raccourcisse-
+ment de la période de référence affiliation (de 24 à 20 mois).        Cela fournit un point de comparaison. Sauf à accorder une
+                                                                      valeur sociale plus élevée aux chômeurs affectés qu’aux em-
+Or, le fait de toucher à la PRA, et pas seulement à la durée          ployés, il peut être envisagé de réduire la générosité sur un
+d’affiliation, implique qu’il s’agissait d’une réforme de l’éligibi-  levier dont l’indice est inférieur à 1,23, tout en baissant les
+lité ET de la durée d’indemnisation, cette dernière expliquant        prélèvements sur le travail. Ces résultats doivent toutefois
+l’essentiel du rendement budgétaire attendu. En effet, pas-           être interprétés avec prudence. Ils dépendent des hypothèses
+ser la PRA de 24 à 20 mois signifie que la durée maximum              retenues, en particulier sur l’aversion au risque, pour laquelle
+d’indemnisation passe de 18 à 15 mois (pour une personne              les incertitudes empiriques sont importantes. Plus celle-ci
+                                                                      est élevée, plus la chute de consommation est coûteuse en
+
+28 Baguelin O. et Remillon D. (2014): « Unemployment insurance and management of the older workforce in a dual labor market : Evidence from France »,
+Labour Economics.
+
+29 Baguelin et al (2014) : op.cit. ; Aubert P. , Bozio A., Pedrono M. et Tô M. (2025) : « Impact de la réforme des retraites de 2010 sur l’équilibre financier de
+l’assurance chômage », Rapport IPP.
+
+30 Pour plus de détails, voir le Focus « Conditions d’affiliation à l’assurance chômage ».
+
+31 Voir l’annexe du Focus « L’indice EDP appliqué aux réformes du montant de l’assurance chômage ».
+
+32 Pour la France, voir Lehmann E., Marical F. et Rioux L. (2013): « Labor income responds differently to income-tax and payroll-tax reforms », Journal of Public
+Economics ; Sicsic M. (2022): « Does labour income react more to income tax or means-tested benefits reforms? », Fiscal Studies. Ces estimations françaises
+restent dans l’intervalle habituel des valeurs trouvées pour d’autres pays. Voir Chetty R (2012): « Bounds on Elasticities with Optimization Frictions : a
+Synthesis of Micro and Macro Evidence on Labor Supply », Econometrica ; Kleven H., Kreiner C., Larsen K et Søgaard J. (2025): « Micro versus Macro Labor
+Supply Elasticities : The Role of Dynamic Returns to Effort », American Economic Review.
+
+Les notes du conseil d’analyse économique, n° 90
+                                                                    Avril 2026                                                             11
+
+                                     Tableau 1. Chiffrages budgétaires
+
+Levier  Réforme              Économies              Économies                   Économies totales      Rendement unitaire
+                            mécaniques         comportementales                 (en millions d’euros)  (par euro mécanique)
+                        (en millions d’euros)  (en millions d’euros)
+
+                        Comptable Simulé Comptable Simulé Comptable Simulé Comptable Simulé
+
+        Baisse uniforme 243          346       68                   89          311    435             1,28                          1,26
+
+Montant Baisse ciblée   94           126       28                   29          122    155             1,30                          1,23
+
+        Baisse plafond  944          1 254     201                  241         1 144 1 495            1,21                          1,19
+
+Éligibilité Durée d’affiliation 446  511       0                    0           446    511             1,00                          1,00
+
+Durée   Baisse uniforme 2 137 4 074 1 049                           1 700       3 186  5 775           1,49                          1,42
+
+        Baisse 55-57 ans 70          102       42                   63          112    165             1,60                          1,62
+
+Note : Nous utilisons deux modèles (« comptable » et « simulé ») pour nos estimations budgétaires 33. Les réformes dont les effets sont estimés sont
+(de haut en bas) : une baisse du montant d’allocation de 1 % pour l’ensemble des allocataires ; une baisse du montant d’allocation de 1 % pour les
+allocataires dans le dernier segment d’indemnisation (salaire de référence de plus de 2 400 €) ; une baisse du plafond de l’allocation à 2 500 € ; une
+hausse de la durée d’affiliation minimale de 6 à 8 mois ; une baisse du coefficient de conversion pour le calcul de la durée d’indemnisation de 0,75 à
+0,6 ; une baisse de la durée maximale d’indemnisation pour les allocataires de 55 à 57 ans de 22,5 à 18 mois.
+
+Clé de lecture : Dans notre modèle « comptable », une baisse du plafond d’indemnisation générerait 944 M€ d’économies mécaniques par an et
+201 M€ d’économies comportementales, soit 1 114 M€ au total (après montée en charge de la réforme). Ceci correspond à un rendement unitaire de
+1,21 € par euro d’économie mécanique (1 114 M€ / 944 M€).
+
+termes de bien-être et donc plus la valeur de l’assurance esti-     Au-delà du niveau de générosité :
+mée est élevée. C’est la raison pour laquelle nous présentons       améliorer l’efficience du système
+les indices EDP pour deux valeurs contrastées de l’aversion
+au risque (4,5 et 2).                                               Lors de la conception de réformes de l’assurance chômage,
+                                                                    il importe de se défaire d’une seule lecture budgétaire. Les
+Enfin, les indices EDP reposent sur un raisonnement « à la          réformes modifient les comportements des individus et des
+marge » : pour 1 € d’impact budgétaire direct, ils indiquent l’am-  entreprises, et affectent la situation financière de publics très
+pleur des effets de comportement et le coût en termes de valeur     différents. En d’autres termes, une bonne réforme met en
+d’assurance. Le coût budgétaire total d’une réforme dépend tou-     regard les estimations de rendements budgétaires nets, inté-
+tefois de son ampleur et du nombre de personnes concernées.         grant la réaction des agents, avec la perte d’assurance qu’une
+                                                                    modification de la générosité du système entraîne pour les
+Le tableau 1 présente ces ordres de grandeur budgétaires            personnes concernées.
+pour les différentes réformes étudiées et pour deux modèles
+d’estimation 33. Il montre à la fois la grande hétérogénéité de     Nous montrons en particulier que la marche intermédiaire de
+ces ordres de grandeur, les marges d’incertitude sur les ren-       la filière seniors apparaît difficile à justifier au regard de ses
+dements, mais aussi la grande stabilité entre les modèles des       effets budgétaires et de la valeur d’assurance qu’elle procure,
+ratios rendements comportementaux sur rendements bud-               tandis que le durcissement des conditions d’éligibilité pénali-
+gétaires. Par exemple, la suppression de la marche intermé-         serait principalement des publics modestes.
+diaire senior génère un rendement budgétaire élevé par euro
+(1,6 € d’effet budgétaire total pour 1 € d’effet direct pour        Ces résultats invitent ainsi à déplacer le débat sur les réformes
+les deux modèles), mais concerne un nombre limité de per-           de l’assurance chômage. Plusieurs chantiers nous semblent
+sonnes, pour un gain total d’environ 150 millions d’euros. En       à ce stade inaboutis. Tout d’abord celui de l’incitation des
+comparaison, un passage de 6 à 8 mois de la durée d’affilia-        employeurs, cruciale à la fois pour le recours aux contrats
+tion, produirait des économies plus importantes — autour de         courts, les ruptures conventionnelles et le maintien en emploi
+450 millions d’euros — du simple fait d’un plus grand nombre        des seniors. La réforme de 2021 a esquissé un système de
+de personnes concernées, mais cette réforme serait moins            bonus-malus visant à pénaliser les entreprises dont les pra-
+souhaitable du point de vue de l’efficacité sociale, parce qu’il    tiques génèrent un coût élevé pour l’assurance chômage. Ce
+n’y a aucun effet emploi à en attendre et qu’elle pénaliserait      dispositif reste cependant limité à un nombre très restreint
+des populations vulnérables.                                        de secteurs et repose sur un critère imparfait : le taux de
+                                                                    séparation, qui ne reflète pas pleinement le coût réel pour le
+                                                                    système. Par exemple, licencier un senior est plus coûteux en
+                                                                    moyenne pour le système que licencier un jeune. Un dispositif
+
+33 Voir Focus du CAE n°133 « Modéliser l’impact financier de réformes de l’assurance chômage » pour plus de détails sur ces modèles
+
+                                     www.cae-eco.fr
+12  Mesurer l’efficacité de l’assurance chômage
+
+plus abouti consisterait à moduler les cotisations en fonction    l’assurance chômage et l’accompagnement proposé par
+des coûts d’indemnisation chômage effectivement observés          France Travail, ou encore le contrôle de l’effort de recherche
+pour les anciens salariés de l’entreprise, et non du taux de      d’emploi. Ces réformes pourraient en théorie également se
+séparation. Une telle réforme serait souhaitable et équilibre-    prêter à un calcul d’indices EDP qui permettraient de compa-
+rait les mesures déjà prises côté demandeurs d’emploi.            rer leur pertinence par rapport aux différentes dimensions de
+                                                                  l’indemnisation.
+Le second chantier concerne la gouvernance du système,
+notamment la place respective des partenaires sociaux et          Enfin, les évolutions récentes illustrent les arbitrages en jeu.
+de l’État, déjà abordée dans une précédente Note du CAE 34.       En mars 2026, les partenaires sociaux se sont mis d’accord
+Cette question reste ouverte et complique le traitement de        sur le fait de réduire la durée maximum d’indemnisation de
+certaines difficultés structurelles. En particulier, l’assurance  18 à 15 mois pour les ruptures conventionnelles. Dans de
+chômage demeure mal articulée avec le reste du système de         nombreux pays, les séparations par consentement mutuel
+protection sociale, avec les retraites ou les minima sociaux,     (l’équivalent des ruptures conventionnelles) donnent droit à
+mais aussi avec le système socio-fiscal dans son ensemble.        l’assurance chômage mais avec une pénalité, qui prend sou-
+L’assurance chômage, même s’il ne s’agit pas de sa vocation       vent la forme d’un délai de carence d’environ 2 mois. Dans
+première, contribue à la redistribution entre les hauts et les    le cas présent, les partenaires sociaux ont opté pour une
+bas revenus 35. De ce point de vue, si l’incitation au retour à   pénalité sous la forme d’une réduction de la durée des droits.
+l’emploi est toujours importante, elle est cruciale pour les      Notre analyse suggère que ce type de réforme peut générer
+hauts revenus qui sont à la fois des contributeurs importants     des effets comportementaux significatifs, mais qu’il faut être
+aux ressources du système et à la productivité du pays. Des       vigilant à la valeur de l’assurance pour le public affecté. Le pu-
+travaux récents 36 montrent qu’il peut être souhaitable que les   blic affecté par les ruptures conventionnelles est légèrement
+taux de remplacement soient davantage décroissants avec le        plus favorisé que le demandeur d’emploi médian, avec une
+niveau de salaire passé pour accroître les incitations pour les   proportion plus élevée de cadres (25 % contre 10 %) et une
+hauts salaires. Nos indices EDP vont d’ailleurs dans ce sens :    allocation moyenne supérieure (1590€ contre 1170€ pour
+ils indiquent qu’un ajustement du montant d’allocation en haut    l’ensemble des allocataires 37. Il est donc probable que l’indice
+de la distribution pourrait améliorer l’efficacité du système.    EDP associé à ce type de mesure soit plus faible que celui
+                                                                  estimé pour l’ensemble des demandeurs d’emploi et, donc,
+Au-delà de ces deux axes, d’autres dimensions mériteraient        que la réduction de la durée potentielle d’indemnisation pour
+d’être explorées : le délai de carence, l’articulation entre      ce public puisse être pertinente. ■
+
+34 Cahuc P., Carcillo S. et Landais C. (2021) : « Repenser l’assurance-chômage : règles et gouvernance », Les Notes du CAE n° 61, janvier.
+35 Fontaine F. et Vidalenc B. (2020) : « L’assurance chômage, miroir de la segmentation du marché du travail », IPP, Note 58.
+36 Ferey A. (2022): « Redistribution and Unemployment Insurance », Working Paper.
+37 Unédic (2026) : « Panorama statistique sur les ruptures conventionnelles », février.
+
+                                               Le Conseil d’analyse économique, créé auprès du Premier ministre, a pour mission d’éclairer,
+                                               par la confrontation des points de vue et des analyses de ses membres,
+                                               les choix du gouvernement en matière économique.
+
+Président délégué Xavier Jaravel               Membres Adrien Auclert, Emmanuelle                   Les Notes du Conseil d’analyse économique
+Secrétaire général Augustin Vicard             Auriol, Antonin Bergeaud, Antoine Bozio,             ISSN 2273-8525
+                                               François Fontaine, Julien Grenet, Fanny Henriet,
+Conseillers scientifiques                      Xavier Jaravel, Florence Jusot, Sébastien Jean,      Directeur de la publication Xavier Jaravel
+Jean Beuve, Samuel Delpeuch,                   Isabelle Méjean, Thomas Philippon, Vincent Pons,     Directeur de la rédaction Augustin Vicard
+Claudine Desrieux, Arthur Poirier              Xavier Ragot, Alexandra Roulet, Katheline Schubert,  Réalisation Hélène Spoladore
+                                               Emmanuelle Taugourdeau, Jean Tirole
+Économistes/Chargés d’études                                                                        Contact presse Hélène Spoladore
+Nicolas Grimprel, Lucie Huang, Alice Lapeyre,  Correspondants                                       helene.spoladore@cae-eco.fr
+Antoine Lopes, Rose Salaün                     Dominique Bureau, Benoît Mojon, Anne Perrot,         Tél. : 01 42 75 77 47 — 07 88 87 55 44
+                                               Aurélien Saussay, Ludovic Subran
+Assistante du président délégué
+Orkia Saïb
+
+Les notes du conseil d’TaSnAa2l0y7s2e7 é75c3o3n4oPmariisqCueede,xn0°7 9—0@CAE-eco(LinkedIn) @caeeco.bsky.social
+
