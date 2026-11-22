@@ -1,0 +1,53 @@
+{
+  "cour": {
+    "source": "Cour des comptes, RALFSS 2026, chapitre VIII, tableau 26, p. 267, note 375. Journées 2024. Montants bruts et nets arrondis au million d’euros.",
+    "url": "https://www.ccomptes.fr/sites/default/files/2026-05/20260527-RALFSS-2026-8-Hospitalisations-inadequates.pdf",
+    "colonnes": ["champ", "journees", "cout_moyen_euros", "brut_millions_euros", "net_millions_euros"],
+    "lignes": [
+      ["Court séjour", 2714867, 765, 2076, 746],
+      ["Réadaptation", 3943798, 373, 1471, 1012],
+      ["Psychiatrie", 4190074, 501, 2099, 1413]
+    ],
+    "total_publie_jours_brut_net": [10848739, 5646, 3171],
+    "couts_journaliers_exemples_note_375": {"hospitalisation_a_domicile":263,"secteur_handicap":276,"foyer":141,"ehpad":72,"hebergement_et_readaptation_sociale":44}
+  },
+  "tinland": {
+    "source": "Tinland et al. (2020), fig. 1 p. 4, tableaux 2 et 3 pp. 6–7. Valeurs moyennes par personne sur 24 mois. Valorisation aux tarifs nationaux et coûts unitaires de 2016. Les RR et leurs IC à 95 % viennent des modèles des auteurs.",
+    "url": "https://doi.org/10.1017/S2045796020000785",
+    "randomises_intervention_habituel": [353, 350],
+    "colonnes": ["indicateur", "intervention", "habituel", "RR", "IC95_bas", "IC95_haut"],
+    "lignes": [
+      ["Jours hospitalisés", 51.8, 83.6, 0.62, 0.48, 0.80],
+      ["Admissions", 2.05, 2.11, 0.96, 0.76, 1.21],
+      ["Passages aux urgences", 2.20, 2.47, 0.89, 0.66, 1.21],
+      ["Santé (€)", 29454, 47570, 0.62, 0.48, 0.78],
+      ["Hébergement usuel (€)", 687, 8963, 0.07, 0.05, 0.11],
+      ["Justice (€)", 5723, 7319, 0.77, 0.55, 1.09],
+      ["Prestations monétaires (€)", 15442, 14043, 1.10, 1.03, 1.17],
+      ["Total publié, programme compris (€)", 76808, 76825, 1.03, 0.75, 1.42]
+    ],
+    "p_total_tableau_3": 0.808,
+    "ecart_total_annonce_resume_euros": -217
+  },
+  "diva": {
+    "source": "CEMKA, rapport d’évaluation final DiVa-2, juillet 2025. Résultats du comparatif randomisé DiVa-1, pp. 19–20 et 46, tableaux 19–21 pp. 49–51. Remboursements moyens cumulés en euros par patient à 24 mois, hors séjour index, forfaits dérogatoires inclus. Le texte sous chaque tableau confirme l’attribution aux bras.",
+    "url": "https://sante.gouv.fr/IMG/pdf/2024-028_-_cemka_-_diva_2_-_rapport_d_evaluation_final_rf.pdf",
+    "colonnes": ["parcours", "poste", "intensif", "habituel", "p_comparaison_publiee"],
+    "lignes": [
+      ["AVC", "Total", 19080, 14748, 0.0033],
+      ["AVC", "Hôpital", 10753, 8483, 0.0016],
+      ["AVC", "Ville", 8327, 6265, 0.0071],
+      ["Infarctus", "Total", 22352, 17261, 0.0321],
+      ["Infarctus", "Hôpital", 13614, 9642, 0.0045],
+      ["Infarctus", "Ville", 8738, 7619, 0.8921]
+    ],
+    "effectifs_tableaux_couts_deux_ans_tous_bras": {"AVC":338,"Infarctus":312},
+    "hospitalisations_completes_non_programmees_deux_ans": {"population":"deux pathologies réunies","intensif_pourcent":19.6,"habituel_pourcent":22.2,"p_comparaison_publiee":0.4817}
+  },
+  "hotels": {
+    "source": "Ministère des Solidarités et de la Santé, rapport au Parlement, juin 2020, pp. 24–27. Graphique p. 27, compte du projet au CHU de Montpellier sur 2017–18, euros cumulés. Exemple du lit, p. 26.",
+    "url": "https://sante.gouv.fr/IMG/pdf/rapport_parlement_hotels_hospitaliers.pdf",
+    "copie_rapport_ministeriel": "https://www.apmnews.com/documents/202009011612060.Rapport_au_Parlement-Hotels_hospitaliers.pdf",
+    "montpellier": {"depenses":89000,"recettes":91000,"lit_reaffecte_quelques_mois_2018":1}
+  }
+}

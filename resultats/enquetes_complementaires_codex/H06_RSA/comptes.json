@@ -1,0 +1,37 @@
+{
+  "unite": "euro courant, sauf mention contraire",
+  "senat": {
+    "source": "https://www.senat.fr/rap/r23-771/r23-7711.pdf",
+    "localisation": "Rapport 771, pages imprimees 43 et 49 ; recettes lignees dans l'ordre du tableau page 43. Donnees 2023 provisoires.",
+    "postes_repris_2023": ["fraction_TICPE", "FMDI", "DCP", "20_pct_DMTO", "DGF_compensation", "DGF_forfaitaire"],
+    "2022": {
+      "66": {"depense": 150099447, "reprises": 136934363},
+      "93": {"depense": 540095771, "reprises": 518240541}
+    },
+    "2023": {
+      "09": {"depense": 40900000, "reprises": 38113828, "detail": [17605510, 2085301, 7054113, 4158168, 6890399, 320337]},
+      "66": {"depense": 158500000, "reprises": 136856744, "detail": [68261139, 6608527, 11565791, 28380226, 12470128, 9570933]},
+      "93": {"depense": 547400000, "reprises": 503645349, "detail": [233659678, 25457439, 36732723, 43741678, 27205179, 136848652]}
+    },
+    "eligibles_metropole_non_traites": ["02", "08", "11", "30", "59", "62"],
+    "date_entree": {"09": 2023, "66": 2022, "93": 2022}
+  },
+  "aude": {
+    "source": "https://www.aude.fr/sites/default/files/media/downloads/rapports%20et%20d%C3%A9lib%20CA%202023%20compil%C3%A9s_0.pdf",
+    "localisation": "CA 2023, annexe 1 Depenses reelles de fonctionnement. Exercice 2022 (colonne CA 2022) et 2023 (CA 2023). B25 est inclus dans B2.",
+    "2022": {"B1_allocations_regularisations": 97785929.23, "B2_insertion_professionnelle": 9960782.71, "B25_fonds_social_europeen": 319884.14},
+    "2023": {"B1_allocations_regularisations": 99644718.16, "B2_insertion_professionnelle": 12454605.03, "B25_fonds_social_europeen": 2475191.07}
+  },
+  "ssd": {
+    "source": "https://seinesaintdenis.fr/actualite/emploi-entrepreneuriat/Renationalisation-du-financement-du-RSA%C2%A0-quel-bilan-3-ans-apres%C2%A0/",
+    "localisation": "Bilan du departement du 31 janvier 2025, rubrique Quelles transformations. Budgets arrondis, en millions d'euros.",
+    "budget_2021_MEUR": 22,
+    "budget_2023_MEUR": 44
+  },
+  "rap_2025": {
+    "source": "https://www.budget.gouv.fr/documentation/file-download/32596",
+    "localisation": "Programme 304, action 11, rubrique RSA RECENTRALISE, experimentation en metropole seule. Millions d'euros.",
+    "credits_ouverts_MEUR": 804.9,
+    "execution_MEUR": 800.9
+  }
+}

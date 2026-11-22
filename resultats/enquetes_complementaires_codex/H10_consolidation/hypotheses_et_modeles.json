@@ -1,0 +1,14 @@
+{
+  "description": "Transcriptions des tableaux publiés. Identifiants des sources et unités dans le rapport.",
+  "effort_cumule_2011_2013_CE_tableau_4": {"DE": 2.61, "EL": 8.91, "ES": 4.45, "IE": 4.04, "IT": 3.95, "PT": 6.73},
+  "annees": [2011, 2012, 2013, 2014, 2015],
+  "tresor_impact_niveau_pib_total": [-1.10, -2.43, -3.54, null, null],
+  "tresor_impact_niveau_pib_etranger": [-0.25, -0.89, -1.67, null, null],
+  "ofce_impact_croissance_france_demande_etrangere": [-0.3, -0.7, -0.5, -0.2, -0.2],
+  "fmi_impact_croissance_france_etranger_central": [null, -0.2, -0.1, -0.1, null],
+  "fmi_impact_croissance_france_etranger_multiplicateur_haut": [null, -0.3, -0.2, -0.2, null],
+  "quest_impact_niveau_pib_paquet_2011_2013": [-1.39, -2.93, -4.78, -2.68, -1.28],
+  "quest_impact_solde_paquet_2011_2013": [0.87, 1.29, 1.88, 2.82, 3.84],
+  "quest_effort_francais_cumule_2011_2013": 3.68,
+  "semi_elasticite_france_millesime_2014": 0.603
+}

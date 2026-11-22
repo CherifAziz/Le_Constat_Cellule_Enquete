@@ -1,0 +1,30 @@
+serie,cle,valeur,unite,source,repere
+brionne,estimation_2019,400000,EUR,Senat_2019,visite en Normandie
+brionne,montant_annonce_2021,275000,EUR,Ville_Brionne_2021,bulletin numero 12 p. 15 chantier en cours
+lievin,indemnisation_ancienne_charpente,471770.13,EUR,CAA_Douai_2023,point 3
+lievin,part_entretien_et_vetuste,70,pourcent,CAA_Douai_2023,points 6 et 91
+lievin,part_sous_traitant,10,pourcent,CAA_Douai_2023,point 6
+lievin,part_maitrise_oeuvre,10,pourcent,CAA_Douai_2023,point 6
+lievin,part_controle_technique,10,pourcent,CAA_Douai_2023,point 6
+bonheur,vehicules_par_jour,110,vehicules/jour,STRRES_2025,pont du Bonheur valeur approximative
+bonheur,detour_par_franchissement,3,km,STRRES_2025,pont du Bonheur hypothese de fermeture
+bonheur,fermeture_modelee,3,ans,STRRES_2025,pont du Bonheur hypothese de fermeture
+seine_marne,fonctionnement_2023,12.1,MEUR,CRC_77_2025,tableau 10
+seine_marne,investissement_2023,31.9,MEUR,CRC_77_2025,tableau 10
+seine_marne,total_publie_2023,37.4,MEUR,CRC_77_2025,tableau 10
+fhwa_wf,sections_traitees,19,sections,FHWA_2017,tableau 37 thin overlay
+fhwa_wf,sections_temoins,21,sections,FHWA_2017,tableau 37 thin overlay
+fhwa_wf,duree_traitees,16,ans,FHWA_2017,tableau 37 RFP IRI
+fhwa_wf,duree_temoins,11,ans,FHWA_2017,tableau 37 RFP IRI
+fhwa_wnf,sections_traitees,23,sections,FHWA_2017,tableau 37 thin overlay
+fhwa_wnf,sections_temoins,29,sections,FHWA_2017,tableau 37 thin overlay
+fhwa_wnf,duree_traitees,18,ans,FHWA_2017,tableau 37 RFP IRI
+fhwa_wnf,duree_temoins,14,ans,FHWA_2017,tableau 37 RFP IRI
+fhwa_df,sections_traitees,13,sections,FHWA_2017,tableau 37 thin overlay
+fhwa_df,sections_temoins,13,sections,FHWA_2017,tableau 37 thin overlay
+fhwa_df,duree_traitees,17,ans,FHWA_2017,tableau 37 RFP IRI
+fhwa_df,duree_temoins,12,ans,FHWA_2017,tableau 37 RFP IRI
+fhwa_dnf,sections_traitees,3,sections,FHWA_2017,tableau 37 thin overlay
+fhwa_dnf,sections_temoins,4,sections,FHWA_2017,tableau 37 thin overlay
+fhwa_dnf,duree_traitees,9,ans,FHWA_2017,tableau 37 RFP IRI
+fhwa_dnf,duree_temoins,11,ans,FHWA_2017,tableau 37 RFP IRI
